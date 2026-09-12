@@ -58,7 +58,7 @@ async function fetchRssSource(source) {
     const parsed = parser.parse(xml);
     const rawItems = toItemArray(parsed?.rss?.channel?.item);
 
-    return rawItems
+    const items = rawItems
       .map((item) => {
         const title = stripHtml(item.title);
         const link = typeof item.link === 'string' ? item.link.trim() : '';
@@ -76,6 +76,17 @@ async function fetchRssSource(source) {
         };
       })
       .filter(Boolean);
+
+    // דיאגנוסטיקה: אם הפרסור החזיר 0 פריטים אחרי סינון למרות שה-XML
+    // עצמו הכיל <item> - כנראה שדה (למשל pubDate) לא בפורמט צפוי. מדפיס
+    // את הפריט הגולמי הראשון כדי לאבחן מה-Action logs בלי גישת רשת מקומית.
+    if (items.length === 0 && rawItems.length > 0) {
+      console.warn(
+        `[fetch-news] [${source.key}] ${rawItems.length} <item> נמצאו ב-XML אך 0 עברו סינון. דוגמה: ${JSON.stringify(rawItems[0]).slice(0, 500)}`
+      );
+    }
+
+    return items;
   } catch (error) {
     console.error(`[fetch-news] נכשל שליפת מקור ${source.name}: ${error.message}`);
     return [];
@@ -98,7 +109,10 @@ async function fetchPlaywrightSource(source) {
     const page = await browser.newPage({
       userAgent: 'Mozilla/5.0 (compatible; NewslyBot/1.0)',
     });
-    await page.goto(source.url, { waitUntil: 'networkidle', timeout: FETCH_TIMEOUT_MS * 2 });
+    // 'networkidle' נתקע באתרים עם קריאות רקע מתמשכות (פרסום/אנליטיקס) -
+    // מסתפקים ב-DOM טעון ומוסיפים המתנה קצרה לרינדור צד-לקוח (SPA).
+    await page.goto(source.url, { waitUntil: 'domcontentloaded', timeout: FETCH_TIMEOUT_MS * 2 });
+    await page.waitForTimeout(3000);
 
     const rawLinks = await page.$$eval('a[href]', (anchors) =>
       anchors.map((a) => ({ href: a.getAttribute('href') ?? '', text: a.textContent ?? '' }))
