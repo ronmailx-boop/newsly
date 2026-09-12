@@ -1,6 +1,7 @@
 // הגדרת מקורות החדשות. כדי להוסיף מקור RSS חדש - פשוט מוסיפים אובייקט לרשימה.
-// מקורות עתידיים שדורשים גישה שאינה RSS (למשל N12/מאקו עם Playwright) יקבלו
-// type: 'playwright' ופונקציית fetch משלהם ב-fetch-news.mjs, בלי לשנות את שאר הצינור.
+// מקור עתידי שדורש גישה שאינה RSS (למשל scraping עם Playwright, למקור בלי
+// RSS ציבורי ושלא חוסם בוטים) יכול לקבל type משלו + פונקציית fetch תואמת
+// ב-fetch-news.mjs, בלי לשנות את שאר הצינור (ראו PROJECT_STATE.md).
 export const sources = [
   {
     key: 'ynet',
@@ -26,22 +27,11 @@ export const sources = [
     type: 'rss',
     url: 'https://www.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942',
   },
-  {
-    key: 'calcalist',
-    name: 'כלכליסט',
-    type: 'rss',
-    // כתובת לא מאומתת ידנית (אין גישת רשת לבדיקה בסביבת הפיתוח) - נבדקת
-    // מול ריצת ה-GitHub Action בפועל. אם מחזירה 0 פריטים/שגיאה, לתקן כאן.
-    url: 'https://www.calcalist.co.il/GeneralRSS/0,7340,L-3695,00.xml',
-  },
-  {
-    key: 'n12',
-    name: 'N12',
-    type: 'playwright',
-    url: 'https://www.n12.co.il/',
-    // אין RSS זמין ל-N12 - נשלף מהעמוד הראשי דרך דפדפן headless.
-    // הסלקטור ב-fetch-news.mjs (fetchPlaywrightSource) הוא ניחוש מיטבי
-    // ראשוני שנבדק ומתוקן מול ריצות אמיתיות של ה-Action (יש לו גישת רשת
-    // אמיתית, בניגוד לסביבת הפיתוח).
-  },
 ];
+
+// מקורות שנבדקו ונדחו בכוונה - ראו PROJECT_STATE.md לפרטים המלאים:
+// - כלכליסט: אין RSS ציבורי (5 כתובות מנוחשות החזירו 404, ואין תג
+//   <link rel="alternate" type="application/rss+xml"> בעמוד הבית).
+// - N12: מוגן בפועל ע"י Radware Bot Manager - השליפה נחסמה ברמת
+//   התשתית (עמוד "not a bot" עם IP/trace ID), לא בעיית סלקטור. אין
+//   לנסות לעקוף מנגנון אנטי-בוט מוצהר של אתר.
