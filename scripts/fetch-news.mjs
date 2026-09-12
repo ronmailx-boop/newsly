@@ -110,13 +110,24 @@ async function fetchPlaywrightSource(source) {
       userAgent: 'Mozilla/5.0 (compatible; NewslyBot/1.0)',
     });
     // 'networkidle' נתקע באתרים עם קריאות רקע מתמשכות (פרסום/אנליטיקס) -
-    // מסתפקים ב-DOM טעון ומוסיפים המתנה קצרה לרינדור צד-לקוח (SPA).
-    await page.goto(source.url, { waitUntil: 'domcontentloaded', timeout: FETCH_TIMEOUT_MS * 2 });
-    await page.waitForTimeout(3000);
+    // מסתפקים ב-'load' (יציב יותר מ-domcontentloaded מול אתרי SPA) ומוסיפים
+    // המתנה לרינדור צד-לקוח. גם אחרי זה, לאתרים מסוימים יש עוד ניווט/רידיירקט
+    // פנימי שהורס את ה-execution context - לכן יש רה-טריי אחד ל-$$eval.
+    await page.goto(source.url, { waitUntil: 'load', timeout: FETCH_TIMEOUT_MS * 2 });
+    await page.waitForTimeout(4000);
 
-    const rawLinks = await page.$$eval('a[href]', (anchors) =>
-      anchors.map((a) => ({ href: a.getAttribute('href') ?? '', text: a.textContent ?? '' }))
-    );
+    let rawLinks;
+    try {
+      rawLinks = await page.$$eval('a[href]', (anchors) =>
+        anchors.map((a) => ({ href: a.getAttribute('href') ?? '', text: a.textContent ?? '' }))
+      );
+    } catch (error) {
+      console.warn(`[fetch-news] [${source.key}] $$eval ראשון נכשל (${error.message}) - ממתין ומנסה שוב`);
+      await page.waitForTimeout(3000);
+      rawLinks = await page.$$eval('a[href]', (anchors) =>
+        anchors.map((a) => ({ href: a.getAttribute('href') ?? '', text: a.textContent ?? '' }))
+      );
+    }
 
     // דיאגנוסטיקה ל-Action logs - עוזרת לכוונן את הסלקטור מול המבנה
     // האמיתי של האתר, בלי גישת רשת מסביבת הפיתוח.

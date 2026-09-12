@@ -17,3 +17,17 @@ for (const url of candidates) {
     console.log(`[probe] ${url} -> ERROR ${error.message}`);
   }
 }
+
+// חיפוש תג <link rel="alternate" type="application/rss+xml"> בעמוד הבית -
+// זו הדרך התקנית שבה אתרים מכריזים על כתובת ה-RSS שלהם, אמינה יותר
+// מניחוש דפוסי URL.
+try {
+  const homepageUrl = 'https://www.calcalist.co.il/';
+  const res = await fetch(homepageUrl, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NewslyBot/1.0)' } });
+  const html = await res.text();
+  const matches = [...html.matchAll(/<link[^>]+rss\+xml[^>]*>/gi)];
+  console.log(`[probe] ${homepageUrl} -> HTTP ${res.status}, ${matches.length} rss+xml <link> tags found`);
+  for (const m of matches) console.log(`[probe] link tag: ${m[0]}`);
+} catch (error) {
+  console.log(`[probe] homepage rss+xml search -> ERROR ${error.message}`);
+}
