@@ -90,6 +90,12 @@ async function fetchRssSource(source) {
       console.warn(
         `[fetch-news] [${source.key}] ${rawItems.length} <item> נמצאו ב-XML אך 0 עברו סינון. דוגמה: ${JSON.stringify(rawItems[0]).slice(0, 500)}`
       );
+    } else if (rawItems.length > 0) {
+      // דיאגנוסטיקה זמנית: לוודא שה-pubDate מתפרש נכון (לא רק "לא null"
+      // אלא לתאריך סביר) - כדי לשלול גיזום שקט על ידי pruneOldItems.
+      console.log(
+        `[fetch-news] [${source.key}] ${items.length}/${rawItems.length} עברו סינון. pubDate גולמי ראשון: ${JSON.stringify(rawItems[0].pubDate)} -> ${items[0]?.pubDate}`
+      );
     }
 
     return items;
