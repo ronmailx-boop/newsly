@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Probe Globes RSS directory (temporary)
-        run: node scripts/_probe-globes.mjs
-
       - name: Fetch and merge RSS feeds
         run: npm run fetch-news
 

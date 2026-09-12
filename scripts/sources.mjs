@@ -21,15 +21,15 @@ export const sources = [
     type: 'rss',
     url: 'https://www.maariv.co.il/rss/rssfeedschadashot',
   },
-  {
-    key: 'globes',
-    name: 'גלובס',
-    type: 'rss',
-    url: 'https://www.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942',
-  },
 ];
 
 // מקורות שנבדקו ונדחו בכוונה - ראו PROJECT_STATE.md לפרטים המלאים:
+// - גלובס: iID=942 (שהיה מאונדקס כ-"Front - Globes") מחזיר XML תקין
+//   אבל עם כותרות שלא מתעדכנות בזמן אמת - הריצות השונות החזירו תאריכים
+//   ישנים ומשתנים (3 בספטמבר, ואז 31 באוגוסט בריצה מאוחרת יותר) - נראה
+//   שזה לא הפיד הכרונולוגי הנכון. לא הצלחתי לאתר את ה-iID הנכון
+//   אוטומטית מתוך https://www.globes.co.il/news/RSS.tag (בלי גישת רשת
+//   ישירה מסביבת הפיתוח, וניתוח ה-HTML האוטומטי לא היה חד-משמעי).
 // - כלכליסט: אין RSS ציבורי (5 כתובות מנוחשות החזירו 404, ואין תג
 //   <link rel="alternate" type="application/rss+xml"> בעמוד הבית).
 // - N12: מוגן בפועל ע"י Radware Bot Manager - השליפה נחסמה ברמת

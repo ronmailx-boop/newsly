@@ -57,9 +57,9 @@ async function fetchRssSource(source) {
     const parsed = parser.parse(xml);
     const rawItems = toItemArray(parsed?.rss?.channel?.item);
 
-    // דיאגנוסטיקה זמנית: אם אין <item> תחת rss.channel בכלל, ייתכן שהעץ
-    // שונה (Atom <feed><entry>, שם namespace, redirect וכו') - מדפיס את
-    // תחילת ה-XML הגולמי כדי לאבחן את המבנה האמיתי מה-Action logs.
+    // אם אין <item> תחת rss.channel בכלל, ייתכן שהעץ שונה (Atom
+    // <feed><entry>, namespace, redirect וכו') - מדפיס את תחילת ה-XML
+    // הגולמי כדי לאבחן את המבנה האמיתי מה-Action logs.
     if (rawItems.length === 0) {
       console.warn(`[fetch-news] [${source.key}] 0 <item> תחת rss.channel. תחילת XML: ${xml.slice(0, 300)}`);
     }
@@ -91,10 +91,11 @@ async function fetchRssSource(source) {
         `[fetch-news] [${source.key}] ${rawItems.length} <item> נמצאו ב-XML אך 0 עברו סינון. דוגמה: ${JSON.stringify(rawItems[0]).slice(0, 500)}`
       );
     } else if (rawItems.length > 0) {
-      // דיאגנוסטיקה זמנית: לוודא שה-pubDate מתפרש נכון (לא רק "לא null"
-      // אלא לתאריך סביר) - כדי לשלול גיזום שקט על ידי pruneOldItems.
+      // בדיקת תקינות קלה: מה-Action logs אפשר לראות אם מקור מסוים מחזיר
+      // תאריכים ישנים באופן עקבי (למשל feed לא-כרונולוגי) - כל הפריטים
+      // שלו ייגזמו בשקט על ידי pruneOldItems בלי שזה ייראה כשגיאה.
       console.log(
-        `[fetch-news] [${source.key}] ${items.length}/${rawItems.length} עברו סינון. pubDate גולמי ראשון: ${JSON.stringify(rawItems[0].pubDate)} -> ${items[0]?.pubDate}`
+        `[fetch-news] [${source.key}] ${items.length}/${rawItems.length} עברו סינון. pubDate ראשון: ${items[0]?.pubDate}`
       );
     }
 
