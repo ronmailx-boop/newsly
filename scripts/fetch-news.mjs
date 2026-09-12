@@ -42,6 +42,17 @@ function parsePubDate(rawDate) {
   return Number.isNaN(parsed.getTime()) ? null : parsed;
 }
 
+// רוב הפידים משתמשים ב-<link>טקסט</link> רגיל, אבל יש כאלה (למשל הקול
+// היהודי) שמשתמשים בתגית Atom בשם-מרחב כמו <a10:link href="..."/> -
+// בלי הטיפול הזה כל הפריטים שלהם היו נופלים על "אין link" ומסוננים.
+function extractLink(item) {
+  if (typeof item.link === 'string') return item.link.trim();
+  if (item.link && typeof item.link['@_href'] === 'string') return item.link['@_href'].trim();
+  const atomLink = item['a10:link'] ?? item['atom:link'];
+  if (atomLink && typeof atomLink['@_href'] === 'string') return atomLink['@_href'].trim();
+  return '';
+}
+
 async function fetchRssSource(source) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -67,7 +78,7 @@ async function fetchRssSource(source) {
     const items = rawItems
       .map((item) => {
         const title = stripHtml(item.title);
-        const link = typeof item.link === 'string' ? item.link.trim() : '';
+        const link = extractLink(item);
         const summary = truncate(stripHtml(item.description), MAX_SUMMARY_LENGTH);
         const pubDate = parsePubDate(item.pubDate);
         if (!title || !link || !pubDate) return null;
