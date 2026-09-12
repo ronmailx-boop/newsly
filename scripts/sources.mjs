@@ -21,6 +21,26 @@ export const sources = [
     type: 'rss',
     url: 'https://www.maariv.co.il/rss/rssfeedschadashot',
   },
+  {
+    key: 'israelhayom',
+    name: 'ישראל היום',
+    type: 'rss',
+    url: 'https://www.israelhayom.co.il/rss.xml',
+  },
+  {
+    key: 'kikar',
+    name: 'כיכר השבת',
+    type: 'rss',
+    url: 'https://a.kikar.co.il/v1/rss/scoop-news/latest/rss2',
+  },
+  {
+    key: 'hakolhayehudi',
+    name: 'הקול היהודי',
+    type: 'rss',
+    // הפיד הזה כבד (כ-8MB, כנראה ארכיון גדול לא רק חדשות אחרונות) -
+    // הפרסור/גיזום שלנו מטפלים בזה כרגיל, רק לוקח קצת יותר זמן בריצה.
+    url: 'https://www.hakolhayehudi.co.il/rss/news',
+  },
 ];
 
 // מקורות שנבדקו ונדחו בכוונה - ראו PROJECT_STATE.md לפרטים המלאים:
@@ -35,3 +55,8 @@ export const sources = [
 // - N12: מוגן בפועל ע"י Radware Bot Manager - השליפה נחסמה ברמת
 //   התשתית (עמוד "not a bot" עם IP/trace ID), לא בעיית סלקטור. אין
 //   לנסות לעקוף מנגנון אנטי-בוט מוצהר של אתר.
+// - ביזפורטל: 403 על כל נתיב שנוסה, כולל דף הבית הרגיל - נראה כמו
+//   הגנת WAF/אנטי-בוט (תבנית עמוד חסימה טיפוסית ל-Incapsula/Imperva).
+//   לא ניסיתי לעקוף.
+// - דה מרקר: 403 על כל נתיב, כולל דף הבית - אותה תבנית חסימה כמו
+//   ביזפורטל. לא ניסיתי לעקוף.
