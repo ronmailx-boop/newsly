@@ -19,6 +19,7 @@
   let autoplayTimer = null;
   let observer = null;
   let speedSeconds = loadSpeedSetting();
+  let wakeLock = null;
 
   function loadSpeedSetting() {
     try {
@@ -125,8 +126,45 @@
     }
   }
 
+  // מונע כיבוי מסך אוטומטי בזמן גלילה אוטומטית (Screen Wake Lock API) -
+  // נתמך ברוב הדפדפנים המודרניים; אם לא נתמך, פשוט לא עושה כלום
+  // (הגלילה האוטומטית עצמה ממשיכה לעבוד כרגיל).
+  async function requestWakeLock() {
+    if (wakeLock || !('wakeLock' in navigator)) return;
+    try {
+      wakeLock = await navigator.wakeLock.request('screen');
+      wakeLock.addEventListener('release', () => {
+        wakeLock = null;
+      });
+    } catch {
+      // נכשל (למשל הדפדפן דורש שהדף יהיה גלוי/בפוקוס) - לא קריטי
+    }
+  }
+
+  function releaseWakeLock() {
+    wakeLock?.release();
+    wakeLock = null;
+  }
+
+  function syncWakeLock() {
+    if (speedSeconds === 'off' || visibleItems.length <= 1) {
+      releaseWakeLock();
+    } else {
+      requestWakeLock();
+    }
+  }
+
+  // המערכת משחררת את ה-wake lock אוטומטית כשהדף לא גלוי (למשל מעבר
+  // אפליקציה) - צריך לבקש אותו מחדש כשחוזרים אליו.
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') {
+      syncWakeLock();
+    }
+  });
+
   function scheduleAutoplay() {
     stopAutoplay();
+    syncWakeLock();
     if (speedSeconds === 'off') return;
     if (visibleItems.length <= 1) return;
     autoplayTimer = setTimeout(() => {
