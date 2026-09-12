@@ -1,0 +1,45 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  # GITHUB_TOKEN-ל push-ים (כמו ה-commit האוטומטי של fetch-news.yml) לא
+  # מפעילים workflows אחרים ב-`on: push` - זה מנגנון הגנה של GitHub מפני
+  # לולאות אינסופיות. workflow_run כן מופעל במקרה כזה, אז זה מה שמבטיח
+  # שריענון הנתונים כל 15 דקות אכן יגיע ל-Pages החי.
+  workflow_run:
+    workflows: ["Fetch news"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

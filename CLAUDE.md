@@ -51,6 +51,14 @@
 - **ארכיטקטורה:** סטטי טהור (לא PWA) - GitHub Pages + GitHub Action
   שכותב `data/news.json` + commit-back. אין build step, אין Firebase
   בפרונט כרגע. פרטים מלאים ב-`PROJECT_STATE.md`.
+- **פריסה (Deploy):** GitHub Pages מוגדר עם Source = **GitHub Actions**
+  (לא "Deploy from a branch" - זה גרם לבנייה ישנה שנתקעת ולא מתעדכנת
+  אוטומטית). הפריסה עצמה קורית דרך `.github/workflows/deploy-pages.yml`,
+  שרץ גם על `push` ל-`main` וגם דרך `workflow_run` אחרי שה-`Fetch news`
+  workflow מסיים (כי commit-ים שנעשים עם ה-`GITHUB_TOKEN` הפנימי לא
+  מפעילים workflows אחרים ב-`on: push` - הגנת GitHub מפני לולאות). **אל
+  תשנה את Source חזרה ל-"Deploy from a branch"** בלי לעדכן גם את
+  ה-workflow הזה.
 - **מקורות RSS:** מוגדרים במקום אחד - `scripts/sources.mjs`. הוספת מקור
   RSS חדש = הוספת אובייקט אחד למערך + כפתור טאב ב-`index.html`, בלי
   לגעת בלוגיקת השליפה/מיזוג.
