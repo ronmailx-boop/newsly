@@ -1,0 +1,13 @@
+{
+  "name": "newsly",
+  "version": "1.0.0",
+  "private": true,
+  "description": "מרכז חדשות ישראלי - שולף כותרות RSS ומציג אותן כפיד סטטי",
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}

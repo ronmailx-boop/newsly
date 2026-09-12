@@ -45,3 +45,26 @@
   - `docs/legal/cookie-policy.md` (Cookie Policy)
   - `docs/legal/accessibility-statement.md` (Accessibility Statement - IS 5568 / WCAG 2.1 AA)
 - **Language & Formatting:** Written in formal Hebrew, formatted in clean Markdown with placeholders like `[PLACEHOLDER]` where specific dynamic context is needed.
+
+## Newsly - קונבנציות ספציפיות לפרויקט
+
+- **ארכיטקטורה:** סטטי טהור (לא PWA) - GitHub Pages + GitHub Action
+  שכותב `data/news.json` + commit-back. אין build step, אין Firebase
+  בפרונט כרגע. פרטים מלאים ב-`PROJECT_STATE.md`.
+- **מקורות RSS:** מוגדרים במקום אחד - `scripts/sources.mjs`. הוספת מקור
+  RSS חדש = הוספת אובייקט אחד למערך + כפתור טאב ב-`index.html`, בלי
+  לגעת בלוגיקת השליפה/מיזוג.
+- **`scripts/fetch-news.mjs`:** אחראי על שליפה מקבילית, ניקוי HTML
+  מתקצירים, דה-דופליקציה בסיסית, גיזום לפי `KEEP_DAYS`, ומיזוג עם
+  הנתונים הקיימים. אל תריץ שליפה טורית (sequential) - תמיד `Promise.all`.
+  אל תוסיף תלות (dependency) כבדה לפרסור XML - `fast-xml-parser` מספיק.
+- **`data/news.json`:** מקור האמת היחיד לפרונט. סכימה: `{ updatedAt,
+  sources, items: [{ id, title, summary, link, source, sourceKey,
+  pubDate }] }`. אל תשנה סכימה בלי לעדכן גם את `js/app.js`.
+- **פרונט:** Vanilla HTML/CSS/JS בלבד, בלי framework/bundler. תמיד
+  `textContent` (לא `innerHTML`) כשמציגים תוכן שמגיע מ-JSON חיצוני, כדי
+  למנוע XSS מתוכן RSS לא נקי.
+- **בדיקות ל-Action:** אי אפשר לבדוק מול פידי ה-RSS האמיתיים מסביבת
+  הפיתוח (רשת חסומה לאתרים חיצוניים חוץ מ-npm) - יש לבדוק לוגיקה מול
+  שרת HTTP מקומי מדומה, והבדיקה האמיתית מול המקורות היא הריצה הראשונה
+  של ה-Action בפרודקשן.
