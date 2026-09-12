@@ -237,8 +237,35 @@
     } catch (error) {
       console.error('שגיאה בטעינת החדשות:', error);
       reelsEl.innerHTML = '';
-      statusEl.textContent = 'לא ניתן לטעון את החדשות כרגע. בדוק/י את החיבור לאינטרנט ונסה/י שוב מאוחר יותר.';
-      reelsEl.append(statusEl);
+
+      const wrapper = document.createElement('div');
+      wrapper.className = 'status-message';
+      wrapper.style.flexDirection = 'column';
+      wrapper.style.gap = '12px';
+
+      const message = document.createElement('p');
+      message.style.margin = '0';
+      message.textContent = 'לא ניתן לטעון את החדשות כרגע. בדוק/י את החיבור לאינטרנט ונסה/י שוב מאוחר יותר.';
+
+      const detail = document.createElement('p');
+      detail.style.margin = '0';
+      detail.style.fontSize = '0.75rem';
+      detail.style.color = 'var(--color-text-muted)';
+      detail.textContent = `פרטים טכניים: ${error.name}: ${error.message}`;
+
+      const retryBtn = document.createElement('button');
+      retryBtn.type = 'button';
+      retryBtn.className = 'tab';
+      retryBtn.textContent = 'נסה שוב';
+      retryBtn.addEventListener('click', () => {
+        reelsEl.innerHTML = '';
+        reelsEl.append(statusEl);
+        statusEl.textContent = 'טוען כותרות...';
+        loadNews();
+      });
+
+      wrapper.append(message, detail, retryBtn);
+      reelsEl.append(wrapper);
     }
   }
 
