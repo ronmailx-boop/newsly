@@ -20,4 +20,28 @@ export const sources = [
     type: 'rss',
     url: 'https://www.maariv.co.il/rss/rssfeedschadashot',
   },
+  {
+    key: 'globes',
+    name: 'גלובס',
+    type: 'rss',
+    url: 'https://www.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942',
+  },
+  {
+    key: 'calcalist',
+    name: 'כלכליסט',
+    type: 'rss',
+    // כתובת לא מאומתת ידנית (אין גישת רשת לבדיקה בסביבת הפיתוח) - נבדקת
+    // מול ריצת ה-GitHub Action בפועל. אם מחזירה 0 פריטים/שגיאה, לתקן כאן.
+    url: 'https://www.calcalist.co.il/GeneralRSS/0,7340,L-3695,00.xml',
+  },
+  {
+    key: 'n12',
+    name: 'N12',
+    type: 'playwright',
+    url: 'https://www.n12.co.il/',
+    // אין RSS זמין ל-N12 - נשלף מהעמוד הראשי דרך דפדפן headless.
+    // הסלקטור ב-fetch-news.mjs (fetchPlaywrightSource) הוא ניחוש מיטבי
+    // ראשוני שנבדק ומתוקן מול ריצות אמיתיות של ה-Action (יש לו גישת רשת
+    // אמיתית, בניגוד לסביבת הפיתוח).
+  },
 ];

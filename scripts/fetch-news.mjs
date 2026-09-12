@@ -1,6 +1,7 @@
 // שולף RSS ממקורות חדשות ישראליים, ממזג, מנקה ושומר כ-data/news.json סטטי.
 // רץ מתוך GitHub Action (ראו .github/workflows/fetch-news.yml).
 import { XMLParser } from 'fast-xml-parser';
+import { chromium } from 'playwright';
 import { writeFile, readFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { sources } from './sources.mjs';
@@ -83,9 +84,78 @@ async function fetchRssSource(source) {
   }
 }
 
+// מילות ניווט/פוטר נפוצות שיש לסנן מרשימת המועמדים לכותרות (לא ממצה,
+// מתעדכן לפי מה שנצפה בפועל בלוגים של ה-Action).
+const NAV_TEXT_BLOCKLIST = new Set([
+  'ראשי', 'עוד', 'כל הכתבות', 'צור קשר', 'אודות', 'תנאי שימוש',
+  'מדיניות פרטיות', 'פרסמו אצלנו', 'ניוזלטר', 'הרשמה', 'התחברות',
+  'עקבו אחרינו', 'שיתוף', 'תגובות',
+]);
+
+async function fetchPlaywrightSource(source) {
+  const browser = await chromium.launch();
+  try {
+    const page = await browser.newPage({
+      userAgent: 'Mozilla/5.0 (compatible; NewslyBot/1.0)',
+    });
+    await page.goto(source.url, { waitUntil: 'networkidle', timeout: FETCH_TIMEOUT_MS * 2 });
+
+    const rawLinks = await page.$$eval('a[href]', (anchors) =>
+      anchors.map((a) => ({ href: a.getAttribute('href') ?? '', text: a.textContent ?? '' }))
+    );
+
+    // דיאגנוסטיקה ל-Action logs - עוזרת לכוונן את הסלקטור מול המבנה
+    // האמיתי של האתר, בלי גישת רשת מסביבת הפיתוח.
+    console.log(`[fetch-news] [${source.key}] נמצאו ${rawLinks.length} קישורים בעמוד`);
+    console.log(`[fetch-news] [${source.key}] דוגמה: ${JSON.stringify(rawLinks.slice(0, 8))}`);
+
+    const now = new Date();
+    const seenHrefs = new Set();
+    const items = [];
+
+    for (const { href, text } of rawLinks) {
+      const title = stripHtml(text);
+      if (title.length < 20 || title.length > 200) continue;
+      if (NAV_TEXT_BLOCKLIST.has(title)) continue;
+      if (!href || href.startsWith('#') || href.startsWith('javascript:')) continue;
+
+      let absoluteLink;
+      try {
+        absoluteLink = new URL(href, source.url).toString();
+      } catch {
+        continue;
+      }
+      if (!absoluteLink.includes(new URL(source.url).hostname)) continue;
+      if (seenHrefs.has(absoluteLink)) continue;
+      seenHrefs.add(absoluteLink);
+
+      items.push({
+        id: `${source.key}:${absoluteLink}`,
+        title,
+        summary: '',
+        link: absoluteLink,
+        source: source.name,
+        sourceKey: source.key,
+        // אין תאריך פרסום אמין בעמוד הראשי - מסמנים בזמן השליפה. הדה-דופ
+        // לפי כותרת מנורמלת ישמור על הזמן המוקדם ביותר שבו נצפתה הכתבה.
+        pubDate: now.toISOString(),
+      });
+    }
+
+    console.log(`[fetch-news] [${source.key}] ${items.length} כותרות עברו את הסינון`);
+    return items;
+  } catch (error) {
+    console.error(`[fetch-news] נכשל שליפת מקור ${source.name}: ${error.message}`);
+    return [];
+  } finally {
+    await browser.close();
+  }
+}
+
 async function fetchAllSources() {
   const fetchers = sources.map((source) => {
     if (source.type === 'rss') return fetchRssSource(source);
+    if (source.type === 'playwright') return fetchPlaywrightSource(source);
     console.warn(`[fetch-news] סוג מקור לא נתמך עדיין: ${source.type} (${source.key})`);
     return Promise.resolve([]);
   });

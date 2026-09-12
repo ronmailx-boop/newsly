@@ -46,11 +46,15 @@
     title.className = 'news-card__title';
     title.textContent = item.title;
 
-    const summary = document.createElement('p');
-    summary.className = 'news-card__summary';
-    summary.textContent = item.summary;
+    card.append(meta, title);
 
-    card.append(meta, title, summary);
+    if (item.summary) {
+      const summary = document.createElement('p');
+      summary.className = 'news-card__summary';
+      summary.textContent = item.summary;
+      card.append(summary);
+    }
+
     return card;
   }
 
