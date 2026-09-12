@@ -46,3 +46,14 @@ console.log('=== הקול היהודי ===');
 await probeHomepageLinkTags('https://www.hakolhayehudi.co.il/');
 await probeUrl('https://www.hakolhayehudi.co.il/feed/');
 await probeUrl('https://www.hakolhayehudi.co.il/feed');
+const hakolRssPage = await probeUrl('https://www.hakolhayehudi.co.il/rss');
+const hakolLinks = [...hakolRssPage.matchAll(/href="([^"]*\/rss\/[^"]*)"/gi)];
+console.log(`[probe] hakolhayehudi /rss page -> ${hakolLinks.length} /rss/ hrefs found`);
+for (const m of [...new Set(hakolLinks.map((x) => x[1]))].slice(0, 15)) console.log(`[probe] rss href: ${m}`);
+await probeUrl('https://www.hakolhayehudi.co.il/rss/news');
+
+console.log('=== ביזפורטל (סבב נוסף) ===');
+const bizRssPage = await probeUrl('https://www.bizportal.co.il/shukhahon/rss.html');
+const bizLinks = [...bizRssPage.matchAll(/href="([^"]*rss[^"]*)"/gi)];
+console.log(`[probe] bizportal rss.html page -> ${bizLinks.length} rss hrefs found`);
+for (const m of [...new Set(bizLinks.map((x) => x[1]))].slice(0, 15)) console.log(`[probe] rss href: ${m}`);
