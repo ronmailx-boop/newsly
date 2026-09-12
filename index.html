@@ -2,32 +2,49 @@
 <html lang="he" dir="rtl">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Newsly - כל החדשות במקום אחד</title>
-  <meta name="description" content="מרכז חדשות שמאגד כותרות מ-ynet, וואלה ומעריב במקום אחד" />
+  <meta name="description" content="מרכז חדשות שמאגד כותרות מ-ynet, וואלה ומעריב במקום אחד, בתצוגת גלילה של כותרת אחת במסך" />
   <meta name="theme-color" content="#7367f0" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <header class="app-header">
-    <h1 class="app-title">Newsly</h1>
-    <p class="app-subtitle">כל החדשות, במקום אחד</p>
+    <div class="app-header__row">
+      <h1 class="app-title">Newsly</h1>
+      <button
+        type="button"
+        class="settings-toggle"
+        id="settings-toggle"
+        aria-haspopup="true"
+        aria-expanded="false"
+        aria-controls="settings-panel"
+        aria-label="הגדרות גלילה אוטומטית"
+      >⚙️</button>
+    </div>
+    <nav class="source-tabs" aria-label="סינון לפי מקור חדשות">
+      <button type="button" class="tab is-active" data-source="all">הכל</button>
+      <button type="button" class="tab" data-source="ynet">ynet</button>
+      <button type="button" class="tab" data-source="walla">וואלה</button>
+      <button type="button" class="tab" data-source="maariv">מעריב</button>
+    </nav>
+
+    <div class="settings-panel" id="settings-panel" hidden>
+      <p class="settings-panel__title">גלילה אוטומטית - כל כמה זמן להחליף כותרת</p>
+      <div class="speed-options" role="group" aria-label="מהירות גלילה אוטומטית">
+        <button type="button" class="speed-btn" data-speed="2">2 שנ'</button>
+        <button type="button" class="speed-btn" data-speed="5">5 שנ'</button>
+        <button type="button" class="speed-btn" data-speed="10">10 שנ'</button>
+        <button type="button" class="speed-btn" data-speed="20">20 שנ'</button>
+        <button type="button" class="speed-btn" data-speed="off">כבוי</button>
+      </div>
+      <p class="settings-panel__updated" id="updated-at"></p>
+    </div>
   </header>
 
-  <nav class="source-tabs" aria-label="סינון לפי מקור חדשות">
-    <button type="button" class="tab is-active" data-source="all">הכל</button>
-    <button type="button" class="tab" data-source="ynet">ynet</button>
-    <button type="button" class="tab" data-source="walla">וואלה</button>
-    <button type="button" class="tab" data-source="maariv">מעריב</button>
-  </nav>
-
-  <main id="feed" class="feed" aria-live="polite">
+  <main id="reels" class="reels" aria-label="פיד כותרות">
     <p class="status-message" id="status-message">טוען כותרות...</p>
   </main>
-
-  <footer class="app-footer">
-    <p id="updated-at"></p>
-  </footer>
 
   <script src="js/app.js"></script>
 </body>
