@@ -48,9 +48,18 @@
 
 ## Newsly - קונבנציות ספציפיות לפרויקט
 
-- **ארכיטקטורה:** סטטי טהור (לא PWA) - GitHub Pages + GitHub Action
-  שכותב `data/news.json` + commit-back. אין build step, אין Firebase
-  בפרונט כרגע. פרטים מלאים ב-`PROJECT_STATE.md`.
+- **ארכיטקטורה:** סטטי - GitHub Pages + GitHub Action שכותב
+  `data/news.json` + commit-back. אין build step, אין Firebase בפרונט
+  כרגע. **PWA-lite לבקשת המשתמש:** יש `manifest.json` + אייקונים +
+  `sw.js` מינימלי כדי שאפשר יהיה להתקין את האתר כאפליקציה מ-Chrome/
+  Android. ה-Service Worker **בכוונה לא עושה caching** ל-`data/news.json`
+  (רק `fetch(event.request)` ישיר) - הנתונים חייבים תמיד להיות טריים,
+  אין תמיכה באופליין. פרטים מלאים ב-`PROJECT_STATE.md`.
+- **עדכון אייקון:** אם ה-לוגו/אייקון צריך להשתנות, לעדכן את
+  `icons/icon-192.png` ו-`icons/icon-512.png` (אותו קובץ משמש גם
+  ל-`purpose: maskable` ב-`manifest.json`, אז חשוב לשמור את התוכן בתוך
+  "safe zone" מרכזי - כ-80% מהרוחב/גובה - כדי שלא ייחתך במסכות עגולות
+  של אנדרואיד).
 - **פריסה (Deploy):** GitHub Pages מוגדר עם Source = **GitHub Actions**
   (לא "Deploy from a branch" - זה גרם לבנייה ישנה שנתקעת ולא מתעדכנת
   אוטומטית). הפריסה עצמה קורית דרך `.github/workflows/deploy-pages.yml`,

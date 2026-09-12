@@ -308,4 +308,11 @@
   }
 
   loadNews();
+
+  // רישום Service Worker - נדרש כדי שכרום יציע התקנת האפליקציה (PWA).
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js').catch((error) => {
+      console.warn('רישום Service Worker נכשל:', error);
+    });
+  }
 })();
