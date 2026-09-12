@@ -7,7 +7,7 @@ import { sources } from './sources.mjs';
 
 const OUTPUT_PATH = path.join(process.cwd(), 'data', 'news.json');
 const KEEP_DAYS = 5; // כמה ימים אחורה לשמור ב-JSON, כדי שהקובץ לא יתנפח
-const FETCH_TIMEOUT_MS = 15000;
+const FETCH_TIMEOUT_MS = 40000; // הקול היהודי מחזיר feed כבד (כ-8MB) שלוקח זמן
 const MAX_SUMMARY_LENGTH = 220;
 
 const parser = new XMLParser({ ignoreAttributes: false, trimValues: true });
