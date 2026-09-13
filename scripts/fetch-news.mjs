@@ -8,7 +8,11 @@ import { sources } from './sources.mjs';
 const OUTPUT_PATH = path.join(process.cwd(), 'data', 'news.json');
 const KEEP_DAYS = 5; // כמה ימים אחורה לשמור ב-JSON, כדי שהקובץ לא יתנפח
 const FETCH_TIMEOUT_MS = 40000; // הקול היהודי מחזיר feed כבד (כ-8MB) שלוקח זמן
-const MAX_SUMMARY_LENGTH = 220;
+// גבוה בכוונה - התקציר מוצג במלואו במסך "טקסט מלא" בפרונט (בתוך ה-reel,
+// בלי לצאת לכתבה המקורית), לא רק כתצוגה מקדימה קצרה. זו עדיין תקרת
+// בטיחות בלבד למקרה קיצון של feed עם description ארוך במיוחד, לא אמורה
+// להיפגע בפועל ברוב המקורות.
+const MAX_SUMMARY_LENGTH = 3000;
 
 const parser = new XMLParser({ ignoreAttributes: false, trimValues: true });
 
