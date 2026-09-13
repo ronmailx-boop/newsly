@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:01:19.891Z",
+  "updatedAt": "2026-09-13T16:15:58.163Z",
   "sources": [
     {
       "key": "ynet",
@@ -28,6 +28,15 @@
   ],
   "items": [
     {
+      "id": "walla:https://news.walla.co.il/item/3867483",
+      "title": "פשטו על דירתו והטיסו אותו במטוס מטען: ארה\"ב הבריחה דיפלומט מבריטניה",
+      "summary": "הדיפלומט האמריקני נחשד בהחזקת תיעוד של התעללות מינית בילדים, שלפי החשד נשלח אליו בידי אחיו. כוח אמריקני פשט על דירתו בלונדון והטיס אותו לארה\"ב בלי לערב את המשטרה המקומית, ובלונדון זועמים: \"פעלו באופן שערורייתי, ייתכן שלעולם לא נצליח להשיבו לדין\"",
+      "link": "https://news.walla.co.il/item/3867483",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T18:45:00.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867478",
       "title": "אימו של חלל צה\"ל נגד יוצרי הסרט \"נז\"א\": \"מי שרואה את ילדי האויב לפני ילדינו, משרת אותם\"",
       "summary": "מעיין שרמן, אמו של החלל רון שרמן, תקפה את יוצרי הסרט \"נז\"א\" שזכה בפרס חבר השופטים בפסטיבל הסרטים בונציה. \"צריך להבין מה משרת את המטרה המשותפת שלנו ומה פוגע, ואפילו תורם להשיג את ההיפך, מי שלא מסוגל לראות את כל התמונה בשלמותה עלול לעשות נזק לכולנו\", כתבה",
@@ -35,6 +44,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T18:07:00.000Z"
+    },
+    {
+      "id": "walla:https://news.walla.co.il/item/3867278",
+      "title": "מאושוויץ ועד ירושלים: השופר והשרשרת היהודית שלא נקרעה",
+      "summary": "במשך אלפי שנים נשמע קול השופר בקהילות יהודיות, גם כשהיה נדמה שהשרשרת עומדת להיקרע. מישהו קיבל משהו והעביר אותו הלאה. אב לבנו, אם לבתה, דור לדור. לפעמים מסרו ספר תורה, לפעמים ניגון, לפעמים מתכון - ולפעמים לא נותר למסור אלא משפט אחד: אנחנו יהודים",
+      "link": "https://news.walla.co.il/item/3867278",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T18:00:00.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3867471",
@@ -71,6 +89,78 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T16:18:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1drgsvymx",
+      "title": "המצר האסטרטגי בשליטת החות'ים: הדאגה בישראל מהבליץ בים האדום - וההיערכות בשטח",
+      "summary": "מצר צר מאוד: במערכת הביטחון עוקבים אחר התקדמות החות'ים, שהשיגו שליטה בבאב אל-מנדב, ויודעים שכעת הם יכולים לבצע \"חניקה פשוטה\" של נתיב השיט הקריטי לכלכלה העולמית. החשש: תתהווה קואליציה בהובלת איראן, שמישהו יצטרך לפרק. השאלה הקשה: איך קרסה ההרתעה?",
+      "link": "https://www.ynet.co.il/news/article/r1drgsvymx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-13T15:57:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21412283",
+      "title": "ערן זהבי או עומרי כספי: מי שווה יותר?",
+      "summary": "כדורגלן העבר נכנס לעולם העסקים, מככב בקמפיינים ורכש דירות בפרויקט מגורים • שחקן ה-NBA לשעבר נוחל הצלחה מסחררת עם קרן ההון סיכון שלו • זה השווי המעודכן של השניים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21412283",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:56:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21412234",
+      "title": "בטופ של ה-NBA: דני אבדיה נכלל בדירוג יוקרתי",
+      "summary": "בארה\"ב חזו את 10 הקלעים הבולטים בליגה לקראת העונה, כשהישראלי נכלל ברשימה לצד הכוכבים הגדולים ביותר • גם ג'ה מוראנט ודמיאן לילארד \"לא ראויים לקחת ממנו זריקות\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21412234",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:49:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21412248",
+      "title": "תומר הכהן ומיה מינץ כבר לא מסתתרים",
+      "summary": "אחרי ההכחשות והפפראצי, השניים נותנים עכשיו לתמונה אחת לעשות את העבודה. הקשר כבר יצא מהסט, ועכשיו גם בפיד",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21412248",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:45:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21412158",
+      "title": "הפנייה הסעודית העקיפה לישראל: עזרו לנו מול החות'ים",
+      "summary": "לאחר המפלות הכבדות והאיום על באב אל-מנדב, בן סלמאן ביקש דרך סנטקום סיוע מודיעיני ואחר מישראל • טראמפ סירב להתערבות צבאית ישירה, ובריאד מחפשים פתרונות גם מול איראן",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21412158",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:42:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21412211",
+      "title": "רכבת ה-VIP פונתה, כשבוריס ג׳ונסון עליה: המתקפה הרוסית על גבול פולין",
+      "summary": "רכבת לא סדירה שהחזירה בכירים אירופים מוועידה בקייב עצרה סמוך לגבול פולין, וחלקים ממנה פונו • דקות ספורות אחריהם חצתה את אותו מעבר רכבת נוסעים שקטרה ספג פגיעת כטב״ם רוסי • במקביל דרש טראמפ מזלנסקי לחדול מתקיפת בתי זיקוק ברוסיה - בטענה שהדבר מעלה את מחירי הנפט",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21412211",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:41:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21412228",
+      "title": "יובל שרף ביום ההולדת של שלומי שבן: ''לא תכננתי לשתף''",
+      "summary": "לרגל יום הולדתו ה-50 של המוזיקאי, בת זוגו השחקנית עשתה משהו שמעולם לא העזה לעשות - ושיתפה בכנות למה זה הפחיד אותה כל כך",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21412228",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:40:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21412179",
+      "title": "אחרי ההכחשות: כוכבי ״כשהגלים מתחזקים״ עושים את זה רשמי",
+      "summary": "אחרי תקופה ארוכה של שמועות, רמזים עבים והכחשות , הזוגיות המסקרנת נחשפת • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21412179",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:31:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21412119",
@@ -210,7 +300,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21411708",
       "title": "המצב המחפיר במגרש של הפועל באר שבע: \"זה רק יחמיר\"",
-      "summary": "רגע לפני המשחק מול דינמו זאגרב בליגה האירופית, ברומניה מדווחים כי חתיכות דשא התנתקו מהמשטח בזמן משחק • מאמן ראפיד בוקרשט המקומית התעצבן: \"מגרש של ליגה שלישית או רביעית. זה יכול להוביל לאיבוד נקודות\"",
+      "summary": "רגע לפני המפגש עם דינמו זאגרב בליגה האירופית, ברומניה מדווחים כי חתיכות דשא התנתקו מהמשטח בזמן משחק • מאמן ראפיד בוקרשט המקומית התעצבן: \"מגרש של ליגה שלישית או רביעית. זה יכול להוביל לאיבוד נקודות\"",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21411708",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1648,6 +1738,33 @@
       "pubDate": "2026-09-12T20:54:58.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21403882",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 13.09.2026",
+      "summary": "ייתכנו עימותים עם אנשים בעלי סמכות והשפעה. כדאי לשמור על איפוק כדי לא להסתבך",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21403882",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T20:30:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21403884",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 13.09.2026",
+      "summary": "יום של הפתעות. יצר ההרפתקנות יביא אתכם היום למקומות מרגשים",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21403884",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T20:30:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21403886",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 13.09.2026",
+      "summary": "פנייה חיובית ומפתיעה בתחום העבודה גורמת לכם לחוש מלאי תקווה ואופטימיים הרבה יותר מאשר חוויתם מזה זמן רב. &#xD; &#xD; בכלל, זהו יום חשוב מאוד בתחום הקריירה ועליכם לחשוב היטב לפני שאתם מתחייבים או חותמים על משהו",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21403886",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T20:30:44.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21403405",
       "title": "מזל תאומים, תחזית הורוסקופ יומית 13.09.2026",
       "summary": "אתם במיטבכם היום ונראה שיש לכם את היכולת להתגבר על משקעי העבר ולחדש כוחות. עליכם לשמור על עצמכם מפני השפעות של אחרים",
@@ -1706,33 +1823,6 @@
       "title": "מזל קשת, תחזית הורוסקופ יומית 13.09.2026",
       "summary": "הימנעו מוויכוחים עם אנשים קרובים. המסרים הסמויים שלכם לא עוזרים לאף אחד",
       "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21403774",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T20:30:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21403882",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 13.09.2026",
-      "summary": "ייתכנו עימותים עם אנשים בעלי סמכות והשפעה. כדאי לשמור על איפוק כדי לא להסתבך",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21403882",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T20:30:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21403884",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 13.09.2026",
-      "summary": "יום של הפתעות. יצר ההרפתקנות יביא אתכם היום למקומות מרגשים",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21403884",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T20:30:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21403886",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 13.09.2026",
-      "summary": "פנייה חיובית ומפתיעה בתחום העבודה גורמת לכם לחוש מלאי תקווה ואופטימיים הרבה יותר מאשר חוויתם מזה זמן רב. &#xD; &#xD; בכלל, זהו יום חשוב מאוד בתחום הקריירה ועליכם לחשוב היטב לפני שאתם מתחייבים או חותמים על משהו",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21403886",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-12T20:30:44.000Z"
