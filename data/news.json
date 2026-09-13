@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:23:35.493Z",
+  "updatedAt": "2026-09-13T01:17:07.779Z",
   "sources": [
     {
       "key": "ynet",
@@ -28,6 +28,42 @@
   ],
   "items": [
     {
+      "id": "walla:https://news.walla.co.il/item/3867396",
+      "title": "שלושה גברים אותרו ללא רוח חיים ברכב שרוף בשרון",
+      "summary": "השלושה אותרו בתוך רכב שעלה בלהבות בשטח פתוח סמוך לבאקה אל גרבייה. ממשטרת ישראל נמסר כי זהות הגברים אינה ידועה בשלב זה וכי הרקע לאירוע ככל הנראה פלילי",
+      "link": "https://news.walla.co.il/item/3867396",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T03:49:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkrrn007tfg",
+      "title": "המשטרה: 3 גברים אותרו ללא רוח חיים ברכב שרוף בשרון",
+      "summary": "כוחות משטרה גדולים הגיעו לזירה סמוך לבאקה אל גרבייה, זהותם של הגברים אינה ידועה בשלב זה. הרקע ככל הנראה פלילי",
+      "link": "https://www.ynet.co.il/news/article/bkrrn007tfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-13T00:56:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21410477",
+      "title": "חשד לרצח משולש: שלושה גברים נמצאו מתים ברכב בוער בשרון",
+      "summary": "רכב שעלה באש אותר בשטח פתוח סמוך לבאקה אל־גרבייה • זהות הגברים טרם התבררה • כוחות משטרה גדולים הוזעקו לזירה; הרקע ככל הנראה פלילי",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21410477",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T00:56:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21410450",
+      "title": "מהקילוף בדמעות ועד ה-LED: מסכות הפנים הוויראליות שהשתלטו לנו על הפיד",
+      "summary": "קלואי קרדשיאן כבר אימצה את המסכה העתידנית, אבל הרבה לפניה כיכבו הסושי של היילי ביבר, מסכת הזהב והמגנטים • הטרנדים שהפכו את שגרת הטיפוח למופע ויראלי",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21410450",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T00:27:10.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867341",
       "title": "היא רקדה על למבורגיני, צחקה בבית המשפט ושילמה ביוקר? הסיפור האמיתי",
       "summary": "אם הייתם בטיקטוק בשבועות האחרונים, יש סיכוי לא רע שנתקלתם בסיפור הבא: משפיענית בת 18 בשם מיה קרטר ראתה למבורגיני כחולה ברחוב, טיפסה עליה כדי לצלם סרטון ריקוד, שברה את השמשה ופגעה בגג. היא עזבה את המקום, נתפסה, הגיעה לבית…",
@@ -44,6 +80,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T00:01:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21410422",
+      "title": "\"סודי\": רגע לפני שהשליך לפח - גילה תעלומה בת 80 שנה",
+      "summary": "כמעט 300 עמודים ובהם עדויות של יותר מ-120 שבויי מלחמה אמריקנים נמצאו בקופסה מאובקת במוסך בניו יורק • המסמכים בני 80 השנה מתעדים רעב, מכות ורציחות בשבי הגרמני • התעלומה כיצד הגיעו לשם עדיין לא נפתרה",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21410422",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T23:37:23.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3867345",
