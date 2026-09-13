@@ -74,15 +74,18 @@
   הודעה**, במיוחד ב-repo עם פעילות נמוכה. נבדק בפועל ב-2026-09-13:
   במקום כל 15 דק' כמוגדר, הפערים האמיתיים בין ריצות היו 1.7-5.75 שעות.
   ה-cron הוזז ל-`7,22,37,52 * * * *` (לא על השעה/רבעי השעה העגולים -
-  שם העומס הכי גבוה) כמו שממליץ GitHub, אבל זה **לא** פותר את הבעיה
-  לגמרי - זה רק מקטין קצת את הסיכוי לעיכוב. **הפתרון האמיתי** (אם
-  המשתמש ירצה בעתיד): שירות cron חיצוני (למשל cron-job.org, חינמי)
-  שקורא כל 15 דק' ל-GitHub API (`POST .../actions/workflows/
-  fetch-news.yml/dispatches`) עם Fine-grained PAT מצומצם (הרשאת
-  "Actions: Read and write" רק על ה-repo הזה) - זה כופה הרצה מדויקת
-  בזמן במקום לחכות ל-queue הפנימי של GitHub. הטוקן הזה **חייב** להיכנס
-  ישירות בממשק של השירות החיצוני, לא ב-repo ולא ב-GitHub Secrets (הוא
-  לא נקרא מתוך workflow קיים, אלא מפעיל אותו מבחוץ).
+  שם העומס הכי גבוה) כמו שממליץ GitHub - זה נשאר כגיבוי. **הפתרון
+  האמיתי כבר מוקם ופעיל:** cron-job.org (חשבון חינמי של המשתמש) עם
+  cronjob בשם "Newsly fetch-news trigger" שקורא כל 15 דק' (POST) ל-
+  `https://api.github.com/repos/ronmailx-boop/newsly/actions/workflows/
+  fetch-news.yml/dispatches` עם body `{"ref":"main"}` ו-Fine-grained
+  PAT מצומצם (הרשאת "Actions: Read and write" רק על ה-repo הזה) ב-
+  header `Authorization: Bearer ...`. אומת מקצה לקצה - test run החזיר
+  204 ומול GitHub נראתה ריצה אמיתית (`event: workflow_dispatch`).
+  הטוקן **לא** נמצא ב-repo או ב-GitHub Secrets - רק בהגדרות ה-Headers
+  של הג'וב ב-cron-job.org (כי הוא מפעיל workflow מבחוץ, לא נקרא מתוכו).
+  אם ה-trigger החיצוני מפסיק לעבוד מתישהו - ה-`schedule` הפנימי עדיין
+  ירוץ כגיבוי (עם עיכובים אפשריים, כמתואר למעלה).
 - **מקורות RSS:** מוגדרים במקום אחד - `scripts/sources.mjs`. הוספת מקור
   RSS חדש = הוספת אובייקט אחד למערך + כפתור טאב ב-`index.html`, בלי
   לגעת בלוגיקת השליפה/מיזוג.
