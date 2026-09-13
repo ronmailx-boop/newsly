@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:01:17.307Z",
+  "updatedAt": "2026-09-13T18:16:01.687Z",
   "sources": [
     {
       "key": "ynet",
@@ -27,6 +27,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3867505",
+      "title": "חשד לרצח באומן: גופת גבר יהודי אנגלי התגלתה ביער ליד העיר",
+      "summary": "הגבר, בן 45 אב ל-7 ילדים, אותר כשגופתו מוטלת עם סימני אלימות, בנסיבות שטרם התבררו. בקהילה היהודית אומרים כי החשד הוא רצח, אבל המשטרה המקומית לא קבעה זאת רשמית. במקביל, יותר מ-60 עריקים נעצרו בשבוע האחרון במעברי הגבול, רבים מהם חרדים שהיו בדרכם לאומן",
+      "link": "https://news.walla.co.il/item/3867505",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T21:01:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3867497",
       "title": "השנה בה בית המשפט עיגן רשמית את המשטר בישראל כמשטר יוריסטוקרטי",
@@ -100,6 +109,33 @@
       "pubDate": "2026-09-13T18:45:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21413009",
+      "title": "זמני כניסת ויציאת צום גדליה - והסיפור מאחוריו",
+      "summary": "הצום יחול מחר, ג׳ בתשרי, מעלות השחר ועד צאת הכוכבים • מי היה גדליהו בן אחיקם, מדוע נרצח ואיך הוביל מותו לקיצה של שארית היישוב היהודי בארץ?",
+      "link": "https://www.israelhayom.co.il/news/local/article/21413009",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T18:13:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21413117",
+      "title": "17 שנים אחרי: יומנו המצמרר של אסף רמון נחשף",
+      "summary": "17 שנים לאחר הטרגדיה המשפחתית שהכתה במדינה, אחיו של טייס הקרב פותח את הלב בפוסט מצמרר • הוא חושף ציטוטים נדירים מתוך היומן האישי",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21413117",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T18:12:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21413184",
+      "title": "ליאור רז: \"אני לא סולח לעצמי\"",
+      "summary": "יוצר \"פאודה\" התייחס לאפשרות של עונה שישית והודה מה הרגיש מול המוות הטרגי של הדמות האהובה: \"ישבנו אצלי ובכינו\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21413184",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T18:09:32.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867478",
       "title": "אימו של חלל צה\"ל נגד יוצרי הסרט \"נז\"א\": \"מי שרואה את ילדי האויב לפני ילדינו, משרת אותם\"",
       "summary": "מעיין שרמן, אמו של החלל רון שרמן, תקפה את יוצרי הסרט \"נז\"א\" שזכה בפרס חבר השופטים בפסטיבל הסרטים בונציה. \"צריך להבין מה משרת את המטרה המשותפת שלנו ומה פוגע, ואפילו תורם להשיג את ההיפך, מי שלא מסוגל לראות את כל התמונה בשלמותה עלול לעשות נזק לכולנו\", כתבה",
@@ -107,6 +143,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T18:07:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1365932",
+      "title": "\"זה היה דבר נורא\": קושנר ממשיך עם הביקורת החריפה על ישראל",
+      "summary": "חתנו של טראמפ טען כי התקיפה בדוחא נכשלה והותירה את ישראל מבודדת, וחשף: \"ניצלנו את הדינמיקה הזאת כדי לדחוף אותם לעסקה\" | שבוע שעבר אמר שהבחירות בישראל גורמות לממשלה לנהוג \"בצורה לא רציונלית\"",
+      "link": "https://www.maariv.co.il/news/world/article-1365932",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-13T18:05:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21412984",
+      "title": "בגיל 107 הלך לעולמו שורד השואה המבוגר ביותר בישראל",
+      "summary": "הוריו ושלושה מאחיו נרצחו בשואה, יהודה אהרן וידבסקי ואחיו יהושע היחידים שנותרו בחיים • לאחר שעלה לישראל הקים משפחה, ובהמשך הקדיש שנים לשימור זכר הקהילות היהודיות בפולין • ב־2012 השיא משואה בטקס הממלכתי ביד ושם",
+      "link": "https://www.israelhayom.co.il/news/local/article/21412984",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T18:05:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tlbdeh",
+      "title": "שערורייה פוליטית: המשוריין שהגן על סרט אנטישמי שזכה בפרס בינלאומי",
+      "summary": "סערה פוליטית התעוררה לאחר שהתברר כי הארגון תחת אלירן אליה, המשוריין לכנסת של גדי אייזנקוט הגן על יוצרי הסרט האנטישמי נז״א לאחר זכייתו בפרס בינלאומי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tlbdeh",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-13T18:03:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21413119",
+      "title": "אחרי התקרית החריגה בביתו: הצעד המפתיע של ערן זהבי",
+      "summary": "כדורגלן העבר חשף במהלך החג כי כבל האינטרנט הקווי בביתו נגזר, לטענתו בעקבות מוזיקה שהשמיע • יממה חלפה והמוזיקה חזרה - אבל הפעם בבית אחר",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21413119",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T18:02:38.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3867278",
@@ -118,6 +190,15 @@
       "pubDate": "2026-09-13T18:00:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21413112",
+      "title": "אוגוסט יגיע גם בשנה הבאה: צריך לדבר על לוח החופשות",
+      "summary": "החינוך אינו מתחיל ונגמר בתוכנית הלימודים - הוא קשור גם ליכולת של משפחה לעבוד, להתפרנס ולנהל חיים סבירים • מי שמבקש את אמון הציבור בבחירות הקרובות, כדאי שיסביר גם מה הוא מתכוון לעשות בנוגע לבעיות הציבור",
+      "link": "https://www.israelhayom.co.il/opinions/article/21413112",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:56:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/84466",
       "title": "משרד הבריאות: תוצאות שליליות לבדיקות אבולה של חולה שחזר מקונגו",
       "summary": "משרד הבריאות מעדכן כי התקבלו תוצאות שליליות לבדיקות האבולה של חולה שאושפז בחשד למחלה לאחר שחזר מהרפובליקה הדמוקרטית של קונגו. המשרד מדגיש כי נכון לעכשיו לא אובחן בישראל מקרה מאומת של אבולה. הבדיקות בוצעו בהתאם לנהלים המקצועיים ולהנחיות הבינלאומיות המקובלות להתמודדות עם מחלות מידבקות בעלות סיכון גבוה.",
@@ -125,6 +206,51 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-13T17:55:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21413041",
+      "title": "התשובה לסנקציות: הכרעה באיו\"ש",
+      "summary": "לחץ על ישראל או אף צעדי ענישה שננקטו נגדה מעולם לא קידמו את השלום, ותחת זאת הביאו להקשחה בעמדות הפלסטיניות • אפשר להמשיך בדרך שבה הלכנו בעשורים האחרונים, אבל אפשר אולי להגיע לשינוי שיסמן את העתיד באזור",
+      "link": "https://www.israelhayom.co.il/opinions/article/21413041",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:49:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21413001",
+      "title": "יוצאת \"האח הגדול\" נשברת: \"הוציאו אותי מדעתי\"",
+      "summary": "יוצאת הריאליטי פותחת את הלב מול עשרות אלפי עוקבים • בפוסט אמיץ היא חושפת את השמועות שהכאיבו לה יותר מכל",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21413001",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:48:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21412947",
+      "title": "הם לא נחמדים: דירוג היעדים הכי פחות נעימים לתיירים",
+      "summary": "מאנשים שנדחפים בתורים באיטליה ועד יחס קר בברלין ובסיאול: מומחית לנימוסים בחנה את היעדים שבהם מטיילים דיווחו על חוויות פחות מסבירות פנים • עם זאת, היא הדגישה: במקרים רבים מדובר בהבדלים תרבותיים",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21412947",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:43:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21412971",
+      "title": "ארה''ב באזהרה חריגה: אתרים ישראליים ויהודיים על הכוונת באמירויות",
+      "summary": "מחלקת המדינה האמריקאית קוראת לאזרחיה לנהוג במשנה זהירות במוקדים המזוהים עם הקהילה היהודית והישראלית באמירויות - על רקע המתיחות המתמשכת במפרץ",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21412971",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:42:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21412945",
+      "title": "הדחת ג'עפר פרח מחד\"ש היתה משפט שדה בולשביקי קלאסי",
+      "summary": "הרחק מעין הסערה התקשורתית של הציבור היהודי, התרחשה לאחרונה הטלטלה הפוליטית הגדולה ביותר בחברה הערבית • הטרדה מינית היא כמובן מעשה נאלח, פסול ולא מוסרי - אך במקרה הזה קשה להתעלם מריח החיסול הפוליטי הממוקד",
+      "link": "https://www.israelhayom.co.il/opinions/article/21412945",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:40:29.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/studio-kikar/uri-avraham-eli-guthlef-high-holidays-music",
@@ -161,6 +287,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-13T17:36:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21412949",
+      "title": "חשד לרצח באומן: אב לשבעה נמצא ללא רוח חיים ביער",
+      "summary": "חסידים שיצאו להתבודד ביער במהלך השבת מצאו את גופתו של יצחק אלמקייס, תושב אנגליה כבן 50, כשעליה סימני אלימות • נסיבות מותו נבדקות בידי הרשויות המקומיות",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21412949",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:30:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21412925",
+      "title": "חי מליגת העל: הפועל פתח תקווה - הפועל באר שבע 0:0",
+      "summary": "לאחר ההפסד למכבי תל אביב, אלופת המדינה רוצה לחזור לעניינים ולהשיג את שלוש הנקודות • מנגד, המלאבסים מחפשים ניצחון שני לעונה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21412925",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T17:30:29.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r111qkiekzg",
@@ -245,6 +389,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1365922",
+      "title": "חופש ביטוי הוא לא חופש מאחריות: הסרט \"נז\"א\" חצה קו אדום | צחי קומה",
+      "summary": "הסרט של יובל אברהם ורחל שור זכה למחיאות כפיים ולפרס בוונציה, אבל חופש ביטוי אינו פוטר מאחריות: כשהעולם מחפש תחמושת נגד ישראל, למילים של ישראלים עלול להיות מחיר ברחוב",
+      "link": "https://www.maariv.co.il/news/opinions/article-1365922",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-13T17:09:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1365922",
       "title": "השטיח האדום שלהם עלול להפוך לסיוט של כולנו | צחי קומה",
       "summary": "הסרט של יובל אברהם ורחל שור זכה למחיאות כפיים ולפרס בוונציה, אבל חופש ביטוי אינו פוטר מאחריות: כשהעולם מחפש תחמושת נגד ישראל, למילים של ישראלים עלול להיות מחיר ברחוב",
       "link": "https://www.maariv.co.il/news/opinions/article-1365922",
@@ -278,6 +431,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-13T16:59:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1365923",
+      "title": "\"חיסול אכזרי שנועד להעביר מסר\": תנ\"צ בדימוס על הרצח המשולש",
+      "summary": "הרצח המשולש בבאקה אל-גרבייה הצית מחדש את הביקורת על המשטרה. בשיחה עם \"מעריב\" טוען תנ\"צ בדימוס מוטי אדרעי כי המשטרה פועלת - אך נדרש שינוי בפריסת הכוחות ובשיטת הפעולה",
+      "link": "https://www.maariv.co.il/news/law/article-1365923",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-13T16:58:31.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1365923",
@@ -659,6 +821,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21412050",
+      "title": "קייט מידלטון הוזהרה: \"תשלם את המחיר הכי כבד\"",
+      "summary": "אחרי ששבו להתגורר בבריטניה, הארי ומייגן כבר מסעירים את הממלכה • לפי פרשנית מלכותית בכירה, דווקא הנסיכה מוויילס עלולה לצאת הכי נפגעת, מסיבה אחת שקשורה כולה לתשומת הלב",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21412050",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T14:49:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21412050",
       "title": "קייט מידלטון קיבלה אזהרה חריפה: \"תשלם את המחיר הכי כבד\"",
       "summary": "אחרי ששבו להתגורר בבריטניה, הארי ומייגן כבר מסעירים את הממלכה • לפי פרשנית מלכותית בכירה, דווקא הנסיכה מוויילס עלולה לצאת הכי נפגעת, מסיבה אחת שקשורה כולה לתשומת הלב",
       "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21412050",
@@ -728,6 +899,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-13T14:21:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21411708",
+      "title": "רגע לפני המשחק הראשון באירופה: הבעיה הגדולה של הפועל באר שבע",
+      "summary": "רגע לפני משחק הפתיחה מול דינמו זאגרב, המצב של כר הדשא ברומניה, שם תארח האלופה, במצב רע • בתקשורת המקומית מדווחים על חתיכות דשא שהתנתקו ומהמאמן המקומי ביקר: \"מגרש של ליגה שלישית או רביעית\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21411708",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T14:21:19.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21411708",
@@ -899,6 +1079,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-13T13:04:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
+      "title": "בזמן שיעל שלביה בארץ: לאנס סטרול ספג עונש כבד",
+      "summary": "נהג האסטון מרטין, בן זוגה של הדוגמנית הישראלית, ספג עונש חריג של 40 מקומות בגריד לפני הגראנד פרי של ספרד - וייאלץ לפתוח את המרוץ מהמקום הכי גרוע שאפשר",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T13:01:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
@@ -1343,6 +1532,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21411097",
+      "title": "ארדואן נגד הקהילה הגאה: גל מעצרים בטורקיה נגד הקהילה הגאה",
+      "summary": "המשטרה פשטה על ברים, מועדון לילה ובתי פעילים באיסטנבול ובאנקרה • שר המשפטים הודיע על הליכים נגד 162 חשודים, תשע עמותות ו-13 עסקים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21411097",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T09:53:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21411097",
       "title": "ארדואן נגד הקהילה הגאה: גל מעצרים בטורקיה נגד הלהט\"ב",
       "summary": "המשטרה פשטה על ברים, מועדון לילה ובתי פעילים באיסטנבול ובאנקרה • שר המשפטים הודיע על הליכים נגד 162 חשודים, תשע עמותות ו-13 עסקים",
       "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21411097",
@@ -1756,15 +1954,6 @@
       "pubDate": "2026-09-13T06:00:05.000Z"
     },
     {
-      "id": "walla:https://news.walla.co.il/item/3867395",
-      "title": "דיווח: הגסת' דחק באנשי צוות ה-F-15 שחולצו מאיראן להתראיין ל-\"60 דקות\"",
-      "summary": "לפי CNN, שר המלחמה האמריקני ואנשיו רצו להפוך את מבצע החילוץ הדרמטי לסיפור מרכזי בתוכנית הדגל של CBS - בזמן שהמלחמה באיראן הופכת לפחות פופולרית. שני אנשי הצוות הסתייגו תחילה אך לבסוף אחד הסכים להתראיין והשני סירב. בפנטגון מכחישים: \"הסיפור כולו שקר מוחלט\"",
-      "link": "https://news.walla.co.il/item/3867395",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-13T06:00:00.000Z"
-    },
-    {
       "id": "walla:https://news.walla.co.il/item/3867391",
       "title": "ממשיך להתחמם: עלייה בטמפרטורות והכבדה בעומסי החום | התחזית",
       "summary": "מזג האוויר יהיה מעונן חלקית בשעות הבוקר וייעשה נאה בהמשך, אך הטמפרטורות יעלו מעט ויהיו גבוהות מהרגיל לעונה. גם מחר תימשך מגמת ההתחממות, בעיקר בהרים ובפנים הארץ, שם יוסיף להיות חם מהרגיל",
@@ -1778,6 +1967,15 @@
       "title": "טראמפ על טאקר קרלסון: \"זרקתי אותו לפני כמה חודשים. הוא אמר דברים רעים מאוד\"",
       "summary": "המגיש היהודי סיד רוזנברג שאל את טראמפ על החלטת ג'יי.די. ואנס להמשיך להגדיר את קרלסון כחבר, למרות התבטאויותיו שעוררו זעם בקרב תומכי ישראל ויהודים, והזהיר כי זו עשויה להיות בעיה עבור ואנס ב-2028. טראמפ לא תקף את סגנו, אך אמר על קרלסון: \"הוא מאוד לא עקבי\"",
       "link": "https://news.walla.co.il/item/3867394",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T06:00:00.000Z"
+    },
+    {
+      "id": "walla:https://news.walla.co.il/item/3867395",
+      "title": "דיווח: הגסת' דחק באנשי צוות ה-F-15 שחולצו מאיראן להתראיין ל-\"60 דקות\"",
+      "summary": "לפי CNN, שר המלחמה האמריקני ואנשיו רצו להפוך את מבצע החילוץ הדרמטי לסיפור מרכזי בתוכנית הדגל של CBS - בזמן שהמלחמה באיראן הופכת לפחות פופולרית. שני אנשי הצוות הסתייגו תחילה אך לבסוף אחד הסכים להתראיין והשני סירב. בפנטגון מכחישים: \"הסיפור כולו שקר מוחלט\"",
+      "link": "https://news.walla.co.il/item/3867395",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T06:00:00.000Z"
