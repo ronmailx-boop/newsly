@@ -12,15 +12,6 @@
   const settingsPanel = document.getElementById('settings-panel');
   const speedButtons = document.querySelectorAll('.speed-btn');
 
-  const textModal = document.getElementById('text-modal');
-  const textModalClose = document.getElementById('text-modal-close');
-  const textModalSource = document.getElementById('text-modal-source');
-  const textModalTime = document.getElementById('text-modal-time');
-  const textModalTitle = document.getElementById('text-modal-title');
-  const textModalBody = document.getElementById('text-modal-body');
-  const textModalOriginalLink = document.getElementById('text-modal-original-link');
-  let modalTriggerEl = null;
-
   let allItems = [];
   let visibleItems = [];
   let activeSource = 'all';
@@ -84,18 +75,12 @@
   }
 
   function createReel(item, index) {
-    const reel = document.createElement('div');
+    const reel = document.createElement('a');
     reel.className = 'reel';
+    reel.href = item.link;
+    reel.target = '_blank';
+    reel.rel = 'noopener noreferrer';
     reel.dataset.index = String(index);
-
-    // הכתבה עצמה (מטא-נתונים + כותרת + תקציר) היא קישור אחד שנפתח באתר
-    // המקור - כפתור "טקסט מלא" הוא אלמנט אחות נפרד ולא מקונן בתוכו,
-    // כדי לא ליצור אלמנטים אינטראקטיביים מקוננים (בעיית תקינות/נגישות).
-    const link = document.createElement('a');
-    link.className = 'reel__link';
-    link.href = item.link;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
 
     const meta = document.createElement('div');
     meta.className = 'reel__meta';
@@ -114,25 +99,13 @@
     title.className = 'reel__title';
     title.textContent = item.title;
 
-    link.append(meta, title);
+    reel.append(meta, title);
 
     if (item.summary) {
       const summary = document.createElement('p');
       summary.className = 'reel__summary';
       summary.textContent = item.summary;
-      link.append(summary);
-    }
-
-    reel.append(link);
-
-    if (item.summary) {
-      const expandBtn = document.createElement('button');
-      expandBtn.type = 'button';
-      expandBtn.className = 'reel__expand-btn';
-      expandBtn.textContent = 'הצג טקסט מלא';
-      expandBtn.setAttribute('aria-haspopup', 'dialog');
-      expandBtn.addEventListener('click', () => openFullText(item, expandBtn));
-      reel.append(expandBtn);
+      reel.append(summary);
     }
 
     if (index < visibleItems.length - 1) {
@@ -145,56 +118,6 @@
 
     return reel;
   }
-
-  // מסך "טקסט מלא" - מציג את תקציר ה-RSS במלואו (כפי שהמקור עצמו סיפק
-  // אותו ל-syndication) בתוך האפליקציה, בלי לצאת לכתבה המקורית. זה לא
-  // "הכתבה המלאה" במובן גירוד תוכן מוגן מהאתר - רק התקציר שה-RSS כבר
-  // חושף, לא חתוך יותר לתצוגה מקדימה קצרה. קישור לכתבה המקורית עדיין
-  // זמין במסך הזה למי שרוצה להמשיך לאתר.
-  function openFullText(item, triggerEl) {
-    modalTriggerEl = triggerEl;
-    textModalSource.textContent = item.source;
-    textModalTime.textContent = formatRelativeTime(item.pubDate);
-    textModalTitle.textContent = item.title;
-    textModalBody.textContent = item.summary;
-    textModalOriginalLink.href = item.link;
-    textModal.hidden = false;
-    stopAutoplay();
-    document.addEventListener('keydown', handleModalKeydown);
-    textModalClose.focus();
-  }
-
-  function closeFullText() {
-    textModal.hidden = true;
-    document.removeEventListener('keydown', handleModalKeydown);
-    modalTriggerEl?.focus();
-    modalTriggerEl = null;
-    scheduleAutoplay();
-  }
-
-  function handleModalKeydown(event) {
-    if (event.key === 'Escape') {
-      event.preventDefault();
-      closeFullText();
-      return;
-    }
-    if (event.key === 'Tab') {
-      // רק שני אלמנטים ניתנים לפוקוס במודל הזה - לכידת פוקוס פשוטה
-      // בלי ספרייה, כדי שטאב לא יברח מהמודל אל הפיד שמאחוריו.
-      const first = textModalClose;
-      const last = textModalOriginalLink;
-      if (event.shiftKey && document.activeElement === first) {
-        event.preventDefault();
-        last.focus();
-      } else if (!event.shiftKey && document.activeElement === last) {
-        event.preventDefault();
-        first.focus();
-      }
-    }
-  }
-
-  textModalClose.addEventListener('click', closeFullText);
-  textModal.querySelector('.text-modal__backdrop').addEventListener('click', closeFullText);
 
   function stopAutoplay() {
     if (autoplayTimer) {
@@ -271,7 +194,6 @@
   }
 
   function render() {
-    if (!textModal.hidden) closeFullText();
     stopAutoplay();
     observer?.disconnect();
     reelsEl.innerHTML = '';
