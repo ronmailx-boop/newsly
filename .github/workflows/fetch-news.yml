@@ -1,8 +1,12 @@
 name: Fetch news
 
 on:
+  # לא על השעה/רבעי השעה העגולים בכוונה - שם העומס הכי גבוה על GitHub
+  # Actions ולכן הכי סביר לעיכוב/דילוג. זה עדיין לא פותר את חוסר האמינות
+  # של GitHub scheduled workflows (רץ "best-effort", יכול לדלג ריצה
+  # שלמה בלי הודעה) - הפתרון המלא הוא trigger חיצוני, ראו PROJECT_STATE.md.
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch: {}
 
 permissions:
