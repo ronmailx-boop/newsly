@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:16:04.836Z",
+  "updatedAt": "2026-09-13T15:31:12.729Z",
   "sources": [
     {
       "key": "ynet",
@@ -27,6 +27,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3867478",
+      "title": "אימו של חלל צה\"ל נגד יוצרי הסרט \"נז\"א\": \"מי שרואה את ילדי האויב לפני ילדינו, משרת אותם\"",
+      "summary": "מעיין שרמן, אמו של החלל רון שרמן, תקפה את יוצרי הסרט \"נז\"א\" שזכה בפרס חבר השופטים בפסטיבל הסרטים בונציה. \"צריך להבין מה משרת את המטרה המשותפת שלנו ומה פוגע, ואפילו תורם להשיג את ההיפך, מי שלא מסוגל לראות את כל התמונה בשלמותה עלול לעשות נזק לכולנו\", כתבה",
+      "link": "https://news.walla.co.il/item/3867478",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-13T18:07:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3867471",
       "title": "קושנר: \"התקיפה הישראלית בקטאר - כישלון צבאי, אך זה מה שהוביל לעסקה בעזה\"",
@@ -64,6 +73,15 @@
       "pubDate": "2026-09-13T16:18:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21412119",
+      "title": "לא רק בלבנון: המדינות שבהן פאודה הכי נצפית בנטפליקס",
+      "summary": "נתוני הצפייה בנטפליקס חושפים תופעה חריגה: לצד שליטה בישראל, הסדרה הישראלית, שעוסקת בעונה החמישית ב-7 באוקטובר, כובשת ברציפות את המקום הראשון בלבנון, מככבת בצמרת הטבלאות בירדן ובמפרץ - ומבוקשת גם באירופה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21412119",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:26:48.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867457",
       "title": "השאהד חזר לטהרן משודרג: איראן ביקשה מרוסיה כטב\"מים מתקדמים נגד ישראל וארה\"ב",
       "summary": "איראן ביקשה מרוסיה כטב\"מים מתקדמים ממשפחת גרן לשימוש במלחמה נגד ישראל וארה\"ב, כך לפי דיווח ב\"פייננשל טיימס\",. הדגמים החדשים מגיעים למהירות של עד 600 קמ\"ש, נושאים ראש קרב של עד 90 ק\"ג ומצוידים במערכות הנחיה מתקדמות",
@@ -71,6 +89,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T15:21:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1365894",
+      "title": "עוד יממה של אלימות ביו\"ש: חייל נעצר והושעה משירות",
+      "summary": "חייל בסדיר נעצר לאחר אירוע אלימות באל מוע'ייר, שבו לפי החשד ביצע ירי. בצה\"ל הודיעו כי הושעה עד תום הבירור. ברקע, שורת אירועי אלימות נוספים של פעילי ימין קיצוני נגד פלסטינים",
+      "link": "https://www.maariv.co.il/news/military/article-1365894",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-13T15:18:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1hvvnvtfx",
+      "title": "קושנר: \"ניצלנו את כישלון התקיפה בקטאר - כדי לדחוף את ישראל להסכם בעזה\"",
+      "summary": "שליחו של הנשיא טראמפ התייחס בהופעה פומבית להסדר להפסקת הלחימה בעזה, ואמר כי הוא הושג לאחר שארצות הברית \"ניצלה את הבידוד הבינלאומי של ישראל לאחר התקיפה בדוחא - ודחפה אותה להסדר\"",
+      "link": "https://www.ynet.co.il/news/article/r1hvvnvtfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-13T15:16:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21412088",
+      "title": "\"לא ישנתי בלילה לפני\": אקס מכבי תל אביב על המפגש המצמרר בישראל",
+      "summary": "בראיון שנערך בהולנד, פטר בוס חזר לרגע שלא יישכח מתקופתו אצל הצהובים, כשפגש את האליל שלו יוהאן קרויף בחודש שבו הלך לעולמו: \"לא ידעתי על מצבו הבריאותי\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21412088",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:13:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21412072",
+      "title": "קושנר: \"ניצלנו את התקיפה הכושלת בדוחא כדי לדחוף את ישראל להסכם\"",
+      "summary": "חתנו ויועצו של נשיא ארה\"ב טען כי הממשל השתמש בדינמיקה שנוצרה לאחר ניסיון החיסול הכושל של בכירי חמאס • קושנר: \"בהתחלה הייתה אי-נוחות, אבל בסוף זה התברר כדבר מצוין עבור ישראל ותושבי עזה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21412072",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T15:01:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21412010",
@@ -1576,24 +1630,6 @@
       "pubDate": "2026-09-12T20:54:58.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21403403",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 13.09.2026",
-      "summary": "חוסר ההחלטיות של אדם קרוב, 'מצליח' להוציא אתכם מהכלים. מצד שני, לא תוכלו לשנות אותו",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21403403",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T20:30:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21403404",
-      "title": "מזל שור, תחזית הורוסקופ יומית 13.09.2026",
-      "summary": "חלום שאתם מטפחים הרבה זמן - מתגשם. אדם אשר בעבר הייתם מעוניינים בו, מנסה להתקרב אליכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21403404",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T20:30:44.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21403405",
       "title": "מזל תאומים, תחזית הורוסקופ יומית 13.09.2026",
       "summary": "אתם במיטבכם היום ונראה שיש לכם את היכולת להתגבר על משקעי העבר ולחדש כוחות. עליכם לשמור על עצמכם מפני השפעות של אחרים",
@@ -1679,6 +1715,24 @@
       "title": "מזל דגים, תחזית הורוסקופ יומית 13.09.2026",
       "summary": "פנייה חיובית ומפתיעה בתחום העבודה גורמת לכם לחוש מלאי תקווה ואופטימיים הרבה יותר מאשר חוויתם מזה זמן רב. &#xD; &#xD; בכלל, זהו יום חשוב מאוד בתחום הקריירה ועליכם לחשוב היטב לפני שאתם מתחייבים או חותמים על משהו",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21403886",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T20:30:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21403403",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 13.09.2026",
+      "summary": "חוסר ההחלטיות של אדם קרוב, 'מצליח' להוציא אתכם מהכלים. מצד שני, לא תוכלו לשנות אותו",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21403403",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-12T20:30:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21403404",
+      "title": "מזל שור, תחזית הורוסקופ יומית 13.09.2026",
+      "summary": "חלום שאתם מטפחים הרבה זמן - מתגשם. אדם אשר בעבר הייתם מעוניינים בו, מנסה להתקרב אליכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21403404",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-12T20:30:44.000Z"
