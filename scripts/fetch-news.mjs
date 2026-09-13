@@ -80,10 +80,14 @@ async function fetchRssSource(source) {
     }
 
     const items = rawItems
-      .map((item) => {
+      .map((item, i) => {
         const title = stripHtml(item.title);
         const link = extractLink(item);
-        const summary = truncate(stripHtml(item.description), MAX_SUMMARY_LENGTH);
+        const rawDescription = stripHtml(item.description);
+        if (i < 2) {
+          console.log(`[DIAG] [${source.key}] item ${i} raw description length=${rawDescription.length} endsWithEllipsis=${rawDescription.endsWith('…')} tail=${JSON.stringify(rawDescription.slice(-30))}`);
+        }
+        const summary = truncate(rawDescription, MAX_SUMMARY_LENGTH);
         const pubDate = parsePubDate(item.pubDate);
         if (!title || !link || !pubDate) return null;
         return {
