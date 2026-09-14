@@ -198,7 +198,7 @@
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'reel__decode-btn';
-    btn.textContent = '🔍 מה הכותרת מסתירה?';
+    btn.textContent = '🔍 קליקבייט? לחץ כאן';
     btn.addEventListener('click', () => runDecode(wrap, item));
     wrap.append(btn);
   }
