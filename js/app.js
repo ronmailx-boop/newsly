@@ -3,6 +3,9 @@
   const SPEED_STORAGE_KEY = 'newsly:autoplaySpeedSeconds';
   const DEFAULT_SPEED_SECONDS = 5;
   const VALID_SPEEDS = ['2', '5', '10', '20', 'off'];
+  const HIDDEN_STORAGE_KEY = 'newsly:hiddenItemIds';
+  const SWIPE_DELETE_THRESHOLD_PX = 100;
+  const SWIPE_DIRECTION_RATIO = 1.5; // כמה שגלילה אופקית צריכה להיות דומיננטית על פני אנכית
 
   const reelsEl = document.getElementById('reels');
   const statusEl = document.getElementById('status-message');
@@ -20,6 +23,16 @@
   let observer = null;
   let speedSeconds = loadSpeedSetting();
   let wakeLock = null;
+  let hiddenIds = loadHiddenIds();
+
+  // מגע אופקי (swipe) למחיקת כותרת - נעקב ברמת #reels (event delegation)
+  // כדי לא להוסיף 3 מאזינים לכל reel בנפרד.
+  let touchStartX = 0;
+  let touchStartY = 0;
+  let swipingReel = null;
+  let swipeDeltaX = 0;
+  let isHorizontalSwipe = false;
+  let suppressNextClick = false;
 
   function loadSpeedSetting() {
     try {
@@ -35,6 +48,26 @@
       localStorage.setItem(SPEED_STORAGE_KEY, value);
     } catch {
       // אחסון מקומי לא זמין (מצב פרטי וכו') - לא קריטי, פשוט לא נשמר
+    }
+  }
+
+  // כותרות שהוסתרו ע"י המשתמש (swipe + אישור) - מקומי למכשיר בלבד,
+  // לא נוגע ב-data/news.json המשותף. נשמר לפי item.id (מקור+קישור),
+  // כך שההסתרה שורדת גם רענון עתידי של הפיד כל עוד הכתבה עדיין קיימת בו.
+  function loadHiddenIds() {
+    try {
+      const stored = JSON.parse(localStorage.getItem(HIDDEN_STORAGE_KEY) ?? '[]');
+      return new Set(Array.isArray(stored) ? stored : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  function saveHiddenIds() {
+    try {
+      localStorage.setItem(HIDDEN_STORAGE_KEY, JSON.stringify([...hiddenIds]));
+    } catch {
+      // אחסון מקומי לא זמין - לא קריטי, פשוט לא נשמר
     }
   }
 
@@ -118,6 +151,82 @@
 
     return reel;
   }
+
+  // מבקש אישור ומסתיר כותרת לצמיתות (במכשיר הזה) אחרי swipe אופקי.
+  function confirmAndDeleteReel(item, reelEl) {
+    const confirmed = window.confirm(`להסתיר את הכותרת "${item.title}"?\nהיא לא תוצג יותר בפיד.`);
+    if (!confirmed) {
+      reelEl.style.transform = '';
+      return;
+    }
+    hiddenIds.add(item.id);
+    saveHiddenIds();
+    allItems = allItems.filter((existing) => existing.id !== item.id);
+    render();
+  }
+
+  reelsEl.addEventListener(
+    'touchstart',
+    (event) => {
+      const reel = event.target.closest('.reel');
+      if (!reel) return;
+      touchStartX = event.touches[0].clientX;
+      touchStartY = event.touches[0].clientY;
+      swipingReel = reel;
+      swipeDeltaX = 0;
+      isHorizontalSwipe = false;
+    },
+    { passive: true }
+  );
+
+  reelsEl.addEventListener(
+    'touchmove',
+    (event) => {
+      if (!swipingReel) return;
+      const dx = event.touches[0].clientX - touchStartX;
+      const dy = event.touches[0].clientY - touchStartY;
+      if (!isHorizontalSwipe && Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * SWIPE_DIRECTION_RATIO) {
+        isHorizontalSwipe = true;
+        swipingReel.classList.add('is-swiping');
+      }
+      if (isHorizontalSwipe) {
+        swipeDeltaX = dx;
+        swipingReel.style.transform = `translateX(${dx}px)`;
+        swipingReel.style.opacity = String(Math.max(0.3, 1 - Math.abs(dx) / 300));
+      }
+    },
+    { passive: true }
+  );
+
+  reelsEl.addEventListener(
+    'touchend',
+    () => {
+      if (swipingReel && isHorizontalSwipe) {
+        const reel = swipingReel;
+        reel.classList.remove('is-swiping');
+        reel.style.opacity = '';
+        suppressNextClick = true;
+        if (Math.abs(swipeDeltaX) > SWIPE_DELETE_THRESHOLD_PX) {
+          const index = Number(reel.dataset.index);
+          confirmAndDeleteReel(visibleItems[index], reel);
+        } else {
+          reel.style.transform = '';
+        }
+      }
+      swipingReel = null;
+      isHorizontalSwipe = false;
+      swipeDeltaX = 0;
+    },
+    { passive: true }
+  );
+
+  // מונע פתיחת הקישור המקורי כשמה שקרה בפועל היה swipe (לא הקשה).
+  reelsEl.addEventListener('click', (event) => {
+    if (suppressNextClick) {
+      event.preventDefault();
+      suppressNextClick = false;
+    }
+  });
 
   function stopAutoplay() {
     if (autoplayTimer) {
@@ -265,7 +374,18 @@
         throw new Error(`HTTP ${response.status}`);
       }
       const data = await response.json();
-      allItems = data.items ?? [];
+      const fetchedItems = data.items ?? [];
+
+      // גיזום מזהים מוסתרים שכבר לא קיימים בפיד (אף פעם לא יופיעו שוב) -
+      // כדי שה-localStorage לא יגדל בלי גבול עם הזמן.
+      const fetchedIds = new Set(fetchedItems.map((item) => item.id));
+      const prunedHidden = new Set([...hiddenIds].filter((id) => fetchedIds.has(id)));
+      if (prunedHidden.size !== hiddenIds.size) {
+        hiddenIds = prunedHidden;
+        saveHiddenIds();
+      }
+
+      allItems = fetchedItems.filter((item) => !hiddenIds.has(item.id));
 
       if (data.updatedAt) {
         updatedAtEl.textContent = `עודכן לאחרונה: ${new Date(data.updatedAt).toLocaleString('he-IL')}`;
