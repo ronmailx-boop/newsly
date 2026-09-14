@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:16:03.365Z",
+  "updatedAt": "2026-09-14T05:31:11.251Z",
   "sources": [
     {
       "key": "ynet",
@@ -91,6 +91,51 @@
       "pubDate": "2026-09-14T06:00:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21414120",
+      "title": "מקרה \"פאודה\" ו\"נז\"א\": שתי יצירות \"תעמולה במסווה של אמנות\"",
+      "summary": "שתי יצירות ישראליות מטלטלות את העולם ואת ישראל • אחת כובשת את מדינות האויב, והשנייה גורמת לישראלים לאבד רסן",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21414120",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T05:24:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/uman-british-father-found-dead-forest",
+      "title": "נמשכים המאמצים לשחרור גופת הישראלי שגופתו נמצאס סמוך לציון רבי נחמן באומן",
+      "summary": "יצחק אלמקייס, תושב אנגליה, אותר ללא רוח חיים ביער סמוך לציון רבי נחמן • עסקני איחוד הצלה פועלים מול הרשויות | המאמצים לשחרור הגופה (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim/uman-british-father-found-dead-forest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T05:22:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21414165",
+      "title": "הגלגל הרזרבי הסתיר את השלל: בן 19 נעצר עם יותר מ-6 ק\"ג סמים",
+      "summary": "תושב שגב שלום, שעל פי החשד החזיק ברכבו סמים בשווי מאות אלפי שקלים נעצר במנהרות יקנעם • הסמים הוסלקו בשקית שחורה מאחורי הגלגל הרזרבי",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21414165",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T05:17:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1366029",
+      "title": "דונלד טראמפ: \"אתם צודקים, ארה\"ב מרגלת אחרי סין\"",
+      "summary": "נשיא ארצות הברית נשאל האם סין סייעה להרוג חיילים אמריקאים - והתחמק // טראמפ נשאל האם ארה\"ב עוקבת אחרי סין - ולא הותיר מקום לספק",
+      "link": "https://www.maariv.co.il/news/world/article-1366029",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T05:17:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1366032",
+      "title": "100 אלף מילואימניקים יושבים בבית - צריך להחזיר אותם לשירות | יצחק בריק",
+      "summary": "חיסלנו את הנהגת חיזבאללה, אך אפשרנו לארגון להשתקם. כעת, בגלל שחיקת צבא היבשה, אנחנו נסוגים מ\"הקו הצהוב\" - ויישובי הצפון יחזרו לחיות תחת איום מתמיד. יש עוד מה לעשות - אבל חלון ההזדמנויות בדרך להיסגר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1366032",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T05:15:18.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21414122",
       "title": "\"שקר מוחלט, אין ראיות לטענות\": צה\"ל נגד יוצרי הסרט נז\"א",
       "summary": "בעקבות זכיית הסרט התיעודי בפסטיבל ונציה מפרסם הצבא הכחשה גורפת לטענות על הרג מחושב של אזרחים בעזה • דובר צה\"ל טוען שהעדויות מבוססות על חיילים זוטרים שלא מכירים את אסטרטגיית הלחימה ומבהיר כי החלטות התקיפה מתקבלות על ידי אדם ולא באמצעות בינה מלאכותית",
@@ -98,6 +143,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T04:59:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1366021",
+      "title": "המדינה האירופית שבנתה צבא מפלצתי מבהירה: \"נפיל את רוסיה ב-6 שבועות\"",
+      "summary": "שר החוץ הפולני מציג קו תקיף ומיליטנטי אל מול האיום הרוסי וטוען כי רוסיה נכשלה שוב ושוב בניסיון להפוך למעצמה. הוא טוען שמדינתו, והחברות בברית נאט\"ו, התעצמו באופן שלא משאיר לרוסיה סיכוי בתרחיש של עימות",
+      "link": "https://www.maariv.co.il/news/world/article-1366021",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T04:58:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1366021",
@@ -116,6 +170,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-14T04:51:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1366020",
+      "title": "הסיפור המטורף של הקצין האמריקאי באיראן: התרסקות במהירות של 110 קמ\"ש",
+      "summary": "בריאיון מדהים, סיפר הקצין האמריקאי שהופל מעל שמי איראן, על עשרות השעות שבהן היה מעבר לקווי האויב: השבר בגב ובמקומות נוספים, מה הביא לו את התקווה הגדולה שיצא בחיים, ומה הרגיש כשמטוס הקרב נפגע",
+      "link": "https://www.maariv.co.il/news/world/article-1366020",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T04:41:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1366020",
