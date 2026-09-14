@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:31:11.473Z",
+  "updatedAt": "2026-09-14T09:46:05.064Z",
   "sources": [
     {
       "key": "ynet",
@@ -172,6 +172,15 @@
       "pubDate": "2026-09-14T09:34:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1366146",
+      "title": "DNA מסיגריות: הברחת הסמים מישראל למצרים נתפסה",
+      "summary": "וליד אלעתאיקה דנפירי נאשם שהטיס עם שותף סמים למצרים ברחפן. תצפיתנית וחיילי מילואים עקבו אחר השניים, והמשטרה איתרה אותו מסתתר מתחת לדלפק בבית קפה כשידית שלט נמצאה על גופו",
+      "link": "https://www.maariv.co.il/news/law/article-1366146",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T09:33:30.000Z"
+    },
+    {
       "id": "walla:https://e.walla.co.il/item/3867582",
       "title": "מהפך בתעשיית הבידור: טדי הפקות כבר לא בשליטת טמירה ירדני",
       "summary": "אחרי יותר מחמישה עשורים, שבהם הייתה אחת הדמויות המשפיעות ביותר בתעשיית הבידור והטלוויזיה בישראל, טמירה ירדני מעבירה את השליטה בטדי הפקות החברה שהקימה יחד עם בעלה דודו ירדני ב-1973, ושבמהלך השנים עמדה מאחורי כמה מהלהיטים הגדולים ביותר של הטלוויזיה הישראלית. גרעין השליטה בחברה המוערכת בשווי של כ-50 מיליון שקלים הועבר ליואב צפיר. טדי, שהחלה את דרכה כחברה לניהול והפקת אמנים ובהמשך הפכה לאחת מחברות ההפקה המרכזיות בישראל, חתומה לאורך השנים על שורה ארוכה של תוכניות וסדרות, בהן \"כוכב נולד\", \"הכוכב הבא\", \"רוקדים עם כוכבים\", \"השיר שלנו\", \"השמינייה\", \"שמש\" ו-\"סברי מרנן\". לצד ירדני, אחת הדמויות המרכזיות בחברה לאורך השנים הוא צפיר.",
@@ -179,6 +188,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-14T09:28:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21415455",
+      "title": "רשת ''חצי חינם'' במהלך מפתיע במיוחד - בסניף החדש",
+      "summary": "בסניף רחובות החדש הרשת חושפת קונספט שלא הכרתם ממנה, בהובלת שני שפים ותיקים • ומה שקורה שם בסופי השבוע כבר חורג מכל מה שהיכרתם בסופר",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21415455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:27:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/wellness/article/21414737",
+      "title": "אם נדמיין את זה, זה באמת יקרה? מה המדע אומר על טרנד \"הזימונים\"",
+      "summary": "ברשתות החברתיות כבר קוראים לזה \"מניפסטינג\", אבל מחקרים בתחום הזיכרון מציעים הסבר אחר: הדמיון אולי לא יכול לזמן אלינו את החיים שאנחנו רוצים, אבל הוא עשוי לעזור לנו לזכור לפעול כדי להתקרב אליהם",
+      "link": "https://www.israelhayom.co.il/lifestyle/wellness/article/21414737",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:26:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21415997",
+      "title": "\"הבאתם לעולם רוצחת\": עימות סוער במשפט הרצח של בניהו רזי ז\"ל",
+      "summary": "במהלך הדיון בתיק הרצח שזעזע מדינה שלמה נרשם עימות סוער בין דקלה רזי, אימו של המנוח, לבין הוריה של שילת חוטה, אחת הנאשמות בפרשה • הוריה של חוטה הגיבו: \"נתבע אותך, האמת תצא לאור\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21415997",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:24:01.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/daycare-abuse-netanya-sentence",
@@ -190,6 +226,24 @@
       "pubDate": "2026-09-14T09:23:16.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21416123",
+      "title": "כוכב \"ארץ נהדרת\" עצר לקפה, בעלו נחלץ לעזרה",
+      "summary": "ארז לייזרוביץ' ובעלו ארז ברגר ניצלו את הבוקר לקפה לפני העבודה, ואז משהו קטן שנתקע בשיניים סיפק רגע זוגי שקשה לביים",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21416123",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:23:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21415577",
+      "title": "\"המומיה הצורחת\": חוקרים פענחו תעלומה בת 3,000 שנה",
+      "summary": "סריקות טכנולוגיות מתקדמות בקהיר חשפו כי פיה הפעור של \"האישה הצורחת\" אינו תוצאה של חניטה רשלנית - אלא עווית גוויה נדירה ברגע המוות • הגופה נחנטה בחומרים יקרים במיוחד, אך האיברים הפנימיים לא הוצאו",
+      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21415577",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:21:35.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867593",
       "title": "טורקיה נגד קהילת הלהט\"ב: עשרות נעצרו במבצע לילי",
       "summary": "המשטרה במדינה פרצה למשרדי ארגונים ולמקומות בילוי המזוהים עם הקהילה ופשטה גם על בתיהם של פעילים. המבצע מגיע לאחר שנים של החרפת היחס כלפי הקהילה הגאה תחת שלטונו של ארדואן. \"המטרה היא להגן על ילדים - על מוסד המשפחה ועל הסדר הציבורי\"",
@@ -199,6 +253,15 @@
       "pubDate": "2026-09-14T09:21:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21416038",
+      "title": "רשת המזון המקסיקנית פותחת סניף דגל חדש - במיקום נחשק במיוחד",
+      "summary": "רשת הטקס-מקס \"רפידוס\" מקבוצת BBB ממשיכה דרומה ופותחת שער בעיר עמוסת התיירים, בהשקעה של כמיליון שקל • מה יחכה שם, ואיזו מנה כבר הפכה לחתימה של הרשת",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21416038",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:17:57.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/h1nydxsfme",
       "title": "הפוסט מ-2024 מחכה לך בשדה התעופה",
       "summary": "חייל משוחרר נוחת לחופשה ובזמן שהוא עומד בתור לביקורת גבולות, מונחת אצל הרשויות המקומיות תלונה פלילית נגדו. הבסיס לתלונה הוא לא מודיעין, לא מסמך מסווג ולא הדלפה. הבסיס הוא סרטון שהוא עצמו העלה לסטורי לפני שנתיים",
@@ -206,6 +269,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-14T09:16:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/wellness/article/21415653",
+      "title": "מחבר \"חוכמת האדישות\" מזהיר: \"זה מוביל לאסון\"",
+      "summary": "מארק מנסון מתריע מפני המלכודת שמשאירה דור שלם אבוד ובודד, בטוח שהחיפוש המתמיד הוא אשליה שמחבלת בחיים, ומסביר מדוע הדרך היחידה למצוא משמעות היא דווקא להתחיל לסגור דלתות",
+      "link": "https://www.israelhayom.co.il/lifestyle/wellness/article/21415653",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T09:15:53.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/84519",
@@ -260,6 +332,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T09:07:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlcjiq",
+      "title": "\"בן סלמאן שולח מסר לחות'ים\": אחרי המתקפות - מטוסי הקרב הסעודיים חוזרים לשמי תימן",
+      "summary": "אחרי סדרת המתקפות על שטחה וההתקדמות החות'ית לעבר עורק הסחר העולמי, תיעוד חדש מציג את מטוסי הקרב הסעודיים – המסר של ריאד לחות'ים הולך ומתחדד | בשבוע האחרון הצליחו החות'ים לרשום שורה של הישגים משמעותיים והגדילו את האיום על אחד מנתיבי השיט החשובים בעולם. במקביל, הגבירו את התקיפות נגד סעודיה באמצעות טילים וכטב\"מים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tlcjiq",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T09:07:07.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tlcjiq",
@@ -335,6 +416,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1366109",
+      "title": "סערת הסרט נז\"א: מיקי זוהר רומז - מידע פנימי של צה\"ל ומקורות מחמאס",
+      "summary": "שר התרבות מיקי זוהר מתעקש לעשות כל שביכולתו לשלילת אזרחותם של יובל אברהם ורחל שור, יוצרי הסרט \"נזק אגבי\". לטענתו, יתכן שהחומרים עליהם מבוסס הסרט הושגו באופן שמהווה בגידה במדינה - ורומז למקורות בחמאס",
+      "link": "https://www.maariv.co.il/news/politics/article-1366109",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T08:56:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1366109",
       "title": "לאחר ההאשמה בבגידה - מיקי זוהר רומז: המקורות של נז\"א בחמאס",
       "summary": "שר התרבות מיקי זוהר מתעקש לעשות כל שביכולתו לשלילת אזרחותם של יובל אברהם ורחל שור, יוצרי הסרט \"נזק אגבי\". לטענתו, יתכן שהחומרים עליהם מבוסס הסרט הושגו באופן שמהווה בגידה במדינה - ורומז למקורות בחמאס",
       "link": "https://www.maariv.co.il/news/politics/article-1366109",
@@ -395,6 +485,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-14T08:43:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1366121",
+      "title": "ילדה הופלה בכוונה מהכיסא, אחרים נזרקו - גזר דין בפרשה האיומה",
+      "summary": "שבע שנות מאסר נגזרו על שלי שיינקר, סייעת מתעללת מגן ילדים בנתניה. על פי כתב האישום, את כלל העבירות היא ביצעה במהלך חודש אחד",
+      "link": "https://www.maariv.co.il/news/law/article-1366121",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T08:41:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1366121",
@@ -2368,6 +2467,51 @@
       "pubDate": "2026-09-13T20:30:23.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21403085",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 14.09.2026",
+      "summary": "יום גדוש שינויים. במקום לקטר, עליכם להגדיר את מה שאתם רוצים בצורה מדויקת, במיוחד בתחום העבודה",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21403085",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T20:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21403086",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 14.09.2026",
+      "summary": "מתבררות לכם עובדות שלאחרים ברורות כבר מזמן. הגיע הרגע להתנתק ממסגרת שמגבילה אתכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21403086",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T20:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21403188",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 14.09.2026",
+      "summary": "יום של החלטות. אתם מחליטים לשנות את דרך הפעולה שלכם, לפחות בתחום אחד בחיים",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21403188",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T20:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21403189",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 14.09.2026",
+      "summary": "יום עמוס. יותר מידי אחריות מונחת על הכתפיים שלכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21403189",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T20:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21403190",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 14.09.2026",
+      "summary": "היום, יותר מתמיד, אתם מגלים עד כמה אתם רגשניים ואיך אירועים חיצוניים שקשורים בכלל לאנשים אחרים - משפיעים עליכם. &#xD; &#xD; הזדהות רבה עם אחרים, אינה בהכרח תכונה שלילית וחבל שתכעסו על עצמכם בגלל הנטייה לאלטרואיזם",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21403190",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-13T20:30:12.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21392065",
       "title": "מזל טלה, תחזית הורוסקופ יומית 14.09.2026",
       "summary": "יש צורך דחוף לעשות סדר בבלאגן ולקחת אחריות על ענייני כספים. אדם קרוב מדאיג אתכם בגלל התנהגות מוטרפת משהו",
@@ -2426,51 +2570,6 @@
       "title": "מזל מאזניים, תחזית הורוסקופ יומית 14.09.2026",
       "summary": "צפויה לכם אנרגיה פיסית רבה מהרגיל. עניינים הקשורים לנושאים רגשיים יעסיקו אתכם",
       "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21403084",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21403085",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 14.09.2026",
-      "summary": "יום גדוש שינויים. במקום לקטר, עליכם להגדיר את מה שאתם רוצים בצורה מדויקת, במיוחד בתחום העבודה",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21403085",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21403086",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 14.09.2026",
-      "summary": "מתבררות לכם עובדות שלאחרים ברורות כבר מזמן. הגיע הרגע להתנתק ממסגרת שמגבילה אתכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21403086",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21403188",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 14.09.2026",
-      "summary": "יום של החלטות. אתם מחליטים לשנות את דרך הפעולה שלכם, לפחות בתחום אחד בחיים",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21403188",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21403189",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 14.09.2026",
-      "summary": "יום עמוס. יותר מידי אחריות מונחת על הכתפיים שלכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21403189",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21403190",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 14.09.2026",
-      "summary": "היום, יותר מתמיד, אתם מגלים עד כמה אתם רגשניים ואיך אירועים חיצוניים שקשורים בכלל לאנשים אחרים - משפיעים עליכם. &#xD; &#xD; הזדהות רבה עם אחרים, אינה בהכרח תכונה שלילית וחבל שתכעסו על עצמכם בגלל הנטייה לאלטרואיזם",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21403190",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-13T20:30:12.000Z"
