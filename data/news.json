@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T12:16:08.041Z",
+  "updatedAt": "2026-09-14T12:31:10.607Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,7 +39,7 @@
     {
       "id": "walla:https://news.walla.co.il/item/3867677",
       "title": "נתניהו ביקש מלפיד לפתוח את התקציב - והוא השיב: נסכים אם תקצצו בכספי החרדים",
-      "summary": "",
+      "summary": "בפגישה שנערכה בין ראש הממשלה ליו\"ר האופוזיציה, ביקש נתניהו לפתוח את חוק התקציב כדי להעביר עוד כספים למערכת הבטחון. לפיד הסכים לתמוך בהצעה בתנאי שיקוצצו העברות הכספים הקואליציוניים לחרדים. הרקע לישיבה נעשה על הבור התקציבי בשווי מיליארדים במערכת הביטחון",
       "link": "https://news.walla.co.il/item/3867677",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -82,6 +82,69 @@
       "pubDate": "2026-09-14T12:46:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-lapid-budget-meeting-defense-coalition-f",
+      "title": "יאיר לפיד טוען: זה מה שביקש ממני נתניהו בפגישה הביטחונית היום",
+      "summary": "ראש הממשלה ביקש מיו\"ר האופוזיציה לתמוך בפתיחת התקציב להגדלת תקציב הביטחון • לפיד הסכים תוך שמציב תנאי ומשתלח בחרדים: \"תבטלו את הכספים הקואליציוניים ותפסיקו לממן את ההשתמטות החרדית\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-lapid-budget-meeting-defense-coalition-f",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T12:30:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21418199",
+      "title": "הקבוצה שמעוניינת לצרף את תמיר בלאט | פרסום ראשון",
+      "summary": "הרכז לא נמצא בתוכניות של הפועל תל אביב ומבוקש בקבוצת יורוקאפ • עשוי לשתף פעולה עם שם ענק מהיורוליג ואקס הפועל ירושלים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21418199",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:29:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21418134",
+      "title": "פרשת חטיפת יהלי בן ה-10: \"החזיק אותו במקלט ומנע ממנו לצאת\"",
+      "summary": "יגאל בוסקילה, החשוד בחטיפתו של הילד מפתח תקווה לבני ברק, יישאר במעצר עד יום רביעי • נציג המשטרה: \"הילד בכה, אך הוא מנע ממנו לצאת\" • שתי תלונות נוספות התקבלו נגדו מאז מעצרו • בדיון הבא צפויה הצהרת תובע לקראת הגשת כתב אישום",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21418134",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:26:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21415903",
+      "title": "קשה, עלומה או חביתה? זו הדרך הבריאה ביותר להכין ביצה",
+      "summary": "ביצים הן מקור נגיש לחלבון ולרכיבים תזונתיים חשובים, אבל לא כל שיטות ההכנה משפיעות עליהן באותה צורה • מומחי תזונה מסבירים איזו שיטה עדיפה, ממה כדאי להימנע ואיך להכין גם חביתה ומקושקשת בצורה טובה יותר",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21415903",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:24:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21417953",
+      "title": "המשקה שמעלה ב-38% את הסיכון למוות - והמזון שמפחית אותו שליש",
+      "summary": "מחקר בריטי רחב היקף בחן את הרגלי התזונה של יותר מ־177 אלף איש ומצא פערים משמעותיים בין מזונות אולטרה־מעובדים לבין מזונות המזוהים עם התזונה הים־תיכונית",
+      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21417953",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:23:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/yosef-haddad-attacks-arab-parties-mansour-abbas",
+      "title": "המועמד במפלגתו של וינטר: \"בז לאנשים האלה, בא להעיף אותם מהכנסת\"",
+      "summary": "מספר שתיים במפלגת \"עמך ישראל\" לכנסת, בראשות עופר וינטר, תקף היום בחריפות את המפלגות הערביות - כשנשאל על שיתוף פעולה • \"לא אכפת לי מעזה וג'נין, אכפת לי מפה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/yosef-haddad-attacks-arab-parties-mansour-abbas",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T12:23:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21418062",
+      "title": "עלות המונופול: זה הסכום הנוסף שתשלם החברה המרכזית למשקאות למדינה",
+      "summary": "הממונה על התחרות הודיעה כי מעבר לעיצום הכספי בסך 18 מיליון שקל שהוטל בשנה החולפת, תשלם החברה מיליון שקלים וחצי נוספים",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21418062",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:22:45.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867626",
       "title": "החשש לטעות בתרומת זרע באסותא: המטופלת מסרבת לבדיקה גנטית נוספת",
       "summary": "המטופלת שבחרה להרות מתרומת זרע מגבר ספציפי ועל פי החשש תורם הזרע שממנו נולדו ילדיה אינו תואם גנטית מסרבת לשתף פעולה. בדיקה נוספת של מנות הזרע עצמן יכולה לשפוך אור על המקרה אך הן שייכות לאם. אסותא: \"מהבדיקות עד כה עולה שהתיעודים בתיק הרפואי תקינים\"",
@@ -89,6 +152,51 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-14T12:22:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21417951",
+      "title": "הדרמה בצפון אפריקה: משבר ההגירה שמטלטל את התיירות",
+      "summary": "עימותי הגבול במובלעת הספרדית סאוטה מובילים לגל ביטולי חופשות של תיירים ספרדים למרוקו • כלכלת האזור סופגת נזקים של מיליוני יורו ביום • בלשכת התיירות הספרדית דורשים התערבות ממשלתית דחופה מול הכאוס",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21417951",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:20:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21417830",
+      "title": "17 ק״ג חשיש הוברחו לגבול ירדן: בפרשה מעורב קטין",
+      "summary": "לפי כתב האישום, שלושת הנאשמים פעלו יחד עם נער, שלו הובטחו 10,000 שקלים תמורת חלקו בהברחה • 36 חבילות נתפסו בצד הירדני • נגד הקטין הוגש הליך נפרד, ובמקביל ביקשה הפרקליטות את מעצר המעורבים עד תום ההליכים",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21417830",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:17:53.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1366228",
+      "title": "הפלונטר סביב תקציב צה\"ל: נתניהו פנה ללפיד - וקיבל תשובה נוקבת",
+      "summary": "ברקע למשבר תקציבי בצה\"ל ולעיכוב בהעברת מיליארדים למערכת הביטחון, נתניהו ביקש מלפיד לתמוך בפתיחת התקציב. לפיד הסכים לתוספת, אך דרש לממן אותה מביטול כספים קואליציוניים",
+      "link": "https://www.maariv.co.il/news/politics/article-1366228",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T12:16:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21417897",
+      "title": "עדי ואסי בוזגלו יצאו מישראל: \"שקט מכולם\"",
+      "summary": "כוכבת הריאליטי ובעלה זוכה \"הישרדות\" לא בילו את חג ראש השנה בארץ. בסשן של שאלות ותשובות היא חשפה את הסיבה לכך. ובמה היא מרגישה שהיא נכשלת בימים אלה?",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21417897",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:16:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21417803",
+      "title": "הפועל מדאיגה, אבל מכבי תל אביב צריכה להוכיח שהעיר עדיין צהובה",
+      "summary": "הניצחון בדרבי אשתקד היה שלב אחד במסע החזרה של האדומים לצמרת הכדורגל הישראלי • ולמרות זאת, הצהובים הם עדיין הפייבוריטים • אפשר רק לייחל שההכרעה בדרבי לא תושפע מהאבוקות",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21417803",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-14T12:15:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21417784",
