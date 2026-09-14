@@ -38,3 +38,31 @@ jobs:
             echo ""
             echo ""
           done
+
+      - name: Follow n12.co.il redirects to see final destination
+        run: |
+          for url in "https://www.n12.co.il/rss.xml" "https://www.n12.co.il/feed" "https://www.n12.co.il/rss/news.xml"; do
+            echo "=== $url (following redirects) ==="
+            curl -sS -L -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" -w "\nFINAL_URL:%{url_effective}\nHTTP_STATUS:%{http_code}\n" --max-time 10 "$url" -o /tmp/redirected.xml
+            echo "content_type/size:"
+            wc -c < /tmp/redirected.xml
+            head -c 200 /tmp/redirected.xml
+            echo ""
+          done
+
+      - name: Inspect full content of news-israel.xml (titles, dates, item count)
+        run: |
+          curl -sS -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" --max-time 15 \
+            "https://www.mako.co.il/rss/news-israel.xml" -o /tmp/news-israel.xml
+          echo "=== byte size ==="
+          wc -c < /tmp/news-israel.xml
+          echo "=== item count ==="
+          grep -o "<item>" /tmp/news-israel.xml | wc -l
+          echo "=== channel title/description ==="
+          grep -oE "<title>[^<]*</title>|<description>[^<]*</description>" /tmp/news-israel.xml | head -6
+          echo "=== first 10 item titles ==="
+          grep -oE "<title>[^<]*</title>" /tmp/news-israel.xml | sed -n '2,11p'
+          echo "=== first 10 pubDates ==="
+          grep -oE "<pubDate>[^<]*</pubDate>" /tmp/news-israel.xml | head -10
+          echo "=== first 10 links ==="
+          grep -oE "<link>[^<]*</link>" /tmp/news-israel.xml | head -10
