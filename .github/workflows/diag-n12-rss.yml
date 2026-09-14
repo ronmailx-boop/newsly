@@ -1,0 +1,40 @@
+name: Diagnose N12 RSS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check mako RSS index page for a channel-12/N12 feed
+        run: |
+          echo "=== mako RSS index page ==="
+          curl -sS -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" \
+            "https://www.mako.co.il/rss/Article-64159d874b70221004.htm" \
+            -w "\nHTTP_STATUS:%{http_code}\n" -o /tmp/mako-rss-index.html
+          echo "--- extracted .xml / rss links ---"
+          grep -oE 'https?://[^"'"'"' ]+\.(xml|rss)[^"'"'"' ]*' /tmp/mako-rss-index.html | sort -u || echo "none found"
+          echo "--- lines mentioning 'rss' (context) ---"
+          grep -i "rss" /tmp/mako-rss-index.html | head -40
+
+      - name: Try plausible mako/n12 RSS feed URL patterns directly
+        run: |
+          for url in \
+            "https://www.mako.co.il/rss/news-israel.xml" \
+            "https://www.mako.co.il/rss/news-military.xml" \
+            "https://www.mako.co.il/rss/news-law.xml" \
+            "https://www.mako.co.il/news-channel12?type=rss" \
+            "https://www.n12.co.il/rss.xml" \
+            "https://www.n12.co.il/feed" \
+            "https://www.n12.co.il/rss/news.xml" \
+            ; do
+            echo "=== $url ==="
+            status=$(curl -sS -o /tmp/body.xml -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" -w "%{http_code}" --max-time 10 "$url" || echo "ERR")
+            ct=$(curl -sS -o /dev/null -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" -w "%{content_type}" --max-time 10 "$url" || echo "ERR")
+            size=$(wc -c < /tmp/body.xml)
+            echo "status=$status content_type=$ct bytes=$size"
+            head -c 200 /tmp/body.xml
+            echo ""
+            echo ""
+          done
