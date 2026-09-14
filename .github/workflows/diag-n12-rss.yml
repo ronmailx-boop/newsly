@@ -66,3 +66,20 @@ jobs:
           grep -oE "<pubDate>[^<]*</pubDate>" /tmp/news-israel.xml | head -10
           echo "=== first 10 links ==="
           grep -oE "<link>[^<]*</link>" /tmp/news-israel.xml | head -10
+
+      - name: Check whether a real mako.co.il article page is anti-bot blocked
+        run: |
+          url="https://www.mako.co.il/news-israel/2026_q3/Article-61ff219f82f90a1027.htm"
+          echo "=== $url ==="
+          curl -sS -A "Mozilla/5.0 (compatible; NewslyBot/1.0)" \
+            -D /tmp/article-headers.txt -o /tmp/article-body.html \
+            -w "\nHTTP_STATUS:%{http_code}\n" --max-time 15 "$url"
+          echo "--- response headers ---"
+          cat /tmp/article-headers.txt
+          echo "--- body size ---"
+          wc -c < /tmp/article-body.html
+          echo "--- body snippet (first 400 chars) ---"
+          head -c 400 /tmp/article-body.html
+          echo ""
+          echo "--- does body contain the article's own title text? ---"
+          grep -c "סייעת בגן\|תינוקות" /tmp/article-body.html || echo "0 (not found)"
