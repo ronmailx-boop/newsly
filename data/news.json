@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T13:02:27.746Z",
+  "updatedAt": "2026-09-14T13:16:05.030Z",
   "sources": [
     {
       "key": "ynet",
@@ -27,6 +27,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3867693",
+      "title": "חולייה פרצה למפעל בדרום - וגנבה כספת עם צ'קים בשווי מיליוני שקלים | פרסום ראשון",
+      "summary": "בעלים של מפעל במועצה האזורית שדות נגב גילה כי במהלך החג המקום נפרץ, ונגנבה ממנו כספת שהכילה צ'קים בשווי מיליוני שקלים. במהלך ימי החג התרעת ביטחון הופעלה במפעל, אך כוחות שהגיעו למקום לא מצאו זכר לפריצה - ובעל המקום גילה על כך בעצמו",
+      "link": "https://news.walla.co.il/item/3867693",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-14T15:56:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3867191",
       "title": "עם 3 גברים: בוני בלו הצטלמה עם התינוק לקידום פעלול מיני - והסתבכה",
@@ -71,6 +80,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-14T13:59:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-denies-china-iran-satellite-images-report",
+      "title": "מחייך ותוקע סכין: כך סייעה סין לאיראן להרוג חיילים אמריקנים - וכך הגיב טראמפ",
+      "summary": "הוול סטריט ג'ורנל דיווח אמש על סיוע סיני דרמטי לאיראן במתקפה שבה נהרגו 3 חיילים | סין הגיבה בחריפות: 'מתנגדים לחשדות בלתי מבוססים' | הוול סטריט ג'ורנל משוכנע: סין סייעה לאיראן באופן אקטיבי | הדיווח מתפרסם לקראת הפגישה עם שי ג'ינפינג - וכך הגיב טראמפ (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-denies-china-iran-satellite-images-report",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T13:12:59.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21418309",
@@ -278,6 +296,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T12:42:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1366242",
+      "title": "דיאטנים ממליצים: 5 פירות שכדאי לכם להתחיל לאכול בכל יום",
+      "summary": "מחקרים מוכיחים שהאוכל שלכם יכול להאט דרמטית את הירידה הקוגניטיבית שמגיעה עם הגיל. הכירו את המאכלים שיעזרו לכם להילחם בדלקות, להגן על תאי העצב ולשפר את הריכוז",
+      "link": "https://www.maariv.co.il/news/health/article-1366242",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T12:40:11.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1366242",
@@ -9458,15 +9485,6 @@
       "source": "הקול היהודי",
       "sourceKey": "hakolhayehudi",
       "pubDate": "2026-09-10T07:03:00.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%9C%D7%90%D7%97%D7%A8_%D7%A9%D7%A8%D7%90%D7%A9_%D7%94%D7%94%D7%A8%D7%9B%D7%91_%D7%96%D7%99%D7%9B%D7%AA%D7%94__%D7%92%D7%96%D7%A8_%D7%93%D7%99%D7%9F_%D7%9E%D7%97%D7%9E%D7%99%D7%A8_%D7%9E%D7%90%D7%93_%D7%9C%D7%9E%D7%AA%D7%99%D7%99%D7%A9%D7%91_%D7%94%D7%A7%D7%98%D7%99%D7%9F",
-      "title": "לאחר שראש ההרכב זיכתה: גזר דין מחמיר מאד למתיישב הקטין",
-      "summary": "גזר דין מחמיר ביותר ניתן כנגד מתיישב, קטין בעת האירוע, שהורשע באירוע הריגת עאישה א-ראבי לפני כ-8 שנים בשומרון. באופן חריג בהכרעת הדין זיכתה ראש ההרכב את הקטין בניגוד לעמדת שני שופטי הצד.",
-      "link": "https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%9C%D7%90%D7%97%D7%A8_%D7%A9%D7%A8%D7%90%D7%A9_%D7%94%D7%94%D7%A8%D7%9B%D7%91_%D7%96%D7%99%D7%9B%D7%AA%D7%94__%D7%92%D7%96%D7%A8_%D7%93%D7%99%D7%9F_%D7%9E%D7%97%D7%9E%D7%99%D7%A8_%D7%9E%D7%90%D7%93_%D7%9C%D7%9E%D7%AA%D7%99%D7%99%D7%A9%D7%91_%D7%94%D7%A7%D7%98%D7%99%D7%9F",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-09-09T13:11:00.000Z"
     }
   ]
 }
