@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:46:03.225Z",
+  "updatedAt": "2026-09-14T18:01:16.835Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3867761",
+      "title": "המדינה רוצה 200 אלף תושבים חדשים - אבל בגרנות הגליל מחכים כבר שש שנים למגרשים",
+      "summary": "בזמן שהממשלה מציבה יעד להבאת 200 אלף תושבים יהודים לצפון עד 2030 - 56 משפחות בגָרְנוֹת הַגָּלִיל ממתינות כבר שנים למגרשים בהרחבה הקהילתית. התושבים טוענים לעיכובים, פלישות ומבנה ציבור שהפך למגורים - והרשויות מפנות את האחריות זו לזו",
+      "link": "https://news.walla.co.il/item/3867761",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-14T20:28:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3867759",
       "title": "\"דווקא עכשיו - יש לזה חשיבות מיוחדת\": גידול של 25% בלומדי מדעי היהדות",
@@ -111,6 +120,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-14T18:05:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1366363",
+      "title": "החות'ים סוגרים מדרום, איראן לוחצת ממזרח: בן סלמאן בצעד אזורי חריג",
+      "summary": "יורש העצר הסעודי צפוי להגיע לקהיר לפגישה עם א-סיסי על רקע השתלטות החות'ים באזור באב אל-מנדב והלחץ האיראני במצר הורמוז. ברקע: חשש ליצוא הנפט ולתנועת הספינות בים האדום",
+      "link": "https://www.maariv.co.il/news/world/article-1366363",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T17:47:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/new-poll-perfect-tie-between-blocs-hendel-kingmake",
+      "title": "סקר חדש ומפתיע: שוויון מוחלט בין הגושים - הנדל וזליכה הופכים לשחקני מפתח",
+      "summary": "סקר חדש שפורסם הערב: איזנקוט מוביל עם 24 מנדטים, הליכוד 20 • שוויון מדויק של 52-52 בין הגושים | הנדל עם 4 מנדטים הופך לשחקן המכריע, מפלגת הציבור החרדי עמוק מתחת אחוז החסימה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/new-poll-perfect-tie-between-blocs-hendel-kingmake",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T17:46:12.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hji9qohtge",
+      "title": "הליכוד נגד עבאס, הדמוקרטים נגד בן גביר | מי מבקש לפסול את מי",
+      "summary": "ועדת הבחירות תדון בהמשך השבוע בבקשות לפסול מפלגות ומועמדים לרוץ בבחירות 2026. בליכוד ינסו להוכיח כי האופוזיציה רוצה לשתף פעולה עם רע\"מ, בישראל ביתנו רוצים למנוע מח\"כ מחד\"ש להשתתף - ובקשות הפסילה שהוגשו נגד השר בן גביר",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hji9qohtge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-14T17:43:49.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/three-yeshiva-students-burned-ponevezh-gedaliah-fa",
