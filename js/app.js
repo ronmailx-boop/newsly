@@ -12,6 +12,9 @@
   // תחת אותו host אז לא נדרש שינוי בצד השרת. אין מפתח API בצד הלקוח -
   // ה-Worker הוא היחיד שמחזיק את מפתח ה-Groq.
   const CLICKBYTER_API_URL = 'https://clickbyter-api.ronmailx.workers.dev/api/decode';
+  // מקורות שדפי הכתבה שלהם חסומים ע"י אנטי-בוט (נבדק בפועל - ראו
+  // CLAUDE.md) - הפענוח תמיד ייכשל שם, אז אין טעם להציג את הכפתור.
+  const DECODE_BLOCKED_SOURCES = new Set(['israelhayom']);
 
   const reelsEl = document.getElementById('reels');
   const statusEl = document.getElementById('status-message');
@@ -130,7 +133,9 @@
 
     // הפענוח הוא אלמנט אחות (button/תוצאה) ולא מקונן בתוך <a> - כמו
     // כפתור המחיקה בעבר, כדי לא ליצור אלמנטים אינטראקטיביים מקוננים.
-    reel.append(buildDecodeBlock(item));
+    if (!DECODE_BLOCKED_SOURCES.has(item.sourceKey)) {
+      reel.append(buildDecodeBlock(item));
+    }
 
     const link = document.createElement('a');
     link.className = 'reel__link';
