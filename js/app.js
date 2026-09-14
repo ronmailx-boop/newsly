@@ -6,6 +6,12 @@
   const HIDDEN_STORAGE_KEY = 'newsly:hiddenItemIds';
   const SWIPE_DELETE_THRESHOLD_PX = 100;
   const SWIPE_DIRECTION_RATIO = 1.5; // כמה שגלילה אופקית צריכה להיות דומיננטית על פני אנכית
+  // API חיצוני (פרויקט נפרד, ronmailx-boop/clickbyter) שקורא כתבה במקור
+  // ומחזיר את מה שכותרת הקליקבייט "מסתירה". ה-Worker כבר מוגדר לקבל
+  // בקשות מ-ronmailx-boop.github.io (host בלבד, לא path) - Newsly מתארח
+  // תחת אותו host אז לא נדרש שינוי בצד השרת. אין מפתח API בצד הלקוח -
+  // ה-Worker הוא היחיד שמחזיק את מפתח ה-Groq.
+  const CLICKBYTER_API_URL = 'https://clickbyter-api.ronmailx.workers.dev/api/decode';
 
   const reelsEl = document.getElementById('reels');
   const statusEl = document.getElementById('status-message');
@@ -30,6 +36,10 @@
   let speedSeconds = loadSpeedSetting();
   let wakeLock = null;
   let hiddenIds = loadHiddenIds();
+  // תוצאות פענוח קליקבייט - זמני לסשן בלבד (לא localStorage): נמנע
+  // מקריאות כפולות מיותרות ל-API בזמן שהמשתמש בפיד (למשל אחרי מעבר
+  // טאבים וחזרה), בלי לצבור אחסון קבוע לתוכן שממילא יתיישן.
+  const decodedAnswers = new Map();
 
   // מגע אופקי (swipe) למחיקת כותרת - נעקב ברמת #reels (event delegation)
   // כדי לא להוסיף 3 מאזינים לכל reel בנפרד.
@@ -114,12 +124,19 @@
   }
 
   function createReel(item, index) {
-    const reel = document.createElement('a');
+    const reel = document.createElement('div');
     reel.className = 'reel';
-    reel.href = item.link;
-    reel.target = '_blank';
-    reel.rel = 'noopener noreferrer';
     reel.dataset.index = String(index);
+
+    // הפענוח הוא אלמנט אחות (button/תוצאה) ולא מקונן בתוך <a> - כמו
+    // כפתור המחיקה בעבר, כדי לא ליצור אלמנטים אינטראקטיביים מקוננים.
+    reel.append(buildDecodeBlock(item));
+
+    const link = document.createElement('a');
+    link.className = 'reel__link';
+    link.href = item.link;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
 
     const meta = document.createElement('div');
     meta.className = 'reel__meta';
@@ -138,14 +155,16 @@
     title.className = 'reel__title';
     title.textContent = item.title;
 
-    reel.append(meta, title);
+    link.append(meta, title);
 
     if (item.summary) {
       const summary = document.createElement('p');
       summary.className = 'reel__summary';
       summary.textContent = item.summary;
-      reel.append(summary);
+      link.append(summary);
     }
+
+    reel.append(link);
 
     if (index < visibleItems.length - 1) {
       const hint = document.createElement('span');
@@ -156,6 +175,102 @@
     }
 
     return reel;
+  }
+
+  // "מה הכותרת מסתירה?" - קורא ל-Clickbyter (פרויקט נפרד) על פי דרישה
+  // בלבד, אף פעם לא אוטומטית לכל הפיד: כל קריאה שולפת כתבה מלאה מהאתר
+  // המקורי ומריצה מודל AI בצד השרת שלהם - יקר/איטי מדי לעשות לכל כותרת.
+  function buildDecodeBlock(item) {
+    const wrap = document.createElement('div');
+    wrap.className = 'reel__decode';
+    wrap.setAttribute('aria-live', 'polite');
+    const cached = decodedAnswers.get(item.id);
+    if (cached) {
+      showDecodeResult(wrap, item, cached);
+    } else {
+      showDecodeButton(wrap, item);
+    }
+    return wrap;
+  }
+
+  function showDecodeButton(wrap, item) {
+    wrap.replaceChildren();
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'reel__decode-btn';
+    btn.textContent = '🔍 מה הכותרת מסתירה?';
+    btn.addEventListener('click', () => runDecode(wrap, item));
+    wrap.append(btn);
+  }
+
+  function showDecodeLoading(wrap) {
+    wrap.replaceChildren();
+    const loading = document.createElement('p');
+    loading.className = 'reel__decode-loading';
+    loading.textContent = 'מפענח...';
+    wrap.append(loading);
+  }
+
+  function showDecodeResult(wrap, item, result) {
+    wrap.replaceChildren();
+    if (result.ok) {
+      const answer = document.createElement('p');
+      answer.className = 'reel__decode-answer';
+      answer.textContent = result.text;
+      wrap.append(answer);
+      return;
+    }
+    const errorWrap = document.createElement('div');
+    errorWrap.className = 'reel__decode-error';
+    const msg = document.createElement('span');
+    msg.textContent = result.text;
+    const retry = document.createElement('button');
+    retry.type = 'button';
+    retry.className = 'reel__decode-retry';
+    retry.textContent = 'נסה שוב';
+    retry.addEventListener('click', () => {
+      decodedAnswers.delete(item.id);
+      showDecodeButton(wrap, item);
+    });
+    errorWrap.append(msg, retry);
+    wrap.append(errorWrap);
+  }
+
+  function decodeErrorMessage(code) {
+    switch (code) {
+      case 'FETCH_FAILED':
+        return 'לא הצלחנו לגשת לכתבה המקורית.';
+      case 'EXTRACTION_FAILED':
+        return 'לא הצלחנו לחלץ טקסט קריא מהכתבה הזו.';
+      case 'RATE_LIMITED':
+        return 'יותר מדי בקשות כרגע - נסו שוב בעוד רגע.';
+      case 'LLM_TIMEOUT':
+        return 'הפענוח ארך יותר מדי זמן - נסו שוב.';
+      case 'SERVER_MISCONFIGURED':
+        return 'שירות הפענוח לא זמין כרגע.';
+      default:
+        return 'לא הצלחנו לפענח את הכתבה הזו.';
+    }
+  }
+
+  async function runDecode(wrap, item) {
+    showDecodeLoading(wrap);
+    let result;
+    try {
+      const response = await fetch(CLICKBYTER_API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url: item.link }),
+      });
+      const data = await response.json();
+      result = data.error
+        ? { ok: false, text: decodeErrorMessage(data.error) }
+        : { ok: true, text: data.answer };
+    } catch {
+      result = { ok: false, text: 'שגיאת רשת - נסו שוב.' };
+    }
+    decodedAnswers.set(item.id, result);
+    showDecodeResult(wrap, item, result);
   }
 
   // מסך אישור מעוצב (במקום window.confirm הדפדפני) - מחזיר Promise<boolean>.

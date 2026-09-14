@@ -169,8 +169,6 @@ body {
   justify-content: center;
   gap: 16px;
   padding: 28px 24px calc(28px + env(safe-area-inset-bottom));
-  text-decoration: none;
-  color: inherit;
   background: var(--color-surface);
   border-bottom: 1px solid var(--color-border);
   position: relative;
@@ -181,6 +179,14 @@ body {
 
 .reel.is-swiping {
   transition: none;
+}
+
+.reel__link {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-decoration: none;
+  color: inherit;
 }
 
 .reel__meta {
@@ -339,4 +345,57 @@ body {
 .confirm-dialog__confirm {
   background: #dc2626;
   color: #fff;
+}
+
+.reel__decode {
+  align-self: flex-start;
+  max-width: 100%;
+}
+
+.reel__decode-btn {
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--color-primary);
+  background: transparent;
+  color: var(--color-primary-dark);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.reel__decode-loading {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.reel__decode-answer {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: #f3f1fd;
+  border-inline-start: 3px solid var(--color-primary);
+  color: var(--color-text);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  font-weight: 600;
+}
+
+.reel__decode-error {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+}
+
+.reel__decode-retry {
+  flex: none;
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-size: 0.78rem;
+  cursor: pointer;
 }
