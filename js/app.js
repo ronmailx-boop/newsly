@@ -14,7 +14,7 @@
   const CLICKBYTER_API_URL = 'https://clickbyter-api.ronmailx.workers.dev/api/decode';
   // מקורות שדפי הכתבה שלהם חסומים ע"י אנטי-בוט (נבדק בפועל - ראו
   // CLAUDE.md) - הפענוח תמיד ייכשל שם, אז אין טעם להציג את הכפתור.
-  const DECODE_BLOCKED_SOURCES = new Set(['israelhayom']);
+  const DECODE_BLOCKED_SOURCES = new Set(['israelhayom', 'n12']);
 
   const reelsEl = document.getElementById('reels');
   const statusEl = document.getElementById('status-message');
