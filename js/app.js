@@ -15,6 +15,12 @@
   const settingsPanel = document.getElementById('settings-panel');
   const speedButtons = document.querySelectorAll('.speed-btn');
 
+  const confirmDialog = document.getElementById('confirm-dialog');
+  const confirmDialogDesc = document.getElementById('confirm-dialog-desc');
+  const confirmDialogCancel = document.getElementById('confirm-dialog-cancel');
+  const confirmDialogConfirm = document.getElementById('confirm-dialog-confirm');
+  let confirmDialogResolve = null;
+
   let allItems = [];
   let visibleItems = [];
   let activeSource = 'all';
@@ -152,11 +158,55 @@
     return reel;
   }
 
+  // מסך אישור מעוצב (במקום window.confirm הדפדפני) - מחזיר Promise<boolean>.
+  function askConfirmDelete(title) {
+    return new Promise((resolve) => {
+      confirmDialogResolve = resolve;
+      confirmDialogDesc.textContent = `"${title}" - היא לא תוצג יותר בפיד שלך במכשיר הזה.`;
+      confirmDialog.hidden = false;
+      document.addEventListener('keydown', handleConfirmDialogKeydown);
+      confirmDialogCancel.focus();
+    });
+  }
+
+  function closeConfirmDialog(result) {
+    confirmDialog.hidden = true;
+    document.removeEventListener('keydown', handleConfirmDialogKeydown);
+    confirmDialogResolve?.(result);
+    confirmDialogResolve = null;
+  }
+
+  function handleConfirmDialogKeydown(event) {
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      closeConfirmDialog(false);
+      return;
+    }
+    if (event.key === 'Tab') {
+      // רק שני כפתורים ניתנים לפוקוס במסך הזה - לכידת פוקוס פשוטה
+      const first = confirmDialogCancel;
+      const last = confirmDialogConfirm;
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    }
+  }
+
+  confirmDialogCancel.addEventListener('click', () => closeConfirmDialog(false));
+  confirmDialogConfirm.addEventListener('click', () => closeConfirmDialog(true));
+  confirmDialog.querySelector('.confirm-dialog__backdrop').addEventListener('click', () => closeConfirmDialog(false));
+
   // מבקש אישור ומסתיר כותרת לצמיתות (במכשיר הזה) אחרי swipe אופקי.
-  function confirmAndDeleteReel(item, reelEl) {
-    const confirmed = window.confirm(`להסתיר את הכותרת "${item.title}"?\nהיא לא תוצג יותר בפיד.`);
+  async function confirmAndDeleteReel(item, reelEl) {
+    stopAutoplay();
+    const confirmed = await askConfirmDelete(item.title);
     if (!confirmed) {
       reelEl.style.transform = '';
+      scheduleAutoplay();
       return;
     }
     hiddenIds.add(item.id);

@@ -51,6 +51,33 @@
     <p class="status-message" id="status-message">טוען כותרות...</p>
   </main>
 
+  <div class="confirm-dialog" id="confirm-dialog" hidden>
+    <div class="confirm-dialog__backdrop"></div>
+    <div
+      class="confirm-dialog__card"
+      role="alertdialog"
+      aria-modal="true"
+      aria-labelledby="confirm-dialog-title"
+      aria-describedby="confirm-dialog-desc"
+    >
+      <div class="confirm-dialog__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 6h18" />
+          <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+          <path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" />
+          <path d="M10 11v6" />
+          <path d="M14 11v6" />
+        </svg>
+      </div>
+      <h2 class="confirm-dialog__title" id="confirm-dialog-title">להסתיר כותרת זו?</h2>
+      <p class="confirm-dialog__desc" id="confirm-dialog-desc"></p>
+      <div class="confirm-dialog__actions">
+        <button type="button" class="confirm-dialog__cancel" id="confirm-dialog-cancel">ביטול</button>
+        <button type="button" class="confirm-dialog__confirm" id="confirm-dialog-confirm">הסתרה</button>
+      </div>
+    </div>
+  </div>
+
   <script src="js/app.js"></script>
 </body>
 </html>
