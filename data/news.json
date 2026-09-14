@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T13:46:05.934Z",
+  "updatedAt": "2026-09-14T14:01:12.390Z",
   "sources": [
     {
       "key": "ynet",
@@ -27,6 +27,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3867700",
+      "title": "נז\"א מדגים בדיוק את השינוי שעובר על השמאל הישראלי",
+      "summary": "מחיאות הכפיים הממושכות בפסטיבל ונציה הן בעיניי ביטוי לשינוי עמוק: משמאל ציוני ולאומי, לדור שמבקש את ההכרה שלו דווקא בזירה הבינלאומית ומעמיד במרכז את הסבל הפלסטיני. יובל אברהם הוא אולי הביטוי המובהק ביותר לשמאל החדש הזה",
+      "link": "https://news.walla.co.il/item/3867700",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-14T16:10:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3867693",
       "title": "חולייה פרצה למפעל בדרום - וגנבה כספת עם צ'קים בשווי מיליוני שקלים | פרסום ראשון",
@@ -80,6 +89,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-14T13:59:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/yehali-sofer-abduction-suspect-fifth-detention-ext",
+      "title": "\"הוא בכה ושם את ראשו עליי\": פרטים מזעזעים מהמקלט בו הוחזק הילד",
+      "summary": "בית המשפט האריך את מעצר החשוד בחטיפת הילד בן ה-10 לבני ברק לפני מספר שבועות. במקביל, נחשפו פרטים קשים על שעות המעצר במקלט | השופט דרש כתב אישום או הצהרת תובע (משטרה)",
+      "link": "https://www.kikar.co.il/police/yehali-sofer-abduction-suspect-fifth-detention-ext",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-14T13:54:05.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1366277",
+      "title": "צעדים משפטיים ובדיקת הדלפה: צה\"ל נערך למאבק בסרט \"נז״א\"",
+      "summary": "הרמטכ\"ל אייל זמיר כינס דיון מיוחד והורה לפצ\"ר לבחון צעדים משפטיים ביחס לסרט ולמעורבים בו, לבדוק אם חומרים מסווגים הודלפו לצורך הפקתו ולהקים צוות מיוחד: \"לא נאפשר להפוך את חיילי צה\"ל למטרה\"",
+      "link": "https://www.maariv.co.il/news/military/article-1366277",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T13:48:53.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/84552",
@@ -764,6 +791,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T12:09:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1366226",
+      "title": "176 מול 173: הבחירות בשוודיה הוכרעו על הקשקש",
+      "summary": "אחרי ספירת כמעט 95% מהקולות, גוש המרכז והשמאל מוביל עם 176 מושבים לעומת 173 לגוש של ראש הממשלה אולף קריסטרסון. קולות מחו\"ל והצבעות מאוחרות שייספרו עד יום רביעי עוד עשויים לשנות את התמונה",
+      "link": "https://www.maariv.co.il/news/world/article-1366226",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-14T12:08:50.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1366226",
