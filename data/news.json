@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:31:07.877Z",
+  "updatedAt": "2026-09-15T06:45:57.877Z",
   "sources": [
     {
       "key": "ynet",
@@ -113,6 +113,51 @@
       "pubDate": "2026-09-15T07:38:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tle7og",
+      "title": "התרגיל שהפיל את גנב התפילין: \"מישהו נכנס לך באוטו, רד למטה\"",
+      "summary": "תרגיל עוקץ לילי הוביל ללכידת גנב שפרץ ותפס תיק אישי ובו תפילין, מחשב נייד ודרכון של חרדי תושב קראון הייטס: לאחר שאותר מיקום המחשב באמצעות מעקב דיגיטלי, השוטרים זימנו את החשוד לרכבו בטענה כי היה מעורב בתאונה – ועצרו אותו על חם כ-24 שעות בלבד לאחר הגניבה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tle7og",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T06:44:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tle6eu",
+      "title": "דרמה וניצני שלום בגור? הסכם היסטורי נחתם בין חסידות גור לקהילת הגר\"ש אלתר",
+      "summary": "הסוף לסערה בחצה\"ק גור? בערב החג האחרון נחתם הסדר פשרה דרמטי בלשכת נשיא בית משפט השלום שבו הנתבעים - גורמים החסידות גור, לקחו אחריות והתחייבו להימנע מהתנכלויות, התובעים הסכימו למחול על תביעתם הכספית ולפתוח דף חדש | השופט שמואל הרבסט ציטט את הבעש\"ט | כל הפרטים (חסידים)",
+      "link": "https://www.kikar.co.il/haredim-news/tle6eu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T06:43:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1366494",
+      "title": "האסטרטגיה שתכריע את הבחירות: למה נתניהו חייב לאמץ את עופר וינטר",
+      "summary": "במשך שנים נשען נתניהו על קמפיין שנועד לשאוב קולות ממפלגות הימין הקטנות. בבחירות הנוכחיות אותה שיטה עלולה לעלות לגוש ביוקר: כדי להגיע ל-61 מנדטים, ראש הממשלה צריך דווקא לחזק את עופר וינטר",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1366494",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-15T06:39:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1366491",
+      "title": "לא רק החות'ים: המאבק על באב אל-מנדב עשוי לעצב מחדש את הכלכלה העולמית | אמיר נוי",
+      "summary": "המאבק על באב אל־מנדב הוא הרבה מעבר לעימות עם החות'ים: הוא נוגע בשליטה בנתיבי הסחר, באנרגיה ובסדר הכלכלי העולמי — וישראל יכולה להפוך בו משחקן ביטחוני לשותפה אסטרטגית מרכזית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1366491",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-15T06:32:07.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1366489",
+      "title": "הליכוד ביקש לפסול את רע\"ם: סולברג קבע לוח זמנים מזורז להכרעה",
+      "summary": "הליכוד ביקש לפסול את רע\"ם מהבחירות לכנסת ה-26, וסולברג הורה לה להשיב עד יום שישי ב-12:00. ההחלטה אינה עוסקת בטענות לגופן; עמדת היועמ\"שית תוגש עד 22 בספטמבר ולא יינתנו ארכות, לקראת הדיון בשבוע הבא",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1366489",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-15T06:30:20.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1366488",
       "title": "הסרט נז\"א חושף את משבר האמינות של ישראל סביב עזה | דן פרי",
       "summary": "הסרט השנוי במחלוקת עורר זעם בארץ, אך העלה שאלות על המלחמה בעזה שפשוט אי אפשר להתחמק מהן",
@@ -120,6 +165,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-15T06:26:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21423312",
+      "title": "אחרי יומיים בלבד: משבר האבטחה שאילץ את הארי ומייגן לעזוב",
+      "summary": "פחות משבוע לאחר פתיחת השנה, הארי ומייגן מחשבים מסלול מחדש • הסיבה האמיתית לכך שארצ'י וליליבת הועברו מוסד לימודי נחשפת",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21423312",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T06:25:50.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/peoples/tle6n8",
@@ -138,6 +192,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-15T06:20:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21423406",
+      "title": "כלי נשק ומדריכים לייצור מטענים: בן 19 מכפר קאסם נעצר בחשד לתכנון פיגוע",
+      "summary": "לפי שב\"כ והמשטרה, הצעיר היה בשלבי תכנון פיגוע, חיפש מדריכי לחימה ושמר מדריכים לייצור מטעני חבלה • בעת מעצרו נתפסו ברשותו ציוד אימונים וכלי איירסופט • הוגשה הצהרת תובע לקראת כתב אישום",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21423406",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T06:18:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21423253",
+      "title": "ננסי ברנדס: \"אחרי שעתיים של טיסה פתאום אני אפס, כלום\"",
+      "summary": "אחרי 50 שנה בישראל ננסי ברנדס חוזר לבמה - הפעם עם התזמורת הסימפונית ראשון לציון • על הדרך הוא משלב כמובן סטנד־אפ: \"אני קורע את הקהל מצחוק בסיפורים עלי\"",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21423253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T06:15:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21423325",
+      "title": "חייל בטירונות מחה מול לשכת אלוף הפיקוד - ונעצר | צפו",
+      "summary": "החייל הגיע לכניסה לבסיס פיקוד המרכז בירושלים והניף שלטים נגד השימוש בצווים מנהליים • לפי חוננו, המשטרה הוזמנה למקום על ידי צה\"ל והחייל שוחרר לאחר התערבות עורך דין מטעם הארגון",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21423325",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T06:12:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21423325",
@@ -214,7 +295,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syx8p8ukfe",
       "title": "חשד: מתנדב בכבאות תכנן פיגוע מטען במרכז",
-      "summary": "לפי החקירה, מוסטפא עיסא, בן 19 מכפר קאסם, הושפע מ-7/10 וממבצע שומר החומות. הוא נתפס עם ציוד אימונים, נשק איירסופט וגם שמר מדריכים לייצור מטעני חבלה",
+      "summary": "לפי החקירה, מוסטפא עיסא, בן 19 מכפר קאסם, הושפע מ-7/10 וממבצע שומר החומות. הוא נתפס עם ציוד אימונים, נשק איירסופט וגם שמר מדריכים לייצור מטעני חבלה. בעקבות מידע שעבר לכבאות לפני מעצרו - הוא הודח",
       "link": "https://www.ynet.co.il/news/article/syx8p8ukfe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -268,7 +349,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21423273",
       "title": "אדוה דדון קוראת לעזרה: \"מדובר במתחזים\"",
-      "summary": "חושבים שקיבלתם הודעה מאדוה דדון? תחשבו שוב • העיתונאית חושפת תרמית וואטסאפ חדשה המציעה \"ייעוץ חינמי\" ומזהירה את הציבור",
+      "summary": "חושבים שקיבלתם הודעה ממגישת חדשות 12? תחשבו שוב • העיתונאית חושפת תרמית חדשה ומזהירה את הציבור",
       "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21423273",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
