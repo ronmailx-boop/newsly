@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T13:46:02.948Z",
+  "updatedAt": "2026-09-15T14:01:18.506Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868010",
+      "title": "משטר המלשינים: איראן השיקה אתר לציד מתנגדים בחו\"ל - רכושם על הכוונת",
+      "summary": "המערכת החדשה מאפשרת לדווח על איראנים בחו\"ל המבקרים את המשטר, תומכים בסנקציות או מעודדים פעולה צבאית נגדו. המידע ישמש למעקב, לפתיחת הליכים ולהגבלת הגישה לנכסים. בטהרן כבר איימו להחרים את כלל רכושם של מי שיזוהו כתומכי ארה\"ב וישראל",
+      "link": "https://news.walla.co.il/item/3868010",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-15T16:42:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868003",
       "title": "לאחר חשיפת וואלה: פרשת הענק בקפריסין מתרחבת - 263 ק\"ג קטמין נוספים נתפסו",
@@ -149,6 +158,15 @@
       "pubDate": "2026-09-15T13:59:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-gvir-personal-appeal-netanyahu-full-right-gove",
+      "title": "בן גביר עצר בצד הדרך ושיגר מסר מצולם לנתניהו: \"זה לא מגיע לי, אני אוהב אותך\"",
+      "summary": "השר לביטחון לאומי פונה ישירות לראש הממשלה בהודעה חריגה: \"לא מגיע לי שבלשכה שלך יתדרכו מדינות שלא רוצים את בן גביר\" | זאת אחרי יום של חילופי מהלומות בין המפלגות (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ben-gvir-personal-appeal-netanyahu-full-right-gove",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T13:58:00.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3867956",
       "title": "7 שנות מאסר לנהגת שפגעה בבני הזוג לפני חתונתם - ונטלה את חייהם",
       "summary": "בית משפט המחוזי בבאר שבע גזר שבע שנות מאסר בפועל על סוריה אבו עראר ובנוסף פיצוי של 360 אלף שקלים לבני המשפחות. ערער הואשמה בהמתה בקלות דעת של בני הזוג, אליאב אבוקסיס ושחף דנינו שעמדו להתחתן",
@@ -156,6 +174,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-15T13:56:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/idf-border-crossing-prevention",
+      "title": "תיעוד סוער: המיניבוס נעצר בכפר הפלסטיני - שוטרים מסתערים בהפתעה",
+      "summary": "פעילות נחושה של תצפיתניות צה\"ל מיחידה 636 ולוחמי מג\"ב עוטף ירושלים הובילה לסיכול נסיון חדירה לשטח ישראל. עשרה פלסטינים שחצו את גדר ההפרדה זוהו בזמן אמת, נעקבו באמצעים טכנולוגיים מתקדמים ונעצרו יחד עם הנהג המסיע ברחובות הכפר. התיעוד הדרמטי ממצלמות התצפית והרחפנים חושף את מהלך המעצר שלב אחר שלב (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/idf-border-crossing-prevention",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T13:52:40.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tleqyv",
+      "title": "אחרי שחטף מהם: טראמפ במתקפה חריגה נגד שופטי העליון - אותם מינה בעצמו",
+      "summary": "נשיא ארה\"ב דונלד טראמפ פרסם אחר הצהריים פוסט זועם וחריג בחריפותו נגד שופטי בית המשפט העליון, אשר חלק מהם הוא מינה בעצמו בעקבות פסיקה שלהם שפורסמה היום | לקראת הבחירות המתקרבות, השופטים פסלו את הצו הנשיאותי (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tleqyv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T13:46:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hksvqhitmx",
+      "title": "נשיא העליון והיועמ\"שית נגררים ברחובות בוערים: הקמפיין של סמוטריץ'",
+      "summary": "הקמפיין של הציונות הדתית, שנקרא \"משחררים את החסימה\", מתמקד במערכת המשפט ומציג את המשך המהפכה המשפטית כתנאי סף לכניסה לכל קואליציה עתידית. סרטון ה-AI פורסם כחלק מהשקת התוכנית, ובו נראים בכירי המערכת נגררים על-ידי שוטרים במצב שמדמה הפגנה וכאוס ברחובות",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hksvqhitmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-15T13:44:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1367679",
@@ -300,6 +345,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-15T13:15:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-david-yosef-kapparot-yom-kippur",
+      "title": "פסיקת הראשון לציון: זה סכום הכפרות המדויק השנה",
+      "summary": "לקראת יום הכיפורים, הראשון לציון הגר\"ד יוסף מפרסם מכתב הלכתי דרמטי ומורה לקיים את מנהג הכפרות במעות כדרכו של אביו מרן הרב עובדיה זצוק\"ל. המומחים קבעו את המחיר לכ-30 שקלים לנפש, לצד קריאה מיוחדת לתפילות החיילים והפצועים (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/rabbi-david-yosef-kapparot-yom-kippur",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T13:13:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/elections-disqualification-requests-otzma-yehudit-raam",
