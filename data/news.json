@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:16:15.654Z",
+  "updatedAt": "2026-09-15T20:31:04.598Z",
   "sources": [
     {
       "key": "ynet",
@@ -84,6 +84,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-15T20:26:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/tlf7kj",
+      "title": "שר הביטחון כ\"ץ מאשר: צה\"ל ושב\"כ חיסלו את מח\"ט רפיח",
+      "summary": "צה\"ל ושב\"כ הודיעו כי תקפו מחבל בכיר בארגון הטרור חמאס בדרום רצועת עזה, יעד התקיפה: מפקד חטיבת רפיח בארגון | מקורות ברצועה דיווחו על שני הרוגים ו-14 פצועים במהלך התקיפה באזור ח'אן יונס | בישראל מתחזקת ההערכה שחוסל (צבא)",
+      "link": "https://www.kikar.co.il/security-news/tlf7kj",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T20:23:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/84733",
+      "title": "צעיר בן 17 נפצע קשה באירוע אלימות באשדוד",
+      "summary": "צעיר בן 17 נפצע באורח קשה באירוע אלימות ברחוב מבצע ברק באשדוד. צוותי איחוד הצלה העניקו לו טיפול רפואי במקום והוא פונה לבית חולים במצב קשה.",
+      "link": "https://www.kikar.co.il/scoop-news/84733",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-15T20:22:18.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3868063",
@@ -276,6 +294,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21429939",
+      "title": "צה״ל חיסל בעזה בעזה כיר בחמאס",
+      "summary": "נאאיל אבו עביד, מח״ט רפיח, היה יעד תקיפת צה\"ל בדרום הרצועה • מקורות פלסטיניים דיווחו על שני הרוגים ו־14 פצועים • נתניהו וכ״ץ: ״שום מחבל אינו חסין״",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21429939",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T19:25:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21429939",
       "title": "צה\"ל ניסה לחסל בעזה בכיר בחמאס",
       "summary": "נאאיל אבו עביד, מח״ט רפיח, היה יעד התקיפה בדרום הרצועה • מקורות פלסטיניים דיווחו על שני הרוגים ו־14 פצועים • גורם ביטחוני: מסתמן שהסיכול צלח • נתניהו וכ״ץ: ״שום מחבל אינו חסין״",
       "link": "https://www.israelhayom.co.il/news/defense/article/21429939",
@@ -462,6 +489,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-15T18:54:37.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1367785",
+      "title": "\"מפר את החוק\": במפלגה הרפובליקנית דורשים להדיח את פיט הגסת'",
+      "summary": "חבר הקונגרס הרפובליקני תומאס מאסי הגיש שמונה סעיפי הדחה נגד פיט הגסת', בטענה שניהל מלחמות ללא אישור הקונגרס. המהלך עשוי לכפות הצבעה בבית הנבחרים בתוך ימים",
+      "link": "https://www.maariv.co.il/news/world/article-1367785",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-15T18:53:54.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1367785",
@@ -813,6 +849,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-15T17:25:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21429238",
+      "title": "40 אלף פצצות במשקל טון: עסקת הנשק בין טראמפ לישראל | דיווח",
+      "summary": "לפי \"וושינגטון פוסט\", ממשל טראמפ מקדם עסקת נשק בהיקף של 2.8 מיליארד דולר • מדובר בעסקה הגדולה ביותר של חימוש מסוג זה בשנים האחרונות • העסקה מגיעה על רקע המתיחות בין וושינגטון לירושלים והביקורת בארה״ב על הפעילות הישראלית בעזה, בלבנון ובסוריה",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21429238",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-15T17:25:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21429238",
