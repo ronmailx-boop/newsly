@@ -96,34 +96,18 @@
     const diffMinutes = Math.round(diffMs / 60000);
 
     if (diffMinutes < 1) return 'עכשיו';
-    if (diffMinutes < 60) return `לפני ${diffMinutes} דק'`;
-    const diffHours = Math.round(diffMinutes / 60);
-    if (diffHours < 24) return `לפני ${diffHours} שע'`;
-    const diffDays = Math.round(diffHours / 24);
-    return `לפני ${diffDays} ימים`;
-  }
+    if (diffMinutes === 1) return 'לפני דקה';
+    if (diffMinutes < 60) return `לפני ${diffMinutes} דקות`;
 
-  // דה-דופ/מיזוג בין מקורות שונים - מסדר כותרות ב-round-robin כדי
-  // שכל reel יהיה ממקור שונה מקודמו, במקום גוש שלם מאותו אתר.
-  function interleaveBySource(items) {
-    const queues = new Map();
-    for (const item of items) {
-      if (!queues.has(item.sourceKey)) queues.set(item.sourceKey, []);
-      queues.get(item.sourceKey).push(item);
-    }
-    const lists = [...queues.values()];
-    const result = [];
-    let remaining = true;
-    while (remaining) {
-      remaining = false;
-      for (const list of lists) {
-        if (list.length > 0) {
-          result.push(list.shift());
-          remaining = true;
-        }
-      }
-    }
-    return result;
+    const diffHours = Math.round(diffMinutes / 60);
+    if (diffHours === 1) return 'לפני שעה';
+    if (diffHours === 2) return 'לפני שעתיים';
+    if (diffHours < 24) return `לפני ${diffHours} שעות`;
+
+    const diffDays = Math.round(diffHours / 24);
+    if (diffDays === 1) return 'לפני יום';
+    if (diffDays === 2) return 'לפני יומיים';
+    return `לפני ${diffDays} ימים`;
   }
 
   function createReel(item, index) {
@@ -478,8 +462,10 @@
     reelsEl.innerHTML = '';
     activeIndex = 0;
 
+    // allItems כבר ממוין מהחדש לישן (fetch-news.mjs ממיין לפני הכתיבה
+    // ל-news.json) - כאן רק מסננים לפי מקור, בלי לערבב את הסדר.
     visibleItems = activeSource === 'all'
-      ? interleaveBySource(allItems)
+      ? allItems
       : allItems.filter((item) => item.sourceKey === activeSource);
 
     if (visibleItems.length === 0) {
