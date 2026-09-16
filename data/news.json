@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T07:16:02.559Z",
+  "updatedAt": "2026-09-16T07:31:07.409Z",
   "sources": [
     {
       "key": "ynet",
@@ -158,13 +158,49 @@
       "pubDate": "2026-09-16T07:59:00.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/tlg3j8",
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1367906",
+      "title": "ראש ארגון הפשע ערן חייא יוסגר לישראל - והסכסוך עם מוסלי שוב במוקד",
+      "summary": "ראש ארגון הפשיעה ערן חייא נמלט מישראל לפני כתשע שנים, נעצר במלזיה והועבר לארה\"ב. כעת, לאחר שבית המשפט אישר את הסגרתו, הוא צפוי להיעצר מיד עם נחיתתו ולהיחקר על הסכסוך עם ארגון מוסלי",
+      "link": "https://www.maariv.co.il/news/law/article-1367906",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-16T07:28:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1367912",
+      "title": "רצח ראש המאפיה הקווקזית - הפרשה מסתעפת והרבה כסף נכנס לתמונה",
+      "summary": "תושב חדרה שנעצר בחשד למעורבות וסיוע בחיסול יובא להארכת מעצר. צו איסור הפרסום מסתיר את חלקו הנטען, בעוד אחיו של החשוד המרכזי שוחרר לאחר שהאליבי שלו נבדק",
+      "link": "https://www.maariv.co.il/news/law/article-1367912",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-16T07:21:13.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/addiction-recovery-success-story",
       "title": "השלד המסומם מתחת לגשר: האיש שנגע בתחתית והפתיע את כולם",
       "summary": "אחרי 15 שנות הרואין וגוף שצנח למשקל מחריד, דני היה בדרך לבית הקברות - אבל למה שקרה איתו ארבע שנים אחרי כן, אף אחד לא היה מאמין (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tlg3j8",
+      "link": "https://www.kikar.co.il/world-news/addiction-recovery-success-story",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-16T07:11:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21431473",
+      "title": "6 ישראלים שכבשו את העולם - ורובכם בכלל לא מכירים אותם",
+      "summary": "אחד תכנן את הבניין הכי מזוהה עם סינגפור, אחת נחשבת לאחד המוחות שמאחורי מהפכת ה-AI, ויש גם אמן שיצירה שלו נוצרה הרחק מכדור הארץ • הכירו את הישראלים שטיפסו לצמרת העולמית בשקט, ואת אחד מהם אתם פוגשים בכל פעם שאתם נוחתים בנתב\"ג",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21431473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-16T07:11:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/russia-iran-satellite-intelligence-saudi-base-atta",
+      "title": "לוחץ ידיים ודוקר בגב: כך לחם פוטין לצד איראן",
+      "summary": "14 לוויינים רוסיים חגו מעל בסיס אמריקני בסעודיה לפני התקיפה | התוצאה: מטוס AWACS הושמד ו-12 חיילים נפצעו | הברית בין מוסקבה לטהראן מתהדקת | ללא הסיוע הרוסי, לאיראן לא הייתה כל אפשרות לבצע את התקיפה שהנזק שלה מוערך במאות מיליוני דולרים, והפסד של מטוס מתקדם במיוחד - ששהה שם במקרה | כך לחמה רוסיה לצד איראן - נגד ארה\"ב (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/russia-iran-satellite-intelligence-saudi-base-atta",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-16T07:06:35.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/russia-iran-satellite-intelligence-saudi-base-atta",
@@ -174,6 +210,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-16T07:06:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21431579",
+      "title": "דרשו 300 אלף שקל ואיימו: \"נמלא אותך בשקיות\"",
+      "summary": "לפי המשטרה, שלושה חשודים הגיעו לבית הקורבן, השתמשו בשמה של כנופיית עבריינים ודרשו ממנו דמי חסות • בשיחה למוקד 100 התריע: \"תגיעו זריז, יש לו אקדח\" • השלושה נעצרו זמן קצר לאחר מכן ונגדם הוגש כתב אישום",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21431579",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-16T07:02:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21431526",
+      "title": "מכבי נתניה סיכמה על רכש ענק - בטורקיה מונעים מעבר | פרסום ראשון",
+      "summary": "חביב קייטה סיכם עקרונית אצל היהלומים בשכר של כ-300 אלף יורו לעונה, אך יש מכשול מרכזי שמונע בשלב זה את קיומה של העסקה • השחקן עדיין שייך להתאחדות הטורקית, וזו אינה מסכימה להעביר שחקנים לישראל • הסיפור המלא",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21431526",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-16T07:00:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21431525",
@@ -592,7 +646,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21431040",
       "title": "תיעוד: נוסע בשדה התעופה התגרה - חסידי ברסלב לא נשארו חייבים",
-      "summary": "חסידי ברסלב לא נשארו חייבים לנוסע שהטריד אותם בשדה התעופה • במקרה אחר מהחודש שעבר, נוסע יהודי תקף חזרה נוסע אמריקני שצעק לעברו \"היטלר צדק\"",
+      "summary": "חסידי ברסלב לא נותרו חייבים לנוסע שהטריד אותם בשדה התעופה • במקרה אחר מהחודש שעבר, נוסע יהודי תקף חזרה נוסע אמריקני שצעק לעברו \"היטלר צדק\"",
       "link": "https://www.israelhayom.co.il/travel/aviation/article/21431040",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -19704,15 +19758,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-11T07:50:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84421",
-      "title": "צה\"ל חיסל את מפקד מחוז חאן יונס של חמאס",
-      "summary": "צה\"ל חיסל הלילה ברצועת עזה את מפקד מחוז חאן יונס של חמאס.",
-      "link": "https://www.kikar.co.il/scoop-news/84421",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-11T07:26:15.000Z"
     }
   ]
 }
