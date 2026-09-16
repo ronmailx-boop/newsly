@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:01:03.209Z",
+  "updatedAt": "2026-09-16T04:15:51.627Z",
   "sources": [
     {
       "key": "ynet",
@@ -68,6 +68,24 @@
       "pubDate": "2026-09-16T06:00:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjcbm5wkzg",
+      "title": "מסוק חדשות התרסק בלוס אנג'לס, המגישה בכתה: \"איבדנו קשר עם אנשינו\"",
+      "summary": "מסוק של רשת KNBC תיעד זירת תאונת דרכים בין אוטובוס לרכב, כשלפתע דיווח על תקלה חמורה והחל לצלול. לפחות 3 נהרגו, בהם לפי הדיווחים הולך רגל",
+      "link": "https://www.ynet.co.il/news/article/sjcbm5wkzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-16T04:02:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21430756",
+      "title": "מסוק חדשות התרסק בלב לוס אנג'לס - לפחות 3 בני אדם נהרגו",
+      "summary": "המסוק, ששייך לתחנת חדשות מקומית, התרסק מסיבה שטרם התבררה בין מבנים מסחריים ועלה באש • אדם נוסף פונה לבית החולים במצב לא ידוע • מרשות הכבאות נמסר כי \"56 כבאים פעלו לכיבוי הלהבות בזירה\", וכעת רשויות התעופה פותחות בחקירה",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21430756",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-16T03:57:26.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tlfuiu",
       "title": "היום: עדיין יהיה חם וטמפרטורות גבוהות; מתי זה ישתנה? | התחזית המלאה",
       "summary": "היום יהיה ללא שינוי ניכר בטמפרטורות. הטמפרטורות יוסיפו להיות גבוהות מהרגיל לעונה בעיקר בהרים ובפנים הארץ | ומה צפוי בשבת שובה? (מזג האוויר)",
@@ -84,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-16T03:55:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21430743",
+      "title": "נזק חסר תקדים לאמזון: מידע בענן אבד בעקבות התקיפות האיראניות",
+      "summary": "AWS הודיעה כי לא ניתן לשחזר חלק מנתוני הלקוחות שאוחסנו במרכזיה בבחריין ובאיחוד האמירויות • התקיפות הציתו שריפות, פגעו בתשתיות והשביתו את המתקנים במשך חודשים • במדינות המפרץ שוקלים להקים מרכזי נתונים תת־קרקעיים ולהציב סביבם מערכות הגנה מפני כטב״מים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21430743",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-16T03:53:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21430713",
@@ -18858,15 +18885,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-11T04:18:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-surprise-drill-judea-samaria",
-      "title": "הקפצה פתאומית: תרגיל ענק הבוקר באוגדת איו\"ש",
-      "summary": "דובר צה\"ל עדכן כי תרגיל פתע מבצעי רחב היקף החל הבוקר במרחב אוגדת יהודה ושומרון, במסגרתו הוקפצו כלל הגדודים בגזרה לבחינת כשירות והיערכות מיוחדת לקראת תקופת החגים, כשהציבור מתבקש שלא להיכנס לפאניקה לנוכח תנועת כוחות ערה בשטח (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-surprise-drill-judea-samaria",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-11T04:07:59.000Z"
     }
   ]
 }
