@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:31:07.592Z",
+  "updatedAt": "2026-09-17T19:46:05.618Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868664",
+      "title": "חשד להצתת בית כנסת בגרמניה: אזרח אפגניסטן בן 37 נעצר",
+      "summary": "החשוד שפך לפי המשטרה נוזל דליק על מדרגות הכניסה לבית הכנסת בוופרטל והצית אותו. אנשי הקהילה כיבו את האש ואיש לא נפגע. נשיא המועצה המרכזית של יהודי גרמניה הגדיר את המעשה \"פיגוע הצתה\" והזהיר מפני \"נורמליזציה של שנאת יהודים\"",
+      "link": "https://news.walla.co.il/item/3868664",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-17T22:28:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868660",
       "title": "הרצוג: \"הדת צריכה להיות מרכיב מרכזי בפתרון הסכסוך\"",
@@ -122,6 +131,60 @@
       "pubDate": "2026-09-17T19:46:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/84994",
+      "title": "שני נפגעים בתאונת דרכים בצומת יקנעם עילית",
+      "summary": "שני אנשים נפצעו בתאונת דרכים בין שלושה כלי רכב פרטיים בצומת יקנעם עילית. גבר כבן 25 נפצע באורח בינוני וצעירה בת 20 נפצעה קל. צוותי איחוד הצלה העניקו להם טיפול רפואי בזירה, ושניהם פונו לבית החולים רמב\"ם להמשך טיפול.",
+      "link": "https://www.kikar.co.il/scoop-news/84994",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-17T19:31:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rycwouffge",
+      "title": "משבר בגוש השינוי: איזנקוט מהמר על \"המפלגה הגדולה\", וחבריו חוששים לאבד מנדטים",
+      "summary": "יו\"ר ישר! שומר על מקומו בסקרים ושואף להיות ראש ממשלה, אבל בנט וליברמן מסרבים לתמוך בו כמועמד יחיד - בזמן שמולם עומד רק נתניהו. ראשי מפלגות גוש השינוי מודאגים מהאסטרטגיה של איזנקוט, שעלולה לעלות להם ביוקר ולהעביר מנדטים דווקא לציונות הדתית ו\"עמך ישראל\" שיתמכו בליכוד",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rycwouffge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-17T19:28:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21425383",
+      "title": "לילדים שלי אסור לקרוא את הטור הזה. אל תסגירו אותי",
+      "summary": "ילדים, אם הגעתם לטקסט הזה בדרך לא דרך - תסגרו מייד, זה לא בשבילכם • לכל השאר: קבלו הצצה לחוגים שנבחרו השנה בשיטה המדעית של הנדסת תודעה • ובואו רק נקווה שזה יעבוד",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21425383",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T19:28:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1etbtfkme",
+      "title": "דקה אחר דקה ביממה מדממת בכבישים: \"האוטובוס בא במהירות, הנהג ממש מעורפל\"",
+      "summary": "321 בני אדם נהרגו מתחילת 2026, חמישה מתוכם רק ביממה האחרונה: בקריות רוכב אופנוע נהרג בהתנגשות עם רכב. באיילון נהרג נהג מונית כבן 70. בנגב נקבע מותם של שני קרובי משפחה שהתנגשו עם רכביהם. התאונות הקטלניות, והפניות הדחופות למוקד החירום: \"צריך מד\"א וכב\"א דחוף\"",
+      "link": "https://www.ynet.co.il/news/article/h1etbtfkme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-17T19:23:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21447863",
+      "title": "אחרי ששמרה את ההיריון בסוד: זה השם שבחרה ליידי גאגא לבתה",
+      "summary": "היא שמרה על ההיריון בסוד מוחלט, ועכשיו מתגלים הפרטים: ליידי גאגא וארוסה מייקל פולנסקי הפכו להורים לבת ראשונה • מתי בדיוק היא נולדה, איפה, ובעיקר, מה המשמעות הנסתרת שעשויה להסתתר מאחורי השם המיוחד שבחרו לה",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21447863",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T19:20:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21447843",
+      "title": "דני אבדיה לים מדר: \"אתה לא נורמלי\"",
+      "summary": "כוכב פורטלנד טרייל בלייזרס, שצפה מארצות הברית בדרבי התל אביבי, התלהב בחשבון האינסטגרם שלו מהשלשה הגדולה של ים מדר עם סיום המחצית של הסופר קאפ",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21447843",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T19:19:02.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21447638",
       "title": "לא הסכים לעזוב את תפקידו ונאבק בצה\"ל: מאחורי הדחת קמ\"ן אוגדת עזה",
       "summary": "הליך ההדחה נמשך כמעט כשנה מאז החלטת הרמטכ\"ל בנובמבר 2025 לנקוט בהליכים פיקודיים נגד מפקדים בכירים שנושאים באחריות פיקודית לטבח 7 באוקטובר • סא\"ל א' ניסה לעכב את ההחלטה שוב ושב עד שבית המשפט דחה את טענותיו • ההדחה מגיעה על רקע התעלמותו מהתרעות על איומים חריגים של מערך הנוח'בה והאפשרות שחמאס נערך לתרחיש מלחמה רחב",
@@ -174,6 +237,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-17T19:03:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1368601",
+      "title": "האולם היה מפוצץ - אבל מאחורי הקלעים יש תרחיש אחד שמדאיג את הליכוד",
+      "summary": "40 יום לבחירות, הליכוד השיק באקספו את הישורת האחרונה של הקמפיין מול אלפי פעילים. אחרי פסיקת בג\"ץ בעניין המידע מהקלפיות, במפלגה נערכים לשיטת המרצה חלופית",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1368601",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-17T18:59:13.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1368601",
@@ -426,6 +498,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T17:51:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21447062",
+      "title": "חי מהסופר קאפ: מכבי תל אביב - הפועל תל אביב 53:79",
+      "summary": "התואר הראשון של העונה: מופע צהוב בהיכל מנורה מבטחים • ים מדר וקיטון וולאס סיפקו מחצית ראשונה נהדרת בדרך להפרש דו ספרתי, בונזי קולסון ואיפה לונדברג המשיכו בדרך למה שמסתמן כתבוסה • וסיליה מיציץ' ודן אוטורו מנסים להציל את דימיטריס איטודיס מנגד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21447062",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T17:49:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21447062",
@@ -1374,6 +1455,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21445806",
+      "title": "מורן אטיאס: \"בושה מטורפת שטפה אותי\"",
+      "summary": "אחרי שהרופא הציע לה לפנות לתורם זרע והיא כבר נכנסה לקטלוג המקוון, השחקנית משחזרת את הרגע שבו תחושת ההעצמה התחלפה בסערת רגשות קשה מול המראה: \"הרגשתי הכי אפסית בעולם\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21445806",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T14:42:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21445806",
       "title": "מורן אטיאס: \"הרגשתי הכי אפסית בעולם\"",
       "summary": "אחרי שהרופא הציע לה לפנות לתורם זרע והיא כבר נכנסה לקטלוג המקוון, השחקנית משחזרת את הרגע שבו תחושת ההעצמה התחלפה בסערת רגשות קשה מול המראה: \"בושה מטורפת\"",
       "link": "https://www.israelhayom.co.il/culture/tv/article/21445806",
@@ -2064,6 +2154,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T12:54:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21444378",
+      "title": "החל ממחר: המוצר המבוקש שחוזר ל''יוחננוף'' - במחיר שלא קיים",
+      "summary": "רשת הקמעונאות תמכור החל ממחר את אוזניות AirPods 4 של אפל ב-369 שקלים בלבד ביבוא מקביל • באילו סניפים תוכלו למצוא אותן, ואיך המחיר מתחרה מול שאר הרשתות בשוק? כל הפרטים",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21444378",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T12:49:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21444378",
@@ -28668,15 +28767,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-12T19:48:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21409971",
-      "title": "ביקוש שיא: הישראלים מתנפלים על אייפון 18",
-      "summary": "המכירה המוקדמת נפתחה ורשתות השיווק מדווחות על ביקושים עצומים למכשירים השונים • איזה צבע נחשב לפופולרי ביותר ומתי יגיע הדגם המתקפל? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21409971",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T19:36:40.000Z"
     }
   ]
 }
