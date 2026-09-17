@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T05:46:05.969Z",
+  "updatedAt": "2026-09-17T06:01:09.076Z",
   "sources": [
     {
       "key": "ynet",
@@ -102,6 +102,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-17T06:00:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368273",
+      "title": "אביגדור ליברמן קטע את המראיין באמצע השידור: \"אתה טועה ולא מבין\"",
+      "summary": "ליברמן השווה בין האחריות שהוטלה בעקבות אסון נחל צפית לבין האחריות שלדבריו מוטלת על נתניהו בעקבות 7 באוקטובר. בהמשך שלל איחוד מוקדם באופוזיציה ותקף בחריפות את יוצרי הסרט נז\"א",
+      "link": "https://www.maariv.co.il/news/politics/article-1368273",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-17T05:57:17.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368276",
+      "title": "טראמפ כבר מתכנן את היום שאחרי - בזמן שהמלחמה מתרחבת",
+      "summary": "טראמפ אומר כי איראן רוצה עסקה, אך המלחמה מתרחבת לתימן וסעודיה ומשבר האנרגיה מחריף. ביום שלישי יכנס את מנהיגי המפרץ בניו יורק לדיון בתוכנית האמריקנית ליום שאחרי",
+      "link": "https://www.maariv.co.il/news/world/article-1368276",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-17T05:54:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sj00xrykymx",
+      "title": "עסקת מטוסי ה-F-35 הענקית עם סעודיה - ואזהרת המודיעין האמריקני: \"סין מרגלת\"",
+      "summary": "\"ניו יורק טיימס\": המודיעין האמריקני מזהיר מאישור העסקה שבה תמכור ארה\"ב 48 מטוסים מהדגם החמקני המתקדם לסעודיה. החשש: סין, שלה קשרים עמוקים בממלכה ומסייעת לה לפתח תוכנית טילים, תרגל אחרי טכנולוגיות רגישות של ה-F-35",
+      "link": "https://www.ynet.co.il/news/article/sj00xrykymx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-17T05:47:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-bloc-leads-54-mandates-poll",
+      "title": "הסקר הדרמטי שמלחיץ את גוש השינוי: גוש נתניהו מוביל לראשונה מזה זמן רב",
+      "summary": "סקר חדשות 13: איזנקוט מוביל עם 22 מנדטים, הליכוד 18 • גוש נתניהו עולה לראשונה לרוב של 54 מנדטים | וינטר מזנק ל-6, הנדל וזליכה מתחת לאחוז החסימה (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-bloc-leads-54-mandates-poll",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-17T05:45:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/84886",
@@ -228,6 +264,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T04:41:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368252",
+      "title": "3,700 משאיות תקועות: התוכנית האיראנית הסתבכה בגדול",
+      "summary": "איראן ניסתה לעקוף את המצור האמריקאי באמצעות נתיבי סחר יבשתיים, אך אלפי משאיות נתקעו בגבולות. העיכובים והעלויות המזנקות מעמיקים את המשבר הכלכלי ומזניקים את מחירי המזון",
+      "link": "https://www.maariv.co.il/news/world/article-1368252",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-17T04:40:29.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368252",
@@ -25014,51 +25059,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-12T06:04:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14895865",
-      "title": "התקווה עדיין באמצע",
-      "summary": "מהיוזמות שביקשו לשבור את מפת הגושים נותרו רק רסיסים שיתקשו לעבור את אחוז החסימה. ניתן לראות בכך הוכחה שאין קונים לסחורת האחדות, ואפשר לקרוא את התמונה אחרת: השיח על ממשלה רחבה הצליח לגרום לכך שגם המפלגות הגדולות פנו לממלכתיות. למרות הציניות, זרעי השינוי כבר נשתלו",
-      "link": "https://www.ynet.co.il/news/article/yokra14895865",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-12T05:57:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21407556",
-      "title": "\"האש עוברת ממחסן למחסן\": פיצוץ נוסף במתקן נשק בבולגריה",
-      "summary": "שריפה פרצה הלילה במחסן נשק במרכז המדינה בעקבות פיצוץ, שבועות ספורים לאחר אירוע דומה במתקן אחר של חברת EMCO • מושלת המחוז סיפרה כי הלהבות מתפשטות • החברה, בבעלות סוחר נשק שניצל מהתנקשות, סיפקה בעבר נשק לאוקראינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21407556",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T05:56:26.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14896431",
-      "title": "שנה טובה, לשם שינוי",
-      "summary": "במקום להתרכז בניכור, בקרע, בגילויי אלימות מיותרים ומבזים של שני הצדדים ובחוסר הסובלנות שהבחירות המתקרבות רק יעצימו, בחרתי להסתכל על השנה החדשה המתחילה הערב אחרי הדלקת הנרות, מבעד למשקפיים טובים",
-      "link": "https://www.ynet.co.il/news/article/yokra14896431",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-12T05:54:10.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14896569",
-      "title": "נתניהו, ער?",
-      "summary": "אנחנו עדיין לא יודעים אם שיחת ההתראה מהאמירויות התקיימה או לא, אבל אני במקום נתניהו הייתי מודאגת. התשובה של האמירתים מעוררת חשד: מי שלא דיבר – היה מכחיש בכל פה. מי שעונה בדיפלומטיות – פשוט לא רוצה לשקר",
-      "link": "https://www.ynet.co.il/news/article/yokra14896569",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-12T05:52:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkspgigtme",
-      "title": "שחיתות במשקל כבד: הסמל של שלטון פוטין הפך לכוכב רשת",
-      "summary": "מסיבת עיתונאים קצרה שבה כיכב איגור צ'ייקה, פקיד רוסי בכיר שסובל מעודף משקל בולט, גרפה מיליוני צפיות ברשת - והפכה אותו למם. ברוסיה צ'ייקה כבר מזמן לא מעורר גיחוך - וכבר עשור הוא נחשב לסמל של שחיתות שלטונית",
-      "link": "https://www.ynet.co.il/news/article/rkspgigtme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-12T05:49:52.000Z"
     }
   ]
 }
