@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T10:46:01.334Z",
+  "updatedAt": "2026-09-17T11:01:14.823Z",
   "sources": [
     {
       "key": "ynet",
@@ -104,6 +104,24 @@
       "pubDate": "2026-09-17T12:02:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1368418",
+      "title": "אחרי 32 חודשי שירות: בצה\"ל שוקלים לצמצם ללוחמים את חופשת השחרור",
+      "summary": "לוחמים שאמורים להשתחרר בדצמבר טוענים כי נאמר להם שלא יקבלו את מלוא ימי החופש שצברו לצד חופשת השחרור, בשל המחסור בכוח אדם. באכ\"א מתעקשים: יש להעניק להם את מלוא הימים",
+      "link": "https://www.maariv.co.il/news/military/article-1368418",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-17T10:57:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/un-commission-us-war-crimes-iran-strikes",
+      "title": "תיראו מופתעים: הדו\"ח המדהים של האו\"ם על המלחמה באיראן - וכך הגיבה ארה\"ב",
+      "summary": "וועדת חקירה עצמאית חקרה את התנהלות ארה\"ב במהלך המלחמה באיראן | הארגון בדק גם את הצד האיראני והגיע למסקנות לגבי שני הצדדים אלו ה\"ממצאים\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/un-commission-us-war-crimes-iran-strikes",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-17T10:51:57.000Z"
+    },
+    {
       "id": "walla:https://e.walla.co.il/item/3868448",
       "title": "אז מה, אתם מאמינים לשקרים של טלי גוטליב או לדמעות הורים שכולים?",
       "summary": "הסרט התיעודי על משפחת שושני מכפר עזה, הוא לא רק אגרוף בבטן לכל צופה אלא גם נוקאאוט לכל תיאוריות הקונספירציה ההזויות",
@@ -156,6 +174,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-17T10:42:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/skz8vmttmg",
+      "title": "טרגדיה בקריות: בן שנתיים נהרג בנפילה מגובה של 4 קומות",
+      "summary": "הפעוט פונה לבית החולים רמב\"ם תוך כדי פעולות החייאה לאחר שנפל - ככל הנראה מחלון הממ\"ד. ברמב\"ם נקבע מותו אחרי פעולות החייאה ממושכות. בבני ברק: תלמיד ישיבה נהרג בנפילה מגובה דומה",
+      "link": "https://www.ynet.co.il/news/article/skz8vmttmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-17T10:40:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1368388",
@@ -25905,33 +25932,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-12T11:08:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21397927",
-      "title": "נועם קלינשטיין על המעבר: \"היה לי איזה דחף\"",
-      "summary": "אחרי שנבחרה לפריצת השנה במצעד הישראלי של רדיו דרום עם יורם סוויסה, הזמרת חוגגת את ההצלחה של אלבומה השלישי, משתפת במה שגרם לה לשנות כיוון אחרי שנים של הופעות מועדונים אינטימיות - ומסבירה למה לא יכלה להישאר באותו המקום: \"ר…",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21397927",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T11:00:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21400478",
-      "title": "בין נחלת בנימין למערב ראשון: השירים הכי פופולריים של איתי לוי",
-      "summary": "איתגרנו את איתי לוי לנחש מה חמשת השירים שלו עם הכי הרבה האזנות בספוטיפיי",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21400478",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T11:00:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21408152",
-      "title": "רחוקה מלאנס סטרול: יעל שלביה קיבלה החלטה",
-      "summary": "בזמן שבן זוגה נמצא במדריד לקראת הגרנד פרי הספרדי של הפורמולה 1, הדוגמנית חזרה לנהריה לכבוד ראש השנה • אחרי תקופה עמוסה בחו\"ל היא שמה בצד את המרוצים והזוהר לטובת האוכל הביתי לצד המשפחה",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21408152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-12T10:51:17.000Z"
     }
   ]
 }
