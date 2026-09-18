@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:46:13.562Z",
+  "updatedAt": "2026-09-18T20:01:08.075Z",
   "sources": [
     {
       "key": "ynet",
@@ -75,6 +75,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T21:30:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368813",
+      "title": "הידידה האירופית של ישראל פותחת את הארנק: נפרדים מהסובייטים ומתחמשים בטכנולוגיית כיפת ברזל",
+      "summary": "ראש ממשלת צ'כיה הציג את האסטרטגיה שבה המדינה מתכננת לפעול במהלך השנים הקרובות, על רקע האיום שהולך וגובר מצד רוסיה. עסקת הענק הישראלית־צ'כית יוצאת לדרך",
+      "link": "https://www.maariv.co.il/news/world/article-1368813",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T19:53:49.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkj3o11skzl",
+      "title": "אחרי ימים של חיפושים חריגים: נעצר חשוד ברצח הנעדרת ממזרח ירושלים - ואותרה גופה",
+      "summary": "הגופה אותרה במסגרת החיפושים אחרי הנעדרת ממזרח העיר פאטמה א-רג'בי, שנראתה לאחרונה ביום ראשון - ולאחר שנעצר גבר בחשד לרצח ולמעורבות בהיעדרותה. כוחות גדולים השתתפו בחיפושים אחריה, בני המשפחה טענו שהם החלו באיחור. ההערכה - הרקע פלילי",
+      "link": "https://www.ynet.co.il/news/article/hkj3o11skzl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T19:39:13.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hkj3o11skzl",
@@ -29847,42 +29865,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T20:04:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21413619",
-      "title": "הפסגה האזורית בעומאן שנקבעה למחר - נדחתה",
-      "summary": "המפגש הראשון בין שרי החוץ של מדינות המפרץ לבכיר איראני מאז פרוץ המלחמה לא יתקיים כמתוכנן • בחריין הודיעה כי תחרים את הדיונים • הדחייה מגיעה לאחר יממה של הסלמה במצר ופגיעה בכלי שיט",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21413619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T19:59:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1365979",
-      "title": "הרכב נחצה לשניים והידרדר לתעלה: הרוג בתאונה קטלנית בצפון",
-      "summary": "גבר בשנות ה-30 לחייו נהרג בתאונה בכביש 762 סמוך לרכסים, אישה בשנות ה-40 נפצעה באורח בינוני ופונתה לרמב\"ם. לפי כבאות והצלה, אחד מכלי הרכב נחצה לשניים וחלקו הידרדר לתעלה בעומק כארבעה מטרים",
-      "link": "https://www.maariv.co.il/news/israel/article-1365979",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T19:58:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syuzxw4tge",
-      "title": "חם מהרגיל - לפני השינוי בסופ\"ש: התחזית לשבוע הראשון של השנה",
-      "summary": "בימים הקרובים הטמפרטורות יעלו, בירושלים ובת\"א יהיו יותר מ-30 מעלות. יתפתחו גם תנאי שרב, אבל בסופ\"ש צפויה ירידה חדה בטמפרטורות - ויש סיכוי לגשם מקומי בצפון. לקראת כיפור: כנראה התחממות מחודשת",
-      "link": "https://www.ynet.co.il/news/article/syuzxw4tge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-13T19:56:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21413579",
-      "title": "תאונה קטלנית בצפון: רכב נחצה לשניים והידרדר לתעלה, גבר כבן 30 נהרג",
-      "summary": "התנגשות בין שלוש מכוניות אירעה בכביש 762 סמוך לרכסים • אישה כבת 40 נפצעה באורח בינוני ופונתה לרמב״ם • המשטרה פתחה בחקירת נסיבות האירוע",
-      "link": "https://www.israelhayom.co.il/news/local/article/21413579",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T19:48:21.000Z"
     }
   ]
 }
