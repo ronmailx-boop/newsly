@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:46:07.350Z",
+  "updatedAt": "2026-09-18T05:01:08.234Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868694",
+      "title": "אסון בקולומביה: לוחם צה\"ל משוחרר נהרג בתאונת מצנח רחיפה במהלך \"הטיול הגדול\"",
+      "summary": "הצעיר, שזוהה בתקשורת המקומית כנועם ממן, יצא לטיסת מצנח רחיפה זוגית באזור מדיין והתרסק בשטח מיוער. מותו נקבע במקום והמדריך שהיה עמו נפצע קשה. הרשויות חוקרות את נסיבות התאונה, כשאחת האפשרויות שנבדקות היא השפעת תנאי מזג האוויר",
+      "link": "https://news.walla.co.il/item/3868694",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T07:32:00.000Z"
+    },
+    {
+      "id": "walla:https://news.walla.co.il/item/3868688",
+      "title": "עימות, דריסה וירי במתחם קניות בחדרה: נער בן 17 נהרג",
+      "summary": "אירוע פלילי לפנות בוקר במתחם \"מול החוף וילג'\" הידרדר לדריסה וירי: לפי המשטרה, נער בן 17 נדרס במהלך עימות ומותו נקבע בבית החולים. נהג הרכב נפצע קל מירי. החקירה הועברה לימ\"ר מנשה, ובמשטרה מדגישים: אין חשד לפיגוע",
+      "link": "https://news.walla.co.il/item/3868688",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T07:26:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868688",
       "title": "הקטל בכבישים: בן 18 נהרג לאחר שנפגע מרכב בחדרה",
@@ -84,6 +102,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T06:00:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/teen-run-over-hadera-village-shooting",
+      "title": "נער בן 17 נדרס למוות בחדרה: נהג הרכב נעצר לאחר שנפצע מירי",
+      "summary": "נער בן 17 נדרס למוות במתחם קניות וילג׳ בחדרה • נהג הרכב נפצע מירי ונעצר | המשטרה: רקע פלילי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/teen-run-over-hadera-village-shooting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T05:00:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/nypd-commissioner-ohel-visit-yom-kippur",
+      "title": "נציבת משטרת ניו יורק ביקרה באוהל לפני יום כיפור: \"חוויה מיוחדת ומשמעותית\"",
+      "summary": "נציבת משטרת ניו יורק ג'סיקה טיש ביקרה באוהל הרבי בקווינס ערב יום כיפור • כתבה פתק אישי והתפללה בציון • \"שומרת ישראל\" - כך כינתה אותה דבורה הלברשטאם (חרדים)",
+      "link": "https://www.kikar.co.il/hasidism/nypd-commissioner-ohel-visit-yom-kippur",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T04:55:22.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byoggb5ffl",
+      "title": "חשד לרצח: בן 17 נדרס למוות במתחם קניות בחדרה, ירי בוצע במקום",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/byoggb5ffl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T04:47:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/f16-fighter-jet-crash-michigan-training",
+      "title": "בגלל ציפור: מטוס קרב אמריקאי התרסק באימון - הטייס נפלט ברגע האחרון",
+      "summary": "מטוס קרב מסוג F-16 התרסק במהלך טיסת אימונים במישיגן • הטייס נפלט בטרם ההתרסקות ומצבו יציב | חשד לפגיעת ציפור במנוע (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/f16-fighter-jet-crash-michigan-training",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T04:45:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/us-approves-iran-visas-blocks-abu-mazen-un-assembl",
@@ -249,7 +303,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1368562",
-      "title": "מנורמליזציה לברית צבאית: איראן עשתה להסכמי אברהם בדיוק את ההפך | ד\"ר ענת הוכברג-מרום",
+      "title": "מעוינת לשותפה אפשרית: המדינה בנקודה הרגישה של איראן מתקרבת לישראל | ד\"ר ענת הוכברג-מרום",
       "summary": "המלחמה עם איראן מעמידה במבחן את יחסי ישראל ואיחוד האמירויות - והן עוברות אותו בהצלחה. הצטרפות אפשרית של כווית להסכמי אברהם כבר תהפוך אותם מיוזמה מדינית לברית אסטרטגית משנת מציאות",
       "link": "https://www.maariv.co.il/news/opinions/article-1368562",
       "source": "מעריב",
@@ -270,6 +324,15 @@
       "title": "האיחוד האירופי המציא מעמד חדש לקנדה - שישראל כבר בנתה שנים קודם | שרון פרדו",
       "summary": "קנדה מבקשת להעמיק את קשריה עם האיחוד האירופי בתחומי סחר, ביטחון, טכנולוגיה ואנרגיה בלי להפוך למדינה חברה. ישראל כבר פועלת במשך שנים במודל דומה של אינטגרציה עמוקה ללא חברות מלאה",
       "link": "https://www.maariv.co.il/news/opinions/article-1368528",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T03:00:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1368562",
+      "title": "מנורמליזציה לברית צבאית: איראן עשתה להסכמי אברהם בדיוק את ההפך | ד\"ר ענת הוכברג-מרום",
+      "summary": "המלחמה עם איראן מעמידה במבחן את יחסי ישראל ואיחוד האמירויות - והן עוברות אותו בהצלחה. הצטרפות אפשרית של כווית להסכמי אברהם כבר תהפוך אותם מיוזמה מדינית לברית אסטרטגית משנת מציאות",
+      "link": "https://www.maariv.co.il/news/opinions/article-1368562",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-18T03:00:45.000Z"
@@ -29298,15 +29361,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-13T05:05:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21410577",
-      "title": "רוי רביבו קיבל שבחים: \"לא נרתע מהאווירה\"",
-      "summary": "המגן הישראלי ערך את הופעת הבכורה בהרכב אלצ'ה והשלים 90 דקות ב-1:1 עם אתלטיק בילבאו • בעיתונות המקומית התרשמו: \"שיחק בצורה הגנתית טובה במיוחד, ניסה ליצור מצבים\" • בשלישי: ריאל מדריד מגיעה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21410577",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T04:53:02.000Z"
     }
   ]
 }
