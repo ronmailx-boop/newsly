@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:15:54.684Z",
+  "updatedAt": "2026-09-18T11:31:10.370Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868668",
+      "title": "התהפכו עליו. בין מה שאמרו אז למה שאומרים היום | בן כספית",
+      "summary": "כשאותם קמפיינרים שפעלו להכשיר ממשלה של נתניהו עם עבאס קובעים היום שזאת בגידה במדינה, זה משום שנגמרה להם הבושה בגוף. תהיו בטוחים שאם לא תהיה לנתניהו ברירה אלא להקים ממשלה עם עבאס - הוא יקים",
+      "link": "https://news.walla.co.il/item/3868668",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T14:20:00.000Z"
+    },
     {
       "id": "walla:https://e.walla.co.il/item/3868742",
       "title": "החרם מתרחב: תחנת רדיו הפסיקה לשדר את אד שירן - והמחאה שמחכה לו בפילדלפיה",
@@ -104,6 +113,24 @@
       "pubDate": "2026-09-18T11:32:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85055",
+      "title": "גבר בן 30 נפצע בינוני בהתהפכות רכב סמוך לשפרעם",
+      "summary": "גבר כבן 30 נפצע במצב בינוני לאחר שרכבו התהפך בכביש 7912 בסמוך לשפרעם. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים רמב\"ם עם חבלה בגב. הדיווח התקבל במוקד 101 בשעה 13:26.",
+      "link": "https://www.kikar.co.il/scoop-news/85055",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T11:29:23.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing",
+      "title": "סולברג דחה את המשפחות השכולות: \"חשש מהתלהטות יצרים\"",
+      "summary": "יו\"ר ועדת הבחירות דחה בקשת המשפחות שהגישו את העתירה להיות נוכחות בדיון • באודיטוריום 330 מקומות, אך לנציגי התקשורת נמצא מקום ולהורים השכולים לא | החלטה מקוממת (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T11:16:07.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/law-and-order/tl45fq",
       "title": "\"דומה להיטלר\": אליעד שרגא תובע דיבה בעקבות תגובה ברשת",
       "summary": "יו\"ר התנועה לאיכות השלטון דורש פיצוי של 50 אלף שקל ממיכל פלד, בעקבות תגובה שפרסמה על סרטון באינסטגרם (משפט)",
@@ -120,6 +147,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T11:08:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21446229",
+      "title": "בירם כיאל חשף: השיחה עם ענאן חלאילי אחרי נפילת עסקת אינטר",
+      "summary": "בראיון ל\"היום\", המנהל הטכני בהתאחדות דיבר על הנסיקה של הישראלי (\"יגיע לרמות הכי גבוהות\"), התפקיד (\"נשפר את הכדורגל הישראלי\"), ליאור רפאלוב (\"הקשר שלו עם האוהדים חשוב\") והעתיד: \"מעניין אותי לצאת לחו\"ל\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21446229",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:00:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21450812",
@@ -30333,51 +30369,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-13T11:33:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21411327",
-      "title": "שריפה פרצה בשמורת תל דן: כל המטיילים פונו ממסלולי הטיול",
-      "summary": "האש התלקחה בשטח השמורה ורשות הטבע והגנים סגרה את האתר למבקרים • הפקחים נאבקים בלהבות וביקשו סיוע של לוחמי אש • האירוע מצטרף לדליקה אתמול בירכא שהובילה לפינוי מרכז הקניות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21411327",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T11:29:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1365850",
-      "title": "\"נחתתי\": ההודעה האחרונה ששלח - ואז הסינים לקחו אותו",
-      "summary": "אזרח אמריקאי נעצר מיד לאחר שנחת בסין ומאז מוחזק ללא כתב אישום בחשד לריגול, בתנאים קשים וללא אור יום. ארה\"ב דורשת את שחרורו, והמקרה צפוי לעלות בפגישת טראמפ ושי החודש",
-      "link": "https://www.maariv.co.il/news/world/article-1365850",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T11:19:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21411293",
-      "title": "\"רה\"מ האחרון\": האם זה הסוף של הממלכה המאוחדת?",
-      "summary": "מנהיגי סקוטלנד, וויילס וצפון אירלנד, שכולם תומכים בפרישה מבריטניה, ייפגשו מחר ויחתמו על הצהרה שתדרוש משאלי עם כדי להכריע בסוגיה • ״וסטמינסטר חייבת להתכונן לעתיד שאחרי הממלכה המאוחדת״, אמר ראש ממשלת סקוטלנד • הפסגה מגיעה יומיים אחרי התבטאותו של טראמפ בדבלין בזכות איחוד אירלנד",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21411293",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T11:19:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1365850",
-      "title": "האמריקאי שנחת בסין - ומאז לא ראה אור יום",
-      "summary": "אזרח אמריקאי נעצר מיד לאחר שנחת בסין ומאז מוחזק ללא כתב אישום בחשד לריגול, בתנאים קשים וללא אור יום. ארה\"ב דורשת את שחרורו, והמקרה צפוי לעלות בפגישת טראמפ ושי החודש",
-      "link": "https://www.maariv.co.il/news/world/article-1365850",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T11:19:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hypibw4tgx",
-      "title": "ביום האחרון של החג: שריפה פרצה בשמורת תל דן, המטיילים פונו | תיעוד",
-      "summary": "בעקבות השריפה שפרצה בשמורת הטבע הפופולרית בצפון עדכנה רשות הטבע והגנים כי הועלתה דרישה לסיוע בכוחות כיבוי אש. כל המבקרים פונו ממסלולי הטיול",
-      "link": "https://www.ynet.co.il/news/article/hypibw4tgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-13T11:18:10.000Z"
     }
   ]
 }
