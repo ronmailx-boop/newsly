@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:16:03.870Z",
+  "updatedAt": "2026-09-18T22:30:57.729Z",
   "sources": [
     {
       "key": "ynet",
@@ -75,6 +75,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T22:24:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1800owjkmx",
+      "title": "מיצג באו\"ם: בד באורך 100 מטר עם שמות של 20 אלף ילדים פלסטינים",
+      "summary": "לפני כינוס העצרת הכללית: קואליציה של ארגונים בין דתיים השיקה מיצג זיכרון בצורת תכריך בד באורך מאה מטרים, שעליו נכתבו בכתב יד שמותיהם של יותר מ-20 אלף ילדים פלסטינים",
+      "link": "https://www.ynet.co.il/news/article/b1800owjkmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T22:18:33.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3868805",
@@ -29586,15 +29595,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-13T22:36:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21413866",
-      "title": "ניצח את השדים: אלכסנדר זברב זכה באליפות ארצות הברית הפתוחה",
-      "summary": "טניסאי הצמרת הגרמני גבר על היריב האמריקני בגמר מרתק על אדמת ניו יורק • ההישג ההיסטורי מעניק לו תואר מייג'ור שני ומבסס את מעמדו בצמרת העולמית",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21413866",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T22:26:55.000Z"
     }
   ]
 }
