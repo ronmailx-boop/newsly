@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:31:05.384Z",
+  "updatedAt": "2026-09-18T05:46:01.728Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868618",
+      "title": "נתניהו צולל, סמוטריץ' מתחזק - ומה השתנה במאזן הגושים? | סקר מנדטים",
+      "summary": "",
+      "link": "https://news.walla.co.il/item/3868618",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T08:30:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868700",
       "title": "פנה לחמאס ויצר קשר עם גורמי מודיעין איראניים: אישום נגד תושב טמרה",
@@ -113,6 +122,24 @@
       "pubDate": "2026-09-18T06:00:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/hundred-thousand-selichot-western-wall-hostages-su",
+      "title": "כמאה אלף איש במעמד סליחות מרטיט בכותל: שורדי השבי והשידור לכיכר החטופים",
+      "summary": "מעמד מרכזי ברחבת הכותל עם שורדי השבי ובני משפחות חללים • שידור חי לכיכר החטופים ומסכי ענק על חומות העיר | ההיערכות למעמד האחרון במוצ\"ש (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/hundred-thousand-selichot-western-wall-hostages-su",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T05:43:37.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hymxgflyfl",
+      "title": "הכפר הפלסטיני שהתפכח: \"שנים לקחנו חלק בהתנגדות המזוינת לישראל\"",
+      "summary": "\"הבנו שאלימות לא תביא אותנו לחירות אמיתית\", אומר עאדל מהכפר א-טוואני. לא רחוק משם, באום אל-חיר, הפכו השירותים של סאלם - אחיו של עודה שנורה למוות בידי מתנחל - לשטח שאסור לו להיכנס אליו. בחווה הסמוכה מתגאים בחיכוכים האלימים, אך האיש שייסד את מועצת הר חברון מזהיר: \"ההפקרות לא נעצרת בדם פלסטיני\". סדרת כתבות מצולמת, מתוך הספר \"בדרך האבות\"",
+      "link": "https://www.ynet.co.il/news/article/hymxgflyfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T05:36:44.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tljo9w",
       "title": "זה חליפתי: ברחובות מאה שערים, גם הילדים הקטנים עושים כפרות על תרנגול",
       "summary": "צלמי פלאש 90 תיעדו ברחובות השכונה הירושלמית את ילדי החמד מקיימים את מנהג הכפרות בעשרת ימי תשובה, על תרנגולים לבנים (חרדים)",
@@ -120,6 +147,51 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T05:29:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21448854",
+      "title": "\"מהרגע הראשון, ים מדר הכוכב הבלתי מעורער של מכבי תל אביב\"",
+      "summary": "הופעת הבכורה של הרכז בגופייה הצהובה הפכה לנושא המרכזי גם בכדורסל האירופי • בסרביה נזכרו ברגעים מפרטיזן בלגרד: \"כבר הראה שיש לו את גן הקלאץ'\", באיטליה נפעמו: \"השתלב מייד\" • וגם: נוק אאוט נוסף של עודד קטש לדימיטריס איטודיס",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21448854",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:24:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21448962",
+      "title": "פנה לחמאס ולמודיעין האיראני: תושב טמרה נעצר בחשד לעבירות ריגול",
+      "summary": "החשוד, בן 31, פנה מספר פעמים לגדודי עז אדין אל-קאסם כדי לסייע להם באופן חשאי, ויצר קשר גם עם גורמי מודיעין איראנים • שב\"כ והמשטרה: \"רואים בחומרה רבה כל מעורבות בפעילות המסכנת את ביטחון המדינה\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21448962",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:24:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21448938",
+      "title": "חושבים שהסמארטפון מאזין לכם? תשנו את ההגדרות האלה - מיד",
+      "summary": "מרגישים שאינסטגרם וטיקטוק שומעים כל מילה שאתם אומרים? • כך תבטלו את ההגדרות הנסתרות שמשאירות את המיקרופון פתוח ברקע ותחזירו לעצמכם את הפרטיות ברגע • צעד אחר צעד",
+      "link": "https://www.israelhayom.co.il/tech/how-to/article/21448938",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:23:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21448941",
+      "title": "הקורבן נפל, התוקפים המשיכו להכות: תיעוד קשה מהקטטה בקיוסק במרכז",
+      "summary": "ויכוח שהתגלע בקיוסק ברמת השרון התפתח לתקיפה חמורה של אזרח, שהזעיק את המשטרה בעודו שרוע על הרצפה • שניים נעצרו וכתב אישום הוגש נגדם, הקורבן נזקק לקבלת טיפול רפואי בבית החולים",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21448941",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:22:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21448953",
+      "title": "הקרב על ברלין: מועמדת השמאל הקיצוני מול יורשו של ראש העיר הפרו־ישראלי",
+      "summary": "תחת ראש העיר היוצא אימצה עיריית ברלין קו ברור נגד גילויי אנטישמיות והסתה ואף אירחה את תערוכת ההנצחה של פסטיבל נובה • מפלגת די לינקה שמובילה בסקרים אימצה קו ביקורתי נגד מדינת ישראל • העיתונאי ל\"היום\": \"הבחירות הן על דיור, תחבורה וביטחון אבל דווקא ישראל עלולה להפוך לאחד הנושאים שיקשו על הקמת הקואליציה הבאה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21448953",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:19:31.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1368646",
@@ -186,6 +258,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1368609",
+      "title": "השותפים של נתניהו מתעבים אותו - ונשארים איתו בגלל סיבה אחת בלבד | בן כספית",
+      "summary": "בכל תרחיש, לא משנה כמה הוא מזיק למדינת ישראל, הביביסטים הנאמנים ימשיכו לצעוד אחרי האדון | כשכבר חשבנו שאי אפשר לרדת יותר למטה, הגיע עמיחי אליהו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1368609",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T05:00:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1368609",
       "title": "מגוחך: הביביסטים מוכיחים שוב את פולחן האישיות שלהם לבנימין נתניהו | בן כספית",
       "summary": "בכל תרחיש, לא משנה כמה הוא מזיק למדינת ישראל, הביביסטים הנאמנים ימשיכו לצעוד אחרי האדון | כשכבר חשבנו שאי אפשר לרדת יותר למטה, הגיע עמיחי אליהו",
       "link": "https://www.maariv.co.il/news/opinions/article-1368609",
@@ -201,6 +282,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T05:00:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21448909",
+      "title": "חשד לרצח: נער נדרס למוות במרכז מסחרי בחדרה; נהג הרכב נפצע מירי",
+      "summary": "המשטרה: האירוע החל בעימות בין הצדדים, שבמהלכו נדרס הנער ובהמשך בוצע ירי במקום • החקירה הועברה לימ\"ר מנשה • אין חשד לאירוע פח\"ע",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21448909",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T04:59:20.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21448909",
@@ -223,7 +313,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byoggb5ffl",
       "title": "חשד לרצח: בן 17 שהגיע לאירוע סליחות נדרס למוות בחדרה, הנהג נורה",
-      "summary": "עימות לילי בחניה של מתחם הקניות מול החוף וילג' הוביל לפי החשד לדריסה ולירי: נהג רכב פרטי פגע בנער שנפצע אנושות ובהמשך נקבע מותו. היורה שהיה עם הנער פתח באש לעבר הנהג שנפצע קל. החשוד בדריסה והיורה נעצרו",
+      "summary": "עימות לילי בחניה של מתחם הקניות מול החוף וילג' הוביל לפי החשד לדריסה ולירי: נהג תובלה פגע בנער מאזור השומרון שנפצע אנושות ובהמשך נקבע מותו. חברו של הנער פתח באש לעבר הנהג מכפר מנדא שנפצע קל ונלכד בכניסה לנתניה. בשב\"כ שללו מניע לאומני. החשוד בדריסה והיורה נעצרו",
       "link": "https://www.ynet.co.il/news/article/byoggb5ffl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -29469,42 +29559,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-13T05:55:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1365800",
-      "title": "הבית של קמלה האריס במאליבו קיבל אורח שהיא ממש לא הזמינה",
-      "summary": "אדם נכנס ללא רשות לשטח ביתה של קמלה האריס במאליבו, אך נעצר בידי מאבטחים לפני שהגיע לבית עצמו. האריס ובעלה לא שהו במקום",
-      "link": "https://www.maariv.co.il/news/world/article-1365800",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T05:45:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1365800",
-      "title": "לילה מלחיץ במאליבו: אדם חדר לשטח הבית של קמלה האריס",
-      "summary": "אדם נכנס ללא רשות לשטח ביתה של קמלה האריס במאליבו, אך נעצר בידי מאבטחים לפני שהגיע לבית עצמו. האריס ובעלה לא שהו במקום",
-      "link": "https://www.maariv.co.il/news/world/article-1365800",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T05:45:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1365789",
-      "title": "חיזבאללה מול החות'ים: גם באיראן מבינים שזהו סופו של עידן",
-      "summary": "בתקשורת הלבנונית עוסקים בהתחזקות מעמדם של החות'ים בתוך הציר האיראני, מול החיזבאללה: \"חיזבאללה מאבד את חופש הפעולה שלו, בזמן שהערך האסטרטגי של החות'ים עולה",
-      "link": "https://www.maariv.co.il/news/military/article-1365789",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-13T05:44:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21410626",
-      "title": "קבוצתו של צ'רון שרי חוטפת: \"עשתה צחוק מעצמה\"",
-      "summary": "ב-\"AD\" ההולנדי ביקרו בחריפות את ניימיכן ואקס מכבי חיפה, שפתח בהרכב בהפסד 3:0 לעולה החדשה קמבור: \"שיחקו גרוע, כשלו לחלוטין במציאת הקצב\" • היריבה הבאה: יובנטוס בטורינו",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21410626",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T05:36:30.000Z"
     }
   ]
 }
