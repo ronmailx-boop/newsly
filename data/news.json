@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:30:59.633Z",
+  "updatedAt": "2026-09-18T15:46:06.120Z",
   "sources": [
     {
       "key": "ynet",
@@ -34,7 +34,7 @@
     {
       "id": "walla:https://news.walla.co.il/item/3868770",
       "title": "נקבע מותו של ילד כבן 7 בעקבות תאונת דרכים ברהט",
-      "summary": "ילד בן 7 נהרג היום (שישי) בתאונת דרכים סמוך לרהט. הילד, שהיה מחוסר הכרה, הובא ברכב פרטי לחבירה עם צוות מד\"א בכביש 264, סמוך לצומת הכניסה לעיר. חובשים ופראמדיקים של מד\"א מצאו אותו עם פגיעה רב-מערכתית וללא סימני חיים וקבעו את מותו. פראמדיק מד\"א מאלק אבו ערארה סיפר: \"חברנו עם רכב פרטי שהביא אלינו את הילד שהיה מחוסר הכרה סמוך לצומת הכניסה לרהט. סיפרו לנו שהוא נפצע בתאונת דרכים. ביצענו בדיקות רפואיות, הוא סבל מפגיעה רב מערכתית והיה ללא סימני חיים ולא נותר לנו אלא לקבוע את מותו\".",
+      "summary": "ילד בן 7 נהרג היום (שישי) בתאונת דרכים סמוך לרהט. הילד, שהיה מחוסר הכרה, הובא ברכב פרטי לחבירה עם צוות מד\"א בכביש 264, סמוך לצומת הכניסה לעיר. חובשים ופראמדיקים של מד\"א מצאו אותו עם פגיעה רב-מערכתית וללא סימני חיים וקבעו את מותו. פראמדיק מד\"א מאלק אבו ערארה סיפר: \"חברנו עם רכב פרטי שהביא אלינו את הילד שהיה מחוסר הכרה סמוך לצומת הכניסה לרהט. סיפרו לנו שהוא נפצע בתאונת דרכים. ביצענו בדיקות רפואיות, הוא סבל מפגיעה רב מערכתית והיה ללא סימני חיים ולא נותר לנו אלא לקבוע את מותו\". המשטרה פתחה בחקירת נסיבות התאונה, שבה היו מעורבים רכב פרטי והולך רגל. שוטרי תחנת רהט ובוחני תאונות הדרכים של מרחב נגב הגיעו לזירה וממשיכים בחקירת נסיבות האירוע.",
       "link": "https://news.walla.co.il/item/3868770",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -77,6 +77,24 @@
       "pubDate": "2026-09-18T15:51:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkw11cpqtzg",
+      "title": "\"ספינת אם\" כזו עוד לא הייתה: הפיתוח הסיני שמשאיר את ארה\"ב הרחק מאחור",
+      "summary": "מתמונות לוויין עולה כי סין בונה ספינת אם תת-ימית ראשונה בעולם המסוגלת לשגר צוללות בלתי מאוישות. אותן צוללות כה גדולות עד שנדרש היה להמציא עבורן מונח חדש. הן כבר נוסו בים סין הדרומי, ואורכן גדול פי כמה מאלו של ארה\"ב",
+      "link": "https://www.ynet.co.il/news/article/rkw11cpqtzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T15:31:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjamvrcfze",
+      "title": "ילד בן 7 נהרג בתאונת דרכים בנגב",
+      "summary": "אחרי יום שבו נהרגו חמישה בני אדם בכבישים, הקטל נמשך: הילד הובא לחבירה עם צוות מד\"א בכביש 264 סמוך לרהט, ומותו נקבע במקום",
+      "link": "https://www.ynet.co.il/news/article/sjamvrcfze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T15:30:27.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1368780",
       "title": "בעיצומה של תקופת הבחירות: המינויים החדשים של גדעון סער",
       "summary": "שר החוץ גדעון סער הודיע על שורה של מינויים במישור הדיפלומטי. השגריר באוסטריה, מי שנבחר לנסוע לבולגריה והנציגות החדשה בקפריסין",
@@ -84,6 +102,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-18T15:28:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21451804",
+      "title": "בן גביר: בממשלה הבאה אדרוש את תיק המשפטים לטלי גוטליב",
+      "summary": "יו\"ר עוצמה יהודית התייחס לחלוקת התיקים בממשלה הבאה במסגרת \"שישי תרבות\" בראשון לציון • בהמשך תקף את יו\"ר בל\"ד סמי אבו שחאדה בעקבות בקשת הפסילה שהגישה מפלגתו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21451804",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T15:21:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21451826",
+      "title": "\"אנחנו כאן\": מאות תלמידים יהודים התכנסו מול מעונו של ממדאני",
+      "summary": "התלמידים ומנהיגי הקהילה קיימו תפילת שחרית ומפגן של גאווה יהודית וציונית מחוץ לגרייסי מנשן • האירוע נערך על רקע העלייה באנטישמיות והביקורת על התבטאויותיו של ראש העיר נגד ישראל • ממדאני: \"אני מקבל אותם בברכה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21451826",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T15:16:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21451768",
@@ -102,6 +138,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-18T15:09:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21451707",
+      "title": "\"הכתירו את הפועל תל אביב לאליפות אחרי מחזור אחד, עכשיו אנחנו לא ראויים\"",
+      "summary": "מאמן הtsunho אליניב ברדה, התייחס לשיחות סביב העונה של הקבוצה לאחר ה-0:3 על הפועל פתח תקווה: \"אנחנו רגילים לזה ונצטרך להתמודד עם זה לאורך כל השנה, רוצים לעשות עונה טובה יותר מהעונה שעברה\" • וגם: התחושות הקשות אחרי ההפסד בדרבי",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21451707",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T15:03:10.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21451707",
@@ -147,6 +192,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T14:43:29.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1368768",
+      "title": "אהרון חליוה זיעזעה את האם השכולה מהנובה: \"היית צריכה לפנות אליי\" | צפו",
+      "summary": "אמה של ליבי כהן־מגורי ז”ל, שנרצחה בטבח ה-7 באוקטובר התעמתה עם מי שהיה חלק מרכזי במחדל שאיפשר לארגון הטרור חמאס לבצע את טבח ה-7.10: \"לא טרחת לבוא אפילו פעם אחת\"",
+      "link": "https://www.maariv.co.il/news/military/article-1368768",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T14:40:14.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1368768",
@@ -30441,60 +30495,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-13T15:49:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21412248",
-      "title": "תומר הכהן ומיה מינץ כבר לא מסתתרים",
-      "summary": "אחרי ההכחשות והפפראצי, השניים נותנים עכשיו לתמונה אחת לעשות את העבודה. הקשר כבר יצא מהסט, ועכשיו גם בפיד",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21412248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:45:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21412158",
-      "title": "הפנייה הסעודית לישראל - והאפשרות שארה\"ב תתקוף את החות'ים",
-      "summary": "בן סלמאן פנה דרך סנטקום בבקשה לסיוע מודיעיני מול האיום על באב אל-מנדב • טראמפ מסתייג מהתערבות ישירה, אך מתקפה אווירית עדיין על הפרק",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21412158",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:42:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21412158",
-      "title": "הפנייה הסעודית העקיפה לישראל: עזרו לנו מול החות'ים",
-      "summary": "לאחר המפלות הכבדות והאיום על באב אל-מנדב, בן סלמאן ביקש דרך סנטקום סיוע מודיעיני ואחר מישראל • טראמפ סירב להתערבות צבאית ישירה, ובריאד מחפשים פתרונות גם מול איראן",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21412158",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:42:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21412211",
-      "title": "רכבת ה-VIP פונתה, כשבוריס ג׳ונסון עליה: המתקפה הרוסית על גבול פולין",
-      "summary": "רכבת לא סדירה שהחזירה בכירים אירופים מוועידה בקייב עצרה סמוך לגבול פולין, וחלקים ממנה פונו • דקות ספורות אחריהם חצתה את אותו מעבר רכבת נוסעים שקטרה ספג פגיעת כטב״ם רוסי • במקביל דרש טראמפ מזלנסקי לחדול מתקיפת בתי זיקוק ברוסיה - בטענה שהדבר מעלה את מחירי הנפט",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21412211",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:41:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21412228",
-      "title": "יובל שרף ביום ההולדת של שלומי שבן: ''לא תכננתי לשתף''",
-      "summary": "לרגל יום הולדתו ה-50 של המוזיקאי, בת זוגו השחקנית עשתה משהו שמעולם לא העזה לעשות - ושיתפה בכנות למה זה הפחיד אותה כל כך",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21412228",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:40:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21412179",
-      "title": "אחרי ההכחשות: כוכבי ״כשהגלים מתחזקים״ עושים את זה רשמי",
-      "summary": "אחרי תקופה ארוכה של שמועות, רמזים עבים והכחשות , הזוגיות המסקרנת נחשפת • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21412179",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T15:31:15.000Z"
     }
   ]
 }
