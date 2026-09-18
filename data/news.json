@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:31:10.370Z",
+  "updatedAt": "2026-09-18T11:46:09.289Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868744",
+      "title": "בית המשפט קיבל את עתירת אגם צרפי ומתח ביקורת על שב\"ס",
+      "summary": "המחוזי בתל אביב דחה את עמדת שב\"ס, אסר להחזיק את צרפי בהפרדת יחיד וקיצר את תקופת ההפרדה הזוגית מ-30 יום לשישה ימים נוספים. השופטים הורו לבחון גם את בקשתה לשוחח עם הוריה ואת התנהלות הסוהרים שתועדה בסרטון",
+      "link": "https://news.walla.co.il/item/3868744",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T14:29:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868668",
       "title": "התהפכו עליו. בין מה שאמרו אז למה שאומרים היום | בן כספית",
@@ -104,6 +113,15 @@
       "pubDate": "2026-09-18T11:47:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1368742",
+      "title": "\"מצב מאוד בעייתי\": המפה החדשה שטורקיה בונה סביב ישראל",
+      "summary": "ד\"ר חי איתן כהן ינרוג'ק מזהיר כי מאז 7 באוקטובר חל שינוי עמוק ביחסה של אנקרה לישראל, ומצביע על ההתבססות הטורקית בסוריה והבריתות האזוריות החדשות: \"מצב מאוד בעייתי עבור מדינת ישראל\"",
+      "link": "https://www.maariv.co.il/news/military/article-1368742",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T11:42:37.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3868726",
       "title": "פרסום ראשון | ניפץ חלון בכנסייה וירק בפני שוטר דרוזי: אישום נגד תושב חיפה",
       "summary": "דין מור, תושב הדר הכרמל בן 34, מואשם כי נכנס לכנסייה ברחוב הפרסים, עלה על במת הכומר ולאחר שהתבקש לצאת השליך אבן וניפץ חלון. לאחר מעצרו, נטען, ירק פעמיים בפני שוטר דרוזי וקילל אותו בכינוי גזעני. כתב האישום אינו מייחס למעשה בכנסייה מניע דתי או עבירת שנאה",
@@ -120,6 +138,60 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T11:29:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21450672",
+      "title": "המדע מאשר: תמרון הקרב האייקוני באמת עובד - טוב מכפי שחשבנו",
+      "summary": "טריק הקומבט המפורסם מ-\"Star Trek: The Next Generation\" נבדק מדעית ונמצא מדויק ואפילו מורכב יותר ממה שהתסריטאים דמיינו • איך קפץ קפטן פיקארד למהירות העורף והותיר את האויב מבולבל?",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21450672",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:25:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450987",
+      "title": "מדריך מקיף להסעות לאירועים: כל מה שחשוב לדעת לפני שבוחרים ספק הסעות",
+      "summary": "אירוע מוצלח נמדד לא רק בתוכן שלו, אלא גם בפרטים הקטנים שמאחוריו – ואחד המרכזיים שבהם הוא ההסעה. בין אם מדובר בחתונה, בר מצווה, כנס עסקי או טיול משפחתי, הגעה מאורגנת ובטוחה של האורחים או המשתתפים היא לא פחות חשובה מהאירוע עצמו",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21450987",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:24:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21450810",
+      "title": "מהפכה בארמון: נשים זכאיות לכתר - בית המלוכה מאיים בתביעה",
+      "summary": "ליכטנשטיין, הנסיכות הזעירה אישרה שינוי היסטורי שיאפשר גם לנשים לרשת את הכתר, אך המהלך מעורר מחלוקת בתוך משפחת המלוכה • החוק החדש לא ישנה את סדר הירושה הנוכחי, אך יעניק לצאצאיות שוויון גם בניהול הפנימי של בית הנסיכות",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21450810",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:23:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450990",
+      "title": "בין העוטף לארצות הברית: הזוג שבחר להמשיך לבנות גם כשהכול רעד",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21450990",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:23:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450994",
+      "title": "קולקציית סאטן 600 החדשה של Linenz: חדר שינה במראה של מלון יוקרה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21450994",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:21:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21450820",
+      "title": "צפו: שב\"ח חשוד כי גנב רכב, נמלט - ודרס למוות רוכב אופניים בת\"א",
+      "summary": "מעצרו של נור גבור, תושב הכפר סאלם, הוארך ב-6 ימים בחשד כי גנב רכב בתל אביב, נמלט מהשוטרים והתהפך בסמוך למלון מנדרין - תוך שהוא פוגע באדם בן 56 ששהה במקום • החשוד מצידו מודה שנמלט והתהפך, אך מכחיש שפגע ברוכב: \"ניתן לבדוק במצלמות\" • השופטת קבעה כי קיים חשד סביר - והאריכה את מעצרו",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21450820",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:17:55.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing",
@@ -147,6 +219,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T11:08:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21446229",
+      "title": "\"כאיש מקצוע, קשה לי לשפוט את מכבי חיפה כרגע\"",
+      "summary": "בראיון ל\"היום\", המנהל הטכני בהתאחדות דיבר על הנסיקה של ענאן חלאילי (\"יגיע לרמות הכי גבוהות\"), התפקיד (\"נשפר את הכדורגל הישראלי\"), ליאור רפאלוב (\"הקשר שלו עם האוהדים חשוב\") והעתיד: \"מעניין אותי לצאת לחו\"ל\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21446229",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T11:00:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21446229",
@@ -2678,42 +2759,6 @@
       "pubDate": "2026-09-17T20:50:35.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21448108",
-      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
-      "summary": "חשוב לכם להרגיש שאתם מקבלים תמיכה כדי לקבל החלטות משמעותיות עבור המסגרת שבה אתם חיים. שישי: יש לכם רצון לשנות את סדר היום, אבל יש חוסר פרופורציה בין התוכניות לצד המעשי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21448108",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T20:50:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21448110",
-      "title": "מזל שור, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
-      "summary": "תרגישו משוחררים ממסגרות, או שתחפשו את הדרך להשתחרר. הביטחון העצמי שלכם יתחזק",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21448110",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T20:50:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21448115",
-      "title": "מזל תאומים, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
-      "summary": "תחפשו דרך להשתחרר מזיכרונות העבר, ולעלות על מסלול חדש ומאתגר שישפיע על עתידכם האישי או המקצועי. שישי: תשקיעו בזוגיות ותצאו לבלות",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21448115",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T20:50:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21448261",
-      "title": "מזל סרטן, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
-      "summary": "תשאלו את עצמכם אם כדאי לכם להמשיך במסלול המוכר, או שהמציאות רומזת לכם לחפש שינוי. התבוננו פנימה כדי לקבל תשובה",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21448261",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T20:50:30.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21448262",
       "title": "מזל אריה, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
       "summary": "תתקשו למצוא מרחב עצמאי במקום העבודה, ותנסו לחפש דרך להתייעל. במבחן התוצאה לא תצטערו על כך",
@@ -2781,6 +2826,42 @@
       "title": "מזל דגים, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
       "summary": "",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21448344",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T20:50:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21448108",
+      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
+      "summary": "חשוב לכם להרגיש שאתם מקבלים תמיכה כדי לקבל החלטות משמעותיות עבור המסגרת שבה אתם חיים. שישי: יש לכם רצון לשנות את סדר היום, אבל יש חוסר פרופורציה בין התוכניות לצד המעשי",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21448108",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T20:50:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21448110",
+      "title": "מזל שור, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
+      "summary": "תרגישו משוחררים ממסגרות, או שתחפשו את הדרך להשתחרר. הביטחון העצמי שלכם יתחזק",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21448110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T20:50:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21448115",
+      "title": "מזל תאומים, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
+      "summary": "תחפשו דרך להשתחרר מזיכרונות העבר, ולעלות על מסלול חדש ומאתגר שישפיע על עתידכם האישי או המקצועי. שישי: תשקיעו בזוגיות ותצאו לבלות",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21448115",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-17T20:50:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21448261",
+      "title": "מזל סרטן, תחזית הורוסקופ שבועית, לשבוע של 18.09.2026 - 24.09.2026",
+      "summary": "תשאלו את עצמכם אם כדאי לכם להמשיך במסלול המוכר, או שהמציאות רומזת לכם לחפש שינוי. התבוננו פנימה כדי לקבל תשובה",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21448261",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T20:50:30.000Z"
@@ -30342,33 +30423,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-13T11:46:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21411358",
-      "title": "\"דאגה מהאנטישמיות בתאילנד\": ארה\"ב מתערבת בעקבות המחאות",
-      "summary": "השליח המיוחד של ארה\"ב למאבק באנטישמיות מתריע מפני הסלמה ברטוריקה נגד ישראלים בבנגקוק ובפוקט ומבהיר כי וושינגטון פועלת להגנת הקהילה היהודית • הדברים מגיעים על רקע ביטול אירוע ראש השנה באי והפגנות לאומנים שדרשו \"יהודים החוצה\"",
-      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21411358",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T11:45:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21411346",
-      "title": "יעל בר זוהר על האובדן: ''תלשו לי חתיכה מהלב''",
-      "summary": "לקראת שידור סרט תיעודי חדש, המנחה נפגשה עם בני נוער ישראלים-אמריקאים וסיפרה להם על האחיין שנרצח ב-7 באוקטובר - ועל הדימוי שבו בחרה לתאר את החור שנפער במשפחה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21411346",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T11:42:11.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3867434",
-      "title": "סודות החדר הסגור: התוכנית הדרמטית להפלת חמינאי",
-      "summary": "שלושת עמודי התווך שהוצגו לטראמפ, \"משחק השעונים\" של הדלק והכלכלה, והדריכות בצה\"ל מהפתעה איראנית. מאחורי הקלעים",
-      "link": "https://news.walla.co.il/item/3867434",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-13T11:33:00.000Z"
     }
   ]
 }
