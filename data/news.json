@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:01:13.735Z",
+  "updatedAt": "2026-09-18T13:15:57.289Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868751",
+      "title": "בדרך לאו\"ם עוצרים בטקסס: בסביבת נתניהו פועלים לתאם פגישה עם אילון מאסק",
+      "summary": "ראש הממשלה צפוי לסייר ב-SpaceX טרם נאומו בעצרת הכללית של האו\"ם. גורם מדיני מסר כי ייתכן שיפגש עם מאסק בעת סיורו, אך הדבר אינו סגור. לגבי פגישה עם טראמפ, המנסה לברוח מאקט שעלול להצטייר כתמיכה בנתניהו בבחירות - הסיכויים נותרו קלושים",
+      "link": "https://news.walla.co.il/item/3868751",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-18T15:51:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868746",
       "title": "ממשיכה לתדלק: קטר חתמה על הסכם עם האו\"ם להכנסת 1.3 מיליון ליטר דלק לעזה",
@@ -104,6 +113,33 @@
       "pubDate": "2026-09-18T13:23:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368756",
+      "title": "קרב הבחירות מתחמם: הליכוד הגישו פנייה דחופה נגד גדי איזנקוט",
+      "summary": "מפלגתו של גדי איזנקוט שיתפה לאחרונה שלושה סרטונים על ראש הממשלה נתניהו, שרבים מהפרטים שהופיעו בהם אינם נכונים - כך לפי עתירה חדשה שהגישה הליכוד",
+      "link": "https://www.maariv.co.il/news/politics/article-1368756",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T13:09:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368755",
+      "title": "\"עיני פחם\" נחשף: בכיר ברשות הפלסטינית מודה - התרעתי לאיחוד האמירויות לפני ה-7 באוקטובר",
+      "summary": "ד\"ר סופיאן אבו זיידה, בכיר פת\"ח לשעבר, חשף כי הוא המקור שכונה \"עיני פחם\" וקיבל מסר מיחיא סינוואר לפני 7 באוקטובר. כעת הוא מבטיח לפרט על המגעים החשאיים ועל האזהרה שהועברה לצד הישראלי",
+      "link": "https://www.maariv.co.il/news/politics/article-1368755",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T13:03:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21451316",
+      "title": "אם הנרצחת מהנובה הטיחה בחליוה ברחוב: \"שלוש שנים לא טרחת לבוא\"",
+      "summary": "שלי משל יוגב, אימה של ליבי כהן מגורי ז״ל, קצינת חי\"ר מצטיינת שנרצחה בטבח בפסטיבל הנובה, נתקלה בראש אמ\"ן לשעבר אהרון חליוה והתעמתה איתו • \"אתה יודע מי אני, אתה גר קילומטר מאיתנו\", הטיחה בו האם, \"אך שלוש שנים מאז שהיא נרצחה לא טרחת לבוא\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21451316",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T12:56:08.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/indictment-kidnapping-minors-israel",
       "title": "הטורף ברחובות: חטף, כלא ואיים בסכין על ילדים",
       "summary": "כתב אישום הוגש נגד יגאל בוסקילה, דר רחוב בן 19 מירושלים, בגין שלושה אירועים מזעזעים בהם כפה את עצמו על קטינים, איים עליהם ושלף סכין (בארץ)",
@@ -111,6 +147,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T12:56:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21451276",
+      "title": "פקיסטן במסר לאיראן: \"רסנו את הח'ותים במתקפות נגד סעודיה\"",
+      "summary": "מפקד צבא פקיסטן, עאסם מוניר, פנה להנהגה האיראנית וביקש ממנה לפעול לבלימת התקיפות הח'ותיות נגד סעודיה ותשתיות האנרגיה שלה • לפי \"פייננשל טיימס\", מוניר הזכיר את הסכם ההגנה ההדדית בין איסלאמאבאד לריאד וטען כי ייאלצו להתערב",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21451276",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T12:47:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21451082",
+      "title": "חי מליגת העל: הפועל תל אביב - הפועל פתח תקווה 0:1",
+      "summary": "אחרי התבוסה הקשה בדרבי, האדומים של אליניב ברדה מחפשים להתאושש מול המלאבסים • עמנואל בואטנג כבש עם נגיחה עוצמתית בדקה העשירית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21451082",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T12:39:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21451220",
+      "title": "החל מהחורף: שדה התעופה הישראלי שייסגר לפעילות בלילות",
+      "summary": "ברשות שדות התעופה החליטו לצמצם את הפעילות באילת ולסגור את המסלולים מ-23:30 • המהלך ישפיע ישירות על עשרות מטוסי תדלוק אמריקאיים • במקביל, השדה ימשיך לשמש כגיבוי לנתב\"ג בשעת חירום",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21451220",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T12:38:08.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1368746",
@@ -30405,51 +30468,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-13T13:25:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21411608",
-      "title": "הקאמבק הענק של מקדונלדס: המסורת האהובה חוזרת לסניפים",
-      "summary": "סוף להפקות הענק שמרוקנות את הכיס: הקאמבק של מקדונלד'ס הולך לחסוך להורים אלפי שקלים והמון כאב ראש",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21411608",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T13:06:24.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/by0smlvfge",
-      "title": "החל בקורס טיס, המשיך לקבע בימ\"מ ונהרג בתאונת צלילה: \"אסון שהלב מסרב להכיל\"",
-      "summary": "חבריו של לוחם הימ\"מ איתי פרסון (23), שנספה בצלילה בחיפה, הגיעו לנחם את המשפחה וסיפרו שהיה אמור להשתחרר מהמשטרה בקרוב: \"הוא היה כריזמטי, מחונן וחייכן. אחד המוכשרים בחבורה. זה מוות בלתי נתפס\". הלווייתו תיערך מחר",
-      "link": "https://www.ynet.co.il/news/article/by0smlvfge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-13T13:04:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "title": "בזמן שיעל שלביה בארץ: לאנס סטרול ספג עונש כבד",
-      "summary": "נהג האסטון מרטין, בן זוגה של הדוגמנית הישראלית, ספג עונש חריג של 40 מקומות בגריד לפני הגראנד פרי של ספרד - וייאלץ לפתוח את המרוץ מהמקום הכי גרוע שאפשר",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T13:01:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "title": "אחרי שפישל מול יעל שלביה: לאנס סטרול ספג מכה כואבת",
-      "summary": "נהג האסטון מרטין, בן זוגה של הדוגמנית הישראלית, ספג עונש חריג של 40 מקומות בגריד לפני הגראנד פרי של ספרד - וייאלץ לפתוח את המרוץ מהמקום הכי גרוע שאפשר",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T13:01:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "title": "יעל שלביה תצטרך להיות שם: לאנס סטרול הגיע למקום הגרוע ביותר",
-      "summary": "נהג האסטון מרטין, בן זוגה של הדוגמנית הישראלית, ספג עונש חריג של 40 מקומות בגריד לפני הגראנד פרי של ספרד - וייאלץ לפתוח את המרוץ מהמקום הכי גרוע שאפשר",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21411625",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-13T13:01:48.000Z"
     }
   ]
 }
