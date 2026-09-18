@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:15:53.596Z",
+  "updatedAt": "2026-09-18T05:31:05.384Z",
   "sources": [
     {
       "key": "ynet",
@@ -113,6 +113,24 @@
       "pubDate": "2026-09-18T06:00:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tljo9w",
+      "title": "זה חליפתי: ברחובות מאה שערים, גם הילדים הקטנים עושים כפרות על תרנגול",
+      "summary": "צלמי פלאש 90 תיעדו ברחובות השכונה הירושלמית את ילדי החמד מקיימים את מנהג הכפרות בעשרת ימי תשובה, על תרנגולים לבנים (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tljo9w",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-18T05:29:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1368646",
+      "title": "עימות אחרי אירוע סליחות בחדרה הסתיים במוות: בן 17 נדרס, הנהג נורה",
+      "summary": "עימות שפרץ לאחר אירוע סליחות במתחם \"וילג'\" בחדרה הידרדר לדריסה ולירי: בן 17, תושב השומרון, נדרס למוות ונהג המשאית נפצע קל מירי. הנהג והיורה נעצרו; שב\"כ שלל חשד לפח\"ע",
+      "link": "https://www.maariv.co.il/news/law/article-1368646",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-18T05:15:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/tamra-resident-arrested-hamas-iran-contact",
       "title": "ערבי ישראלי נעצר: ניסה לסייע לחמאס ויצר קשר עם איראן",
       "summary": "סולטן אבו אלהיג'א פנה מספר פעמים לגדודי עז אדין אל-קאסם • ניסה ליצור קשר עם גורמי מודיעין איראנים | כתב אישום הוגש (צבא וביטחון)",
@@ -122,6 +140,24 @@
       "pubDate": "2026-09-18T05:15:19.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b13ze2ttgg",
+      "title": "\"ניצל את כוחו באיומי אקדח\": השוטר ישלם מאות אלפי שקלים לעובד זר",
+      "summary": "בית משפט השלום בת\"א פסק כי השוטר לשעבר, שלפי התובע לקח כספים שנועדו לשמירת חסכונותיהם של עובדים זרים, ישלם כ-354 אלף שקל בתוספת ריבית והצמדה. השופט תיאר את המקרה כ\"אירוע יוצא דופן וחמור\", ועורכי דינו של העובד מבהירים: \"המאבק לא תם - נמשיך בניהול התביעה נגד המדינה\"",
+      "link": "https://www.ynet.co.il/news/article/b13ze2ttgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T05:15:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21417110",
+      "title": "האטרקציה של החגים: מטיילים, משחקים בווטסאפ - ומקבלים הנחה בעגלות קפה",
+      "summary": "המטיילים באתרי הטבע והמורשת ביהודה ושומרון פותרים חידות, צוברים מטבעות וירטואליים (\"זוזים\") וממירים אותם להנחות בעשרות עגלות קפה ברחבי האזור",
+      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21417110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:10:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/police/ramat-sharon-assault-arrest-indictment",
       "title": "תקפו באכזריות בקיוסק ברמת השרון; כתבי אישום נגד שני החשודים",
       "summary": "שוטרי תחנת גלילות עצרו שני חשודים בעקבות תקיפה אלימה בקיוסק • הקורבן נפצע ופונה לבית חולים | כתב אישום הוגש בגין תקיפה וחבלה ממשית (משטרה)",
@@ -129,6 +165,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T05:08:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21448933",
+      "title": "ביקושים חריגים ומלאי מוגבל: האייפון 18 הגיע לחנויות בישראל",
+      "summary": "לאחר המכירה המוקדמת שהחלה בסוף השבוע, מכשירי האייפון 18 החדשים זמינים החל מהבוקר לרכישה ברשתות הקמעונאיות ובחברות הסלולר • בענף מדווחים על ביקושים חריגים וגבוהים מהמצופה, ומתריעים מפני מלאים מוגבלים בימי ההשקה • מכירתו המוקדמת של האייפון המתקפל החדש, ה-Duo, תחל ב-16 באוקטובר",
+      "link": "https://www.israelhayom.co.il/news/local/article/21448933",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-18T05:06:37.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/palestinian-journalist-arrested-iran-ties-inciteme",
@@ -174,6 +219,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T04:55:22.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byoggb5ffl",
+      "title": "חשד לרצח: בן 17 שהגיע לאירוע סליחות נדרס למוות בחדרה, הנהג נורה",
+      "summary": "עימות לילי בחניה של מתחם הקניות מול החוף וילג' הוביל לפי החשד לדריסה ולירי: נהג רכב פרטי פגע בנער שנפצע אנושות ובהמשך נקבע מותו. היורה שהיה עם הנער פתח באש לעבר הנהג שנפצע קל. החשוד בדריסה והיורה נעצרו",
+      "link": "https://www.ynet.co.il/news/article/byoggb5ffl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-18T04:47:57.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byoggb5ffl",
@@ -529,7 +583,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1007z00tyge",
       "title": "כשהסוסים והסרטונים כבר ברחו מהאורווה",
-      "summary": "השאלה המרכזית שעולה בעקבות הסרטון האחרון של סמוטרי היא כיצד אנו מונעים, מקטינים את התופעה של הפצת סרטונים מסוג הסרטון שהופץ.",
+      "summary": "השאלה המרכזית שעולה בעקבות הסרטון האחרון של סמוטריץ' היא כיצד אנו מונעים, מקטינים את התופעה של הפצת סרטונים מסוג הסרטון שהופץ.",
       "link": "https://www.ynet.co.il/news/article/b1007z00tyge",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -615,6 +669,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-18T00:45:15.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-cab276e3fd1b0a1026.htm",
+      "title": "נער בן 17 נדרס למוות במתחם קניות בחדרה: \"עימות שכלל ירי\"",
+      "summary": "הנער נמצא כשהוא מחוסר הכרה וסובל מחבלת ראש קשה • צוותי מד\"א ביצעו בו פעולות החייאה ופינו אותו לבית החולים הלל יפה כשמצבו מוגדר אנוש - ובהמשך נקבע מותו • המשטרה: הרקע פלילי, החקירה נמשכת",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-cab276e3fd1b0a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-18T00:44:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-cab276e3fd1b0a1026.htm",
@@ -3243,6 +3306,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T13:18:02.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/%D7%91%D7%90%D7%A8%D7%A5_%D7%95%D7%91%D7%A2%D7%95%D7%9C%D7%9D/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%94%D7%90%D7%96%D7%99%D7%A0%D7%95__%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2",
+      "title": "פרשת האזינו: סיכום חדשות השבוע",
+      "summary": "נז\"א, רע\"מ, טל ינון דרדיק הותקף בכלא, מחבל התנדב לשירות לאומי כדי לעשות פיגוע - סיכום חדשות השבוע מנקודת המבט של הקול היהודי",
+      "link": "https://www.hakolhayehudi.co.il/item/%D7%91%D7%90%D7%A8%D7%A5_%D7%95%D7%91%D7%A2%D7%95%D7%9C%D7%9D/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%94%D7%90%D7%96%D7%99%D7%A0%D7%95__%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-09-17T13:17:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21444779",
