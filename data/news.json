@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:45:57.971Z",
+  "updatedAt": "2026-09-19T11:01:02.256Z",
   "sources": [
     {
       "key": "ynet",
@@ -95,6 +95,24 @@
       "pubDate": "2026-09-19T11:12:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368900",
+      "title": "גרמניה מתחמשת במהירות, הימין הקיצוני מתחזק: \"זוכרים היטב לאן זה יכול להוביל\"",
+      "summary": "גרמניה משקיעה סכומי עתק בבניית הצבא מחדש, אבל באירופה כבר מתחילים לחשוש מהיום שאחרי. התחזקות ה-AfD הפרו-רוסית, הזיכרונות ההיסטוריים ושינוי מאזן הכוחות מחזירים לשולחן את \"השאלה הגרמנית\"",
+      "link": "https://www.maariv.co.il/news/world/article-1368900",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T10:52:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkzyfaoyze",
+      "title": "טורקיה: יותר מ-200 עצורים במבצע לפירוק רשת הונאה חובקת עולם, \"9 מהם ישראלים\"",
+      "summary": "שר המשפטים הטורקי הודיע על המעצר ההמוני של החשודים בניהול רשת הונאת השקעות בינ\"ל שעקצה לפי החשד יותר מ-3 מיליארד דולר. לטענת הטורקים \"ברוני הונאה ישראלים\" עמדו בראש התרמית, בין העצורים גם פלסטיני. משרד החוץ: \"הנושא בבדיקה\"",
+      "link": "https://www.ynet.co.il/news/article/hkzyfaoyze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-19T10:46:29.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368895",
       "title": "אחרי המתנה במאות אלפי דולרים: טראמפ מגיב לקשר של בנו עם המקורב לקרמלין",
       "summary": "אחרי החשיפה כי האוליגרך הרוסי עומר קרמלב מימן במאות אלפי דולרים מחגיגות החתונה של דונלד טראמפ ג'וניור, הנשיא יוצא להגנת בנו וטוען כי הכסף הוחזר: \"זה מותר לחלוטין\"",
@@ -111,6 +129,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-19T10:24:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368897",
+      "title": "בלי הסברים: הדרמה הרפואית של נשיא סין שמסעירה את העולם",
+      "summary": "שי ג'ינפינג ביטל ברגע האחרון את השתתפותו בארוחת מנהיגים בהודו לאחר שחש ברע. ההיעדרות הציתה מחדש שמועות על מצבו הבריאותי, ימים לפני ביקורו המתוכנן בארה\"ב",
+      "link": "https://www.maariv.co.il/news/world/article-1368897",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T10:21:43.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368897",
@@ -156,6 +183,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T09:54:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368892",
+      "title": "\"לא רציתי שישראל תזהה אותם\": הצלם העזתי שתיעד הכל ב-7.10 מדבר לראשונה",
+      "summary": "הצלם העזתי מעתז עזאיזה חושף כי תיעד חטופים ישראלים מוכים ב-7 באוקטובר אך בחר שלא לפרסם את הסרטונים, ומותח ביקורת חריגה על חמאס: מהנשק שלא הגן על תושבי הרצועה ועד מנגנון ההשתקה של עיתונאים",
+      "link": "https://www.maariv.co.il/news/world/article-1368892",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T09:53:45.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368892",
@@ -27678,87 +27714,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T11:01:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21417120",
-      "title": "כך קראו קים אור אזולאי ויפתח זיו לבנם הבכור",
-      "summary": "באירוע הברית שנערך הבוקר הכריזו השחקנית והמשפיענית ובעלה הכדורסלן על שמו של בנם הבכור. זה השם הנבחר",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21417120",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:59:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyc0vbsfge",
-      "title": "פרץ שוב לבית כדי להחזיר מה שגנב - והשאיר מכתב חרטה: \"אל תגלו\"",
-      "summary": "אמיר היאג'נה מכפר כנא נאשם שפרץ לבית, גנב ממנו ציוד בשווי עשרות אלפי שקלים - ולאחר מכן התחרט וביקש: \"אל תגלו שפרצתי\". שבועות לאחר מכן הוא נתפס שוב. סנגורו: \"הביע חרטה כנה ואמיצה. מדובר באדם שמתמודד עם בעיות מורכבות\"",
-      "link": "https://www.ynet.co.il/news/article/hyc0vbsfge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T10:58:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84531",
-      "title": "הולך רגל בן 80 נפגע מרכב בכביש 90 ופונה במצב בינוני",
-      "summary": "גבר כבן 80 נפגע מרכב בכביש 90 סמוך לצומת ראש פינה בשעה 12:39. צוותי מד\"א העניקו לו טיפול רפואי במקום ופינו אותו לבית החולים זיו במצב בינוני, עם חבלת ראש.",
-      "link": "https://www.kikar.co.il/scoop-news/84531",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T10:55:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21416677",
-      "title": "אפשר להאמין לסוקרים? בדקנו מי קלע בבחירות 2022 - ומי פספס",
-      "summary": "ארבעת הסוקרים הגדולים הועמדו במבחן מול תוצאות האמת • מי פספס את הזינוק של ש\"ס, מי התקרב לניצחון גוש הימין - ומה מלמדים הסקרים של 2022 על אלה שמתפרסמים היום?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21416677",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:52:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21416677",
-      "title": "אפשר כבר להאמין לסקרים? בדקנו מי קלע בשלב המקביל בבחירות 2022",
-      "summary": "ארבעת הסוקרים הגדולים הועמדו במבחן מול תוצאות האמת • מי פספס את הזינוק של ש\"ס, מי התקרב לניצחון גוש הימין - ומה מלמדים הסקרים של 2022 על אלה שמתפרסמים היום?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21416677",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:52:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21417056",
-      "title": "\"חיפשו סמים ומצאו מכרה זהב\": החשד להלבנת הון באילת שקרס",
-      "summary": "שוטרים שפשטו על דירת צעיר באילת הופתעו למצוא לצד סמים גם אלפי מטבעות כסף וזהב • החשד הראשוני לסחר והלבנת הון התבדה, וכתב האישום הסתכם בהחזקת סמים בלבד • אף שבית המשפט הורה להשיב את הרכוש, המדינה מסרבת בטענה לעבירת מס, והמשפחה סופגת נזק כלכלי כבד",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21417056",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:51:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21416978",
-      "title": "בן 64 אותר אחרי 11 ימים בשמורה מבודדת: \"הוא חי\"",
-      "summary": "מטייל אמריקאי יצא לטרק סולו באחד הפארקים הפראיים בארה\"ב, והקשר איתו נותק • אחרי כמעט שבועיים של מבצע חילוץ נרחב וחרדה כבדה במשפחה, הגיעה התפנית מכיוון שאיש לא ציפה לו",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21416978",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:49:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tlcobl",
-      "title": "הלכה רחוק מדי? | טראמפ נשאל שאלה אישית מדי על ידי עיתונאית - וכך הוא ענה עליה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ התייחס במהלך טיסה באייר פורס 1 לנושא הבינה המלאכותית שעלה לכותרות לאחרונה | הנשיא טראמפ נשאל שאלה אישית מדי - וכך הוא ענה עליה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tlcobl",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T10:49:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/wellness/article/21416805",
-      "title": "הקשר המפתיע בין רווחה כלכלית לקצב ההזדקנות",
-      "summary": "מחקרים חדשים חושפים מציאות מדהימה: תמיכה כספית מאטה את ההזדקנות הביולוגית של תינוקות, בעוד שמצוקה פיננסית כרונית שוחקת את המוח • האם יוקר המחיה פוגע בבריאות שלנו הרבה יותר משחשבנו?",
-      "link": "https://www.israelhayom.co.il/lifestyle/wellness/article/21416805",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T10:48:31.000Z"
     }
   ]
 }
