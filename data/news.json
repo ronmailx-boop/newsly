@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:46:02.749Z",
+  "updatedAt": "2026-09-19T18:01:12.711Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868938",
+      "title": "צה\"ל חיסל מפקד חמאס שפשט למדינת ישראל בטבח 7 באוקטובר",
+      "summary": "צה\"ל חיסל בחאן יונס מפקד בזרוע הצבאית של חמאס שהשתתף בטבח 7 באוקטובר ופעל להטמנת מטענים, קידום מתווי טרור ושיקום יכולות הארגון. רק השבוע דיווח דובר צה\"ל על חיסולים נוספים",
+      "link": "https://news.walla.co.il/item/3868938",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-19T20:17:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868932",
       "title": "הרצוג מחק את הרישום הפלילי של אלאור אזריה: \"הגיעה העת לאפשר לו להמשיך בחייו\"",
@@ -93,6 +102,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T18:16:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tlmh0a",
+      "title": "בחדר הספרים בגבעת סלבודקה: ראש הישיבה ערך כפרות ובדק את הלולבים",
+      "summary": "בחדר הספרים שבמעונו בגבעת סלבודקה: ראש הישיבה הגאון רבי משה הלל הירש ערך ביום חמישי האחרון את מנהג הכפרות, ולאחר מכן בדק בדקדוק את הלולבים לקראת חג הסוכות (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tlmh0a",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-19T18:00:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369020",
@@ -1164,6 +1182,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-19T12:43:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368922",
+      "title": "\"בפעם האחרונה\": התוכנית להשאיר את ארדואן במרוץ גם ב-2028 נחשפת",
+      "summary": "בכירי שלטונו של ארדואן בטורקיה כבר מסמנים בבירור את הכיוון להתמודדות ב-2028: מגבלת שתי הכהונות עומדת בדרך, והפתרונות נעים מהקדמת הבחירות בכמה שבועות ועד שינוי החוקה ומשאל עם",
+      "link": "https://www.maariv.co.il/news/world/article-1368922",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T12:41:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368922",
@@ -26535,42 +26562,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-14T18:02:03.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyzjzisfml",
-      "title": "\"את שבה לביתך שכה אהבת, כואב לחשוב שכבר לא תהיי פה\": רחל רבין הובאה למנוחות",
-      "summary": "הציבור הרחב הכיר אותה כאחותו של יצחק רבין, אבל עבור בני משפחתה ותושבי מנרה, רחל רבין-יעקב הייתה גם האלחוטאית של \"ההגנה\" ומי שסירבה להתפנות במלחמת העצמאות. בגיל 101 היא הובאה למנוחות בקיבוץ שהייתה ממקימיו. בנה גדי האשים: \"פונית מביתך בהחלטת של ממשלת ההפקרה, הפשע והזדון והרשע\"",
-      "link": "https://www.ynet.co.il/news/article/hyzjzisfml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T17:56:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1366363",
-      "title": "החות'ים סוגרים מדרום, איראן לוחצת ממזרח: בן סלמאן בצעד אזורי חריג",
-      "summary": "יורש העצר הסעודי צפוי להגיע לקהיר לפגישה עם א-סיסי על רקע השתלטות החות'ים באזור באב אל-מנדב והלחץ האיראני במצר הורמוז. ברקע: חשש ליצוא הנפט ולתנועת הספינות בים האדום",
-      "link": "https://www.maariv.co.il/news/world/article-1366363",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-14T17:47:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21421587",
-      "title": "רואי אדם בשיר חדש, רומז על אודיה?",
-      "summary": "\"פגעת לי בכבוד, כאילו לא מכירה בכלל\": פריצת השנה של כאן גימל ו-ForReal בהצצה לשיר החדש שלו. האם זה מכוון למישהי ספציפית?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21421587",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T17:47:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/new-poll-perfect-tie-between-blocs-hendel-kingmake",
-      "title": "סקר חדש ומפתיע: שוויון מוחלט בין הגושים - הנדל וזליכה הופכים לשחקני מפתח",
-      "summary": "סקר חדש שפורסם הערב: איזנקוט מוביל עם 24 מנדטים, הליכוד 20 • שוויון מדויק של 52-52 בין הגושים | הנדל עם 4 מנדטים הופך לשחקן המכריע, מפלגת הציבור החרדי עמוק מתחת אחוז החסימה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/new-poll-perfect-tie-between-blocs-hendel-kingmake",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T17:46:12.000Z"
     }
   ]
 }
