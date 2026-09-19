@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:15:56.366Z",
+  "updatedAt": "2026-09-19T08:31:32.101Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868868",
+      "title": "\"החמיצה הזדמנות\": אוסטרליה נסוגה ברגע האחרון מהמהלך נגד ההתנחלויות",
+      "summary": "דיפלומטים אירופיים סיפרו ל-ABC כי קנברה הייתה מעורבת בגיבוש הצהרה משותפת נגד עסקים ישראליים באיו\"ש - אך לבסוף נמנעה מלחתום עליה. בין ההסברים שנבחנו: הקושי המעשי באכיפת חרם והחשש מפגיעה בפלסטינים, לצד לחצים פוליטיים פנימיים בעקבות מתקפות הטרור בבונדי",
+      "link": "https://news.walla.co.il/item/3868868",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-19T11:12:00.000Z"
+    },
     {
       "id": "walla:https://tech.walla.co.il/item/3868856",
       "title": "חברת סייבר ישראלית בדקה את ג'מיני - ואז קרה דבר לא צפוי",
@@ -66,6 +75,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T09:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21453195",
+      "title": "\"חשב שזה חלק מהמבחן\": גוגל מודה - ג'מיני תקף שלוש חברות אמיתיות",
+      "summary": "אחרי שורת אזהרות על סוכנים שיוצאים משליטה: מבדק אבטחה של חברת Irregular חשף פריצה אוטונומית של גוגל למטרות חיות • גוגל אישרה את הפרטים: \"עצרנו את הפעולה והודענו לחברות\" • ברקע: שורת תקריות דומות ב-OpenAI ובאנתרופיק",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21453195",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T08:06:42.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h15pz3ikze",
@@ -147,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T07:03:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1368862",
+      "title": "חשד חמור: חנק את אביו בן ה-80 כי סירב לתת לו כסף",
+      "summary": "תושב הדרום נעצר לאחר שאביו בן ה-80 טען כי חנק אותו ואיים עליו בעקבות סירוב לתת לו כסף. החשוד מכחיש את התקיפה וטוען כי מדובר בסכסוך כספי מתמשך בין השניים",
+      "link": "https://www.maariv.co.il/news/law/article-1368862",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T06:37:57.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1368862",
@@ -28461,132 +28488,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T08:36:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21415940",
-      "title": "כמה באמת עולה שיווק דיגיטלי בישראל ב-2026? מדריך המחירים לבעלי עסקים",
-      "summary": "הפער בין הצעות מחיר לקידום אתרים, גוגל אדס ובניית אתר יכול להגיע לעשרות אלפי שקלים בשנה. עשינו סדר במספרים, כדי שתדעו מה הוגן לשלם ואיפה בדיוק מתחיל הבזבוז.",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21415940",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:30:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1366114",
-      "title": "\"סחיטה באיומים\": הסרטון הוויראלי שהוביל את ראש עיריית נהריה למשטרה",
-      "summary": "רונן מרלי, יחד עם מנכ\"ל העירייה ומנהל הפיקוח, הגישו תלונה חריגה נגד תושב העיר בעקבות סרטון שהופץ בחג. לטענתם, לצד הכפשות חמורות, התוכן מעלה חשד לניסיון סחיטה",
-      "link": "https://www.maariv.co.il/news/law/article-1366114",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-14T08:29:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21415586",
-      "title": "כמה עולה מצבר לרכב ב-2026? מדריך מחירים לפי אמפראז’ וסוג מצבר",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21415586",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:29:03.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-2b397bf87ee90a1026.htm",
-      "title": "\"כלל ביטוח\" תפצה מועמד עיוור שלא קיבלה לעבודה - רק בגלל המגבלה שלו",
-      "summary": "ענקית הביטוח הפסידה בבית הדין לעבודה, שקבע כי היא הפלתה את המועמד • למרות שהיה לו ניסיון רלוונטי, הוא לא התקבל לעבודה בטענה שלא ניתן להתקין תוכנה שתסייע לו בתירוץ של \"אבטחת מידע\" • בהמשך אף נטען שהוא לא מתאים מקצועית לתפקיד • הוא לא ויתר, הגיש תביעה - וניצח: כלל תשלם לו את הוצאות המשפט וגם 50 אלף שקלים כפיצוי",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-2b397bf87ee90a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-09-14T08:28:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21415591",
-      "title": "ירושת נחלה במושב והמדריך להעברת הזכויות בין היורשים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21415591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:26:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21414918",
-      "title": "בגיל 30 בלבד: זה הכוכב ההוליוודי המכניס ביותר בהיסטוריה",
-      "summary": "טום הולנד עקף את כל הגדולים והגיע להישג פנומנלי של 15.5 מיליארד דולר בקופות • מי אחריו בדירוג?",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21414918",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:23:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlch4m",
-      "title": "קורונה, טבח שמחת תורה: האם ראש השנה בלי שופר מבשר אסון?",
-      "summary": "ראש השנה שחל בשבת עורר שוב את החשש מפני יום דין ללא קול השופר, מה המקור לחשש מפני שנה רצופה אסונות וכיצד השבת יש בכוחה לשמור על ישראל (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/haredim-news/tlch4m",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T08:22:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/antisemitic-attack-berlin",
-      "title": "אימה: הם הבחינו בסמל היהודי – ואז התנפלו עליה עם בקבוק שבור",
-      "summary": "אישה בת 43 הותקפה לפנות בוקר במרכז ברלין לאחר ששני גברים הבחינו במגן דוד שענדה על צווארה. לפי המשטרה, הם הטיחו בה אמירות אנטישמיות ואחד מהם תקף אותה באמצעות בקבוק זכוכית שבור. היא נפצעה בידה ופונתה לבית החולים; החשודים נמלטו (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/antisemitic-attack-berlin",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T08:21:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21415382",
-      "title": "מיקי בוגנים מספר לראשונה: \"למדתי ללכת מחדש\" (וידאו)",
-      "summary": "מיקי בוגנים חוזר בריאיון עם ערן סויסה לפציעה שהובילה לדבריו לניתוח, אשפוז וכיסא גלגלים, ולתקופה שבה לא הצליח לעמוד או להזיז את הרגל. הוא מספר גם למה ביקש להסתיר את מצבו, ואיך הגיע הרגע שבו פשוט קם והתחיל ללכת. צפו בריאיון המלא",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21415382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:21:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21415382",
-      "title": "מיקי בוגנים על הפציעה: \"לא יכול לעמוד\" (וידאו)",
-      "summary": "מיקי בוגנים חוזר בריאיון עם ערן סויסה לפציעה שהובילה לדבריו לניתוח, אשפוז וכיסא גלגלים, ולתקופה שבה לא הצליח לעמוד או להזיז את הרגל. הוא מספר גם למה ביקש להסתיר את מצבו, ואיך הגיע הרגע שבו פשוט קם והתחיל ללכת. צפו בריאיון המלא",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21415382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:21:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21415109",
-      "title": "חוקי הפורמט: הקופון הפוליטי שגוזרות המפלגות בניסיון פסילת מפלגות",
-      "summary": "הליכוד ועוצמה יהודית נגד המשותפת ורע\"ם, ישראל ביתנו נגד עופר כסיף • הדדליין לבקשות הפסילה הוא מחר, ובכל המפלגות יודעים שקלושים הסיכויים שבית המשפט יאשר • התוצאה הרצויה בעיני המפלגות אינה משפטית",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21415109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T08:20:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hk11unqhyge",
-      "title": "ירי במשרד יחידת העילית: קצין בכיר במשטרה פלט כדור מאקדחו ונפצע קל בידו",
-      "summary": "סמוך לשעה 09:00 נשמעה ירייה במשרדי להב 433 בלוד. בירור ראשוני העלה כי כדור נפלט מאקדחו האישי של ראש מפלג. מצבו הוגדר קל. דיווח הועבר למח\"ש",
-      "link": "https://www.ynet.co.il/news/article/hk11unqhyge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T08:20:30.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3867564",
-      "title": "\"שקר מוחלט, תשפטו בעצמכם\": צה\"ל מגיב לטענות הסרט נז\"א",
-      "summary": "דובר צה\"ל דחה בתוקף את הטענות שעולות בסרט שזכה בפרס חבר השופטים בפסטיבל ונציה. \"צה\"ל מעולם לא תכנן, אישר או ביצע תקיפה בעזה שבה היו צפויים להיהרג 500 אזרחים או משהו קרוב למספר הזה\", אמרו. \"יוצרי הסרט לא יכלו לאמת טענה זו ובכל זאת פרסמו אותה\"",
-      "link": "https://news.walla.co.il/item/3867564",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-14T08:19:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk8muxsfmx",
-      "title": "הישרדות בלב ים: בן 15 נסחף לבד 3 ימים מאלסקה לכיוון רוסיה – וחולץ בחיים",
-      "summary": "דרק פארקר אגנאנגה יצא עם אחיו ובן דודו למסע דיג כדי לכלכל את תושבי כפרם, אבל הסירה התהפכה, האח טבע – ובהמשך גם בן הדוד החליק ונסחף. הנער המשיך לצוף בלי שתייה ומזון במים של מינוס 10 מעלות, עד שמשמר החופים מצא אותו במצב היפותרמיה. המשפחה האזינה לדרמה ברשת הקשר: \"מצאנו ילד, הוא חי!\"",
-      "link": "https://www.ynet.co.il/news/article/bk8muxsfmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T08:18:28.000Z"
     }
   ]
 }
