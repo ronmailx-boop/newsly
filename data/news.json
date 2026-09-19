@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:31:02.795Z",
+  "updatedAt": "2026-09-19T06:46:04.975Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T09:00:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1368862",
+      "title": "בן 80 התלונן: הבן חנק אותי כי לא נתתי לו כסף",
+      "summary": "תושב הדרום נעצר לאחר שאביו בן ה-80 טען כי חנק אותו ואיים עליו בעקבות סירוב לתת לו כסף. החשוד מכחיש את התקיפה וטוען כי מדובר בסכסוך כספי מתמשך בין השניים",
+      "link": "https://www.maariv.co.il/news/law/article-1368862",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T06:37:57.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkdziqsfze",
@@ -29109,87 +29118,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T06:47:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21414428",
-      "title": "שלי סרבריאניקוב מודה: \"לא הצלחתי\"",
-      "summary": "כוכבת \"האח הגדול\" ובת זוגו של עומר ציפורי פצחה בסשן של שאלות ותשובות, שם סיפרה בין היתר על הכישלון שהיא חווה בימים אלה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21414428",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T06:45:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84499",
-      "title": "חשד להצתה בדירת מגורים בירושלים - 7 נפגעים קל",
-      "summary": "שוטרי תחנת מוריה פתחו בחקירה בחשד להצתה לאחר שריפה שפרצה במהלך הלילה בדירת מגורים בירושלים. שבעה נפגעים פונו באורח קל כתוצאה משאיפת עשן, ביניהם שוטרת שפעלה במקום. כוחות כיבוי אש הגיעו לזירה והשתלטו על השריפה. שוטרים פועלים לאיסוף ממצאים וראיות.",
-      "link": "https://www.kikar.co.il/scoop-news/84499",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T06:43:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj6c311htfx",
-      "title": "\"כל יהודי יהפוך פה לעבריין\": נורבגיה מבקשת להקצין ענישה על סחר עם יו\"ש",
-      "summary": "אחרי ש-12 מדינות מערביות הכריזו על כוונתן להטיל סנקציות על הכנסת מוצרים שמקורם בהתנחלויות, באוסלו בוחנים לקחת את החרם צעד אחד קדימה. שר החוץ הנורבגי איידה מקדם חוק שיאפשר להטיל עד 3 שנות מאסר על אנשים או חברות שיסחרו עם מתנחלים. און, ישראלי שחי בנורבגיה: \"אנטישמי השנה איבד בורג\"",
-      "link": "https://www.ynet.co.il/news/article/rj6c311htfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T06:42:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21414533",
-      "title": "תעלומת ההפריות באסותא: האם מסרבת לבדיקת הזרע",
-      "summary": "חודש לאחר שהתלוננה כי שני בניה נולדו מתורמים שונים, מסרבת האישה לאפשר לאסותא לבדוק את המנות שבבנק הזרע • מנהל הבנק הסביר: \"כדי לדעת אם אירעה תקלה נדרשות בדיקות נוספות\" • באסותא פנו למשרד הבריאות, כשברקע חשש שנשים נוספות נפגעו",
-      "link": "https://www.israelhayom.co.il/health/article/21414533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T06:41:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21414533",
-      "title": "תעלומת מחדל ההפריות באסותא: האם מסרבת לבדיקת הזרע",
-      "summary": "חודש לאחר שהתלוננה כי שני בניה נולדו מתורמים שונים, מסרבת האישה לאפשר לאסותא לבדוק את המנות שבבנק הזרע • מנהל הבנק הסביר: \"כדי לדעת אם אירעה תקלה נדרשות בדיקות נוספות\" • באסותא פנו למשרד הבריאות, כשברקע חשש שנשים נוספות נפגעו",
-      "link": "https://www.israelhayom.co.il/health/article/21414533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T06:41:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlcc8c",
-      "title": "70 שנה אחרי שנבנה בידיים: בית הכנסת 'הליגמן' המיתולוגי נחנך מחדש בערב החג",
-      "summary": "בהתרגשות רבה חגגו תושבי בני ברק בלילה שלפני ראש השנה, את חנוכת בית המדרש המיתולוגי וההיסטורי 'הליגמן' ברחוב רבי עקיבא • המבנה, שבו שכנה ישיבת פוניבז' בראשית ימיה ושנבנה בשעתו בעמל כפיהם של המייסדים, הוקם מחדש בפאר והדר תוך שימור חזיתו ההיסטורית • גדולי הדור פיארו את המעמד • צפו בתיעוד ענק (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tlcc8c",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T06:37:35.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/viral-moment-iran-foreign-minister-brics",
-      "title": "'החיסול' הוויראלי מאחורי גבו של שר החוץ האיראני",
-      "summary": "בזמן שנשיא איראן נשא דברים בפסגת בריקס בניו דלי, המצלמות תיעדו מאחוריו רגע בלתי צפוי שהפך במהירות לוויראלי ברשתות החברתיות (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/viral-moment-iran-foreign-minister-brics",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T06:37:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21414414",
-      "title": "איזנקוט נגד יוצרי נז\"א: \"מכפישים את חיילי צה\"ל בשביל מחיאות כפיים\"",
-      "summary": "יו\"ר מפלגת ישר! תקף בחריפות את יובל אברהם ורחל שור שיצרו את הסרט המאשים את צה\"ל בהרג המוני של חפים מפשע בעזה • איזנקוט: \"הצגת תמונה מעוותת וחד צדדית - עיוורון מוסרי\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21414414",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T06:33:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21414313",
-      "title": "מכבי תל אביב סיימה את ההכנה: \"הלוואי שהיו עוד 20 ימים\"",
-      "summary": "הצהובים הפסידו לאולימפיאקוס בגמר הטורניר בניקוסיה, ובצל סדרת פציעות והיעדרויות יתכוננו לסופר קאפ מול הפועל ת\"א • מאמן היריבה גאורגיוס ברצוקאס החמיא: \"ניצחנו קבוצת צמרת\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21414313",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T06:31:22.000Z"
     }
   ]
 }
