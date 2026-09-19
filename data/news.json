@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:01:03.476Z",
+  "updatedAt": "2026-09-19T17:07:54.747Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T19:41:00.000Z"
+    },
+    {
+      "id": "walla:https://news.walla.co.il/item/3868931",
+      "title": "התרעות שווא הופעלו ביצהר עקב זיהוי מחבלים - שהתבררו כבני היישוב",
+      "summary": "בעקבות זיהוי שגוי של שניים מתושבי היישוב, כוחות הוזעקו למקום בעקבות חשש לחדירת מחבלים. בנוסף לכך, התרעות על חדירה הופעלו במרחב שהמשך התבררו כהתרעות שווא",
+      "link": "https://news.walla.co.il/item/3868931",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-19T19:32:00.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3868931",
@@ -86,6 +95,15 @@
       "pubDate": "2026-09-19T18:16:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21444269",
+      "title": "לא בנאפולי ולא ברומא: הפיצה הטובה בעולם נמצאת דווקא כאן",
+      "summary": "דווקא בטקס שנערך בנאפולי, עיר הולדתה של הפיצה, פיצרייה מלונדון עשתה היסטוריה וזכתה במקום הראשון בדירוג העולמי • היא התחילה כמשאית אוכל קטנה, עקפה כמה מהשמות הגדולים באיטליה והשף שלה עדיין מתקשה לעכל את ההישג: \"לא חשבתי שיהיה לנו סיכוי\"",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21444269",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T17:00:05.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/bnei-brak-girl-5-injured-electric-scooter",
       "title": "סמוך לצאת השבת בבני ברק: ילדה חרדית בת 5 נפגעה באורח בינוני מקורקינט",
       "summary": "הילדה נחבלה בראשה ובגפיה ברחוב השניים בבני ברק סמוך לצאת השבת • צוותי איחוד הצלה העניקו טיפול ראשוני | פונתה לשניידר במצב בינוני (חדשות בארץ)",
@@ -113,6 +131,15 @@
       "pubDate": "2026-09-19T16:56:22.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21454665",
+      "title": "\"אמרתי למכבי תל אביב 'אני בא', ועליתי על המטוס הראשון לישראל\"",
+      "summary": "טי ג'יי קלארק, אחיו של ג'ימי, הגשים הקיץ חלום כשהתאמן עם הצהובים: \"הייתי בהלם כשהתקשרו\" • עכשיו הוא מחפש קבוצה בארץ (\"יש לי מה לתת, רק צריך הזדמנות\") ובטוח שעוד לא ראינו כלום מכוכב מכבי: \"הוא פצצה מתקתקת של כישרון, יכול להגיע ל-NBA\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21454665",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:55:58.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hy4zgn2fzg",
       "title": "כתובות בבית הנצור בקוסרה: \"המתנחלים מסתובבים בטרקטורונים, דבר לא השתנה\"",
       "summary": "שבועות ארוכים שהמתנחלים מגיעים בחופשיות לבתי הפלסטינים בקוסרה, ואחד מבני המשפחה שחזר למקום גילה כתובות נאצה על הקיר: \"המצב שלנו קשה, אמרו לנו שזה שטח צבאי אבל הם מסתובבים שם חופשי\". בבורקה יודו אבנים והוצתה מרפסת, בדרום הר חברון נחתך צינור מים: \"700 תושבים ללא אספקה\"",
@@ -120,6 +147,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-19T16:55:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21455340",
+      "title": "חי מליגת העל: מכבי נתניה - מכבי תל אביב 0:0",
+      "summary": "מחזור 5: אחרי הניצחון הגדול בדרבי, המוליכה מגיעה לאצטדיון בנתניה ופוגשת את הקבוצה המקומית, שמחפשת להפתיע • במקביל: מכבי חיפה - עירוני טבריה 0:0",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21455340",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:54:48.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/herzog-pardon-elor-azaria-yom-kippur-1",
@@ -140,6 +176,15 @@
       "pubDate": "2026-09-19T16:50:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21455640",
+      "title": "הנשיא הרצוג מחק את הרישום הפלילי לאלאור אזריה",
+      "summary": "נשיא המדינה נעתר לבקשת אזריה לאחר שחלפו כעשור • בבסיס החלטת הנשיא עומדים, בין היתר, פרק הזמן המשמעותי שחלף מאז הפרשה, העובדה שאזריה נשא בעונש שנגזר עליו • שר הביטחון בירך על החלטת הנשיא וכך גם אביגדור ליברמן",
+      "link": "https://www.israelhayom.co.il/news/local/article/21455640",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:47:46.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1368995",
       "title": "הרצוג נענה לבקשת אלאור אזריה: \"הגיעה העת לאפשר לו להמשיך בחייו\"",
       "summary": "כמעט עשור אחרי הפרשה, הנשיא יצחק הרצוג נענה לבקשת אלאור אזריה וקיצר את תקופת מחיקת רישומו הפלילי. בבית הנשיא נימקו את ההחלטה בחלוף הזמן, בעונש שריצה, בצער שהביע וברצונו לפתוח דף חדש",
@@ -156,6 +201,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-19T16:47:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21455620",
+      "title": "\"אם זה יקרה - נגמר הסיפור\": תוכנית אחמד טיבי ליום שאחרי הבחירות",
+      "summary": "הח\"כ מהרשימה המשותפת אמר כי במקרה ולא יושג רוב, יסייע לגוש השינוי בבחירות ליו\"ר הכנסת • \"שנתמוך באוחנה שהפך את הכנסת לשוק כהניסטי?\" • משמעות המהלך אם יושלם - ותגובת הליכוד",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21455620",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:45:50.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/herzog-pardon-elor-azaria-yom-kippur",
@@ -192,6 +246,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-19T16:43:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21455627",
+      "title": "כוכב פנאתינייקוס הצהיר: אשמח לחזור לאקסית מהיורוליג",
+      "summary": "מתיאס לסור התראיין לקראת העונה החדשה, והבהיר כי אם יעזוב את יוון בעתיד - יש לו יעד ברור • וגם: מה אמר על ז'ליקו אוברדוביץ', ואיך ים מדר קשור?",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21455627",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:41:41.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/tibi-reveals-plan-replace-netanyahu-eisenkot",
@@ -26517,33 +26580,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T17:08:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/democrats-petition-disqualify-otzma-yehudit",
-      "title": "הדמוקרטים דורשים לפסול את עוצמה יהודית, בן גביר מיהר להגיב; \"אנטישמים\"",
-      "summary": "מפלגת הדמוקרטים הגישה עתירה לפסול את עוצמה יהודית ושמונת מועמדיה • העילות: פגיעה בדמוקרטיה והסתה לגזענות | בעוצמה יהודית מיהרו להגיב (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/democrats-petition-disqualify-otzma-yehudit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T17:05:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21421359",
-      "title": "בכירים במשטרה נגד בן גביר: לא מוכנים לתרחיש 7.10",
-      "summary": "קצינים בכירים מתריעים כי מאות כלי רכב מבצעיים חורגים מהוראות היצרן, וחלקם צברו יותר מ־460 אלף ק״מ • ברקע: העימות בין המפכ״ל לבן גביר על 333 מיליון שקל שיועדו לצי המבצעי",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21421359",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T17:02:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21421359",
-      "title": "בכירים במשטרה נגד בן גביר: מצב הניידות מסכן את המוכנות לתרחיש 7 באוקטובר",
-      "summary": "קצינים בכירים מתריעים כי מאות כלי רכב מבצעיים חורגים מהוראות היצרן, וחלקם צברו יותר מ־460 אלף ק״מ • ברקע: העימות בין המפכ״ל לבן גביר על 333 מיליון שקל שיועדו לצי המבצעי",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21421359",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T17:02:30.000Z"
     }
   ]
 }
