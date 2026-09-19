@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:31:38.497Z",
+  "updatedAt": "2026-09-19T20:46:05.045Z",
   "sources": [
     {
       "key": "ynet",
@@ -77,6 +77,33 @@
       "pubDate": "2026-09-19T21:11:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85106",
+      "title": "נער בן 17 ניצל ממוות לאחר תגובה אלרגית באשקלון",
+      "summary": "צוותי איחוד הצלה הצילו את חייו של נער בן 17 שפיתח תגובה אלרגית מסכנת חיים באשקלון. החובשת בטי עמר מסרה כי הנער פיתח את התגובה לאחר שנחשף ללקטוז אליו הוא רגיש. היא הזריקה לו אפיפן (מזרק אוטומטי של אדרנלין) ומצבו התייצב. הנער פונה לבית חולים להמשך טיפול רפואי.",
+      "link": "https://www.kikar.co.il/scoop-news/85106",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-19T20:40:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/uae-denies-warning-netanyahu-october-7",
+      "title": "דיווח: גורם באיחוד האמירויות מכחיש רשמית את הטענות שהועבר מידע לנתניהו",
+      "summary": "גורם רשמי באיחוד האמירויות מגיב לטענות על אזהרה לישראל לפני 7 באוקטובר, על פי הדיווח מפי גורם רשמי של המדינה: \"לא דנים בפרטים ברמת מנהיגי מדינות\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/uae-denies-warning-netanyahu-october-7",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-19T20:39:51.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjb0hw3kgx",
+      "title": "חידוש ושמו תשובה",
+      "summary": "מדוע אנו מתקשים להאמין שאנשים סביבנו מסוגלים להשתנות? מכיוון שאם הדבר הוא כך, הרי שגם אנחנו יכולים להשתנות לטובה. ואם לא עשינו זאת – על מי נלין מלבד על עצמנו?",
+      "link": "https://www.ynet.co.il/news/article/bjb0hw3kgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-19T20:30:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/abu-shahadeh-october-8-article-response",
       "title": "\"אילו ידעתי על הזוועות לא הייתי מפרסם\": אבו שחאדה מתחרט על מאמר שכתב ב-8 באוקטובר",
       "summary": "יו\"ר בל\"ד מגיב לבקשת הפסילה של עוצמה יהודית ובן גביר • \"מעולם לא קראתי לאלימות ולא תמכתי באירועי 7 באוקטובר\" | התייחס לראשונה למאמר השנוי במחלוקת (פוליטי מדיני)",
@@ -84,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-19T20:27:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21456834",
+      "title": "ברקע החשש מפסילה: יו\"ר בל\"ד אמר שהוא מתחרט שכינה את 7 באוקטובר \"אירוע היסטורי חשוב\"",
+      "summary": "אבו שחאדה טען כי התנגדותו לפגיעה באזרחים ישראלים ולפגיעה באזרחים פלסטינים נובעת מאותו עיקרון • \"חיי אדם אינם הפקר\" • לדבריו, הוא ממשיך להתנגד למלחמה בעזה ולדגול במאבק פוליטי בלתי אלים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21456834",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T20:21:28.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3868938",
@@ -300,6 +336,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-19T18:56:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21456365",
+      "title": "בנוכחות נתניהו: אירוע הסליחות האחרון בכותל | ישיר",
+      "summary": "בירושלים נערכים למעמד הסליחות המרכזי והאחרון, ערב יום הכיפורים, אשר צפוי לרשום היקף שיא של מתפללים • המארגנים קראו לציבור להקדים את הגעתו - כשהאירוע יוקרן גם על חומות העיר העתיקה ובשער יפו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21456365",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T18:55:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21456365",
@@ -1239,6 +1284,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21453415",
+      "title": "מכה לספקנים: 5 ממצאים שאימתו את קיומו של דוד המלך",
+      "summary": "סריקות תלת־ממד של כתובות אויב, ארמון מונומנטלי בירושלים ומבצרי גבול אדירים: סקירה מדעית של מכון המחקר ABR מציגה את התגליות הארכאולוגיות המכריעות שמפריכות את עמדת הספקנים",
+      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21453415",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T15:35:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21453415",
       "title": "הסוף לספקות: 5 הממצאים שאימתו את קיומו של דוד המלך",
       "summary": "סריקות תלת־ממד של כתובות אויב, ארמון מונומנטלי בירושלים ומבצרי גבול אדירים: סקירה מדעית של מכון המחקר ABR מציגה את התגליות הארכאולוגיות המכריעות שמפריכות את עמדת הספקנים",
       "link": "https://www.israelhayom.co.il/tech/archaeology/article/21453415",
@@ -1317,6 +1371,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T15:09:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21453522",
+      "title": "לא על השיש ולא במקרר: השיטה שתשמור על הלימונים טריים - ועסיסיים",
+      "summary": "ההרגל היומיומי של רובנו מייבש את פירות ההדר ופוגע בערכים התזונתיים שלהם; שינוי אחד פשוט במקום האחסון יכפיל את כמות המיץ שתוציאו מכל פרי ויחסוך לכם לא מעט כסף בסל הקניות",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21453522",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T15:06:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21453522",
@@ -1956,6 +2019,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T10:34:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21453602",
+      "title": "5 הגילויים הכי קשים על הנסיכה דיאנה - שנחשפו בספר החדש של אחיה",
+      "summary": "וידוי מוחץ בליל החופה, בדידות תהומית על פי התהום ושיחה אחת שהקפיאה את הדם: הממלכה בטירוף סביב עדות אישית קורעת לב מתוך הארמון - שמציגה את האמת האפלה ללא פילטרים: \"זה בדיוק מה שנאמר\"",
+      "link": "https://www.israelhayom.co.il/culture/books/article/21453602",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T10:34:28.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21453602",
@@ -26445,24 +26517,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-14T20:57:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84591",
-      "title": "הגאון רבי מרדכי אוירבך אושפז בבית החולים",
-      "summary": "לקיים בנו חכמי ישראל: העתירו בתפילה על הגאון רבי מרדכי אוירבך שאושפז בבית החולים. שמו לתפילה רבי מרדכי בן חיה רבקה לרפואה שלימה",
-      "link": "https://www.kikar.co.il/scoop-news/84591",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T20:45:24.000Z"
-    },
-    {
-      "id": "walla:https://e.walla.co.il/item/3867763",
-      "title": "המוציא לאור יוצא להגנת נז\"א: \"העדויות אמיתיות וראוי שיישמעו\"",
-      "summary": "הסרט התיעודי של יובל אברהם ורחל שור ממשיך לעורר סערה בישראל, וכעת הגרדיאן הבריטי, שהוציא לאור את הסרט יוצא להגנת היוצרים: \"העדויות אמיתיות וראוי שיישמעו. נגן בתוקף מפני כל ניסיון צנזורה\"",
-      "link": "https://e.walla.co.il/item/3867763",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-14T20:41:00.000Z"
     }
   ]
 }
