@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T16:16:02.086Z",
+  "updatedAt": "2026-09-19T16:31:02.824Z",
   "sources": [
     {
       "key": "ynet",
@@ -50,6 +50,15 @@
       "pubDate": "2026-09-19T18:20:00.000Z"
     },
     {
+      "id": "walla:https://news.walla.co.il/item/3868923",
+      "title": "מהכאב לאור: המיזם החברתי של גן החיות התנ\"כי לזכר העובד שנהרג",
+      "summary": "אוריאל נורי עובד גן החיות שנהרג בתקיפת נמר בשנה שעברה. לאחר שחייו נגדעו באופן טרגי, משפחתו משיקה לזכרו מיזם חינוכי שילמד ילדים על שייכות, קבלת האחר ומניעת חרם",
+      "link": "https://news.walla.co.il/item/3868923",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-19T18:16:00.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3868913",
       "title": "המלחמה הגיעה לריאד: פיצוצים בבירה, אש במתחם הדלק בנמל התעופה",
       "summary": "התרעות מפני איום אווירי הופעלו הלילה בבירת סעודיה ובערים נוספות ברחבי הממלכה. רויטרס תיעדה עשן ולהבות במתחם אחסון הדלק בנמל התעופה המלך ח'אלד. בריאד טרם הסבירו מה גרם לשריפה, והחות'ים לא קיבלו אחריות",
@@ -84,6 +93,51 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-19T16:28:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-soldiers-injured-lebanon-hezbollah-mine",
+      "title": "פצועים בדרום לבנון: כלי הנדסי עלה על מטען של חיזבאללה | צה\"ל מעלה כוננות לקראת יום הכיפורים",
+      "summary": "שני לוחמים נפצעו קל בדרום לבנון לאחר שכלי הנדסי עלה על מטען שהכינו מחבלי חיזבאללה כנגד החיילים • בתגובה, צה\"ל תקף תשתיות חיזבאללה במרחב | כוננות מוגברת לקראת יום כיפור (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-soldiers-injured-lebanon-hezbollah-mine",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-19T16:26:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85067",
+      "title": "חשש לחדירת מחבלים ביצהר שבשומרון",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/85067",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-19T16:26:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1368930",
+      "title": "טראמפ חוסם עיתונאים, החשד לרצח ו\"נז\"א\" מגיע לארה\"ב | סיכום חדשות השבת",
+      "summary": "טראמפ הכריז על הסכם ביטחוני חדש בגרינלנד | חשוד נעצר בפרשת היעלמותה של פאטמה רג'בי | \"עיני פחם\" נחשף | פוטין נערך להסלמה | \"נז\"א\" בדרך למסכים בארה\"ב | סיכום חדשות השבת",
+      "link": "https://www.maariv.co.il/news/israel/article-1368930",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T16:18:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21454610",
+      "title": "כמו תיירים בישראל: הנתק המוחלט של הפועל תל אביב",
+      "summary": "ביורוליג זה יראה אחרת, אבל האדומים מזניחים את הזירה המקומית - וככה אי אפשר לזכות פה בתואר • מההרכב הלא מספיק איכותי, העומס על וסיליה מיציץ' והאיש שיכול לפתור חלק מהבעיות • אבי סגל מסביר מה לא עבד בדרבי",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21454610",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:13:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21455419",
+      "title": "אחרי האשפוז באברבנאל: אוהד בוזגלו חזר - עם מסר מסתורי",
+      "summary": "כוכב \"הבוזגלוס\" חזר לחיי הלילה עם בילוי שגרתי במועדון השלוותה בתל אביב • אחר כך הוא שיתף גם סרטון מסתורי, ללא הסברים",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21455419",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T16:08:46.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ryhua11nkge",
@@ -26337,33 +26391,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-14T16:32:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21421133",
-      "title": "אילנית לוי: \"אני לא מפסיקה לבכות\"",
-      "summary": "המגישה חוגגת יום הולדת 20 לבתה המשותפת עם איל גולן ומשתפת בפוסט חשוף במיוחד • היא חושפת את הקושי לשחרר ומודה על הזכות להיות אמא • \"בזמן שגידלתי אותך, את גידלת אותי\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21421133",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T16:30:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bywr5drkzg",
-      "title": "האל\"ם שנכנס עם אבא של היימנוט ללהב 433 טוען: מעולם לא נתקלתי ביחס כזה",
-      "summary": "ברקע ההצהרות על מעורבות שב\"כ בחקירת היעלמותה של היימנוט קסאו, נפגש אביה עם נציגי המשטרה ולהב 433 לשיחה טעונה במיוחד - שממנה יצא מודאג עוד יותר. אל\"ם במיל' דורון הדר, שהיה חבר בצוות המו\"מ לשחרור החטופים, ליווה אותו: \"ליוויתי משפחות וראיתי מה זה חיבוק ואמפתיה - זה לא היה בפגישה הזו\". המשטרה: \"צוות החקירה הדגיש בשיחה שהנושא בחשיבות עליונה\"",
-      "link": "https://www.ynet.co.il/news/article/bywr5drkzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-14T16:24:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21421045",
-      "title": "המלכוד הסעודי: הצינור שנועד לעקוף את הורמוז - והפך בעצמו למטרה",
-      "summary": "צינור מזרח-מערב הפך בעקבות המלחמה מעורק גיבוי לנתיב ייצוא מרכזי - עד שנפגע בעצמו • כעת, כשהורמוז משובש והים האדום מאוים בידי החות'ים, ריאד מתמודדת עם מחסור בדרכים בטוחות להעברת הנפט • הפגיעה חושפת גם את האתגר של מסדרון הודו-אירופה: איך בונים מעקף שלא יהפוך לנקודת התורפה הבאה?",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21421045",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T16:18:35.000Z"
     }
   ]
 }
