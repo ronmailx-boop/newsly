@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:31:08.179Z",
+  "updatedAt": "2026-09-19T15:45:58.592Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3868679",
+      "title": "פעם בשנה אנחנו מפסיקים להאשים את כולם - ומסתכלים על עצמנו",
+      "summary": "אפשר לצום, אפשר להתעטף בטלית, אפשר לומר \"על חטא\", אבל יש דלת אחת שהקב\"ה, כביכול, מסר את המפתח שלה לאדם אחר. פגעת בו? לך אליו, פייס אותו ובקש את מחילתו, אין קיצורי דרך",
+      "link": "https://news.walla.co.il/item/3868679",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-19T18:20:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868679",
       "title": "עד שירצה את חברו",
@@ -86,6 +95,24 @@
       "pubDate": "2026-09-19T15:50:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21446937",
+      "title": "\"הפועל ירושלים עלולה לפספס שריון ביורוליג בגלל עופר ינאי\"",
+      "summary": "בפודקאסט \"על זה\" לקראת פתיחת העונה, אבי סגל וגיא צוק דנו בסיכוי של הקבוצה מהבירה לקבל רישיון קבוע ביורוליג: \"ינאי ראה את הנולד ושפך כסף, הפועל תל אביב בעמדה יותר טובה מירושלים שפספסה את הרכבת\" • סגל חזה: \"ירושלים תעלה ליורוליג דרך היורוקאפ\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21446937",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T15:28:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21454791",
+      "title": "אגדת הכדורגל חוזר ללמוד בתיכון בגיל 48: \"לא גאה בזה\"",
+      "summary": "ג'אנלואיג'י בופון נרשם לאחרונה לבית ספר פרטי כדי להשלים את לימודיו: \"המטרה שלי היא לשבור את הסטריאוטיפ הנפוץ בציבור, שלפיו כדורגלנים הם אנשים חסרי השכלה\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21454791",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T15:27:20.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368971",
       "title": "דונלד טראמפ הבטיח - וקיים: כתבים כבר נעצרו בשערי הבית הלבן",
       "summary": "יממה לאחר שטראמפ הכריז על איסור כניסה לבית הלבן ל-CNN, MS NOW ולפוליטיקו, כתבים מטעמם כבר נעצרו בשערי הבית ואישורי הכניסה נשללו. כלי התקשורת מבטיחים להיאבק וטוענים לפגיעה בחופש העיתונות",
@@ -129,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T15:06:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21455047",
+      "title": "בשורה למכבי והפועל תל אביב: נציגי היורוליג יגיעו לישראל",
+      "summary": "לפי הודעת המועדון הצהוב, שמעון מזרחי וקלאודיו קולדבלה המריאו לאבו דאבי על מנת לדון על חזרת משחקי היורוליג לישראל • למרות שלא סוכמו שינויים, שניים מהבכירים בהנהלת המפעל יבואו לביקור",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21455047",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-19T15:04:52.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21455047",
@@ -678,6 +714,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T10:58:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1368900",
+      "title": "המהלך הגרמני שמדאיג את אירופה: \"זו מהפכה שבהחלט תשפיע על שכנותיה\"",
+      "summary": "גרמניה משקיעה סכומי עתק בבניית הצבא מחדש, אבל באירופה כבר מתחילים לחשוש מהיום שאחרי. התחזקות ה-AfD הפרו-רוסית, הזיכרונות ההיסטוריים ושינוי מאזן הכוחות מחזירים לשולחן את \"השאלה הגרמנית\"",
+      "link": "https://www.maariv.co.il/news/world/article-1368900",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-19T10:52:07.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1368900",
@@ -26391,78 +26436,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-14T15:47:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21420694",
-      "title": "מה-NBA והיורוליג: השמות הכי הגדולים שנחתו הקיץ בישראל",
-      "summary": "רכז ששיחק ביורוליג עם מונאקו ופנאתינייקוס, סנטר שנבחר לשחקן החודש ביורוליג, יהודי שקלע נקודות ב-NBA וכוכבים מהיורוקאפ וה-BCL • הפרצופים החדשים בליגה שאתם צריכים להכיר מחוץ ל-3 הגדולות",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21420694",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T15:42:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1366318",
-      "title": "התיק בדרך לפרקליטות: סגן ראש העיר בראשון לציון נחקר שוב",
-      "summary": "ימים לאחר ששב לעבודתו, נחקר שוב סגן ראש עיריית ראשון לציון, החשוד בעבירות אונס, מעשים מגונים, איומים והדחת עדים. לפי גורמים המעורים בחקירה, לא נוספו ראיות משמעותיות",
-      "link": "https://www.maariv.co.il/news/law/article-1366318",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-14T15:38:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1366319",
-      "title": "סעודיה שפכה הון על הצבא - וברגע האמת החות'ים עשו לה בית ספר",
-      "summary": "על רקע השתלטות החות'ים על באב אל-מנדב, ד\"ר מיכל יערי מזהירה מפני מגבלות הכוח של סעודיה והתלות בארה\"ב. לדבריה, גם ישראל חייבת להתאים את עצמה למציאות האזורית המשתנה",
-      "link": "https://www.maariv.co.il/news/world/article-1366319",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-14T15:36:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21419702",
-      "title": "המספרים נחשפים: ההטיה הבוטה של הניו יורק טיימס נגד ישראל",
-      "summary": "מחקר חדש ניתח ניתח יותר מ-1,500 כתבות של העיתון מאז 7 באוקטובר • העיתון העלים בשיטתיות אלימות פלסטינית בעזה וביו\"ש, מזער את חלקו של חמאס במלחמה והעניק באופן עקבי \"אחריות כמעט בלעדית\" לישראל • המחקר מצטרף לשערוריות העבר של כלי התקשורת האמריקני בהן עלילות הדם נגד המדינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21419702",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T15:36:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tld1tn",
-      "title": "בערב יום הדין חנכו בישיבת 'באר יצחק' את בית המדרש החדש; גלריה",
-      "summary": "בהתרגשות גדולה ובמעמד רב רושם התקיים בערב יום הדין מעמד חנוכת בית המדרש החדש של ישיבת 'באר יצחק' טלזסטון | בית המדרש הוכפל בגודלו ושופץ ברוב פאר והדר לכבוד התורה ולומדיה ותפילות ראש השנה כבר התקיימו בבית מדרש החדש לאחר ההכנות הנדרשות | צפו בתיעוד (חרדים)",
-      "link": "https://www.kikar.co.il/hasidism/tld1tn",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T15:35:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21420760",
-      "title": "לראשונה: העבירה ביו\"ש שהסתיימה בקנס של 200 אלף שקל",
-      "summary": "המנהל האזרחי הפעיל לראשונה סמכות חדשה עם הטלת עיצומים על מפעילי שתי משאיות שנתפסו באזור ג'נין • המשאיות יוחזקו עד לתשלום, ואם הקנסות לא ישולמו ניתן יהיה לקדם את חילוטן",
-      "link": "https://www.israelhayom.co.il/news/local/article/21420760",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T15:34:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21420549",
-      "title": "טראמפ נגד אזהרות על סכנות ה-AI: \"אל תהרגו את אווז הזהב\"",
-      "summary": "נשיא ארה\"ב יוצא למתקפה על החשש מפני סכנות הבינה המלאכותית ומזהיר מפני \"קנוניה חולה נגד AI ומרכזי נתונים\" • בכירי התעשייה מזהירים מאובדן שליטה, מתקפות סייבר וזעזוע בשוק העבודה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21420549",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-14T15:32:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tld1g0",
-      "title": "ראש השנה ב'כסא רחמים': בכמה נמכרה פתיחת ההיכל?",
-      "summary": "ההתבטאות של השר הבכיר באזני ראש הישיבה, החזנים בתפילות ומספר השיא של דפי הגמרא בהם נמכרה פתיחת ההיכל של הפרנסה | סיקור מיוחד מראש השנה תשפ\"ז בהיכל ישיבת 'כסא רחמים' (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tld1g0",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-14T15:31:50.000Z"
     }
   ]
 }
