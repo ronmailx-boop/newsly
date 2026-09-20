@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:30:59.664Z",
+  "updatedAt": "2026-09-20T08:47:09.228Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3869053",
+      "title": "ראשוני: חשד לפיגוע ירי סמוך לנווה צוף - פצוע קשה בזירה",
+      "summary": "על פני הדיווחים, הירי בוצע מרכב חולף לעבר מתרחצים ישראלים שטבלו במעיין עין ריא בנווה צוף. פצוע קשה בזירה. מצה\"ל נמסר כי האירוע בבדיקה",
+      "link": "https://news.walla.co.il/item/3869053",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-20T11:34:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3869045",
       "title": "יונתן נסע לאומן לראש השנה - ונעצר במעבר הגבול כדי לגייסו לצבא אוקראינה",
@@ -84,6 +93,60 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-20T08:50:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
+      "title": "גבר נפצע אנוש בפיגוע ירי סמוך לנווה צוף, המחבל נמלט",
+      "summary": "אדם נפצע באורח אנוש מירי סמוך לנווה צוף שבחטיבת בנימין. המחבל נמלט מהזירה ברכב, וכוחות צה\"ל פתחו במצוד אחריו",
+      "link": "https://www.maariv.co.il/news/military/article-1369175",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-20T08:43:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-neveh-tzuf-ein-raya-injured",
+      "title": "מחבל ירה מתוך רכב על טובלים במעיין בערב יום כיפור; יהודי נפצע קשה",
+      "summary": "דיווח ראשוני על ירי לעבר אזרחים במעיין עין רעייה • פצוע קשה מחוסר הכרה במקום | המחבל נמלט מהזירה וכוחות צה\"ל פועלים במקום (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/shooting-attack-neveh-tzuf-ein-raya-injured",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-20T08:42:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
+      "title": "ראשוני: נפגעים מירי באזור בנימין",
+      "summary": "כוחות רבים הוזעקו לזירה באזור נווה צוף, הנסיבות נבדקות",
+      "link": "https://www.ynet.co.il/news/article/hybligtffx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-20T08:38:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85135",
+      "title": "פיגוע ירי במעין נווה צוף; דיווח על נפגעים במקום",
+      "summary": "דובר צה\"ל: ראשוני: התקבל דיווח על ירי במרחב נווה צוף שבחטיבת בנימין, הפרטים בבדיקה. כוחות צה\"ל קפצו לנקודה",
+      "link": "https://www.kikar.co.il/scoop-news/85135",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-20T08:36:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/iran-chief-rabbi-selichot-yom-kippur-tehran",
+      "title": "בלב טהרן: המעמד המרגש של הסליחות האחרונות בערב הצום",
+      "summary": "רבה הראשי של איראן הרב יהודה גראמי הוביל את מעמד הסליחות האחרון • בית הכנסת יוסף אבאד בטהרן היה גדוש במתפללים | התיעוד המיוחד מלב הבירה האיראנית (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/iran-chief-rabbi-selichot-yom-kippur-tehran",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-20T08:31:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21453021",
+      "title": "הכבישים אמנם ריקים, אבל הסכנה לא: הפציעות שמאיימות על ילדים ביום הכיפורים",
+      "summary": "המוני צעירים צפויים לצאת לרכוב על אופניים, קורקינטים וסקייטבורדים • לצד נפילות והתנגשויות, הרופאים מזהירים מפגיעות ראש, שברים וחבלות בפנים שעלולות להיראות קלות בתחילה • אילו סימנים מחייבים בדיקה - ומה אסור לעשות במקרה של דימום מהאף?",
+      "link": "https://www.israelhayom.co.il/news/local/article/21453021",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T08:27:50.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/85133",
@@ -26112,60 +26175,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-15T08:51:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlebyo",
-      "title": "קיצוניים השתוללו במעמד הסליחות עם הפייטן אשר בן דוד וניתקו את החשמל | צפו בתיעוד",
-      "summary": "מעמד הסליחות הציבורי של המועצה הדתית בבני ברק הפך הלילה למוקד סערה נוסף בשכונת מתחם הסופרים בעיר • קיצונים התעמתו עם מתפללים שביקשו לתעד את הסליחות, ובהמשך אף ניתקו את החשמל וקיימו מניין נפרד בחוץ | תיעוד (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tlebyo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T08:43:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/europe-rail-sabotage-incidents",
-      "title": "הרשויות בלחץ שיא: מי גורם לרכבות עמוסות בנוסעים להתהפך?",
-      "summary": "בתוך ימים ספורים נרשמו שני אירועי רכבות חריגים, ובשניהם נבדקת האפשרות לחבלה מכוונת. הרשויות עדיין מחפשות תשובות, אך החשש מהמלחמה השקטה על תשתיות היבשת הולך וגובר (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/europe-rail-sabotage-incidents",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T08:41:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21424437",
-      "title": "הפעם זה יהיה אחרת? הקרב על התמודדות רע\"ם בבחירות",
-      "summary": "היועצת המשפטית לממשלה צפויה להגיש בשבוע הבא את עמדתה בבקשת הליכוד לפסול את רע\"ם מהתמודדות בבחירות לכנסת ה-26 • ב-2022 התנגדה בהרב-מיארה לפסילת המפלגה וסברה כי התשתית שהוצגה אינה עומדת ברף שקבע העליון",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21424437",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T08:40:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21424277",
-      "title": "איציק סעידיאן: \"לא שווה לשלם את המחיר הזה בשביל צדק\"",
-      "summary": "בראיון לפודקאסט \"הכל פתוח\", שחזר נכה צה\"ל את הלילות השחורים, והזלזול מחברי העמותות ואגף השיקום • על ההחלטה ששינתה את חייו אמר: \"הבנתי שאם לא יקרה משהו קיצוני - הפציעה תידחק הצידה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21424277",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T08:36:38.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1366544",
-      "title": "החקירה מסתעפת: חשוד נוסף נעצר בפרשת חיסול יאניס יושבייב",
-      "summary": "חיסול יאניס ישובייב בקיסריה: תושב חדרה נעצר בחשד למעורבות ברצח והצטרף לשורת חשודים שכבר נעצרו. החקירה נמשכת, ובמשטרה בודקים אם החשוד המרכזי שימש \"שכיר חרב\" ומי היו הגורמים שעמדו מאחורי הרצח",
-      "link": "https://www.maariv.co.il/news/law/article-1366544",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-15T08:33:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkyllk8kgx",
-      "title": "לא פותרים את מצוקת גיל 30 על חשבון גיל 80",
-      "summary": "דווקא הכסף שנחסך בגיל צעיר נהנה במשך הזמן הארוך ביותר מאפקט הריבית דריבית. ויתור על 15 שנות הפרשה אינו רק דחיית חיסכון - הוא ויתור על חלק מכרית הביטחון לעתיד",
-      "link": "https://www.ynet.co.il/news/article/bkyllk8kgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-15T08:32:45.000Z"
     }
   ]
 }
