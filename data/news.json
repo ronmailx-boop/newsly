@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:01:05.725Z",
+  "updatedAt": "2026-09-20T13:16:02.161Z",
   "sources": [
     {
       "key": "ynet",
@@ -104,6 +104,15 @@
       "pubDate": "2026-09-20T13:01:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
+      "title": "נתנאל נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד בבי\"ח אחרי כשלוש שעות",
+      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: אב לשישה שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, חייל ירה לעבר המחבל שנמלט ברגל ונתפס ע\"י יחידת דובדבן. במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
+      "link": "https://www.ynet.co.il/news/article/hybligtffx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-20T12:54:45.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/85152",
       "title": "צה\"ל חיסל את בציר אלברש, בנו של מנכ\"ל משרד הבריאות של חמאס",
       "summary": "צה\"ל דיווח כי בציר אלברש, בנו של ד\"ר מניר אלברש מנכ\"ל משרד הבריאות של חמאס בעזה, חוסל אתמול בתקיפה בג'באליא שבצפון הרצועה. אלברש שימש כמפקד נוח'בה בזרוע הצבאית של חמאס.",
@@ -111,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-20T12:52:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21458726",
+      "title": "נתנאל שקרון, אב ל-6 מעלי זהב, הוא הנרצח בפיגוע בבנימין",
+      "summary": "תושב היישוב שנפצע באורח קשה בפיגוע מת בבית החולים מפצעיו • לאחר האירוע פתחו כוחות הביטחון במרדף נרחב אחר המחבל, שנמלט מהזירה - ובהמשך נתפס בדרכו לבית החולים ברמאללה על ידי כוחות דובדבן",
+      "link": "https://www.israelhayom.co.il/news/local/article/21458726",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T12:48:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21458881",
+      "title": "בין האב שטבל עם בנו לרוצח: הטוב והרע ביום של חשבון נפש",
+      "summary": "האב שהגיע עם בנו למעיין לפני יום הדין נרצח לעיניו - והמפגש בין האהבה לחושך לא יכול היה להיות קיצוני יותר • גם כשהדרך קורעת לב, הברית עם הארץ והאמונה בחיים אינן מסתיימות: הטוב יגבר על הרוע",
+      "link": "https://www.israelhayom.co.il/news/local/article/21458881",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T12:46:36.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3868939",
@@ -129,6 +156,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-20T12:45:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21458774",
+      "title": "הנשק כבר במסלול: כך תראה המלחמה בחלל",
+      "summary": "ארה\"ב הודתה לראשונה כי היא מפעילה מערכות נשק בחלל להגנה מפני פעולה עוינת • החשיפה מסמנת את הפיכת החלל מזירת תקשורת ומודיעין לזירת לחימה אקטיבית • רועי ברגיל, מנכ\"ל קבוצת הטכנולוגיה הביטחונית Velorix ולשעבר סמנכ\"ל בתעשייה האווירית: \"החלל הפך להיות דומיין מבצעי\"",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21458774",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T12:36:39.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/85151",
@@ -24969,114 +25005,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-15T13:16:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21426913",
-      "title": "עד כמה אפשר לסמוך על הסקרים? האמת מאחורי \"טעות הדגימה\"",
-      "summary": "האותיות הקטנות מציינות בדרך כלל טעות של 4.2% • כיצד זה מתבטא במנדטים, ועד כמה התוצאות באמת יכולות להשתנות? • כך פועלת הסטטיסטיקה שמאחורי סקרי הבחירות - וזו הסיבה שגם סקר מדויק לא בהכרח מנבא את התוצאה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21426913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:16:02.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1d2r2itzx",
-      "title": "עד 38 מעלות - ואז גשם: מזג האוויר ההפכפך",
-      "summary": "השרב הסתווי יימשך גם ביומיים הקרובים, עם 33–35 מעלות בהרי ירושלים ועד 38 בשפלה ואחוזי לחות נמוכים. ביום שישי תחול ירידה חדה בטמפרטורות, וגשם צפוי בצפון ובמרכז עד ערב שבת. מקומית עשויות להימדד כמויות חריגות לספטמבר",
-      "link": "https://www.ynet.co.il/news/article/r1d2r2itzx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-15T13:15:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/elections-disqualification-requests-otzma-yehudit-raam",
-      "title": "מתקפת פסילות: עוצמה יהודית ורע\"מ על המוקד",
-      "summary": "לקראת תום המועד האחרון, הונחו על שולחן ועדת הבחירות המרכזית 11 בקשות דרמטיות לפסילת מפלגות ומועמדים. בעוד עוצמה יהודית ורע\"מ מובילות את מוקד האש, המערכת הפוליטית נערכת לקרב בלימה משפטי דרמטי בבית המשפט העליון שיכריע את גורל המרוץ (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/elections-disqualification-requests-otzma-yehudit-raam",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T13:13:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-david-yosef-kapparot-yom-kippur",
-      "title": "פסיקת הראשון לציון: זה סכום הכפרות המדויק השנה",
-      "summary": "לקראת יום הכיפורים, הראשון לציון הגר\"ד יוסף מפרסם מכתב הלכתי דרמטי ומורה לקיים את מנהג הכפרות במעות כדרכו של אביו מרן הרב עובדיה זצוק\"ל. המומחים קבעו את המחיר לכ-30 שקלים לנפש, לצד קריאה מיוחדת לתפילות החיילים והפצועים (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/rabbi-david-yosef-kapparot-yom-kippur",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T13:13:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21426977",
-      "title": "\"אף קבוצה בליגת העל לא יכולה לזלזל בהפועל חולון\"",
-      "summary": "קלודל האריס ג'וניור מתכונן לעונה הראשונה בסגול • בראיון בלעדי ל\"היום\" הוא מודה: \"נאבק על תארים, זאת המטרה\" • על המנהל המקצועי דניאל רביץ: \"לפני כמה שנים הוא אמר לי בלאס וגאס 'יום יבוא ואחתים אותך'\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21426977",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:13:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21415744",
-      "title": "הסוד לתפוחי אדמה פריכים במיוחד נמצא דווקא בסיר",
-      "summary": "לא משנה אם אתם מכינים אותם בתנור או במטגן האוויר: הדרך לתפוחי אדמה זהובים וקראנצ'יים מבחוץ ונימוחים מבפנים מתחילה עוד לפני הצלייה • ארבעה שלבים פשוטים יעזרו לכם להגיע למרקם המדויק, ויש גם הסבר מדעי למה זה עובד",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21415744",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:12:00.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%A9%D7%95%D7%98%D7%A8%D7%99%D7%9D",
-      "title": "כתב אישום הוגש נגד שוטר ערבי על שלושה מקרי תקיפה",
-      "summary": "המחלקה לחקירות שוטרים הגישה כתב אישום נגד שני שוטרים ערבים מהצפון. אחד מואשם בשלושה מקרי תקיפה, והשני בשיבוש הליכי משפט באחד המקרים",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%A9%D7%95%D7%98%D7%A8%D7%99%D7%9D",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-09-15T13:10:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21426205",
-      "title": "גילה אלמגור: \"פתאום מצאתי את עצמי דבוקה למקרר והוא מנשק אותי\"",
-      "summary": "השחקנית המוערכת וכלת פרס ישראל התארחה בפודקאסט \"אהבתי\" של עדי שילון וחשפה גילויים מרתקים על חייה האישיים • היא חזרה לרגע שבו התאהבה ביעקב אגמון ז\"ל כשהיה גבר נשוי, לשנתיים של רומן במחתרת, 57 שנות נישואין, והחיים שאחרי לכתו",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21426205",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:09:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21427091",
-      "title": "גורמים באזור מאשרים: מתקיימים מגעים בין ישראל לסעודיה",
-      "summary": "לפי מקורות דיפלומטיים וביטחוניים, מוחמד בן סלמאן ביקש באמצעות סנטקום סיוע מודיעיני מול החות'ים, בניסיון למנוע את חסימת באב אל־מנדב • במקביל פנה יורש העצר גם למדינות המפרץ ולמצרים",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21427091",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:06:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21427091",
-      "title": "גורמים באזור מאשרים: שיח בין ישראל לסעודיה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21427091",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T13:06:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84680",
-      "title": "הרוג ופצועים בתקיפת כטב\"ם ישראלי בצפון עזה",
-      "summary": "הרוג ומספר פצועים נפלו בתקיפת כטב\"ם ישראלי ליד מסגד אלפרקאן בשכונת שיח' רצ'ואן בצפון עזה. לפי עדויות, הכטב\"ם תקף עזתי ולאחר מכן שיגר טיל נוסף לעבר קבוצה שהגיעה לסייע לו.",
-      "link": "https://www.kikar.co.il/scoop-news/84680",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T13:06:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84679",
-      "title": "ילד בן 12 נפגע מרכב באשקלון - מצבו בינוני",
-      "summary": "הולך רגל בן 12 נפגע מרכב ברחוב ארגמן באשקלון. צוותי איחוד הצלה העניקו לו טיפול רפואי במקום והוא פונה לבית חולים עם חבלת ראש במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/84679",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T13:05:26.000Z"
     }
   ]
 }
