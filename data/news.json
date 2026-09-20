@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:16:04.406Z",
+  "updatedAt": "2026-09-20T12:31:04.391Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://news.walla.co.il/item/3869082",
+      "title": "איראן מאיימת על ארה\"ב: \"הבסיסים באזור יהיו נתונים למתקפות כואבות\"",
+      "summary": "מפקדת ח'אתם אל-אנביא טענה כי וושינגטון החליטה לחדש את פעולותיה נגד איראן, והזהירה כי בסיסים אמריקניים באזור יותקפו. במקביל, הנשיא פזשכיאן צפוי לצאת לעצרת האו\"ם בניו יורק - לאחר שארה\"ב צמצמה את משלחתו והטילה עליה מגבלות",
+      "link": "https://news.walla.co.il/item/3869082",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-20T15:04:00.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3869075",
       "title": "תמורת \"כסף קל\": רוסיה מגייסת ילדים אוקראינים לביצוע פיגועים בארצם",
@@ -25284,159 +25293,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-15T12:31:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21425877",
-      "title": "כוכב להקת נירוונה: \"'Smells Like Teen Spirit' ממש לא השיר הכי טוב שלנו\"",
-      "summary": "דייב גרוהל, סולן פו פייטרס ומתופף נירוונה לשעבר, נזכר בפריצה המטורפת של הלהקה, חושף איזה שיר לדעתו היה צריך לכבוש את הפסגה ומסביר מה קרה מאחורי הקלעים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21425877",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:29:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21426395",
-      "title": "זה קורה: החדש של אודיה אזולאי",
-      "summary": "הזמרת בת ה-25 בצעד מרגש במיוחד עם אחד הכוכבים הבולטים של התקופה האחרונה. מנחשים במה ובמי מדובר?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21426395",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:29:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21426136",
-      "title": "חנן יובל: \"טעיתי ומצאתי את עצמי במינוס בבנק, בלי הכנסות\"",
-      "summary": "המפיק שהבטיח לו הרים וגבעות, והותיר אותו עם צלקת בכיס • השאלה שאנשים שואלים אותו בלי בושה עד היום • ולמה הוא לא מתכוון לצאת לפנסיה בעתיד הנראה לעין • חיים שלמים ב-15 שאלות • והפעם: הצד הטוב של חנן יובל, מלחין וזמר",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21426136",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:28:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21426430",
-      "title": "פי 5 גשם מהממוצע החודשי - ביום אחד: המהפך במזג האוויר",
-      "summary": "לאחר ימים יחסית יבשים, בסוף השבוע אנחנו צפויים להרגיש קצת חורף • עיקר המערכת יתרכז מתל אביב וצפונה • וגם: התחזית לימים הקרובים - ולקראת יום הכיפורים",
-      "link": "https://www.israelhayom.co.il/weather/article/21426430",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:25:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlen44",
-      "title": "פדיון שבויים, פדיון כפרות: רגע לפני יום הכיפורים, מי יחזיר אותם הביתה?",
-      "summary": "יש ילדים יהודים שעבורם \"שמע ישראל\", בית כנסת ובר מצווה הם לא חלק טבעי מהילדות. דווקא עכשיו, בעשרת ימי תשובה, כשהלב מבקש עוד זכות לקראת יום הכיפורים, יש מצווה אחת שיכולה לשנות חיים שלמים - ולהחזיר ילד יהודי הביתה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tlen44",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T12:24:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21426398",
-      "title": "אביתר מ\"חתונמי\" מאשר את הרומן הסודי עם ויקי: \"אני מת עליה\"",
-      "summary": "חודשים אחרי שהשידוכים המקוריים שלהם ב\"חתונמי\" כשלו, אביתר דנגור שובר שתיקה ומאשר את מה שכולם לחשו עליו ועל ויקי חלמי ברשת: \"כששאלו אותי הכחשתי כי הייתי בעיצומם של שידורים\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21426398",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:22:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1366650",
-      "title": "\"בושה וחרפה\": העונש על התאונה הקטלנית בה נהרג הזוג המאורס שחף דנינו ואליאב אבקסיס",
-      "summary": "סוריה אבו ערר נשלחה ל-7 שנות מאסר לאחר שהורשעה בגרימת מותם של שחף דנינו ואליאב אבקסיס ז\"ל. משפחותיהם זעמו: \"שבע שנים על הריגת שני ילדים? בושה וחרפה\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1366650",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-15T12:21:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1366650",
-      "title": "\"בושה וחרפה\": העונש על התאונה הקטלנית בה נהרג הזוג המאורס",
-      "summary": "סוריה אבו ערר נשלחה ל-7 שנות מאסר לאחר שהורשעה בגרימת מותם של שחף דנינו ואליאב אבקסיס ז\"ל. משפחותיהם זעמו: \"שבע שנים על הריגת שני ילדים? בושה וחרפה\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1366650",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-15T12:21:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tlemzb",
-      "title": "משירת המארש ועד נעילת החג | ראש השנה בחצה\"ק ויז'ניץ",
-      "summary": "צפו בגלריה מרהיבה מראש השנה בחצר הקודש ויז'ניץ | אלפי החסידים שהו בצל האדמו\"ר לימי החג וזכו לשעות נעלות ומרוממות | בערב החג זכו חברי המקהלה להיכנס אל הקו\"פ להשמיע את המארש החדש שהו\"ל לקראת השנה החדשה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tlemzb",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T12:21:23.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1yxokukfx",
-      "title": "\"תיק 7/10\" של משפחות נפגעי הטבח נחשף: \"תוצאה של מדיניות ארוכת שנים\" | ישיר",
-      "summary": "המשפחות מחו על ניצול הטבח במערכת הבחירות, האם נטליה חשפה את השיחה האחרונה של בנה קשת: \"אני פה במתקפה של החיים. אני מת מפחד, כואב לי\". אמה של ליבי שנרצחה בנובה: \"הקונספציה קברה את הבת שלי באדמה, והאשמים ממשיכים בחייהם\". עינב צנגאוקר: \"מתנהל קמפיין בריחה מאחריות\"",
-      "link": "https://www.ynet.co.il/news/article/h1yxokukfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-15T12:21:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21426699",
-      "title": "איון UT בישראל: 430 ק״מ החל מ-116,990 שקל",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/auto/article/21426699",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:21:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21426413",
-      "title": "הישראלים פתחו את הארנק: כמה הוצאנו בערב ראש השנה?",
-      "summary": "היקף הרכישות בכרטיסי חיוב זינק ב-10.3% לעומת ערב החג אשתקד והגיע ל-1.462 מיליארד שקל • ברשתות המזון נרשמה עלייה של 2.3% בלבד, בעוד שבסוכנויות הנסיעות נרשם זינוק של 27.8%",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21426413",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:20:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21426482",
-      "title": "אוליגרך רוסי המקורב לפוטין מימן את חגיגות החתונה של בנו של טראמפ",
-      "summary": "מקורבו של פוטין, העומד בראש איגוד האיגרוף הבינלאומי, שילם מאות אלפי דולרים עבור חגיגות חתונתו של דונלד טראמפ ג׳וניור באיי בהאמה • בני הזוג אישרו את הדברים וטענו כי ״מתנת חתונה היא פשוט מתנת חתונה״ • בין האורחים בחגיגות היה ג׳ארד קושנר, שנפגש בתחילת החודש עם פוטין בקרמלין כשליחו של הנשיא למשא ומתן על אוקראינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21426482",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:19:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21426385",
-      "title": "כשעה בלבד מתל אביב: מסלול, יער ועגלת קפה לכל המשפחה",
-      "summary": "במקום לבזבז שעות יקרות בכבישים העמוסים, גלו את פנינת הטבע של השפלה הדרומית • סיור בין שבילי יער, עצירה בגלידת בוטיק וסיום מושלם ביקב מקומי • כל מה שצריך ליום בלתי נשכח",
-      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21426385",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:19:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tlen7x",
-      "title": "רועדים מטראמפ: הבחירות בארה\"ב מתקרבות - והפחד מהתגובה שלו",
-      "summary": "בחירות האמצע בארצות הברית מתקרבות, ויחד עימן החשש מפני תגובה של טראמפ להפסד צפוי של המפלגה הרפובליקנית, לפחות בבית הנבחרים העומד כולו לבחירה מחדש | מנהלי קלפיות שמתמגנים עם נשק אישי, מיגון מיוחד וכפתורי מצוקה - כך מתכוננים לבחירות המתוחות בתולדות המדינה (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tlen7x",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-15T12:18:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21426033",
-      "title": "זה לא סתם: מאחורי הלוק של קייט מידלטון מסתתר סיפור קורע לב",
-      "summary": "בהופעה מפתיעה לצד הנסיך וויליאם בליברפול, בחרה נסיכת ויילס בפריט תכשיט צנוע שדווקא הוא שגנב את תשומת הלב • מאחורי עגילי הכוכב הקטנים מסתתר סיפור אישי ומרגש, שקשור ישירות למטרה שלשמה הגיעו בני הזוג לאירוע",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21426033",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T12:17:52.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3867920",
-      "title": "בעקבות איומי טראמפ: איראן חסמה בעפר את הכניסות למתקן הגרעיני בהר המכוש",
-      "summary": "תצלומי לוויין חדשים חושפים כי איראן חסמה בערמות עפר את דרכי הגישה למנהרות המערביות בהר המכוש, המתקן התת-קרקעי הסמוך לנתנז. איראן תידרש להסירם בעקבות איומיו של נשיא ארה\"ב דונלד טראמפ לתקוף במקום",
-      "link": "https://news.walla.co.il/item/3867920",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-15T12:17:00.000Z"
     }
   ]
 }
