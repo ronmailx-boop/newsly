@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T02:01:13.298Z",
+  "updatedAt": "2026-09-20T02:16:03.449Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://e.walla.co.il/item/3869005",
+      "title": "אחרי סערת מקלמור: אד שירן מתייחס לראשונה למלחמה בעזה",
+      "summary": "לאחר שמופע החימום שלו הודח מהסיבוב בעקבות התבטאויות פרו-פלסטיניות, אד שירן התייחס במהלך הופעה בפילדלפיה לסערה ולעמדתו בנוגע למלחמה. הוא גינה את טבח 7 באוקטובר ואמר כי \"מה שקורה בעזה הוא קטסטרופלי, בלתי מוצדק ובלתי מידתי\"",
+      "link": "https://e.walla.co.il/item/3869005",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-20T04:25:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21454258",
+      "title": "לא מספיק לצום: יום הכיפורים דורש מאיתנו לתקן את היחסים בינינו",
+      "summary": "אחרי שנים של מחלוקות ומשברים, הדרך לתיקון עוברת דרך מחילה, כבוד ואמון — לא רק בין אדם למקום, אלא גם בין אדם לחברו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21454258",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T01:50:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21455251",
+      "title": "אחריות היא לא רק דרישה מהחיילים שלנו, אלא גם מהמנהיגים שלהם",
+      "summary": "בלתי נסבל לשמוע שוב ושוב \"שנהיה ראויים\" ובאותה עת לראות איך שאלת האחריות הפכה לעניין פוליטי • האחריות אינה מונחת על כתפיו של אדם אחד, את כולם צריך לבדוק • את זה אני לא אומרת כאשת ימין או שמאל, אלא כאמא של חייל שהמדינה דרשה ממנו אחריות מוחלטת",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21455251",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T01:45:03.000Z"
+    },
     {
       "id": "walla:https://news.walla.co.il/item/3868995",
       "title": "טראמפ מקדים את שובו לבית הלבן ביממה; לא נמסרה הסיבה",
@@ -93,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-20T00:23:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21457145",
+      "title": "דיווח: ארה\"ב תערוך מבצע צבאי נרחב נגד החות'ים בתימן",
+      "summary": "בעקבות פגיעות בנמלי תעופה בסעודיה, מחלקת המדינה קראה לאזרחים באזור להיערך לביטולי טיסות והזהירה כי \"העימות עלול להסלים במהירות\" • במקביל דווח ברשת CNN על פעולה צבאית נרחבת, ואזהרות האבטחה חודשו גם בנציגויות ברחבי העולם",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21457145",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-20T00:19:44.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21457145",
@@ -26724,15 +26760,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-15T02:17:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21422579",
-      "title": "מתחמם והופך לחורפי: סיכוי לגשם בסופ\"ש | התחזית המלאה",
-      "summary": "היום ומחר צפוי להיות חם מהרגיל לעונה • ביום חמישי תורגש ירידה קלה בטמפרטורות, אך השינוי האמיתי יגיע בשישי • לקראת סוף השבוע מזג האוויר יהיה קריר מהרגיל וייתכן טפטוף עד גשם מקומי קל בצפון ובמישור החוף",
-      "link": "https://www.israelhayom.co.il/weather/article/21422579",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-15T02:05:09.000Z"
     }
   ]
 }
