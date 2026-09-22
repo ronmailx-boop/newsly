@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:15:54.183Z",
+  "updatedAt": "2026-09-22T05:31:08.448Z",
   "sources": [
     {
       "key": "ynet",
@@ -48,6 +48,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-22T08:29:00.000Z"
+    },
+    {
+      "id": "walla:https://news.walla.co.il/item/3869204",
+      "title": "יום הכיפורים תשפ\"ז: נרשמה איכות אוויר טובה מאוד בכל רחבי הארץ",
+      "summary": "במהלך החג ניכר שיפור באיכות האוויר במרכזי הערים, כך מצביעים נתוני רוב תחנות הניטור של המשרד להגנת הסביבה הפזורות ברחבי הארץ. הנתונים הללו מראים את ההשפעה הישירה של התחבורה על איכות האוויר, בעיקר בערים הגדולות",
+      "link": "https://news.walla.co.il/item/3869204",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-22T08:13:00.000Z"
     },
     {
       "id": "walla:https://news.walla.co.il/item/3869178",
@@ -104,6 +113,42 @@
       "pubDate": "2026-09-22T06:00:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlr2b5",
+      "title": "גל האנטישמיות בקנדה: בן 19 נעצר בחשד שתכנן לבצע פיגוע ירי בבית כנסת",
+      "summary": "כוחות המשטרה באונטריו עצרו את אלכסנדר פארפיט שהפיץ איומים ברשת לפגוע במקום תפילה יהודי • ראשת העיר למתפללים: \"אתם לא לבד, איום על בית תפילה הוא איום על כולנו\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tlr2b5",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T05:29:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1369398",
+      "title": "מצב כמעט בלתי אפשרי בבנימין: \"זה היה צפוי, ברור שחמאס ינסה להבעיר את השטח\"",
+      "summary": "עמוס הראל ('הארץ') וד\"ר מיכאל מילשטיין, מרכז דיין באוני' ת\"א, התראיינו ב-103FM בנוגע לפיגוע הרצחני בבנימין, שבו נרצח נתנאל שקרון ז\"ל: \"הרושם הוא שמדובר במחבל בודד, אבל ברור שחמאס ינסה להבעיר את השטח\"",
+      "link": "https://www.maariv.co.il/news/military/article-1369398",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-22T05:24:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bk3ett15gx",
+      "title": "\"רעיון גרוע\" מול \"בגידה\": המחלוקת בצבא האמריקני שקדמה לביטול התקיפה בתימן",
+      "summary": "רשת NBC חשפה את הוויכוחים בצמרת צבא ארה\"ב בנוגע להתערבות במערכה בין סעודיה למורדים החות'ים. החלטת טראמפ על ביטול המתקפה התקבלה פחות משלוש שעות לפני ביצועה. השיחה עם בן סלמאן ששינתה את דעתו של הנשיא, עד שהתהפך שוב - והצעד שעליו הודיעה בריטניה",
+      "link": "https://www.ynet.co.il/news/article/bk3ett15gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-22T05:21:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1369396",
+      "title": "בגדאד מציבה קו אדום למיליציות הפרו-איראניות: עד יוני 2027",
+      "summary": "ראש ממשלת עיראק מציג מתווה שאפנתי ביותר לפירוק המיליציות הפרו-איראניות במדינה עד יוני 2027. במקביל, בגדאד מתמודדת עם פגיעה חריפה ביצוא הנפט ועם לחץ גובר מצד ארה\"ב ואיראן",
+      "link": "https://www.maariv.co.il/news/world/article-1369396",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-22T05:20:55.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1369399",
       "title": "אפילו ביידן לא ירד לשם: טראמפ שבר את השיא - והגיע לשפל חדש בקריירה",
       "summary": "סקר חדש בארה\"ב מציב את טראמפ על 32% תמיכה, הנתון הנמוך ביותר בקריירה שלו. גם בתוך הבייס נרשמת ירידה, כשברקע יוקר המחיה, המלחמה באיראן ובחירות האמצע",
@@ -120,6 +165,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-22T05:04:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21461507",
+      "title": "בגלל יום כיפור: נבחרות ישראל רשמו הפסד טכני באולימפיאדה",
+      "summary": "נבחרות הגברים והנשים של הולנד ובולגריה בהתאמה סירבו להזיז את מפגשיהן עם ישראל במהלך אולימפיאדת השחמט, מה שהוביל להפסד טכני • יו\"ר האיגוד האשים את הפדרצייה העולמית: \"זה סוכם בכתב לפני שישה חודשים, היא חששה מתגובות שליליות וגרמה לנו לנזק משמעותי\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21461507",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T05:02:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21461529",
+      "title": "רק לילה קודם נכנס לגמילה: פרטים חדשים על מות בנה של דוגמנית העל",
+      "summary": "יומיים לאחר מותו של פרסלי גרבר, בנה של סינדי קרופורד, שכן המתגורר סמוך למכון הגמילה סיפר על התנגדות התושבים לפעילותו • המתחם היוקרתי כולל קולנוע, חדר כושר וארוחות שמכין שף",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21461529",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T04:58:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21461529",
@@ -642,6 +705,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-21T23:44:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21461255",
+      "title": "***",
+      "summary": "***",
+      "link": "https://www.israelhayom.co.il/weather/article/21461255",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-21T23:34:41.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21461255",
@@ -1218,6 +1290,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-21T19:31:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21460681",
+      "title": "אחרי הברקס מטראמפ: הצעד שהסעודים בוחנים",
+      "summary": "החות'ים מאיימים ב\"מצור תמורת מצור\" ודורשים את פתיחת הנמלים ושדות התעופה • במקביל נמשכים המאמצים לחדש את המגעים בין איראן לארה\"ב בתיווך קטאר • טראמפ לא שלל פגישה עם נשיא איראן בעצרת האו\"ם",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21460681",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-21T19:28:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21460681",
@@ -17850,78 +17931,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T05:40:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84885",
-      "title": "ישראל ומרוקו משדרגות יחסים: שגרירויות וטיסות ישירות",
-      "summary": "שר החוץ גדעון סער נפגש בניו יורק עם שר החוץ המרוקני נאסר בוריטה וסיכמו על שדרוג הנציגויות לשגרירויות ומינוי שגרירים. בנוסף הוחלט על הרחבת הטיסות הישירות כולל חברת התעופה המרוקנית, חתימת שני הסכמים כלכליים עד סוף 2026 וביקורים בדרג בכיר. סער: \"היחסים בין ישראל למרוקו חשובים לטובת שני העמים\".",
-      "link": "https://www.kikar.co.il/scoop-news/84885",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-17T05:20:09.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3868411",
-      "title": "בשל סירוב ויזה: אבו מאזן (שוב) לא ישתתף בעצרת האו\"ם",
-      "summary": "האייטם המלא:",
-      "link": "https://news.walla.co.il/item/3868411",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-17T05:17:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368261",
-      "title": "קנדה בדרך לאירופה? המהלך החדש שהקפיץ את טראמפ",
-      "summary": "אורסולה פון דר ליין הציעה להעניק לקנדה מעמד חסר תקדים של \"חברה נלווית\" באיחוד האירופי. טראמפ הגיב באיום במכסים כבדים, בעוד אוטווה ובריסל בוחנות העמקה דרמטית של הקשרים.",
-      "link": "https://www.maariv.co.il/news/world/article-1368261",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368261",
-      "title": "לא המדינה ה-51: קנדה בוחנת מהלך חסר תקדים עם אירופה",
-      "summary": "אורסולה פון דר ליין הציעה להעניק לקנדה מעמד חסר תקדים של \"חברה נלווית\" באיחוד האירופי. טראמפ הגיב באיום במכסים כבדים, בעוד אוטווה ובריסל בוחנות העמקה דרמטית של הקשרים.",
-      "link": "https://www.maariv.co.il/news/world/article-1368261",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368262",
-      "title": "נתניהו בדרך לניו יורק - וממדאני פתאום משנה את המסר",
-      "summary": "לאחר חודשים של מתקפות חריפות נגד נתניהו, זוהרן ממדאני מבהיר כי לא ישתתף בהפגנות נגדו בניו יורק. לדבריו, מעולם לא קרא לתושבים לצאת למחאה",
-      "link": "https://www.maariv.co.il/news/world/article-1368262",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368262",
-      "title": "נתניהו בדרך לניו יורק - וממדאני משנה את המסר",
-      "summary": "לאחר חודשים של מתקפות חריפות נגד נתניהו, זוהרן ממדאני מבהיר כי לא ישתתף בהפגנות נגדו בניו יורק. לדבריו, מעולם לא קרא לתושבים לצאת למחאה",
-      "link": "https://www.maariv.co.il/news/world/article-1368262",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368262",
-      "title": "נתניהו בדרך לניו יורק - וממדאני פתאום משנה את הטון",
-      "summary": "לאחר חודשים של מתקפות חריפות נגד נתניהו, זוהרן ממדאני מבהיר כי לא ישתתף בהפגנות נגדו בניו יורק. לדבריו, מעולם לא קרא לתושבים לצאת למחאה",
-      "link": "https://www.maariv.co.il/news/world/article-1368262",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1368262",
-      "title": "אחרי שאיים לעצור את נתניהו: ממדאני משנה כיוון",
-      "summary": "לאחר חודשים של מתקפות חריפות נגד נתניהו, זוהרן ממדאני מבהיר כי לא ישתתף בהפגנות נגדו בניו יורק. לדבריו, מעולם לא קרא לתושבים לצאת למחאה",
-      "link": "https://www.maariv.co.il/news/world/article-1368262",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-17T05:16:17.000Z"
     }
   ]
 }
