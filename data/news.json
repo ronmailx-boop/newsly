@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T15:01:14.790Z",
+  "updatedAt": "2026-09-22T15:15:58.329Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-22T15:09:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlrqf4",
+      "title": "טראמפ באו\"ם: \"אני מקווה שאירופה יודעת שאיראן יכולה להגיע אליהם; יש לי החלטה לקבל\"",
+      "summary": "נשיא ארה\"ב דונלד טראמפ נאם היום בעצרת השנתית של האו\"ם כמדינה המארחת, מיד אחרי נשיא ברזיל לולה | הנשיא התייחס לנושא המלחמה באיראן, הזכיר את השבעה באוקטובר, והילל את מצבה של ארה\"ב תחת נשיאותו | נשיא ארה\"ב: \"יש לי החלטה חשובה לקבל בנוגע לאיראן\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tlrqf4",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T15:05:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1369654",
+      "title": "לינור ששון נבדקה ע\"י רופא - ואושפזה: \"מטעם צנעת הפרט - לא נפרט\"",
+      "summary": "העצורה לינור ששון נבדקה על ידי רופא שב\"ס שהפנה אותה להמשך בירור רפואי. היא נלקחה ברכב שב\"ס להמשך בירור רפואי בבית החולים אסף הרופא, שם הוחלט על אשפוזה. בשבוע שעבר נקבע כי היא תישאר במעצר",
+      "link": "https://www.maariv.co.il/news/law/article-1369654",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-22T15:00:14.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1369653",
@@ -86,6 +104,15 @@
       "pubDate": "2026-09-22T14:53:04.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21466151",
+      "title": "מי ידידה של ארה\"ב? הסקר של CNN - והמיקום של ישראל | הרשימה המלאה",
+      "summary": "סקר CNN שבחן את עמדות האמריקאים באשר למספר מדינות מצא כי רק 34% מחשיבים את ישראל לבעלת ברית • עוד בסקר: בצל העימות, התמיכה בקנדה מתרסקת, והבדלנות מתגברת",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21466151",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:52:31.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tyler-oliveira-hasidic-fraud-allegations",
       "title": "כבר 10 מיליון צפו: היוטיובר פרסם סרטון מסית נגד חרדים בערב יום כיפור",
       "summary": "זמן קצר לפני כניסת צום יום כיפור, פרסם היוטיובר סרטון העוסק במוסדות חרדיים בניו יורק וצבר מיליוני צפיות. הסרטון מציג האשמות על הונאה לכאורה בתוכניות סבסוד ממשלתיות, זאת מספר חודשים לאחר שמדינת ישראל מנעה את כניסתו וגירשה אותו מנתב\"ג עקב פעילותו המסיתה (חרדים, בעולם)",
@@ -93,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-22T14:51:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21465757",
+      "title": "לא רק תוספת בצד: 6 רטבים ששווה להזמין מנה שלמה רק בשבילם",
+      "summary": "הם מתוקים, חריפים, מעושנים, מותססים ולפעמים קצת מכל דבר • מהטופי היפני שמלווה את הבשר בהדסון ועד תפריט הרטבים השלם של לאקי צ'יקן: אלה הרטבים שהופכים למנה בפני עצמם",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21465757",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:50:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21466504",
+      "title": "בגיל 6 חייו ניצלו בישראל - 14 שנה אחרי ג'וליוס חזר לוולפסון",
+      "summary": "בגיל 6 הוא טס מטנזניה לישראל לניתוח שיציל את חייו • השבוע, 14 שנה אחרי, ג'וליוס חזר לוולפסון לניתוח נוסף ופגש שוב את המקום והצוות שליוו אותו מאז ילדותו",
+      "link": "https://www.israelhayom.co.il/health/article/21466504",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:50:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/davar-rishon/tlreo2",
@@ -113,6 +158,15 @@
       "pubDate": "2026-09-22T14:44:19.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tlrskn",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 18:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 18:00 (כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tlrskn",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T14:43:01.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/tlrqf4",
       "title": "\"יש לי החלטה קשה לקבל כעת, להשמיד את איראן ולשלוח אותה לגיהינום - או שיהיה הסכם\"",
       "summary": "נשיא ארה\"ב דונלד טראמפ פתח כעת את נאומו בעצרת השנתית של האו\"ם | הנשיא צפוי להתייחס להאשמה של האו\"ם סביב המלחמה באיראן, המצב במצרי הורמוז וסוגיות מדיניות בוערות | צפו בשידור החי (בעולם)",
@@ -131,6 +185,24 @@
       "pubDate": "2026-09-22T14:40:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21466477",
+      "title": "אחרי 23 שנים: הקניון המפורסם במרכז ייהרס ויקום מחדש",
+      "summary": "המבנה הסגור והמוכר של קניון ארנה עומד לפנות מקום למהלך של כ-200 מיליון שקל: שבעה מבנים עצמאיים, רחבות פתוחות וחיבור ישיר בין העיר, המרינה והים • היתר ההריסה כבר התקבל, והעבודות יוצאות לדרך כבר באוקטובר",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21466477",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:39:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21466258",
+      "title": "אחת הנאשמות המרכזיות ברצח בניהו רזי אושפזה בבית החולים",
+      "summary": "לינור ששון חשה ברע, נבדקה על ידי רופא שב\"ס והופנתה לבית חולים אסף הרופא • במיון הוחלט לאשפזה, והיא תאובטח שם על ידי משטרת ישראל",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21466258",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:37:40.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1369642",
       "title": "דונלד טראמפ בעצרת האו\"ם: \"יש לי החלטה לקבל - האם להשמיד את הרפובליקה האיסלמית\"",
       "summary": "במהלך ישיבת מועצת האו\"ם בניו יורק, נשיא ארה\"ב דונלד טראמפ נשא דברים, ביניהם התייחס למצבה של ארה\"ב - ואיראן: \"אנחנו פותרים בעיות לא סגורות\"",
@@ -138,6 +210,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-22T14:36:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21466320",
+      "title": "כולל דמיאן לילארד: כוכבי ה-NBA שסומנו כפחות טובים מדני אבדיה",
+      "summary": "ESPN פרסמה את החצי התחתון ברשימת 100 השחקנים הכי טובים בליגה • הישראלי צפוי להיכלל ב-50 הראשונים, המקומות של חבריו מפורטלנד טרייל בלייזרס נחשפו • השמות הגדולים והרשימה המלאה בפנים",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21466320",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T14:34:52.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tlrqf4",
@@ -867,6 +948,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-22T12:55:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21465423",
+      "title": "טראמפ: \"איראן בנתה טיל שיכול להגיע לאירופה - מקווה שאתם מבינים את זה\"",
+      "summary": "טראמפ באו\"ם: \"אם איראן לא תעשה עסקה - אשמיד את הרפובליקה האסלאמית\" • הדיון הכללי נפתח היום בניו יורק, ובמוקדו נאומו של טראמפ כדובר השני אחרי נציג ברזיל • לפניו נפרד המזכ\"ל גוטרש בנאומו האחרון, בעוד המרוץ להחליפו טרם הוכרע ואף מועמד לא השיג פריצת דרך • בהמשך השבוע ינאמו פזשכיאן, אבו מאזן בווידאו ונתניהו, שיגיע לגיחה בת 24 שעות בלי פגישה עם הנשיא",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21465423",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-22T12:53:20.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21465423",
@@ -17958,51 +18048,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-17T15:16:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21445927",
-      "title": "קַוִּים לְשָׁנָה חֲדָשָׁה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/opinions/article/21445927",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T15:15:35.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlikfi",
-      "title": "ימי חג לילדי בני ברק; התרנגולים הגיעו לעיר, והתושבים יצאו לקיים את מנהג הכפרות",
-      "summary": "המוני תושבי בני ברק יוצאים בימים אלו לקיים מנהג כפרות למהדרין ברחובה של עיר | עם סיום המנהג, נעמדים התושבים בתור לשוחטים יראי שמים העומדים על משמרתם ושוחטים את העוף בהידור, ואת הבשר יחלקו לעניים | שוקי לרר עם תיעוד שמכניס אתכם לאווירת יום הכיפורים (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tlikfi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-17T15:12:38.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3868570",
-      "title": "חשבון נפש: ממי חברי הכנסת שלנו צריכים לבקש סליחה?",
-      "summary": "מארק, פעיל בישראל ביתנו, סבור כי על חברי הממשלה לבקש סליחה מתושבי העוטף. נוף מצעירי הליכוד מאמין שבנט חייב לכפר על הקמת קואליציה עם מנסור עבאס, ורז מלכה מקריית שמונה, מייסד לובי 1701, סבור כי כל 120 הח\"כים צריכים להתנצל בפני תושבי הצפון | הקול הבא, פרק 7",
-      "link": "https://news.walla.co.il/item/3868570",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-17T15:10:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21446131",
-      "title": "לקראת גיל 75: המחווה המיוחדת לירדנה ארזי",
-      "summary": "לרגל יום הולדתה ה-75 של ירדנה ארזי, בספארי ברמת גן החליטו לציין את המאורע במחווה שמחברת בין הזמרת, המקום שהיא מכירה כבר שנים והאהבה שלה לבעלי חיים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21446131",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T15:08:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sjcuuoftfl",
-      "title": "מסחרית מטעם איזנקוט הגיעה לאירוע של הליכוד והשוטרים הורו: \"תמשיך ישר\"",
-      "summary": "מאות תומכים הגיעו להרמת כוסית של הליכוד בהשתתפות נתניהו, שהוצג באירוע ככוכב היחיד ואף אחד משריו לא הוזכר. סלוגן \"הניצחון המוחלט\" נשכח, \"נתניהו לא נכנע\" החליף אותו על הכובעים. לפני תחילת האירוע הוצב בחוץ רכב עם מסכים ועליהם סיסמאות מתחלפות מהקמפיין של \"ישר!\": \"רק ביבי יתעלם מהאזהרות\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sjcuuoftfl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-17T15:04:24.000Z"
     }
   ]
 }
