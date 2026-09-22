@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:48:58.024Z",
+  "updatedAt": "2026-09-22T13:01:18.445Z",
   "sources": [
     {
       "key": "ynet",
@@ -149,6 +149,33 @@
       "pubDate": "2026-09-22T13:11:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlrni5",
+      "title": "החגיגה מתחילה: טראמפ מתחיל בקרוב את נאומו בעצרת הכללית; נתניהו ביום חמישי",
+      "summary": "נשיא ארה\"ב דונלד טראמפ צפוי לנאום בפני העצרת הכללית של האו\"ם בשעות אחר הצהריים (שעון ישראל) | ארה\"ב צפויה לחתום על הסכם היסטורי עם דנמרק וגרינלנד, ואף פתוחה לקיים שיחות פנים מול פנים עם המשטר האיראני | 130 מנהיגים מתכנסים לאירוע הגדול של השנה בניו יורק, זה מה שצפוי (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tlrni5",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T12:57:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/tlrn5w",
+      "title": "אפי נווה בתביעת ענק כנגד שלטי הענק נגדו: \"שירותי הפצת לשון הרע לבעלי ממון\"",
+      "summary": "אפי נוה הגיש תביעה נגד אלכס סקלר, יועץ הקמפיינים רונן צור, חברות שילוט וחברות תחבורה ציבורית, בטענה כי לקחו חלק בקמפיין חוצות שנוהל נגדו (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/tlrn5w",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T12:49:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tax-inspectors-bnei-brak-denial-sukkot-market",
+      "title": "שוב פקחי מס בבני ברק? רשות המסים מכחישה: \"לא מכירים ביקורת שהתקיימה היום\"",
+      "summary": "דיווחים על פקחי מס הכנסה באזור שוק ארבעת המינים בשיכון ויז'ניץ • ברשות המסים: 'איננו מכירים פעילות ביקורת שהתקיימה היום' | מאשרים פעילות אכיפה כללית לקראת החג (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tax-inspectors-bnei-brak-denial-sukkot-market",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T12:48:01.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tlrmt5",
       "title": "גם הרבי חטף מכות; צפו בתיעוד כשהרבי כרע והחסיד הצליף על גבו עם חגורת עור",
       "summary": "באווירת קדושה והוד זכו חסידי לעלוב לעבור לפני האדמו\"ר בערב יום הקדוש כדי לקבל מיני מזונות | לאחר סיום מעבר הקהל, הצליף אחד מחשובי החסידים על גבו של האדמו\"ר 39 מלקות באמצעות חגורת עור כנהוג תוך שהאדמו\"ר אומר פסוק 'והוא רחום יכפר עוון' | שוקי לרר מגיש תיעוד (חסידים)",
@@ -174,6 +201,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-22T12:42:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlrmie",
+      "title": "הגזרה מתחממת: המדינה ששולחת את מפלצת התדלוק שלה למזרח התיכון",
+      "summary": "מדינה אירופאית הודיעה כי תסייע לממלכה האחות סעודיה במלחמתה נגד החות'ים, באמצעות סיוע אותו כינתה \"הגנתי\" בשליחת מטוס התדלוק המתקדם ביותר בו מחזיק הצי האווירי שלה (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tlrmie",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-22T12:38:10.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tlrmie",
@@ -17904,123 +17940,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-17T13:03:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21444267",
-      "title": "הקבוצה מליגת העל במהלך מפתיע: מחלקת מנוי לשנה בוולט+ בחינם",
-      "summary": "בני סכנין השיקה הסכם חסות עם אפליקציית המשלוחים הפופולרית והאוהדים מרוויחים • \"אתם יכולים להזמין מה שאתם רוצים, כמה שאתם רוצים ואיפה שאתם רוצים - בחינם\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21444267",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:59:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21444469",
-      "title": "מכבי נתניה סימנה רכש ישראלי - אלו הפערים בין הצדדים",
-      "summary": "היהלומים, שהיו הפעילים ביותר ביום האחרון של חלון ההעברות, מכוונים להמשיך לפעול בשוק החופשי וסימנו את יהב גורפינקל, ששוחרר מא.א.ק לרנקה • בין הצדדים עדיין ישנם פערים בנושא השכר, אך במועדון מודים כי הם רואים בו שחקן שיכול להיות משמעותי מאוד.",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21444469",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:58:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/tlieel",
-      "title": "סוער בבני ברק: עימות קולני התפתח בין העובדים להנהלה - אלו הטענות שלהם",
-      "summary": "עימות סוער התפתח היום במהלך כינוס של ועד העובדים בעיריית בני ברק, לאחר שהתברר כי תנאי השכר של עובדי העירייה צפוי להיפגע | התיעודים מהפגישה המתוחה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/tlieel",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-17T12:58:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21444395",
-      "title": "35 מיליון דולר: טרוויס קלסי נקלע לפרשה",
-      "summary": "פרשת ענק שהתנהלה במשך שנים הגיעה השבוע לגזר דין, ובין השמות שעלו במסמכים הופיע גם כוכב קנזס סיטי צ'יפס. עכשיו מתברר מה היה החלק שלו בסיפור",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21444395",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:57:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21444385",
-      "title": "הכוכב שעלול לפגוע בדני אבדיה - בכלל לא מתאים לפורטלנד",
-      "summary": "בארצות הברית ממשיכים להתעסק בסיטואציה המורכבת אצל הטרייל בלייזרס לפני העונה, והסבירו על כיצד ההחלטה של ג'ה מוראנט תהווה בעיה: \"במקום להקיף את הישראלי בשחקנים משלימים, הם בחרו להוסיף כישרון ולדאוג להתאמה אחר כך\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21444385",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:55:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21444385",
-      "title": "הכוכב שעלול לפגוע בדני אבדיה - ובכלל לא מתאים לפורטלנד",
-      "summary": "בארצות הברית ממשיכים להתעסק בסיטואציה המורכבת אצל הטרייל בלייזרס לפני העונה, והסבירו על כיצד ההחלטה של ג'ה מוראנט תהווה בעיה: \"במקום להקיף את הישראלי בשחקנים משלימים, הם בחרו להוסיף כישרון ולדאוג להתאמה אחר כך\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21444385",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:55:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "title": "לאנס סטרול צריך להתכונן: יעל שלביה מתכוננת להיות הגברת הראשונה",
-      "summary": "כשהיא מלווה בחליפה מחויטת, כפפות עור וכובע ייצוגי, היא נכנסת לאולפן של שמעון ולימור • יעל שלביה מגלמת את אשת ראש הממשלה הבא בסקצ' חדש ב\"רק בישראל\" • מה קרה כשהעזו לשאול אותה מה שלומה?",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:54:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "title": "אשת ראש הממשלה: יעל שלביה שלחה מסר מפתיע ללאנס סטרול",
-      "summary": "כשהיא מלווה בחליפה מחויטת, כפפות עור וכובע ייצוגי, היא נכנסת לאולפן של שמעון ולימור • יעל שלביה מגלמת את אשת ראש הממשלה הבא בסקצ' חדש ב\"רק בישראל\" • מה קרה כשהעזו לשאול אותה מה שלומה?",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:54:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "title": "בזמן שלאנס סטרול על המסלול: יעל שלביה מתכוננת להיות אשת ראש הממשלה",
-      "summary": "כשהיא מלווה בחליפה מחויטת, כפפות עור וכובע ייצוגי, היא נכנסת לאולפן של שמעון ולימור • יעל שלביה מגלמת את אשת ראש הממשלה הבא בסקצ' חדש ב\"רק בישראל\" • מה קרה כשהעזו לשאול אותה מה שלומה?",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21444403",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:54:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "title": "החל ממחר: המוצר המבוקש שחוזר ל''יוחננוף'' - במחיר שלא קיים",
-      "summary": "רשת הקמעונאות תמכור החל ממחר את אוזניות AirPods 4 של אפל ב-369 שקלים בלבד ביבוא מקביל • באילו סניפים תוכלו למצוא אותן, ואיך המחיר מתחרה מול שאר הרשתות בשוק? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:49:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "title": "רשת יוחננוף מחזירה את המוצר המבוקש - במחיר שלא הכרתם",
-      "summary": "רשת הקמעונאות תמכור החל ממחר את אוזניות AirPods 4 של אפל ב-369 שקלים בלבד ביבוא מקביל • באילו סניפים תוכלו למצוא אותן, ואיך המחיר מתחרה מול שאר הרשתות בשוק? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:49:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "title": "בחלק מהסניפים: יוחננוף מחזירה את המוצר המבוקש - במחיר שלא הכרתם",
-      "summary": "רשת הקמעונאות תמכור החל ממחר את אוזניות AirPods 4 של אפל ב-369 שקלים בלבד ביבוא מקביל • באילו סניפים תוכלו למצוא אותן, ואיך המחיר מתחרה מול שאר הרשתות בשוק? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21444378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-17T12:49:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/84953",
-      "title": "תאונת דרכים בטבריה: אישה במצב בינוני ושני פצועים קל",
-      "summary": "תאונת דרכים בין שני כלי רכב התרחשה ברחוב המשור בטבריה. צוותי מד\"א פינו למרכז הרפואי פוריה אישה בת 68 במצב בינוני עם חבלות בראש ובגפיים, ושני פצועים נוספים במצב קל.",
-      "link": "https://www.kikar.co.il/scoop-news/84953",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-17T12:48:59.000Z"
     }
   ]
 }
