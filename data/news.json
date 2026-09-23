@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T19:15:52.819Z",
+  "updatedAt": "2026-09-23T19:31:02.054Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1jyscbcfx",
+      "title": "הירידה במקרי הרצח בחברה הערבית - וזעקת הסבתא שאיבדה 3 נכדים",
+      "summary": "מתחילת השנה נרצחו בחברה הערבית 16 בני אדם פחות מאשר בתקופה המקבילה בשנה שעברה. במשטרה אמרו כי הסיבה היא המאבק בארגוני הפשיעה: \"שמנו להם גבול\". אבל רק בטמרה נפצעו תוך יומיים 8 מירי. אום עומר, ששלושה מנכדיה נרצחו ונשרפו: \"אני נכנסת למיטות שלהם ולא מוצאת אף אחד המצב הנפשי שלי קשה\"",
+      "link": "https://www.ynet.co.il/news/article/s1jyscbcfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T19:28:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tlu035",
+      "title": "\"השיגו מידע על אלפי עובדים\": האקרים ידועים לשמצה פרצו למערכות FBI",
+      "summary": "קבוצת האקרים טוענת כי השיגה מידע על אלפי עובדי הבולשת האמריקאית, כולל פרטים אישיים ושיוכים ליחידות רגישות העוסקות באיראן וחיזבאללה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tlu035",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T19:23:31.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk00qg5z9me",
+      "title": "העולם לא רוצה לשמוע, ונתניהו ידבר לישראלים: הנאום באו\"ם, והמחאה הצפויה",
+      "summary": "בלי פגישה עם טראמפ, בלי מסרים אופטימיים: בביקור הקצרצר בניו יורק רה\"מ צפוי להיפגש עם נשיא ארגנטינה ועם הידיד החדש של ישראל באירופה, באו\"ם הוא ייתקל באווירה עוינת מתמיד - וגם מחוץ לאולם צפויות הפגנות סוערות",
+      "link": "https://www.ynet.co.il/news/article/rk00qg5z9me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T19:19:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85448",
+      "title": "הולכת רגל בת 13 נפגעה בתאונה באשקלון - מצבה בינוני",
+      "summary": "הולכת רגל בת 13 נפגעה מרכב ברחוב יצחק רבין באשקלון. צוותי איחוד הצלה העניקו לה טיפול רפואי בזירה, והיא פונתה לבית החולים ברזילי כשמצבה מוגדר בינוני.",
+      "link": "https://www.kikar.co.il/scoop-news/85448",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T19:16:15.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21475854",
       "title": "פער של 8 שנים: הזוגיות החדשה של יוצאת \"האח הגדול\"",
@@ -336,6 +372,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T17:29:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/sukkot-joy-finding-happiness",
+      "title": "איך אפשר לשמוח בחג כשבפנים הכל שבור? התשובה המיוחדת של המרצה",
+      "summary": "בשיעור מיוחד לחג הסוכות הרב יואב אקריש נכנס לעומק המשמעות של \"זמן שמחתנו”, ושואל שאלה שכל אחד פוגש ברגעים מסוימים בחיים: מאיפה מוצאים בתוכנו שמחה כשאין שום סיבה נראית לעין לשמוח? (יהדות)",
+      "link": "https://www.kikar.co.il/haredim-news/sukkot-joy-finding-happiness",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:29:30.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21475546",
@@ -19857,15 +19902,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-18T19:34:23.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/by7zyfiffl",
-      "title": "טראמפ מסלים את המלחמה בתקשורת: אוסר על CNN ורשתות נוספות להיכנס לבית הלבן",
-      "summary": "נשיא ארצות הברית הודיע על חסימה מיידית של כלי התקשורת CNN, MSNOW ופוליטיקו מכניסה לבית הלבן. בהודעה שפרסם האשים את גופי התקשורת כי הם מוטים באופן עקבי נגד הממשל שלו: \"הדיווחים שלהם מחליאים אותי\"",
-      "link": "https://www.ynet.co.il/news/article/by7zyfiffl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-18T19:25:14.000Z"
     }
   ]
 }
