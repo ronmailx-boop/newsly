@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:01:17.586Z",
+  "updatedAt": "2026-09-23T13:16:11.895Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sypmvrbcgg",
+      "title": "בג\"ץ: נכריע בעתירות הדורשות ועדת חקירה ממלכתית למחדל 7/10 - אחרי הבחירות",
+      "summary": "הממשלה, לפי ההחלטה, תמסור הודעת עדכון בנוגע להקמת ועדת חקירה עד ל-15 בינואר, כלומר לאחר הבחירות. כבר באפריל הציע בג\"ץ להימנע מהכרעה ולאפשר לציבור להביע עמדה ביום הבחירות: \"יכול להתקבל הרבה יותר טוב בדעת הקהל\"",
+      "link": "https://www.ynet.co.il/news/article/sypmvrbcgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T13:09:46.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1nmivbqge",
+      "title": "בשביל סרטון: נערים תיעדו את עצמם תוקפים עובד זר עם גז פלפל",
+      "summary": "שני נערים, בני 14 ו-15 מבני ברק, פרסמו בטיקטוק סרטון שבו הם מתיזים גז פלפל לעבר עובד זר - והתרברבו כי לא יעשו להם כלום. לאחר הפצת התיעוד, הם נעצרו",
+      "link": "https://www.ynet.co.il/news/article/b1nmivbqge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T13:09:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369992",
+      "title": "שורשים באוויר: בין ונציה לכיתת הלימוד | שירה פרץ",
+      "summary": "ה\"גשר\" בין יום כיפור לסוכות דוחק לא פעם את החג לשולי ההוראה. דווקא משום כך, סוכות יכול לשמש הזדמנות חינוכית להכיר את מגוון המסורות, השורשים והקולות שמרכיבים את החברה הישראלית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1369992",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T13:03:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21472617",
+      "title": "היום איזנקוט הוא המלך. מחר גם הוא ייבעט בוולה",
+      "summary": "אם איזנקוט רוצה לדעת מה צפוי להיות גורלו, מומלץ לו להסתכל על בני גנץ, ועל בנט, ועל לפיד, ועל הרצוג • בכל פעם מושח השמאל מלך חדש שתפקידו לשים כבר סוף לביבי הזה, ואחרי האכזבה הוא משוגר למיחזורית כדי לפנות מקום למלך החדש",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21472617",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:59:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21473362",
+      "title": "דרמה בוועדת הבחירות: רע\"מ נפסלה מהתמודדות; ההערכה - בג\"ץ יתערב",
+      "summary": "ועדת הבחירות המרכזית קיבלה את עתירת פורום \"בוחרים בחיים\" ופסלה את רשימת רע\"מ ברוב מוחץ • ההחלטה התקבלה על בסיס תחקיר המצביע על קשרים בין המפלגה לעמותות טרור • עם זאת, ההערכות במערכת הן כי בג\"ץ צפוי לפסול את החלטת הוועדה ולאפשר למפלגה להתמודד",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21473362",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:58:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21472923",
+      "title": "במינימום בגדים: האקסים המיתולוגיים תועדו כשהם צמודים במיוחד",
+      "summary": "אחרי הזוגיות הפוטוגנית והפרידה, רומי פרנקל וברק שמיר נפגשו לצילומים נועזים. האם יהיה קאמבק?",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21472923",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:55:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/elections-committee-disqualifies-raam-party",
       "title": "החלטה דרמטית: ועדת הבחירות פסלה את רע״מ מלהתמודד: 18 בעד, 5 נגד",
       "summary": "הוועדה קיבלה את העתירה נגד רע\"מ שכללה מחקר של למעלה מ-1,000 עמודים שהצביעו על קשרים לטרור | היועמ״ש התנגדה למרות הראיות | בג\"ץ צפוי להפוך את ההחלטה? (פוליטי מדיני)",
@@ -50,6 +104,24 @@
       "pubDate": "2026-09-23T12:54:27.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21473144",
+      "title": "הוליכה את ישראל שולל - ומתחילה לשלם את המחיר",
+      "summary": "הניסיונות של קטאר לחמוק מאחריותה לטבח 7 באוקטובר הם סימן חיובי • אחרי שנים רבות שבהן הציג את עצמו כמתווך, המשטר הקטארי נכנס לעמדת מגננה • ממשלות ישראל אכן אחראיות למחדל האסטרטגי, אבל מי שהונה אותן ואפשר את הרכבת מכונת הטרור של חמאס היא האמירות הקטארית • בסכום של יותר ממיליארד דולר, הנסיכות בנתה ומימנה את עזה עילית, בעוד לחמאס התפנו תקציבי עתק למנהרות, לנשק ולאימוני צבא של מחבלים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21473144",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:52:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21473175",
+      "title": "ישראלית פתחה חבילה מאתר אופנה מוכר - ומצאה מסר פרו-פלסטיני",
+      "summary": "לקוחה ישראלית הזמינה תיק יוקרתי מאתר אופנה בינלאומי שמוכר היטב לקונות בישראל, אבל כשפתחה את החבילה גילתה כתובות נאצה נגד ישראל על טופס ההחזרה הרשמי של החברה • מה ענו לה בשירות הלקוחות, ומה החליטה לעשות עם התיק",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21473175",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:51:45.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/telzstone-charity-funds-petition-controversy",
       "title": "בגלל כספי צדקה: טלז סטון סוערת והתושבים פתחו עצומה נגד ראש המועצה",
       "summary": "תושבים פתחו עצומה הקוראת להעביר כספי תמיכות לקופות צדקה • מ\"מ ראש המועצה שיגר מכתב חריף: 'הקופות קורסות תחת הנטל' | המחלוקת סביב התקציב (חרדים)",
@@ -57,6 +129,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-23T12:50:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21473040",
+      "title": "בלי תואר ובלי קוד: התפקיד הכי חם בהייטק הישראלי",
+      "summary": "בזמן שמפתחי תוכנה והמהנדסים סופגים בלימה כואבת עם ירידה של עד 9% בביקושים, דווקא תחום התשתיות מזנק נגד המגמה עם עלייה של 20% במשרות הפנויות • נתוני הלמ\"ס חושפים מהפך שקט במפת הגיוסים הטכנולוגית",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21473040",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:50:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21471983",
+      "title": "רק אל תהיה ציוני: בגרמניה מצאו פתרון חדש ל\"בעיה היהודית\"",
+      "summary": "פעם זו הייתה \"השאלה היהודית\", והיום הציונות היא זו שמסומנת כבעיה • עלייתה של מפלגת די לינקה היא רק הביטוי העכשווי לגלגול של רעיון ישן • כי כשהרעיונות נגמרים, תמיד צריך אויב שכולם מסכימים עליו – והיהודי תמיד זמין",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21471983",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:49:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21473014",
+      "title": "דניאל גרינברג בשיחה עם הבת שלה: לא מאוהבת באייל גולן",
+      "summary": "הדוגמנית וגרושתו של הזמר מרחובות פרסמה שיחה פרטית שערכה עם בתה בנושא הפרידה ממנו. \"הבטחתי לקחת אחריות\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21473014",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:48:47.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/land-enforcement-authority-sukkot-illegal-construc",
@@ -86,6 +185,24 @@
       "pubDate": "2026-09-23T12:42:20.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21444808",
+      "title": "המשימה הדחופה ביותר של הממשלה הבאה עומדת ומחכה בעזה",
+      "summary": "עם החמאס אין שום מקום להבנות, גם אם הן נעשות באמצעות גורמים אמריקניים בכירים • הבחירות להנהגת הרשות הפלסטינית עשויות לפתוח חלון הזדמנויות – ולישראל אסור לפספס אותו • ומהו הסעיף הקטן בחוק שיוכל להוביל לשינוי בגיוס חרדים",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21444808",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:41:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21472976",
+      "title": "שלא תעזו לנסות: הטרנד שיסבך אתכם בביקורת הגבולות",
+      "summary": "ברשתות החברתיות ממליצים לעטוף דרכונים ביומטריים בנייר כסף מחשש לגניבת מידע • מומחי אבטחה מבהירים: סריקת השבב דורשת מגע כמעט ישיר • העטיפה רק מייצרת עיכובים בביקורת הגבולות",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21472976",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:39:48.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/tlthdf",
       "title": "לוקחים אחריות על החיים: ביקור מרתק בישיבת המתיבתא",
       "summary": "סוף זמן אלול, רוח הרים קרירה נושבת במרפסת הקמפוס החדש של \"המתיבתא – תורה ודעת\" במושב בית מאיר. על המרפסת הזו, אפשר למצוא כ-50 בחורים שמרכיבים פסיפס מרתק של החברה החרדית העכשווית",
@@ -93,6 +210,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-23T12:39:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21472754",
+      "title": "מעולם לא דיבר על זה: רמי לוי חושף התמודדות עם דיסלקציה",
+      "summary": "הריאיון החשוף שמסיר את התדמית העסקית הנוקשה • איש העסקים פותח את הלב על האתגר שמלווה אותו מילדות, והעזרה שהוא מקבל מהסביבה הקרובה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21472754",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:38:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21473061",
+      "title": "חשד לשורת מעשים חמורים: תחקיר פיקודי נגד תת-אלוף בצה\"ל",
+      "summary": "ב\"כאן 11\" פורסם כי התביעה הצבאית החליטה על קיום תחקיר פיקודי מעמיק בעניינו של קצין בדרגת תא\"ל • ההחלטה התקבלה בעקבות תלונה של רב-סרן, שייחס לבכיר שורת מעשים חמורים על רקע מערכת יחסים אישית שניהל • מצ\"ח חוקרת חשדות לשימוש לרעה בכוח המשרה, חריגה מסמכות והתנהגות שאינה הולמת",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21473061",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:37:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21471058",
+      "title": "5 דקות, בלי לבשל: הקישוט הכי יפה בסוכה הוא בכלל בצלחת",
+      "summary": "לא כל מנה חגיגית דורשת שעות במטבח • סלט הקפרזה הקלאסי הופך לביסים אישיים עם עגבניות שרי, מוצרלה ובזיליקום • 5 דקות עבודה, בלי תנור ובלי בישול, ויש לכם מנה ראשונה חגיגית לסוכות",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21471058",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:36:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21472983",
+      "title": "\"תזכורת לשורשינו\": משלוחי הסכך האחרונים יוצאים מהערבה",
+      "summary": "רגע לפני החג, משאיות עמוסות בכפות תמרים עושות את דרכן ממטעי הערבה התיכונה ליישובים ברחבי הארץ • במקביל לסיום גדיד התמרים, החקלאים ממשיכים במסורת השנתית • החקלאית הילה אלבז ממושב חצבה: \"העץ שצומח במדבר מסמל את כוח העמידה של העם\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21472983",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T12:30:50.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/davar-rishon/tlt9x2",
@@ -18543,51 +18696,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T13:23:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21451397",
-      "title": "אֲנִי מִתְהַפֶּכֶת לַצַּד שֶׁלְּךָ אוּלַי כָּכָה זֶה יִקְרֶה: שירים חדשים לרוני בהט",
-      "summary": "אחרי שספרה הראשון, \"אמ אנד אמ\", זכה בביקורות משבחות, המשוררת עובדת על ספרה השני • מיוחד ל\"היום\": שלושה שירים מתוכו",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21451397",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T13:09:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368756",
-      "title": "קרב הבחירות מתחמם: הליכוד הגישו פנייה דחופה נגד גדי איזנקוט",
-      "summary": "מפלגתו של גדי איזנקוט שיתפה לאחרונה שלושה סרטונים על ראש הממשלה נתניהו, שרבים מהפרטים שהופיעו בהם אינם נכונים - כך לפי עתירה חדשה שהגישה הליכוד",
-      "link": "https://www.maariv.co.il/news/politics/article-1368756",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-18T13:09:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368755",
-      "title": "אחרי שבועות של שמועות: האיש מאחורי \"עיני פחם\" חושף את עצמו",
-      "summary": "ד\"ר סופיאן אבו זיידה, בכיר פת\"ח לשעבר, חשף כי הוא המקור שכונה \"עיני פחם\" וקיבל מסר מיחיא סינוואר לפני 7 באוקטובר. כעת הוא מבטיח לפרט על המגעים החשאיים ועל האזהרה שהועברה לצד הישראלי",
-      "link": "https://www.maariv.co.il/news/politics/article-1368755",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-18T13:03:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368755",
-      "title": "\"עיני פחם\" נחשף: בכיר ברשות הפלסטינית מודה - התרעתי לאיחוד האמירויות לפני ה-7 באוקטובר",
-      "summary": "ד\"ר סופיאן אבו זיידה, בכיר פת\"ח לשעבר, חשף כי הוא המקור שכונה \"עיני פחם\" וקיבל מסר מיחיא סינוואר לפני 7 באוקטובר. כעת הוא מבטיח לפרט על המגעים החשאיים ועל האזהרה שהועברה לצד הישראלי",
-      "link": "https://www.maariv.co.il/news/politics/article-1368755",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-18T13:03:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21451303",
-      "title": "סנה סוקול מתקרבת לדת: \"לא יכולה להסביר במילים\"",
-      "summary": "ימים ספורים לפני יום כיפור הגיעה הרקדנית למעמד הסליחות ברחבת הכותל • בפוסט אישי סיפרה על החיבור לבורא עולם ועל רגע של שותפות • \"לא משנה כמה אנחנו שונים, כולנו פשוט בני אדם\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21451303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T13:02:10.000Z"
     }
   ]
 }
