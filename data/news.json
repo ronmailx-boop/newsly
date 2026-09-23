@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:15:54.736Z",
+  "updatedAt": "2026-09-23T11:30:56.899Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/ecuador-el-nino-weather-warning-israelis",
+      "title": "משרד החוץ באזהרה חריגה למטיילים במדינה הדרום-אמריקנית | למי צריך לפנות?",
+      "summary": "הרשויות באקוודור הכריזו על התראה אדומה בכל המדינה • תופעת אל ניניו צפויה להביא לגשמים עזים והצפות | משרד החוץ קורא לישראלים לנהוג בזהירות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/ecuador-el-nino-weather-warning-israelis",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T11:28:34.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3869484",
       "title": "תודה לאיתמר בן גביר, שגרח למחנה מנומנם לפקוח את העיניים",
       "summary": "הקמפיין שתובע את תיק הביטחון לכהניסט המוצהר ואת תיק המשפטים למפיצת תיאוריית הבגידה, יעזור אולי ל\"עוצמה יהודית\", אבל מבחינת \"בלוק נתניהו\" מדובר בגול עצמי",
@@ -39,6 +48,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-23T11:25:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/shechem-terror-cell-planned-soldier-kidnapping-ben",
+      "title": "חוליית טרור משכם תכננה לחטוף חייל ולהתנקש בבן גביר ברחפן נפץ; \"לא אירתע\"",
+      "summary": "שני פלסטינים מושכם הצטיידו בארסנל נשק ותכננו פיגועים • ניסו להתנקש בשר לביטחון לאומי באמצעות רחפן נפץ | בן גביר: \"זו הפעם ה-11 שמנסים לחסל אותי\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/shechem-terror-cell-planned-soldier-kidnapping-ben",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T11:20:39.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ryxuu7b5zl",
+      "title": "\"לב שלי, נכנסים\": גילתה שבן זוגה התחזה לאיש שב\"כ שמשפחתו נרצחה - והחליטה לחשוף אותו",
+      "summary": "א', מושבניקית מהצפון הכירה גבר בטינדר, שטען שהוא איש שב\"כ שאיבד את משפחתו ב-7 באוקטובר ונכנס לחובות כספיים. לדבריה, היא הבינה מהר כי מדובר בנוכל והחלה לאסוף נגדו ראיות. התלונה שהגישה הובילה למעצרו של תושב קריית אתא בן 34, נשוי עם ילדים - שמעולם לא שירת בארגון הביון",
+      "link": "https://www.ynet.co.il/news/article/ryxuu7b5zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T11:19:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21472134",
+      "title": "עד עכשיו עשיתם טעות: הדרך הנכונה לחיתוך גמבה - לפי גורדון רמזי",
+      "summary": "הגרעינים שמתפזרים בכל המטבח והבזבוז המיותר של חומרי הגלם גוזלים לכם זמן יקר בכל בישול: השף הבינלאומי חושף את הטכניקה המדויקת לחיתוך מהיר פי שניים בלי טיפת לכלוך על הקרש",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21472134",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T11:17:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21471678",
+      "title": "בריחת הרופאים וזמני ההמתנה: \"בוחרים בריאות\" - נציגי המפלגות על במה אחת",
+      "summary": "המכון הלאומי לחקר שירותי הבריאות ומדיניות הבריאות בהשתתפות בכירי מערכת הבריאות בישראל מקיים בשעה זו פאנל בהשתתפות נציגי המפלגות לקראת הבחירות • בין היתר האירוע יעסוק במחסור בכוח האדם, במשבר בריאות הנפש ובשמירה על תקציבי הבריאות",
+      "link": "https://www.israelhayom.co.il/health/article/21471678",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T11:16:17.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21472082",
@@ -69,6 +114,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21472061",
+      "title": "לקראת הבחירות: התוספת הענקית שקיבל משרד הביטחון",
+      "summary": "יו\"ר הוועדה חנוך מילביצקי עצר את הדיון לאחר שהתברר כי עמותות שנפגעו במבצע \"שאגת הארי\" עדיין לא פוצו • בעקבות זאת הודיעו באוצר כי מערכת התביעות תיפתח מיד לאחר סוכות • במקביל נדרש צה\"ל לבדוק טענות על פגיעה בימי העיבוד של משרתי המילואים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21472061",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T11:13:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21472061",
       "title": "לקראת הבחירות: ועדת הכספים אישרה 15 מיליארד שקלים למשרד הביטחון",
       "summary": "יו\"ר הוועדה חנוך מילביצקי עצר את הדיון לאחר שהתברר כי עמותות שנפגעו במבצע \"שאגת הארי\" עדיין לא פוצו • בעקבות זאת הודיעו באוצר כי מערכת התביעות תיפתח מיד לאחר סוכות • במקביל נדרש צה\"ל לבדוק טענות על פגיעה בימי העיבוד של משרתי המילואים",
       "link": "https://www.israelhayom.co.il/news/defense/article/21472061",
@@ -96,12 +150,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byo1qe11czx",
+      "title": "כתב אישום נגד שני מחבלים משכם: תכננו לחטוף חייל ולהתנקש בבן גביר",
+      "summary": "המשטרה ושב\"כ עדכנו על סיכול התוכנית של השניים לבצע שורת פיגועים קטלניים החל מ-2023. הם רכשו כלי נשק רבים ונאשמים בתכנון לחטוף חייל, לרצוח את השר עם רחפן נפץ ולפגוע בכוחות הביטחון ובאזרחים. בן גביר: \"זו הפעם ה-11 שמנסים להתנקש בי, זה לא מרתיע ולא מפחיד אותי\"",
+      "link": "https://www.ynet.co.il/news/article/byo1qe11czx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T11:08:34.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byo1qe11czx",
       "title": "כתב אישום נגד חוליית טרור משכם: תכננה לחטוף חייל ולהתנקש בבן גביר",
       "summary": "",
       "link": "https://www.ynet.co.il/news/article/byo1qe11czx",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-23T11:08:34.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hj7lyg11cfl",
+      "title": "\"ברית מורדים\" באתיופיה: מתקפה נרחבת על כוחות הממשלה, חשש מחידוש מלחמת האזרחים",
+      "summary": "באתיופיה מדווחים על קרבות באזור תיגראי, 4 שנים אחרי סיום מלחמת האזרחים ההרסנית בין המורדים בחבל לבין כוחותיו של ראש הממשלה אביי אחמד, שבעבר זכה בפרס נובל לשלום. המורדים התיגרינים, שבתחילת השבוע הכריזו יחד עם שישה ארגונים חמושים אחרים ברחבי אתיופיה על ברית להדחת אביי, הודיעה על \"מלחמה הגנתית\" והשתלטו על נמל התעופה בתיגראי: \"הם חצו את הרוביקון\"",
+      "link": "https://www.ynet.co.il/news/article/hj7lyg11cfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T11:07:41.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hj7lyg11cfl",
@@ -124,7 +196,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21472105",
       "title": "תכננו לרצוח את בן גביר ולחטוף חייל: אישום נגד חוליית טרור משכם",
-      "summary": "על פי מידע שקיבלה המשטרה, החולייה תכננה להתנקש בשר לביטחון לאומי באמצעות רחפן נפץ • חבריה הצטיידו בכלי נשק רבים, ביצעו אימוני ירי ותכננו חטיפת חיילים ופיגועי מטען • כל הפרטים",
+      "summary": "על פי מידע שקיבלה המשטרה, החולייה תכננה להתנקש בשר לביטחון לאומי באמצעות רחפן נפץ • חבריה הצטיידו בכלי נשק רבים, ביצעו אימוני ירי ותכננו חטיפת חיילים ופיגועי מטען • בן גביר: \"זו הפעם ה-11 שמנסים לחסלי, לא מפחד מכם\"",
       "link": "https://www.israelhayom.co.il/news/crime/article/21472105",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -210,6 +282,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T10:49:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/elections-committee-disqualifies-cassif-abu-shehadeh",
+      "title": "תקדים בוועדת הבחירות: עופר כסיף ואבו שחאדה נפסלו - היו\" סולברג הצביע בצעד חריג בעד הפסילה",
+      "summary": "ועדת הבחירות פסלה את כסיף ואבו שחאדה בהצבעות דרמטיות • יו\"ר הוועדה השופט סולברג הצביע בעד פסילת אבו שחאדה בצעד חריג | יו\"ר הדמוקרטים יאיר גולן וח\"כ נעמה לזימי תמכו בבקשת עוצמה יהודית לפסול את יו\"ר בל\"ד סמי אבו שחאדה • גם בנט, לפיד, ליברמן, גנץ ואיזנקוט הביעו תמיכה בפסילה (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/elections-committee-disqualifies-cassif-abu-shehadeh",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T10:49:03.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/elections-committee-disqualifies-cassif-abu-shehadeh",
@@ -507,6 +588,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T10:07:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1369898",
+      "title": "חוזרים לריביירה של טראמפ בעזה? 2.45 מיליארד דולר על השולחן",
+      "summary": "לפי Axios, \"מועצת השלום\" תציג תוכנית של 2.45 מיליארד דולר הכוללת 66 פרויקטים: מקלטים, פינוי הריסות, כוח בינלאומי, פירוז, שכונה ל-50 אלף איש ושיקום התשתיות ברצועה",
+      "link": "https://www.maariv.co.il/news/world/article-1369898",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T10:03:10.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1369898",
@@ -18309,78 +18399,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-18T11:32:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85055",
-      "title": "גבר בן 30 נפצע בינוני בהתהפכות רכב סמוך לשפרעם",
-      "summary": "גבר כבן 30 נפצע במצב בינוני לאחר שרכבו התהפך בכביש 7912 בסמוך לשפרעם. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים רמב\"ם עם חבלה בגב. הדיווח התקבל במוקד 101 בשעה 13:26.",
-      "link": "https://www.kikar.co.il/scoop-news/85055",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-18T11:29:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21450672",
-      "title": "המדע מאשר: תמרון הקרב האייקוני באמת עובד - טוב מכפי שחשבנו",
-      "summary": "טריק הקומבט המפורסם מ-\"Star Trek: The Next Generation\" נבדק מדעית ונמצא מדויק ואפילו מורכב יותר ממה שהתסריטאים דמיינו • איך קפץ קפטן פיקארד למהירות העורף והותיר את האויב מבולבל?",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21450672",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:25:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450987",
-      "title": "מדריך מקיף להסעות לאירועים: כל מה שחשוב לדעת לפני שבוחרים ספק הסעות",
-      "summary": "אירוע מוצלח נמדד לא רק בתוכן שלו, אלא גם בפרטים הקטנים שמאחוריו – ואחד המרכזיים שבהם הוא ההסעה. בין אם מדובר בחתונה, בר מצווה, כנס עסקי או טיול משפחתי, הגעה מאורגנת ובטוחה של האורחים או המשתתפים היא לא פחות חשובה מהאירוע עצמו",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21450987",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:24:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21450810",
-      "title": "מהפכה בארמון: נשים זכאיות לכתר - בית המלוכה מאיים בתביעה",
-      "summary": "ליכטנשטיין, הנסיכות הזעירה אישרה שינוי היסטורי שיאפשר גם לנשים לרשת את הכתר, אך המהלך מעורר מחלוקת בתוך משפחת המלוכה • החוק החדש לא ישנה את סדר הירושה הנוכחי, אך יעניק לצאצאיות שוויון גם בניהול הפנימי של בית הנסיכות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21450810",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:23:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450990",
-      "title": "בין העוטף לארצות הברית: הזוג שבחר להמשיך לבנות גם כשהכול רעד",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21450990",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:23:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21450994",
-      "title": "קולקציית סאטן 600 החדשה של Linenz: חדר שינה במראה של מלון יוקרה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21450994",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:21:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21450820",
-      "title": "צפו: שב\"ח חשוד כי גנב רכב, נמלט - ודרס למוות רוכב אופניים בת\"א",
-      "summary": "מעצרו של נור גבור, תושב הכפר סאלם, הוארך ב-6 ימים בחשד כי גנב רכב בתל אביב, נמלט מהשוטרים והתהפך בסמוך למלון מנדרין - תוך שהוא פוגע באדם בן 56 ששהה במקום • החשוד מצידו מודה שנמלט והתהפך, אך מכחיש שפגע ברוכב: \"ניתן לבדוק במצלמות\" • השופטת קבעה כי קיים חשד סביר - והאריכה את מעצרו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21450820",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T11:17:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing",
-      "title": "סולברג דחה את המשפחות השכולות: \"חשש מהתלהטות יצרים\"",
-      "summary": "יו\"ר ועדת הבחירות דחה בקשת המשפחות שהגישו את העתירה להיות נוכחות בדיון • באודיטוריום 330 מקומות, אך לנציגי התקשורת נמצא מקום ולהורים השכולים לא | החלטה מקוממת (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-18T11:16:07.000Z"
     }
   ]
 }
