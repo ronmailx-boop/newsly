@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:01:00.664Z",
+  "updatedAt": "2026-09-23T17:15:59.543Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,10 +32,91 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tlttiw",
+      "id": "kikar:https://www.kikar.co.il/law-and-order/fattal-hotels-ordered-to-pay-158k-toddler-injury",
+      "title": "מלון יוקרה הפסיד: 158 אלף ₪ לפעוט שנפל ללא פיקוח",
+      "summary": "בית משפט השלום בתל אביב פסק כי בית מלון ישלם פיצוי בסך כ-158 אלף שקלים לפעוט שנפצע במגלשת מועדון הילדים במלון לאונרדו קלאב בטבריה, לאחר שנקבע כי לא התקיים פיקוח אפקטיבי מספיק במקום (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/fattal-hotels-ordered-to-pay-158k-toddler-injury",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:11:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370076",
+      "title": "קומיקס הבחירות של מעריב 2026: בוא לגלות מי המפלגה - ומה היא מציעה לכם",
+      "summary": "לתותי ולהדר נמאס מהרעש שממלא את מערכת הבחירות. מדי שבוע הן מפרקות את הקמפיינים, ההבטחות והעימותים – כדי לעזור לבוחרים להבין מה המפלגות באמת מציעות לפני שמגיעים לקלפי",
+      "link": "https://www.maariv.co.il/news/politics/article-1370076",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T17:11:01.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tlts79",
+      "title": "מבדיקת הפיתום ועד בניית הסוכות; כך מתכוננים תושבי בני ברק לחג הסוכות",
+      "summary": "חג הסוכות הבעל\"ט כבר מורגש בכל פינה, ובעיר התורה והחסידות בני ברק האוויר כולה רוטט מהתרגשות | הצלם האגדי שוקי לרר יצא אל הרחובות, השווקים והחצרות, ומגיש תיעוד עוצר נשימה מכל רגעי השיא | ממרפסות העיר ועד רחובותיה, אבות ובנים מקימים בזיעת אפיים את הסוכות. במקביל, השווקים והדוכנים המקומיים גועשים בהמונים הבוחרים בעיון את ארבעת המינים, החל מבדיקת הפיתם באתרוג, דרך בחינת הגידול של הלולב, ועד למכירת הסכך והקישוטים (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tlts79",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:08:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/ambassador-son-terror-attack",
+      "title": "שגריר ישראל בארה\"ב שבנו נריה נפצע קשה בפיגוע: \"הוא זקוק לנס\"",
+      "summary": "הפצוע הקשה בפיגוע הטרור במחבום בל היום הוא בנו של שגריר ישראל בארצות הברית | המשפחה ביקשה להתפלל לרפואתו של נריה דב בן חנה | המחבל הנתעב חוסל בזירה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/ambassador-son-terror-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:08:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/mea-shearim-fire-emergency-forces",
+      "title": "בשריפה המזעזעת במאה שערים: קיצונים בקריאות קשות נגד כוחות חירום",
+      "summary": "שריפה חריגה במאה שערים הובילה לשריפת 10 ספרי תורה • קיצונים השמיעו קריאות נאצה וגנאי נגד כוחות החירום שפעלו להצלת חיים • המשטרה: \"השוטרים ביצעו סגירה של הזירה וסייעו בהוצאת ספרי תורה\" • הלהבות פרצו בעוצמה רבה מתוך מבנה בשכונה • לא ידוע על לכודים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/mea-shearim-fire-emergency-forces",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:07:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/british-hawk-t2-training-jet-crash-wales-anglesey",
+      "title": "תיעוד מטורף: מטוס הקרב הבריטי צלל אנכית - והתפוצץ בקרקע",
+      "summary": "מטוס הוק T2 התרסק סמוך לבסיס ואלי באנגלסי | שני אנשי הצוות הצליחו להפעיל מנגנון מפלט ולנטוש את המטוס | פלטפורמת ההוק T2 הושבתה בעבר בשל תקלות כרוניות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/british-hawk-t2-training-jet-crash-wales-anglesey",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:05:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85429",
+      "title": "גור כלבים נגוע בכלבת נמצא סמוך ליישוב נווה צוף",
+      "summary": "משרד הבריאות מדווח כי היום (23.09.2026) נמצא גור כלבים נגוע בכלבת על כביש 450 סמוך לישוב נווה צוף (חלמיש). הגור, בצבע לבן עם כתמים חומים, הגיע מכיוון הישוב נחליאל. עד כה ידוע על אדם אחד שהיה במגע עם הכלב. כל מי שבא במגע עם הגור או עם בעל חיים משוטט באזור בין התאריכים 09.09.2026 ל-23.09.2026 מתבקש לפנות בדחיפות ללשכת הבריאות רמלה (08-9181202) או ללשכת הבריאות הקרובה, ללא צורך בתור. במקרה של נשיכה או שריטה יש לשטוף את המקום במים זורמים ובסבון כ-10 דקות ולפנות ללשכת הבריאות.",
+      "link": "https://www.kikar.co.il/scoop-news/85429",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:05:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85428",
+      "title": "נריה לייטר, בן שגריר ישראל בארה\"ב, הוא הפצוע אנוש בפיגוע",
+      "summary": "הפצוע אנוש בפיגוע זוהה כנריה לייטר, בנו של שגריר ישראל בארה\"ב. בן נוסף של השגריר, משה לייטר, נפל בעזה בתחילת המלחמה.",
+      "link": "https://www.kikar.co.il/scoop-news/85428",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T17:05:36.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjqlekb9ml",
+      "title": "בנו של שגריר ארה\"ב נפצע קשה מאוד בפיגוע הדריסה, כמעט 3 שנים לאחר שאחיו נפל בעזה",
+      "summary": "בשערי צדק נלחמים על חייו של לוחם המילואים נריה לייטר, שאותו דרס מחבל במחסום בל. אביו השגריר יחיאל לייטר עושה את דרכו ארצה, ולא ילווה את נתניהו בביקורו באו\"ם. \"נריה המשיך לשרת במילואים אחרי שאיבד את אחיו הבכור משה, ועשה מאות ימי מילואים מאז 7 באוקטובר\", אמר האב. \"הם בוחרים במוות - אנחנו בוחרים בחיים\"",
+      "link": "https://www.ynet.co.il/news/article/hjqlekb9ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T16:59:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/ambassador-son-terror-attack",
       "title": "בנו של השגריר הבכיר: זה הפצוע הקשה בפיגוע - ובקשת המשפחה",
       "summary": "הפצוע הקשה בפיגוע הטרור במחבום בל היום הוא בנו של שגריר ישראל בארצות הברית | המשפחה ביקשה להתפלל לרפואתו של נריה דב בן חנה | המחבל הנתעב חוסל בזירה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tlttiw",
+      "link": "https://www.kikar.co.il/israel-news/ambassador-son-terror-attack",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-23T16:53:48.000Z"
@@ -68,6 +149,51 @@
       "pubDate": "2026-09-23T16:50:24.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21475168",
+      "title": "בנו של שגריר ישראל בארה\"ב נפצע קשה בפיגוע; אחיו נפל בקרב בעזה",
+      "summary": "החייל, נריה לייטר, פעל בניידת משטרה במסגרת משימה משותפת עם צה\"ל, כאשר המחבל הגיח עם רכבו ודרס אותו במכוון • אחיו הבכור, רס\"ן (מיל') משה ידידיה לייטר ז\"ל, נפל בקרבות בבית חאנון בנובמבר 2023",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21475168",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:49:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21475327",
+      "title": "המחלוקת על עזה: ישראל דורשת פירוז חמאס לפני נסיגה ושיקום",
+      "summary": "מועצת השלום הציגה בניו יורק את התוכנית להעברת השלטון ולפירוז הרצועה • בישראל דורשים שפירוק חמאס מנשקו יקדים את הנסיגה והשיקום, בעוד המועצה מבקשת להתקדם בהדרגה",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21475327",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:49:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21475283",
+      "title": "18 שנה אחרי הישרדות: המפגש המפתיע של נעמה קסרי ודן מנו",
+      "summary": "בדרך לחופשה בחלקידיקי עוצרים בשירותי הילדים • הטעות התמימה של כוכבת הריאליטי שהובילה לאיחוד טלוויזיוני מרגש במיוחד",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21475283",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:48:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21475295",
+      "title": "מונע טעויות יקרות: הטריק של מעצבי הפנים",
+      "summary": "מאיה קוגן, מעצבת פנים ומבעלי גלריית \"פשטות מטבחים\", פיצחה את האתגר של שני בתים לאמא ובת באותו שטח - ומסבירה כיצד תכנון שמקשיב לאורח החיים מונע טעויות יקרות",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21475295",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:46:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21475355",
+      "title": "משפטו החוזר של הארווי ויינשטיין: נשלח ל-15 שנים בכלא בניו יורק",
+      "summary": "בית המשפט במנהטן גזר את דינו של המפיק ההוליוודי לשעבר, לאחר שהורשע מחדש בתקיפה מינית של מרים היילי • גזר הדין הנוכחי ניתן יותר משש שנים לאחר שהורשע לראשונה בתיק, הרשעה שבוטלה לאחר מכן בהליך ערעור",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21475355",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:45:32.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tltspg",
       "title": "לאחר שלושה ימים של עבודה שמימית, הרבי מאמשינוב שבר את הצום של יום כיפור",
       "summary": "שעות על גבי שעות של דביקות עילאית, תפילות שזלגו עד לשעות הבוקר המאוחרות, והמשך צום מפרך בעזרת אינפוזיה כדי להשלים את העבודה המפוארת: כל רגעיו הדרמטיים והמרוממים של האדמו\"ר מאמשינוב מרגע כניסת יום הכיפורים ועד להבדלה ושבירת הצום הבוקר (חסידים)",
@@ -75,6 +201,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-23T16:45:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21475267",
+      "title": "צעיר ממנה ב-8 שנים: ענבל אלדן בזוגיות עם כוכב הרשת",
+      "summary": "פרסום ראשון: אחרי ששיתפה את העוקבות שלה על דייטים עם מפורסם, כעת ניתן לעדכן כי כוכבת \"האח הגדול\" בת ה-36 בזוגיות עם יוצר התוכן אביתר עוזרי, 28",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21475267",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:42:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21475199",
+      "title": "קל לדבר מרחוק: האמירה של מאמן נבחרת אוסטריה על המלחמה בישראל",
+      "summary": "ראלף ראנגניק העדיף להתמקד במשחק במקום להתעסק בפוליטיקה, אך בכל זאת אמר: \"כל המלחמות בעולם הן חסרות טעם\" • מבחינה מקצועית, מספר כוכבים משמעותיים ייעדרו אצל היריבה: \"אין להנגאובר אחרי המונדיאל\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21475199",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:34:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21475206",
+      "title": "רוביו מזהיר מהסלמה ביו\"ש: \"הדבר האחרון שישראל צריכה\"",
+      "summary": "מזכיר המדינה האמריקני הבהיר במסיבת עיתונאים בניו יורק כי הבית הלבן מתנגד בתוקף להסלמה ביהודה ושומרון, ברקע המתיחות מול עזה, איראן ולבנון • באשר לגרעין האיראני, הדגיש רוביו כי וושינגטון פתוחה להסכם אך מחזיקה גם באופציות צבאיות כדי למנוע מטהרן נשק גרעיני • על עזה: הפתרון הוא שלטון חופשי מחמאס שייקח יותר משישה חודשים לבסס",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21475206",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T16:34:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1370071",
@@ -106,7 +259,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21472129",
       "title": "בגלל איטודיס: עופר ינאי מאיים לתבוע את פרשן ערוץ הספורט",
-      "summary": "בעלי הפועל תל אביב שלח מכתב התראה לפני תביעה לאלי סהר, שעקץ את המאמן היווני בשידור חי",
+      "summary": "בעלי הפועל תל אביב שלח מכתב התראה לפני תביעה לאלי סהר, שעקץ את המאמן היווני בשידור חי • מערוץ הספורט נמסר: \"טרם קיבלנו את המכתב, נתייחס כשנקבלו\".",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21472129",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -516,6 +669,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-23T15:08:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21474588",
+      "title": "יעל שלביה על לאנס סטרול: ''זה היה הראשון שלו בארץ''",
+      "summary": "על סט הצילומים של רנואר, יעל שלביה מספרת בריאיון ל\"היום\" על יום הכיפורים הראשון של לאנס סטרול בישראל, על התפקיד בסדרה בחו\"ל שעליו ויתרה מטעמי צניעות, ועל מה שהיא באמת חושבת על שאלת הטבעת והחתונה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21474588",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T15:06:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21474588",
@@ -19488,15 +19650,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-18T17:16:44.000Z"
-    },
-    {
-      "id": "walla:https://news.walla.co.il/item/3868761",
-      "title": "מוסקבה מאיימת על בריטניה: מתקנים צבאיים עלולים להפוך ליעדים",
-      "summary": "רוסיה הזהירה כי תוכל לתקוף מתקנים צבאיים בריטיים באוקראינה ומחוצה לה, אם ישמשו לפעולות נגדה. משרד החוץ במוסקבה זימן את הממונה על שגרירות בריטניה והביע מחאה על הרחבת משלוחי הנשק לקייב. ברקע, לונדון הקצתה 100 מיליון ליש\"ט לחיזוק ההגנה האווירית של אוקראינה",
-      "link": "https://news.walla.co.il/item/3868761",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-18T17:12:00.000Z"
     }
   ]
 }
