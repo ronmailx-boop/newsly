@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:30:52.550Z",
+  "updatedAt": "2026-09-23T18:45:49.478Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tltv31",
+      "title": "הבחורים הופתעו; הרבי הופיע בשיא ההכנות לבניית הסוכה הענקית והביע קורת רוחו",
+      "summary": "גלריה עוצרת נשימה מרגעי קודש נעלים בצל קודשו של האדמו\"ר מבאבוב בימים הסמוכים ליום כיפור, החל מקריאת הקורבנות ביום י\"ג מידות, דרך מעמד התשליך על שפת הים, חלוקת המזונות, ועד לביקור המפתיע והמרגש בסוכת הענק המפוארת של החסידות (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tltv31",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T18:44:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1370113",
+      "title": "חולקו בעצרת הבחירות בתיכון בליך: הפותחן שמכניס את בן גביר לצרות",
+      "summary": "המרכז הרפורמי לדת ומדינה עתר נגד השר לביטחון לאומי ועוצמה יהודית בדרישה לעצור חלוקת מחזיקי מפתחות בצורת אקדח עם הכיתוב \"נשק מציל חיים\". במפלגה דוחים את הטענות",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1370113",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T18:33:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1370115",
+      "title": "לאחר הפיגוע בו נפצע בנו של השגריר לייטר - כך מתכונן צה\"ל לחג הסוכות | אבי אשכנזי",
+      "summary": "לאחר הפיגוע בכביש 443 והחשש ממפגעים בודדים, צה״ל מתגבר את יהודה ושומרון לקראת חג הסוכות ומפעיל מפקדת אוגדה נוספת לשיפור השליטה בשטח",
+      "link": "https://www.maariv.co.il/news/military/article-1370115",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T18:32:36.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tltxn5",
       "title": "בעלי המניות תובעים את העיתון המוביל: \"סיקור מוטה נגד ישראל\"",
@@ -237,6 +264,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-23T17:19:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21475513",
+      "title": "\"פראייר מי שעומד מהצד\": הפוסט המרגש של נריה לייטר לאחר ששכל את אחיו",
+      "summary": "נריה לייטר נפצע קשה מדריסה בכביש 443 סמוך לבית חורון; המחבל חוסל • אחיו הבכור, רס\"ן משה ידידיה לייטר הי\"ד, נפל בקרב בבית חנון במלחמת חרבות ברזל • האב, השגריר יחיאל לייטר: \"הם בוחרים במוות - אנחנו בוחרים בחיים\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21475513",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T17:18:11.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21475513",
@@ -19740,15 +19776,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-18T18:51:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21452237",
-      "title": "15 שנה אחרי ששודרה בישראל: המחיר הכבד שגבתה \"לרדת בגדול\"",
-      "summary": "מחקר קליני מקיף עקב אחרי מתמודדי התוכנית וחשף מציאות עגומה • קצב חילוף החומרים צנח במאות קלוריות, רמות הורמון השובע התרסקו • מאחורי הקלעים: התייבשות עד סכנת חיים ושברי מאמץ",
-      "link": "https://www.israelhayom.co.il/tech/research/article/21452237",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T18:39:52.000Z"
     }
   ]
 }
