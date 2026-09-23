@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T12:45:47.625Z",
+  "updatedAt": "2026-09-23T13:01:17.586Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/elections-committee-disqualifies-raam-party",
+      "title": "החלטה דרמטית: ועדת הבחירות פסלה את רע״מ מלהתמודד: 18 בעד, 5 נגד",
+      "summary": "הוועדה קיבלה את העתירה נגד רע\"מ שכללה מחקר של למעלה מ-1,000 עמודים שהצביעו על קשרים לטרור | היועמ״ש התנגדה למרות הראיות | בג\"ץ צפוי להפוך את ההחלטה? (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/elections-committee-disqualifies-raam-party",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T12:55:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1369990",
+      "title": "קריית שמונה יוצאת למאבק משפטי נגד רשות המיסים: \"הנזק לא הסתיים\"",
+      "summary": "עיריית קריית שמונה פותחת בהליך משפטי נגד מדינת ישראל ורשות המיסים - כדי להאריך את תקופת ההכרה בנזק עקיף לעסקי העיר: \"ביקשנו שיסתכלו על העיר הזאת בעיניים ויראו מה קורה בה בפועל\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1369990",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T12:54:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/telzstone-charity-funds-petition-controversy",
+      "title": "בגלל כספי צדקה: טלז סטון סוערת והתושבים פתחו עצומה נגד ראש המועצה",
+      "summary": "תושבים פתחו עצומה הקוראת להעביר כספי תמיכות לקופות צדקה • מ\"מ ראש המועצה שיגר מכתב חריף: 'הקופות קורסות תחת הנטל' | המחלוקת סביב התקציב (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/telzstone-charity-funds-petition-controversy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T12:50:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/land-enforcement-authority-sukkot-illegal-construc",
+      "title": "החלה אכיפה בכל הארץ של סוכות מסוכנות: \"לא רק עבירה, זו סכנת נפשות\"",
+      "summary": "מפקחי הרשות סיירו היום בשכונות ברחבי הארץ • תלו מודעות הסברה ואיתרו עבודות לא חוקיות | \"הקמת תוספות בנייה ללא היתר עלולה לסכן חיי אדם\", נמסר מהרשות לאכיפת מקרקעין (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/land-enforcement-authority-sukkot-illegal-construc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T12:42:28.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85393",
+      "title": "נעצרו שני קטינים בחשד לתקיפת עובד זר בגז פלפל ברמת גן",
+      "summary": "משטרת ישראל עצרה שני קטינים, בני 14 ו-15 מבני ברק, בחשד שתקפו עובד זר ברמת גן באמצעות גז פלפל. החקירה נפתחה בעקבות דיווח וסרטונים שהופצו ברשתות החברתיות המתעדים את התקיפה. בתום חקירתם שוחררו השניים בתנאים מגבילים והחקירה נמשכת.",
+      "link": "https://www.kikar.co.il/scoop-news/85393",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T12:42:24.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/85392",
       "title": "צעיר בן 24 נפצע בינוני בתאונת אופנוע בכביש 886 ליד עלמה",
@@ -165,6 +210,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-23T12:08:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1369968",
+      "title": "מזעזע: האם גילתה על ההיריון של הבת בהודעה - \"קיבלתי התראה מקופת החולים\"",
+      "summary": "כ-80% מהתלמידות ביבנאל מתחתנות בכיתה ט'. הוועדה לקידום מעמד האישה דורשת פעולה דחופה נגד נישואי קטינות במושבה בדיון חירום בוועדה נחשפו עדויות מזעזעות על היקף התופעה",
+      "link": "https://www.maariv.co.il/news/israel/article-1369968",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T12:07:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1369968",
@@ -399,6 +453,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T11:35:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1369947",
+      "title": "הוויכוח על איזנקוט התפוצץ בשידור: \"מיצג חוצפה שלא היה כדוגמתו\"",
+      "summary": "ינון מגל ובן כספית התעמתו בשידור על ליברמן, מירי רגב, איזנקוט ומשפט נתניהו. כספית סיפר על הסיוע למשטרה בתיק 1000, ומגל תקף בחריפות את יריביו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1369947",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T11:30:37.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1369947",
@@ -858,6 +921,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T10:21:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bjms6yb9zx",
+      "title": "בדרך לפסילת יו\"ר בל\"ד: בצעד יוצא דופן - סולברג תמך; גם רע\"מ וכסיף נפסלו, העליון יכריע",
+      "summary": "ועדת הבחירות פסלה את סאמי אבו שחאדה מהתמודדות בבחירות, ראשי המפלגות מבן גביר ועד יאיר גולן תמכו - ואפילו שופט העליון חרג מהמנהג והביע דעה. \"אוותר על הנייטרליות הפעם\", אמר. היועמ\"שית החריפה את עמדתה: \"יו\"ר בל\"ד מיתמם\". ליברמן תמך בפסילת רע\"מ, גם כסיף נפסל - והעליון צפוי להתערב",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bjms6yb9zx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T10:20:39.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bjms6yb9zx",
@@ -18516,33 +18588,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-18T13:02:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21451316",
-      "title": "אם הנרצחת מהנובה הטיחה בחליוה ברחוב: \"שלוש שנים לא טרחת לבוא\"",
-      "summary": "שלי משל יוגב, אימה של ליבי כהן מגורי ז״ל, קצינת חי\"ר מצטיינת שנרצחה בטבח בפסטיבל הנובה, נתקלה בראש אמ\"ן לשעבר אהרון חליוה והתעמתה איתו • \"אתה יודע מי אני, אתה גר קילומטר מאיתנו\", הטיחה בו האם, \"אך שלוש שנים מאז שהיא נרצחה לא טרחת לבוא\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21451316",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T12:56:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/indictment-kidnapping-minors-israel",
-      "title": "הטורף ברחובות: חטף, כלא ואיים בסכין על ילדים",
-      "summary": "כתב אישום הוגש נגד יגאל בוסקילה, דר רחוב בן 19 מירושלים, בגין שלושה אירועים מזעזעים בהם כפה את עצמו על קטינים, איים עליהם ושלף סכין (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/indictment-kidnapping-minors-israel",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-18T12:56:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21451276",
-      "title": "פקיסטן במסר לאיראן: \"רסנו את הח'ותים במתקפות נגד סעודיה\"",
-      "summary": "מפקד צבא פקיסטן, עאסם מוניר, פנה להנהגה האיראנית וביקש ממנה לפעול לבלימת התקיפות הח'ותיות נגד סעודיה ותשתיות האנרגיה שלה • לפי \"פייננשל טיימס\", מוניר הזכיר את הסכם ההגנה ההדדית בין איסלאמאבאד לריאד וטען כי ייאלצו להתערב",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21451276",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T12:47:08.000Z"
     }
   ]
 }
