@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:46:18.140Z",
+  "updatedAt": "2026-09-23T14:01:05.817Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370020",
+      "title": "החלטת בג\"ץ בעתירות להקמת ועדת חקירה ממלכתית - רק אחרי הבחירות",
+      "summary": "בג\"ץ קבע שעל הממשלה להגיש עדכון בנושא העתירות להקמת ועדת חקירה ממלכתית עד ל-15 בינואר - לאחר הבחירות. המשמעות היא כי ההערכה נדחית עד להקמת ממשלה חדשה",
+      "link": "https://www.maariv.co.il/news/politics/article-1370020",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T13:59:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1370019",
+      "title": "פרס חדשנות בינלאומי יוקרתי לאסותא אשדוד: בית החולים שהפך למעבדת AI רפואית",
+      "summary": "צוות שיפוט של מומחי אוניברסיטת MIT בחר במערכת \"ארגז החול הרפואי\", שפותחה בבית החולים הציבורי אסותא אשדוד, לזכייה כפולה בפרסי החדשנות הבינלאומיים של ענקית טכנולוגיות הבריאות האמריקאית InterSystems",
+      "link": "https://www.maariv.co.il/news/health/article-1370019",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T13:57:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1ipliwqfx",
+      "title": "הימין הקיצוני \"בצד של פוטין\", וגרמניה חוששת שידליף לו את תוכנית המלחמה הסודית",
+      "summary": "התמיכה במפלגת \"אלטרנטיבה לגרמניה\" מזנקת, אבל לצד הבטחות לגירוש המוני של מהגרים - בכיריה גם מביעים עמדות פרו-רוסיות: הם רוצים את \"הגז הזול\" של מוסקבה, משבחים את פוטין ואפילו מתכננים מפגש עם שליחו. ב\"ניו יורק טיימס\" דווח כי בצבא הגרמני מודאגים שאם הם יעלו לשלטון באחת ממדינות המחוז הם ידליפו את תוכנית \"אופלאן\" הסודית לתגובה למתקפה רוסית על מזרח אירופה - וכעת מתכננת הממשלה הפדרלית בברלין לחסום להם את הגישה למודיעין מסווג",
+      "link": "https://www.ynet.co.il/news/article/r1ipliwqfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T13:48:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1370014",
+      "title": "\"האם אלדר היה נמצא בחיים?\" השאלה הקשה שמפנה המשפחה למשטרה",
+      "summary": "משפחתו של אלדר דיין ז\"ל שלחה למפכ\"ל מכתב התראה לפני נקיטת צעדים משפטיים, ובו טענות על כשלים בניהול החקירה. המשפחה דורשת בדיקה מקצועית מחדש, בחינת הראיות ומתן תשובות בתוך שבעה ימים",
+      "link": "https://www.maariv.co.il/news/law/article-1370014",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-23T13:47:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/laws/october-7-investigation-committee-decision",
+      "title": "בג״ץ הכריע: ההחלטה הדרמטית על חקירת השביעי באוקטובר",
+      "summary": "בג״ץ הודיע כי לא יכריע בעתירות להקמת ועדת חקירה ממלכתית לפני הבחירות, והורה לממשלה לעדכן את עמדתה עד 15 בינואר (משפט)",
+      "link": "https://www.kikar.co.il/laws/october-7-investigation-committee-decision",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-23T13:45:57.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1370007",
       "title": "\"זו זכות שלי לגדל ילד כזה\": המסע של נועם ואמו ליסה",
@@ -165,6 +210,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T13:09:07.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/Jewish_identity/%D7%9C%D7%91%D7%97%D7%95%D7%A8_%D7%98%D7%95%D7%91_%D7%91%D7%9C%D7%99_%D7%9C%D7%94%D7%A1%D7%AA%D7%91%D7%9A",
+      "title": "לבחור טוב בלי להסתבך",
+      "summary": "המדריך המעשי לבחירת ארבעת המינים: מה קריטי ומה פחות? חלק מהדברים מבוססים על לקט הלכות מהרב משה הררי מחבר \"מקראי קודש\" ודגשים מהרב ברוך אפרתי",
+      "link": "https://www.hakolhayehudi.co.il/item/Jewish_identity/%D7%9C%D7%91%D7%97%D7%95%D7%A8_%D7%98%D7%95%D7%91_%D7%91%D7%9C%D7%99_%D7%9C%D7%94%D7%A1%D7%AA%D7%91%D7%9A",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-09-23T13:09:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21473127",
@@ -18714,33 +18768,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-18T14:05:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1368762",
-      "title": "נתניהו יגיע לעצרת האו\"ם בניו יורק - אך מה הוא יעשה קודם בכלל במערב ארה\"ב?",
-      "summary": "ראש הממשלה ינחת בשבוע הבא בארצות הברית, לביקור שיתקיים במספר מוקדים שונים. טרם ברור האם ייפגש עם דונלד טראמפ, כמו גם זהות שדה התעופה שבו ינחת מטוס \"כנף ציון\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1368762",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-18T13:55:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21451520",
-      "title": "האו\"ם: כמה מתקיפות ארה\"ב באיראן עשויות להיות פשעי מלחמה",
-      "summary": "בדוח חדש נבחנות שתי תקיפות אמריקניות שבהן נהרגו עשרות אזרחים, ובהן הפגיעה בבית ספר יסודי במינאב • לפחות 156 בני אדם נהרגו באירוע, בהם 120 ילדים ו-26 מורים • במקביל: האו\"ם מאשים את איראן בדיכוי קטלני של מפגינים",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21451520",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T13:53:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21451504",
-      "title": "אקס מכבי תל אביב נענש במדינתו: \"לא כיתת יורים\"",
-      "summary": "פרדראג ראיקוביץ', ששיחק בעשור הקודם במדי הצהובים וכיום משמש כשוער הראשון של אל איתיאחד, לא זומן לנבחרת סרביה לאחר ש\"הבריז\" ממשחקי ידידות בחודש יוני: \"הקריטריון הסופי הוא מידת המחויבות של השחקנים לנבחרת הלאומית\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21451504",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T13:52:53.000Z"
     }
   ]
 }
