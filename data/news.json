@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:15:47.912Z",
+  "updatedAt": "2026-09-23T03:30:58.432Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/pj74dhbin",
+      "title": "התחזית: רגיל לעונה",
+      "summary": "הטמפרטורות היום יהיו רגילות לעונה, ומזג האוויר יהיה מעונן חלקית עד בהיר. מחר לא צפוי שינוי, ובשישי ייתכן טפטוף עד גשם מקומי קל לאורך מישור החוף",
+      "link": "https://www.ynet.co.il/news/article/pj74dhbin",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-23T03:15:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21467569",
+      "title": "אחרי שנתיים: הקאמבק של דנית גרינברג",
+      "summary": "פרסום ראשון: אחרי שחזרה לזוגיות עם מני יונה, ל-ForReal נודע כי המשפיענית סוגרת מעגל נוסף",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21467569",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T03:08:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21468324",
+      "title": "נועה קירל בספרדית: הטריילר נחשף (וידאו)",
+      "summary": "יותר משנה אחרי שסיימה תקופת צילומים ארוכה הרחק מהבית, הפרויקט שקירל הגדירה בפני ForReal כ\"הדבר הכי גדול שעשיתי עד היום\" מקבל טריילר, שם רשמי ותאריך עלייה בפריים וידאו",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21468324",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-23T03:06:22.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1369734",
       "title": "החיבוק לחמאס והאובססיה כלפי ישראל: כך עובדת המערכת של מזכ\"ל האו\"ם",
@@ -17373,24 +17400,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-18T03:48:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21442686",
-      "title": "רבי המכר של ישראל היום: ריס ווית'רספון נכנסת למצעד",
-      "summary": "הגל השני של ספרי שורדי השבי, שכולל את \"עיישה\" ו\"מפגש עם עצמי בגיהנום\" כבש את העשירייה • ספרו החדש של אבינתן אור נכנס הישר למקום השני • 60% מספרי המצעד שייכים לקטגוריית העיון • כל מה שקרה השבוע ברבי המכר",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21442686",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-18T03:30:40.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hk26h8dkkmx",
-      "title": "חשיבות השירות הציבורי לכלכלת ישראל",
-      "summary": "למרות שיש הרואים בשירות הציבורי מנגנון של \"דיפ סטייט\" אשר מונע מהממשלה להיטיב עם הציבור, הממצאים מראים שהמצב הוא בדיוק הפוך. שירות ציבורי חזק ועצמאי מנטרל במידה רבה את הנזקים ששלטון פופוליסטי גורם",
-      "link": "https://www.ynet.co.il/news/article/hk26h8dkkmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-18T03:23:00.000Z"
     }
   ]
 }
