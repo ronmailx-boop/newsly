@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:31:22.888Z",
+  "updatedAt": "2026-09-24T00:45:43.184Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-24T14:21:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/by4mpcbqfe",
+      "title": "בשם ה\"גיוון\": האוניברסיטה היוקרתית החליפה סטודנט לבן בדמות AI שחורה",
+      "summary": "בניסיון להציג את עצמה כמגוונת ומכילה, באוניברסיטת סטנפורד השתמשו בבינה מלאכותית כדי \"לשפר\" כרזת פרסום קיימת - והחליפו סטודנט בצעירה שחורה, בעוד ששניים נוספים עברו גם הם \"טיפול\" וזכו במראה יותר מושך. הסטודנט זעם: \"זה גרם לי להרגיש מושתק. סטנפורד צריכה לפעול כדי ליצור קהילה מגוונת״",
+      "link": "https://www.ynet.co.il/news/article/by4mpcbqfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-24T00:42:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21476380",
@@ -20127,15 +20136,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-19T01:00:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21452745",
-      "title": "במהלך מבחן אבטחה: ג'מיני \"ברח\" מהמעבדה - ופרץ לשלוש חברות | דיווח",
-      "summary": "מודל ה-AI של גוגל התחבר בטעות לאינטרנט, פיצח סיסמאות וחדר למערכות של שלוש חברות אמיתיות • גוגל לא פרסמה את המקרה שאירע בחודש מאי, וטענה כי הבינה המלאכותית \"פעלה כראוי\" כשעצרה את עצמה • החשיפה מגיעה בשיאו של גל פאניקה בתעשייה מפני בינה מלאכותית שיוצאת משליטה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21452745",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-19T00:45:16.000Z"
     }
   ]
 }
