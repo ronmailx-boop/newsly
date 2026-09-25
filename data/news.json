@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:31:01.926Z",
+  "updatedAt": "2026-09-25T17:45:46.535Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjwkj7e9fx",
+      "title": "אסון בערב החג: הרוג בתאונת דרכים בכביש 90, שניים נפצעו קשה ובינוני",
+      "summary": "גבר כבן 60 אותר בתעלה לצד הדרך, סמוך ליישוב משואה שבבקעת הירדן, ומותו נקבע בזירה. שני גברים נוספים, בני 40 ו-30, נפצעו קשה ובינוני - ופונו לטיפול בבית החולים",
+      "link": "https://www.ynet.co.il/news/article/sjwkj7e9fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T17:28:30.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1370782",
       "title": "תאונה קטלנית בכביש 90: בן 60 נהרג, שניים נפצעו קשה",
@@ -75,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T16:49:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21489164",
+      "title": "הרוג וחמישה פצועים בתאונה קשה סמוך לשלומציון",
+      "summary": "גבר כבן 60 נהרג בתאונה בין ארבעה כלי רכב • שני גברים כבני 60 ו־40 נפצעו קשה, גבר כבן 30 נפצע בינוני ושניים נוספים נפצעו קל • הפצועים פונו לבתי החולים במסוקים ובאמבולנסים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21489164",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T16:44:49.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21489164",
