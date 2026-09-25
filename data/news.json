@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:45:49.355Z",
+  "updatedAt": "2026-09-25T05:00:53.001Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/netanyahu-milei-meeting-un-argentina-support",
+      "title": "נתניהו למיליי: \"אתה מדבר למען האמת וזו הסיבה שאתה תומך בישראל\"",
+      "summary": "ראש הממשלה נפגש עם נשיא ארגנטינה לאחר נאומו באו\"ם • הודה לו על תמיכתו האיתנה במדינת ישראל | דנו בהרחבת \"הסכמי יצחק\" בהובלת מיליי (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/netanyahu-milei-meeting-un-argentina-support",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T04:57:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/nazareth-shooting-suspect-neutralized-police",
+      "title": "ירה לעבר בית בנצרת - ונורה למוות: כך נוטרל החשוד בזירה",
+      "summary": "בלשים זיהו חשוד מבצע ירי מסיבי לעבר בית בנצרת • חתרו למגע ונטרלו אותו בירי | במקום נתפס נשק מסוג M-16 (משטרה)",
+      "link": "https://www.kikar.co.il/police/nazareth-shooting-suspect-neutralized-police",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T04:56:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/beit-shemesh-man-burned-hot-oil-moderate-condition",
+      "title": "בשכונה החרדית בבית שמש: גבר נכווה קשה משמן רותח - ופונה במצב בינוני",
+      "summary": "מתנדבי מד\"א וצוות הצלה הוזעקו לבית עסק ברמת בית שמש • הגבר סבל מכוויות דרגה שנייה בפלג גופו העליון | פונה לשיבא תל השומר (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/beit-shemesh-man-burned-hot-oil-moderate-condition",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T04:47:43.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/electric-bike-rider-injured-herzl-jerusalem",
       "title": "גשר המיתרים: חרדי רכב על אופניים חשמליים, החליק - ונפצע קשה",
@@ -75,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T04:20:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1370599",
+      "title": "תסכול, חרדה וקשיים חברתיים: זינוק בפונים לסיוע נפשי בתקופת החגים",
+      "summary": "נתוני סה\"ר מחגי תשרי מצביעים על המקום המשמעותי שתופסים השנה קשיים משפחתיים וחברתיים בשיחות הסיוע, לצד דיכאון, חרדה, תסכול וחוסר תקווה",
+      "link": "https://www.maariv.co.il/news/health/article-1370599",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T04:15:50.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1370599",
@@ -23403,33 +23439,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-20T05:10:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369102",
-      "title": "אפילו בפוקס הזהירו: המהלך של טראמפ שמטלטל את וושינגטון",
-      "summary": "טראמפ מימש את איומו: כתבי CNN, ‏MS NOW ופוליטיקו סורבו בכניסה לבית הלבן ותגיהם הוחרמו. הביקורת הגיעה מכלי תקשורת, מהדמוקרטים וגם מקולות שמרניים: \"יום אחד יחרימו אותנו\"",
-      "link": "https://www.maariv.co.il/news/world/article-1369102",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T04:57:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369102",
-      "title": "התגים הוחרמו: הצעד של טראמפ שמסעיר את ארה\"ב",
-      "summary": "טראמפ מימש את איומו: כתבי CNN, ‏MS NOW ופוליטיקו סורבו בכניסה לבית הלבן ותגיהם הוחרמו. הביקורת הגיעה מכלי תקשורת, מהדמוקרטים וגם מקולות שמרניים: \"יום אחד יחרימו אותנו\"",
-      "link": "https://www.maariv.co.il/news/world/article-1369102",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T04:57:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21457409",
-      "title": "מנור סולומון קיבל מחמאה נדירה: \"קשה להתמודד איתו\"",
-      "summary": "הישראלי היה השחקן הבולט בווסטהאם ב-2:2 עם מילוול ובישל את השער השני של קבוצתו שהשלים את הקאמבק מול היריבה המושבעת • מאמנה פרגן לאחר מכן: \"פתאום הוא הופיע\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21457409",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T04:47:32.000Z"
     }
   ]
 }
