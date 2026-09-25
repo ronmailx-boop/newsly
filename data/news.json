@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:15:48.374Z",
+  "updatedAt": "2026-09-25T10:31:06.066Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370696",
+      "title": "רס\"ר נדב קלי ז\"ל הובא למנוחות: \"היה איתנו בהחלטות הכי חשובות\"",
+      "summary": "רס\"ר (מיל') נדב קלי, בן 24 מהר חלוץ, לוחם בגדוד 7007 בחטיבה 16, שנפל אתמול ברצועת עזה, הובא למנוחות בבית העלמין במשגב. חבריו סיפרו: \"מבחינתנו נדב היה אדם מרכזי במעגל שלנו ועבור כולם\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1370696",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T10:22:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1370694",
+      "title": "הדוד סם אורז מזוודות: ארה\"ב נסוגה מהמזרח התיכון - מי יירש אותה?",
+      "summary": "המגזין \"האקונומיסט\" טוען כי לאחר עשרות שנים של שליטה אמריקאית, שלוש מלחמות ומאבקים דיפלומטיים, וושינגטון צפויה לצמצם את תפקידה במזרח התיכון. איראן, טורקיה וישראל עשויות להתמודד על החלל שייווצר",
+      "link": "https://www.maariv.co.il/news/world/article-1370694",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T10:21:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syylepq9ge",
+      "title": "שני נופלים ביישוב הקטן, בית מול בית: \"נדב היה לוחם אמיתי בנפש, בכל המובנים\"",
+      "summary": "רס\"ר (מיל') נדב קלי שנהרג מפיצוץ הרחפן ברצועה הותיר אחריו הורים, שני אחים גדולים, ואת רותם - שהייתה בת זוגו מגיל 17. \"מגיל ממש צעיר אני זוכר את החיוך הענק שלו\", אמר חברו יואב. עמית הוסיף: \"הוא תמיד היה נאמן לעצמו\". מול בית הוריו בהר חלוץ בגליל העליון התגורר איתי סעדון, שנפל בנובמבר 2023",
+      "link": "https://www.ynet.co.il/news/article/syylepq9ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T10:19:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/haredi-soldiers-build-sukkot-lebanon",
       "title": "בעומק לבנון ומול חיזבאללה: כך החיילים החרדים נערכים לסוכות",
       "summary": "לוחמי חטיבת החשמונאים וכפיר בונים סוכות בגזרות השונות • הכנות לחג בלב הזירה המבצעית | תיעודים מיוחדים מהשטח (צבא)",
@@ -39,6 +66,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T10:08:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21488209",
+      "title": "בואו נפסיק לנרמל השפלות בשם הריאליטי. זה מביך",
+      "summary": "יוצאות ריאליטי צריכות לדעת שלא כולם יאהבו אותן, וביקורת היא חלק מהחשיפה. אבל קללות, השפלות ופנייה פוגענית ברחוב הן לא \"מחיר הפרסום\". וכשמנרמלים את זה בשם צרות גדולות יותר, מפספסים את הבעיה האמיתית",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21488209",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T10:04:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21488178",
+      "title": "אני יצאתי לפני חמש: \"המטבחון\" נכנס לסוכה",
+      "summary": "הבטיחו מלחמה בחגים וביטלתי נסיעה • הבטיחו לקצר את החופשות של הילדים אבל נראה שהן רק מתארכות • הבטיחו שבחול המועד נוכל לנוח קצת, אבל נראה שכולם עובדים - חוץ מאיש אחד • המטבחון: מדור מאויר",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21488178",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T10:03:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21488237",
+      "title": "אחרי ההקלה בחודש שעבר: הבשורה הרעה לנהגים",
+      "summary": "לפי ההערכות, מחיר ליטר בנזין עשוי לזנק בכ-40 אגורות בעקבות עליית מחירי הנפט והמחסור בכושר זיקוק • המחיר הסופי ייקבע בסוף החודש • \"ההתייקרות מראה את חוסר האפקטיביות של הפחתת המס על הבלו\"",
+      "link": "https://www.israelhayom.co.il/business/article/21488237",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T10:00:28.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21481164",
@@ -93,6 +147,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T09:39:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370681",
+      "title": "לקראת הבחירות: גדי איזנקוט מקבל את האבטחה הטובה ביותר של השב\"כ",
+      "summary": "גורמים במערכת הביטחון אמרו ל\"מעריב\" כי ביממות האחרונות מתקיימים הדיונים הסופים בשב\"כ באשר לתוכנית ולהיקף האבטחה, וההערכה היא כי כבר בימים הקרובים יקבלו ביחידה לאבטחת אישים את האחריות המלאה לאבטחתו",
+      "link": "https://www.maariv.co.il/news/politics/article-1370681",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T09:39:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1370681",
@@ -23385,15 +23448,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-20T10:46:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21458547",
-      "title": "ניסיון פיגוע דריסה בשומרון: מחבל חוסל, החשוד השני מת מפצעיו",
-      "summary": "שני חשודים ניסו לדרוס חיילים סמוך לגנים בצפון השומרון • צה״ל אישר כי אחד מהם חוסל במהלך ניסיון הדריסה • אין נפגעים בקרב כוחות צה\"ל",
-      "link": "https://www.israelhayom.co.il/news/local/article/21458547",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T10:30:25.000Z"
     }
   ]
 }
