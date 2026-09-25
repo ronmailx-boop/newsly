@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:01:08.658Z",
+  "updatedAt": "2026-09-25T12:15:55.395Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/israeli-teen-killed-kyiv-drone-attack",
+      "title": "נער בן 14 בעל אזרחות ישראלית נהרג במתקפה רוסית על אוקראינה",
+      "summary": "נער בן 14 בעל אזרחות ישראלית נהרג הבוקר בפגיעת כטב\"ם בבניין מגורים במרכז קייב • אמו נפצעה ופונתה לטיפול | משרד החוץ מטפל במקרה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/israeli-teen-killed-kyiv-drone-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T12:15:15.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21488709",
       "title": "רוצים לקנות אייפון 18 ולקבל כסף בחזרה? כך תעשו את זה",
@@ -120,6 +129,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T11:33:38.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk6vvaxczg",
+      "title": "נער ישראלי נהרג מפגיעת כטב\"ם רוסי בקייב",
+      "summary": "לנער בן ה-14 אזרחות ישראלית. הכטב\"ם פגע בבית משפחתו במרכז הבירה האוקראינית, לא רחוק מהשגרירות הישראלית. סבו וסבתו מתגוררים בארץ - והמשפחה ביקשה להטיס את גופתו לקבורה כאן",
+      "link": "https://www.ynet.co.il/news/article/rk6vvaxczg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T11:21:47.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk6vvaxczg",
