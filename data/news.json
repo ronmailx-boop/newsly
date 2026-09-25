@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:15:48.495Z",
+  "updatedAt": "2026-09-25T05:30:50.127Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim/landau-charity-distribution-jerusalem-traffic-chao",
+      "title": "מעטפה עם 1,200 ש\"ח לאברך: אלפים נהרו לחלוקת הצדקה של הנגיד",
+      "summary": "הנגיד יואלי לנדאו מחלק 1200 ש\"ח לכל אברך נשוי • אלפי אנשים נהרו לבניין ישיבת אורייתא | קווי אוטובוס לא נכנסים לרחוב שטראוס (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/landau-charity-distribution-jerusalem-traffic-chao",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T05:26:07.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1370533",
+      "title": "אסון ברצועת עזה: שני חיילים נהרגו כתוצאה מתאונה מבצעית",
+      "summary": "רס\"ר נדב קלי ורס\"ר אופק מועלם, שני לוחמים במילואים של חטיבה 16, נהרגו אמש במהלך תאונה מבצעית. זאת, לאחר שהטיסו רחפן נפץ שהתרסק בתוך המוצב. פרטי האירוע עדיין נבדקים",
+      "link": "https://www.maariv.co.il/news/military/article-1370533",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T05:23:02.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyrqjy7qfx",
+      "title": "אסון ברצועת עזה: שני לוחמי מילואים נהרגו בפיצוץ רחפן צה\"לי",
+      "summary": "לוחמי המילואים נדב קלי מהר חלוץ ואופק מועלם מירושלים הטיסו שני רחפנים. אחד מהם התרסק בתוך המוצב שבו שהו בבית חאנון, וכשניגשו אליו - מסיבה שאינה ברורה - התפוצץ. כלל כיווני החקירה נבדקים, כולל אם בעיה בתקשורת היא שהובילה לפיצוץ",
+      "link": "https://www.ynet.co.il/news/article/hyrqjy7qfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T05:22:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/belleville-synagogue-shooting-video-yom-kippur-can",
+      "title": "\"אתם הולכים למות למען היהודים\", צעק המחבל לשוטרים | תיעוד מזעזע מהפיגוע ביום כיפור בקנדה",
+      "summary": "משטרת קנדה חשפה תיעוד מרגעי הפיגוע בבית הכנסת בבלוויל, בזמן תפילת כל נדרי בליל יום הכיפורים • היורה צעק לעבר השוטר רגע לפני שפתח באש | \"זו הייתה מתקפה מכוונת נגד הקהילה היהודית\", אמר מפקד המשטרה, שחשף פרטים חדשים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/belleville-synagogue-shooting-video-yom-kippur-can",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T05:18:14.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1xffq75gl",
+      "title": "מבודד, לעומתי ו\"נלחם על עתידו הפוליטי\": נאום נתניהו באו\"ם בכותרות בעולם",
+      "summary": "הבחירות המתקרבות לא נעלמו מעיני כלי התקשורת בעולם שסיקרו את דברי ראש הממשלה בכינוס העצרת הכללית של האו\"ם כ\"נאום בחירות\" שנועד לקהל בישראל. בהיעדר פגישה עם טראמפ, חלק סברו שביקור הבזק דווקא פגע בתדמיתו של נתניהו. באיטליה בחרו להבליט את דבריו על המתנחלים הקיצונים: \"מעטים\"",
+      "link": "https://www.ynet.co.il/news/article/s1xffq75gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T05:16:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21487137",
+      "title": "\"העיתונאים משקרים\": החגיגה של סייד אבו פרחי הציתה סערה עולמית",
+      "summary": "חלוץ נבחרת ישראל כבש - והורחק אחרי שביצע את תנועת הסנוקר הקבועה שלו עם דגל הקרן • כלי תקשורת בולטים מיהרו להכריז שמדובר בדימוי ירי: \"זה מכוון כדי להציג אומה שלמה באור שטני\" • רן בן שמעון: \"זו טעות שלי שלא אמרתי לו שהוא חייב להפסיק עם זה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21487137",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T05:10:08.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/defense-minister-katz-chabad-delegation-rebbe-secu",
       "title": "3 שנים לטבח שבעה באוקטובר: דיון חריג בלשכת שר הביטחון - שקיבל סט לסוכות",
       "summary": "משלחת אגודת חסידי חב\"ד התקבלה בלשכת שר הביטחון כץ • הוצג הספר 'עושה שלום' על תפיסת הרבי בנושאי ביטחון | דיון ממושך על עקרונות מדיניים לאור שיחות הרבי (חסידים ואנ\"ש)",
@@ -39,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T05:05:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370548",
+      "title": "השקרים, הספינים והעלילות: הקרב החדש שמאיים לשנות את מערכת הבחירות | בן כספית",
+      "summary": "לעובדי מפעל הרעל אירעה לפני כמה חודשים תקלה מצערת: הם התכוננו לטווח את בנט, אלא שפתאום צץ להם איזנקוט – פטריוט ללא רבב וישר כסרגל. מה עושים? | לא חייבים להתרגש מהוויכוחים בגוש השינוי",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370548",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T05:00:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370548",
