@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T06:01:55.775Z",
+  "updatedAt": "2026-09-25T06:15:58.883Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370553",
+      "title": "200 אלף מצביעי ליכוד על הכוונת: התוכנית של גדי איזנקוט לשבור את גוש הימין",
+      "summary": "בנסיון לשבור את התיקו בין הגושים, במפלגה מרכזים מאמץ גם בציבור המסורתי. מטרה נוספת: 200 אלף מצביעי ליכוד \"פריכים\", שמתלבטים בין כמה מפלגות ואף עשויים להישאר בבית",
+      "link": "https://www.maariv.co.il/news/politics/article-1370553",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T06:10:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/85623",
+      "title": "הותרו לפרסום שמות שני חללי צה\"ל שנפלו ברצועת עזה",
+      "summary": "הותרו לפרסום שמות שני חללי צה\"ל שנפלו בקרב ברצועת עזה לאחר שההודעה נמסרה למשפחותיהם: רס\"ר (מיל') נדב קלי, בן 24 מהר חלוץ, ורס\"ר (מיל') אופק מועלם, בן 23 מירושלים. שניהם לחמו בגדוד 7007 מחטיבה 16.",
+      "link": "https://www.kikar.co.il/scoop-news/85623",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T06:02:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21487259",
+      "title": "שפל היסטורי לאקס הפועל תל אביב: \"היה בעייתי בכל קבוצה\"",
+      "summary": "הבכורה של ג'ונתן מוטלי בכוכב האדום בלגרד הסתיימה עם ההופעה השנייה הכי גרועה בתולדות היורוליג • מאמן העבר תקף: \"חיפשו להעיף אותו, מנטלית הוא לא שייך לרמה הזו\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21487259",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T05:58:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/by2ynt79fl",
+      "title": "חשד לרצח בחיפה: אישה אותרה ללא רוח חיים, בן זוגה נעצר",
+      "summary": "האישה בשנות ה-30 לחייה פונתה לרמב\"ם ושם נקבע מותה. במשטרה אמרו כי כלל כיווני החקירה נבדקים. בן הזוג, בן 28, נעצר לטובת בירור מעורבותו",
+      "link": "https://www.ynet.co.il/news/article/by2ynt79fl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T05:55:02.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/by2ynt79fl",
       "title": "אישה אותרה ללא רוח חיים בחיפה, בן זוגה נעצר",
       "summary": "האישה בשנות ה-30 לחייה פונתה לרמב\"ם ושם נקבע מותה. במשטרה אמרו כי כלל כיווני החקירה נבדקים, כולל אפשרות לפגיעה עצמית. בן הזוג, בן 28, נעצר לטובת בירור מעורבותו",
@@ -48,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T05:50:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21487247",
+      "title": "200 דולר למי שלא יצביע: צו נגד עמותה סאטמרית שניסתה לשחד בוחרים",
+      "summary": "הצו הארעי, שניתן בהוראת השופט נעם סולברג, אוסר על עמותת \"'קל הטהור\" להעניק לבוחרים כסף כדי להשפיע עליהם שלא יצביעו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21487247",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T05:32:30.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bytzhp75zg",
@@ -1281,6 +1326,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-24T20:00:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21486035",
+      "title": "בחצאית מקסי שחורה: יעל שלביה חושפנית מדי לחתונה",
+      "summary": "לא רק הכלה: החתונה של עומר נודלמן ריכזה שורה של פנים מוכרות, וכל אחת הביאה איתה לוק משלה • מהתכלת ההוליוודי של גל מלכה ועד השמלה הלבנה של נטע אלחמיסטר: מצעד המתלבשים הטובים - ואלה שפחות",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21486035",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-24T19:57:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21486035",
@@ -23385,33 +23439,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-20T06:16:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21457661",
-      "title": "למרות מקום ראשון וביקורות נלהבות: אמזון ביטלה את סדרת הלהיט",
-      "summary": "\"על החיים ועל המוות\", קומדיית הריגול המבדרת בכיכובן של האנה וודינגהם ואוקטביה ספנסר לא תחזור לעונה שנייה בפריים וידאו, שירות הסטרימינג של אמזון. פרמאונט, שמפיקה אותה, מנסה למצוא לה בית חדש",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21457661",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T06:15:55.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369115",
-      "title": "מוסקבה מופצצת: מתקפת מל\"טים משתקת את הבירה הרוסית",
-      "summary": "אם ושני ילדיה בני ה-3 נרצחו בתקיפת כטב\"ם רוסית באזור קייב. הבחירות לפרלמנט הרוסי נפתחו, בצל התקפות בלתי פוסקות על הבירה מוסקבה",
-      "link": "https://www.maariv.co.il/news/world/article-1369115",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T06:11:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21457502",
-      "title": "מחילה גמורה: מהתיק הפלילי בגיל 16 לקצונה בצנחנים",
-      "summary": "בגיל 16, אחרי שנפלט מהישיבה וחי ברחוב, נתפס י' עם סמים ונפתח לו תיק • מאז השתקם, התגייס לצה\"ל, לחם בשלוש זירות והפך למפקד • רגע לפני שסיים קורס קצינים, הגיעה הבשורה שחיכתה לו: הרישום הפלילי נמחק",
-      "link": "https://www.israelhayom.co.il/news/local/article/21457502",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T06:04:19.000Z"
     }
   ]
 }
