@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T03:01:18.856Z",
+  "updatedAt": "2026-09-25T03:16:04.262Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,114 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjfxriq9me",
+      "title": "בובת ברבי לחנוכה עם \"אף יהודי\"? הסערה שעורר מותג הענק",
+      "summary": "לראשונה בתולדות המותג, הושקה בובה רשמית לכבוד חג האורות - עם חנוכייה מוארת, סביבונים וסוודר כחול. אלא שמאז שהתמונות הופצו ברשת, הדיון עבר במהירות לאף שלה, שלטענת חלק מהאספנים נראה שונה ובולט יותר משל ברביות אחרות: \"אולי כדי לחקות תווי פנים יהודיים\"",
+      "link": "https://www.ynet.co.il/news/article/sjfxriq9me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T03:07:46.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/xei353riw",
+      "title": "התחזית: טפטוף ואף גשם מקומי קל לאורך החוף",
+      "summary": "המשקעים ייתכנו בשעות הבוקר. הטמפרטורות ירדו מחר, וביום שני מידות החום יעלו. בצפון אף צפוי מדי פעם גשם מקומי קל",
+      "link": "https://www.ynet.co.il/news/article/xei353riw",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T03:04:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370574",
+      "title": "שתי בעיות ליוו את נתניהו באו\"ם. רק אחת מהן נמצאת בידיים שלו | שלמה שמיר",
+      "summary": "נתניהו שוב הוכיח שאין לו מתחרים בזירה הישראלית כשהוא עולה לדוכן האו\"ם, אבל השנה הנאום המצוין פגש מציאות אחרת: ארגון שאיבד את הרלוונטיות שלו וראש ממשלה שמעמדו בעולם הידרדר באופן חמור ביותר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370574",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370558",
+      "title": "בזמן שנתניהו מסתכל על ליברמן, החיזור אחרי וינטר מגיע מכיוון אחר לגמרי",
+      "summary": "למרות שבמפלגת \"ישר\" מודים שמעבר של וינטר ירחיק את גוש השינוי מ-61, הם כבר לא שוללים דיל פוליטי איתו ביום שאחרי. במקביל, בליכוד נכנסים ללחץ מהסקרים",
+      "link": "https://www.maariv.co.il/news/politics/article-1370558",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1370546",
+      "title": "סקר מנדטים של מעריב | הליכוד שומר על כוחו - אבל לנתניהו יש סיבה אחרת לדאוג",
+      "summary": "יהדות התורה וש\"ס איבדו מנדט כל אחת, הליכוד נותרה על 18, וגוש נתניהו ירד ל-49 מנדטים | האופוזיציה הציונית עלתה ל-55 מנדטים",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1370546",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370545",
+      "title": "כל כך פשוט: הייחודיות של חג הסוכות | הרב מנחם גערליצקי",
+      "summary": "ארבעת המינים - זו ממש לא בעיה. סוכה - גם זה ממש קל. אתה מזמין כמה אחיינים צעירים מוכשרים וחרוצים, וביחד אתם בונים את הסוכה | פשטות החג שבא עלינו לטובה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370545",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1370536",
+      "title": "המשטרה מיהרה לפרסם - סגן הרמטכ\"ל גילה על המנהרה מראש עיריית כפר סבא | אבי אשכנזי",
+      "summary": "הפיקוד הבכיר נחשף לאירוע רק מהודעת ראש עיריית כפר סבא, ובצה\"ל טוענים כי המשטרה פרסמה מידע לפני השלמת בדיקת יהל\"ם - שעות אחרי עימות נוסף בין הגופים",
+      "link": "https://www.maariv.co.il/news/military/article-1370536",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370532",
+      "title": "ישראל יצאה להגנת יהודי קנדה. ומה עם הפגיעה ביהודים בירושלים? | נחמן שי",
+      "summary": "אם הממשלה מתייצבת בצורה כל כך חד-משמעית לצד הקהילה היהודית בבלוויל שבאונטריו כשהיא מותקפת, מדוע היא לא עושה את אותו הדבר בנוגע לקהילה היהודית הרפורמית בשכונת בקעה בירושלים?",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370532",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370523",
+      "title": "מ\"דיאלנא\" ועד הליכוד: החיבור של איזנקוט עדיין לא משכנע | עו\"ד מיכאל קליינר",
+      "summary": "הניסיון לברוא לראש מפלגת ישר! אותנטיות עדתית רטרואקטיבית, יש מאין, כדי להעביר אליו מצביעי ליכוד, אף שכל ימיו הסתתר מאחורי שם גרמני למהדרין, מעורר יותר לעג מאשר הזדהות",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370523",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370519",
+      "title": "גדי איזנקוט מתחמק מהתשובה הפשוטה - ומסבך את הבחירות",
+      "summary": "ככה לא בונים חומה: גוש השינוי חייב להסביר איך ייבחר ראש הממשלה. הפתרון פשוט – ומגיע לבוחר לדעת מהו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370519",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370518",
+      "title": "משבר המים לא נעצר בגבול המדיני: האיום האזורי שישראל לא ערוכה אליו | ד\"ר ענת הוכברג-מרום",
+      "summary": "מתקני ההתפלה הם חוליה חלשה בביטחון הלאומי של ישראל, ולכן לצד בניית מערך תרחישי חירום למצבי קיצון, על הממשלה לקדם דיאלוג אזורי בנושא אבטחת תשתיות מים",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370518",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T03:00:46.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bj3lpjkcgg",
+      "title": "ברח מהחוק באוניית פאר - ונפצע מירי של שוטר | בחזרה לפרשת אבישי הראל",
+      "summary": "הוא היה איש עסקים ובליין תל אביבי שהתחתן עם דוגמנית עד שגילתה שהוא גרוש. זו לא הייתה",
+      "link": "https://www.ynet.co.il/news/article/bj3lpjkcgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T03:00:00.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1370581",
       "title": "\"מעולם לא ראיתי דבר כזה\": שגריר ארה\"ב מייק האקבי קיבל אתרוג ענק לקראת חג הסוכות",
