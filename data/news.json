@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:30:58.595Z",
+  "updatedAt": "2026-09-25T08:45:45.042Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1370662",
+      "title": "סערה בגרמניה: מועצה בסקסוניה עצרה הצבת אבני נגף חדשות לזכר קורבנות הנאצים",
+      "summary": "מועצת היידנאו שבסקסוניה החליטה שלא לאפשר הצבת \"אבני נגף\" חדשות במדרכות העיר לזכר קורבנות הנאצים ולרכז את ההנצחה בבית עלמין בעיר. ההחלטה, שקודמה בין היתר על ידי נציגי CDU ו-AfD, עוררה ביקורת חריפה",
+      "link": "https://www.maariv.co.il/news/world/article-1370662",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T08:44:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1370663",
+      "title": "אחד מכל שני מוסלמים ו-43% מהצעירים: הנוסחה שהעלתה את השמאל בברלין",
+      "summary": "המגעים להרכבת הממשלה המקומית בברלין נכנסים לשלב ראשון. מפלגת השמאל \"די לינקה\" מובילה, אבל זהות ראש העיר הבא או הבאה עדיין אינה ברורה",
+      "link": "https://www.maariv.co.il/news/world/article-1370663",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-25T08:43:01.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tlwvj1",
+      "title": "מספידים את המקובל: \"נשא קולו ללא מורא כנגד המבקשים להחליש את כוח התורה\"",
+      "summary": "הראש\"ל הגר\"י יוסף: \"מרן האבא היה מחבב אותו\" | ש\"ס: \"הרביץ תורה והעמיד תלמידים הרבה, ענוותן כהלל, עמודא דצלותא, אשר שפך שיח בתפילות קודש ובתיקונים נשגבים למען כלל ישראל\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tlwvj1",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-25T08:32:30.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/apa-accreditation-suspension-antisemitism-recommen",
       "title": "ועדה פדרלית בארה\"ב המליצה להשעות את איגוד הפסיכולוגים בגלל אנטישמיות",
@@ -66,6 +93,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T08:21:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21487778",
+      "title": "\"וסיליה מיציץ' לא סופר את דימיטריס איטודיס, לא בטוח שיש שם כבוד\"",
+      "summary": "פיני גרשון ועפר \"ג'ובה\" גרוס סיכמו ב\"על הבאזר\" את ההפסד של הפועל תל אביב לבאיירן מינכן בפתיחת המפעל, והתייחסו למערכת היחסים בין הכוכב למאמן: \"זו שמועה שרצה הרבה מאוד זמן\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21487778",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T08:20:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21487794",
+      "title": "רחפנים על סיב אופטי: האיום החדש שישראל נערכת לחסום",
+      "summary": "טיוטת צו מציעה לאסור ייבוא מסחרי ואישי של רחפנים המופעלים בסיב אופטי, לצד חלקים, רכיבים וציוד לייצורם • במערכת הביטחון מזהירים משימוש עוין שעלול לסכן כוחות, תשתיות ואזרחים • האיסור צפוי לחול מיידית למשך חצי שנה",
+      "link": "https://www.israelhayom.co.il/business/article/21487794",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-25T08:18:52.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/dayan-haamet/chaya-ruchama-maklev-educator-passed-away-39",
@@ -178,7 +223,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1owjsm5fl",
       "title": "אופק שנהרג באסון הרחפן ברצועה הותיר אח תאום: \"הוא לא היה מסוגל לשבת בצד\"",
-      "summary": "רס\"ר במיל' אופק מועלם השלים את שנת הלימודים הראשונה בהנדסת מכונות לפני שנפל. רועי חברו הטוב סיפר שרק בשבוע שעבר שמע כמה הוא אוהב לשרת במילואים: \"גם כשלא היה לו צו\". אבשלום, שהיה המחנך של אופק: \"הוא היה בחור חכם, ביישן וצנוע. בשיא הטבעיות אמר - אם מישהו צריך אותנו, אנחנו באים\"",
+      "summary": "רס\"ר (מיל') אופק מועלם השלים את שנת הלימודים הראשונה בהנדסת מכונות. רועי חברו סיפר שרק בשבוע שעבר שמע כמה הוא אוהב לשרת במילואים: \"גם כשלא היה לו צו\". אבשלום, שהיה המחנך שלו: \"היה חכם וצנוע\". רס\"ר (מיל') נדב קלי, שנפל לצידו בתקרית, היה שכן של סמ\"ר איתי סעדון ז\"ל שנהרג בעזה ב-2023",
       "link": "https://www.ynet.co.il/news/article/h1owjsm5fl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -390,6 +435,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T07:05:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkyrc9x5gg",
+      "title": "\"בקור רוח מקפיא\": רוצח ראש המאפיה הקווקזית הואשם; מי שלח אותו? לא ידוע",
+      "summary": "דורון ויצמן, בן 54 מבית שאן, מואשם ברצח יאניס יושבייב. הנשק עדיין לא נתפס, והמשטרה לא שמה את ידה על מי ששלח אותו. ויצמן הגיע למסעדה ברכב גנוב עם לוחיות זיהוי מזויפות, הזמין אוכל והמתין ליושבייב - עד שירה בראשו מטווח אפס",
+      "link": "https://www.ynet.co.il/news/article/bkyrc9x5gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-25T07:03:23.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkyrc9x5gg",
@@ -23349,168 +23403,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-20T08:46:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21458109",
-      "title": "כולל עודד קטש והרצוג: \"הנבלים\" שצריכים לבקש סליחה מהספורט הישראלי",
-      "summary": "כמה פעמים היינו צעד מהיסטוריה, ואז החלטה, בעיטה או סל מעצבן שברו את הלב וגנזו את החלום • ה\"נבלים\" של הספורט הישראלי שיכולים לבקש מאיתנו סליחה, או אולי כבר מכפרים על מעשיהם בעולם הבא",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21458109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T08:44:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "פיגוע ירי בערב כיפור: אב לשישה נרצח - המחבל נלכד",
-      "summary": "נתנאל שקרון, אב לשישה ילדים, נרצח בפיגוע ירי במעיין סמוך לנווה צוף, והמחבל נתפס לאחר מצד של כוחות הביטחון. במקביל, ניסיון פיגוע דריסה בחטיבת מנשה הסתיים בחיסול",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "פיגוע ירי בערב כיפור: גבר נרצח - המחבל נלכד",
-      "summary": "גבר כבן 30 נרצח בפיגוע ירי במעיין סמוך לנווה צוף, והמחבל נתפס לאחר מצד של כוחות הביטחון. במקביל, ניסיון פיגוע דריסה בחטיבת מנשה הסתיים בחיסול",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "פיגוע ירי בערב כיפור: גבר נרצח - מצוד אחר המחבל",
-      "summary": "גבר כבן 30 נרצח בפיגוע ירי במעיין סמוך לנווה צוף, והמחבל נמלט כשכוחות הביטחון מנהלים אחריו מצוד. במקביל, ניסיון פיגוע דריסה בחטיבת מנשה הסתיים בחיסול",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "פיגוע ירי בערב כיפור: גבר נפצע קשה - מצוד אחר המחבל",
-      "summary": "אדם כבן 30 נפצע באורח קשה מירי במעיין סמוך לנווה צוף שבבנימין. המחבל יצא מרכבו כשהוא חמוש ונמלט מהמקום. כוחות צה\"ל פתחו במצוד וצירים נחסמו",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "פיגוע ירי בערב כיפור: גבר נפצע אנוש - מצוד אחר המחבל",
-      "summary": "אדם כבן 30 נפצע באורח אנוש מירי במעיין סמוך לנווה צוף שבבנימין. המחבל יצא מרכבו כשהוא חמוש ונמלט מהמקום. כוחות צה\"ל פתחו במצוד וצירים נחסמו",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1369175",
-      "title": "גבר נפצע אנוש בפיגוע ירי סמוך לנווה צוף, המחבל נמלט",
-      "summary": "אדם נפצע באורח אנוש מירי במעיין סמוך לנווה צוף שבבנימין. המחבל נמלט מהזירה ברכב, כוחות צה\"ל פתחו במצוד אחריו",
-      "link": "https://www.maariv.co.il/news/military/article-1369175",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-20T08:43:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-neveh-tzuf-ein-raya-injured",
-      "title": "מחבל ירה מתוך רכב על טובלים במעיין בערב יום כיפור; יהודי נפצע קשה",
-      "summary": "דיווח ראשוני על ירי לעבר אזרחים במעיין עין רעייה • פצוע קשה מחוסר הכרה במקום | המחבל נמלט מהזירה וכוחות צה\"ל פועלים במקום (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-neveh-tzuf-ein-raya-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-20T08:42:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "גבר נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד בבי\"ח אחרי כשלוש שעות",
-      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: גבר כבן 40 שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, חייל ירה לעבר המחבל שנמלט ברגל ונתפס ע\"י יחידת דובדבן. במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "גבר נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד אחרי כשלוש שעות",
-      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: גבר כבן 40 שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, המחבל נמלט ברגל ונתפס ע\"י יחידת דובדבן. פרמדיק מד\"א: \"נלחמנו על חייו בתקווה שהמצב יתייצב\". במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "גבר נרצח בפיגוע ירי במעיין בבנימין, מצוד אחר המחבל",
-      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: גבר כבן 40 שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע. צה\"ל עורך מרדף אחר המחבל שנמלט ברגל. פרמדיק מד\"א: \"נלחמנו על חייו בתקווה שהמצב יתייצב\". במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "פצוע קשה בפיגוע ירי במעיין בבנימין, מצוד אחר המחבל",
-      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: גבר כבן 30 שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון. בנו שהיה ברכב לא נפגע. צה\"ל עורך מרדף אחר המחבל שנמלט ברגל. פרמדיק מד\"א: \"נלחמנו על חייו בתקווה שהמצב יתייצב\". במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "פצוע אנוש בפיגוע ירי בבנימין, מצוד אחר המחבל",
-      "summary": "חובשים ופרמדיקים של מד\"א העניקו טיפול ראשוני לגבר כבן 30 שנמצא מחוסר הכרה באזור היישוב נווה צוף. כוחות צה\"ל פתחו במרדף אחר המחבל שפתח באש ונמלט ברכב",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hybligtffx",
-      "title": "ראשוני: נפגעים מירי באזור בנימין",
-      "summary": "כוחות רבים הוזעקו לזירה באזור נווה צוף, הנסיבות נבדקות",
-      "link": "https://www.ynet.co.il/news/article/hybligtffx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-20T08:38:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85135",
-      "title": "פיגוע ירי במעין נווה צוף; דיווח על נפגעים במקום",
-      "summary": "דובר צה\"ל: ראשוני: התקבל דיווח על ירי במרחב נווה צוף שבחטיבת בנימין, הפרטים בבדיקה. כוחות צה\"ל קפצו לנקודה",
-      "link": "https://www.kikar.co.il/scoop-news/85135",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-20T08:36:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21458134",
-      "title": "סירב להכניסם למלון והותקף: שני קטינים נעצרו באילת",
-      "summary": "לפי המשטרה, ויכוח בין חבורת נערים למאבטח, שסירב לאפשר את כניסתם למלון, הסלים לתקיפה • שני תושבי אילת נעצרו ויובאו לדיון בהארכת מעצרם • לקראת יום הכיפורים יתוגברו כוחות המשטרה ברחבי העיר",
-      "link": "https://www.israelhayom.co.il/news/local/article/21458134",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T08:33:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21457981",
-      "title": "וואטסאפ במהלך ענק: כך ייראו הצ'אטים הבאים שלכם",
-      "summary": "פלטפורמת המסרים הפופולרית משדרגת את חוויית המשתמש • חמש קטגוריות עיצוב חדשות, סנכרון רקעים אוטומטי בקבוצות והתרחבות משמעותית של שפות התמלול המקומיות • במקביל, עדכון בטא חדש חושף פיצ'ר דיקטציה מובנה שפועל ישירות על המכשיר ללא שרתים חיצוניים",
-      "link": "https://www.israelhayom.co.il/tech/apps/article/21457981",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-20T08:32:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/iran-chief-rabbi-selichot-yom-kippur-tehran",
-      "title": "בלב טהרן: המעמד המרגש של הסליחות האחרונות בערב הצום",
-      "summary": "רבה הראשי של איראן הרב יהודה גראמי הוביל את מעמד הסליחות האחרון • בית הכנסת יוסף אבאד בטהרן היה גדוש במתפללים | התיעוד המיוחד מלב הבירה האיראנית (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/iran-chief-rabbi-selichot-yom-kippur-tehran",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-20T08:31:01.000Z"
     }
   ]
 }
