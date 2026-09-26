@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T21:45:59.496Z",
+  "updatedAt": "2026-09-26T22:01:03.745Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21494413",
+      "title": "שוטר נפצע באורח בינוני לאחר שנהג שסירב לעצור לבדיקה התנגש בניידת",
+      "summary": "נהג רכב שהתבקש לעצור לבדיקה בנתניה, המשיך בנסיעה, והתנגש בניידת משטרה • כתוצאה מההתנגשות, נפצע שוטר באורח בינוני ואילו נהג הרכב נפצע באורח קל • השניים פונו לקבלת טיפול רפואי",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21494413",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-26T21:42:48.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21494401",
       "title": "מתחיל נעים ונאה - מסתיים גשום וקריר: תחזית מזג האוויר לחול המועד",
       "summary": "בראשון ושני מידות החום עדיין יהיו רגילות לעונה אך בשלישי תורגש ירידה בטמפרטורות, שתימשך גם לרביעי • הגשם יירד בצפון הארץ וייכנס גם לאזור המרכז, כשבמקביל ייתכן טפטוף עד גשם מקומי קל בעיקר בצפון ובמישור החוף",
@@ -50,19 +59,19 @@
       "pubDate": "2026-09-26T21:04:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14909353",
-      "title": "הדר מוכתר כמשל",
-      "summary": "השבוע הופץ סרטון נוסף שבו מוכתר טוענת כי החרדים מקבלים מהמדינה הרבה פחות מחלקם היחסי באוכלוסייה, בעוד מילואימניקים מקבלים הרבה יותר. זה כמובן שקר מוחלט",
-      "link": "https://www.ynet.co.il/news/article/yokra14909353",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14909830",
+      "title": "הגיע הזמן להיחלץ מהעיוורון הקולקטיבי",
+      "summary": "שלל הבטחות וסיסמאות מפוצצות הובילו לכך שהישראלים הפסיקו להטיל ספק בפסיקות מקבלי ההחלטות, ונכלאו בתוך בועה של אמונה בכך שאנחנו צודקים בכל מהלך",
+      "link": "https://www.ynet.co.il/news/article/yokra14909830",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-26T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14909830",
-      "title": "הגיע הזמן להיחלץ מהעיוורון הקולקטיבי",
-      "summary": "שלל הבטחות וסיסמאות מפוצצות הובילו לכך שהישראלים הפסיקו להטיל ספק בפסיקות מקבלי ההחלטות, ונכלאו בתוך בועה של אמונה בכך שאנחנו צודקים בכל מהלך",
-      "link": "https://www.ynet.co.il/news/article/yokra14909830",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14909353",
+      "title": "הדר מוכתר כמשל",
+      "summary": "השבוע הופץ סרטון נוסף שבו מוכתר טוענת כי החרדים מקבלים מהמדינה הרבה פחות מחלקם היחסי באוכלוסייה, בעוד מילואימניקים מקבלים הרבה יותר. זה כמובן שקר מוחלט",
+      "link": "https://www.ynet.co.il/news/article/yokra14909353",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-26T21:03:00.000Z"
@@ -24861,15 +24870,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-21T22:21:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21461181",
-      "title": "אמנון לוי מתחרט: ״היינו חיילים של צה״ל״",
-      "summary": "העיתונאי ואיש הטלוויזיה מותח ביקורת חריפה על עבודת התקשורת מאז 7 באוקטובר • בשיחה עם גיא פלג אמר: \"שני מיליון ומאתיים אלף איש - אין בלתי מעורבים?\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21461181",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-21T21:50:09.000Z"
     }
   ]
 }
