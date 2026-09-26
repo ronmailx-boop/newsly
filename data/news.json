@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:00:55.117Z",
+  "updatedAt": "2026-09-26T05:16:04.031Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkr00yceqgl",
+      "title": "אותר ללא רוח חיים בן ה-17 שנעדר בים באשקלון",
+      "summary": "הנער טבע אתמול בחוף דלילה וחיפושים התנהלו אחריו. צוות מד\"א קבע את מותו במקום. שניים נוספים שטבעו חולצו מהים בחיים",
+      "link": "https://www.ynet.co.il/news/article/hkr00yceqgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-26T05:00:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21489584",
+      "title": "\"ומה עם הפלסטינים?\": הביקורת מירדן על גל גדות",
+      "summary": "אחרי הביקורת שפורסמה ב-The New Arab, גם רשת Roya News הירדנית מפרסמת ביקורת על יוזמת 3 מיליון הדולר של גל גדות לבריאות הנפש בישראל. הפעם מוקד הביקורת שונה: \"הטראומה והסבל הפלסטיניים לא צריכים להיעלם מהשיחה\"",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21489584",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-26T04:52:23.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21489560",
       "title": "סערה נוספת: שתי הופעות של אד שירן בוטלו",
@@ -258,7 +276,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1370829",
-      "title": "67 דקות בנתב\"ג והמסר מקהיר: האזהרה המצרית החריגה לפני טבח שבעה באוקטובר",
+      "title": "11 ימים לפני הטבח: איש הצללים המצרי הגיע לישראל עם אזהרה חריגה - \"משהו חסר תקדים מתבשל\"",
       "summary": "11 ימים לפני המתקפה, ראש המודיעין המצרי נחת הרחק מהעין הציבורית והזהיר מפני מהלך צבאי גדול של חמאס. מנהיגי האזור הבינו שהרצועה רותחת בזמן שמערכת הביטחון המשיכה להתמקד ביהודה ושומרון",
       "link": "https://www.maariv.co.il/news/politics/article-1370829",
       "source": "מעריב",
@@ -267,7 +285,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1370829",
-      "title": "11 ימים לפני הטבח: איש הצללים המצרי הגיע לישראל עם אזהרה חריגה - \"משהו חסר תקדים מתבשל\"",
+      "title": "67 דקות בנתב\"ג והמסר מקהיר: האזהרה המצרית החריגה לפני טבח שבעה באוקטובר",
       "summary": "11 ימים לפני המתקפה, ראש המודיעין המצרי נחת הרחק מהעין הציבורית והזהיר מפני מהלך צבאי גדול של חמאס. מנהיגי האזור הבינו שהרצועה רותחת בזמן שמערכת הביטחון המשיכה להתמקד ביהודה ושומרון",
       "link": "https://www.maariv.co.il/news/politics/article-1370829",
       "source": "מעריב",
@@ -687,6 +705,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T16:23:32.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-507c0d18959d0a1027.htm",
+      "title": "טביעה באשקלון: נקבע מותו של בן 17",
+      "summary": "שלושה גברים שנכנסו לשחות ביחד טבעו, בן 17 שנעדר אותר ללא רוח חיים",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-507c0d18959d0a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-25T16:20:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-507c0d18959d0a1027.htm",
