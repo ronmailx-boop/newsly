@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:15:52.239Z",
+  "updatedAt": "2026-09-27T16:30:55.668Z",
   "sources": [
     {
       "key": "ynet",
@@ -48,6 +48,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-27T19:04:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tm16o5",
+      "title": "טראמפ התראיין לכתב הישראלי - זו תשובתו לשאלה אם יחזור לתקוף באיראן",
+      "summary": "הנשיא האמריקני חשף בריאיון לכתב הישראלי ברק רביד כי צפויות שיחות נוספות עם איראן - אולי כבר מחר | \"הם מעוניינים מאוד בהסכם אך ההצעות לא מקובלות\" | זה מה שענה כשנשאל אם הוא חושב לתקוף (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tm16o5",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-27T16:26:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21500934",
@@ -23889,51 +23898,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-22T16:36:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/polish-diplomat-fall-slovenia-mystery",
-      "title": "פרשה מסתורית באירופה: בכיר נפל מהחלון של מתחם שגרירות - והתיאוריות חוגגות",
-      "summary": "עובד בכיר במשרד החוץ הפולני נפצע באורח מסכן חיים בנפילה במתחם דיפלומטי בסלובניה | גרסאות סותרות על נסיבות האירוע, המשטרה המקומית הודיע באופן מפתיע כי לא תחקור | פרשה מסתורית באירופה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/polish-diplomat-fall-slovenia-mystery",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-22T16:27:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/polish-diplomat-fall-slovenia-mystery",
-      "title": "פרשה מסתורית באירופה: בכיר פולני נפל מהחלון של מתחם שגרירות - והתיאוריות חוגגות",
-      "summary": "עובד בכיר במשרד החוץ הפולני נפצע באורח מסכן חיים בנפילה במתחם דיפלומטי בסלובניה | גרסאות סותרות על נסיבות האירוע, המשטרה המקומית הודיע באופן מפתיע כי לא תחקור | פרשה מסתורית באירופה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/polish-diplomat-fall-slovenia-mystery",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-22T16:27:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21467177",
-      "title": "בן גביר קורא סקרים כמו כולנו - אז מה עומד מאחורי ההצהרה שלו",
-      "summary": "זה אולי עוד מוקדם מידי להגיד את זה, אבל ייתכן שהערב ראינו את בן גביר חוזר למקומו הטבעי: האופוזיציונר הנצחי • בבחירות 2030 ייתכן שהוא כבר יהיה מועמד של ממש לראשות הממשלה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21467177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T16:23:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21467145",
-      "title": "אחרי 5 שנים במכללות: המצטרף החדש למכבי תל אביב",
-      "summary": "עומרי שיף, שיאן ישראל בריצת 400 מטרים משוכות, עבר לצהובים והתאחד עם מאמנו הראשון אסף לוזון • האתלט בן ה-25 כיכב ב-NCAA וכעת מתכונן לאליפות העולם: \"מועדון הספורט ההישגי האיכותי ביותר בארץ\"",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21467145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T16:17:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21467090",
-      "title": "מיליונרים: סכומי העתק שיקבלו עובדי החברה הישראלית - אחרי האקזיט",
-      "summary": "מכירת רילסנס מסדרת לא רק את היזמים והמשקיעים: תוכנית תגמול דמיונית של מעל 100 מיליון דולר ממתינה לצוות המקומי • כמה אנשי פיתוח יזכו לצ'ק של שבע ספרות בחשבון הבנק, מה כוללת חלוקת המזומן והמניות, ומתי יחולק כל הטוב הזה? המספרים נחשפים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21467090",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T16:16:24.000Z"
     }
   ]
 }
