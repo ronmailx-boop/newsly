@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:01:07.277Z",
+  "updatedAt": "2026-09-27T14:15:47.729Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/tm0zug",
+      "title": "\"יובל אברהם שומע?\": העיתונאי תוקף את יוצרי הסרט האנטישמי לאחר התיעוד מעזה",
+      "summary": "\"דבר איתי על רצח עם, חצוף\": בעקבות התיעוד שפרסם דובר צה\"ל ממחנות המרכז ברצועת עזה, שבו נראה מחבל משתמש בילד להעברת אמצעי לחימה לתוך בית אזרחי, העיתונאי אלמוג בוקר תוקף בחריפות את יובל אברהם יוצר הסרט \"נז״א\" (NAZA), שהוציא דיבת ישראל בעולם (בארץ)",
+      "link": "https://www.kikar.co.il/security-news/tm0zug",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-27T14:03:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1371258",
+      "title": "הדיאטה שלא דורשת מהפכה - ועשויה לתרום להגנה מפני דמנציה",
+      "summary": "מחקר חדש מצא כי הקפדה על דיאטת MIND נקשרה לכלי דם בריאים יותר במוח, נפח מוח גדול יותר ותפקוד קוגניטיבי טוב יותר. החוקרים מציינים כי גם אימוץ הדרגתי של עקרונות התזונה עשוי לסייע",
+      "link": "https://www.maariv.co.il/news/health/article-1371258",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-27T14:03:19.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1371252",
       "title": "דאגה ממשית מהצעד של ארצות הברית - טילים וכטב\"מים מאיראן בדרך",
@@ -23790,42 +23808,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-22T14:15:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21466102",
-      "title": "בגלל שתמכה בישראל: כוכב הקולנוע דורש להדיח את פינק",
-      "summary": "השחקן זוכה האוסקר יוצא למתקפה פומבית נגד הזמרת המצליחה • מה בדיוק נאמר בעצומה ששיתף, ולמה הכל התחיל בגלל הראפר מקלמור?",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21466102",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T14:13:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21466069",
-      "title": "רשות התחרות מציבה ליוניון תנאי: רכישת כאל - רק אחרי מכירת סופר פארם",
-      "summary": "ההחלטה מגיעה לאחר חודשים של בחינת העסקה, שבמסגרתה ביקשה יוניון לרכוש 80% מהזכויות בכאל • החשש נבע מכך שכאל מחזיקה במאגר מידע רחב מאוד על פעילות הצרכנים בכרטיסי חיוב • העברת מידע כזה ליוניון עלולה, לפי הממונה, לאפשר לסופר-פארם לקבל מידע על פעילות המתחרות שלה ולחזק את מעמדה בשוק הפארם",
-      "link": "https://www.israelhayom.co.il/business/article/21466069",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T14:08:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21466104",
-      "title": "דיווח דרמטי: מכבי תל אביב קיבלה תשובה מממשלת קפריסין",
-      "summary": "העיתונאי שחשף את הפנייה של שמעון מזרחי לנשיא, טוען כי באי השכן אישרו את המעבר - וכעת ממתינים להחלטת היורוליג • וגם: האולם המסתמן, והאמירה המפתיעה בנוגע לקהל: \"לא יודע לומר אם יאופשר\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21466104",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T14:05:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21465126",
-      "title": "סיר אחד, שעה אחת: תבשיל עוף חגיגי לסוכות",
-      "summary": "לא צריך להעמיד סוללת סירים כדי להגיש מנה חגיגית • עוף צרוב, גרגרי חומוס, ארטישוק, עגבניות מיובשות וצלפים נפגשים ברוטב ים-תיכוני עשיר • הכול נכנס לאותו סיר, מתבשל יחד ומגיע למרכז השולחן בסוכה",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21465126",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T14:01:55.000Z"
     }
   ]
 }
