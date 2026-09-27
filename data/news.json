@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T19:45:44.220Z",
+  "updatedAt": "2026-09-27T20:01:08.394Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tm1g58",
+      "title": "בחצר הקודש: תיעודים משמחת בית השואבה בויז׳ניץ",
+      "summary": "ברוב פאר והדר: המוני חסידים השתתפו בשמחת בית השואבה המרכזית בחצר ויז׳ניץ | צפו (חרדים)",
+      "link": "https://www.kikar.co.il/israel-news/tm1g58",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-27T19:48:42.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21502107",
       "title": "\"אסון גדול נמנע\": אבנים הושלכו על אוטובוסים מלאי נוסעים באשקלון",
@@ -79,7 +88,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bywhkjp9gx",
       "title": "הושעה בהולנד סטודנט פלסטיני שצפה במחבלי חמאס מ-7/10 - וטען: \"זה אני\"",
-      "summary": "לפי אתר De Nieuwe Ster Maastricht, עזתי בן 22 מאוניברסיטת מאסטריכט תיעד את עצמו בנוכחות חבריו צופה במחבלי ארגון הטרור בזמן הטבח. \"זה אני\", אמר במהלך הצפייה - והושעה זמנית מהלימודים. הרשויות: אין הוכחה שזה הוא",
+      "summary": "לפי אתר De Nieuwe Ster Maastricht, עזתי בן 22 מאוניברסיטת מאסטריכט תיעד את עצמו בנוכחות חבריו צופה במחבלי ארגון הטרור בזמן הטבח. \"זה אני\", אמר במהלך הצפייה - והושעה זמנית מהלימודים. סטודנט ישראלי ל-ynet: \"המחשבה שאדם כזה יושב לידי בכיתה מצמררת\". הרשויות: אין הוכחה שזה הוא",
       "link": "https://www.ynet.co.il/news/article/bywhkjp9gx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -23808,51 +23817,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-22T20:05:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21468047",
-      "title": "הבן של אייל ברקוביץ' מעדכן ממיטת החולים: ''קשה ללכת''",
-      "summary": "לאחר ששיתף תמונות מדאיגות מבית החולים כשהוא מחובר לעירוי, ליאור ברקוביץ' פתח מצלמה וסיפר על ההתמודדות עם מחלת השלבקת החוגרת שתקפה אותו • \"אחד הלילות הכי קשים בחיי, כל הגב גמור ורגל ימין מרוסקת\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21468047",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T19:52:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tls5g0",
-      "title": "חרדה ביוון: חיפושים אחר ישראלי שיצא לטייל - ואבד עמו הקשר",
-      "summary": "דאגה ביוון: עמי יוגב, מטייל ישראלי בן 46, יצא ככל הנראה ביום ראשון האחרון לטפס על הר האולימפוס, ומאז אבד עמו הקשר | משרד החוץ: \"פועלים לסייע ככל הניתן באיתור הישראלי מנותק הקשר ביוון\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tls5g0",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-22T19:49:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369726",
-      "title": "מקרון יצא במתקפה חזיתית - וישראל במוקד: \"מראה מביש\"",
-      "summary": "בנאום באו\"ם תקף מקרון את המצב בעזה וביהודה ושומרון וקבע כי ארגון הטרור חמאס מעולם לא היה פעיל בגדה המערבית. לשכת רה\"מ הגיבה: \"האבסורד הגרוטסקי בדבריו מדהים\"",
-      "link": "https://www.maariv.co.il/news/world/article-1369726",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-22T19:49:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369726",
-      "title": "מקרון הטיח בישראל: \"חמאס מעולם לא היה פעיל בגדה\"",
-      "summary": "בנאום באו\"ם תקף מקרון את המצב בעזה וביהודה ושומרון והזהיר מפגיעה באמינות הקהילה הבינלאומית. במקביל הדגיש את מחויבות צרפת לביטחון ישראל וקרא לשמור על ריבונות לבנון",
-      "link": "https://www.maariv.co.il/news/world/article-1369726",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-22T19:49:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21467982",
-      "title": "לפני קים קרדשיאן: הדוגמנית שסיננה את לואיס המילטון",
-      "summary": "מגישת הטלוויזיה הגרמנייה לולה ויפרט חשפה כי נהג הפורמולה 1 הזמין אותה לדייט - והיא התעלמה לחלוטין • \"הוא לא הטעם שלי, אני תמיד חושבת על גברים סלבריטאים שמשהו אצלם לא בסדר\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21467982",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T19:48:16.000Z"
     }
   ]
 }
