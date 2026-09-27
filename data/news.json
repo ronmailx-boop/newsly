@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T04:45:48.209Z",
+  "updatedAt": "2026-09-27T05:00:52.324Z",
   "sources": [
     {
       "key": "ynet",
@@ -66,6 +66,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-27T06:00:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1371058",
+      "title": "רוחות של 100 קמ\"ש והצפות ענק: הסערה שמשתקת את ארה\"ב",
+      "summary": "סערת \"נוראיסטר\" הביאה רוחות של עד 100 קמ\"ש, הצפות קשות וניתוקי חשמל בצפון-מזרח ארה\"ב, וגבתה את חייו של גבר בניו-יורק. בננטקט פלטו הגלים לחוף שרידים מספינה שנטרפה ב-1884",
+      "link": "https://www.maariv.co.il/news/world/article-1371058",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-27T04:53:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1371055",
+      "title": "מאחורי הקלעים של החדשות: מי באמת מחליט מה תראו על המסך? | אלוף במי' יצחק בריק",
+      "summary": "מאחורי המסך הנוצץ פועלת מערכת שלמה של אינטרסים, רייטינג, אג'נדות ולחצים מקצועיים. כשהעובדות מפנות מקום לפרשנות ולשיקולים מסחריים, הציבור עלול לקבל תמונת מציאות חלקית - דווקא בנושאים הקריטיים ביותר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1371055",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-27T04:45:20.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/tm0a4x",
@@ -24672,69 +24690,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-22T05:02:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21461529",
-      "title": "רק לילה קודם נכנס לגמילה: פרטים חדשים על מות בנה של דוגמנית העל",
-      "summary": "יומיים לאחר מותו של פרסלי גרבר, בנה של סינדי קרופורד, שכן המתגורר סמוך למכון הגמילה סיפר על התנגדות התושבים לפעילותו • המתחם היוקרתי כולל קולנוע, חדר כושר וארוחות שמכין שף",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21461529",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T04:58:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21461529",
-      "title": "רק לילה קודם נכנס לגמילה: בנה של דוגמנית העל נמצא מת",
-      "summary": "פרסלי גרבר, בנה בן ה-27 של סינדי קרופורד, נמצא ללא רוח חיים במתחם יוקרתי בסנטה מוניקה • המשטרה חוקרת חשד למנת יתר ולא מצאה סימנים למעשה פלילי • שכן המתגורר בסמוך: \"זו לא הפעם הראשונה שיש כאן אמבולנסים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21461529",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T04:58:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369392",
-      "title": "טראמפ לחץ במשך חודשים על גרינלנד - ועכשיו מגיע המהלך הצבאי",
-      "summary": "ארה\"ב מתכננת להחזיר לפעילות בסיס צבאי מתקופת המלחמה הקרה ולהקים בסיס נוסף במזרח גרינלנד. זאת, במסגרת הסכם חדש שייחתם עם דנמרק וגרינלנד. המהלך מגיע אחרי חודשים של לחץ מצד טראמפ סביב עתיד האי",
-      "link": "https://www.maariv.co.il/news/world/article-1369392",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-22T04:50:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369392",
-      "title": "הלחץ של טראמפ עבד? ארה\"ב תקים שני בסיסים צבאיים חדשים בגרינלנד",
-      "summary": "ארה\"ב מתכננת להחזיר לפעילות בסיס צבאי מתקופת המלחמה הקרה ולהקים בסיס נוסף במזרח גרינלנד. זאת, במסגרת הסכם חדש שייחתם עם דנמרק וגרינלנד. המהלך מגיע אחרי חודשים של לחץ מצד טראמפ סביב עתיד האי",
-      "link": "https://www.maariv.co.il/news/world/article-1369392",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-22T04:50:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/israel-submarine-fleet-expansion-turkey-threat",
-      "title": "מרוץ חימוש במצולות: המענה הישראלי הדרמטי לאיום הימי הטורקי",
-      "summary": "מערכת הביטחון המליצה לדרג המדיני להגדיל את צי הצוללות מ-6 ל-8 במקביל • ההמלצה מגיעה על רקע התעצמות חיל הים הטורקי בצוללות מתקדמות (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/israel-submarine-fleet-expansion-turkey-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-22T04:48:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21461505",
-      "title": "בצה\"ל מזהירים: זה המחיר הביטחוני של המאחזים הלא חוקיים",
-      "summary": "גורם ביטחוני בכיר אומר ל\"היום\" כי מאחזים שמוקמים ללא אישור בשטחי A ו-B מחייבים להסיט כוחות מסיכול טרור להגנה ולפינוי • מהיום צפויה האחריות לפינויים לעבור מצה\"ל למג\"ב",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21461505",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-22T04:47:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369388",
-      "title": "מפספס בענק: פגישה אחת תשנה את כל הביקור של נתניהו בארה\"ב | שלמה שמיר",
-      "summary": "כל ראשי הממשלה נהגו לכלול במהלך הביקורים בארצות הברית, מפגשים עם יהודים בכירים. אך נתניהו מתעקש להימנע מכך פעם אחרי פעם",
-      "link": "https://www.maariv.co.il/news/opinions/article-1369388",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-22T04:46:15.000Z"
     }
   ]
 }
