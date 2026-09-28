@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:01:06.025Z",
+  "updatedAt": "2026-09-28T09:16:04.613Z",
   "sources": [
     {
       "key": "ynet",
@@ -41,6 +41,51 @@
       "pubDate": "2026-09-28T09:39:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tm2h6w",
+      "title": "תיעוד מרגש: הרבבות במעמד ברכת כהנים בכותל המערבי | צפו",
+      "summary": "רבבות מתפללים השתתפו הבוקר (שני) במעמד ברכת כהנים הראשון לחול המועד סוכות ברחבת הכותל המערבי | צפו בתיעוד ענק ומסכם מהמעמד המרגש (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tm2h6w",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-28T09:12:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjasdod9fx",
+      "title": "בן גביר והמפכ\"ל התחבקו אחרי הפיצוץ - והשר הפשיר 50 מיליון למשטרה",
+      "summary": "פרסום ראשון: אחרי ההתנגחויות, החיבוק בכותל - השר לביטחון לאומי והמפכ״ל דני לוי התחבקו הבוקר לאחר נתק בן כמה שבועות. ל-ynet נודע כי בן גביר הפשיר 50 מיליון שקלים מתוך התקציב שהקפיא למשטרה",
+      "link": "https://www.ynet.co.il/news/article/bjasdod9fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-28T09:03:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1371488",
+      "title": "הגיע הזמן שהציבור ישקול צעדים נגד ההיטל שמכניס לעיריות מיליונים והציבור כלל לא מודע לכך",
+      "summary": "היטלי השצ\"פ הם למעשה כפל מס. כשהציבור מגלה אותו, זה כבר מאוחר מדי",
+      "link": "https://www.maariv.co.il/news/opinions/article-1371488",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-28T09:00:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21504462",
+      "title": "כמו מכבי תל אביב: הפועל ירושלים בדרך לצעד משמעותי",
+      "summary": "הירושלמים פועלים כדי לארח את משחקי היורוקאפ שלהם בקפריסין • מהלך כזה יקל כלכלית על הקבוצות הישראליות ואף עשוי להגדיל את כמות האוהדים שתוכל להגיע למשחקי ה״בית״ שלהן באירופה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21504462",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:58:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21504261",
+      "title": "בתגובה למתקפות הסעודיות: החות'ים מאיימים להפציץ גשרים בריאד",
+      "summary": "המורדים בתימן זועמים על פגיעה בגשרים ותשתיות אזרחיוטת בשטחים שבשליטתם בתימן ומאיימים להגיב באופן דומה בשטח הסעודי • הממשלה התימנית הודיעה על סדרה של תקיפות נגד החות'ים וכי ארבעה מומחים איראניים נהרגו",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21504261",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:58:06.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1371480",
       "title": "רונן ברגמן בטוח: דבר אחד מוכיח שנתניהו הוזהר ע\"י איחוד האמירויות לפני טבח ה-7.10",
       "summary": "ד\"ר רונן ברגמן התראיין ב-103FM, וביקר את התנהלותו של ראש הממשלה נתניהו, בטענה כי הוא נוהג לחמוק מהאחריות: \"השורה התחתונה שהוא לא אשם בשום דבר וכולם אשמים בהכול\"",
@@ -48,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-28T08:57:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21503179",
+      "title": "כמו טמגוצ'י, רק עם חצי מיליארד משתמשים: הכירו את Muse של מטא",
+      "summary": "סוכן ה-AI החדש של מארק צוקרברג כובש את העולם בקצב מסחרר • הוא זוכר הכל, מזמין מצרכים ועושה קניות ואפילו מדבר איתכם חופשי - והכל דרך הוואטסאפ • כן, אפילו אם אתם גרים בישראל • איך מורידים, כיצד מתכננים איתו טיולים ומה נדרש כדי להפעיל אותו בלי להסתבך? • הנה כל מה שאתם צריכים לדעת על הלהיט החדש שעקף את ChatGPT",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21503179",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:56:08.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1tm00cd5ze",
@@ -68,6 +122,15 @@
       "pubDate": "2026-09-28T08:52:39.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/wellness/article/21504223",
+      "title": "מגנזיום או מלטונין: מה באמת עדיף כשלא מצליחים לישון?",
+      "summary": "שני התוספים הפופולריים משווקים כעזרה לשינה, אבל הם פועלים אחרת ולא מתאימים לאותם מצבים • מה אומרים המחקרים, למי עשוי להתאים כל אחד ומה מומלץ לעשות כשנדודי השינה נמשכים",
+      "link": "https://www.israelhayom.co.il/lifestyle/wellness/article/21504223",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:47:05.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1371484",
       "title": "כולם נעולים: המקורב לבן גביר בטוח - רק שאלה אחת תכריע את הבחירות",
       "summary": "נבו כהן ואיתן כבל חלוקים בשאלה מה עוד יכול להזיז את מערכת הבחירות, אבל מסכימים שקמפיין נתניהו עדיין לא עובד. ברקע: וינטר, המתלבטים והוויכוח על הדרך להביא מצביעים לקלפי",
@@ -75,6 +138,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-28T08:45:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21504024",
+      "title": "רגע לפני: החשיפה המטורפת של מארוול",
+      "summary": "אז מה באמת חדש בגרסת ההדרן של \"הנוקמים: סוף המשחק\", מה קורה בכל סצנה שנוספה ומה באמת הקשר ל\"עלייתו של דוקטור דום?\" • אזהרת ספוילרים",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21504024",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:43:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21504288",
+      "title": "נתפס עם 5.5 קילו של סמים בדירת מסתור באילת - ונעצר",
+      "summary": "בלשי המשטרה התחקו אחר החשוד שלפי החשד השתמש בדירה בעיר לצורך החזקת סמים ולהפצתם • אישה שנכחה במהלך אחת העסקאות שוחררה בתנאים מגבילים",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21504288",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:40:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21504075",
+      "title": "החלוץ הישראלי שחגג את המפלה: \"תודה אירלנד\"",
+      "summary": "חלוץ העבר שכיכב במ.ס. אשדוד, מוראד אבו ענזה, חגג את ה-3:0 - והודה לאירי שחגג עם סרט שחור • בעבר גם הודה ללאמין ימאל על המחווה הפלסטינית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21504075",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:38:25.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skhpqcv5gx",
@@ -111,6 +201,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-28T08:35:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21504087",
+      "title": "הפעוט נפצע במועדון הילדים במלון: מי ישלם על רגע בלי השגחה?",
+      "summary": "בית משפט השלום בתל אביב הטיל על רשת פתאל 70% מהאחריות לשבר במרפקו של פעוט בן שלוש וחצי במועדון הילדים • השופט: \"המלון אינו יכול ליהנות מהיתרון השיווקי ומנגד להתנער מאחריות\" • גם ההורים, שיצאו מהמועדון, יישאו ב-30%",
+      "link": "https://www.israelhayom.co.il/news/law/article/21504087",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:31:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21504118",
+      "title": "ההקלטה שהייתה אמורה להפליל את הבעל - והובילה לזיכויו",
+      "summary": "האישה טענה כי בעלה חבט בפניה בכרית ואיים עליה במהלך ויכוח על נתב האינטרנט • השופטת קבעה כי בהקלטה התגלו פערים בין גרסתה המאוחרת לבין הדברים שאמרה בזמן אמת",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21504118",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T08:30:29.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tm2b3w",
@@ -23151,195 +23259,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-23T09:16:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21470640",
-      "title": "עירוני טבריה הודיעה: \"משתחררת מהכבלים ויוצאת לדרך חדשה\"",
-      "summary": "בית המשפט הכריע הבוקר והבהיר בצורה חד משמעית: מיקי ביתן מחוץ למעגל קבלת ההחלטות של הקבוצה",
-      "link": "https://www.israelhayom.co.il/sport/article/21470640",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:15:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21470566",
-      "title": "מכרה את הבית בגיל 60 ויצאה לטייל בעולם: ''רצתי לשדה התעופה עם חיוך גדול''",
-      "summary": "ברידג'ט רייס מבריטניה עזבה את העבודה, מכרה את הבית ויצאה למסע בלי תאריך חזרה • שלוש שנים ו-15 מדינות אחר כך היא חושפת כמה כסף כבר הוציאה, איפה הכי זול לחיות, ומה עוד, מלבד הבית, עזר לה לממן את החלום הגדול",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21470566",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:14:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21470468",
-      "title": "\"ידעתי שאנחנו עומדים להתמודד עם זה\": ריקי גל נפרדת",
-      "summary": "הזמרת מוציאה שיר פרידה חדש לזכר אחותה שרית ז\"ל שנפטרה ממחלת הסרטן • הקליפ המלווה את השיר כולל את הציורים שציירה אחותה עד ימיה האחרונים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21470468",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:14:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21470346",
-      "title": "גל גדות תעביר מענק זכייה של מיליונים לשיקום נפשי: \"לחבר משפחות מחדש\"",
-      "summary": "השחקנית הישראלית, קרן פרס בראשית ורשת התורמים היהודית הודיעו על מענק ענק ל-27 ארגוני תמיכה ושיקום נפשי • גדות זכתה בפרס \"הנובל היהודי\" על סך מיליון דולר בנובמבר 2025, אך סכום התרומה הוכפל פי 3 • גדות: \"בחרתי להקדיש את המענקים למטפלים ולצוותים שמסייעים לבנות חיים מחדש\" • הרשימה המלאה והפרטים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21470346",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:13:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlt84y",
-      "title": "בן 15 שרכב על קורקינט חשמלי התנגש ברכב ופונה במצב בינוני",
-      "summary": "נער בן 15 התנגש ברכב בשעה שרכב על קורקינט חשמלי ברחוב כהנמן בבני ברק | הוא סבל מחבלת ראש ופונה במצב בינוני לבית החולים (חדשות)",
-      "link": "https://www.kikar.co.il/haredim-news/tlt84y",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:12:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21469914",
-      "title": "⁠למה דווקא ב-2 בלילה? כל מה שצריך לדעת על המעבר לשעון חורף",
-      "summary": "בסוף החודש הבא נרוויח שעת שינה נוספת עם החזרת המחוגים לאחור • למה המעבר מתבצע דווקא בשעה שתיים לפנות בוקר, מי באמת מודד את הזמן בישראל ואיפה בעולם החליטו לבטל את המנהג?",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21469914",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:12:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21470501",
-      "title": "חוששים ממכבי תל אביב: המנהלים ביורוליג בהחלטה מפתיעה",
-      "summary": "הסגל שבנו הצהובים בקיץ לא נעלם מהעיניים של מקבלי ההחלטות במפעל • בסקר מיוחד של BasketNews, הקבוצה זכתה לכבוד בבחירות של המנהלים המקצועיים בליגה • בנוסף, נבחרו הפייבוריטיות להגיע לפיינל פור ולזכות ביורוליג",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21470501",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:11:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21470291",
-      "title": "\"לא יכלו להתאפק\": עישנו במטוס אחרי שהמריאו מקפריסין - ונעצרו",
-      "summary": "נוסעים בריטים עישנו סיגריות אלקטרוניות למרות אזהרות חוזרות ונישנות של צוות הטיסה • המשטרה נאלצה להוריד אותם מהמטוס",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21470291",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:11:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85360",
-      "title": "צה\"ל חיסל בחאן יונס את ראש מחלקת הכספים של חמאס",
-      "summary": "ראש הממשלה נתניהו ושר הביטחון כ\"ץ הודיעו כי צה\"ל חיסל לפני זמן קצר בחאן יונס את מחמד אבו עלואן, ראש מחלקת הכספים של ארגון הטרור חמאס.",
-      "link": "https://www.kikar.co.il/scoop-news/85360",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:10:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1369880",
-      "title": "מכה מתחת לחגורה לאיזנקוט? האיתות הדרמטי של בנט -\"לא כתוב בטאבו\"",
-      "summary": "ברקע המגעים לתיאום בתוך גוש השינוי, בנט מבהיר כי אינו מציב את ראשות הממשלה כתנאי להקמת ממשלה. במקביל הציג קו להקמת \"ברית המשרתים\" עם חובת שירות לחרדים ולערבים",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1369880",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:09:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1369877",
-      "title": "בת 16 הגיעה לבית החולים עם כאבי בטן ובחילות – ואז התגלתה הסיבה",
-      "summary": "בת 16 מתל אביב הגיעה לוולפסון עם חולשה, כאבי בטן ובחילות שעות לאחר החלקת שיער. בתחילה תפקודי הכליות היו תקינים, אך בהמשך עלו ליותר מפי שניים מהנורמה",
-      "link": "https://www.maariv.co.il/news/health/article-1369877",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:09:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1369877",
-      "title": "בת 16 אושפזה עם אי-ספיקת כליות שעות אחרי החלקת שיער",
-      "summary": "בת 16 מתל אביב הגיעה לוולפסון עם חולשה, כאבי בטן ובחילות שעות לאחר החלקת שיער. בתחילה תפקודי הכליות היו תקינים, אך בהמשך עלו ליותר מפי שניים מהנורמה",
-      "link": "https://www.maariv.co.il/news/health/article-1369877",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:09:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21470478",
-      "title": "מהלימון ועד לחלה: 4 טריקים שיעשו לכם את שולחן החג",
-      "summary": "סוכות כבר מעבר לפינה, וזה בדיוק הזמן להתחיל לחשוב איך ייראה שולחן החג • מטיקטוק מגיעים כמה רעיונות פשוטים שאפשר ליישם בבית - מחלה שהופכת לאלמנט עיצובי ועד לימון שהופך לאגרטל",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21470478",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:07:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "title": "תודו לנו אחר כך: הבדיקות שחובה לעשות - לפני הטיסה הבאה שלכם",
-      "summary": "אחרי 47 מדינות ושורת תקלות כואבות, צמד בלוגרי הטיולים The Passport Couple מציג את רשימת הבדיקות שחובה לעשות לפני הטיסה: מהסעיף בדרכון שיבטל לכם את הטיסה, ועד הטעות הקריטית בכספומט שתעלה לכם ביוקר",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:06:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "title": "שמרו לעצמכם: הבדיקות שחובה לעשות - לפני הטיסה הבאה שלכם",
-      "summary": "אחרי 47 מדינות ושורת תקלות כואבות, צמד בלוגרי הטיולים The Passport Couple מציג את רשימת הבדיקות שחובה לעשות לפני הטיסה: מהסעיף בדרכון שיבטל לכם את הטיסה, ועד הטעות הקריטית בכספומט שתעלה לכם ביוקר",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:06:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "title": "רגע לפני העלייה למטוס: הטעויות הקטנות שמסכנות את החופשה הבאה שלכם",
-      "summary": "אחרי 47 מדינות ושורת תקלות כואבות, צמד בלוגרי הטיולים The Passport Couple מציג את רשימת הבדיקות שחובה לעשות לפני הטיסה: מהסעיף בדרכון שיבטל לכם את הטיסה, ועד הטעות הקריטית בכספומט שתעלה לכם ביוקר",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21470021",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:06:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/tlt7to",
-      "title": "צה\"ל חיסל את ראש מחלקת הכספים של ארגון הטרור חמאס",
-      "summary": "צה\"ל חיסל הבוקר בחאן יונס את מחמד אבו עלואן, ראש מחלקת הכספים של ארגון הטרור חמאס | ראש הממשלה בנימין נתניהו ושר הביטחון ישראל כ\"ץ: \"לא נאפשר לחמאס לשקם את כוחו ולא נעצור עד שלא יהיה חמאס בעזה\" (חדשות)",
-      "link": "https://www.kikar.co.il/security-news/tlt7to",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:05:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21470454",
-      "title": "מזל טוב: בת שלישית נולדה ליונתן שמריז ואשתו נטלי",
-      "summary": "יונתן שמריז הודיעה כי אשתו נטלי ילדה בשעה בטובה את ביתם השלישית, שתצטרף ליהלי הבכורה וללביא בן השנתיים • \"נטלי הלביאה הצליחה בפעם השלישית ללדת עוד יצירת מופת, אני אוהב אותך ואת אלופה אמיתית\", כתב",
-      "link": "https://www.israelhayom.co.il/news/local/article/21470454",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:02:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21469845",
-      "title": "חצי שנה אחרי פגיעת הטיל: המסעדה שנפגעה קשה נפתחת מחדש",
-      "summary": "טיל איראני נפל במרחק של כשלושה מטרים מ-G27 וגרם למקום נזק שנאמד במיליוני שקלים • אחרי חודשים של שיקום, הביסטרו ברמת גן חוזר היום לפעילות עם עיצוב חדש ושלושה תפריטים שונים לבוקר, לצהריים ולערב",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21469845",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:02:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369875",
-      "title": "תגבה את חייהם של חצי מיליון איש: \"סופר אל ניניו\" מתקרב, אלו המדינות שייפגעו",
-      "summary": "המשמעות של \"סופר אל ניניו\" היא אירוע קיצוני וחריג בעוצמתו של התחממות מי פני הים. על פי הנתונים, המדינה שצפויה לספוג את הפגיעה הקשה ביותר כתוצאה מהחום היא ניגריה, עם תחזית של 31,400 מקרי מוות עודפים",
-      "link": "https://www.maariv.co.il/news/world/article-1369875",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:01:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/tlt50n",
-      "title": "המסתערבים פשטו על כפר קליל ועצרו מבוקש מהפת\"ח",
-      "summary": "מסתערבי מג\"ב איו\"ש עצרו הלילה בהכוונת שב\"כ בכפר קליל מבוקש פעיל בארגון הטרור פת\"ח, שעל פי החשד פעל לקידום פעילות טרור נגד כוחות הביטחון (חדשות)",
-      "link": "https://www.kikar.co.il/police/tlt50n",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:01:15.000Z"
     }
   ]
 }
