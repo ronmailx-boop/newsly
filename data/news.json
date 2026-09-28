@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:16:00.471Z",
+  "updatedAt": "2026-09-28T05:30:47.554Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/ben-gurion-airport-parking-reopened-sukkot",
+      "title": "אחרי הסגירה - החניונים בנתב\"ג נפתחו שוב; הטסים יכולים להגיע ברכב",
+      "summary": "רשות שדות התעופה הודיעה על פתיחת החניונים הציבוריים לאחר תפוסה מלאה בעקבות עומס חגי תשרי | הנוסעים יכולים לשוב ולהגיע ברכב פרטי (תעופה)",
+      "link": "https://www.kikar.co.il/israel-news/ben-gurion-airport-parking-reopened-sukkot",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-28T05:21:44.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1371391",
       "title": "אחד החופים היפים בישראל יעבור מהפך של עשרות מיליונים",
       "summary": "חוף אמת המים בקיסריה יעבור שדרוג בהשקעה של כ-24 מיליון שקל, נוסף על שימור האמה הרומית. העבודות יכללו הנגשה, חניה, הצללות ותאורה - ובמהלכן צפויות סגירות חלקיות",
@@ -39,6 +48,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-28T05:14:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21502991",
+      "title": "באמצעות רחפנים: בני הזוג שנרתמו לחיפושים אחר הנעדר הישראלי ביוון",
+      "summary": "יותר משבוע מאז נעלם בהר האולימפוס, עמי יוגב בן ה-46 טרם אותר • לצורך החיפושים, נרתמה חברת רחפנים של יווני הנשוי לישראלית: \"הקשר בין יוון לישראל הוא יותר משותפות, זוהי אחריות משותפת להגן על חיי אדם\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21502991",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T05:14:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21502934",
+      "title": "ממוגן ירי ובעל לוחיות מזויפות: המשטרה תפסה מכוניות שיועדו לאירוע פלילי",
+      "summary": "שוטרי מחוז צפון ולוחמי מג\"ב איתרו ביפיע שבסמוך לנצרת רכב שזהותו טושטשה, ולפי החשד נועד לאירוע פלילי בטווח המיידי • ברכב נוסף, ג'יפ, הותקן מיגון נגד ירי בניגוד לחוק",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21502934",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T05:03:06.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1371387",
@@ -23619,33 +23646,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T05:31:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21468681",
-      "title": "״פתיחה סנסציונית״: מנור סולומון נבחר לשחקן הרכש הטוב ביותר",
-      "summary": "הישראלי קיבל ציון 8 בדירוג שחקני הרכש של ווסטהאם • באתר המסקר את הפטישים החמיאו לתרומה שלו בהתקפה: \"עוזר לחלוק את הנטל עם גא'רוד בואן\" • שני שערים ושני בישולים כבר רשומים על שמו, כשהיכולת הולכת ומשתפרת",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21468681",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T05:22:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21468600",
-      "title": "ידע שהקופה ריקה: בעל חברה יישא בחובות לעובדת שפוטרה בהיריון",
-      "summary": "מפתחת תוכנה פוטרה ימים ספורים לפני שילדה, ללא היתר ומבלי שנערך לה שימוע כחוק • בית הדין לעבודה קבע כי הפיטורים נבעו מקריסה כלכלית ולא מאפליה, אך נפלו בהם פגמים חמורים • בנוסף ל-56 אלף שקלים בגין הפרת חוק עבודת נשים, נפסק כי בעל החברה יישא אישית בכל החובות בסך 167 אלף שקלים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21468600",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T05:22:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21468606",
-      "title": "אליה כהן חושף: \"כשסיפרו לי שזיו בחיים - חשבתי שהשתגעו\" | צפו",
-      "summary": "שנתיים וחצי לאחר שבת השחורה, שורד השבי אליה כהן ובת זוגו זיו עבוד עלו יחד על הבמה כדי לספר את סיפור הגבורה, הנס וסגירת המעגל • באירוע, סיפר אליה על הרגע שבו נפגש עם כוחות צה\"ל וגילה לראשונה כי זיו בחיים: \"רק משוגע יכול לחשוב שהיא שרדה את מה שראיתי בעיניים\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21468606",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T05:21:49.000Z"
     }
   ]
 }
