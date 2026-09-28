@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T12:01:06.069Z",
+  "updatedAt": "2026-09-28T12:15:53.327Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-28T13:24:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hygstad9zl",
+      "title": "מועמד הליכוד לשורדת השבי: \"הלוואי והייתה דרך להחזיר אותך לחמאס\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hygstad9zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-28T12:13:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/centcom-iran-false-claim-hormuz-strait-control",
+      "title": "פיקוד המרכז האמריקני זועם: איראן טוענת שיש לה שליטה מלאה במצר הורמוז?",
+      "summary": "מפקד בכיר במשמרות המהפכה טען כי לאיראן שליטה מלאה על המצר • פיקוד המרכז האמריקני מפרסם הכחשה חריפה: \"זוהי טענה שקרית\" | האמת על המצר (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/centcom-iran-false-claim-hormuz-strait-control",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-28T12:05:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hy6bpapcgl",
+      "title": "הונגריה: הוסרה חסינות רה\"מ, שחטף טלפון בקטטה במועדון לילה – והשליך לדנובה",
+      "summary": "ראש הממשלה החדש פטר מדיאר, שעלה לשלטון רק באפריל במהפך היסטורי שבו הפיל את אורבן, טוען שהחקירה נגדו היא \"הצגה\" המוּנעת משיקולים פוליטיים, אך ביקש מהמחוקקים לתמוך בהסרת חסינותו – משום שאין לו מה להסתיר. לדבריו \"פרובוקטור בתשלום\" ממפלגתו של אורבן נשלח למועדון לצלם ולהטריד אותו ואת חבריו כדי להוציא אותם משלוותם. צוללנים חילצו את הטלפון מקרקעית הנהר",
+      "link": "https://www.ynet.co.il/news/article/hy6bpapcgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-28T12:02:06.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21505285",
@@ -1353,6 +1380,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-28T07:57:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1371459",
+      "title": "קנדה מתרחקת מארה\"ב - וסוגרת את הדלת גם בפני סין",
+      "summary": "ראש ממשלת קנדה מארק קרני חשף את עומק הקרע עם וושינגטון, והודה כי גם תרחיש קיצון של שימוש בכוח נלקח בחשבון. במקביל, אוטווה כבר פועלת לצמצם את תלותה בארה\"ב",
+      "link": "https://www.maariv.co.il/news/world/article-1371459",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-28T07:56:24.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1371459",
@@ -22953,123 +22989,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T12:16:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21472513",
-      "title": "הסערה בבלגיה סביב המנצח הישראלי: הקריאות לבטל את הקונצרט מתגברות",
-      "summary": "דו\"ח של קרן הינד רג'אב מאשים את המנצח הישראלי ב\"עיצוב הנרטיב הלאומי הישראלי\" בעקבות קונצרט תמיכה בישראל לאחר 7 באוקטובר • שנה שעברה בוטל קונצרט של להב שני בגנט: \"לא נוכל לספק בהירות מספקת לגבי עמדתו\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21472513",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:14:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21472801",
-      "title": "מחוץ לטופ 20: דירוגו של דני אבדיה ברשימת כוכבי ה-NBA",
-      "summary": "הישראלי קפץ 39 מקומות ברשימת 100 השחקנים הכי טובים בליגה בהשוואה לעונה שעברה, לפי ESPN • דורג מקום אחד מעל באם אדבאיו, אלפרן שנגון, ג'יימס הארדן וקיירי אירווינג",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21472801",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:11:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21472375",
-      "title": "\"פועלים מתוך הנחה שעוקבים אחרינו\": המבצע החשאי להעברת הצוללת",
-      "summary": "בתום שנים של תכנון, שינויים אסטרטגיים ומבצע אבטחה חסר תקדים בגרמניה - הצוללת השישית של מדינת ישראל תימסר לידי חיל הים • בשיחה מיוחדת, סגן מפקד שייטת 7 מספר על החשש מדליפות מודיעין, המעקב הרוסי בים הצפוני והיכולות המיוחדות של הכלי שעלותו נאמדת ביותר מ-550 מיליון יורו: \"ברגע שצוללים - זה המגרש הביתי שלנו\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21472375",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:09:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21472375",
-      "title": "\"חשש שמישהו 'שיחק' איתה\": המבצע החשאי - וההמתנה בחיל הים לצוללת",
-      "summary": "בתום שנים של תכנון, שינויים אסטרטגיים ומבצע אבטחה חסר תקדים בגרמניה - הצוללת השישית של מדינת ישראל תימסר לידי חיל הים • בשיחה מיוחדת, סגן מפקד שייטת 7 מספר על החשש מדליפות מודיעין, המעקב הרוסי בים הצפוני והיכולות המיוחדות של הכלי שעלותו נאמדת ביותר מ-550 מיליון יורו: \"ברגע שצוללים - זה המגרש הביתי שלנו\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21472375",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:09:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21472749",
-      "title": "נתניהו ויתר על זימון עדים בוועדת הצוללות - 3 מהמוזהרים יחקרו אותו",
-      "summary": "ראש הממשלה הוא היחיד מבין חמשת המוזהרים שבחר שלא להעביר רשימת עדים לקראת שלב ההוכחות בפרשה • מנגד, שר הביטחון לשעבר יעלון, ראש המל\"ל לשעבר כהן ועובד המל\"ל שמחוני דורשים להעמידו לחקירה נגדית • שמיעת העדים צפויה לצאת לדרך בקרוב",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21472749",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:08:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369969",
-      "title": "משוגעים, רדו מהגג ותאבטחו את איזנקוט וגולן | דן פרי",
-      "summary": "מערכת בחירות דמוקרטית אינה יכולה להתנהל כאשר מועמדים מרכזיים מסתובבים תחת איומים ברורים והמדינה אינה עושה את המקסימום הסביר כדי להגן עליהם.",
-      "link": "https://www.maariv.co.il/news/opinions/article-1369969",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T12:08:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1369968",
-      "title": "מזעזע: האם גילתה על ההיריון של הבת בהודעה - \"קיבלתי התראה מקופת החולים\"",
-      "summary": "כ-80% מהתלמידות ביבנאל מתחתנות בכיתה ט'. הוועדה לקידום מעמד האישה דורשת פעולה דחופה נגד נישואי קטינות במושבה בדיון חירום בוועדה נחשפו עדויות מזעזעות על היקף התופעה",
-      "link": "https://www.maariv.co.il/news/israel/article-1369968",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T12:07:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1369968",
-      "title": "מזעזע: ביישוב הזה בישראל 80% מהתלמידות מתחתנות בכיתה ט'",
-      "summary": "כ-80% מהתלמידות ביבנאל מתחתנות בכיתה ט'. הוועדה לקידום מעמד האישה דורשת פעולה דחופה נגד נישואי קטינות במושבה בדיון חירום בוועדה נחשפו עדויות מזעזעות על היקף התופעה",
-      "link": "https://www.maariv.co.il/news/israel/article-1369968",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T12:07:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/man-injured-building-sukkah-bnei-brak",
-      "title": "חרדי כבן 60 נפצע בבני ברק בעת בניית סוכה והוא פונה לבית החולים",
-      "summary": "גבר בן 60 נפל מכסא בבניית סוכה ברחוב הרב גניחובסקי • נחבל בגפיים ופונה לבית החולים מעייני הישועה | ארגון הצלה מזהיר: שימו לב לסכנות בבניית הסוכה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/man-injured-building-sukkah-bnei-brak",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T12:05:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21472590",
-      "title": "רפאלה טווינה נשברה בבכי: \"השפילה אותי מול אנשים\"",
-      "summary": "מה שהיה אמור להיות עוד בוקר רגוע בחופשה המשפחתית של רפאלה טווינה קיבל תפנית לא צפויה, בעקבות מפגש עם אישה זרה. אלא שעבור יוצאת \"האח הגדול\", הסיטואציה הזאת כבר נשמעת מוכרת",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21472590",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:05:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21472601",
-      "title": "בלי ״אבל״ ובלי גזלייטינג: 5 חוקים להתנצלות טובה",
-      "summary": "יום כיפור אמנם כבר מאחורינו, אבל סליחה לא מבקשים רק פעם בשנה. מ-״סליחה אם נפגעתם״ ועד ה-״אבל״ המיותר - כך תתנצלו באמת, בלי תירוצים, האשמות או גזלייטינג בדרך",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21472601",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:05:16.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-3e5aecadb5ec0a1027.htm",
-      "title": "בתוך שנה: עלייה של יותר מ-30 אחוז בגיוס שוטרים",
-      "summary": "אלפי שוטרים חדשים גויסו למשטרה מתחילת השנה, עלייה במצבת כוח האדם בארגון • הגידול בגיוסם נובע, בין היתר, מתמריצים ומשינוי מדיניות של המפכ\"ל דני לוי • ראש חטיבת הגיוס במשטרה מסבירה: \"אנחנו משקיעים בהטבות כדי לשמר את השוטרים\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-3e5aecadb5ec0a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-09-23T12:05:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21472439",
-      "title": "רפאלה טווינה הותקפה בבית קפה - ומיררה בבכי",
-      "summary": "פיינליסטית \"האח הגדול\" שוב סופגת אש בפומבי: \"נכנסה בי משום מקום ודיברה לא יפה\" • לקוחה התערבה וניסתה לחזק: \"בריאליטי אחד אוהב ואחד לא אוהב\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21472439",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:04:46.000Z"
     }
   ]
 }
