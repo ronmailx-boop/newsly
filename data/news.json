@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:30:58.578Z",
+  "updatedAt": "2026-09-28T09:45:55.973Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1371502",
+      "title": "חשד: רימון הושלך בחולון - נער בן 15 נפצע קשה",
+      "summary": "בשעה 12:11 התקבל דיווח במוקד 101 על נער שנפצע ברחוב הסנהדרין בחולון, ככל הנראה בעקבות השלכת רימון. פרטים בהמשך",
+      "link": "https://www.maariv.co.il/news/law/article-1371502",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-28T09:41:36.000Z"
+    },
+    {
       "id": "walla:https://sports.walla.co.il/item/3870057",
       "title": "טרגדיה בעולם ההיאבקות: המתאבק האהוב פאק מת בגיל 40",
       "summary": "עולם ההיאבקות הוכה בהלם: בנג'מין סאטרלי, המוכר בעיקר בשם הבמה פאק (Pac), מת בגיל 40. נציגיו אישרו את מותו, וגם ארגון AEW, שבו הופיע בשנים האחרונות, פרסם הלילה הודעה רשמית. הבשורה הגיעה יום בלבד לאחר שסאטרלי השתתף באירוע \"All Out\" של AEW בשיקגו במוצאי שבת. נכון לעכשיו לא נמסרה סיבת המוות. סאטרלי, יליד ניוקאסל, החל את הקריירה ב-2004 והפך עם השנים לאחד המתאבקים הבריטים הבולטים בדורו. \"הוא כבש אוהדים עם מהלכים אוויריים חדשניים ויכולת יוצאת דופן בזירה\", נכתב בהודעת AEW.",
@@ -39,6 +48,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-28T09:39:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21504790",
+      "title": "רגע, חול המועד זה חג או שפשוט כולנו החלטנו לקחת חופש?",
+      "summary": "מצד אחד נוסעים, עובדים ונמצאים בטלפון. מצד שני, זה עדיין חלק מהחג. אז למה קוראים לימים המבלבלים האלה דווקא \"חול המועד\"? אנחנו יודעים שהתביישתם לשאול, אז באנו לעשות סדר",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21504790",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T09:29:20.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tm2ap6",
@@ -50,9 +68,27 @@
       "pubDate": "2026-09-28T09:28:23.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21504802",
+      "title": "לא רק קניונים: 3 ירידי אופנה ששווה להכיר בסוכות",
+      "summary": "חול המועד הוא הזדמנות מצוינת לצאת לשופינג קצת אחר • וינטג', סטריטוור, מעצבים ישראלים, יד שנייה ואקססוריז מחכים בשלושה ירידים שיתקיימו בתל אביב במהלך החג",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21504802",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T09:27:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21504642",
+      "title": "עומר אצילי ואשתו קיבלו החלטה: \"פחדתי שהגוף יבגוד\"",
+      "summary": "אור אצילי השלימה את מרתון ברלין אחרי 42.21 קילומטרים ו-4:06 שעות, כשהיא מתגברת גם על פציעה שליוותה אותה בדרך • אחרי קו הסיום הגיעו הפרגונים, התמונות המשותפות וההצהרה: \"עד המרתון הבא\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21504642",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T09:22:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sk4gkkpcge",
       "title": "הצתות בכפר פלסטיני: \"אמרו לי במשטרה 'אל תעשה בלגן'. שאקבל מתנחלים בתה וממתקים?\"",
-      "summary": "התקפות הקיצונים ביו\"ש נמשכות. כתובות נאצה רוססו וכלי רכב הוצתו בשני כפרים באזור רמאללה. הפורעים ברחו לפני הגעת כוחות הביטחון לאזור. בצה\"ל גינו, המשטרה פתחה בחקירה - אך עד כה לא בוצעו מעצרים. התושבים כועסים על כוחות הביטחון: \"מצפים שנקבל את המתנחלים עם ממתקים ותה\"",
+      "summary": "התקפות הקיצונים ביו\"ש נמשכות. כתובות נאצה רוססו וכלי רכב הוצתו בשני כפרים באזור רמאללה. הפורעים ברחו לפני הגעת כוחות הביטחון לאזור. בצה\"ל גינו, המשטרה פתחה בחקירה, ועד כה לא בוצעו מעצרים. תושבים סיפרו ל-ynet על כעס כלפי כוחות הביטחון: \"מצפים שנקבל את המתנחלים עם ממתקים ותה\"",
       "link": "https://www.ynet.co.il/news/article/sk4gkkpcge",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -66,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-28T09:20:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21503237",
+      "title": "\"שישללו לו את האזרחות, הגיע הזמן שיעוף מישראל\"",
+      "summary": "ליאור ברקוביץ', בנו של כדורגלן העבר האגדי יצא למתקפה נוספת נגד יציאתו של שחקן מ.ס כפר קאסם, אחמד טאהא, לנבחרת פלסטין: \"יאללה שייסע מפה, איכסה, גועל נפש\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21503237",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T09:18:12.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/tm2bd8",
@@ -849,6 +894,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-28T06:51:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21503298",
+      "title": "אחרי התבוסה לאירלנד: ההחלטה הדרמטית לגבי רן בן שמעון",
+      "summary": "שינו זוארץ החליט כי רן בן שמעון יסיים את קמפיין ליגת האומות על הקווים בכל מקרה • המאמן יעמוד על הקווים גם במוקדמות יורו 2028, ורק קטסטרופה מקצועית תשנה את התוכניות • השחקנים חשים \"תחושת השפלה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21503298",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-28T06:50:57.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21503298",
@@ -1859,6 +1913,33 @@
       "pubDate": "2026-09-27T20:33:10.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21395451",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 28.09.2026",
+      "summary": "יום טוב לפתח קשרים חדשים. המון תלוי בכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21395451",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-27T20:30:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21395452",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 28.09.2026",
+      "summary": "היבט קוסמי מאתגר יוצר מתיחות מסוימת. החשיבה האנליטית שלכם טובה בדרך כלל לפתרון בעיות, אך היום רק גורמת לכם לסיבוכים בתחומים רגשיים",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21395452",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-27T20:30:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21395453",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 28.09.2026",
+      "summary": "מצב כוכבים ממוזל במפת הלידה שלכם, מוליד יום מתאים להגשמת משאלות. נחמד לגלות שלא צריך להיאבק על כל דבר",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21395453",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-27T20:30:59.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21395424",
       "title": "מזל בתולה, תחזית הורוסקופ יומית 28.09.2026",
       "summary": "לימודים בתחום חדש ומרתק גורמים לכם להנאה צרופה. תהליך זה ממריץ אתכם לכיוון התעניינות שונה",
@@ -1890,33 +1971,6 @@
       "title": "מזל קשת, תחזית הורוסקופ יומית 28.09.2026",
       "summary": "התחושות הפנימיות שלכם, נכונות בעיקרון, למרות שיש לכם נטייה לסבך קצת את המצב על ידי 'תסריטים' דמיוניים. אתם מחפשים בכוח מישהו שיבין אתכם ויוכל גם לתת עצה בכיוון הנכון עבורכם",
       "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21395450",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T20:30:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21395451",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 28.09.2026",
-      "summary": "יום טוב לפתח קשרים חדשים. המון תלוי בכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21395451",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T20:30:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21395452",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 28.09.2026",
-      "summary": "היבט קוסמי מאתגר יוצר מתיחות מסוימת. החשיבה האנליטית שלכם טובה בדרך כלל לפתרון בעיות, אך היום רק גורמת לכם לסיבוכים בתחומים רגשיים",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21395452",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T20:30:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21395453",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 28.09.2026",
-      "summary": "מצב כוכבים ממוזל במפת הלידה שלכם, מוליד יום מתאים להגשמת משאלות. נחמד לגלות שלא צריך להיאבק על כל דבר",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21395453",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-27T20:30:59.000Z"
@@ -23178,141 +23232,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T09:46:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1369892",
-      "title": "50 שנה אחרי: רוסיה מזהירה מהאיום שחוזר לקדמת הבמה",
-      "summary": "50 שנה לאחר כניסת האמנה לאיסור נשק ביולוגי לתוקף, שר החוץ הרוסי הזהיר מפעילות צבאית-ביולוגית שמבצעות לדבריו מדינות מחוץ לשטחן. הוא התריע גם מפני שימוש לרעה בטכנולוגיה ביולוגית בידי ארגוני טרור",
-      "link": "https://www.maariv.co.il/news/world/article-1369892",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:45:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tlt98o",
-      "title": "אמת מה נהדר • מראות קודש מערב ומוצאי יום הכיפורים בחצר הקודש ויז'ניץ",
-      "summary": "רגעים מרוממים ונשגבים מיום הכיפורים במחיצת האדמו\"ר מויז'ניץ |גלריה מיוחדת ממראות הוד, החל מתשליך בפארק בגין, מצות כיסוי הדם, שחרית ולחיים ערב יום הקדוש, שולחן הטהור ערב יום הקדוש, כל נדרי, מעריב הבדלה בסיום הצום, קידוש לבנה והטיש במוצאי יום הקדוש (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tlt98o",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:41:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21468947",
-      "title": "הבן של אייל ברקוביץ' שוחרר מבית החולים: \"כאילו אני עומד למות\"",
-      "summary": "אחרי שאושפז לאחר שחלה בשלבקת חוגרת, ליאור ברקוביץ' חזר הביתה והמשיך לשתף את העוקבים - כולל חילופי עקיצות עם דודו ניר, שטען שהוא \"נראה רע\" • וגם: ההצעה מ\"המירוץ למיליון\" נחשפת",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21468947",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:40:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/zelensky-trump-meeting-facial-expressions-viral",
-      "title": "מה עובר עליו? זלנסקי נפגש עם טראמפ - והתנהג בצורה מוזרה במיוחד",
-      "summary": "נשיא אוקראינה נראה מבצע תנועות פנים חריגות בפגישה עם נשיא ארה\"ב | סרטון ויראלי עורר גל תגובות ברשת | מה עומד מאחורי ההתנהגות? (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/zelensky-trump-meeting-facial-expressions-viral",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:40:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21470913",
-      "title": "שיא באכיפה: 642 קורקינטים ואופניים חשמליים הוחרמו בת\"א בחודש אחד",
-      "summary": "האכיפה בעיר נגד כלים חשמליים דו גלגליים הגיעה לשיא מאז שנת 2017 • בשלושת החודשים האחרונים הוחרמו 1,646 כלים חשמליים ברחבי העיר • עיקר האכיפה מתמקדת ברכיבה על מדרכות ובשבילי הולכי רגל, וכן אי חבישת קסדה ואי התקנת לוחית זיהוי",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21470913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:39:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21470854",
-      "title": "אבו מאזן בשולי העצרת באו\"ם: \"2027 - שנת הקמת מדינה פלסטינית\"",
-      "summary": "בשידור וידאו בפגישה שכינסו בריטניה וצרפת, יו\"ר הרשות הפלסטינית קרא להציב \"לוח זמנים לסיום הכיבוש הישראלי\" • עוד טען אבו מאזן כי \"פרויקט ההתנחלות ב-E1 מאיים על אחדות הטריטוריה הפלסטינית\" • מחר צפוי נאומו מול העצרת הכללית",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21470854",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:38:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/tlt96a",
-      "title": "פרסם תמונה של חיילת צה\"ל עם קליע מכוון לראשה; זה מה שקרה לו",
-      "summary": "\"בחיי אללה נביס אותם, ונאלמן את נשותיהם, וניתם את ילדיהם\" - כך כתב פלסטיני במרשתת ואף פרסם תמונה של חיילת צה\"ל עם קליע מכוון לראשה | לאחר ניטור פרסומיו, היחידה ללוחמה בפשיעה במרחב שומרון של מחוז ש\"י פתחו בחקירתו בחשד להסתה, הזדהות ותמיכה בארגון הטרור (משטרה)",
-      "link": "https://www.kikar.co.il/police/tlt96a",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:38:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85366",
-      "title": "נער בן 15 נפגע בינוני בתאונת קורקינט בבני ברק",
-      "summary": "נער בן 15 נפגע הבוקר (11:37) מרכב בעת שרכב על קורקינט חשמלי ברחוב הרב כהנמן בבני ברק. צוותי מד\"א העניקו לו טיפול רפואי במקום ופינו אותו לבית החולים שניידר במצב בינוני, עם חבלת ראש.",
-      "link": "https://www.kikar.co.il/scoop-news/85366",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:38:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21470902",
-      "title": "דיווח: זו תוכנית השיקום של טראמפ לעזה בעלות של 2.45 מיליארד דולר",
-      "summary": "מועצת השלום של הנשיא טראמפ צפויה להציג תוכנית שיקום לחצי השנה הקרובה • מדובר ב־66 פרויקטים בשישה תחומים: הקמת תשתיות, שיקום בתי חולים, פינוי הריסות, הקמת כוח ביטחון רב-לאומי, הקמת משטרת עזה ושיקום המגזר הפרטי",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21470902",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:38:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369886",
-      "title": "תיאטרון הצביעות של האו\"ם: כך הופכים את המשמיצים לנאשמים | עמית יגור",
-      "summary": "בעוד מנהיגים מנצלים את במת האו\"ם כדי לתקוף את ישראל, ירושלים ממשיכה לנהל מלחמת תודעה שאבד עליה הכלח: במקום נאומי תגובה והתגוננות - דרוש קמפיין מוקדם שיציב מול מבקריה שאלות נוקבות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1369886",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:38:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1369886",
-      "title": "תיאטרון האבסורד של האו\"ם: מלחמת התודעה שישראל צריכה לאמץ | עמית יגור",
-      "summary": "בעוד מנהיגים מנצלים את במת האו\"ם כדי לתקוף את ישראל, ירושלים ממשיכה לנהל מלחמת תודעה שאבד עליה הכלח: במקום נאומי תגובה והתגוננות - דרוש קמפיין מוקדם שיציב מול מבקריה שאלות נוקבות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1369886",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-23T09:38:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21470507",
-      "title": "אחיו של זאב רווח: \"הוא היה בא לבקר אותי במערה\"",
-      "summary": "בן משפחתו של השחקן והיוצר המיתולוגי משחזר את שבע השנים שבהן התבודד בכרמל כצייר עני שאכל עשבים, ומספר על הלילות המשותפים בטבע והוויכוחים על אמנות: \"היה מביא לחם וגבינות להחיותני\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21470507",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:36:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tlt8ap",
-      "title": "הפוסק הגאון רבי בנימין חותה בשיעור מקיף בהלכות סוכה וארבעת המינים | צפו",
-      "summary": "הפוסק הספרדי הגאון רבי בנימין חותה בשיעור מקיף ומתמצת על הלכות סוכה וארבעת המינים | השיעור נמסר במסגרת שיעורו השבועי בכולל 'חזון עובדיה' במושב בן זכאי | צפו בשיעור (סוכות)",
-      "link": "https://www.kikar.co.il/haredim-news/tlt8ap",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T09:36:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21470798",
-      "title": "הצטרף למועדון ה-27: כל מה שידוע על מות בנה של סינדי קרופורד",
-      "summary": "שעות אחרי שנכנס למרכז גמילה, נמצא פרסלי גרבר, בנה הבכור של סינדי קרופורד, ללא רוח חיים • בזמן שהמשפחה מבקשת פרטיות, נחשפים פרטים על הלילה האחרון, הטענות נגד הרופא שרשם לו קטמין והמשפט המצמרר שאמרה אמו לפני 16 שנה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21470798",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T09:32:50.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3869458",
-      "title": "השמש עדיין כאן: 10 היעדים הכי טובים באירופה לחופשת סתיו",
-      "summary": "אם נדמה לכם שעונת החופשות נגמרת ברגע שהקיץ מתקפל, מחקר חדש מציע לחשוב שוב. חברת חופשות הווילות Solmar Villas בחנה 105 יעדים ברחבי אירופה כדי לבדוק היכן אפשר ליהנות מהשילוב המבוקש של מזג אוויר נעים, מעט ימי גשם ומחירי טיסות סבירים יחסית בחודשים אוקטובר ונובמבר. והזוכה הגדולה היא שכנתנו - קפריסין. למעשה, האי משתלט על ארבעת המקומות הראשונים בדירוג, עם טמפרטורות שנעות בדרך כלל בין 24 ל-29 מעלות בעונה. לדברי שרון ברדברי, מנכ\"לית Solmar Villas, \"אמנם אי אפשר לחזות את מזג האוויר, אבל הנתונים האלה הם הדבר הקרוב ביותר שאפשר לקבל לקביעה מהם המקומות הטובים ביותר לחופשת שמש מושלמת בסתיו\". למרות שקפריסין נמצאת רק 40 דקות טיסה מנתב\"ג, ישראל לא נכנסה לשום מקום בין עשרת המקומות שאפשר לנפוש בהם בסתיו.",
-      "link": "https://travel.walla.co.il/item/3869458",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-23T09:31:00.000Z"
     }
   ]
 }
