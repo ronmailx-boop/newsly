@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T12:31:01.543Z",
+  "updatedAt": "2026-09-28T12:45:55.759Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-28T13:24:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1371575",
+      "title": "\"שימו ספרים מתחת למיטה\": העצה הרפואית החריגה של מאסק",
+      "summary": "אילון מאסק המליץ לסובלים מצרבת להניח ספרים מתחת לראש המיטה ולהגביה אותה. מחקרים מצאו כי הגבהת המיטה אכן עשויה להפחית צרבת לילית, אך גם עלולה לגרום לתופעות לוואי",
+      "link": "https://www.maariv.co.il/news/health/article-1371575",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-28T12:38:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tm2qok",
+      "title": "\"אתחלתא דגאולה\" - חכמי ליטא בלב ירושלים",
+      "summary": "\"חצר שטרויס\" תפקדה כנווה מדבר רוחני, שבו התקיימה קהילה עצמאית כמעט לחלוטין, הרחק מהפוליטיקה והסערות הציבוריות שפקדו את ירושלים של סוף התקופה העות'מאנית | הדמות המרכזית והמשפיעה ביותר שהטביעה את חותמה על החצר הייתה דמותו של הגאון רבי יצחק (איצ'לה) בלאזר זצ\"ל | פרק 2 (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/tm2qok",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-28T12:34:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21506237",
@@ -645,6 +663,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1371522",
+      "title": "התרגיל העוקף והחצוף מכולם: השיטה הבלתי נתפסת לגניבת רכבים בראשון לציון",
+      "summary": "נהג גרר תושב ירושלים נעצר בכביש 444 לאחר שעל משאיתו נמצאו שני כלי רכב ואופנוע שנלקחו, לפי החשד, ללא ידיעת בעליהם. הוא טען כי אסף אותם במסגרת עבודתו – אך הבעלים כלל לא הזמינו גרירה",
+      "link": "https://www.maariv.co.il/news/israel/article-1371522",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-28T10:36:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1371522",
       "title": "פשיעה לאור יום: בראשון לציון לא האמינו למה שראו | הסיפור המלא",
       "summary": "נהג ערבי שגנב מספר כלי רכב מאזור ראשון לציון, נתפס, תוך שניסע להגיע לשטחי יהודה ושומרון",
       "link": "https://www.maariv.co.il/news/israel/article-1371522",
@@ -705,6 +732,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-28T10:24:09.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
+      "title": "סערה בימין משה: סוכת התפילה של חסידי \"הינוקא\" פורקה בידי העירייה",
+      "summary": "פקחי עיריית ירושלים הגיעו לפרק את סוכת התפילה שהוקמה עבור הינוקא ושימשה לתפילות ושיעורים בהשתתפות מאות בני אדם מדי יום • בעקבות פירוק הסוכה, הועברו התפילות והשיעורים לסוכת \"בית שמואל\" הסמוכה | העירייה: \"בחג הסוכות הנוכחי לא אושרה בניית סוכה בימין משה\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-28T10:22:45.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
@@ -22998,87 +23034,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-23T12:48:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/land-enforcement-authority-sukkot-illegal-construc",
-      "title": "החלה אכיפה בכל הארץ של סוכות מסוכנות: \"לא רק עבירה, זו סכנת נפשות\"",
-      "summary": "מפקחי הרשות סיירו היום בשכונות ברחבי הארץ • תלו מודעות הסברה ואיתרו עבודות לא חוקיות | \"הקמת תוספות בנייה ללא היתר עלולה לסכן חיי אדם\", נמסר מהרשות לאכיפת מקרקעין (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/land-enforcement-authority-sukkot-illegal-construc",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T12:42:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85393",
-      "title": "נעצרו שני קטינים בחשד לתקיפת עובד זר בגז פלפל ברמת גן",
-      "summary": "משטרת ישראל עצרה שני קטינים, בני 14 ו-15 מבני ברק, בחשד שתקפו עובד זר ברמת גן באמצעות גז פלפל. החקירה נפתחה בעקבות דיווח וסרטונים שהופצו ברשתות החברתיות המתעדים את התקיפה. בתום חקירתם שוחררו השניים בתנאים מגבילים והחקירה נמשכת.",
-      "link": "https://www.kikar.co.il/scoop-news/85393",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T12:42:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85392",
-      "title": "צעיר בן 24 נפצע בינוני בתאונת אופנוע בכביש 886 ליד עלמה",
-      "summary": "צעיר בן 24 נפצע היום (14:42) בתאונת דרכים בין אופנוע לרכב בכביש 886 סמוך לעלמה. צוותי מד\"א העניקו טיפול רפואי במקום ופינו לבית החולים זיו שני פצועים: הצעיר במצב בינוני עם חבלות בגפיים, ופצוע נוסף במצב קל.",
-      "link": "https://www.kikar.co.il/scoop-news/85392",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T12:42:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21444808",
-      "title": "המשימה הדחופה ביותר של הממשלה הבאה עומדת ומחכה בעזה",
-      "summary": "עם החמאס אין שום מקום להבנות, גם אם הן נעשות באמצעות גורמים אמריקניים בכירים • הבחירות להנהגת הרשות הפלסטינית עשויות לפתוח חלון הזדמנויות – ולישראל אסור לפספס אותו • ומהו הסעיף הקטן בחוק שיוכל להוביל לשינוי בגיוס חרדים",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21444808",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:41:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21472976",
-      "title": "שלא תעזו לנסות: הטרנד שיסבך אתכם בביקורת הגבולות",
-      "summary": "ברשתות החברתיות ממליצים לעטוף דרכונים ביומטריים בנייר כסף מחשש לגניבת מידע • מומחי אבטחה מבהירים: סריקת השבב דורשת מגע כמעט ישיר • העטיפה רק מייצרת עיכובים בביקורת הגבולות",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21472976",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:39:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/yeshiva-world/tlthdf",
-      "title": "לוקחים אחריות על החיים: ביקור מרתק בישיבת המתיבתא",
-      "summary": "סוף זמן אלול, רוח הרים קרירה נושבת במרפסת הקמפוס החדש של \"המתיבתא – תורה ודעת\" במושב בית מאיר. על המרפסת הזו, אפשר למצוא כ-50 בחורים שמרכיבים פסיפס מרתק של החברה החרדית העכשווית",
-      "link": "https://www.kikar.co.il/yeshiva-world/tlthdf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-23T12:39:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21472754",
-      "title": "מעולם לא דיבר על זה: רמי לוי חושף התמודדות עם דיסלקציה",
-      "summary": "הריאיון החשוף שמסיר את התדמית העסקית הנוקשה • איש העסקים פותח את הלב על האתגר שמלווה אותו מילדות, והעזרה שהוא מקבל מהסביבה הקרובה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21472754",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:38:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21473061",
-      "title": "חשד לשורת מעשים חמורים: תחקיר פיקודי נגד תת-אלוף בצה\"ל",
-      "summary": "ב\"כאן 11\" פורסם כי התביעה הצבאית החליטה על קיום תחקיר פיקודי מעמיק בעניינו של קצין בדרגת תא\"ל • ההחלטה התקבלה בעקבות תלונה של רב-סרן, שייחס לבכיר שורת מעשים חמורים על רקע מערכת יחסים אישית שניהל • מצ\"ח חוקרת חשדות לשימוש לרעה בכוח המשרה, חריגה מסמכות והתנהגות שאינה הולמת",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21473061",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:37:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21471058",
-      "title": "5 דקות, בלי לבשל: הקישוט הכי יפה בסוכה הוא בכלל בצלחת",
-      "summary": "לא כל מנה חגיגית דורשת שעות במטבח • סלט הקפרזה הקלאסי הופך לביסים אישיים עם עגבניות שרי, מוצרלה ובזיליקום • 5 דקות עבודה, בלי תנור ובלי בישול, ויש לכם מנה ראשונה חגיגית לסוכות",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21471058",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-23T12:36:07.000Z"
     }
   ]
 }
