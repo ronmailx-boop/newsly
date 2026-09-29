@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:45:51.008Z",
+  "updatedAt": "2026-09-29T17:01:01.522Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-29T18:05:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/muslim-country-first-female-prime-minister",
+      "title": "דרמה פוליטית במדינה המוסלמית: אישה תנהל את הממשלה לראשונה",
+      "summary": "המלך מוחמד השישי מינה את פאטימה א-זהרא אל-מנסורי לראשת הממשלה • ניצחון מפלגת PAM בבחירות עם 97 מושבים מתוך 395 | פרק חדש בתולדות הממלכה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/muslim-country-first-female-prime-minister",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-29T16:59:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372007",
+      "title": "הדיווח שהרעיד את המערכת: גורם ביטחוני חושף מה באמת קרה בביקור נתניהו באמירויות",
+      "summary": "גורם ביטחוני מכחיש את הדיווח על פגישה בין נתניהו לרמטכ\"ל לוב במהלך ביקורו באמירויות, וטוען כי ראש הממשלה נפגש רק עם מנהיג המדינה מוחמד בן זאיד",
+      "link": "https://www.maariv.co.il/news/politics/article-1372007",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T16:57:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/douglas-stuart-carter-released-death-row-utah",
+      "title": "41 שנה בנידונים למוות: שוחרר כי הוא חף מפשע",
+      "summary": "דאגלס קרטר שוחרר בערבות לאחר 41 שנה באגף הנידונים למוות ביוטה • עדי השקר הודו שקיבלו שוחד מהמשטרה | הסיוט שהסתיים ברגע אחד (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/douglas-stuart-carter-released-death-row-utah",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-29T16:49:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1371999",
@@ -147,6 +174,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-29T16:05:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1371988",
+      "title": "איום על הבחירות ומחסור בלוחמים: העימות שהתפתח אחרי דברי נתניהו",
+      "summary": "בעקבות אזהרת נתניהו מפני איום שעלול לשבש את הבחירות, לפיד דרש עדכון ביטחוני ונקבעה פגישה בין השניים ב-23:30. בנט תקף: \"אם לא נגייס חרדים בקדנציה הקרובה, צה\"ל פשוט יקרוס\"",
+      "link": "https://www.maariv.co.il/news/military/article-1371988",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T16:05:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1371988",
@@ -309,6 +345,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T15:08:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1371965",
+      "title": "שינוי דרמטי בשב\"כ: היחידה המבצעית הופעלה נגד הטרור היהודי",
+      "summary": "תחקיר צה\"ל: יותר מ־100 פורעים הגיעו לג'אלוד, הציתו רכוש ותקפו את הכוחות; שלושה לוחמי מג\"ב נפצעו. גורמי ביטחון: היחידה המבצעית של השב\"כ הופעלה נגד הטרור היהודי באיו\"ש",
+      "link": "https://www.maariv.co.il/news/israel/article-1371965",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T15:01:07.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1371965",
@@ -21090,96 +21135,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-24T17:02:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/sukkot-joy-chassidic-teaching",
-      "title": "משמעות חג הסוכות והשמחה בימות החג לאור תורת החסידות | צפו",
-      "summary": "הסבר חסידי מעמיק על שמחת חג הסוכות, שמחת התשובה שנולדה אחרי חטא העגל, והקשר המיוחד בין הבן לאביו המלך. שיעור מיוחד לקראת החג מאת המשפיע הרב אשר פרקש (חסידות)",
-      "link": "https://www.kikar.co.il/haredim-news/sukkot-joy-chassidic-teaching",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T17:00:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21484466",
-      "title": "\"כדי למנוע פינוי - טוב שייהרגו חיילים\": הסערה סביב מגיש הפודקאסט הימני",
-      "summary": "מגיש הפודקאסט \"על המשמעות\" עורר סערה כשטען בדיון היפותטי על פינוי ביהודה ושומרון כי התנגדות חמושה שתעלה בחיי חיילים היא חיובית • לאחר גינויים מכל הקשת הפוליטית • בשיחה עם \"היום\" אמר כי לא קרא לאלימות אלא הציג דילמה מוסרית",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21484466",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T16:59:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370488",
-      "title": "לכבוד החג: אלפי נוצרים יגיעו לכנס תמיכה בישראל",
-      "summary": "הארגון האוונגליסטי הגדול \"השגרירות הנוצרית הבינלאומית\", שמאגד קהילות נוצרים תומכי ישראל, צופה שלאירוע יגיעו 1,500 משתתפים",
-      "link": "https://www.maariv.co.il/news/israel/article-1370488",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-24T16:59:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1370449",
-      "title": "ישב במסעדה וחיכה ליאניס יושבייב: כך הופלל דורון ויצמן תוך שעה בלבד",
-      "summary": "הגיע לבדו בקיה גנובה, נהג בעצמו והמתין קרוב לשעה במסעדה: במשטרה משחזרים את הדקות שקדמו לרצח יאניס יושבייב בקיסריה • דורון ויצמן תצפת על הקורבן, יצא וחזר בדיוק כשיצא מהמסעדה – ואז ירה ירייה אחת בעורפו",
-      "link": "https://www.maariv.co.il/news/law/article-1370449",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-24T16:56:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1370449",
-      "title": "ישב במסעדה וחיכה ליואניס יושבייב: כך הופלל דורון ויצמן תוך שעה בלבד",
-      "summary": "הגיע לבדו בקיה גנובה, נהג בעצמו והמתין קרוב לשעה במסעדה: במשטרה משחזרים את הדקות שקדמו לרצח יאניס יושבייב בקיסריה • דורון ויצמן תצפת על הקורבן, יצא וחזר בדיוק כשיצא מהמסעדה – ואז ירה ירייה אחת בעורפו",
-      "link": "https://www.maariv.co.il/news/law/article-1370449",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-24T16:56:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1370449",
-      "title": "ירייה אחת בעורף – ושובל של ראיות: כך פוענח רצח יאניס יושבייב",
-      "summary": "הגיע לבדו בקיה גנובה, נהג בעצמו והמתין קרוב לשעה במסעדה: במשטרה משחזרים את הדקות שקדמו לרצח יאניס יושבייב בקיסריה • דורון ויצמן תצפת על הקורבן, יצא וחזר בדיוק כשיצא מהמסעדה – ואז ירה ירייה אחת בעורפו",
-      "link": "https://www.maariv.co.il/news/law/article-1370449",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-24T16:56:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21484475",
-      "title": "מיכל אנסקי הודיעה: \"מחלימה מטיפול\"",
-      "summary": "מגישת הריאליטי והשופטת פרסמה לפני זמן קצר פוסט שבו הודיעה על טיפול שעברה כעת ועל הליך ההחלמה ממנו בביתה. \"לקחת אחריות על החיים\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21484475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T16:50:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21484268",
-      "title": "ארדואן חשף נשק נגד צוללות - בזמן שאח\"י דרקון הגיעה לישראל",
-      "summary": "טורקיה הדגימה שימוש במל\"טים מתקדמים מתוצרתה לצרכי לוחמה נגד צוללות • בתרגיל עצום שערכו כל זרועות הצבא הטורקי נבחנו יכולות צבאיות חדשות שפותחו במדינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21484268",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T16:48:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21484268",
-      "title": "בזמן שישראל משיקה צוללת חדישה - ארדואן מציג לעולם נשק תת ימי חדש",
-      "summary": "טורקיה הדגימה שימוש במל\"טים מתקדמים מתוצרתה לצרכי לוחמה נגד צוללות • בתרגיל עצום שערכו כל זרועות הצבא הטורקי נבחנו יכולות צבאיות חדשות שפותחו במדינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21484268",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T16:48:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21484416",
-      "title": "\"גורמת לשיבושים עולמיים\": 80 מדינות בגינוי חריף לאיראן",
-      "summary": "חזית בינלאומית רחבה באו\"ם: איראן, לצד החות'ים בתימן, ספגו מהלומה ממדינות רבות יחד עם האיחוד האירופי, בשל שיבוש נתיבי השיט והפגיעה בביטחון האנרגטי • בהצהרה נדרש יישום מיידי של החלטת מועצת הביטחון: \"אסור להשתמש בספנות המסחרית כמנוף לחץ\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21484416",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T16:48:00.000Z"
     }
   ]
 }
