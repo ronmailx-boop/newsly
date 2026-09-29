@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:01:15.806Z",
+  "updatedAt": "2026-09-29T19:16:05.214Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,60 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-29T21:08:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tm53bu",
+      "title": "חופת טייס של F-35 נפלה לידי סין - זה מה שבאמת עומד מאחורי הדיווח הבלתי נתפס",
+      "summary": "בשבוע שעבר דווח על אירוע בלתי נתפס במושגים צבאיים: חלקי מטוס שנפלו לידי האויבת מספר 1 של ארה\"ב | צריך לנסות ולהבין כיצד אירוע כזה מתרחש, ואולי בעיקר: מי אשם במחדל בסדר גודל כזה | ניתוח ופרשנות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tm53bu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-29T19:10:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372042",
+      "title": "ממדאני הכריז על תוכנית ענק נגד אנטישמיות – אבל חטף אש מהקהילה היהודית",
+      "summary": "לדברי ממדאני, ריבוי התקיפות לעבר יהודים בניו יורק היא \"מציאות שאינה מתקבלת על הדעת\" והכריז על מה שהגדיר כ\"אסטרטגיה העירונית הראשונה מסוגה בארה\"ב למאבק באנטישמיות\". אלא שהיוזמה התקבלה במתקפה",
+      "link": "https://www.maariv.co.il/news/world/article-1372042",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T19:07:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21516927",
+      "title": "הארון מתפוצץ? ״טריק הקולב ההפוך״ יפנה לכם המון מקום",
+      "summary": "נמאס לכם להסס מול מדפים עמוסים מדי בבוקר? שיטה חדשה תחשוף אילו בגדים סתם תופסים לכם מקום בבית",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21516927",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:55:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516443",
+      "title": "המסע ליורוליג נפתח: הפועל ירושלים הביסה בפתיחת היורוקאפ",
+      "summary": "הופעה התקפית נהדרת של קני לופטון ג'וניור וג'אלין סמית' העניקה 73:94 לחבורה של סשה אוברדוביץ' על רוסטוק הגרמנית במשחק הראשון של המפעל המשני בחשיבותו • לורנזו בראון לא שותף • היריבה הבאה: מכבי תל אביב בחצי גמר גביע ווינר",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516443",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:53:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21516901",
+      "title": "עכשיו זה רשמי: \"משחקי הכס\" בדרך לאקרנים - ויש תאריך",
+      "summary": "המעריצים חיכו לזה שנים, ועכשיו זה רשמי: סרט הקולנוע הראשון של \"משחקי הכס\" מקבל תאריך יציאה • מי הדמות הראשית שתוביל את העלילה?",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21516901",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:51:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516915",
+      "title": "צפוי להישאר בארץ: השחקן הישראלי שהוצע להפועל תל אביב",
+      "summary": "לאור העובדה שהוא לא צפוי לקבל אישור לשחק במכללות, נציגיו של שלו לוגשי הציעו אותו לאדומים • רשם עונת פריצה אשתקד בבני הרצליה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516915",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:50:09.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/torah-prisoners-unprecedented-parade-celebration",
@@ -95,9 +149,18 @@
       "pubDate": "2026-09-29T18:27:33.000Z"
     },
     {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-cbfafc2e86ee0a1027.htm",
+      "title": "אלפים בתהלוכת ענק בירושלים למען עריקים, המשתתפים יקבלו מאות שקלים",
+      "summary": "התהלוכה נערכת \"לכבוד\" עריקים חרדים ששוחררו מהכלא הצבאי • היא יצאה משכונת גאולה בהשתתפות אלפים • בסיום המחאה: המארגנים יחלקו כסף למשתתפים",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-cbfafc2e86ee0a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-29T18:27:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21516793",
       "title": "ראש ממשלת קטאר: \"נתניהו פושע מלחמה\"",
-      "summary": "מוחמד בן עבד א-רחמן אאל ת'אני: \"מה שבוצע בעזה הוא פשעי מלחמה, ומי שאחראי לכך הוא פושע מלחמה\" לצד גינוי אירועי 7 באוקטובר, טען: \"שום דבר לא מצדיק את התגובה\"",
+      "summary": "מוחמד בן עבד א-רחמן אאל ת'אני: \"מה שבוצע בעזה הוא פשעי מלחמה, ומי שאחראי לכך הוא פושע מלחמה\" • לצד גינוי אירועי 7 באוקטובר: \"שום דבר לא מצדיק את התגובה\" • וחושף: \"התקשרו אליי כחצי שעה לפני המתקפה על איראן - שאלתי אם יש משהו שיעצור את זה\"",
       "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21516793",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -336,6 +399,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T17:53:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
+      "title": "חי מהיורוליג: הכוכב האדום בלגרד - הפועל תל אביב 45:35",
+      "summary": "הסרבים מחקו יתרון דו ספרתי, אבל האדומים החזירו לעצמם את הפער המבטיח עם סיום נהדר למחצית הראשונה • אלייז'ה בראיינט בולט",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T17:51:03.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
@@ -21072,33 +21144,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-24T19:16:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21485855",
-      "title": "8 שעות בשדה, בלי יכולת לחזור הביתה: הכאוס בטיסת ארקיע",
-      "summary": "טיסת ארקיע לאלבניה, שהייתה אמורה להמריא בשעה 15:00, נדחתה שוב ושוב - והנוסעים מספרים על שעות של חוסר ודאות, היעדר נציג וקושי אפילו לוותר על הטיסה ולקבל את המזוודות בחזרה • לינוי בר־גפן, שנמצאת בטרמינל: \"מי שרצה לוותר לא ממש יכול\"",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21485855",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T19:15:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21485855",
-      "title": "שמונה שעות בנתב\"ג: נוסעי ארקיע תקועים בטרמינל ולא יכולים אפילו לחזור הביתה",
-      "summary": "טיסת ארקיע לאלבניה, שהייתה אמורה להמריא אחר הצהריים, נדחתה שוב ושוב והנוסעים מספרים על שעות ארוכות של המתנה בטרמינל 1, חוסר ודאות וקושי לעזוב את השדה גם למי שכבר החליט לוותר על החופשה • במקביל, עיכובים נרשמים הערב גם בטיסות של חברות נוספות",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21485855",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T19:15:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1bzwx7qfe",
-      "title": "מ\"נאום מזהיר\" ועד ל\"פגיעה בנרצחי הטבח\": התגובות לנאום נתניהו, 33 ימים לבחירות",
-      "summary": "קצת יותר מחודש לפני ההליכה לקלפיות, במערכת הפוליטית הגיבו כצפוי לנאומו של ראש הממשלה בעצרת הכללית - בקואליציה שיבחו ובאופוזיציה תקפו. סער: \"הציג את האמת של ישראל\". בן גביר: \"נאום חשוב מול השקרים של העולם\". מנגד, נפתלי בנט תקף: \"סירוב לקרוא לקטאר אויב - פגיעה בביטחון הלאומי\". יאיר גולן: \"קטאר משקרת? נראה שהנאום לא תואם עם אוריך\" - והשתיקה של גדי איזנקוט",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1bzwx7qfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-24T19:13:45.000Z"
     }
   ]
 }
