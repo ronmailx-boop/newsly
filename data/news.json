@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:01:16.137Z",
+  "updatedAt": "2026-09-29T22:15:57.343Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21517420",
+      "title": "דרמה בשידור חי בפולין: נערה נפגעה מרכב מול המצלמות",
+      "summary": "כתב TVP Info דיווח מזירת תאונה קטלנית בצפון פולין, כשמאחוריו נפגעה בת 14 שרכבה על קורקינט • צוות הצילום תיעד את לוחית הרישוי של הנהג שנמלט והזעיק את כוחות ההצלה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21517420",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T21:46:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21517422",
+      "title": "נתניהו ולפיד נפגשו לעדכון ביטחוני: \"הבחירות ייערכו במועדן\"",
+      "summary": "נתניהו עדכן את ראש האופוזיציה בהתרעות על התקפות אפשריות בחזיתות השונות לקראת הבחירות • בליכוד תקפו את לפיד על הודעתו שפורסמה שתי דקות לאחר הפגישה • לפיד: \"איומים ביטחוניים הם דבר שצריך לטפל בו באופן מקצועי ואחראי\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21517422",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T21:32:05.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sy5z9cfcfg",
       "title": "סוריה עצרה חוליית חיזבאללה: \"ניסו להציב משגרי טילים\"",
@@ -77,19 +95,19 @@
       "pubDate": "2026-09-29T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14912792",
-      "title": "קמפיין הצלה בחמישה צעדים",
-      "summary": "פחות מחודש לבחירות והמצב קשה. רוב התרחישים האפשריים ל-27 באוקטובר מותירים את ישראל בסכנה, ויש רק דרך אחת למנוע את זה: 61 מנדטים של גוש תיקון ציוני אמיתי. כך מפלגות הגוש יוכלו לעשות זאת",
-      "link": "https://www.ynet.co.il/news/article/yokra14912792",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14912910",
+      "title": "זהירות, המפולת בדרך",
+      "summary": "מקבלי ההחלטות משבשים משהו יסודי בדרך שבה הם מתווכים לישראלים את המציאות בנושא הפלסטיני. במקום להבין באופן מפוכח שמדובר בתוצאות של השינוי במדיניות ובצביון שלנו, מקבל האזרח הסבר ולפיו העולם צבוע ולא מכיר כמונו את הערבים",
+      "link": "https://www.ynet.co.il/news/article/yokra14912910",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14912910",
-      "title": "זהירות, המפולת בדרך",
-      "summary": "מקבלי ההחלטות משבשים משהו יסודי בדרך שבה הם מתווכים לישראלים את המציאות בנושא הפלסטיני. במקום להבין באופן מפוכח שמדובר בתוצאות של השינוי במדיניות ובצביון שלנו, מקבל האזרח הסבר ולפיו העולם צבוע ולא מכיר כמונו את הערבים",
-      "link": "https://www.ynet.co.il/news/article/yokra14912910",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14912792",
+      "title": "קמפיין הצלה בחמישה צעדים",
+      "summary": "פחות מחודש לבחירות והמצב קשה. רוב התרחישים האפשריים ל-27 באוקטובר מותירים את ישראל בסכנה, ויש רק דרך אחת למנוע את זה: 61 מנדטים של גוש תיקון ציוני אמיתי. כך מפלגות הגוש יוכלו לעשות זאת",
+      "link": "https://www.ynet.co.il/news/article/yokra14912792",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T21:03:00.000Z"
@@ -21135,15 +21153,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-24T22:26:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21486641",
-      "title": "אחרי שנתניהו הניף סטארלינק באו״ם, דנון העניק אותו לנציג האיראני",
-      "summary": "שגריר ישראל ניגש לנציג איראן בתום הנאום ואמר לו: ״קח את הסטארלינק לטהרן, כדי לאפשר לעם האיראני לזכות בחירות שלו״ • דנון הוסיף: ״אנחנו מתפללים לשינוי המשטר - היום הזה עוד יגיע״",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21486641",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T22:04:15.000Z"
     }
   ]
 }
