@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:16:05.214Z",
+  "updatedAt": "2026-09-29T19:31:01.169Z",
   "sources": [
     {
       "key": "ynet",
@@ -41,6 +41,42 @@
       "pubDate": "2026-09-29T21:08:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/news/tm547f",
+      "title": "שוטר גאון: דהר כדי לסייע לחבר לעצור מהגר - ודרס את שניהם",
+      "summary": "אירוע חריג שהתרחש היום באיטליה מעורר סערה ברשתות החברתיות: שוטר איטלקי דהר עם רכבו כדי לסייע במעצר מהגר - והעיף את שניהם, למרבה המזל ללא פגיעה משמעותית | כך הסתיים האירוע (בעולם)",
+      "link": "https://www.kikar.co.il/news/tm547f",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-29T19:25:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1dosufcfx",
+      "title": "\"סימנים לתקיפה?'' אין מודיעין קונקרטי\" | מאחורי הצהרת נתניהו",
+      "summary": "רה\"מ הצהיר ש\"יש סימנים\" לתקיפה על ישראל לפני הבחירות, אך גורמים בצה\"ל מדגישים שאין כל מידע המעיד על כך, או היערכות מיוחדת שלא נהוגה ממילא בחג. במקביל, בישראל שומרים על ערנות - ועל הקשר ההדוק עם צבא ארה\"ב",
+      "link": "https://www.ynet.co.il/news/article/s1dosufcfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-29T19:16:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21517031",
+      "title": "שחאדה, אתה לא ראוי: את המילים אי אפשר למחוק",
+      "summary": "אביה של רוני אשל, שנפלה בחמ\"ל נחל עוז, חוזר לסרטון של סאמי אבו שחאדה מ־10 באוקטובר 2023, ערב הדיון בבג\"ץ: \"רוני כבר לא יכולה לדבר. לכן ביום חמישי ידברו העובדות, הראיות והחוק\"",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21517031",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T19:14:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21517027",
+      "title": "אחרי יותר משתי עשורים ו־4,500 חללים: אחרוני חיילי ארה\"ב יעזבו את עיראק",
+      "summary": "23 שנה אחרי הפלישה שהפילה את סדאם חוסיין, ארה\"ב סוגרת את אחד הפרקים המעצבים של המזרח התיכון • בזמן שבציר האיראני חוגגים \"ניצחון היסטורי\" וחוששים מחזרה של דאעש, בוושינגטון גובר המיאוס ממעורבות צבאית • מעמדה של ישראל סופג פגיעה על רקע הביקורת על מעורבותה במלחמות באזור",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21517027",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T19:12:33.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/tm53bu",
       "title": "חופת טייס של F-35 נפלה לידי סין - זה מה שבאמת עומד מאחורי הדיווח הבלתי נתפס",
       "summary": "בשבוע שעבר דווח על אירוע בלתי נתפס במושגים צבאיים: חלקי מטוס שנפלו לידי האויבת מספר 1 של ארה\"ב | צריך לנסות ולהבין כיצד אירוע כזה מתרחש, ואולי בעיקר: מי אשם במחדל בסדר גודל כזה | ניתוח ופרשנות (בעולם)",
@@ -57,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-29T19:07:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21517012",
+      "title": "\"פגום כבר מהקופסה\": זעם בקרב רוכשי האייפון 18 החדש",
+      "summary": "משתמשי אייפון 18 פרו דורשים החזרים לאחר שזיהו פגם בצבע סביב המצלמות האחוריות • התקלה, שדווחה ב\"ניו יורק פוסט\" שבועות ספורים לאחר השקת המכשיר, מופיעה בעיקר בדגמים בצבעי בורדו ושחור • גולשים מתוסכלים העידו: \"זה היה ככה מחוץ לקופסה, הכתמים לא נעלמים לא משנה מה עשיתי\" • על פי ההערכות, ייתכן כי הבעיה נובעת מתהליך ייצור והטמעת הצבע באלומיניום",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21517012",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T19:04:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21516927",
@@ -285,6 +330,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1372017",
+      "title": "הטרנד מטיקטוק שמדאיג מומחים: הסכנה מאחורי המתכון הוויראלי",
+      "summary": "סרטונים ויראליים מציגים תסיסת שום בדבש כדרך לחיזוק מערכת החיסון, אך מומחי בטיחות מזון מזהירים כי ההכנה עלולה ליצור תנאים להתפתחות חיידקים הגורמים לבוטוליזם",
+      "link": "https://www.maariv.co.il/news/viral/article-1372017",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T18:06:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1372017",
       "title": "מתכון השום והדבש כבש את הטיקטוק - אבל מומחים מזהירים",
       "summary": "סרטונים ויראליים מציגים תסיסת שום בדבש כדרך לחיזוק מערכת החיסון, אך מומחי בטיחות מזון מזהירים כי ההכנה עלולה ליצור תנאים להתפתחות חיידקים הגורמים לבוטוליזם",
       "link": "https://www.maariv.co.il/news/viral/article-1372017",
@@ -354,6 +408,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T18:00:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1211mutqzg",
+      "title": "תהלוכת ענק נגד צה\"ל בלב ירושלים: \"צבא האויב\"",
+      "summary": "עולם הפוך: עריקים שנעצרו הם \"חטופים\", צה\"ל הוא \"צבא האויב\", משתמטים ששוחררו מקבלים 1,000 שקל כל אחד, על שקיות הפתעה לילדים נכתב כי הם \"זכו לשבת בכלא\" - וכל זה קורה בבירת ישראל. אלפים משתתפים בצעדה ומריעים, המשטרה סגרה את כל הרחובות באזור, באופוזיציה גינו",
+      "link": "https://www.ynet.co.il/news/article/b1211mutqzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-29T17:56:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1211mutqzg",
@@ -555,6 +618,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516479",
+      "title": "בלי סעיף יורוליג: פרטי החוזה החדש של רומן סורקין במכבי תל אביב",
+      "summary": "הצהובים הודיעו על הארכת חוזהו של הכוכב הישראלי בשנה נוספת, עד 2030 • שדרג את שכרו ביותר מחצי מיליון דולר לעונה, לא יחזיק בסעיף יציאה ליורוליג",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516479",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T17:03:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516479",
       "title": "עם שדרוג עצום: פרטי החוזה החדש של רומן סורקין במכבי תל אביב",
       "summary": "הצהובים הודיעו על הארכת חוזהו של הכוכב הישראלי בשנה נוספת, עד 2030 • שדרג את שכרו ביותר מחצי מיליון דולר לעונה, לא יחזיק בסעיף יציאה ליורוליג",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516479",
@@ -645,6 +717,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
+      "title": "מנצ'סטר סיטי תרד ליגה? \"ההחלטה המשמעותית בהיסטורית הפרמייר ליג\"",
+      "summary": "אחרי ימים של שמועות, הגיע האישור הסופי של קבלת המלצות הוועדה העצמאית לגבי ההפרות הפיננסיות של הסיטיזנס • מנכ\"ל הליגה האנגלית: \"ההחלטה מפרטת כיצד המועדון הפר באופן שיטתי את כללי הפרמייר ליג במשך כמעט עשור\" • במועדון הגיבו: \"שגיאות מהותיות ברורות\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T16:37:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
       "title": "\"ההחלטה המשמעותית בהיסטוריית הפרמייר ליג\": התגובות להחלטה נגד מנצ'סטר סיטי",
       "summary": "אחרי ימים של שמועות, הגיע האישור הסופי של קבלת המלצות הוועדה העצמאית לגבי ההפרות הפיננסיות של הסיטיזנס • מנכ\"ל הליגה האנגלית: \"ההחלטה מפרטת כיצד המועדון הפר באופן שיטתי את כללי הפרמייר ליג במשך כמעט עשור\" • במועדון הגיבו: \"שגיאות מהותיות ברורות\"",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
@@ -696,6 +777,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T16:17:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516217",
+      "title": "כולל הדור הבא של הפועל ירושלים: המועמדים לפריצת העונה בליגת העל",
+      "summary": "המושאל של הקבוצה מהבירה, השחקנים שכיכבו בנבחרות ישראל הצעירות, והחממות לפיתוח ישראלים צעירים • אבי סגל סימן לקראת העונה החדשה את הכישרונות שעשויים לעשות את קפיצת המדרגה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516217",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T16:16:58.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516217",
@@ -21108,42 +21198,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-24T19:40:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/ponevezh-roshei-yeshiva-support-feivelson-attack",
-      "title": "\"נערים שמנוערים מן המצות\": ראשי ישיבת פוניבז' בגינוי חריף נגד תקיפת הרב פייבלזון",
-      "summary": "הגאון רבי חיים פרץ ברמן והגאון רבי דוד מילר שלחו מכתבי תמיכה לגרא\"מ פייבלזון, בשל התקיפות שעבר לאחרונה על ידי צעירים מ״שולי המחנה״ • \"אוהביו כצאת השמש בגבורתו\" | פרסום ראשון (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/ponevezh-roshei-yeshiva-support-feivelson-attack",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T19:27:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21485910",
-      "title": "לאחר נאום נתניהו באו\"ם: בנט וצנגאוקר תוקפים; סער מגבה",
-      "summary": "ראש הממשלה תקף את איראן מעל בימת העצרת הכללית בניו יורק בעוד שבמערכת הפוליטית נרשמו תגובות מעורבות • ראש הממשלה לשעבר טען כי ההימנעות מהכרזה על קטאר כאויב פוגעת בביטחון ואילו עינב צנגאוקר גינתה את הופעתו • מנגד גדעון סער ודני דנון שיבחו את הנאום",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21485910",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T19:25:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85602",
-      "title": "נתניהו סיים את נאומו בעצרת האו\"ם: \"נצח ישראל לא ישקר\"",
-      "summary": "ראש הממשלה בנימין נתניהו סיים את נאומו בעצרת האו\"ם בניו יורק. הנאום נמשך כ-40 דקות וסיומו היה בציטוט \"נצח ישראל לא ישקר\".",
-      "link": "https://www.kikar.co.il/scoop-news/85602",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T19:21:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkgivamqfl",
-      "title": "המשטרה משליכה אחריות, צה\"ל לא משיב לפניות ח\"כים: \"לא נאפשר את טיוח העריקות\"",
-      "summary": "חברי הכנסת מהאופוזיציה עדיין לא קיבלו הבהרות מצה\"ל על הירידה הדרמטית בהיקף מעצרי חייבי הגיוס - וצה\"ל והמשטרה רבים מי אחראי על כך. הפעילות היזומה הופסקה, ח\"כ רייטן: \"הצבא נדרש לקיים את חובתו. פנינו לפצ\"ר לקבל תשובות\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hkgivamqfl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-24T19:16:17.000Z"
     }
   ]
 }
