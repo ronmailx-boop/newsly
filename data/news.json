@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:16:04.436Z",
+  "updatedAt": "2026-09-29T18:31:00.592Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "walla:https://e.walla.co.il/item/3870272",
+      "title": "\"איש של עשייה והרפתקה\": השחקן הישראלי גיא קפולניק נהרג בהתרסקות מטוס בקליפורניה",
+      "summary": "קפולניק היה בוגר הסטודיו למשחק ניסן נתיב, והשתתף בין היתר בסרטים \"חדר 514\", \"סלסלה תל אביב\" ו\"לבנון\". לצד המשחק, בשנים האחרונות הפכה אהבתו הגדולה לתעופה לחלק מרכזי בחייו - והוא שימש כטייס ומדריך טיסה. משפחתו אמרה עליו כי \"העז שוב ושוב לבחור בדרכים חדשות\"",
+      "link": "https://e.walla.co.il/item/3870272",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-09-29T21:08:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1wyuokqzg",
+      "title": "הדמוקרטים נגד זיני: \"מתנער מחובתו בחוק ומתמסר למלך על חשבון נאמנות לממלכה\"",
+      "summary": "הודעת שב\"כ בנושא אבטחת ראשי המפלגות עוררה זעם במפלגתו של יאיר גולן, שתקפה את ראש שב\"כ: \"לוקח על עצמו סיכון אישי כבד ביותר למקרה שיתרחש הרצח הפוליטי הבא\". לטענת הדמוקרטים, לפני כשבוע נאלץ גולן לברוח מכנס בבאר שבע, לאחר שהתקבלה אינדיקציה על התארגנות של המון במטרה לפגוע בו",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1wyuokqzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-29T18:23:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372029",
+      "title": "עד 2030: הקשישה בת ה-87 הרעידה את ספרד - כעת הממשלה עושה צעד משמעותי",
+      "summary": "בעקבות פינוי אישה בת 87 שהפך לסמל למחאה הציבורית, ממשלת סנצ'ס מקדמת רפורמות שנועדו לבלום את עליית מחירי הדיור והשכירות",
+      "link": "https://www.maariv.co.il/news/world/article-1372029",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T18:20:13.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/harry-meghan-security-ultimatum-britain",
+      "title": "משבר במשפחת המלוכה: הארי ומייגן פגועים ומתוסכלים - וכבר מאיימים לעשות צעד",
+      "summary": "חודש לאחר שובם לממלכה, בני הזוג שוקלים לחזור לקליפורניה | פרשנים מלכותיים מגנים: 'זו סחיטה' | האולטימטום שמסעיר את הממלכה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/harry-meghan-security-ultimatum-britain",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-29T18:15:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21516648",
+      "title": "\"לא צריך רק להיפסל - צריך להיחקר\": הדרישה החדשה של בן גביר נגד אבו שחאדה",
+      "summary": "לאחר שהיועמ״שית ופרקליט המדינה ביקשו מביהמ״ש העליון לאשר את פסילת יו״ר בל״ד מהתמודדות לכנסת, יו\"ר עוצמה יהודית דרש לפתוח נגדו בחקירה בחשד להסתה לטרור ולאלימות ולהזדהות עם ארגון טרור • ברקע: היועמ״שית ופרקליט המדינה הגישו לבית המשפט העליון עמדה שלפיה יש לאשר את פסילתו",
+      "link": "https://www.israelhayom.co.il/news/law/article/21516648",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:14:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21516710",
+      "title": "\"לא נמצאו מטענים\": תפנית בחקירת החשד לפיגוע ליד בסיס המפציצים האמריקניים בבריטניה",
+      "summary": "היחידה למלחמה בטרור הודיעה כי בטנדרים שנמצאו ליד בסיס פיירפורד נמצאה כמות מסוימת של דלק ולא מטענים מאולתרים • ראש היחידה הגן על השחרור בערבות של החמישה, שספג ביקורת מטראמפ • רוביו טוען כי \"ידו של גורם זר\" מעורבת, ואיראן מכחישה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21516710",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:12:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/larisa-amir-attacks-ben-gvir-furlough",
       "title": "לריסה עמיר נגד בן גביר: אסיר בן 56 לא יסכן את המדינה",
       "summary": "בקשת עמיר לחופשה חד-פעמית נדחתה משיקולי ביטחון • אשתו: 'אסיר בן 56 שמרצה 31 שנה יסכן את המדינה?' | ביקורת חריפה על השר (בארץ)",
@@ -43,7 +97,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bywnpdf9mg",
       "title": "השחקן והטייס הישראלי גיא קפולניק נהרג בהתרסקות מטוס קל",
-      "summary": "",
+      "summary": "קפולניק, בן 46, התגורר בלוס אנג'לס ושימש בין היתר כמדריך טיסה. בתאונה נהרגה גם הנוסעת שהייתה איתו. משפחתו מסרה: \"היה איש של עשייה, סקרנות והרפתקה. שחקן ויוצר, סקיפר ואיש ים. לאורך חייו נע בין הבמה והמצלמה, הים והשמיים\"",
       "link": "https://www.ynet.co.il/news/article/bywnpdf9mg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-29T18:07:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21516700",
+      "title": "השחקן והטייס הישראלי גיא קפולניק נהרג בהתרסקות מטוס",
+      "summary": "גיא קפולניק (46), בן היישוב כרמי יוסף שהתגורר בשנים האחרונות בלוס אנג'לס, נהרג בהתרסקות מטוס יחד עם אישה נוספת • קפולניק שירת כקצין ב-669, הופיע בסרטים מוכרים בישראל, ובהמשך עבר לארה\"ב והפך למדריך טיסה • חבריו ותלמידיו נפרדו וספדו לו: \"איש של עשייה, סקרנות והרפתקה, שנע בין הבמה והמצלמה, הים והשמיים\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21516700",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:07:01.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1372017",
@@ -75,6 +138,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-29T18:05:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21516645",
+      "title": "האונס הקבוצתי באוניברסיטת היוקרה שמסעיר את ארה\"ב",
+      "summary": "פרטים חדשים נחשפו על פרשת האונס הקבוצתי באוניברסיטת העילית בארה\"ב • מושלת ניו יורק: \"קוראת לחקירה עצמאית על התנהלות האוניברסיטה\" • אחד מחברי האחווה שלח הודעה: \"מצטער, זה לא היה צריך לצאת משליטה\" • תיאור קשה לקריאה",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21516645",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:04:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21516643",
+      "title": "קאמבק מרגש: סלין דיון פתחה את שבוע האופנה בפריז",
+      "summary": "הזמרת הקנדית, שמתמודדת עם מחלה נדירה, הפתיעה את הנוכחים בביצוע חי ללהיט שלה מתחת למגדל אייפל • כל הפרטים על הקאמבק",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21516643",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:02:13.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1372020",
@@ -102,6 +183,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T18:00:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21516052",
+      "title": "\"השארת את הגז דולק?\": השלט בשדה התעופה שהלחיץ את הנוסעים",
+      "summary": "פרסומת של חברת אשראי בשדה תעופה בארה\"ב הצליחה להפעיל בדיוק את הפחד שממנו נוסעים רבים סובלים לפני טיסה • ברשת כבר כינו אותה \"מרושעת\", אבל מומחי שיווק דווקא רואים במהלך גאונות פרסומית",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21516052",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T18:00:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1211mutqzg",
+      "title": "תהלוכת המשתמטים בירושלים | העצורים קיבלו כסף, הילדים ממתקים עם מסר: \"זכו לשבת בכלא\"",
+      "summary": "אחרי מפגן התמיכה בבני ברק, גם בירושלים השתתפו אלפים בחגיגות למען עריקים ששוחררו מהכלא הצבאי, שמכונים בחברה החרדית \"אסירי עולם התורה\". המסר הבעייתי לילדים, והכסף שנשלח מחו\"ל",
+      "link": "https://www.ynet.co.il/news/article/b1211mutqzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-29T17:56:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1211mutqzg",
@@ -132,12 +231,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
+      "title": "חי מהיורוליג: הכוכב האדום בלגרד - הפועל תל אביב 15:11",
+      "summary": "הקבוצה של דימיטריס איטודיס פוגשת את האקסים ג'ונתן מוטלי וכריס ג'ונס, שתי הקבוצות מחפשות ניצחון ראשון ביורוליג • ג'ייקוב טופין נגרע מהסגל בשל מכה ברגל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T17:51:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
       "title": "חי מהיורוליג: הכוכב האדום בלגרד - הפועל תל אביב 0:0",
       "summary": "הקבוצה של דימיטריס איטודיס פוגשת את האקסים ג'ונתן מוטלי וכריס ג'ונס, שתי הקבוצות מחפשות ניצחון ראשון ביורוליג • ג'ייקוב טופין נגרע מהסגל בשל מכה ברגל",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21516608",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T17:51:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372018",
+      "title": "\"צריך לשנות הכול\": ראש הממשלה לשעבר מסמן קאמבק באיטליה",
+      "summary": "חוסר שביעות הרצון מממשלת מלוני גובר, אבל יריביה מתקשים להתאחד: קונטה מבקש לעצור את הסיוע הצבאי לאוקראינה ולשנות את מדיניות החוץ, בעוד הקרב מול שליין על הנהגת הגוש מחריף",
+      "link": "https://www.maariv.co.il/news/world/article-1372018",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T17:46:36.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372018",
@@ -309,6 +426,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-29T16:49:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1371999",
+      "title": "\"מדוע לא חקרה את היורה?\": הביקורת החריפה של השופט על המשטרה",
+      "summary": "המשטרה ביקשה להאריך את מעצרו בשבעה ימים, אך השופט קבע שאין חשד סביר וקבע כי לא ברור מדוע היורה לא נחקר ונשקו לא נתפס: \"דוחה את הבקשה ומורה על שחרורו ללא תנאים\"",
+      "link": "https://www.maariv.co.il/news/law/article-1371999",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-29T16:44:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1371999",
@@ -20928,150 +21054,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-24T18:31:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tlvntj",
-      "title": "נתניהו: \"ארדואן הוא רודן ורוצח שאמר שיהיה שליט ירושלים. לא אדוני - אתה לא\"",
-      "summary": "ראש הממשלה נתניהו נואם הערב בפני העצרת הכללית השנתית של האו\"ם | נאומו של נתניהו מתקיים ברקע בידוד היסטורי בו נמצאת ישראל בתקופה האחרונה, וברקע המלחמה האחרונה באיראן - שעשויה להתחדש בכל רגע | צפויות פרובוקציות בתחילת ובמהלך הנאום הכי מסוקר באו\"ם | צפו בשידור החי ממליאת עצרת האו\"ם בניו יורק (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tlvntj",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T18:29:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85595",
-      "title": "נתניהו באו\"ם: \"פחדנים שרוצים לצאת מהאולם מוזמנים לעשות זאת\"",
-      "summary": "ראש הממשלה נתניהו פתח את נאומו בעצרת האו\"ם בתגובה לעשרות נציגים שיצאו מהאולם. \"אם יש עוד פחדנים שרוצים לצאת מהאולם, הם מוזמנים לעשות זאת כעת\" אמר נתניהו בפתיחת הנאום.",
-      "link": "https://www.kikar.co.il/scoop-news/85595",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T18:24:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "פתיחה עגומה ליורוליג: מכבי תל אביב הובכה מול וילרבאן",
-      "summary": "אחרי קיץ מרשים: הצהובים של עודד קטש הגיעו עם ציפיות גדולות, ונכנעו לקבוצה של טוני פארקר 84:74 • ג'יילן הורד וים מדר בלטו בערב עגום • משחק גדול לפאטי מילס וג'יי קראודר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 64:71",
-      "summary": "מחזור פתיחת העונה: הצהובים מחקו פיגור דו ספרתי ועלו ליתרון ברבע השלישי • ג'יילן הורד בולט אצל עודד קטש • ג'ימי קלארק עלה לראשונה בחצי השני",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 57:62",
-      "summary": "מחזור פתיחת העונה: הצהובים מחקו פיגור דו ספרתי ועלו ליתרון ברבע השלישי • ג'יילן הורד בולט אצל עודד קטש • ג'ימי קלארק עלה לראשונה בחצי השני",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 46:49",
-      "summary": "הצהובים פותחים עונה אירופית מול הקבוצה של טוני פארקר - שלוהטת מחוץ לקשת בצרפת • ג'יילן הורד בולט • טי ג'יי ליף לא בסגל אצל עודד קטש, ג'ימי קלארק ודניאל תייס נרשמו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 27:38",
-      "summary": "הצהובים פותחים עונה אירופית מול הקבוצה של טוני פארקר בצרפת - שלוהטת מחוץ לקשת • ג'יילן הורד בולט • טי ג'יי ליף לא בסגל אצל עודד קטש, ג'ימי קלארק ודניאל תייס נרשמו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 19:24",
-      "summary": "הצהובים פותחים עונה אירופית מול הקבוצה של טוני פארקר בצרפת • טי ג'יי ליף לא בסגל אצל עודד קטש, ג'ימי קלארק ודניאל תייס נרשמו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 15:12",
-      "summary": "הצהובים פותחים עונה אירופית מול הקבוצה של טוני פארקר בצרפת • טי ג'יי ליף לא בסגל אצל עודד קטש, ג'ימי קלארק ודניאל תייס נרשמו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "title": "חי מהיורוליג: וילרבאן - מכבי תל אביב 0:0",
-      "summary": "הצהובים פותחים עונה אירופית מול הקבוצה של טוני פארקר בצרפת • טי ג'יי ליף לא בסגל אצל עודד קטש, ג'ימי קלארק ודניאל תייס נרשמו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21485449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:24:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21485436",
-      "title": "אזהרת המדענים: \"חרגנו ממרחב הקיום הבטוח\"",
-      "summary": "קואליציה של 60 מדענים מפרסמת נתונים מבהילים על חציית \"הקווים האדומים\" לקיום חיים בכדור הארץ, ומזהירה מסכנה לביטחון המזון והמים • במקביל, שבירת שיאי הטמפרטורה מאיימת לדחוק 50 מיליון בני אדם לרעב",
-      "link": "https://www.israelhayom.co.il/news/environment/article/21485436",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:22:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "title": "לאחר אדום הזוי: נבחרת ישראל ספגה הפסד כואב לאוסטריה בתוספת הזמן",
-      "summary": "הנבחרת כבר הייתה מרחק נגיעה מנקודה ב-10 שחקנים, אך אז פיליפ מוונה וסשה קלדזיץ' כבשו פעמיים בתוספת הזמן והובילו להפסד כואב • סייד אבו פרחי איזן זמנית וספג כרטיס צהוב שני במהלך החגיגה, רומנו שמיד כבש ראשון",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:20:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "title": "חי מליגת האומות: אוסטריה - ישראל 1:1",
-      "summary": "סייד אבו פרחי כבר קבע שוויון בדקה ה-55, אך בהחלטה הזויה קיבל כרטיס צהוב שני בגלל החגיגה והורחק • לפני כן, מנו שמיד נתן יתרון זמני לאוסטריה בדקה ה-42",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:20:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "title": "חי מליגת האומות: אוסטריה - ישראל 0:1",
-      "summary": "הנבחרת הלאומית מוציאה את הקמפיין לדרך במשחק חוץ לא פשוט • לאחר דקות של לחץ כבד, עידן נחמיאס גרם לפנדל וראה את רומנו שמיד מתרגם אותו לשער יתרון בדקה ה-42",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:20:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "title": "חי מליגת האומות: אוסטריה - ישראל 0:0",
-      "summary": "הנבחרת הלאומית מוציאה את הקמפיין לדרך במשחק חוץ לא פשוט • מנור סולומון ואוסקר גלוך מובילים את ההתקפה של רן בן שמעון, כשעידן נחמיאס קיבל את הקרדיט בהגנה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21485374",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-24T18:20:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tlvntj",
-      "title": "נתניהו: \"האם אתם מכירים מדינה נוספת בגודל של ניו ג'רזי שמסוגלת להילחם ב-7 חזיתות במקביל?\"",
-      "summary": "ראש הממשלה נתניהו נואם הערב בפני העצרת הכללית השנתית של האו\"ם | נאומו של נתניהו מתקיים ברקע בידוד היסטורי בו נמצאת ישראל בתקופה האחרונה, וברקע המלחמה האחרונה באיראן - שעשויה להתחדש בכל רגע | צפויות פרובוקציות בתחילת ובמהלך הנאום הכי מסוקר באו\"ם | צפו בשידור החי ממליאת עצרת האו\"ם בניו יורק (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tlvntj",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-24T18:17:16.000Z"
     }
   ]
 }
