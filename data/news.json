@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:30:54.127Z",
+  "updatedAt": "2026-09-30T20:46:03.581Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/dubai-flight-terror-attack-survivor",
+      "title": "בן ה-16 שהיה בקדמת המטוס: \"התחלתי לדבר עם אלוקים, אמרתי סליחה\"",
+      "summary": "פלג איטלי, נער בן 16 שישב בשורות הקדמיות של המטוס, תיאר את רגעי האימה לאתר Ynet: \"שמעתי מישהי צועקת 'הוא נדקר'. התחלתי לדבר עם אלוקים, אמרתי לו סליחה על כל מה שעשיתי. אתה רואה את הרצפה, אתה מרגיש שאתה נופל - התחלתי כמעט לכתוב הספד\" (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/dubai-flight-terror-attack-survivor",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T20:40:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkj0zgj9ze",
+      "title": "ישראלי נרצח באי קופנגן בתאילנד",
+      "summary": "זהות הנרצח לא פורסמה, נבדקת גם אפשרות שמדובר ברקע לאומני",
+      "link": "https://www.ynet.co.il/news/article/rkj0zgj9ze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T20:34:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21392864",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 01.10.2026",
+      "summary": "יש לכם המון התלבטויות הקשורות לתחום הקריירה. מעשים וצעדים שאתם עושים גורמים לאנשים מסביבכם להתנגדות",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21392864",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T20:30:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21392865",
+      "title": "מזל שור, תחזית הורוסקופ יומית 01.10.2026",
+      "summary": "יום שמלווה בהמון בעיות בתקשורת. כל הרצון הטוב, לא עוזר",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21392865",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T20:30:17.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372392",
       "title": "טייס FlyDubai שטלטל את העולם - כעת העיתונאי הבריטי חושף ראיון שלו מלפני שנה",
       "summary": "העיתונאי הבריטי מריו נאופל פרסם בחשבון ה-X שלו ראיון מלפני שנה עם הטייס ההודי סמיט מאצ'הר, שהציל את המטוס של חברת פליי דובאי מלהתרסק לקרקע",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T20:29:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21526758",
+      "title": "למרות שאט הנפש - אל תפסלו את אבו שחאדה",
+      "summary": "התבטאויותיו של יו\"ר בל\"ד לאחר 7 באוקטובר ומשנתו השוללת את המדינה היהודית מעוררות כעס, אך הניסיון להדירו מהזירה הפוליטית הוא שגיאה אסטרטגית • הרחקתו לא תעלים את הציבור שבחר בו אלא תגביר את התסכול ותדחוק את השיח למחשכים • חוסנה של הדמוקרטיה הישראלית נמדד ביכולתה להציב אור זרקורים על עמדות היריב ולנצח אותן בזירה הרעיונית",
+      "link": "https://www.israelhayom.co.il/opinions/article/21526758",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T20:25:41.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/israel-defines-fly-dubai-attack-terror-mossad-inve",
@@ -507,6 +552,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T17:59:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "title": "סקוטי ווילבקין להט: מכבי תל הובכה מול בשיקטאש",
+      "summary": "פתיחה רעה מאוד לצהובים ביורוליג - עם הפסד שני ברציפות, הפעם 109:93 בבית בבלגרד • האקס להט וקלע מכל טווח, מול הקבוצה של עודד קטש שלא מצאה תשובות • הפיגור הגיע בשיאו ל-17 נקודות • כבר בשישי: משחק חשוב מול פנאתינייקוס החזקה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:50:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
@@ -23457,33 +23511,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-25T20:48:20.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14908210",
-      "title": "בחזרה לשטעטל",
-      "summary": "ערימות זבל, חולדות וכבלי חשמל ברחובות, צריכת חשמל תמוהה ועובדי עירייה שחצו את גיל 90. בני–ברק היא הפרומו ליום שבו הפוליטיקה החרדית תנהל את המדינה",
-      "link": "https://www.ynet.co.il/news/article/yokra14908210",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T20:45:56.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14908022",
-      "title": "מיעוט לא מבוטל",
-      "summary": "שתי קבוצות מיעוט מכתיבות את סדר היום של הבחירות הגורליות הללו: החרדים והערבים. אחרי עשרות שנים שבהן העדיפה המדינה לתת להם לנהל את עצמם, תוך ויתור על כל פיקוח ואכיפה, העסקה הזו מאיימת להתפוצץ על כולנו. השאלה החשובה היא לא מי יישב עם מי בקואליציה, אלא מי יקבע את הכללים בתוך השותפות הזו",
-      "link": "https://www.ynet.co.il/news/article/yokra14908022",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T20:43:52.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14908808",
-      "title": "שלא תעזו!!!",
-      "summary": "גדי, נפתלי, יאיר ואביגדור: לפגישה שלכם במוצ\"ש יש חשיבות גורלית לעתידנו. אסור לכם לצאת ממנה כפי שנכנסתם אליה. ותרו על האגו, וזכרו: לנצח אפשר רק יחד. להרוס - כל אחד יכול לבד",
-      "link": "https://www.ynet.co.il/news/article/yokra14908808",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T20:42:02.000Z"
     }
   ]
 }
