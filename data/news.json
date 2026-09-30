@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:45:45.748Z",
+  "updatedAt": "2026-09-30T04:00:57.913Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1372075",
+      "title": "בזמן שנתניהו בונה בריתות – הקטנוניות הפוליטית משתלטת על השיח | ד\"ר איתן לסרי",
+      "summary": "בעוד נתניהו פועל לבניית ארכיטקטורה אזורית חדשה מול איראן ולחיזוק עצמאותה הביטחונית של ישראל, האופוזיציה וחלקים בתקשורת נשאבים לקטנוניות פוליטית שמטשטשת את גודל השעה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1372075",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T03:56:31.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21514840",
       "title": "על פסים של יוקרה: וייטנאם משיקה רכבות \"שישה כוכבים\"",
@@ -147,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T02:48:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/jywxq5zps",
+      "title": "התחזית: גשם מקומי בצפון ובחוף, בשמחת תורה - ייתכנו סופות רעמים",
+      "summary": "מזג האוויר יהיה מעונן חלקית. בשעות הבוקר המוקדמות - גשם בשפלה ובמישור החוף. הטמפרטורות יהיו נמוכות מהרגיל לעונה. ביום שישי ייתכן טפטוף עד גשם מקומי בדרום הנגב, ובמרכז - עלייה במידות החום",
+      "link": "https://www.ynet.co.il/news/article/jywxq5zps",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T02:45:19.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/jywxq5zps",
@@ -20973,24 +20991,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T04:02:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21482100",
-      "title": "13 חשודים, מלון מבודד ורצח אחד: מה לראות היום בטלוויזיה",
-      "summary": "\"הבעיה הסופית\" הופכת מלון מנותק מזירת העולם לתעלומת רצח, \"יונבומבר\" חוזר לשנותיו המוקדמות של המפגע, \"ארבעה בלוקים: נקודת האפס\" חוזרת לברלין של שנות התשעים, תזמורת המהפכה מפרקת ומרכיבה מחדש את אריק איינשטיין, ועוד תכנים שעולים היום (שישי, ערב סוכות) בטלוויזיה בישראל",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21482100",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:00:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21487029",
-      "title": "טל מורד ומישל: \"עברנו מבחן מאוד מאוד גדול\"",
-      "summary": "אחרי הטיול הגדול הראשון בתאילנד עם מישל אלגרבלי, טל מורד סיפר לעומר איסוביץ' על המבחן הזוגי, ההתנתקות מהטלפון והשאלה המתבקשת על הצעת נישואים. וגם: מה הוא חושב על הדרך שבה פוליטיקאים נכנסים לרשתות לקראת הבחירות",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21487029",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T03:56:45.000Z"
     }
   ]
 }
