@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:01:02.122Z",
+  "updatedAt": "2026-09-30T19:15:57.818Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjdgga5czg",
+      "title": "כל אחד מהם תרם משהו. ביחד הם הצילו 174 נוסעים מאסון",
+      "summary": "4 ישראלים, וטייס הודי אחד הצליחו להציל טיסה שלמה מדובאי לנתב\"ג. אסף רג'ואן חזר מתאילנד - ישר לסרט בלהות וסייע להשתלט על המחבל: \"החיים חזקים מהכול, ורצינו להילחם עליהם\". יניב חיון הצליח לייצב את המטוס כשהעומאני תכנן לנטרל את המכשירים. צביקה עזר לקשור את המפגע עם אוזניות, ושוטה הציל את חיי הטייס שנדקר. בתושייה ענקית, הוא הותיר פתח לקוקפיט",
+      "link": "https://www.ynet.co.il/news/article/rjdgga5czg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T19:09:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372380",
+      "title": "הגבורה הפכה לקונספירציה: כך הופץ השקר נגד הישראלים שהשתלטו על התוקף במטוס",
+      "summary": "בעקבות האירוע אלים וקשה שהתרחש על סיפון טיסת חברת פליי דובאי (FlyDubai) שעשתה את דרכה מאיחוד האמירויות לישראל, גל של תיאוריות קונספירציה אנטישמיות ותוכן שקרי החל להתפשט ברשתות החברתיות",
+      "link": "https://www.maariv.co.il/news/world/article-1372380",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T19:08:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21526065",
+      "title": "לא מבזבז זמן: ההחלטה של דימיטריס איטודיס בהפועל תל אביב",
+      "summary": "מייד עם הנחיתה בבולגריה היווני ושחקניו הגיעו ל\"ארנה סופיה\" וערכו את האימון לקראת המשחק מול ריאל מדריד • אחרי ניצחון הבכורה ביורוליג, האדומים ינסו לנצח את הבלאנקוס בפעם השנייה בהיסטוריה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21526065",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T18:56:40.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372375",
       "title": "סקר מנדטים של חדשות 13: התמונה התהפכה - נתניהו מוביל על איזנקוט",
@@ -222,6 +249,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "title": "חי מהיורוליג: מכבי תל אביב - בשיקטאש 52:46",
+      "summary": "אחרי ההפסד לווירלבאן, הצהובים של עודד קטש שוב נראים רע מאוד מול המצטרפת החדשה למפעל • רומן סורקין בולט • סקוטי ווילבקין ועוד שלושה אקסים משחקים מנגד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:50:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
       "title": "חי מהיורוליג: מכבי תל אביב - בשיקטאש 24:16",
       "summary": "אחרי ההפסד לווירלבאן, הצהובים של עודד קטש מחפשים ניצחון ראשון העונה באירופה • ג'ון דיברתולומיאו לא בסגל של הצהובים • סקוטי ווילבקין ועוד שלושה אקסים מנגד",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
@@ -273,6 +309,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T17:42:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21525728",
+      "title": "כריסטיאנו רונאלדו בהודעה דרמטית: \"אספר לכל פורטוגל את האמת\"",
+      "summary": "הפנומן נעדר מהאימון השלישי ברציפות • דקות לאחר שמאמן הנבחרת ז'ורז'ה ז'זוש הבטיח במסיבת עיתונאים כי הכוכב בן ה־41 יעלה לדשא, רונאלדו עזב את אצטדיון פארקן בקופנהאגן במכונית של ההתאחדות - ואז פרסם הצהרה חריגה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21525728",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:38:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21525728",
@@ -23178,33 +23223,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T19:32:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1370797",
-      "title": "המסמך המסווג שצריך להדאיג את ישראל - בן סלמאן לא מכוון רק לגרעין אזרחי",
-      "summary": "מסמכים מסווגים שהועברו לקונגרס כוללים הערכה שלפיה סעודיה לא שללה פיתוח נשק גרעיני. במקביל, ההסכם עם ארה\"ב עשוי לאפשר בעתיד העשרת אורניום עד 20% ולעורר חשש ממרוץ חימוש אזורי",
-      "link": "https://www.maariv.co.il/news/world/article-1370797",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T19:09:44.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1370797",
-      "title": "לא רק איראן: החששות גוברים - סעודיה נכנסה למירוץ הגרעין",
-      "summary": "מסמכים מסווגים שהועברו לקונגרס כוללים הערכה שלפיה סעודיה לא שללה פיתוח נשק גרעיני. במקביל, ההסכם עם ארה\"ב עשוי לאפשר בעתיד העשרת אורניום עד 20% ולעורר חשש ממרוץ חימוש אזורי",
-      "link": "https://www.maariv.co.il/news/world/article-1370797",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T19:09:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21489247",
-      "title": "המודיעין האמריקני: סעודיה לא שללה פיתוח נשק גרעיני",
-      "summary": "לפי ה\"וושינגטון פוסט\", ההערכה הועברה לקונגרס במסמכים מסווגים ומחריפה את החשש בקרב מחוקקים מהסכם הגרעין האזרחי של טראמפ עם ריאד • ההסכם פותח פתח להעשרת אורניום על אדמת סעודיה עד 20%, ואינו מחייב פיקוח מורחב של סבא\"א • טראמפ התנה אותו בנורמליזציה עם ישראל, אך בינתיים הוא נחתם והועבר לקונגרס",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21489247",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T19:04:48.000Z"
     }
   ]
 }
