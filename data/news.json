@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:31:02.331Z",
+  "updatedAt": "2026-09-30T22:45:50.249Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21526994",
+      "title": "איומים בדריסה, צלבי קרס וקללות: האנטישמיות בקמפוסים מחריפה",
+      "summary": "דו\"ח חדש של CST תיעד 178 תקריות אנטישמיות באוניברסיטאות בשנתיים האחרונות • בדו\"ח תועדו לראשונה גם שני מקרי \"אלימות קיצונית\" • בארגון מזהירים במיוחד ממעורבות אנשי סגל בתקריות",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21526994",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T22:16:12.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21526901",
       "title": "אחרי שהמלאי נחטף: ויקטורי חוזרת עם אייפון במחיר מפתיע",
@@ -23637,24 +23646,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T22:50:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21489425",
-      "title": "\"העבירו מעל 1,000,000,000 דולר\": 16 מחבלי חמאס חוסלו",
-      "summary": "כוחות הביטחון הרגו פעילים מרכזיים במערך המימון של הארגון, בהם אחראי הכספים של הזרוע המדינית שנהרג השבוע • הכספים הועברו דרך טורקיה ורצועת עזה ושימשו לרכישת נשק • במקביל צה\"ל פרסם אזהרה לתושבי הרצועה המעורבים בפעילות דומה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21489425",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T22:40:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21489423",
-      "title": "\"מהמרים על חיינו\": סוכני ה-AI של OpenAI הדליפו תמונות משתמשים",
-      "summary": "חודשיים לאחר פריצת הענק למאגר Hugging Face • מודלי הבינה המלאכותית של החברה דלפו לרשת וחשפו תמונות של עשרות משתמשי ChatGPT • בכיר לשעבר בתעשייה מזהיר כי מעבדות ה-AI פועלות בפזיזות • חקירת האירועים הפנימית מוגבלת על ידי משפטני החברה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21489423",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T22:31:32.000Z"
     }
   ]
 }
