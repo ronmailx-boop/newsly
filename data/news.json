@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:15:57.806Z",
+  "updatedAt": "2026-09-30T17:30:58.584Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86042",
+      "title": "אל על מודיעה על היערכות לחידוש פעילותה בקו ת\"א-דובאי בחודש נובמבר",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86042",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T17:26:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/brenze/tm6tjw",
+      "title": "לוחמי משמר הגבול הגיעו לשיעור חיזוק בסוכתו של הרב יגאל כהן | צפו",
+      "summary": "לוחמי משמר הגבול ממחוז מרכז הגיעו בחול המועד לשיעור חיזוק וברכה בסוכתו של מזכה הרבים הגאון הרב יגאל כהן ראש מוסדות 'יביע אומר' וחבר מועצת הרבנות הראשית לישראל • צפו",
+      "link": "https://www.kikar.co.il/brenze/tm6tjw",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T17:25:11.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tm6sw1",
       "title": "לאחר טיסת האימה: כך שב\"כ יחזיר את הישראלים שנותרו באיחוד האמירויות",
@@ -66,6 +84,33 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T17:06:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21519925",
+      "title": "בכי של ילד שוב עולה מהחצר. והפעם זה הילד של כולנו",
+      "summary": "ב־7 באוקטובר, לצד הזוועה והכאב, קרה לנו גם משהו מרטיט כחברה: הביטוי \"לי זה לא יקרה\" התהפך לכמה רגעים ל\"זה קרה לכל אחד מאיתנו\" • האם נצליח להמשיך ולהיאחז בערך החמקמק הזה, למען עתידנו המשותף?",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21519925",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:05:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21525176",
+      "title": "\"עזבתי את הפועל תל אביב כדי לחזור מהדלת הראשית\"",
+      "summary": "ליאור גליקליך הלך בדרך בה הצליחו לא מעט ישראלים והצטרף הקיץ לוולפסברגר האוסטרית: \"מאמין שאוכל לפרוץ כאן קדימה\" • הוא מספר על הפרידה מהאדומים: \"זה היה צעד חשוב\", ומסמן מטרות: \"רוצה לשחק באחת מחמש הליגות הבכירות\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21525176",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:05:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21525574",
+      "title": "הדלק הוא רק ההתחלה: מה יקרה לכיס של כולנו ביום שאחרי הבחירות?",
+      "summary": "הפחתת מס הבלו הזמנית עשויה לבלום את עליית מחיר הדלק כעת, אך פקיעת המס המופחת לאחר הבחירות צפויה להקפיץ אותו מעל ל-9 ש\"ח לליטר • במקביל, התחזקות הדולר והריבית יגררו התייקרויות בחשמל ובמים, הרשויות יעדכנו את הארנונה, והתרחבות תקציב הביטחון תביא להעלאת מסים - ממע\"מ ועד מס הכנסה • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/business/article/21525574",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:01:42.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21525256",
@@ -115,11 +160,20 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21525365",
       "title": "\"השתלטתי על ההגאים\": גיבור הטיסה שחזר בפני נתניהו את הדרמה",
-      "summary": "יניב, שפרץ לתא הטייס במטוס פליי דובאי, פגש עם נחיתתו בארץ את ראש הממשלה בנימין נתניהו • כשהוא עם החולצה המגואלת בדם סיפר: \"מזל שראיתי 'תעופה בחקירה'\"",
+      "summary": "יניב חיון, שפרץ לתא הטייס במטוס פליי דובאי, פגש עם נחיתתו בארץ את ראש הממשלה בנימין נתניהו • כשהוא עם החולצה המגואלת בדם סיפר: \"מזל שראיתי 'תעופה בחקירה'\"",
       "link": "https://www.israelhayom.co.il/news/trending-online/article/21525365",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T16:45:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372336",
+      "title": "\"אני צופה בך ואני רואה אריה\": הפגישה של נתניהו עם גיבור טיסת פליי דובאי | צפו",
+      "summary": "רגע אחרי הדרמה באוויר: נתניהו נפגש עם הנוסע שהציל את חיי הנוסעים בטיסת פליי דובאי, חיבק אותו ושיבח את פעולתו",
+      "link": "https://www.maariv.co.il/news/israel/article-1372336",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T16:45:34.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1372336",
@@ -250,7 +304,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/s1aq3i95gl",
       "title": "עם 15 שנות ותק: זה הטייס הגיבור שנדקר בקוקפיט על ידי המחבל העומאני",
-      "summary": "סמית מאצ'צ'אר מהודו הצטרף לפליי דובאי לפני 4 שנים, אחרי 11 שנה בלואו קוסט הודי. הוא שימש כ\"קברניט-מדריך\" וצבר ככל הנראה יותר מ-10,000 שעות טיסה, לפני שנדקר ונפצע במאבק מול טייס המשנה",
+      "summary": "סמית מאצ'צ'אר מהודו הצטרף לפליי דובאי לפני 4 שנים, אחרי 11 שנה בלואו קוסט הודי. הוא שימש כ\"קברניט-מדריך\" וצבר ככל הנראה יותר מ-10,000 שעות טיסה, לפני שנדקר ונפצע במאבק מול טייס המשנה, אך הצליח לפתוח את דלת הקוקפיט",
       "link": "https://www.ynet.co.il/news/article/s1aq3i95gl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -327,6 +381,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T15:39:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372320",
+      "title": "\"ניסה לרסק את המטוס?\" השאלות הקשות של השב״כ אחרי האירוע בטיסת פליי דובאי",
+      "summary": "חקירת האירוע בטיסת פליי דובאי מנוהלת על ידי המוסד כאשר השב״כ מסייע בגביית עדויות ובמתן מעטפת לחקירה. במרכז החקירה שתי שאלות מרכזיות: המניע. והשאלה השניה אם המפגע פעל לבד? מי עמד מאחוריו?",
+      "link": "https://www.maariv.co.il/news/military/article-1372320",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T15:38:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372320",
@@ -588,6 +651,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T14:52:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
+      "title": "עם כתמי דם, ובשירה רמה: הנוסעים וגיבורי הטיסה נחתו בישראל",
+      "summary": "הנוסעים שחוו ניסיון פיגוע שבים הביתה • ההערכה כעת היא שטייס המשנה העומאני פעל כמחבל בודד ממניעים ג'יהאדיסטים, ללא מעורבות איראנית • נוסעים ישראלים סייעו להשתלט עליו • במקביל, שרת התחבורה דורשת לעצור את טיסות החברה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T14:50:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
@@ -22890,33 +22962,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-25T17:50:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjwkj7e9fx",
-      "title": "אסון בערב החג: הרוג בתאונת דרכים בכביש 90, שניים נפצעו קשה",
-      "summary": "גבר כבן 60 אותר בתעלה לצד הדרך, סמוך ליישוב משואה שבבקעת הירדן, ומותו נקבע בזירה. שני גברים נוספים, בני 60 ו-40, נפצעו קשה - ופונו לטיפול בבית החולים",
-      "link": "https://www.ynet.co.il/news/article/sjwkj7e9fx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T17:28:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjwkj7e9fx",
-      "title": "אסון בערב החג: הרוג בתאונת דרכים בכביש 90, שניים נפצעו קשה ובינוני",
-      "summary": "גבר כבן 60 אותר בתעלה לצד הדרך, סמוך ליישוב משואה שבבקעת הירדן, ומותו נקבע בזירה. שני גברים נוספים, בני 40 ו-30, נפצעו קשה ובינוני - ופונו לטיפול בבית החולים",
-      "link": "https://www.ynet.co.il/news/article/sjwkj7e9fx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T17:28:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370782",
-      "title": "תאונה קטלנית בכביש 90: בן 60 נהרג, שניים נפצעו קשה",
-      "summary": "גבר כבן 60 נהרג בתאונה בין ארבעה כלי רכב בכביש 90. שני גברים נוספים נפצעו קשה, גבר כבן 30 נפצע בינוני ושניים נוספים קל; הכביש נחסם לתנועה בשני הכיוונים",
-      "link": "https://www.maariv.co.il/news/israel/article-1370782",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T17:19:03.000Z"
     }
   ]
 }
