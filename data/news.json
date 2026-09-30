@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:30:58.427Z",
+  "updatedAt": "2026-09-30T06:46:00.684Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372116",
+      "title": "היועץ לשעבר של נתניהו: \"הטיסה לבן זאיד - מחשיד\"",
+      "summary": "ניר חפץ הטיל ספק באזהרת נתניהו ובסיבת נסיעתו לבן זאיד, וטען כי בתקופת בחירות המטה משתלט על סדר היום: \"ב-24 השעות האחרונות הוא הצליח לסובב את האג'נדה לטובתו\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1372116",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T06:30:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
       "title": "החשד לחטיפת מטוס נוסעים: ראש הממשלה ושר הביטחון מכנסים התייעצות ביטחונית דחופה",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
@@ -51,6 +60,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372115",
+      "title": "קוד החטיפה הופעל ומטוסי הקרב הוזנקו - חשד לחטיפת מטוס ועליו יותר מ-100 נוסעים ישראלים",
+      "summary": "בישראל בודקים אפשרות של חטיפת מטוס שהיה בדרכו מדובאי לארץ. המטוס שיגר קוד 7500, הקשור לאפשרות של חטיפה - ואז נותק עימו הקשר. חיל האוויר הזניק מטוסי קרב",
+      "link": "https://www.maariv.co.il/news/military/article-1372115",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T06:26:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372115",
       "title": "ראשוני: נבדק חשד לחטיפת מטוס שעליו 150 ישראלים - חיל האוויר הוזנק",
       "summary": "בחיל האוויר בודקים אפשרות של חטיפת מטוס שהיה בדרכו מדובאי לישראל. המטוס שיגר אות חירום ואז נותק עימו הקשר. חיל האוויר הזניק מטוסי קרב למקום",
       "link": "https://www.maariv.co.il/news/military/article-1372115",
@@ -61,7 +79,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
       "title": "חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו",
-      "summary": "",
+      "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
       "link": "https://www.kikar.co.il/security-news/tm5yzv",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -78,12 +96,39 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "title": "טיסה מדובאי לנתב\"ג דיווחה על חשש לחטיפה, מטוסי קרב הוזנקו",
+      "summary": "טיסת Flydubai עם יותר מ-150 נוסעים הוסטה לסעודיה באופן חריג, נתניהו וכ\"ץ מכנסים התייעצות דחופה. גורם ביטחוני הבהיר כי עדיין לא ברור אם מדובר באירוע ביטחוני: \"אין מידע ודאי על חטיפה, הטייס הפעיל אות מצוקה\"",
+      "link": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T06:23:09.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
       "title": "ראשוני: טיסה מדובאי לתל אביב דיווחה על חשש לחטיפה, מטוסי חיל האוויר הוזנקו",
       "summary": "טיסת Flydubai עם יותר מ-150 נוסעים הוסטה לסעודיה באופן חריג, נתניהו וכ\"ץ מכנסים התייעצות ביטחונית דחופה",
       "link": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T06:23:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21518398",
+      "title": "\"ביורוליג אמרו שהפועל ירושלים לא נכנסה רק בגלל המצב בישראל\"",
+      "summary": "הבעלים, מתן אדלסון, חשף כי במפעל הודו בסיבה שבגללה האדומים לא קיבלו את הכרטיס: \"הם אמרו שאם המצב בישראל לא היה כפי שהוא, היה מובן מאליו שאנחנו נקבל את המקום האחרון\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21518398",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:22:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21518347",
+      "title": "ראשוני: מטוס מאבו דאבי לתל אביב הוסט לסעודיה; חשש לחטיפה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21518347",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:22:05.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/85975",
@@ -183,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T05:57:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21518084",
+      "title": "צפיתי ב80 הדקות של \"נז\"א\" כדי שלא תצטרכו: כך נראית אג'נדה חד צדדית ומקוממת",
+      "summary": "הבעיה של \"נז\"א\" אינה המידע שהוא מתיימר להציג, אלא האופן המגמתי וחסר המורכבות שבו הוא מובא לצופים • בניגוד להצהרות היוצרים, הסרט אינו מעודד דיון, אלא מקדם נרטיב חד־צדדי שממקם את ישראל בתוך הקשרים היסטוריים טעונים במיוחד • ביקורת",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21518084",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T05:49:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21518084",
@@ -408,6 +462,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T04:52:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517924",
+      "title": "משאית פינוי אשפה נסעה לאחור - ודרסה למוות את סוזנה בת ה-90",
+      "summary": "סמוך לשעה שבע בבוקר, צוותי מד\"א קיבלו קריאה והגיעו לזירה הקטלנית בכביש 3525, סמוך לקיבוץ ברור חיל • סוזנה וייזנברג, חברת המועצה האזורית שער הנגב, נמצאה עם חבלה רב-מערכתית קשה • פרמדיקית מד\"א: \"אירוע קשה, היא שכבה מחוסרת הכרה על הכביש\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21517924",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T04:49:55.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517924",
@@ -21081,78 +21144,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T06:46:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21487427",
-      "title": "בור של 14 מטר, חבל מאולתר וילד בן שבע: כך נערכים המחלצים לחול המועד",
-      "summary": "לקראת חול המועד, כשהשמורות והמסלולים צפויים להתמלא במטיילים, בכבאות והצלה מבקשים מהציבור ליהנות, אבל לא לזלזל בתנאי השטח",
-      "link": "https://www.israelhayom.co.il/news/local/article/21487427",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T06:43:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21487384",
-      "title": "שר החוץ הבריטי מאיים על איראן: \"לא נסבול טרור בשיטחנו\"",
-      "summary": "אד מיליבנד הזהיר את עבאס עראקצ'י מפני המשך התקיפות על הקהילה היהודית בבריטניה • השר התייחס ל\"קבוצות שקשורות לאיראןו\" והסביר כי לונדון תגיב על התערבות זו",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21487384",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T06:42:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1370629",
-      "title": "נתניהו תקף את ממדאני באו\"ם - התגובה לא איחרה לבוא",
-      "summary": "ראש עיריית ניו יורק, זוהרן ממדאני, מיהר להגיב לנאומו של נתניהו והאשים אותו ב\"הפצת שקרים\". אך בצד הימני של המפה הפוליטית בארה\"ב שיבחו את נאומו של נתניהו וקראו לו הצלחה מסחררת",
-      "link": "https://www.maariv.co.il/news/world/article-1370629",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T06:41:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21487429",
-      "title": "בן 30 נעצר בחשד לעבירות מין: \"התכתבתי עם כ-150 קטינות\"",
-      "summary": "החקירה הסמויה נפתחה בעקבות שורת תלונות נגד תושב הצפון • לפי החשד, הוא פנה לילדות בנות 9-13 בוואטסאפ ובטיקטוק וניהל עימן שיח מיני בוטה • בחקירתו סיפר שמחק את הפרופילים כי \"ידע שזה לא בסדר\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21487429",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T06:40:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370630",
-      "title": "ה\"שלי\" והסרקזם: שני הרמזים בנאום נתניהו שחושפים מה עובר עליו | ד\"ר לירז מרגלית",
-      "summary": "נאום האו\"ם של נתניהו היה מתוזמן, חד ומלא בכלים רטוריים מוכרים, אך דווקא שתי תופעות קטנות - השימוש החוזר ב\"שלי\" והמעבר לסרקזם - עשויות לחשוף את המתח שמתחת לפני השטח",
-      "link": "https://www.maariv.co.il/news/opinions/article-1370630",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T06:40:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370630",
-      "title": "\"המדינה שלי\": שני הרמזים חשפו - לאן באמת היה מכוון נאום נתניהו? | ד\"ר לירז מרגלית",
-      "summary": "נאום האו\"ם של נתניהו היה מתוזמן, חד ומלא בכלים רטוריים מוכרים, אך דווקא שתי תופעות קטנות - השימוש החוזר ב\"שלי\" והמעבר לסרקזם - עשויות לחשוף את המתח שמתחת לפני השטח",
-      "link": "https://www.maariv.co.il/news/opinions/article-1370630",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T06:40:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/rabbi-david-batzri-hospitalized-shiba",
-      "title": "לקיים בנו: המקובל רבי דוד בצרי התמוטט; פונה לאחר פעולות החייאה",
-      "summary": "צוותי רפואה הוזעקו לביתו של המקובל בבני ברק • פעולות החייאה בוצעו במקום והדופק חזר • הציבור נקרא להתפלל לרפואת רבי דוד שלום בן ויקטוריה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/rabbi-david-batzri-hospitalized-shiba",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T06:39:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21487360",
-      "title": "השוטר והעבריין המורשע נפגשים בכלוב: הקרב הביזארי של ה-UFC",
-      "summary": "קרב כמו זה שנקבע לסוף השבוע בלאס וגאס לא תראו בכל יום • מצד אחד סד'ריקס דומאס בעל עבר פלילי שכולל אלימות במשפחה, תקיפה והחזקת נשק וחומרים אסורים • מולו לואיס הרננדס, שרק לאחרונה קיבל חוזה בארגון, ועובד כשוטר פעיל",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21487360",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T06:36:20.000Z"
     }
   ]
 }
