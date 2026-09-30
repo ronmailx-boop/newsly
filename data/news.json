@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:15:43.880Z",
+  "updatedAt": "2026-09-30T20:30:54.127Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372392",
+      "title": "טייס FlyDubai שטלטל את העולם - כעת העיתונאי הבריטי חושף ראיון שלו מלפני שנה",
+      "summary": "העיתונאי הבריטי מריו נאופל פרסם בחשבון ה-X שלו ראיון מלפני שנה עם הטייס ההודי סמיט מאצ'הר, שהציל את המטוס של חברת פליי דובאי מלהתרסק לקרקע",
+      "link": "https://www.maariv.co.il/news/world/article-1372392",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T20:29:03.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/israel-defines-fly-dubai-attack-terror-mossad-inve",
+      "title": "פרטים ראשונים מהחקירת ניסיון ריסוק המטוס - והציוץ של הבכיר האיראני",
+      "summary": "ישראל מגדירה באופן רשמי את האירוע כפיגוע טרור • המוסד והשב\"כ חוקרים את הטייס העומאני | כשל אבטחתי חמור במערכת הסינון (חדשות)",
+      "link": "https://www.kikar.co.il/news/israel-defines-fly-dubai-attack-terror-mossad-inve",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T20:15:52.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hkd8po5cze",
       "title": "איך טייס עומאני ממריא לישראל - ומי ייתן תשובות? | השאלות הקשות",
       "summary": "אחרי נחיתת טיסת החילוץ בישראל, נסיבות האירוע - שרק במזל לא נגמר באסון - עוד צריכות להתבהר. החל מהמאבק בתא הטייס, דרך המניעים של החשוד ואילו מדינות יחקרו את המחדל - והאם ישראל תצטרף אליהן",
@@ -48,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T20:02:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525716",
+      "title": "מכבי תל אביב נגד בשיקטאש: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
+      "summary": "פרק 2: מאמן העבר והפרשן מסכמים את המחזור ביורוליג אחרי המשחק של הצהובים בבלגרד וידברו גם על הניצחון של הפועל ת\"א מול הכוכב האדום",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21525716",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T20:00:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21526541",
@@ -259,7 +286,7 @@
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-fbf3aca1643f0a1027.htm",
       "title": "האזהרה של זיני שקדמה לניסיון הפיגוע | פרסום ראשון",
-      "summary": "ראש השב\"כ הזהיר חודשים על בעיה באבטחה בטיסות מהאמירויות • רק לאחרונה השב\"כ האריך את האיסור לנחות באמירויות לחברות התעופה הישראליות • בישראל נבדק אם הטייס תכנן להתרסק בארץ",
+      "summary": "ראש השב\"כ הזהיר חודשים על בעיה באבטחה בטיסות מהאמירויות • בישראל נבדק אם הטייס תכנן להתרסק בארץ • רק לאחרונה השב\"כ האריך את האיסור לנחות באמירויות לחברות התעופה הישראליות",
       "link": "https://www.mako.co.il/news-israel/2026_q3/Article-fbf3aca1643f0a1027.htm",
       "source": "N12",
       "sourceKey": "n12",
@@ -480,6 +507,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T17:59:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "title": "סקוטי ווילבקין להט: מכבי תל הובכה מול בשיקטאש עם",
+      "summary": "פתיחה רעה מאוד לצהובים ביורוליג - עם הפסד שני ברציפות, הפעם 109:93 בבית בבלגרד • האקס להט וקלע מכל טווח, מול הקבוצה של עודד קטש שלא מצאה תשובות • הפיגור הגיע בשיאו ל-17 נקודות • כבר בשישי: משחק חשוב מול פנאתינייקוס החזקה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T17:50:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21525796",
