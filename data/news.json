@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:45:43.740Z",
+  "updatedAt": "2026-09-30T05:00:56.762Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372087",
+      "title": "בנוכחות נציג סעודי: הפגישה של נתניהו עם האמירויות - והאזהרה מאיראן",
+      "summary": "ראש הממשלה בנימין נתניהו הציג לנשיא איחוד האמירויות מוחמד בן זאיד מידע לפיו איראן מחדשת את הניסיונות לפיתוח נשק גרעיני, ובמפגש נכח גם בכיר ביטחוני סעודי - כך דווח ב-CNN",
+      "link": "https://www.maariv.co.il/news/politics/article-1372087",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T04:57:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjvpmz99mx",
+      "title": "קשישה נהרגה מפגיעת משאית בעוטף עזה",
+      "summary": "הולכת רגל כבת 90 נהרגה בכביש 3525 שבעוטף, סמוך לקיבוץ ברור חיל. לפי מד\"א, משאית פגעה בה - ומותה נקבע במקום",
+      "link": "https://www.ynet.co.il/news/article/rjvpmz99mx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T04:52:08.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-53",
       "title": "ריקודים תחת גשם? גשמים מקומיים וסופות רעמים בערב שמחת תורה",
@@ -177,7 +195,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1372038",
-      "title": "ויטמינים בכוס: 5 מיצים שכדאי להוסיף לתפריט - והמלכודת שצריך להכיר",
+      "title": "מורידים לחץ דם ונלחמים בדלקות: 5 המיצים הכי מומלצים לשתייה",
       "summary": "יש הרבה מיצים שכדאי לכם להוסיף לתפריט כדי ליהנות מתוספת טעימה של רכיבים תזונתיים חשובים - אבל יש גם קאץ'. החדשות הטובות הן שמכל פרי - וגם מרוב הירקות - אפשר להכין מיץ טעים ובריא",
       "link": "https://www.maariv.co.il/news/health/article-1372038",
       "source": "מעריב",
@@ -225,6 +243,15 @@
       "title": "זו ההסכמה היחידה בין ראשי גוש השינוי | רן אדליסט",
       "summary": "ההסכמה היחידה בין ראשי המפלגות בגוש השינוי היא דחיית המאבק על ראשות הממשלה עד לאחר הבחירות",
       "link": "https://www.maariv.co.il/news/opinions/article-1371996",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1372038",
+      "title": "ויטמינים בכוס: 5 מיצים שכדאי להוסיף לתפריט - והמלכודת שצריך להכיר",
+      "summary": "יש הרבה מיצים שכדאי לכם להוסיף לתפריט כדי ליהנות מתוספת טעימה של רכיבים תזונתיים חשובים - אבל יש גם קאץ'. החדשות הטובות הן שמכל פרי - וגם מרוב הירקות - אפשר להכין מיץ טעים ובריא",
+      "link": "https://www.maariv.co.il/news/health/article-1372038",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T03:00:46.000Z"
@@ -20928,60 +20955,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-25T05:05:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370548",
-      "title": "השקרים, הספינים והעלילות: הקרב החדש שמאיים לשנות את מערכת הבחירות | בן כספית",
-      "summary": "לעובדי מפעל הרעל אירעה לפני כמה חודשים תקלה מצערת: הם התכוננו לטווח את בנט, אלא שפתאום צץ להם איזנקוט – פטריוט ללא רבב וישר כסרגל. מה עושים? | לא חייבים להתרגש מהוויכוחים בגוש השינוי",
-      "link": "https://www.maariv.co.il/news/opinions/article-1370548",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T05:00:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1370548",
-      "title": "התקלה הגדולה ב\"מכונת הרעל\": איזנקוט הגיע — ולא מצאו מה לתקוף | בן כספית",
-      "summary": "לעובדי מפעל הרעל אירעה לפני כמה חודשים תקלה מצערת: הם התכוננו לטווח את בנט, אלא שפתאום צץ להם איזנקוט – פטריוט ללא רבב וישר כסרגל. מה עושים? | לא חייבים להתרגש מהוויכוחים בגוש השינוי",
-      "link": "https://www.maariv.co.il/news/opinions/article-1370548",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T05:00:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21487185",
-      "title": "\"אתן מחפשות זרע צעיר\": הסערה בארה\"ב - והדרישה המיידית להתפטר",
-      "summary": "דו\"ח חקירה קבע כי סגן המושל בניו ג'רזי, דייל קולדוול, הפר את כללי האתיקה, בין היתר כשניסה לקדם עובדת שעמה ניהל קשר רומנטי • המושלת מייקי שריל: \"דפוס התנהגות שאינו עומד בסטנדרטים שלנו\" • עורך דינו של קולדוול: \"חקירה חד-צדדית, הוא מכחיש מכל וכל\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21487185",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:58:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/netanyahu-milei-meeting-un-argentina-support",
-      "title": "נתניהו למיליי: \"אתה מדבר למען האמת וזו הסיבה שאתה תומך בישראל\"",
-      "summary": "ראש הממשלה נפגש עם נשיא ארגנטינה לאחר נאומו באו\"ם • הודה לו על תמיכתו האיתנה במדינת ישראל | דנו בהרחבת \"הסכמי יצחק\" בהובלת מיליי (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/netanyahu-milei-meeting-un-argentina-support",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T04:57:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/nazareth-shooting-suspect-neutralized-police",
-      "title": "ירה לעבר בית בנצרת - ונורה למוות: כך נוטרל החשוד בזירה",
-      "summary": "בלשים זיהו חשוד מבצע ירי מסיבי לעבר בית בנצרת • חתרו למגע ונטרלו אותו בירי | במקום נתפס נשק מסוג M-16 (משטרה)",
-      "link": "https://www.kikar.co.il/police/nazareth-shooting-suspect-neutralized-police",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T04:56:38.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/beit-shemesh-man-burned-hot-oil-moderate-condition",
-      "title": "בשכונה החרדית בבית שמש: גבר נכווה קשה משמן רותח - ופונה במצב בינוני",
-      "summary": "מתנדבי מד\"א וצוות הצלה הוזעקו לבית עסק ברמת בית שמש • הגבר סבל מכוויות דרגה שנייה בפלג גופו העליון | פונה לשיבא תל השומר (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/beit-shemesh-man-burned-hot-oil-moderate-condition",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T04:47:43.000Z"
     }
   ]
 }
