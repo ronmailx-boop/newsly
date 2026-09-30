@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:31:10.815Z",
+  "updatedAt": "2026-09-30T16:45:49.308Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkc009nc9ge",
+      "title": "יניב שפרץ לקוקפיט: \"תפסתי את המפגע, חנקתי - ומשכתי את ההגאים\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/bkc009nc9ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T16:38:45.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/britain-iran-raf-fairford-base-incident",
+      "title": "ראש ממשלת בריטניה משחרר הצהרה דרמטית על הפיגוע בבסיס האמריקני",
+      "summary": "ראש הממשלה הבריטי אנדי בורנהם אישר לראשונה באופן רשמי מעורבות איראנית בתקרית בבסיס חיל האוויר | המשמעות: מתקפה של מדינת איראן על ממלכת בריטניה | טהראן דוחה בתוקף את ההאשמות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/britain-iran-raf-fairford-base-incident",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T16:37:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tm6r3y",
+      "title": "אש בכלא 10: מפגינים הציתו שריפה במהלך שמחת בית השואבה | צפו",
+      "summary": "הצתה בכניסה לכלא 10: מפגינים חרדים הציתו שריפה בכניסה לבסיס, במהלך שמחת בית השואבה שהתקיימה מחוץ לכלא (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tm6r3y",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T16:34:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86035",
       "title": "הצתה בכלא 10: מפגינים הציתו שריפה בכניסה לבסיס",
       "summary": "",
@@ -59,6 +86,15 @@
       "pubDate": "2026-09-30T16:26:42.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21525224",
+      "title": "ניצל בנס: הכדורגלן הישראלי שהיה על טיסת פליי דובאי",
+      "summary": "אורן עידו ששיחק בליגה הלאומית ובליגה א' היה אחד הישראלי שניצלו בתקרית החריגה • בן ה-39 היה על המטוס עם ארבעת ילדיו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21525224",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:24:16.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tm6qao",
       "title": "בעקבות סערת ההקלטות; מזכיר האדמו\"ר מגור במסר חריף וחלוט לחסידים",
       "summary": "לאחר ימים שבהם סערו החוגים החסידיים סביב הקלטות שהופצו מתוכי המשפחה, שוגרה הבוקר הודעה קולית מטעם האדמו\"ר מגור באמצעות מזכירו, הרה\"ח ר' יצחק ברוידא • בהודעה הובהר איסור חמור לעסוק בנושא ונדרשה מחיקה מיידית של החומרים • ובשורה משמחת, לאחר מספר ימי חולשה, האדמו\"ר צפוי לקבל קהל הערב (חסידים)",
@@ -68,9 +104,18 @@
       "pubDate": "2026-09-30T16:22:31.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21524978",
+      "title": "אחד הפריטים כאן הוא המזוהם ביותר בבית - וזה לא פח האשפה",
+      "summary": "בדיקות מעבדה בינלאומיות חושפות מושבות חיידקים ועובש על פריט שנמצא בכל כיור ביתי • מה גילו המומחים כשהשוו את הממצאים לאסלה וכיצד תתחזקו אותו נכון? כל הפרטים",
+      "link": "https://www.israelhayom.co.il/tech/research/article/21524978",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:18:16.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/by6y429qgx",
       "title": "הרופא שהציל את הטייס הדקור: \"המחבל השתולל, באתי להילחם בו וקשרנו אותו עוד\"",
-      "summary": "",
+      "summary": "\"לא חיכיתי, ראיתי שמשהו לא תקין ורצתי\". כך סיפר ל-ynet מוסייב שוטה, אחד מ-3 הנוסעים שהסתערו על הטייס המחבל בטיסת פליי דובאי, ובהמשך העניק טיפול רפואי לטייס הדקור. הוא תיאר: \"המחבל השתולל, אבל קשרנו לו את הידיים והרגליים עד שהוא הבין שהוא בידיים שלנו\"",
       "link": "https://www.ynet.co.il/news/article/by6y429qgx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -22800,33 +22845,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T16:49:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21489164",
-      "title": "הרוג וחמישה פצועים בתאונה קשה סמוך לשלומציון",
-      "summary": "גבר כבן 60 נהרג בתאונה בין ארבעה כלי רכב • שני גברים כבני 60 ו־40 נפצעו קשה, גבר כבן 30 נפצע בינוני ושניים נוספים נפצעו קל • הפצועים פונו לבתי החולים במסוקים ובאמבולנסים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21489164",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T16:44:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21489164",
-      "title": "חמישה בני אדם נפצעו בתאונה בכביש 90; בהם במצב קשה ואנוש",
-      "summary": "התאונה התרחשה סמוך לשלומציון, דרומית ליישוב משואה, והייתה מעורבת בה מספר כלי רכב • צוותי מד״א מטפלים בחמישה פצועים ומסוק הוזנק לזירה • הכביש נחסם לתנועה לשני הכיוונים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21489164",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T16:44:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hy48yqncgx",
-      "title": "חיפושים אחרי נעדר בים באשקלון, שניים נוספים טבעו ומצבם קשה וקל",
-      "summary": "כוחות ההצלה חילצו צעיר בן 24 ונער בן 17 שטבעו בחוף דלילה בעיר, ופינו אותם לבית החולים ברזילי. גבר שלישי שנכנס איתם למים עדיין נעדר",
-      "link": "https://www.ynet.co.il/news/article/hy48yqncgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T16:37:07.000Z"
     }
   ]
 }
