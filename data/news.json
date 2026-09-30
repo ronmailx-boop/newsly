@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:30:49.238Z",
+  "updatedAt": "2026-09-30T07:45:57.776Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-chief-cancels-us-visit-heightened-alert",
+      "title": "המתיחות הביטחונית | דרמטי: הרמטכ\"ל ביטל את נסיעתו הדחופה לארצות הברית",
+      "summary": "הרמטכ\"ל אייל זמיר ביטל את ביקורו המתוכנן בארה\"ב • היה אמור להיפגש עם ראש המטות המשולבים ומפקד CENTCOM | ההחלטה התקבלה בשל העלאת הכוננות (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-chief-cancels-us-visit-heightened-alert",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T07:35:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372140",
+      "title": "דרמה בטיסת פליי דובאי לישראל: \"שמענו צרחות וראינו דם – חשבנו שלא נצא מזה בחיים\"",
+      "summary": "טיסת פליי דובאי לישראל הוסטה לסעודיה לאחר אות מצוקה שהעלה חשד לחטיפה. נוסעים סיפרו על צרחות, דם ודקירה בתא הטייס, בעוד בישראל בודקים אם עימות בין הטייסים הוא שהוביל לאירוע",
+      "link": "https://www.maariv.co.il/news/military/article-1372140",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T07:34:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372139",
+      "title": "23 שנה ו-1.7 טריליון דולר: ארה\"ב עוזבת את עיראק - ואיראן נשארת",
+      "summary": "אחרי 23 שנה והשקעה של 1.7 טריליון דולר, ארצות הברית מסיימת את הנוכחות הצבאית בעיראק. מאחור נותרות המיליציות הפרו-איראניות, שנשארו חמושות ובעלות השפעה במדינה ומציבות אתגר משמעותי בפני הממשל",
+      "link": "https://www.maariv.co.il/news/world/article-1372139",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T07:34:39.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%94%D7%A9%D7%A8%D7%99%D7%9D_%D7%94%D7%91%D7%98%D7%99%D7%97%D7%95__%D7%A0%D7%A7%D7%99%D7%9D_%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%9D_%D7%91%D7%A9%D7%98%D7%97%D7%99_a_%D7%95-b",
+      "title": "השרים הבטיחו: נקים ישובים בשטחי A ו-B",
+      "summary": "השר בן גביר הבטיח למחוק את ההבדלים בין שטחי C ל-A ו-B, והשרה סטרוק אמרה: גם שטחי A ו-B הם ארץ ישראל",
+      "link": "https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%94%D7%A9%D7%A8%D7%99%D7%9D_%D7%94%D7%91%D7%98%D7%99%D7%97%D7%95__%D7%A0%D7%A7%D7%99%D7%9D_%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%9D_%D7%91%D7%A9%D7%98%D7%97%D7%99_a_%D7%95-b",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-09-30T07:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21518872",
+      "title": "בהשקעה של מיליון שקל: המותג הבינלאומי פותח חנות חדשה בלוקיישן מרכזי",
+      "summary": "PANDORA השיקה בעופר הקניון הגדול בפתח תקווה את חנות הקונספט הראשונה בישראל בעיצוב התואם את הסטנדרט הבינלאומי של המותג, עם עמדת חריטה אישית וטכנולוגיה חדשה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21518872",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:28:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21518869",
+      "title": "מכות בקוקפיט: העונש הצפוי להיגזר על טייסי פליי-דובאי",
+      "summary": "החוק באיחוד האמירויות מאפשר להטיל עונש של עד מאסר עולם על מעשה אלימות מכוון שמסכן מטוס בטיסה • בפועל, מקרים דומים בעולם הסתיימו בדרך כלל בפיטורים ובשלילת רישיון הטיסה לתקופה ארוכה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21518869",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:24:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21518733",
+      "title": "רמי קלינשטיין: מחכה כבר שזה יקרה",
+      "summary": "הזמר, היוצר והגרוש של ריטה תיעד את שגרת יומו ותהה על גבי אחד הצילומים לגבי מצב שפיותו. לאחר מכן כתב גם על הרצון שלו לחזור לשגרה המבורכת",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21518733",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:22:18.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372136",
       "title": "רעידת אדמה באוסלו: קשריו של ג'פרי אפשטיין מטלטלים את האליטה הנורווגית",
       "summary": "הוועדה זימנה לשימוע פומבי 11 פוליטיקאים, שרי חוץ ושרי פיתוח בעבר ובהווה, ובהם גם ראש הממשלה הנוכחי וראש הממשלה לשעבר. במקביל, מינה הפרלמנט הנורווגי ועדה חיצונית, שתגיש את ממצאיה בתחילת 2028",
@@ -50,6 +113,33 @@
       "pubDate": "2026-09-30T07:21:11.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21518763",
+      "title": "פגישת חירום לילית: כריסטיאנו רונאלדו בטלנובלה חדשה",
+      "summary": "כוכב נבחרת פורטוגל התעצבן בעקבות ספסולו בניצחון בנורבגיה ונעדר מהאימון • היו\"ר הוזעק ממולדתו למלון הנבחרת, המאמן נפגש עם החלוץ בלילה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21518763",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:21:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21518666",
+      "title": "רמי קלינשטיין מודה: ״היו עשר שנים של קושי״",
+      "summary": "ארבעים שנה אחרי אלבום הבכורה \"ביום של הפצצה\", רמי קליינשטיין חוזר להופעה הראשונה שלו מול קהל זעום, שבו ישבו גם שני פרצופים מוכרים במיוחד • וגם: הלהיט שבתו הקטנה בטוחה ששייך לגידי גוב, והאמת המפתיעה שמאחוריו",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21518666",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:18:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21518691",
+      "title": "זה הסיפור מאחורי הרחוב הכי מפורסם בעולם",
+      "summary": "אחד האלבומים המצליחים ביותר בהיסטוריה, סימן ההיכר של הביטלס וסמל תרבותי - Abbey Road חוגג 57, וזה בדיוק הזמן להיזכר בתופעה",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21518691",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:18:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tm615g",
       "title": "הראשון לציון בהוראה לנציגים: \"לא תקום ממשלה בלי שיבטיחו את מעמד תלמידי הישיבות\"",
       "summary": "הראשון לציון הגר\"י יוסף מבהיר כי הסיעות החרדיות לא ייכנסו לממשלה הבאה ללא חוק גיוס והסדרת מעמד תלמידי הישיבות ועונה לרבנית עדינה בר שלום שחברה לגדי איזנקוט: \"תוך עקיצה למהלכיה של אחותו עדינה בר שלום: \"מה המורשת של מרן? ללחוץ יד לאיזנקוט?\" (חרדים)",
@@ -59,9 +149,18 @@
       "pubDate": "2026-09-30T07:17:17.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21518675",
+      "title": "פילטר למקלחת באמת יכול לפתור את בעיית המים הקשים?",
+      "summary": "אם יש לכם אבנית על ראש המקלחת, כתמים על הזכוכית או תחושה שהשיער יוצא מהמקלחת יבש ומצופה, מסנן למקלחת יכול להישמע כמו פתרון מושלם • אבל יש הבדל חשוב בין סינון מים לריכוך מים - והוא עשוי לקבוע אם הפילטר שקניתם בכלל מטפל בבעיה שלכם",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21518675",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T07:15:16.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21518797",
       "title": "בנה של אחת הנוסעות על סיפון פליי דובאי: \"אלה היו 40 דקות מותחות במיוחד\"",
-      "summary": "אופיר שפיגל, שאמו שהתה בחופשה בדובאיי, סיפר על הרגעים מורטי העצבים • \"אף גורם לא יצר איתנו קשר\"",
+      "summary": "אופיר שפיגל, שאמו הייתה על המטוס אשר עשה את דרכו מהאמירויות לישראל ושידר אות חירום במהלך הטיסה, סיפר כי בני המשפחה נותרו ללא עדכון רשמי • \"אף אחד לא יצר איתנו קשר. משמח שהמטוס נחת, ומקווים לקבל עדכוני אמת על מצב הנוסעים - ולא הנפצות בקבוצות ווטסאפ\"",
       "link": "https://www.israelhayom.co.il/news/local/article/21518797",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -149,10 +248,10 @@
       "pubDate": "2026-09-30T06:59:27.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "title": "דרמת ענק באוויר: קטטה אלימה בין טייסים הובילה לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה ושר הביטחון כ\"ץ כינסו התייעצות ביטחונית דחופה • מתברר: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "link": "https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:55:08.000Z"
@@ -176,10 +275,10 @@
       "pubDate": "2026-09-30T06:54:59.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "title": "הערכה בישראל: אירוע אלימות בין הטייסים הוביל לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה ושר הביטחון כ\"ץ כינסו התייעצות ביטחונית דחופה • מסתמן: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "link": "https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:51:21.000Z"
@@ -231,6 +330,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1372116",
+      "title": "חפץ נגד נתניהו: \"ב-24 השעות האחרונות הוא הצליח לסובב את האג'נדה\"",
+      "summary": "ניר חפץ הטיל ספק באזהרת נתניהו ובסיבת נסיעתו לבן זאיד, וטען כי בתקופת בחירות המטה משתלט על סדר היום: \"ב-24 השעות האחרונות הוא הצליח לסובב את האג'נדה לטובתו\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1372116",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T06:30:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372116",
       "title": "היועץ לשעבר של נתניהו: \"הטיסה לבן זאיד - מחשיד\"",
       "summary": "ניר חפץ הטיל ספק באזהרת נתניהו ובסיבת נסיעתו לבן זאיד, וטען כי בתקופת בחירות המטה משתלט על סדר היום: \"ב-24 השעות האחרונות הוא הצליח לסובב את האג'נדה לטובתו\"",
       "link": "https://www.maariv.co.il/news/politics/article-1372116",
@@ -239,22 +347,31 @@
       "pubDate": "2026-09-30T06:30:36.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "title": "החשד לחטיפת מטוס נוסעים: ראש הממשלה ושר הביטחון מכנסים התייעצות ביטחונית דחופה",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "link": "https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:28:54.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "title": "החשד לחטיפת מטוס נוסעים בדרכו לתל אביב: מעל 150 נוסעים ישראלים על המטוס",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "link": "https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:27:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372115",
+      "title": "דם בקוקפיט: הטייס דקר את טייס המשנה | כל הפרטים על הדרמה בטיסת פליי דובאי",
+      "summary": "מטוס שהיה בדרכו מדובאי לארץ שיגר קוד 7500, הקשור לאפשרות של חטיפה - ואז נותק עימו הקשר. חיל האוויר הזניק מטוסי קרב - מתברר שהטייסים רבו ביניהם והפעילו את האות בשגגה",
+      "link": "https://www.maariv.co.il/news/military/article-1372115",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T06:26:06.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372115",
@@ -293,10 +410,10 @@
       "pubDate": "2026-09-30T06:26:06.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "title": "חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "link": "https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:25:02.000Z"
@@ -309,6 +426,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T06:23:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "title": "מטוס מדובאי צלל באוויר, דיווח על חשש לחטיפה - ונחת בסעודיה. הסיבה: הטייסים התקוטטו",
+      "summary": "קטטה בין הטייסים גרמה לשידור אות המצוקה: טיסת Flydubai עם יותר מ-170 נוסעים הוסטה לסעודיה באופן חריג, ומטוסי קרב הוזנקו לאוויר. נתניהו וכ\"ץ כבר כינסו התייעצות דחופה, אך לאחר מכן גורמים ביטחוניים הרגיעו את הרוחות והמטוס נחת בסעודיה. החברה פתחה בחקירה ותטיס את הנוסעים לישראל",
+      "link": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T06:23:09.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
@@ -528,6 +654,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372098",
+      "title": "באופוזיציה חוששים: \"הוא מוכיח שנים שאי אפשר להאמין למילה שיוצאת לו מהפה\"",
+      "summary": "לאחר שנתניהו הזהיר כי אויבי ישראל עלולים לנסות לתקוף לקראת הבחירות, מתן כהנא הטיל ספק בדבריו וטען כי בציבור יש מי שחוששים גם מדחיית ההצבעה. בהמשך, הוא תמה על החלטתו של דוד זיני שלא לאבטח את איזנקוט",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1372098",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T05:41:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372098",
       "title": "בכיר במפלגת איזנקוט נגד נתניהו: \"יעשה כל טריק כדי לא להפסיד בבחירות\"",
       "summary": "לאחר שנתניהו הזהיר כי אויבי ישראל עלולים לנסות לתקוף לקראת הבחירות, מתן כהנא הטיל ספק בדבריו וטען כי בציבור יש מי שחוששים גם מדחיית ההצבעה. בהמשך, הוא תמה על החלטתו של דוד זיני שלא לאבטח את איזנקוט",
       "link": "https://www.maariv.co.il/news/elections-2026/article-1372098",
@@ -672,6 +807,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372089",
+      "title": "בת 50, עורכת דין וראש עיר לשעבר: האישה שעשתה היסטוריה במרוקו",
+      "summary": "המלך מוחמד השישי הטיל על פאטימה אל-מנסורי, ראשת מפלגת האותנטיות והמודרניות, להרכיב את הממשלה לאחר שמפלגתה זכתה במספר המושבים הגדול ביותר בבחירות. אל-מנסורי הופכת לראשת הממשלה הראשונה בתולדות הממלכה",
+      "link": "https://www.maariv.co.il/news/world/article-1372089",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T05:05:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372089",
       "title": "היסטוריה במרוקו: לראשונה אישה מונתה לראשות הממשלה",
       "summary": "המלך מוחמד השישי הטיל על פאטימה אל-מנסורי, ראשת מפלגת האותנטיות והמודרניות, להרכיב את הממשלה לאחר שמפלגתה זכתה במספר המושבים הגדול ביותר בבחירות. אל-מנסורי הופכת לראשת הממשלה הראשונה בתולדות הממלכה",
       "link": "https://www.maariv.co.il/news/world/article-1372089",
@@ -705,6 +849,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T04:57:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
+      "title": "השחקן שרצה להישאר בהפועל תל אביב - אבל הלחץ הכריע אותו",
+      "summary": "כריס ג'ונס רצה להמשיך אצל האדומים, אך הקשיים המשפחתיים והמצב הביטחוני הובילו לפרידה • היחסים של ג'ונתן מוטלי עם דימיטריס איטודיס ו\"סדנת החינוך\" עמדו ברקע לעזיבה, שעליה הפועל עדיין משלמת",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T04:54:37.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
@@ -21162,33 +21315,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T07:47:24.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-99ac9078b12d0a1027.htm",
-      "title": "חגיגות שמחת תורה במתחם הנובה? משפחות שכולות זועמות: \"על הדם של הילדים שלנו הם רוקדים\"",
-      "summary": "בחג מתוכננות חגיגות במתחם הפסטיבל, וחלק מהמשפחות השכולות מתנגדות לקיומן - בטענה לפגיעה בקדושת האתר • אביו של רון יהודאי ז\"ל שנרצח במסיבה זעם: \"הם טענו שהם באים לשמוח בשביל הילדים שלנו - מי אתם שתחליטו?\" • מארגני האירוע: \"ערים למורכבות הרגשית של חלק מסוים מקרב המשפחות השכולות, ואין לנו שום רצון או כוונה לפגוע חלילה ברגשותיהם\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-99ac9078b12d0a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-09-25T07:40:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1370644",
-      "title": "חשד לרצח בחיפה: אישה בשנות ה-30 לחייה מתה, בן זוגה נעצר",
-      "summary": "אישה בשנות ה-30 לחייה נמצאה הלילה מחוץ לביתה ברחוב העצמאות בחיפה כשעל פלג גופה העליון סימני חבלה. בן הזוג הזעיק את המשטרה - ונעצר בחשד לרצח",
-      "link": "https://www.maariv.co.il/news/law/article-1370644",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T07:35:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21487641",
-      "title": "אחרי האסון בצפון הרצועה: צה\"ל עוצר את השימוש ברחפנים תוקפים",
-      "summary": "מפקד זרוע היבשה הורה על הפסקה של 48 שעות, שבסיומה תתקיים הערכת מצב מחודשת • הרמטכ\"ל זמיר מינה צוות מומחים בראשות תא\"ל לבחינת נסיבות מותם של רס\"ר (מיל') נדב קלי ורס\"ר (מיל') אופק מועלם • בין הכיוונים הנבדקים: תקלה טכנית וטעות אנוש",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21487641",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:35:24.000Z"
     }
   ]
 }
