@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:00:52.981Z",
+  "updatedAt": "2026-09-30T07:15:49.884Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/syx7ox55fl",
+      "title": "אחרי 23 שנה: צבא ארה\"ב שוב נסוג מעיראק - וההישג של המיליציות הפרו-איראניות",
+      "summary": "אחרי יותר משני עשורים, עם נסיגה נוספת באמצע, תגיע לסיומה הנוכחות הצבאית האמריקנית על אדמת עיראק. במקביל, המיליציות הפרו-איראניות היו אמורות להתפרק מנשקן, אך המהלך יידחה לפחות עד השנה הבאה. מתנגדי ארה\"ב בעיראק טוענים: הכיבוש עדיין נמשך, הממשל מתערב בהחלטות פוליטיות",
+      "link": "https://www.ynet.co.il/news/article/syx7ox55fl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T07:10:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372124",
+      "title": "הממשלה אישרה מסגרת של עד 200 אלף מילואימניקים בצו 8",
+      "summary": "הממשלה מאריכה את האפשרות לגייס מילואימניקים בצו 8 עד סוף נובמבר, במסגרת של עד 200 אלף קריאות. חוות הדעת מזהירה מפגיעה בשוויון ומעלות מוערכת של 6.6 מיליארד שקל",
+      "link": "https://www.maariv.co.il/news/military/article-1372124",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T07:07:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-bloc-leads-53-mandates-shas-yahadut-hato",
+      "title": "סקר מפתיע: איזנקוט מוביל עם 21 מנדטים אך גוש נתניהו משיג רוב של 53 מנדטים",
+      "summary": "סקר ערוץ 16: איזנקוט מוביל עם 21 מנדטים, הליכוד 19 • ש\"ס ועוצמה יהודית 8 כל אחת, יהדות התורה 7 | וינטר והנדל-זליכה עוברים את אחוז החסימה (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-bloc-leads-53-mandates-shas-yahadut-hato",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T07:06:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tm60ku",
+      "title": "אֲזַמִין לִסְעוּדָתִי אוּשְׁפִּיזִין עִילָאִין; הירושלמים נוהרים בהמוניהם לסקולען | צפו בגלריה",
+      "summary": "רבים מבני ירושלים נוהרים בימי המועד אל סוכתו של האדמו\"ר מסקולען ברחוב חנה, שם מתרוממים בזמירות, שירות ותשבחות למלך ק-ל חי וקים במעמדי ההוד של שמחת בית השואבה | צפו בתיעוד מעריכת הטיש באחד מלילות השבוע (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tm60ku",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T07:02:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tm5yrd",
+      "title": "סערה בארה\"ב; שלטי ענק שהציבו יהודים נגד נתניהו עוררו הד תקשורתי בינלאומי - גם במדינות מוסלמיות",
+      "summary": "בעקבות נאומו של ראש הממשלה בנימין נתניהו באו\"ם שבו תקף את ראש עיריית ניו יורק המוסלמי זוהר ממדני וטען כי יהודי ניו יורק אינם מרגישים בטוחים, ארגון קיצוני יצא בקמפיין שלטי חוץ רחב היקף בעלות של אלפי דולרים במוקד הפרסום המרכזי במנהטן | הקמפיין, תפס את כותרות כלי התקשורת המובילים בעולם הערבי, בטורקיה ובפקיסטן (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tm5yrd",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T07:02:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21518616",
+      "title": "בלי מגי טביבי: אבי כאכון מבלה",
+      "summary": "מגיש הטלוויזיה פרסם תמונה אחת שלו מבילוי במהלך חול המועד סוכות מינוס בת זוגו מגישת המהדורה המרכזית של ערוץ 14",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21518616",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:59:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
+      "title": "דרמת ענק באוויר: קטטה אלימה בין טייסים הובילה לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה",
+      "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה ושר הביטחון כ\"ץ כינסו התייעצות ביטחונית דחופה • מתברר: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/tm5yzv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T06:55:08.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/tm5yzv",
       "title": "מטוס הנוסעים ועליו כ-150 ישראלים נחת בסעודיה כשהוא מלווה במטוסי קרב",
       "summary": "טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה ומאז לא יצר קשר נוסף | מטוסי קרב של צה\"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ\"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)",
@@ -57,6 +120,51 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T06:51:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21518414",
+      "title": "טלטלה בהוליווד: דיסני ממשיכה לפטר מאות עובדים",
+      "summary": "מנכ\"ל דיסני ג'וש ד'אמארו מוביל גל קיצוצים רביעי השנה • הפעם הנפגעים העיקריים הם ממחלקות הטכנולוגיה, ה-IT ומשאבי האנוש",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21518414",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:44:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21518514",
+      "title": "\"בהתחלה זה מאוד מפחיד\": המחלה שאיתה מתמודד בנו של ירון לונדון",
+      "summary": "יואב זהבי, בנו של ירון לונדון, חשף בחודש מאי כי אובחן בטרשת נפוצה וסיפר על טשטוש ראייה ועל השינוי שעבר מאז האבחנה • כעת, בעקבות הדברים שאמר אביו, זה הזמן להבין מהי המחלה, אילו תסמינים היא עלולה לגרום ואילו טיפולים קיימים כיום",
+      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21518514",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:40:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21518434",
+      "title": "יעל בר זוהר בחופשה עם בעלה גיא: \"קשה ועצוב\"",
+      "summary": "מגישת הטלוויזיה ובעלה מנחה \"האח הגדול\" נופשים בארה\"ב לרגל 21 שנות נישואים. מה היה הרגע בטיול שהעציב והכעיס את בר זוהר מאוד?",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21518434",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:40:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21518388",
+      "title": "\"זה נקרא גזלייטינג\": אחיה של הנסיכה דיאנה נגד המלך צ'ארלס",
+      "summary": "אחיה של הנסיכה המנוחה חושף עד כמה מורכבים החיים עבור מי שנכנסת מבחוץ למשפחת המלוכה • בנוסף, הוא פותח חזית מול הארמון סביב ציטוט שנוי במחלוקת של המלך",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21518388",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:36:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21518374",
+      "title": "חשד: פרצו לפארם ברמת אביב, גנבו עשרות בשמים - והבריחו ליו\"ש | תיעוד",
+      "summary": "שני תושבי תל שבע בשנות ה-20 וה-30 לחייהם שנחשדו בפריצה לעסק פארם ברמת אביב ג' נעצרו במחסום מיתר • על פי החשד, השניים ניפצו את חלון העסק, העמיסו כמות גדולה של בשמים בשקי \"באלה\" והיו בדרכם לשטחי יהודה ושומרון • הרכוש נתפס, החשודים יובאו להארכת מעצר",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21518374",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:34:30.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1372116",
@@ -88,7 +196,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372115",
       "title": "הטייסים הלכו מכות וקוד החטיפה הופעל | דרמה בטיסה מדובאי לישראל",
-      "summary": "מטוס שהיה בדרכו מדובאי לארץ שיגר קוד 7500, הקשור לאפשרות של חטיפה - ואז נותק עימו הקשר. חיל האוויר הזניק מטוסי קרב - חשד שהטייסים רבו ביניהם והפעילו את האות בשגגה",
+      "summary": "מטוס שהיה בדרכו מדובאי לארץ שיגר קוד 7500, הקשור לאפשרות של חטיפה - ואז נותק עימו הקשר. חיל האוויר הזניק מטוסי קרב - מתברר שהטייסים רבו ביניהם והפעילו את האות בשגגה",
       "link": "https://www.maariv.co.il/news/military/article-1372115",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -132,6 +240,15 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "title": "טיסה מדובאי לנתב\"ג דיווחה על חשש לחטיפה - ונחתה בסעודיה, הסיבה: הטייסים התקוטטו",
+      "summary": "קטטה בין הטייסים גרמה לשידור אות המצוקה: טיסת Flydubai עם יותר מ-170 נוסעים הוסטה לסעודיה באופן חריג, ומטוסי קרב הוזנקו לאוויר. נתניהו וכ\"ץ כבר כינסו התייעצות דחופה, אך לאחר מכן גורמים ביטחוניים הרגיעו את הרוחות והמטוס נחת בסעודיה בבטחה",
+      "link": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-09-30T06:23:09.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjc00c7q5gx",
       "title": "טיסה מדובאי לנתב\"ג דיווחה על חשש לחטיפה, הסיבה לבהלה: הטייסים הלכו מכות",
       "summary": "טיסת Flydubai עם יותר מ-170 נוסעים הוסטה לסעודיה באופן חריג, ומטוסי קרב הוזנקו לאוויר. נתניהו וכ\"ץ כבר כינסו התייעצות דחופה, אך לאחר מכן גורמים ביטחוניים הרגיעו: \"המטוס ינחת בסעודיה\". בישראל מעריכים: אירוע אלימות על המטוס הוביל לקריאת המצוקה",
       "link": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
@@ -165,6 +282,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T06:22:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21518347",
+      "title": "חשש לחטיפה מעל סעודיה: המטוס נחת בשדה תעופה בסעודיה",
+      "summary": "מטוס של חברת \"פליי דובאי\" שהיה בדרכו לישראל שידר אות מצוקה ולאחר מכן אות מיוחד לחטיפת •כלי הטיס נחת בשדה התעופה תבוכ בצפון סעודיה • הדיווחים מבציעים על קטטה שהתרחשה בתא הטייס של המטוס • מטוסי קרב סעודיים וישראליים ליוו את המטוס",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21518347",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T06:22:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21518347",
@@ -1067,19 +1193,19 @@
       "pubDate": "2026-09-29T21:02:48.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14911905",
-      "title": "משבר הקלפיות הנגישות - ו\"מלווי הבחירות\" שיסייעו למאות אלפים להצביע",
-      "summary": "רק 50% מהקלפיות מונגשות: מספר הקלפיות בבתי האבות ירד, שיעור מוגבלי הניידות בישראל גדל בצל המלחמה, ומאות אלפי ישראלים עלולים להתקשות לממש את זכותם להצביע. מיזם של אלפי מתנדבים נרתם לסייע - במקום שבו המדינה עדיין לא נותנת מענה מלא: \"החובה קיימת בחוק - אבל זה לא מספיק\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14911905",
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14913260",
+      "title": "החלפת אוחנה תחילה: התוכנית של גוש השינוי להשתלטות על הכנסת | כך זה יכול לקרות",
+      "summary": "בעוד ברוב הסקרים אין הכרעה לאף צד, בגוש השינוי עובדים על מהלך אסטרטגי מקדים: החלפת יו\"ר הכנסת. האמצעי: שיתוף פעולה עם רע\"מ והרשימה המשותפת. בלשכת נתניהו בוחנים צעדי מנע. זה התקדים - והאתגר בדרך",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14913260",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T21:00:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14913260",
-      "title": "החלפת אוחנה תחילה: התוכנית של גוש השינוי להשתלטות על הכנסת | כך זה יכול לקרות",
-      "summary": "בעוד ברוב הסקרים אין הכרעה לאף צד, בגוש השינוי עובדים על מהלך אסטרטגי מקדים: החלפת יו\"ר הכנסת. האמצעי: שיתוף פעולה עם רע\"מ והרשימה המשותפת. בלשכת נתניהו בוחנים צעדי מנע. זה התקדים - והאתגר בדרך",
-      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14913260",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14911905",
+      "title": "משבר הקלפיות הנגישות - ו\"מלווי הבחירות\" שיסייעו למאות אלפים להצביע",
+      "summary": "רק 50% מהקלפיות מונגשות: מספר הקלפיות בבתי האבות ירד, שיעור מוגבלי הניידות בישראל גדל בצל המלחמה, ומאות אלפי ישראלים עלולים להתקשות לממש את זכותם להצביע. מיזם של אלפי מתנדבים נרתם לסייע - במקום שבו המדינה עדיין לא נותנת מענה מלא: \"החובה קיימת בחוק - אבל זה לא מספיק\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14911905",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T21:00:00.000Z"
@@ -21036,123 +21162,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T07:20:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21487511",
-      "title": "לוחמת כיפת ברזל שיירטה מטרת חיזבאללה מעל ביתה: \"אם לא - הפאשלה עליי\"",
-      "summary": "גדודי 137 (כיפת ברזל) ו-136 (חץ) רשמו \"אלפי יירוטים\" כל אחד בשלוש שנות מלחמה, בעלות של מאות מיליוני שקלים לגדוד • על הפגיעה בסורוקה: \"ההגנה שלנו לא הרמטית\" • על חיזבאללה: \"כמו חתול ועכבר, לומדים אותם והם אותנו\" • וגם - הטענות על קיצוץ בתחמושת: \"מיירטים כל מטרה בלי להסס\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21487511",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:14:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21487688",
-      "title": "חגורת הגברה מקצועית: הבחירה שמשפיעה על כל מילה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21487688",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:14:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21487691",
-      "title": "חלוק רחצה: איך שומרים עליו רך, סופג ואיכותי לאורך זמן",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21487691",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:12:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21487696",
-      "title": "ניהול קמפיינים ממומנים לעסק: איך מפסיקים לשלם על קליקים ומתחילים לשלם על לקוחות",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21487696",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:10:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21487700",
-      "title": "רמקול בלוטוס עוצמתי, אוזניות קשת בלוטוס ומגבר סטריאו ביתי – כל מה שצריך לסאונד איכותי",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21487700",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:08:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21487705",
-      "title": "טוקמן: הדרך החכמה לשלוט בהוצאות הסלולר",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21487705",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:07:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21487348",
-      "title": "אייל ברקוביץ' נפרד בכאב: \"מת מהמחלה, נורא\"",
-      "summary": "כדורגלן העבר האגדי ומגיש רשת 13 התייחס בפרק של \"הקוסם ובניו\" למותו של לודק מיקלושקו, חברו לקבוצה לשעבר בווסטהאם, ממחלת הסרטן: \"איזה בן אדם הוא היה, באסה, הייתי איתו ביחסים טובים מאוד ולא ידעתי שהוא חולה\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21487348",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:05:33.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkyrc9x5gg",
-      "title": "\"בקור רוח מקפיא\": רוצח ראש המאפיה הקווקזית הואשם; מי שלח אותו? לא ידוע",
-      "summary": "דורון ויצמן, בן 54 מבית שאן, מואשם ברצח יאניס יושבייב. הנשק עדיין לא נתפס, והמשטרה לא שמה את ידה על מי ששלח אותו. ויצמן הגיע למסעדה ברכב גנוב עם לוחיות זיהוי מזויפות, הזמין אוכל והמתין ליושבייב - עד שירה בראשו מטווח אפס",
-      "link": "https://www.ynet.co.il/news/article/bkyrc9x5gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T07:03:23.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkyrc9x5gg",
-      "title": "רוצח ראש המאפיה הקווקזית הואשם: \"בקור רוח מקפיא, במסעדה הומה אדם\"",
-      "summary": "דורון ויצמן, בן 54 מבית שאן, מואשם ברצח יאניס יושבייב. הנשק עדיין לא נתפס, והמשטרה לא שמה את ידה על מי ששלח אותו. ויצמן הגיע למסעדה ברכב גנוב עם לוחיות זיהוי מזויפות, הזמין אוכל והמתין ליושבייב - עד שירה בראשו מטווח אפס",
-      "link": "https://www.ynet.co.il/news/article/bkyrc9x5gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T07:03:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1370636",
-      "title": "הסוד של הפרתנון נחשף: המיתוס בן 2,500 השנה נופץ",
-      "summary": "אחד הסיפורים המפורסמים ביותר על הפרתנון באתונה עומד כעת למבחן מדעי - ולא נמצאו ראיות מדעיות לטענה של האשליות האופטיות שלכאורה רואים כשמתבוננים במקדש",
-      "link": "https://www.maariv.co.il/news/viral/article-1370636",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T07:02:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21487508",
-      "title": "בלי להרוס את הציפוי: כך תבריקו את השיש - ללא חומרים רעילים",
-      "summary": "משטחי עבודה וארונות מטבח בהירים רגישים מאוד לחומרי ניקוי חריפים שעלולים להרוס את הציפוי המבריק לצמיתות • כך תסירו שומן וטביעות אצבע בלי להסב נזק של אלפי שקלים",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21487508",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:02:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21487521",
-      "title": "קייט מידלטון יצאה לגינה וחשפה פרט מפתיע על וויליאם",
-      "summary": "יומיים אחרי שצעדה על השטיח האדום לצד בעלה, נסיכת וויילס החליפה את שמלת הערב בנעליים שטוחות ויצאה לביקור במיזם שיקום. בין השתילים היא סיפרה למה דווקא וויליאם היה יכול להרגיש שם בבית",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21487521",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T07:02:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85629",
-      "title": "אירוע דקירה בנתיבות: נפגע קשה ונעצר חשוד",
-      "summary": "תושב נתיבות נפצע באורח קשה מדקירה ופונה לבית חולים. שוטרי תחנת נתיבות פתחו בחקירה ובסריקות, ותוך זמן קצר איתרו ועצרו חשוד תושב העיר במעורבות באירוע. החשוד הועבר לחקירה.",
-      "link": "https://www.kikar.co.il/scoop-news/85629",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T07:01:14.000Z"
     }
   ]
 }
