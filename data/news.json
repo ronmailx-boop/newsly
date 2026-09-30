@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:01:14.218Z",
+  "updatedAt": "2026-09-30T12:15:54.743Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1372251",
+      "title": "הסכנה שמסתתרת בארון התרופות: יותר מ-1 מכל 5 מבוגרים בסיכון",
+      "summary": "השכיחות של אינטראקציות משמעותיות בין תרופות ירדה מעט, אבל יותר מ-1 מכל 5 מבוגרים נמצאים בסיכון פוטנציאלי - בגלל שילובים שעלולים להיות מסוכנים",
+      "link": "https://www.maariv.co.il/news/health/article-1372251",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T12:04:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372250",
+      "title": "השב\"כ, המוסד ומשרד התחבורה: מי אחראי למחדל הטייס העומאני?",
+      "summary": "גורם ביטחוני מבהיר כי משרד התחבורה אחראי לבדיקת צוותי החברות הזרות, ומספר כי גם המוסד בוחן את האירוע: \"אנחנו בתחילת החקירה, צריך להבין מה היה באמת במטוס\"",
+      "link": "https://www.maariv.co.il/news/military/article-1372250",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T12:02:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tm6bgq",
+      "title": "רבבות בשמחת בית השואבה הגדולה בישראל של חסידות מישקולץ בפתח תקוה באצטדיון הגדול בישראל",
+      "summary": "כ\"ק מרן אדמו\"ר ממישקולץ שליט\"א – מנהיגה הרוחני של פתח תקוה בנאומו: האם בני הישיבות נקראים עריקים? העריקים הם אלו שמונעים מבני הישיבות ללמוד תורה! הם ערקו מכבר מלימוד התורה ששומרת על עם ישראל וזה מה שגורם למלחמות וצרות! אם נחזק את התורה ולומדיה, נזכה תיכף ומיד לגאולה",
+      "link": "https://www.kikar.co.il/hasidism/tm6bgq",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T12:00:41.000Z"
+    },
+    {
       "id": "walla:https://e.walla.co.il/item/3870326",
       "title": "\"משחקי הכס\" בדרך לקולנוע, אבל השאלה הגדולה עדיין פתוחה",
       "summary": "הסדרה האהובה מגיעה לאקרנים: שבע שנים אחרי שסדרת המקור \"משחקי הכס\" ירדה מהמסכים, וארבע שנים אחרי שידורה של \"בית הדרקון\" - הסדרה הופכת לסרט שיגולל את מסעו של איאגון. \"הכיבוש של איאגון\" מגיע לקולנוע, לאחר שלאורך השנים פותחו ב-HBO רעיונות שונים סביב סיפורו של איאגון. העלילה תחל כ-300 שנים לפני אירועי \"משחקי הכס\", ותעקוב אחר איאגון טארגאריין ומסע הכיבוש שלו בניסיון לאחד את שבע הממלכות. לצד איאגון צפויות להיות חלק מהסיפור גם שתי אחיותיו, שהיו גם נשותיו, ויסניה וראיניס. השלושה יצאו לכיבוש כשהם רכובים על הדרקונים המזוהים עם המשפחה.",
@@ -39,6 +66,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-30T11:56:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21522339",
+      "title": "מעיין אדם קיבלה החלטה: ''עד להודעה חדשה''",
+      "summary": "אחרי הדקות המבהילות בטיסת פליי דובאי לתל אביב, מעיין אדם שיתפה את התיעוד מתוך המטוס הצולל וחשפה את הפחד שנולד אצלה מאז שהפכה לאמא • היא גם הודיעה על החלטה ברורה לגבי הטיסות הבאות שלה, ולא מעט ישראלים יסכימו",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21522339",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:54:36.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkn1xo5qzg",
@@ -50,6 +86,24 @@
       "pubDate": "2026-09-30T11:53:46.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21522223",
+      "title": "ברקע תקרית המטוס: ליקוש נגד הנופשים - \"אתם כאפות\"",
+      "summary": "שעות אחרי אירוע הטיסה החריג מדובאי לישראל, ליקוש יצאה בסטורי נגד ישראלים שממשיכים לנפוש ביעדים עם אזהרות מסע, ובמיוחד בסיני: \"די. לא לנסוע איפה שיש אזהרת מסע\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21522223",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:53:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21522202",
+      "title": "\"הכול זמני חוץ מהמוזיקה\": קולו של ענר שפירא ז\"ל חוזר בשיר חדש",
+      "summary": "סמל הצוות בסיירת נח״ל, הדף כעשרה רימונים שהושלכו לעבר צעירים במיגונית ליד רעים, נשמע מחדש במיזם מוזיקלי לצד אחיו אריאל ואילה ובת זוגו שלי סמולרנקו • במרכז הפרויקט השיר \"חצי\", שקיבל לאחר נפילתו משמעות חדשה וכואבת • בני משפחתו ממשיכים להוציא לאור את היצירה שהותיר אחריו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21522202",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:49:02.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372239",
       "title": "\"הישראלים היו חדים\": הטייס הבכיר מנתח את אירוע פליי-דובאי",
       "summary": "יו\"ר איגוד הטייסים חגי מאייר משבח את תושיית הנוסעים בדרמה בפליי דובאי ומזהיר מהשאלות שעדיין פתוחות: \"המטוס נחת בשלום - היה כאן שילוב של נס ופריטי מזל\"",
@@ -57,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T11:46:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21522068",
+      "title": "לאחר 3 ימים: הישראלים באתיופיה חולצו במבצע מוסק",
+      "summary": "קבוצת ישראלים שמצאה את עצמה מנותקת בעקבות התלקחות ביטחונית באתיופיה, חולצה לבסוף בדרך לא שגרתית מהאוויר • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21522068",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:46:23.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372241",
@@ -68,6 +131,24 @@
       "pubDate": "2026-09-30T11:44:58.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21518754",
+      "title": "אקס מכבי חיפה חושף דיכאון: \"מקום חשוך, המון טיפולים פסיכולוגיים\"",
+      "summary": "אמיר אדרי, שוער העבר של הירוקים, התארח בפודקאסט \"הענק הירוק\" של חברו לשעבר לקבוצה, יניב קטן, ושיתף בהתמודדות הנפשית אחרי הפרישה מכדורגל: \"נגמר הכדורגל - נגמרים כל החברים, אין חברים יותר. עברתי המון טיפולים\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21518754",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:44:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21522119",
+      "title": "היום שאחרי פליי דובאי: \"חיזוק לחברות הישראליות, המחירים למזרח יקפצו\"",
+      "summary": "עבור ישראלים רבים, נמל התעופה בדובאי הפך בשנים האחרונות לתחנת מעבר ליעדים במזרח הרחוק • בדקנו: מה צפוי לקרות למחירים ומי הנהנות העיקריות?",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21522119",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:43:04.000Z"
+    },
+    {
       "id": "walla:https://news.walla.co.il/item/3870325",
       "title": "טועה מי שחושב שבבוקר ה-28 באוקטובר, נקום למציאות חדשה",
       "summary": "ארבעה שבועות לפני הבחירות, דבר אחד בטוח: גם אחריהן יצטרכו אזרחי ישראל להתאזר בסבלנות כדי להבין מי, אם בכלל, יחליף את נתניהו - ולא תאמינו למי יש את הסיכוי הטוב ביותר",
@@ -75,6 +156,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-30T11:42:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21522045",
+      "title": "הטייס הדוקר הצטרף לפליי דובאי לפני 9 חודשים - והחמ\"ל הבינלאומי שנפתח",
+      "summary": "נמל התעופה בתבוק מסר כי הקברניט וטייס המשנה אושפזו • מרגע ששודר קוד החטיפה נפתח חמ\"ל מבצעי ישראלי-סעודי-אמירתי-אמריקני • סעודיה וירדן הזניקו מטוסים בעקבות האירוע • רגב דורשת לעצור את טיסות פליי דובאי ולבחון אם החברה הפרה את הסכם התעופה עם ישראל",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21522045",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:40:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21522167",
+      "title": "בעלות של 100 מיליון שקל: קומה חדשה בקניון הזהב",
+      "summary": "הקומה החדשה מוסיפה לקניון 12 אלף מ\"ר ו־30 חנויות בתחומי האופנה, ההנעלה, הטיפוח והלייף סטייל • במהלך המשך החג יתקיימו במקום פעילויות למשפחות ויחולקו אלפי מתנות",
+      "link": "https://www.israelhayom.co.il/business/article/21522167",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:37:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21522126",
+      "title": "דיווח מפתיע: התרחיש שבו הלייקרס ילכו על טרייד ענק",
+      "summary": "כתב הקבוצה ג'ובאן בוחה טוען כי אוסטין ריבס עשוי לעזוב את לוס אנג'לס, במספר מקרים • זה ההסבר שלו, והתרחישים שעלולים להוביל למהלך",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21522126",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T11:34:35.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372230",
+      "title": "הדרמה באוויר חשפה מסלול אחר לגמרי לסעודיה",
+      "summary": "האירוע החריג בטיסה הפנה את הזרקור למסלול שכבר שנים משמש ישראלים בדרך לסעודיה, ודווקא לא מהאוויר - מסתבר שאפשר גם באוטובוס",
+      "link": "https://www.maariv.co.il/news/israel/article-1372230",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T11:32:01.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1372230",
@@ -93,6 +210,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T11:29:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/chief-rabbis-president-herzog-sukkot-unity-call",
+      "title": "\"אבא אוהב לראות את הילדים חיים בשלום\": הראש\"ל הגר\"ד יוסף נועד עם נשיא המדינה",
+      "summary": "הראשון לציון הגר\"ד יוסף קיבל את נשיא המדינה בסוכתו • הרב הראשי בר קרא לנשיא להוביל קו מאחד בתקופת הבחירות | מפגש חם בסוכה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/chief-rabbis-president-herzog-sukkot-unity-call",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T11:17:49.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/chief-rabbis-president-herzog-sukkot-unity-call",
@@ -167,6 +293,15 @@
       "pubDate": "2026-09-30T11:02:51.000Z"
     },
     {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-787cf108a8fe0a1027.htm",
+      "title": "\"חשבתי שמישהו עושה את זה בכוונה\": נ' נפצעה מסוס בכביש, שבוע אחר כך סאמר נהרג בתאונה דומה",
+      "summary": "סאמר רבאח, בן 30 מדיר חנא, נהרג לאחר שהתנגש בסוס בכביש 65 • שבוע קודם לכן נפצעה קשה נ', בת 80, בתאונה דומה באזור • היא עדיין מתמודדת עם שבר בעמוד השדרה ודורשת תשובות: \"שיחקרו את הנושא\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-787cf108a8fe0a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-30T11:00:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/drivers-whatsapp-telegram-transition-bots",
       "title": "מנתקים את הוואטסאפ: עולם הדרייברים בדרך למהפך מפתיע",
       "summary": "מערכות בוטים מרכזיות נערכות למעבר הדרגתי מוואטסאפ לטלגרם • העומס על המכשירים והצורך בטלפונים מתקדמים מובילים את השינוי | האם זו תחילת מהפכה בענף? (חרדים)",
@@ -192,6 +327,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T10:59:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21521622",
+      "title": "איך הצליחו לפרוץ לתא הטייס? מומחה תעופה משיב לשאלות שלכם",
+      "summary": "מומחה התעופה אהרון לפידות מסביר כיצד מאושרים טייסים זרים לטיסות לישראל, מה קורה כשאנשי צוות הטיסה נפגעים ואינם מסוגלים להמשיך להטיס, ואיך ייתכן שתא הטייס נפתח במהלך האירוע • לדבריו, הפרטים המלאים יתבררו רק בתום החקירה: \"היינו עדים לנס כפול\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21521622",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T10:52:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21521622",
@@ -241,7 +385,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21521532",
       "title": "באיראן טענו: \"דגל כוזב ישראלי\", ב-BBC פרצו לשידור: \"תקרית אלימה\"",
-      "summary": "גורמי ביטחון ברפובליקה האסלאמית טענו בפני סוכנות הידיעות \"פארס\" כי \"המשטר הציוני מתכוון לבצע מתקפת טרור באזור\" • \"המטרה היא - גל חדש של לחץ על איראן\"",
+      "summary": "גורמי ביטחון ברפובליקה האסלאמית טענו בפני סוכנות הידיעות \"פארס\" כי \"המשטר הציוני מתכוון לבצע מתקפת טרור באזור\" • \"המטרה היא - גל חדש של לחץ על איראן\" • בעולם התקרית נמצאת בכותרות הראשיות - וב-BBC פרצו לשידור: \"תקרית אלימה\"",
       "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21521532",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -277,7 +421,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21521408",
       "title": "הנבחרת מתחזקת: און רפאלי ולרה גרינסס קוטפים קמפיין",
-      "summary": "הנבחרת של ITAY BRANDS הולכת וגדלה • און רפאלי ורה גרינסס מצטרפים לבר זומר ולדניאל פרץ ומביאים איתם לא מעט נוכחות ברשת",
+      "summary": "הנבחרת של ITAY BRANDS הולכת וגדלה • און רפאלי ולרה גרינסס מצטרפים לבר זומר ולדניאל פרץ ומביאים איתם לא מעט נוכחות ברשת",
       "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21521408",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -21783,15 +21927,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-25T12:30:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/israeli-teen-killed-kyiv-drone-attack",
-      "title": "נער בן 14 בעל אזרחות ישראלית נהרג במתקפה רוסית על אוקראינה",
-      "summary": "נער בן 14 בעל אזרחות ישראלית נהרג הבוקר בפגיעת כטב\"ם בבניין מגורים במרכז קייב • אמו נפצעה ופונתה לטיפול | משרד החוץ מטפל במקרה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/israeli-teen-killed-kyiv-drone-attack",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T12:15:15.000Z"
     }
   ]
 }
