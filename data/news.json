@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:00:57.913Z",
+  "updatedAt": "2026-09-30T04:15:42.806Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-press-conference",
+      "title": "נשיא ארה\"ב טראמפ: \"איראן במצב קשה מאוד, הם עוד ייכנעו; הוצאנו ממצר הורמוז יותר נפט מאי פעם\"",
+      "summary": "נשיא ארצות הברית דונלד טראמפ הציג הלילה עמדה נחרצת מול המשטר האיראני, העריך כי טהרן נמצאת במצוקה אנושה שתאלץ אותה להתקפל, וחשף לדבריו שיא היסטורי של שינוע נפט מאובטח דרך מצר הורמוז: \"הוצאנו משם יותר נפט מאי פעם בהיסטוריה – וזה נעשה בדיוק כדי לעצור את הנשק הגרעיני\" (חדשות, בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-iran-press-conference",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T04:13:55.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/iran-condemns-netanyahu-uae-visit-warns-gulf-state",
+      "title": "טהרן בזעם: איראן מאיימת על האמירויות בעקבות ביקור נתניהו",
+      "summary": "משרד החוץ האיראני מגנה בחריפות את ביקור נתניהו באמירויות • קריאה למדינות האזור להיזהר מ\"עוינות המשטר הציוני\" | המתיחות הגוברת במפרץ (גיאופוליטיקה)",
+      "link": "https://www.kikar.co.il/political-news/iran-condemns-netanyahu-uae-visit-warns-gulf-state",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T04:08:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21513977",
+      "title": "העבודה הכי גרועה בעיר חוזרת לעונה חדשה: מה לראות היום בטלוויזיה",
+      "summary": "\"משמר החיות\" חוזרת לעונה חמישית, \"אר-ג'יי דקר\" חוזרת לחקירות בדרום פלורידה, \"מאיר שלו - הדבר היה ככה\" מצייר דיוקן אישי של הסופר, ו\"האלמן: עד שהמוות יפריד בינינו\" חוזר לפרשה שנמשכה כמעט שני עשורים, עם שש נשים, ארבע גופות וגבר אחד, ועוד תכנים שעולים היום (רביעי) בטלוויזיה בישראל",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21513977",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T04:00:02.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1372075",
       "title": "בזמן שנתניהו בונה בריתות – הקטנוניות הפוליטית משתלטת על השיח | ד\"ר איתן לסרי",
       "summary": "בעוד נתניהו פועל לבניית ארכיטקטורה אזורית חדשה מול איראן ולחיזוק עצמאותה הביטחונית של ישראל, האופוזיציה וחלקים בתקשורת נשאבים לקטנוניות פוליטית שמטשטשת את גודל השעה",
@@ -39,6 +66,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T03:56:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21510387",
+      "title": "בזכות הסופה: נחשף מקדש רומי אבוד - באמצע היער",
+      "summary": "עצים שנעקרו במדינת הסן שבגרמניה גילו יסודות, פסלים ואבן עם כתובת לטינית בצמוד לבסיס צבאי רומי • הזיהוי הראשוני אושר בידי ארכאולוגים מקומיים, אך המחקר המלא עוד לפנינו",
+      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21510387",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T03:43:47.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-3c5bf4fd804e0a1027.htm",
+      "title": "הקינוח הכתום שכבש את ישראל: מסע בעקבות טירוף הכנאפה",
+      "summary": "זה התחיל כמאכל רחוב השמור לאירועים מיוחדים, אבל מזמן הפך לשיגעון לאומי שחוצה מגזרים וגבולות. מהמוזיאון הראשון בעולם שהקים שפיק בדרייה בדליית אל-כרמל, דרך תורי הענק לקינוח עם הגלידה ביפו ועד לגרסת הבייגלה הלבנונית של פרח רסלן - יצאנו לבדוק איך הפך הכנאפה לקונצנזוס הישראלי הכי מתוק שיש",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-3c5bf4fd804e0a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-30T03:30:00.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-ec8b432be4ee0a1027.htm",
+      "title": "\"החלטתי שאני עוזב הכול ובא\": הצעירים מצרפת שעלו לבד כדי להפוך ללוחמים בצה\"ל",
+      "summary": "הם נחתו בנתב\"ג עם מזוודה אחת והרבה מאוד מוטיבציה, מותירים מאחור משפחות דואגות וחיים נוחים. בצל האנטישמיות הגואה והשפעת ה-7 באוקטובר, חניכי מכינת \"גור אריה\" עוברים מסע מפרך. צפו בסיפורם של הצעירים שגילו שדווקא בשיא המלחמה, המקום הכי בטוח עבורם הוא כאן בארץ ישראל",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-ec8b432be4ee0a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-09-30T03:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21514840",
@@ -142,7 +196,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21517619",
       "title": "ממדאני ל\"היום\": \"נילחם בכל צורות האנטישמיות\"",
-      "summary": "ראש העיר של ניו יורק הגיע לאירוע יהדוי, שעות לאחר שהציג את האסטרטגיה העירונית החדשה למאבק באנטישמיות • כשנשאל מדוע אינה כוללת הגדרה ספציפית - זה מה שהשיב",
+      "summary": "ראש העיר של ניו יורק הגיע לאירוע יהודי, שעות לאחר שהציג את האסטרטגיה העירונית החדשה למאבק באנטישמיות • כשנשאל מדוע התכנית אינה כוללת הגדרה ספציפית - זה מה שהשיב",
       "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21517619",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -237,6 +291,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T00:47:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21517535",
+      "title": "יוגב חשב שמצא דירת חלומות בלונדון - עד שהבין שנפל במלכודת AI",
+      "summary": "יוגב שרביט מצא ב-Booking דירה של 160 מ\"ר במיקום מרכזי ובמחיר שנראה לו נמוך באופן חריג • חיפוש נוסף ברשת העלה אזהרות והתמונות עוררו חשד שהן נוצרו באמצעות בינה מלאכותית",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21517535",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-29T23:39:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21517535",
@@ -20919,78 +20982,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T04:15:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21478305",
-      "title": "איך מצילים את תחרות ההטבעות של ה-NBA?",
-      "summary": "פעם כולם התלהבו ממנה, אבל היום היא הפכה לגרסה משעממת וסתמית של עוד מאותו דבר. האם אפשר להחזיר את הדרמה לתחרות שנראה שכבר מיצתה את האפשרויות הקיימות?",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21478305",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:10:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21486536",
-      "title": "\"עם הסגל הזה, מכבי תל אביב לא יכולה להשתחל לפלייאין ביורוליג\"",
-      "summary": "פיני גרשון ועפר ג'ובה גרוס סיכמו ב\"על הבאזר\" את ההפסד של הצהובים לווילרבאן בפתיחת המפעל: \"ג'ון דיברתולומיאו יחד עם ים מדר לזה לליגת העל - לא ליורוליג\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21486536",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:09:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tlwj8q",
-      "title": "התחזית: היום ייתכן גשם מקומי קל בחלק מאזורי הארץ | בכניסת החג, הגשם ייפסק",
-      "summary": "ושפך לו? לפי התחזית העדכנית, ביום טוב ראשון של חג הסוכות לא צפוי לרדת גשם (חדשות)",
-      "link": "https://www.kikar.co.il/israel-news/tlwj8q",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T04:07:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21487045",
-      "title": "מ-3:0 לניצחון 3:4: צמד אדיר לקפטן מכבי חיפה במהפך מטורף",
-      "summary": "קנג'י חורה הוביל את קוראסאו לקאמבק עצום מול קוסטה ריקה • אוניון סן ז'ילואז תארח את הפועל באר שבע בגרמניה ללא קהל • עידן זלמנסון חתם רשמית בקבוצה חדשה",
-      "link": "https://www.israelhayom.co.il/sport/article/21487045",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:06:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1b1f0hyzl",
-      "title": "\"אישה ערה כל הלילה כדי שלא ישרפו לה את הבית עם הילדים\"",
-      "summary": "נוכחות מאיימת של חמושים מחוץ לביה\"ס, שריפה של מסגד והתנכלות לרועי צאן הובילו לבסוף קהילה פלסטינית שלמה להחלטה לעזוב. בין-לילה עברו אימהות וילדים למקום חדש, בלי בית ספר, בלי אוהלים ובחום של 40 מעלות, מספרת עאליה, בדואית שכעת מתחילה דוקטורט. מהצד השני של המתרס, אליאב ושרה שחיים תחת איומי טרור ומתאבלים על בנם שנהרג משוכנעים שרק נוכחותם בחזית תביא גאולה וביטחון למדינה. סדרת כתבות מצולמת, מתוך הספר \"בדרך האבות\"",
-      "link": "https://www.ynet.co.il/news/article/b1b1f0hyzl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T04:05:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21472145",
-      "title": "מתניידים חלק: 7 מסלולים נגישים לחול המועד",
-      "summary": "ריכזנו מספר אתרים ומסלולי טיול נגישים על מנת שגם אנשים עם מוגבלות יוכלו ליהנות מהחג באופן נגיש, נוח ובטוח",
-      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21472145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:05:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21474852",
-      "title": "מאפים מהחלומות ופסטה בלתי נשכחת: 6 עצירות חובה בחיפה והסביבה",
-      "summary": "פטיסרי בקריות ששווה לפתוח בו שולחן, סטריט פוד של עלאא מוסא, איטלקית מצוינת, פו ששווה להגיע בשבילו במיוחד ועוד שני מקומות שמסעירים את בת גלים • מיקה לופו וייס יצאה שוב לסיור קולינרי בחיפה והסביבה וחזרה עם 6 המלצות רותחות",
-      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21474852",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T04:04:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tlvw4f",
-      "title": "שוב היועמ\"שית נגד הממשלה בבג\"ץ: \"להקפיא את החוק\"",
-      "summary": "היועצת המשפטית לממשלה מבקשת מבג\"ץ להוציא צו ביניים שיקפיא את חוק השידורים עד להכרעה בעתירות. לטענתה, הליך החקיקה היה רצוף פגמים מהותיים, וסיכויי העתירות נגד החוק גבוהים במיוחד (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tlvw4f",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-25T04:02:44.000Z"
     }
   ]
 }
