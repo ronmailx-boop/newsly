@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:01:14.559Z",
+  "updatedAt": "2026-09-30T02:16:04.259Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21517609",
+      "title": "גשם בצפון ובמרכז: כך ייראה מזג האוויר בימים הקרובים",
+      "summary": "גשם מקומי צפוי היום בצפון ובמרכז, לצד טמפרטורות נמוכות מהרגיל לעונה • בחמישי עדיין ייתכן טפטוף • בשישי ובשבת צפויה התחזקות של המערכת הגשומה, בעיקר בצפון",
+      "link": "https://www.israelhayom.co.il/weather/article/21517609",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T01:39:19.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21517598",
       "title": "אין יותר כיסאות: השינוי החדש בבידוק בשדות התעופה בארה\"ב",
@@ -21090,24 +21099,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-25T02:22:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s17rbxgczx",
-      "title": "קמפיין גאוני או קורס הכנה לתיאוריה",
-      "summary": "מחקרי מנהיגות מבחינים בין כריזמה \"אישית\", המכוונת את הנאמנות אל המנהיג, לבין כריזמה \"חברתית\", המכוונת אותה אל מטרות הקולקטיב. כריזמה אינה תעודת יושר או מדד לאיכות המנהיגות. היא כוח השפעה. והשאלה המעניינת היא לא עד כמה הכוח מדהים, אלא לאן מפנים אותו",
-      "link": "https://www.ynet.co.il/news/article/s17rbxgczx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T02:09:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21486956",
-      "title": "בשל עבודות תשתית: שינויים זמניים בתנועת הרכבות",
-      "summary": "עבודות באזור יבנה ישפיעו על קווי אשקלון-בנימינה ובאר שבע-הרצליה בשני לילות בחודש אוקטובר • רכבת ישראל תפעיל היסעים ללא עלות, והתנועה צפויה לשוב לסדרה בכל בוקר ב-4:30",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21486956",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-25T02:08:29.000Z"
     }
   ]
 }
