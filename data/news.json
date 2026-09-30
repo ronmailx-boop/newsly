@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:45:49.308Z",
+  "updatedAt": "2026-09-30T17:01:09.847Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,72 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21525256",
+      "title": "חיים כהן, אגם בוחבוט ורן דנקר בדיינר קוקה-קולה",
+      "summary": "פופ-אפ הדיינר חוזר בחול המועד סוכות להאנגר 11 עם תפריטים של חיים כהן, מושיק רוט, גיא גמזו, ירדן שי ומורן גיל, ולצדם הופעות של אגם בוחבוט, רן דנקר, יסמין מועלם, נועם בתן ואמנים נוספים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21525256",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:58:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21525328",
+      "title": "\"הסופרסטאר של השמאל\": חברת הדמוקרטים ברשימת 100 הדמויות המבטיחות של מגזין טיים",
+      "summary": "מספר 2 ברשימתו של יאיר גולן נבחרה לרשימה היוקרתית במגזין הבינלאומי • הבחירה נומקה באהדה לה זוכה לזימי בקרב מחנה השמאל, כמו גם בשינוי אותו היא מבקשת להוביל לאחר הבחירות • לזימי: \"זו אינה רק זכייה אישית, אלא תעודת כבוד למחנה שלם בישראל\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21525328",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:57:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86039",
+      "title": "נתניהו שוחח עם נשיא איחוד האמירויות מוחמד בן זאיד",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86039",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T16:56:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21519989",
+      "title": "הדרך אל האושר עוברת בפעולה בצופים. כך גם הדרך אל הפדיחה",
+      "summary": "הילדה חזרה הביתה מתנועת הנוער באורות • הרשג\"דית שבי מחתה דמעה. הרי היא נולדה להיות מדריכה בצופים • היא עדיין לא יודעת את זה, אבל אני הולכת להביך אותה - ואת עצמי - ברמות שאי אפשר לתאר",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21519989",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:51:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tm6rgm",
+      "title": "נתניהו במפגש מרגש עם הנוסע שהשתלט על התוקף: \"אתה אריה\" | צפו",
+      "summary": "ראש הממשלה בנימין נתניהו שוחח בנתב\"ג עם אחד הנוסעים שהשתלט על התוקף במהלך הטיסה | הנוסע תיאר את הפעולה שעשה שהצילה את המטוס מלצלול (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tm6rgm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-09-30T16:45:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21525365",
+      "title": "\"השתלטתי על ההגאים\": גיבור הטיסה שחזר בפני נתניהו את הדרמה",
+      "summary": "יניב, שפרץ לתא הטייס במטוס פליי דובאי, פגש עם נחיתתו בארץ את ראש הממשלה בנימין נתניהו • כשהוא עם החולצה המגואלת בדם סיפר: \"מזל שראיתי 'תעופה בחקירה'\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21525365",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T16:45:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372336",
+      "title": "\"אתה הגיבור - איך עשית את זה?\": נתניהו לנוסע שנטרל את המחבל | צפו בתיעוד",
+      "summary": "רגע אחרי הדרמה באוויר: נתניהו נפגש עם הנוסע שהציל את חיי הנוסעים בטיסת פליי דובאי, חיבק אותו ושיבח את פעולתו",
+      "link": "https://www.maariv.co.il/news/israel/article-1372336",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-09-30T16:45:34.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bkc009nc9ge",
       "title": "יניב שפרץ לקוקפיט: \"תפסתי את המפגע, חנקתי - ומשכתי את ההגאים\"",
-      "summary": "",
+      "summary": "\"אני רואה תעופה בחקירה\", אמר יניב חיון לראש הממשלה נתניהו שאותו פגש בנתב\"ג - אחרי שפרץ לתא הטייס בטיסת פליי דובאי. הוא נחת בישראל עם כתמי דם על חולצתו הלבנה. \"הטייס ניסה להרוס את המכשירים כדי לנטרל את המטוס\", שחזר. עם חיון השתתפו בהשתלטות על המחבל לפחות עוד 3 ישראלים גיבורים",
       "link": "https://www.ynet.co.il/news/article/bkc009nc9ge",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -489,6 +552,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T14:52:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
+      "title": "עם כתמי דם, בשירה רמה: הנוסעים וגיבורי הטיסה נחתו בישראל",
+      "summary": "הנוסעים שחוו ניסיון פיגוע שבים הביתה • ההערכה כעת היא שטייס המשנה העומאני פעל כמחבל בודד ממניעים ג'יהאדיסטים, ללא מעורבות איראנית • נוסעים ישראלים סייעו להשתלט עליו • במקביל, שרת התחבורה דורשת לעצור את טיסות החברה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-09-30T14:50:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21523366",
@@ -22818,33 +22890,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-25T17:04:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bj0htzncge",
-      "title": "איטליה: נחשפה רשת ניאו-נאצים שהיללו את היטלר - ותכננו פיגוע בבית כנסת ומסגד",
-      "summary": "17 חשודים, מתוכם 14 קטינים, נעצרו בפשיטה נרחבת בכמה ערים במדינה. על פי החקירה, הם השתייכו לשתי קבוצות שהפיצו תכנים של עליונות לבנה והתאמנו לביצוע פעולות טרור. השיח בקבוצות לווה באנטישמיות, גזענות והומופוביות - וכלל שיתוף מניפסטים של מחבלי ימין קיצוני שביצעו פיגועי ירי המוניים",
-      "link": "https://www.ynet.co.il/news/article/bj0htzncge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-25T16:52:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370774",
-      "title": "אסון בחוף דלילה באשקלון: בן ה-17 נהרג בתביעה, בן 24 במצב קשה",
-      "summary": "שלושה בני אדם נכנסו לים סמוך לחוף דלילה באשקלון. צעיר בן 24 חולץ כשהוא מחוסר הכרה ופונה במצב קשה, נער בן 17 נפגע קל, וכוחות ההצלה ממשיכים בחיפושים אחר נעדר נוסף - שאותר בבוקר ללא רוח חיים",
-      "link": "https://www.maariv.co.il/news/israel/article-1370774",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T16:49:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370774",
-      "title": "אירוע טביעה באשקלון: בן 24 במצב קשה - חיפושים אחר נעדר בים",
-      "summary": "שלושה בני אדם נכנסו לים סמוך לחוף דלילה באשקלון. צעיר בן 24 חולץ כשהוא מחוסר הכרה ופונה במצב קשה, נער בן 17 נפגע קל, וכוחות ההצלה ממשיכים בחיפושים אחר נעדר נוסף",
-      "link": "https://www.maariv.co.il/news/israel/article-1370774",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-25T16:49:32.000Z"
     }
   ]
 }
