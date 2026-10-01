@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:31:09.737Z",
+  "updatedAt": "2026-10-01T13:45:55.414Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/hamas-jihad-dahlan-coalition-against-israel",
+      "title": "ברית מפתיעה: חמאס והג'יהאד מקימים קואליציה עם דחלאן",
+      "summary": "דוח חסר תקדים חושף את התוכנית המלאה של חמאס, הג'יהאד האסלאמי ומוחמד דחלאן להקים קואליציה אלקטורלית שתחסל את שלטון אבו מאזן, תעניק לגיטימציה לטרור ותציב את ישראל מול איום ביטחוני מורכב (מדיני)",
+      "link": "https://www.kikar.co.il/political-news/hamas-jihad-dahlan-coalition-against-israel",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T13:35:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372655",
+      "title": "\"יש לנו אינדיקציות\": נתניהו מזהיר מניסיון איראני לפגוע במטרות ישראליות",
+      "summary": "ראש הממשלה התייחס בריאיון לרשת FOX NEWS לאיום האיראני ומזהיר מפני ניסיון לפגוע במטרות ישראליות דווקא בתקופת הבחירות, מספר על טייס שלדבריו עבר \"אינדוקטרינציה איסלאמיסטית רדיקלית\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1372655",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T13:30:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rj77xriqgx",
+      "title": "אחרי שנעלם מהרדאר: ברדוגו מצטרף לקמפיין של נתניהו | אלו יתר חברי הכוורת",
+      "summary": "המקורב לנתניהו, ששוריין במקום ה-11 ברשימת הליכוד, הוריד פרופיל אחרי שהמהלך עורר התנגדויות בקרב ח\"כים ממפלגת השלטון, אולם כעת הוא ייקח חלק בקמפיין של רה\"מ, שצפוי לעלות שלב עם סיום החגים. אלה האנשים שאיתם יעבוד",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rj77xriqgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T13:29:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/us-ambassador-mike-huckabee-chief-rabbis-holiday-visit",
       "title": "חיבוק אמריקאי ברבנות: מייק האקבי בביקור חג אצל הרבנים הראשיים",
       "summary": "השגריר האמריקני מייק האקבי ערך ביקור חג רשמי במעון הראשון לציון • הרבנים הראשיים הודו לטראמפ על עמידתו לצד ישראל | חיזוק הברית האסטרטגית והרוחנית (חרדים)",
@@ -41,6 +68,24 @@
       "pubDate": "2026-10-01T13:28:34.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21532211",
+      "title": "\"ישראל היום\" יקבל אות הוקרה על תרומתו לעידוד העלייה",
+      "summary": "ארגון \"הביתה\" יעניק את האות בכנס העולים השנתי שלו, \"קולטים את המיליון הבא\", שייערך ב-8 באוקטובר בסינמה סיטי ירושלים • בין הנימוקים: פרויקט \"המיליון ה-11\" של \"ישראל היום\" שהציב יעד של עליית מיליון יהודים לישראל בשנים הקרובות",
+      "link": "https://www.israelhayom.co.il/news/local/article/21532211",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T13:28:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21531988",
+      "title": "אריה עמידרור, האיש שלא צלצל בפעמונים | פרופיל",
+      "summary": "כשהסימים של הנוחבות נדלקו באמצע הלילה הוא לא התרגש • כשהנגדת ו' התריעה על ההכנות של חמאס לפלישה הוא התעלם • אנשים שהכירו אותו טוענים כי התאים את הערכותיו למה שהדרג המדיני רוצה לשמוע • פרופיל על קצין המודיעין של אוגדת עזה, ששמו הותר היום לפרסום",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21531988",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T13:24:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/70-hamas-terrorists-eliminated-september-7-october",
       "title": "סוף הדרך: חוסל המחבל שחטף את משפחת אביגדורי",
       "summary": "70 מחבלים חוסלו בספטמבר, ביניהם 3 מפקדי חטיבות ו-17 שהשתתפו בטבח • צה\"ל: 'משימה ערכית שלא ניתן להרפות ממנה' | המאמץ המבצעי נמשך (צבא וביטחון)",
@@ -48,6 +93,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T13:20:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21531958",
+      "title": "בת 94 חיכתה להסעה ואז קייט מידלטון הגיעה",
+      "summary": "סטלה דרואט ידעה רק שאדם מפורסם יצטרף לנסיעה השבועית שלה. מה שקרה אחר כך הפך נסיעה שגרתית לבוקר קצת פחות רגיל, עם כמה גילויים קטנים בדרך",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21531958",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T13:19:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21532198",
+      "title": "נתניהו: \"טייס המשנה עבר אינדוקטרינציה אסלאמיסטית קיצונית\"",
+      "summary": "ראש הממשלה סיפר בריאיון לפוקס ניוז כי התוקף, אזרח עומאני, קרא לצוות \"תהרגו אותי\" לאחר שהנוסעים השתלטו עליו • נתניהו הודה כי \"הייתה כאן פרצה\" והבטיח להחמיר את האבטחה, אך הבהיר שמוקדם לקבוע אם היו לתוקף קשרים לאיראן • על הנוסעים שבלמו אותו אמר: \"גיבורי-על, העולם צריך להצדיע להם\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21532198",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T13:16:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21531132",
+      "title": "\"זה אויב מסוכן\": כאן עלול לפרוץ 7 באוקטובר הבא",
+      "summary": "ניצב אמיר כהן, מפקד מחוז מרכז, יודע שהשקט משטחי הרשות הפלסטינית שליד גזרתו מתעתע – ומכריז על שינוי דרמטי במבנה הכוחות בגזרה • 3 שנים לטבח, האיש שהכריז ראשון על פלישה לישראל ושנפצע בקרב בשדרות, מודה: \"אין לי פריבילגיה לחשוב שזה לא יקרה שוב\" • צפו בראיון",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21531132",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T13:16:32.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21531796",
@@ -201,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T12:38:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21531553",
+      "title": "\"אגודת ישראל כבר לא עם נתניהו, הגוש שלו התפרק\": גדי איזנקוט בראיון",
+      "summary": "יו\"ר מפלגת ישר מפרט איך ימנע מנתניהו להמשיך לכהן גם בלי 61 מנדטים לגוש השינוי • ומספר על ההתראות שקדמו לטבח 7 באוקטובר: \"נתניהו קיבל מסר חד מסינוואר שהולכת להיות רעידת אדמה. מישהו דרש ממנו לפעול והוא התעלם\" • הראיון המלא - מחר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21531553",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T12:37:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21531553",
@@ -448,7 +529,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1sgtps9fe",
       "title": "כשהבית כבר לא מרגיש בטוח: 5 שנים עם יהודי קנדה",
-      "summary": "בשלוש השנים מאז שבעה באוקטובר עמדה יהדות קנדה בחזית התמיכה בישראל. עשרות משלחות הגיעו לארץ, והתרומות ליישובי הדרום והצפון האמירו מאוד. אבל במקביל, יהודי קנדה מצאו את עצמם במצב לא נוח. ממשלת ישראל הציגה לא פעם ביקורת על מדיניותה כאנטישמיות. יהודי קנדה מצאו את עצמם, בעל כורחם, כמעין נציגים של ממשלת נתניהו–בן גביר, ולא לכך הם כיוונו.",
+      "summary": "בשלוש השנים מאז שבעה באוקטובר עמדה יהדות קנדה בחזית התמיכה בישראל. עשרות משלחות הגיעו לארץ, והתרומות ליישובי הדרום והצפון האמירו מאוד. אבל במקביל, יהודי קנדה מצאו את עצמם במצב לא נוח. ממשלת ישראל הציגה לא פעם ביקורת על מדיניותה כאנטישמיות. יהודי קנדה מצאו את עצמם, בעל כורחם, כמעין נציגים של ממשלת נתניהו–בן גביר, ולא לכך הם כיוונו",
       "link": "https://www.ynet.co.il/news/article/r1sgtps9fe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -651,6 +732,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T11:21:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372590",
+      "title": "המתקפה על עופר וינטר חוזרת לנתניהו: בכירים בליכוד מזהירים",
+      "summary": "בכירים במרכז הליכוד מותחים ביקורת על החלטת נתניהו לתקוף את עופר וינטר ומזהירים מפגיעה במחנה. יהודה גליק הצטרף בפומבי: \"זו טעות חמורה לתקוף את וינטר\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1372590",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T11:19:54.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1372590",
@@ -25887,33 +25977,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-26T13:50:17.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1hfybhqgl",
-      "title": "לא כל מה שמרגיז את הרוב הוא מחוץ לגבולות הדמוקרטיה",
-      "summary": "אם פוליטיקאי יהודי רשאי להציע חזון לאומי יהודי מובהק למדינה, גם כאשר אזרחים ערבים מתנגדים לו בכל מאודם, פוליטיקאי ערבי פלסטיני רשאי להציע חזון אזרחי ולאומי אחר, גם כאשר הרוב היהודי דוחה אותו",
-      "link": "https://www.ynet.co.il/news/article/r1hfybhqgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-26T13:41:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21491477",
-      "title": "ארדואן על יציאת המשלחות בנאום נתניהו: \"מקומם של פושעי מלחמה - בבית משפט\"",
-      "summary": "נשיא טורקיה תקף שוב וטען כי יציאת המשלחות נחתה כמו \"סטירה על פני כנופיית רצח העם\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21491477",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:41:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21491122",
-      "title": "הכתובת היתה על הקיר? ההתרעות שקיבל נתניהו לפני 7 באוקטובר",
-      "summary": "חשיפת \"היום\" על הגעת ראש המודיעין המצרי לישראל 11 יום לפני הטבח • החשיפה של שלומי אלדר ורותי יובל על האזהרה שקיבל ראש הממשלה משליט האמירויות • הדיווח בארה\"ב שלפיו נתניהו הסתיר את האזהרות מראשי מערכת הביטחון בישיבה ב-1.10.23 • כרוניקה של חודש קריטי שהובילה לטבח",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21491122",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:34:08.000Z"
     }
   ]
 }
