@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:45:55.414Z",
+  "updatedAt": "2026-10-01T14:01:14.798Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/binyamin-drama-suspicious-object-dummy-bomb",
+      "title": "דרמה בבנימין: חפץ חשוד עם דגל חמאס התברר כמטען דמה",
+      "summary": "חפץ חשוד עם דגל חמאס אותר ליד טלמון במועצה האזורית בנימין • חבלני מג\"ב וכוחות צה\"ל הוזעקו לבדיקה מקצועית | התברר: מטען דמה, כביש 463 נפתח מחדש (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/binyamin-drama-suspicious-object-dummy-bomb",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T13:59:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/tm6ovk",
+      "title": "פרסום ראשון: חברת בוש נתבעת בעקבות הבטחה שהובילה לחילול שבת",
+      "summary": "שני צרכנים פנו לבית המשפט נגד יבואנית בוש, סימנס ונף: לטענתם רכשו תנורים עם \"מצב שבת\", אך פתיחת הדלת מכבה את גופי החימום וסגירתה מפעילה אותם מחדש מה שגורם לחילול שבת (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/tm6ovk",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T13:52:19.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syxngps5fl",
+      "title": "\"זו תהיה מלחמה קצרה מאוד\": האיום הגרעיני הישיר של פוטין - ותגובת נאט\"ו",
+      "summary": "בנאט\"ו קוראים \"להישאר רגועים\" אחרי מכתב האזהרה הנדיר שהעבירה מוסקבה לברית - עם איום להשתמש גם בנשק גרעיני אם יהיה ניסיון לבודד את קלינינגרד, המובלעת הרוסית האסטרטגית שכלואה בין ליטא ופולין. בכיר אירופי אומר שמאז המלחמה הקרה \"מעולם לא איימו עלינו כך\", אבל מזכ\"ל נאט\"ו מנסה להרגיע: \"פוטין יודע שהוא לא יכול לנצח אותנו\". תיעוד מקייב: כטב\"ם רוסי התפוצץ על בית ספר עם 100 תלמידים. המנהלת: \"הילדים הם עתיד האומה, מנסים להשמיד אותם\"",
+      "link": "https://www.ynet.co.il/news/article/syxngps5fl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T13:48:15.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/hamas-jihad-dahlan-coalition-against-israel",
       "title": "ברית מפתיעה: חמאס והג'יהאד מקימים קואליציה עם דחלאן",
@@ -1857,6 +1884,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T08:03:26.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372494",
+      "title": "כשל ב-7.10 ויובש בקריה: נחשף שמו של קמ\"ן אוגדת עזה - שאביו מככב באולפנים",
+      "summary": "בג\"ץ דחה את ערעורו של סא\"ל אריה עמידרור, שהיה קצין אמ\"ן באוגדת עזה בעת אירועי 7 באוקטובר. לטענתו, פרסום שמו חושף אותו לסיכונים. הוא הבן של יעקב עמידרור, הנוכח בפאנלים על המלחמה בערוצי החדשות",
+      "link": "https://www.maariv.co.il/news/military/article-1372494",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T08:02:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372494",
@@ -25905,78 +25941,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-26T14:04:31.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1hkbsbqgg",
-      "title": "בלב התיירותי של אתונה: בניין קרס בעקבות פיצוץ, שישה נהרגו",
-      "summary": "הפיצוץ העז הרעיד את שכונת פלאקה ההיסטורית, למרגלות האקרופוליס, ככל הנראה בשל דליפת גז. כעבור יום של חיפושים בהריסות אותרו גופותיהם של זוג קשישים וארבעה תיירים אמריקנים - שהיו אמורים לעלות באותו היום על טיסה חזרה לארה\"ב. האזהרות הממושכות של תושבי השכונה - ותיעוד מזירת האסון",
-      "link": "https://www.ynet.co.il/news/article/s1hkbsbqgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-26T14:01:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370928",
-      "title": "העיר שעומדת להשתנות: תוכנית פינוי בינוי ענקית אושרה",
-      "summary": "תוכנית פינוי בינוי ברחובות אחד העם ובבל בעכו, אושרה לאחרונה. מדובר בפרויקט שבמסגרתו צפויות להתפנות 56 יחידות דיור קיימות, ובמקומן מתוכננות להיבנות 366 יחידות דיור חדשות בבנייני מגורים",
-      "link": "https://www.maariv.co.il/news/israel/article-1370928",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T14:00:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1370928",
-      "title": "עכשיו זה רשמי: תוכנית פינוי בינוי בצפון ישראל שתשנה את מפת העיר",
-      "summary": "תוכנית פינוי בינוי ברחובות אחד העם ובבל בעכו, אושרה לאחרונה. מדובר בפרויקט שבמסגרתו צפויות להתפנות 56 יחידות דיור קיימות, ובמקומן מתוכננות להיבנות 366 יחידות דיור חדשות בבנייני מגורים",
-      "link": "https://www.maariv.co.il/news/israel/article-1370928",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T14:00:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21491601",
-      "title": "בלי בושה: המחאות שאירלנד מתכננת במשחק נגד ישראל",
-      "summary": "מנכ\"ל ההתאחדות האירית עדכן כי השחקנים \"יעלו עם סרטים שחורים לזכר הקורבנות מהקונפליקט\", ובהמשך הוסיף: \"לא יהיו עם ישראל לחיצות ידיים, החלפת דגלים או תמונה משותפת\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21491601",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:59:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21491601",
-      "title": "בלי בושה: המחאות שנבחרת אירלנד מתכננת במשחק נגד ישראל",
-      "summary": "מנכ\"ל ההתאחדות האירית עדכן כי השחקנים \"יעלו עם סרטים שחורים לזכר הקורבנות מהקונפליקט\", ובהמשך הוסיף: \"לא יהיו עם ישראל לחיצות ידיים, החלפת דגלים או תמונה משותפת\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21491601",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:59:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21491299",
-      "title": "המדען המפורסם מתריע: \"המין האנושי הופך למיותר\"",
-      "summary": "הביולוג האבולוציה הנודע פרופ' ריצ'רד דוקינס מציג זווית ראייה מטלטלת על עידן ה-AI, מזהיר מפני השתלטות מכונות ואובדן הרלוונטיות של המין האנושי, וחושף כיצד הבינה המלאכותית הפתיעה אותו אפילו בכתיבת ספר מדע בדיוני",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21491299",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:58:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21491223",
-      "title": "עם 19 מזוודות וציוד ריגול: בני זוג נעצרו - רגע לפני שהמריאו לישראל",
-      "summary": "אלכסנדר קרוגליאנסקי ובת זוגו נעצרו בנמל התעופה במונטנגרו, לאחר שעוררו את חשד הכוחות המקומיים • פשיטה על דירותיהם חשפה מיליון יורו במזומן וציוד מתקדם לאיתור האזנות • מעצרם הוארך בחודש",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21491223",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T13:54:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sy1swbhcgl",
-      "title": "ירי ללא הפסקה ברהט: 5 נעצרו, נתפסו M-16 ואקדחים | תיעוד",
-      "summary": "\"זה כבר שגרה\": תושבי העיר הדרומית התרגלו לסכסוכי המשפחות המדממים ולצלילי הירי ברחבי האזור - שנשמעו גם הלילה וגם בבוקר. המשטרה עצרה חשודים ותפסה אמל\"ח: \"אפס סבלנות נגד עבירות הירי והאלימות\"",
-      "link": "https://www.ynet.co.il/news/article/sy1swbhcgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-26T13:50:17.000Z"
     }
   ]
 }
