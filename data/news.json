@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:15:55.719Z",
+  "updatedAt": "2026-10-01T05:25:23.663Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/tm7qnx",
+      "title": "מחבל חמאס שפשט לישראל ב-7 באוקטובר חוסל והוצג כ\"עיתונאי\"",
+      "summary": "מחבל חמאס שפשט לשטח הארץ ב-7 באוקטובר והוצג כעיתונאי חוסל על-ידי צה\"ל בדרום רצועת עזה (חדשות)",
+      "link": "https://www.kikar.co.il/security-news/tm7qnx",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T05:21:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tm7q5n",
+      "title": "התיאור המדהים של הנשיא טראמפ על הדרמה והנס בטיסת פליי דובאי: \"שרברב יהודי הציל את המטוס\"",
+      "summary": "נשיא ארצות הברית דונלד טראמפ התייחס בשיחה עם כתבים בחדר הסגלגל לדיווחים על ניסיון הפיגוע במטוס שהיה בדרכו לישראל • הנשיא סיפר על שיחתו עם ראש הממשלה נתניהו, תיאר כיצד נוסע ישראלי השתלט על הסטיק ברגע האחרון, והודה: \"אני לא יודע אם זה נכון, זה הסיפור שקיבלתי\" | צפו (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tm7q5n",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T05:18:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1cpqwo5gx",
+      "title": "שתי מנות רעל הוזרקו, קריסטה שרדה את ההוצאה להורג: \"כישלון חסר תקדים\"",
+      "summary": "למרות שקיבלה שתי מנות פנטוברביטל, ניסיון ההוצאה להורג של הרוצחת קריסטה פייק נכשל. לפי עדי ראייה, היא נותרה בהכרה, ופונתה לבית חולים: \"כך אני אמורה להרגיש?\". פייק הייתה אמורה להיות האישה הראשונה זה 200 שנה שמוצאת להורג בטנסי. מומחית הוצאות להורג: \"מקרה ייחודי וחסר תקדים\"",
+      "link": "https://www.ynet.co.il/news/article/h1cpqwo5gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T05:15:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21527701",
+      "title": "היום שאחרי ליונל מסי: ארגנטינה ניצחה את בוליביה 0:4",
+      "summary": "האלביסלסטה הסתדרו בקלות ללא כוכב העל במשחק הראשון אחרי שהודיע על פרישתו",
+      "link": "https://www.israelhayom.co.il/sport/article/21527701",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T05:12:45.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372434",
       "title": "מצוקה במשטר בטהרן לקראת חידוש המחאות? הבכיר באיראן מזהיר",
       "summary": "סגן שר התקשורת האיראני טען כי התרחבות השימוש בשירות האינטרנט הלווייני עלולה להוביל לאובדן של יכולת לשלוט במרחב המקוון במדינה. זאת, על רקע חשיבות השליטה במרחב המקוון, במאבק המשטר מול מחאות מקומיות",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T05:03:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21527624",
+      "title": "הלב פעם אחרי שתי זריקות רעל: נכשלה ההוצאה להורג של הרוצחת מטנסי",
+      "summary": "לראשונה אחרי 200 שנה התיר בית המשפט להוציא להורג אישה בארה\"ב, אך ההליך היה פגום • עדים שהיו נוכחים באירוע סיפרו כי כריסטה פייק הייתה בחיים בבירור אחרי הזריקות • פייק פונתה לבית חולים ועל פי עורכי דינה קיים חשש שנגרם לה נזק מוחי",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21527624",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T05:03:42.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/netanyahu-reveals-omani-pilot-planned-israeli-9-11",
@@ -57,6 +102,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T04:58:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21527619",
+      "title": "עסקת הענק של 110 מיליארד דולר: ישראלי מונה לתפקיד בכיר בהוליווד",
+      "summary": "ינון קרייז, מנכ\"ל ויו\"ר ענקית הצעצועים מאטל, ימונה למנכ\"ל משותף של החברה שתקום ממיזוג פרמאונט ו-Warner Bros. Discovery • הוא יהיה אחראי על הניהול השוטף ועל שילוב שתי החברות • העסקה צפויה להיסגר ב-6 באוקטובר",
+      "link": "https://www.israelhayom.co.il/business/article/21527619",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T04:57:44.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21527619",
@@ -608,19 +662,19 @@
       "pubDate": "2026-09-30T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14914740",
-      "title": "כולם יכלו להיות עכשיו תחת סוכה אחת של שלום",
-      "summary": "כשם שלא ניצל את הימים הנוראים לבקשת סליחה ממשפחות נרצחי 7 באוקטובר, נתניהו נותר באדישותו גם מול חגי תשרי שהפכו לימי בין המצרים החדשים, במקום להכניס אותנו תחת סוכה מאחדת של שלום",
-      "link": "https://www.ynet.co.il/news/article/yokra14914740",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14914289",
+      "title": "כולם אחראים למחדל",
+      "summary": "בין אם נתניהו קיבל אזהרה כללית, ובין אם לא – האחריות להיעדר ההיערכות ל-7 באוקטובר היא עליו",
+      "link": "https://www.ynet.co.il/news/article/yokra14914289",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14914289",
-      "title": "כולם אחראים למחדל",
-      "summary": "בין אם נתניהו קיבל אזהרה כללית, ובין אם לא – האחריות להיעדר ההיערכות ל-7 באוקטובר היא עליו",
-      "link": "https://www.ynet.co.il/news/article/yokra14914289",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14914740",
+      "title": "כולם יכלו להיות עכשיו תחת סוכה אחת של שלום",
+      "summary": "כשם שלא ניצל את הימים הנוראים לבקשת סליחה ממשפחות נרצחי 7 באוקטובר, נתניהו נותר באדישותו גם מול חגי תשרי שהפכו לימי בין המצרים החדשים, במקום להכניס אותנו תחת סוכה מאחדת של שלום",
+      "link": "https://www.ynet.co.il/news/article/yokra14914740",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T21:03:00.000Z"
