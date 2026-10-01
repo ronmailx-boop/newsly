@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:01:17.353Z",
+  "updatedAt": "2026-10-01T17:16:02.457Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372715",
+      "title": "\"יכול להיות, כן\": טראמפ יודע מי שלח את המחבל בטיסת פליי-דובאי",
+      "summary": "טראמפ אמר כי ארה״ב בודקת אם הטייס שהיה מעורב באירוע קשור לאיראן, וכשנשאל אם ייתכן שהושתל בידי משמרות המהפכה השיב: \"יכול להיות, כן\" | בהמשך איים: \"או שיהיה דיל, או שהם לא יחדלו מלהתקיים\"",
+      "link": "https://www.maariv.co.il/news/world/article-1372715",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T17:12:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tm8ms9",
+      "title": "\"שרשרת של ניסים\": נתניהו תיאר את אירועי טיסת האימים בסוכת הכנסת | צפו",
+      "summary": "ראש הממשלה בנימין נתניהו נשא דברים בסוכת הכנסת באירוע שנערך יחד עם בכירי מערכת הביטחון | במהלך הדברים תיאר רה\"מ את השתלשלות העניינים בניסיון הפיגוע במטוס פליי דובאי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tm8ms9",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T17:00:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkqzuxn9gl",
+      "title": "זיני התריע, נתניהו הודה ב\"פרצה\": מי היה אמור לפקח על פליי דובאי?",
+      "summary": "ראש השב\"כ הזהיר חודשים מפני מעטפת אבטחה לא מספקת בטיסות מהאמירויות, אבל פליי דובאי כלל אינה באחריות הישירה של הארגון. אחרי שטייס עומאני שובץ למרות המגבלות, ורה\"מ עצמו הודה שהייתה \"פרצה\", מתחדדת השאלה: מי היה אמור לעצור אותו - ואיפה בדיוק נכשלה שרשרת הפיקוח?",
+      "link": "https://www.ynet.co.il/news/article/bkqzuxn9gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T16:57:39.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tm8mpn",
       "title": "האדמו\"ר החריף לצד גאוני עולם החסידים, ריתקו את החסידים ב'ריתחא דאורייתא'",
@@ -66,6 +93,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T16:45:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21533759",
+      "title": "סכנה לעור התוף: 10 אצטדיוני הכדורגל הרועשים בעולם",
+      "summary": "מעל 130 דציבלים, שיא גינס רשמי וכוכב שלא הצליח להתמודד עם העוצמה וביקש להתחלף • מהטירוף באיסטנבול ועד היציעים של בואנוס איירס ובלגרד: אלה המגרשים שבהם הרעש הוא הרבה יותר מיתרון ביתיות",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21533759",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T16:34:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21533931",
+      "title": "האירוע שמתקרב בצעדי ענק - בזמן שכולם עסוקים במלחמה בין הגושים",
+      "summary": "למזלם של מרכיבי האופוזיציה, שעמדותיהם רחוקות זו מזו, נתניהו העניק להם נושא להתאחד סביבו • בזמן שהגושים חושבים רק על להגיע ל-61, מחכה למדינת ישראל צרה קשה - שאליה איש לא נערך • וגם: הנתון שמקרב את הבחירות החוזרות",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21533931",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T16:32:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21534072",
+      "title": "בכיר בחברה ממשלתית נחקר בלהב 433 בחשד להונאה וזיוף",
+      "summary": "החשוד עוכב לחקירה הבוקר • בחיפוש שנערך בביתו ובמשרדו נתפסו מסמכים ומדיה דיגיטלית • בסיום החקירה שוחרר בתנאים מגבילים",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21534072",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T16:31:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21533949",
+      "title": "\"מקווה שתאובחני עם סרטן\": העירה לרופא שהואשם בעבירות מין - והותקפה",
+      "summary": "רופא פנה למירית רוזנבאום במייל כשהוא מציג את עצמו כד\"ר, והיא הזכירה לו כי רישיונו הותלה • בתגובה כינה אותה \"מטומטמת\", \"בודדה ואומללה\" ואיחל לה לחלות בסרטן",
+      "link": "https://www.israelhayom.co.il/news/local/article/21533949",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T16:29:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21533949",
@@ -165,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T15:58:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
+      "title": "חי מהיורוליג: הפועל תל אביב - ריאל מדריד 43:63",
+      "summary": "מחזור 3: שחזור סדרת הפלייאוף מהעונה שעברה • זאק לידיי לוהט וקולע מכל מקום בדרך להפרש מבטיח ברבע הראשון, שרק הולך וגדל מול האין הגנה של הבלאנקוס • דימטיריס איטודיס בדרך לניצחון שני ברציפות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T15:54:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
@@ -26121,78 +26193,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-26T17:16:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21492913",
-      "title": "כמעט חודש אחרי ההצעה: אגם בוחבוט ובר ברימר חושפים הכל",
-      "summary": "הזמרת והשחקן משתפים את הרגעים האינטימיים מהפייס-טיים שאחרי הצעת הנישואין • הצרחות, הדמעות והתגובות של הסובבים",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21492913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T17:13:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21492906",
-      "title": "כוכבת הריאליטי ושחקן מכבי תל אביב עברו לגור ביחד: \"זה מפחיד\"",
-      "summary": "דנה בן ארי ועמית עבו מעלים הילוך בזוגיות: יוצאת \"אהבה חדשה\" עברה השבוע לדירה של כדורסלן הצהובים, ותיעדה את המעבר המרגש, הארגזים, הבית החדש וגם את הגעגועים לחיים שהשאירה מאחור: \"לסגור דלת אחת, כדי באמת להיכנס בלב שלם בדלת אחרת\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21492906",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T17:10:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1370965",
-      "title": "העבריין הבכיר ניצל בפעם שלישית מהרשעה ברצח: ייתכן שלא ישב עוד יום בכלא",
-      "summary": "הפרקליטות הגיעה להסדר טיעון עם מוטי חסין - גזר הדין יימסר בהמשך, וייתכן שהוא לא ירצה זמן נוסף בכלא. זו הפעם השלישית במשך השנים שמיוחס לו רצח והוא בסופו של דבר לא מורשע בכך",
-      "link": "https://www.maariv.co.il/news/law/article-1370965",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T17:08:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21492875",
-      "title": "עדי הימלבלוי בחופשה עם הגרוש אחרי הפרידה: ''צריך לבדוק דופק''",
-      "summary": "הפרידה מבן הזוג עוד טרייה, אבל היא כבר נהנית מהשמש ליד הבריכה במלון בחו\"ל עם הילדים, עם אמא שלה ועם אבי ילדיה • מסתבר שהוא כבר הספיק לקבל ממנה עקיצה משעשעת במיוחד, שחושפת בדיוק איך הוא מעביר את ימי החופשה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21492875",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T17:07:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370964",
-      "title": "שב\"כ לקח את ה\"ביביבוס\": נתניהו יוצא לסבב הופעות מפתיע | מתי טוכפלד",
-      "summary": "בליכוד מתכננים \"הפתעת אוקטובר\" שתכלול ביקורי פתע של נתניהו במעוזי המפלגה כדי להחזיר מצביעים הביתה; במקביל סמוטריץ' משיק מהלך שטח משלו בחג הסוכות תחת הכותרת \"בצלאל טרוול\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1370964",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T17:07:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370964",
-      "title": "השב\"כ גנז את ה\"ביביבוס\": נתניהו יוצא לסבב הופעות ביעד הפופולרי | מתי טוכפלד",
-      "summary": "בליכוד מתכננים \"הפתעת אוקטובר\" שתכלול ביקורי פתע של נתניהו במעוזי המפלגה כדי להחזיר מצביעים הביתה; במקביל סמוטריץ' משיק מהלך שטח משלו בחג הסוכות תחת הכותרת \"בצלאל טרוול\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1370964",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T17:07:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/article/21492810",
-      "title": "יצא 3 שנים עם אישה: 5 דברים שלא ידעתם על אסי עזר",
-      "summary": "האולטימטום מכתב הרכילות שהוביל ליציאה הדרמטית מהארון, השירות כחייל מצטיין במשטרה צבאית והתוכנית שבוטלה אחרי שני פרקים • מהניסיון \"לאלף את המוח\" בקשר ארוך עם בת זוג ועד לתרומת מלוא השכר מהאירוויזיון - ריכזנו חמש עובדות שלא הכרתם על מנחה הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/article/21492810",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T17:05:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/article/21492810",
-      "title": "היה בזוגיות של 3 שנים עם אישה: 5 עובדות שלא ידעתם על אסי עזר",
-      "summary": "האולטימטום מכתב הרכילות שהוביל ליציאה הדרמטית מהארון, השירות כחייל מצטיין במשטרה צבאית והתוכנית שבוטלה אחרי שני פרקים • מהניסיון \"לאלף את המוח\" בקשר ארוך עם בת זוג ועד לתרומת מלוא השכר מהאירוויזיון – ריכזנו חמש דברים שלא הכרתם על מנחה הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/article/21492810",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T17:05:12.000Z"
     }
   ]
 }
