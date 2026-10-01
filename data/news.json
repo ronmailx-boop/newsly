@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:16:05.492Z",
+  "updatedAt": "2026-10-01T18:31:08.760Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86141",
+      "title": "הטייס שניסה להשתלט על המטוס הועבר לאיחוד האמירויות",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86141",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T18:22:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21534666",
+      "title": "אקס ליגת העל קבע: הרמה שבה מכבי תל אביב וחיפה יכולות לשחק",
+      "summary": "רנאטו גויקוביץ' ששיחק במכבי פתח תקווה התבקש בראיון להשוות בין רמת ליגת העל לזו של הליגה הרוסית והעמיד מול הישראליות את זניט, צסק\"א מוסקבה • בנוסף פירגן לקהל בארץ: \"אוהדים ברמה הגבוהה ביותר, ממלאים את האצטדיונים\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21534666",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T18:13:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21534592",
+      "title": "\"השר מנצל את תפקידו\": בן גביר נדרש להסיר סרטון תעמולה",
+      "summary": "יו\"ר ועדת הבחירות קבע כי הסרטון שצולם בבית הסוהר, ובו נראו סוהרים לצד השר, הוא תעמולת בחירות שנעשתה תוך שימוש אסור בנכסי ציבור • בן גביר ועוצמה יהודית נדרשו להסירו לאלתר וחויבו בהוצאות של 20 אלף שקלים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21534592",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T18:09:23.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372724",
       "title": "קרב צעקות במועצת השלום: הקאן פידאן קטע את הנציג הישראלי: \"אתה תתן לי להשלים את דבריי",
@@ -471,6 +498,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T15:58:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
+      "title": "חי מהיורוליג: הפועל תל אביב - ריאל מדריד 92:99",
+      "summary": "מחזור 3: שחזור סדרת הפלייאוף מהעונה שעברה • אחרי מחצית ראשונה נהדרת, האדומים איבדו יתרון 20 תוך שמונה דקות והמשחק נפתח לחלוטין • למרות זאת, האדומים הידקו את ההגנה ופתחו מחדש יתרון משמעותי",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T15:54:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21533584",
@@ -26166,60 +26202,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-26T18:32:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21493337",
-      "title": "נוסע באוטו בדאחייה: חיזבאללה פרסם תיעוד של נסראללה לרגל יום השנה לחיסול",
-      "summary": "ערוץ \"אל-מנאר\" פרסם סרטון בו נראה נסראללה נוסע ברחובות ביירות • ברשת המזוהה עם ארגון הטרור טענו כי הפרסום נועד להפריך את הטענות בישראל לפיהן מנהיג חיזבאללה הסתתר בבונקר, אך נמנעו מלציין באיזו שנה צולם התיעוד • מחר יצוינו שנתיים לתקיפה ההיסטורית",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21493337",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21493152",
-      "title": "ה־BBC מסתבך שוב: 53 מחבלי חמאס הוגדרו כ\"עיתונאים שנהרגו\"",
-      "summary": "בדיקה העלתה כי 53 מהפלסטינים שה־BBC הגדיר כעיתונאים היו בעלי קשרים לארגוני טרור • חלקם השתתפו במתקפת 7 באוקטובר, אחרים תועדו במדי לחימה עם כלי נשק • הרשת הבריטית בתגובה: \"אנו בוחנים את השמות בעקבות עדכון הוועדה להגנת עיתונאים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21493152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:30:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21493404",
-      "title": "העקיצה של ליה נגה: \"מזל שלא הקשבת\"",
-      "summary": "כולם זוכרים איך הם שברו את חוקי הפורמט של תוכנית הריאליטי המוכרת • כעת, אחרי שנה של זוגיות יציבה ודירה משותפת, כוכבת הרשת משתפת הכל",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21493404",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:28:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tlzh8e",
-      "title": "קם בזעם וצועק \"מי זה?!\": כך נראה הרגע בו זרקו מלחייה על בנט בבני ברק",
-      "summary": "המועמד לראשות הממשלה נפתלי בנט פרסם הערב סרטון בו נראה הרגע בו הושלך לעברו חפץ כלשהוא במהלך ביקורו במסעדה בבני ברק | בנט נראה קם ממקומו בזעם וצועק \"מי זה\", ומבקש מהשוטרים לבצע מעצר (חדשות)",
-      "link": "https://www.kikar.co.il/news/tlzh8e",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-26T18:19:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1370983",
-      "title": "האו\"ם הרחיב את \"הרשימה השחורה\" של הארגונים בישראל - 61 שמות חדשים",
-      "summary": "משרד הנציב העליון של האו\"ם לזכויות האדם הוסיף 61 חברות ל\"רשימה השחורה\" של ארגונים הפועלים בהתנחלויות או מספקים להן שירותים. בין השמות הגדולים: חברות תקשורת, אנרגיה, מזון ותחבורה",
-      "link": "https://www.maariv.co.il/news/politics/article-1370983",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-26T18:18:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21493350",
-      "title": "הסיוע שדני אבדיה צריך: כוכב פורטלנד נראה \"בלתי ניתן לעצירה\"",
-      "summary": "דמיאן לילארד ממשיך לעבוד לאחר שחזר מפציעה, והסימנים מעודדים • טומאני קמארה שהתאמן איתו התרשם: \"מאוד קשה לשמור עליו מכל הבחינות\" • מייקה נורי טען כי הוא \"נראה פנומנלי\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21493350",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:17:09.000Z"
     }
   ]
 }
