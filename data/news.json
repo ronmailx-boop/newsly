@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:46:07.485Z",
+  "updatedAt": "2026-10-01T19:01:15.147Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372741",
+      "title": "אזרח איראני נעצר בחשד לניסיון לבצע את הפיגוע בבסיס בבריטניה",
+      "summary": "אזרח איראני בן 27 נעצר בחשד לניסיון לבצע פיגוע בבסיס חיל האוויר המלכותי פיירפורד, בעוד שאזרח בריטי בן 26 נחקר באזהרה - כך דווח ב\"גרדיאן\". זאת לאחר שהשגרירות האיראנית בבריטניה הכחישה מעורבות של המדינה",
+      "link": "https://www.maariv.co.il/news/world/article-1372741",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T18:55:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjiujbhcze",
+      "title": "ניסיון חטיפת נשק, יידוי אבנים ומטעני דמה: עונת המסיק בפתח, המתיחות ביו\"ש בשיא",
+      "summary": "ברחבי יהודה ושומרון נפצעו ישראלים ופלסטינים בפתח השיא של העונה החקלאית שמביאה עמה מדי שנה חיכוכים ומתיחות. ברקע: האתגר שמציבות יותר מ-100 חוות חקלאיות בשטח למערכת הביטחון",
+      "link": "https://www.ynet.co.il/news/article/bjiujbhcze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T18:45:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/tm8r5n",
       "title": "ישראל תשתתף בחקירה? הטייס שניסה להשתלט על המטוס הועבר לאמירויות",
       "summary": "הקברניט וטייס המשנה מטיסת פליי דובאי הועברו לאמירויות בליווי צוות ביטחוני אמירותי | ישראל צפויה להיות מעורבת גם היא בחקירה, במסגרת שיתוף הפעולה הביטחוני והמודיעיני בין ירושלים לאבו דאבי (בעולם)",
@@ -39,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T18:35:08.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjrab7ncfl",
+      "title": "הטייס-מחבל הועבר לאמירויות, בכיר ישראלי שלל את דברי טראמפ: \"הוא כנראה פעל לבד\"",
+      "summary": "הטייס העומאני שניסה לרסק את המטוס הועבר מסעודיה, שבהודעתה לא הוזכרו המילים ישראל או טרור. בישראל מקווים ששיתוף הפעולה עם דובאי יסייע בחקירה. בניגוד לדברי טראמפ, בכיר ישראלי אמר כי כרגע נשלל קשר לאיראן",
+      "link": "https://www.ynet.co.il/news/article/bjrab7ncfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T18:25:54.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjrab7ncfl",
@@ -1686,6 +1713,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T12:21:06.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tm8a21",
+      "title": "זיכרונות אישיים: כשהרבי מליובאוויטש בכה בקול באמצע שמחת תורה",
+      "summary": "בליל שמחת תורה תשמ״ז זכה המשפיע הרב אשר פרקש להשתתף בהתוועדות של הרבי מליובאוויטש - התוועדות שנחקקה בו עד היום, ובה דיבר על הפסוק האחרון בתורה כשפורץ בבכי ומדבר בהתרגשות עצומה במשך זמן ממושך | זיכרונות אישיים (חסידות)",
+      "link": "https://www.kikar.co.il/haredim-news/tm8a21",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T12:20:43.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21530660",
@@ -26211,51 +26247,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-26T19:03:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1jrhohqge",
-      "title": "הריקבון שפושה בממלכת נתניהו",
-      "summary": "יש כבר מסה קריטית של עובדות ודיווחים שמבהירים את הסיבה לכך שנתניהו מתנגד כל כך להקמת ועדת חקירה ממלכתית, לא מוטה. נתניהו מ-פ-ח-ד",
-      "link": "https://www.ynet.co.il/news/article/h1jrhohqge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-26T18:58:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21493513",
-      "title": "\"מדינת ישראל הופכת את הנגב דה־פקטו לרצועת עזה\"",
-      "summary": "שני חשודים מביר הדאג' פרצו לפנות בוקר לחווה הסמוכה לקיבוץ רביבים, ניסו לגנוב מצברים ועל פי החשד ניסו לדרוס את בעלי המקום • בעלי החווה ביצעו ירי ואחד החשודים נפצע • מחשש להגעת תושבים מביר הדאג' והסלמה, הוקפצה כיתת הכוננות למקום • במקביל: ירי כבד ברהט ומעצר חשודים • תושבי האזור זועמים: \"חשים אובדן משילות\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21493513",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:58:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21493599",
-      "title": "חודש אחרי החתונה עם עומר אדם: הצעד המפתיע של סשה ישראלוביץ’",
-      "summary": "חודש בלבד אחרי האירוע הנוצץ של השנה, הכלה הטרייה קיבלה החלטה מפתיעה במיוחד • בעקבות הצעד שלה, גם העמוד של הזמר המפורסם נראה לפתע אחרת לגמרי",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21493599",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:56:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/studio-kikar/rabbi-panger-hidden-tests-dating-shidduchim",
-      "title": "הרב פנגר חושף: ה\"מבחנים\" הסמויים שעושים המשודכים - בשיא הפגישה",
-      "summary": "הרב יונתן פנגר מתארח בפודקאסט 'בודד ליין' | על בחור שנפגש עם כמאה בחורות ומבחנים שבחורות עורכות בלי שהבחור יודע | השיחה שכל רווק צריך לשמוע (אולפן כיכר)",
-      "link": "https://www.kikar.co.il/studio-kikar/rabbi-panger-hidden-tests-dating-shidduchim",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-26T18:52:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21493408",
-      "title": "איבדו שליטה: 10 יעדים שהפכו למתויירים מדי - ונהרסו",
-      "summary": "מאבקי דיור, מים שהושחרו מפסולת סירות והגבלות כניסה חסרות תקדים: תיירות היתר גובה מחיר הרסני מהמקומות היפים בעולם • סקירה מיוחדת של עשרת המקומות שאיבדו את הקסם המקורי",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21493408",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T18:51:45.000Z"
     }
   ]
 }
