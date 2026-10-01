@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:01:07.274Z",
+  "updatedAt": "2026-10-01T12:16:05.347Z",
   "sources": [
     {
       "key": "ynet",
@@ -59,6 +59,69 @@
       "pubDate": "2026-10-01T12:10:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/by9motscgx",
+      "title": "כך פספסנו את הזדמנות ההסברה בטיסת פליי דובאי",
+      "summary": "מחבל מנסה לרסק 180 בני אדם אל הקרקע, ישראלים נאלצים לפרוץ לתא הטייס בצרחות \"שמע ישראל\" והתגובה האוטומטית שלנו היא להקטין, לנרמל ולשדר ש\"הכל בסדר\"",
+      "link": "https://www.ynet.co.il/news/article/by9motscgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T12:06:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/supreme-court-abu-shehadeh-withdrawal-proposal",
+      "title": "דרמה בעליון: עמית ממליץ לאבו שחאדה לפרוש - \"יש רוב לפסילה\"",
+      "summary": "נשיא בית המשפט העליון הודיע כי קיים רוב לפסילת אבו שחאדה • השופטים הציעו לו לפרוש מההתמודדות כדי למנוע פסק דין | עד הבוקר להגיב (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/supreme-court-abu-shehadeh-withdrawal-proposal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T12:06:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372612",
+      "title": "עמידרור נחשף - אך סולומון תוקף את הרצי הלוי: \"שיטת שמור עליי ואקדם אותך\"",
+      "summary": "לאחר חשיפת שמו של קמ\"ן אוגדת עזה ב-7 באוקטובר, תא\"ל במיל' אורן סולומון טוען כי נעשה ניסיון להטיל את עיקר האחריות על האוגדה ותוקף את הרמטכ\"ל לשעבר: \"מפקדים שיקרו והתקדמו\"",
+      "link": "https://www.maariv.co.il/news/military/article-1372612",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T12:04:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86111",
+      "title": "השופט עמית ממליץ לשחאדה: \"תפרוש מהתמודדות בבחירות, יש רוב לפסילה\"",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86111",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T12:02:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tm8961",
+      "title": "אוריך, ינון מגל, שיקלי שרון גל ונוספים - בהתוועדות מחשמלת בסוכת השליח",
+      "summary": "התוועדות חסידית מרוממת בסוכתו של הרב אור זיו, משליחי חב\"ד, שנמשכה עד השעות הקטנות של הלילה • בין המשתתפים: יונתן אוריך, ינון מגל, שרון גל, רואי כחלון, עמיחי שיקלי, ליאור להב ועוד רבים וטובים • האווירה המיוחדת והשמחה נמשכו עד קרוב לשלוש לפנות בוקר (אנשים)",
+      "link": "https://www.kikar.co.il/haredim-news/tm8961",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-01T12:01:37.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1ckqpiqzl",
+      "title": "כשמגיעים למדינות ערב החוקים חלים על כולם",
+      "summary": "קל לשכוח כשמבלים בפארקי שעשועים ויושבים במסעדות מפוארות איפה באמת אנחנו יושבים. בדרך כלל, במרחק קצר מאותם המקומות המפוארים, לא רק שתנאי התושבים אחרים לגמרי, גם המשטר מורגש הרבה יותר",
+      "link": "https://www.ynet.co.il/news/article/h1ckqpiqzl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T11:58:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21530949",
+      "title": "חייה הסוערים של הכוכבת המצרייה - שנמחקה אחרי ש\"סייעה לישראל\"",
+      "summary": "לילה מוראד היתה הדיווה של מצרים, עד שנקרעה בין היהדות לבין האהבה לגבר קנאי - והחליטה להתאסלם • השמועה שהאשימה אותה בבגידה רדפה אותה, עד שפרשה בשיא תהילתה • עכשיו השחקנית והזמרת יפה תוסיה כהן מחזירה אותה לחיים בהצגה חדשה",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21530949",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:58:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/dayan-haamet/tm88nl",
       "title": "ההלוויה הערב; ארונה של הרבנית הצדקנית מביאלה ע\"ה הובא ארצה",
       "summary": "המוני חסידי ביאלה וקרלין סטולין צפויים לחלוק הערב כבוד אחרון לרבנית הצדקנית והדגולה מרת רבקה שטיינווארצל - רבינוביץ ע\"ה, אלמנת הגה\"צ ראש ישיבת באבוב זצ\"ל ובזיו\"ש של האדמו\"ר בעל ה'מבשר טוב' מביאלה זצ\"ל, וחמותו של יבלחט\"א האדמו\"ר מקארלין סטולין | ארונה הובא ארצה, והערב תצא ההלוויה להר הזיתים | כל הפרטים (דיין האמת)",
@@ -66,6 +129,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T11:57:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21525110",
+      "title": "כמה קפה באמת כדאי לשתות ביום - ומתי הגיע הזמן לעצור?",
+      "summary": "הוא מעורר, משפיע על המוח ועל מערכת העיכול ויש לו עוד יתרונות בריאותיים • לכבוד יום הקפה הבינלאומי שחל היום, הנטורופתית ד\"ר אורנה אבידן מסבירה כמה קפאין נחשב בטוח, האם באמת צריך לחכות עם הכוס הראשונה ולמה דווקא שעת הקפה האחרון חשובה במיוחד?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21525110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:55:31.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1sgtps9fe",
+      "title": "כשהבית כבר לא מרגיש בטוח: 5 שנים עם יהודי קנדה",
+      "summary": "בשלוש השנים מאז שבעה באוקטובר עמדה יהדות קנדה בחזית התמיכה בישראל. עשרות משלחות הגיעו לארץ, והתרומות ליישובי הדרום והצפון האמירו מאוד. אבל במקביל, יהודי קנדה מצאו את עצמם במצב לא נוח. ממשלת ישראל הציגה לא פעם ביקורת על מדיניותה כאנטישמיות. יהודי קנדה מצאו את עצמם, בעל כורחם, כמעין נציגים של ממשלת נתניהו–בן גביר, ולא לכך הם כיוונו.",
+      "link": "https://www.ynet.co.il/news/article/r1sgtps9fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T11:53:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21531198",
+      "title": "יסגור עסקה עם איזנקוט? התנאי המסתמן של גנץ לפרישה מהבחירות",
+      "summary": "לאחר שהשניים העבירו מסרים דרך התקשורת, הם צפויים להיפגש הערב • יו\"ר כחול לבן ככל הנראה ידרוש תמיכה במרוץ לנשיאות • עם זאת, יש מכשול בדרך להשלמת המהלך",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21531198",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:53:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21531349",
+      "title": "אחרי פחות משנה: אסף גרניט נפרד",
+      "summary": "אחרי תקופה משותפת שהפכה לחלק בולט מהעשייה שלו מחוץ למטבח, אסף גרניט מסיים פרק משמעותי מחייו וממשיך הלאה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21531349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:52:53.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hy9wdps9fl",
@@ -86,6 +185,42 @@
       "pubDate": "2026-10-01T11:47:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21531225",
+      "title": "קרן פלס נסערת: \"הכי מרגש ועמוק שיכולתי לאחל\"",
+      "summary": "אחרי ימי ההופעות והסערות במצדה, הזמרת הגיעה לראשונה לאולפני \"ישראל בידור\" • היוצרת העלתה תיעוד חריג ורמזה על מפגש אינטימי יוצא דופן עם דמות מוערכת שייחשף כולו בקרוב",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21531225",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:45:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21530570",
+      "title": "לא רק לבגדים: 5 דברים שכדאי לנקות עם מרכך כביסה",
+      "summary": "שכחו מתרסיסים יקרים ומאבק שחוזר שעה אחרי הניקוי • מסתבר שהפתרון המפתיע לדחיית לכלוך, להסרת אבנית ולהברקת נירוסטה כבר מחכה לכם בחדר הכביסה",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21530570",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:45:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21531292",
+      "title": "אמירייטס משנה כיוון: הנוסעים יוכלו לנחות בדובאי ולהמשיך בחילוץ לישראל",
+      "summary": "אחרי השעיית הטיסות לתל אביב, נמצא פתרון נוסף לישראלים שעושים את דרכם הביתה • נוסעי אמירייטס שיסכימו לוותר על מקטע ההמשך מדובאי לישראל יוכלו לנחות באמירות ולקבל החזר על המקטע שבוטל • משם יוכלו לרכוש כרטיס לטיסות החילוץ של החברות הישראליות, שצפויות להתחיל מחר • במקביל, הפעילות מאבו דאבי תתוגבר לשש טיסות ביום במטוסים רחבי גוף",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21531292",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:44:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21527810",
+      "title": "יוצר השיר \"תמיד אוהב אותי\": \"התביישו בו, הציעו שאוותר עליו\"",
+      "summary": "יאיר אליצור למד בישיבה, גדל על אמינם והוביל ליין היפ הופ, הכי רחוק מ\"השם יתברך תמיד אוהב אותי\" • הוא לא ידע אם השיר ראוי, שורת זמרים ויתרה עליו, והוא כמעט גנז אותו • איך זה הפך להמנון השמחה של המדינה? הרב זיהה ראשון",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21527810",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:44:16.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1372608",
       "title": "פעל לבד או שמישהו שלח אותו? התעלומה מאחורי טייס FlyDubai",
       "summary": "יממה לאחר הדרמה בטיסת FlyDubai, החקירה מתרחבת בין סעודיה, איחוד האמירויות וישראל: טייס המשנה עדיין נחקר, החשד לתכנון מוקדם נבדק, ובמערכת הביטחון מנסים להבין אם פעל לבדו ומה אפשר לו להגיע לתא הטייס",
@@ -93,6 +228,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T11:43:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21531311",
+      "title": "טראמפ נמנע מתמיכה בנתניהו: \"אייזנקוט? לא שמעתי עליו דברים רעים\"",
+      "summary": "הנשיא האמריקני ל\"טיים\": אני חושב שאם הוא היה יודע, הוא היה עושה משהו\" • \"אם לא הייתי נשיא, סעודיה לא הייתה כאן עכשיו, גם ישראל לא, הן היו נמחקות מעל פני כדור הארץ\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21531311",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:43:27.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tm86v0",
@@ -104,6 +248,33 @@
       "pubDate": "2026-10-01T11:42:14.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21531110",
+      "title": "אחרי האירוע בטיסת פליי דובאי: הסיפור בדרך למסך",
+      "summary": "פחות מיממה אחרי האירוע החריג בטיסת פליי דובאי, כבר נרשמת התפתחות נוספת סביב הסיפור. ל-ForReal נודע מגורם המעורב בפרטים כי החלו לעבוד על פרויקט תיעודי שיחזור למה שקרה ולנוסעים שהיו במרכזו",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21531110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:41:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21531041",
+      "title": "אות כבוד מיוחד יוענק לטייס ההודי; \"יש בו הרבה אומץ\"",
+      "summary": "סמית מאצ'ר שנדקר בידי טייס המשנה במהלך טיסת פליי דובאי יזכה באותר כבוד מיוחד • מודי ו-SpiceJet שיבחו את אומץ ליבו • מאצ'ר, שצבר כ־9,750 שעות טיסה, סיפר בעבר על אירוע נוסף שעבר: \"להירגע היה הדבר הטוב ביותר\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21531041",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:39:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjzl86ocfx",
+      "title": "טראמפ: נתניהו הוזהר על ידי מצרים והאמירויות? \"לא שמעתי על זה, לא מאמין\"",
+      "summary": "נשיא ארה\"ב התייחס לראשונה לדיווחים על התרעות שקיבל רה\"מ לפני הטבח וטען: \"אני חושב שאם הוא היה יודע, הוא היה עושה משהו\". פחות מחודש לבחירות, סירב להעניק לנתניהו תמיכה פומבית בריאיון למגזין \"טיים\": \"לא מתערב בפוליטיקה. שיתוף פעולה עם איזנקוט? לא שמעתי עליו דברים רעים\"",
+      "link": "https://www.ynet.co.il/news/article/rjzl86ocfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T11:38:18.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rjzl86ocfx",
       "title": "טראמפ: לא מאמין לדיווחים שנתניהו הוזהר על ידי מצרים והאמירויות לפני 7/10",
       "summary": "",
@@ -111,6 +282,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-01T11:38:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21530815",
+      "title": "הסרט החדש של טום קרוז הוא כישלון מפואר שבכל זאת לא תרצו לפספס",
+      "summary": "ב\"דיגר\", החיבור בין טום קרוז לבמאי זוכה האוסקר אלחנדרו גונזלס איניאריטו הוליד סאטירה יומרנית וצעקנית • אבל למרות הכל, ישי קיצ'לס לא יתנגד לצפות שוב",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21530815",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T11:34:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1372601",
@@ -201,6 +381,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T11:02:03.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjhho2s5ge",
+      "title": "יחכו לטיסות החילוץ: נוסעים שיעדם הסופי הוא תל אביב לא יורשו לנחות בדובאי",
+      "summary": "אחרי טיסת האימים של פליי דובאי, אמירייטס עדכנה כי נוסעים לא יוכלו לטוס עם החברה לדובאי בדרך לישראל - זאת עד שיתחילו טיסות החילוץ מהמדינה. ההחלטה היא לתת זיכוי מלא לכל מי שסגר טיסה עם אחת משתי החברות. החל ממחר: חברות ישראליות יפעילו טיסות חילוץ מאיחוד האמירויות",
+      "link": "https://www.ynet.co.il/news/article/sjhho2s5ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-01T11:01:22.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjhho2s5ge",
@@ -309,6 +498,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T10:35:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21530699",
+      "title": "אמירייטס תאפשר לישראלים מהמזרח הרחוק לנחות באמירויות - ומשם לעלות על חילוץ ישראלי",
+      "summary": "אמירייטס תאפשר לנוסעים ביעדים מרוחקים לנחות באמירויות ומשם לעלות על טיסות של חברות ישראליות שממשיכות לנתב\"ג • אלה האפשרויות העומדות בפני הישראלים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21530699",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T10:35:42.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21530699",
@@ -474,6 +672,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21530298",
+      "title": "אקס הפועל תל אביב הגיב: הכדורגלן הישראלי שניצל בטיסה הודה",
+      "summary": "אורן עידו העלה לחשבון האינסטגרם שלו תמונה לצד הכיתוב: \"תודה לבורא עולם על הנסים ועל הנפלאות שעשה עמנו\" • אקס הפועל תל אביב הגיב",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21530298",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T10:11:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21530298",
       "title": "אחרי שהיה על טיסת פליי דובאי וניצל: הכדורגלן הישראלי מודה",
       "summary": "אורן עידו העלה לחשבון האינסטגרם שלו תמונה לצד הכיתוב: \"תודה לבורא עולם על הנסים ועל הנפלאות שעשה עמנו\" • אקס הפועל תל אביב הגיב",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21530298",
@@ -537,6 +744,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21530264",
+      "title": "הדרך לתל אביב מתקצרת: הנתיב החדש והשאטלים החינמיים נפתחים",
+      "summary": "מתחם התחבורה במערב ראשון לציון ייפתח ב-4 באוקטובר ויכלול כ-3,500 מקומות חניה • ארבעה קווי שאטל חשמליים יחברו אותו למוקדי התעסוקה והתחבורה בתל אביב וברמת גן • \"אבן דרך נוספת בפרויקט תחבורתי מורכב ומשמעותי\"",
+      "link": "https://www.israelhayom.co.il/news/transportation/article/21530264",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T10:03:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21530264",
       "title": "המאבק בפקקי התנועה: הנתיבים המהירים מגיעים לראשון לציון",
       "summary": "מתחם התחבורה במערב ראשון לציון ייפתח ב-4 באוקטובר ויכלול כ-3,500 מקומות חניה • ארבעה קווי שאטל חשמליים יחברו אותו למוקדי התעסוקה והתחבורה בתל אביב וברמת גן • \"אבן דרך נוספת בפרויקט תחבורתי מורכב ומשמעותי\"",
       "link": "https://www.israelhayom.co.il/news/transportation/article/21530264",
@@ -579,6 +795,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-01T09:51:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372556",
+      "title": "\"מידת הנזק לישראל גדולה מאוד\": הקלה בצה\"ל אחרי חשיפת זהותו של קמ\"ן אוגדת עזה",
+      "summary": "גורמים בצה\"ל בהווה ובעבר מרגישים הקלה אחרי חשיפת זהותו של קמ\"ן אוגדת עזה ב-7 באוקטובר. קצין בכיר מאוד לשעבר אמר: \"חרפה לצבא. אם על זה הוא לא היה מוכן לקבל אחריות - על מה כן?\"",
+      "link": "https://www.maariv.co.il/news/military/article-1372556",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T09:50:25.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1372556",
@@ -1533,6 +1758,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T07:27:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372478",
+      "title": "אבו שחאדה הולך הביתה: הדיל הדרמטי שקיבל משופטי בג\"ץ",
+      "summary": "הדיון בבג\"ץ בפסילת יו\"ר בל\"ד סאמי אבו שחאדה הסתיים עם הצעה דרמטית מצד השופטים. במהלך הדיון - הטחות קשות על המאמר שפרסם ב-8 באוקטובר, ובו \"שיבח\" את חמאס",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1372478",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-01T07:26:25.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372478",
@@ -25536,24 +25770,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-26T12:16:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21490853",
-      "title": "העפיל מהמקום הראשון: ארטיום דולגופיאט עשה צעד גדול למדליה",
-      "summary": "מתעמל הקרקע הרשים בגביע האתגר בפריז ויתחרה בגמר לאחר שסיים עם ציון של 14.066 נקודות - הטוב ביותר בחצי הגמר • עדנאן מילאד זכה במדליית כסף בסבב העולמי בטאקוונדו",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21490853",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-26T12:15:40.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-8f1e997c78dd0a1027.htm",
-      "title": "שרפה פרצה ביער חרובית: \"התפשטה לצמרות העצים\"",
-      "summary": "לוחמי האש פועלים לבלימת התפשטות הבערה, ומבהירים כי בשלב זה אין סכנה ליישובים • שישה מטוסי כיבוי הוזנקו לאוויר • המשטרה קוראת לציבור להימנע מלהגיע לאזור",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-8f1e997c78dd0a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-09-26T12:15:00.000Z"
     }
   ]
 }
