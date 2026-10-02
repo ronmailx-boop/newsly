@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:45:45.044Z",
+  "updatedAt": "2026-10-02T19:01:02.004Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1azbdpqze",
+      "title": "הוסרו המכשולים: טיסה ראשונה להשבת ישראלים המריאה מדובאי לנתב\"ג",
+      "summary": "טיסת ארקיע יצאה מנמל התעופה בדובאי, אחרי שבאמירויות דרשו מוקדם יותר לצרף לכל מטוס נוסעים גם מטוס מטען שייקח את מזוודות הנוסעים ארצה. בהמשך תצא טיסה נוספת של ישראייר",
+      "link": "https://www.ynet.co.il/news/article/b1azbdpqze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T18:45:50.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21539653",
       "title": "בעזרת בדיקת DNA: גילה שאביו הביולוגי הוא סולן הלהקה המפורסמת",
@@ -24159,69 +24168,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-27T19:01:51.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sk6kbjwcfg",
-      "title": "אחרי סערת ההתרעה מהאמירויות: נתניהו ביקר שם בחשאי - ונפגש עם בן זאיד",
-      "summary": "רה\"מ המריא הבוקר במטוס פרטי לאבו דאבי, בצל הדיווחים על ההתרעה שקיבל ממוחמד בן זאיד לפני 7 באוקטובר. הוא נפגש שם עם אותו MBZ - ומאז הספיק לחזור לישראל. ניתן להניח שהנושא עלה בשיחה בין השניים, ברקע: ההתקרבות בין המדינות במקביל למלחמה באיראן",
-      "link": "https://www.ynet.co.il/news/article/sk6kbjwcfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T18:59:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21501867",
-      "title": "לבשה מכנסיים קצרים בחג - הבעל כעס, נגח בפניה ושבר את אפה",
-      "summary": "לפי המשטרה, תושב גני תקווה בן 54 תקף את אשתו משום שלבשה מכנסיים קצרים \"בניגוד לתפיסת עולמו\" • האישה פנתה לטיפול רפואי רק בצאת החג, ובית החולים הזעיק את המשטרה • מעצרו הוארך ביממה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21501867",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:57:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21501907",
-      "title": "דיווח: נתניהו טס היום לאמירויות במטוס פרטי ונפגש עם בן זאיד",
-      "summary": "רה\"מ המריא בשעות הבוקר לאמירויות - ונפגש עם הנשיא, כך דיווח הכתב המדיני של חדשות 12 • הפגישה נערכה באבו דאבי, נתניהו שהה שם לאורך היום • לשכת רה\"מ מסרבת לספק פרטים על הפגישה",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21501907",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:55:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-secret-uae-visit-bin-zayed",
-      "title": "הפגישה שלא דווחה: נתניהו בילה את היום באיחוד האמירויות - ושב לארץ",
-      "summary": "ראש הממשלה המריא בשעות הבוקר למטוס פרטי לאבו דאבי, כך לפי דיווח בחדשות 12 | לפי הדיווח, נתניהו נפגש עם מוחמד בן זאיד ושהה לאורך היום באמירויות | לשכת רה\"מ מסרבת לספק פרטים (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-secret-uae-visit-bin-zayed",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T18:54:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21501836",
-      "title": "חלקי במשפט נתניהו: העובדות | תגובה לאראל סג\"ל",
-      "summary": "במאמר שפורסם ב-16.9 ב\"ישראל השבוע\" טען סג\"ל כי אני שונא את נתניהו, אלא שדעותיי הפוליטיות מעולם לא השפיעו על עבודתי המקצועית • הטענה המרכזית היא שנפגשתי עם עיתונאי ללא אישור היועץ המשפטי כנדרש - פגישה שנערכה בשל אחריותי כראש יחידה בפועל לבירור המידע • הליך איסוף מידע ובירור תלונה הוא חובתה הבסיסית של המשטרה • כפי שהסברתי בבית המשפט, עשיתי את עבודתי בדיוק לפי החוק והנהלים",
-      "link": "https://www.israelhayom.co.il/opinions/article/21501836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:54:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21501865",
-      "title": "נעצר החשוד בתקיפת וויליאם בן ה-9 בערב יום כיפור",
-      "summary": "תושב גני מודיעין בן ה-22 אותר בצפון ונעצר, לאחר שעל פי החשד רסס ילד בגז פלפל במהלך יום כיפור • אחרי הגשת התלונה התיק נסגר - אך נפתח מחדש בעקבות פרסום על המקרה • החשוד הועבר לחקירה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21501865",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:54:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371330",
-      "title": "דרמה באירופה: הנשיא הפרו-ישראלי פורש רגע לפני הבחירות",
-      "summary": "אלכסנדר ווצ'יץ' הודיע על התפטרותו שבעה חודשים לפני תום כהונתו, פחות מחודש לפני הבחירות לפרלמנט. המהלך עשוי לסלול את דרכו לתפקיד ראש הממשלה, בעוד סרביה נערכת גם לבחירות מוקדמות לנשיאות",
-      "link": "https://www.maariv.co.il/news/world/article-1371330",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-27T18:50:27.000Z"
     }
   ]
 }
