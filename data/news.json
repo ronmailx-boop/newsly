@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T07:15:40.808Z",
+  "updatedAt": "2026-10-02T07:27:22.962Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1372867",
+      "title": "מודי בשיחה עם הטייס שנפצע בטיסה לתל אביב: \"האומץ שלך מנע טרגדיה\"",
+      "summary": "ראש ממשלת הודו שוחח עם הטייס שנפצע קשה במהלך ניסיון ההשתלטות על טיסת פליי דובאי לתל אביב, שיבח את אומץ לבו ושמע ממנו מה העניק לו את הכוח לפעול",
+      "link": "https://www.maariv.co.il/news/world/article-1372867",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T07:24:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372859",
+      "title": "משאירים את הרכב ונוסעים בחינם: המתחם החדש בדרך לתל אביב",
+      "summary": "מתחם התחבורה החדש בראשון לציון ייפתח ביום ראשון עם 3,500 חניות וארבעה קווי שאטל חינמיים לתל אביב. בשעות השיא ייצאו השאטלים מדי חמש דקות",
+      "link": "https://www.maariv.co.il/news/israel/article-1372859",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T07:21:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1372862",
+      "title": "קשר ברשת, משימות ותשלום: הישראלי שנחשד בגיוס בידי איראן",
+      "summary": "מחמד פהמי מחמד חלף, בן 25 מבאקה אל-גרבייה, נעצר בחשד שיצר קשר עם גורם המזוהה עם המודיעין האיראני וביצע עבורו משימות תמורת כסף. כתב אישום יוגש היום",
+      "link": "https://www.maariv.co.il/news/military/article-1372862",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T07:19:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21536362",
+      "title": "משימות תמורת כסף: בן 25 חשוד שפעל עבור איראן",
+      "summary": "מחמד פהמי מחמד חלף מבאקה אל גרבייה נעצר בחקירה משותפת של שב\"כ והמשטרה • לפי ממצאי החקירה, עמד בקשר ברשת עם גורם עוין • היום צפוי להיות מוגש נגדו כתב אישום בגין מגע עם סוכן זר",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21536362",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T07:14:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21536521",
+      "title": "הטייס הגיבור סיפר לראש ממשלת הודו: \"נלחמתי על חיי - מרגיש גאווה עצומה\"",
+      "summary": "סמית מצ'אר, שנפצע באורח קשה במהלך עימות אלים מול טייס המשנה שניסה לרסק את המטוס, שוחח עם נרנדרה מודי • \"ידעתי שנדרשת רק עוד דחיפה אחת אחרונה כדי לפתוח את הדלת. למרות הפציעות פתחתי אותה, וכל שאר אנשי הצוות נכנסו ועשו את חלקם. ידעתי שאסור לי לתת לנוסעים למות\", סיפר הטייס",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21536521",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T07:08:31.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/police/baka-resident-arrested-iran-connection-security-mi",
       "title": "נעצר בחשד לקשר עם איראן: ערבי ישראלי ביצע משימות ביטחוניות",
       "summary": "מחמד חלף, בן 25, עצר בשבועות האחרונים בחשד ליצירת קשר עם גורמים איראניים • ביצע משימות תמורת תשלום כספי | כתב אישום יוגש היום (משטרה)",
@@ -39,6 +84,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-02T07:07:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21536511",
+      "title": "חילוץ מדובאי: ארקיע קיבלה אישור להפעלת טיסות, ישראייר נערכת",
+      "summary": "הסדרה הדרגתית של משבר התעופה באמירויות • ארקיע וישראייר מתקדמות בדרך להשבת הישראלים • אחרי ביטולי הענק של אל על ואי הוודאות במלונות: מתי ייפתחו כל המושבים למכירה?",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21536511",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T07:04:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21536367",
+      "title": "בגלל פוסטים מהתיכון: פורטלנד פיטרה עובד - יממה אחרי שהגיע",
+      "summary": "הטרייל בלייזרס ביטלו את מינויו של בריידן בל לשדר הקבוצה, אחרי שקיבלו תלונות על אמירות בעלי אופי גזעני שפרסם בגיל 15 • בין היתר הוא כתב \"אסייתים מעצבנים אותי\", והשתמש בביטויים מבזים כלפי נשים: \"מפר את ערכי המועדון\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21536367",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T07:00:31.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1372856",
@@ -123,6 +186,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1372851",
+      "title": "מטוס קל התרסק בוואדי ערה: אדם אחד נהרג, אחר נפצע קשה",
+      "summary": "מטוס קל שהיה בטיסת הדרכה התרסק סמוך לכפר קרע ועלה באש. אחד מאנשי הצוות נהרג, ואיש צוות נוסף, בן 34, נפצע קשה ופונה לבית החולים רמב\"ם כשהוא מורדם ומונשם",
+      "link": "https://www.maariv.co.il/news/israel/article-1372851",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T06:39:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372851",
       "title": "מסוק ריסוס התרסק סמוך לכפר קרע - פצוע בינוני ולכוד בזירה",
       "summary": "מסוק ריסוס התרסק על צלע הר סמוך לכפר קרע ועלה באש. אדם אחד חולץ במצב בינוני, קיים חשש ללכוד נוסף. שריפת חורש שהתפתחה במקום מתקדמת לכיוון הבתים",
       "link": "https://www.maariv.co.il/news/israel/article-1372851",
@@ -168,6 +240,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21536354",
+      "title": "הרוג ופצוע קשה בהתרסקות מטוס ריסוס בוואדי ערה",
+      "summary": "כלי הטיס התרסק באזור פתוח ולאחר מכן עלה באש • לוחמי אש וצוותי רפואה חילצו מתוכו אדם ללא רוח חיים • בן 34 אותר במצב קשה ופונה לבית החולים כשהוא מורדם ומונשם",
+      "link": "https://www.israelhayom.co.il/news/local/article/21536354",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T06:35:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21536354",
       "title": "הרוג ופצוע בינוני בהתרסקות מטוס ריסוס בוואדי ערה",
       "summary": "כלי הטיס התרסק באזור פתוח ולאחר מכן עלה באש • לוחמי אש וצוותי רפואה חילצו מתוכו אדם ללא רוח חיים • בן 34 אותר במצב בינוני ופינו אותו לבית החולים",
       "link": "https://www.israelhayom.co.il/news/local/article/21536354",
@@ -201,6 +282,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-02T06:30:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1l3a6h5fg",
+      "title": "הרוג ופצוע קשה בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
+      "summary": "מהמטוס שהתרסק ליד כפר קרע חולץ פצוע קשה שפונה לרמב\"ם. לוחמי האש נאבקו למנוע התפשטות של שריפה לבתים",
+      "link": "https://www.ynet.co.il/news/article/h1l3a6h5fg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T06:30:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1l3a6h5fg",
@@ -26004,105 +26094,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-27T07:28:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/defense-minister-katz-general-closure-judea-samari",
-      "title": "בהמלצת צה\"ל: שר הביטחון הורה על הטלת סגר כללי ביהודה ושומרון",
-      "summary": "שר הביטחון ישראל כ\"ץ הורה על הטלת סגר כללי ביהודה ושומרון החל מהיום ועד אחרי חג הסוכות • כניסת פועלים פלסטינים ליישובים תיחסם במהלך החג | צה\"ל מתגבר בכוחות ומעלה את הכוננות בכל הגזרות (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/defense-minister-katz-general-closure-judea-samari",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T07:24:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21495481",
-      "title": "נמלטו מהשוטרים, ובכיסם נמצא אקדח טעון: החשד - השניים היו בדרך לבצע ירי",
-      "summary": "שני חשודים בני 19 ו־36 ניסו להימלט מהמשטרה כאשר הם רכובים יחד על קורקינט חשמלי ברחובות תל אביב • בתום המרדף נעצרו השניים, וברשות אחד מהם נמצא אקדח טעון בתחמושת • במשטרה בודקים את החשד אם היו בדרכם לבצע אירוע ירי",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21495481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:23:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tm0dje",
-      "title": "היועמ\"שית עיכבה את הבנייה באזור האסטרטגי ליד ירושלים",
-      "summary": "הייעוץ המשפטי לממשלה הורה לדחות בחודש את המועד האחרון להגשת ההצעות במכרז לבניית 1,234 יחידות דיור במתחם E1, כך שהמשך ההליך יידחה לאחר הבחירות | בעיריית מעלה אדומים הודיעו כי יעתרו נגד ההחלטה (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tm0dje",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T07:22:44.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3869892",
-      "title": "מחממות ועד הקפות: 5 עצירות שוות לחול המועד",
-      "summary": "בחול המועד יש לישראלים מסורת כמעט עתיקה: להיכנס לרכב כדי \"לצאת קצת לטבע\", ואז לבלות שעה וחצי עם עוד כמה אלפי אנשים שגם הם חשבו בדיוק אותו דבר. אבל דווקא בעוטף עזה תמצאו כמה אטרקציות נהדרות ויחסית ריקות ממטיילים. אי אפשר באמת לטייל באזור הזה היום כאילו שום דבר לא קרה בו, אבל גם לא כל ביקור חייב להפוך למסע זיכרון. לצד המקומות שכבר הפכו לחלק מהסיפור הלאומי, העוטף הוא גם אזור עם חקלאות, טבע, יוזמות מקומיות, אוכל ואנשים שמנסים להמשיך ולבנות כאן שגרה. הנה חמישה מקומות שכדאי להכניס לווייז שלכם בסוכות. לאן בחוה\"מ? סוכות 2026: מדריך לפעילויות לילדים, אירועים ואטרקציות בישראל חג ללא תשלום: פעילויות חינם בחול המועד סוכות 2026",
-      "link": "https://travel.walla.co.il/item/3869892",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-27T07:22:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm0hd8",
-      "title": "אש של שמחה; הרבי הבדיל על הכוס ופצח בריקודים • צפו",
-      "summary": "עם צאת השבת ויום טוב הראשון, הבדיל הרבי מלעלוב על הכוס בסוכה הסמוכה לבית מדרשו בשיכון ה' בבני ברק | לאחר ההבדלה פצחו החסידים בריקודים נלהבים לזכר שמחת בית השואבה, תוך שהאדמו\"ר מעודד בעוז את השירה והזמרה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm0hd8",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T07:20:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/tm0hhm",
-      "title": "גדוד המילואים \"שמעון\" וגדוד הסדיר \"יונתן\" פועלים במקביל בגזרה הצפונית | צפו",
-      "summary": "גדודי המילואים והסדיר בחטיבת החשמונאים פועלים בגזרה הצפונית, כחלק מהעלאת הכוננות ותגבור הכוחות בכלל הגזרות בתקופת חגי תשרי | צפו בתיעוד (צבא)",
-      "link": "https://www.kikar.co.il/security-news/tm0hhm",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T07:18:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21495570",
-      "title": "יבוטל הגשר בין כיפור לסוכות? \"ההסכם אוטוטו מסתיים\"",
-      "summary": "הסכם השכר של המורים יסתיים בסוף שנת הלימודים, ועובדי ההוראה חוששים ששלושת ימי החופשה בין החגים יבוטלו במשא ומתן הבא מול משרד האוצר • בקבוצות הפנימיות מתריעים מפני מאבקים: \"נחכה שיפוג ההסכם\" • יפה בן דויד תגיע למו\"מ עם דרישות",
-      "link": "https://www.israelhayom.co.il/news/education/article/21495570",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:18:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21495570",
-      "title": "יבוטל הגשר בין כיפור לסוכות? \"ההסכם יסתיים\"",
-      "summary": "הסכם השכר של הסתדרות המורים מול משרד האוצר יסתיים בסוף השנה ומרחף סימן שאלה מעל חופשת התלמידים • המורים נערכים למאבק חוששים מאובדן ההטבה וטוענים כי זו אבולוציה להורדת איסרו חג. במקביל דורשת יפה בן דויד לעבור לשבוע עבודה של ארבעה ימים",
-      "link": "https://www.israelhayom.co.il/news/education/article/21495570",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:18:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21495329",
-      "title": "עדיף לבהות בקיר במקום לצפות בסדרה של דר זוזובסקי וסם קלאפלין",
-      "summary": "הרומן של השחקנית הישראלית וכוכב הקולנוע האנגלי המפורסם, שהכירו מאחורי הקלעים של \"נעלם\", מעניין הרבה יותר מהתוכנית עצמה • עם דמויות ריקניות וסוף מופרך, הפרויקט מתגלה כסיפור רדוד ומשעמם",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21495329",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:18:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21495419",
-      "title": "מיכל הקטנה על קאמבק עם יהודה בוחבוט: \"נותנת לו\"",
-      "summary": "בזמן שמצלמות הדוקו ממשיכות ללוות אותם, כוכבת הילדים משתפת בתחושות הכי אישיות שלה • מה יקרה בפרק שעוד לא נכתב?",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21495419",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:17:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21495487",
-      "title": "\"לא בנורמה\": זה כוכב \"חתונמי\" שנמצא בזוגיות פתוחה",
-      "summary": "אחרי שסיפרנו לכם כאן רק אתמול על משתתף ריאליטי האהבה שפתח פרופיל באתר היכרויות, שם כתב כי הוא מנהל מערכת יחסים פתוחה עם בת זוגו, כעת ניתן לחשוף במי מדובר. כל הפרטים והתגובה של הזוג בכתבה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21495487",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T07:17:04.000Z"
     }
   ]
 }
