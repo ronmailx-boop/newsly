@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:30:50.069Z",
+  "updatedAt": "2026-10-02T05:45:48.074Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tm9mch",
+      "title": "התחזית: מעונן חלקית, צפוי גשם מקומי | בשמחת תורה: תחול עליה בטמפרטורות",
+      "summary": "תחזית מזג האוויר העדכנית לימים האחרונים של חג הסוכות: עדיין ייתכן גשם מקומי קל, אך תחול עלייה במידות החום (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tm9mch",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-02T05:44:59.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1372763",
       "title": "טראמפ ושי קנו שקט זמני - וישראל עלולה להיתקע באמצע | ד\"ר ענת הוכברג-מרום",
       "summary": "המפגש בין טראמפ לשי לא משקף התקרבות אסטרטגית בין ארה\"ב לסין, אלא ביטוי להכרה הדדית בכך שהסלמה בלתי מבוקרת תסב נזק כבד לשני הצדדים ולכלכלה העולמית כולה",
@@ -39,6 +48,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-02T05:29:08.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rybfgzd9ze",
+      "title": "מימון מהעירייה, חסות מהממשלה: תגמול המדינה לאמנים ששרו בתהלוכת העריקים",
+      "summary": "כסף ציבורי עבר למנעימי אירוע המשתמטים: משה דוד וייסמנדל ומקהלת נשמה הופיעו בצעדה בבני ברק לכבוד 160 עריקים מצה\"ל. בדיקת ynet העלתה כי לאורך השנים השתתפו הזמרים באירועים וקליפים שזכו למימון מעיריית ירושלים - גם אחרי הוקרה קודמת לעריקים. עמוד היוטיוב המפרגן, הכספים לקליפ בסוכת ראש העיר - והתגובות: \"בחירה משיקולים אמנותיים ולא בשל עמדות פוליטיות\"",
+      "link": "https://www.ynet.co.il/news/article/rybfgzd9ze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T05:26:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21536010",
+      "title": "פשט לישראל ופיקד על החזקת חטופים: צה\"ל ושב\"כ מאשרים את חיסול בכיר חמאס",
+      "summary": "צה\"ל ושב\"כ אישרו הבוקר רשמית את דבר חיסולו של עז אלדין ביכ ביום שלישי • אחרי שמילא שורת תפקידים בארגון, פשט לישראל בבוקר 7 באוקטובר ולאחריו פיקד על החזקת חטופים רבים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21536010",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T05:25:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21536054",
+      "title": "בריטניה אסרה את כניסתו למדינה: השותף החדש של ברצלונה",
+      "summary": "אלופת ספרד תופיע לקלאסיקו עם חולצה במחווה לראפר האמריקני טיילר, דה קריאייטור • בתחילת דרכו עורר סערות רבות בעקבות תכנים בוטים בשיריו, כולל ביטויים הומופוביים ואלימים",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21536054",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T05:24:18.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21536043",
@@ -1776,6 +1812,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-01T14:59:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21524487",
+      "title": "\"אם לא אנחנו אז מי יהיה כאן?\" • לוחמי חטיבת אלון משחזרים את הקרבות הקשים מול חיזבאללה",
+      "summary": "\"סבתא שלי, שורדת שואה בת 90, אמרה לי 'וואו, זה כל כך קשה מה שעברתם'\" • בספר \"צו 8: לבנון\", לוחמי הנח\"ל רס\"ן (מיל') יואב וינטרוב ורס\"ר (מיל') חגי שטרן ויתרו על סיפורי הגבורה - כדי להתמקד ב\"אנשים שעזבו הכל והגיעו\"",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21524487",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T14:58:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21524487",
@@ -26094,87 +26139,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-27T05:51:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21494922",
-      "title": "המחבל שתועד חוטף את נועה ארגמני ואבינתן אור - חוסל בעזה",
-      "summary": "צה\"ל אישר כי סאהר נדאל לטפי צקר, שנהג באופנוע עליו נחטפה נועה ארגמני ממסיבת הנובה, חוסל בתקיפה במחנה נוסייראת • ארגמני חולצה ביוני 2024 ב\"מבצע ארנון\" לאחר שמונה חודשים בשבי",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21494922",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T05:45:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21494922",
-      "title": "דיווח: המחבל שחטף את נועה ארגמני ב-7.10 חוסל בעזה",
-      "summary": "לפי דיווחים פלסטיניים, סאהר סקר, שנהג באופנוע עליו נחטפה נועה ארגמני ממסיבת הנובה, נהרג בתקיפה במחנה נוסייראת • ארגמני חולצה ביוני 2024 ב\"מבצע ארנון\" לאחר שמונה חודשים בשבי",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21494922",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T05:45:04.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syknmqicfx",
-      "title": "חיזבאללה שיגר רחפן נפץ וציין שנתיים לחיסול נסראללה: \"הישג ישראלי, לא סוף הדרך\"",
-      "summary": "פעילים שיעים הגיעו לחארת חריכ בדאחייה לציון יום השנה השני לחיסול מנהיג ארגון הטרור. בהמשך תתקיים עצרת גדולה, עורך \"אל-אחבאר\": \"הנקמה דורשת תחכום\". בכיר בחיזבאללה: \"לא נאפשר להותיר את לבנון כטרף קל בידי האויב\". אלא שארגון הטרור מתמודד עם לחצים משמעותיים, גם מתוך הקהילה השיעית",
-      "link": "https://www.ynet.co.il/news/article/syknmqicfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T05:43:29.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syknmqicfx",
-      "title": "בחיזבאללה מציינים שנתיים לחיסול נסראללה: \"הישג ישראלי, אבל לא סוף הדרך\"",
-      "summary": "פעילים שיעים הגיעו לחארת חריכ בדאחייה לציון יום השנה השני לחיסול מנהיג ארגון הטרור. בהמשך תתקיים עצרת גדולה, עורך \"אל-אחבאר\": \"הנקמה דורשת תחכום\". בכיר בחיזבאללה: \"לא נאפשר להותיר את לבנון כטרף קל בידי האויב\". אלא שארגון הטרור מתמודד עם לחצים משמעותיים, גם מתוך הקהילה השיעית",
-      "link": "https://www.ynet.co.il/news/article/syknmqicfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T05:43:29.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syknmqicfx",
-      "title": "שנתיים לחיסול נסראללה בחיזבאללה בטוחים: \"הישג ישראלי, אבל לא סוף הדרך\"",
-      "summary": "פעילים שיעים הגיעו לחארת חריכ בדאחייה לציון יום השנה השני לחיסול מנהיג ארגון הטרור. בהמשך תתקיים עצרת גדולה, עורך \"אל-אחבאר\": \"הנקמה דורשת תחכום\". בכיר בחיזבאללה: \"לא נאפשר להותיר את לבנון כטרף קל בידי האויב\". אלא שארגון הטרור מתמודד עם לחצים משמעותיים, גם מתוך הקהילה השיעית",
-      "link": "https://www.ynet.co.il/news/article/syknmqicfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T05:43:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21494831",
-      "title": "דיווח דרמטי: הכוכב היהודי של אירלנד רוצה לפרוש מהנבחרת",
-      "summary": "בהתאחדות המקומית חוששים כי פין עזז עשוי לסיים את דרכו לאחר החלון הנוכחי, וזאת בעקבות הסערה סביב קיום המשחק • קשר סאות'המפטון הוא חברו הקרוב של דניאל פרץ ואמו אורית היא ישראלית ובת למשפחה שגדלה בבאר שבע",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21494831",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T05:40:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371064",
-      "title": "בלי להסביר למה: בתי ספר בריאד עוברים ללמידה מרחוק",
-      "summary": "בתי ספר פרטיים בבירת סעודיה הודיעו כי עד יום חמישי הלימודים יתקיימו מרחוק, מבלי לפרט את הסיבה. ברקע: ההסלמה מול החות'ים, ורק אתמול יורטו שני מל\"טים ששוגרו לעבר אזור ריאד",
-      "link": "https://www.maariv.co.il/news/world/article-1371064",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-27T05:36:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21477520",
-      "title": "החרק הקטן שמחזיק חלק עצום מהאוכל שלנו בחיים",
-      "summary": "אנחנו חושבים על דבורים בעיקר כיצרניות דבש – אך אם הן ייעלמו מדפי הסופרמרקטים כנראה יתרוקנו מפירות, אגוזים ומוצרים נוספים שדבורים עוזרות לייצר",
-      "link": "https://www.israelhayom.co.il/tech/animals/article/21477520",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T05:36:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21494809",
-      "title": "המיליארדר שקנה את ערוץ 13 הגיע לדבר - והפתיע לטובה אצל רוני קובן",
-      "summary": "אסף רפפורט התיישב אצל רוני קובן לראיון חושפני ומעורר השראה • בזמן שבעלי הון אחרים ממושכים בחוטים מאחורי הקלעים, הוא לפחות מדבר",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21494809",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T05:33:13.000Z"
     }
   ]
 }
