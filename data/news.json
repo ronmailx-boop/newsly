@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:01:09.455Z",
+  "updatedAt": "2026-10-02T16:16:05.326Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkppyn69zx",
+      "title": "הארגון שיחקור את הטייס העומאני, ושאלת המעורבות של ישראל: \"תוכל לתשאל אותו\"",
+      "summary": "הגוף הביטחוני האמירתי שמקביל לשב\"כ ינהל את חקירת טייס המשנה שניסה לרסק את טיסת פליי דובאי. חרף היחסים הקרובים בין הצדדים, באבו דאבי ינסו להצניע מעורבות של גורמים ישראלים, שלפי רויטרס \"צפויים לתשאל את החשוד\". זה העונש שהוא עשוי לקבל אם יורשע - והשיקולים המדיניים שצפויים להשפיע",
+      "link": "https://www.ynet.co.il/news/article/rkppyn69zx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T15:56:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21539012",
+      "title": "אתיופיה: כוחות הנאמנים לממשלה הכריזו כי הם קרובים לניצחון על המורדים",
+      "summary": "ארגון ה-TPF טוען כי אנשיו קרובים לכיבוש בירת חבל תיגראי מקלה • לטענות לא נתקבל אימות בשל האיפול התקשורתי על אזורי הלחימה",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21539012",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T15:51:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21538998",
+      "title": "לא וירוסים ולא אפליקציות זדוניות: המלכודת הנסתרת בטלפון שלכם",
+      "summary": "הגדרה אחת נסתרת בדפדפן חושפת את המכשיר שלכם למתקפות סייבר • זו ההגדרה שחייבים לכבות מיד כדי להגן על הטלפון שלכם • כך תעשו זאת בשניות ותצילו את המידע שלכם",
+      "link": "https://www.israelhayom.co.il/tech/how-to/article/21538998",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T15:50:19.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21538825",
       "title": "\"כמו שהיא משחקת, המצב של מכבי תל אביב לא טוב\"",
@@ -24420,60 +24447,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-27T16:16:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21500934",
-      "title": "שלוש שנים לטבח: המשפחות השכולות ישובו לרעים לטקס הזיכרון",
-      "summary": "בשעה 18:29 יתכנסו המשפחות השכולות, השורדים וחברי הקהילה לטקס הזיכרון השנתי • על הבמה: נינט טייב, בניה ברבי, יובל רפאל, עמיר בניון ושולי רנד • השנה, לראשונה, יאוחדו טקס המשפחות וטקס קהילת שבט הנובה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21500934",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T16:12:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21500922",
-      "title": "''מי בא לחלץ אותי'': כוכב ''לשחרר את שולי'' נתקע בחו''ל - והפעם באמת",
-      "summary": "בסרטים הוא נחטף בקולומביה והסתבך ביפן, ושלישיית \"מה קשור\" תמיד הגיעה בזמן • דוד שאול יצא עם שני ילדיו לחופשה שתוכננה עד הפרט האחרון, ומצא את עצמו תקוע בעיר הלא נכונה • כך נראה החילוץ כשאין תסריט",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21500922",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T16:11:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-terror-plot-us-base-uk-fairford-arrests",
-      "title": "פרטים חדשים על דרמת הענק בבסיס האמריקני בבריטניה - והתגובה של טראמפ",
-      "summary": "כפי שדווח מוקדם יותר, חמישה חשודים נעצרו בעקבות ניסיון פיגוע מסוכל סמוך לבסיס חיל האוויר פיירפורד | חומרי נפץ והתקני הצתה נתפסו בכלי רכב | טראמפ: 'עבודה מדהימה' | פרטים חדשים על האירוע הדרמטי נחשפים הערב בדיילי מייל (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-terror-plot-us-base-uk-fairford-arrests",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T16:09:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21500540",
-      "title": "שתיקת הפוליטיקאים מול המחדל המדמם: המשבר הלאומי שנשכח לפני הבחירות",
-      "summary": "יותר מ-330 בני אדם נהרגו מתחילת השנה בתאונות דרכים, אחרי שנתיים רצופות שבהן עלה מספר ההרוגים • בזמן שמשפחות הנפגעים דורשות תוכנית למאבק בקטל, הנושא כמעט אינו מופיע במצעי המפלגות",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21500540",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T16:09:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21500863",
-      "title": "באירופה כבר מסמנים את הפועל ירושלים: \"פוטנציאל ליורוליג\"",
-      "summary": "צירופו של לורנזו בראון משך תשומת לב לאדומים • בספרד ניתחו: \"מתפתחת לאחד הפרויקטים השאפתניים וממשיכה ללחוץ חזק כדי להצטרף לתחרות הבכירה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21500863",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T16:05:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21500768",
-      "title": "לא רק לצלחות: 10 דברים שכדאי לנקות עם סבון כלים",
-      "summary": "שכחו מחומרי ניקוי יקרים וכימיקלים אגרסיביים • מסתבר שהתכשיר הבטוח, היעיל והחסכוני ביותר להברקת הבית ולפירוק שומנים עקשניים כבר מחכה לכם ליד הכיור",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21500768",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T16:03:39.000Z"
     }
   ]
 }
