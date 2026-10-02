@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:01:04.080Z",
+  "updatedAt": "2026-10-02T18:15:50.365Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1nlcdlcmx",
+      "title": "נשיאים, שופטים וסרט הוליוודי: הסקנדל שעשוי להכריע את הבחירות במדינת הענק",
+      "summary": "הוויסקי לנשיא לולה, הסרט על האבא שתכנן הפיכה צבאית, השופט שהסתבך עם טראמפ, ה\"סיקאריו\" שהתאבד בתא המעצר ומנגנון המרמה שטלטל מדינה שלמה: ברזיל נמצאת בעיצומה של מערכת בחירות סוערת, ומעל הכול מרחפת הונאת ענק בניצוחו של בנקאי צעיר ש\"קנה\" את מי שיכל - ואיים \"לשבור שיניים\" למי שהפריע. הסקרים הצמודים, הבכירים שהתלכלכו - ואיך זה ישפיע על ישראל?",
+      "link": "https://www.ynet.co.il/news/article/h1nlcdlcmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T18:10:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373009",
+      "title": "סלקציה פוליטית: ישראלי סורב לקורס הולנדית משום שלא הכיר ב\"רצח עם\" בעזה",
+      "summary": "הישראלי י' ניסה להתקבל למסגרת לימוד הולנדית הכוללת קורסי דיבור ופודקאסטים, אך המורה דורש מכל תלמידיו להסכים שמתבצע רצח עם בעזה. י' ניסה להשיב בצורה עניינית - וסורב",
+      "link": "https://www.maariv.co.il/news/world/article-1373009",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T18:06:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk2002uaqfe",
+      "title": "איך אזרח עומאני שובץ לטיסה לישראל - ומי יחקור את המחדל? השאלות הפתוחות",
+      "summary": "העובדה שמטוס פליי דובאי נחת בשלום אינה סוגרת את הפרשה, אלא להפך. כעת יצטרכו לברר כיצד ייתכן שטייס, שמוצאו ואזרחותו היו אמורים להיות ידועים במערכות הרלוונטיות, שובץ בטיסה ארצה. מי היה אמור לזהות את הבעיה, מדוע היא לא נעצרה בזמן - והאם ראוי שהגורמים בשרשרת יחקרו את עצמם?",
+      "link": "https://www.ynet.co.il/news/article/rk2002uaqfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T18:06:07.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373006",
       "title": "המאבק על מנוף הלחץ: סעודיה מתכננת מבצע ענק לשחרור מצר באב אל מנדב",
       "summary": "סעודיה נערכת למבצע צבאי חדש נגד החות'ים בתימן, שעשוי לצאת לדרך כבר בשבועות הקרובים, במטרה להשתלט מחדש על אזור באב אל מנדב. ארה\"ב מסייעת במודיעין, וגם פקיסטן וטורקיה מעורבות",
@@ -59,13 +86,40 @@
       "pubDate": "2026-10-02T17:43:05.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21539583",
+      "title": "ישפיע על דני אבדיה: מאמן פורטלנד קיבל החלטה דרמטית",
+      "summary": "לפי ג'ייסון קוויק מה\"אתלטיק\", מייקה נורי ממשיך להתלבט לגבי החמישייה הפותחת שלו לעונה הקרובה • אחד משני האולסטארים בקו האחורי עשוי לעלות מהספסל: \"לפתוח עם שניהם ביחד זה לא הגיוני\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21539583",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T17:41:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21539118",
+      "title": "מדענים קבעו: זאת תנוחת השינה המושלמת",
+      "summary": "האם קיימת תנוחת שינה שמתאימה לכולם או שאולי בכלל אף אחד מאיתנו לא ישן כמו שצריך? • מומחים עושים סדר ביתרונות ובחסרונות של כל תנוחה, ומזהירים מפני ההתעסקות האובססיבית ב\"ציוני שינה\" של שעונים חכמים שעלולה לפגוע לכם במנוחה",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21539118",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T17:34:37.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21539499",
       "title": "מהאוויר, בכמה חזיתות: סעודיה נערכת למהלך נרחב מול החות'ים | דיווח",
-      "summary": "גורמים באזור ובמערב מסרו כי ריאד מתכננת לפעול בשבועות הקרובים נגד המורדים בתימן • פי הדיווח, הפעולה צפויה לצאת לפועל בשבועות הקרובים, ויבצעו אותה כוחות תימניים, בתמיכת ריאד",
+      "summary": "גורמים באזור ובמערב מסרו כי ריאד מתכננת לפעול בשבועות הקרובים נגד המורדים בתימן • לפי הדיווח, הפעולה צפויה לצאת לפועל בשבועות הקרובים - ושר החוץ של פקיסטן טען כי שש מדינות מעוניינות להצטרף ל\"ברית מכה\"",
       "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21539499",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-02T17:29:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21539263",
+      "title": "\"תפסתי אותו בחניקה\": גיבור הטיסה משחזר בראיון למנחה האמריקני האייקוני",
+      "summary": "ד\"ר פיל אירח את אחד מהישראלים שהשתלטו על הטייס הדוקר בטיסה לתל אביב • \"רוב האנשים מחכים שאחרים יפעלו, מה גרם לך לפעול?\" שאל המנחה • \"המחשבה על אשתי והבנות שעל הטיסה\" השיב חיון, והוסיף: \"הייתי ילד שובב בגן, מאז לא הייתי במאבק, ברוך השם\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21539263",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T17:23:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21539263",
@@ -24177,69 +24231,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-27T18:25:32.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjfxz0u5zl",
-      "title": "העדויות מנמל התעופה בהולנד על בידוק מחמיר - והטענה: \"חיפשו מוצרים מיו\"ש\"",
-      "summary": "ימים לאחר שחוק שאוסר ייבוא מוצרים מההתנחלויות עבר, נוסעים שהגיעו מישראל סיפרו על בדיקות מחמירות בשדה התעופה סכיפהול. ישראלי שאמור לטוס להולנד: \"שוב מסמנים אותנו\". חבר בקהילה היהודית: \"ההליך לא ברור עד הסוף\". שגריר ארה\"ב בישראל תקף: \"המהלך של ההולנדים מטורף. שערורייה\".",
-      "link": "https://www.ynet.co.il/news/article/hjfxz0u5zl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T18:15:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21501243",
-      "title": "כך ישראל צריכה להפוך את היתרון בחלל לאסטרטגיה לטווח ארוך",
-      "summary": "ישראל הוכיחה במלחמה שהחלל הוא יתרון מבצעי • כתובת אחת, שתחבר את היכולות בחיל האוויר, באמ\"ן, בתקשוב ובמפא\"ת, תאפשר לעבור מניהול פרויקטים לתכנון של זירה שלמה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21501243",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:15:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/israel-revokes-dutch-diplomats-ramallah-status",
-      "title": "הנקמה של ישראל בהולנד: \"יש לכם שבוע בדיוק להחזיר את האישור\"",
-      "summary": "שר החוץ גדעון סער הורה להחזיר תיעוד דיפלומטי תוך 7 ימים, בעקבות צו האיסור על יבוא ממוצרי יו\"ש | שר החוץ סער: \"לא נעבור לסדר היום על מהלכים עויינים\" (חדשות)",
-      "link": "https://www.kikar.co.il/news/israel-revokes-dutch-diplomats-ramallah-status",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T18:13:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-captures-us-remus-600-underwater-drone-hormuz",
-      "title": "איראן טוענת: לכדנו רחפן תת-ימי אמריקאי מתקדם - כך היא צפויה לנצל את זה",
-      "summary": "משמרות המהפכה טוענים כי תפסו רחפן REMUS 600 באמצעות לוחמה אלקטרונית | טהראן טוענת שהרחפן נתפס שלם וכי הוא חושף תכניות פינוי מוקשים של הפנטגון | בעיית הנדסה לאחור אמריקנית (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-captures-us-remus-600-underwater-drone-hormuz",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T18:10:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21501619",
-      "title": "קרו פלס סגרה מעגל: ''זה לקח 30 שנה, אבל הצלחתי''",
-      "summary": "המורה שלימד אותה אלקטרוניקה בתיכון הגיע להופעה שלה בבית גבריאל, ולא בידיים ריקות • מה שהוא שמר מאז סיום הלימודים החזיר את קרן פלס שלושה עשורים אחורה • והפעם גם הציון השתנה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21501619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:03:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21501561",
-      "title": "20 ישראלים נצורים באתיופיה, שלושה שנמלטו משחזרים: \"יצאנו בנס\"",
-      "summary": "משרד החוץ קורא להימנע מהגעה לחבל תיגראי בעקבות התלקחות הקרבות בצפון אתיופיה • כל הטיסות לאזור הושעו, וכ-20 ישראלים נותרו נצורים בשטח - בעוד שלושה שהצליחו לחלץ את עצמם סיפרו ל\"היום\": יש מחסומים רבים ושודדי דרכים",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21501561",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:02:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21501818",
-      "title": "מכירת רכב לסוחר רכבים מורשה – איך זה עובד? המדריך המלא",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21501818",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T18:01:17.000Z"
     }
   ]
 }
