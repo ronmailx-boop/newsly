@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:30:53.643Z",
+  "updatedAt": "2026-10-02T11:45:50.003Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21537878",
+      "title": "התפתחות דרמטית: איומים חמורים חדשים נגד מנצ'סטר סיטי",
+      "summary": "בזמן שהמועדון ערער על הרשעתו בפרשת ההפרות הפיננסיות, חזיתות נוספות נפתחות • במוקד, ההתאחדות האנגלית בוחנת סנקציות משלה, חברת התעופה אתיחאד מאיימת בפעילות משפטית ורשויות המס עשויות להתערב",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21537878",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T11:30:03.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/studio-kikar/tlcw2y",
       "title": "מחבטת הערבה להקפות והעליות לתורה של החתנים: אלו הסגולות הגדולות של שמחת תורה | צפו",
       "summary": "מתי חובטים בערבות, מדוע עושים זאת דווקא בקרקע ומהי תפילת המים שמיוחסת לבן איש חי? הרב אברהם מימון ויוסי עבדו עוברים מהושענא רבה לשמיני עצרת עם כל הסגולות שנקשרו להקפות, לשמחה עם התורה ולעליות של החתנים | צפו (שמחת תורה)",
@@ -39,6 +48,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-02T11:08:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21537721",
+      "title": "\"חותר לניצחון ברוב של 64\": איזנקוט בריאיון מיוחד",
+      "summary": "פחות מחודש לבחירות, יו\"ר ישר! גדי איזנקוט מאמין כי הוא ידיח את נתניהו • בראיון מקיף ל\"היום\" הוא מציב את היעד הפוליטי (\"ניצחון ברוב של 64-63 שיאפשר אפילו את הרחבת הממשלה\") • מדבר על איראן (\"הפלת משטר מהאוויר זה רעיון הזוי, אדאג להוצאת האורניום\") • מספר כיצד נפילת בנו השפיעה עליו (\"המחויבות להיות ראוי למחיר ששילמתי רק התחזקה\")",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21537721",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T11:07:17.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21537721",
@@ -1005,7 +1023,7 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1l3a6h5fg",
-      "title": "הרוג ופצוע בינוני בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
+      "title": "הרוג ופצוע קשה בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
       "summary": "מהמטוס שהתרסק ליד כפר קרע חולץ פצוע שפונה לרמב\"ם. לוחמי האש נאבקו למנוע התפשטות של שריפה לבתים",
       "link": "https://www.ynet.co.il/news/article/h1l3a6h5fg",
       "source": "ynet",
@@ -1014,8 +1032,8 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1l3a6h5fg",
-      "title": "הרוג ופצוע קשה בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
-      "summary": "מהמטוס שהתרסק ליד כפר קרע חולץ פצוע קשה שפונה לרמב\"ם. לוחמי האש נאבקו למנוע התפשטות של שריפה לבתים",
+      "title": "הרוג ופצוע בינוני בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
+      "summary": "מהמטוס שהתרסק ליד כפר קרע חולץ פצוע שפונה לרמב\"ם. לוחמי האש נאבקו למנוע התפשטות של שריפה לבתים",
       "link": "https://www.ynet.co.il/news/article/h1l3a6h5fg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -25365,78 +25383,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-27T11:48:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/bnei-brak-mayor-office-listening-devices-suspicion",
-      "title": "חשד מטריד בבני ברק: מי שתל מכשירי האזנה בלשכתו של ראש העיר?",
-      "summary": "סריקות העלו סימנים למכשירי האזנה בלשכת ראש העיר זייברט • בדיקת מצלמות האבטחה חשפה חשד לכניסה באמצעות צ'יפ של בכיר לשעבר | הפרשה החריגה בעירייה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/bnei-brak-mayor-office-listening-devices-suspicion",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T11:45:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkxmcu85gg",
-      "title": "במשאל עם: שווייץ הצביעה נגד הצעה \"פרו רוסית\" להיות \"עוד יותר ניטרלית\"",
-      "summary": "עקרון הניטרליות, שלפיו שווייץ אינה נוקטת צד במלחמות בין מדינות זרות, מעוגן בחוקה עוד מהמאה ה-19, אבל מפלגת הימין SVP טוענת כי הוא נשחק בגלל הסנקציות שהטילה ברן על פוטין והצטרפותה למועצת הביטחון. במשאל עם נקראו השווייצרים להצביע בעד הקשחת הניטרליות, כך שהחוקה תאסור אפילו שיתוף פעולה עם נאט\"ו ועיצומים נגד מדינות אחרות. יותר משני שלישים אמרו \"לא\"",
-      "link": "https://www.ynet.co.il/news/article/bkxmcu85gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T11:42:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21498173",
-      "title": "פנאתינייקוס בצרות: כוכב נוסף לא יוכל לשחק מול מכבי תל אביב",
-      "summary": "לצד קוסטס סלוקאס, קנדריק נאן, נייג'ל הייז-דייוויס ומוסטפה פאל הפצועים, גם חואנצ'ו הרננגומס לא צפוי להיות כשיר • הפורוורד הספרדי נפצע בסופר קאפ היווני ואחרי שעבר בדיקות נטען כי \"כמעט בלתי אפשרי שיהיה זמין\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21498173",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T11:41:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/smotrich-attacks-attorney-general-e1-construction",
-      "title": "סמוטריץ' תוקף את היועמ\"שית: \"מנסים לעצור בנייה ב-E1 כדי לאפשר מדינת טרור\"",
-      "summary": "שר האוצר פנה במכתב חריף ליועצת המשפטית לממשלה בעקבות עיכוב מכרז הבנייה במעלה אדומים • טען כי מדובר בהתערבות בבחירות • קרא לשופט סולברג למנוע מהיועמ\"שית להפוך לשחקן פעיל בקמפיין (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/smotrich-attacks-attorney-general-e1-construction",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T11:39:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21498263",
-      "title": "\"בכמה מעשי רצח עם הוא מעורב?\": ב\"סאטרדיי נייט לייב\" הבריטית לעגו לרה\"מ",
-      "summary": "המגיש פאדי יאנג התייחס לנאום ראש הממשלה בעצרת האו\"ם ולעזיבת עשרות הנציגים את האולם • יאנג סיים בסרקסטיות: \"קל לצייר את נתניהו כאיש הרע בסיפור הזה\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21498263",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T11:39:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm0tgn",
-      "title": "ניגוני חג ודברות קודש; צפו בטיש המרומם בחצר הקודש אלכסנדר",
-      "summary": "האדמו\"ר מאלכסנדר ערך אמש את שולחנו הטהור לרגל חול המועד סוכות | במהלך הטיש זימרו החסידים מניגוני החג, תוך שהאדמו\"ר השמיע דברי קודש על רום מעלת השמחה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm0tgn",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T11:38:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21498162",
-      "title": "קשה, לא אנוש: איך השתנה מצב חיזבאללה - ומה יכולים ללמוד בישראל?",
-      "summary": "מבצע הביפרים ורצף ההתקפות שאחריו היו נקודת המפנה במערכה ששינתה את פני האזור • האתגר הגדול של ישראל נובע מכך שהמלאכה לא תמה ושהמציאות הנוכחית היא שברירית • אוייבינו בכל אחת מהזירות לא אמרו נואש ומנסים לשקם את יכולותיהם • מה הלקחים שישראל יכולה ללמוד מכך בקשר לדרכי-הפעולה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21498162",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T11:37:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21498068",
-      "title": "עשרות אלפי שקלים: כמה שווה הלוק של אודיה?",
-      "summary": "אודיה העלתה סלפי עם לוק יומיומי למדי, אבל מבט מקרוב על המותגים שהיא לובשת מגלה סיפור קצת אחר. בדקנו את הפריטים, והגענו לסכום שלא ממש משאיר מקום לספונטניות",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21498068",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T11:32:46.000Z"
     }
   ]
 }
