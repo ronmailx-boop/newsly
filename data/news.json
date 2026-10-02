@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:15:50.830Z",
+  "updatedAt": "2026-10-02T10:30:57.889Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjfbvf25ze",
+      "title": "הודח מלוחמה חייל שתפס נער פלסטיני וצילם לאביו: \"הבן שלך מפורק, שווה לך לבוא\"",
+      "summary": "כוח צה\"ל הוקפץ לפזר עימות בין מתנחלים לבדואים-פלסטינים בבנימין, ולאחר מכן נכנס לסריקות בבית. לוחם תיעד את עצמו תופס נער שאחיו נפצע, כשהוא פונה לאב שנמלט: \"הבן שלך מפורק, אחי, מפורק\". האב מוחמד כעאבנה אמר ל-ynet: \"החייל אמר לי - 'תבוא תוך 10 דקות, אנחנו רוצים להרוס את הבית שלך'\"",
+      "link": "https://www.ynet.co.il/news/article/bjfbvf25ze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T10:21:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/mayday-producer-reacts-israeli-hero-flydubai",
+      "title": "\"לא האמנתי שצופה שלנו הציל מטוס\": מפיק 'תעופה בחקירה' מתרגש מגבורת הישראלי",
+      "summary": "יניב חיון השתמש בידע מהסדרה כדי לייצב את המטוס הצולל • המפיק: 'מזמין אותו לאתר הצילומים' | הנשיא יעניק אות גבורה לארבעת הישראלים (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/mayday-producer-reacts-israeli-hero-flydubai",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-02T10:18:54.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/sabin-taasa-holland-antisemitism-confrontation",
       "title": "\"תחזרו לתנורים\": העימות הקשה של סבין תעסה בהולנד",
       "summary": "ניצולת הטבח הגיעה להקרנת הסרט נז\"א בהולנד • ספגה נאצות אנטישמיות מזעזעות מהקהל | \"כזאת שנאה לא חוויתי מעולם\" (חדשות)",
@@ -39,6 +57,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-02T10:14:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21537107",
+      "title": "וינטר משנה מדיניות: מאזהרות לגל תביעות נגד מפיצי \"פייק ניוז\"",
+      "summary": "בעמך ישראל מכחישים את האמירה שיוחסה ליו\"ר המפלגה, שלפיה יסכים למינוי יאיר גולן לשר לביטחון פנים • פעיל הרשת דודו אזולאי נדרש למחוק את הפרסום ולהתנצל • במפלגה מזהירים: \"מי שיהדהד שקרים - יחטוף\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21537107",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T10:13:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372917",
+      "title": "הדרמה בבג\"ץ: סאמי אבו שחאדה פרש – אחרי שהשופטים הבהירו מה צפוי לקרות",
+      "summary": "במהלך הדיון שנערך בבית המשפט העליון בהרכב מורחב, דנו השופטים בהחלטת ועדת הבחירות המרכזית לפסול את אבו שחאדה. במרכז הדיון עמדו התבטאויותיו ומאמר שפרסם ב-8 באוקטובר 2023, מיד לאחר מתקפת השבעה באוקטובר",
+      "link": "https://www.maariv.co.il/news/politics/article-1372917",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T10:10:44.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1372917",
@@ -57,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-02T10:03:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21537251",
+      "title": "בלי שפריצים ובלי בלגן על השיש: הדרך הכי קלה לקילוף וחיתוך סלק",
+      "summary": "המאבק העיקש עם קליפת הסלק משאיר אחריו אצבעות צבועות, משטחי עבודה מוכתמים וטעם לוואי של עפר במנה • שיטה פשוטה של אפייה מבוקרת וחיכוך קל בנייר סופג תחסוך לכם מאמץ מיותר, תמנע לכלוך בלתי הפיך במטבח ותשדרג את המרקם באופן מיידי",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21537251",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T10:01:57.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21537172",
@@ -1746,6 +1791,87 @@
       "title": "מזל תאומים, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
       "summary": "",
       "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21537396",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21537397",
+      "title": "מזל סרטן, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21537397",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21537399",
+      "title": "מזל אריה, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21537399",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21537400",
+      "title": "מזל בתולה, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21537400",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21537401",
+      "title": "מזל מאזניים, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21537401",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21537402",
+      "title": "מזל עקרב, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21537402",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21537403",
+      "title": "מזל קשת, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21537403",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21537404",
+      "title": "מזל גדי, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21537404",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21537405",
+      "title": "מזל דלי, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21537405",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-01T20:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21537407",
+      "title": "מזל דגים, תחזית הורוסקופ שבועית, לשבוע של 02.10.2026 - 08.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21537407",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T20:50:46.000Z"
@@ -25437,123 +25563,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-27T10:34:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21497512",
-      "title": "תגלית מצמררת: המינים החדשים של עכבישי הים",
-      "summary": "הם קיימים כבר 500 מיליון שנה, אבל רק עכשיו המדענים הצליחו למצוא אותם • כל הפרטים על התגלית המרעישה בים סייליש",
-      "link": "https://www.israelhayom.co.il/tech/animals/article/21497512",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:30:35.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-ambassador-greece-threatens-government",
-      "title": "\"אנחנו יכולים להפיל אתכם\": השגרירה האמריקאית איימה על השר ידיד ישראל",
-      "summary": "קימברלי גילפויל רמזה כי ארה\"ב הפילה את ממשלת רומניה • שר האנרגיה היווני השיב בזעם: \"אנחנו ממשלה ריבונית\" | הסערה הדיפלומטית שפרצה עם המדינה הידידותית לישראל (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-ambassador-greece-threatens-government",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:30:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21497423",
-      "title": "דנה זרמון לאחר שצילמה את בעלה בעירום: \"הלא נורמלים פה - זה אתם\"",
-      "summary": "הסרטון שבו נראה גיא ביטון נכנס עירום לבריכה עורר סערה ברשת • הגולשים זעמו על חוסר הטעם • כוכבת הרשת תקפה בחזרה: \"לא הייתם בשיעור אנטומיה? עירום זה טבעי לחלוטין\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21497423",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:30:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21497510",
-      "title": "צירוף מקרים נדיר: כך גופתו של ספורטאי מוכר נמצאה במזבלה",
-      "summary": "קרואטיה לא נרגעת מהמוות של לוחם ה-MMA אברהם סלימון ארה • אחת הגרסאות שנבדקות היא שהשרידים הגיעו למקום יחד עם פסולת בניין מאתר אחר בזאגרב • על פי הגרסה הזו, ארה שהה בבית נטוש שהיה מיועד להריסה, ושם מת ממנת יתר",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21497510",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:29:21.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkypevicmx",
-      "title": "אלי שרעבי ביקר בסוכת משפחת קסאו: \"לעשות הכול כדי להחזיר את היימנוט\"",
-      "summary": "מאות ישראלים כבר ביקרו בסוכה שהוקמה בירושלים כדי לתמוך במשפחה שבתם נעלמה לפני קרוב לשנתיים. שרעבי: \"חשוב מאוד שכולנו נתאחד סביב המשפחה הזו כדי להחזיר אותה הביתה\"",
-      "link": "https://www.ynet.co.il/news/article/rkypevicmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-27T10:28:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371176",
-      "title": "\"כל מה שהיא עושה מוצדק לחלוטין\": המנהיג האירופי שיוצא להגנת ישראל",
-      "summary": "נשיא רפובליקת סרפסקה - הישות הסרבית בבוסניה, מציג תמיכה חד-משמעית בישראל, קושר בין הסבל ההיסטורי של הסרבים והיהודים וחושף כיצד פעל בעבר לבלימת הכרה פלסטינית. לצד זאת הוא תוקף בחריפות את ממשל ביידן",
-      "link": "https://www.maariv.co.il/news/world/article-1371176",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-27T10:24:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm0pti",
-      "title": "בסוכה ברחובה של עיר | הרבי מדעעש ערך את שולחנו לרגל החג",
-      "summary": "האדמו\"ר מדעעש ערך אמש (מוצ\"ש) את השולחן הטהור לרגל חול המועד סוכות, בסוכה שהוקמה ברחובה של עיר ברחוב רבי טרפון בסמוך לבית מדרשו | במהלך הטיש זימרו החסידים ט\"ו פרקי שיר המעלות, והאדמו\"ר נשא אמרות קודש",
-      "link": "https://www.kikar.co.il/hasidism/tm0pti",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:23:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21497156",
-      "title": "עם 3 מרכיבים פשוטים: כך תנקו ראשי גז שחורים בבית",
-      "summary": "הצטברות של שומן, פיח ושאריות מזון על המבערים יכולה להפוך אותם לקשים במיוחד לניקוי • השיטה הפשוטה שיכולה לעזור להחזיר להם מראה נקי יותר, בלי קרצוף אגרסיבי ועם כמה כללי בטיחות שחשוב להכיר",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21497156",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:23:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/south-africa-mass-shootings-27-killed",
-      "title": "27 נרצחו בסוף שבוע מדמם: שני מסעות הרג המוניים מזעזעים את דרום אפריקה",
-      "summary": "17 נרצחו בטברנה בוודלה כאשר חמושים פתחו באש ושדדו טלפונים • 10 נוספים נרצחו במתחם בילוי בקייפטאון | המשטרה פתחה בחקירה מאומצת (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/south-africa-mass-shootings-27-killed",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:22:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21496413",
-      "title": "\"אין לזה שום מקבילה\": העיר האבודה - שהתגלתה אחרי אלפי שנים",
-      "summary": "יישוב מתוכנן היטב בשטח של עד 300 דונם התגלה לאורך הדנובה ונראה כמי שננטש במכוון ובסדר מופתי סביב שנת 180 לספירה • האתר כולל אמפיתיאטרון חריג בגודלו ורשת רחובות ישרה • החוקרים מעריכים: שינויים באסטרטגיה הצבאית הובילו לנסיגה המונית מהעיר • כך נראית התגלית שמשנה את ההיסטוריה",
-      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21496413",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:18:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/israeli-hikers-trapped-nepal-samagaun-village",
-      "title": "נצורים בהימלאיה: עשרות ישראלים לכודים בכפר מבודד בנפאל; \"כאילו האדמה קורסת\"",
-      "summary": "מטיילים ישראלים מנותקים בגובה 3,500 מטר • מפולות סלעים חסמו את דרכי הגישה והחשמל נותק | חרדה גדולה בקרב המשפחות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/israeli-hikers-trapped-nepal-samagaun-village",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:17:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21497270",
-      "title": "רמי קלינשטיין נפרד: \"ואקום גדול נפער\"",
-      "summary": "הזמר, היוצר והגרוש ואם שתי בנותיה של ריטה חוזר אחורה בזמן בגעגוע ונפרד במחווה. \"היא באה עם כוונה, ודרמה לא הייתה מילה שיש להתבייש בה\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21497270",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:17:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21497283",
-      "title": "\"זלזול בנשים\": שרון סטון נגד קמפיין העירום של סידני סוויני",
-      "summary": "כוכבת \"אופוריה\" הצטלמה בטופלס כדי לקדם אפליקציית הימורים, אבל לא ציפתה לביקורת חריפה כל כך דווקא מכיוונה של קולגה מוכרת • הדרמה ההוליוודית החדשה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21497283",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:16:13.000Z"
     }
   ]
 }
