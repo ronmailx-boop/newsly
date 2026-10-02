@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:45:48.483Z",
+  "updatedAt": "2026-10-02T11:01:06.110Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tma107",
+      "title": "חֲבוּקָה וּדְבוּקָה בָּךְ • הושענא רבה בחצה\"ק גור",
+      "summary": "רבבות חסידי גור התרגשו הבוקר כאשר האדמו\"ר מגור הופיע בהדרו לתפילות היום של הושענא רבה, וזאת לאחר מספר ימי חולשה • צפו בתיעוד מרהיב, מנטילת לולב ועד חבילת ההושענות (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tma107",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-02T10:59:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1372928",
+      "title": "סערה ביישוב בבקעת הירדן: עבריין מין מורשע צפוי להתארח בחג",
+      "summary": "יוסף יצחק טוניק יוצא נגד ביקורו המתוכנן במבואות יריחו של ירוחם ריינוס, עבריין מין מורשע שריצה ארבע שנות מאסר. ביישוב אומרים כי הוטלו עליו מגבלות, אך אין אפשרות חוקית למנוע את הביקור",
+      "link": "https://www.maariv.co.il/news/law/article-1372928",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-02T10:57:48.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s18rabp5ml",
+      "title": "באמירויות מגדירים לראשונה את הניסיון לריסוק טיסת פליי דובאי \"פעולת טרור\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/s18rabp5ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T10:55:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/sederhalacha/tlwuk3-6",
+      "title": "עם סגולה: מה עושים עם ארבעת המינים אחרי החג? • צפו",
+      "summary": "קול סיני – סדר הלכה • מדי יום הרב יעקב סיני מזמין אתכם ללימוד הלכתי מעמיק בסוגיות העומדות על הפרק | והיום, ארבעת המינים אחרי סוכות: האם מותר לנשוך את הפיטם בהושענא רבה, הסגולה של ערבות החבטה, וסגולת האתרוג של מרן זצ\"ל • צפו בפינת ההלכה (יהדות)",
+      "link": "https://www.kikar.co.il/sederhalacha/tlwuk3-6",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-02T10:55:09.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%A2%D7%A9%D7%A8%D7%95%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D_%D7%94%D7%AA%D7%A4%D7%9C%D7%9C%D7%95_%D7%AA%D7%A4%D7%99%D7%9C%D7%94_%D7%97%D7%92%D7%99%D7%92%D7%99%D7%AA_%D7%91%D7%91%D7%99%D7%AA%D7%94_%D7%9B%D7%A0%D7%A1%D7%AA_%D7%91%D7%99%D7%A8%D7%99%D7%97%D7%95",
+      "title": "עשרות יהודים השתתפו בתפילה חגיגית בבית הכנסת ביריחו",
+      "summary": "עשרות יהודים התפללו בבית הכנסת העתיק שלום על ישראל המתפללים הגיעו למקום בשעות הבוקר המוקדמות. ויצאו רק לאחר תפילת שחרית חגיגית, עם הלל והקפות בהושענות ושירים.",
+      "link": "https://www.hakolhayehudi.co.il/item/Land_Israel/%D7%A2%D7%A9%D7%A8%D7%95%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D_%D7%94%D7%AA%D7%A4%D7%9C%D7%9C%D7%95_%D7%AA%D7%A4%D7%99%D7%9C%D7%94_%D7%97%D7%92%D7%99%D7%92%D7%99%D7%AA_%D7%91%D7%91%D7%99%D7%AA%D7%94_%D7%9B%D7%A0%D7%A1%D7%AA_%D7%91%D7%99%D7%A8%D7%99%D7%97%D7%95",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-10-02T10:42:00.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21537531",
       "title": "משיב מלחמה: שי אביטל ניצח בתביעה את טום אביב | פרסום ראשון",
@@ -25392,123 +25437,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-27T11:09:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21497880",
-      "title": "בגלל האף: בובת הברבי היהודייה מעוררת סערה ברשת",
-      "summary": "בובת הברבי היהודייה שהציגה ענקית הצעצועים מאטל כחלק מקולקציית החגים החדשה שלה עוררה סערה זועמת ברשת לאחר שרבים טענו כי אפה עוצב באופן המנציח סטריאוטיפים אנטישמיים",
-      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21497880",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T11:00:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21497719",
-      "title": "מבצע חסר תקדים: העמותה שמציעה סיוע של אלפי שקלים למאמצי כלבים",
-      "summary": "על רקע זינוק בנטישות ועומס כבד בכלביות, עמותת \"תנו לחיות לחיות\" יוצאת במבצע חירום • 100 המשפחות הראשונות יקבלו חבילת סיוע וליווי באלפי שקלים • כל הפרטים על מועדי ימי האימוץ באוקטובר",
-      "link": "https://www.israelhayom.co.il/tech/animals/article/21497719",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:58:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21497719",
-      "title": "\"תנו לחיות לחיות\" במבצע ענק: סיוע בשווי אלפי שקלים למאמצי כלבים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/tech/animals/article/21497719",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:58:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21497046",
-      "title": "\"הפועל תל אביב רצתה אותי, אני פטריוט ונשארתי בבית\"ר ירושלים\"",
-      "summary": "למרות שלא זכה בתואר, תמאש שאנדור נחשב לאחד הזרים האהובים ששיחקו בישראל: \"עד היום אני מקבל הודעות מאוהדים, מאוד מרגש\" • הוא חושף איך דחה את האדומים (\"דרור קשטן רצה אותי\") ומספר: \"הייתי במסעדת סבארו לפני הפיגוע\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21497046",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:57:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21497046",
-      "title": "\"הפועל תל אביב רצתה אותי, אני פטרויט ונשארתי בבית\"ר ירושלים\"",
-      "summary": "למרות שלא זכה בתואר, תמאש שאנדור נחשב לאחד הזרים האהובים ששיחקו בישראל: \"עד היום אני מקבל הודעות מאוהדים, מאוד מרגש\" • הוא חושף איך דחה את האדומים (\"דרור קשטן רצה אותי\") ומספר: \"הייתי במסעדת סבארו לפני הפיגוע\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21497046",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:57:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21497241",
-      "title": "נינט, כיכר החתולות ו\"פחית של צהריים\": ספרו היכן גדלתם - בלי שם המקום",
-      "summary": "איך מזהים את העיר שלכם בלי להגיד את השם שלה? • פוסט ויראלי ברשת גרם לגולשים מכל הארץ לשתף את המאפיינים, הסלנג והדמויות שהכי מזוהים עם המקום שבו גדלו • אלו הרמזים שרק המקומיים באמת יכירו בלי למצמץ",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21497241",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:55:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21482829",
-      "title": "זהירות: זה ממכר! עוגיית שוקולד צ'יפס בתוך כדור שוקולד",
-      "summary": "עוגיית שוקולד צ'יפס רכה מסתתרת בתוך מעטפת דקה של שוקולד חלב שמתפצחת בביס • כל מה שצריך הוא בצק פשוט, תבנית סיליקון וכמה דקות במקפיא כדי לקבל את הקינוח הזה • תודו לנו אחר כך",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21482829",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:54:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm0r2e",
-      "title": "במוצאי יו\"ט: האדמו\"רים מקוזמיר ומאוז'רוב ערכו את שולחנותיהם בסוכותיהם",
-      "summary": "בסוכותיהם בבני ברק ערכו האדמו\"רים מקוזמיר ומאוז'רוב את השולחנות הטהורים לרגל אושפיזין דצחק אבינו | במהלך הטיש הרחיבו בשיר והלל, ונשאו אמרות קודש על גודל האושפיזין והתאספות החסידים בימי המועד (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm0r2e",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:52:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21497576",
-      "title": "הפתעה במקום הראשון: השירים הכי מושמעים בישראל - בשבוע האחרון",
-      "summary": "פתח פער בלתי נתפס: בר צברי שומר על הפסגה שבוע שני ברציפות ועוקף את השמות הגדולים עם \"ילדה מטורפת\" • ריכזנו את 20 הלהיטים הכי מושמעים בתחנות הרדיו בישראל כיום",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21497576",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:51:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21497770",
-      "title": "סוף התלות בארה\"ב? תוכנית \"שכבות ההגנה\" של סעודיה",
-      "summary": "ריאד הבינה שהאמריקנים לא יילחמו עבורה נגד החות'ים והחלה לגייס סיוע מצרפת, בריטניה, פקיסטן וטורקיה • ראשי צבאות \"ברית מכה\" התכנסו השבוע בריאד כדי להאיץ את תיאום הכוחות, אך האם פיצול הסיכונים יספק לממלכה הגנה אמיתית?",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21497770",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:50:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21497506",
-      "title": "\"אין אבסורד מזה\": המערכת הפוליטית מגיבה להחלטה לדחות את מכרז הבנייה ביו\"ש",
-      "summary": "בן גביר, רוטמן וגוטליב תקפו את הדחייה, בעוד ליברמן תמך בה • המכרז כולל 1,234 יחידות דיור באזור E1, כ-12 קמ\"ר הנמצא בין ירושלים למעלה אדומים והמשך ההליך צפוי להתקיים לאחר הבחירות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21497506",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T10:49:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tm0qco",
-      "title": "היסטוריה בראדין: בימים אלו מושלם שחזורו של היכל הישיבה העתיק",
-      "summary": "יותר ממאה שנה לאחר חנוכתו, ולאחר עשרות שנים שבהן המבנה ההיסטורי שייסד מרנא החפץ חיים זיע\"א חולל ושימש למטרות זרות – הולכת ונשלמת מלאכת שיקומו של היכל ישיבת ראדין • המבנה ששימש את גדולי תלמידי החפץ חיים, ובהם רבי אלחנן וסרמן והרב מפוניבז', ישוב לשמש היכל תורה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tm0qco",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:47:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm0qor",
-      "title": "החסידים נהרו מכל הארץ | ההפתעה: בנו של הרבי מרמת אהרן הנעים בקולו",
-      "summary": "כלל חסידי ספינקא רמת אהרן מכל רחבי הארץ נהרו אמש (מוצאי שבת) לשמחת בית השואבה שערך האדמו\"ר בסוכה הגדולה ברחבת בית מדרשו בבני ברק. בטיש המרומם השתתף גם האדמו\"ר ממבקשי השם. במהלך המעמד זימרו החסידים שירות ותשבחות, כשעל מלאכת השירה ניצח בעוז, עם רמקול בידו, בנו של האדמו\"ר (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm0qor",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-27T10:46:38.000Z"
     }
   ]
 }
