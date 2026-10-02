@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:00:59.493Z",
+  "updatedAt": "2026-10-02T20:15:40.933Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjv2tt6cfe",
+      "title": "דיווח: עומאן אסרה בעבר על טייס המשנה לטוס - בגלל שאימץ \"השקפות קיצוניות\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/hjv2tt6cfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-02T20:07:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21539008",
+      "title": "מכבי תל אביב נגד פנאתינייקוס: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
+      "summary": "פרק 3: מאמן העבר והפרשן מסכמים את המחזור ביורוליג אחרי המשחק של הצהובים באתונה ומדברים גם על הניצחון של הפועל ת\"א מול ריאל מדריד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21539008",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T19:55:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21535131",
+      "title": "לא המשחק מול ישראל: הרגע שבאמת חשף את הצביעות של אירלנד",
+      "summary": "הקרקס הפוליטי שעשתה הנבחרת האירית היה אמנם מביך וצבוע • אבל הוא לא הראה את עומק העיוות בנפש של הזועקים \"ג'נוסייד, ג'נוסייד\" כמו משחק אחר, זניח פי כמה, שהתקיים לאחרונה • נדמה שהם מבקשים לצעוק מילה אחרת - ולא יכולים",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21535131",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T19:50:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21540000",
+      "title": "האיש של ארדואן ינהל את האו\"ם? ההתפתחות במרוץ החשוב",
+      "summary": "האפשרות למועמד חיצוני עלתה לאחר שגם סקר הקש הרביעי במועצת הביטחון לא הכריע את המרוץ • פרידון סינירליאולו, שכיהן בעבר כשגריר בקו תל אביב-אנקרה וכיום מזכ\"ל ה-OSCE, זוכה לפי הערכות בתמיכת ארבע מחברות המועצה • האם הדיפלומט שהאשים את ישראל ב\"פשעי מלחמה\" ישיג את ההסכמה בניו יורק?",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21540000",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T19:45:31.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjofgy6qzl",
       "title": "ניצן אלון: \"החברה הישראלית זקוקה להנהגה אחרת, לא לסיסמאות כמו 'ניצחון מוחלט'\"",
@@ -147,6 +183,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-02T18:10:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21539403",
+      "title": "חי מהיורוליג: פנאתינייקוס - מכבי תל אביב 50:77",
+      "summary": "מחזור 3: הצגה של קבוצה אחת באואקה • היוונים עושים ככל העולה על רוחם מול הצהובים, שלא קלעו שלשה אחת במחצית הראשונה ומתקשים לבוא לידי ביטוי בחלק ההתקפי • עודד קטש בדרך לפתיחת העונה הרעה בתולדות המועדון בעידן היורוליג",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21539403",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-02T18:07:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21539403",
@@ -718,7 +763,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21537876",
       "title": "המלחמה שלא נגמרת: הצביעות של התקשורת הבינ״ל חוגגת לנוכח הפללות צה״ל",
-      "summary": "צה\"ל פרסם מאגר עם ראיות שלפיהן 170 פלסטינים שהוצגו כאנשי תקשורת - היו פעילי טרור • מביניהם - 17 שהשתתפו בטבח 7 באוקטובר • בדיקת \"היום\" בקרב 12 גופי חדשות מובילים העלתה: כמעט כולם נמנעו מדיווח ייעודי על החשיפה • ברשת X, לעומת זאת, התעורר דיון נרחב",
+      "summary": "צה\"ל פרסם מאגר עם ראיות שלפיהן 170 פלסטינים שהוצגו כאנשי תקשורת - היו פעילי טרור • מביניהם - 17 שהשתתפו בטבח 7 באוקטובר • בדיקת \"היום\" בקרב 12 גופי חדשות בינלאומיים מובילים העלתה: כמעט כולם נמנעו מדיווח ייעודי על החשיפה, חלקם דיווחו על ״ההרס שגרמה ישראל בעזה״ • ברשת X, לעומת זאת, התעורר דיון נרחב",
       "link": "https://www.israelhayom.co.il/news/world-news/article/21537876",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -24114,24 +24159,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-27T20:19:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21502246",
-      "title": "הרב הירש מסמן את יעד החרדים לבחירות: \"השמאל מתחזק\" | צפו",
-      "summary": "מנהיג הציבור החרדי-ליטאי נשא נאום חריף - והזהיר מפני בידוד בינלאומי בעת מלחמה • בדבריו טען כי רוב האמריקנים עוינים כיום את ישראל: \"יגידו לנו שהם לא יכולים לעזור\" • הרב דחה קולות \"ייאוש\" בציבור החרדי לקראת מערכת הבחירות - וקבע את מספר המנדטים אליהם המפלגות צריכות לשאוף",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21502246",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T20:12:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21502101",
-      "title": "רימון הושלך לבית בתרשיחא: בת 16 נפצעה באורח בינוני",
-      "summary": "על פי המשטרה, הנערה נפצעה מפיצוץ סמוך לבית • שוטרים סורקים אחר חשודים • הרקע לאירוע פלילי והנסיבות נחקרות",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21502101",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-27T20:10:21.000Z"
     }
   ]
 }
