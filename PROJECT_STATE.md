@@ -173,7 +173,52 @@ commit-ים עם `GITHUB_TOKEN` פנימי לא מפעילים `on: push` ב-wor
 
 ## Current Focus
 
-**עודכן (2026-09-14): נוסף מקור חדש - N12 (דרך mako.co.il).**
+**עודכן (2026-10-03): תקלה חיה - Deploy Pages תקוע, האתר לא מתעדכן. פעולה נדרשת מהמשתמש.**
+
+המשתמש דיווח "תבדוק למה החדשות הפסיקו להתעדכן". **אובחן:** `fetch-news.yml`
+עובד מושלם (כל 15 דק', 100% הצלחה, `data/news.json` ב-`main` טרי לגמרי) -
+**הבעיה היא ב-Deploy Pages**: אף ריצה שלו לא הצליחה מאז **2026-09-30 16:31
+UTC** (כ-2.5 ימים) - כל ריצה מסתיימת ב-`cancelled`. הסיבה המדויקת: יש
+**deployment תקוע** במערכת ה-Pages הפנימית של GitHub (ID `6764983873`,
+נוצר 2026-09-30T16:45:57Z) שנשאר במצב `waiting` ולא זז משם - זה lock
+ברמת GitHub עצמו (environment `github-pages`), **נפרד** מה-`concurrency`
+של ה-workflow שלנו (שמוגדר `cancel-in-progress: false` ולכן לא אשם). כל
+ניסיון deploy חדש (כל 15 דק', בעקבות `workflow_run` אחרי `fetch-news`)
+נתקע מאחורי ה-deployment התקוע ומתבטל כשמגיע הבא. **האתר החי מציג כנראה
+תוכן מלפני 2.5 ימים**, גם שהרפו עצמו מעודכן.
+
+**מה שנעשה בסשן הזה:**
+- [x] אובחן השורש (deployment תקוע, לא קשור לקוד/לוגיקה שלנו).
+- [x] נוסה תיקון דרך ה-API (`POST .../deployments/6764983873/statuses`
+  עם `state=inactive` - הדרך הרשמית של GitHub בדיוק למקרה הזה) - **נחסם
+  ברמת ה-proxy של הסשן** ("Write access to this GitHub API path is not
+  permitted through this proxy") - זו הגבלת תשתית קשיחה, לא פרומפט
+  הרשאה שאפשר לעקוף אותו גם עם אישור מהמשתמש.
+- [x] הושבת זמנית ה-`workflow_run` trigger ב-`deploy-pages.yml` (מוקומנט
+  החוצה, לא נמחק) - כדי להפסיק לייצר עוד ניסיונות deploy שנכשלים כל 15
+  דק' ומבזבזים דקות Action, עד שהלוק יתנקה. `push`/`workflow_dispatch`
+  עדיין פעילים לדפלוי ידני.
+
+**[ ] נדרשת פעולה מהמשתמש** (אין לי גישת API לנקות deployment תקוע):
+אחת מהשתיים -
+1. **הכי מהיר:** Settings → Pages → תחת "Build and deployment", להחליף
+   את ה-Source **זמנית** ל-"Deploy from a branch" ואז **מייד בחזרה**
+   ל-"GitHub Actions" (הלוך-חזור, לא להשאיר על branch). זה בדרך כלל
+   מנקה lock תקוע כזה.
+2. או להריץ בעצמו (עם הרשאות מלאות, לא דרך הסשן הזה):
+   `gh api -X POST repos/ronmailx-boop/newsly/deployments/6764983873/statuses -f state=inactive`
+
+**אחרי שהלוק מתנקה - שני שלבים:**
+1. להריץ `workflow_dispatch` ל-`deploy-pages.yml` ולוודא שהוא מסתיים
+   ב-`success` (לא `cancelled`).
+2. להחזיר את ה-`workflow_run` trigger ב-`deploy-pages.yml` (להסיר את
+   ה-`#` מול השורות) כדי שעדכונים אוטומטיים כל 15 דק' יחזרו לעבוד -
+   **אל תשכח את השלב הזה, אחרת `fetch-news` ימשיך לרוץ אבל Pages לא
+   יתעדכן לעולם**.
+
+---
+
+**קודם (2026-09-14): נוסף מקור חדש - N12 (דרך mako.co.il).**
 
 המשתמש ביקש "אתה יכול להוסיף rss של n12?". `n12.co.il` עצמו עדיין חסום
 ע"י Radware (גם ה-`/feed` שלו - redirect לעמוד אתגר של
