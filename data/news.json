@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:30:57.978Z",
+  "updatedAt": "2026-10-03T11:45:43.958Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/skmm008cqfl",
+      "title": "המורדים בורחים ממעוזם באתיופיה: \"ביזה במתקני הממשלה, נוטשים עמדות\"",
+      "summary": "מלחמת האזרחים ההרסנית באתיופיה התחדשה בשבוע שעבר - אבל כוחותיו של ראש הממשלה אביי אחמד, חתן נובל לשלום, רושמים הישגים משמעותיים בשטח - ולפי הדיווחים המורדים נסוגים כעת ממעוזם בבירת חבל תיגראי: \"נמל התעפה נכבש\"",
+      "link": "https://www.ynet.co.il/news/article/skmm008cqfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T11:37:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1373119",
+      "title": "אובדן המשילות באיו\"ש: המתנחלים הכו באלות, צה\"ל הגיע אחרי שעות",
+      "summary": "אירוע אלימות מתנחלים באיו\"ש: עשרות מתנחלים תקפו פלסטינים בכפר אוסרין הסמוך לשכם. הופצו תיעודים קשים בהם נראים אנשים מתבוססים בדמם ומתנחלים שוברים רכבים באלות. צה\"ל הגיע לאזור אחרי שעות ארוכות",
+      "link": "https://www.maariv.co.il/news/military/article-1373119",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T11:32:32.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hyz4e655zl",
       "title": "\"היא אמרה 'אמא, יורים', ולא הבנתי. ניסיתי להרגיע אותה בכעס\"",
       "summary": "הילדים ידעו שזה הסוף, אבל ההורים התקשו להאמין או להכיל את התרחיש הנורא מכל. שלוש שנים אחרי הטבח בשמחת תורה, הם חוזרים להקלטות הכואבות ומתחרטים על הרגע שבו לא הבינו שזו השיחה האחרונה: \"עשר דקות אחרי השיחה ראם נהרג. אני הכי מצטערת בעולם שלא פשוט הנעתי את האוטו ונסעתי\"",
@@ -48,6 +66,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-03T11:23:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21541217",
+      "title": "ליד המתנפחים: ארז איסקוב עשה את המוב",
+      "summary": "אביתר עוזרי בלי ענבל אלדן, יהודה בוחבוט בלי מיכל הקטנה, ואיסקוב בלי לדלג על פלירטוט עם בעלת השמחה. צפו בכל התיעודים המעניינים מיומולדת 25 של מישל פרו",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21541217",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T11:15:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21541370",
@@ -84,6 +111,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T10:39:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373110",
+      "title": "יהודים על הכוונת: דרמת הענק בבריטניה שטרם סופרה",
+      "summary": "שנה אחרי הפיגוע הרצחני בבית הכנסת בבריטניה במהלך יום הכיפורים, מתברר כי מחבלים נוספים תכננו לבצע רצח של יהודים באותו היום",
+      "link": "https://www.maariv.co.il/news/world/article-1373110",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T10:29:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373110",
@@ -22314,60 +22350,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-28T11:46:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21505345",
-      "title": "7 דברים שאפשר לסדר ב-2 דקות",
-      "summary": "לא צריך לחכות שהחופשה תיגמר כדי להחזיר קצת סדר הביתה • כמה פעולות קצרות, שאפשר לעשות בין ארוחה לסרט, יעזרו להשתלט על הבלגן בלי להפוך את היום למרתון ניקיונות",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21505345",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T11:43:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21506020",
-      "title": "\"יש לך עד מחר להביא לי 200 אלף\": חשד לסחיטת קבלן",
-      "summary": "קבלן תושב עוספיא התלונן במשטרה על סחיטה באיומים • בתוך שעות איתרו בלשי תחנת נשר את החשוד ועצרו אותו בביתו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21506020",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T11:35:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21504214",
-      "title": "26 לוויני ענק ומסלול ראשון סביב כדור הארץ: השיגור של הטיל הכי חזק בהיסטוריה | צפו",
-      "summary": "היום זה קורה: החברה של אילון מאסק נערכת לטיסת המבחן ה-14 של ה-Starship בטקסס • זו הפעם הראשונה שהרקטה הענקית תנסה להגיע למסלול מלא סביב כדור הארץ במסע של כעשר שעות • היא נושאת עמה 26 לווייני Starlink V3 שישדרגו דרמטית את רוחב הפס העולמי • צפו בשיגור",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21504214",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T11:34:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21504214",
-      "title": "26 לוויני ענק ומסלול ראשון סביב כדור הארץ: השיגור ההיסטורי של SpaceX | צפו",
-      "summary": "היום זה קורה: החברה של אילון מאסק נערכת לטיסת המבחן ה-14 של ה-Starship בטקסס • זו הפעם הראשונה שהרקטה הענקית תנסה להגיע למסלול מלא סביב כדור הארץ במסע של כעשר שעות • היא נושאת עמה 26 לווייני Starlink V3 שישדרגו דרמטית את רוחב הפס העולמי • צפו בשיגור",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21504214",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T11:34:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14910407",
-      "title": "פינוי או בינוי: מה התוכנית של כל מפלגה ליהודה ושומרון",
-      "summary": "משאלת הריבונות בשטחי יהודה ושומרון, דרך האפשרות לפינוי יישובים במסגרת הסכם עתידי ועד הטיפול במאחזים הבלתי חוקיים ‑ המפלגות המתמודדות בבחירות מציגות את העמדות שלהן בסוגיות הליבה בסכסוך הישראלי-פלסטיני. מה התוכנית של המפלגות בנושאים הבוערים: כתבה שלישית בסדרה",
-      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14910407",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T11:33:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21505858",
-      "title": "נולד במשקל חצי ק\"ג ושרד 7 החייאות: אדם בן ה-4 חודשים נלחם על חייו",
-      "summary": "התאומים אדם ואמילי נולדו בלידת חירום בארה\"ב • אביהם היחידני בר נלחם לבדו בבתי חולים - והחלטה רפואית אחת דרמטית שולחת אותם למאבק הישרדות • \"רק רוצה לראות את אח שלי חוזר הביתה עם שני הילדים שלו\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21505858",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T11:32:34.000Z"
     }
   ]
 }
