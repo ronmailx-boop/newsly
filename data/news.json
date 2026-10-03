@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:45:42.322Z",
+  "updatedAt": "2026-10-03T10:01:02.246Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1373108",
+      "title": "איש הצללים של סינוואר וראש הנחש של התעמולה: מי הוא עלי אל עאמודי?",
+      "summary": "עלי אל-עאמודי, בכיר חמאס שהפך בפועל ליורשו של סינוואר ברצועת עזה ולראש הזרוע התפעולית בשטח. אל-עאמודי הכיר את סינוואר בכלא הישראלי ושם נרקמו יחסי האמון ביניהם, שהניעו את התקדמותו בצמרת חמאס",
+      "link": "https://www.maariv.co.il/news/military/article-1373108",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T09:57:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s17mthccfe",
+      "title": "נתניהו טען שישראל הזהירה את בריטניה מפגיעה בבסיס - ותקף: \"מדינה סוררת\"",
+      "summary": "בריאיון ל\"דיילי מייל\" נשאל רה\"מ על הסנקציות שהטילה לונדון, ותקף את ממשלת הלייבור: \"צביעות בלתי נתפסת\". הוא טען כי התרעה שניתנה על מתקפה בבסיס חיל האוויר פיירפורד השבוע הצילה חיים. לדבריו הביקורת על ישראל נובעת מניסיון לפייס איסלאמיסטים: \"צ'רצ'יל קרא לזה 'תרדמת הדמוקרטיות'\"",
+      "link": "https://www.ynet.co.il/news/article/s17mthccfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T09:44:56.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjxywsccze",
       "title": "\"מתנחלים תקפו עם אלות\": פלסטיני בן 50 תועד מדמם במסיק הזיתים",
@@ -102,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T08:24:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373096",
+      "title": "סרט בדיוני: כולם דיברו על חמשת המופלאים - עכשיו מגיעה עדות חדשה על הנס שקרה אחרי נטרול הטייס",
+      "summary": "עופר דוברובסקי, שישב במושב 8C לצד בני משפחתו בטיסת האימה מדובאי, סיפר על החוויה הקשה שעבר, כשהיה במרחק של שניות בודדות ממוות בטוח, יחד עם כל שאר הנוסעים במטוס",
+      "link": "https://www.maariv.co.il/news/world/article-1373096",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T08:22:07.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373096",
@@ -22692,51 +22719,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-28T10:01:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21505060",
-      "title": "הנסיך הארי בעדכון נדיר על ילדיו: \"היה להם קצת דיכאון\"",
-      "summary": "אחרי שנאלצו להחליף מוסד לימודים בתוך 48 שעות בלבד, הנסיך חושף כיצד מתמודדים שני הילדים עם החזרה לממלכה, הקושי לצאת ללימודים בתחילת השבוע - וההקלה הגדולה של מייגן ושלו כשהשגרה התייצבה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21505060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T09:59:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21505078",
-      "title": "סגלוביץ' על אבו שחאדה: \"חצה את הגבול ולא צריך להתמודד\"",
-      "summary": "מועמד רע\"ם לכנסת התייחס בפודקאסט של נדב פרי לפסילת יו\"ר בל\"ד • לצד קביעתו כי אבו שחאדה אינו צריך להתמודד, אמר כי \"ברמה העקרונית\" הוא אינו אוהב פסילות מועמדים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21505078",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T09:59:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21503177",
-      "title": "ירידה של 35% בסיכון לדמנציה: 5 דקות של קריאה ביום ישנו לכם את המוח",
-      "summary": "סקירה חדשה מאוניברסיטת קיימברידג' מצביעה על קשר ישיר בין קריאת ספרים לשיפור הזיכרון, הפחתת דיכאון, איכות שינה גבוהה והאטת דמנציה בגיל המבוגר • קריאה בגיל מוקדם מגדילה את נפח ה\"חומר האפור\" באזורי השפה והוויסות הרגשי • עם זאת, החוקרים מסייגים: \"יש להיזהר מקביעת קשר סיבתי מוחלט\"",
-      "link": "https://www.israelhayom.co.il/tech/research/article/21503177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T09:55:36.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r14ldhp5zl",
-      "title": "נתניהו בפגישה עם נשיא האמירויות: תכחיש שהתרעת בפניי לפני 7 באוקטובר",
-      "summary": "ראש הממשלה שהה באבו דאבי 6 שעות, ולפי מידע שהגיע לסוכנות הידיעות AP, הביקור התמקד בדיווח לפיו קיבל התרעה על כוונת חמאס לפני 7 באוקטובר ובבקשה מצד נתניהו שיכחיש",
-      "link": "https://www.ynet.co.il/news/article/r14ldhp5zl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T09:50:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21504852",
-      "title": "למי מיועדים המים מהמיכל? התיעוד של הדיילת שעורר סערה ברשת",
-      "summary": "נוסעת תיעדה דיילת של פונטייר איירליינס ממלאת בקבוקי מים מינרלים ריקים מברז במטבח המטוס במהלך טיסה מלוס אנג'לס לדנוור • הסרטון עורר ביקורת ברשת, גם בעקבות החשש שמא המים מהמיכלים המלוכלכים יוגשו לנוסעים, וגם מכיוון שהחברה מוכרת בקבוק מים ב-4.29 דולר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21504852",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T09:46:01.000Z"
     }
   ]
 }
