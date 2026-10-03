@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:30:46.959Z",
+  "updatedAt": "2026-10-03T04:45:44.656Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373064",
+      "title": "היערכות אחרונה לקראת חידוש המלחמה באיראן? מפגש הפסגה של ממשל דונלד טראמפ",
+      "summary": "הבכירים ביותר בממשל טראמפ, כמו גם גורמים משמעותיים נוספים, התכנסו ב\"קמפ דיוויד\" על מנת לדון בהמשך ההתפתחויות מול איראן והחות'ים בתימן, כך דווח בתקשורת המקומית",
+      "link": "https://www.maariv.co.il/news/world/article-1373064",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T04:33:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkigaer9fg",
+      "title": "נחשפה זהות הטייס-המחבל, בן לאם סורית: \"צילם מטוסי אל-על אחרי 7/10, רצה לרסק את המטוס בישראל\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/hkigaer9fg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T04:31:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21540331",
+      "title": "פיני גרשון קוטל את מכבי תל אביב: \"כמו אוניברסיטה מול גן חובה\"",
+      "summary": "מאמן העבר התייחס בפודקאסט \"על הבאזר\" על הדרך שבה הצהובים הפסידו 90:67 לפנאתינייקוס: \"פאניקה? זה מבוא למשבר, אני חושב שמכבי תל אביב צריכה להיות מודאגת\" • על חלקו של עודד קטש אמר: \"כמו שאני נותן 85% אחריות על ניצחונות, ככה גם על הפסדים\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21540331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T04:28:31.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21532253",
       "title": "הסרט שכבש את המבקרים מגיע סוף סוף לנטפליקס: מה לראות היום בטלוויזיה",
@@ -23844,33 +23871,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-28T04:47:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21502823",
-      "title": "אחרי 26 שנה: עינב בובליל מספרת איך הפסיקה",
-      "summary": "בקטע מתוך התוכנית החדשה \"מי מתחיל?\" של אסי עזר, בובליל חוזרת להרגל שעליו סיפרה כבר בעבר ומגלה מה השתנה מאז. לדבריה, אחרי טיפול שבמהלכו קישרה את תחילת הצביטות לגיל 13, במועד הצילום כבר שבעה חודשים לא עשתה זאת",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21502823",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T04:45:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14910458",
-      "title": "הקונספציה של נסראללה אחרי הביפרים: \"נכנס לקיפאון, לא חשב שישראל תלך עד הסוף\"",
-      "summary": "ממעקב של עשור, דרך מבצע הביפרים ועד ל-83 טונות פצצות על הבונקר - קציני המודיעין שהובילו את החיסול ששינה את המזרח התיכון חושפים פרטים חדשים: \"ידענו מתי הוא הולך לישון, ומה הוא אוהב לאכול\". הלחץ לצאת לדרך מחשש שנסראללה יחליף מיקום, מה גרם לו ליפול לקונספציה השגויה - ומה היה הנז\"א",
-      "link": "https://www.ynet.co.il/news/article/yokra14910458",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T04:41:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21502757",
-      "title": "תוך 3 ימים: קפטן מכבי חיפה כבש צמד ורשם ניצחון ענק נוסף",
-      "summary": "קנג'י חורה שוב הוביל את נבחרת קוראסאו וחגג פעמיים בדרך ל-1:6 מול ניקרגואה בליגת האומות של צפון אמריקה • עידו זלצר-זובידה נכלל בסגל של אינטר מיאמי וראה מהספסל את ליונל מסי כובש שער מרהיב בכדור חופשי",
-      "link": "https://www.israelhayom.co.il/sport/article/21502757",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T04:33:03.000Z"
     }
   ]
 }
