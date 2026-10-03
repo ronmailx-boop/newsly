@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:31:35.955Z",
+  "updatedAt": "2026-10-03T18:45:52.898Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/tmcgil",
+      "title": "בן גביר מאיים בתביעת ענק נגד ynet: \"לא נעבור על כך לסדר היום\"",
+      "summary": "השר איתמר בן גביר ומפלגת עוצמה יהודית דורשים מ־ynet להסיר את הכתבה על העימותים במצפה יריחו ולשלם מיליון שקל, בטענה לפרסום מכפיש (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/tmcgil",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T18:44:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/flydubai-flight-extreme-dive-physics-explained",
+      "title": "הסוד נחשף: המטוס צנח 4.3 ק\"מ בחצי דקה – ואף אחד לא עף לתקרה",
+      "summary": "נתוני הדרמה בטיסת פליי דובאי חושפים כיצד המטוס צלל במהירות עצומה של יותר מ-14 אלף רגל בפחות מחצי דקה; מומחי תעופה מסבירים איך למרות הזוועה בקוקפיט והנזק הכבד לזנב – הנוסעים לא עפו לתקרה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/flydubai-flight-extreme-dive-physics-explained",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T18:43:46.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1373207",
       "title": "אושר לפרסם: יו\"ר נתיבי איילון עידן דוד הוא הבכיר שנחקר בלהב 433",
       "summary": "לאחר הדיווח על החקירה ביום חמישי, אושר לפרסום כי יו\"ר נתיבי איילון עידן דוד הוא הבכיר שעוכב לחקירה בלהב 433 בחשד לעבירות מרמה, הפרת אמונים, זיוף והגשת תצהיר כוזב",
@@ -41,12 +59,30 @@
       "pubDate": "2026-10-03T18:27:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21543521",
+      "title": "שומרים על המדינה, משלמים בקריירה",
+      "summary": "כשהלחימה לא נגמרת, המילואימניקים ממשיכים לאבד מערכם בשוק העבודה • הדרך להצלת מערך המשרתים היא בהפיכתם לרווחיים למשק • בדיוק לשם כך הוקם המיזם \"תו מילואים\", המציע סטנדרט לאומי חדש, כזה המחליף סיסמאות ריקות באינטרס כלכלי מובהק",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21543521",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T18:25:47.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1373199",
       "title": "קפטן סמית' מאצ'האר לנתניהו: \"שמעתי אנשים צורחים והבנתי שהמטוס נשאב למטה\"",
       "summary": "בשיחה עם ראש הממשלה שחזר קפטן סמית' מאצ'האר את התקיפה בתא הטייס: \"כמעט איבדתי את הראייה\"; לדבריו, שמע נוסעים צורחים והבין שהמטוס נשאב למטה. נתניהו הזמין את הקברניט להדליק משואה",
       "link": "https://www.maariv.co.il/news/israel/article-1373199",
       "source": "מעריב",
       "sourceKey": "maariv",
+      "pubDate": "2026-10-03T18:22:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21543595",
+      "title": "בנה של הזמרת המפורסמת הואשם - ועלול להסתבך עוד יותר",
+      "summary": "בן ה-28 ממודיעין מואשם בהחזקת סם שלא לצריכה עצמית • חרף ההתכתבויות שהוצגו לו, הוא בחר שלא לשתף פעולה • לאישום עלול להתווסף סעיף שיחריף את עונשו",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21543595",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T18:22:42.000Z"
     },
     {
@@ -59,6 +95,15 @@
       "pubDate": "2026-10-03T18:22:03.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21543573",
+      "title": "גיא זוארץ ויעל בר זוהר מתתקרבים לדת: ''כמו מגנט - התחברנו''",
+      "summary": "בחופשה לכבוד 21 שנות נישואים בניו יורק, גיא זוארץ ויעל בר זוהר הגיעו לאוהל של הרבי מליובביץ' בערב הושענה רבה • רגע לפני שכתבו את המכתב לרבי, הם קיבלו עצה אחת חשובה • ולמי בחרו להקדיש את הבקשות האישיות שלהם",
+      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21543573",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T18:21:53.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1samtc9mg",
       "title": "המסר הסמוי של גנץ: אתמודד רק אם אהיה בטוח שאעבור את אחוז החסימה",
       "summary": "על רקע הדשדוש בסקרים, שבאף אחד מהם הוא אינו עובר את אחוז החסימה, יו\"ר כחול לבן פרסם סרטון בניסיון לשכנע מצביעים. למרות שטען כי הוא \"עומד מאחורי ההחלטה להתמודד\", בסביבתו מבהירים שהוא לא יזרוק את קולות המצביעים לפח: \"האמון שלכם קודש עבורי\"",
@@ -66,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-03T18:21:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21543549",
+      "title": "המחדל שנחשף: איך טייס שנפסל בעומאן הגיע בטיסה לישראל?",
+      "summary": "המאם אל-המאמי שובץ בקו לתל אביב אף על פי שנפסל בעבר מלטוס בעומאן • המידע על זהותו הועבר לישראל מראש, אך לא נמנע שיבוצו • שורה של כשלים במודיעין, ברגולציה ובאבטחת התעופה דורשת החמרה של הבדיקות לצוותי האוויר המגיעים לישראל • פרשנות",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21543549",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T18:19:08.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/on-the-way-to-deportation-four-anarchists-samaria",
@@ -21783,87 +21837,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-28T18:46:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/breslov-hasid-ukraine-military-odessa",
-      "title": "סוף לסאגת החסיד שגויס בכפייה באוקראינה: זה המקום שאליו יעבור",
-      "summary": "חסיד ברסלב מביתר עילית שנעצר בגבול ושובץ לחרקוב, יועבר לתפקיד עורפי כרופא בבית הרפואה באודסה | המהפך הושג בזכות קשרים ענפים ומאמצים דיפלומטיים של רבה הראשי של אודסה, הרב אברהם וולף, מול צמרת הצבא | כעת הוא יזכה לקבל מעטפת דתית מלאה, אוכל כשר, בית כנסת ומקווה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/breslov-hasid-ukraine-military-odessa",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T18:45:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21508657",
-      "title": "חוק הטיקטוק הזהיר",
-      "summary": "ניגשתי אליה, הצעתי מים ושאלתי מה היה כל כך דחוף שראשה היה תקוע בנייד בזמן שחצתה כביש סואן • תשובתה היתה כנה: \"הייתי בטיקטוק\"",
-      "link": "https://www.israelhayom.co.il/opinions/article/21508657",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T18:42:13.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371684",
-      "title": "\"הכול מתועד\": המסר החריג של בכירים לשעבר בשב\"כ לנתניהו",
-      "summary": "בכירים לשעבר בשב\"כ מתייצבים לצד רונן בר וטוענים כי בארגון קיים תיעוד מלא של הדיונים וההחלטות. עדי כרמי: \"הפרוטוקולים יעידו על מה שנעשה בחדרי החדרים\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1371684",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T18:40:08.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371684",
-      "title": "בכירים לשעבר בשב\"כ לצד רונן בר מול נתניהו: \"הכול מתועד במלואו\"",
-      "summary": "בכירים לשעבר בשב\"כ מתייצבים לצד רונן בר וטוענים כי בארגון קיים תיעוד מלא של הדיונים וההחלטות. עדי כרמי: \"הפרוטוקולים יעידו על מה שנעשה בחדרי החדרים\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1371684",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T18:40:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21508854",
-      "title": "מהכריש בחדרה ועד השיטפונות: היחידה שמגיעה כשאחרים לא יכולים",
-      "summary": "יחידת להבה מתמחה בחילוצים מבארות עמוקות, מים עכורים וזרמים מסוכנים • אנשיה השתתפו באיתור שרידי ההרוג מתקיפת הכריש בחדרה ובחילוצים משיטפונות • לקראת חול המועד הם מזהירים מהסכנות שמטיילים לא תמיד מזהים בזמן",
-      "link": "https://www.israelhayom.co.il/news/local/article/21508854",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T18:38:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/holon-explosion-crime-investigation",
-      "title": "הפיצוץ שהרעיד את חולון: הנער שנפצע שהה בסוכה ולא קשור לסכסוך",
-      "summary": "מצוד דרמטי אחר החשוד שמוכר למשטרה ומקורב לארגון פשע, שנמלט מהזירה על גבי קורקינט לאחר פיצוץ מטען החבלה הבוקר בחצר בית בחולון. במשטרה מעריכים כי המטען יועד לפגוע ביעד פלילי שלא נפגע, ונבדקת האם מדובר ב\"תאונת עבודה\" (חדשות)",
-      "link": "https://www.kikar.co.il/israel-news/holon-explosion-crime-investigation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T18:35:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21508895",
-      "title": "אחיו של הנעדר הישראלי בהרי האולימפוס: \"קיבלנו אינדיקציה חדשה\"",
-      "summary": "משלחת איחוד הצלה הגיעה ליוון לחיפושים אחר עמי יוגב • האח שלומי: \"מבקשים את עזרת עם ישראל בכל דרך אפשרית\" • כך ינסו לאתר את הישראלי שנעלם לפני שמונה ימים",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21508895",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T18:34:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21508849",
-      "title": "בצל חקירת מח\"ש: אבישי מועלם פורש מהמשטרה, עשוי לקבל תפקיד ציבורי",
-      "summary": "מפקד ימ״ר ש״י לשעבר, מועמד לתפקיד מנכ״ל עיריית טבריה • בעבר נחקר בחשד לשוחד, מרמה והפרת אמונים בפרשה שנגעה בין היתר בסיכול חקירות שב\"כ תמורת קידום • בעירייה אישרו כי ועדת האיתור צפויה להתכנס לאחר החג",
-      "link": "https://www.israelhayom.co.il/news/local/article/21508849",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T18:32:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21508786",
-      "title": "הווידוי של קרן פלס: \"רוצה לשבת לבד בחושך\"",
-      "summary": "רגע לפני העלייה לפסטיבל התמר יחד עם מירי מסיקה, הזמרת והיוצרת מתעדת את הרגעים שמאחורי הקלעים • למה הכוכבת מצאה את עצמה לבד בחדר חשוך, ומה קשור לשורשים שלה?",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21508786",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T18:31:54.000Z"
     }
   ]
 }
