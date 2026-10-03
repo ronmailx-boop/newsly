@@ -173,7 +173,23 @@ commit-ים עם `GITHUB_TOKEN` פנימי לא מפעילים `on: push` ב-wor
 
 ## Current Focus
 
-**עודכן (2026-10-03): תקלה חיה - Deploy Pages תקוע, האתר לא מתעדכן. פעולה נדרשת מהמשתמש.**
+**עודכן (2026-10-03): תקלת Deploy Pages נפתרה - האתר חזר להתעדכן.**
+
+**הפתרון שעבד בסוף:** לא ה-toggle של Settings → Pages (זה נוסה קודם
+ולא עזר) - אלא **מחיקת ה-environment `github-pages` כולו** דרך Settings
+→ **Environments** (לא Pages!) → פח אשפה ליד `github-pages`. GitHub יצר
+את ה-environment מחדש אוטומטית ב-deploy הבא, בלי ה-deployment התקוע
+מ-30/9. אומת: deployment חדש (`6825529721`) עבר `queued` → `in_progress`
+→ `success` תוך פחות מדקה - בניגוד לקודם שנתקע ב-`waiting` לנצח.
+**שחזרתי:** ה-`workflow_run` trigger ב-`deploy-pages.yml` (הוסר ה-`#`).
+
+**לקח לפעם הבאה** אם זה יקרה שוב: לנסות ישר את מחיקת ה-environment
+(Settings → Environments → `github-pages` → מחק) - לא לבזבז זמן על
+toggle של Pages Source קודם.
+
+---
+
+**קודם (2026-10-03, בתהליך): תקלה חיה - Deploy Pages תקוע, האתר לא מתעדכן.**
 
 המשתמש דיווח "תבדוק למה החדשות הפסיקו להתעדכן". **אובחן:** `fetch-news.yml`
 עובד מושלם (כל 15 דק', 100% הצלחה, `data/news.json` ב-`main` טרי לגמרי) -
