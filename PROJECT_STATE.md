@@ -173,7 +173,50 @@ commit-ים עם `GITHUB_TOKEN` פנימי לא מפעילים `on: push` ב-wor
 
 ## Current Focus
 
-**עודכן (2026-10-03): תקלת Deploy Pages נפתרה - האתר חזר להתעדכן.**
+**עודכן (2026-10-03): הוספת פריסה ל-Cloudflare (`newsly.vplusstudio.app`) - ממתין לפעולת משתמש.**
+
+המשתמש ביקש "תעלה ל-Cloudflare בכתובת newsly.vplusstudio.app" - **במקביל**
+ל-GitHub Pages (לא במקום), כי התוכנית היא להפוך את הריפו ל-private
+בעתיד ואז Cloudflare תהיה הכתובת היחידה החיה (GitHub Pages חינמי לא
+עובד על ריפו פרטי). vplusstudio.app כבר מוגדר כ-zone בחשבון ה-Cloudflare
+של המשתמש. יושם לפי המתודולוגיה הקבועה שכבר מתועדת ונבדקה ב-`CLAUDE.md`
+של `ronmailx-boop/clickbyter` (אותו חשבון Cloudflare, Account ID
+`1c9c1dd0e8a1d80f324b974ae6a617fb`).
+
+**מה נוסף:**
+- [x] `wrangler.jsonc` - static assets, `name: "newsly"` (אין התנגשות עם
+  workers קיימים: vplus, my-site, ratemap, vplus-studio, easypen,
+  clickbyter-api, cheap-flights-agent, xmoney-auth), `workers_dev: true`,
+  `routes` ל-`newsly.vplusstudio.app` (custom domain).
+- [x] `.assetsignore` - מחריג קבצי פיתוח/תיעוד פנימי (`.github`,
+  `.claude`, `scripts`, `CLAUDE.md`, `PROJECT_STATE.md`, `README.md`
+  וכו') מהתוכן שה-Worker מגיש.
+- [x] `.github/workflows/deploy-cloudflare.yml` - אותו trigger כמו
+  `deploy-pages.yml` (`push` + `workflow_run` אחרי `Fetch news`) כדי
+  שעדכון הנתונים כל 15 דק' יגיע גם לכתובת החדשה. **מדלג בלי להיכשל**
+  אם `CLOUDFLARE_API_TOKEN` עדיין לא מוגדר - אפשר למזג עכשיו ולהוסיף
+  את ה-secret אחר כך.
+- [x] **תוקן side-effect אמיתי שהיה נשבר בשקט:** ה-Worker של Clickbyter
+  (CORS, `ALLOWED_ORIGIN` → `ALLOWED_ORIGINS`) - בלי זה, כפתור "קליקבייט?
+  לחץ כאן" היה נכשל על הדומיין החדש (CORS חוסם מקורות שלא ברשימה).
+  נדחף ונפרס כבר (ריפו/Worker נפרדים, לא תלוי באישור המשתמש כאן).
+- [ ] **נדרשת פעולה חד-פעמית מהמשתמש** (אי אפשר להגדיר Secrets מהסשן):
+  1. Cloudflare → My Profile → API Tokens → Create Token → תבנית
+     **Edit Cloudflare Workers** → Account Resources: Include + החשבון
+     → Zone Resources: Include + Specific zone → `vplusstudio.app` →
+     שם `newsly-deploy` → Create Token → Copy.
+  2. GitHub → `ronmailx-boop/newsly` → Settings → Secrets and variables
+     → Actions → New repository secret → שם `CLOUDFLARE_API_TOKEN`,
+     להדביק את הטוקן.
+  3. להגיד לי - ואני ארוץ/אוודא שה-workflow "Deploy to Cloudflare" מצליח
+     (הלוג אמור להראות גם `newsly.ronmailx.workers.dev` וגם את השורה
+     `newsly.vplusstudio.app (custom domain)`). DNS/HTTPS נוצרים אוטומטית.
+- [ ] עדיין לא נבדק בפועל (רק אחרי שה-secret יתווסף): שהאתר עולה נכון
+  בדומיין החדש, ושכפתור הפענוח עובד שם (ה-CORS fix תלוי בבדיקה אמיתית).
+
+---
+
+**קודם (2026-10-03): תקלת Deploy Pages נפתרה - האתר חזר להתעדכן.**
 
 **הפתרון שעבד בסוף:** לא ה-toggle של Settings → Pages (זה נוסה קודם
 ולא עזר) - אלא **מחיקת ה-environment `github-pages` כולו** דרך Settings

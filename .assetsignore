@@ -1,0 +1,15 @@
+.git
+.github
+.claude
+.wrangler
+node_modules
+scripts
+package.json
+package-lock.json
+wrangler.jsonc
+.assetsignore
+.gitignore
+.env.example
+CLAUDE.md
+PROJECT_STATE.md
+README.md
