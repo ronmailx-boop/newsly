@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:30:51.002Z",
+  "updatedAt": "2026-10-03T19:45:58.706Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/beitar-illit-yeshiva-riot-police-attack",
+      "title": "תלמיד הישיבה מישיבת מן ההר שתקף שוטר נלקח לחקירה",
+      "summary": "שוטרים הגיעו לישיבת 'מן ההר' בעקבות דיווח על מפר סדר • חשוד נוסף תקף אותם פיזית ונעצר | עשרות תושבים התגודדו והפיצו טענות כוזבות על מעצר עריק (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/beitar-illit-yeshiva-riot-police-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T19:40:54.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkddos05zg",
+      "title": "זום מהקוקפיט על מטוס אל על, ב-11/10: סרטוני הטייס-מחבל - וכל מה שידוע עליו",
+      "summary": "שעות לאחר ניסיון ריסוק המטוס, פורסמו שני סרטונים בפרופיל של המאם אל-המאמי: CNN חשף את אותם סרטונים, שבהם נראו מטוסים ישראלים ימים אחרי הטבח - ותמונת מנהיג אל-קאעידה. מהלימודים במוסד בריטי, דרך ההקצנה בסוריה ועד לסילוק משתי חברות תעופה: כל הפרטים הידועים על הטייס שניסה לרסק את מטוס פליי דובאי",
+      "link": "https://www.ynet.co.il/news/article/hkddos05zg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T19:37:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21543942",
+      "title": "חג המסיק בחסות האו\"ם - והמחיר שמשלמים היהודים",
+      "summary": "תקציב, הסעות, מזון וליווי בינלאומי מלווים את עונת המסיק ביהודה ושומרון • האלימות סביב המסיק פוגעת שוב ושוב ביהודים",
+      "link": "https://www.israelhayom.co.il/opinions/article/21543942",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:29:23.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1373222",
       "title": "שריפה גדולה בעוספיא: תושבי השכונה התבקשו להסתגר בבתים",
       "summary": "20 צוותי כיבוי פועלים בשריפה באתר פסולת בעוספיא; אין נפגעים, אך תושבי השכונה המערבית התבקשו להסתגר בבתיהם וכבישים מרכזיים באזור נחסמו לתנועה",
@@ -39,6 +66,51 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-03T19:28:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21543857",
+      "title": "הסימנים שישראל פספסה: מה שנחשף בחקירת הטייס-מחבל",
+      "summary": "ההרחקה מחברת התעופה בשל ההקצנה הייתה אמורה להדליק נורה אדומה גדולה, אך חמאם אל-חמאמי בכל זאת טס לישראל • בינתיים, האחראים למחדל זורקים את האחריות האחד על השני - במקום להפיק את הלקחים הנדרשים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21543857",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:28:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21543847",
+      "title": "המונופול החרדי הסתיים, האלטרנטיבה נולדה",
+      "summary": "במשך שנים הנציגים החרדים התעלמו מהציבור שלהם, ושלפו את תמונת מרן רק לקראת הבחירות • כעת ניתן לראות מבפנים איך חומת השליטה נסדקת, והצעירים כבר לא קונים את זה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21543847",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:24:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21543862",
+      "title": "זה אפשרי: יש דרך להנחית מטוס - כשאין טייסים",
+      "summary": "ברגע הקריטי בטיסת פליי דובאי היה זה נוסע שסייע להשתלט על המצב, אלא שבהמשך היו על המטוס טייסים שיכלו להנחית אותו • האירוע החריג מעלה תרחיש מפחיד עוד יותר: מה קורה אם שני הטייסים מנוטרלים ואין אף טייס נוסף על הסיפון? האם נוסע שמעולם לא הטיס מטוס יכול להביא מטוס נוסעים בשלום לקרקע? התשובה מפתיעה",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21543862",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:21:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21543830",
+      "title": "\"בואו הביתה\" – איזה בית מחכה ליהודי התפוצות בישראל?",
+      "summary": "ישראל מבקשת להביא לכאן מאות אלפי יהודים, אך רבים מהם מגיעים עם זהות דתית ליברלית שאינה זוכה למעמד שווה בישראל • אם המדינה רוצה את העלייה שלהם, היא צריכה להיות מוכנה לקבל גם את הקהילות, המסורות והזרמים שהם מביאים איתם",
+      "link": "https://www.israelhayom.co.il/opinions/article/21543830",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:17:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21543828",
+      "title": "פיני גרשון על הבעיה של מכבי תל אביב: \"בלי זה, שלא יבואו למשחקים\"",
+      "summary": "בפרק 3 של פודקאסט \"על הבאזר\" מאמן העבר סימן את האחוזים מחוץ לקשת: \"אי אפשר לנצח עם 22 אחוז, אי אפשר, פשוט\" • על הסף שצריך להגיע אליו וההשפעה הוסיף: \"אני קודם כל רוצה שבמכבי יגיעו ל-34-35%\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21543828",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T19:16:42.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/netanyahu-emotional-invitation-indian-pilot-hero",
@@ -942,7 +1014,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21542514",
-      "title": "נבחרת ישראל עקצה את אירלנד וחשפה: \"אולי נפנה לאופ\"א\"",
+      "title": "לא נשארו חייבים: העקיצה של נבחרת ישראל לאירלנד במסע\"ת",
       "summary": "אחרי פיצוץ מסיבת העיתונאים של האירים, בהתאחדות לכדורגל הגיבו בקריצה: \"העיתונאים הישראלים לא קיבלו הרבה הזדמנויות לשאול\" • תגובה עוינת מהעיתונאים האירים זכתה לתגובה מנציג ההתאחדות איתן דותן: \"לא אקח לך את המיקרופון, אבל אנחנו לא חייבים לענות על כל שאלה\"",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21542514",
       "source": "ישראל היום",
@@ -951,8 +1023,8 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21542514",
-      "title": "לא נשארו חייבים: העקיצה של נבחרת ישראל לאירלנד במסע\"ת",
-      "summary": "אחרי פיצוץ מסיבת העיתונאים של האירים, בהתאחדות לכדורגל הגיבו בקריצה: \"העיתונאים הישראלים לא קיבלו הרבה הזדמנויות לשאול\" • לאחר שקיבל תגובה עוינת מהעיתונאים האירים איתן דותן הוסיף: \"לא אקח לך את המיקרופון, אבל אנחנו לא חייבים לענות על כל שאלה\"",
+      "title": "נבחרת ישראל עקצה את אירלנד וחשפה: \"אולי נפנה לאופ\"א\"",
+      "summary": "אחרי פיצוץ מסיבת העיתונאים של האירים, בהתאחדות לכדורגל הגיבו בקריצה: \"העיתונאים הישראלים לא קיבלו הרבה הזדמנויות לשאול\" • תגובה עוינת מהעיתונאים האירים זכתה לתגובה מנציג ההתאחדות איתן דותן: \"לא אקח לך את המיקרופון, אבל אנחנו לא חייבים לענות על כל שאלה\"",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21542514",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1479,6 +1551,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T12:51:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
+      "title": "כשהוא עם מכבי תל אביב: הפייק שטען שים מדר היה במטוס פליי דובאי",
+      "summary": "סרטון ישן שבו נראה רכז הצהובים חוגג עם רמקול במטוס הופץ ברשתות והפך לוויראלי בטענה שמדובר בתיעוד מניסיון הפיגוע בטיסה • אלא שבדיקת עובדות חושפת מאיפה הוא באמת הגיע - ולמה אין לו שום קשר לתקרית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T12:50:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
@@ -21810,60 +21891,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-09-28T19:48:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21509158",
-      "title": "\"כמעט הרסה את חיי\": פאנליסט ערוץ 14 נגד שורדת השבי",
-      "summary": "אבי שושן, שפוטר מאיכילוב בעקבות סערת ההצהרה של יוכבד ליפשיץ ב-2023, תקף אותה: \"פיגוע ההסברה הכי גדול בתחילת המלחמה\" • הדברים נאמרו במהלך דיון סוער בעקבות הביקורת שהעביר עליה האב השכול והמשוריין בליכוד",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21509158",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T19:42:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21509158",
-      "title": "פאנליסט ערוץ 14 נגד שורדת השבי: \"פיגוע הסברה הכי גדול\"",
-      "summary": "אבי שושן, שפוטר מאיכילוב בעקבות סערת ההצהרה של יוכבד ליפשיץ ב-2023, תקף לאחר הביקורת הקשה שהעביר עליה גם האב השכול איציק בונצל",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21509158",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T19:42:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21509202",
-      "title": "מול אלפי אנשים: נועם בתן מתפרק בדמעות | צפו",
-      "summary": "הזמר שהודה כי שחרר את הלחץ ממכירת הכרטיסים, פגש הערב את ההיכל המלא ולא יכול היה להסתיר את הדמעות מול האלפים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21509202",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T19:42:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/gantz-fake-news-defamation",
-      "title": "פייק ניוז על בגידה: גנץ יפוצה ב-40 אלף שקל",
-      "summary": "בית משפט השלום בתל אביב יפו קבע כי אזרח שפרסם ברשתות החברתיות שח\"כ בני גנץ היה מעורב במזימת בגידה ישלם לו פיצוי בסך ארבעים אלף שקל בגין לשון הרע, לאחר שהנתבע לא הגיש כלל כתב הגנה (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/law-and-order/gantz-fake-news-defamation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T19:40:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1371702",
-      "title": "משרד הבריאות סגר את המרכז הרפואי בתל אביב: \"סכנה חמורה ומיידית\"",
-      "summary": "משרד הבריאות הורה על סגירה מיידית של מדיקה ת\"א לאחר שבקרת פתע העלתה ליקויים חמורים ופעולות בניגוד לסמכות. במשרד מזהירים מ\"סכנה חמורה ומיידית\", המוסד הגיב: \"קיבל החלטה גורפת על סמך ממצאים אקראיים\"",
-      "link": "https://www.maariv.co.il/news/health/article-1371702",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T19:37:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21509126",
-      "title": "אחרי שנה וחצי: ארז איסקוב חזר מפרישה",
-      "summary": "כוכב \"האח הגדול\", שרכש לאחרונה את קבוצת הכדורגל מכבי השרון, שיחק לראשונה מאז פברואר 2025 כשעלה מהספסל בניצחון 2:3 על הפועל אורנית • עם זאת, הוא לא סיים את המשחק על הדשא",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21509126",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T19:31:13.000Z"
     }
   ]
 }
