@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:15:51.601Z",
+  "updatedAt": "2026-10-03T10:30:56.543Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373110",
+      "title": "איראן הובילה ניסיון פיגוע נגד יהודים בבריטניה ביום כיפור | הסיפור המלא",
+      "summary": "שנה אחרי הפיגוע הרצחני בבית הכנסת בבריטניה במהלך יום הכיפורים, מתברר כי מחבלים נוספים תכננו לבצע רצח של יהודים באותו היום",
+      "link": "https://www.maariv.co.il/news/world/article-1373110",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-03T10:29:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21541183",
+      "title": "דיווחים פלסטיניים: יהודים תקפו חקלאים דרומית לשכם",
+      "summary": "על פי דיווח של סוכנות הידיעות הפלסטינית, עשרות מתיישבים תקפו חקלאים ובתים בחלקו המערבי של הכפר עוסרין • הסהר האדום הפלסטיני דיווח כי גבר בן 50 הוכה באורח קשה ופונה לקבלת טיפול רפואי • בנוסף, נמסר כי נגרם נזק לבתים ולכלי רכב כתוצאה מיידוי אבנים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21541183",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T10:00:04.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1373108",
       "title": "איש הצללים של סינוואר וראש הנחש של התעמולה: מי הוא עלי אל עאמודי?",
@@ -22584,96 +22602,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-28T10:31:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyknlcwcge",
-      "title": "ננזפה הנציגה הספרדית אחרי נאום השרה: \"מהנהר עד הים, פלסטין תשוחרר\"",
-      "summary": "ספרד מובילה קו אנטי-ישראלי נוקב זה שנים, אבל האמירה המקוממת של שרת הילדים והנוער ממוצא פלסטיני, שכינתה בעבר את 7/10 \"התנגדות לגיטימית לכיבוש\", הובילה לזימון הממונה על השגרירות בארץ לשיחת נזיפה במשרד החוץ",
-      "link": "https://www.ynet.co.il/news/article/hyknlcwcge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T10:26:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21505113",
-      "title": "מלשכת א-סיסי לפגישות עם סינוואר: מיהו עבאס כאמל שהזהיר מפני \"פיצוץ בעזה\" | פרופיל",
-      "summary": "כאמל ניהל את לשכת א-סיסי עוד לפני ההפיכה ב-2013, והמשיך איתו גם לארמון הנשיאות • מינויו לראש המודיעין הכללי נשען בעיקר על יחסי האמון עם הנשיא המצרי • קצין שריון שהוצנח לצמרת המודיעין - זהו הדיוקן של עבאס כאמל",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21505113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T10:24:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21505113",
-      "title": "מלשכת א-סיסי לפגישות עם סינוואר: מיהו עבאס כאמל שהזהיר מפני 7 באוקטובר",
-      "summary": "כאמל ניהל את לשכת א-סיסי עוד לפני ההפיכה ב-2013, והמשיך איתו גם לארמון הנשיאות • מינויו לראש המודיעין הכללי נשען בעיקר על יחסי האמון עם הנשיא המצרי • קצין שריון שהוצנח לצמרת המודיעין - זהו הדיוקן של עבאס כאמל",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21505113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T10:24:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "title": "סערה בימין משה: סוכת התפילה של הינוקא פורקה בידי העירייה",
-      "summary": "פקחי עיריית ירושלים הגיעו לפרק את סוכת התפילה שהוקמה עבור הינוקא ושימשה לתפילות ושיעורים בהשתתפות מאות בני אדם מדי יום • בעקבות פירוק הסוכה, הועברו התפילות והשיעורים לסוכת \"בית שמואל\" הסמוכה | העירייה: \"בחג הסוכות הנוכחי לא אושרה בניית סוכה בימין משה\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T10:22:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "title": "סערה בימין משה: סוכת התפילה של חסידי \"הינוקא\" פורקה בידי העירייה",
-      "summary": "פקחי עיריית ירושלים הגיעו לפרק את סוכת התפילה שהוקמה עבור הינוקא ושימשה לתפילות ושיעורים בהשתתפות מאות בני אדם מדי יום • בעקבות פירוק הסוכה, הועברו התפילות והשיעורים לסוכת \"בית שמואל\" הסמוכה | העירייה: \"בחג הסוכות הנוכחי לא אושרה בניית סוכה בימין משה\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T10:22:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "title": "זעזוע בירושלים: העירייה נשלחה לפרק את סוכתו של הגאון הינוקא בעיצומו של החג",
-      "summary": "דווקא בירושלים עיר הקודש פעלה העירייה נגד מצוות הסוכה • למרות שהסוכה של הגאון הינוקא הוקמה בשטח פרטי ובאישור הגורמים המוסמכים, נשלחו פקחים לפעול לפירוקה • בבתי גדולי ישראל הוטחה בראש העיר משה ליאון ביקורת חריפה • למרות ההתעמרות - התפילות והשיעורים ממשיכים כסדרן ב'בבית שמואל' הסמוך (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/jerusalem-sukkah-controversy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T10:22:45.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371519",
-      "title": "הביקור החשאי של נתניהו באמירויות: הבקשה שהעביר למוחמד בן זאיד",
-      "summary": "מקורות מסרו ל-AP שבביקור נתניהו באיחוד האמירויות הוא ביקש ממוחמד בן זאיד להכחיש את הפרסומים שלפיהם הזהיר אותו מפני חמאס לפני 7 באוקטובר",
-      "link": "https://www.maariv.co.il/news/politics/article-1371519",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T10:21:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371519",
-      "title": "דיווח: נתניהו ביקש ממוחמד בן זאיד להכחיש את האזהרות לפני ה-7 באוקטובר",
-      "summary": "מקורות מסרו ל-AP שבביקור נתניהו באיחוד האמירויות הוא ביקש ממוחמד בן זאיד להכחיש את הפרסומים שלפיהם הזהיר אותו מפני חמאס לפני 7 באוקטובר",
-      "link": "https://www.maariv.co.il/news/politics/article-1371519",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T10:21:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/israel-flags-torn-galilee-smotrich-response",
-      "title": "בושה וחרפה: מאות דגלי ישראל שנתלו בצפון הארץ - נתלשו על ידי ערבים",
-      "summary": "פעילי הציונות הדתית תלו דגלים בכבישי הגליל, אך על פי הדיווח של המפלגה, ערביי האיזור תלשו את הדגלים שנתלו תוך זמן קצר בלבד | שר האוצר סמוטריץ': 'נגמרה החגיגה' (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/israel-flags-torn-galilee-smotrich-response",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T10:21:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21504941",
-      "title": "\"רופאים ערבים מרעילים יהודים\": בעקבות האמירה בערוץ 14 - הדרישה מהיועמ\"שית",
-      "summary": "ארגון הרופאים עובדי המדינה דורש לפתוח בחקירה פלילית נגד מיכה לייקין-אבני מנכ\"ל פנינסולה • בארגון מזהירים מפגיעה בביטחון הצוותים הרפואיים ובאמון הציבור במערכת הבריאות",
-      "link": "https://www.israelhayom.co.il/news/law/article/21504941",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T10:17:07.000Z"
     }
   ]
 }
