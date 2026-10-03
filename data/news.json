@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:01:00.330Z",
+  "updatedAt": "2026-10-03T16:15:52.312Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/hamas-commander-elimination-lebanon-accident-trump",
+      "title": "מצוד דרמטי וניסיון חיסול: צה\"ל פוצץ את דירת מחליפו של סינוואר",
+      "summary": "צה\"ל פיצץ את דירתו של מחליף סינוואר בעזה • 8 חיילים נפצעו בתאונה מבצעית בדרום לבנון | טראמפ התכנס עם קבינט הביטחון לדון באיראן ובחות'ים (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/hamas-commander-elimination-lebanon-accident-trump",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T16:14:15.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/iran-celebrates-us-withdrawal-iraq-israel-response",
+      "title": "רווח נקי לטהרן: ארה\"ב נסוגה מעיראק – וזה מה שישראל עושה",
+      "summary": "אחרי 20 שנה, אחרוני החיילים האמריקנים עזבו את עיראק • המיליציות השיעיות מסרבות להתפרק ומשלימות רצף טריטוריאלי מאיראן ללבנון | ישראל מתכוננת לחופש פעולה מלא (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/iran-celebrates-us-withdrawal-iraq-israel-response",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T16:03:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyevfc09gl",
+      "title": "דפוסים מלפני המלחמה: קרוב למיליון איש טיילו בארץ בחג | הגשמים שירדו - והתחזית",
+      "summary": "3 שנים למלחמה, ברשות הטבע והגנים ציינו כי בסוכות הישראלים חזרו לטייל גם בצפון. כ-39 אלף לינות נרשמו בחניוני הלילה, וכ-400 אלף פקדו את המסלולים בשטחים הפתוחים. האתר המטויל - גן השלושה. גשמים מקומיים ירדו מהצפון ועד אשקלון, בעוד שבכרתים נרשמו הצפות עקב 360 מ\"מ גשם תוך יומיים",
+      "link": "https://www.ynet.co.il/news/article/hyevfc09gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T16:02:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/attack-dogs-raids-syria-border-nights",
+      "title": "כלבי תקיפה, פריצות וחרדה: כך נראים הלילות בגבול סוריה",
+      "summary": "כוחות צה\"ל פושטים על בתים בקוניטרה ודרעא • תושבים מדווחים על חיפושים אחר נשק, ירי באוויר ושימוש בכלבי תקיפה | \"מציאות שגרתית חדשה\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/attack-dogs-raids-syria-border-nights",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-03T16:01:08.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21542568",
       "title": "אשתו של רמי קלינשטיין: בגללו הכרתי את אב ילדיי",
       "summary": "אלכס קלינשטיין שיתפה תיעוד מנסיעה משפחתית, שבו היא והילדים שרים בקולי קולות את אחד הלהיטים של רמי, בזמן שהוא נוהג ומצטרף • הכיתוב שהוסיפה חשף פרט רומנטי מתחילת הקשר • ומסתבר שהשיר מלווה אותם כבר יותר מ-15 שנה",
@@ -39,6 +75,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T15:58:06.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-87c7a1328c101a1027.htm",
+      "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר - חשד: הטייס-המחבל שהה בישראל לפני ניסיון הפיגוע | סיכום חדשות השבת",
+      "summary": "ניצן אלון אמר כי ישראל יכלה להשיב את כל החטופים הביתה כשנה קודם לכן - ולהגיע להישגים דומים • דיווח: ישראל תשתתף בחקירת טייס המשנה שניסה לרסק את המטוס • פורעים ישראלים ניפצו שמשות רכב ויידו אבנים ביו\"ש, פלסטיני נפצע",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-87c7a1328c101a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-03T15:58:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/article/21541840",
@@ -75,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T15:50:38.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-b0940394d1201a1027.htm",
+      "title": "אמילי דמארי שלוש שנים לאחר השבת השחורה: \"אנשים שמבינים קצת רפואה יכולים להבין שזה שאני כאן זה בכלל נס\"",
+      "summary": "שורדת השבי פרסמה בחשבון האנסטגרם שלה תמונות משהותה בבית החולים שיפא • \"ניגש 'דוקטור' ומציג את עצמו כד\"ר חמאס כשליידו עוד עשרה מפלצות עם קלאצ'ניקוב על הראש שלי ואני רק מתפללת לאלוהים שישמור עליי בסיטואציה הזו\", היא תיארה",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-b0940394d1201a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-03T15:50:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21542330",
@@ -21666,24 +21720,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-28T16:21:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/dayan-haamet/tm30og",
-      "title": "אבל כבד בעולם החסידות: איש החסד האדמו\"ר מדז'ירקא זצ\"ל הסתלק",
-      "summary": "אבל כבד בעולם החסידות, מארה\"ב מגיעה הידיעה המרה על הסתלקותו לשמי מרום של האדמו\"ר מדז'ירקא, הרה\"צ רבי אהרן בריזל זצ\"ל, שהלך לעולמו בגיל 73 לאחר תקופה שבה סבל מאירוע רפואי מורכב | ביו\"ט שני של גלויות התבקשו החסידים בארה\"ק לקרוע שערי שמים לרפואתו | קווים לדמותו היוקדת של האדמו\"ר שהיה ידוע כאיש חסד בגופו ובנפשו ממש (דיין האמת)",
-      "link": "https://www.kikar.co.il/dayan-haamet/tm30og",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-28T16:15:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryd7q1100qzg",
-      "title": "האוסטרי הבין שלקוחותיו ישראלים - וזרק את האוכל: \"זה היה מזעזע\"",
-      "summary": "ל' ומשפחתו סיפרו לעיתון מקומי באוסטריה שבעל דוכן מזון במחוז זלצבורג סירב להגיש להם אוכל מאחר שהם יהודים. \"הוא אמר את זה במפורש\", שיתף האב. אחרי הסערה המוכר דחה את הטענות ואמר שמדובר ב\"שטויות\". במקביל: סער מצנן את הרוחות אחרי המתקפה על נשיא אוסטריה",
-      "link": "https://www.ynet.co.il/news/article/ryd7q1100qzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T16:14:50.000Z"
     }
   ]
 }
