@@ -1,0 +1,8 @@
+// Cloudflare Workers: serves the app as static assets (no Worker script).
+{
+  "name": "newsly",
+  "compatibility_date": "2026-10-03",
+  "assets": { "directory": "." },
+  "workers_dev": true,
+  "routes": [{ "pattern": "newsly.vplusstudio.app", "custom_domain": true }]
+}

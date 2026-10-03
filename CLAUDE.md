@@ -68,6 +68,29 @@
   מפעילים workflows אחרים ב-`on: push` - הגנת GitHub מפני לולאות). **אל
   תשנה את Source חזרה ל-"Deploy from a branch"** בלי לעדכן גם את
   ה-workflow הזה.
+- **פריסה שנייה ל-Cloudflare (2026-10-03):** נוסף `newsly.vplusstudio.app`
+  **במקביל** ל-GitHub Pages (לא במקום), לפי המתודולוגיה הקבועה והמתועדת
+  ב-`CLAUDE.md` של `ronmailx-boop/clickbyter` (סעיף "פריסה ל-Cloudflare
+  ודומיין (כללי)") - אותו חשבון Cloudflare שמריץ את ה-Worker של
+  Clickbyter. הסיבה לשני אתרים חיים: **התוכנית היא להפוך את הריפו ל-
+  private בעתיד**, ואז GitHub Pages (חינמי) יפסיק לעבוד אבל Cloudflare
+  ימשיך - בשלב הזה Cloudflare תהיה הכתובת היחידה. קבצים: `wrangler.jsonc`
+  (static assets, `workers_dev: true` כדי ששתי הכתובות - `newsly.
+  ronmailx.workers.dev` וה-custom domain - יעבדו במקביל; **בלי** זה
+  wrangler מכבה את כתובת ה-workers.dev, נבדק בפועל על פרויקטים אחרים),
+  `.assetsignore` (מחריג `.github`/`.claude`/`scripts`/`CLAUDE.md`/
+  `PROJECT_STATE.md`/`README.md` וכו' - לא נועדו לתוכן ציבורי, גם אם
+  GitHub Pages כן חושף אותם היום), `.github/workflows/deploy-cloudflare.yml`
+  (אותו trigger כמו `deploy-pages.yml` - `push`+`workflow_run` אחרי
+  `Fetch news` - כדי שעדכון הנתונים כל 15 דק' יגיע גם לכתובת הזו; מדלג
+  בלי להיכשל אם ה-secret `CLOUDFLARE_API_TOKEN` עדיין לא מוגדר). **ה-
+  secret הזה רק המשתמש יכול להגדיר** (Cloudflare API Token בתבנית "Edit
+  Cloudflare Workers", מצומצם ל-zone `vplusstudio.app`) - ראו
+  PROJECT_STATE.md לפרטים. **עדכון נלווה:** ה-Worker של Clickbyter
+  (`clickbyter-api`) עודכן כדי לקבל CORS משני המקורות במקביל
+  (`ALLOWED_ORIGINS` - רשימה מופרדת בפסיקים, לא `ALLOWED_ORIGIN` יחיד
+  כמו קודם) - אחרת כפתור "קליקבייט? לחץ כאן" היה נכשל בשקט בגלל CORS
+  על הכתובת החדשה.
 - **אמינות ה-cron של `fetch-news.yml`:** GitHub Actions `schedule`
   triggers הם **best-effort בלבד** - GitHub מודה שתחת עומס (במיוחד סביב
   תחילת כל שעה) ריצה יכולה להתעכב בעשרות דקות או **לדלג לגמרי בלי
