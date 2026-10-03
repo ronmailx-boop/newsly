@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:01:05.510Z",
+  "updatedAt": "2026-10-03T08:15:44.847Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rynmj40cze",
+      "title": "עוד אמירה סהרורית של טאקר קרלסון: \"למה בריטניה נכנסה למלחמת העולם?\"",
+      "summary": "המגיש הימני-קיצוני התייחס לנסיבות הפלישה של היטלר לפולין ואמר: \"הוא צדק ששטחים גרמנים נמסרו לה. לבריטניה לא היה שום קשר לעניין\". הוא הוסיף שהמלחמה החריבה את האימפריה: \"למי אכפת אם הייתם מדברים עכשיו גרמנית\"",
+      "link": "https://www.ynet.co.il/news/article/rynmj40cze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T08:07:52.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1z1nvaqgl",
+      "title": "\"יניב, אני מעריץ שלך!\": טראמפ הודה לגיבור טיסת פליי דובאי בסרטון מיוחד",
+      "summary": "נשיא ארה\"ב פרסם בטיקטוק סרטון שבו שיבח את יניב חיון, שסייע לנטרל את המחבל העומאני וייצב את המטוס כשצלל: \"בחור כלבבי, הוא יכול להיות השרברב שלי, הוא יכול להיות כל מה שהוא רוצה להיות\"",
+      "link": "https://www.ynet.co.il/news/article/s1z1nvaqgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T07:58:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21541026",
+      "title": "אחרי אירוע פליי דובאי: ישראייר בטיסות חילוץ מאיחוד האמירויות",
+      "summary": "בעקבות אירוע הטיסה של \"פליי דובאי\", חברת התעופה הישראלית נרתמת להשבת הנוסעים ששהו באמירויות • טיסה ראשונה כבר נחתה בארץ, ולצידה המריאה טיסה נוספת למטרה ספציפית • כל הפרטים על הפעילות",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21541026",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T07:56:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21541023",
+      "title": "בלי לקלף ובלי לטעום: ככה תדעו אם התפוז מתוק",
+      "summary": "קניתם שקית תפוזים והם יצאו חמוצים ויבשים? טריק ויראלי מהטיקטוק טוען שמבט אחד בתחתית הפרי מספיק • בדקנו מה עומד מאחוריו, ומה עוד כדאי לבדוק לפני שמכניסים תפוז לעגלה",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21541023",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T07:51:58.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373092",
       "title": "ניסה להשפיל את ישראל שוב ושוב, והסתבך: ראש ממשלת ספרד בבעיה",
       "summary": "משבר הדיור בספרד עולה מדרגה: כלי התקשורת במדינה החלו לעסוק באפשרות הריאלית של הקדמת הבחירות. זאת, בנוסף לתבוסה הקשה שספגה הממשלה בפרלמנט",
@@ -39,6 +75,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-03T07:50:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/beauty/article/21540969",
+      "title": "המהפך של רומי גונן: ״אתם בטח תוהים למה״",
+      "summary": "שורדת השבי החליטה לעבור שינוי חיצוני בולט לעין, אבל המטרה היא העלאת מודעות לסרטן • מהו המסר של רומי גונן לנשים בישראל, ועל איזה כלל היא מבקשת שלא יוותרו?",
+      "link": "https://www.israelhayom.co.il/lifestyle/beauty/article/21540969",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T07:38:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21540985",
+      "title": "מהמקום ה-19 לחמישייה הפותחת: המחלה שהורגת היום פי שלושה יותר אנשים",
+      "summary": "דוח חדש של ארגון הבריאות העולמי חושף את הזינוק בדמנציה, שהפכה לאחד מחמשת גורמי המוות המובילים בעולם • זה לא הנתון המדאיג היחיד בדוח",
+      "link": "https://www.israelhayom.co.il/health/article/21540985",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T07:38:42.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373086",
@@ -23169,96 +23223,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-28T08:16:01.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sk4d1iv9ge",
-      "title": "התפוררות \"היחסים המיוחדים\" עם ארה\"ב: סכנה לישראל",
-      "summary": "המהפכה המשפטית והמשטרית של יריב לוין פגעה קשות באחד הערכים המשותפים והחשובים של שתי המדינות. ישראל איבדה את התמיכה הדו-מפלגתית בקונגרס",
-      "link": "https://www.ynet.co.il/news/article/sk4d1iv9ge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-28T08:14:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21503936",
-      "title": "אריק ברמן שובר את הכלים: \"לאורך השנים נמנעתי\"",
-      "summary": "הזמר והיוצר שיתף מסר פוליטי חריג וקרא לצעירים לא לוותר על זכות הבחירה • ״שומע לא מעט קולות מיואשים״ • ברמן הודיע כי יקיים שידורים חיים ברשתות עד מועד ההצבעה",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21503936",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:13:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21504022",
-      "title": "בגיל 75: ירדנה ארזי התרסקה על הבמה - באמצע הופעה",
-      "summary": "הזמרת מעדה על הבמה במהלך מופע חגיגי לציון יום הולדתה ה-75 בהיכל התרבות • לאחר כעשרים שניות שבהן נותרה על הרצפה, קמה והמשיכה לשיר • בהפקה הרגיעו: \"האירוע הסתיים כמתוכנן\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21504022",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:12:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1371466",
-      "title": "הדג השמן מתחיל להיעלם - ובארה\"ב כבר מרגישים את ההשלכות",
-      "summary": "אחרי התאוששות שנמשכה עשרות שנים, השלכים בחוף המזרחי של ארה\"ב שוב במשבר. החוקרים מתעדים קנים ריקים וגוזלים מורעבים, ובמרכז המחלוקת נמצא דג קטן שנשאב מהים בכמויות עצומות",
-      "link": "https://www.maariv.co.il/news/viral/article-1371466",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-28T08:09:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21503929",
-      "title": "זוכה האח הגדול החליט לפעול: \"רק רוצה שהסיפור הזה ייעצר\"",
-      "summary": "אור בן-דוד שיתף כי הוא סובל במשך שנים מאלימות מצד אישה שאת שמה סירב לחשוף, והחליט שלא לשתוק עוד בעקבות הרצח של בניהו רזי, שהמחיש לו את גודל הסכנה: \"יש דברים שאסור לקחת בהם סיכון\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21503929",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:09:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21503929",
-      "title": "זוכה האח הגדול הגיש תלונה: \"אני עובר הכפשות, איומים והטרדות מבחורה\"",
-      "summary": "אור בן-דוד שיתף כי הוא סובל במשך שנים מאלימות מצד אישה שאת שמה סירב לחשוף, והחליט שלא לשתוק עוד בעקבות הרצח של בניהו רזי, שהמחיש לו את גודל הסכנה: \"יש דברים שאסור לקחת בהם סיכון\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21503929",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:09:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21503916",
-      "title": "המחלוקת שחוסמת את ועדת הכספים: 150 חברות הייטק בסכנת סחרור מיסוי",
-      "summary": "עקב העיכוב, ועדת הכספים לא דנה בהתקנת תקנות הנוגעות למיסוי הבינלאומי של חברות ההייטק הגדולות • גורם בכיר באוצר: ענקיות ההייטק נכנסות לסיכון גבוה מאוד",
-      "link": "https://www.israelhayom.co.il/business/article/21503916",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:08:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21503916",
-      "title": "החרדים חוסמים את ועדת הכספים: 150 חברות הייטק בסכנת סחרור מיסוי",
-      "summary": "עקב העיכוב, ועדת הכספים לא דנה בהתקנת תקנות הנוגעות למיסוי הבינלאומי של חברות ההייטק הגדולות • גורם בכיר באוצר: ענקיות ההייטק נכנסות לסיכון גבוה מאוד",
-      "link": "https://www.israelhayom.co.il/business/article/21503916",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:08:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21503927",
-      "title": "רכב שטח ללא לוחיות נמלט ממחסום משטרתי - ונעצר ברכסים",
-      "summary": "השוטרים הבחינו ברכב שטח ללא לוחיות זיהוי, שלפי המשטרה ביצע תמרונים מסוכנים • לאחר שהנהג לא נענה לקריאות לעצור, הרכב נחסם ושני החשודים נעצרו",
-      "link": "https://www.israelhayom.co.il/news/local/article/21503927",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:03:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21503970",
-      "title": "נהג הגרר העמיס כלי רכב גנובים - ונעצר בדרכו לשטחים בזכות מתנדב עירני",
-      "summary": "משאית שהובילה שני כלי רכב ואופנוע מאזור המרכז עוררה את חשדם של מתנדבי מג\"ב בכביש 444, שעצרו אותה לבדיקה • הנהג, תושב ירושלים, טען כי אסף את כלי הרכב במסגרת עבודתו - אלא שאז התברר כי הם גנובים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21503970",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T08:02:44.000Z"
     }
   ]
 }
