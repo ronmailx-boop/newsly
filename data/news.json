@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:30:45.896Z",
+  "updatedAt": "2026-10-03T14:45:44.691Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21542127",
+      "title": "ניסיון החיסול בעזה: האם הבכיר בארגון שרד? בחמאס מטילים ספק",
+      "summary": "שלושה מקורות בארגון מטילים ספק בדיווחים על חיסולו של ראש הלשכה הפוליטית בפועל בעזה • גורמים בחמאס מעריכים כי ייתכן ששרד את התקיפה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21542127",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T14:29:24.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk2002uaqfe",
       "title": "עבר הקצנה בסוריה, נזרק משתי חברות תעופה - והורשה לטוס לישראל: המחדלים והשאלות הקשות",
@@ -21774,51 +21783,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-28T14:47:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21507621",
-      "title": "בגלל שימוש בטלפון בזמן נהיגה רביב דרוקר זומן לתחנת המשטרה",
-      "summary": "תנועת הליכוד הגישה את התלונה בטענה כי דרוקר תיעד את עצמו משתמש בטלפון והפיץ את הסרטון לציבור • יבגני זרובינסקי: \"כשאדם מתעד את עצמו לכאורה מבצע עבירות ואז מפרסם את הסרטון בעצמו, קשה להתעלם מהזלזול בחוק והדוגמה לציבור הרחב\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21507621",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T14:39:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21507603",
-      "title": "\"הפעם זה אישי - ג'ונתן מוטלי יצטיין מול הפועל תל אביב\"",
-      "summary": "לאחר שסיפק הופעת בכורה מביכה בכוכב האדום, הסנטר יפגוש את האקסית וב-BasketballSphere טענו כי זו ההזדמנות שלו להתאושש: \"שום דבר לא מחדד שחקן כמו מפגש מול האקסית\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21507603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T14:39:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21507603",
-      "title": "\"הפעם זה אישי - ג'ונתן מוטלי יצטיין דווקא מול הפועל תל אביב\"",
-      "summary": "לאחר שסיפק הופעת בכורה מביכה בכוכב האדום, הסנטר יפגוש את האקסית וב-BasketballSphere טענו כי זו ההזדמנות שלו להתאושש: \"שום דבר לא מחדד שחקן כמו מפגש מול האקסית\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21507603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T14:39:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21507475",
-      "title": "אל תלחצו: הודעת ה-SMS שעלולה לרוקן לכם את חשבון הבנק",
-      "summary": "מלכודת חדשה: ישראלים רבים מקבלים בימים האחרונים הודעה דחופה על \"ניסיון מסירה של חבילה\" המבטיחה שהפריט יוחזר לשולח אם לא תתאמו מחדש • מומחים מזהירים: מדובר בהונאת פישינג מתוחכמת שמטרתה לגנוב לכם את פרטי האשראי",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21507475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T14:31:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21507475",
-      "title": "אל תלחצו על הקישור הזה: הודעת ה-SMS שעלולה לרוקן לכם את חשבון הבנק",
-      "summary": "מלכודת חדשה: ישראלים רבים מקבלים בימים האחרונים הודעה דחופה על \"ניסיון מסירה של חבילה\" המבטיחה שהפריט יוחזר לשולח אם לא תתאמו מחדש • מומחים מזהירים: מדובר בהונאת פישינג מתוחכמת שמטרתה לגנוב לכם את פרטי האשראי",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21507475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-28T14:31:30.000Z"
     }
   ]
 }
