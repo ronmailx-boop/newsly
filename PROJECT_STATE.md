@@ -173,7 +173,27 @@ commit-ים עם `GITHUB_TOKEN` פנימי לא מפעילים `on: push` ב-wor
 
 ## Current Focus
 
-**עודכן (2026-10-03): הוספת פריסה ל-Cloudflare (`newsly.vplusstudio.app`) - ממתין לפעולת משתמש.**
+**עודכן (2026-10-03): פריסה ל-Cloudflare (`newsly.vplusstudio.app`) - הושלמה ואומתה בפועל.**
+
+המשתמש הוסיף את ה-secret `CLOUDFLARE_API_TOKEN`. אומת: workflow "Deploy
+to Cloudflare" רץ בהצלחה (`success`), הלוג הראה בדיוק מה שצפוי -
+`https://newsly.ronmailx.workers.dev` וגם `newsly.vplusstudio.app
+(custom domain)`, 12 קבצי תוכן אמיתיים הועלו (`.assetsignore` עבד נכון
+- לא עלו `.github`/`.claude`/`scripts`/קבצי תיעוד פנימיים). גם תיקון
+ה-CORS ב-Clickbyter אומת כנפרס בפועל (נתפסה טעות: נמזג מקומית אבל לא
+נדחף בהתחלה - תוקן ונדחף). **שני האתרים חיים במקביל כרגע** (GitHub
+Pages + Cloudflare), כמתוכנן.
+
+**לא נבדק עדיין (טעון בדיקה ידנית מהמשתמש, לא נגיש מסביבת הפיתוח):**
+- שהאתר בפועל נטען נכון ב-`newsly.vplusstudio.app` (לא רק שה-deploy
+  "הצליח" טכנית - גם שהוא נראה/מתפקד תקין: טאבים, reels, swipe-delete).
+- שכפתור "קליקבייט? לחץ כאן" עובד בפועל מהדומיין החדש (ה-CORS fix
+  תיאורטי עד שמישהו באמת לוחץ עליו שם ורואה תשובה, לא שגיאת רשת).
+- PWA/manifest/אייקון מתקינים נכון מהדומיין החדש.
+
+---
+
+**קודם (2026-10-03): הוספת פריסה ל-Cloudflare (`newsly.vplusstudio.app`) - ממתין לפעולת משתמש.**
 
 המשתמש ביקש "תעלה ל-Cloudflare בכתובת newsly.vplusstudio.app" - **במקביל**
 ל-GitHub Pages (לא במקום), כי התוכנית היא להפוך את הריפו ל-private
