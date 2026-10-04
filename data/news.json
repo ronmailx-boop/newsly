@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:31:01.430Z",
+  "updatedAt": "2026-10-04T10:46:01.161Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,105 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/egypt-f16-crucial-armament-demands",
+      "title": "חימוש גורלי: מצרים דורשת F-16 חדשים וישראל שותקת",
+      "summary": "מצרים הגישה בקשה רשמית ודיסקרטית לארצות הברית לרכישת מטוסי קרב מתקדמים מדגם F-16 Viper Block 70 ישירות מקו הייצור; בירושלים בוחרים לשתוק בשקט רועם מול העסקה האסטרטגית שצפויה לשדרג דרמטית את חיל האוויר המצרי (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/egypt-f16-crucial-armament-demands",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T10:33:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1373426",
+      "title": "השוטרים עצרו מונית בנוף הגליל - ואז הריחו משהו חשוד",
+      "summary": "השוטרים עצרו מונית לבדיקה שגרתית בנוף הגליל, אך מהר מאוד הבינו שמשהו אינו כשורה. הבדיקה הסתיימה בצעד חריג נגד הנהג ובהשבתת הרכב",
+      "link": "https://www.maariv.co.il/news/law/article-1373426",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T10:32:57.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byasbjyszg",
+      "title": "דוקטרינת פוטין אחרי \"מבצע ויוואלדי\": כטב\"מים מתפוצצים על הגשרים בקייב",
+      "summary": "מאז יום חמישי תוקפת רוסיה שוב ושוב גשרים מעל נהר הדנייפר וגורמת לפקקי ענק בבירה האוקראינית, ראש העיר: \"מוסקבה מחריבה אותנו, המצב דרמטי\". הצבא הרוסי משתמש בכטב\"מי-סילון זולים ומהירים שקייב מתקשה ליירט, הקרמלין מזהיר דיפלומטים ואזרחים: \"צאו מהעיר, עוד מתקפות תגמול בדרך\". זלנסקי: \"הוא נוקם על המבצע שבו תפסנו שטחים בדונבאס\". קנצלר גרמניה הגיע לקייב ברכבת עם חבילת סיוע: \"אם רוסיה לא תיבלם מכונת המלחמה תופנה אלינו\"",
+      "link": "https://www.ynet.co.il/news/article/byasbjyszg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-04T10:30:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373425",
+      "title": "טייס עם דרכון עומאני בדרך לישראל: משרד התחבורה וגופי הביטחון בקרב האשמות",
+      "summary": "פרטי צוות הטיסה היו בידי ישראל עוד לפני ההמראה, אך טייס המשנה העומאני שובץ בכל זאת בטיסה לנתב\"ג. כעת משרד התחבורה וגופי הביטחון מטילים זה על זה את האחריות לכשל",
+      "link": "https://www.maariv.co.il/news/politics/article-1373425",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T10:30:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21548071",
+      "title": "טל ינון דרדיק לא ייצא ממעצר לחתונת אחותו: \"זו נקמנות\" | מייד: הדיון בערר",
+      "summary": "דרדיק, ששבת רעב במשך 38 ימים במחאה על צו ההגבלה נגדו, ביקש להשתחרר בערבות לשעות ספורות כדי להשתתף בחתונת אחותו • במשטרה סרבו וארגון \"חוננו\" הגיש ערר • עורך דינו תוקף: \"זו נקמנות וניסיון להשפיל אותו, מדובר בזכות הומניטרית אלמנטרית\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21548071",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:29:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21548110",
+      "title": "הזמנתם אייפון 18 מראש וטרם קיבלתם? אתם לא לבד",
+      "summary": "צרכנים רבים שהזמינו את מכשירי האייפון החדשים במכירה מוקדמת ב-18 בספטמבר עדיין ממתינים למכשירם • הרשתות מסבירות כי המלאי תלוי בהקצאות של אפל העולמית, כשחלקן מתחייבות לזמן אספקה של עד 60 ימים • גורמים בענף מצביעים על שילוב של השקה היסטורית בגל הראשון בעולם, יחד עם סגירת נתב\"ג ביום כיפור, כסיבות העיקריות לעיכובים בשרשרת האספקה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21548110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:26:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21545296",
+      "title": "מעריב לנוער שלום, איזה מדור אני?!",
+      "summary": "המדורים האגדיים של ״מעריב לנוער״ ליוו דורות של קוראים - אבל איזה מהם הכי מתאימה לאופי שלכם? בחנו את עצמכם וגלו",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21545296",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:25:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21548093",
+      "title": "\"משווים את לברון ג'יימס למייקל ג'ורדן? הוא כמו ילדה קטנה\"",
+      "summary": "פרו אנטיץ', ששיחק מול כוכב הלייקרס ב-NBA, יצא נגד ההשוואות לגדולי המשחק: \"הוא עושה פלופים ומתלונן\" • שחקן העבר תקף גם את המרדף אחר שיא הנקודות ואת הרצון לשחק לצד בנו ברוני: \"לברון הרס את ה-NBA\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21548093",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:25:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21547947",
+      "title": "לא מעידה חד פעמית: גם אחרי \"שומר החומות\" יוסף חדאד תמך במדינה פלסטינית",
+      "summary": "בראיון נוסף שנחשף כעת, לאחר \"שומר חומות\" אמר: \"אני תומך במדינה פלסטינית בכפוף לכך שישראל תשמור על ביטחון מלא עבורה\" • זאת, בניגוד לדבריו מהבוקר שלפיהם בעקבות \"שומר החומות\" הבין ש\"אסור לתת להם מדינה\" • קודם לכן נחשף ראיון נוסף ל\"אל-ערביה\": \"הפתרון הסופי אינשאללה - הוא מדינה פלסטינית\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21547947",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:22:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21548074",
+      "title": "עשור אחרי רצח אמה: האם ג'יפסי רוז קשורה למותו של הארוס לשעבר?",
+      "summary": "ארוסה לשעבר ואבי בתה נמצא ללא רוח חיים בביתו בלואיזיאנה • במשטרה לא מצאו בשלב זה סימנים לפלילים והחשד למנת יתר נבדק, אך משפחתו של המנוח והגולשים ברשת כבר מפנים אצבע מאשימה לעברה של ג'יפסי - שמכחישה כל קשר למותו",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21548074",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:20:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21546342",
+      "title": "בלי מריחות וכתמים: הדרך הנכונה לנקות את השמשה ברכב",
+      "summary": "נמאס לכם לנהוג מול השמש ולגלות שהשמשה הקדמית שלכם מלאה בסימנים ומריחות? המנקה המקצועי חושף את השיטה הפשוטה, החומרים המומלצים והטכניקה שתבטיח לכם שמשה מבריקה בלי להתאמץ",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21546342",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:18:16.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373419",
       "title": "יאיר גולן על רע\"מ: \"אנחנו עוד לא יודעים - יכול להיות 61 גם בלעדיהם\"",
       "summary": "יו\"ר הדמוקרטים יאיר גולן שוחח עם גדי נס על אמירותיו של ליברמן - לאחר שקבעו כי לא יתקפו אחד את השני, על המינוי של דוד זיני והאם ישאר בתפקידו אם תוחלף הממשלה, ועל רע\"ם: \"אולי יהיה 61 גם בלעדיהם\"",
@@ -39,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T10:16:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21548000",
+      "title": "\"תפיסות פילוסופיות לאותות אימון\": הניסיון של אנטרופיק ללמד מוסר",
+      "summary": "אנטרופיק הציגה מפגש יוצא דופן עם נזיר ודנטה ומומחי אתיקה במטה החברה • המטרה: לתרגם עקרונות כמו קארמה וחובה מוסרית לקוד הנדסי, כדי למנוע מבינה מלאכותית לחנף למשתמשים או לזייף אמינות",
+      "link": "https://www.israelhayom.co.il/tech/research/article/21548000",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T10:14:46.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21548000",
@@ -66,6 +174,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T10:11:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1373412",
+      "title": "פרשת השחיתות בהסתדרות מסתבכת: הקשר האסור של בכיר העירייה במרכז",
+      "summary": "בכיר בעיריית נס ציונה ניהל קשר יחסי שוחד עם סוכן ביטוח, שכבר נחקר בעבר במסגרת פרשת \"יד לוחצת יד\" של ההסתדרות. בשלב זה, לא נמסרו פרטים על טיב טובות ההנאה שנבדקות, היקפן או התמורה שלכאורה ניתנה עבורן",
+      "link": "https://www.maariv.co.il/news/law/article-1373412",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T10:09:15.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1373412",
@@ -2462,15 +2579,6 @@
       "pubDate": "2026-10-03T21:03:22.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14915998",
-      "title": "מי יעצור את צו 8",
-      "summary": "חוק שירות המילואים קובע כי שר הביטחון רשאי, בנסיבות חירום ולאחר ששוכנע שביטחון המדינה מחייב זאת, לקרוא לכל חייל מילואים להתייצב ולשרת כל זמן שהצו בתוקפו. לא מצב ביטחוני מורכב, לא צורך מבצעי מתמשך ולא ריבוי זירות. נסיבות חירום",
-      "link": "https://www.ynet.co.il/news/article/yokra14915998",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-03T21:03:00.000Z"
-    },
-    {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14916222",
       "title": "זה בידיים שלנו",
       "summary": "אחרי שלוש שנים של גיהינום, אנחנו לא רק רוצים להיות מוגנים מפני העתיד – אלא מייחלים שבכלל יהיה לנו כזה. וזה תלוי אך ורק במה שנבחר ב-27 באוקטובר",
@@ -2493,6 +2601,15 @@
       "title": "סכנת מלחמת דת בפנינו",
       "summary": "במשך שנים קיוותה ישראל שהמאבק בינה לבין אויביה לא יהיה דתי, אך חיזוק היסודות הדתיים במדיניות בהקשר הפלסטיני רק מוריד את הסיכוי לפתרון",
       "link": "https://www.ynet.co.il/news/article/yokra14916404",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T21:03:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14915998",
+      "title": "מי יעצור את צו 8",
+      "summary": "חוק שירות המילואים קובע כי שר הביטחון רשאי, בנסיבות חירום ולאחר ששוכנע שביטחון המדינה מחייב זאת, לקרוא לכל חייל מילואים להתייצב ולשרת כל זמן שהצו בתוקפו. לא מצב ביטחוני מורכב, לא צורך מבצעי מתמשך ולא ריבוי זירות. נסיבות חירום",
+      "link": "https://www.ynet.co.il/news/article/yokra14915998",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-03T21:03:00.000Z"
@@ -22260,69 +22377,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-29T10:46:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21512855",
-      "title": "סערה במכבי תל אביב: ג'ק אנגלידיס הכריע - והשחקנים נפגעו",
-      "summary": "המנכ\"ל החליט שיואב זיו יסיים את דרכו בתור מנהל הקבוצה, ובקריית שלום קיבלו את המהלך בהפתעה גדולה • במועדון עשויים להציע לשחקן העבר תפקיד אחר כדי להשאיר אותו במערכת, בחדר ההלבשה חוששים מהמשך הדרך",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21512855",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:41:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21498824",
-      "title": "לא רק בסלון: 10 מקומות בבית לתלות בהם שנדליר",
-      "summary": "נברשות כבר מזמן לא שמורות לחדרי אוכל מפוארים ולבתים בסגנון קלאסי • מגוף תאורה דרמטי במטבח ועד נברשת בחדר הרחצה או אפילו בחדר הכביסה - אלה המקומות שיכולים להשתנות לגמרי בעזרת בחירה אחת נכונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21498824",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:37:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21512933",
-      "title": "אמילי דמארי למכבי תל אביב: \"החלטה כואבת ומאכזבת\"",
-      "summary": "שורדת השבי קראה למועדון לשקול מחדש את פיטוריו של המנהל יואב זיו: \"הוא היה שם גם בשביל מפונים, משפחות שכולות, פצועים ומשפחות חטופים רבות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21512933",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:35:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371864",
-      "title": "12 מקומות למעלה תוך שנה: תל אביב רושמת זינוק בדירוג העולמי",
-      "summary": "תל אביב זינקה 12 מקומות בדירוג הערים הגלובליות של Oxford Economics והגיעה למקום ה-34 בעולם. היא עקפה את וינה, סיאול ודובאי. הכלכלה וההון האנושי בלטו לטובה, בעוד הממשל והסביבה משכו את הציון כלפי מטה",
-      "link": "https://www.maariv.co.il/news/world/article-1371864",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T10:35:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371864",
-      "title": "תל אביב במקום ה-34 בעולם: הדירוג הבינלאומי שמציב אותה לפני וינה וסיאול",
-      "summary": "תל אביב זינקה 12 מקומות בדירוג הערים הגלובליות של Oxford Economics והגיעה למקום ה-34 בעולם. היא עקפה את וינה, סיאול ודובאי. הכלכלה וההון האנושי בלטו לטובה, בעוד הממשל והסביבה משכו את הציון כלפי מטה",
-      "link": "https://www.maariv.co.il/news/world/article-1371864",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T10:35:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21512401",
-      "title": "המהלך של דגל התורה ליום הבחירות - שיעקוף את המגבלה המשפטית",
-      "summary": "בדגל התורה מחפשים דרך להרחיב משמעותית את מערך השטח כדי לשמור על שיעורי ההצבעה הגבוהים • האפשרות להיעזר בבנות סמינר נתקלה בקושי משפטי • במפלגה בוחנים דרך אחרת שתאפשר להוציא את המהלך לפועל",
-      "link": "https://www.israelhayom.co.il/news/local/article/21512401",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:31:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21512684",
-      "title": "גורמים בליכוד: הקמפיין נגד וינטר נכשל - צריך לחשב מסלול מחדש",
-      "summary": "בדיקה פנימית העלתה כי הפוסטים של נתניהו נגד וינטר זכו לאלפים בודדים של לייקים, לעומת עשרות אלפים בפוסטים אחרים • גורמים במפלגה מזהירים מפגיעה בליכוד ובגוש הימין • הליכוד: \"פייק ניוז מוחלט\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21512684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:31:35.000Z"
     }
   ]
 }
