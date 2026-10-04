@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:16:03.083Z",
+  "updatedAt": "2026-10-04T03:31:01.354Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21544700",
+      "title": "לוחם צה\"ל וקצין נפצעו בינוני וקשה בתאונה מבצעית בדרום לבנון",
+      "summary": "מתחקיר ראשוני עולה כי השניים נפגעו מפיצוץ רימון צה\"לי • הנפגעים פונו לבית החולים, משפחותיהם עודכנו והאירוע מתוחקר",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21544700",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T03:10:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21544680",
+      "title": "מאסק וזיליס נפרדו: סנט קלייר מציגה גרסה אחרת",
+      "summary": "שיבון זיליס, אם ארבעה מילדיו של אילון מאסק, חשפה כי הקשר ביניהם הסתיים לדבריה בפתאומיות. זמן קצר לאחר מכן אשלי סנט קלייר, אם לילד נוסף של מאסק, הגיבה וטענה כי תהליך ההתרחקות נמשך כבר כחודש",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21544680",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T03:07:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21544673",
+      "title": "השופטים בוחנים מחדש: האם הצילום הזוכה בתחרות היוקרתית נוצר בעזרת AI?",
+      "summary": "סרטון מרהיב של תנועה גופנית מיקרוסקופית זכה במקום הראשון בתחרות הצילום היוקרתית של ניקון - אך כעת החברה בוחנת מחדש את הזכייה, לאחר שמשתמשים טענו כי הסרטון נושא ווטרמארק המזהה תוכן שנוצר בבינה מלאכותית • החוקר שמאחורי הסרטון מכחיש: \"AI לא שימש ליצירת הסרטון עצמו\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21544673",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T03:07:15.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/s1pwbcr5ze",
       "title": "רימון הושלך באופן לא תקין בדרום לבנון, שני לוחמים נפצעו קשה ובינוני",
@@ -21972,33 +21999,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T03:31:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21505562",
-      "title": "שדה התעופה הנידח עלול להיסגר - חברות התעופה מזהירות מההשלכות",
-      "summary": "בלב האוקיינוס השקט, בין צפון אמריקה לאסיה, נמצא שדה תעופה שכמעט ולא מפעיל טיסות נוסעים, אך משמש שדה חירום חיוני למטוסים החוצים את הים • הוא זקוק להשקעה של יותר מ-100 מיליון דולר עבור שיפוץ • חברת תעופה אוסטרלית מזהירה כי אובדן האפשרות להשתמש בו עלול להוסיף 2.2 טונות דלק לטיסה מסידני ללונדון",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21505562",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T03:30:03.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/chof8cv2h",
-      "title": "מזג האוויר: טמפרטורות נמוכות מהרגיל, ייתכן גשם קל",
-      "summary": "היום תחול ירידה קלה בטמפרטורות, וייתכן גשם קל בצפון ובמישור החוף. מחר ומחרתיים לא צפוי שינוי ניכר, אך בשישי הטמפרטורות יעלו מעט",
-      "link": "https://www.ynet.co.il/news/article/chof8cv2h",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-29T03:23:15.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/chof8cv2h",
-      "title": "תחזית מזג האוויר: טמפרטורות נמוכות מהרגיל",
-      "summary": "היום תחול ירידה קלה בטמפרטורות, וייתכן גשם קל בצפון ובמישור החוף. מחר ומחרתיים לא צפוי שינוי ניכר, אך בשישי הטמפרטורות יעלו מעט",
-      "link": "https://www.ynet.co.il/news/article/chof8cv2h",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-29T03:23:15.000Z"
     }
   ]
 }
