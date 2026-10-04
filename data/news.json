@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:46:01.161Z",
+  "updatedAt": "2026-10-04T11:01:11.742Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/peoples/tmdqb7",
+      "title": "בגלל דברי האדמו\"ר בהקפות: ההחלטה \"הקשה\" של הצלם החסידי | צפו",
+      "summary": "הצלם החסידי משה גולדשטיין החליט להתנתק מוואטסאפ ולעבור לטלפון כשר, בעקבות דברי האדמו\"ר מצאנז בהקפות השניות • \"קשה לי, זה כלי לפרנסה\", הוא מודה • \"אבל אפשר לחיות רגוע דרך המייל, ולראות שיש ילדים בבית גם\" (ברנז'ה)",
+      "link": "https://www.kikar.co.il/peoples/tmdqb7",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T10:57:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/border-crossing-smuggling-prevention",
+      "title": "השוטר הרים את הכסאות ברכב - וזה מה שהתגלה שם מתחת | צפו",
+      "summary": "לוחמי מג\"ב עוטף ירושלים סכלו ניסיון הברחה של שני שוהים בלתי חוקיים במעבר הטבעת, לאחר שאלו אותרור כשהם מסתתרים בצפיפות מתחת למושבי רכב פרטי. הלוחמים שחשדו ברכב ביצעו בידוק יסודי, חשפו את השב\"חים ברצפת הרכב ועצרו אותם יחד עם הנהג החשוד בהסעתם להמשך חקירה | צפו (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/border-crossing-smuggling-prevention",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T10:54:33.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/egypt-f16-crucial-armament-demands",
       "title": "חימוש גורלי: מצרים דורשת F-16 חדשים וישראל שותקת",
@@ -165,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T10:11:17.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373415",
+      "title": "\"הכל פתוח, יכול להיות משהו בין איזנקוט לנתניהו\"",
+      "summary": "נחום פרי, כתב הכנסת של מעריב, התייחס למתיחות בגוש השינוי, לדברי יאיר גולן על מנסור עבאס ולאפשרות לשיתופי פעולה מפתיעים אחרי הבחירות: \"הכול פתוח\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1373415",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T10:11:08.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373415",
@@ -2559,6 +2586,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T21:39:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byu70hc9fx",
+      "title": "כולם מתנערים, משרד התחבורה \"לא משך נתונים שנתיים\" ומגיב: \"אנחנו לא גוף מודיעיני\"",
+      "summary": "העובדות: ישראל קיבלה מראש את רשימת נוסעי טיסת פליי דובאי, כולל הטייס-מחבל מעומאן. מי שאמון על הבדיקה הוא משרד התחבורה, שמאשר הגעת חברות זרות, אך שם טענו: \"אין לנו את הכלים\". גם לשב\"כ, למוסד ולמשטרה יש גישה לנתונים שמועברים לרשות המיסים. המחדל: ייתכן שזו לא הייתה הפעם הראשונה",
+      "link": "https://www.ynet.co.il/news/article/byu70hc9fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-03T21:26:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21544348",
@@ -22287,96 +22323,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T11:01:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21513192",
-      "title": "ירון לונדון על בנו מחוץ לנישואים: \"אי אפשר להירפא מהמחלה שלו\"",
-      "summary": "בריאיון לפודקאסט \"אחד פלוס אחד\" של משה בקר, ירון לונדון דיבר בגלוי על יואב זהבי, הבן שנולד מחוץ לנישואים, ועל המחיר ששילמה המשפחה • מה הוא אומר היום על המחלה של יואב • והמשפט שקירשנבאום נהג לומר לו בזמן העבודה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21513192",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T11:01:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21513192",
-      "title": "ירון לונדון על הקשר עם בנו שמחוץ לנישואים: ''זה עלה לי במחיר''",
-      "summary": "בריאיון לפודקאסט \"אחד פלוס אחד\" של משה בקר, ירון לונדון דיבר בגלוי על יואב זהבי, הבן שנולד מחוץ לנישואים, ועל המחיר ששילמה המשפחה • מה הוא אומר היום על המחלה של יואב • והמשפט שקירשנבאום נהג לומר לו בזמן העבודה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21513192",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T11:01:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21513043",
-      "title": "\"קודחים חור בגולגולת\": בילי ג'ואל חושף מה עבר בניתוח המוח",
-      "summary": "אחרי שאובחן בהידרוצפלוס בלחץ תקין ונאלץ לעצור את סיבוב ההופעות שלו, בילי ג'ואל חושף פרטים חדשים על ניתוח המוח שעבר ועל האזהרה שקיבל מרופאיו • הזמר בן ה-77 מספר מדוע בתחילה סירב לעבור את ההליך, מה גרם לו לשנות את דעתו - ומה מצבו היום",
-      "link": "https://www.israelhayom.co.il/health/article/21513043",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T11:00:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21512995",
-      "title": "מהמשבר לתיאום: מאחורי הקלעים של המהלך החדש בגוש השינוי",
-      "summary": "החשש שחלק מהמפלגות לא ימליצו על איזנקוט האיץ את הקמת צוותי הפעולה המשותפים • מאחורי ההודעה עומדים שבועות של מפגשים בין ראשי המטות, כשברקע פערים בניסיון ובנכונות לשתף פעולה - וגם מחלוקות שטרם נפתרו",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21512995",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:57:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21512974",
-      "title": "כעשרה ימים לאחר שנכנס לפיקוח: יותר מאלף תכנים מיניים אסורים אותרו במכשיריו",
-      "summary": "תושב המרכז נעצר בחשד להפרת צו הפיקוח • לפי שב\"ס, בין הממצאים תכנים שנוצרו בבינה מלאכותית ובהם דמויות הנחזות לקטינות • אותרו גם קשרים עם חשבונות של קטינות ברשתות החברתיות, ומעצרו הוארך ביומיים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21512974",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:52:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21513045",
-      "title": "בן של שחקן עבר: הנער ממכבי חיפה שמעורר עניין בפרמייר ליג",
-      "summary": "סקאוטים מאנגליה התרשמו מאריאל דורה, בנו של שחקן העבר יוסי, ומהקשר נועם גולדנברג במשחק הנבחרת • בעבר דחה אופציה לעבור לאינטר בגלל עניינים אישיים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21513045",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:50:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21513045",
-      "title": "בן של מאמן מוכר: שחקן מכבי חיפה שמעורר עניין בפרמייר ליג",
-      "summary": "סקאוטים מאנגליה התרשמו מאריאל דורה, בנו של שחקן העבר יוסי, ומהקשר נועם גולדנברג במשחק הנבחרת • בעבר דחה אופציה לעבור לאינטר בגלל עניינים אישיים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21513045",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:50:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21512903",
-      "title": "יובל שרף: ''יש משבר''",
-      "summary": "השחקנית רצתה רק ערב רגוע מול המסך אחרי יום ארוך, אבל גילתה שבבית מחכה לה משבר קטן ומתסכל במיוחד, כזה שכל הורה מכיר • מה בדיוק הילדים הספיקו לעשות לשלטים • ולמה אפילו הפתרון מהמחשב לא הציל לה את הערב הרגוע",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21512903",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T10:47:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371869",
-      "title": "סערת הנפט בפוקלנד: נשיא ארגנטינה מאיים על בריטניה – וגם ישראל מעורבת",
-      "summary": "נשיא ארגנטינה מאיים לפתוח בהליך משפטי נגד ממשלת בריטניה בגלל הפרויקט לקידוח נפט באיי פוקלנד - שגם חברה ישראלית מעורבת בו",
-      "link": "https://www.maariv.co.il/news/world/article-1371869",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T10:46:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1371869",
-      "title": "מיליי מאיים בתביעה בין-לאומית: לעצור את פרויקט הנפט הבריטי-ישראלי בפוקלנד",
-      "summary": "נשיא ארגנטינה מאיים לפתוח בהליך משפטי נגד ממשלת בריטניה בגלל הפרויקט לקידוח נפט באיי פוקלנד - שגם חברה ישראלית מעורבת בו",
-      "link": "https://www.maariv.co.il/news/world/article-1371869",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T10:46:05.000Z"
     }
   ]
 }
