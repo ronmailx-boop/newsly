@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:01:12.252Z",
+  "updatedAt": "2026-10-04T06:15:51.656Z",
   "sources": [
     {
       "key": "ynet",
@@ -41,6 +41,33 @@
       "pubDate": "2026-10-04T08:20:00.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmdcwf",
+      "title": "\"תוודאו שצילמתם\": מופע הצליפות המטורף של שר המלחמה האמריקני",
+      "summary": "עשרה ניסיונות, תשע קליעות, והחגיגה בסיום: כך הפך ביקור שגרתי יחסית של שר המלחמה לרגע ויראלי (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmdcwf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T06:09:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373309",
+      "title": "לא רק מלחמה מול רוסיה באופק: בשורות קשות לקנצלר מרץ בגרמניה",
+      "summary": "שנה וחצי לאחר הבחירות האחרונות במדינה, המערכת הפוליטית בגרמניה עוברת שינויים משמעותיים. זאת, על רקע היחלשות פוליטית של הקנצלר פרידריך מרץ",
+      "link": "https://www.maariv.co.il/news/world/article-1373309",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T06:07:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1373311",
+      "title": "האב של הנרצחת מהנובה הפך את השולחן: \"גם הנאצים הגרמנים לא רוקדים באושוויץ\"",
+      "summary": "אביה של אוריה ליטמן ז\"ל אשר נרצחה במסיבת הנובה ב-7 באוקטובר 2023 התעמת עם חוגגים שעשו הקפות שניות בחג, בזירת הרצח. \"היה הסכם שהם יהיו בחניונים הרחוקים ולא שם\", אמר",
+      "link": "https://www.maariv.co.il/news/israel/article-1373311",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T06:06:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/tmdc0o",
       "title": "כלי הצלה שהפך לנשק: נחשף גרזן התקיפה של הטייס-המחבל",
       "summary": "רגעי האימה בטיסת פליי-דובאי מקבלים כעת המחשה מוחשית: התמונה של הפריט שהיה במרכז הדרמה נחשפת| \"הסכנה הייתה שם תמיד\" (חדשות בעולם)",
@@ -50,6 +77,24 @@
       "pubDate": "2026-10-04T05:57:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21545107",
+      "title": "50 אלף נרות לזכר הנופלים: היוזמה ל-7 באוקטובר",
+      "summary": "לקראת שלוש שנים לאירועי ה-7 באוקטובר, קבוצת ספיר ועמותת ״משפחה אחת״ משיקות יוזמת הנצחה משותפת • 50 אלף נרות זיכרון יימכרו ברשתות הקבוצה, והרווחים יועברו לסיוע למשפחות שכולות ולנפגעי טרור • הציבור יוזמן להקדיש את הנר לאדם שאיבד את חייו בטבח או במהלך המלחמה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21545107",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:54:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21544780",
+      "title": "אירלנד טובה מנבחרת ישראל בכמעט כל עמדה - אבל זו לא גזרת גורל",
+      "summary": "הנבחרת של רן בן שמעון נותרה עם צלקת מהמשחק הראשון מול האירים, אבל זה יכול להיראות אחרת • חלוקת עומס, התאמת טקטיות, והבנה שגורל האומה לא תלוי במה שיקרה על הדשא בסרביה • כך ישראל בכל זאת תשיג ניצחון ראשון בקמפיין",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21544780",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:52:13.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1373302",
       "title": "התשובה שלי: לא בטוח שמדינת ישראל בכלל תהיה כאן בעוד כמה שנים | יצחק בריק",
       "summary": "קרא",
@@ -57,6 +102,60 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T05:47:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21545097",
+      "title": "\"לא מתרבים בקלות\": אנה ארונוב משתפת בכנות",
+      "summary": "לאחר ששבה מחופשה באיטליה, הרקדנית והשופטת עשתה סדר לגבי התוכניות האישיות שלה • הנה המענה שהציגה לעוקבת שייעצה לה לגבי משפחתה, וההחלטה עליה הכריזה",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21545097",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:46:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21545052",
+      "title": "נפתחה ההכנה לעונת ה-NBA: יאניס אנטטוקומפו ערך בכורה במיאמי",
+      "summary": "הכוכב החדש של ההיט קלע 9 נקודות ב-14 דקות בניצחון 105:129 על טורונטו ראפטורס • קוואי לנארד לא שותף אצל הקנדים",
+      "link": "https://www.israelhayom.co.il/sport/article/21545052",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:38:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21544984",
+      "title": "יוסף חדאד: \"הפתרון הסופי אינשאללה - הוא מדינה פלסטינית\"",
+      "summary": "חדאד, מספר 2 במלפגת עמך ישראל של עופר וינטר התראיין לערוץ אל ערביה הפועל מדובאי • לדבריו בראיון, \"כערבים ישראלים כשנהיה בתוך המוסדות הממשלתיים הבכירים ביותר בישראל, נוכל לבוא ולומר עכשיו אנחנו יכולים לדבר על אחינו הפלסטינים בעזה ובגדה המערבית\" • חדאד בתגובה: \"הראיון הוא מלפני 5 שנים - מדינה פלסטינית לא תקום\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21544984",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:37:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21544930",
+      "title": "\"אנשים זקוקים למחסה לפני החורף\": אנג'לינה ג'ולי חסה על עזה",
+      "summary": "הכוכבת פרסמה צילומי לווין מתוך אפליקציית Google Earth • היא טענה כי \"שכונות שלמות הפכו לחורבות\" וקראה לספק סיוע דחוף",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21544930",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:35:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21545047",
+      "title": "למרות התנגדות הדרג המקצועי: מחיר הדלק יירד הלילה",
+      "summary": "בחצות תיכנס לתוקף הוזלה של חצי שקל במס הבלו, שתוריד את מחיר הדלק בתחנות ל-7.77 שקלים • שר האוצר צפוי לחתום היום על הצו לאחר אישור היועצת המשפטית לממשלה • הדרג המקצועי באוצר התנגד למהלך בשל הצורך במימון הוצאות המלחמה, והעלות מוערכת בכ-300 מיליון שקלים בחודש • ללא שינוי נוסף, בחודש הבא הבלו יזנק בשקל והמחיר יתקרב ל-9 שקלים לליטר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21545047",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:33:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21544935",
+      "title": "בשורה להורים: המדינה התערבה - \"עמלת הפרדת הילדים\" בטיסה תבוטל",
+      "summary": "כדי שילדים מתחת לגיל 14 יוכלו לשבת לצד הוריהם, הם מחויבים לשלם סכום נוסף • הממשלה החליטה להתערב במדיניות הנוכחית של חברות התעופה - ולשים לזה סוף, כמו גם לעלות עקב שגיאות כתיב קלות בשם על גבי כרטיס הטיסה • \"אנשים מאסו בחיובים הקטנים האלה שמצטברים, אז אני שם לזה סוף\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21544935",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T05:33:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373299",
@@ -102,6 +201,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T05:12:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373292",
+      "title": "\"הייתי מנגב איתך את הרצפה\": הפוסטים המזעזעים של הטייס המחבל נחשפים",
+      "summary": "תחקיר \"הטלגרף\" חושף את הפוסטים הקיצוניים של טייס המשנה שניסה לרסק את מטוס פליי דובאי בדרך לישראל: תמיכה באלימות נגד נשים, עונשים דתיים קיצוניים ואמירות על רצח יהודים",
+      "link": "https://www.maariv.co.il/news/world/article-1373292",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T05:06:57.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1373292",
@@ -633,6 +741,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T21:39:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21544348",
+      "title": "האוניברסיטה העברית במכתב חריג: פרשת ההטרדה מחייבת הפקת לקחים",
+      "summary": "במכתב לקהילת האוניברסיטה כותבים הנשיא, הרקטור והמנכ\"לית כי ההליך נמשך קרוב לשלוש שנים, בין היתר בשל בקשות רבות של המרצה • עוד עולה מהמכתב: המתלוננת סירבה להגיש תלונה במשטרה, והמרצה ניסה למנוע את פרסום שמו",
+      "link": "https://www.israelhayom.co.il/news/law/article/21544348",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-03T21:03:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21544348",
@@ -21837,33 +21954,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T06:18:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm43b1",
-      "title": "עם רמקול בידו; האדמו\"ר ההונגרי הלהיב את החסידים אשר התרוממו עד כלות הנפש",
-      "summary": "האדמו\"ר מחוג חתם סופר ערך את שולחנו לרגל שמחת בית השואבה בסוכה הגדולה הסמוכה להיכל ישיבתו בבני ברק | במהלך השמחה התרומם האדמו\"ר מכסאו ושורר בלהב אש קודש ברמקול ניגוני כיסופין, כשהחסידים מתרוממים עד כלות הנפש מתוך שמחת החג (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm43b1",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T06:10:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371758",
-      "title": "הדלק מתקרב שוב ל-8 שקלים? הטלטלות בעולם עלולות להקפיץ את המחיר",
-      "summary": "הטלטלות בשוק האנרגיה העולמי, בהן המתיחות סביב מצר הורמוז והפגיעה בבתי זיקוק ברוסיה, עשויות להוביל לעלייה של עד 40 אגורות במחיר הליטר. ליאת רון ב-103fm: \"הדבר עלול להעלות את המחירים בכלל המשק\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1371758",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T06:08:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21510119",
-      "title": "הסתער על אביו עם גרזן וסכין בעכו - וננעל בדירה עד להגעת המשטרה",
-      "summary": "לפי כתב האישום, בן 28 השתולל בביתו בעיר העתיקה בעכו לאחר שצרך סמים, הצטייד בכלי התקיפה והסתער על אביו • האב הצליח לחלץ אותם מידיו, להדוף אותו לתוך הדירה ולנעול את הדלת עד להגעת השוטרים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21510119",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T06:03:08.000Z"
     }
   ]
 }
