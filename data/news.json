@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T17:16:02.926Z",
+  "updatedAt": "2026-10-04T17:31:06.910Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/tme7nm",
+      "title": "בגלל 'מי שברך': חכ\"ל התפלל לרפואת בן השגריר - וקיבל הרחקה בגלל \"מסוכנות\" | צפו",
+      "summary": "חבר הכנסת לשעבר יהודה גליק קיבל הרחקה בצו משטרה מהר הבית, בעקבות מי שברך שעשה למען נריה לייטר | צפו בתיעוד (חדשות)",
+      "link": "https://www.kikar.co.il/news/tme7nm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T17:23:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21552028",
+      "title": "שעון נוכחות לעובדים: עוברים לניהול שעות עבודה דיגיטלי",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21552028",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T17:18:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21551916",
+      "title": "אייל גולן זועם: ''הם מחבלים בוגדים''",
+      "summary": "בריאיון ל\"ישראל בידור\" יצאו אייל גולן ודוד טהר, אביו של סמל אדיר טהר ז\"ל, למתקפה חריפה נגד יוצרי הסרט • השניים לא חסכו במילים, וטהר אף קרא להעמיד אותם לדין • ובסוף השיחה פנה האב השכול ליוצרים בהזמנה מצמררת",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21551916",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T17:17:35.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373568",
       "title": "המשוריין החדש בליכוד עם מסר לחרדים: \"זה לא מספיק\"",
       "summary": "המשוריין החדש בליכוד העריך כי לנתניהו יהיה רוב להקמת ממשלה, קרא להרחיב את גיוס החרדים וטען כי ועדת חקירה ממלכתית הפכה להיות \"כלי לניגוח הממשלה\"",
@@ -39,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T17:11:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21551910",
+      "title": "כ-5 מיליארד שקלים: תביעת הענק של משפחות שכולות ונפגעי טבח 7.10 - נגד הרש\"פ",
+      "summary": "כמעט 900 בני משפחות נרצחים, נפגעי פעולות איבה וחיילים שנפצעו בלחימה תובעים את הרשות הפלסטינית, אש\"ף וקדורה פארס • לטענתם, הנתבעים מימנו את חמאס, השתתפו בהכנות למתקפה ואף העבירו תגמולים למשפחות מחבלי נוח'בה",
+      "link": "https://www.israelhayom.co.il/news/law/article/21551910",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T17:11:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tme7ay",
@@ -50,6 +86,24 @@
       "pubDate": "2026-10-04T17:08:02.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21551859",
+      "title": "הלחץ על שחקני אירלנד לפני ישראל: \"לכו רחוק יותר\"",
+      "summary": "השחקנים צפויים לחזור על המחוות מהמשחק הקודם בליגת האומות, אך קמפיין החרם קורא להם להחריף את המחאה: \"סירבתם ללחוץ ידיים, לא החלפתם דגלונים והרכנתם ראש - העולם שם לב\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21551859",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T17:03:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rythizxome",
+      "title": "הטייס-מחבל התכוון להתרסק על נתב\"ג - כבר ביולי: \"בדקתי איזו חברה טסה לת\"א\"",
+      "summary": "המאם אל-המאמי שניסה לחטוף את טיסת \"פליי דובאי\" רצה לחולל פיגוע המוני בנתב\"ג - ולכן השתלט על המטוס רק באזור ירדן. מהחקירה עולה כי נחת בארץ כבר בקיץ ודחה את מועד הפיגוע כי ריחם על איש צוות. התוכנית: אם לא בנתב\"ג - אז להתרסק על בסיס אמריקני בממלכה השכנה. הפתרון של נתניהו, אחרי 5 ימים: ליישם את המלצת מבקר המדינה שניתנה כבר ב-2024",
+      "link": "https://www.ynet.co.il/news/article/rythizxome",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-04T17:03:46.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rythizxome",
       "title": "הטייס-מחבל התכוון להתרסק על נתב\"ג: \"בדקתי איזו חברה טסה לתל אביב\"",
       "summary": "המאם אל-המאמי שניסה לחטוף את טיסת \"פליי דובאי\" רצה לחולל פיגוע המוני בנמל התעופה בן גוריון - ולכן השתלט על המטוס רק באזור ירדן. בחקירתו אמר: \"בגלל זה בחרתי לעבוד בפליי דובאי\". הפתרון של נתניהו, בינתיים: ליישם את המלצת מבקר המדינה שניתנה כבר ב-2024",
@@ -57,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-04T17:03:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21551843",
+      "title": "דיווח: המחבל תכנן להתרסק בנתב\"ג | פרטים חדשים מהחקירה",
+      "summary": "לפי הפרסום, הימאם אל-חמאמי הודה בחקירתו באמירויות כי ביקש לרסק את המטוס בנמל התעופה • העימות בתא הטייס שיבש את תוכניתו ואילץ אותו לפעול מוקדם מהמתוכנן • ההערכה: המתין עד ירדן כדי לצמצם את הזמן שיישאר לישראל לסכל את הפיגוע",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21551843",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T16:58:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21551843",
@@ -336,6 +399,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T15:54:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
+      "title": "חי מגביע ווינר: מכבי תל אביב - הפועל ירושלים 50:52",
+      "summary": "חצי גמר: אושיי בריסט לוהט והוביל את הצהובים למהפך לקראת סיום הרבע השלישי • מילטון וקייקוק בולטים בצד השני, אבל לא מצליחים להוביל בריחה • מי תפגוש את הפועל תל אביב בגמר?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T15:51:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
@@ -22530,42 +22602,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-29T17:38:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/irgc-open-letter-us-voters-trump-midterms",
-      "title": "פנייה חסרת תקדים של משמרות המהפכה: הפילו את טראמפ",
-      "summary": "בצעד תעמולתי חסר תקדים ושובר כל מוסכמה, משמרות המהפכה באיראן חושפים מסמך דרמטי בן 26 עמודים הקורא לציבור האמריקאי, לסטודנטים ולאנשי האקדמיה להתקומם בקלפיות, להדיח את דונלד טראמפ והרפובליקנים בבחירות האמצע ולהכחיש כל קשר לטרור (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/irgc-open-letter-us-voters-trump-midterms",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T17:29:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1372014",
-      "title": "\"כל יהודי בעולם הוא בעל עניין\": המסר שמגיע מאוסטרליה לירושלים",
-      "summary": "אלון קאסוטו, מנכ\"ל הפדרציה הציונית באוסטרליה, רוכב בגליל לזכר מתילדה שנרצחה בבונדיי, ומספר על גל האנטישמיות, ועדת החקירה והמסר לישראל: \"כל העולם צופה בכם\"",
-      "link": "https://www.maariv.co.il/news/world/article-1372014",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T17:27:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21516581",
-      "title": "ההסתערות על האייפון 18: ויקטורי מכרה את כל המלאי ב-48 שעות",
-      "summary": "לאחר שרשת אושר עד הציעה את המכשיר ב-4,999 שקלים, ויקטורי הורידה את המחיר ל-4,399 שקלים ומכרה את כל המלאי תוך פחות מ-48 שעות • המלאי צפוי להתחדש בימים הקרובים • במקביל, יוחננוף החלה למכור דגמי פרו מקס באספקה מיידית",
-      "link": "https://www.israelhayom.co.il/news/local/article/21516581",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T17:23:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sjnf2dtcmx",
-      "title": "נתניהו תובע שורת כלי תקשורת עקב הפרסומים על אזהרות לפני 7/10",
-      "summary": "ראש הממשלה הגיש תביעת דיבה נגד כלי תקשורת ועיתונאים, בהם ynet ו\"ידיעות אחרונות\". בניגוד לטענתו בכתב התביעה, עד כה לא פורסמה הכחשה רשמית ממצרים או מאיחוד האמירויות לפרסומים על התרעות לפני טבח חמאס",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sjnf2dtcmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-29T17:22:04.000Z"
     }
   ]
 }
