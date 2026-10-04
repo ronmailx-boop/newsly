@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:30:49.335Z",
+  "updatedAt": "2026-10-04T18:46:03.831Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86293",
+      "title": "הושגה שליטה בשריפת היער בנחל האלה",
+      "summary": "השריפה בין עג׳ור לשדות מיכה כילתה שטח נרחב, אך התפשטותה לכיוון היישוב הסמוך נבלמה ולא היו נפגעים. מהחקירה עולה חשד כי השריפה נגרמה כתוצאה מהצתה.",
+      "link": "https://www.kikar.co.il/scoop-news/86293",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T18:40:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bj007clejml",
+      "title": "אנשי החינוך נדהמו: מנכ\"ל משרד החינוך לא יודע שהחטופים חזרו?",
+      "summary": "בחוזר מנכ\"ל משרד החינוך העוסק באירועי יום הזיכרון הלאומי לטבח הופתעו מורים ומנהלים למצוא ייחולים להשבת החטופים. משרד החינוך לא הכחיש: \"החוזר עודכן ופורסם\"",
+      "link": "https://www.ynet.co.il/news/article/bj007clejml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-04T18:32:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1373608",
       "title": "סקר מנדטים של חדשות כאן 11: עופר וינטר מקבל בשורה רעה",
       "summary": "לראשונה מאז הכרזת מפלגתו, עמך ישראל, עופר וינטר אינו עובר את אחוז החסימה. ישר! של איזנקוט עם 23 מנדטים מול 21 לליכוד; 52 מנדטים לגוש איזנקוט ו-51 מנדטים לקואליציה",
@@ -41,6 +59,42 @@
       "pubDate": "2026-10-04T18:29:02.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21552250",
+      "title": "צרורות ירי במהלך כנס עם סגלוביץ' ברהט: \"כמעט הפך לשגרה\"",
+      "summary": "במהלך המפגש נשמע ירי סמוך למקום, על רקע סכסוך בין חמולות בעיר • סגלוביץ: \"רק אתמול נשמעו במשך שמונה שעות ברצף צרורות ירי\" • הוא האשים את הממשלה: \"הפקירה את הביטחון האישי של האזרחים\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21552250",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T18:22:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21552252",
+      "title": "4 תנודות פתע: כדור הארץ זז ממקומו - וזה קורה גם היום",
+      "summary": "מחקר חדש שפורסם בכתב העת Science מצא עדויות לכך ששכבותיו החיצוניות של כדור הארץ זזו ביחס לציר הסיבוב שלו • לא מדובר בהיפוך הקטבים המגנטיים, אלא בתזוזה פיזית של היבשות • אבל לא כל המדענים בעולם משוכנעים בכך",
+      "link": "https://www.israelhayom.co.il/tech/research/article/21552252",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T18:21:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21552254",
+      "title": "\"מתאפק לא לקלל\": ירון אברהם נגד ינון מגל",
+      "summary": "כתב חדשות 12 התייחס לדיון בערוץ 14 סביב פסל הבודהה במסיבת הנובה ב-7 באוקטובר • מגל כבר עורר סערה חודשים ספורים אחרי הטבח כשאמר: \"מפריע לי שיהודים רוקדים לידו, ההקפות במתחם זה תיקון\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21552254",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T18:20:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21552206",
+      "title": "חי מליגת האומות: אירלנד - ישראל 0:0",
+      "summary": "בית ז', מחזור 4: אחרי ה-3:0 בדברצן ובצל המתיחות הפוליטית בין הצדדים, הנבחרת של רן בן שמעון רוצה להחזיר את הכבוד ולנצח את היריבה במשחק שנערך בדלתיים סגורות בסרביה • המאמן ממשיך במערך שלושת הבלמים, אוסקר גלוך ב-11 על חשבון מנור סולומון החולה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21552206",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T18:19:26.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tmeauq",
       "title": "סקר דרמטי: וינטר מתרסק מתחת לאחוז החסימה",
       "summary": "",
@@ -48,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T18:18:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21552156",
+      "title": "קרש ההצלה שאליו חמאס נושא את עיניו",
+      "summary": "בארגון הטרור בונים על הבחירות ברשות הפלסטינית כפתח ללחץ בינלאומי שיבלום את פעילות ישראל בעזה ויסלול את הדרך לחזרת הרשות לרצועה • במקביל, הארגון מנסה להשתקם, לקדם פיגועי חטיפה ולהשתלב מחדש בזירה הפוליטית • ישראל, מנגד, נדרשת להשלים את פירוק יכולותיו הצבאיות והשלטוניות לפני שהמהלך המדיני יספק לו קרש הצלה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21552156",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T18:17:39.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/rubio-expels-diplomats-kushner-iran-meeting",
@@ -132,6 +195,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373591",
+      "title": "הדו\"ח כבר היה על שולחנו: נתניהו מודה במחדל התעופה",
+      "summary": "נתניהו הנחה את המל״ל למנות בודק לבחינת אבטחת התעופה הזרה לישראל, אך ההחלטה מעוררת ביקורת: הדוח המסווג כבר הוגש לפני כשנתיים, והאירוע החמור מעלה שאלות על שורת כשלים שלא נבדקו",
+      "link": "https://www.maariv.co.il/news/politics/article-1373591",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T17:48:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373591",
       "title": "הדוח כבר היה על שולחנו: מדוע נתניהו נזכר עכשיו לבדוק את מחדל התעופה?",
       "summary": "נתניהו הנחה את המל״ל למנות בודק לבחינת אבטחת התעופה הזרה לישראל, אך ההחלטה מעוררת ביקורת: הדוח המסווג כבר הוגש לפני כשנתיים, והאירוע החמור מעלה שאלות על שורת כשלים שלא נבדקו",
       "link": "https://www.maariv.co.il/news/politics/article-1373591",
@@ -183,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T17:13:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373568",
+      "title": "המשוריין החדש בליכוד נגד ועדת חקירה ממלכתית: \"כלי לניגוח הממשלה\"",
+      "summary": "המשוריין החדש בליכוד העריך כי לנתניהו יהיה רוב להקמת ממשלה, קרא להרחיב את גיוס החרדים וטען כי ועדת חקירה ממלכתית הפכה להיות \"כלי לניגוח הממשלה\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1373568",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T17:11:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373568",
@@ -538,7 +619,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
       "title": "מכבי תל אביב ניצחה 71:88 את הפועל ירושלים ועלתה לגמר גביע ווינר",
-      "summary": "אושיי בריסט (12 נק' ברבע השלישי) ואיפה לונדברג (14 נק' ברבע הרביעי) התעוררו במחצית השנייה והובילו את הצהובים לגמר מפעל ההכנה • הירושלמים היו במשחק, אבל התפרקו ברבע הרביעי עם איבודים ואחוזים רעים לשלוש • עודד קטש ושחקניו יפגשו את הפועל תל אביב בקרב על הגביע",
+      "summary": "אושיי בריסט (12 נק' ברבע השלישי) ואיפה לונדברג (14 נק' ברבע הרביעי) התעוררו במחצית השנייה והובילו את הצהובים לגמר מפעל ההכנה • הירושלמים היו במשחק, אבל התפרקו ברבע הרביעי עם איבודים ואחוזים רעים לשלוש • ב-9.11: דרבי תל אביבי בגמר",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -22314,51 +22395,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-29T18:50:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/torah-prisoners-unprecedented-parade-celebration",
-      "title": "אסירי עולם התורה מחלקים סוכריות למשתתפים בצעדה",
-      "summary": "אלפי בני תורה צפויים להתכנס למעמד חגיגי מרומם • סיומי מסכתות שנלמדו בכלא הצבאי ומענק כספי מיוחד | הוקרה למסירות נפש למען לימוד התורה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/torah-prisoners-unprecedented-parade-celebration",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T18:43:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85946",
-      "title": "פיקוד העורף מודיע כי ניתן לחזור לשגרה בעוטף עזה | ייתכן שמדובר בזיהוי שווא",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/85946",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T18:39:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372034",
-      "title": "לא רק פסילה מהבחירות: הדרישה החדשה של בן גביר נגד יו\"ר בל\"ד",
-      "summary": "לאחר שפעלה לפסילתו מהבחירות, עוצמה יהודית דורשת לפתוח בחקירה פלילית נגד סאמי אבו שחאדה. יו\"ר בל\"ד תקף את בן גביר: \"הכהניזם הוא בור ללא תחתית\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1372034",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T18:37:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/85945",
-      "title": "אזעקה נשמעה בנחל עוז",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/85945",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T18:36:07.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1372030",
-      "title": "\"הוא פושע מלחמה\": ראש ממשלת קטאר תוקף את נתניהו",
-      "summary": "בריאיון לפירס מורגן, ראש ממשלת קטאר האשים את נתניהו באחריות למתרחש בעזה, דחה את הביקורת על מדינתו וסיפר על הנזק הכלכלי שספגה קטאר. \"הוא פשוט מנסה לעשות 'גזלייטינג' לציבור\"",
-      "link": "https://www.maariv.co.il/news/world/article-1372030",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T18:35:16.000Z"
     }
   ]
 }
