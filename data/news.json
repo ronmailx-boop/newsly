@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:30:55.264Z",
+  "updatedAt": "2026-10-04T16:46:21.724Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjxmcgxsgg",
+      "title": "צה\"ל: חוסל בעזה \"פעיל הומניטרי\" שהיה בקשר עם גורמים בהנהגת טורקיה",
+      "summary": "לפי צה\"ל, המחבל שחוסל - צקר נביל מוסא קיסי - היה שייך ליחידת הנוחבה של חמאס, והיה בקשר עם גורמים טורקים ועם בכירי חמאס במדינה",
+      "link": "https://www.ynet.co.il/news/article/sjxmcgxsgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-04T16:37:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1373566",
+      "title": "ניהל עמותת \"סיוע\" טורקית: צה\"ל חיסל מחבל נוח'בה שפשט ב-7.10",
+      "summary": "לפי צה\"ל, צקר נביל מוסא קיסי ניהל את עמותת \"דניז פנארי\", שהוצגה כגוף הומניטרי אך שימשה לתמיכה כלכלית בחמאס. בתקופה האחרונה קידם מתווי טרור ופעל לשיקום יכולות הארגון",
+      "link": "https://www.maariv.co.il/news/military/article-1373566",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T16:37:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1bw111lofg",
+      "title": "5 ימים לניסיון חטיפת המטוס: נתניהו מכיר לראשונה במחדל",
+      "summary": "לפי לשכת ראש הממשלה, ראש המל\"ל הונחה \"למנות בודק לביצוע בחינה יסודית\" של כלל היבטי האבטחה בטיסות הזרות - אחרי הפרצות הרבות שהתגלו ובמזל לא הסתיימו באסון לאומי",
+      "link": "https://www.ynet.co.il/news/article/r1bw111lofg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-04T16:33:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86286",
+      "title": "ראש הממשלה הורה למנות בודק מיוחד בנושא האבטחה בטיסות זרות",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86286",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T16:30:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/ayom-bakikar/tmdf7t",
       "title": "מאות פצועים ואלפי עצורים בצרפת | היעד של הטייס: מגדלים בתל אביב • צפו",
       "summary": "היעד של טייס המשנה: מגדלים בתל אביב | סערת יוסף חדאד: וינטר הודף את הקריאות להדחה | הקלה בכיס: הדלק יוזל הלילה בחצי שקל | תיעודים מפחידים גשרי קייב מותקפים בכטב\"מים | תימן פותחת במערכה צבאית נגד החות'ים | אינתיפאדה בצרפת? הפרשנות של צבי יחזקאלי | וכמו תמיד: התיעוד הקיצוני היומי - אחרי התחזית והפעם תיעוד בונוס... | צפו (היום בכיכר)",
@@ -39,6 +75,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T16:29:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21551695",
+      "title": "בניגוד להנחיות: הח\"כ לשעבר התפלל לרפואת נריה לייטר בהר הבית - והורחק לחצי שנה",
+      "summary": "יהודה גליק תועד נושא תפילה בקול במהלך ביקור בהר • במשטרה קבעו כי הפר את כללי ההתנהגות במקום • לאחר שימוע החליט מפקד מחוז ירושלים אבשלום פלד להרחיקו בטענה למניעת \"פגיעה חמורה בביטחון הנפש והרכוש\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21551695",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T16:29:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21551590",
+      "title": "עדיין לא נחשף: מה עשוי להתגלות בקופסה השחורה של טיסת פליי דובאי",
+      "summary": "נתוני המעקב כבר חשפו את הצלילה החריגה של FZ1073, אבל הם לא יכולים לספר מה באמת התרחש בתוך הקוקפיט • מקליטי המטוס עשויים לקבוע מי הפעיל את ההגאים, אילו פקודות ניתנו למטוס ומה נאמר בשניות הקריטיות • ויש דבר אחד שגם הם לא יוכלו להראות",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21551590",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T16:23:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21551614",
+      "title": "ילד בן 7 פונה במצב קשה - לאחר שהוכש על ידי נחש",
+      "summary": "ילד הובהל לבית החולים שניידר לאחר שפיתח תסמינים קשים בעקבות ההכשה • בתחילה מצבו הוגדר קשה ולא יציב, אך בהמשך נמסר כי התייצב • צוותי מד״א וצה״ל העניקו לו טיפול רפואי בשטח ופינו אותו בניידת טיפול נמרץ",
+      "link": "https://www.israelhayom.co.il/news/local/article/21551614",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T16:18:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21551347",
+      "title": "הודיה כהן רותחת: \"לא כותבים דבר כזה לאחות שכולה\"",
+      "summary": "יוצאת \"האח הגדול\" החליטה שלא לשתוק וחשפה הודעות מקוממות שקיבלה מעוקבת לגבי אחיה אברהם שנרצח במסיבת הנובה ב-7 באוקטובר: \"זה רוע\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21551347",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T16:17:54.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1373561",
@@ -156,6 +228,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T15:54:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
+      "title": "חי מגביע ווינר: מכבי תל אביב - הפועל ירושלים 23:15",
+      "summary": "חצי גמר: משחק עצבני בהיכל הטוטו בחולון • שתי הקבוצות מתקשות לשים את הכדור בסל ומציגות התקפות מפוזרות • פתיחת ההתמודדות התעכבה בשל אבוקות ביציע האדומים • מי תפגוש את הפועל תל אביב בגמר?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-04T15:51:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21551027",
@@ -22458,69 +22539,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-29T16:49:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1371999",
-      "title": "\"מדוע לא חקרה את היורה?\": הביקורת החריפה של השופט על המשטרה",
-      "summary": "המשטרה ביקשה להאריך את מעצרו בשבעה ימים, אך השופט קבע שאין חשד סביר וקבע כי לא ברור מדוע היורה לא נחקר ונשקו לא נתפס: \"דוחה את הבקשה ומורה על שחרורו ללא תנאים\"",
-      "link": "https://www.maariv.co.il/news/law/article-1371999",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T16:44:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1371999",
-      "title": "\"אין חשד סביר\": בית המשפט שחרר את החשוד ותקף את המשטרה",
-      "summary": "המשטרה ביקשה להאריך את מעצרו בשבעה ימים, אך השופט קבע שאין חשד סביר וקבע כי לא ברור מדוע היורה לא נחקר ונשקו לא נתפס: \"דוחה את הבקשה ומורה על שחרורו ללא תנאים\"",
-      "link": "https://www.maariv.co.il/news/law/article-1371999",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T16:44:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21516404",
-      "title": "רביב דרוקר מגיב לחקירה: \"תפרו לי תיק, לא הסכמתי לענות לשאלות\"",
-      "summary": "העיתונאי רביב דרוקר התייחס הערב בתוכניתו בערוץ 13 לחקירתו במשטרה, לאחר שתועד אוחז בטלפון נייד בזמן נהיגה בעקבות תלונה שהגישה תנועת הליכוד • דרוקר תיאר את הלחץ מצד החוקרים והסירוב לשלוח דו\"ח בדואר: \"הגיעו במיוחד עבורי, יצאתי אחרי שעה וחצי\" • צפו בדברים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21516404",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T16:42:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
-      "title": "מנצ'סטר סיטי תרד ליגה? \"ההחלטה המשמעותית בהיסטורית הפרמייר ליג\"",
-      "summary": "אחרי ימים של שמועות, הגיע האישור הסופי של קבלת המלצות הוועדה העצמאית לגבי ההפרות הפיננסיות של הסיטיזנס • מנכ\"ל הליגה האנגלית: \"ההחלטה מפרטת כיצד המועדון הפר באופן שיטתי את כללי הפרמייר ליג במשך כמעט עשור\" • במועדון הגיבו: \"שגיאות מהותיות ברורות\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T16:37:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
-      "title": "\"ההחלטה המשמעותית בהיסטוריית הפרמייר ליג\": התגובות להחלטה נגד מנצ'סטר סיטי",
-      "summary": "אחרי ימים של שמועות, הגיע האישור הסופי של קבלת המלצות הוועדה העצמאית לגבי ההפרות הפיננסיות של הסיטיזנס • מנכ\"ל הליגה האנגלית: \"ההחלטה מפרטת כיצד המועדון הפר באופן שיטתי את כללי הפרמייר ליג במשך כמעט עשור\" • במועדון הגיבו: \"שגיאות מהותיות ברורות\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21515971",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T16:37:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371995",
-      "title": "פחות מחודש לבחירות: השב\"כ הכריע בסוגיית אבטחת איזנקוט וגולן",
-      "summary": "פחות מחודש לבחירות: דוד זיני החליט שלא להצמיד לגדי איזנקוט וליאיר גולן את מאבטחי יחידה 730. השב\"כ יספק מעטפת מודיעינית ויאפשר אבטחה פרטית חמושה בהתאם לצורך",
-      "link": "https://www.maariv.co.il/news/politics/article-1371995",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T16:31:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1371995",
-      "title": "בניגוד לוועדת השרים, זיני הכריע: איזנקוט לא יאובטח ע\"י 730",
-      "summary": "פחות מחודש לבחירות: דוד זיני החליט שלא להצמיד לגדי איזנקוט וליאיר גולן את מאבטחי יחידה 730. השב\"כ יספק מעטפת מודיעינית ויאפשר אבטחה פרטית חמושה בהתאם לצורך",
-      "link": "https://www.maariv.co.il/news/politics/article-1371995",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T16:31:21.000Z"
     }
   ]
 }
