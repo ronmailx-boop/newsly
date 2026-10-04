@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:45:50.798Z",
+  "updatedAt": "2026-10-04T07:01:13.464Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-04T08:20:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmdegu",
+      "title": "נדרסה לעיני הצופים: כתבת דיווחה מהסופה ונפצעה אנושות",
+      "summary": "הצופים צפו בדיווח שגרתי מנזקי הסופה, אך לפתע המצלמה תיעדה רגע מטלטל שהותיר את הצופים המומים (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmdegu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T06:48:13.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/tmdbcc",
@@ -111,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T06:19:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1373313",
+      "title": "הסרטון \"שמסבך\" את יוסף חדאד – והתגובה החריפה שלו",
+      "summary": "סרטון ישן שבו נשמע יוסף חדאד תומך במדינה פלסטינית הופץ מחדש ועורר סערה. חדאד טוען שהקטע נערך מגמתית, מסביר ששינה את עמדתו ומבהיר: \"לא תקום מדינה פלסטינית\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1373313",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-04T06:19:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1373313",
@@ -21864,78 +21882,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-29T07:02:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21510192",
-      "title": "\"רן בן שמעון לא צריך לעזוב את הנבחרת, אין הרבה מה לעשות\"",
-      "summary": "לרוני רוזנטל ברור מה הבעיה של ישראל ויש לו עצה אחת למאמן הלאומי: \"תתמקד בשחקנים האלה, אולי יקרה שנעלה בטעות לטורניר גדול\" • הוא לא חושב שיש בעיה מנטלית: \"זה סיפורים\", ומזהה בעיה עיקרית בסגל: \"צריך לדעת לאלתר\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21510192",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T07:00:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1371780",
-      "title": "כשאמריקה אומרת ״עסקה״, מה איראן שומעת? | אל\"מ אמיר נוי",
-      "summary": "ייתכן שהבעיה בין וושינגטון לטהרן אינה רק מה כל צד רוצה, אלא מה הוא שומע כשהצד השני מדבר",
-      "link": "https://www.maariv.co.il/news/opinions/article-1371780",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T06:59:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rj00hxjkqzl",
-      "title": "היועמ\"שית לעליון: אשרו את פסילת אבו שחאדה מריצה לכנסת",
-      "summary": "בהודעת היועצת ופרקליט המדינה נאמר כי יש לאשר את פסילתו של אבו שחאדה בשל תמיכה במאבק מזוין בישראל, כולל במתקפת 7/10, \"בנסיבות קיצוניות ובעיתוי שאין חמור ממנו\". מייצגיו של אבו שחאדה: \"עמדת היועמ\"שית מעמיקה את משטר האפרטהייד נגד הערבים בישראל\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rj00hxjkqzl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-29T06:59:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1371769",
-      "title": "\"אתה ידעת למה הם יורים\": האם ששכלה את בתה בנובה תוקפת את נתניהו",
-      "summary": "שלוש שנים אחרי שבתה ליבי נרצחה במסיבת הנובה, שלי משל-יוגב מתארת את החיים לצד האובדן ואת הזעם על נתניהו שמציף אותה לקראת ציון יום טבח 7 באוקטובר: \"כל בוקר אני מרגישה שליבי מתה\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1371769",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-29T06:52:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tm45hq",
-      "title": "אחרי ליל ההתפרעויות בירושלים: המשטרה עצרה 11 חשודים | תיעוד חדש",
-      "summary": "המשטרה מעדכנת כי שוטרי מחוז ירושלים ולוחמי מג\"ב ביצעו את מעצרם של 11 חשודים בהפרות סדר ואירועי אלימות במהלך הלילה בשדרות חיים בר לב ובשער שכם בירושלים | שוטרת נפצעה באורח קל | תיעוד חדש מההתפרעויות (חדשות)",
-      "link": "https://www.kikar.co.il/haredim-news/tm45hq",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-29T06:51:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21510144",
-      "title": "אוהד בוזגלו מזהיר: \"קרה משהו גדול, הדיווחים יחלו בקרוב\"",
-      "summary": "כדורגלן העבר וכוכב \"הבוזגלוס\" העלה סטורי ובו התייחס למצבו אחרי האשפוז באברבנאל, וטען כי מתרחש אירוע גדול: \"\"משהו קורה בצפון קוריאה בכור הגרעיני, בגדול, בענק, קרה\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21510144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T06:50:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21510268",
-      "title": "אחרי שארגון פרו-פלסטיני ניסה לעצור אותו בחו\"ל: הזמר הישראלי מגיב",
-      "summary": "שלוש שנים של מלחמה, שישה סבבי מילואים ו־462 ימים בעזה ובלבנון עברו על נועם צוריאלי, במקביל לקריירה מוזיקלית עם 340 הופעות ואלבום חדש",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21510268",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-29T06:47:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hj000d2d5me",
-      "title": "\"מטומטם, בלתי נתפס\": טראמפ משדר לעצמו תעמולה במימון ממשלתי - ומסתכן בחקירה",
-      "summary": "רגע לפני בחירות האמצע, ובצל השפל בסקרים, הנשיא משדר בטלוויזיה פרסומות על חשבון משלם המיסים המציגות אותו כלוחם שמכריז: \"זה הקרב האחרון, נסלק את הקומוניסטים\". המומחים מזהירים שזו הפרה בוטה של החוק, הדמוקרטים מבטיחים חקירה נגד \"תעמולה נוסח צפון קוריאה\" - וגם הרפובליקנים המומים: \"כולם יקבלו צווי זימון, זה יהיה רע\". הבית הלבן מגן על הפרסומות שעלו לפחות 1.4 מיליון דולר: \"תשדירים לשירות הציבור, להזכיר לאמריקנים לאהוב את ארצם\"",
-      "link": "https://www.ynet.co.il/news/article/hj000d2d5me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-29T06:46:20.000Z"
     }
   ]
 }
