@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:45:46.978Z",
+  "updatedAt": "2026-10-05T05:00:56.965Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tmf3ko",
+      "title": "\"נפתיע וננצח\": מפלגת 'הציבור החרדי' תרוץ עד הסוף – למרות הסקרים",
+      "summary": "יו\"ר המפלגה מוטי לייטנר מבהיר כי למרות הסקרים הלא מחמיאים אין בכוונתם לפרוש והם ירוצו עד לקלפי: \"לא נשרוף קולות לגוש הימין, עשרות אלפים יצביעו\" (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tmf3ko",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T04:51:55.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21553453",
       "title": "\"כולנו ג׳יין דו\": קמפיין הזדהות עם המתלוננת מאוניברסיטת קורנל מציף את הרשת",
@@ -22476,78 +22485,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T05:04:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372087",
-      "title": "פגישה חשאית, מודיעין על תקיפה ובכיר סעודי בחדר: פרטים חדשים על פגישת נתניהו-בן זאיד",
-      "summary": "ראש הממשלה בנימין נתניהו הציג לנשיא איחוד האמירויות מוחמד בן זאיד מידע לפיו איראן מחדשת את הניסיונות לפיתוח נשק גרעיני, ובמפגש נכח גם בכיר ביטחוני סעודי - כך דווח ב-CNN. בסעודיה מיהרו להכחיש",
-      "link": "https://www.maariv.co.il/news/politics/article-1372087",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-30T04:57:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1372087",
-      "title": "בנוכחות נציג סעודי: הפגישה של נתניהו עם האמירויות - והאזהרה מאיראן",
-      "summary": "ראש הממשלה בנימין נתניהו הציג לנשיא איחוד האמירויות מוחמד בן זאיד מידע לפיו איראן מחדשת את הניסיונות לפיתוח נשק גרעיני, ובמפגש נכח גם בכיר ביטחוני סעודי - כך דווח ב-CNN. בסעודיה מיהרו להכחיש",
-      "link": "https://www.maariv.co.il/news/politics/article-1372087",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-30T04:57:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
-      "title": "השחקן שרצה להישאר בהפועל תל אביב - אבל הלחץ הכריע אותו",
-      "summary": "כריס ג'ונס רצה להמשיך אצל האדומים, אך הקשיים המשפחתיים והמצב הביטחוני הובילו לפרידה • היחסים של ג'ונתן מוטלי עם דימיטריס איטודיס ו\"סדנת החינוך\" עמדו ברקע לעזיבה, שעליה הפועל עדיין משלמת",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:54:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
-      "title": "בגלל שינוי חוק בארה\"ב: שחקן ישראלי מועמד להפועל תל אביב",
-      "summary": "לאחר שכבר סיכם את תנאיו ב-USC מליגת המכללות, שלו לוגשי לא יוכל לעבור בגלל שינוי בחוקי הליגה • הוא הציע את עצמו לאדומים, ועסקה עשויה להיות על הפרק",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21517936",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:54:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjvpmz99mx",
-      "title": "קשישה נהרגה מפגיעת משאית בעוטף עזה",
-      "summary": "סוזנה ויזינברג בת ה-91 נהרגה בכביש 3525 שבעוטף, סמוך לקיבוץ ברור חיל. לפי מד\"א, משאית פגעה בה בעת שהלכה ברגל - ומותה נקבע במקום",
-      "link": "https://www.ynet.co.il/news/article/rjvpmz99mx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T04:52:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517924",
-      "title": "משאית פינוי אשפה נסעה לאחור - ודרסה למוות את סוזנה בת ה-90",
-      "summary": "סמוך לשעה שבע בבוקר, צוותי מד\"א קיבלו קריאה והגיעו לזירה הקטלנית בכביש 3525, סמוך לקיבוץ ברור חיל • סוזנה וייזנברג, חברת המועצה האזורית שער הנגב, נמצאה עם חבלה רב-מערכתית קשה • פרמדיקית מד\"א: \"אירוע קשה, היא שכבה מחוסרת הכרה על הכביש\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21517924",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:49:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517924",
-      "title": "תאונה קשה בדרום: בת 90 נדרסה למוות ע\"י משאית לפינוי אשפה",
-      "summary": "סמוך לשעה שבע בבוקר, צוותי מד\"א קיבלו קריאה והגיעו לזירה הקטלנית בכביש 3525, סמוך לקיבוץ ברור חיל • סוזנה וייזנברג, חברת המועצה האזורית שער הנגב, נמצאה עם חבלה רב-מערכתית קשה • פרמדיקית מד\"א: \"אירוע קשה, היא שכבה מחוסרת הכרה על הכביש\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21517924",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:49:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517924",
-      "title": "תאונה קשה בדרום: בת 90 נדרסה למוות ע\"י משאית",
-      "summary": "סמוך לשעה שבע בבוקר, צוותי מד\"א קיבלו קריאה והגיעו לזירה הקטלנית בכביש 3525, סמוך לקיבוץ ברור חיל • הקשישה נמצאה עם חבלה רב-מערכתית קשה • פרמדיקית מד\"א: \"אירוע קשה, היא שכבה מחוסרת הכרה על הכביש\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21517924",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:49:55.000Z"
     }
   ]
 }
