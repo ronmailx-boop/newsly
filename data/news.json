@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:15:52.521Z",
+  "updatedAt": "2026-10-05T15:30:54.611Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjbdnvzsgx",
+      "title": "שמע מהפרופסור למתמטיקה את התוכנית לפיגועי ענק נגד ערבים - ולא פנה למשטרה",
+      "summary": "תמיר דורטל, שאמר לאחרונה כי גם אם חיילי צה\"ל ימותו בעימות עם מתנחלים \"זה טוב\", הודה שנפגש עם הפרופ' שנגדו הוגש כתב אישום חריג. \"אמרתי לו שאפנה לראש השב\"כ ואדווח, והתרשמתי שזה הרתיע אותו. לא הייתי שותף לתוכנית ולא תמכתי בה. לא לפנות למשטרה? טעות בשיקול דעת\"",
+      "link": "https://www.ynet.co.il/news/article/rjbdnvzsgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-05T15:16:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21558755",
+      "title": "כלבת ברמת הגולן: שני תנים נגועים אותרו",
+      "summary": "השניים אותרו באזור מושב רמות • שני בני אדם הופנו לקבלת טיפול מונע • משרד הבריאות: \"על מי שבא במגע עם בעלי חיים באזור לפנות בדחיפות ללשכת הבריאות\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21558755",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T15:12:10.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/central-elections-committee-ballot-printing-operat",
       "title": "מבצע ענק: 450 מיליון פתקי הצבעה מודפסים עכשיו לבחירות | תיעוד מההכנות",
       "summary": "יו\"ר ועדת הבחירות סייר במפעל ההדפסה בקריית גת • 11.5 מיליון פתקים לכל רשימה | המבצע חסר התקדים מתבצע 24 שעות ביממה (פוליטי מדיני)",
@@ -48,6 +66,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T15:07:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21558166",
+      "title": "מייצר סטרס: 7 דברים בבית שמקשים עליכם להירגע",
+      "summary": "הם לא תמיד בולטים לעין, אבל הם עשויים לשדר למוח שיש עוד משימות שמחכות לנו • פסיכולוגים מסבירים איך הסביבה הביתית משפיעה על רמת הסטרס ומה אפשר לעשות אחרת",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21558166",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T15:05:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21556409",
+      "title": "עדית פייננס תלווה פרויקט של 45 צמודי קרקע ביישוב אדם",
+      "summary": "היקף ההשקעה בפרויקט, שמקדמות בנייני בר אמנה וש.א.ג ולול בשכונת שירת ציון, נאמד בכ-183 מיליון שקל • הליווי יינתן במתכונת של מימון סגור ויכלול ערבויות ופוליסות חוק מכר",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21556409",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T15:04:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21558201",
+      "title": "לא רק לעוגות: 10 שימושים מפתיעים לנייר אפייה",
+      "summary": "שכחו מקרצוף מורכב ומגאדג'טים יקרים במטבח • מסתבר שהמוצר הנגיש והבסיסי שכבר נמצא אצלכם בארון מעניק פתרונות פשוטים, יעילים וחסכוניים לשמירה על ניקיון וסדר בעבודה",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21558201",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T15:03:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21558666",
+      "title": "\"אם נבחרת ספרד תנצח בחמישה שערים ומעלה, הוא יתפטר\"",
+      "summary": "בקרואטיה המומים מהתבוסה 7:0 לאנגליה, וחוששים לקראת המפגש מול אלופת העולם • במדינה דווח שסלאבן ביליץ' יעזוב מיוזמתו אחרי ארבעה משחקים בלבד אם ינחל תבוסה קשה נוספת: \"לא יצטרכו לדחוף אותו לשם, הוא לא בא בשביל הכסף\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21558666",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T15:03:07.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86417",
@@ -93,6 +147,24 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T14:51:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21558724",
+      "title": "מניהול מפוצל לניהול חכם: כך מערכת אחת יכולה לשנות את הדרך שבה העסק עובד",
+      "summary": "עסק יכול לצמוח מהר מאוד, אבל מערכות הניהול שלו לא תמיד צומחות יחד איתו. בתחילת הדרך אפשר להסתדר עם גיליונות Excel, תוכנה להנהלת חשבונות, מערכת נפרדת לניהול לקוחות ועוד כמה כלים שמטפלים במלאי, בהזמנות ובמשימות",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21558724",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:51:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21558728",
+      "title": "פענוח אולטרסאונד שד: מה בודקים, איך קוראים את התוצאות ומה חשוב לדעת",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21558728",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:48:52.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1373948",
@@ -22872,114 +22944,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-09-30T15:33:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21524267",
-      "title": "\"הוא כל כך מזכיר את אגדת מכבי תל אביב אנתוני פארקר\"",
-      "summary": "יותר מ-20 שנה אחרי ששיתפו פעולה במדים הצהובים, שארונאס יאסיקביצ'יוס מצא \"יורש\" לכוכב • ביוון השוו את טיילן הורטון-טאקר ל-MVP לשעבר: \"הם דומים לא רק בסגנון המשחק ובמנהיגות, אלא גם במראה\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21524267",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:29:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21524667",
-      "title": "נטע ברזילי: ״היו המון דברים בתוכי״",
-      "summary": "אחרי תקופה ארוכה שבה שמה את עצמה בצד, זוכת האירוויזיון לשעבר משתפת ברגעי ההתאוששות מהמשבר • על ההתמקדות בנפש במקום בחיצוניות ומה היה הצעד שהבהיר לה שהיא מתחילה לצאת מזה?",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21524667",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:28:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tm6nva",
-      "title": "ישראל בכוננות לקראת חזרת הנוסעים: נתניהו עושה את דרכו לנתב\"ג; עשרות אמבולנסים במקום",
-      "summary": "עשרות אמבולנסים ממתינים בנתב\"ג לשובם של 180 הישראלים שהמריאו מסעודיה, לאחר שהמטוס שעליו שהו נחטף על ידי מחבל ושוחרר באומץ רב על ידי נוסעים ישראליים | ראש הממשלה נתניהו עושה את דרכו לנתב\"ג שם יקבל את פני הנוסעים (חדשות)",
-      "link": "https://www.kikar.co.il/news/tm6nva",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-30T15:27:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21524475",
-      "title": "התבוננתי בך נואם והתכווצתי. נתניהו, הפכת לנטל על המדינה",
-      "summary": "במשך שנים הצלחת לתעתע בעולם עם אנגלית מצוחצחת ולשון חלקלקה, אבל בכל שיחה שניהלתי עם מדינאים ודיפלומטים מהעולם לאחרונה עלה אותו מסר: קודם כל תחליפו את ביבי • ב-27 באוקטובר כל פטריוט ישראלי אמיתי חייב לדאוג שזה מה שיקרה",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21524475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:27:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21524717",
-      "title": "\"טפו טפו, אף נחיתת חירום\": זה הקברניט שנדקר בטיסת פליי דובאי",
-      "summary": "לפי התקשורת ההודית, הקברניט שנדקר בידי טייס המשנה הוא סמית מאצ'ר, לשעבר קברניט בכיר בספייסג'ט • לפי העדויות, הוא נאבק עם התוקף, והצליח לפתוח את הקוקפיט בכוחותיו האחרונים ולאפשר את ניטרול התוקף • בראיון לפודקאסט בשנה שעברה סיפר שמעולם לא ביצע נחיתת חירום, ויצא נגד מי שמיהרו להאשים את טייסי אייר אינדיה • פליי דובאי לא אישרה את זהותו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21524717",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:24:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21524717",
-      "title": "\"טפו טפו, אף נחיתת חירום\": מי הוא הקברניט שנדקר בטיסת פליי דובאי",
-      "summary": "לפי התקשורת ההודית, הקברניט שנדקר בידי טייס המשנה הוא סמית מאצ'ר, לשעבר קברניט בכיר בספייסג'ט • בראיון לפודקאסט בשנה שעברה סיפר שמעולם לא ביצע נחיתת חירום, ויצא נגד מי שמיהרו להאשים את טייסי אייר אינדיה • פליי דובאי לא אישרה את זהותו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21524717",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:24:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21524703",
-      "title": "\"סשה יבקר ויצעק על כל שחקן בהפועל ירושלים\"",
-      "summary": "שייק מילטון סיפר בראיון בסרביה מדוע חתם בישראל (\"זה המקום הנכון בשבילי\"), על הפספוס עם ז'ליקו אוברדוביץ' (\"מאוד רציתי לשחק תחתיו) והדמיון לסשה: \"מסוג המאמנים שמוציאים ממני את המיטב\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21524703",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:22:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21524513",
-      "title": "אילה חסון זועמת: \"משקרים ללא בושה\"",
-      "summary": "מגישת כאן 11 התייחסה לקונספירציות סביב ניסיון החטיפה של טיסת פליי דובאי • \"יש כבר בעולם מי שמפיצים שקרים סביב טיסת הבעתה\" • מי שבחר לעקוץ את חסון, היה עיתונאי הארץ לשעבר חיים לוינסון",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21524513",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:21:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1c4viq5gg",
-      "title": "ההשתלטות על הדוקר: ה-DNA הישראלי שלא מכזיב",
-      "summary": "האירוע היום התרחש בעיצומו של פולמוס עקר וחסר תוחלת סביב השאלה: האם יידעו את נתניהו לפני המלחמה? משמאל משוכנעים: \"ברור שידע ולא נקף אצבע\". מימין זועקים: \"אם רק היו מעירים אותו, הכול היה נראה אחרת\". כך הכל קשור",
-      "link": "https://www.ynet.co.il/news/article/s1c4viq5gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T15:21:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21522907",
-      "title": "חתונה כפול 2: לירון כרקוקלי חוגגת פעמיים",
-      "summary": "אחרי שנישאה כדת וכדין בטקס אינטימי ומשפחתי שהתקיים בשישי, המוסיקאית שהתפרסמה עם אחותה חוגגת היום (רביעי) במסיבה גדולה עם בחיר ליבה ו-400 אורחים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21522907",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:18:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21523560",
-      "title": "עמוק בלב כולם יודעים: יש רק דרך אחת להקים ממשלה יציבה",
-      "summary": "גם אם שני המחנות יהיו רחוקים שנות אור מרוב מוחלט, יש צעד שיוכל למנוע רצף של סבבי בחירות אינסופיים • אבל נתוני סקר מכון \"קנטאר\" ואתר \"היום\" מראים ש-64% בציבור מתנגדים לכך - וכנראה סוללים את הדרך ללופ מסוכן",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21523560",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:17:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1372310",
-      "title": "\"כל לילה זה קורה\": תושבי העמק מתלוננים על ירי בלתי פוסק",
-      "summary": "תושבים בעמק יזרעאל טוענים כי ירי אוטומטי נשמע בלילות פעם אחר פעם, ומאשימים את המדינה בחוסר מענה. במועצה דורשים פעולה רחבה נגד הנשק הבלתי חוקי",
-      "link": "https://www.maariv.co.il/news/israel/article-1372310",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-30T15:16:47.000Z"
     }
   ]
 }
