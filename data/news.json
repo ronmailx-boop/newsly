@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:15:50.128Z",
+  "updatedAt": "2026-10-05T22:30:52.834Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1374065",
+      "title": "כאוס במודיעין: מעצר עריק הפך למצור על בניין ובו משטרה צבאית | צפו",
+      "summary": "על פי דיווחים מהמקום, חיילי המשטרה הצבאית נצורים בבניין יחד עם העריק, לאחר שמפגינים התקהלו במקום וריססו גז פלפל לעבר חיילים; כוחות משטרה רבים הוקפצו לזירה",
+      "link": "https://www.maariv.co.il/news/law/article-1374065",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T22:22:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21561134",
+      "title": "‏מהומה במודיעין: מתפרעים חרדים פרצו לבניין בגלל מעצר עריק",
+      "summary": "אחרי תקופה ארוכה של שקט, המשטרה הצבאית הגיעה לבית במודיעין כדי לעצור צעיר שלא התייצב • קריאות ברשתות הובילו להגעת מפגינים שהתעמתו עם הכוחות • המשטרה התערבה \"לחילוץ החיילים ולהשבת הסדר הציבורי\" וכעת מתברר היקף האירוע",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21561134",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T22:03:32.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21561132",
       "title": "\"רעות חולות\": מכון טיהור בדרום הוצת בגלל פרוטקשן",
@@ -23007,15 +23025,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T22:45:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21526994",
-      "title": "איומים בדריסה, צלבי קרס וקללות: האנטישמיות בקמפוסים מחריפה",
-      "summary": "דו\"ח חדש של CST תיעד 178 תקריות אנטישמיות באוניברסיטאות בשנתיים האחרונות • בדו\"ח תועדו לראשונה גם שני מקרי \"אלימות קיצונית\" • בארגון מזהירים במיוחד ממעורבות אנשי סגל בתקריות",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21526994",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T22:16:12.000Z"
     }
   ]
 }
