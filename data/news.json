@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:45:43.405Z",
+  "updatedAt": "2026-10-05T16:01:01.165Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1373976",
+      "title": "\"עמדו בקו הראשון מול מתקפת האויב\": הגיבורים שהצילו את הטירונים בזיקים",
+      "summary": "פורום מטכ\"ל חזר לבסיס זיקים, שם בלמו המפקדים והלוחמים את חדירת המחבלים ב-7 באוקטובר. שבעה נפלו בקרב, אך הבסיס לא נכבש ותוכנית המחבלים למסע הרג וחטיפה סוכלה",
+      "link": "https://www.maariv.co.il/news/military/article-1373976",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T15:56:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/defense-minister-katz-4000-terrorists-eliminated",
+      "title": "השר ישראל כ\"ץ: 4,000 מחבלים מה-7 באוקטובר חוסלו - נותרו עוד 2,000",
+      "summary": "שר הביטחון מסר כי 4,000 מתוך 6,000 המחבלים שפלשו לישראל חוסלו • ההוראה: לרדוף ולחסל את כולם ללא מגבלה | \"זאת חובתנו כעם וכמדינה\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/defense-minister-katz-4000-terrorists-eliminated",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T15:49:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmdwxv",
+      "title": "הסוד שאלפי משפחות חרדיות מסתירות מתחת לרדאר - והפתרון שיכול להציל גם את הבית שלכם",
+      "summary": "כשהילד מסרב ללכת לישיבה ומסתגר בחדר, האינסטינקט הראשון הוא לנסות לשנות אותו מיד – אבל זו בדיוק הטעות שמרסקת את המשפחה. הרב עמי ברם, מייסד מיזם \"שורשים\", חושף כיצד הדרכת הורים נכונה, בניית חזית מאוחדת וקבלת כלים מקצועיים יכולים לעצור את כדור השלג, לאחות את הקרעים ולהחזיר את האור לבית.",
+      "link": "https://www.kikar.co.il/haredim-news/tmdwxv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T15:47:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1373979",
+      "title": "בלי מבקר מדינה כבר חודשים: עכשיו הלחץ עובר לאוחנה",
+      "summary": "בג\"ץ פסל את בחירת עו\"ד מיכאל ראבילו למבקר המדינה, ומאז התפקיד נותר לא מאויש. היועצת המשפטית לכנסת דורשת לקיים הצבעה חוזרת בהקדם, אך מזהירה מקושי מעשי בשל הקרבה לבחירות",
+      "link": "https://www.maariv.co.il/news/law/article-1373979",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T15:46:27.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/president-herzog-fox-interview-iran-evil-empire",
       "title": "נשיא המדינה בריאיון בארה\"ב על טיסת פליי דובאי: \"איראן אימפריית רשע\"",
@@ -22908,42 +22944,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-09-30T16:01:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1372322",
-      "title": "\"הפוליטיקאים הקטנים - שבו בשקט\": המסר החריף של סמוטריץ' | צפו",
-      "summary": "שר האוצר תקף את גורמי האופוזיציה שלדבריו מיהרו להפוך את ניסיון ההשתלטות בטיסת פליי דובאי לזירה פוליטית: \"תחכו לפחות למחר עם השטויות שלכם\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1372322",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-09-30T15:58:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21524909",
-      "title": "הנשיא הרצוג: \"הפשיעה הלאומנית היא כתם על ישראל ופגיעה בהתיישבות\"",
-      "summary": "במהלך ביקור באוגדת איו\"ש גיבה הנשיא את כוחות הביטחון במאבק בטרור ותקף בחריפות את אירועי האלימות של מתיישבים כנגד פלסטינים • הנשיא התייחס גם לאירוע החמור בטיסת פליי דובאי: \"אירוע שהסתיים בנס ובגבורה, נתחקר לעומק יחד עם שותפינו האמירתים\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21524909",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:52:14.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b17feo55gg",
-      "title": "\"סומכים על האמירתים\": בישראל לא מתכננים לעצור את טיסות פליי דובאי",
-      "summary": "שרת התחבורה דרשה להפסיק את טיסותיה של פליי דובאי לישראל עד לבירור נסיבות האירוע. גורם ישראלי: \"בשנה שעברה פליי דובאי הטיסה מיליון ישראלים. מזל שהיו על הטיסה גיבורים ישראלים וטייסים שייצבו את המטוס\"",
-      "link": "https://www.ynet.co.il/news/article/b17feo55gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T15:52:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21524788",
-      "title": "כשמרכיבים את המשקפיים של מחנה רק-לא-ביבי, הכל נראה פשוט",
-      "summary": "ביקור באמירויות - בשביל הכחשת הדיווח ב\"הארץ\", צוללות - בשביל להרוויח כסף, רפורמה משפטית - בשביל להימנע מהרשעה, טיסות לחו\"ל - כי שרה רוצה כביסה • מבחינת מחנה רל\"ב, כל מה שנתניהו עושה זה אך ורק עבור נתניהו, ולעזאזל העובדות",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21524788",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T15:49:11.000Z"
     }
   ]
 }
