@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:01:07.249Z",
+  "updatedAt": "2026-10-05T08:15:53.167Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1373756",
+      "title": "הוא חגג בביזנס, היא נשארה מאחור - והרשת התפוצצה",
+      "summary": "מה שהתחיל בשדרוג מקרי בטיסה הפך מבחינת יוצרת תוכן אמריקאית ל\"התחלה של הסוף\": הוא עבר לשבת מקדימה, היא נעלבה - והרשת חלוקה בשאלה מי באמת היה צריך לוותר. \"גבר אמיתי היה מתחלף איתי\", אמרה",
+      "link": "https://www.maariv.co.il/news/viral/article-1373756",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T08:12:19.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/yeshiva-world/yeshiva-students-struggle-routine",
+      "title": "\"למה אתה לא יכול פשוט להיות כמו כולם?\" - המכתב שמכאיב לקרוא",
+      "summary": "הבית כבר חוזר לשגרה, ובני גילו מתחילים להתכונן לזמן החדש שייפתח בעוד כמה ימים. רק הוא נשאר עם השאלה שאף אחד לא רוצה לשאול בקול - לאן בדיוק הוא אמור לחזור? (עולם הישיבות)",
+      "link": "https://www.kikar.co.il/yeshiva-world/yeshiva-students-struggle-routine",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T08:04:26.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1011erejfx",
+      "title": "הטקס הממלכתי לציון שלוש שנים לטבח 7/10 | ישיר מהר הרצל",
+      "summary": "בחלקת גדולי האומה נערך הטקס הממלכתי לזכר החללים, בהשתתפות נשיא המדינה הרצוג, ראש הממשלה נתניהו, הרמטכ\"ל זמיר ובכירים נוספים. בצהריים יתקיים טקס נוסף - באתר הזיכרון לחללי פעולות האיבה",
+      "link": "https://www.ynet.co.il/news/article/h1011erejfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-05T08:01:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373758",
+      "title": "ההימור הגדול של סנצ'ס: הממשלה בספרד נפלה - ונקבע תאריך לבחירות",
+      "summary": "ראש ממשלת ספרד פדרו סנצ'ס פיזר את הפרלמנט והכריז על הקדמת הבחירות הכלליות. הוא מנסה לנצל את הזעם על משבר הדיור כדי למנף את הכוח של השמאל - אבל ייתכן שדווקא מפלגות הימין ישיגו רוב",
+      "link": "https://www.maariv.co.il/news/world/article-1373758",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T08:00:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tmfcmv",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00 (כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tmfcmv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T07:57:56.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/mother-four-daughters-flydubai-prayer-miracle",
       "title": "ההוראה של האימא ל-4 בנותיה ברגעי הדרמה בטיסה: \"זה היה מפחיד\"",
       "summary": "ליטל הירשל-שחר, אם לארבע, שהתה בטיסת פליי דובאי עם בנותיה לאחר שחזרה מחופשה בתאילנד: \"דיברתי עם אלוקים ללא הפסקה ואמרתי לבנות להתפלל, נס עטוף בנס עטוף בנס\" (בארץ)",
@@ -39,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T07:57:32.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
+      "title": "שלוש שנים לטבח: יום הזיכרון הממלכתי ל-7 באוקטובר | ישיר",
+      "summary": "בשעה 11:00 יחל הטקס הממלכתי לזכר חללי המלחמה בהר הרצל • בשעה 14:00 יחל טקס האזכרה הממלכתי לטבח • דגלי המדינה הורדו לחצי התורן בשעה 6:29",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-05T07:55:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmfby7",
@@ -59,6 +113,15 @@
       "pubDate": "2026-10-05T07:49:20.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21554643",
+      "title": "משך כסף מחשבון הנרצחת וטשטש ראיות - עד שקרוב משפחתו הסגיר אותו",
+      "summary": "כתב אישום הוגש נגד סלאח עותמאן, תושב א־טור, בגין רצח פאטמה רג׳בי ז״ל • לפי הפרקליטות, היא הלוותה לו כ־90 אלף שקל, שבהם השתמש להימורים • לאחר שדרשה את כספה, הוא תכנן את הרצח, הכה אותה בפטיש והסתיר את גופתה בחבית",
+      "link": "https://www.israelhayom.co.il/news/law/article/21554643",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:48:50.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1373734",
       "title": "בבריטניה לימדו אותו \"טרור בתעופה\" - כך חמק טייס המשנה מתחת לרדאר",
       "summary": "לפי \"הטלגרף\", חמאם אל-חמאמי למד מרחוק לתואר בניהול תעופה בבריטניה ולא נדרש לעבור את מנגנון הסינון של למידה פיזית. בבריטניה דורשים כעת להחמיר את הנהלים",
@@ -68,6 +131,24 @@
       "pubDate": "2026-10-05T07:48:21.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21554628",
+      "title": "כוכב \"האח הגדול\" מבקש עזרה: מחפש עבודה",
+      "summary": "כוכב הריאליטי החרדי יענקי גולדהבר שהשתחרר לאחרונה מצה\"ל פרסם אמש סטורי שבו ביקש עזרה במציאת עבודה. \"מחפש משהו טוב ומכובד\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21554628",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:48:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21554751",
+      "title": "אילי גורליצקי הלך לעולמו: השחקן (\"שלמה המלך ושלמי הסנדלר\") היה בן 91",
+      "summary": "השחקן והזמר, שהופיע לצד יונה עטרי ב\"שוק המציאות\" ועם יוסי בנאי ב\"חכמים בלילה\", היה גם היושב ראש הראשון של אגודת אמני ישראל • במשך עשרות שנים נאבק על זכויות האמנים המבצעים.",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21554751",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:48:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmfbz8",
       "title": "ארבעה בחורי ישיבה פונו במצב בינוני וקל לאחר פיצוץ גזייה בחוף צינברי",
       "summary": "ארבעה בחורי ישיבה בני 18 ו-19 נפצעו באורח בינוני וקל לאחר שנפגעו מפיצוץ גזייה במהלך שהותם בחוף צינברי בטבריה | הארבעה פונו לבתי החולים (חדשות)",
@@ -75,6 +156,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T07:46:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21554133",
+      "title": "“בשביל לשרת את המדינה, זה לגמרי שווה את זה\"",
+      "summary": "שירן מדר כמעט איבדה את רגליה במהלך השירות בצה\"ל, ואף לקתה בפוסט-טראומה • אפילו מאמצי השיקום הכבירים שלה לא הניבו את התוצאה הרצויה – אבל אז היא מצאה גם את המפלט הספורטיבי שהיה חסר לה, וגם אהבה שעזרה לה להשתקם פיזית ונפשית • עכשיו היא מתכוננת לייצג אותנו במשחקים הפראלימפיים בעוד שנתיים: “זה מחזיר לשירות\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21554133",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:46:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
+      "title": "קים קרדשיאן חושפת: המספר המפתיע של המטפלות",
+      "summary": "מאחורי האימפריה העסקית, מותג המיליארדים והזוגיות החדשה עם לואיס המילטון, קים קרדשיאן חושפת גם את הצד הפחות נוצץ של חיי המשפחה",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:46:33.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1373754",
@@ -95,6 +194,24 @@
       "pubDate": "2026-10-05T07:44:13.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21554622",
+      "title": "אחד הקניונים הגדולים משנה את פניו - וייראה אחרת לגמרי",
+      "summary": "קניון ים המלח בעין בוקק משלים מהלך שיפוץ רחב, עם קומה עליונה שהופכת למתחם אוכל ובילוי וגשר חדש שמחבר אותה ישירות לטיילת • בקרוב תצטרף גם מסעדה עם מרפסת מול הנוף שתפעל עד חצות, שעה שבה רוב האזור כבר נרדם",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21554622",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:42:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21554652",
+      "title": "האירי שסבל נגד ישראל: \"קשה לו שהורידו ראש בהמנון\"",
+      "summary": "מאמן אירלנד, היימיר הלגרימסון הסביר מדוע לא שיתף את פין עזז היהודי: \"היה לו קשה שאנחנו עונדים סרטים שחורים, זה בחן אותו יותר מכולנו\" • לדבריו, \"אין שום דבר שמצביע על כך שהוא פורש\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21554652",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:41:05.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1373749",
       "title": "הצבע האהוב של תקופת התנ\"ך - הסוד שנחשף בתל שקמונה",
       "summary": "מחקר חדש חושף כי מה שקרה בתל שקמונה בימי התנ\"ך היה הרבה יותר מורכב ממה שחשבו. מאות שנים אחרי, שכבות העפר גילו מה התרחש במקום - והצבע הכי יוקרתי של ממלכת ישראל",
@@ -102,6 +219,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-05T07:40:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21554650",
+      "title": "במעמד ראשי המדינה: טקס האזכרה הממלכתי לחללי המלחמה ייערך בהר הרצל",
+      "summary": "הטקס לזכר הנופלים מאז 7 באוקטובר 2023 יתקיים היום, 5 באוקטובר, בחלקת גדולי האומה בירושלים • ראשי המדינה ומערכת הביטחון צפויים להשתתף באירוע, שיועבר בשידור חי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21554650",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:40:25.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/tmfbin",
@@ -120,6 +246,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T07:36:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21554106",
+      "title": "\"אל תדברו איתי לפני הקפה\": זה מה שקפאין באמת עושה למוח",
+      "summary": "ניסוי חדש נתן לצעירים בריאים מנה נדיבה של קפאין בבוקר, ולא מצא שיפור במבחני חשיבה וזיכרון • מה זה מלמד על הפער בין מה שאנחנו מצפים מהאספרסו לבין מה שהוא באמת עושה?",
+      "link": "https://www.israelhayom.co.il/tech/research/article/21554106",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:35:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21554477",
+      "title": "איתי דנקנר מונה למנכ\"ל חדשות 13 ויעזוב את קשת 12",
+      "summary": "אחרי שנים בקשת 12 ובחדשות 12, איתי דנקנר מונה למנכ\"ל חדשות 13 • הוא יחליף את טלי בן עובדיה, שהודיעה על עזיבתה לאחר הבחירות • המינוי מגיע זמן קצר לאחר העברת השליטה ברשת 13 לקרן מריט, הנתמכת בידי אסף רפפורט וינון קוסטיקה",
+      "link": "https://www.israelhayom.co.il/culture/clique/article/21554477",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T07:30:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tmfaxu",
@@ -619,7 +763,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21554010",
       "title": "דירות 5 חדרים החל מ-3.5 מיליון שקל: משהב משיקה פרויקט מגורים חדש בקריית השרון בנתניה",
-      "summary": "הפרויקט כולל שני בניינים בני 13 קומות ו-129 דירות • הוא ממוקם במזרח נתניה, בקרבת תחנת הרכבת נתניה-ספיר ואזורי התעסוקה פולג וספיר",
+      "summary": "הפרויקט כולל שני בניינים בני 13 קומות ו-78 דירות • הוא ממוקם במזרח נתניה, בקרבת תחנת הרכבת נתניה-ספיר ואזורי התעסוקה פולג וספיר",
       "link": "https://www.israelhayom.co.il/business/real-estate/article/21554010",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -22305,69 +22449,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-09-30T08:16:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21519478",
-      "title": "בפעם ה-5 בחודשיים: נערים זרקו אבנים על אוטובוסים בי-ם, נהג נפצע | תיעוד",
-      "summary": "ימים ספורים לאחר שיידו אבנים על אוטובוסים באשקלון: נערים רעולי פנים התנפלו לפנות בוקר על שני אוטובוסים של חברת בשכונת בית הכרם • אחד הנהגים נחבל בפניו ופונה לקבלת טיפול רפואי, נזק כבד נגרם לזגוגיות • התיעודים - וזעקת ארגוני העובדים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21519478",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T08:15:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21519490",
-      "title": "בלב ניו יורק: יעל בר זוהר פתחה חזית מול סידני סוויני",
-      "summary": "בזמן חופשת יום הנישואים ה-21 שלה בניו יורק עם גיא זוארץ, יעל בר זוהר עצרה מול השלט הענק בטיימס סקוור ולא הצליחה להתאפק • התגובה שלה מצטרפת לסערה שהקמפיין של סידני סוויני מעורר כבר שבועות, ולא רק בגלל התמונה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21519490",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T08:15:26.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3870233",
-      "title": "אין סיכוי שאתם יודעים לאיזו מדינה שייך הדגל הזה",
-      "summary": "דגלים לא נולדו כדי לייצג מדינות. בראשית דרכם הם שימשו בעיקר צבאות, בתי מלוכה וספינות. הרומאים וצבאות במונגוליה ובסין השתמשו בדגלים כדי לזהות יחידות בשדה הקרב, ובהמשך, בתקופת התגליות הגיאוגרפיות, הם קיבלו תפקיד מרכזי הרבה יותר: ספינות של ונציה, פורטוגל, הולנד, ספרד, בריטניה וצרפת נשאו אותם אל מעבר לים, כשהן מקימות אימפריות ונלחמות על שטחים. בתחילה הדגלים היו למעשה המשך של סמלי האצולה, וציורים של בעלי חיים שולבו בבדים שנשאו את שמותיהם וכוחם של מלכים ואדונים. נשרים, אריות ודרקונים כיכבו עליהם, אבל כשהדגלים נדרשו לייצג לא משפחה אלא מדינה שלמה, היה צורך בסמלים פשוטים וכלליים יותר - ובעיקר בצבעים שקל לזהות מרחוק.",
-      "link": "https://travel.walla.co.il/item/3870233",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-09-30T08:14:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21519099",
-      "title": "שלי סרבריאניקוב ובן זוגה עומר עוזבים: \"זה לא פשוט\"",
-      "summary": "הזוג שהכיר ב\"האח הגדול\" שלי סרבריאניקוב ועומר ציפורי עוזב את דירת הרווקים ועובר לדירה חדשה, וזה לא קל בכלל. בסטורי כתבה סרבריאניקוב על החלק המשמעותי של ציפורי במהלך. \"עומר לוקח על עצמו את הכל\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21519099",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T08:13:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21519382",
-      "title": "אחרי החתונה: השינוי החדש של עומר נודלמן",
-      "summary": "שישה ימים אחרי החתונה, עומר נודלמן כבר עושה התאמה קטנה לסטטוס החדש שלה, ולא צריך לחפש רחוק כדי לראות אותה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21519382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T08:13:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21519175",
-      "title": "5 הרגלים במטבח שמנפחים לכם את חשבון החשמל בלי שתשימו לב",
-      "summary": "הם נראים כמו דברים קטנים, אבל כשעושים אותם מדי יום הם יכולים להצטבר • חמישה הרגלים נפוצים במטבח שגורמים לנו להשתמש ביותר חשמל מהנחוץ, ואיך אפשר לשנות אותם בלי הרבה מאמץ",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21519175",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T08:07:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14912854",
-      "title": "הצעירים צריכים תוכנית",
-      "summary": "מישהו צריך לומר לצעירים שהולכים לקלפי: אם תלמדו, תעבדו, תשרתו ותתרמו - תוכלו לבנות כאן חיים טובים. המפלגה שתיתן תשובות אמינות לשאלות הללו לא תצטרך לגנוב מנדט מזו שמימינה ועוד מנדט מזו שמשמאלה. היא תוכל להביא לקלפיות ציבור גדול שאיש כמעט אינו מדבר אליו. כך מנצחים בחירות.",
-      "link": "https://www.ynet.co.il/news/article/yokra14912854",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T08:02:49.000Z"
     }
   ]
 }
