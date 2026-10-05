@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:15:57.837Z",
+  "updatedAt": "2026-10-05T10:30:53.585Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373837",
+      "title": "\"נשבע באלוהים, ג'וק עדיף על ישראלי\": המוסלמי ששיגע את בריטניה",
+      "summary": "מוחמד סייפולא, משפיען מוסלמי-בריטי, התראיין בפודקאסט פופולרי ולא התבייש להתבטא נגד מדינת ישראל, יהודים, קהילת הלהט\"ב וערכי העולם המערבי: \"אם הייתי מנהיג העולם, ישראל לא הייתה קיימת. הם ג'וקים\"",
+      "link": "https://www.maariv.co.il/news/world/article-1373837",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T10:25:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1373833",
+      "title": "37 מדינות נכנסות לכוננות: מאות מחאות פרו-פלסטיניות בדרך",
+      "summary": "לקראת שלוש שנים ל-7 באוקטובר, משרד התפוצות מזהיר מגל מחאות פרו-פלסטיניות ברחבי העולם. 262 אירועים צפויים ב-37 מדינות, בהם עשרות סמוך לנציגויות ולנכסים ישראליים",
+      "link": "https://www.maariv.co.il/news/world/article-1373833",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T10:17:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21556073",
+      "title": "חשש במערכת הביטחון מאירוע רב זירתי: \"נזהרים מאפשרות לפיגוע או חטיפה בבחירות\"",
+      "summary": "המצב הביטחוני הוגדר כמתוח בכל הגזרות, ובמערכת הזהירו כי חמאס שומר על מוכנות לפעולות התקפיות ואף בוחן אפשרות לפיגוע או חטיפה סביב הבחירות • ראש אמ\"ץ: \"טיהרנו 95% מהמנהרות בין הקו הצהוב לגבול\" • נתניהו: \"היעד בעזה הוא לחסל את חמאס\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21556073",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T10:11:47.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/youth-firebomb-attacks-ashdod",
       "title": "הסתבכו: צעירים נעצרו בחשד להשלכת בקבוקי תבערה לעבר ניידות פיקוח ומשטרה",
@@ -68,6 +95,15 @@
       "pubDate": "2026-10-05T10:08:34.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21556097",
+      "title": "אלייז'ה בראיינט חושף: \"הייתי מודאג מאוד\"",
+      "summary": "כוכב הפועל תל אביב סיפר אחרי שזכה בתואר שחקן השבוע של היורוליג פעמיים ברציפות על קיץ מורכב, וחשש שלא יתאושש מהניתוח שעבר: \"אשתי שמעה את רוב השאלות האלה, בדרך כלל מאוחר בלילה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21556097",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T10:02:51.000Z"
+    },
+    {
       "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%A2%D7%A8%D7%91%D7%99_%D7%9E%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%A0%D7%90%D7%A9%D7%9D_%D7%91%D7%9E%D7%92%D7%A2_%D7%A2%D7%9D_%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%90%D7%95_%D7%90%D7%A8%D7%92%D7%95%D7%9F_%D7%98%D7%A8%D7%95%D7%A8",
       "title": "ערבי מירושלים נאשם במגע עם מדינה או ארגון טרור",
       "summary": "הפרקליטות הגישה כתב אישום נגד טארק עווידה, בחשד שהצטרף לקבוצת טלגרם בשם \"התנגדות\", דרכה יצר קשר עם סוכן זר",
@@ -75,6 +111,15 @@
       "source": "הקול היהודי",
       "sourceKey": "hakolhayehudi",
       "pubDate": "2026-10-05T10:01:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21555906",
+      "title": "\"אסון שמחכה לקרות\": מטוס הנוסעים האיראני שממשיך לטוס למרות הסנקציות",
+      "summary": "מטוס רחב־גוף של חברת תעופה איראנית ממשיך לחצות את שמי אסיה ולהטיס מאות נוסעים • אלא שהעבר החריג שלו והדרך שבה חזר לשירות מעוררים דאגה בקרב מומחים • אז איך הוא עדיין באוויר, ומה הופך אותו ל\"אסון שמחכה לקרות\"?",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21555906",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T10:00:52.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-extends-missile-range-pentagon",
@@ -93,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T10:00:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21556063",
+      "title": "מוסד חינוכי בבני ברק ייסגר - לאחר שהוקם בשטח ציבורי פתוח",
+      "summary": "בית המשפט הורה להפסיק את פעילותה של ישיבת בני ישראל החל מאפריל 2027 • עד אז נדרשת המסגרת להציג אישור המעיד כי המבנה בטוח לשימוש, כתנאי להמשך קיומו • ההליך הוא חלק מאכיפה רחבה נגד שימושים בלתי חוקיים בקרקעות ציבוריות בעיר",
+      "link": "https://www.israelhayom.co.il/news/local/article/21556063",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T09:59:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21556063",
@@ -339,6 +393,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1373808",
+      "title": "\"אם הוא היה עושה את זה - המטוס היה מתפרק באוויר\": הדרמה בטיסת פליי דובאי",
+      "summary": "נתוני הטיסה חושפים עד כמה הייתה טיסת פליי דובאי קרובה לאסון: צלילה של 39 מעלות, מהירות של כמעט מאך 1 ועומס של יותר מ־3G - בעוד פעולת ההצלה עצמה כמעט הביאה את המטוס לקצה היכולת",
+      "link": "https://www.maariv.co.il/news/israel/article-1373808",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T09:23:05.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1373808",
       "title": "פרטים חדשים על דרמת פליי דובאי: הפעולה שכמעט פירקה את המטוס באוויר",
       "summary": "נתוני הטיסה חושפים עד כמה הייתה טיסת פליי דובאי קרובה לאסון: צלילה של 39 מעלות, מהירות של כמעט מאך 1 ועומס של יותר מ־3G - בעוד פעולת ההצלה עצמה כמעט הביאה את המטוס לקצה היכולת",
       "link": "https://www.maariv.co.il/news/israel/article-1373808",
@@ -354,6 +417,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T09:21:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1373803",
+      "title": "מרצה בבר אילן נאשם שתכנן לרצוח מאות ערבים ב-12 חוליות טרור",
+      "summary": "לפי כתב האישום, המרצה בן ה-60 תכנן במשך יותר משלוש שנים מתקפת טרור נגד ערבים ופלסטינים, שכללה 72 מפגעים ב-12 חוליות. אוניברסיטת בר אילן הודיעה כי יושעה לאלתר עד תום ההליכים",
+      "link": "https://www.maariv.co.il/news/law/article-1373803",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T09:17:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1373803",
@@ -669,6 +741,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T08:36:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21555250",
+      "title": "ניסה לגייס את פייגלין: מרצה בבר אילן תכנן פיגועי ענק נגד מאות ערבים",
+      "summary": "כתב אישום הוגש נגד מרצה למתמטיקה מאוניברסיטת בר אילן, בן כ-60, שתכנן במשך 3 שנים מתקפת טרור משולבת להשמדת וגירוש הערבים מהארץ, תוך שימוש ב-72 חמושים • הנאשם אף סחט באיומים את יו\"ר מפלגת זהות במטרה לאלץ אותו לגייס פעילים בכנס בחירות",
+      "link": "https://www.israelhayom.co.il/news/law/article/21555250",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T08:29:45.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21555250",
@@ -1515,6 +1596,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T06:54:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21554166",
+      "title": "הדסה בן ארי מבקשת: ''הלוואי שלא תעזבי''",
+      "summary": "הסופרת הדסה בן ארי בחרה לציין את יום ההולדת בלי מסיבה ובלי בלונים, עם פוסט אישי במיוחד על השנה שעברה עליה, שנתיים אחרי הפרידה מחנן • בין השורות הסתתר גם משפט על \"רגעים שבורים\", ובקשה אחת שהפנתה לשנה החדשה",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21554166",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T06:51:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21554166",
@@ -2588,19 +2678,19 @@
       "pubDate": "2026-10-04T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14917075",
-      "title": "מה העתיד של עוטף עזה ומה העתיד של רצועת עזה?",
-      "summary": "שלוש שנים אחרי הטבח, שנה אחרי הסכם הפסקת המלחמה והשבת החטופים, הסדר לרצועת עזה שיכלול גם ביטחון מלא לישראל ולישראלים וגם עתיד נורמלי (יחסית) לפלסטינים שאינם מעורבים בטרור - נראה לגמרי כמו חלום באספמיה",
-      "link": "https://www.ynet.co.il/news/article/yokra14917075",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14916886",
+      "title": "הנס היה למעלה אבל הכשל הוא למטה",
+      "summary": "הכתובת כבר הייתה על הקיר. במאי 2024 פירסם מבקר המדינה, מתניהו אנגלמן, דוח על אבטחת התעופה האזרחית מישראל ואליה. בחלק המועט שפורסם המליץ המבקר למועצה לביטחון לאומי לבחון את התעופה האזרחית \"על כלל היבטיה\", ולהסדיר את חלוקת האחריות בין הגופים השונים",
+      "link": "https://www.ynet.co.il/news/article/yokra14916886",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-04T21:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14916886",
-      "title": "הנס היה למעלה אבל הכשל הוא למטה",
-      "summary": "הכתובת כבר הייתה על הקיר. במאי 2024 פירסם מבקר המדינה, מתניהו אנגלמן, דוח על אבטחת התעופה האזרחית מישראל ואליה. בחלק המועט שפורסם המליץ המבקר למועצה לביטחון לאומי לבחון את התעופה האזרחית \"על כלל היבטיה\", ולהסדיר את חלוקת האחריות בין הגופים השונים",
-      "link": "https://www.ynet.co.il/news/article/yokra14916886",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14917075",
+      "title": "מה העתיד של עוטף עזה ומה העתיד של רצועת עזה?",
+      "summary": "שלוש שנים אחרי הטבח, שנה אחרי הסכם הפסקת המלחמה והשבת החטופים, הסדר לרצועת עזה שיכלול גם ביטחון מלא לישראל ולישראלים וגם עתיד נורמלי (יחסית) לפלסטינים שאינם מעורבים בטרור - נראה לגמרי כמו חלום באספמיה",
+      "link": "https://www.ynet.co.il/news/article/yokra14917075",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-04T21:03:00.000Z"
@@ -22566,78 +22656,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T10:31:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-returns-dubai-pilot-incident",
-      "title": "בגלל תקלה: מטוס פליי דובאי נוסף חזר על עקבותיו",
-      "summary": "אירוע חריג בשמי המזרח התיכון: טיסת \"פליי דובאי\" בדרכה לישראל נאלצה להסתובב חזרה בעיצומה של הדרך, כשהסיבה לצעד החריג טרם התבררה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/flydubai-flight-returns-dubai-pilot-incident",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-30T10:30:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/flydubai-flight-returns-dubai-pilot-incident",
-      "title": "דרמה בשמיים: מטוס פליי דובאי נוסף חזר על עקבותיו",
-      "summary": "טיסת פליי דובאי מדובאי לתל אביב הסתובבה באוויר וחזרה למוצא • הנוסעים חוו רגעי מתח עד לנחיתה בסעודיה | התברר: קטטה בין הטייסים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/flydubai-flight-returns-dubai-pilot-incident",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-30T10:30:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21521197",
-      "title": "אחרי הנחיתה בסעודיה: יוצרת התוכן נגד הנוסעים תחת אזהרת מסע",
-      "summary": "הטיסה מדובאי שכמעט הסתיימה באסון הובילה את לי מנחם למסקנה חד משמעית • המשפיענית שיתפה את עוקביה במסר נוקב, ולא היססה להשתמש במילים קשות כדי להעביר את הנקודה שלה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21521197",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:29:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21521266",
-      "title": "גורם דיפלומטי במפרץ: \"הישראלים בסעודיה אובטחו, נשיב אותם בהקדם\"",
-      "summary": "בעוד ההערכות אודות סיבת האירוע האלים במטוס פליי דובאי נערמות, באיחוד האמירויות ובסעודיה נזהרים במינוחים • גורם דיפלומטי במפרץ מאשר כי \"החקירה בודקת את כל האפשרויות\" • לדבריו, הטייסים בחברה נבדקים באופן מדוקדק, בעיקר אלו שאינם אמירותים",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21521266",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:28:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21521232",
-      "title": "23 שנה פער: נייט בוזוליץ' הופך את הזוגיות עם הישראלית לרשמית",
-      "summary": "כוכב \"יומני הערפד\" בן ה-43 הפך את הזוגיות עם יונה קרייף בת ה-20 לרשמית, כששיתף תמונות משותפות מהחופשה בארה\"ב • וזה לא הרומן הראשון שלו עם ישראלית צעירה ממנו: גם האקסיות ליה נגה ושלומית סאיל היו צעירות ממנו בעשרות שנים",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21521232",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:25:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21520915",
-      "title": "\"השתלטנו על מפגע עם סכין שדקר את אחד הטייסים\"",
-      "summary": "יצחק ליבר, שהיה על סיפון המטוס, סיפר כי אחד הטייסים תקף בסכין את הטייס השני • לדבריו, כמה נוסעים נכנסו לתא הטייס, השתלטו על התוקף והוציאו אותו מהמקום • \"יש פה טייס פצוע קשה, ואחד מחברי הצוות הצליח להנחית את המטוס\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21520915",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:24:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21520743",
-      "title": "התחיל ללמוד עברית: הזר שעושה הכל להצליח במכבי תל אביב",
-      "summary": "הוא הגיע ליד אליהו על תקן חידה ועדיין לא מצליח לבוא לידי ביטוי על המגרש • אבל הצהובים אופטימיים לגביו ואוהבים את הגישה שלו • על ההסתגלות הלא פשוטה של קיטון וולאס",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21520743",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:24:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21521206",
-      "title": "ליהיא גרינר בדמעות: \"מרגישה מוצפת\"",
-      "summary": "ליהיא גרינר העלתה לאינסטגרם סרטון טעון שבו היא נראית שבורה ומתקשה לעצור את הדמעות, וסיפרה לעוקבים מה עוזר לה להחזיק מעמד • את ההשראה לכך היא מצאה במקום הכי פחות צפוי, אצל אחת הפוליטיקאיות המוכרות באמריקה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21521206",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T10:21:32.000Z"
     }
   ]
 }
