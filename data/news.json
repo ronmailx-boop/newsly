@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:30:42.945Z",
+  "updatedAt": "2026-10-05T02:45:39.472Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ep38vhvvi",
+      "title": "התחזית: ירידה בטמפרטורות, לקראת גשם מקומי וחשש לשיטפונות בדרום",
+      "summary": "גשם מקומי עשוי לרדת כבר לקראת בוקר שלישי, בעיקר בדרום הנגב. מחר תחול התקררות נוספת וצפויים גשמים מקומיים בדרום ובמזרח הארץ. ברביעי ובחמישי - עלייה בטמפרטורות ורוחות במישור החוף",
+      "link": "https://www.ynet.co.il/news/article/ep38vhvvi",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-05T02:39:28.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
       "title": "מחכים לבחירות: לארצות הברית נמאס מאלימות המתנחלים",
@@ -22548,24 +22557,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T02:48:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/jywxq5zps",
-      "title": "התחזית: גשם מקומי בצפון ובחוף, בשמחת תורה - ייתכנו סופות רעמים",
-      "summary": "מזג האוויר יהיה מעונן חלקית. בשעות הבוקר המוקדמות - גשם בשפלה ובמישור החוף. הטמפרטורות יהיו נמוכות מהרגיל לעונה. ביום שישי ייתכן טפטוף עד גשם מקומי בדרום הנגב, ובמרכז - עלייה במידות החום",
-      "link": "https://www.ynet.co.il/news/article/jywxq5zps",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T02:45:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/jywxq5zps",
-      "title": "התחזית: גשם בצפון, בשמחת תורה - ייתכנו סופות רעמים",
-      "summary": "מזג האוויר יהיה מעונן חלקית עם גשם בעיקר בצפון, וכך ימשיך גם במהלך הימים הקרובים. הטמפרטורות יהיו נמוכות מהרגיל לעונה, והגשם צפוי גם לאורך החוף. בדרום הנגב ייתכן טפטוף עד גשם מקומי, ובמרכז - עלייה במידות החום",
-      "link": "https://www.ynet.co.il/news/article/jywxq5zps",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-09-30T02:45:19.000Z"
     }
   ]
 }
