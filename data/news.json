@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:00:52.000Z",
+  "updatedAt": "2026-10-05T04:15:45.017Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/tmf23p",
+      "title": "אירוע ביטחוני חריג בגבול סוריה: חשוד טיפס על הסוללה למוצב צה\"ל - וחוסל",
+      "summary": "חשוד התקרב למוצב צבאי סמוך לכפר אל-חמדיה וסירב לעצור במסגרת נוהל מעצר חשוד | הלוחמים פתחו באש והביאו לחיסולו • בחסדי שמיים - אין נפגעים לכוחותינו (צבא)",
+      "link": "https://www.kikar.co.il/security-news/tmf23p",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T04:09:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tmf1oo",
       "title": "דרמה בבני ברק: תינוקת כבת 10 חודשים נכוותה מאקונומיקה – מצבה בינוני",
       "summary": "אירוע קשה בעיר התורה והחסידות: פעוטה כבת עשרה חודשים נכוותה מחומר ניקוי מסוכן בביתה. כונני 'הצלה' ומד\"א העניקו לה טיפול רפואי ראשוני, והיא פונתה לחדר הטראומה בבית החולים שיבא בתל השומר כשהיא סובלת מכוויות בדרגה ב' ב-30% מגופה (חרדים)",
@@ -39,6 +48,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T04:00:27.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-fd8baa639c901a1026.htm",
+      "title": "\"איך מספרים לילדים על דבר כזה? על שני אסונות?!\"",
+      "summary": "27 ילדים נותרו יתומים מאם ואב ב-7 באוקטובר. סבים וסבתות רבים הפכו בגיל הפנסיה שלהם להורים שוב בעל כורחם. הם מספרים על התפקיד שאותו הם לקחו על עצמם - לצד השכול הכפול (\"אני בוכה ב-1 בלילה כשאני תולה כביסה\"), על השאלות הקשות שאיתן הן מתמודדים (\"סבתא, למה כל זה מגיע לי? אני רק רוצה את אבא ואימא\") ומאיפה הן שואבים את הכוחות (\"אני אוזרת כוחות מולו, הוא החיים שלי\")",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-fd8baa639c901a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-05T03:56:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21553459",
+      "title": "מייגן פוקס הפכה לתרופה לבעיות זקפה (וידאו)",
+      "summary": "ארבעה ימים אחרי שמייגן פוקס נכנסה לחליפה אדומה כדי לגלם טיפול להפרעות זקפה, הקמפיין החריג של Ro ממשיך להתרחב. היום (שני) הוא צפוי להגיע גם לרחובות ניו יורק, אחרי שפוקס סיפרה שהרעיון המקורי היה אפילו נועז יותר",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21553459",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T03:42:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21546694",
+      "title": "לילה בבית של הארי פוטר: המקום המפורסם מהסרט שאפשר להזמין בו חדר",
+      "summary": "הבית בן מאות השנים שכיכב ב\"הארי פוטר\" הוא לא רק אתר למעריצים • שני חדרים בו מוצעים ללינה, עם מיטות אפיריון, אח בוערת ואווירה שנראית כאילו נלקחה מהסרט • ויש גם סיפורים על רוחות רפאים",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21546694",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T03:33:39.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjjilglsmg",
@@ -132,7 +168,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1373612",
-      "title": "ד\"ר לנומרולוגיה בתחזית דרמטית: התאריך שבו יפול הפור ותתחיל התקיפה באיראן",
+      "title": "ד\"ר לנומרולוגיה טוען: זה התאריך המדויק שבו תפרוץ המלחמה מול איראן",
       "summary": "לפי ניתוח נומרולוגי, רמי שקלים מעריך כי החל מ־20 באוקטובר 2026 ייפתח חלון מסוכן במיוחד מול איראן - ומזהיר מעימות צבאי נוסף של ישראל וארה\"ב עם טהרן | חוות דעת",
       "link": "https://www.maariv.co.il/news/viral/article-1373612",
       "source": "מעריב",
@@ -162,6 +198,15 @@
       "title": "במקום להדוף את השנאה בעולם, מתעבי הממשלה מספקים לה דלק | יוסי אחימאיר",
       "summary": "דווקא בזוכרנו את 7 באוקטובר, על המבט להיות מופנה קדימה ולשאול לאן המדינה נעה. עלינו להתרפא מנגע השאננות וממחלת הפלגנות",
       "link": "https://www.maariv.co.il/news/opinions/article-1373589",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T03:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1373612",
+      "title": "ד\"ר לנומרולוגיה בתחזית דרמטית: התאריך שבו יפול הפור ותתחיל התקיפה באיראן",
+      "summary": "לפי ניתוח נומרולוגי, רמי שקלים מעריך כי החל מ־20 באוקטובר 2026 ייפתח חלון מסוכן במיוחד מול איראן - ומזהיר מעימות צבאי נוסף של ישראל וארה\"ב עם טהרן | חוות דעת",
+      "link": "https://www.maariv.co.il/news/viral/article-1373612",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-05T03:00:46.000Z"
@@ -309,6 +354,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T22:21:10.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
+      "title": "בהלה בבריטניה: פינוי דרמטי של מפציצי ענק אמריקאים - בשל מודיעין על איום איראני מיידי",
+      "summary": "בעקבות איום מודיעיני ממשי על מזימה בגיבוי איראני לפגוע בבסיס הבריטי: הפנטגון אישר כי השלים את פינויים הבהול של כל מפציצי ה-B1 מבריטניה בחזרה לבסיסי האם בארה\"ב | חלק מהצוותים הוזנקו לאוויר בחיפזון עוד בטרם הושלמה ההיערכות (אקטואליה)",
+      "link": "https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-04T22:16:09.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
@@ -22512,60 +22566,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T04:26:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-press-conference",
-      "title": "נשיא ארה\"ב טראמפ: \"איראן במצב קשה מאוד, הם עוד ייכנעו; הוצאנו ממצר הורמוז יותר נפט מאי פעם\"",
-      "summary": "נשיא ארצות הברית דונלד טראמפ הציג הלילה עמדה נחרצת מול המשטר האיראני, העריך כי טהרן נמצאת במצוקה אנושה שתאלץ אותה להתקפל, וחשף לדבריו שיא היסטורי של שינוע נפט מאובטח דרך מצר הורמוז: \"הוצאנו משם יותר נפט מאי פעם בהיסטוריה – וזה נעשה בדיוק כדי לעצור את הנשק הגרעיני\" (חדשות, בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-iran-press-conference",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-30T04:13:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21517655",
-      "title": "הדלק יתייקר - אלה כל הענפים במשק שיתייקרו בעקבותיו",
-      "summary": "מחירי הדלק יזנקו הלילה במעל חצי שקל לליטר, ומילוי מכל מלא יתייקר בכ-26 שקלים • במערכת הכלכלית החשש מתרחב, וקיים צפי לאפקט דומינו שיגרום לגל התייקרויות רוחבי במשק • מהובלות ועד טיסות: אלו התחומים שסביר כי נראה בהם שינוי",
-      "link": "https://www.israelhayom.co.il/news/local/article/21517655",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:13:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/iran-condemns-netanyahu-uae-visit-warns-gulf-state",
-      "title": "טהרן בזעם: איראן מאיימת על האמירויות בעקבות ביקור נתניהו",
-      "summary": "משרד החוץ האיראני מגנה בחריפות את ביקור נתניהו באמירויות • קריאה למדינות האזור להיזהר מ\"עוינות המשטר הציוני\" | המתיחות הגוברת במפרץ (גיאופוליטיקה)",
-      "link": "https://www.kikar.co.il/political-news/iran-condemns-netanyahu-uae-visit-warns-gulf-state",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-09-30T04:08:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21481109",
-      "title": "מכינים מראש ונרגעים: צלי הכתף המושלם לחג השני",
-      "summary": "אחרי הרצף של ארוחות החג, אף אחד לא רוצה לבלות עוד ערב שלם במטבח • הצלי הזה דורש קצת עבודה בהתחלה והרבה סבלנות אחר כך, אבל אפשר להכין אותו מראש ולחמם רגע לפני הארוחה",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21481109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:07:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21517672",
-      "title": "דניאל גרינברג על החרדה: \"קורה לי לא מעט\"",
-      "summary": "במהלך שאלות ותשובות באינסטגרם נשאלה גרינברג אם גם היא חווה חרדה בסביבת המוני אנשים, והשיבה כי התחושה מוכרת לה גם כיום. השיתוף מגיע פחות משבועיים אחרי שסיפרה שהיא בתקופה של \"סדר בחיים ברמת הנפש\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21517672",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:06:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21497845",
-      "title": "המשקל עלה אחרי החגים? כנראה שהסיבה היא בכלל לא שומן",
-      "summary": "אחרי שבועות של ארוחות חגיגיות קל להתפתות לדיאטה מהירה או לצום כדי \"לתקן\" את הנזק • מומחים מסבירים למה זו לא בהכרח הדרך הנכונה, ואיך חוזרים לשגרה בלי להעניש את הגוף",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21497845",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T04:03:38.000Z"
     }
   ]
 }
