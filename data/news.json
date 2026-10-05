@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:16:03.668Z",
+  "updatedAt": "2026-10-05T14:30:56.331Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1373946",
+      "title": "דיווח: ארצות הברית נתנה אור ירוק - ישראל נערכת לתקיפה במדינה ערבית",
+      "summary": "מקורות מערביים טוענים כי ארה\"ב נתנה לישראל \"אור ירוק\" להרחיב את חופש הפעולה מול המיליציות הפרו-איראניות בעיראק. לפי הדיווח, צה\"ל והמוסד כבר השלימו הכנות מבצעיות לתקיפה",
+      "link": "https://www.maariv.co.il/news/military/article-1373946",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-05T14:29:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/brisk-yeshiva-chazon-ish-controversy",
+      "title": "ראש ישיבת בריסק תקף שורת מוסדות: \"החזון איש מתחבט בקבר ממה שעשו לו\"",
+      "summary": "ראש ישיבת בריסק, מסר במהלך החג שיחה ארוכה, בה תשף שני מוסדות מוכרים מאוד בציבור החרדי, שקיבלו לביקור את נשיא המדינה הרצוג לביקור: \"האם השתגעו אנשי בני ברק, איך יכולים לבוא לכזו שפלות, קצת כבוד לחזון איש, במקום לזרוק את התקציבים שלו בפנים, במקום לזרוק לו אתרוגים בפנים נותנים לו לקבוע מזוזה ועוד להופיע בפני מאות ילדים, היתכן?!\" | האזינו (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/brisk-yeshiva-chazon-ish-controversy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T14:29:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bk3do7zjgx",
+      "title": "27 דיפלומטים ישראלים יגורשו? המהלך הדרמטי ששוקלת בריטניה",
+      "summary": "פרסום ראשון: שגריר בריטניה העביר מסר לגורמים בישראל, לפיו אם לא תבוטל ההחלטה של שר החוץ סער לסגור את הקונסוליה הבריטית במזרח ירושלים שבה פועלים 27 דיפלומטים בריטים - התגובה תהיה גירוש 27 דיפלומטים ישראלים מהשגרירות בלונדון. זו ההשוואה הבריטית בין ישראל לרוסיה",
+      "link": "https://www.ynet.co.il/news/article/bk3do7zjgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-05T14:17:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/two-security-incidents-syria-border-golan-24-hours",
+      "title": "אירועים חריגים בגבול סוריה תוך יממה: תמרור שאי אפשר להתעלם ממנו",
+      "summary": "שני חשודים נעצרו היום בניסיון חדירה למוצב צה\"ל במרחב האבטחה • אמש חוסל חשוד שטיפס על סוללה למוצב | ראשי הרשויות בגולן: 'מחייב טיפול נחוש ומענה ביטחוני ארוך טווח' (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/two-security-incidents-syria-border-golan-24-hours",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-05T14:17:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21558274",
+      "title": "קיסטון, דלק ישראל ולאומי פרטנרס השלימו את רכישת הוט מובייל",
+      "summary": "קיסטון ודלק ישראל מחזיקות כל אחת ב-40% מהשותפות הרוכשת, ולאומי פרטנרס ב-20% • קיסטון השקיעה הון עצמי של כ-207 מיליון שקל • כ-60% מהעסקה מומנו בהלוואה שנטלה הוט מובייל, ללא זכות חזרה לבעלי המניות • דגנית קרמר מונתה למנכ”לית החברה",
+      "link": "https://www.israelhayom.co.il/business/article/21558274",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:14:08.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1373939",
       "title": "100 מטוסי קרב שינו את התמונה: החות'ים נסוגו מבאב אל-מנדב",
       "summary": "ערב הסעודית וכוחות ממשלת תימן הודיעו כי השתלטו מחדש על מצר באב אל-מנדב לאחר מתקפה בהשתתפות כמאה מטוסי קרב. למרות הנסיגה, החות'ים עדיין מסוגלים לאיים מרחוק על נתיבי השיט",
@@ -39,6 +84,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-05T14:14:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21558146",
+      "title": "כמו עזה? החשש מפלישה לראש העין - 7 דקות משטח A | צפו",
+      "summary": "ערב יום הזיכרון לטבח, ״פורום הביתה״ מפרסם תיעוד נסיעה משטח A עד לראש העין בתוך דקות ספורות • לטענתם: התיעוד ממחיש עד כמה קצר המרחק מערי הרשות ליישובי השרון והמרכז • ״מה שלקח לחמאס 7 דקות בדרום, עלול לקרות גם כאן\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21558146",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:13:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21558142",
+      "title": "מועמד הליכוד: \"איזנקוט שלח את בנינו להילחם – וברח באמצע\"",
+      "summary": "איציק בונצל, משוריין הליכוד ואביו של סמ\"ר עמית בונצל ז\"ל קרא להקמת ועדת חקירה לאומית לטבח: \"לא אפסיק את הפעולות עד יומי האחרון כדי להגיע לחקר האמת\" • על מי שלטענתו פעלו להדחת נתניהו אמר: \"הם פושעי מלחמה\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21558142",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:12:15.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syxsrxwige",
@@ -59,6 +122,24 @@
       "pubDate": "2026-10-05T14:08:48.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21557511",
+      "title": "\"בלי אמת אין תיקון\": הקריאה של אמו של אסף חממי ז\"ל, שלוש שנים אחרי הטבח",
+      "summary": "קלרה חממי שבה במכתב לבנה אל בוקר 7 באוקטובר ואל הרגעים האחרונים בחייו • לצד הגעגוע, קראה להקמת ועדת חקירה עצמאית, מקצועית ובלתי תלויה שתזכה לאמון ציבורי רחב • \"המשפחות השכולות זכאיות לתשובות - אנחנו מבקשים חקירה שתשרת את המדינה\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21557511",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:08:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21558148",
+      "title": "בצל 3 שנים לטבח: איזנקוט נושא דברים בכנס המכון למדיניות נגד טרור | צפו",
+      "summary": "איזנקוט נושא דברים ביומו הראשון של הכנס הבינלאומי ה-26 ללוחמה בטרור באוניברסיטת רייכמן • הכנס מתקיים במלאות שלוש שנים לטבח 7 באוקטובר • במוקד: האיומים המשתנים מצד מדינות, ארגוני שלוחים וטכנולוגיות מתקדמות",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21558148",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:05:26.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjsej7zjme",
       "title": "מהומות במאה שערים: תיעוד השלכת רימון הלם בסמטה - ומעצר נער צעיר",
       "summary": "פעילות משטרתית חריגה בשכונה הירושלמית: לטענת תושבים, כוח נכנס להסרת דגל פלסטין שנתלה על ידי אנטי-ציוניים, ולאחר שהושלכו לעברו חפצים - תועד לוחם מגלגל רימון הלם. נער צעיר תועד אזוק",
@@ -66,6 +147,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-05T14:03:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21558138",
+      "title": "נגד נובאק ג'וקוביץ': דניל מדבדב פגע לאוהד בראש ונפסל",
+      "summary": "הטניסאי הרוסי חבט כדור ליציע אחרי שהפסיד נקודה, האוהד פונה לקבלת טיפול • הסרבי זכה בניצחון אוטומטי בדרך לגמר טורניר בייג'ינג'",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21558138",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T14:02:11.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tmft5s",
@@ -84,6 +174,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T13:59:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21557851",
+      "title": "\"אנחנו אומרות שאנחנו קשוחות, אנחנו מסוגלות – זה לא הכל\"",
+      "summary": "עינת מלכה נפצעה בזמן שירותה הצבאי, והפציעה החמירה בעקבות טיפול לא מקצועי • ורד פרג’ון פיתחה פוסט-טראומה בזמן שירות במשטרה • כשנפתחה קבוצה מיוחדת לנשים שנפצעו במסגרת כוחות הביטחון, הן נפגשו – ומאז הן עוזרות אחת לשנייה להתגבר על הקשיים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21557851",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-05T13:59:25.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmft6n",
@@ -22899,33 +22998,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-09-30T14:31:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21523790",
-      "title": "המעבר לשעון חורף מעבר לפינה: הכלל הקבוע שחוסך את כל הבלבול",
-      "summary": "הנוסחה המעוגנת בחוק ששמה קץ לחוסר הוודאות וקובעת מתי נזיז את המחוגים • למה התזמון נקבע דווקא לשתיים בלילה, ואיך תוודאו שהסמארטפון לא יטעה אתכם בבוקר יום ראשון?",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21523790",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T14:23:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21523541",
-      "title": "לא רק בפליי דובאי: הנוסעים שהצילו מטוסים באוויר",
-      "summary": "טייס המשנה העומאני בטיסה הבוקר ניסה לרסק את המטוס, עד שנוסעים ישראלים פרצו לתא הטייס והשתלטו עליו • זה לא המקרה הראשון שבו נוסעים סייעו לעצור תוקפים במהלך טיסה: מטיסת אל על ב־1970 ועד \"מחבל הנעליים\" • בטיסת יונייטד 93 המרד לא הציל את המטוס, אך מנע מהחוטפים להגיע ליעדם",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21523541",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T14:16:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21523541",
-      "title": "מהמטען שהוסתר בתחתונים עד הקברניט שהתפרע: כך נוסעים מנעו אסונות באוויר",
-      "summary": "טייס המשנה העומאני בטיסה הבוקר ניסה לרסק את המטוס, עד שנוסעים ישראלים פרצו לתא הטייס והשתלטו עליו • זה לא המקרה הראשון שבו נוסעים סייעו לעצור תוקפים במהלך טיסה: מטיסת אל על ב־1970 ועד \"מחבל הנעליים\" • בטיסת יונייטד 93 המרד לא הציל את המטוס, אך מנע מהחוטפים להגיע ליעדם",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21523541",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-09-30T14:16:06.000Z"
     }
   ]
 }
