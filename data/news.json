@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:30:49.052Z",
+  "updatedAt": "2026-10-06T05:45:47.220Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/turkish-ship-sank-black-sea",
+      "title": "מלכודת מוות: ספינה טורקית טבעה עם 15 אנשי צוות",
+      "summary": "ספינה בבעלות טורקית עלתה באש וטבעה מול חופי רומניה | אוקראינה טוענת: שני כטב\"מים רוסיים פגעו בכלי השיט האזרחי(חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/turkish-ship-sank-black-sea",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T05:42:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1374105",
+      "title": "חשש לפלילים: פיצוץ כלי רכב הרעיד הבוקר את ירושלים",
+      "summary": "גבר נפצע באורח קשה ונער באורח בינוני, בפיצוץ רכב שהתרחש הבוקר בירושלים: \"ראינו את הרכב עולה באש ורסיסים מסביבו\"",
+      "link": "https://www.maariv.co.il/news/law/article-1374105",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T05:42:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86470",
+      "title": "הפיצוץ בירושלים | מטען הונח מתחת לרכב, שני פצועים בזירה",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86470",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T05:39:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1kgd11mimx",
+      "title": "שני נפגעים בפיצוץ רכב בירושלים, המשטרה: הרקע פלילי",
+      "summary": "מבוגר ונער נפגעו באורחים שונים בפיצוץ הרכב בארמון הנציב. המשטרה מסרה כי הרקע המסתמן הוא פלילי",
+      "link": "https://www.ynet.co.il/news/article/r1kgd11mimx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T05:35:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1374103",
+      "title": "האף של המכס: הסיוט של המבריחים בנתב\"ג נחשפת",
+      "summary": "היא עברה הכשרה מיוחדת בצ'כיה, לא צריכה שיגידו לה מה לעשות בשטח, ואחראית לאיתור אלפי מוצרי טבק וניקוטין שהוברחו לישראל מכל העולם. תכירו את אמיקה, הכוכבת ההולכת על ארבע של יחידת הכלבנים במכס",
+      "link": "https://www.maariv.co.il/news/law/article-1374103",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T05:34:43.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1374093",
       "title": "התאונה הקשה והטענה למחדל רפואי: \"נזק קוגניטיבי\"",
@@ -111,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T04:50:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374083",
+      "title": "בהלה בצפון הארץ: \"זה נורא, אי אפשר לנשום, אני סובלת מכאבי ראש וחולשה\"",
+      "summary": "בנוף הגליל, חריש, זכרון יעקב ומספר יישובים נוספים ממשיכים לסבול מזיהום האוויר הכבד שמגיע מהיישובים הערבים, חלקם מעבר לקו הירוק: \"זה נורא. אני כבר לא יודעת מה לעשות\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1374083",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T04:44:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1374083",
@@ -565,7 +619,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1374065",
       "title": "כאוס במודיעין: מעצר עריק הפך למצור אלים על חיילי משטרה צבאית | צפו",
-      "summary": "על פי דיווחים מהמקום, חיילי המשטרה הצבאית נצורים בבניין יחד עם העריק, לאחר שמפגינים התקהלו במקום וריססו גז פלפל לעבר חיילים; כוחות משטרה רבים הוקפצו לזירה",
+      "summary": "על פי דיווחים מהמקום, חיילי המשטרה הצבאית נצורים בבניין יחד עם העריק, לאחר שמפגינים התקהלו במקום וריססו גז פלפל לעבר חיילים; כוחות משטרה רבים הוקפצו לזירה, והעריק שוחרר",
       "link": "https://www.maariv.co.il/news/law/article-1374065",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -22908,60 +22962,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T05:45:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21527717",
-      "title": "\"רופא השיניים טיפל בטייס\": הדרמה בטיסה לא יורדת מהכותרות בעולם",
-      "summary": "האירוע החריג בטיסת פליי דובאי ממשיך להסעיר את העולם: ה\"טיימס\" וה\"גרדיאן\" הקדישו לו את הכותרות המרכזיות • הטייס ההודי שנדקר זוכה לשבחים מראש ממשלת הודו: \"גיבור\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21527717",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T05:44:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21527717",
-      "title": "\"פליי דובאי\" כובש את כותרות העולם: \"עצרו את ה־9/11 הישראלי\"",
-      "summary": "האירוע החריג בטיסת פליי דובאי מדובאי לישראל מסעיר את העולם: ה\"טיימס\" וה\"גרדיאן\" הקדישו לו את הכותרות המרכזיות, הנוסעים זוכים לשבחים על שהשתלטו על טייס המשנה - והטייס ההודי שנדקר זוכה לשבחים מראש ממשלת הודו: \"גיבור\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21527717",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T05:44:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/g6v9at2rh",
-      "title": "שעון חורף 2026: מתי מזיזים את השעון? | כל מה שצריך לדעת",
-      "summary": "הישראלים יזכו לשעת שינה נוספת, כשהשעון יעבור שעה אחת אחורה ב-25 באוקטובר, בין שבת לראשון ב-02:00. למה בכלל מזיזים את השעון, ומתי חוזרים לשעון קיץ? ynet מסביר",
-      "link": "https://www.ynet.co.il/news/article/g6v9at2rh",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-01T05:40:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1372442",
-      "title": "נשים הורחקו בגלל ביקור במגדל אייפל - והמנכ\"ל ישלם בתפקידו",
-      "summary": "פטריק ברנקו רואיבו, שמנהל את החברה המפעילה את האתר מאז 2018, יעזוב את תפקידו לאחר שעובדות הורחקו במהלך ביקור חברי קבוצה הינדית שנזיריה נמנעים ממגע ומשיחה עם נשים",
-      "link": "https://www.maariv.co.il/news/world/article-1372442",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-01T05:39:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/two-arrest-attempts-night-yeshiva-students-release",
-      "title": "ברגע האחרון: סוכלו שתי ניסיונות מעצר והסגרה למשטרה צבאית",
-      "summary": "בכביש 2 עוכב אמש אברך בכוונה להעבירו למשטרה הצבאית וכעבור מספר שעות בצומת עלי עוכב בן ישיבה | עם פרסום הידיעות ובהגעת המוחים - שניהם שוחררו (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/two-arrest-attempts-night-yeshiva-students-release",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-01T05:38:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21527762",
-      "title": "אחרי שביטלה את החתונה - הארוס שלח \"איש ביצוע\" לנקום",
-      "summary": "המשטרה הגישה הצהרת תובע נגד שני תושבי מזרח ירושלים, בני 23 ו-26, המעורבים בהצתת רכבה של אישה • על פי החשד, לאחר שהקורבן ביטלה את אירוסיה לחשוד המרכזי, הוא החל לאיים עליה • בהמשך, שלח הארוס לשעבר אדם נוסף שהגיע לזירה והצית את הרכב",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21527762",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T05:33:42.000Z"
     }
   ]
 }
