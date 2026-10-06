@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T02:30:54.484Z",
+  "updatedAt": "2026-10-06T02:45:54.602Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14918067",
+      "title": "טראומת ה\"בגידה\" של הילדים אחרי 7/10: \"איבדו את תחושת המוגנות\"",
+      "summary": "הם נפגעו בתוך ביתם, הוריהם - שלא באשמתם - לא יכלו להגן עליהם, ומומחים מתריעים: מאז 7/10 מזהים אצל הילדים והנוער פגיעה נפשית מסוג חדש: \"הרגשה עמוקה שבגדו בהם\". במקביל, אנשי המקצוע מודים: \"בפגיעה הזו רב הנסתר על הגלוי, ייקח שנים למצוא טיפול נכון\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14918067",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T02:37:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21561274",
+      "title": "אל ניניו חריג: הסתיו באירופה עלול להיות סוער, והחורף קר במיוחד",
+      "summary": "החזאים בבריטניה מזהירים מפני אירוע אל ניניו עוצמתי במיוחד, שעשוי לשנות את דפוסי מזג האוויר בחודשים הקרובים: יותר גשם ורוחות בצפון־מערב אירופה, לצד סיכון מוגבר לגלי קור ושלג בהמשך החורף",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21561274",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T02:16:37.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21561220",
       "title": "שמש מתעתעת: מתי שוב יפתיע אותנו הגשם?",
@@ -22926,15 +22944,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T02:47:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21527393",
-      "title": "מצוקה במפרץ: המשבר שמאלץ את סעודיה להתקרב מחדש לאמירויות",
-      "summary": "רק לפני תשעה חודשים הפכה המחלוקת בתימן את היריבות בין ריאד לאבו דאבי לקרע גלוי • כעת, מתקפות החות'ים והלחץ הביטחוני על הממלכה דוחפים את סעודיה לחפש מחדש את קרבת האמירויות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21527393",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T02:32:32.000Z"
     }
   ]
 }
