@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:31:00.900Z",
+  "updatedAt": "2026-10-06T18:45:48.732Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-execution-wave-protesters",
+      "title": "אכזרי: גזר דין קשה במיוחד לתושב איראן אמיץ שפרסם סרטונים בהפגנות",
+      "summary": "גל הוצאות להורג חסר תקדים פוקד את איראן, כאשר מערכת המשפט של משטר האייתוללות ממשיכה לדכא באכזריות את גל המחאות שפקד את המדינה בשנה שעברה. לפחות חמישה בני אדם שנעצרו בהפגנות ינואר הוצאו להורג מאז סוף ספטמבר, בעוד שארגון \"איראן זכויות אדם\" מזהיר כי לפחות 100 עצורים נוספים נמצאים כיום בסכנת חיים מיידית וממתינים לגרדום (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-execution-wave-protesters",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T18:39:12.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/pb1nyqls4",
+      "title": "פלישה ל-28 יישובים ו-11 בסיסים, 1,203 חללים, 251 חטופים | מפת 7 באוקטובר",
+      "summary": "בבוקר שבת וחג שמחת תורה, 7 באוקטובר 2023, חדרו אלפי מחבלי חמאס מרצועת עזה לשטח ישראל והגיעו עד למרחק של יותר מ-20 קילומטרים מהגבול. אלו ממדי הטבח שנחשב למתקפת הטרור הגדולה ביותר בתולדות המדינה",
+      "link": "https://www.ynet.co.il/news/article/pb1nyqls4",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T18:34:46.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sknl00ngoml",
+      "title": "ליד באר שבע ודימונה: האזהרה החריגה של ראש שב\"כ מגדודי טרור",
+      "summary": "בישיבת הקבינט התריע זיני מפני \"תשתיות צבאיות\" וגורמים חמושים בנגב בעלי זיקה לארגוני טרור: \"מסכלים את זה כל הזמן\". ברקע: הברחות הנשק המתרחבות דרך הגבולות, ואוזלת היד במשילות - חרף ההבטחות והסרטונים של בן גביר",
+      "link": "https://www.ynet.co.il/news/article/sknl00ngoml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T18:28:56.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/fly-dubai-flight-trauma-survivors",
       "title": "הנוסעת שיתפה בטראומה ובצלקת מהטיסה מדובאי: \"כל דבר מקפיץ\"",
@@ -345,6 +372,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T16:53:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374379",
+      "title": "לא בחשבון הפרטי: ועדת הבחירות המרכזית שמה קו אדום לנתניהו",
+      "summary": "יו\"ר ועדת הבחירות קבע כי סרטון של נתניהו מבסיס חיל האוויר כולל גם תעמולת בחירות. הסרטון יוסר מהחשבונות הפרטיים, אך יישאר בחשבונות הרשמיים",
+      "link": "https://www.maariv.co.il/news/politics/article-1374379",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T16:53:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1374379",
@@ -723,6 +759,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T15:17:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21566597",
+      "title": "מכה לתאגידי ענף הבנייה: שינוי דרמטי בהבאת עובדים זרים לארץ",
+      "summary": "החל מינואר 2027 לא תתאפשר הבאת עובדים מהודו וסרי לנקה במסלול הפרטי לענף הבנייה, אך הן יישארו במסלול הבילטרלי • בתאגידים מזהירים מפגיעה בענף וטוענים כי מרבית העובדים שהובאו במסלול הפרטי נקלטו בהצלחה • הרשות: כיום שוהים בישראל כ־90 אלף עובדים זרים בענף - פי שלושה מלפני המלחמה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21566597",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T15:15:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21566597",
@@ -23133,51 +23178,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T18:47:28.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjiujbhcze",
-      "title": "ניסיון חטיפת נשק, יידוי אבנים ומטעני דמה: עונת המסיק בפתח, המתיחות ביו\"ש בשיא",
-      "summary": "ברחבי יהודה ושומרון נפצעו ישראלים ופלסטינים בפתח השיא של העונה החקלאית שמביאה עמה מדי שנה חיכוכים ומתיחות. ברקע: האתגר שמציבות יותר מ-100 חוות חקלאיות בשטח למערכת הביטחון",
-      "link": "https://www.ynet.co.il/news/article/bjiujbhcze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-01T18:45:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21534781",
-      "title": "מול המצלמות: אבינתן אור חושף את תכנית הבריחה מהשבי",
-      "summary": "שורד השבי ששוחרר ממנהרות חמאס אחרי 738 ימים, ישתתף בתכנית מיוחדת של \"עובדה\" בקשת 12 לציון שלוש שנים לטבח • \"הסתכלתי על החמאסניקים ואמרתי לעצמי בראש 'חכו חכו'\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21534781",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T18:43:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21534821",
-      "title": "שני ימי שישי ללא רכבות בצפון: אלה התחנות שייסגרו",
-      "summary": "שינויים משמעותיים צפויים בתנועת הרכבות באזור חיפה והצפון ב-9 וב-16 באוקטובר • כל התחנות שמצפון לחיפה חוף הכרמל ייסגרו זמנית, ובהן נהריה, עכו, כרמיאל ובית שאן • רכבת ישראל תפעיל היסעים בחינם וקווי אוטובוס יתוגברו",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21534821",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T18:37:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tm8r5n",
-      "title": "ישראל תשתתף בחקירה? הטייס שניסה להשתלט על המטוס הועבר לאמירויות",
-      "summary": "הקברניט וטייס המשנה מטיסת פליי דובאי הועברו לאמירויות בליווי צוות ביטחוני אמירותי | ישראל צפויה להיות מעורבת גם היא בחקירה, במסגרת שיתוף הפעולה הביטחוני והמודיעיני בין ירושלים לאבו דאבי (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tm8r5n",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-01T18:35:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21534422",
-      "title": "לפני 3 שנים קיבלנו תזכורת למחיר הפירוד - חובתנו לפעול אחרת",
-      "summary": "היציאה אל הסוכה והאיגוד של ארבעת המינים מזכירים כי חוסנו של העם נבנה מחיבור בין ימין ושמאל • שלוש שנים לאחר אסון 7 באוקטובר, וערב הבחירות, עלינו לפנות מקום זה לזה - כדי לזכות בשמחה שלמה • עלינו לאגוד את הגוף הישראלי להיות אחד סביב ספר התורה, מתוך אהבה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21534422",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T18:31:53.000Z"
     }
   ]
 }
