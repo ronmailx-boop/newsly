@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:45:43.171Z",
+  "updatedAt": "2026-10-06T05:01:00.132Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/rav-mazuz-mizmor-letoda-flydubai-miracle",
+      "title": "\"לא נשכח את הנס\" | ראש הישיבה הגר\"צ מאזוז קרא 'מזמור לתודה' בשיעורו • צפו",
+      "summary": "ראש הישיבה קרא מזמור לתודה כהודאה על נס טיסת פליי דובאי • \"חזקיה לא נתן תודה - ולכן לא היה משיח\" | הדברים המיוחדים שנאמרו בשיעור (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/rav-mazuz-mizmor-letoda-flydubai-miracle",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T04:58:31.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1374083",
       "title": "זה חוזר שוב ושוב מהיישובים הערבים - והתושבים מיואשים: \"רק בגלל זה\"",
@@ -22935,60 +22944,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T05:02:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1372431",
-      "title": "החשד סביב הבסיס הבריטי מתהדק: זו המדינה שנמצאת במרכז הפרשה",
-      "summary": "ראש ממשלת בריטניה, אנדי ברנהאם, אמר כי יש \"אינדיקציות חזקות\" למעורבות איראנית במזימה נגד בסיס ששימש את ארה\"ב לתקיפות באיראן. חמישה נעצרו, בנזין נמצא ברכביהם ואחד מהם התקשר לשירותי החירום לפני מעצרו",
-      "link": "https://www.maariv.co.il/news/world/article-1372431",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-01T04:58:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1372431",
-      "title": "בריטניה מצביעה על האשמה: \"אינדיקציות חזקות\" למעורבות במזימה נגד הבסיס",
-      "summary": "ראש ממשלת בריטניה, אנדי ברנהאם, אמר כי יש \"אינדיקציות חזקות\" למעורבות איראנית במזימה נגד בסיס ששימש את ארה\"ב לתקיפות באיראן. חמישה נעצרו, בנזין נמצא ברכביהם ואחד מהם התקשר לשירותי החירום לפני מעצרו",
-      "link": "https://www.maariv.co.il/news/world/article-1372431",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-01T04:58:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21527619",
-      "title": "עסקת הענק של 110 מיליארד דולר: ישראלי מונה לתפקיד בכיר בהוליווד",
-      "summary": "ינון קרייז, מנכ\"ל ויו\"ר ענקית הצעצועים מאטל, ימונה למנכ\"ל משותף של החברה שתקום ממיזוג פרמאונט ו-Warner Bros. Discovery • הוא יהיה אחראי על הניהול השוטף ועל שילוב שתי החברות • העסקה צפויה להיסגר ב-6 באוקטובר",
-      "link": "https://www.israelhayom.co.il/business/article/21527619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T04:57:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21527619",
-      "title": "עסקת הענק של 110 מיליארד דולר: המינוי החדש של ינון קרייז",
-      "summary": "מנכ\"ל מאטל הישראלי ימונה למנכ\"ל משותף של ענקית המדיה שתקום ממיזוג פרמאונט ו-Warner Bros. Discovery • קרייז יהיה אחראי על הניהול השוטף ועל שילוב שתי החברות • היעד: יותר מ-6 מיליארד דולר בסינרגיות שנתיות ויותר מ-200 מיליון מנויי סטרימינג",
-      "link": "https://www.israelhayom.co.il/business/article/21527619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T04:57:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21527547",
-      "title": "בגלל \"פלסטין\": הבמאי הנודע, אוהד ניו יורק ניקס, השתולל במסעדה",
-      "summary": "מי שנחשב לאוהד הכי מפורסם של אלופת ה-NBA, ניסה להתנפל על אלמוני שהקניט אותו במסעדה: \"למה אתה מתחיל איתי?\" • עובדים במקום בלמו פיזית את איש הקולנוע • שואל השאלה: \"מה אתה חושב על פלסטין?\" סולק מהמקום",
-      "link": "https://www.israelhayom.co.il/sport/article/21527547",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T04:54:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21527555",
-      "title": "הדרמה בעליון: האם יאושר התקדים לפסילת סאמי אבו שחאדה?",
-      "summary": "בית המשפט דן בהרכב של תשעה שופטים בפסילת סאמי אבו שחאדה, עופר כסיף והרשימה המשותפת • השופטת דפנה ברק-ארז: \"מדובר במאמר מזעזע שמבטא ניתוק ברמה האנושית\" • עימות חריף בין בן גביר (\"חתיכת מחבל\") לטיבי (\"נאצי קטן\")",
-      "link": "https://www.israelhayom.co.il/news/law/article/21527555",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T04:52:45.000Z"
     }
   ]
 }
