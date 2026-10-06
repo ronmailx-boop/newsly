@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:31:12.341Z",
+  "updatedAt": "2026-10-06T19:45:52.096Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86595",
+      "title": "4 פצועים בתאונה בין שני רכבים בכביש 42",
+      "summary": "ארבעה בני אדם נפצעו בתאונה בין שני כלי רכב בכביש 42 בין גדרות למחלף אשדוד. אישה כבת 38 וילד בן 10 נפצעו באורח בינוני, ואישה בת 26 וילד בן 12 נפצעו באורח קל. צוותי איחוד הצלה העניקו טיפול רפואי בזירה, והפצועים פונו לבית החולים.",
+      "link": "https://www.kikar.co.il/scoop-news/86595",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T19:39:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/idf-officer-admits-failure-modiin-protests-draft",
       "title": "בכיר בצה\"ל אחרי הדרמה במעצר תלמיד הישיבה: \"אין שום סיכוי\"",
       "summary": "גורם צבאי בכיר מודה בכישלון מול ההפגנות במודיעין • \"אנחנו חייבים סיוע משטרתי משמעותי הרבה יותר\" • קרב גרסאות חריף בין המשטרה לצה\"ל על מי שחרר את העריק (חדשות חרדים)",
@@ -41,6 +50,24 @@
       "pubDate": "2026-10-06T19:28:49.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/welfare/article/21568360",
+      "title": "\"אני לא גיבורה, אבא שלי היה גיבור\": יתומי צה\"ל בשיחה על החיים שהשתנו ברגע",
+      "summary": "הם לא צריכים תאריך מיוחד כדי לזכור, רחמים הם מזהים מקילומטרים, והם כבר לא מסוגלים יותר לשמוע \"אתם גיבורים\", או \"אנחנו תמיד פה בשבילכם\" • למה? \"כי זה לא שבחרתי בזה\" • 1,011 יתומים נוספו למשפחת השכול מאז 7.10 - פגשנו שבעה מהם לשיחה אישית • מיוחד",
+      "link": "https://www.israelhayom.co.il/news/welfare/article/21568360",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T19:28:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21567990",
+      "title": "גליל עליון הורדה לליגה הרביעית לנוער: \"שילמנו בגלל המלחמה\"",
+      "summary": "בעקבות הפסדים טכניים שספגה בגין אי-הופעות בעונה שעברה, הקבוצה הצפונית הורדה ליגה • ההורים מתחננים: \"הבטיחו שאי ההתייצבות לא תגרור ירידת ליגה, הטעות הייתה שלא דרשנו את זה בכתב\" • תגובת איגוד הכדורסל בפנים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21567990",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T19:18:25.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/ben-zion-considering-resignation-winter-party",
       "title": "טלטלה ברשימה של וינטר: הבכיר במפלגה שוקל לפרוש ועשוי להודיע בקרוב",
       "summary": "דוידי בן ציון, מבכירי מפלגת 'עמך ישראל', שוקל לפרוש מהרשימה | ברקע: סקרים מדאיגים והסערה סביב דבריו של יוסף חדאד | עוד שני גורמים ברשימה בוחנים פרישה (פוליטי מדיני)",
@@ -48,6 +75,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-06T19:16:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21568330",
+      "title": "\"המאבק היה לקדושת החיים\": אביו של ענר שפירא במסר מרגש",
+      "summary": "מאות השתתפו בעצרת לציון שלוש שנים לטבח בכיכר פריז בירושלים, שעמדה בסימן \"בחירה בחיים\" • שרון שרעבי, אחיהם של יוסי ז\"ל שנרצח בשבי חמאס ושל אלי ששרד, קרא להקמת ועדת חקירה ממלכתית \"בשביל תיקון וריפוי\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21568330",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T19:16:03.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21568153",
@@ -23160,33 +23196,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-01T19:47:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21535152",
-      "title": "להעיר את רה\"מ: הקונספציה שקרסה בעזה משוכפלת כעת בגולן",
-      "summary": "העיוורון המדיני בנוי מאותם חומרים שמהם היה בנוי העיוורון הצבאי בעזה • שיקום סוריה ללא הכרעה בשאלת הגולן ייצור תנאים אידיאליים להורדת ישראל ממנו",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21535152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T19:37:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21535226",
-      "title": "דרמה רגע לפני טיסות החילוץ: האמירתים חזרו בהם מהאישור",
-      "summary": "טיסות החילוץ מדובאי, שהיו אמורות להתחיל מחר, נתקלות במכשול של הרגע האחרון • לאחר שכבר ניתן אישור להפעלתן, באיחוד האמירויות חזרו בהם בשלב זה • גורם המעורה בפרטים: \"השב\"כ מנסה להרחיב את היריעה ולהפוך את הזמני לקבוע והאמירתים לא מסכימים\" • בענף מעריכים כי המחלוקת תיפתר במהלך הלילה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21535226",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T19:33:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21535147",
-      "title": "חשש כבד ביורוליג: מייק ג'יימס נפצע ופונה באלונקה",
-      "summary": "מלך הסלים של המפעל, שפתח פרק חדש בקריירה במדי אנאדולו אפס, נפצע ללא מגע ברגלו במהלך הרבע השלישי מול הכוכב האדום בלגרד • הוא נאלץ לצאת מהמגרש בדמעות ועשוי לסיים את העונה",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21535147",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T19:32:25.000Z"
     }
   ]
 }
