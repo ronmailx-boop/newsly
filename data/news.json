@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:00:59.767Z",
+  "updatedAt": "2026-10-06T21:15:50.867Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919818",
+      "title": "יזכור עם ישראל",
+      "summary": "הנקודה הכי חשובה שראוי לעסוק בה ביום הזה היא להבין ששורשי טבח 7 באוקטובר הם השנאה הרצחנית של האיסלאם ליהודים. החלום הכי גדול של רוב תושבי הרצועה הוא לצבוע בדם כל אחת מההתנחלויות בעוטף עזה",
+      "link": "https://www.ynet.co.il/news/article/yokra14919818",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T21:10:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919298",
+      "title": "מתי נלמד לבחור נכון",
+      "summary": "האם אחרי האסון הגדול בתולדות המדינה נבחר בהנהגה שאוהבת אזרחים יותר מאשר את הכיסא. כי ביטחון זה לא רק טנקים ומטוסים, אלא גם משילות, אמון וחוסן חברתי",
+      "link": "https://www.ynet.co.il/news/article/yokra14919298",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T21:08:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919677",
+      "title": "לדמיון לא נותר מקום",
+      "summary": "הכישלון של 7 באוקטובר הוא מחדל צבאי ומודיעיני חסר תקדים, אך הוא תולדה של קונספציה מדינית רבת שנים",
+      "link": "https://www.ynet.co.il/news/article/yokra14919677",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T21:06:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919325",
+      "title": "שלוש שנים, ובעיקר השתנינו",
+      "summary": "הזמן חלף אבל נשארנו כוננים על ציוד מלא. תחושת האיום, מלווה. אף אחד לא העביר את המתג שלנו חזרה, מחירום לשגרה",
+      "link": "https://www.ynet.co.il/news/article/yokra14919325",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T21:04:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919291",
+      "title": "הלוואי שזה הטור האחרון",
+      "summary": "המערכה על התודעה עדיין איננה חלק מתפיסת הביטחון הלאומי שלנו. ברמת המדינה, היא פשוט לא נחשבת לזירת לחימה. וזה אחד המחדלים הגדולים במלחמת 7 באוקטובר",
+      "link": "https://www.ynet.co.il/news/article/yokra14919291",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T21:02:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/tmi6fm",
       "title": "אזהרה חריגה ומדאיגה בקבינט: המקום שבו מוקמים \"גדודי טרור צבאיים\"",
@@ -117,6 +162,33 @@
       "title": "מזל קשת, תחזית הורוסקופ יומית 07.10.2026",
       "summary": "חבל שאתם מסתירים את הרגשות שלכם. יש מי שרוצה לפייס ולרצות אתכם אבל בעצם המסתוריות שאתם מתעטפים בה, לא כול כך ברור מה באמת אתם רוצים",
       "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21535850",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21535876",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "יום טוב במיוחד בכל מה שקשור לענייני חברה. רמת הריגוש שלכם עולה",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21535876",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21535877",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "אתם מנסים להיות שקטים למרות הסערה הפנימית. מתח פנימי נובע מכך שיש לכם הרגשה שלא נותנים לכם להתבטא ומנסים להכתיב לכם מה לעשות",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21535877",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21535878",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "תחושת אי נוחות קלה משתלטת עליכם היום. מריבה היא הדבר האחרון עלי אדמות שאתם רוצים או יכולים לסבול",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21535878",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T20:30:09.000Z"
@@ -23223,24 +23295,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T21:24:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21535438",
-      "title": "מנור סולומון חשף: \"יש שחקנים שסוחבים דברים שלא רואים\"",
-      "summary": "כוכב הנבחרת, שהיה צריך להסתגל לעמדה חדשה ב-0:0 של הנבחרת עם קוסובו, אמר: \"ככה אני חושב שאנחנו צריכים לשחק, הייתה חסרה לנו איכות בחלק הקדמי וזה גם עליי\" • רן בן שמעון: \"השחקנים עשו הקרבה יוצאת מן הכלל, היינו שווים יותר מתיקו\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21535438",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T21:04:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tm8y31",
-      "title": "רחוב רמח\"ל נסגר לתנועה | כך חגגו החסידים את שמחת החג בצל האדמו\"ר",
-      "summary": "האדמו\"ר מביאלה בני ברק ערך השבוע את השולחן הטהור לרגל שמחת בית השואבה, בשילוב הילולת ראש השולשלת ה\"יהודי הקדוש\" מפשיסחה זי\"ע | הטיש המיוחד נערך בסוכה הגדולה שהוקמה ברוב פאר והדר על פני רחוב רמח\"ל, בסמוך לבית מדרשו בבני ברק, שנסגר בשעה זו לתנועת כלי רכב עבור המעמד הקדוש והנעלה | בסיום הטיש עברו החסידים לברכת החג (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tm8y31",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-01T21:03:07.000Z"
     }
   ]
 }
