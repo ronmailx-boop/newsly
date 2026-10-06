@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:31:05.214Z",
+  "updatedAt": "2026-10-06T20:45:55.297Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,96 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/tmi6fm",
+      "title": "אזהרה חריגה ומדאיגה בקבינט: המקום שבו מוקמים \"גדודי טרור צבאיים\"",
+      "summary": "ראש השב\"כ דוד זיני התריע בישיבת הקבינט כי בפזורה הבדואית בנגב קיימות תשתית צבאיות וניסיונות להקים גדודים חמושים בעלי זיקה לארגוני טרור. ברקע הדברים עומדים גל הברחות הנשק האדיר דרך הגבולות ואובדן המשילות באזור (ביטחון)",
+      "link": "https://www.kikar.co.il/security-news/tmi6fm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T20:40:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21535810",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "אתם לא ממש מצליחים להגיע להישגים בעבודה ועובדה זאת לבדה מספיקה כדי לתת לכם הרגשה של חוסר אונים ותסכול הולך וגובר. אתם מחפשים מוצא אבל לא באמת מוכנים להקשיב לעצות הניתנות לכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21535810",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21535811",
+      "title": "מזל שור, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "יום מורכב. אתם מסתבכים במחשבות כמו בתוך קורי עכביש",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21535811",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21535812",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "יום שמתאים במיוחד לנסיעות ולטיולים. למרות העיתוי של תחילת סוף השבוע, מי שיכול לוותר על תוכניות קודמות, מוזמן לצאת למרחבים",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21535812",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21535821",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "בקושי אתם מרגישים את האווירה שסביבכם וחבל. קשה לכם להציב גבולות",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21535821",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21535822",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "יום מסוג כזה שמגיע בעיתוי מושלם הוא באמת אירוע נדיר. את מרבית השעות אתם מבלים עם אנשים אהובים",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21535822",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21535825",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "צפויה תקלה משפחתית שתתחיל בעצם מויכוח עם בני הזוג. מסתבר שכולם רק חיכו להזדמנות להוציא החוצה את כל מה שישב להם בבטן זמן רב",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21535825",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21535848",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "אתם מבלים יום נחמד עם אנשים שאתם ממש אוהבים. מצב הרוח משופר במיוחד ושוב, בפעם המי יודע כמה אתם מגיעים למסקנה שעליכם להקפיד באופן מיוחד על בחירת הסביבה החברתית שלכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21535848",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21535849",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "אתם מוצאים את עצמכם בסערה רגשית בגלל גילוי 'סוד' שנוגע ישירות לאדם קרוב אליכם. התגובה הראשונית שלכם קצת קיצונית ואפילו אפשר לומר נאיבית",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21535849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21535850",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 07.10.2026",
+      "summary": "חבל שאתם מסתירים את הרגשות שלכם. יש מי שרוצה לפייס ולרצות אתכם אבל בעצם המסתוריות שאתם מתעטפים בה, לא כול כך ברור מה באמת אתם רוצים",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21535850",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:30:09.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/border-control-breach-deserters-uman-arrests",
       "title": "הפרצה בנתב\"ג: כך הצליחו עשרות בחורי ישיבה \"עריקים\" לדלג על הביקורת",
       "summary": "188 עריקים נעצרו בנתב\"ג בתקופה האחרונה, 64 מהם עברו את ביקורת הגבולות בדרך החוצה ונתפסו רק בשובם | השיטה: היצמדות פיזית לנוסע אחר (חדשות חרדים)",
@@ -39,6 +129,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-06T20:28:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21568578",
+      "title": "הרס לישראל את חלום היורו והתריס: \"שחררו את אתם יודעים מי\"",
+      "summary": "טוביאס מוי כבש לזכות נורבגיה ומנע מהנבחרת הצעירה את המקום שמוביל לפלייאוף • הוא חגג על ידי סימון X והכריז: \"זה 'פרי'... אתם בטח מבינים מה זה אומר\" • כ-30-40 פרו-פלסטינים הפגינו מחוץ לאצטדיון",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21568578",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T20:21:07.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tmi3ff",
@@ -23349,24 +23448,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-01T20:48:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge",
-      "title": "אחרי המאמר מ-8/10, וה\"עצה\" מנשיא העליון: יו\"ר בל\"ד פורש מהתמודדות לכנסת",
-      "summary": "סאמי אבו שחאדה, שהמאמר שלו ביום שלאחר טבח חמאס כונה \"תמיכה בטרור\" והוביל לפסילתו על ידי ועדת הבחירות, ביקש בפני שופטי העליון להפוך את ההחלטה - אבל לאחר שאלו אמרו לו כי יש רוב לפסילתו, הוא הסיר את מועמדותו",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-01T20:42:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21535501",
-      "title": "אבו שחאדה לא יתמודד: בל\"ד הסירה את מועמדותו לאחר המלצת נשיא העליון",
-      "summary": "בדיון בהרכב של תשעה שופטים אמר הנשיא עמית לאבו שחאדה: \"יש רוב לפסילתך, הסר מועמדותך\" • בן גביר: \"הצעה רחמנית מדי, צריך פסק דין\" • בבל\"ד חששו שפסילה תיצור תקדים של פסילה בגלל ביטוי אחד",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21535501",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T20:39:03.000Z"
     }
   ]
 }
