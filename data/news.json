@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:30:56.897Z",
+  "updatedAt": "2026-10-06T12:45:53.011Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86546",
+      "title": "נשיא סוריה אחמד א-שרע נחת בסעודיה לביקור רשמי",
+      "summary": "נשיא סוריה אחמד א-שרע הגיע לסעודיה לביקור רשמי. במהלך הביקור צפוי א-שרע להיפגש עם יורש העצר הסעודי, מוחמד בן סלמאן.",
+      "link": "https://www.kikar.co.il/scoop-news/86546",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T12:44:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374298",
+      "title": "כמעט עיוור ועם שבר בגולגולת: הפציעה המחרידה של קברניט פליי דובאי נחשפת",
+      "summary": "קפטן סמית מאצ'הר, שנפצע בתקיפת טייס המשנה בטיסת פליי דובאי, סובל משבר דחוס בגולגולת, פגיעה זמנית בראייה וכאבי ראש עזים. מצבו משתפר, אך הרופאים ממשיכים במעקב נוירולוגי",
+      "link": "https://www.maariv.co.il/news/world/article-1374298",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T12:42:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/dragon-submarine-israel-mystery-sail",
+      "title": "צוללת יום הדין של צה\"ל: המפרש הסודי שמבהיל את העולם",
+      "summary": "אח\"י דרקון יצאה לדרך לישראל אחרי 14 שנות בנייה • המפרש החריג והמערכות המסתוריות מעוררות השערות בעולם | הצוללת היקרה והמתקדמת ביותר (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/dragon-submarine-israel-mystery-sail",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-06T12:36:32.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bksh11ifime",
+      "title": "\"תקבל טיל לאו לתוך הבית\": ראש ארגון הפשע מואשם בפרשת השליחים באשדוד",
+      "summary": "אייל נגר ושותפו מאור עזריאל מואשמים שהשתלטו על הענף בעיר באמצעות איומים וגרפו עשרות מיליונים. המשטרה הקימה חברה פיקטיבית ושתלה שליחים מתחזים, שספגו איומים: \"מי שפוגע בנו משלם את זה בדם\"",
+      "link": "https://www.ynet.co.il/news/article/bksh11ifime",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-06T12:32:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21564119",
+      "title": "המטרה החדשה של המשטר באיראן: חיי הלילה של טהרן",
+      "summary": "מפקד משטרת הבירה הודיעה על סגירה מיידית ואטימה של כל בית קפה שינגן מוזיקה חיה לריקודים, יציע סיגריות או יאפשר הבעות תמיכה במחאה נגד המשטר • כמה בתי עסק כבר נסגרו לאחר שצעירות הפרו את חוקי הכפייה הדתית במדינה המחייבים עטיית חיג'אב",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21564119",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T12:28:54.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1374289",
       "title": "ישראל במצב חירום נפשי | אורן הלמן",
       "summary": "ישראל נמצאת במצב חירום נפשי כי הפצועים השקופים נמצאים בכל מקום. זאת המלחמה שאחרי המלחמה, והיא עלולה להימשך הרבה אחרי שהירי נפסק",
@@ -41,6 +86,24 @@
       "pubDate": "2026-10-06T12:27:42.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21564672",
+      "title": "שי עופרי תועדה עם גבר: כך הגיב שניר בורגיל",
+      "summary": "יוצאת \"האח הגדול\" נתפסה בעדשת המצלמה כשהיא לא לבד. זו התגובה של הגרוש שלה לתיעוד",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21564672",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T12:23:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21563006",
+      "title": "שידורי הטלוויזיה הוכיחו שלטרגדיה יש פנים רבות",
+      "summary": "מה זה בעצם זיכרון? איך זוכרים טרגדיות? ככה וככה • בין גבורה לבין אסון; רק תבחרו את הרוח המתאימה עבורכם • מצד אחד, שידורי גבורה וניסים, ומהעבר השני תיאור של אותם האירועים בתור אסונות ומחדלים",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21563006",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T12:23:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86544",
       "title": "שוטר נדרס בלוד במהלך מרדף אחר רוכב אופנוע",
       "summary": "שוטר נפצע באורח קל הבוקר בלוד לאחר שנדרס על ידי רוכב אופנוע שניסה להימלט מבדיקה. האירוע התרחש במהלך פעילות יזומה של שוטרי תחנת לוד בשכונת פרדס שניר. השוטר פונה לטיפול רפואי. כוחות משטרה גדולים של מחוז מרכז מבצעים סריקות ומצוד אחר החשוד שנמלט מהמקום.",
@@ -48,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-06T12:19:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/beauty/article/21563000",
+      "title": "מה יש בקוסמטיקה הקוריאנית שגורם לעור להיראות זוהר כל כך?",
+      "summary": "ריר חלזונות, DNA שמקורו בסלמון, אורז מותסס ושורש ג'ינסנג - בקוסמטיקה הקוריאנית התשובה היא בהחלט כן • הסוד של ה-K-Beauty, הרבה יותר מטרנד חולף, הוא דווקא בגישה: פחות אגרסיביות, יותר לחות, שיקום וחיזוק מחסום העור • 7 רכיבים להכיר - ומה הם באמת עושים לעור",
+      "link": "https://www.israelhayom.co.il/lifestyle/beauty/article/21563000",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T12:17:55.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21523983",
@@ -61,7 +133,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjzvx8mjgx",
       "title": "חברת הפרלמנט האירופי הפילה דגל ישראל בתערוכה לציון 7/10: \"שנאה אנטישמית\"",
-      "summary": "רימה חסן, חברת הפרלמנט האנטי-ישראלית מהשמאל הרדיקלי בצרפת, תועדה מסירה את הדגל שהוצב מחוץ לאירוע לזכר קורבנות הטבח - ודגל האיחוד האירופי נפל גם הוא לרצפה. בלשכתה אישרו: \"גינוי לרצח העם המתמשך שמבצעת ממשלת ישראל\". נשיאת הפרלמנט האירופי: \"מתייחסים לכך בחומרה רבה, בוחנים צעדים\"",
+      "summary": "רימא חסן, חברת הפרלמנט האנטי-ישראלית מהשמאל הרדיקלי בצרפת, תועדה מסירה את הדגל שהוצב מחוץ לאירוע לזכר קורבנות הטבח - ודגל האיחוד האירופי נפל גם הוא לרצפה. בלשכתה אישרו: \"גינוי לרצח העם המתמשך שמבצעת ממשלת ישראל\". נשיאת הפרלמנט האירופי: \"מתייחסים לכך בחומרה רבה, בוחנים צעדים\"",
       "link": "https://www.ynet.co.il/news/article/rjzvx8mjgx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -75,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-06T12:09:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21564522",
+      "title": "גיבור גבעת התחמושת יעקב (יקי) חץ הלך לעולמו",
+      "summary": "מהקרב הקשה בירושלים ועד לעשייה הביטחונית ברפאל: חץ הקדיש את חייו ללחימה, פיתוח והנחלת מורשת, וזכה לאורך השנים בעיטור העוז ובפרס ביטחון ישראל • \"היה בן בית, שותף לדרך וחבר יקר\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21564522",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-06T12:07:06.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21564522",
@@ -429,6 +510,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1374245",
+      "title": "אביה של שורדת השבי מסמן את האיש שהוא רוצה לראות בראשות הממשלה",
+      "summary": "שלוש שנים אחרי טבח 7 באוקטובר, אלי אלבג תוקף את נתניהו ומביע תמיכה באיזנקוט. לצד זאת הוא מספר על לירי, שמשתקמת אך עדיין נושאת תחושת אשמה על חברותיה שנרצחו",
+      "link": "https://www.maariv.co.il/news/politics/article-1374245",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T10:58:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374245",
       "title": "אביה של שורדת השבי במתקפה על נתניהו: \"18 שנה לא ידע מי האויב\"",
       "summary": "שלוש שנים אחרי טבח 7 באוקטובר, אלי אלבג תוקף את נתניהו ומביע תמיכה באיזנקוט. לצד זאת הוא מספר על לירי, שמשתקמת אך עדיין נושאת תחושת אשמה על חברותיה שנרצחו",
       "link": "https://www.maariv.co.il/news/politics/article-1374245",
@@ -561,6 +651,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T10:36:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374231",
+      "title": "אייל ברקוביץ' על הבכיר שמתרסק בסקרים: \"הפכו אותו לסוחר עיראקי בשוק - זה לא עבד\"",
+      "summary": "אטילה שומפלבי שוחח עם אייל ברקוביץ' ואראל סג\"ל והתייחס למצבו הפוליטי של יו\"ר \"עמך ישראל\" ועופר וינטר. אייל ברקוביץ' הציג את תקוותו מגדי איזנקוט",
+      "link": "https://www.maariv.co.il/news/politics/article-1374231",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-06T10:36:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1374231",
@@ -22845,114 +22944,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-01T12:46:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21531649",
-      "title": "כולנו חוטאים בזה: 5 דברים שאסור לחתוך על קרש מעץ - בשום אופן",
-      "summary": "סלמונלה שנכלאת בנקבוביות, פיגמנטים שמכתימים לצמיתות וחומציות שמפרקת את שכבת ההגנה: המשטח האהוב על השיש שומר על הלהבים, אבל טיפול בחומרי גלם בעייתיים עלול להסתיים בהרעלת קיבה ובנזק בלתי הפיך",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21531649",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:45:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21531649",
-      "title": "5 מאכלים שאסור לכם לחתוך על קרש מעץ - אף פעם",
-      "summary": "סלמונלה שנכלאת בנקבוביות, פיגמנטים שמכתימים לצמיתות וחומציות שמפרקת את שכבת ההגנה: המשטח האהוב על השיש שומר על הלהבים, אבל טיפול בחומרי גלם בעייתיים עלול להסתיים בהרעלת קיבה ובנזק בלתי הפיך",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21531649",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:45:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21531838",
-      "title": "מתכנן הפיגוע בהופעת טיילור סוויפט הפסיד",
-      "summary": "הצעיר שנידון ל-15 שנות מאסר טען כי הסדרה על סיבוב ההופעות של סוויפט פגעה בפרטיותו כשבית משפחתו הוצג על המסך. בית המשפט באוסטריה לא השתכנע, ועורכת דינו כבר הודיעה שתערער",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21531838",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:43:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21531779",
-      "title": "דיילת התנצלה וכרעה ברך בפני נוסע - בעוד הוא איים עליה באלימות",
-      "summary": "עימות קשה בטיסת פנים בסין: עגלת שירות פגעה במרפקו של נוסע שישן • למרות ההתנצלות והיעדר פציעה, הטיח הנוסע בפני הדיילת איומים ושפה פוגענית שנמשכו עד לכריעת ברך • החברה בוחנת את המקרה והסערה ברשתות גועשת",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21531779",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:41:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21531611",
-      "title": "אקס הפועל תל אביב במו\"מ עם קבוצה מליגת העל",
-      "summary": "עשרה ימים לפתיחת העונה ומועדונים עדיין מחפשים להתחזק לקראת המחזור הראשון • ג'סטין טילמן, ששיחק בשלוש קדנציות שונות בישראל, עשוי לשוב לארץ הקודש • קלע 15.3 נקודות בעונה שעברה בליגת האלופות של פיב\"א",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21531611",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:39:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21531792",
-      "title": "למרות שלילארד ומוראנט הצטרפו לדני אבדיה - פורטלנד דווקא נחלשה",
-      "summary": "השינויים המשמעותיים והשנויים במחלוקת בקבוצה ממשיכים לעורר הדים, וב-Bleacher Report טוענים כי החמישייה החדשה פחות טובה ממה שהטרייל בליייזרס השיגו בעונה שעברה: \"יותר מדי טבחים במטבח\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21531792",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:39:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21531811",
-      "title": "הדסה בן ארי שנתיים אחרי הגירושים מחנן: ''הולכת לעשות היום דבר רדיקלי''",
-      "summary": "רגע לפני שמחת תורה, שלוש שנים אחרי 7 באוקטובר, הדסה בן ארי שיתפה מהסוכה שלה מחשבות על החג שהפך לטעון במיוחד • מה ה\"דבר הרדיקלי\" שהיא מתכננת לעשות, מה מסתתר מאחורי התמונה שבחרה, ולאן היא שולחת את מי שמחפש כוחות",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21531811",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:38:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21531553",
-      "title": "\"אגודת ישראל כבר לא עם נתניהו, הגוש שלו התפרק\": גדי איזנקוט בראיון",
-      "summary": "יו\"ר מפלגת ישר מפרט איך ימנע מנתניהו להמשיך לכהן גם בלי 61 מנדטים לגוש השינוי • ומספר על ההתראות שקדמו לטבח 7 באוקטובר: \"נתניהו קיבל מסר חד מסינוואר שהולכת להיות רעידת אדמה. מישהו דרש ממנו לפעול והוא התעלם\" • הראיון המלא - מחר",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21531553",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:37:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21531553",
-      "title": "\"אגודת ישראל כבר לא עם נתניהו\": גדי איזנקוט בראיון",
-      "summary": "יו\"ר מפלגת ישר מפרט איך ימנע מנתניהו להמשיך לכהן גם בלי 61 מנדטים לגוש השינוי • ומספר על ההתראות שקדמו לטבח 7 באוקטובר: \"נתניהו קיבל מסר חד מסינוואר שהולכת להיות רעידת אדמה. מישהו דרש ממנו לפעול והוא התעלם\" • הראיון המלא - מחר",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21531553",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:37:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21531685",
-      "title": "ישראל דויטש מ\"ווארט\": \"נותנים לזוגיות להתרסק\"",
-      "summary": "כוכב \"ווארט\" ובעלה של מעיין רות שלום מזכיר את השמועות הראשוניות מכמעט ההתרסקות של המטוס עמוס הישראלים שהיה בדרכו מדובאי לתל אביב כדי להעביר מסר חד משמעי הקשור בבית, במשפחה ובזוגיות",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21531685",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:35:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21524456",
-      "title": "\"כתבתי לעדן: בקרוב את חוזרת. אחרי יומיים החזירו את גופתה\"",
-      "summary": "במשך שנתיים מטלטלות, פתחה משפחת ירושלמי את ביתה ואת ליבה לצוות תעודה - עד לקבלת הבשורה המרה: עדן נרצחה במנהרת חמאס • לרגל הדוקו \"תמצאו אותי, טוב?\" (רשת 13), מדברות האם שירית והאחיות מאי ושני על התקווה שנגוזה ועל ההחלטה להמשיך בחיים, כמו שעדן היתה רוצה",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21524456",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:34:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21531488",
-      "title": "ניקולס קייג' נגד הוליווד: \"ארגון היאבקות\"",
-      "summary": "השחקן זוכה האוסקר יצא נגד ענקיות הקולנוע בכנס מעריצים והאשים אותן בהעדפת פעלולים על פני עלילה • דבריו עוררו סערה ברשת, כשהגולשים ממהרים להזכיר לו את עברו",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21531488",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-01T12:34:05.000Z"
     }
   ]
 }
