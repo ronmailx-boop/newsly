@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T15:46:00.028Z",
+  "updatedAt": "2026-10-07T16:01:12.812Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rj2rdjnizx",
+      "title": "נתניהו לא משתתף בטקסי היום - והליכוד משתלח ב-7/10 בתקשורת ובבכירי הביטחון",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/rj2rdjnizx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-07T15:56:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmjn5t",
+      "title": "הדרמה בטיסה וספר התורה הזעיר; הימים הנעלים בצילו של הגר\"מ שטרנבוך",
+      "summary": "הושענא רבה ושמחת תורה בצל קודשו של הפוסק הגאון רבי משה שטרנבוך עמדו בסימן התעלות עצומה, לצד רגעים מרטיטים ומרגשים שחוו ההמונים שזכו לשהות במחיצתו | תיעוד וסיקור ענק (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmjn5t",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T15:53:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tmjnqj",
+      "title": "פייגלין נגד הציבור החרדי: ״צריך להפסיק לממן את תלמידי הישיבות״",
+      "summary": "יו\"ר זהות קורא להפסיק את המימון ללומדי תורה • גורמים חרדיים: \"נורה אדומה לכל מי שעולם התורה יקר לו. הציבור החרדי צריך לשאול מי באמת עמד לצדו, מי פעל למענו ומי מבקש את אמונו\" (חרדים)",
+      "link": "https://www.kikar.co.il/israel-news/tmjnqj",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T15:50:59.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1374720",
       "title": "כשנסראללה כבר לא כאן: איראן בצעד נואש חדש להציל את החיזבאללה בלבנון",
@@ -84,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-07T15:33:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1zxyy4jzx",
+      "title": "ה\"יזכור\" המצמרר של אלקנה | ישיר מהטקס בנובה",
+      "summary": "הטקס, בהשתתפות משפחות שכולות, ניצולי הטבח ושורדי שבי, נפתח בדקת דומייה. הרצוג נאם: \"במקום שבו אתם עומדים לא יכול לעמוד איש. השבר שאתם נושאים על לוח ליבכם לא יתאחה לעולם\"",
+      "link": "https://www.ynet.co.il/news/article/s1zxyy4jzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-07T15:32:35.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/s1zxyy4jzx",
@@ -237,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-07T14:49:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374679",
+      "title": "גדי איזנקוט על הירש גולדברג פולין ז\"ל: \"היה אפשר להחזיר אותו בחיים\" | צפו",
+      "summary": "יו\"ר מפלגת \"ישר\" ביקר במיגונית המוות סמוך לרעים עם הוריו של ענר שפירא ז\"ל, התייחס להירש גולדברג-פולין ז\"ל ואמר כי ניתן היה להשיב חלק מהחטופים בחיים",
+      "link": "https://www.maariv.co.il/news/israel/article-1374679",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T14:48:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1374679",
@@ -673,7 +718,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/haredim/yaakov-asher-beit-shemesh-housing-tour",
       "title": "\"בית שמש עוקפת את בני ברק\": יעקב אשר מסתער על מצוקת הדיור החרדית | צפו",
-      "summary": "יו\"ר יהדות התורה סייר באתרי הבנייה החדשים בעיר בבית שמש • תוכנית רמת בית שמש ה' כוללת כ-5,000 יחידות דיור | יו\"ר ועדת התכנון והבנייה המקומי שמעון גולדברג, הציג לח\"כ אשר את הפתרונות שיש למצוקת הדיור, כאשר ראש העיר גרינברג החרה - החזיק אחריו | תיעוד וסיקור (חדשות חרדים)",
+      "summary": "יו\"ר יהדות התורה סייר באתרי הבנייה החדשים בעיר בבית שמש יחד עם ראש העיר שמואל גרינברג • בחן את תוכנית רמת בית שמש ה' הכוללת כ-5,000 יחידות דיור ואת האופציות העתידיות | יו\"ר ועדת התכנון והבנייה המקומי שמעון גולדברג, הציג לח\"כ אשר את הפתרונות שיש למצוקת הדיור, כאשר ראש העיר גרינברג החרה - החזיק אחריו | תיעוד וסיקור (חדשות חרדים)",
       "link": "https://www.kikar.co.il/haredim/yaakov-asher-beit-shemesh-housing-tour",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -25617,42 +25662,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-02T16:08:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21539010",
-      "title": "אימה במלון היוקרה: תיירת גילתה אצבעות מבצבצות מתחת למיטה",
-      "summary": "אישה שהגיעה בסוף השבוע לחדרה במלון בברנו שבצ'כיה גילתה חשוד שפרץ לחדרה • בזמן שיצאה להזעיק עזרה, החשוד זחל החוצה ונמלט מהמקום • בעוד הנהלת המלון טוענת: האורח הקודם השאיר את הדלת פתוחה, לא היה כשל מצדנו • משטרת צ'כיה אישרה את הפרטים אך הודיעה כי החליטה שלא להמשיך בחקירה",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21539010",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T16:01:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkppyn69zx",
-      "title": "הארגון שיחקור את הטייס העומאני, ושאלת המעורבות של ישראל: \"תוכל לתשאל אותו\"",
-      "summary": "הגוף הביטחוני האמירתי שמקביל לשב\"כ ינהל את חקירת טייס המשנה שניסה לרסק את טיסת פליי דובאי. חרף היחסים הקרובים בין הצדדים, באבו דאבי ינסו להצניע מעורבות של גורמים ישראלים, שלפי רויטרס \"צפויים לתשאל את החשוד\". זה העונש שהוא עשוי לקבל אם יורשע - והשיקולים המדיניים שצפויים להשפיע",
-      "link": "https://www.ynet.co.il/news/article/rkppyn69zx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-02T15:56:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21539012",
-      "title": "אתיופיה: כוחות הנאמנים לממשלה הכריזו כי הם קרובים לניצחון על המורדים",
-      "summary": "ארגון ה-TPF טוען כי אנשיו קרובים לכיבוש בירת חבל תיגראי מקלה • לטענות לא נתקבל אימות בשל האיפול התקשורתי על אזורי הלחימה",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21539012",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T15:51:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21538998",
-      "title": "לא וירוסים ולא אפליקציות זדוניות: המלכודת הנסתרת בטלפון שלכם",
-      "summary": "הגדרה אחת נסתרת בדפדפן חושפת את המכשיר שלכם למתקפות סייבר • זו ההגדרה שחייבים לכבות מיד כדי להגן על הטלפון שלכם • כך תעשו זאת בשניות ותצילו את המידע שלכם",
-      "link": "https://www.israelhayom.co.il/tech/how-to/article/21538998",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T15:50:19.000Z"
     }
   ]
 }
