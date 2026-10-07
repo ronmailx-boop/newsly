@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:21:15.861Z",
+  "updatedAt": "2026-10-07T09:31:02.637Z",
   "sources": [
     {
       "key": "ynet",
@@ -48,6 +48,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-07T10:51:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/bar-ilan-lecturer-terror-plot-indictment-1",
+      "title": "הותר לפרסום: פרופסור שחר נבו הוא המרצה שחשוד בתכנון טבח המוני בערבים",
+      "summary": "פרופסור שחר נבו הוא המרצה למתמטיקה באוניברסיטת בר אילן שהוגש נגדו כתב אישום חמור בגין תכנון פיגועים נגד מאות אזרחים ערבים בישראל | נבו תכנן 12 חוליות טרור יהודיות עם 72 מחבלים • האוניברסיטה הסירה את תמונתו מאתר הסגל (חוק ומשפט)",
+      "link": "https://www.kikar.co.il/law-and-order/bar-ilan-lecturer-terror-plot-indictment-1",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T09:25:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmj5xk",
+      "title": "\"אנחנו מאבדים אותו\" - ההכשרה לאנשי המקצוע שנכנסים בול ברגע הזה",
+      "summary": "הם מגיעים כשהשיחות כבר הפכו לעימותים והקשר עם הילד הולך ונעלם. הכשרה חדשה מבקשת לתת לאנשי המקצוע כלים לרגעים שבהם עצה רגילה כבר לא מספיקה",
+      "link": "https://www.kikar.co.il/haredim-news/tmj5xk",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T09:21:37.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1374567",
+      "title": "תכנן לרצוח מאות: שחר נבו הוא המרצה למתמטיקה מבר אילן",
+      "summary": "שחר נבו מפתח תקווה הוא המרצה מבר אילן שתכנן במשך שנים לרצוח מאות ערבים ברחבי הארץ. הוא תכנן לגייס 72 מפגעי טרור, לגייס סיוע מצה\"ל, ולפתוח בטבח בעשרות ערים ויישובים. \"לא לרחם על הנשים והילדים\", כתב",
+      "link": "https://www.maariv.co.il/news/law/article-1374567",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T09:21:34.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1374564",
@@ -501,6 +528,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1374540",
+      "title": "מחפשים את הפער בהבנה: אמ\"ן משנה את שיטת הפעולה",
+      "summary": "ארגוני הביון הישראליים נותרו יהירים ותרבות ה\"סמוך\" השתרשה בהם, אבל צה\"ל החליט לשנות את הייעוד והערכים של אמ\"ן, ובהם עדכון תפיסת ההתרעה, מיצוב אתגר ההפתעה ואי-הוודאות - וגם המעבר לבסיס אחוד בנגב",
+      "link": "https://www.maariv.co.il/news/military/article-1374540",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T08:24:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1374540",
       "title": "למדו מהכשלים? צה\"ל חושף חלק מהשינוי המהותי של אגף המודיעין",
       "summary": "ארגוני הביון הישראליים נותרו יהירים ותרבות ה\"סמוך\" השתרשה בהם, אבל צה\"ל החליט לשנות את הייעוד והערכים של אמ\"ן, ובהם עדכון תפיסת ההתרעה, מיצוב אתגר ההפתעה ואי-הוודאות - וגם המעבר לבסיס אחוד בנגב",
       "link": "https://www.maariv.co.il/news/military/article-1374540",
@@ -552,6 +588,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-07T08:13:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374521",
+      "title": "אחרי שבוע זה נחשף: הטייס העומאני והקשר לבריטניה",
+      "summary": "הטייס העומאני החשוד בניסיון לחטוף מטוס \"פליידובאי\" ולהתרסק בתל אביב הוכשר כטייס בבריטניה. לפי \"הטלגרף\", בעבר אף הורחק מאימוני טיסה בשל חשש מדעותיו הקיצוניות",
+      "link": "https://www.maariv.co.il/news/world/article-1374521",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T08:11:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1374521",
@@ -24312,33 +24357,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-02T09:35:58.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/r1wehgtczx",
-      "title": "שוטרים שברו אף ויד בעימות עם מתנחלים - ונדהמו: \"בן גביר הגיע והתעלם\"",
-      "summary": "כוח של מחוז ש\"י הגיע למצפה יריחו כדי לעצור חשוד, ואז החלו העימותים: 3 שוטרים הותקפו וצמיגים של ניידת נחתכו בסכין. לפי עדות קצין משטרה שדיבר עם ynet, בן גביר, שהגיע למקום, התנהל באופן כוחני: \"הלך כאילו הוא בעל הבית\". השר לביטחון לאומי טוען שהגיע למקום כדי להשתתף באזכרה, ומכחיש את הטענות",
-      "link": "https://www.ynet.co.il/news/elections2026/article/r1wehgtczx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-02T09:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21537170",
-      "title": "בנט במפגש בבני ברק: \"אפס תקציב ללא משרתים הוא למען החברה החרדית\"",
-      "summary": "יו\"ר מפלגת \"ביחד\" סיפר בפוסט ברשת X על מפגש שערך עם צעירים חרדים במהלך החג • לדבריו, \"אם 1.5 מיליון חרדים ימשיכו להתחנך נגד צה\"ל, נגד הדמוקרטיה וללא אנגלית ומתמטיקה - צה\"ל והכלכלה יקרסו\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21537170",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T09:29:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21536876",
-      "title": "לא במים ולא בסבון: הדרך הנכונה להיפטר מריח רע בפח האשפה",
-      "summary": "שארית קטנה של פסולת שלא סולקה בזמן יכולה להדיף ניחוח איום, שמחניק את כל החדר • אבל במקום לקרצף עם מים וסבון, לייבש ולחכות - יש דרכים אחרות, קלות ופשוטות, לסלק את הריח • שיטות לנקות את פח האשפה בלי מאמץ: המדריך המלא",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21536876",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T09:27:41.000Z"
     }
   ]
 }
