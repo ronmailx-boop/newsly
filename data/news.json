@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:30:44.944Z",
+  "updatedAt": "2026-10-07T22:45:52.515Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21577170",
+      "title": "החורף יחכה: הטמפרטורות עולות - ומערכת גשם עדיין לא נראית באופק",
+      "summary": "אחרי היממה הקרירה והמעוננת, סוף השבוע צפוי להיות נוח עד חם יחסית בשעות היום, עם לילות קרירים בהרים • לאורך החוף ינשבו רוחות צפוניות ערות והים יהיה גלי עד מסוכן לרחצה • מזג האוויר היציב צפוי להימשך לפחות עד אמצע השבוע הבא",
+      "link": "https://www.israelhayom.co.il/weather/article/21577170",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T22:20:04.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21577139",
       "title": "התרעת פיקוד העורף בקמפיין פוליטי: וינטר תוקף את נתניהו וכ״ץ",
@@ -84,6 +93,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-07T21:02:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14920395",
+      "title": "מגילת העצמאות כבסיס לחוקה? התוכניות והיוזמות של המפלגות בנוגע לאופי המדינה",
+      "summary": "אחרי 78 שנים של ויכוחים על התנגשות בין יהדות לדמוקרטיה, בכנסת ה-26 לא ניתן יהיה לברוח משאלות כמו האם יש תוקף משפטי מחייב למגילת העצמאות, וכיצד יש לתקן את חוק הלאום. מה התוכנית של המפלגות בנושא הבוער: כתבה אחרונה בסדרה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14920395",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-07T21:00:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkaeuqvsze",
@@ -26382,15 +26400,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-02T22:57:03.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1wunda9me",
-      "title": "יותר מ-1.7 מיליון הועברו לחמאס: אזרחי ארה\"ב גייסו כספים \"למשפחות בעזה\"",
-      "summary": "ארבעה כתבי אישום הוגשו בארה\"ב נגד מחבל חמאס סלים אלזאק מעזה ושלושה אמריקנים, בהם זוג אחים מלואיזיאנה, שגייסו במהלך המלחמה כספים לארגון הטרור. הם טענו שהכספים מועברים לאזרחים פצועים ברצועה ונמנעו במכוון מפרסום \"Free Palestine\" ברשתות החברתיות",
-      "link": "https://www.ynet.co.il/news/article/r1wunda9me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-02T22:45:20.000Z"
     }
   ]
 }
