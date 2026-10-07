@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:31:07.540Z",
+  "updatedAt": "2026-10-07T11:45:54.510Z",
   "sources": [
     {
       "key": "ynet",
@@ -50,6 +50,51 @@
       "pubDate": "2026-10-07T13:50:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1374634",
+      "title": "\"רצח אותה רק משום שחש דחייה\": מאסר עולם לרוצח ג'ייסון בלייז עודה",
+      "summary": "בית המשפט גזר מאסר עולם ופיצוי מקסימלי על ג'ייסון בלייז עודה, שהורשע ברצח ילנה גרנברג לאחר שסירבה לקשר רומנטי | השופטים תיארו רצח מתוכנן, אכזרי וחסר רחמים שבוצע באמצעות סכין שהוכנה מראש",
+      "link": "https://www.maariv.co.il/news/law/article-1374634",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T11:43:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374632",
+      "title": "נמאס לה: נשיאת מקסיקו מאבדת סבלנות מול ממשל טראמפ",
+      "summary": "בעיני נשיאת מקסיקו, קלאודיה שיינבאום, בכירי הביטחון שלה הרחיקו לכת בשיתוף הפעולה ההדוק עם רשויות האכיפה האמריקאיות, כשהניחו כי לארצות הברית יש ראיות מוצקות הקושרות את הבכירים לשעבר לקרטלי הסמים",
+      "link": "https://www.maariv.co.il/news/world/article-1374632",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T11:36:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86677",
+      "title": "חיכוך בבזאריה: מחבל נוטרל, אזרח ישראלי נפצע מיידוי אבנים",
+      "summary": "כוחות צה\"ל ומג\"ב פעלו היום (ד') במרחב בזאריה שבחטיבת שומרון בעקבות יידוי אבנים לעבר אזרח ישראלי שנפצע. במהלך החיכוך התקהלו עשרות פלסטינים ואזרחים ישראלים, ובמהלך פינוי הפצוע איש ביטחון ואזרח ישראלי נוסף ירו במקום. מפקד לוחם זיהה מחבל שרץ לעברו כשהוא נושא חפץ חשוד ונטרל אותו. כוחות הביטחון עצרו מספר חשודים ביידוי האבנים. האירוע מתוחקר.",
+      "link": "https://www.kikar.co.il/scoop-news/86677",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T11:36:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/arab-news/us-lifts-restrictions-israel-iraq-strikes",
+      "title": "אור ירוק לתקיפה: ארה\"ב הסירה את הבלמים בעיראק",
+      "summary": "בעקבות השלמת נסיגת הכוחות האמריקאיים, דיווחים זרים חושפים כי וושינגטון העניקה לישראל חופש פעולה אווירי נרחב. המהלך פותח את הדרך לתקיפת המיליציות השיעיות ולריסוק מסדרון ההברחות האיראני לסוריה (תקיפה והגנה)",
+      "link": "https://www.kikar.co.il/arab-news/us-lifts-restrictions-israel-iraq-strikes",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T11:35:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tmja0o",
+      "title": "\"עד שיבלו שפתותיכם\"; ההתלהבות שלא מעלמא הדין בהקפות שניות בפרמישלאן",
+      "summary": "ימים נעלים מאוד עברו על כלל חסידי פרמישלאן בצל קודשו של האדמו\"ר במרכז החסידות בבני ברק | אולם, רגע השיא נרשם בצאת החג, לאחר הבדלה, כאשר האדמו\"ר פצח בשירת 'והריקותי לכם ברכה', במשך שעה ארוכה, תוך שהוא מעודד את החסידים בעוז ובשמחה | צפו בתיעוד המרהיב (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tmja0o",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-07T11:35:23.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/modiin-illit-morning-prayer-mayor-office-protest",
       "title": "מודיעין עילית: האברכים התפללו שחרית עם טלית ותפילין בלשכת ראש העיר",
       "summary": "עשרות אברכים הגיעו הבוקר לבניין העירייה • קיימו תפילת שחרית בלשכת ראש העיר גוטרמן במספר מנינים | המאבק על בית הכנסת השכונתי (כיכר מודיעין עילית)",
@@ -57,6 +102,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-07T11:29:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21570458",
+      "title": "ה-AI פיצח את הבעיה הכי קשה בעולם - והמתמטיקאים זועמים",
+      "summary": "OpenAI הציפה את הרשת במאות הוכחות למשוואות ה-Millennium Prize ובעיות קצה נוספות, וגררה גל חדש של ביקורת חריפה מצד מתמטיקאים מובילים. מענקיות הטכנולוגיה שמשתמשות בפריצות דרך מדעיות ככלי שיווק ועד לחששות עמוקים מפני דריסת האקדמיה – כך הפך המדע העתיק ביותר לשדה קרב מסחרי.",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21570458",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:26:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21573120",
+      "title": "החיים החדשים של עומר ונקרט: \"יש בתחום הזה המון הישגיות\"",
+      "summary": "שלוש שנים אחרי שנחטף מהנובה ויותר משנה וחצי אחרי ששב לישראל, פדוי השבי בונה את חייו מחדש • על הפרק: זוגיות, מעבר לת\"א וקריירה חדשה בנדל\"ן עם קבוצת פאלמו • \"הם לא ראו בי 'פדוי שבי', אלא את האיכויות שלי\"",
+      "link": "https://www.israelhayom.co.il/business/article/21573120",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:25:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21573022",
+      "title": "ביטול אחרי ביטול: האמירתים טוענים - \"אין יותר ישראלים תקועים בדובאי\"",
+      "summary": "למרות האופטימיות אמש, טיסות החילוץ שנותרו עדיין לא קיבלו אישור • לפי גורם המעורה בפרטים, באמירויות טוענים כי אין עוד ישראלים שזקוקים לחילוץ ולכן אין הצדקה להמשך המתווה • אלא שבמלונות נמצאים ישראלים שמחכים לטיסה הביתה • ישראלי שתקוע בדובאי מספר \"כבר ביטלו לי שתי טיסות, יש פה משפחות עם ילדים שממתינים גם, אנחנו פשוט לא יודעים למה לצפות\"",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21573022",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:24:48.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1374620",
@@ -113,6 +185,24 @@
       "pubDate": "2026-10-07T11:20:31.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21573011",
+      "title": "כדי לעצור את מחיקת העדויות: המיגוניות בעוטף הוכרזו כאתר מורשת לאומי",
+      "summary": "בעקבות פניית עשרות משפחות שכולות ושורדי שבי, שר המורשת עמיחי אליהו הפעיל סעיף בחוק העתיקות שמעניק הגנה למיגוניות שבהן התחוללו קרבות ב-7 באוקטובר • הצעד נועד לברום ניסיונות של רשויות מקומיות \"לנקות את השטח\" • מתוף ההחלטה חל איסור על ביצוע כל שינוי פיזי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21573011",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:20:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21573046",
+      "title": "\"אנחנו ב-7 באוקטובר\": מפגין בפריז תקף אישה עם דגל ישראל",
+      "summary": "התיעוד משדרות סן-ז'רמן מציג רעול פנים מזנק על המפגינה וחוטף מידיה את הדגל לעיני המצלמות, בזמן שחבר פרלמנט מהשמאל הקיצוני מנסה לבלום אותו • המותקפת עקצה את המוחים, תהתה אם מדובר בתלמידים והשוותה את דרישותיהם לארגון טרור",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21573046",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:19:49.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tmjadu",
       "title": "לפידי אש, נענועים בכותל והפרידה מהסוכה; רגעי השיא בחצר הקודש פינסק קרלין",
       "summary": "תיעוד ענק ומרהיב מחג הסוכות והושענא רבה בצל קודשו של האדמו\"ר מפינסק קרלין | החל מהביקור הנרגש במעונו של הגה\"צ רבי יעקב מאיר שכטר, נענועים בכותל, שמחת בית השואבה, והפרידה מהסוכה בערב שמחת תורה (חסידים)",
@@ -123,12 +213,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21572749",
+      "title": "מה באמת עושים עם המגירה שמתחת לתנור?",
+      "summary": "היא נמצאת כמעט בכל מטבח, אבל לא בטוח שאנחנו באמת יודעים למה היא נועדה • מומחים מסבירים מה מסתתר מאחורי המגירה המסתורית הזאת ומה חשוב לבדוק לפני שמשתמשים בה",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21572749",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T11:14:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21572749",
       "title": "למה באמת נועדה המגירה שמתחת לתנור?",
       "summary": "היא נמצאת כמעט בכל מטבח, אבל לא בטוח שאנחנו באמת יודעים למה היא נועדה • מומחים מסבירים מה מסתתר מאחורי המגירה המסתורית הזאת ומה חשוב לבדוק לפני שמשתמשים בה",
       "link": "https://www.israelhayom.co.il/lifestyle/design/article/21572749",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-07T11:14:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1374618",
+      "title": "סינוואר ידע מה צפוי אחרי 7 באוקטובר - המחקר שחושף למה יצא למתקפה",
+      "summary": "המרכיב הדתי בתפיסת חמאס בדרך למתקפת ה-7 באוקטובר 2023: מחקר של מכון עמית למחקר טרור ומודיעין עולה כי היה למרכיב זה חלק חשוב בהחלטת חמאס לצאת למתקפה",
+      "link": "https://www.maariv.co.il/news/military/article-1374618",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T11:12:18.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1374618",
@@ -768,6 +876,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-07T09:19:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374565",
+      "title": "הפאדיחה של שליחת האו\"ם המיוחדת לשטחים הפלסטיניים",
+      "summary": "פרנצ'סקה אלבנזה התבלבלה בפירוש המילה \"מוּזֶלְמָן\" (Muselmann), מילה שתיארה את אסירי מחנות הריכוז וטענה כי הם \"מוסלמים\". בעקבות הטעות היא חוטפת אש מכל רחבי העולם",
+      "link": "https://www.maariv.co.il/news/politics/article-1374565",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T09:19:32.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1374565",
@@ -1920,15 +2037,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-07T06:35:55.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryoalvmimg",
-      "title": "לעולם לא עוד",
-      "summary": "הדרך שבה ניתן לשכוח את 7 באוקטובר היא לחזור ליום שלפניו. להיות שוב מקוטבים כפי שהיינו. להיות שוב ב-6 באוקטובר",
-      "link": "https://www.ynet.co.il/news/article/ryoalvmimg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T06:35:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21570070",
@@ -24672,15 +24780,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-02T11:51:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21537910",
-      "title": "לקח לה כמה ימים לספר: נוי מ\"חתונמי\" מאורסת",
-      "summary": "תשעה חודשים אחרי שהכירה את אופיר, נוי איטח מהעונה האחרונה של \"חתונה ממבט ראשון\" קיבלה הצעת נישואין, ומסבירה מה הסיבה ששמרה את הבשורה לעצמה כמה ימים",
-      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21537910",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T11:44:20.000Z"
     }
   ]
 }
