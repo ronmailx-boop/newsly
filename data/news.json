@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:30:50.107Z",
+  "updatedAt": "2026-10-07T20:46:16.051Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21576924",
+      "title": "שער ברנדנבורג בכחול-לבן - במקביל: הפגנה עם גרטה ותמונת חמינאי",
+      "summary": "שער ברנדנבורג הואר בצבעי הדגל, ובתפילת זיכרון קרא השגריר פרושאור להקים חומת אש נגד אנטישמיות \"מימין ומשמאל\" • המשטרה פיזרה הפגנה פרו-פלסטינית בהשתתפות גרטה תונברג, שבה הונפו שלטי תמיכה בחמאס ודיוקן של חמינאי",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21576924",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T20:22:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21576674",
+      "title": "הכסף שלכם זולג מהבנק בגלל הגדרה אחת בטלפון - בדקו אותה מיד",
+      "summary": "חיובים חודשיים שוטפים מחרבים למיליוני משתמשים את המסגרת • ערוץ הטכנולוגיה ANDROID MAN חשף כיצד מנויים פרימיום ישנים ושכוחים ממשיכים לגבות כספים מדי חודש",
+      "link": "https://www.israelhayom.co.il/tech/how-to/article/21576674",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-07T20:17:23.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1374803",
       "title": "118 דולר לחבית, 4.37 דולר לגלון - והדרישה המפתיעה של טראמפ",
       "summary": "לפי פרסום ב-\"האטלנטיק\", הבית הלבן ביקש לגבש אפשרויות לתקיפה באיראן עוד לפני בחירות האמצע. ברקע: כ-50 אלף חיילים אמריקאים באזור, נפט סביב 100 דולר לחבית ודלק ב-4.37 דולר לגלון",
@@ -57,6 +75,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-07T20:12:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1374798",
+      "title": "בזמן שדוד זיני שוקל להחזיר את המעצרים המנהליים - אחותו הגיבה עם דעה נחרצת",
+      "summary": "יסכה חיימוב, אחותו של ראש השב\"כ ומועמדת מפלגת נועם לכנסת, יצאה נגד היחידה היהודית דווקא אחרי שדוד זיני הורה לתגבר את הפעילות נגד הגרעין הקשה של הטרור היהודי באיו\"ש",
+      "link": "https://www.maariv.co.il/news/military/article-1374798",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T20:08:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1374798",
@@ -102,6 +129,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-07T19:53:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374782",
+      "title": "כשהדיקנית היהודייה התייצבה במיצגי ה-7.10: הפגנה פרו-פלסטינית סוערת מחוץ לאוניברסיטת קולומביה",
+      "summary": "לאחר חודשים של שקט, \"סטודנטים למען הצדק\" ערכו הפגנה פרו פלסטינית מחוץ לאוניברסיטת קולומביה - במהלך השבעה באוקטובר. זאת במקביל למיצגים שנערכו בקמפוס לציון ה-7.10, בהם השתתפה גם הדיקנית היהודייה החדשה",
+      "link": "https://www.maariv.co.il/news/world/article-1374782",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-07T19:49:22.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1374782",
@@ -26202,15 +26238,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-02T20:54:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21540237",
-      "title": "אימה בשידור חי: ג'יפ דהר ופגע בכתבת במקסיקו באמצע דיווח | תיעוד",
-      "summary": "צוות תקשורת של ערוץ טלוויזיה מקומי נפגעו מרכב שאיבד שליטה בזמן שדיווחו מזירת מפולת • השידור נקטע בבת אחת לאחר שהשניים נפגעו בפתאומיות על ידי הרכב • הם פונו לבית החולים ומצבם מוגדר יציב, הנהג הפוגע בן ה-19 נעצר",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21540237",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-02T20:40:53.000Z"
     }
   ]
 }
