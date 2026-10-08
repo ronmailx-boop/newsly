@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:45:54.083Z",
+  "updatedAt": "2026-10-08T13:00:59.182Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/tml8y2",
+      "title": "היכונו לחסימות: החלה הפגנת הפלג הירושלמי באזור בני ברק וכביש 4",
+      "summary": "בעקבות מעצרם של שני תלמידי ישיבה, הפלג הירושלמי המרכזי בראשות הגאון רבי עזריאל אויערבך הודיע אמש על הפגנות שיתקיימו היום במספר מוקדים | לפי ההערכות, אלו המוקדים שייחסמו (חדשות, חרדים)",
+      "link": "https://www.kikar.co.il/haredim/tml8y2",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T12:59:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/us-visa-waiver-emergency-delegation",
+      "title": "סכנה לפטור מוויזה: משלחת חירום אמריקנית בדרך לישראל",
+      "summary": "בעקבות ניסיון הפיגוע הדרמטי בטיסת פליי דובאי ותחקיר המחדל הביטחוני החמור שחשף כניסת אלפי אנשי צוות זרים ללא בדיקות רקע מספקות, משלחת רשמית מוושינגטון צפויה לנחות בישראל לבחינה דחופה ומדוקדקת של עמידת המדינה בכל תנאי תוכנית הפטור מוויזה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/us-visa-waiver-emergency-delegation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T12:58:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375049",
+      "title": "איראן הודתה לאמירויות על שחרור עצורים - ואז ישראל נכנסה לתמונה",
+      "summary": "שעות לאחר שמשרד החוץ האיראני הודה לאמירויות על שחרור אזרחים מהכלא, פרסם אתר \"תאבנאכ\" טענה דרמטית: ארבעה עצורים אחרים הועברו לידי ישראל. שמותיהם לא נחשפו ולא ניתן אישור רשמי לדיווח",
+      "link": "https://www.maariv.co.il/news/world/article-1375049",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T12:47:23.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjuzmwrigl",
       "title": "ראש העיר דימונה על אזהרת ראש השב\"כ: \"יש פה פצצה מתקתקת, אמיתית\"",
@@ -124,7 +151,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hy00ulwhsmg",
       "title": "הפקקים הקדימו: צפו במפת העומסים לקראת הפגנות החרדים",
-      "summary": "החרדים מתכננים להפגין בגוש דן ובירושלים בעקבות חידוש מעצרי העריקים. עומסים כבדים מורגשים בדרך לבירה ובאזור המרכז",
+      "summary": "החרדים מתכננים להפגין בגוש דן ובירושלים בעקבות חידוש מעצרי העריקים. עומסים כבדים מורגשים בדרך לבירה ובאזור המרכז, כביש 4 נחסם לדרום באזור בני ברק ופקק עצום נוצר בשני הכיוונים",
       "link": "https://www.ynet.co.il/news/article/hy00ulwhsmg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -426,6 +453,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T11:27:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/lake-sevan-ancient-chariots-discovery",
+      "title": "שאטלים לגן עדן: עיר המתים המסתורית שנחשפה במקרה",
+      "summary": "כשהשלטון הסובייטי השתלט על ארמניה, הוא עשה את מה שידע לעשות היטב – להתעלל במשאבי הטבע המקומיים | ימת סוואן שמרה על הסוד במשך אלפי שנים, וככל שמפלס המים ירד נחשף עולם עתיק בן 3,500 שנה | זה הזמן לצלול לאחת מתגליות הארכאולוגיה המפתיעות, שהתגלתה כמעט לגמרי במקרה – מעיר עתיקה ועד מרכבות שנועדו למסע אל העולם הבא (מגזין כיכר)",
+      "link": "https://www.kikar.co.il/world-news/lake-sevan-ancient-chariots-discovery",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T11:27:02.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/lake-sevan-ancient-chariots-discovery",
@@ -28794,87 +28830,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T13:05:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373131",
-      "title": "המלחמה מתקרבת לגבולות נאט\"ו: נמל התעופה בווילנה נסגר, מטוסי קרב הוזנקו",
-      "summary": "חשש באירופה מהתרחבות המלחמה: נמל התעופה בווילנה נסגר זמנית לאחר זיהוי רחפן חשוד שהגיע לכאורה מכיוון בלארוס, ומטוסי קרב של נאט\"ו הוזנקו. במקביל נמשכת ההסלמה בתקיפות בין רוסיה לאוקראינה",
-      "link": "https://www.maariv.co.il/news/world/article-1373131",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-03T13:00:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373120",
-      "title": "בן סלמאן מאבד את השליטה? בירת סעודיה שוב הופצצה",
-      "summary": "סעודיה הפציצה בבירת תימן, לאחר המתקפות על ריאד. במיליציה האראנית בתימן טוענים כי ישנם מספר הרוגים ופצועים",
-      "link": "https://www.maariv.co.il/news/world/article-1373120",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-03T12:59:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373120",
-      "title": "סוער במזרח התיכון: סעודיה והחות'ים בחילופי אש בלתי פוסקים",
-      "summary": "סעודיה הפציצה בבירת תימן, לאחר המתקפות על ריאד. במיליציה האראנית בתימן טוענים כי ישנם מספר הרוגים ופצועים",
-      "link": "https://www.maariv.co.il/news/world/article-1373120",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-03T12:59:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "title": "\"גיליתי את הביטוי 'פחד מוות'\": אמילי דמארי חושפת תיעוד משבי חמאס",
-      "summary": "קשה לצפייה: שלוש שנים לאחר שנחטפה מביתה, החטופה ששוחררה משתפת פרטים על ימי השבי • בפוסט שפרסמה תיארה את המראות בבית החולים בעזה, פצע הירי שדימם חודשים ארוכים וחשפה מי היו החטופים שעזרו לה לשרוד את הרגעים הקשים ביותר",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:51:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "title": "הפוסט של אמילי דמארי - והתיעודים הקשים שפרסמה משבי חמאס",
-      "summary": "קשה לצפייה: שלוש שנים לאחר שנחטפה מביתה, החטופה ששוחררה משתפת פרטים על ימי השבי • בפוסט שפרסמה תיארה את המראות בבית החולים בעזה, פצע הירי שדימם חודשים ארוכים וחשפה מי היו החטופים שעזרו לה לשרוד את הרגעים הקשים ביותר",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:51:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "title": "\"גיליתי מחדש את הביטוי 'פחד מוות'\": אמילי דמארי חושפת תמונות מהשבי",
-      "summary": "שלוש שנים לאחר שנחטפה מביתה, החטופה ששוחררה משתפת פרטים על ימי השבי • בפוסט שפרסמה תיארה את המראות בבית החולים בעזה, פצע הירי שדימם חודשים ארוכים וחשפה מי היו החטופים שעזרו לה לשרוד את הרגעים הקשים ביותר",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21541596",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:51:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "title": "כשהוא עם מכבי תל אביב: הפייק שטען שים מדר היה במטוס פליי דובאי",
-      "summary": "סרטון ישן שבו נראה רכז הצהובים חוגג עם רמקול במטוס הופץ ברשתות והפך לוויראלי בטענה שמדובר בתיעוד מניסיון הפיגוע בטיסה • אלא שבדיקת עובדות חושפת מאיפה הוא באמת הגיע - ולמה אין לו שום קשר לתקרית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:50:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "title": "בזמן שהוא עם מכבי תל אביב: הפייק שחיבר את ים מדר לפליי דובאי",
-      "summary": "סרטון ישן שבו נראה רכז הצהובים חוגג עם רמקול במטוס הופץ ברשתות והפך לוויראלי בטענה שמדובר בתיעוד מניסיון הפיגוע בטיסה • אלא שבדיקת עובדות חושפת מאיפה הוא באמת הגיע - ולמה אין לו שום קשר לתקרית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:50:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "title": "כשהוא עם מכבי תל אביב: הפייק שחיבר את ים מדר לפליי דובאי",
-      "summary": "סרטון ישן שבו נראה רכז הצהובים חוגג עם רמקול במטוס הופץ ברשתות והפך לוויראלי בטענה שמדובר בתיעוד מניסיון הפיגוע בטיסה • אלא שבדיקת עובדות חושפת מאיפה הוא באמת הגיע - ולמה אין לו שום קשר לתקרית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21541624",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:50:26.000Z"
     }
   ]
 }
