@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:15:48.732Z",
+  "updatedAt": "2026-10-08T16:30:58.527Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1mjcvboze",
+      "title": "\"8200, איפה הייתם ב-7/10\": שלט הוצב בגלילות ביום הזיכרון לטבח – והוסר למחרת",
+      "summary": "עיריית רמת השרון הסירה שלט שהוצב ברחוב בגנות יחידת הסייבר של אמ\"ן. העירייה: \"השלט לא חוקי, פוגע בחיילי צה\"ל ומבקש לזרוע קונספירציות\". עדיין לא ברור מי עומד מאחוריו",
+      "link": "https://www.ynet.co.il/news/article/b1mjcvboze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T16:23:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86874",
+      "title": "טראמפ: לא נתקוף באיראן לפני בחירות האמצע",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/86874",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T16:22:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmljru",
+      "title": "ש\"ס בהאשמה חריגה: אלו האנשים שעומדים מאחורי ההפגנות היום",
+      "summary": "הפצלגה החרדית טענה כי מאחורי מימון הפגנות הפלג הירושלמי היום עומדים אנשי \"מחאת קפלן שאליהם חברו גורמים קיצוניים המובילים הפגנות אלימות ומסכנות חיים\" | כך הגיבו ב\"וועדה להצלת עולם התורה\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmljru",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T16:20:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86872",
       "title": "החות'ים לקחו אחריות על תקיפת שדה תעופה בריאד ויעדים נוספים בסעודיה",
       "summary": "הדובר הצבאי של החות'ים הודיע כי כוחותיו תקפו הערב מספר יעדים בסעודיה: שדה התעופה המלך ח'אלד בריאד באמצעות שני טילי שיוט, שדה התעופה נג'ראן בטיל בליסטי, והבסיס האווירי בח'מיס מושיט בטיל בליסטי נוסף. לטענתו, הפגיעות היו מדויקות.",
@@ -50,6 +77,15 @@
       "pubDate": "2026-10-08T16:13:26.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skgjjebjgg",
+      "title": "איזנקוט חושף: השאירו על קבר בני הודעה מאיימת כלפיי",
+      "summary": "ב-2004, בנבואה מצמררת, העריך גדי איזנקוט, אז תת-אלוף, שגם בנו גל ייאלץ להילחם בשטחים. \"אין ניצחון מוחלט במאבק הזה\", הוא אמר אז. עכשיו הוא מספר מה החליט לעשות עם מכתב האיומים על קברו של הבן שנפל, ומאשים: נתניהו מסר גרסאות כוזבות למבקר על 7/10. הריאיון המלא - מחר במוסף לשבת וב\"ידיעות+\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/skgjjebjgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T16:13:01.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-hamas-commander-hostages-emily-romi",
       "title": "\"המפקד האכזר\": חוסל המחבל שהחזיק בחטופות ובחטוף בשבי בעזה",
       "summary": "מחמד יאזגי חוסל בתקיפה במרחב העיר עזה • היה מעורב בהחזקת אמילי דמארי, רומי גונן ומתן אנגרסט | מחבל נוסף חוסל בצברה (צבא וביטחון)",
@@ -57,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T16:11:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21583881",
+      "title": "כוכב העבר פותח פרק חדש: \"פעם סבלתם אותי במגרש - עכשיו גם בטלוויזיה\"",
+      "summary": "כדורגלן העבר פיני בלילי הודיע כי חתם על חוזה בכאן 11 ויעבור ממגרש הכדורגל למסך • בשלב זה עדיין לא פורסם מה יהיה תפקידו בתאגיד • מאז 7 באוקטובר הוא מעורב בפעילות למען פצועי מלחמה, משפחות שכולות ומשפחות חטופים",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21583881",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T16:09:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/friday-night-studio/tml2cm",
@@ -75,6 +120,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T16:01:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1375106",
+      "title": "ברק סרי עצר את בכיר מפלגת איזנקוט - וסיפק עבורו תחזית אחת קשה",
+      "summary": "שאול מרידור ממפלגתו של גדי איזנקוט שוחח עם אלי אוחנה וברק סרי ב-103FM, וניסה שלא להביע התרשמות מסקרי הבחירות מהתקופה האחרונה. אוחנה מצידו, השמיע טענה בנוגע לישיבה עם המפלגות הערביות",
+      "link": "https://www.maariv.co.il/news/politics/article-1375106",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T15:59:07.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1375106",
@@ -114,12 +168,39 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21583636",
+      "title": "חי מהיורוליג: מכבי תל אביב - מילאנו 7:13",
+      "summary": "הצהובים מגיעים למחזור הרביעי ביורוליג כשהם עדיין מחפשים ניצחון ראשון במפעל • דניאל תייס בסגל של עודד קטש",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21583636",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T15:53:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21583636",
       "title": "חי מהיורוליג: מכבי תל אביב - מילאנו 0:0",
       "summary": "הצהובים מגיעים למחזור הרביעי ביורוליג כשהם עדיין מחפשים ניצחון ראשון במפעל • דניאל תייס בסגל של עודד קטש",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21583636",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T15:53:15.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q3/Article-9e29eecd63c11a1026.htm",
+      "title": "המסמך שהתגלה במקרה 17 שנה אחרי מות הסבא - והצית קרב ירושה על עשרות מיליונים",
+      "summary": "ייפוי הכוח הנוטריוני שנמצא בבית הכלה אחרי שפרצו לביתה הוביל לסכסוך משפחתי על זכויות בקרקע בשווי 90 מיליון שקל בלב ירושלים • הכלה תבעה את יתר האחים לשינוי הזכויות - והשופט קיבל את התביעה • השופט דחה את הטענות להתיישנות: \"המסמך היה ממוקם בארון גבוה ולא נגיש בדירת התובעת\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-9e29eecd63c11a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-08T15:53:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21583605",
+      "title": "פסטה בטעם רע: באוניברסיטת קולומביה הגישו איטריות ברוטב \"7 באוקטובר\"",
+      "summary": "מחלקת ההסעדה במוסד היוקרתי התנצלה וטענה כי נפלה טעות בשם המנה שהוגשה בקפיטריה • סטודנטים יהודים תהו בקבוצות פנימיות \"האם מישהו פוטר בשל הרוטב\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21583605",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T15:52:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21583605",
@@ -174,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T15:44:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21583598",
+      "title": "אבינתן אור על הפרידה מנועה ארגמני: \"אני פנוי\"",
+      "summary": "שורד השבי אבינתן אור התארח בפורמט \"60 שניות\" של V1, דיבר בפתיחות על הפרידה מנועה ארגמני וענה במילה אחת על השאלה שכולם רצו לשאול • וגם: הווילון שעזר לו להסתיר את החפירה במנהרה, והפרט האירוני על אחד החוטפים שלו",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21583598",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T15:40:20.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21583598",
@@ -565,7 +655,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sknhkgrszx",
       "title": "רשות שדות התעופה נגד מאי גולן: הבריחה את אמה לנתב\"ג בלי בידוק ביטחוני",
-      "summary": "השרה המריאה השבוע לצ'כיה ונכנסה לנמל התעופה בתיאום עם רשות שדות התעופה - אך לא עדכנה אותם שגם אמה נמצאת ברכב. רימונה גולן לא החזיקה בכרטיס טיסה, נכנסה לטרקלין חברת אל על ועזבה רק לאחר ההמראה. רש\"ת: \"הבקשה אושרה עבור השרה ועוזרה בלבד\"",
+      "summary": "השרה המריאה השבוע לצ'כיה ונכנסה לנמל התעופה בתיאום עם רשות שדות התעופה - אך לא עדכנה אותם שגם אמה נמצאת ברכב. רימונה גולן לא החזיקה בכרטיס טיסה, נכנסה לטרקלין חברת אל על ועזבה רק לאחר ההמראה. רש\"ת: \"הבקשה אושרה עבור השרה ועוזרה בלבד\". מטעמה של מאי גולן: \"ישבה עם אמה לפני יציאה לביקור מדיני באורך שבוע\"",
       "link": "https://www.ynet.co.il/news/article/sknhkgrszx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -3162,6 +3252,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T08:00:31.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-6249a1bb36a11a1027.htm",
+      "title": "אלימות, עימותים עם שוטרים - וניסיונות דריסה: הפגנות החרדים הסתיימו לאחר כשעתיים",
+      "summary": "מחאות התקיימו ברחבי הארץ בעקבות מעצר עריקים חרדים וניסיון מעצר של המשטרה הצבאית שהסתיים בנסיגת הכוחות • בין היתר בוצעו חסימות ברכבת הקלה בירושלים ובכבישים מרכזיים • הרב עזריאל אוירבך: \"לצאת למחאות ענק\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-6249a1bb36a11a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-08T08:00:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-6249a1bb36a11a1027.htm",
@@ -29433,78 +29532,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-03T16:31:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21542809",
-      "title": "\"הסגל של מכבי תל אביב לא הגיוני, הגארדים מרוכזים בעצמם\"",
-      "summary": "אחרי פתיחת העונה המאכזבת ועוד הפסד כואב ביורוליג, ב-Basketball Sphere מתחו ביקורת חריפה על בניית הקבוצה: \"קשה להבין מדוע לא הביאו רכז שרוצה להפעיל את הקו הקדמי\" • על מובילי הכדור: \"לעיתים הם אפילו מתעלמים משאר הקבוצה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21542809",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T16:29:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/hazan-chaim-adler-passed-away",
-      "title": "החזן שהרעיד לבבות במשך 75 שנה: ר' חיים אדלר ז\"ל הלך לעולמו",
-      "summary": "בחג נפטר בגיל 86 החזן הנודע ר' חיים אדלר ז\"ל, מגדולי ענקי החזנות בדורנו; המנוח, שכיהן כחזן הראשי של בתי הכנסת הגדולים בתל אביב ובירושלים, הותיר מורשת מפוארת של תפילה וקול שהרעידו לבבות (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/hazan-chaim-adler-passed-away",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T16:27:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/hazan-chaim-adler-passed-away",
-      "title": "החזן שהרעיד לבבות במשך 75 שנה: ר' חיים אדלר זצ\"ל הלך לעולמו",
-      "summary": "בחג נפטר בגיל 86 החזן הנודע ר' חיים אדלר זצ\"ל, מגדולי ענקי החזנות בדורנו; המנוח, שכיהן כחזן הראשי של בתי הכנסת הגדולים בתל אביב ובירושלים, הותיר מורשת מפוארת של תפילה וקול שהרעידו לבבות (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/hazan-chaim-adler-passed-away",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T16:27:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21542775",
-      "title": "מבצע חילוץ מיוחד: המטוס העצום שיטוס לדובאי - רק בשביל המזוודות",
-      "summary": "הנוסעים שחזרו בטיסות החילוץ מדובאי הורשו לעלות רק עם תיק אישי קטן ביד, והמזוודות נשארו מאחור • עכשיו חברת מטען ישראלית משנה את לוח הטיסות ושולחת מטוס ענק לאמירויות • וזה לא אמור להיות סבב אחד בלבד עד סוף המבצע",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21542775",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T16:27:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21542743",
-      "title": "ההודאה של הטייס-מחבל בחקירה - והחוט המקשר לאיראן",
-      "summary": "גורמים המעורים בחקירה מספרים כי אל-מאמי עבר תהליך הקצנה בסוריה ופרסם תכנים קיצוניים ברשת • בחקירתו הודה כי התכוון לרסק את המטוס על מטרה בישראל • במקביל נבדקים הכשלים שאפשרו לו לעבור את הבדיקות הביטחוניות",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21542743",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T16:22:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21542709",
-      "title": "סופסוף הטבעת הגיעה: רפאלה טווינה מאורסת",
-      "summary": "עוד בזמן \"האח הגדול\" רפאלה סיפרה שהיא מחכה לטבעת והצעת נישואין מבן זוגה רואי מלכה, והיום זה קרה במהלך חופשה במדבר. ואפילו יש תגובה קורעת של האח יוחנן",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21542709",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T16:21:24.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-8e27dd3388ef0a1026.htm",
-      "title": "הגיבור שהרים את ההגאים: ריאיון עם יניב חיון מטיסת פליי-דובאי",
-      "summary": "השרברב שסיפורו הגיע עד הנשיא טראמפ התראיין בתוכנית \"פגוש את העיתונות\" וגולל את הפרטים המלאים של סיפור הגבורה שלו ושל ישראלים אחרים • הוא סיפר על הרגע שבו החליט להרים את ההגאים: \"כשהסתכלתי ראיתי את הקרקע\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-8e27dd3388ef0a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-03T16:18:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21533684",
-      "title": "8 פתרונות גאוניים בבתים ביפן - שחייבים להתחיל לאמץ בישראל",
-      "summary": "ממפלס כניסה מלוכלך ועד היעדר אחסון מובנה: הכשלים שמשאירים את הבית הישראלי על סטנדרט תכנוני ירוד • מעצב מוביל מציג את האלמנטים שיוצרים בלגן מתמיד ואסונות תחזוקה - ושמונה הפתרונות המבריקים שיקפיצו את איכות המגורים",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21533684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T16:17:54.000Z"
     }
   ]
 }
