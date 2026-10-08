@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:30:59.105Z",
+  "updatedAt": "2026-10-08T08:45:56.216Z",
   "sources": [
     {
       "key": "ynet",
@@ -59,13 +59,85 @@
       "pubDate": "2026-10-08T09:27:00.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmky4m",
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374926",
+      "title": "ברק סרי שאל את יואב קיש שאלה אחת - והשידור כמעט התפוצץ",
+      "summary": "שאלה אחת של ברק סרי לשר החינוך יואב קיש הציתה עימות חריף בשידור, שאליו הצטרף גם אלי אוחנה. הטונים עלו, האשמות הוטחו, ובהמשך נדרש השר להתייחס גם לסערה סביב ינון מגל ולדברי נתניהו",
+      "link": "https://www.maariv.co.il/news/israel/article-1374926",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T08:40:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkn8fanofx",
+      "title": "עוקץ \"הכלה הנמלטת\": התחתנה עם 14 בעלים – וחגגה על הכסף בבתי קזינו בווגאס",
+      "summary": "ארה\"ב: ג'יא-יינג צ'אן הורשעה בביגמיה והונאה אחרי שהתברר כי השתמשה בזהות המזויפת \"ויקי ליאנג\", ניצלה את חוקי הנישואים המקילים של לאס וגאס – וגרמה לגברים שהכירה ברשתות החברתיות להתחתן איתה במקביל, בהם 5 בתוך חודש. אחר כך טענה שהיא צריכה כסף לקרוביה החולים בסין – והימרה עליו בבתי הקזינו המפורסמים של העיר. אחד הבעלים העיד: \"שקעתי בחובות, אני לא ישן בלילה\"",
+      "link": "https://www.ynet.co.il/news/article/hkn8fanofx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T08:39:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/druze-solidarity-israel-syria-october-7",
+      "title": "שלוש שנים אחרי הטבח: המחווה המפתיעה במדינה הכי לא צפויה",
+      "summary": "בעוד ברחבי העולם ציינו את יום השנה למתקפת 7 באוקטובר, באחד המקומות המפתיעים ביותר במזרח התיכון נערכה עצרת שהביעה הזדהות עם ישראל ועם קורבנות הטבח (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/druze-solidarity-israel-syria-october-7",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T08:38:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1374932",
+      "title": "ירי משתולל ללא הפסקה - והילדים כבר מפחדים ללכת לבית הספר",
+      "summary": "תושבים ברהט מדווחים על ירי בלתי פוסק מהלילה ועל ילדים שחוששים לצאת לבתי הספר. המשטרה פתחה בסריקות ועצרה חשודים, וברקע מזהיר פיני בדש מפני התארגנויות חמושות בנגב שעלולות להפוך לתאי טרור פעילים",
+      "link": "https://www.maariv.co.il/news/military/article-1374932",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T08:38:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21578832",
+      "title": "אחותו של ראש השב\"כ דוד זיני: \"את המחלקה היהודית תריך לסגור - וזה יהיה\"",
+      "summary": "יסכה חיימוב, המועמדת ברשימת \"נועם לישראל\" ואחותו של ראש השב\"כ דוד זיני, אמרה בריאיון בקול ברמה כי יש לסגור את המחלקה היהודית בארגון שעליו מפקד אחיה • בנוסף להצהרה החריגה, חיימוב טענה כי למפלגתה יש 150 אלף קולות בטוחים שיעבירו אותה את אחוז החסימה • בהמשך דבריה גוננה חיימוב על אחיה העצור בצלאל, וטענה כי החקירה נגדו נובעת אך ורק מייחוסו המשפחתי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21578832",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:30:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/journalist-trips-police-france-protests",
       "title": "המצלמה תיעדה: עיתונאי הכשיל שוטר במהלך המהומות בצרפת",
       "summary": "תיעוד דרמטי מהעימותים ברחובות צרפת מציג אדם המזוהה עם התקשורת כשהוא שולח את רגלו לעבר שוטר במהלך ההתפרעויות (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmky4m",
+      "link": "https://www.kikar.co.il/world-news/journalist-trips-police-france-protests",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T08:29:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21578595",
+      "title": "שורדת השבי נשברת: \"זה ירדוף אותי עד יומי האחרון\"",
+      "summary": "מיה רגב מתמודדת עם האובדן של חבריה לטבח ששרדו את השעות הראשונות אך לא שבו • הנה המסר החשוב שהיא מעבירה למשפחות השכולות ולניצולים שלומדים לחיות מחדש",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21578595",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:28:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21578735",
+      "title": "דווקא ב-7 לאוקטובר: ממדאני ישב במסעדה הפרו-פלסטינית שמוחקת את ישראל מהמפה",
+      "summary": "בזמן שבעיר נערכו עצרות זיכרון לקורבנות הטבח, ראש עיריית ניו יורק זוהראן ממדאני בחר לציין את 7 באוקטובר בסעודה במסעדה פלסטינית באפר ווסט סייד • בתפריט: מפה שמוחקת את תל אביב ואילת ומתייגת את כל ישראל כ\"פלסטין\", וקריאות \"הלאה הכיבוש\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21578735",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:24:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21572415",
+      "title": "הרמז לגבי הגירושים: 5 דברים שלא ידעתם על חנן בן ארי",
+      "summary": "הדרך שבה נימק את הפרידה מהדסה, הציון הבלתי אפשרי בפסיכומטרי, החולשה הגדולה שלו - והכישרון הסמוי שטיפח אצלו בבית • אחרי ההופעה שבה שפך במפתיע את הלב מול המונים: 5 עובדות מפתיעות על אחד הזמרים האהובים והמצליחים בישראל",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21572415",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:20:59.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/sean-blaish-refuses-cooking-show-kashrut",
@@ -95,6 +167,15 @@
       "pubDate": "2026-10-08T08:17:48.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21578763",
+      "title": "לא סתם דומות: סידני סוויני ומרילין מונרו קרובות משפחה",
+      "summary": "שתי בלונדיניות, שתי כוכבות ענק ושמלות שכמעט נראות זהות - ועכשיו מתברר שגם אילן היוחסין מחבר ביניהן",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21578763",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:16:49.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/peoples/itai-regev-hostage-testimony-prayer",
       "title": "שורד השבי בעדות מצמררת: \"זה מה שחשבתי כשהמחבל הצמיד נשק לראשי\"",
       "summary": "שורד השבי איתי רגב מספר על הרגע שבו מחבל הצמיד נשק לראשו • התחיל לומר 'שיר למעלות' והנשק הורחק | \"הרגשתי שהקב\"ה שומע אותי\" (חרדים)",
@@ -102,6 +183,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T08:16:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21578683",
+      "title": "ינון מגל חוטף מאייל ברקוביץ׳: ״תתבייש״",
+      "summary": "כדורגלן העבר ומגיש רדיו 103FM תקף את שותפו לסרטוני ״המטבחון״, מגיש ״הפטריוטים״ בערוץ 14, בעקבות החלטת הערוץ שלא לשדר את טקס הזיכרון הלאומי לזכר נרצחי 7 באוקטובר",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21578683",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T08:16:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1374912",
@@ -255,6 +345,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T07:45:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374900",
+      "title": "איראן בצרות, חיזבאללה בלחץ: האמריקאים חושפים את הבלוף",
+      "summary": "ארה\"ב מכחישה שחיזבאללה קיבל 200 מיליון דולר מאיראן וטוענת כי מדובר בפברוק | במקביל, דיווח על מבצע ישראלי נרחב שמתכנן נתניהו בשבועות הקרובים |הלחץ בלבנון לפירוק חיזבאללה מנשקו",
+      "link": "https://www.maariv.co.il/news/world/article-1374900",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T07:44:43.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1374900",
@@ -525,6 +624,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T06:59:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1374865",
+      "title": "הייתה רק בת 22: מלכת הרודיאו נהרגה ברגע אחד",
+      "summary": "ארוחת צהריים משפחתית הסתיימה באסון כשאנה ביאטריז סירקה את שיערה של אחייניתה בחצר בית אמה. למרות הגשם הקל, ברק פגע בצעירה שפונתה לבית החולים שם נקבע מותה. היא הותירה אחריה ילד בן חמש",
+      "link": "https://www.maariv.co.il/news/viral/article-1374865",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T06:59:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1374865",
@@ -27498,15 +27606,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T08:53:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21541070",
-      "title": "מחריד: מאסז'יסט קרע שתל בחזה של אישה - ונשלח למאסר",
-      "summary": "בית המשפט המחוזי בטאיוואן הרשיע מעסה שביצעה 32 טיפולים לאחר ניתוח שחזור שד • העונש ניתן להמרה לקנס, אך בית המשפט סירב להעניק מאסר על תנאי בשל הסיכון הרפואי והיעדר הפיצוי",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21541070",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T08:33:50.000Z"
     }
   ]
 }
