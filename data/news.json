@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T05:31:25.228Z",
+  "updatedAt": "2026-10-08T05:45:45.656Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1374813",
+      "title": "טלטלה במזרח התיכון: הכוחות של אל ג'ולאני בדרך להילחם בחות'ים בתימן? | דיווח",
+      "summary": "בן סלמאן ביקש מנשיא סוריה סיוע בלחימה מול החות'ים, מה שמעיד פעם נוספת על החולשה הצבאית המדהימה של מדינתו, כך דווח ב\"אקסיוס\". אל ג'ולאני לא פסל את האפשרות",
+      "link": "https://www.maariv.co.il/news/military/article-1374813",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T05:36:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21577622",
+      "title": "צעד היסטורי: הבורסה בתל אביב בוחנת את רכישת הבורסה בקפריסין",
+      "summary": "המהלך שאמור לקרב את ישראל לאיחוד האירופי נמצא בבחינה, אך עדיין לא התקבלו החלטות סופיות • הבורסה בקפריסין עשויה לסייע לישראל למשוך השקעות זרות, אך הבורסה ביוון צפויה להתחרות על הרכישה",
+      "link": "https://www.israelhayom.co.il/business/article/21577622",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T05:17:23.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86758",
       "title": "צה\"ל חיסל מחבל שחצה את הקו הצהוב בדרום עזה",
@@ -174,6 +192,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-08T04:33:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1374827",
+      "title": "ציון שלוש שנים לטבח: טראמפ שובר שתיקה בהצהרה דרמטית",
+      "summary": "בציון שלוש שנים לטבח 7 באוקטובר, נשיא ארצות הברית פרסם הצהרה מיוחדת, בה שחזר את זוועות חמאס, התחייב להמשיך לעמוד לצד ישראל ולקח קרדיט על השבת החטופים: \"עשיתי זאת, גם את החיים וגם את המתים\"",
+      "link": "https://www.maariv.co.il/news/world/article-1374827",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T04:32:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1374827",
@@ -26742,24 +26769,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T05:47:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21540725",
-      "title": "המגזין היוקרתי בארה\"ב: אם היו מדברים יידיש - \"הזוועות\" בעזה היו נמנעות",
-      "summary": "ביקורת ספרים ב\"ניו יורקר\" קובעת כי סימני הפיסוק בשפה העברית סייעו למלחמה בעזה ולדיכוי הפלסטינים • ברשתות זעמו על שרבוב ישראל לתולדות סימני הכתיבה ותקפו: \"לא שונה מהשנאה בגרמניה של שנות ה-30\" • מה באמת עומד מאחורי עמדותיה של מחברת הספר",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21540725",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T05:37:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21540725",
-      "title": "\"קולוניאליות אכזרית\": סערת הפיסוק העברי בניו יורקר",
-      "summary": "ביקורת ספרים במגזין האמריקני קובעת כי סימני הפיסוק בשפה העברית סייעו למלחמה בעזה ולדיכוי הפלסטינים • ברשתות זעמו על שרבוב ישראל לתולדות סימני הכתיבה ותקפו: \"לא שונה מהשנאה בגרמניה של שנות ה-30\" • מה באמת עומד מאחורי עמדותיה של מחברת הספר",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21540725",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T05:37:31.000Z"
     }
   ]
 }
