@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:15:51.650Z",
+  "updatedAt": "2026-10-08T19:31:10.373Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmlqun",
+      "title": "\"נמוך מידי?\" | השאלה המפתיעה שקיבלתי אחרי שפתחתי את ארון הקודש",
+      "summary": "אחרי שקיבל ברכה מכל הלב, הוסיף בלחש, שאף אחד לא ישמע: \"תברך אותי גם שאצליח ברישיון על המשאית\". ומיד שאל, בתמימות גמורה: \"מותר בכלל לבקש מה' דבר כזה? או שזה כבר נמוך מדי בשבילו?\" | המרצה הרב יואב אקריש מספר על תקרית שאירעה לו במהלך החג (יהדות)",
+      "link": "https://www.kikar.co.il/haredim-news/tmlqun",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T19:27:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375181",
+      "title": "פיצוץ רכב הרעיד את הכניסה לאור עקיבא: גבר חוסל במקום",
+      "summary": "תושב בנימינה כבן 40 המוכר למשטרה, חוסל הערב בכניסה לאור עקיבא, ככל הנראה בעקבות הפעלה של מטען: \"מדובר בזירה קשה מאוד\"",
+      "link": "https://www.maariv.co.il/news/law/article-1375181",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T19:25:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585034",
+      "title": "העולם כבר שוכח: למה מחכים עם \"משפט אייכמן\" של מחבלי הנוחבה?",
+      "summary": "משפט מחבלי הנוחבה, שחשוב לא פחות מוועדת חקירה, כבר יכול היה להיות בעיצומו מרגע שהוחזרו החטופים - לא היתה סיבה אמיתית לעיכוב • הוא יאזן את מסע ההלקאה העצמית שלנו, שלעיתים מובן ולעיתים מוגזם",
+      "link": "https://www.israelhayom.co.il/opinions/article/21585034",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T19:07:28.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bj0ty8himl",
       "title": "הרמטכ\"ל לאמריקנים: הסלמה מול איראן יכולה להוביל לדחיית הבחירות בישראל",
       "summary": "זמיר אמר את הדברים בשיחות עם צמרת הממשל והצבא בארה\"ב, והעלה חששות כבדים מהשלכות פוליטיות וביטחוניות של עימות חזיתי נוסף מול הרפובליקה האיסלאמית. למרות שטארמפ טען שלא תתרחש תקיפה לפני בחירות האמצע בארה\"ב בנובמבר, חיל האוויר ואמ\"ן בכוננות למקרה של הסלמה",
@@ -42,12 +69,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21585049",
+      "title": "חיסול בכביש 4: נקבע מותו של נוסע הרכב שהתפוצץ ליד אור עקיבא",
+      "summary": "הרכב התפוצץ סמוך לצומת פל-ים בכביש 4 • צוותי מד\"א איתרו במקום גבר כבן 30 מחוסר הכרה ובהמשך נקבע מותו • המשטרה פתחה בסריקות ובאיסוף ממצאים לבדיקת נסיבות האירוע",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21585049",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T18:56:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21585049",
       "title": "פיצוץ רכב בכניסה לאור עקיבא: גבר כבן 30 מחוסר הכרה במקום",
       "summary": "הפיצוץ אירע סמוך לצומת פל-ים בכביש 4 • צוותי מד\"א העניקו טיפול לגבר שפרטיו טרם התבררו • שוטרי תחנת חדרה פתחו בסריקות ובאיסוף ממצאים לבדיקת נסיבות האירוע",
       "link": "https://www.israelhayom.co.il/news/crime/article/21585049",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T18:56:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkygsdbifl",
+      "title": "חשד לחיסול: הרוג בפיצוץ רכב ליד אור עקיבא",
+      "summary": "הרכב, מסוג סקודה אוקטביה, התפוצץ בצומת פל ים שבכביש 4 ותועד ליד תחנת אוטובוס כששמשתו האחורית מנופצת. צוותי מד\"א קבעו בזירה את מותו של צעיר בן 25, המשטרה אוספת ממצאים ופתחה בסריקות",
+      "link": "https://www.ynet.co.il/news/article/bkygsdbifl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T18:55:50.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkygsdbifl",
@@ -138,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T18:30:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "title": "חי מהיורוליג: ולנסיה - הפועל תל אביב 36:43",
+      "summary": "הספרדים ממטירים מבול שלשות על הקבוצה של דימיטריס איטודיס • זאק לידיי התחיל טוב אצל האדומים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T18:23:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
@@ -29388,78 +29442,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T19:32:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21543942",
-      "title": "חג המסיק בחסות האו\"ם - והמחיר שמשלמים היהודים",
-      "summary": "תקציב, הסעות, מזון וליווי בינלאומי מלווים את עונת המסיק ביהודה ושומרון • האלימות סביב המסיק פוגעת שוב ושוב ביהודים",
-      "link": "https://www.israelhayom.co.il/opinions/article/21543942",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:29:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1373222",
-      "title": "שריפה גדולה בעוספיא: תושבי השכונה התבקשו להסתגר בבתים",
-      "summary": "20 צוותי כיבוי פועלים בשריפה באתר פסולת בעוספיא; אין נפגעים, אך תושבי השכונה המערבית התבקשו להסתגר בבתיהם וכבישים מרכזיים באזור נחסמו לתנועה",
-      "link": "https://www.maariv.co.il/news/israel/article-1373222",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-03T19:28:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21543857",
-      "title": "הסימנים שישראל פספסה: מה שנחשף בחקירת הטייס-מחבל",
-      "summary": "ההרחקה מחברת התעופה בשל ההקצנה הייתה אמורה להדליק נורה אדומה גדולה, אך חמאם אל-חמאמי בכל זאת טס לישראל • בינתיים, האחראים למחדל זורקים את האחריות האחד על השני - במקום להפיק את הלקחים הנדרשים",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21543857",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:28:15.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-45afe57863301a1027.htm",
-      "title": "המשטרה עצרה אדם שיכור שהטריד עוברי אורח, עשרות חרדים תקפו את השוטרים - כי חשבו שמדובר במעצר עריק",
-      "summary": "שוטרים הוזעקו לביתר עילית בעקבות דיווח על אדם שיכור שתקף עוברי אורח • אדם נוסף שהיה תחת השפעת אלכוהול הגיע למקום • עשרות חרדים התקהלו במקום וניסו לשבש את פעילות הכוחות כי חשבו שמדובר במעצר עריק • המשטרה עזבה את המקום עם העצור • תיעוד",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-45afe57863301a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-03T19:26:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21543847",
-      "title": "המונופול החרדי הסתיים, האלטרנטיבה נולדה",
-      "summary": "במשך שנים הנציגים החרדים התעלמו מהציבור שלהם, ושלפו את תמונת מרן רק לקראת הבחירות • כעת ניתן לראות מבפנים איך חומת השליטה נסדקת, והצעירים כבר לא קונים את זה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21543847",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:24:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21543862",
-      "title": "זה אפשרי: יש דרך להנחית מטוס - כשאין טייסים",
-      "summary": "ברגע הקריטי בטיסת פליי דובאי היה זה נוסע שסייע להשתלט על המצב, אלא שבהמשך היו על המטוס טייסים שיכלו להנחית אותו • האירוע החריג מעלה תרחיש מפחיד עוד יותר: מה קורה אם שני הטייסים מנוטרלים ואין אף טייס נוסף על הסיפון? האם נוסע שמעולם לא הטיס מטוס יכול להביא מטוס נוסעים בשלום לקרקע? התשובה מפתיעה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21543862",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:21:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21543830",
-      "title": "\"בואו הביתה\" – איזה בית מחכה ליהודי התפוצות בישראל?",
-      "summary": "ישראל מבקשת להביא לכאן מאות אלפי יהודים, אך רבים מהם מגיעים עם זהות דתית ליברלית שאינה זוכה למעמד שווה בישראל • אם המדינה רוצה את העלייה שלהם, היא צריכה להיות מוכנה לקבל גם את הקהילות, המסורות והזרמים שהם מביאים איתם",
-      "link": "https://www.israelhayom.co.il/opinions/article/21543830",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:17:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21543828",
-      "title": "פיני גרשון על הבעיה של מכבי תל אביב: \"בלי זה, שלא יבואו למשחקים\"",
-      "summary": "בפרק 3 של פודקאסט \"על הבאזר\" מאמן העבר סימן את האחוזים מחוץ לקשת: \"אי אפשר לנצח עם 22 אחוז, אי אפשר, פשוט\" • על הסף שצריך להגיע אליו וההשפעה הוסיף: \"אני קודם כל רוצה שבמכבי יגיעו ל-34-35%\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21543828",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T19:16:42.000Z"
     }
   ]
 }
