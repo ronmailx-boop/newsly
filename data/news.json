@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:00:57.473Z",
+  "updatedAt": "2026-10-08T02:15:50.731Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/w5017szhn",
+      "title": "התחזית: הטמפרטורות ירדו במעט - ויהיו רגילות לעונה",
+      "summary": "במהלך היום יהיה בהיר עד מעונן חלקית, ומחר לא יחול שינוי בטמפרטורות. בשבת תירשם התחממות קלה בעיקר בהרים ובפנים הארץ - ואחר הצהריים ייתכנו גשמים",
+      "link": "https://www.ynet.co.il/news/article/w5017szhn",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T02:10:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21577284",
+      "title": "במקום לרקוד - נאלצו להחזיק את הגג: סערה איימה להקריס את החתונה",
+      "summary": "סופת ברד כבדה בסידני גרמה לגג אוהל האירועים לשקוע תחת משקל המים והקרח • האורחים, בלבוש חגיגי, נעמדו בשורה והשתמשו בכיסאות ובידיהם כדי לתמוך ביריעה ולמנוע את קריסתה • עורכת הטקס: \"סצנה סוריאליסטית\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21577284",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T01:39:56.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1vcxinoge",
       "title": "\"בוגד, בוגד, בוגד\": פרו-פלסטינים לראשונה נגד ממדאני - בעצרת לציון 7 באוקטובר",
@@ -26418,15 +26436,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T02:34:31.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/xwvjbv41b",
-      "title": "גשמים בצפון ובמישור החוף | התחזית המלאה לשמחת תורה",
-      "summary": "בשעות הבוקר יירדו טפטופים, שעשויים להתגבר לגשמים מקומיים קלים - ויחדלו לקראת הצהריים. הטמפרטורות יעלו מעט, אך יירדו במהלך השבוע",
-      "link": "https://www.ynet.co.il/news/article/xwvjbv41b",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-03T02:06:51.000Z"
     }
   ]
 }
