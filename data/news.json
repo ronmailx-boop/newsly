@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:15:55.206Z",
+  "updatedAt": "2026-10-08T12:30:58.710Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim/tml8y2",
+      "title": "היכונו לחסימות: הפלג הירושלמי יוצא להפגין במיקומים סודיים - כבישים מרכזיים ייסגרו",
+      "summary": "בעקבות מעצרם של שני תלמידי ישיבה, הפלג הירושלמי המרכזי בראשות הגאון רבי עזריאל אויערבך הודיע אמש על הפגנות שיתקיימו היום במספר מוקדים | לפי ההערכות, אלו המוקדים שייחסמו (חדשות, חרדים)",
+      "link": "https://www.kikar.co.il/haredim/tml8y2",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-08T12:27:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21581253",
+      "title": "ספיר אביסרור: \"לדבר על פוליטיקה זה אולי לא סקסי\"",
+      "summary": "אחרי 7 באוקטובר והשאלות של בנה, ספיר אביסרור מסבירה למה החליטה להכניס גם פוליטיקה לפיד - ומבהירה שהיא עצמה עדיין לא יודעת למי תצביע",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21581253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T12:14:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21580774",
+      "title": "\"האיש הכי מסוכן בצרפת\" מבעיר את המדינה - ורומס את ישראל בדרך",
+      "summary": "ז'אן-לוק מלנשון הוא המוח שמאחורי המהומות שהתפרצו ברחבי הרפובליקה • כך איש השמאל הרדיקלי הפך את זעם הפרברים לאגרוף פוליטי, ורתם לצורך כך את העוינות לישראל • עכשיו החשש הוא מאפשרות שדווקא יריבתו מימין תשתמש בנשק יום הדין",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21580774",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T12:13:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21581360",
+      "title": "ישראל הזהירה את ארה\"ב: איראן מתכננת לתקוף בסיסים בגרמניה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21581360",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T12:13:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/education/article-1375042",
       "title": "מירושלים לעולם היהודי: מאות מחנכים יתכנסו לכנס בינלאומי מיוחד",
       "summary": "כ-250 מורים, מחנכים, מנהלים ומנהיגים חינוכיים מעשרות מוסדות חינוך וקהילות יהודיות ברחבי העולם יגיעו לישראל ל״כנס המחנך היהודי הבינלאומי\" של משרד התפוצות והמאבק באנטישמיות",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-08T12:11:31.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hy00ulwhsmg",
+      "title": "הפקקים הקדימו: צפו במפת העומסים לקראת הפגנות החרדים",
+      "summary": "החרדים מתכננים להפגין בגוש דן ובירושלים בעקבות חידוש מעצרי העריקים. עומסים כבדים מורגשים בדרך לבירה ובאזור המרכז",
+      "link": "https://www.ynet.co.il/news/article/hy00ulwhsmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T12:09:30.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tml86y",
@@ -210,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T11:40:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375030",
+      "title": "הם ידעו שהוא שונא יהודים - ומכרו לו את הנשק הקטלני",
+      "summary": "כתב האישום חושף כיצד נמכר אקדח גלוק תמורת 43 אלף שקל למחבל שרצח את לוחמת מג\"ב שירה סוסליק בבאר שבע, אף שספקיו הכירו את דעותיו הקיצוניות. בפרקליטות מזהירים: \"כמו לעשות קניות בסופר\"",
+      "link": "https://www.maariv.co.il/news/law/article-1375030",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T11:40:44.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1375030",
@@ -28803,51 +28857,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T12:39:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "title": "הטייס הגיבור לא יורד מהכותרות: הבכיר האמירותי שהגיע והמחווה בהודו",
-      "summary": "קברניט פליי דובאי סמיט מצ'האר מאושפז עם פגיעות ראש לאחר שהותקף והציל את נוסעיו • יורש העצר של דובאי ביקר אותו והכריז כי הוא סמל של גאווה, בעוד שבהודו מפלגת השלטון מפיצה כרזות שלו כגיבור הינדי שקרא לאלים מול סכנת מוות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:26:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "title": "הבכיר האמירותי שנפגש עם הטייס: צפו בתיעוד מבית החולים",
-      "summary": "קברניט פליי דובאי סמיט מצ'האר מאושפז עם פגיעות ראש לאחר שהותקף והציל את נוסעיו • יורש העצר של דובאי ביקר אותו והכריז כי הוא סמל של גאווה, בעוד שבהודו מפלגת השלטון מפיצה כרזות שלו כגיבור הינדי שקרא לאלים מול סכנת מוות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:26:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "title": "\"אמיץ באופן יוצא דופן\": כל השבחים שמקבל הטייס שהציל את טיסת פליי דובאי",
-      "summary": "קברניט פליי דובאי סמיט מצ'האר מאושפז עם פגיעות ראש לאחר שהותקף והציל את נוסעיו • יורש העצר של דובאי ביקר אותו והכריז כי הוא סמל של גאווה, בעוד שבהודו מפלגת השלטון מפיצה כרזות שלו כגיבור הינדי שקרא לאלים מול סכנת מוות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21541533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:26:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rymwznhcmx",
-      "title": "אפילו הצ'אט מתחנף אליי בשביל הצבעה",
-      "summary": "בדיקה שערכתי על ארבעת מודלי הבינה המלאכותית המובילים, לקראת בחירות 2026, מגלה שבחשבון אנונימי הם מנומסים כמו מפלגה חדשה שעוד לא פגשה את אחוז החסימה. כשהם לומדים מי אתם, הם כבר בטוחים שהם יודעים איזה פתק מתאים לכם",
-      "link": "https://www.ynet.co.il/news/article/rymwznhcmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-03T12:24:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21541535",
-      "title": "אחרי פתיחת העונה הרעה במכבי תל אביב: ים מדר חזר לאקסית",
-      "summary": "נועם שלף, בתו של אגדת מכבי תל אביב ונבחרת ישראל גור שלף, הגיעה לאתונה כדי לתמוך בבן זוגה בהפסד הכואב מול פנאתינייקוס • מדר הגיב לפוסט שלה ואישר את הקאמבק הזוגי בשתי תגובות אוהבות: \"הכי יפה בעולם\" ו\"אהבה שלי\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21541535",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T12:22:41.000Z"
     }
   ]
 }
