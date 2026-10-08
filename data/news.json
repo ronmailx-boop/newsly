@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T20:30:59.724Z",
+  "updatedAt": "2026-10-08T20:45:50.626Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1375201",
+      "title": "\"ביטולי טיסות, סגירת מרחבים אוויריים ושיבושי נסיעות\": שגרירות ארה\"ב בישראל בהתרעה חריגה",
+      "summary": "שגרירות ארה\"ב בירושלים פרסמה אזהרת ביטחון לאזרחים אמריקנים במזרח התיכון, וקראה להם לגלות ערנות מוגברת בשל \"הסביבה הביטחונית המורכבת\"",
+      "link": "https://www.maariv.co.il/news/military/article-1375201",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T20:30:37.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1tnjsbofl",
+      "title": "כוכב המרד בצרפת, הכאוס בבסטיליה - ותיעוד התיכון שנבזז: \"מקרון, תיכנע!\"",
+      "summary": "המהומות ב\"מרד התלמידים\" נמשכו בכיכר הבסטיליה בפריז ש\"נכבשה\", עוד 500 נעצרו ועשרות שוטרים נפצעו. בבורדו תיעדו עצמם רעולי פנים בוזזים תיכון ומנפצים כיתות, תחנת משטרה הוצתה ליד: \"השוטרים נסקלו באבנים\". במארסיי סגן מנהל תיכון הותקף כשניסה \"לקחת מטף ולכבות אשפה שהוצתה\". ברשתות הפך אלוואן בן ה-17 לכוכב עם מיליוני צפיות: הוא מתראיין עם כאפייה, מביע \"הבנה לאלימות בשכונות קשות\" ונישק את מנהיג השמאל הקיצוני ש\"יציל אותנו\"",
+      "link": "https://www.ynet.co.il/news/article/h1tnjsbofl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T20:30:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21585639",
+      "title": "עדן הראל לא מחכה לבעלה עודד: \"הגעתי למסקנה\"",
+      "summary": "למגישת ערוץ 14 ומגישת MTV בעבר נמאס לחכות לבעלה ואבי ילדיה עודד מנשה, אז היא מצאה לו מחליף. \"השקעה לטווח ארוך\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21585639",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:27:58.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bj7ux00rjze",
+      "title": "\"זה זיוף. הנחו לשנות שעת שיחה\": מה נחקר בפרשת הפרוטוקולים - ולמה זה תקוע",
+      "summary": "מזכירו הצבאי לשעבר של נתניהו, האלוף במיל' אבי גיל, העיד לראשונה בקולו על זיוף סטנוגרמה לכאורה. הוא הטיל את האחריות על ראש הסגל לשעבר ברוורמן, שכבר נחקר. אז מה עמד במוקד החקירה, מה קורה עם התיק עכשיו - ולמה לא צפויה הכרעה לפחות בחודש הקרוב? ההסברים - ואיך סתר רה\"מ את עצמו",
+      "link": "https://www.ynet.co.il/news/article/bj7ux00rjze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T20:27:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21585656",
+      "title": "תלמידים ירו באקדח אוויר במלון בפולין - ויוחזרו ארצה בהחלטת שב\"כ",
+      "summary": "תלמידי תיכון שהגיעו למשלחת במדינה ביצעו ירי באקדח האוויר בבית המלון בו שהו • שירות הביטחון הכללי החליט על השבתם לארץ",
+      "link": "https://www.israelhayom.co.il/news/education/article/21585656",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:26:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585406",
+      "title": "ישראל מאבדת את אמריקה - ואסור לה להתעלם",
+      "summary": "השחיקה באהדה לישראל חוצה מפלגות ודורות ומסכנת את המשענת הצבאית והמדינית החשובה ביותר שלה • בלימת ההידרדרות ושיקום הקשר עם שתי המפלגות חייבים להיות בראש סדר העדיפויות של הממשלה הבאה",
+      "link": "https://www.israelhayom.co.il/opinions/article/21585406",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:17:19.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375188",
       "title": "לא רק ארגון פשיעה: הלילה הבנו דבר אחד חדש על נתניהו | אבי אשכנזי",
@@ -345,6 +399,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T18:30:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "title": "חי מהיורוליג: ולנסיה - הפועל תל אביב 82:89",
+      "summary": "אנטוניו בלייקני רותח מחוץ לקשת, אבל תצוגת היחיד שלו לא מספיקה מול הספרדים • טי ג'יי שורטס מככב אצל הכתומים, שמתקרבים למאזן 0:4 ביורוליג",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T18:23:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
@@ -29334,51 +29397,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-03T21:00:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/yeshiva-world/tmckci",
-      "title": "תלמידי ישיבת \"אור ישראל\" פיזזו בשירת \"עוצו עצה ותופר\" • צפו",
-      "summary": "מאות תלמידי ישיבת \"אור ישראל\" בפתח תקווה בראשות ראשי הישיבה הגר\"י רוזן והגר\"מ רבינוביץ פיזזו בעוז לשירת \"עוצו עצה ותופר\" בצל הגזירות הקשות על עולם הישיבות | קודם לכן הם קיבלו את יו\"ר יהדות התורה ח\"כ יעקב אשר בשירת \"וכל אשר יעשה יצליח\", כשלצדו תושב העיר והמועמד ברשימת 'דגל התורה' חכ\"ל אליהו ברוכי • צפו (עולם הישיבות)",
-      "link": "https://www.kikar.co.il/yeshiva-world/tmckci",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T20:39:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/flydubai-pilot-background-check-failure-cbs",
-      "title": "עיוורון מערכתי מסוכן: המחדל שאיפשר את ניסיון הפיגוע",
-      "summary": "CBS חושפת: פליי דובאי העסיקה את הטייס העומאני מבלי לבדוק עברו • ממל\"ת מודה: \"אין 100% שזה לא יקרה שוב\" | המחדל שכמעט הוביל לאסון (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/flydubai-pilot-background-check-failure-cbs",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T20:39:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21544170",
-      "title": "לידיעת כריסטיאנו רונאלדו: המסר הפרובוקטיבי של ג'ורג'ינה",
-      "summary": "אשתו של הפנומן פרסמה סטורי נגד מאמן נבחרת פורטוגל ז'ורז'ה ז'זוש ותקפה: \"לא יכול לשאת את השם של ישו\" • שלוש דקות לאחר מכן היא מחקה את המסר",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21544170",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:35:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373240",
-      "title": "\"לא שב\"כ, לא מוסד. את\": המתקפה של המנכ\"לית לשעבר על מירי רגב",
-      "summary": "לאחר שמירי רגב הפנתה בראיון את האחריות למחדל פליי-דובאי לגורמי הביטחון, מנכ\"לית משרד התחבורה לשעבר קרן טרנר משיבה לה וטוענת כי האחריות על אבטחת החברות הזרות מוטלת על המשרד: \"את אחראית\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373240",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-03T20:34:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21544214",
-      "title": "לראשונה: נחשפה הקלטה של התצפיתנית נועה מרציאנו ז\"ל בשבי חמאס",
-      "summary": "\"אנחנו יכולים למות מהטילים\", כך נשמעת מרציאנו בתיעוד מטלטל מתוך השבי • שלוש שנים אחרי 7 באוקטובר ומארגני שבוע הזיכרון מבטיחים כי יחשפו בהדרגה באמצעי התקשורת וברשתות החברתיות מידע נוסף שנאסף בתחקיר, ובהם מסמכים, עדויות ואירועים שלטענתם טרם הוצגו לציבור במלואם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21544214",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:32:53.000Z"
     }
   ]
 }
