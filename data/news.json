@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:30:50.172Z",
+  "updatedAt": "2026-10-08T18:45:56.037Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1foqrssmx",
+      "title": "המזכ\"צ של נתניהו ב-7/10: בלשכה זייפו סטנוגרמה; היו המלצות לחיסולים בעזה - שנדחו",
+      "summary": "אלוף במיל' אבי גיל אישר שתי חשיפות של נדב איל ב\"ידיעות אחרונות\": שינוי הפרוטוקולים בלשכת ראש הממשלה, וההתרעה למלחמה שהועברה מצד ראש השב\"כ לשעבר. \"יש לי המלצה לוועדת החקירה שתקום: אל תסתפקו בתמלול, תדרשו הקלטות\", הוא קבע. ומה עמדתו על טענות נתניהו שהלוי ובר לא העירו אותו?",
+      "link": "https://www.ynet.co.il/news/article/h1foqrssmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T18:37:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1375171",
+      "title": "יואב לימור בריאיון מיוחד על מתקפת חמאס ב-7.10: \"הכול היה ידוע\"",
+      "summary": "מזכירו הצבאי לשעבר של נתניהו אלוף (מיל') אבי גיל, העניק ריאיון לדני קושמרו ויואב לימור ששודר הערב ( חמישי) בחדשות 12 וחשף פרטים חדשים ומרתקים על החודשים של לפני ואחרי מתקפת הטרור של חמאס ב-7 באוקטובר",
+      "link": "https://www.maariv.co.il/news/politics/article-1375171",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T18:34:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "title": "חי מהיורוליג: ולנסיה - הפועל תל אביב 0:0",
+      "summary": "האדומים מגיעים לאולם בו השיגו ניצחון בלתי נשכח בדרך ליורוליג לפני שנתיים • הספרדים מקווים לשמור על מאזן מושלם במפעל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21584348",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T18:23:07.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1375157",
       "title": "אסון כבד בדרום לבנון: סרן אליאב חיים צפלמוס ז\"ל נהרג בתאונה מבצעית",
@@ -79,7 +106,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21584202",
       "title": "אסון בלבנון: סרן אליאב חיים צפלמוס, קצין בחטיבה 7, נהרג בהתהפכות האמר",
-      "summary": "דובר צה\"ל הודיע הערב כי צפלמוס נהרג בתקרית שאירעה בדרום לבנון, שלושה לוחמים נוספים נפצעו באירוע",
+      "summary": "דובר צה\"ל הודיע הערב כי צפלמוס נהרג בתקרית שאירעה בעת פעילות מבצעית בדרום לבנון, שלושה לוחמים נוספים נפצעו באירוע • מצה\"ל נמסר כי האירוע מתוחקר",
       "link": "https://www.israelhayom.co.il/news/defense/article/21584202",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -29442,42 +29469,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-03T18:48:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tmcgil",
-      "title": "בן גביר מאיים בתביעת ענק נגד ynet: \"לא נעבור על כך לסדר היום\"",
-      "summary": "השר איתמר בן גביר ומפלגת עוצמה יהודית דורשים מ־ynet להסיר את הכתבה על העימותים במצפה יריחו ולשלם מיליון שקל, בטענה לפרסום מכפיש (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tmcgil",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T18:44:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/flydubai-flight-extreme-dive-physics-explained",
-      "title": "הסוד נחשף: המטוס צנח 4.3 ק\"מ בחצי דקה – ואף אחד לא עף לתקרה",
-      "summary": "נתוני הדרמה בטיסת פליי דובאי חושפים כיצד המטוס צלל במהירות עצומה של יותר מ-14 אלף רגל בפחות מחצי דקה; מומחי תעופה מסבירים איך למרות הזוועה בקוקפיט והנזק הכבד לזנב – הנוסעים לא עפו לתקרה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/flydubai-flight-extreme-dive-physics-explained",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T18:43:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21543648",
-      "title": "באירלנד טוענים: שוטרים סרבים חקרו את תקיפת העיתונאי הישראלי",
-      "summary": "לאחר האירועים הסוערים במסיבת העיתונאים האירית, בתקשורת טוענים כי משטרת סרביה הגיעה לאצטדיון כדי לבדוק את המקרה • לאחר שדיברו עם מנהל האצטדיון וצפו בווידאו הם החליטו לסגור את החקירה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21543648",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T18:40:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21543646",
-      "title": "\"היכה אותי מאחור\": הטייס ההודי חושף פרטים חדשים בשיחה עם נתניהו",
-      "summary": "מאצ'ר סיפר כיצד טייס המשנה תקף אותו בתא הטייס וכיצד הצליח למרות המכות הקשות לפתוח את הדלת לקוקפיט • בהודו ממשיכים להתפלל להחלמתו, והוא עצמו סיפר לראש ממשלת הודו על האמונה שהחזיקה אותו ברגעי האימה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21543646",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T18:34:03.000Z"
     }
   ]
 }
