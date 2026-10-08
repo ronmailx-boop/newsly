@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T20:16:20.774Z",
+  "updatedAt": "2026-10-08T20:30:59.724Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375188",
+      "title": "לא רק ארגון פשיעה: הלילה הבנו דבר אחד חדש על נתניהו | אבי אשכנזי",
+      "summary": "דבריו של מי ששימש כמזכיר הצבאי של ראש הממשלה נתניהו בבוקר טבח ה-7 באוקטובר הערב, לא באמת הפתיעו אף אחד. עם זאת, הם גרמו לנו להבין אפילו עוד יותר, את האמת קשה על נתניהו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1375188",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-08T20:16:20.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sya36erizl",
+      "title": "מי נגד מי: קרבות \"שתיית המנדטים\" בתוך הגושים",
+      "summary": "כשבועיים וחצי לבחירות, הקמפיינים בגושים בעיצומם: נתניהו החליט לחזק את סמוטריץ' ולפעול להקטנת בן גביר. יו\"ר עוצמה יהודית בעצמו מנסה להעביר אליו מצביעי ליכוד, וש\"ס נאבקת בו. וינטר על הכוונת של כולם. ובגוש השינוי: איזנקוט קורץ למצביעי בנט ולפיד, שפתחו במאמץ להשאיר את קולות יש עתיד",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sya36erizl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T20:15:43.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syplnwhszl",
       "title": "שעות של כאוס, ורק 1 נעצר: עימותים בהפגנת החרדים נגד הרכבת הקלה בירושלים",
@@ -29361,150 +29379,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-03T20:32:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21536846",
-      "title": "מזל שור, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יופי של יום. אתם מרגישים מצויין",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21536846",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21536847",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "היום צפויים לא מעט ויכוחים וקצרים בתקשורת. העקשנות והאגו שלכם שוב מכשילים אתכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21536847",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21536964",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יש לכם סיכוי לבלות יום יוצא דופן. צפו להתפתחויות בלתי צפויות",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21536964",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21536965",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "אתם קצת תשושים ואלי אפילו חשים חריקה פה וגניחה שם. יום מתאים להישאר בבית",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21536965",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21536967",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "התחושה הפיסית משתפרת אבל עדיין אתם לא במיטבכם. יותר ממה שאתם מרגישים רע, הידיעה שיש משהו שבו אתם צריכים לטפל, משפיעה עליכם מבחינה פסיכולוגית",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21536967",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21537125",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יופי של יום. אתם מצליחים להתארגן ול-'סדר' את הראש וגם את הבית",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21537125",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21537126",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יום טוב. אתם עוברים תהליך של התפתחות אישית",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21537126",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21537127",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "הזדמנות להשתתף בפרויקט שמעניין אתכם מאוד, מגיעה אליכם במפתיע, לאחר שכבר כמעט הרמתם ידיים. לאחר שנלחמתם להשיג את הדבר שכל כך רציתם, יש לכם תחושת סיפוק חזקה",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21537127",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21537257",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יש לכם הזדמנויות רבות לפגוש אנשים מעניינים במיוחד. עם זאת, למרות שיש לא מעט אקשן, נראה ששום דבר לא מתממש, וכאילו חומק ממש מבין האצבעות",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21537257",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21537258",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "חיי הרגש שלכם עדיין נמצאים במערבולת. חוסר הבהירות אינו תורם למצב הרוח וזאת בלשון המעטה",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21537258",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21537259",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "התרופפות קשר בעל גוון רומנטי מאכזבת אתכם מאוד ויש תחושה של ניצול רגשי. אתם מעסיקים את עצמכם מעל הראש בשגרה על מנת לחשוב כמה שפחות על מה שמתרחש בחיים הפרטיים שלכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21537259",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21536844",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 04.10.2026",
-      "summary": "יום טוב בכל מה שקשור לחיבור לאמת ולמציאות. אתם רואים בבהירות את הדברים המתרחשים סביבכם ומנסים תוך כדי כך למצוא דרכים לפעולה",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21536844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21544149",
-      "title": "בנט ואיזנקוט יחד, שורדי שבי רקדו במתחם הנובה: התיעודים מההקפות",
-      "summary": "לראשונה ללא חטופים ישראלים ברצועת עזה: המונים הגיעו לאירועי ההקפות השניות בכיכר החטופים • בר קופרשטיין ואביתר דוד הורמו על כתפיים בחגיגות במתחם הזיכרון למסיבת הנובה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21544149",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:26:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmclrg",
-      "title": "אשורר שירה; תיעוד עוצמתי וראשוני מנעילת החג בחצר הקודש ויז'ניץ - הרבי הלהיב את החסידים במהלך הטיש",
-      "summary": "רבבות חסידי ויז'ניץ זכו לשהות בצילו של האדמו\"ר מויז'ניץ במהלך חג שמחת תורה • צפו בתיעוד ראשוני מהשולחן הטהור נעילת החג בראשות האדמו\"ר, במהלך הטיש כיבד האדמו\"ר את אחד מהחסידים לזמר את הפיוט 'אשורר שירה' • האדמו\"ר צפוי להיכנס בשעה הקרובה לריקודים בהיכל ביהמ\"ד הגדול, אלפים מצפים בכיליון עיניים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmclrg",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T20:23:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmclrg",
-      "title": "אשורר שירה; תיעוד עוצמתי וראשוני מנעילת החג בחצר הקודש ויז'ניץ",
-      "summary": "רבבות חסידי ויז'ניץ זכו לשהות בצילו של האדמו\"ר מויז'ניץ במהלך חג שמחת תורה • צפו בתיעוד ראשוני מהשולחן הטהור נעילת החג בראשות האדמו\"ר, במהלך הטיש כיבד האדמו\"ר את אחד מהחסידים לזמר את הפיוט 'אשורר שירה' • האדמו\"ר צפוי להיכנס בשעה הקרובה לריקודים בהיכל ביהמ\"ד הגדול, אלפים מצפים בכיליון עיניים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmclrg",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-03T20:23:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21544156",
-      "title": "משרד התחבורה טוען שלא קיבל את שמות הטייסים: ''אנחנו לא גוף מודיעיני''",
-      "summary": "גורמי המקצוע במשרד התחבורה חושפים: ישראל לא בודקת בעצמה את הטייסים של חברות תעופה זרות, ונשענת על הצהרות ועל מדינת המוצא • שמות הצוות בפליי דובאי לא הועברו מראש • ולשאלה אם כבר טסו לכאן טייסים מאיראן, אין להם תשובה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21544156",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-03T20:20:48.000Z"
     }
   ]
 }
