@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:45:45.209Z",
+  "updatedAt": "2026-10-09T10:01:01.568Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/navi-pillay-nobel-peace-prize-israel-genocide-accu",
+      "title": "זכתה בנובל לשלום - אחרי שהאשימה את ישראל ברצח עם",
+      "summary": "ועדת הבחירה באוסלו הכריזה על פילאי כזוכת פרס נובל לשלום • המשפטנית הדרום-אפריקאית עמדה בראש ועדת חקירה שפרסמה דוח המאשים את ישראל ברצח עם | התגובה הישראלית החריפה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/navi-pillay-nobel-peace-prize-israel-genocide-accu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T09:53:36.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byi4deljml",
+      "title": "ההבטחה של אבו מאזן למקרון הופרה: \"הבחירות הפלסטיניות יידחו\"",
+      "summary": "אחרי שחמאס, הג'יהאד ודחלאן הודיעו על ברית נגד אבו מאזן, סגנו חוסיין א-שייח הודיע לצרפת על דחייה בכמה חודשים של הבחירות למועצה המחוקקת שתוכננו ל-28 בנובמבר \"בשל החמרת התנאים בשטחים הפלסטיניים\". מקרון הכיר במדינה פלסטינית אחרי שאבו מאזן התחייב לקיים בחירות דמוקרטיות",
+      "link": "https://www.ynet.co.il/news/article/byi4deljml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-09T09:51:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1375297",
+      "title": "נפתלי בנט נשאל על מירי רגב - השיחה התפתחה לכיוון לא צפוי | צפו",
+      "summary": "אמה של נערה שנספתה באסון נחל צפית התעמתה עם נפתלי בנט במהלך כנס בחירות, לאחר שזה כיהן כשר החינוך באותו הזמן: \"אתה משקר\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1375297",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T09:46:47.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/bennett-confrontation-tzafit-stream-mother-electio",
       "title": "\"למה לא התפטרת?\": אם שכולה שאלה את בנט על מירי רגב - ותקפה",
@@ -28740,78 +28767,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T10:04:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/neighbor-dispute-water-leak-lawsuit-dismissed",
-      "title": "נזק עצמי: תבעה את השכנים בגלל מים – ותשלם אלפי שקלים",
-      "summary": "בעלת דירה שהגישה תביעה חריגה נגד שכניה וטענה כי אדניות המרפסת שלהם גורמות נזק כבד למרפסתה נחלה כישלון צורב; המפקחת על רישום המקרקעין דחתה את התביעה בהחלטה חד־משמעית ואילצה את התובעת לשלם אלפי שקלים בגין הוצאות משפט ושכר טרחה (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/law-and-order/neighbor-dispute-water-leak-lawsuit-dismissed",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T10:00:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21547615",
-      "title": "בשעה טובה: סקאזי הפך לאבא בפעם השלישית",
-      "summary": "הדיג'יי שיתף תמונות ראשונות מבית החולים עם בת זוגו שיר טורם והתינוק החדש • בסטורי כתב בהתרגשות: \"אני אבא שוב\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21547615",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:58:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21547843",
-      "title": "התמונות מעזה והקריאה לעוקבים: אנג'לינה ג'ולי נגד ישראל",
-      "summary": "השחקנית וזוכת האוסקר פרסמה בחשבון האינסטגרם שלה צילומי לוויין מ-Google Earth המציגים את ההרס ברצועה, וקראה להכנסת סיוע הומניטרי דחוף • בפוסט ציטטה ג'ולי נתוני או\"ם לפיהם 82% מהמבנים נפגעו, והזהירה מפני החורף המתקרב • התמונות הוויראליות אינן חדשות: גוגל אישרה ל\"ניוזוויק\" כי הן צולמו עוד בחודש יוני על ידי ספקים חיצוניים • זו אינה הפעם הראשונה שג'ולי מתבטאת בנושא מאז טבח 7 באוקטובר",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21547843",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:54:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373408",
-      "title": "\"תהרגו אותה\": מחאת התלמידים בצרפת הידרדרה לכאוס ואש ברחובות – אלפים נעצרו",
-      "summary": "מחאת תלמידי התיכון בצרפת יצאה משליטה: יותר מ־5,000 נעצרו, מאות שוטרים נפצעו ובתי ספר הוצתו. במקביל, הימין מאשים את השמאל בהסתה, והממשלה נערכת להפגנה ארצית נוספת ביום שלישי",
-      "link": "https://www.maariv.co.il/news/world/article-1373408",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T09:53:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21547665",
-      "title": "הירי המסיבי ברהט: המשטרה פשטה על בתים, איתרה אמל\"ח ועצרה שניים שנמלטו",
-      "summary": "לאחר ירי בלתי פוסק בעיר במהלך הימים האחרונים, המשטרה פשטה על מתחם מגורים בעיר לאחר הכוונה מודיעינית • אקדח מסוג גלוק, שתי מחסניות לאקדח, מחסנית M-16 מלאה, עשרות כדורי תחמושת ואמל\"ח נוסף נתפסו • בנוסף, שני חשודים שירו בשטח פתוח, נתפסו לאחר ניסיון הימלטות",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21547665",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:52:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21547406",
-      "title": "חודש לבחירות האמצע: הרפובליקנים בקרב בלימה",
-      "summary": "ב־3 בנובמבר יעמדו לבחירה 35 מתוך 100 מושבי הבית העליון של הקונגרס • הדמוקרטים זקוקים לתוספת של ארבעה מושבים עבור רוב שיהפוך את הנשיא טראמפ ל\"ברווז צולע\" • ישראל תקווה להפסד של עבדול אל-סייד במישיגן - ולהימנע מ\"גל כחול\" שיהפוך הקפיטול לזירה עוינת כמו שלא היה מעולם • מרוצי המפתח: תמונת מצב",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21547406",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:52:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21547567",
-      "title": "המכשיר החדש של אפל מגיע ליוחננוף - וזה המחיר",
-      "summary": "ממשיכה לנער את שוק התקשורת והאלקטרוניקה: לצד האייפון, הרשת תמכור את אוזניות AirPods 5 של אפל בייבוא מקביל • בדיקת \"היום\" מול דינמיקה, איי דיגיטל, KSP, פרטנר, באג - ועכשיו יוחננוף מגלה: איפה באמת הכי זול לקנות את הלהיט של אפל, ומהן המגבלות שתצטרכו לקחת בחשבון?",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21547567",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:50:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21547755",
-      "title": "עשו רעש: משטרת אילת החרימה ציוד ועיכבה לחקירה בעל עסק ודיג'יי",
-      "summary": "שוטרי משטרת אילת פעלו בסוף השבוע בשלושה מוקדים בהם התלוננו תושבים על רעש חריג במיוחד • אורחת באחד המלונות התקשרה לפנות בוקר למשטרה בשל מוזיקה מחרישת אוזניים שבקעה ממועדון סמוך",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21547755",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T09:50:16.000Z"
     }
   ]
 }
