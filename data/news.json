@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T07:30:49.533Z",
+  "updatedAt": "2026-10-09T07:45:51.246Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86920",
+      "title": "זוג רוכבי אופנוע נפגעו בינוני בתאונה בכביש 1",
+      "summary": "גבר ואישה בני 58 ו-57 שרכבו יחדיו על אופנוע נפצעו באורח בינוני בתאונה עם רכב בכביש 1 סמוך למחלף מוצא. צוותי איחוד הצלה העניקו להם טיפול רפואי ראשוני בזירה, ושניהם פונו לבית החולים שערי צדק בירושלים.",
+      "link": "https://www.kikar.co.il/scoop-news/86920",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T07:33:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1375267",
+      "title": "הקאמבק של הליכוד בסקרי המנדטים הוא בלוף? \"תלוי איך סופרים\" | סוקר \"מעריב\"",
+      "summary": "\"גוש השינוי, לאורך תקופה מסוימת, היה קרוב להשגת רוב גם ללא מפלגה ערבית כלשהי\". כך מעריך סוקר מעריב, ד\"ר מנחם לזר, שמסמן בסקרו האחרון את מה שנראה כמו עלייה בתמיכה בגוש נתניהו",
+      "link": "https://www.maariv.co.il/news/politics/article-1375267",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T07:30:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21585705",
+      "title": "4 שנים: בר כהן סגרה תכניות קדימה עם הבעל אליאב",
+      "summary": "בר כהן ואליאב טעטי עברו מהבית על הקרקע לדירה בקומה 18. כהן הסבירה על הסיבות לשינוי, והתכנון לעתיד: \"אני סיימתי בשנים הקרובות\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21585705",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:29:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21587120",
+      "title": "לוקה דונצ'יץ' על המשבר הקשה: \"לא יכול לעבור את זה שוב\"",
+      "summary": "כוכב לוס אנג'לס לייקרס הודה שהתמודד עם קשיים בעונה שעברה בעקבות הסכסוך עם ארוסתו לשעבר והמרחק מבנותיו • \"אני מקווה שהמצב ייפתר בקרוב, אבל אני לא יודע, לא אוכל לעבור עוד עונה כזו\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21587120",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:27:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21587085",
+      "title": "גורם במשטרה על דברי אבי גיל נגד ברוורמן: \"היה זיוף, ויודעים גם מי זייף\"",
+      "summary": "בעקבות הראיון של אלוף (מיל') אבי גיל ל\"היום\": במשטרה טוענים כי החקירה הושלמה והמסקנות הועברו לפרקליטות לפני שנתיים • לפי גיל, ראש הסגל ברוורמן הורה לשנות בסטנוגרמה את שעת השיחה עם רה\"מ ב-7 באוקטובר מ-06:40 ל-06:29, ואף סימן זאת בעצמו בטוש כחול",
+      "link": "https://www.israelhayom.co.il/news/local/article/21587085",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:17:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/hostage-survivors-ohel-rebbe-farbrengen",
       "title": "בליל שישי ליד הציון: פדויי השבי בהתוועדות חסידית מרגשת",
@@ -29154,96 +29199,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T07:45:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1sdfkjofe",
-      "title": "שלוש שנות מאסר לתושב באר שבע שהציע לסוכן איראני \"מידע על הכור בדימונה\"",
-      "summary": "דורון בוכובזה (30), הנדסאי חשמל ואלקטרוניקה, נעצר לפני כשנה וחצי והורשע במגע עם סוכן חוץ. בסך הכול קיבל כמה אלפי שקלים על \"משימות\" כגון פרסום פוסטים ותיעוד תמונות וסרטונים. העונש ניתן במסגרת הסדר טיעון",
-      "link": "https://www.ynet.co.il/news/article/b1sdfkjofe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-04T07:45:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj2kfykizx",
-      "title": "חשד לפגע וברח: אישה נדרסה למוות ע\"י משאית בשכונת רחביה בירושלים",
-      "summary": "מותה של כבת ה-70 נקבע בזירה ברחוב הרשב\"א, סריקות נרחבות אחר נהג המשאית הפוגע. \"מדובר באירוע קשה\", סיפרו חובשי מד\"א. \"היא שכבה על הכביש כשהיא מחוסרת הכרה ללא דופק וללא נשימה. נאלצנו לקבוע את מותה במקום\"",
-      "link": "https://www.ynet.co.il/news/article/rj2kfykizx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-04T07:43:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmdh4c",
-      "title": "תותחי מים קטלניים וארוחות חמות: כך טאיוואן גירשה סירה סינית",
-      "summary": "תקרית דרמטית בים סין הדרומי כמעט הבעירה את האזור, לאחר שספינה טאיוואנית תקפה ספינה סינית שפלשה למים הטריטוריאליים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmdh4c",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T07:42:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21545906",
-      "title": "עם מתכון ניו יורקי: מותג הנקניקיות פותח עד 40 סניפים ברחבי הארץ",
-      "summary": "קבוצת קמרי קמעונאות רוכשת 50% מרשת הנקניקיות - ותפתח עד 40 סניפים ברחבי הארץ • הכירו את \"זלמנ'ס\", המותג החדש בסגנון אמריקה - שהולך להשתלט על הרחובות",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21545906",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T07:42:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/al-jib-checkpoint-stolen-car-chase-arrest",
-      "title": "מרדף דרמטי במעבר: חשוד עם רכב גנוב פרץ את המחסום ונתפס אחרי מרדף | צפו",
-      "summary": "חשוד תושב כפר עקב ניסה לפרוץ מעבר ביטחוני עם רכב גנוב - שנגנב ממבשרת ציון • החשוד נבלם בעמודי חסימה והחל במרדף רגלי | נתפס על ידי לוחמי מג\"ב (משטרה)",
-      "link": "https://www.kikar.co.il/police/al-jib-checkpoint-stolen-car-chase-arrest",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T07:41:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21546071",
-      "title": "ה\"ניו יורק טיימס\" מסביר: מדוע היו ארבעה טייסים בטיסת \"פליי דובאי\"?",
-      "summary": "מומחי תעופה הסבירו לעיתון האמריקני מדוע נמצאו שני טייסים שלא בתפקיד על המטוס שנחטף על ידי טייס המשנה • מההסבר עולה כי לא מדובר בנוהג חריג וכי יש כמה סיבות אפשריות להימצאותם של הטייסים הנוספים על המטוס",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21546071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T07:38:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21546298",
-      "title": "פרידה מגיבור: הלך לעולמו יוסף חגואל, הפצוע מ\"הבלדה לחובש\"",
-      "summary": "יוסף חגואל, שנפצע בקרב על ירושלים בששת הימים וניצל בזכות גבורתו של החובש שלמה אפשטיין שנהרג, הלך לעולמו • למרות שהשיר לא נכתב עליהם במקור, סיפורם המפורסם הוביל להלחנת המילים של דן אלמגור על ידי אפי נצר • חגואל השתקם מהפציעה, הפך לשיאן המילואים בצה\"ל והמשיך להתנדב למילואים גם בגיל 77: \"עברנו מלחמות קשות - ונעבור גם את זו\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21546298",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T07:35:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21545982",
-      "title": "כבר לא מכחישים: שינוי הגרסה לגבי ביקור ראש המודיעין המצרי",
-      "summary": "אחרי חשיפת \"היום\" על הנחיתה בנתב\"ג של מטוס ראש המודיעין המצרי, עבאס כאמל, כשבועיים לפני 7.10, רשות שדות התעופה מסרבת למסור פרטים \"מטעמי פרטיות\" • השב\"כ מפנה לרשות, ובלשכת ראש הממשלה ובמל\"ל שותקים • ברקע: פרשת טיסת פליי דובאי מראה שהשאלה מי מפקח על הטיסות לישראל עדיין פתוחה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21545982",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T07:35:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373344",
-      "title": "טראמפ כבר פותח שמפניות: \"איראן ויתרה למעשה על תוכניות לנשק גרעיני\"",
-      "summary": "הנשיא האמריקאי הצהיר כי איראן \"ויתרה למעשה\" על תוכנית הנשק הגרעיני, אך בטהראן לא התחייבו לכך באופן רשמי. במקביל, המגעים בין המדינות נמשכים והסנקציות האמריקניות ממשיכות להכביד על הכלכלה האיראנית",
-      "link": "https://www.maariv.co.il/news/world/article-1373344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T07:32:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21546095",
-      "title": "אוהדי סלטיק ארבו לאיש החזק במועדון - וזרקו עליו כדורי טניס",
-      "summary": "במחאה יוצאת דופן, \"קולקטיב אוהדי סלטיק\" שלך אנשים שהפריעו לטורניר הגולף שבו השתתף הבעלים דרמוט דזמונד • הם שלחו מסר ברור: \"השתמש בעושרו כדי להסתתר מהאוהדים ולא לוקח אחריות\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21546095",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T07:32:13.000Z"
     }
   ]
 }
