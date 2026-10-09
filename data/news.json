@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:01:01.568Z",
+  "updatedAt": "2026-10-09T10:15:58.401Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/thailand-authorities-raid-chabad-bangkok-investiga",
+      "title": "פשיטה חסרת תקדים: רשויות תאילנד פשטו על בתי חב\"ד בבנגקוק | החשדות - ותגובת השליח",
+      "summary": "עשרה גופי אכיפה פשטו על קרן חב\"ד ואגודת יהודי תאילנד |מטרת החקירה היא להתחקות אחר מה שהרשויות מגדירות כ\"רשת עסקים ונכסים הקשורה לאזרחים ישראלים\", תוך חשד לביצוע עבירות על חוקי הבעלות הזרה | שליח חב\"ד המקומי, הרב נחמיה וילהלם מרגיע - ומבהיר: \"אין לנו מה להסתיר\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/thailand-authorities-raid-chabad-bangkok-investiga",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T10:15:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-hamas-pij-terrorists-gaza",
+      "title": "צה\"ל חיסל 3 מחבלים מחמאס וגא\"פ שקידמו מתווי טרור ברצועה",
+      "summary": "מחבלי חמאס וגא\"פ חוסלו בתקיפות מהאוויר • קידמו מתווי טרור והפרו את הסכם הפסקת האש | התקיפות במרחב עזה ואלפרקאן (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-eliminates-hamas-pij-terrorists-gaza",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T10:12:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375306",
+      "title": "היועמ\"שית גלי בהרב מיארה כבר מעורבת: פרטים חדשים על סערת אבי גיל ונתניהו",
+      "summary": "פרשת הטענות לזיוף פרוטוקולים של בוקר ה7 באוקטובר בלשכת ראש הממשלה: החקירה הסתיימה לפני זמן רב, התיק עבר לפרקליטות ונמצא על שולחנה של היועצת המשפטית לממשלה - אין עוד הכרעה",
+      "link": "https://www.maariv.co.il/news/law/article-1375306",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T10:09:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375304",
+      "title": "מהמאבק באפרטהייד ועד חקירת ישראל: פרס נובל למשפטנית נאווי פילאי",
+      "summary": "נאווי פילאי, לשעבר שופטת בבית הדין הפלילי הבינלאומי ומי שעמדה בראש ועדת החקירה של האו\"ם בנושא ישראל והפלסטינים, זכתה בפרס נובל לשלום על פועלה למען השלום והמשפט הבינלאומי",
+      "link": "https://www.maariv.co.il/news/world/article-1375304",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T10:04:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86934",
+      "title": "צה\"ל חיסל 3 מחבלים מחמאס וג'יהאד אסלאמי ברצועת עזה",
+      "summary": "צה\"ל חיסל אתמול שלושה מחבלים מארגוני חמאס והג'יהאד האסלאמי ברצועת עזה בתקיפות אוויריות. בין החוסלים: חסאם אבו אלעטא, מפקד במחלקה הרקטית של הג'יהאד האסלאמי; מגדי אלאיובי, מחבל בג'יהאד האסלאמי; ומחמד אג'א, מפקד פלוגה בחמאס. לפי צה\"ל, המחבלים קידמו לאחרונה מתווי טרור נגד כוחות צה\"ל ופעלו לשיקום יכולות הארגונים תוך הפרה שיטתית של הסכם הפסקת האש.",
+      "link": "https://www.kikar.co.il/scoop-news/86934",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T10:02:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86933",
+      "title": "נהג משאית בן 62 נפצע בינוני בהתהפכות רכבו בכביש 2",
+      "summary": "נהג משאית כבן 62 נפצע באורח בינוני בתאונה בכביש 2 סמוך לכניסה לחיפה. המשאית התהפכה, והנהג נחבל בגפיו. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני בזירה, וכוחות כיבוי פעלו במקום עקב אופי התאונה.",
+      "link": "https://www.kikar.co.il/scoop-news/86933",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T10:02:22.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/navi-pillay-nobel-peace-prize-israel-genocide-accu",
       "title": "זכתה בנובל לשלום - אחרי שהאשימה את ישראל ברצח עם",
       "summary": "ועדת הבחירה באוסלו הכריזה על פילאי כזוכת פרס נובל לשלום • המשפטנית הדרום-אפריקאית עמדה בראש ועדת חקירה שפרסמה דוח המאשים את ישראל ברצח עם | התגובה הישראלית החריפה (בעולם)",
@@ -50,6 +104,15 @@
       "pubDate": "2026-10-09T09:51:41.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21586935",
+      "title": "אסי ועדי בוזגלו מתרגשים: \"תמונה אחרונה\"",
+      "summary": "אחרי שנים מול המצלמות, אסי ועדי בוזגלו נפרדו מהבית הישן ועברו אתמול לדירה חדשה • עדי שיתפה את העוקבים ברגעים המרגשים, תיעדה את הפרידה מהבית יחד עם הכלב פוקר וביקשה: \"תאחלו לנו בהצלחה\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21586935",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T09:48:04.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1375297",
       "title": "נפתלי בנט נשאל על מירי רגב - השיחה התפתחה לכיוון לא צפוי | צפו",
       "summary": "אמה של נערה שנספתה באסון נחל צפית התעמתה עם נפתלי בנט במהלך כנס בחירות, לאחר שזה כיהן כשר החינוך באותו הזמן: \"אתה משקר\"",
@@ -59,6 +122,15 @@
       "pubDate": "2026-10-09T09:46:47.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21587754",
+      "title": "הגיעו לכבד את ליונל מסי ויצאו מושפלים: \"לא הרשו לנו כלום\"",
+      "summary": "שחקני נבחרת בנין ניסו להשיג מזכרת קטנה מהאירוע בו לקחו חלק, אבל לדברי המאמן לא קיבלו גישה לארגנטינאים • האפריקנים ניסו למצוא דרך להגיע לסגני אלופת העולם כדי לקבל תמונה או אולי להחליף חולצה: \"חסמו אותנו\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21587754",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T09:42:52.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/bennett-confrontation-tzafit-stream-mother-electio",
       "title": "\"למה לא התפטרת?\": אם שכולה שאלה את בנט על מירי רגב - ותקפה",
       "summary": "בכנס בחירות במודיעין, אם של אילן בר שלום ז\"ל תקפה את בנט על אחריותו כשר החינוך • העימות החל בשאלה על מירי רגב והסתיים בהאשמות קשות | \"אתה משקר\" (פוליטי מדיני)",
@@ -66,6 +138,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-09T09:42:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/radio/article/21587839",
+      "title": "ינון מגל נפגש עם משפחת ביבס: \"יצא רע מאד\"",
+      "summary": "מגיש ערוץ 14 נפגש עם דודה ובן דודתה של שירי ביבס ז\"ל בעקבות ההשתלחות ברדיו • \"נכנסתי ללופ שפגע בהרבה אנשים, כואב לי מאוד\"",
+      "link": "https://www.israelhayom.co.il/culture/radio/article/21587839",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T09:40:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21586129",
+      "title": "\"דימיטריס איטודיס לא אלוהים - הוא מתעסק יותר מדי עם שופטים\"",
+      "summary": "בפרק 4 של פודקאסט \"על הבאזר\", פיני גרשון ביקר את היחס לשופטים ש\"מפריע בניהול המשחק\" • במקביל, הוא החמיא לאיטודיס: \"אין הרבה מאמנים ברמה הזו, יש לו ניסיון בלתי רגיל\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21586129",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T09:30:33.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375293",
@@ -1051,7 +1141,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21586504",
       "title": "בן שרף קלע 5 נקודות - וניצח את לברון ג'יימס בבכורה שלו",
-      "summary": "הישראלי הוסיף 3 אסיסטים וריבאונד בניצחון של ברוקלין נטס 108:114 מול פילדלפיה סיקסרס, דני וולף בלט עם 9 נקודות, 6 ריבאונדים ו-4 אסיסטים • ה\"קינג\" הופיע לראשונה בקבוצתו החדשה ורשם 10 נקודות, ג'יילן בראון קלע 18",
+      "summary": "הישראלי הוסיף 3 אסיסטים וריבאונד בניצחון של ברוקלין נטס 108:114 מול פילדלפיה סיקסרס, דני וולף בלט עם 9 נקודות, 6 ריבאונדים ו-4 אסיסטים • קשר מכבי חיפה נפצע במשחק אימון וייעדר בתקופה הקרובה",
       "link": "https://www.israelhayom.co.il/sport/article/21586504",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -28632,141 +28722,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-04T10:16:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21548000",
-      "title": "\"תפיסות פילוסופיות לאותות אימון\": הניסיון של אנטרופיק ללמד מוסר",
-      "summary": "אנטרופיק הציגה מפגש יוצא דופן עם נזיר ודנטה ומומחי אתיקה במטה החברה • המטרה: לתרגם עקרונות כמו קארמה וחובה מוסרית לקוד הנדסי, כדי למנוע מבינה מלאכותית לחנף למשתמשים או לזייף אמינות",
-      "link": "https://www.israelhayom.co.il/tech/research/article/21548000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:14:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21548000",
-      "title": "\"תפיסות פילוסופיות לאותות אימון\": אנטרופיק בוחנת שילוב פילוסופיה בקוד",
-      "summary": "אנטרופיק הציגה מפגש יוצא דופן עם נזיר ודנטה ומומחי אתיקה במטה החברה • המטרה: לתרגם עקרונות כמו קארמה וחובה מוסרית לקוד הנדסי, כדי למנוע מבינה מלאכותית לחנף למשתמשים או לזייף אמינות",
-      "link": "https://www.israelhayom.co.il/tech/research/article/21548000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:14:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1373416",
-      "title": "\"הסימנים שהעידו\"- בסימן 53 שנים ל\"סימנים המעידים\" בדרך למלחמת יום הכיפורים",
-      "summary": "כשבוע לפני ציון שלוש שנים להפתעת ה-7 אוק' 2023 מובאת כאן הצצה ל\"סימנים המעידים\" של אוק' 1973 בדרך למלחמת יום הכיפורים",
-      "link": "https://www.maariv.co.il/news/military/article-1373416",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:11:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373415",
-      "title": "הטעויות של הליכוד יעלו ביוקר: \"נתניהו פספס בשריונים שלו\"",
-      "summary": "נחום פרי, כתב הכנסת של מעריב, התייחס למתיחות בגוש השינוי, לדברי יאיר גולן על מנסור עבאס ולאפשרות לשיתופי פעולה מפתיעים אחרי הבחירות: \"הכול פתוח\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373415",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:11:08.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373415",
-      "title": "\"הכל פתוח, יכול להיות משהו בין איזנקוט לנתניהו\"",
-      "summary": "נחום פרי, כתב הכנסת של מעריב, התייחס למתיחות בגוש השינוי, לדברי יאיר גולן על מנסור עבאס ולאפשרות לשיתופי פעולה מפתיעים אחרי הבחירות: \"הכול פתוח\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373415",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:11:08.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373415",
-      "title": "כתב הכנסת של מעריב: \"יכול להיות משהו בין איזנקוט לנתניהו\"",
-      "summary": "נחום פרי, כתב הכנסת של מעריב, התייחס למתיחות בגוש השינוי, לדברי יאיר גולן על מנסור עבאס ולאפשרות לשיתופי פעולה מפתיעים אחרי הבחירות: \"הכול פתוח\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373415",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:11:08.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1373412",
-      "title": "פרשת השחיתות בהסתדרות מסתבכת: הקשר האסור של בכיר העירייה במרכז",
-      "summary": "בכיר בעיריית נס ציונה ניהל קשר יחסי שוחד עם סוכן ביטוח, שכבר נחקר בעבר במסגרת פרשת \"יד לוחצת יד\" של ההסתדרות. בשלב זה, לא נמסרו פרטים על טיב טובות ההנאה שנבדקות, היקפן או התמורה שלכאורה ניתנה עבורן",
-      "link": "https://www.maariv.co.il/news/law/article-1373412",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:09:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1373412",
-      "title": "פרשת יד לוחצת יד בהסתדרות מסתבכת: הקשר האסור של בכיר העירייה עם סוכן הביטוח",
-      "summary": "בכיר בעיריית נס ציונה ניהל קשר יחסי שוחד עם סוכן ביטוח, שכבר נחקר בעבר במסגרת פרשת \"יד לוחצת יד\" של ההסתדרות. בשלב זה, לא נמסרו פרטים על טיב טובות ההנאה שנבדקות, היקפן או התמורה שלכאורה ניתנה עבורן",
-      "link": "https://www.maariv.co.il/news/law/article-1373412",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T10:09:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21547961",
-      "title": "5 פריטים שחובה לכבס לפני הפעם הראשונה",
-      "summary": "ההתלהבות מפריט חדש שזה עתה קנינו עלולה לגרום לנו לרצות להשתמש בו מיד, אבל כדאי לעצור לרגע לפני שגוזרים את התווית ולובשים",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21547961",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:09:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21547893",
-      "title": "\"הייתי דורך לך על הראש\": עברו של הטייס המחבל נחשף",
-      "summary": "פרטים חדשים נחשפים מעברו של המאם אל־חמאמי, החשוד בניסיון הפיגוע בטיסה לישראל • בחשבון ברשת X המקושר אליו פורסמו התבטאויות קשות נגד נשים, לצד הצדקות לאלימות ולהשפלה • הפוסטים פורסמו בתקופה שבה למד מרחוק באוניברסיטה בריטית",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21547893",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:08:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21547893",
-      "title": "\"הייתי דורך לך על הראש\": הפוסטים המזעזעים של טייס פליי דובאי נגד נשים",
-      "summary": "פרטים חדשים נחשפים מעברו של המאם אל־חמאמי, החשוד בניסיון הפיגוע בטיסה לישראל • בחשבון ברשת X המקושר אליו פורסמו התבטאויות קשות נגד נשים, לצד הצדקות לאלימות ולהשפלה • הפוסטים פורסמו בתקופה שבה למד מרחוק באוניברסיטה בריטית",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21547893",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:08:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/ben-ari-bagatz-abu-shahadeh-comparison",
-      "title": "בן ארי על הדיון בבג\"ץ: \"אצלי לינץ׳, אצל אבו שחאדה כפפות משי\"",
-      "summary": "ד\"ר מיכאל בן ארי מתייחס לדיון בבג\"ץ על מועמדות אבו שחאדה • \"אצלי היה לינץ׳, אצלו רוגע מוחלט\" | \"בג\"ץ לא רצה לנתץ את הקונספציה\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/ben-ari-bagatz-abu-shahadeh-comparison",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T10:08:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21547849",
-      "title": "גרושתו של חנן בן ארי משתפת: \"קפאתי, עמדתי להתעלף\"",
-      "summary": "הסופרת הדסה בן ארי שיתפה ברשתות החברתיות במפגש טעון עם טל אמסלם, אלמנתו של סרן במילואים אביחי אמסלם שנפל בשבעה באוקטובר • השתיים הגיעו לבית כנסת מקומי בפרדס חנה כדי לאפשר לאלמנה לרקוד עם ספרי התורה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21547849",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:07:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21547909",
-      "title": "סירבתם לשלם פרוטקשן - ונפגעתם? אתם עשויים לקבל עד 2 מיליון שקלים",
-      "summary": "רשות המסים פתחה מסלול לפיצוי בעלי עסקים שנפגעו כתוצאה מסחיטת דמי חסות • לפי התוכנית, בעלי עסקים - שרכוש העסק או בית מגוריהם נפגעו בעקבות סירוב לשלם דמי חסות - יוכלו להגיש תביעה • זו תקרת הפיצוי במסגרת המסלול - וכך זה יוכל להתבצע",
-      "link": "https://www.israelhayom.co.il/news/local/article/21547909",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:05:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21547757",
-      "title": "בפעם השלישית: סקאזי ושיר מרחיבים את המשפחה",
-      "summary": "אחרי שהפכו כבר פעמיים להורים, סקאזי ושיר עושים את זה שוב, והפעם המשפחה גדלה בעוד אחת",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21547757",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T10:04:50.000Z"
     }
   ]
 }
