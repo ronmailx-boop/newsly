@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:00:59.063Z",
+  "updatedAt": "2026-10-09T13:15:53.697Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjixbh8sml",
+      "title": "מלחמת התביעות נמשכת: צביקה נוה דורש מאות אלפי שקלים מעו\"ד של המיליארדר",
+      "summary": "החוקר הפרטי הגיש תביעת דיבה על סך 856,200 שקלים, בשל דברים שאמר עו\"ד יעקב בורובסקי - שהאשים אותו בסחיטה ושוחד. לטענת נוה, המשטרה חקרה את הטענות ולא מצאה ראיות. בורובסקי: \"פרסום לשון הרע באמצעות כלי התקשורת\"",
+      "link": "https://www.ynet.co.il/news/article/rjixbh8sml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-09T13:09:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sy00pb8iigl",
+      "title": "סרן אליאב נהרג בהתהפכות האמר בליטאני, בת זוגו: \"תודה על 5 שנים של אהבה אינסופית\"",
+      "summary": "הובא למנוחות אליאב חיים צפלמוס, שנהרג בתאונה במהלך פעילות מבצעית בדרום לבנון. בת זוגו ענבר: \"הבטחת לי שתשמור על עצמך, הבטחת שעוד שבוע אתה חוזר\". האם חלי: \"הדבר הראשון שאמרת כשנכנסת לקבע זה שאתה לוקח מעשר מהמשכורת ותורם למשפחה שזקוקה. לא הספקת, הלכת מוקדם מדי\"",
+      "link": "https://www.ynet.co.il/news/article/sy00pb8iigl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-09T13:08:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375343",
+      "title": "רגע קטן בהופעה של שלמה ארצי הזכיר לי איזו ישראל איבדנו",
+      "summary": "ההופעה של שלמה ארצי, הטיסה מדובאי והמזגן שהתקלקל הציפו מחדש את החרדות של החיים בישראל. בין זיכרונות השבעה באוקטובר למפגש אנושי מקרי, התעורר גם געגוע למדינה שהייתה כאן פעם",
+      "link": "https://www.maariv.co.il/news/opinions/article-1375343",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T13:01:28.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86948",
       "title": "צעיר בן 26 נפצע קשה במשחק כדורגל בתל אביב",
       "summary": "צעיר כבן 26 נפצע באורח קשה במהלך משחק כדורגל בשדרות רוקח בתל אביב. לפי חובשי איחוד הצלה, הצעיר סבל מחבלות בראשו. הוא קיבל טיפול רפואי ראשוני בזירה ופונה לבית החולים איכילוב במצב קשה.",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-09T12:58:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21588693",
+      "title": "כוכב \"שקרניות קטנות\" נשדד באיומי אקדח: \"אלוהים אמר לא הלילה\"",
+      "summary": "קיגן אלן, שגילם את טובי קבאנו בסדרה שגידלה דור שלם של צופים בישראל, הותקף בידי שני רעולי פנים במערב הוליווד • השודדים התעניינו רק בפריט אחד • והסרטון שהעלה דקות אחרי התקיפה מטלטל את המעריצים שלו בכל העולם",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21588693",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:57:52.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86947",
@@ -59,13 +95,49 @@
       "pubDate": "2026-10-09T12:57:30.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/hysibv8sgl",
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21588749",
+      "title": "\"זו השעיה לחודשיים\": סערה סביב הסרטון של \"כוכב\" בית\"ר ירושלים",
+      "summary": "קפיצה קצרה למשתלה הובילה לזעם מצד אוהדי הקבוצה על יוג'ין אנסה • החלוץ נצפה עם חולצה אדומה, ואוהדי הקבוצה התעצבנו עם עשרות תגובות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21588749",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:53:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hysibv8sgl",
       "title": "יאיר גולן: \"חד-משמעית - חיסול חמינאי האב היה טעות\"",
-      "summary": "",
-      "link": "https://www.ynet.co.il/news/article/hysibv8sgl",
+      "summary": "יו\"ר הדמוקרטים אמר כי החיסול \"לא שירת את האינטרסים של ישראל. מבחינה אסטרטגית, שאגת הארי הרעה את מצבנו, כי נתניהו השיג מטרה בלתי-מציאותית - הפלת המשטר\". הוא כינה את האוכלוסייה החרדית \"טפילית\": \"נהפוך אותם לאוכלוסייה יצרנית\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hysibv8sgl",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-09T12:51:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21588769",
+      "title": "אחרי 19 ימים: גופתו של הנעדר עמי יוגב אותרה בהר האולימפוס ביוון",
+      "summary": "משלחת \"חברים מחלצים\" איתרה את עמי יוגב, הישראלי בן ה-46 ממודיעין שהקשר עמו נותק ב-20 בספטמבר בדרך לפסגה • המתנדבים פועלים בתנאי שטח קשים לקראת רדת החשכה",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21588769",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:48:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21588762",
+      "title": "אחרי שבועות של חיפושים: אותרה גופתו של עמי יוגב, שנעדר בהר האולימפוס",
+      "summary": "אמי יוגב, בן 46 ממודיעין, נעלם במהלך טיול בהרי האולימפוס ביוון • גופתו אותרה בגובה של כ־1,800 מטרים, באזור קשה לגישה, על ידי צוות ישראלי פרטי שהשתתף בחיפושים • נסיבות מותו טרם התבררו",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21588762",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:46:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21588686",
+      "title": "\"ישראל הורתה - והממשלה ביצעה\": הסערה סביב מכבי תל אביב",
+      "summary": "הזירה הפוליטית בקפריסין לא נרגעת בעקבות הגעת הצהובים לארח במדינה • חבר פרלמנט תקף את ההחלטה של הממשלה ופקפק במניעים מאחוריה: \"אנחנו חושדים במה שכל העולם חושד\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21588686",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:38:48.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjimkpuimg",
@@ -84,6 +156,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-09T12:37:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21588613",
+      "title": "לא כרית ולא כדור שינה: הפריט שאתם חייבים להעלות לטיסה",
+      "summary": "ישיבה ממושכת בטיסות ארוכות עלולה לגרום לעומס שרירי ולפגיעה בזרימת הדם • מומחי בריאות ממליצים לארוז בתיק היד אביזר זול ונגיש לעיסוי עצמי • כך תמנעו כאבים ונפיחות בדרך ליעד",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21588613",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:35:31.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/berlin-memorial-ceremony-october-7-rabbi-teichtal",
@@ -2201,33 +2282,6 @@
       "pubDate": "2026-10-08T20:58:21.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21566776",
-      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
-      "summary": "תתקשו להישאר במקום ותרגישו שאתם זקוקים לשינוי. הבעיה היא שאין לכם יכולת לגבש החלטה חד־משמעית",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21566776",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:50:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21566777",
-      "title": "מזל שור, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
-      "summary": "התקוות והרצונות שלכם ינחו אתכם איך למצוא פתרון שיחזיר לכם את חופש הפעולה והמרחב האישי. שישי עד ראשון: תבקשו לשנות את השגרה",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21566777",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:50:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21566781",
-      "title": "מזל תאומים, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
-      "summary": "אתם חווים אופוריה בזוגיות, ותיהנו מעשייה משותפת בלי להרגיש לחוצים או מחויבים. יתעורר בכם רצון \"לעוף\" ביחד",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21566781",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:50:25.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21567018",
       "title": "מזל סרטן, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
       "summary": "קשה לקרוא אתכם. למרות מצב הרוח שלכם, תשדרו תקווה ואמונה שאכן העתיד יסתדר כמו שאתם מצפים",
@@ -2304,6 +2358,33 @@
       "title": "מזל דגים, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
       "summary": "תקופה של חוויות ושמחה בכל הקשור לבית ולמשפחה. ייתכן שתקודמו בעבודה, או שתקבלו אחריות נוספת עם משמעות לעתיד",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21567576",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:50:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21566776",
+      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
+      "summary": "תתקשו להישאר במקום ותרגישו שאתם זקוקים לשינוי. הבעיה היא שאין לכם יכולת לגבש החלטה חד־משמעית",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21566776",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:50:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21566777",
+      "title": "מזל שור, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
+      "summary": "התקוות והרצונות שלכם ינחו אתכם איך למצוא פתרון שיחזיר לכם את חופש הפעולה והמרחב האישי. שישי עד ראשון: תבקשו לשנות את השגרה",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21566777",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-08T20:50:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21566781",
+      "title": "מזל תאומים, תחזית הורוסקופ שבועית, לשבוע של 09.10.2026 - 15.10.2026",
+      "summary": "אתם חווים אופוריה בזוגיות, ותיהנו מעשייה משותפת בלי להרגיש לחוצים או מחויבים. יתעורר בכם רצון \"לעוף\" ביחד",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21566781",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T20:50:25.000Z"
@@ -28002,51 +28083,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T13:16:15.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/ryedfajjfg",
-      "title": "השופט סולברג קבע: נתניהו השתמש במשאבי ציבור לתעמולה - וישלם",
-      "summary": "יו\"ר ועדת הבחירות המרכזית חייב את נתניהו בהוצאות אישיות בסך 29 אלף שקלים, אחרי שקבע כי השתמש במשאבי ציבור לצרכים פוליטיים בחמש עתירות שהוגשו נגדו. בין היתר נטען כי באחד הסרטונים שפרסם בחשבונותיו דווקא ירדו בעריכה קטעים שנועדו לחזק את רוח הלוחמים, ואלו שמציגים את הישגיו - נשארו",
-      "link": "https://www.ynet.co.il/news/elections2026/article/ryedfajjfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-04T13:10:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/ryedfajjfg",
-      "title": "השופט סולברג קבע: נתניהו השתמש במשאבי ציבור לתעמולה - וישלם מכיסו",
-      "summary": "יו\"ר ועדת הבחירות המרכזית חייב את נתניהו בהוצאות אישיות בסך 29 אלף שקלים, אחרי שקבע כי השתמש במשאבי ציבור לצרכים פוליטיים בחמש עתירות שהוגשו נגדו. בין היתר נטען כי באחד הסרטונים שפרסם בחשבונותיו דווקא ירדו בעריכה קטעים שנועדו לחזק את רוח הלוחמים, ואלו שמציגים את הישגיו - נשארו",
-      "link": "https://www.ynet.co.il/news/elections2026/article/ryedfajjfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-04T13:10:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/midterm-elections-2026-polls-democrats-congress-se",
-      "title": "בעוד חודש זה קורה: בחירות האמצע שיקבעו את עתידו של טראמפ - וזה מה שאומרים הסקרים",
-      "summary": "בחירות האמצע בארצות הברית יתקיימו בעוד פחות מחודש בהתאם לחוקה האמריקנית | בבחירות יתמודדו מספר מושבים בסנאט וכלל המושבים בבית הנבחרים | הקונגרס שנמצא כעת בשליטה רפבוליקנית מלאה עשוי לעבור כולו - לידי המפלגה הדמוקרטית | המפלגה הרפובליקנית בפחד מהתגובה של טראמפ - וזה מה שאומרים הסקרים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/midterm-elections-2026-polls-democrats-congress-se",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T13:10:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21550000",
-      "title": "3 ימים לפני 7 באוקטובר: פיפ\"א אישרה את המחווה של נבחרת ישראל",
-      "summary": "הנבחרת תעלה למשחק מול אירלנד עם סרטים שחורים על הזרוע, לזכר הנרצחים בטבח 7 באוקטובר • הבקשה הוגשה על ידי יו\"ר ההתאחדות לכדורגל, שינו זוארץ",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21550000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T13:03:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1373487",
-      "title": "איום ה-AI בבחירות: סולברג נפגש עם ענקיות הטכנולוגיה בבית הנשיא",
-      "summary": "על רקע החשש מזיופי AI, מידע כוזב ומבצעי השפעה בבחירות, הרצוג וסולברג כינסו בבית הנשיא את נציגי מטא, גוגל, מיקרוסופט וטיקטוק. הרצוג הזהיר: \"יש גם סכנות ממשיות\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1373487",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T13:03:35.000Z"
     }
   ]
 }
