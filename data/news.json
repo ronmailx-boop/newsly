@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:15:53.187Z",
+  "updatedAt": "2026-10-09T22:30:51.816Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1s99cijmx",
+      "title": "כינתה את טראמפ \"טיטאן פוליטי\", הגנה על נתניהו: זו הדוברת החדשה בבית הלבן",
+      "summary": "חודשיים אחרי שהתפקיד הרגיש נותר ללא איוש, נשיא ארה\"ב הודיע על מינויה של קייטי זכריה מקליפורניה לדוברת הבית הלבן. היא עבדה בעבר כיועצת תקשורת בקבוצת \"טראמפ מדיה\", פרסמה מאמרים בהם השוותה את טראמפ למוחמד עלי ונפוליאון - וגם הגנה על רה\"מ נתניהו לאחר הוצאת צו המעצר נגדו",
+      "link": "https://www.ynet.co.il/news/article/b1s99cijmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-09T22:17:36.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21585078",
       "title": "היום שבו מלי וליאל יהפכו לסדרה מתקרב. ויש לי הצעה לשם",
@@ -26814,51 +26823,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T22:35:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373656",
-      "title": "פער קולות קטן: מסתמן - סבב שני לבחירות בברזיל",
-      "summary": "פלאביו בולסונארו מוביל על לולה לאחר ספירת כ-85% מהקולות בבחירות לנשיאות ברזיל. אולם, איש מהמועמדים לא חצה את רף 50% - ומסתמן כי השניים צפויים להיפגש בסיבוב שני ב-25 באוקטובר",
-      "link": "https://www.maariv.co.il/news/world/article-1373656",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T22:21:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373656",
-      "title": "ברזיל עוצרת את נשימתה: בולסונארו הבן מאבד את הפער",
-      "summary": "פלאביו בולסונארו מוביל על לולה לאחר ספירת כ-85% מהקולות בבחירות לנשיאות ברזיל. אם איש מהמועמדים לא יחצה את רף 50%, השניים צפויים להיפגש בסיבוב שני",
-      "link": "https://www.maariv.co.il/news/world/article-1373656",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T22:21:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373656",
-      "title": "ברזיל עוצרת את נשימתה: בולסונארו הבן פתח פער דרמטי",
-      "summary": "פלאביו בולסונארו מוביל על לולה לאחר ספירת כ-32% מהקולות בבחירות לנשיאות ברזיל. אם איש מהמועמדים לא יחצה את רף 50%, השניים צפויים להיפגש בסיבוב שני",
-      "link": "https://www.maariv.co.il/news/world/article-1373656",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T22:21:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
-      "title": "בהלה בבריטניה: פינוי דרמטי של מפציצי ענק אמריקאים - בשל מודיעין על איום איראני מיידי",
-      "summary": "בעקבות איום מודיעיני ממשי על מזימה בגיבוי איראני לפגוע בבסיס הבריטי: הפנטגון אישר כי השלים את פינויים הבהול של כל מפציצי ה-B1 מבריטניה בחזרה לבסיסי האם בארה\"ב | חלק מהצוותים הוזנקו לאוויר בחיפזון עוד בטרם הושלמה ההיערכות (אקטואליה)",
-      "link": "https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T22:16:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
-      "title": "בהלה בבריטניה: פינוי דרמטי של מפציצי ענק אמריקאים - בגלל איום מיידי",
-      "summary": "הפנטגון אישר השלמת פינוי כל המפציצים האמריקאים מבסיס פיירפורד | התרעות מודיעיניות על מזימה איראנית מיידית לתקוף באמצעות רחפנים | מעצר חשודים בבריטניה והכחשה איראנית (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-evacuates-b1-bombers-fairford-iran-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T22:16:09.000Z"
     }
   ]
 }
