@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:15:46.317Z",
+  "updatedAt": "2026-10-09T19:30:53.702Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375405",
+      "title": "\"דברים מסוכנים שמסיתים לעוינות\": ההסתבכות החדשה של זוהראן ממדאני",
+      "summary": "כאוס בתפוח הגדול: סוכן הגירה ירה במהגר מול ילד בן 5, והצית עימות סוער בין הממשל לראש העיר",
+      "link": "https://www.maariv.co.il/news/world/article-1375405",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T19:26:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkioihiizg",
+      "title": "המהפך של טראמפ, אחרי שיחה עם פוטין",
+      "summary": "חודש לאחר שחתם על חוק סנקציות נרחב נגד רוסיה, הדהים נשיא ארה\"ב כשבישר על הסכם קניית סולר ממוסקבה - תפנית לאחר שנים של לחץ אמריקני עקב המלחמה מול אוקראינה. המטרה: הורדת מחירי הדלק לפני בחירות האמצע",
+      "link": "https://www.ynet.co.il/news/article/bkioihiizg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-09T19:17:10.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375401",
       "title": "רעידת אדמה בעוצמה 7.7 בפנמה: אזהרת צונאמי בתשע מדינות",
       "summary": "רעידת אדמה חזקה הכתה סמוך לחופה הדרומי של פנמה והורגשה גם בקוסטה ריקה. תושבים תועדו נמלטים מבניינים, ואזהרות מפני גלי צונאמי מסוכנים פורסמו לאורך חופי מרכז ודרום אמריקה וגם בהוואי",
@@ -39,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-09T19:12:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21590004",
+      "title": "הפגנות ברחבי העולם: אזהרה לישראלים שנמצאים בחו''ל בסוף השבוע",
+      "summary": "לקראת סוף השבוע, שבו צפויות הפגנות ברחבי העולם סביב שלוש שנים לטבח 7 באוקטובר, משרד החוץ פרסם הנחיות לישראלים השוהים מחוץ לגבולות המדינה • ממה מומלץ להתרחק • וזה המספר שכדאי לשמור בטלפון כבר עכשיו למקרה חירום",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21590004",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T19:09:53.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21589975",
@@ -366,7 +393,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
-      "title": "2 מיליון יורו, שחקן ליגת האלופות וירדן שועה: ה-11 שלא משחקים",
+      "title": "ירדן שועה לא לבד: 11 כוכבים שמתייבשים על הספסל בליגת העל",
       "summary": "אחרי חמישה מחזורים בליגת העל, לא מעט שחקנים בולטים עדיין לא קיבלו את האמון • בצל סערת כוכב בית\"ר ירושלים, בחרנו את ההרכב הטוב ביותר של השחקנים שנותרו מחוץ למגרש • מכבי תל אביב עם הכי הרבה נציגים, כל הקבוצות הגדולות בפנים",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
       "source": "ישראל היום",
@@ -375,7 +402,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
-      "title": "ירדן שועה לא לבד: 11 כוכבים שמתייבשים על הספסל בליגת העל",
+      "title": "2 מיליון יורו, שחקן ליגת האלופות וירדן שועה: ה-11 שלא משחקים",
       "summary": "אחרי חמישה מחזורים בליגת העל, לא מעט שחקנים בולטים עדיין לא קיבלו את האמון • בצל סערת כוכב בית\"ר ירושלים, בחרנו את ההרכב הטוב ביותר של השחקנים שנותרו מחוץ למגרש • מכבי תל אביב עם הכי הרבה נציגים, כל הקבוצות הגדולות בפנים",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
       "source": "ישראל היום",
@@ -831,6 +858,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T12:46:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21588686",
+      "title": "\"ישראל הורתה - והממשלה ביצעה\": ההתנגדות החריפה למכבי תל אביב",
+      "summary": "הזירה הפוליטית בקפריסין לא נרגעת בעקבות הגעת הצהובים לארח במדינה • חבר פרלמנט תקף את ההחלטה של הממשלה ופקפק במניעים מאחוריה: \"אנחנו חושדים במה שכל העולם חושד\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21588686",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T12:38:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21588686",
@@ -27210,51 +27246,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-04T19:31:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/tmedk0",
-      "title": "גלריה מיוחדת: מראות מהקבלת פני רבו המרכזית לרבני תימן",
-      "summary": "מעמד מרגש של הקבלת פני רב התקיים ביום רביעי, חוה״מ סוכות, במושב אחיעזר, בהשתתפות הרבנים הראשיים לישראל, עשרות רבני ערים, דיינים וחשובי רבני ק״ק תימן (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/tmedk0",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-04T19:24:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21552282",
-      "title": "אנה ארונוב נחתה למשבר, אבל התעשתה: \"כלום לא עצר אותי\"",
-      "summary": "אחרי חופשה משפחתית באיטליה, אנה ארונוב חזרה לארץ עם בעלה אייל אלגבי ובנם אדם, וגילתה שיש בעיה קטנה שמפריעה בדרך לחזרה לשגרה מלאה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21552282",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:24:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21552713",
-      "title": "הצלקות לא נעלמות: המחיר הנפשי של שלוש שנות מלחמה",
-      "summary": "נתוני כללית מצביעים על זינוק של 121.3% בפניות ילדים ובני נוער למיון פסיכיאטרי • בקרב מפוני הדרום שיעור הפוסט־טראומה גבוה פי 6 מלפני המלחמה • בצפון נרשמה עלייה של כ־60% באבחון כולסטרול ושומנים בדם",
-      "link": "https://www.israelhayom.co.il/health/article/21552713",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:22:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373622",
-      "title": "הקרב נגד \"נז\"א\" עולה שלב: הארגונים היהודיים יוצאים למאבק",
-      "summary": "כמאה מפגינים מחו בהמפטונס נגד הקרנת \"נז\"א\", וב-IAC השיקו עצומה הקוראת לצרף להקרנות עדויות ניצולים וחומרי רקע. חבר הקהילה עידו כהן: \"פשוט תפסיקו לשקר. האמת תנצח בסופו של דבר\"",
-      "link": "https://www.maariv.co.il/news/world/article-1373622",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T19:17:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21552587",
-      "title": "ללא מחטים: הטבליות שמחליפות את זריקות ההרזיה",
-      "summary": "מחקר חדש מצא כי מטופלים שעברו מזריקות שבועיות לטבלית יומית המשיכו לרדת במשקל • בתוך שלושה חודשים הם השילו בממוצע כ-4 ק\"ג • 41% מהמשתתפים איבדו 5% או יותר ממשקל גופם והשיפור נמשך",
-      "link": "https://www.israelhayom.co.il/health/article/21552587",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:15:55.000Z"
     }
   ]
 }
