@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T08:01:02.845Z",
+  "updatedAt": "2026-10-09T08:15:45.731Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/peoples/tmms23",
+      "title": "הפייטן אלחנן משמרתי חגג בר מצווה לבנו; מי הגיע לאחל?",
+      "summary": "הפייטן אלחנן משמרתי חגג אמש (חמישי) בר מצווה לבנו מאיר, בהשתתפות בכירי תעשיית המוזיקה • צפו (ברנז'ה)",
+      "link": "https://www.kikar.co.il/peoples/tmms23",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-09T08:13:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375274",
+      "title": "\"היו בו תכונות של מנהיג\": המחנכת של סרן אליאב חיים צפלמוס נפרדת מתלמידה",
+      "summary": "גלית סביר, שחינכה את אליאב בתיכון קריית חיים, מספרת על צעיר מבריק שהמשיך לבקר את מוריו גם כשהפך לקצין: ״היו בו תכונות של מנהיג״. אליאב, בן 21, נפל אתמול בדרום לבנון",
+      "link": "https://www.maariv.co.il/news/israel/article-1375274",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T08:08:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375273",
+      "title": "אחרי חמש שנים: ישראל חזרה לדירוג הגבוה ביותר במאבק בסחר בבני אדם",
+      "summary": "לאחר מספר שנים: מחלקת המדינה האמריקאית העלתה את ישראל לקבוצת הדירוג הראשונה בתחום המאבק בסחר בבני אדם",
+      "link": "https://www.maariv.co.il/news/law/article-1375273",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T08:00:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21587094",
+      "title": "מהפכה ביפן? הנסיכה האהובה שעשויה לשנות את פני בית המלוכה",
+      "summary": "הצעירה בת ה־24, נחשבת לבת המלוכה האהובה במדינה וזוכה לתמיכה ציבורית רחבה אך החוק היפני מונע ממנה לרשת את כס החרצית • כשמספר בני משפחת הקיסר מצטמצם וסקר מצביע על תמיכה של 72% בקיסרית אישה, גובר הלחץ לשנות את המסורת בת מאות השנים",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21587094",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:58:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21587393",
+      "title": "נועה ארגמני אסירת תודה: \"מרימים אותי כשקשה\"",
+      "summary": "שורדת השבי שיתפה תמונה ממפגש ביתי עם חברים ושיבחה את תמיכתם: \"גורמים לי להרגיש מוקפת\" • המחווה מגיעה יומיים אחרי שספדה ביום הזיכרון לחבריה אורי טשרניחובסקי ורועי ביבר ז\"ל",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21587393",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:55:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375269",
+      "title": "כבר 13 שנים הוא עומד נטוש - מלון הטייסים המיתולוגי הסמוך לנתב\"ג הפך לפיל לבן",
+      "summary": "מלון אוויה, שהיה בשנות ה-60 סמל יוקרתי ליהוד ומוקד לצוותי אוויר, אנשי עסקים ובליינים, עומד שכוח אל כבר שנים. כעת מקודם תכנון חדש שעשוי לשנות את פני המתחם",
+      "link": "https://www.maariv.co.il/news/israel/article-1375269",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T07:52:32.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1375269",
       "title": "כבר 13 שנים הוא עומד נטוש - מלון הטייסים המיתולוגי ביהוד הפך לפיל לבן",
       "summary": "מלון אוויה, שהיה בשנות ה-60 סמל יוקרתי ליהוד ומוקד לצוותי אוויר, אנשי עסקים ובליינים, עומד שכוח אל כבר שנים. כעת מקודם תכנון חדש שעשוי לשנות את פני המתחם",
@@ -39,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-09T07:52:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21587138",
+      "title": "טום שלח מ\"המירוץ למיליון\" מודה: \"התאהבתי בה\"",
+      "summary": "זוכה הריאליטי בקשת 12 נהנה מחופשה מפנקת בבאלי ושיתף את העוקבים בחוויית המסאז' שעבר: \"תשמעו את הקול שלה, כבר שם נרדמתי\" • וגם: מה ביקשה ממנו המעסה לעשות בשבילה?",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21587138",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:50:19.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmmqsk",
@@ -50,6 +113,15 @@
       "pubDate": "2026-10-09T07:47:23.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21574101",
+      "title": "היא היתה \"האדם האחרון שחיבר בין כולם\". עכשיו האגדה איננה",
+      "summary": "ההתכתבויות עם האח הגדול יצחק רבין (\"שלום רב, אחיך הצולע\"), זיהוי ההסתה נגדו (\"אצלה כן נדלקה הצ'קלקה\"), המתיחות עם הגיסה לאה - והקריאה לפיוס • רחל רבין, ממייסדות קיבוץ מנרה, הלכה לעולמה לפני שנכדתה מיה ולנטיין הספיקה לפרסם את הביוגרפיה המרתקת שכתבה עליה",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21574101",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:45:04.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sks08glsme",
       "title": "\"הייתי בהליכת בוקר - ופתאום ראיתי שני כטב\"מים\": התקרית המוזרה בחוף",
       "summary": "שלומי בן ה-65 זיהה את הכטב\"מים בקריית חיים - ונאלץ להתקשר למשטרה 3 פעמים עד שהוזעק חבלן. בינתיים, המצילים סגרו את החוף והרחיקו את המתרחצים. בהמשך התברר כי מקור השברים בניסוי של חברת רפאל, שככל הנראה התפזרו באזורים נוספים",
@@ -57,6 +129,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-09T07:43:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21587271",
+      "title": "יתושות נגועות בקדחת הנילוס נלכדו בצפון ובמרכז | אלו הערים בסיכון",
+      "summary": "במסגרת הניטור השוטף אומתו במעבדות משרד הבריאות יתושות נגועות • המשרד להגנת הסביבה פרסם הנחיות לרשויות שימנעו את ההתרבות וההידבקות • מנהל אגף מזיקים והדברה במשרד: \"המטרה - להפחית את הסיכון לפגיעה בבריאות הציבור\"",
+      "link": "https://www.israelhayom.co.il/health/article/21587271",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:42:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21587227",
+      "title": "מיליונים על סף רעב: אל ניניו מייבש את צפון אפריקה ואמריקה הלטינית",
+      "summary": "ארגון המטאורולוגיה העולמי: התחממות חריגה של מי האוקיינוס השקט מזינה אל ניניו עוצמתי, שמשבש את מפות המשקעים בעולם • בסינגפור ובתאילנד ערפיח משריפות יער באינדונזיה ומלזיה מכסה את השמים, ובסודאן, בצ'אד ובקולומביה מיליונים מתמודדים עם בצורת וסכנת רעב",
+      "link": "https://www.israelhayom.co.il/news/environment/article/21587227",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T07:37:37.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/86920",
@@ -29046,87 +29136,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T08:16:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21546678",
-      "title": "סירנות, יריות באוויר ומעצר: תיעוד מהמרדף הדרמטי אחר השב\"ח בכביש 1",
-      "summary": "שב\"ח בן 17 מחברון, שעל פי החשד גנב רכב, הוביל למרדף סוער בכביש 1 • המנוסה הסתיימה במחלף סחרוב לאחר שפגע באוטובוס, נעצר - ובחיפוש ברשותו נתפס גז פלפל",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21546678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T08:14:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21546704",
-      "title": "עומר מילר מסכם: \"היו לי חיים מופלאים\"",
-      "summary": "השף ענה לשאלות הגולשים על החיים הסוערים לפני שנולדו הילדים והבהיר כי אינו מתגעגע • \"היה לי עשור מופלא של סקס, סמים ורוקנרול\" • על הזוגיות האינטנסיבית והילדים: \"זה קשה ברמות\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21546704",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T08:14:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21546602",
-      "title": "\"החליטו לא להשתתף\": כוכבי \"חברים\" סירבו לסרט על מת'יו פרי",
-      "summary": "הפרויקט הדוקומנטרי על כוכב \"חברים\" יוצא לדרך ללא חבריו לקאסט • אלו הפרטים על המהלך המפתיע לקראת עליית הסדרה, ועל הרקע לסירוב מצידה של ג'ניפר אניסטון",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21546602",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T08:13:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373316",
-      "title": "דונלד טראמפ לוחץ לקדם את השינוי ההיסטורי בארה\"ב: \"עכשיו\"",
-      "summary": "נשיא ארה\"ב ממשיך לנסות לקדם את ביטול שעון החורף בארצות הברית. הוא ביקר את הסנאטור הרפובליקני שמונע זאת, ואף פרסם את מספרו האישי",
-      "link": "https://www.maariv.co.il/news/world/article-1373316",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T08:10:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373340",
-      "title": "צפון קוריאה ביצעה ניסוי טילים מסוכן: דבר אחד קריטי נשאר לא ברור",
-      "summary": "במסגרת ניסוי צבאי שביצעה, שיגרה צפון קוריאה טיל בליסטי לטווח בינוני. לטענת כלי התקשורת הצפון קוריאניים, מטרת התרגיל הצבאי הייתה לאמן את הכוחות בשטח המפעילים את מערכת הנשק האסטרטגית ההיפרסונית",
-      "link": "https://www.maariv.co.il/news/world/article-1373340",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T08:10:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/education/article-1373360",
-      "title": "אחרי שנים של מאבק: אגודת הסטודנטים של האוניברסיטה הפתוחה פורשת מהתאחדות הסטודנטים הארצית",
-      "summary": "ברקע הצעד יוצא הדופן; טענות לשימוש בכספי הסטודנטים למטרות פוליטיות שנויות במחלוקת, תת יצוג לסטודנטים של הפתוחה ואף איום אישי כלפי יו\"רית האגודה",
-      "link": "https://www.maariv.co.il/news/education/article-1373360",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T08:08:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21546432",
-      "title": "\"התרגשתי ואז בכיתי\": השיר שנוצר לזכרו של גיבור ישראל שחילץ את החטופים",
-      "summary": "הזמר והיוצר אוהד בר מוציא שיר מרגש לזכרו של ארנון זמורה ז\"ל, שנהרג במבצע לחילוץ ארבעת החטופים • השיר נכתב מתוך סערת הרגשות של המבצע וזכה לברכתה של משפחת זמורה",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21546432",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T08:05:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21546549",
-      "title": "לאחר מצוד של שנה - נעצר נוכל סדרתי שהתחזה למילואימניק ועקץ חסרי ישע",
-      "summary": "על פי החשד, החשוד נהג לפנות לאזרחים ולהציג עצמו כאיש מילואים שנקלע למצוקה כלכלית ואיבד את ארנקו • לאחר ששכנע אותם להעביר לו כספים כהלוואה - נעלם • היקף ההונאות נאמד בסך כולל של עשרות אלפי שקלים ששלשל לכיסו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21546549",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T08:03:31.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%99%D7%A8%D7%99_%D7%9C%D7%90_%D7%A4%D7%95%D7%A1%D7%A7_%D7%91%D7%A8%D7%94%D7%98___%D7%A6%D7%A8%D7%99%D7%9A_%D7%9C%D7%94%D7%9B%D7%A0%D7%99%D7%A1_%D7%A4%D7%94_%D7%A6%D7%91%D7%90_",
-      "title": "הירי לא פוסק ברהט: \"צריך להכניס פה צבא\"",
-      "summary": "הנשק הבלתי חוקי מציף את מדינת ישראל, ועבריינים בדואים לא מפחדים לירות בו לאור יום. מה יקרה ביום שבו הנשק יופנה כלפי מדינת ישראל?",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%99%D7%A8%D7%99_%D7%9C%D7%90_%D7%A4%D7%95%D7%A1%D7%A7_%D7%91%D7%A8%D7%94%D7%98___%D7%A6%D7%A8%D7%99%D7%9A_%D7%9C%D7%94%D7%9B%D7%A0%D7%99%D7%A1_%D7%A4%D7%94_%D7%A6%D7%91%D7%90_",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-04T08:02:00.000Z"
     }
   ]
 }
