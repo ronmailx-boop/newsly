@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:01:59.061Z",
+  "updatedAt": "2026-10-09T19:15:46.317Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375401",
+      "title": "רעידת אדמה בעוצמה 7.7 בפנמה: אזהרת צונאמי בתשע מדינות",
+      "summary": "רעידת אדמה חזקה הכתה סמוך לחופה הדרומי של פנמה והורגשה גם בקוסטה ריקה. תושבים תועדו נמלטים מבניינים, ואזהרות מפני גלי צונאמי מסוכנים פורסמו לאורך חופי מרכז ודרום אמריקה וגם בהוואי",
+      "link": "https://www.maariv.co.il/news/world/article-1375401",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-09T19:12:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21589975",
+      "title": "ההחלטה הדרמטית של הניקס - שמסכנת את עתיד כוכבי האליפות",
+      "summary": "בניו יורק החליטו לעצור לחלוטין את השיחות על חוזים חדשים - במהלך עם סיכון גדול • קארל אנתוני טאונס, ג'וש הארט ושחקנים נוספים זכאים להארכת חוזה, כשהם כבר ביקרו בפומבי את המו\"מ: \"זה אפילו לא קרוב לקרות\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21589975",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T18:59:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21589930",
+      "title": "חלונות רועדים, תושבים נמלטים: רעידת אדמה בעוצמה 7.6 טלטלה את פנמה | צפו",
+      "summary": "הרעש העוצמתי היכה סמוך לחופה הדרומי של המדינה, בעומק של כעשרה קילומטרים, והורגש גם בבירת קוסטה ריקה • בעקבות הרעידה פורסמו אזהרות מפני צונאמי לאורך חופי האוקיינוס השקט, בין היתר במרכז אמריקה ובצ'ילה",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21589930",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T18:45:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21589934",
+      "title": "שלום מיכאלשווילי: ״כמעט לא תפקדתי״",
+      "summary": "הקומיקאי האהוב מגלם בסרט החדש של אבי נשר את אחד מסמלי הגבורה של 7 באוקטובר, אב שנלחם בדרכו אל בתו הפצועה • ההכנה הפיזית המפרכת נמשכה כחצי שנה • ובטורונטו הצופים פשוט סירבו להאמין למה שאבי נשר סיפר להם עליו",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21589934",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T18:44:28.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rys6hsisgl",
       "title": "תקיפה חריגה בעומק לבנון: היעד - מחבל סורי שפעל בהכוונת איראן",
@@ -88,7 +124,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byptrsisge",
       "title": "רעידת אדמה עזה בעוצמה 7.6 במרכז אמריקה - וחשש מצונאמי",
-      "summary": "הרעש הורגש היטב בבירת פנמה, בארה\"ב הזהירו שגלי צונאמי עלולים להגיע תוך 3 שעות למדינה ולקולומביה",
+      "summary": "הרעש הורגש היטב בבירת פנמה, וגרם לנזקים בכמה מחוזות. בארה\"ב הזהירו שגלי צונאמי עלולים להגיע תוך שעות למדינה ולקולומביה. צפו בתיעודים מפנמה סיטי",
       "link": "https://www.ynet.co.il/news/article/byptrsisge",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -327,6 +363,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T15:39:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
+      "title": "2 מיליון יורו, שחקן ליגת האלופות וירדן שועה: ה-11 שלא משחקים",
+      "summary": "אחרי חמישה מחזורים בליגת העל, לא מעט שחקנים בולטים עדיין לא קיבלו את האמון • בצל סערת כוכב בית\"ר ירושלים, בחרנו את ההרכב הטוב ביותר של השחקנים שנותרו מחוץ למגרש • מכבי תל אביב עם הכי הרבה נציגים, כל הקבוצות הגדולות בפנים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-09T15:33:20.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21581971",
@@ -27210,51 +27255,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-04T19:15:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21552630",
-      "title": "הזירה שעלולה להתפוצץ: האתגר הביטחוני שמחכה למדינת ישראל",
-      "summary": "יותר מחצי מיליון ישראלים, צירי תנועה משותפים, טרור פלסטיני, אלימות יהודית ולחץ בינלאומי: יהודה ושומרון הפכו לזירה רגישה במיוחד, שבה אירוע מקומי עלול להתגלגל במהירות למשבר ביטחוני, מדיני וחברתי רחב",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21552630",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:15:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21552639",
-      "title": "האירי שספק אם הצטרף למחאה - ומשחק לצד אקס מכבי חיפה",
-      "summary": "ג'ייסון נייט, קשר בריסטול סיטי, נראה כמי שבחר שלא לקחת חלק באקט הקבוצתי עד הסוף • בעבר התבטא נגד קיום המשחק, ומשחק לצד ליסב עיסאת באנגליה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21552639",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:10:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21552639",
-      "title": "האירי שספק הצטרף למחאה - ומשחק עם אקס מכבי חיפה",
-      "summary": "ג'ייסון נייט, קשר בריסטול סיטי, נראה כמי שבחר שלא לקחת חלק באקט הקבוצתי עד הסוף • בעבר התבטא נגד קיום המשחק, ומשחק לצד ליסב עיסאת באנגליה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21552639",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-04T19:10:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373620",
-      "title": "ילדי עזה ושריפת דגלי ישראל: מחאת התלמידים בצרפת החליפה כיוון",
-      "summary": "מאיר חביב טען כי מחאת התלמידים בצרפת חרגה מהמאבק על תנאי הלימוד והפכה לגל אלימות בהשפעת השמאל הקיצוני: \"הם צועקים אנחנו ילדי עזה. מה הקשר דגלי פלסטין, מה הקשר לשרוף את דגלי ישראל?\"",
-      "link": "https://www.maariv.co.il/news/world/article-1373620",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T19:07:08.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373620",
-      "title": "המחאה שהסלימה בצרפת: \"מה הקשר לשרוף דגלי ישראל?\"",
-      "summary": "מאיר חביב טען כי מחאת התלמידים בצרפת חרגה מהמאבק על תנאי הלימוד והפכה לגל אלימות בהשפעת השמאל הקיצוני: \"הם צועקים אנחנו ילדי עזה. מה הקשר דגלי פלסטין, מה הקשר לשרוף את דגלי ישראל?\"",
-      "link": "https://www.maariv.co.il/news/world/article-1373620",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-04T19:07:08.000Z"
     }
   ]
 }
