@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:30:49.371Z",
+  "updatedAt": "2026-10-10T09:45:47.249Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375487",
+      "title": "הצבא האיראני הושמד? הארסנל האיראני ממשיך להשתקם - וגם פסי הייצור",
+      "summary": "חרף הצהרות חוזרות של טראמפ בדבר פגיעה אנושה באיראן, דיווח בבלומברג חושף, כי טהרן ממשיכה למלא את מאגר הטילים שלה, בסיוע רוסי",
+      "link": "https://www.maariv.co.il/news/world/article-1375487",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T09:43:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21590589",
+      "title": "הערכות בתעשייה: אירוע קטסטרופלי צפוי בתוך חודשים",
+      "summary": "בכירים בענף ה-AI מעריכים כי מתקפת סייבר קטסטרופלית על תשתיות מים, חשמל או מוסדות פיננסים תתרחש בתוך חצי שנה עד שנה • לפי דיווח ב-Axios, הנהלות OpenAI ואנתרופיק מקיימות סימולציות חירום ומגבשות אסטרטגיה להגבלת הרגולציה וההשלכות הפוליטיות לאחר האסון הגדול הראשון",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21590589",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T09:25:39.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375483",
       "title": "\"תועבה מוסרית\": המתקפה על ממדאני בעקבות 7 באוקטובר",
@@ -165,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T07:49:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375470",
+      "title": "האזרחים זועמים, מודי שותק: הסיפור שמטלטל את הודו",
+      "summary": "מחאת ענק בהודו בעקבות מחיקת 130 מיליון שמות מפנקס הבוחרים, במהלך שלטענת המפגינים נועד לחזק את שלטון מודי. המשטרה חסמה את ניו דלהי, השביתה רכבות ומטרו, ניתקה את האינטרנט ועצרה מנהיגי מחאה",
+      "link": "https://www.maariv.co.il/news/world/article-1375470",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T07:36:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375470",
@@ -25194,78 +25221,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T09:46:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21555836",
-      "title": "יצאו מהביוב ליד המלון של נתניהו: \"חיפשנו זהב\"",
-      "summary": "שני גברים נעצרו אחרי שיצאו ממכסה ביוב במנהטן, סמוך למלון שבו שהה נתניהו בזמן עצרת האו\"ם, והסבירו לשוטרים שחיפשו זהב • מומחה שירד לביובים של העיר יותר מ-100 פעמים מגלה מה הדבר הכי יקר שמצא שם",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21555836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:44:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21555858",
-      "title": "מהפכה: כך יראה מעתה מסך הוואטסאפ שלכם",
-      "summary": "החברה מתכננת לחסל את לשונית העדכונים, לשלב את הערוצים ישירות ברשימת הצ'אטים ולקבור את הפיצ'רים הישנים • במקביל, גרסת הבטא חושפת כלי אבטחה קריטי שחוסם סוכני בינה מלאכותית מלקרוא את השיחות שלכם",
-      "link": "https://www.israelhayom.co.il/tech/apps/article/21555858",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:42:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21555650",
-      "title": "בן 16 מול 37: פער של יותר מ-20 שנה בליגת העל",
-      "summary": "הילאי לביא מעירוני אילת אפילו לא נולד כשאוגוסטין רוביט ממכבי אשדוד כבר היה כדורסלן מקצועי • הכירו את השחקן הכי מבוגר בישראל העונה, ואת זה שעדיין לא חגג 17: \"משתדל לא להתעסק בזה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21555650",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:41:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/airport-baggage-theft-luxury-watch",
-      "title": "נדהם כשגילה מה לקחו לו מהמזוודה בנמל התעופה; המצלמות חשפו הכל",
-      "summary": "שעון פאטק פיליפ בשווי כמעט 80 אלף דולר נעלם ממזוודה בנמל התעופה בניו אורלינס • שני עובדי טיפול במטען נעצרו לאחר שצילומי אבטחה חשפו אותם • הם שוחררו בערבות של 25,000 דולר כל אחד • איך ניצלו את הגישה החופשית למזוודות הנוסעים? (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/airport-baggage-theft-luxury-watch",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T09:39:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmffx9",
-      "title": "ווילון בתא הטייס ועישון במטוס: התגעגענו לטיסות של פעם",
-      "summary": "מאיסורי העישון ההדרגתיים ועד לדלתות המחוזקות בתא הטייס: כך איבדה חוויית הטיסה את התמימות של אמצע המאה הקודמת והפכה לסביבה המאובטחת בעולם (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmffx9",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T09:39:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373817",
-      "title": "הפתעה במפלגה הרפובליקנית: השם החדש ששוקל לרוץ לנשיאות",
-      "summary": "המרוץ לנשיאות ארה\"ב ב-2028 מתחיל להתחמם, כששורת בכירים כבר בוחנים את האפשרות להתמודד. הסנאטור ג'ון קנדי אישר כי הוא שוקל להצטרף למרוץ, אך הדגיש שטרם קיבל החלטה",
-      "link": "https://www.maariv.co.il/news/world/article-1373817",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T09:39:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21555845",
-      "title": "טום אביב על ההתמכרויות: \"הייתי צריך להימנע\"",
-      "summary": "השף דיבר בפודקאסט 'מאחורי הצלחת' על ההתמודדות עם השימוש בסמים ובאלכוהול • אביב מתייחס למיתוג 'הילד הרע' שליווה אותו בתחילת הדרך • \"ויתרתי מהר מאוד על העובדה שיאהבו אותי\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21555845",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:39:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21555372",
-      "title": "150 מיליון דולר: ההפסד והכישלון הענק של טום קרוז",
-      "summary": "סרטו החדש של הכוכב, \"דיגר\", מתרסק בקופות בצפון אמריקה • לפי ההערכות, הוא עשוי להפוך לאחד הפרויקטים המפסידים בכל הזמנים",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21555372",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:38:27.000Z"
     }
   ]
 }
