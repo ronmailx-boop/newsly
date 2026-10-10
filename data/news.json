@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:45:54.385Z",
+  "updatedAt": "2026-10-10T08:00:54.469Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T07:26:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1375426",
+      "title": "חדירה לעומק ועיוור המכ\"מים: תרגיל החמקנים הישראלי בשמי איראן נחשף | דיווח",
+      "summary": "לפי דיווח ב\"אירם ניוז\", מטוסי F-35I ישראליים תרגלו פעולה מעל איראן בגיבוי לוגיסטי אמריקאי, במקביל להכנת אפשרויות תקיפה בפנטגון ולבחינת תרחיש של מהלך משותף נגד טהרן",
+      "link": "https://www.maariv.co.il/news/military/article-1375426",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T07:24:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1375426",
@@ -138,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T06:05:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375453",
+      "title": "מקרון ממש לא יאהב את זה: המהלך החדש של אבו מאזן",
+      "summary": "הבחירות לרשות הפלסטינית צפויות להידחות לספטמבר 2027 בשל המצב הביטחוני והמדיני. יותר מ-20 שנה ללא בחירות, אבו מאזן שוב דוחה את ההצבעה - ושר החוץ גדעון סער תוקף: \"מוליך שולל את הקהילה הבינלאומית\"",
+      "link": "https://www.maariv.co.il/news/world/article-1375453",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T06:03:12.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375453",
@@ -25806,150 +25824,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-05T08:01:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373758",
-      "title": "האם המבקר החריף של ישראל באירופה בדרך הביתה? ספרד בדרך לבחירות",
-      "summary": "ראש ממשלת ספרד פדרו סנצ'ס פיזר את הפרלמנט והכריז על הקדמת הבחירות הכלליות. הוא מנסה לנצל את הזעם על משבר הדיור כדי למנף את הכוח של השמאל - אבל ייתכן שדווקא מפלגות הימין ישיגו רוב",
-      "link": "https://www.maariv.co.il/news/world/article-1373758",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T08:00:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373758",
-      "title": "ההימור הגדול של סנצ'ס: הממשלה בספרד נפלה - ונקבע תאריך לבחירות",
-      "summary": "ראש ממשלת ספרד פדרו סנצ'ס פיזר את הפרלמנט והכריז על הקדמת הבחירות הכלליות. הוא מנסה לנצל את הזעם על משבר הדיור כדי למנף את הכוח של השמאל - אבל ייתכן שדווקא מפלגות הימין ישיגו רוב",
-      "link": "https://www.maariv.co.il/news/world/article-1373758",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T08:00:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tmfcmv",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00 (כיכר FM)",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/tmfcmv",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T07:57:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/mother-four-daughters-flydubai-prayer-miracle",
-      "title": "ההוראה של האימא ל-4 בנותיה ברגעי הדרמה בטיסה: \"זה היה מפחיד\"",
-      "summary": "ליטל הירשל-שחר, אם לארבע, שהתה בטיסת פליי דובאי עם בנותיה לאחר שחזרה מחופשה בתאילנד: \"דיברתי עם אלוקים ללא הפסקה ואמרתי לבנות להתפלל, נס עטוף בנס עטוף בנס\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/mother-four-daughters-flydubai-prayer-miracle",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T07:57:32.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
-      "title": "הטקסים הממלכתיים לציון שלוש שנים לטבח 7 באוקטובר התקיימו בהר הרצל, נתניהו: \"לא נשלים עם הפשע הנורא\"",
-      "summary": "שני טקסים ממלכתיים, לזכר חללי המלחמה ונרצחי הטבח, התקיימו בהר הרצל • הנשיא הרצוג: \"שום מרחק של זמן לא מתיר לנו לטשטש את החובה לחקור\" • רה\"מ: \"מי שהחזיק בחטופינו - חי על זמן שאול\", אב שכול צעק לעברו: \"לא הגנת על הבן שלי\" • דגלי המדינה הורדו לחצי התורן בשעה 06:29",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-05T07:55:00.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
-      "title": "שלוש שנים לטבח: יום הזיכרון הממלכתי ל-7 באוקטובר | ישיר",
-      "summary": "הטקס הממלכתי לזכר חללי המלחמה התקיים בהר הרצל • הרצוג: \"שום מרחק של זמן לא מתיר לנו לטשטש את החובה לחקור\" • נתניהו: \"מי שהחזיק בחטופינו - חי על זמן שאול\" • טקס לזכר נרצחי הטבח התקיים גם הוא בהר הרצל, במהלכו אב שכול צעק לעבר ראש הממשלה: \"לא הגנת על הבן שלי\" • דגלי המדינה הורדו לחצי התורן בשעה 6:29",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-217d8d6b3ca01a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-05T07:55:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmfby7",
-      "title": "286 קמ״ש, והכול התפרק: התאונה הקטלנית של הטסלה היוקרתית",
-      "summary": "הטסלה דהרה בכביש המהיר בגרמניה במהירות בלתי נתפסת, כשלפתע נשמע רעש חריג והרכב איבד שליטה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmfby7",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T07:53:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkj5eaeizx",
-      "title": "הסתובב עם הגופה בירושלים ובתל אביב - והסתיר בחבית: אישום ברצח המזעזע",
-      "summary": "סלאח עותמאן, שלפי האישום נהג להמר, החליט לרצוח את פאטמה רג'בי משום שדרשה ממנו להחזיר לה חוב של 90 אלף שקל. לאחר הרצח, הוא אף משך מכרטיס האשראי שלה 15 אלף שקל. רג'בי נעדרה במשך 5 ימים, עד שקרוב משפחתו של עותמאן הסגיר אותו למשטרה",
-      "link": "https://www.ynet.co.il/news/article/bkj5eaeizx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T07:49:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21554643",
-      "title": "משך כסף מחשבון הנרצחת וטשטש ראיות - עד שקרוב משפחתו הסגיר אותו",
-      "summary": "כתב אישום הוגש נגד סלאח עותמאן, תושב א־טור, בגין רצח פאטמה רג׳בי ז״ל • לפי הפרקליטות, היא הלוותה לו כ־90 אלף שקל, שבהם השתמש להימורים • לאחר שדרשה את כספה, הוא תכנן את הרצח, הכה אותה בפטיש והסתיר את גופתה בחבית",
-      "link": "https://www.israelhayom.co.il/news/law/article/21554643",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:48:50.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1373734",
-      "title": "בבריטניה לימדו אותו \"טרור בתעופה\" - כך חמק טייס המשנה מתחת לרדאר",
-      "summary": "לפי \"הטלגרף\", חמאם אל-חמאמי למד מרחוק לתואר בניהול תעופה בבריטניה ולא נדרש לעבור את מנגנון הסינון של למידה פיזית. בבריטניה דורשים כעת להחמיר את הנהלים",
-      "link": "https://www.maariv.co.il/news/military/article-1373734",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T07:48:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21554628",
-      "title": "כוכב \"האח הגדול\" מבקש עזרה: מחפש עבודה",
-      "summary": "כוכב הריאליטי החרדי יענקי גולדהבר שהשתחרר לאחרונה מצה\"ל פרסם אמש סטורי שבו ביקש עזרה במציאת עבודה. \"מחפש משהו טוב ומכובד\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21554628",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:48:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21554751",
-      "title": "אילי גורליצקי הלך לעולמו: השחקן והזמר, ממקימי אגודת אמני ישראל, היה בן 91",
-      "summary": "השחקן והזמר, שהופיע לצד יונה עטרי ב\"שוק המציאות\" ועם יוסי בנאי ב\"חכמים בלילה\", היה גם היושב ראש הראשון של אגודת אמני ישראל • במשך עשרות שנים נאבק על זכויות האמנים המבצעים.",
-      "link": "https://www.israelhayom.co.il/culture/stage/article/21554751",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:48:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21554751",
-      "title": "אילי גורליצקי הלך לעולמו: השחקן (\"שלמה המלך ושלמי הסנדלר\") היה בן 91",
-      "summary": "השחקן והזמר, שהופיע לצד יונה עטרי ב\"שוק המציאות\" ועם יוסי בנאי ב\"חכמים בלילה\", היה גם היושב ראש הראשון של אגודת אמני ישראל • במשך עשרות שנים נאבק על זכויות האמנים המבצעים.",
-      "link": "https://www.israelhayom.co.il/culture/stage/article/21554751",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:48:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmfbz8",
-      "title": "ארבעה בחורי ישיבה פונו במצב בינוני וקל לאחר פיצוץ גזייה בחוף צינברי",
-      "summary": "ארבעה בחורי ישיבה בני 18 ו-19 נפצעו באורח בינוני וקל לאחר שנפגעו מפיצוץ גזייה במהלך שהותם בחוף צינברי בטבריה | הארבעה פונו לבתי החולים (חדשות)",
-      "link": "https://www.kikar.co.il/haredim-news/tmfbz8",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T07:46:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21554133",
-      "title": "“בשביל לשרת את המדינה, זה לגמרי שווה את זה\"",
-      "summary": "שירן מדר כמעט איבדה את רגליה במהלך השירות בצה\"ל, ואף לקתה בפוסט-טראומה • אפילו מאמצי השיקום הכבירים שלה לא הניבו את התוצאה הרצויה – אבל אז היא מצאה גם את המפלט הספורטיבי שהיה חסר לה, וגם אהבה שעזרה לה להשתקם פיזית ונפשית • עכשיו היא מתכוננת לייצג אותנו במשחקים הפראלימפיים בעוד שנתיים: “זה מחזיר לשירות\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21554133",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:46:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
-      "title": "קים קרדשיאן חושפת: המספר המפתיע של המטפלות",
-      "summary": "מאחורי האימפריה העסקית, מותג המיליארדים והזוגיות החדשה עם לואיס המילטון, קים קרדשיאן חושפת גם את הצד הפחות נוצץ של חיי המשפחה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T07:46:33.000Z"
     }
   ]
 }
