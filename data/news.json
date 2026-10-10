@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:00:54.756Z",
+  "updatedAt": "2026-10-10T09:15:43.950Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375409",
+      "title": "מעל 6,600 מעצרים ורחובות בוערים: הכאוס הצרפתי הוא רק קדימון | ד\"ר איתן לסרי",
+      "summary": "בין אלפי מעצרים, עימותים אלימים ברחובות, פגיעה קשה במערכת החינוך ומאבק פוליטי יצרי, צרפת מתמודדת בשבועות האחרונים עם משבר לאומי עמוק החורג בבירור מתחום כתלי בתי הספר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1375409",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T09:15:20.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1kwtudjge",
+      "title": "גשם ראשון באילת, רעמים - וחשש משיטפונות בדרום | תיעוד",
+      "summary": "2.5 מ\"מ של גשם ירדו באילת ובמקומות נוספים בערבה. בימים הקרובים צפויים ממטרים מקומיים בדרום הארץ, ומחר, בעיקר משעות הצהריים, קיים חשש להתפתחות שיטפונות באזור ים המלח",
+      "link": "https://www.ynet.co.il/news/article/h1kwtudjge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T09:05:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21590591",
+      "title": "זה מה ש-10 דקות עם ChatGPT עושה למוח שלכם",
+      "summary": "מחקר חדש מאוניברסיטת ברקלי מציג את המחיר הסמוי של הנוחות • ניסוי מבוקר בקרב 1,222 נבדקים חשף צניחה חדה בדיוק ובמוטיבציה • ברגע שבינה מלאכותית פותרת לנו בעיות, היכולת שלנו להתמודד עם אתגרים בכוחות עצמנו מתפוגגת כמעט מיד • החוקרים מזהירים: \"תהיה שחיקה של הידע האנושי מקצה לקצה\"",
+      "link": "https://www.israelhayom.co.il/tech/research/article/21590591",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T08:57:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21590675",
+      "title": "\"אוכלים בלילה? זה הנזק שאתם עלולים לגרום לכבד שלכם",
+      "summary": "מחקר מקיף שבדק כ-200 אלף משתתפים, מצא קשר ישיר בין אכילה לאחר ארוחת הערב לבין עלייה של עד 30 אחוזים בסיכון למחלות כבד • החוקרים מסבירים כי השעון הביולוגי מתקשה לבצע חילוף חומרים יעיל בשעות הלילה, מה שמוביל להשמנה, לסוכרת ולפגיעה בכבד • החדשות הטובות: למרות הממצאים, רק שבריר מהסובלים מכבד שומני יפתחו שחמת קשה",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21590675",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T08:55:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21590712",
+      "title": "מ-11 בספטמבר ועד \"פליי דובאי\": נחשפה הפקודה של צה\"ל לסיכול חטיפת מטוסים",
+      "summary": "צה\"ל מתיר לפרסום את קיומה של פקודת \"סחר עולמי\", המופעלת במקרים של חטיפת מטוסי נוסעים, ונוסדה בעקבות אירועי 11 בספטמבר • הפקודה הופעלה ב-30 בספטמבר במהלך ניסיון ההשתלטות על מטוס \"פליי דובאי\" • על פי הנוהל, עם קבלת איתות מצוקה מוקפצים מטוסי קרב באוטומטיות בתוך שניות, כשהם מורשים להפיל את המטוס או ללוותו לנחיתה כדי למנוע פגיעה בנכסים אסטרטגיים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21590712",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T08:47:18.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14918644",
       "title": "המסמך שפרסם נתניהו עמוס בשקרים וסילופים. כעת הם נחשפים",
@@ -93,6 +138,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T07:49:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375470",
+      "title": "מנהיג המחאה נעצר בשדה התעופה: הודו על סף פיצוץ",
+      "summary": "מחאת ענק בהודו בעקבות מחיקת 130 מיליון שמות מפנקס הבוחרים, במהלך שלטענת המפגינים נועד לחזק את שלטון מודי. המשטרה חסמה את ניו דלהי, השביתה רכבות ומטרו, ניתקה את האינטרנט ועצרה מנהיגי מחאה",
+      "link": "https://www.maariv.co.il/news/world/article-1375470",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T07:36:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375470",
@@ -25338,105 +25392,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T09:16:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21555580",
-      "title": "אחרי 3 שנים: ניצולי הנובה חושפים תיעודים חדשים מ-7 באוקטובר",
-      "summary": "ניצולים ממסיבת הנובה, מאופקים ומשדרות משתפים ברשתות תיעודים נוספים מבוקר המתקפה, רגע לפני ציון שלוש שנים • הסרטונים מחזירים את תשומת הלב לשלוש מהזירות הקשות של אותו יום, ומוסיפים להן נקודת מבט שלא הכרנו",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21555580",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:15:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21555128",
-      "title": "כשהקרוז הופך למלון חמישה כוכבים - אבל יש קאץ'",
-      "summary": "למרות הגודל, אקספלורה 1 מצליחה לשמור על תחושה אינטימית • 460 חדרים, מסעדות, ברים וטרקלינים • בלי תורים והמתנות כמעט באף אחד ממתחמי האונייה • אבל יש כוכבית, והיא המחיר, עוד לפני הטיסות",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21555128",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:13:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmffz0",
-      "title": "השלג בסיביר חיכה עד מוצאי החג: כך חגגו את סוכות בקור העז",
-      "summary": "הקהילה היהודית בסיביר הרוויחה כמה ימים של מזג אוויר נעים במיוחד: השלג הגיע רק לאחר שחג הסוכות הסתיים, והיהודים בסיביר זכו לקיים את מצוות החג ולשבת בסוכה בלי להתמודד עם השלג והקור הכבד | תיעוד (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tmffz0",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T09:12:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjpk56gomg",
-      "title": "עבריין מין סחט עם תמונת עירום מזויפת: \"50 אלף שקל - או שאהרוס לך את החיים\"",
-      "summary": "בן 34 מנצרת, עבריין מין מורשע בפיקוח, מואשם כי לקח תמונה של האישה מהרשתות, יצר תמונת עירום מזויפת ואיים להפיץ אותה אם לא תשלם לו. האישה פנתה למשטרה, המשיכה להתכתב איתו בהנחיית החוקרים - והוא נעצר במפגש שתוכנן להעברת הכסף: \"היא ממש חששה לחייה, זו סחיטה מהסוג הבזוי ביותר\"",
-      "link": "https://www.ynet.co.il/news/article/bjpk56gomg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T09:09:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
-      "title": "עכשיו זה רשמי: הזוגיות החדשה של אבנר נתניהו",
-      "summary": "בנו של ראש הממשלה ובת זוגו דנה צבאג שיתפו תיעוד ראשון מחופשה בלונדון • הקשר נחשף ביולי האחרון וכעת השניים מציגים תמונה משותפת",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:08:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
-      "title": "עכשיו זה רשמי: אבנר נתניהו ובת זוגו בתמונה זוגית ראשונה",
-      "summary": "בנו של ראש הממשלה ובת זוגו דנה צבאג שיתפו תיעוד ראשון מחופשה בלונדון • הקשר נחשף ביולי האחרון וכעת השניים מציגים תמונה משותפת",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:08:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/tmffsy",
-      "title": "הדיון על העמדת מחבלי 7 באוקטובר לדין יתקיים ביום השנה לטבח",
-      "summary": "למרות ההתכתבות הסוערת והבקשות של חברי הכנסת לשנות את המועד, הדיון על העמדת מחבלי 7 באוקטובר לדין יתקיים בוועדת החוקה בבוקר 7 באוקטובר, שלוש שנים לאחר הטבח (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/tmffsy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T09:06:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21555489",
-      "title": "אלונה סער שוקלת לעזוב: \"אין ברירה\"",
-      "summary": "השחקנית ובתו של שר החוץ גדעון סער סיפרה על אכזבתה בעקבות טיפול לא מספק מבחינתה בבקשתה לבדיקה רפואית. \"למרות שיש לי מחלה והפניה\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21555489",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:05:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1373799",
-      "title": "גם באיראן משוכנעים: אחמדינג'אד לא היה שתול של המוסד",
-      "summary": "נזאם א-דין מוסאווי, חבר פרלמנט איראני לשעבר, דחה את הטענות שלפיהן נשיא איראן לשעבר מחמוד אחמדינג'אד ריגל לטובת ישראל - למרות הדיווחים שגורמים ישראלים מימנו לכאורה חלק מנסיעותיו ומגוריו בחו\"ל",
-      "link": "https://www.maariv.co.il/news/world/article-1373799",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T09:05:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21555339",
-      "title": "חולדות בארמון: הבעיה שבית המלוכה הבריטי מעדיף שלא תראו",
-      "summary": "כשהטמפרטורות יורדות, חולדות ועכברים מחפשים מחסה בתוך ארמון בקינגהאם - והצוות נדרש להתמודד איתם בדיסקרטיות • תיעוד מיוחד של מומחה ההדברה של הארמון חושף את הסיפורים שלא סופרו על התופעה המטרידה • וגם - מה קרה כשאובמה ראה חולדה בביקורו במקום?",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21555339",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:04:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21555500",
-      "title": "פיצה רומאית מ-18 שקל: הבר החדש והמפתיע שנפתח בשרון",
-      "summary": "מתחם בילוי חדש נפתח ברעננה ומשלב פיצה בסגנון רומאי, בר מלא עם בירה מהחבית, ישיבה בחוץ ומסך ענק לשידורי ספורט • רק שהמיקום שבו בחרו להקים אותו הוא כנראה האחרון שהייתם מחפשים בו מקום לבילוי ערב",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21555500",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T09:01:02.000Z"
     }
   ]
 }
