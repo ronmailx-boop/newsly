@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T01:00:57.723Z",
+  "updatedAt": "2026-10-10T01:15:43.764Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjru7zbjme",
+      "title": "האיומים על ישראלים בעולם מתעצמים",
+      "summary": "נדרשת אסטרטגיה לאומית משולבת, שתכלול שיתוף פעולה הדוק בין המוסד, משרד החוץ, הסוכנות היהודית וגורמי ביטחון ומודיעין נוספים. מטרתה תהיה לנטר מגמות ואיומים, לזהות אזורים ומדינות בעלי רגישות ביטחונית, לפתח מנגנוני התרעה ולגבש הנחיות ברורות לציבור הישראלי",
+      "link": "https://www.ynet.co.il/news/article/bjru7zbjme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T00:59:00.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21590315",
       "title": "\"שותפה לרצח עם\": זוכת פרס נובל לשלום שהסגירה מתנגדי משטר",
@@ -26832,15 +26841,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-05T02:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21553405",
-      "title": "ספרד בדרך לבחירות? דיווחים: סאנצ'ס צפוי לפזר היום את הפרלמנט",
-      "summary": "ראש ממשלת ספרד צפוי להודיע היום על פיזור הפרלמנט, והבחירות ייערכו ככל הנראה ב-29 בנובמבר • ההחלטה מגיעה לאחר שהפרלמנט הפיל את חבילת הדיור שגובשה בעקבות פינוי של קשישה בת 87 • בסביבתו מעריכים שהזעם הציבורי יחזיר את מצביעי השמאל לקלפיות, אבל הסקרים מראים יתרון לימין",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21553405",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T01:13:27.000Z"
     }
   ]
 }
