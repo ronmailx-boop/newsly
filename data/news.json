@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:30:44.883Z",
+  "updatedAt": "2026-10-10T02:45:40.340Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rf3003kaj",
+      "title": "התחזית: עלייה בטמפרטורות ברוב הארץ - וגשם בדרום",
+      "summary": "היום הטמפרטורות יעלו בהרים ובפנים הארץ וימשיכו להיות גבוהות מהרגיל לעונה. במקביל, בדרום ייתכן גשם מקומי קל - שעשוי להימשך גם בתחילת השבוע. ביום שני תורגש התחממות",
+      "link": "https://www.ynet.co.il/news/article/rf3003kaj",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T02:28:05.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hks5yzdjge",
       "title": "חשד בארה\"ב: עובדי חברה ישראלית \"כלאו\" צעיר עם מוגבלות עד ששילם 50 אלף דולר",
@@ -26850,33 +26859,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-05T03:00:46.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ep38vhvvi",
-      "title": "התחזית: ירידה בטמפרטורות, לקראת גשם מקומי וחשש לשיטפונות בדרום",
-      "summary": "גשם מקומי עשוי לרדת כבר לקראת בוקר שלישי, בעיקר בדרום הנגב. מחר תחול התקררות נוספת וצפויים גשמים מקומיים בדרום ובמזרח הארץ. ברביעי ובחמישי - עלייה בטמפרטורות ורוחות במישור החוף",
-      "link": "https://www.ynet.co.il/news/article/ep38vhvvi",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T02:39:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21552198",
-      "title": "עם או בלי צבא ארה\"ב: המועד האפשרי לתקיפה באיראן",
-      "summary": "בעוד איומי הטרור ממשיכים לדרוש מענה מבצעי שוטף, המערכות הפוליטיות בישראל ובארה\"ב מקפיאות את המהלכים הבאים של הצבא • התוצאה היא מציאות נזילה שבה הכוחות בשטח דורכים במקום, וההכרעה האסטרטגית נדחקת ליום שאחרי הבחירות • תמונת מצב",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21552198",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T02:35:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21553432",
-      "title": "למרות התקיפות: יצוא הנפט מהמזרח התיכון מתאושש",
-      "summary": "הנתונים מצביעים על המשך זרימת הנפט למרות הסיכון לכלי השיט • במקביל דווח על לפחות שבע תקיפות באזור מצר הורמוז",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21553432",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T02:34:25.000Z"
     }
   ]
 }
