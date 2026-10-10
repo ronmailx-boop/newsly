@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:30:53.382Z",
+  "updatedAt": "2026-10-10T19:45:42.751Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1ipsdijme",
+      "title": "פעולות החקירה - והאישור בעל פה: מנדלבליט יגיע להעיד במשפט נתניהו",
+      "summary": "7 שנים לאחר ההחלטה להגיש כתב אישום נגד נתניהו, היועמ\"ש לשעבר יעלה לדוכן העדים ויידרש להשיב על טענות ההגנה. במוקד: האם המשטרה חרגה מהאישורים שניתנו לה, עדויות החוקרים והמחלוקת על חוקיות פעולות החקירה",
+      "link": "https://www.ynet.co.il/news/article/h1ipsdijme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T19:31:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375637",
+      "title": "חשד לפליטת כדור ביבנה: מאבטח בן 21 פצע את אחיו באורח קשה",
+      "summary": "צעיר בן 21 המחזיק אקדח ברישיון חשוד כי פלט כדור מנשקו בבית משפחתו ביבנה - אחיו נפצע קשה. המשטרה חוקרת את האירוע",
+      "link": "https://www.maariv.co.il/news/israel/article-1375637",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T19:31:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21593880",
+      "title": "הפועל פתח תקווה תחמוק מהפסד טכני? התקדימים לשיתוף 12 שחקנים",
+      "summary": "המלאבסים עוררו סערה לאחר שקיבלו \"יתרון\" על המגרש, אך כלל לא בטוח שהתקנון מוביל ישירות לאיבוד נקודות • הסעיף שעשוי להיות רלוונטי בחוקה, התקדים בכדורגל הישראלי ומה קרה במשחק של באיירן מינכן",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21593880",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T19:29:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21593878",
+      "title": "גם זה באשמתנו? מחוקקת בצרפת נגד חודש המודעות לסרטן השד - בגלל ישראל",
+      "summary": "מתילד פנו ממפלגת השמאל הקיצוני הודיעה כי לא תענוד את הסרט הוורוד לציון המאבק במחלה ממנה סובלות נשים רבות - בגלל קונספירציה של קשר ישראלי לחברות ה\"גורמות\" למחלה • שרת קידום מעמד האישה בצרפת התחלחלה וכצבה: \"איבדת כל בושה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21593878",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T19:27:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21593854",
+      "title": "טרגדיה בגן החיות: גבר נכנס למתחם הטיגריסים, הותקף - ונהרג במקום",
+      "summary": "המשטרה מסרה כי האיש מת בזירה לאחר שנכנס למתחם הטיגריסים בפארק • בעקבות התקיפה המקום פונה ממבקרים ויישאר סגור גם מחר • הטיגריס לא נפגע ונשאר במתחם, ובמשטרה הדגישו כי לא נשקפה סכנה לציבור הרחב",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21593854",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T19:21:46.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sk1ca11ujgx",
       "title": "בן 28 נפצע קשה מירי בביתו, החשד: אחיו הקטן פלט כדור בשוגג",
@@ -120,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T18:50:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375618",
+      "title": "בן 26 נרצח באכזריות - משפחתו טוענת: \"ממש הוצא להורג\"",
+      "summary": "מוסא יוסף אלג'אבור, בן 26 מרהט, נורה לפי החשד בביתו, נגרר החוצה ונורה שוב. במשפחתו טוענים שהוצא להורג. המשטרה עצרה צעיר בשנות ה-20 לחייו, ובזירה נתפסו אקדח, רובה M16 ותחמושת רבה",
+      "link": "https://www.maariv.co.il/news/law/article-1375618",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T18:43:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1375618",
@@ -534,6 +588,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T16:53:13.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r100pvkdsfg",
+      "title": "ויכוח על חניה הסתיים באיומי אקדח: \"אני משוגע פי אלף ממך!\"",
+      "summary": "צעיר שלף אקדח, דרך אותו וכיוון לעבר צעיר אחר, לפי המשטרה רק בגלל ויכוח על מקום חניה בכפר סבא. הוא תועד בועט בו ומקלל: \"אני א***ן אותך\". עדי ראייה ניסו להרגיע אותו - ולאחר מכן הוא נעצר יחד עם אדם אחר, בשנות ה-60 לחייו",
+      "link": "https://www.ynet.co.il/news/article/r100pvkdsfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T16:48:35.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r100pvkdsfg",
@@ -23808,51 +23871,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T19:46:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/sam-altman-openai-accept-bad-things-ai-risks",
-      "title": "מצמרר | מנכ\"ל OpenAI נשבר והודה: \"יקרו דברים רעים - צריך לקבל את זה\"",
-      "summary": "סאם אלטמן מודה כי פיתוח הבינה המלאכותית יגרום לנזקים בלתי צפויים | מומחים מזהירים מסכנת הכחדה של 50% | מושל פלורידה תוקף: \"לא נאפשר לאוליגרכים להחליט\" | (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/sam-altman-openai-accept-bad-things-ai-risks",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T19:39:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmg94c",
-      "title": "טראמפ: \"אני חושב שאיראן קשורה לניסיון הפיגוע בטיסת פליי דובאי\"",
-      "summary": "",
-      "link": "https://www.kikar.co.il/world-news/tmg94c",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T19:35:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmg8t5",
-      "title": "חרך את הרשת: סנצ'ס הודיע שהוא מתפטר - הספרדים השתגעו בבית הקפה",
-      "summary": "הבוקר, הודיע ראש ממשלת ספרד פדרו סאנצ'ס על הקדמה דרמטית של הבחירות במדינה - התגובה של הספרדים ששתו קפה בבר פשוט מדהימה | צפו (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmg8t5",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T19:34:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21560387",
-      "title": "אבינתן אור: \"לי היה ברור שאסור היה לעשות עסקת חטופים בכל מחיר\"",
-      "summary": "שורד השבי שנחטף עם בת זוגתו דאז, נועה ארגמני, ממסיבת הנובה מספר לראשונה ב\"עובדה\" על הימים הארוכים בהם שהה לבד במנהרה • הניסיונות הנועזים להימלט, התמיכה במאבק של הוריו להחזרתו - והדיאלוג עם המחבלים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21560387",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T19:33:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21560435",
-      "title": "יצטרפו ללחימה? טורקיה ופקיסטן יפרסו כוחות בסעודיה",
-      "summary": "טורקיה, פקיסטן וסעודיה סיכמו על פריסה מהירה של \"כוחות ויכולות צבאיות\" בממלכה • שר החוץ הטורקי אמר כי המהלך נועד לתמוך בהגנת סעודיה על רקע המשבר בתימן • במקביל, לפי דיווחים, כוחות הממשלה התימנית השתלטו על עיר הנמל האסטרטגית אל-מוח'א",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21560435",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T19:32:12.000Z"
     }
   ]
 }
