@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T01:45:44.512Z",
+  "updatedAt": "2026-10-10T02:00:49.584Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h167qbsjmx",
+      "title": "המושך בחוטים: ממשלת נתניהו-סמוטריץ' הבאה",
+      "summary": "מה חזון סמוטריץ-נתניהו לממשלה הבאה? \"יש לצאת למלחמה ביהודה ושומרון ולעשות בה מה שעשינו בעזה״ קבע סמוטריץ'",
+      "link": "https://www.ynet.co.il/news/article/h167qbsjmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T01:43:00.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21590332",
       "title": "8 הרוגים במארב בקונגו: הותקף כוח של מייסד \"בלאק ווטר\"",
@@ -26841,15 +26850,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T02:34:25.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
-      "title": "מחכים לבחירות: לארצות הברית נמאס מאלימות המתנחלים",
-      "summary": "עוד סוף שבוע אלים ביהודה ושומרון עם דיווחים רבים על אלימות במספר מוקדים ביהודה ושומרון. נתניהו מתעקש שמדובר בקומץ, אבל גם בממשל שהתקרב לישראל במלחמה האחרונה כבר מעבירים אזהרות ומפסיקים להאמין לו. עו\"ד עידו דמבין, מומחה לפוליטיקה אמריקנית וליחסי ישראל-ארה\"ב, מסביר מה עומד מאחורי השינוי בוושינגטון ואיך הוא קשור לבחירות גם כאן, וגם שם",
-      "link": "https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T02:00:00.000Z"
     }
   ]
 }
