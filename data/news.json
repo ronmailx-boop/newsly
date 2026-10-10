@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:15:47.437Z",
+  "updatedAt": "2026-10-10T05:30:49.825Z",
   "sources": [
     {
       "key": "ynet",
@@ -41,6 +41,24 @@
       "pubDate": "2026-10-10T05:09:43.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21580856",
+      "title": "עשרת הבניינים הגבוהים בעולם: הפיזור שלהם על הגלובוס יפתיע אתכם",
+      "summary": "את הבניין הגבוה בעולם אתם מכירים – אבל את האחרים ברשימה סביר להניח שלא ראיתם מעולם • מי דחק את מי, ומי המנצחים הגדולים במירוץ לשמיים?",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21580856",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T05:07:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21580243",
+      "title": "יקב, שייט ושוק דייגים: העיר שמנסה לעשות \"קאמבק\"",
+      "summary": "טבריה מתנערת מתדמית העבר ומציגה חוויית בילוי עשירה למשפחות ולזוגות • יצאנו לבדוק את האטרקציות שאסור לפספס, ממוזיאון תקופתי ועד יקב בוטיק מסקרן",
+      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21580243",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T05:05:40.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375447",
       "title": "מאחורי הגב של זלנסקי: המהלך החדש של טראמפ ופוטין",
       "summary": "לאחר שזלנסקי התעלם משש בקשות אמריקאיות, טראמפ סיכם עם פוטין על הקלות ביצוא הסולר הרוסי. בקייב זועמים וטוענים לאיומים בהפסקת שיתוף המודיעין, בעוד המאמצים לסיום המלחמה נקלעים למשבר",
@@ -48,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T05:03:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21590377",
+      "title": "סגר ומאות עצורים בניו דלהי: מחאת הענק של \"מפלגת הג'וקים\"",
+      "summary": "משטרת הודו ביצעה גל מעצרים נרחב, השביתה רכבות וחסמה את רשת האינטרנט כדי לבלום הפגנת צעירים גדולה בבירה • המפגינים, בהובלת תנועת \"מפלגת הג'וקים\", דורשים את התפטרותו של יו\"ר ועדת הבחירות בעקבות מחיקתם של כ-130 מיליון שמות מפנקס הבוחרים • באופוזיציה טוענים כי המהלך נועד לסייע למפלגת השלטון של נרנדרה מודי",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21590377",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T05:00:18.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375444",
@@ -26670,42 +26697,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T05:33:38.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmf57r",
-      "title": "אוהב ישראל נגד שונא ישראל מושבע: בולסונארו הבן עלה לסיבוב שני מול האנטישמי",
-      "summary": "לאחר לילה מלא בתהפוכות בתוצאות האמת, איש הימין בולסונארו הבן לא הצליח להחזיק עם שיעור הובלה של מעל 50 אחוז, בהתמודותו נגד הנשיא המכהן לולה דה סילבה | המשמעות: שני המועמדים יעלו לסיבוב שני בעוד מספר שבועות | הימין נגד השמאל הקיצוני (חדשות, בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmf57r",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T05:26:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21553581",
-      "title": "דני אבדיה ודמיאן לילארד מאיימים על ה-NBA: \"נעשה לכם צרות\"",
-      "summary": "הכוכב הוותיק התייחס לטריו החדש עם הישראלי וג'ה מוראנט והכריז: \"אנחנו הולכים לעשות צרות להרבה קבוצות\" • פורטלנד טרייל בלייזרס קיימה את אימון הראווה המסורתי והגארד שהגיע בטרייד נבחר ל-MVP אחרי זריקת הניצחון מחצי מגרש",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21553581",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T05:25:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373683",
-      "title": "מנכ\"לית משרד התחבורה לשעבר נכנסת במירי רגב: \"מאיפה האומץ?\"",
-      "summary": "מנכ\"לית משרד התחבורה לשעבר וחברת מפלגת \"ביחד\", קרן טרנר, בביקורת חריפה נגד מירי רגב ומחדל אבטחת הטיסות: \"אני לא יודעת מאיפה האומץ והתעוזה לשחק ככה בחיים שלנו. הכל רקוב שם\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373683",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T05:24:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21547945",
-      "title": "התעלומה התחילה ברצח בלב אמריקה. עכשיו היא מגיעה לסופה: מה לראות היום בטלוויזיה",
-      "summary": "\"לנטרנים\" מסיימת את העונה, כל שש העונות של \"סיפורה של שפחה\" מגיעות לפריטיוי, ו\"איש משפחה\" חוגגת את ליל כל הקדושים בגיהינום. ועוד תכנים שעולים היום (שני) בטלוויזיה בישראל.",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21547945",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T05:17:34.000Z"
     }
   ]
 }
