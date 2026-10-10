@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:00:55.251Z",
+  "updatedAt": "2026-10-10T16:15:56.900Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,49 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-october-7-terrorist-commander-khan-",
+      "title": "צה\"ל ושב\"כ חיסלו מפקד פלוגה שהשתתף בטבח שמחת תורה | צפו ברגע החיסול",
+      "summary": "מחמד אבו שלוף חוסל בחאן יונס • מחבל נוח'בה נוסף חוסל במרחב | \"קידמו מתווי טרור והפרו את הפסקת האש\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-eliminates-october-7-terrorist-commander-khan-",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T16:12:19.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/uae-prosecutor-reveals-flydubai-pilot-attack-detai",
+      "title": "התובע באיחוד האמירויות חשף: הטייס המחבל תכנן להתרסק בנתב\"ג בהשראת 11 בספטמבר",
+      "summary": "פרטים דרמטיים שנחשפו באיחוד האמירויות מגלים כי הטייס המשנה העומאני, ששאב השראה מאירועי ה-11 בספטמבר, תכנן להשתלט על טיסת 'פליי דובאי' ולרסק את המטוס בטרמינל הנוסעים בנתב\"ג | הפיגוע המחריד סוכל בחסדי שמיים, לאחר שצוות המטוס והנוסעים נאבקו במחבל ששלף גרזן חירום (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/uae-prosecutor-reveals-flydubai-pilot-attack-detai",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T16:08:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375576",
+      "title": "פיצוץ עז הרעיד את נמל התעופה בריאד: נוסעים פונו וטיסות בוטלו",
+      "summary": "פיצוץ עז נשמע בנמל התעופה הבינלאומי בבירת סעודיה, נוסעים פונו, אמבולנסים הוזעקו וטיסות הוסטו ובוטלו. נסיבות האירוע טרם התבררו, על רקע מתקפות החות'ים וההסלמה הביטחונית בממלכה",
+      "link": "https://www.maariv.co.il/news/world/article-1375576",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T16:00:49.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bknarcwiml",
       "title": "טיל חות'י פגע בטרמינל בנמל התעופה בבירת סעודיה: \"יש שם פצועים רבים\"",
-      "summary": "",
+      "summary": "יומיים אחרי מתקפה קטלנית של המורדים בתימן על הנמל בריאד, שבו נפגע מטוס ושלושה נהרגו, החות'ים שוב שיגרו לשם טיל - והפעם זה פגע בטרמינל הנוסעים. רופאים מוזעקים לבתי חולים עקב מה שמסתמן כאירוע רב-נפגעים: \"רבים במצב קשה\"",
       "link": "https://www.ynet.co.il/news/article/bknarcwiml",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-10T15:55:30.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-1a170da649521a1027.htm",
+      "title": "אחד מגיבורי טיסת פליי-דובאי חשף פרטים חדשים, וגם: האיום החות'י על שדות הנפט בסעודיה | חדשות השבת",
+      "summary": "צחי ברוורמן הודה בחקירה כי שינה את שעת השיחה בין נתניהו למזכירו הצבאי בבוקר המתקפה • איזנקוט דרש לבדוק חשד לעבירות פליליות של ראש הממשלה • דיווח: איראן שימרה את יכולות ייצור הטילים והכטב\"מים למרות התקיפות • רז הרשקו הפסידה בחצי הגמר בבאקו ותתמודד על מדליית הארד",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-1a170da649521a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-10T15:52:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1375517",
@@ -77,6 +113,15 @@
       "pubDate": "2026-10-10T15:47:37.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/article/21591742",
+      "title": "דיווח: איראן משקמת את ארסנל הטילים - החות'ים מגבירים את האש על סעודיה",
+      "summary": "איראן משקמת את ארסנל הטילים והכטב\"מים שלה חרף התקיפות, והחות'ים מסלימים את האש על סעודיה ופוגעים בשדה התעופה בריאד • טראמפ ופוטין מעמיקים את שיתוף הפעולה בעסקת דלק, ובקייב מזהירים כי היא תסייע למוסקבה להאריך את המלחמה • וגם: תשעה הרוגים בירי המוני בפנסילבניה, תוכנית הטייס מפליי דובאי להתרסק בנתב\"ג ומדליית ארד לרז הרשקו באליפות העולם",
+      "link": "https://www.israelhayom.co.il/news/article/21591742",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T15:46:13.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rkiyzavimg",
       "title": "אלפים מפגינים נגד ישראל בלונדון וקוראים לשחרר את מרואן ברגותי: \"סוף לרצח העם!\"",
       "summary": "אלפי בני אדם מוחים בבירת בריטניה נגד ישראל, 3 ימים אחרי יום השנה לציון 7/10. המפגינים מניפים דגלי פלסטין, אחד מהם תועד עם תמונת עלי חמינאי. שלט ענק נפרס בקריאה לשחרור המנהיג-מחבל ברגותי, הפגנה גדולה גם בברלין",
@@ -86,6 +131,15 @@
       "pubDate": "2026-10-10T15:43:53.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21592398",
+      "title": "\"תמיר בלאט לא חסר למכבי תל אביב - ים מדר מביא יותר ממנו\"",
+      "summary": "פיני גרשון ניתח ב\"על הבאזר\" את השינוי בקו האחורי של הצהובים, החמיא ללחץ, לחטיפות ולניהול המשחק של ים מדר, התייחס לנתון האסיסטים והסביר מה בשיטה של עודד קטש נשאר זהה גם אחרי עזיבת תמיר בלאט",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21592398",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T15:43:13.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hjetk0psgx",
       "title": "המהפך של טראמפ, והפרטים החדשים מחקירת הטייס-מחבל | כותרות השבת",
       "summary": "רוסיה וארה\"ב הגיעו להסכם על קניית סולר ועוררו את זעמו של זלנסקי | דיווח מטריד: \"איראן הצליחה לשקם את מפעלי הטילים\" | החקירה באמירויות חשפה: טייס המשנה העומנאי החליט להיות טייס \"כהשראה מ-11/9\" | טראמפ תקף את זוכת הנובל: \"איש לא יודע מי היא\" | וגם: ההישג הנפלא של רז הרשקו באליפות העולם",
@@ -93,6 +147,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-10T15:43:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21591848",
+      "title": "\"לא מרגיש את הרגליים\": אלמוג בוקר קפא מול הילדים",
+      "summary": "מאחורי החזות המקצועית והמרגיעה מסתתרת טראומה עמוקה: המגיש המוכר מספר על השנייה שבה הוכרז \"צבע אדום\", ואיך אשתו נאלצה לקחת פיקוד ולהציל את המצב",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21591848",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T15:36:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21591928",
@@ -174,6 +237,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T14:44:15.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375546",
+      "title": "\"אני רוצה להרגיש את הכאב\": הבחירה של אולגה שאיבדה את בתה דנה ז\"ל בנובה",
+      "summary": "שלוש שנים אחרי שדניאלה פטרנקו נרצחה בנובה עם בן זוגה דניאל גולטמן, אמה אולגה מספרת על הימים שבהם חיכתה שתחזור, על הבשורה והחיים לצד הגעגוע. וגם ועל המאבק להנצחתה מול הים בחיפה: \"שכולם ידעו מי זו\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1375546",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T14:37:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1375546",
@@ -23682,78 +23754,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T16:21:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/meah-shearim-stone-throwing-arrests-undercover",
-      "title": "תיעוד דרמטי: כוח מסווה תפס ילד חרדי קטן מיידה אבנים במאה שערים",
-      "summary": "שוטרים הסירו דגלי פלסטין ברחובות השכונה • מתפרעים יידו אבנים וחפצים לעבר הכוחות | כוח מסווה תפס קטין בזמן מעשה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/meah-shearim-stone-throwing-arrests-undercover",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T16:15:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21559272",
-      "title": "הגיוסים נמשכים: עמית סגל ואסף רפפורט נפגשו",
-      "summary": "הכתב הפוליטי של חדשות 12 נפגש, על פי דיווחים שונים, עם הבעלים החדש של רשת 13 • הדיווח הגיע על רקע עזיבה דרמטית של איתי דנקנר, סמנכ\"ל לוח השידורים של קשת, שמונה למנכ\"ל חברת חדשות 13",
-      "link": "https://www.israelhayom.co.il/culture/clique/article/21559272",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T16:09:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/uk-threatens-expel-27-israeli-diplomats-consulate",
-      "title": "בריטניה מאיימת: 27 דיפלומטים ישראלים יגורשו אם ישראל תעשה את הצעד הבא",
-      "summary": "לונדון מעבירה אולטימטום לישראל: ביטול סגירת הקונסוליה במזרח ירושלים • השגריר הבריטי הבהיר: דיפלומט תמורת דיפלומט | המשבר שמאיים לרוקן את השגרירות בלונדון (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/uk-threatens-expel-27-israeli-diplomats-consulate",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T16:08:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373986",
-      "title": "הרצוג ל-FOX על האירוע שכל המדינות מדברות עליו: \"יכול היה לשנות את העולם\"",
-      "summary": "נשיא המדינה התראיין לרשת FOX ובמהלך הריאיון אמר כי \"איראן היא אימפריית רשע המאיימת על העולם החופשי\". הוא אף הוסיף כי \"אסור לאפשר לה כל גישה ליכולות גרעיניות\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373986",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T16:07:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1373986",
-      "title": "הרצוג נזכר במה שאמר בקונגרס לפני טבח ה-7.10: \"רק שלושה חודשים לפני אותו יום נורא\"",
-      "summary": "נשיא המדינה התראיין לרשת FOX ובמהלך הריאיון אמר כי \"איראן היא אימפריית רשע המאיימת על העולם החופשי\". הוא אף הוסיף כי \"אסור לאפשר לה כל גישה ליכולות גרעיניות\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1373986",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T16:07:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1373985",
-      "title": "450 מיליון פתקים בדרך לקלפיות: המפעל שעובד מסביב לשעון",
-      "summary": "לקראת הבחירות לכנסת, דפוס אורדע בקריית גת נערך להדפסת יותר מ-450 מיליון פתקי הצבעה, כ-11.5 מיליון לכל מפלגה. המפעל, מהגדולים והמשוכללים בעולם, מעסיק כ-400 עובדים ונדרש לפרויקט לוגיסטי בהיקף עצום",
-      "link": "https://www.maariv.co.il/news/israel/article-1373985",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T16:07:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21558568",
-      "title": "אייל ברקוביץ' על רן בן שמעון: \"לא יכול לשמוע אותו\"",
-      "summary": "כדורגלן העבר תקף את הדברים שאמר מאמן נבחרת ישראל לפני ואחרי המשחק מול אירלנד: \"דבר לעם! מה אתה מבלבל את המוח? אני באמת אוהב אותו, הוא היה הקפטן בנערים ובנוער כי הוא ידע לדבר, היום אני מבין שזו גניבת דעת\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21558568",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T16:04:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmfz11",
-      "title": "מהבית הלבן לתקשורת: התפקיד החדש של קרוליין לוויט",
-      "summary": "קרוליין לוויט, לשעבר דוברת הבית הלבן, מצטרפת לפוקס ניוז כפרשנית | לוויט תעלה לשידור החל מחודש נובמבר, לאחר שעזבה את הבית הלבן באוגוסט האחרון (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmfz11",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T16:03:29.000Z"
     }
   ]
 }
