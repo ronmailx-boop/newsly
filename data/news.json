@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:15:42.398Z",
+  "updatedAt": "2026-10-10T14:30:59.373Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bydlcjdjfe",
+      "title": "\"השאלה המכרעת היא מי בודק\": אמירות נתניהו על חקירת 7/10 - ולמה לא הוקמה אף ועדה עד היום",
+      "summary": "מאז הטבח כל ראשי המערכת הביטחונית ב-7 באוקטובר, שכבר התפטרו או פוטרו, תמכו בהקמת ועדת חקירה ממלכתית - ורק רה\"מ הסתייג. ככל שהמלחמה התקדמה, בקואליציה יישרו קו ותמכו ב\"ועדת חקירה לאומית\", \"פריטטית\" ו\"של העם\". עם זאת, 3 שנים אחרי, אף גוף שיחקור את המחדל לא קם. פומבית, נתניהו תמך בחקירה: \"חייב תשובות\". מעשית, הוא לא עשה דבר כדי לקדם כזו: \"אין אמון ציבורי\"",
+      "link": "https://www.ynet.co.il/news/article/bydlcjdjfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T14:21:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21563779",
+      "title": "לא ציפיתי למצוא מסעדת שף כזאת ברחובות. ואז הגיע החשבון",
+      "summary": "עיצוב מוזהב, שירות מוקפד ותפריט שמכוון גבוה: \"זקס בראסרי\" ברחובות מציע סלט עגבניות מפתיע, ריזוטו מצוין ובשרים משובחים • אלא שעם צלעות טלה ב-229 שקלים ופילה בקר ב-210 שקלים, עולה גם השאלה אם התמורה מצדיקה את המחיר",
+      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21563779",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T14:11:26.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375539",
       "title": "שלוש שנים ל-7 באוקטובר: אלפים מפגינים בלב לונדון - נגד ישראל | צפו",
       "summary": "בצל יום השנה השלישי לטבח 7 באוקטובר, עד 10,000 מפגינים פרו-פלסטינים צועדים בבירת בריטניה. המשטרה פרסה כוחות מתוגברים, הטילה הגבלות חריגות על הצעדה ונערכת להפרות סדר, כשברקע הפגנת נגד",
@@ -39,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T14:08:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21591431",
+      "title": "\"נחלת האנושות כולה\": נחתמה האמנה שאוסרת על כיבוש החלל | היום בהיסטוריה",
+      "summary": "ב-10 באוקטובר 1967 נכנסה לתוקף \"אמנת החלל החיצון\" שאסרה הצבת נשק גרעיני ובעלות על כוכבים • כעת, כשהמרוץ לכריית מחצבים בחלל מתחמם, המסמך ההיסטורי עומד למבחן חסר תקדים",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21591431",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T14:02:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21591821",
@@ -78,6 +105,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375526",
+      "title": "6.28 דולר לגלון: טראמפ פונה לידיד ותיק כדי להציל את הבחירות",
+      "summary": "לקראת בחירות האמצע ובצל הזינוק במחירי הדלק בארה\"ב, טראמפ הגיע להסכם לייבוא מיליוני טונות סולר מרוסיה ולהקלה בסנקציות על פוטין. באוקראינה זועמים, והמומחים מטילים ספק ביכולתה של מוסקבה לעמוד בהבטחות",
+      "link": "https://www.maariv.co.il/news/world/article-1375526",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T13:38:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375526",
       "title": "טראמפ ופוטין סגרו דיל מפתיע; זלנסקי מזהיר: \"מתדלק את המלחמה\"",
       "summary": "לקראת בחירות האמצע ובצל הזינוק במחירי הדלק בארה\"ב, טראמפ הגיע להסכם לייבוא מיליוני טונות סולר מרוסיה ולהקלה בסנקציות על פוטין. באוקראינה זועמים, והמומחים מטילים ספק ביכולתה של מוסקבה לעמוד בהבטחות",
       "link": "https://www.maariv.co.il/news/world/article-1375526",
@@ -111,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T13:30:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375532",
+      "title": "משטרה חיכתה לו בנתב\"ג: בן 19 נעצר בפרשת הפרוטקשן בדרום",
+      "summary": "צעיר בן 19 נעצר בנתב\"ג עם שובו מחו\"ל בחשד שהצית עם אחרים יותר משבעה כלי רכב על רקע סחיטת דמי חסות. הנזק עשוי להגיע למיליוני שקלים, ובדיון המעצר התעוררה מחלוקת סביב האליבי שמסר",
+      "link": "https://www.maariv.co.il/news/law/article-1375532",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T13:29:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1375532",
@@ -345,6 +390,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T11:40:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21591107",
+      "title": "גאווה ישראלית: רז הרשקו זכתה בארד באליפות העולם בג'ודו",
+      "summary": "לאחר שהפסידה להיונג'י לי הקוריאנית בחצי הגמר, הג'ודאית הישראלית עמדה במשימה וגברה על הלנה ווקוביץ' הקרואטית בדרך לזכייה במדליה • במהלך התחרות היא השיגה נקמה מול ביאטריז סוזה, שגברה עליה במשחקים האולימפיים בפריז",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21591107",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T11:40:18.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21591107",
@@ -23943,105 +23997,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T14:31:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21558144",
-      "title": "\"מקורבו של הנייה\"? העיתונאי שלומי אלדר מאיים בתביעה על השר שיקלי",
-      "summary": "שר התפוצות כינה את העיתונאי \"מקורבו של הנייה\" ו\"שרלטן חסר אמינות\" - ותוך פחות מיממה קיבל מכתב התראה לפני תביעה • אלדר הבהיר כי החסינות הפרלמנטרית לא תגן על השר: \"החוק לא מקנה חסינות גורפת לניצול התפקיד לרעה\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21558144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:30:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21558481",
-      "title": "רמי לוי בעסקת ענק: כמה כסף ערן זהבי יקבל?",
-      "summary": "כוכב הכדורגל לשעבר ושותפו העסקי אבי ארביב חתמו על עסקה עם רשת רמי לוי, שתשכור כ־3,500 מ״ר במתחם המסחרי במזכרת בתיה • זה הסכום שצפוי להיכנס לקופת השניים",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21558481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:29:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1373946",
-      "title": "דיווח: ארצות הברית נתנה אור ירוק - ישראל נערכת לתקיפה במדינה ערבית",
-      "summary": "מקורות מערביים טוענים כי ארה\"ב נתנה לישראל \"אור ירוק\" להרחיב את חופש הפעולה מול המיליציות הפרו-איראניות בעיראק. לפי הדיווח, צה\"ל והמוסד כבר השלימו הכנות מבצעיות לתקיפה",
-      "link": "https://www.maariv.co.il/news/military/article-1373946",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-05T14:29:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/brisk-yeshiva-chazon-ish-controversy",
-      "title": "ראש ישיבת בריסק תקף שורת מוסדות: \"החזון איש מתחבט בקבר ממה שעשו לו\"",
-      "summary": "ראש ישיבת בריסק, מסר במהלך החג שיחה ארוכה, בה תשף שני מוסדות מוכרים מאוד בציבור החרדי, שקיבלו לביקור את נשיא המדינה הרצוג לביקור: \"האם השתגעו אנשי בני ברק, איך יכולים לבוא לכזו שפלות, קצת כבוד לחזון איש, במקום לזרוק את התקציבים שלו בפנים, במקום לזרוק לו אתרוגים בפנים נותנים לו לקבוע מזוזה ועוד להופיע בפני מאות ילדים, היתכן?!\" | האזינו (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/brisk-yeshiva-chazon-ish-controversy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T14:29:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21558305",
-      "title": "יוצר התוכן נפצע בתאונה בתאילנד ונזקק לתפרים",
-      "summary": "כוכב הרשת עבר תאונה במהלך שהותו בתאילנד, נזקק לתפרים בגבה וסיפר כי הוא סובל מזעזוע מוח קל. בעקבות המלצת הרופאים, לדבריו, הוא מתכוון לקחת כמה ימי מנוחה ולהתרחק מהמסכים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21558305",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:24:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21558188",
-      "title": "כתבת חדשות 13 יצאה למסע בעקבות אחותה שנרצחה: \"כולם צריכים להענש\"",
-      "summary": "חן זנדר איבדה בטבח 7 באוקטובר את אחותה הקטנה נועה ז\"ל, שיצאה למסיבת הנובה ונרצחה במיגונית על כביש 232 • בפרויקט מיוחד, זנדר ואמה מלי נסעו למיגונית דיברו על ההתחמקות של האחראיים מעונש",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21558188",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:22:17.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-d98a959ce0c01a1026.htm",
-      "title": "אימה של ינינה, שנרצחה בחיפה, בשיחה עם N12: \"הנכד שלי הוא החלק שנשאר לי ממנה. אני רוצה לגדל אותו\"",
-      "summary": "האם, שנמצאת בבלארוס, מתקשה לעכל את אובדן ביתה האהובה • היא מבקשת לדאוג לנכד, רק בן חודשיים, שנותר ללא אימו • לצד הכאב, היא דורשת גם תשובות: \"מקווה שמי שנטל את חייה יישא באחריות\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-d98a959ce0c01a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-05T14:20:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21558195",
-      "title": "בשקט בשקט: העיר במרכז שהפכה ליעד קולינרי חם במיוחד",
-      "summary": "מסעדות, רשתות ומותגים מוכרים בוחרים בשנים האחרונות בעיר מגורים שקטה במרכז כיעד לסניף הבא שלהם • עכשיו מצטרפות אליה שתי פתיחות חדשות, ואחת מהן היא רשת שעד היום הייתה מזוהה בעיקר עם אזור אחר לגמרי",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21558195",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:19:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21558140",
-      "title": "משווקי חג המולד ועד איי יוון: הקרוזים של החורף יוצאים לדרך",
-      "summary": "עונת השייט לא מסתיימת עם הקיץ: בחודשים הקרובים יוצעו לישראלים הפלגות בין שווקי חג המולד באירופה, שייט משפחות מיוחד לחנוכה וגם קרוזים ארוכים שיוצאים מישראל • בין היעדים: וינה, בודפשט, קלן, מלטה ואיי יוון • בדקנו כמה זה יעלה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21558140",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-05T14:18:31.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk3do7zjgx",
-      "title": "27 דיפלומטים ישראלים יגורשו? המהלך הדרמטי ששוקלת בריטניה",
-      "summary": "פרסום ראשון: שגריר בריטניה העביר מסר לגורמים בישראל, לפיו אם לא תבוטל ההחלטה של שר החוץ סער לסגור את הקונסוליה הבריטית במזרח ירושלים שבה פועלים 27 דיפלומטים בריטים - התגובה תהיה גירוש 27 דיפלומטים ישראלים מהשגרירות בלונדון. מה הכעיס את הבריטים במיוחד - ומהן ההשלכות האפשריות",
-      "link": "https://www.ynet.co.il/news/article/bk3do7zjgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T14:17:38.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/two-security-incidents-syria-border-golan-24-hours",
-      "title": "אירועים חריגים בגבול סוריה תוך יממה: תמרור שאי אפשר להתעלם ממנו",
-      "summary": "שני חשודים נעצרו היום בניסיון חדירה למוצב צה\"ל במרחב האבטחה • אמש חוסל חשוד שטיפס על סוללה למוצב | ראשי הרשויות בגולן: 'מחייב טיפול נחוש ומענה ביטחוני ארוך טווח' (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/two-security-incidents-syria-border-golan-24-hours",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T14:17:25.000Z"
     }
   ]
 }
