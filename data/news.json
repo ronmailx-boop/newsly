@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:16:03.730Z",
+  "updatedAt": "2026-10-10T18:30:58.590Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sykomzuomx",
+      "title": "יו\"ר הרשימה המשותפת: נעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/sykomzuomx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-10T18:26:23.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmpen9",
+      "title": "ראש ישיבת 'כסא רחמים' הגר\"צ מאזוז קורא לרב אברג'ל: \"סגור את המפלגה\"",
+      "summary": "במהלך צילום סרטון תמיכה במפלגת ש\"ס, פנה הגאון רבי צמח מאזוז בפנייה ישירה ומפתיעה לידידו מנהיג מפלגת 'אחי', הגר\"יח אברג'ל, וקרא לו להסיר את המועמדות לכנסת: \"נתחבר ביחד ונהיה כאיש אחד בלב אחד\" | צפו (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmpen9",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T18:24:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21593412",
+      "title": "אלה לי להב מתפוצצת: \"אתם תישארו לוזרים לנצח\"",
+      "summary": "אחרי שנים של התמודדות עם תגובות ברשת, הזמרת שמה סוף לשתיקה • סרטון הזעם שלה נגד התופעה שנועדה להוציא אנשים מדעתם רק בשביל הבידור",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21593412",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:14:26.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1375609",
       "title": "נתניהו הגיב בעקיצה לריאיון \"הקפוץ לי\" של וינטר: \"בנט 2\"",
       "summary": "עופר וינטר הבהיר בריאיון שלא יפרוש מהמרוץ גם מתחת לאחוז החסימה ותקף את נתניהו: \"שביבי יקפוץ לי\". ראש הממשלה השיב בסרטון והזהיר שיו\"ר \"עמך ישראל יעביר קולות מימין לשמאל",
@@ -42,12 +69,30 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/dayan-haamet/tmpe1d",
+      "title": "הפריח את השממה הרוחנית בדרום; רבה של אילת הגאון רבי משה מרדכי הדאיה זצ\"ל הלך לעולמו",
+      "summary": "שר וגדול נפל בישראל, ברוך דיין האמת: עם צאת השבת הגיעה הבשורה המכאיבה על הסתלקותו לשמי מרום של הגאון רבי משה מרדכי הדאיה זצ\"ל, רבה של העיר אילת | הרב המנוח זצ\"ל הפריח את השממה הרוחנית בעיר במשך עשרות בשנים מתוך שליחות קודש מיוחדת | קווים לדמותו היוקדת (דיין האמת)",
+      "link": "https://www.kikar.co.il/dayan-haamet/tmpe1d",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T18:10:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/dayan-haamet/tmpe1d",
       "title": "הפריח את השממה הרוחנית בדרום; הגאון רבי משה מרדכי הדאיה זצ\"ל, רבה של אילת הלך לעולמו",
       "summary": "שר וגדול נפל בישראל, ברוך דיין האמת: עם צאת השבת הגיעה הבשורה המכאיבה על הסתלקותו לשמי מרום של הגאון רבי משה מרדכי הדאיה זצ\"ל, רבה של העיר אילת | הרב המנוח זצ\"ל הפריח את השממה הרוחנית בעיר במשך עשרות בשנים מתוך שליחות קודש מיוחדת | קווים לדמותו היוקדת (דיין האמת)",
       "link": "https://www.kikar.co.il/dayan-haamet/tmpe1d",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-10T18:10:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21593297",
+      "title": "\"זה לא קל\": כוכב \"הבוזגלוס\" על הבשורה שקיבל מהרופא",
+      "summary": "אלמוג, אחיהם של מאור, אסי ואוהד בוזגלו, החליט לחשוף יחד עם אשתו נטליה את האבחנה המטלטלת שהגיעה מהרופא: \"הסיפור שלנו שאף אחד לא מכיר\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21593297",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:09:08.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hyfufg00sfx",
@@ -75,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T18:02:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21593369",
+      "title": "שערי בכורה לזרים החדשים: 0:2 להפועל באר שבע על עירוני טבריה",
+      "summary": "פורסון אמנקווה בישל לז'ואאו ויקטור (52) והבקיע בעצמו (97) בדרך לניצחון חוץ • משימה הבאה: אלקמאר בחוץ",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21593369",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:00:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21593221",
@@ -23691,24 +23745,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-05T18:35:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyg900v11szg",
-      "title": "5 שוטרים נעצרו בחשד שתקפו אזרח - והשאירו אותו מדמם בחוף באילת",
-      "summary": "\"חשבתי שאני אמות שם\": חבר בקהילת העבריים התלונן נגד השוטרים שנחקרו בחשד לתקיפתו. במשטרה הכחישו מעשי אלימות וטענו כי האיש נעצר בעקבות פנייה של שתי נשים שסיפרו כי הוא מטריד אותן",
-      "link": "https://www.ynet.co.il/news/article/hyg900v11szg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T18:21:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tmg5df",
-      "title": "מגמת ההתרסקות נמשכת: מכה נוספת לעופר וינטר בסקרים",
-      "summary": "סקר חדשות 12 מצטרף למגמת ההתרסקות של וינטר | בנוסף, הסקר מציב את איזנקוט בראש עם 23 מנדטים, בעוד בגזרת הגושים האופוזיציה מובילה עם 54 מנדטים לעומת 49 לקואליציה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tmg5df",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T18:21:33.000Z"
     }
   ]
 }
