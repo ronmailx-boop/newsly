@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:30:58.590Z",
+  "updatedAt": "2026-10-10T18:45:47.103Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,40 @@
   ],
   "items": [
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/sykomzuomx",
-      "title": "יו\"ר הרשימה המשותפת: נעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו",
-      "summary": "",
-      "link": "https://www.ynet.co.il/news/article/sykomzuomx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T18:26:23.000Z"
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375618",
+      "title": "הוצאה להורג ברהט: בן 26 נורה מספר פעמים, נגרר מביתו - וזה לא הכל",
+      "summary": "מוסא יוסף אלג'אבור, בן 26 מרהט, נורה לפי החשד בביתו, נגרר החוצה ונורה שוב. במשפחתו טוענים שהוצא להורג. המשטרה עצרה צעיר בשנות ה-20 לחייו, ובזירה נתפסו אקדח, רובה M16 ותחמושת רבה",
+      "link": "https://www.maariv.co.il/news/law/article-1375618",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-10T18:43:55.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86970",
+      "title": "נערה בת 12 נפגעה מרכב בפתח תקווה ופונתה במצב בינוני",
+      "summary": "נערה בת 12 נפגעה הערב (שלישי) מרכב ברחוב מבצע דקל בפתח תקווה. צוותי מד\"א העניקו לה טיפול רפואי במקום ופינו אותה לבית החולים בילינסון במצב בינוני, כשהיא סובלת מחבלות בגב ובראש. הדיווח על התאונה התקבל במוקד 101 בשעה 21:03.",
+      "link": "https://www.kikar.co.il/scoop-news/86970",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T18:43:33.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/86969",
+      "title": "נעצר חשוד באירוע ירי ברהט שבו נהרג גבר בן 20",
+      "summary": "גבר בשנות ה-20 נהרג היום באירוע ירי ברהט על רקע סכסוך פלילי בין משפחות. משטרת ישראל עצרה חשוד במעורבות (רהט, בשנות ה-20) ותפסה אמצעי לחימה: רובה M-16, אקדח ותחמושת. מהחקירה עולה כי הסכסוך החל בקטטה והסלים לירי. החשוד הועבר לחקירה וצפויים מעצרים נוספים.",
+      "link": "https://www.kikar.co.il/scoop-news/86969",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T18:43:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/jabareen-joint-list-support-any-government-replace",
+      "title": "יו\"ר הרשימה המשותפת מכריז: נהיה רשת ביטחון לכל ממשלה שתחליף את נתניהו",
+      "summary": "יו\"ר הרשימה המשותפת יוסף ג'בארין מכריז לראשונה באופן רשמי על נכונות לתמוך בממשלה חלופית • \"נכפה את התנאים שלנו על כל קונסטלציה פוליטית\" | דורש תוכנית למיגור פשיעה ועצירת הריסות (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/jabareen-joint-list-support-any-government-replace",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-10T18:42:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmpen9",
@@ -48,6 +75,60 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-10T18:24:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21593525",
+      "title": "יו\"ר הרשימה המשותפת: \"נעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו\"",
+      "summary": "יוסף ג'בארין הצהיר לראשונה באופן רשמי כי הרשימה המשותפת מוכנה לתמוך מבחוץ בממשלה שתביא להחלפת נתניהו • לדבריו, המפלגה מוכנה לנהל משא ומתן על התנאים למהלך • על רקע הקיפאון בין הגושים, התמיכה מבחוץ עשויה להפוך לגורם משמעותי בניסיון להרכיב ממשלה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21593525",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:21:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21593364",
+      "title": "המודיעין הכריע: מאחורי הפשרה בין ישראל לבריטניה בירושלים",
+      "summary": "ל״היום״ נודע כי במערכת הביטחון הבריטית הזהירו מפגיעה בקשר המודיעיני עם ישראל, על רקע המשבר המדיני החריף בין המדינות • פריצת הדרך הושגה לאחר הצעה לסגור את הקונסוליה במתכונתה הנוכחית - אך להשאיר במקום נציגות מצומצמת • 20 דיפלומטים יעזבו, שבעה יישארו, והאיום הבריטי בצעדי תגובה נגד ישראל הוסר",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21593364",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:19:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21593362",
+      "title": "שולי רנד מדבר על הסתרה: \"שאלות קשות\"",
+      "summary": "הזמר, היוצר ובעלה של מגישת הטלוויזיה צופית גרנט שוב התארח בטיקטוק של בתו אודליה רנד, שם דיברו השניים על השבוע הקשה שעבר עליו ועל ההסתרה ב-7 באוקטובר",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21593362",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:16:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21593402",
+      "title": "חמור: סדרן ירק על אוהד מכבי נתניה והכה אותו בראשו",
+      "summary": "מספר ימים אחרי שמכבי חיפה הודיעה שלא תמשוך כרטיסים לאוהדיה בטדי בגלל המשטרה, מקרה של עימות ישיר בין כוחות האבטחה לקהל התרחש בפתח תקווה • במשחק עצמו היהלומים סיימו ב-1:1 עם הפועל פתח תקווה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21593402",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:16:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21593472",
+      "title": "שער אדיר לדגלאס אווסו: 1:3 להפועל תל אביב על עירוני קריית שמונה",
+      "summary": "הרכש הנוצץ הבקיע שער נהדר וגם עמרי אלטמן כבש בבעיטה חופשית יפה • האדומים ספגו לראשונה מקבוצה שאינה מכבי תל אביב, אבל יצאו מרוצים מהתוצאה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21593472",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:15:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21593211",
+      "title": "הודו: מנהיג מחאת ה\"ג'וקים\" נעצר - ביריונים תקפו מפגינים ברחוב",
+      "summary": "ממשלת מודי פועלת לדכא את מחאת הרשת שהצליחה להדליק מחדש את מחנה השמאל-מרכז במדינה סביב יוקר המחייה • לטענת האופוזיציה, יותר מ-15,000 בני אדם נעצרו על ידי המשטרה בניסיון למחוץ את ההפגנות",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21593211",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T18:15:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21593412",
@@ -165,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T17:35:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21593204",
+      "title": "וינטר: \"נתניהו יכול לקפוץ לי, רה\"מ הגיב: \"הוא 'בנט 2'\"",
+      "summary": "יו\"ר מפלגת עמך ישראל עופר וינטר החריף את הטון כלפי ראש הממשלה ואמר בריאיון שאם דרישותיו לא ייענו \"ביבי יקפוץ לי\" • נתניהו לא נשאר חייב, פרסם סרטון תגובה והאשים: \"וינטר בלחץ, הוא יעביר קולות לשמאל\" • בעמך ישראל עקצו חזרה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21593204",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T17:32:32.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21593204",
@@ -456,6 +546,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
+      "title": "איבוד נקודות ראשון: 0:0 למכבי תל אביב מול בני סכנין",
+      "summary": "אחרי חמישה ניצחונות מפתיחת העונה בליגת העל, הצהובים מעדו דווקא מול היריבה מהתחתית • רז שלמה רק פגע במשקוף, יוסי אבוקסיס יצא מבלומפילד עם נקודה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T16:17:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
       "title": "חי מליגת העל: מכבי תל אביב - בני סכנין 0:0",
       "summary": "הצהובים חוזרים מהפגרה עם כוונה לשמור על מאזן מושלם גם אחרי המחזור השישי • מוחמד עלי קמארה שנפצע במשחק הקודם נכלל ב-11, בניגוד להליו וארלה • המארחת עם חולצות מיוחדות לזכר קורבנות 7 באוקטובר",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
@@ -718,7 +817,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21590696",
       "title": "יאיר גולן מרכיב לנתניהו את הממשלה הבאה",
-      "summary": "גוש השינוי צריך לדבר אל מצביעי הליכוד ולהזכיר להם מה חשבו על נתניהו למחרת הטבח • הדרך לעשות את זה עוברת דרך השקעת תקציב נרחב בתשדירי תעמולה שיחלו השבוע - דווקא בערוץ 14 • ובינתיים, יו\"ר הדמוקרטים יורה בתוך הנגמ\"ש",
+      "summary": "גוש השינוי צריך לדבר אל מצביעי הליכוד ולהזכיר להם מה חשבו על נתניהו למחרת הטבח • הדרך לעשות את זה עוברת דרך השקעת תקציב נרחב בתשדירי תעמולה שיחלו השבוע - דווקא בערוץ 14",
       "link": "https://www.israelhayom.co.il/news/politics/article/21590696",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -23709,42 +23808,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-05T18:50:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hk3zxv11oge",
-      "title": "דרעי באמירה מנותקת: \"הורים ששולחים את בנם לישיבה חוששים שהוא ייעצר\"",
-      "summary": "בעוד דאגת הורים רבים בישראל נתונה לבניהם ובנותיהם שנמצאים בשירות בצה\"ל, בחר יו\"ר ש\"ס להדגיש בביטאון מפלגתו את חשש החרדים ממעצר בני ישיבות עריקים: \"פגשתי את ההורים האלה, הכאב הזה נכנס לליבי ומדיר שינה מעיניי\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hk3zxv11oge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T18:41:38.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjnldw11jgl",
-      "title": "סערה בעקבות דברי הרב לנדו נגד הדתיים, שפורסמו שנית",
-      "summary": "בעיצומה של המלחמה תקף הרב לנדו, שנציגיו מדגל התורה הם חלק מרכזי מגוש נתניהו, את הציונות הדתית: \"הם גרמו שהערבים שונאים אותנו. הולכים ונהרגים כי רבותיהם מלמדים אותה תורה מעוותת\". איזנקוט: \"דברי בלע - וממשלת נתניהו מתבססת על הקולות האלה\". בנט: \"בושה וחרפה - ונתניהו מגבה אותו\"",
-      "link": "https://www.ynet.co.il/news/article/bjnldw11jgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T18:39:09.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjnldw11jgl",
-      "title": "\"הם נהרגים בגלל לימוד תורה מעוותת\": ההשתלחות של המנהיג החרדי - והסערה",
-      "summary": "בעיצומה של המלחמה תקף הרב לנדו, שנציגיו מדגל התורה הם חלק מרכזי מגוש נתניהו, את הציונות הדתית: \"הם גרמו שהערבים שונאים אותנו. הולכים ונהרגים כי רבותיהם מלמדים אותה תורה מעוותת\". איזנקוט: \"דברי בלע - וממשלת נתניהו מתבססת על הקולות האלה\". בנט: \"בושה וחרפה - ונתניהו מגבה אותו\"",
-      "link": "https://www.ynet.co.il/news/article/bjnldw11jgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-05T18:39:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tmg5w9",
-      "title": "חשד מזעזע: חמישה שוטרים היכו גבר באילת - והותירו אותו פצוע ומדמם",
-      "summary": "חמישה שוטרים נעצרו ונחקרו בחשד שהפעילו אלימות כלפי גבר, והותירו אותו בזירה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tmg5w9",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-05T18:35:37.000Z"
     }
   ]
 }
