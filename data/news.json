@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T09:15:54.200Z",
+  "updatedAt": "2026-10-11T09:31:10.748Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/police/masked-suspect-knife-incendiary-device-arrest-maal",
+      "title": "רעול פנים עם סכין וכוס זכוכית עם מסמרים: נלכד חשוד בכוונה לבצע פיגוע",
+      "summary": "תושב אלעיזריה נעצר עם סכין וכוס זכוכית עם מסמרים • החשוד היה רעול פנים והביע כוונתו לבצע פיגוע | המעצר הגיע בעקבות דיווח מודיעיני (משטרה)",
+      "link": "https://www.kikar.co.il/police/masked-suspect-knife-incendiary-device-arrest-maal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T09:29:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmqjek",
+      "title": "האירוע המזוויע בצרפת: משפחת הנער שידו התפוצצה מספקת גרסה מקורית לתקרית",
+      "summary": "משפחתו של הנער שידו התפוצצה לאחר שהרים רימון שנזרק על ידי שוטרים בפרעות הרחוב בצרפת, מכחישה את הגרסה הרשמית של התביעה הצרפתית | בן ה-15 שהשתתף בהפגנות איבד את ידו לאחר שרימון משטרתי שהחזיק התפוצץ בה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmqjek",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T09:23:53.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1375846",
+      "title": "הפיצוץ במכרה הזהב חשף הפתעה שחיכו לה 11 שנים",
+      "summary": "במקום בלונים ועוגה, בני זוג מאוסטרליה בחרו בפיצוץ מבוקר במכרה זהב ענק כדי לגלות את מין העובר. מאות אנשים צפו בענן האבק שהתרומם וחשף את ההפתעה המרגשת",
+      "link": "https://www.maariv.co.il/news/viral/article-1375846",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T09:23:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375849",
+      "title": "חשש בפולין: מידע על ניסיון התנקשות בראש הממשלה ובשר ההגנה",
+      "summary": "הרשויות בפולין בוחנות מידע על ניסיון אפשרי להתנקש בראש הממשלה דונלד טוסק ובשר ההגנה. הרקע לאיום וזהות החשודים טרם נחשפו, ובוורשה גוברת הדריכות בצל פרשות חבלה ואיומים קודמים",
+      "link": "https://www.maariv.co.il/news/world/article-1375849",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T09:16:49.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1375845",
       "title": "טלטלה בצמרת צה\"ל: הקצין הבכיר הסתבך - ונשלח הביתה",
       "summary": "קצין בדרגת תת-אלוף, ששימש בתפקיד רגיש במערכת הביטחון, הסתבך בחשדות לניגוד עניינים ולהעברת מידע מסווג לגורם לא מוסמך. מצ\"ח חקרה, הפרקליטות החליטה שלא להעמידו לדין פלילי - והקריירה הצבאית הגיעה לסיומה",
@@ -39,6 +75,51 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T09:14:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21595987",
+      "title": "ברבי מעוררת סערה: \"נראה כמו הצדעה נאצית\"",
+      "summary": "צלליות האוהדים המעודדים על גב אריזת בובת ההתעמלות הציתו גל קריאות לחרם בטיקטוק • ברשת חלוקים אם מדובר בטעות עיצוב או בפרשנות מוגזמת • יצרנית הצעצועים \"מאטל\" שומרת על שתיקה",
+      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21595987",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:07:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21596504",
+      "title": "בעל החנות תלש דגלי ישראל, זה מה שחיכה לו מול העסק | צפו",
+      "summary": "פרויקט הדגלים בכביש 60 הפך לזירת עימות נקודתית לאחר שבעל חנות ערבי הסיר שוב ושוב את דגלי ישראל • ב-7 באוקטובר, הגיעו הפעילים בשטח והציבו מראה ישירות מול פתח העסק שלו: \"לא מתעסקים עם עם ישראל\" • צפו",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21596504",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:04:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21596594",
+      "title": "אחרי 20 שנה: הסדרה המיתולוגית של שלישיית \"מה קשור\" חוזרת למסך",
+      "summary": "תוכנית המערכונים של ציון ברוך, אסי ישראלוף ושלום מיכאלשווילי תציג דמויות מוכרות לצד חומרים חדשים • העונה המעודכנת תעלה בשידור ברשת 13 ותתמקד בישראליות העכשווית",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21596594",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:03:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21596658",
+      "title": "\"אסור להתייחס לנכים בצורה אחרת\": הדרישה להחרים את ישראל",
+      "summary": "לאחר הסערה הארוכה בכדורגל, באירלנד לא נחים וצפויים למחות נגד ישראל גם במשחק של נבחרת הנשים בכדורסל בכיסאות גלגלים • הסנאטור כריס אנדרוז מתח ביקורת על עצם קיום ההתמודדות: \"הנושא הזה לא צריך לקבל פחות ביקורת\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21596658",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:02:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21596525",
+      "title": "בכורה קולומביאנית: הזר שעשוי לשנות לבית\"ר ירושלים את העונה",
+      "summary": "אלכסיס סרנה הגיע לבירה אחרי סאגה ארוכה, והערב ייפתח לראשונה בהרכב במשחק הליגה מול הפועל רמת גן • בעזרת בריאן קרבאלי והיכולת האישית הטובה, הקשר התאקלם מצוין - וכעת הוא צריך להתחיל לפרוע שטרות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21596525",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:01:32.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmqjlo",
@@ -57,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T09:00:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21595376",
+      "title": "\"המשכורת תתרסק\": האזהרה הדרמטית של אילון מאסק",
+      "summary": "החוזה החברתי של 200 השנים האחרונות מתפרק לנגד עינינו • כשהמכונות הופכות למהירות וזולות יותר מהזמן האנושי, המעבר מ\"עובד שכיר\" ל\"בעל נכסים\" הופך לשאלת הישרדות • התחזית הדרמטית של המיליארדר הכי שנוי במחלוקת על עתיד שוק העבודה",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21595376",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T09:00:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21596406",
@@ -147,6 +237,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T08:48:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1375830",
+      "title": "אחרי המכה לחיזבאללה, בישראל מזהים התפתחות מדאיגה",
+      "summary": "בצה\"ל מאוכזבים מתפקוד ממשלת לבנון וצבאה בשלושת אזורי הפיילוט בדרום המדינה. גורם צבאי טוען כי ההתחייבויות אינן מיושמות, חיזבאללה מנסה לחדש פעילות ואיראן ממשיכה לפעול בביירות",
+      "link": "https://www.maariv.co.il/news/military/article-1375830",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T08:45:13.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1375830",
@@ -1662,6 +1761,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21594529",
+      "title": "אחרי ביקור ראשי היורוליג: התקווה של מכבי תל אביב והחשש הגדול",
+      "summary": "צ'וס בואנו ומנהל התחרויות דייגו ג'יאן ביקרו במשחקם של הצהובים ועוזבים בלי החלטה סופית, כשרק הצבעה של קבוצות המפעל תשנה את המצב • צמד הבכירים ייפגשו היום גם עם נציגי הפועל ירושלים ושר הספורט מיקי זוהר",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21594529",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T04:52:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21594529",
       "title": "המשחקים יחזרו? מנכ\"ל היורוליג עוזב את ישראל בלי החלטה סופית",
       "summary": "צ'וס בואנו ומנהל התחרויות דייגו ג'יאן ביקרו במשחקה של מכבי תל אביב אמש, אבל רק הצבעה של קבוצות המפעל תשנה את המצב • צמד הבכירים ייפגשו היום גם עם נציגי הפועל ירושלים ושר הספורט מיקי זוהר",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21594529",
@@ -1839,6 +1947,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T04:14:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sjvtp11ioze",
+      "title": "איך מצביעים בלבנון, בעזה ובסוריה? | המדריך לחיילי צה\"ל - גם בעורף",
+      "summary": "מלחמה על כל קול: שבוע לפני המועד הכללי בבחירות לכנסת ה-26, תינתן ללוחמים שמשרתים בגזרות מבצעיות אפשרות להצביע באמצעות קלפיות ניידות שיגיעו אל מעבר לקווי האויב. האם מותר להביע דעה פוליטית בסדיר, איך מבטיחים את טוהר הבחירות, והאם יינתן יום חופש בשבתון? כל השאלות - והתשובות",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sjvtp11ioze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T04:13:33.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sjvtp11ioze",
@@ -24060,60 +24177,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-06T09:35:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/rabbi-levi-yitzchak-berditchev-judging-favorably",
-      "title": "רבי לוי יצחק מברדיטשוב זי\"ע: תלמד זכות על יהודי ותזכה לישועה מעל הטבע",
-      "summary": "רבי לוי יצחק מברדיטש'ב היה נקרא: \"סנגורם של ישראל\" כי היה מוצא בדרכים יצירתיות 'נקודת זכות' נקודת אור בכל יהודי, והיה מאיר את אורו של כל יהודי, עד שהקב\"ה היה מתרצה לדבריו ומבטל גזרות. מאמר מיוחד ליום פטירתו החל היום (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/rabbi-levi-yitzchak-berditchev-judging-favorably",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T09:26:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21563202",
-      "title": "החולצה מהניינטיז חוזרת: זה הטרנד הכי מגניב של הסתיו",
-      "summary": "היא התחילה כחלק ממדי הספורט האמריקניים, הפכה לאייקון של אופנת הרחוב וכעת חוזרת לארון הסתיו • חולצות הטי עם השרוולים בצבע מנוגד הן הטרנד הנוסטלגי שכדאי להכיר עכשיו",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21563202",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T09:26:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374202",
-      "title": "שלב א' בתוכנית החיסול של הליכוד נגד וינטר יצא לדרך: \"הוא לא חלק מהגוש\"",
-      "summary": "הליכוד והציונות הדתית חתמו על הסכם עודפים והותירו את בן גביר ללא שותף. בעוצמה יהודית מאשימים בניסיון להקטין את כוחם, בעוד וינטר נותר האפשרות היחידה - אם יעבור את אחוז החסימה",
-      "link": "https://www.maariv.co.il/news/politics/article-1374202",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T09:26:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21563100",
-      "title": "ח\"כ מיש עתיד: \"אם לטלי גוטליב היו קוראים אחמד טיבי היא כבר הייתה בכלא\"",
-      "summary": "בכנס שנערך בפני תלמידים תקף נאור שירי את המשוריינת בעוצמה יהודית • אמיר אביבי טען כי ההחלטה האסטרטגית של סינוואר לצאת למלחמה התקבלה בעקבות כניסת רע\"מ לממשלה • מוטי לייטנר התחייב לגייס לצה\"ל \"אוגדה\" מקרב החרדים שאינם לומדים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21563100",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T09:24:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21563053",
-      "title": "יעל בר זוהר משחזרת: \"סליחה שלא הצלחנו\"",
-      "summary": "אשת התקשורת פרסמה טקסט המוקדש לאחיינה שנרצח לפני שלוש שנים • בר זוהר תיארה את רגעי החיפושים והתקווה שיימצא חטוף, שיתפה על לידת אחיינית חדשה הנושאת את שמו, ומתחה ביקורת נוקבת על המחדל המודיעיני",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21563053",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T09:23:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21562992",
-      "title": "העליות, הנפילות ורבי המכר: כך הפך ג'פרי ארצ'ר מנבחר ציבור מורשע לאימפריה",
-      "summary": "ג'פרי ארצ'ר מכר יותר מ-320 מיליון עותקים, טיפס לצמרת הפוליטיקה הבריטית ונשלח לכלא • הקריירה יוצאת הדופן של מחבר \"קין והבל\", שספרו האחרון רואה אור היום",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21562992",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T09:17:12.000Z"
     }
   ]
 }
