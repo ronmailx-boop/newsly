@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:45:37.870Z",
+  "updatedAt": "2026-10-11T05:00:58.259Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1375701",
+      "title": "צה\"ל הקפיץ מטוסי קרב בגלל עצם מסתורי בצפון - שעדיין לא נמצא",
+      "summary": "אחרי לילה של הקפצת מטוסי קרב, חסימות כבישים וכוננות ביישובי הגליל המערבי, צה\"ל הודיע על חזרה לשגרה מלאה. אלא שהעצם המסתורי שחדר מלבנון עדיין לא אותר, וגם הבוקר נמשכות הסריקות",
+      "link": "https://www.maariv.co.il/news/military/article-1375701",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T04:56:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375697",
+      "title": "כמעט שנה אחרי תחילת המלחמה באיראן: בארה\"ב הודו בנתון אחד קשה",
+      "summary": "הספירה הרשמית של מספר החיילים האמריקאים שנהרגו במלחמה באיראן עלתה ל-21 הרוגים. ההודאה מגיעה בעקבות תחקיר בלעדי שפרסם בחודש שעבר עיתון ה\"וושינגטון פוסט\"",
+      "link": "https://www.maariv.co.il/news/world/article-1375697",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T04:55:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkvtgcdjfg",
+      "title": "אתם מ-פ-ח-ד-י-ם. וככה נתניהו רוצה אתכם",
+      "summary": "אם במקרה התאוששנו, אחרי שפמפמו לנו לאורך שנים מורשת קרב וביטחון עצמי, אז צריך להפחיד אותנו מחדש. להזריק לנו חרדות לוורידים במנות גדושות יותר מאי פעם",
+      "link": "https://www.ynet.co.il/news/article/bkvtgcdjfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T04:47:16.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375694",
       "title": "טראמפ שוקל לתקוף בתימן: \"נקבל החלטה מהר מאוד\"",
@@ -219,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T04:03:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14922260",
+      "title": "חקירה או אסון",
+      "summary": "גם אם תוקם ועדת חקירה היא תתקשה לחשוף את האמת, שהפכה לאחד מקורבנות המלחמה. ועם שאינו מסוגל להתמודד עם האמת, או לתבוע אותה מהנהגתו, מאבד את חוש הביקורת ואת בוחן המציאות – ועלול לחזור על אותן טעויות",
+      "link": "https://www.ynet.co.il/news/article/yokra14922260",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T04:01:22.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14922260",
@@ -23988,24 +24024,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T05:03:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/rav-mazuz-mizmor-letoda-flydubai-miracle",
-      "title": "\"לא נשכח את הנס\" | ראש הישיבה הגר\"צ מאזוז קרא 'מזמור לתודה' בשיעורו • צפו",
-      "summary": "ראש הישיבה קרא מזמור לתודה כהודאה על נס טיסת פליי דובאי • \"חזקיה לא נתן תודה - ולכן לא היה משיח\" | הדברים המיוחדים שנאמרו בשיעור (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/rav-mazuz-mizmor-letoda-flydubai-miracle",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T04:58:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21561447",
-      "title": "באירלנד טוענים: אופ\"א עלולה להעניש שחקן מנבחרת ישראל",
-      "summary": "דיווח: ההתאחדות הבינלאומית תבחן את אירוע היריקה במשחק ליגת האומות, ועלולה לפעול נגד אם האירוע יצוין בדוח השיפוט",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21561447",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T04:50:03.000Z"
     }
   ]
 }
