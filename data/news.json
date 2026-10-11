@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:30:57.151Z",
+  "updatedAt": "2026-10-11T04:45:37.870Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1375694",
+      "title": "טראמפ שוקל לתקוף בתימן: \"נקבל החלטה מהר מאוד\"",
+      "summary": "12 הרוגים, בהם אמריקני, ו-309 פצועים במתקפה על נמל התעופה בריאד. טראמפ שוקל להצטרף לתקיפות נגד החות'ים ומבטיח החלטה מהירה, בעוד סעודיה מאיימת בתגובה ופקיסטן מתייצבת לצידה",
+      "link": "https://www.maariv.co.il/news/world/article-1375694",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T04:40:48.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1yqj9dozx",
+      "title": "בטקס 7 באוקטובר בניו יורק נבנה גשר לשלום",
+      "summary": "נמשיך להפיץ את המסרים ואת האנרגיה של השלום, כי כל שיחה ואינטראקציה משנים מציאות. גלי השלום כבר מתחילים להיווצר, והתפקיד שלנו הוא להמשיך ולהרחיב אותם עד שיגיעו לכולנו ויוציאו אותנו ממעגל הדמים",
+      "link": "https://www.ynet.co.il/news/article/r1yqj9dozx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T04:30:07.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-59",
       "title": "מזג האוויר מתהפך: גשמים, סופות רעמים וסכנת שיטפונות | התחזית המלאה",
@@ -68,6 +86,15 @@
       "pubDate": "2026-10-11T04:25:08.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21594422",
+      "title": "השליכו פעוטות לרצפה והטיחו במזרנים: גזר הדין בפרשת \"גן סיגל\"",
+      "summary": "הסייעת שהורשעה ביותר מ־270 עבירות אלימות תעמוד הבוקר בפני בית משפט השלום בכפר סבא • הורי הילדים דורשים ענישה מרתיעה: \"עד היום הוא לא נותן אמון באנשים מבוגרים\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21594422",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T04:24:12.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375686",
       "title": "קמלה האריס הסוף? בעלה של סגנית הנשיא בעבר עם הצהרה מפתיעה",
       "summary": "בעוד קמלה האריס מגייסת צוות, נפגשת עם תורמים ובוחנת קאמבק לבית הלבן ב-2028, דיווח חדש חושף את ההתנגדות דווקא מצד בעלה - ואת המסר הקשה שקיבלה מבכירי המפלגה הדמוקרטית",
@@ -86,9 +113,18 @@
       "pubDate": "2026-10-11T04:17:15.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21594408",
+      "title": "בשמלה שקופה: קים קרדשיאן באה לעודד את המילטון",
+      "summary": "כוכבת הריאליטי הגיעה למתחם פרארי בסינגפור בשמלה ורודה ושקופה, פגשה את בן זוגה לואיס המילטון, שסיים שני במרוץ הספרינט, וזכתה לתזכורת משעשעת מהפרשן שניסה לראיין אותה בעבר",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21594408",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T04:17:04.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21594397",
       "title": "אחרי מהפך: צמד לעידן טוקלומטי בניצחון שארלוט",
-      "summary": "הישראלי גם כבש את השער המכריע ב-2:3 על דאלאס",
+      "summary": "הישראלי גם כבש את השער המכריע ב-2:3 על דאלאס • צמד גם לליונל מסי ב-0:4 של אינטר מיאמי",
       "link": "https://www.israelhayom.co.il/sport/article/21594397",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -516,6 +552,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T00:27:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21594333",
+      "title": "לעיני בנה בן ה-5: אישה נדקרה למוות ע\"י בעלה בבאר שבע",
+      "summary": "שעות לאחר שפונתה במצב אנוש מדירתם ברחוב בני אור, הצוותים הרפואיים בסורוקה קבעו את מותה של בת ה-40 • בן הזוג, שהתקשר בלילה למוקד והודה במעשה, נעצר בזירה • חוקרי המשטרה אוספים ממצאים כדי להבין את הרקע לאירוע",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21594333",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-10T23:40:46.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21594333",
@@ -23961,42 +24006,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T04:50:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374083",
-      "title": "בהלה בצפון הארץ: \"זה נורא, אי אפשר לנשום, אני סובלת מכאבי ראש וחולשה\"",
-      "summary": "בנוף הגליל, חריש, זכרון יעקב ומספר יישובים נוספים ממשיכים לסבול מזיהום האוויר הכבד שמגיע מהיישובים הערבים, חלקם מעבר לקו הירוק: \"זה נורא. אני כבר לא יודעת מה לעשות\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1374083",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T04:44:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374083",
-      "title": "זה חוזר שוב ושוב מהיישובים הערבים - והתושבים מיואשים: \"רק בגלל זה\"",
-      "summary": "בנוף הגליל, חריש, זכרון יעקב ומספר יישובים נוספים ממשיכים לסבול מזיהום האוויר הכבד שמגיע מהיישובים הערבים, חלקם מעבר לקו הירוק: \"זה נורא. אני כבר לא יודעת מה לעשות\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1374083",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T04:44:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/world/article/21561382",
-      "title": "במעורבות חייל מארינס: פרשת הרצח ביפן שמחריפה את המתיחות עם ארה\"ב",
-      "summary": "דוווין ג'ייקוב בולארד, בן 20, חשוד שחנק למוות אישה בת 39 בבית מלון בנאהה וגנב את ארנקה ותיקה • המקרה מעורר מחדש את המחאה באוקינאווה נגד הנוכחות הצבאית האמריקנית באי",
-      "link": "https://www.israelhayom.co.il/auto/world/article/21561382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T04:42:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374076",
-      "title": "לאחר תכנון הפיגוע בבריטניה: החשש של טראמפ - והאזהרה של ישראל לגרמניה",
-      "summary": "הנשיא האמריקאי דונלד טראמפ התייחס לחשש האמריקאי מתקיפה איראנית נגד המפציצים שנשארו בבסיס פיירפורד בריטניה: \"היה לנו מידע שייתכן שיש איום, ולמה שאשאיר אותם שם?\". לפי הדיווח, ישראל הזהירה גם את גרמניה",
-      "link": "https://www.maariv.co.il/news/world/article-1374076",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T04:38:10.000Z"
     }
   ]
 }
