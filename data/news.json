@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:01:08.143Z",
+  "updatedAt": "2026-10-11T14:05:42.505Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1376004",
+      "title": "עמית סגל ויעקב ברדוגו במוקד: התכתבויות לכאורה של יונתן אוריך נחשפות",
+      "summary": "צילומי מסך שהופצו ברשת חושפים לכאורה התכתבויות בין יועצו של נתניהו, יונתן אוריך, לעמית סגל ויעקב ברדוגו, בנוגע לתיאום מסרים, נאומים ופרסומים בתקשורת. אמינות ההתכתבויות טרם אומתה",
+      "link": "https://www.maariv.co.il/news/politics/article-1376004",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T14:03:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376003",
+      "title": "מקורבים מסבירים: התרחיש החדש במפלגות החרדיות שיטרוף את הקלפים",
+      "summary": "גורמים חרדיים מעריכים כי ש\"ס ויהדות התורה עשויות שלא להמליץ על נתניהו או איזנקוט ולהישאר באופוזיציה. בינתיים, גוש השינוי בוחן מהלך שעשוי לשנות את יחסי הכוחות בכנסת עוד לפני הקמת ממשלה",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1376003",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T14:03:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/zelensky-trump-60-day-ceasefire-elections-conditio",
+      "title": "אחרי ההשתלחות: זלנסקי משיב אש - ועוקץ את טראמפ",
+      "summary": "נשיא אוקראינה מגיב להתבטאויות טראמפ על הצורך בהנהגה חדשה | זלנסקי עקץ וביקש מטראמפ למסור לפוטין מסר אישי | זו התגובה של זלנסקי להשתלחות של טראמפ (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/zelensky-trump-60-day-ceasefire-elections-conditio",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T14:02:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tmqxhp",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 17:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 17:00 (חדשות כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tmqxhp",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T14:01:47.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21600152",
       "title": "ענאן חלאילי טעה בענק - ואז כבש בטעות והשלים את המהפך",
@@ -24438,51 +24474,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T14:07:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21565604",
-      "title": "\"לעילוי נשמת כל הנרצחים\": בר קופרשטיין חזר למתחם הנובה",
-      "summary": "שורד השבי, ששימש סגן קב\"ט במסיבת הנובה ונחטף ממנה לעזה, שב למקום ערב ציון שלוש שנים לטבח • קופרשטיין הניח תפילין לזכר הנרצחים וקרא לציבור להצטרף למחווה: \"תעצרו רגע, תניחו תפילין היום ותקדישו זאת למענם\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21565604",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:03:33.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjif500fjfg",
-      "title": "טראמפ אישר: המחבל ממוצא פלסטיני נידאל חסן יוצא להורג בכיתת יורים",
-      "summary": "17 שנה אחרי שניצל את שירותו כפסיכיאטר בצבא האמריקני כדי לפתוח באש על חיילים שהמתינו לחיסונים במרפאה בבסיס פורט הוד בטקסס, ורצח 13 בני אדם, הודיע הפנטגון כי חסן, שהוריו היגרו לארה\"ב מהגדה המערבית, יהפוך לאדם הראשון זה 65 שנה שהצבא מוציא להורג בשיטה הנדירה: \"יום הדין סוף סוף הגיע\"",
-      "link": "https://www.ynet.co.il/news/article/sjif500fjfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-06T14:02:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21565777",
-      "title": "רוסלנה רודינה לא ישנה חצי לילה: ''אי אפשר לעבור לסדר היום''",
-      "summary": "הדוגמנית רוסלנה רודינה העלתה סטורי שונה מהרגיל אחרי לילה מול העדויות ששודרו בקשת 12 • הצילום מתוך הריאיון שטלטל את המדינה, המילים הכנות שכתבה לעוקבים • והמשפט הקצר שמסכם את מה שהרגישו רבים מהצופים אמש",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21565777",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:02:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21565518",
-      "title": "רון נשר על עומר אדם ומעריציו: \"ערסים שהפכו אותו לעשיר ונשארו על ביטוח לאומי\"",
-      "summary": "הראפר הגיע לראיון בפודקאסט ולא חסך ביקורת מהזמר, נישואיו הטריים וקהל מעריציו • \"אין פה סיפור אהבה, זה הכל מהלך תדמיתי מחושב\", טען",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21565518",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:02:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21565626",
-      "title": "בלי קרצוף: שיטת נייר הטואלט להסרת עובש מהמקלחת",
-      "summary": "יוצרת תוכן בתחום הניקיון הדגימה כיצד נייר טואלט ספוג בחומר ניקוי יכול לסייע בהסרת כתמי עובש מהרובה ומהסיליקון • משתמשים שניסו את השיטה מספרים על תוצאות ניכרות אחרי לילה אחד",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21565626",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:01:28.000Z"
     }
   ]
 }
