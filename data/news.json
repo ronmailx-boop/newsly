@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:00:58.791Z",
+  "updatedAt": "2026-10-11T06:15:55.749Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1375728",
+      "title": "לאחר ה\"קפוץ לי\" - וינטר ממשיך לתקוף: \"עומד מול נתניהו ומבין שהוא בפאניקה\"",
+      "summary": "השחקן החדש שהסעיר את המערכת הפוליטית לפני הבחירות, עופר וינטר, אמר בטלוויזיה לנתניהו: 'קפוץ לי'. הבוקר, בריאיון לגדעון אוקו ועמיחי אתאלי ברדיו 103FM, הוא מסביר מדוע",
+      "link": "https://www.maariv.co.il/news/politics/article-1375728",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T06:08:46.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1gmbidsmx",
+      "title": "10 שנות מאסר לסייעת שהורשעה ב-277 עבירות אלימות בפעוטות",
+      "summary": "רואן עבד אל חי הורשעה במאות עבירות אלימות כלפי פעוטות בני שמונה חודשים לשנה וחצי. בית המשפט גזר עליה גם תשלום פיצויים בסך 450 אלף שקלים להורים",
+      "link": "https://www.ynet.co.il/news/article/r1gmbidsmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T06:05:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/629/tmq7vf",
+      "title": "האם מותר לנגן בכלי נגינה בתפילה ובהלל? • צפו",
+      "summary": "\"הלכה ב-60 שניות\" ב'כיכר השבת' עם הפוסק הגאון רבי בנימין חותה - פינת הלכה יומית קצרה ואקטואלית | ובפינה היומית: האם מותר לנגן בכלי נגינה בתפילה ובהלל? • צפו (יהדות)",
+      "link": "https://www.kikar.co.il/629/tmq7vf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T06:03:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/nobel-peace-prize-navi-pillay-controversy",
+      "title": "גבלס מוחא כפיים: ישראל וטראמפ במתקפה חריפה על כלת הנובל",
+      "summary": "פרס נובל לשלום שהוענק לנווי פילאי, שעמדה בראש ועדת חקירה של האו״ם שהאשימה את ישראל ברצח עם בעזה, הצית עימות חריף | משרד החוץ הישראלי שלף את אחד הדימויים הקשים ביותר, וגם נשיא ארצות הברית דונלד טראמפ לא חסך במילים (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/israel-news/nobel-peace-prize-navi-pillay-controversy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T05:59:41.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1375723",
       "title": "טראמפ מכריז: \"עצרנו את איום הגרעין האיראני לתמיד\"",
       "summary": "טראמפ מצהיר כי ארה\"ב עצרה את האיום הגרעיני האיראני \"לתמיד\", ברקע עליית מניין ההרוגים האמריקנים ל-21. במקביל, מטוס קרב השבית ספינת משא ונתוני סנטקו\"ם חושפים את היקף המצור הימי",
@@ -39,6 +75,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T05:59:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21594788",
+      "title": "הסעיף בהסכמי אברהם שעשוי להיות שווה מיליונים לנוסעי פליי דובאי",
+      "summary": "נוסעי טיסת פליי דובאי נערכים לתביעת ענק בעקבות ניסיון הריסוק • כעת מתברר: סעיף \"אבטחת תעופה\" בהסכם שנחתם בעקבות הסכמי אברהם עשוי לבסס טענות לרשלנות ולהיות שווה מאות מיליוני דולרים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21594788",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:55:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21594839",
+      "title": "טבח בטרמינל: ערב הסעודית מזועזעת מהפצצת שדה התעופה בריאד",
+      "summary": "12 בני אדם, בהם אזרח אמריקני, נהרגו ו-309 נפצעו כשטיל חות'י פגע בבית הנתיבות בשדה התעופה העמוס ביותר בממלכה הערבית • סעודיה תקפה בתגובה מטרות בתימן ובריאד שוקלים צעדים נוספים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21594839",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:55:36.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1375722",
@@ -57,6 +111,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T05:54:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21594880",
+      "title": "לא רק בעיות זיכרון: הסימנים שעשויים להופיע שנים לפני אבחון אלצהיימר",
+      "summary": "מחקר שנערך בפינלנד מגלה כי אנשים שפיתחו אלצהיימר לפני גיל 65 סבלו מבעיות בריאותיות שונות מאלו המוכרות באוכלוסייה המבוגרת • בניגוד לחולים מבוגרים, החולים הצעירים לא סבלו יותר מיתר לחץ דם או שומנים בדם • בין תסמיני האזהרה שהופיעו שנים לפני האבחנה: דיכאון, סחרחורות, כאבי ראש, פגיעות ראש ואף אובדן שמיעה • החוקרים קוראים לזהות את הצטברות התסמינים כדי לאבחן את המחלה בשלב מוקדם יותר",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21594880",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:51:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21594772",
+      "title": "לא יוון ולא צרפת: המדינה המובילה באיחוד האירופי בתיירות פנים",
+      "summary": "89% מכלל הנסיעות של תושבי רומניה נערכו בתוך המדינה, ולא מחוצה לה, כך עולה מסקר חדש של האיחוד האירופי בתחום התיירות • ומאיזה מדינות התושבים רק רצו \"לברוח\"? • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21594772",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:48:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21594793",
+      "title": "פלא הנדסי בן 2,000 שנה נחשף מתחת לקיבוץ | צפו",
+      "summary": "בחפירות של רשות העתיקות מתחת לרמת רחל, נחשף קטע באורך 300 מטרים מאמת המים התחתונה, שהובילה מים מבריכות שלמה עד להר הבית • המיזם, שפעל בכוח הכבידה ושימש את העיר עד לפני כמאה שנה, ישולב בכניסה לשכונה חדשה שיוזמת רשות מקרקעי ישראל • מנהלי החפירה: \"התכנון היה כה מדויק שהמים ירדו במטר אחד בלבד בכל קילומטר\" • שר המורשת: \"הקמת האמה מספרת על הנהגה שידעה לחשוב קדימה\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21594793",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:44:06.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/child-mountain-climbing-controversy",
@@ -88,7 +169,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/world-news/eli-cohen-burial-site-syrian-officer-reveals",
       "title": "עם השעון על היד: איש המודיעין חשף איפה קבור הגיבור אלי כהן",
-      "summary": "סעיד ג'אוויש, איש המודיעין הסורי שחשף את שידוריו של \"איש שלנו בדמשק\", חושף בריאיון דרמטי פרטים חדשים על הדיון הלילי הסודי לפני ההוצאה להורג, המיקום המדויק של הגופה, התעלומה סביב שעון היד – והמגעים החשאיים להחזרת המסמכים לישראל (בעולם)",
+      "summary": "סעיד ג'אוויש, איש המודיעין הסורי שחשף את שידוריו של \"האיש שלנו בדמשק\", חושף בריאיון דרמטי פרטים חדשים על הדיון הלילי הסודי לפני ההוצאה להורג, המיקום המדויק של הגופה, התעלומה סביב שעון היד - והמגעים החשאיים להחזרת המסמכים לישראל (בעולם)",
       "link": "https://www.kikar.co.il/world-news/eli-cohen-burial-site-syrian-officer-reveals",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -111,6 +192,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T05:36:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21594654",
+      "title": "ליאור שליין: \"אין דרך שאתה תצא טוב מזה\"",
+      "summary": "מחמאה של בן בן ברוך לעינב גלילי הפכה לוויכוח על נשים בסטנדאפ. כשהמראיין תהה אם יש פחות נשים מצחיקות מגברים, שליין מיהר לעצור אותו ולהסביר למה הוא ממש לא מסכים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21594654",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:35:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21594688",
+      "title": "הקרב על התודעה: הנואשות לתהילה מחודשת הצילה את \"דה וויס\"",
+      "summary": "חבורת מפורסמים לשעבר מסתערת על המסך בקרב נואש על התודעה • עומס האגו של המתחרים חילץ את התוכנית מהקבר",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21594688",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:34:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21594726",
+      "title": "בית ההשקעות שמוכן לוותר על כמעט 60 מיליון שקלים מהפנסיה שלכם",
+      "summary": "איש העסקים יפרסם הצעת רכש לחברת אלרוב במחיר נמוך ב־20% מההון העצמי של החברה - וציין כי בית ההשקעות מור צפוי להיענות להצעה • המשמעות: פער של עשרות מיליוני ש' ביחס להון העצמי • בשוק ההון נשקלת פנייה לבית המשפט",
+      "link": "https://www.israelhayom.co.il/business/article/21594726",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T05:31:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1u2q9uome",
+      "title": "חשד: ח\"כ ומנכ\"ל עוצמה יהודית היו בתקרית אלימה נגד שוטרים ששברו אף ויד",
+      "summary": "שבוע וחצי אחרי שכוח של מחוז ש\"י הגיע למצפה יריחו כדי לעצור חשוד, במשטרה בוחנים את מידת מעורבותם של ח\"כ יצחק קרויזר ואיתיאל ניימן שככל הנראה נכחו במקום - ומכחישים. שני שוטרים שברו אף ויד בתקרית שפרטיה נבחנים. קרויזר האשים: \"הותקפתי על ידי שוטרים. הטענות נגדי אוסף שקרים חסר בסיס\"",
+      "link": "https://www.ynet.co.il/news/article/b1u2q9uome",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T05:29:50.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1u2q9uome",
@@ -345,6 +462,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T04:25:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21594422",
+      "title": "עשר שנות מאסר לסייעת שהטיחה פעוטות לרצפה ב\"גן סיגל\"",
+      "summary": "הסייעת שהורשעה ביותר מ־270 עבירות אלימות תיאלץ לשלם גם מאות אלפי שקלים להורי הפעוטות • הורי הילדים דורשים ענישה מרתיעה: \"עד היום הוא לא נותן אמון באנשים מבוגרים\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21594422",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T04:24:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21594422",
@@ -23799,123 +23925,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-06T06:20:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374121",
-      "title": "אנטישמיות בשיאה: בארה\"ב ובאירופה נערכים להפגנות אנטי-ישראליות ב-7 באוקטובר",
-      "summary": "בארצות הברית הכריזה רשת Anti-War Action Network על 7 באוקטובר כ\"יום פעולה לאומי\", וקראה לארגונים ברחבי המדינה לצאת לפעולות נגד ישראל. בלונדון מתכננת קואליציית סטודנטים לקיים צעדה",
-      "link": "https://www.maariv.co.il/news/world/article-1374121",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T06:15:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374120",
-      "title": "\"יחי יחיא סינוואר\": המורים האנטישמים שמבריחים את תלמידי ניו יורק מבית הספר",
-      "summary": "הורים יהודים בניו יורק מוציאים את ילדיהם מבתי הספר הציבוריים ומעבירים אותם לבתי ספר יהודים בעקבות \"סביבה עוינת\" - כך דווח ב\"ניו יורק פוסט\". לצד עלייה של 2% בהרשמה, מציינים ההורים מקרים חריגים",
-      "link": "https://www.maariv.co.il/news/world/article-1374120",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T06:14:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374120",
-      "title": "בעקבות אנטישמיות: זינוק חד בניו יורק בהרשמה לבתי ספר יהודים",
-      "summary": "הורים יהודים בניו יורק מוציאים את ילדיהם מבתי הספר הציבוריים ומעבירים אותם לבתי ספר יהודים בעקבות \"סביבה עוינת\" - כך דווח ב\"ניו יורק פוסט\". לצד עלייה של 2% בהרשמה, מציינים ההורים מקרים חריגים",
-      "link": "https://www.maariv.co.il/news/world/article-1374120",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T06:14:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21561712",
-      "title": "\"דואגים לעריקים במקום ללוחמים\": המתקפה על דרעי אחרי ההתפרעויות במודיעין",
-      "summary": "במערכת הפוליטית תוקפים את יו\"ר ש\"ס בעקבות המהומות בלילה במודיעין: \"הוא חי ביקום אחר\" • בנט הודיע על כוונתו לחוקק את \"חוק דרעי\", שקובע כי משתמט לא יוכל לשבת בקבינט • איזנקוט: \"מי שמשרת לא יכול להיות הפראייר\" • יאיר גולן: \"זה הקו הישיר מההשתמטות שנתניהו מאפשר – לאנרכיזם\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21561712",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:14:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21561712",
-      "title": "\"דואגים לעריקים במקום ללוחמים\": המתקפה על דרעי אחרי המהומות במודיעין",
-      "summary": "במערכת הפוליטית תוקפים את יו\"ר ש\"ס בעקבות המהומות בלילה במודיעין: \"הוא חי ביקום אחר\" • בנט: \"אנחנו רגע מאסון נוסף\" • איזנקוט: \"מי שמשרת לא יכול להיות הפראייר\" • יאיר גולן: \"זה הקו הישיר מההשתמטות שנתניהו מאפשר – לאנרכיזם\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21561712",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:14:14.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hk1a9wzige",
-      "title": "משילות בהתפרקות מוחלטת: המתפרעים הסכימו לא לפגוע בחיילים בתמורה לאי-מעצר העריק",
-      "summary": "\"בלתי נסבל שחיילים נמלטים תחת אבטחה. זה לא ג'נין\", אמר ליברמן אחרי ההתפרעויות שהביאו לשחרור העריק. הוא מצידו תיאר איך ניצל את זמן ההתארגנות כדי להקפיץ את מאות החרדים. בין המוני המתפרעים למשטרה התנהל מו\"מ על מה שהוא לא פחות מאנרכיה. בצבא ובמשטרה מאשימים זה את זה",
-      "link": "https://www.ynet.co.il/news/article/hk1a9wzige",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-06T06:12:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmh1yj",
-      "title": "ברחוב אבינועם ילין; תיעוד מלא הוד מימי החג בצל הרבי מקרעטשניף י-ם",
-      "summary": "תיעוד מלא הוד מחג הסוכות, הושענא רבה ומוצאי שמחת תורה בחצר הקודש קרעטשניף בירושלים | החל מעריכת השולחנות הטהורים בסוכה הגדולה שהוקמה בחצר בית המדרש הגדול ברחוב אבינועם ילין, דרך עבודת הנענועים בנטילת לולב, ועד מעמד רווי הוד של הקפות שניות במוצאי שמחת תורה שערך האדמו\"ר בלהב אש קודש עד שעות לפנות בוקר (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmh1yj",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T06:12:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21561684",
-      "title": "שמן זית או קנולה? המומחים עושים סדר בטיגון השניצל שלכם",
-      "summary": "ד\"ר לואי בשיר, ראש החוג למדעי המזון באונ' תל-חי, ומהנדס המזון מתן הבר שוברים את המיתוס: מדוע דווקא מותר לטגן שניצלים בשמן זית, אילו רכיבים תזונתיים מגנים על השמן, וגם - הפטנט הפשוט שישמור על השניצל פריך",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21561684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:10:24.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/g6v9at2rh",
-      "title": "שעון חורף 2026: מתי מזיזים את השעון? | כל מה שצריך לדעת",
-      "summary": "הישראלים יזכו לשעת שינה נוספת, כשהשעון יעבור שעה אחת אחורה ב-25 באוקטובר, בין שבת לראשון ב-02:00. למה בכלל מזיזים את השעון, ומתי חוזרים לשעון קיץ? ynet מסביר",
-      "link": "https://www.ynet.co.il/news/article/g6v9at2rh",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-06T06:08:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21559307",
-      "title": "רמז מיסטי? הפרט המשונה בתוכנית הטרור של המרצה מבר אילן",
-      "summary": "כמה מספרים במזימה של המרצה, שתכנן סדרת פיגועים נגד ערבים אזרחי ישראל, מעלים סימני שאלה - ואולי אינם מקריים • על אילו אלמנטים מהמסורת ייתכן שהתבסס, ואיך כל זה קשור לפסוק על קריעת ים סוף?",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21559307",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:05:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21561752",
-      "title": "\"העלו חשד\": התרמית החריגה במעבר הגבול באלנבי",
-      "summary": "עשרות נוסעים הציגו דרכונים של מדינה אחת, אך בדיקה טכנולוגית מעמיקה חשפה תמונה שונה לחלוטין • הנה המדינה שממנה הגיעו באמת חברי הקבוצה, והאופן שבו התגלתה התרמית במעבר הגבול",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21561752",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:05:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21561647",
-      "title": "הפתיע את שחקני פורטלנד: כך דני אבדיה נראה במחנה",
-      "summary": "ג'רו הולידיי החמיא למאמץ ההגנתי של הכוכב הישראלי במחנה האימונים של הטרייל בלייזרס והבהיר: \"יהיה קשה לעצור אותו ביחד עם ג'ה מוראנט ודמיאן לילארד\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21561647",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:02:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21561932",
-      "title": "בדק בית, פיקוח בנייה וחוות דעת הנדסית – כך מזהים ליקויים לפני שהם הופכים לבעיה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21561932",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T06:02:07.000Z"
     }
   ]
 }
