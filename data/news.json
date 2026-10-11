@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:31:02.222Z",
+  "updatedAt": "2026-10-11T12:45:55.701Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1nopeyjge",
+      "title": "בן 19 יואשם: דקר נער בצווארו בקטטה בבית ספר בגליל",
+      "summary": "הנער בן ה-19 הגיע לבית ספר באכסאל, ובמהלך קטטה - שבה נעשה שימוש בגז מדמיע - דקר תלמיד בן 16 בצווארו. בתום החקירה, הוחלט להגיש נגדו כתב אישום",
+      "link": "https://www.ynet.co.il/news/article/r1nopeyjge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T12:36:33.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/tamir-interceptor-us-production-iron-dome",
+      "title": "טמיר ראשון היישר מארה\"ב: הגיבוי החדש של כיפת ברזל",
+      "summary": "מפעל R2S באיסט קמדן סיפק את המיירט הראשון שיוצר במלואו על אדמת ארצות הברית • המיזם המשותף של רפאל ו-Raytheon יכפיל את כושר הייצור | קפיצת מדרגה בהגנה האווירית (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/tamir-interceptor-us-production-iron-dome",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T12:35:24.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjghi1tjzg",
+      "title": "התכתבויות וואטסאפ פרטיות לכאורה של יונתן אוריך מופצות ברשתות",
+      "summary": "את ההתכתבויות שדלפו, ככל שהן מהימנות, ניהל יועצו של רה\"מ עם שבעה אנשים - ועד כה הוא לא התייחס למהימנותן. בכלכליסט נחשפה פרצת אבטחה אפשרית",
+      "link": "https://www.ynet.co.il/news/article/hjghi1tjzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-11T12:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21598711",
+      "title": "\"יש שינוי חיובי בהפועל תל אביב, סיכוי גבוה שנחזור לישראל\"",
+      "summary": "יו\"ר האדומים, סתיו שחם, אופטימי מאוד לגבי הרישיון הקבוע במפעל הבכיר באירופה • עובד קשה כדי להחזיר את אמון הקהל: \"זו פעולה מורכבת, אבל יש שינוי באווירה\" • ומעיד על הבעלים עופר ינאי: \"האיש עם הלב הכי גדול שאני מכיר\" • ראיון לפתיחת עונה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21598711",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T12:29:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21598993",
+      "title": "\"ברוכים הבאים לווטסאפ של יונתן אוריך\": האתר שמאיים לחשוף התכתבויות פרטיות",
+      "summary": "אתר פיראטי שעלה היום לרשת הודיע כי בימים הקרובים יחשוף התכתבויות פרטיות של היועץ הכי קרוב לנתניהו • לפני חודש נחשף כי אוריך חיבר את הווטסאפ הפרטי שלו לשרתים באיחוד האמירויות",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21598993",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T12:27:57.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/netanya-bus-inspector-attacked-extra-company",
       "title": "פקחית ביקשה מהנוסע באוטובוס לראות כרטיס - וזה מה קרה לאחר מכן",
       "summary": "נוסע תקף פקחית של חברת 'אקסטרא' בקו 60 ופצע את ראשה • הפקחית פונתה לבית החולים והחברה הגישה תלונה במשטרה | אלימות קשה בתחבורה הציבורית (בארץ)",
@@ -42,12 +87,30 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/zalka-murder-suspect-admits-stabbing-defense-plea",
+      "title": "התפתחות בפרשת רצח זלקה: הנאשם המרכזי הודה לראשונה בדקירה",
+      "summary": "הנאשם הודה שהגיע חמוש לזירה ודקר את המנוח, ההגנה דורשת לשנות את האישום מרצח באדישות להמתה בקלות דעת | דיון בבית המשפט המחוזי בלוד (פשע ופלילים)",
+      "link": "https://www.kikar.co.il/israel-news/zalka-murder-suspect-admits-stabbing-defense-plea",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T12:27:45.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/zalka-murder-suspect-admits-stabbing-defense-plea",
       "title": "הודה בדקירה אך דורש לשנות את האישום: התפתחות דרמטית בפרשת רצח זלקה",
       "summary": "הנאשם הודה שהגיע חמוש לזירה ודקר את המנוח • ההגנה דורשת לשנות את האישום מרצח באדישות להמתה בקלות דעת | דיון בבית המשפט המחוזי בלוד (פשע ופלילים)",
       "link": "https://www.kikar.co.il/israel-news/zalka-murder-suspect-admits-stabbing-defense-plea",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T12:27:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21598050",
+      "title": "במבה בתוך הלחמנייה, מרשמלו על הבשר: לא תאמינו מה מגישים כאן",
+      "summary": "אם חשבתם שהמבורגר עם תוספות מוגזמות כבר לא יכול להפתיע, תכירו את התפריט של בורגר מרקט • מרשמלו מותך, במבה, חמאת בוטנים וחטיפים מלוחים נפגשים עם קציצת בקר - והתוצאה? רחוקה מאוד מההמבורגר הקלאסי",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21598050",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T12:26:18.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rygyqlfsme",
@@ -192,6 +255,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-11T11:46:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1375945",
+      "title": "מול המאמינים בכיכר פטרוס: ההודעה המדאיגה של האפיפיור",
+      "summary": "האפיפיור בן ה-71 הודיע כי בבדיקות שערך התגלה נזק בריאתו, אך בשלב מוקדם. הרופאים המליצו להסירו בניתוח שיתקיים בימים הקרובים. בוותיקן מעריכים כי ההחלמה תימשך כשבוע, כשברקע ביקור מתוכנן בדרום אמריקה",
+      "link": "https://www.maariv.co.il/news/health/article-1375945",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T11:46:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1375945",
@@ -498,6 +570,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T11:05:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1375914",
+      "title": "ניסה להצית אוטובוס חיילים ופתח באש: זה העונש שנגזר עליו",
+      "summary": "45 שנות מאסר ופיצוי של 700 אלף שקל נגזרו על המחבל שהשתתף בפיגוע ירי וניסיון הצתת אוטובוס חיילים ב-2022. לאחר שהנהג נפצע והאוטובוס החל להידרדר, קצין שנסע בו מנע פגיעה נוספת",
+      "link": "https://www.maariv.co.il/news/military/article-1375914",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T11:04:26.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1375914",
@@ -1029,6 +1110,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T09:53:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1375864",
+      "title": "אחרי עדות מנדלבליט על התרגיל: ניר חפץ המום - \"מבין עכשיו למה הוא שתק\"",
+      "summary": "עד המדינה מגיב לעדות היועמ״ש לשעבר, שאמר כי התרגיל שנעשה בעניינו היה \"פסול ולא נכון\" וכי הוא עצמו מנע את הבירור: \"איך 8 שנים אחרי איש לא חקר את המעורבים? שערורייה\"",
+      "link": "https://www.maariv.co.il/news/law/article-1375864",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T09:47:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1375864",
@@ -24366,123 +24456,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T12:48:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21564618",
-      "title": "\"לא מצפים מהפועל חולון - ודווקא בגלל זה אנחנו הכי מסוכנים\"",
-      "summary": "ריבאלדו סוארס, הרכש הראשון של הפועל חולון הקיץ, מדבר בראיון ראשון על הסגל הצעיר שנבנה (\"החתמות נוצצות הן לא תמיד הסוד להצלחה\"), מסביר למה הוא \"לא מסתכל על שמות או על כמה מישהו מרוויח\" וחושף מדוע לא היסס לחתום במועדון",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21564618",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:45:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21564703",
-      "title": "לא יהיו עוד חוץ ממנה: זה מה שמגי טביבי תעשה הערב",
-      "summary": "מגישת המהדורה המרכזית של ערוץ 14 צפויה לקחת הערב חלק באירוע חשוב ומשמעותי. במה מדובר? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21564703",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:45:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/86546",
-      "title": "נשיא סוריה אחמד א-שרע נחת בסעודיה לביקור רשמי",
-      "summary": "נשיא סוריה אחמד א-שרע הגיע לסעודיה לביקור רשמי. במהלך הביקור צפוי א-שרע להיפגש עם יורש העצר הסעודי, מוחמד בן סלמאן.",
-      "link": "https://www.kikar.co.il/scoop-news/86546",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T12:44:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374298",
-      "title": "הגולגולת נדחפה לתוך המוח: הפציעה המחרידה של קברניט פליי דובאי נחשפת",
-      "summary": "קפטן סמית מאצ'הר, שנפצע בתקיפת טייס המשנה בטיסת פליי דובאי, סובל משבר דחוס בגולגולת, פגיעה זמנית בראייה וכאבי ראש עזים. מצבו משתפר, אך הרופאים ממשיכים במעקב נוירולוגי",
-      "link": "https://www.maariv.co.il/news/world/article-1374298",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T12:42:44.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374298",
-      "title": "כמעט עיוור ועם שבר בגולגולת: הפציעה המחרידה של קברניט פליי דובאי נחשפת",
-      "summary": "קפטן סמית מאצ'הר, שנפצע בתקיפת טייס המשנה בטיסת פליי דובאי, סובל משבר דחוס בגולגולת, פגיעה זמנית בראייה וכאבי ראש עזים. מצבו משתפר, אך הרופאים ממשיכים במעקב נוירולוגי",
-      "link": "https://www.maariv.co.il/news/world/article-1374298",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T12:42:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21564770",
-      "title": "ג'ודי ניר מוזס: ''למה אתה לא עושה דיאטה?''",
-      "summary": "בהצצה לפרק של הערב ב\"המטבח המנצח VIP\", ג'ודי ניר מוזס מסבירה בשיא הטבעיות למה להעיר לאדם זר על המשקל שלו זה בעיניה מעשה של חסד • ההסבר שלה רק הצית את השולחן • ומשפט אחד גרם לכל הזוגות להחליף מבטים המומים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21564770",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:41:44.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%A8%D7%90%D7%A9_%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94_%D7%95%D7%A9%D7%A8_%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F_%D7%9E%D7%90%D7%99%D7%99%D7%9E%D7%99%D7%9D__%D7%AA%D7%95%D7%A9%D7%91%D7%99_%D7%94%D7%A2%D7%95%D7%98%D7%A3_%D7%93%D7%95%D7%A8%D7%A9%D7%99%D7%9D_%D7%A4%D7%A2%D7%95%D7%9C%D7%94",
-      "title": "ראש הממשלה ושר הביטחון מאיימים, תושבי העוטף דורשים פעולה",
-      "summary": "לקראת הבחירות ויום השנה הלועזי לטבח, ראש הממשלה ושר הביטחון מזהירים את החמאס שלא לפעול נגד כוחותינו. תושבי העוטף דורשיםלכבוש את הרצועה ולסיים את הסיפור",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%A8%D7%90%D7%A9_%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94_%D7%95%D7%A9%D7%A8_%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F_%D7%9E%D7%90%D7%99%D7%99%D7%9E%D7%99%D7%9D__%D7%AA%D7%95%D7%A9%D7%91%D7%99_%D7%94%D7%A2%D7%95%D7%98%D7%A3_%D7%93%D7%95%D7%A8%D7%A9%D7%99%D7%9D_%D7%A4%D7%A2%D7%95%D7%9C%D7%94",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-06T12:39:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21563850",
-      "title": "\"כיפת ברזל\" בריטית? ההצעה של מנהיגת השמרנים שמעוררת סערה",
-      "summary": "מנהיגת האופוזיציה בבריטניה קמי בדנוק הכריזה על תוכנית הגנה אווירית חדשה בשם \"מגן בריטניה\", תוך שימוש במונח הישראלי, אלא שכעת היא מנסה להתנער מההשוואה • בדנוק מעוניינת להשקיע בתוכנית הגנה כוללת בדומה ל\"מגן אכילס\" היוונית • מומחים והיריבים הפוליטיים טוענים: \"הסכומים והמספרים פשוט לא מציאותיים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21563850",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:38:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21564561",
-      "title": "המוזיקאי תושב בארי: \"אני לא סומך על הפוליטיקאים שיצילו אותנו בפעם הבאה\"",
-      "summary": "לשרוד את התופת: שלוש שנים אחרי 7 באוקטובר, ג'ון קינג, מוזיקאי בן קיבוץ בארי, מוציא את אלבום הבכורה שלו, \"עולם הפוך\", שנולד מתוך הטראומה והאובדן של אותו יום ארור • \"כתיבת האלבום היתה תרפויטית\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21564561",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:37:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21564744",
-      "title": "מתחת לאף: האריזה הוקטנה, המחיר נותר זהה - ההתייקרות של טיטולים",
-      "summary": "במידה 3 ירדה הכמות מ-46 ל-42 חיתולים, ובמידה 2 מ-48 ל-44 והמחיר נותר על כנו • מקימברלי קלארק נמסר: \"השינוי מתוקשר בשקיפות וכנדרש בחזית האריזה\"",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21564744",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:37:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/dragon-submarine-israel-mystery-sail",
-      "title": "צוללת יום הדין של צה\"ל: המפרש הסודי שמבהיל את העולם",
-      "summary": "אח\"י דרקון יצאה לדרך לישראל אחרי 14 שנות בנייה • המפרש החריג והמערכות המסתוריות מעוררות השערות בעולם | הצוללת היקרה והמתקדמת ביותר (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/dragon-submarine-israel-mystery-sail",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T12:36:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21564644",
-      "title": "אין החלטה בנוגע לצירוף הפועל תל אביב וירושלים ליורוליג",
-      "summary": "ישיבת בעלי המניות בקומו לא הביאה בשורות לשתי האדומות לגבי האפשרות שיקבלו זיכיון למפעל הבכיר • ההכרעה תתקבל רק במהלך החודשים הבאים והקבוצות הישראליות ימשיכו לנסות להשיג את המקום",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21564644",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T12:35:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bksh11ifime",
-      "title": "\"תקבל טיל לאו לתוך הבית\": ראש ארגון הפשע מואשם בפרשת השליחים באשדוד",
-      "summary": "אייל נגר ושותפו מאור עזריאל מואשמים שהשתלטו על הענף בעיר באמצעות איומים וגרפו עשרות מיליונים. המשטרה הקימה חברה פיקטיבית ושתלה שליחים מתחזים, שספגו איומים: \"מי שפוגע בנו משלם את זה בדם\"",
-      "link": "https://www.ynet.co.il/news/article/bksh11ifime",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-06T12:32:13.000Z"
     }
   ]
 }
