@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:00:57.324Z",
+  "updatedAt": "2026-10-11T19:15:55.865Z",
   "sources": [
     {
       "key": "ynet",
@@ -50,13 +50,58 @@
       "pubDate": "2026-10-11T18:52:37.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/sy6ekitsfx",
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sy6ekitsfx",
       "title": "\"נתניהו? אין לי בעיה שיהיה שר\": אמירת בנט - והמתקפה עליו מצד יתר ראשי הגוש",
       "summary": "יו\"ר ביחד אמר כי נתניהו היה \"שר האוצר מהטובים שהיו לישראל. אין לי בעיה שהוא יהיה שר בממשלה שלנו\". איזנקוט: \"לא מקבל את זה\". גולן: \"האחראי למחדל לא יקבל הכשר לחזור לשלטון\". ליברמן: \"קורא לחבריי להבהיר - יתהפך העולם ולא נשב עם נתניהו\". מעשית, נתניהו כלל לא יכול להיות שר - עקב כתב האישום נגדו",
-      "link": "https://www.ynet.co.il/news/article/sy6ekitsfx",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sy6ekitsfx",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-11T18:50:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21601931",
+      "title": "בפנים, אבל מחוץ למוקדי הכוח: איך נתניהו מסמן את בן גביר?",
+      "summary": "ראש הממשלה מתרחק מיו\"ר עוצמה יהודית, משאיר אותו מחוץ להסכמי העודפים ומקיים אירועים פוליטיים בלעדיו • מאחורי המהלכים מסתתר, לפי הפרשנות, ניסיון לצמצם את כוחו של בן גביר ולמשוך בחזרה מצביעי ימין שמאסו בפרובוקציות שלו",
+      "link": "https://www.israelhayom.co.il/opinions/article/21601931",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:45:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21601769",
+      "title": "יזכור עם ישראל: ההבטחה שאסור להפר שוב",
+      "summary": "בין זיכרון הנופלים לחשבון הנפש הלאומי, טקסט נוקב על המחדלים, האזהרות שלא נשמעו והמערכות שאכזבו • קריאה כואבת לזכור את הבנים והבנות שאבדו, ולוודא שהאסון לא יחזור על עצמו",
+      "link": "https://www.israelhayom.co.il/opinions/article/21601769",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:44:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21601603",
+      "title": "לא רק המנהיג: מי האנשים שאנחנו מכניסים לכנסת?",
+      "summary": "מערכות הבחירות בישראל מתמקדות בראשי המפלגות, אבל בקלפי אנחנו מצביעים לרשימה שלמה • המועמדים שיישבו בכנסת, ינהלו ועדות ואולי אף יכהנו כשרים נותרים לעיתים אלמונים לציבור",
+      "link": "https://www.israelhayom.co.il/opinions/article/21601603",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:43:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21601843",
+      "title": "אבי גיל: בגדי הפקיד הישנים. והטובים",
+      "summary": "המזכ\"צ לשעבר של נתניהו מייצג אתוס שמותקף בעידן הפופוליזם: משרת ציבור שמתייחס לתפקידו בחרדת קודש - כיאה לשורשי המושג הזה • עם זאת, לא בטוח שהגילויים בריאיון יצליחו להשפיע מדי על דעת הקהל: אחת מתופעות הלוואי של הפופוליזם היא התלות בתיווך המציאות ובעיצוב הזהות בדמויות מפתח - למשל, ראש ממשלה ותיק ודומיננטי",
+      "link": "https://www.israelhayom.co.il/opinions/article/21601843",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:41:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21602709",
+      "title": "ניסיון לינץ' במרכז: 7 נערים הטיחו צעיר לרצפה - ובעטו בראשו שוב ושוב",
+      "summary": "המשטרה עצרה חמישה מהנערים, כולם קטינים, בחשד שהטיחו אדם כבן 20 ברחובות רמלה - ובעטו בראשו ובגופו במשך שניות ארוכות, גם כשעוברת אורח ניסתה להפריד • החשודים יובאו מחר לדיון בהארכת מעצרם",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21602709",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:36:25.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skdhsmfsmx",
@@ -102,6 +147,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T18:29:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21602478",
+      "title": "\"תוקפים אנשי ימין בתשלום\"? נתניהו נגד עמוד האינסטגרם הפופולרי",
+      "summary": "ראש הממשלה תקף את העמוד המוכר ברשתות - והזהיר מפני תכנים ממומנים ומסרים פוליטיים המוסווים, לדבריו, כדיווחים חדשותיים תמימים • \"אל תתנו לאריזה של 'חדשות' להחליף חשיבה ביקורתית, שימו לב למה שאתם קוראים\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21602478",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T18:26:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21602478",
@@ -381,6 +435,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T17:08:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21601634",
+      "title": "חי מליגת העל: הפועל רמת גן - בית\"ר ירושלים 4:0",
+      "summary": "הצהובים-שחורים התאוששו מפתיחת העונה הרעה ויצאו לפגרה עם רצף של שלושה ניצחונות • עומר אצילי כבש ראשון תוך ארבע דקות, בוריס אינו הכפיל לפני ההפסקה והשלים צמד עם פתיחת המחצית השנייה • ירדן שועה חזר להרכב, גם שון וייסמן ותומר יוספי פתחו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21601634",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-11T17:05:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21601634",
@@ -1743,7 +1806,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21599452",
-      "title": "אחרי 8 משחקים: דניאל פרץ שבר את הרצף - במשחק מופרע",
+      "title": "אחרי 8 משחקים: דניאל פרץ שבר את הרצף במשחק מופרע",
       "summary": "השוער הישראלי הצטיין ושמר לראשונה העונה על רשת נקייה בליגה, בניצחון 0:1 של סאות'המפטון על פורטסמות' • הדרבי הסוער סיפק שבעה כרטיסים צהובים, הרחקה וגם רגע שנוי במחלוקת של המבשל פין עזז",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21599452",
       "source": "ישראל היום",
@@ -24438,42 +24501,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T19:16:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21568153",
-      "title": "לבחור בצמיחה על פני הדכדוך",
-      "summary": "שלוש שנים אחרי הטבח, חבל התקומה חי בין זיכרון לצמיחה: קבורה מחדש של נספים לצד חזרה לבתים משוקמים, שכונות חדשות ו־3,000 יחידות דיור בשדרות • יותר מ־90% מהתושבים בחרו לשוב, והיעד הוא להכפיל את האוכלוסייה עד 2033",
-      "link": "https://www.israelhayom.co.il/news/local/article/21568153",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T19:09:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1374413",
-      "title": "הדרג הבכיר מניח שחמאס, חיזבאללה או איראן ינסו לתקוף - והתכונן מראש",
-      "summary": "הרמטכ\"ל קיים תרגיל פתע בפיקוד העורף: \"התחלנו תרגיל חילוץ שמדמה בין היתר את הדברים שחווינו ב'שאגת הארי'\". אף שאין התראה ממוקדת, במערכת הביטחון נערכים למהלך התקפי אפשרי על ישראל",
-      "link": "https://www.maariv.co.il/news/military/article-1374413",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T19:08:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21568243",
-      "title": "מוסר מלחמה: שלוש שנים לטבח השבעה באוקטובר",
-      "summary": "פרופ׳ אשר כהן טוען כי במשך שנים אימצה ישראל מגבלות משפטיות מחמירות שפגעו בחופש הפעולה המבצעי • לדבריו, אחרי הפלישה הברברית, נדרשת תפיסה אחרת: להמשיך במרדף אחר כל מי שהיה מעורב בטבח - גם אם המערכה תימשך שנים",
-      "link": "https://www.israelhayom.co.il/opinions/article/21568243",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T19:04:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21568221",
-      "title": "תמרי, יש לי רק בקשה אחת: תבואי לדבר עם שגיא",
-      "summary": "שלוש שנים אחרי 7 באוקטובר, הגעגוע אליכם ג'ון ותמרי קדם סימן טוב, לא נגמר • אתם בטח מסתכלים מלמעלה ולא מבינים איך הכל השתנה • הלוואי שנשארתם ביחד עם עומר, ארבל ושחר, משפחה אחת • העולם כאן הפסיד אתכם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21568221",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T19:01:14.000Z"
     }
   ]
 }
