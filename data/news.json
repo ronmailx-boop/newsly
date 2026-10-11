@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:05:42.505Z",
+  "updatedAt": "2026-10-11T14:15:54.504Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376009",
+      "title": "תושבי העוטף בעקבות הריאיון עם אבי גיל: \"הופקרנו, חיינו נהרסו\"",
+      "summary": "תושבי העוטף מגיבים בחריפות לריאיון עם אבי גיל ומפנים אצבע מאשימה כלפי הדרג המדיני: \"הופקרנו וחיינו נהרסו\". אחרים דורשים ועדת חקירה ומזהירים: \"אם לא נלמד - זה עלול לקרות שוב\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1376009",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T14:12:52.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmqwzd",
+      "title": "נשאיר את המת בקירור עד שתיכנעו; סערת הקבורה בהר המנוחות מגיעה לשיא חסר תקדים",
+      "summary": "בצל החיכוכים הקשים סביב שיטת הקבורה במנהרות הר המנוחות, והסיפור בקבורת יהודי תלמיד חכם בקבורת מנהרה בערב החג, התקיימו כינוסי מחאה בירושלים ובבית שמש | הכינוס בירושלים התקיים תחת אבטחה כבדה עקב איומים לפוצצו | תיעוד וסיקור ענק (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmqwzd",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T14:10:43.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1376004",
       "title": "עמית סגל ויעקב ברדוגו במוקד: התכתבויות לכאורה של יונתן אוריך נחשפות",
       "summary": "צילומי מסך שהופצו ברשת חושפים לכאורה התכתבויות בין יועצו של נתניהו, יונתן אוריך, לעמית סגל ויעקב ברדוגו, בנוגע לתיאום מסרים, נאומים ופרסומים בתקשורת. אמינות ההתכתבויות טרם אומתה",
@@ -48,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T14:03:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/zelensky-trump-60-day-ceasefire-elections-conditio",
+      "title": "אחרי ההשתלחות החריגה: זלנסקי משיב אש - ועוקץ את טראמפ",
+      "summary": "נשיא אוקראינה מגיב להתבטאויות טראמפ על הצורך בהנהגה חדשה | זלנסקי עקץ וביקש מטראמפ למסור לפוטין מסר אישי | זו התגובה של זלנסקי להשתלחות של טראמפ (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/zelensky-trump-60-day-ceasefire-elections-conditio",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-11T14:02:49.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/zelensky-trump-60-day-ceasefire-elections-conditio",
@@ -786,6 +813,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T11:54:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1375941",
+      "title": "מצאתם ויטמינים פגי תוקף בארון? זה מה שיקרה אם תשתמשו בהם | ד\"ר מאיה רוזמן",
+      "summary": "מצאתם בארון תוספי תזונה שפג תוקפם. האם צריכה שלהם היא סכנה - או סתם חסר תועלת? ד\"ר מאיה רוזמן מסבירה את כל מה שאתם צריכים לדעת: הפעולה הנכונה לגבי כל סוג ויטמין היא שונה",
+      "link": "https://www.maariv.co.il/news/health/article-1375941",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-11T11:50:07.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1375941",
@@ -24384,96 +24420,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-06T14:20:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21565926",
-      "title": "אחרי 33 שנה: רשת ''מחסני חשמל'' בצעד ראשון מסוגו",
-      "summary": "רשת מחסני חשמל משיקה מותג חדש למגזר החרדי בשיתוף משמרת השבת והידברות, והסניף הראשון כבר נפתח בביתר עילית • המוצרים שיימכרו בו, ואלה שלא יופיעו על המדפים בכלל • וגם: המחירים, וכמה סניפים נוספים כבר בדרך",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21565926",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:15:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374332",
-      "title": "משפט דרמטי בבריטניה: 3 איראנים נחשפו כמרגלים",
-      "summary": "שלושה אזרחים איראנים עומדים לדין בבריטניה באשמת ריגול נגד מתנגדי המשטר באיראן. השלושה ביצעו מעקבים וסיורים סביב כתובות המזוהות עם גורמים ב\"איראן אינטרנשיונל\"",
-      "link": "https://www.maariv.co.il/news/world/article-1374332",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T14:14:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374331",
-      "title": "פרצה ביטחונית אדירה: הכמות האסטרונומית של אנשי צוות ממדינות עוינות שנכנסו לישראל",
-      "summary": "בדיון בכנסת נחשף כי יותר מ-1,200 אנשי צוות אוויר ממדינות ללא יחסים דיפלומטיים נכנסו לישראל מתחילת השנה. בעקבות פליי דובאי, הנהלים צפויים להשתנות ומשלחת ישראלית תצא לדובאי",
-      "link": "https://www.maariv.co.il/news/israel/article-1374331",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T14:14:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374331",
-      "title": "לבנון, סוריה - ונבדק אם גם איראן: המספר העצום של אנשי הצוות ממדינות עוינות שנכנסו לישראל",
-      "summary": "בדיון בכנסת נחשף כי יותר מ-1,200 אנשי צוות אוויר ממדינות ללא יחסים דיפלומטיים נכנסו לישראל מתחילת השנה. בעקבות פליי דובאי, הנהלים צפויים להשתנות ומשלחת ישראלית תצא לדובאי",
-      "link": "https://www.maariv.co.il/news/israel/article-1374331",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T14:14:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374331",
-      "title": "ממדי המחדל נחשפים: הכמות האסטרונומית של אנשי צוות ממדינות עוינות שנכנסו לישראל",
-      "summary": "בדיון בכנסת נחשף כי יותר מ-1,200 אנשי צוות אוויר ממדינות ללא יחסים דיפלומטיים נכנסו לישראל מתחילת השנה. בעקבות פליי דובאי, הנהלים צפויים להשתנות ומשלחת ישראלית תצא לדובאי",
-      "link": "https://www.maariv.co.il/news/israel/article-1374331",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T14:14:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/france-education-protests-school-closures-arrests",
-      "title": "הכאוס בצרפת: 891 בתי ספר הושבתו, 6,100 נעצרו - והמחאה רק מתחילה",
-      "summary": "תלמידים, סטודנטים ומורים יצאו להפגנות ענק ברחבי צרפת - והבעירו את המדינה | 891 בתי ספר נפגעו משיבושים, 86 אלף מפגינים ברחובות | המחאה על מערכת החינוך הופכת למשבר פוליטי בחסות השמאל הקיצוני שתומך בסטודנטים הפורעים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/france-education-protests-school-closures-arrests",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-06T14:13:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1374329",
-      "title": "עשרות משפחות שכולות הציבו דרישה: \"לא ניתן שתוקם ועדת חקירה ממלכתית\"",
-      "summary": "שלוש שנים אחרי 7 באוקטובר, משפחות שכולות מפורום הגבורה ומפורום דין וצדק התכנסו בדרישה להקים ועדת חקירה לאומית שתבחן את המחדל ואת התנהלות כלל המערכות: \"צוואה שנכתבה בדם אהובנו\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1374329",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-06T14:12:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21565723",
-      "title": "בזמן מגעי רגב עם וויז אייר - זה מה שעשה בכיר במשרד התחבורה",
-      "summary": "תיעוד מלינקדאין מראה כי דביר רובינשטיין, מנהל מרכז המבצעים לאבטחת תעופה, הדריך בקורס שבו השתתפה עובדת וויז אייר • באותה עת נוהלו המגעים להקמת בסיס החברה בישראל • משרד התחבורה: \"הטענות נבדקות\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21565723",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:11:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21565723",
-      "title": "בזמן שרגב ניהלה מו\"מ עם וויז אייר - בכיר במשרד התחבורה עבד בשירותה",
-      "summary": "תיעוד מלינקדאין מראה כי דביר רובינשטיין, מנהל מרכז המבצעים לאבטחת תעופה, הדריך בקורס שבו השתתפה עובדת וויז אייר • באותה עת נוהלו המגעים להקמת בסיס החברה בישראל • משרד התחבורה: \"הטענות נבדקות\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21565723",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:11:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21565646",
-      "title": "לא רק הזכייה במונדיאל: 6 רגעי השיא של ליונל מסי בארגנטינה",
-      "summary": "הוא זכה עם אלביסלסטה בכל תואר אפשרי, הפך למלך השערים שלה בכל הזמנים ועשה צחוק מברזיל בכל הזדמנות • הלילה, אחרי 21 שנה, הפרעוש יערוך הופעה אחרונה במדי הנבחרת שהיה לה למלך - אלה רגעי השיא ההיסטוריים",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21565646",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-06T14:07:18.000Z"
     }
   ]
 }
