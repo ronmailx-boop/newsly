@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:30:57.534Z",
+  "updatedAt": "2026-10-12T19:45:45.112Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmt68l",
+      "title": "מאות חנויות נפגעו: מתקפת הסייבר שהפכה את המקררים לתנורים",
+      "summary": "מאות סופרמרקטים נפגעו בצרפת במתקפת סייבר לילית, שהביאה להפעלת מנגנוני ההפשרה ולזינוק בטמפרטורות; מזון רב הושלך, שריפות פרצו והרשויות פתחו בחקירה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmt68l",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T19:33:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmt7ey",
+      "title": "בשנה שעברה הוא זכה בדירה בירושלים - עכשיו תורכם לנסות",
+      "summary": "חולמים על דירת יוקרה בירושלים? הגרלת החלומות של עם ישראל חי חוזרת ובגדול זו השנה התשיעית ברציפות. אילו חידושים יהיו השנה בדירה? ומהו \"כרטיס הסופר\"? כל הפרטים חלום הזדמנויות! (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmt7ey",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T19:30:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21610687",
+      "title": "לאחר שביקר את שחקני ברצלונה: אקס הקבוצה \"לא מתחרט\"",
+      "summary": "יומיים לפני המפגש של גלאטסראיי מול ברצלונה בליגת האלופות, קשר העבר של הקטלונים אילקאי גואנדואן שובר שתיקה ומגן על האמירות הפומביות שהסעירו את המועדון בעבר • הקשר בן ה-35 הבהיר כי הביקורת החריפה שהטיח בחבריו לקבוצה נועדה לדחוף את המועדון להישגים ונבעה מאהבה עמוקה לקבוצה ולא מרצון לפגוע",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21610687",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T19:30:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21610568",
+      "title": "\"מול בית\"ר ירושלים הבטיחו לי אייפון 18 ושעון - אם לא נפסיד\"",
+      "summary": "בצל סערת הכסף מהיציע, ראול בלבראו מדבר על המקרה והחודשים הראשונים שלו בבני סכנין • מכבי תל אביב: \"הקבוצה הכי טובה, הם יזכו באליפות בפער גדול\" • היחס לסכנין: \"מקללים אותנו באצטדיונים, ממשיכים הלאה\" • והשאיפות: \"ברור שאני רוצה להתקדם מבני סכנין\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21610568",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T19:28:49.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1376488",
       "title": "בלבנון תוקפים את אביחי אדרעי: \"בלי מדים ובלי דין וחשבון\"",
@@ -66,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-12T18:54:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376479",
+      "title": "\"זה ילווה אותנו הרבה זמן\": יואב קיש חושף את האזהרה לפני האסון ברכס רמים",
+      "summary": "לאחר האסון בצפון בו נהרג תלמיד בן 14 ו-24 נוספים נפצעו, הבהיר שר החינוך שמבדיקה ראשונית עולה כי טיול אושר מראש - ובתדריך הופיעה אזהרה מפני נפלים. הוחלט על הסטת טיולים בצפון למשך 48 שעות",
+      "link": "https://www.maariv.co.il/news/israel/article-1376479",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-12T18:54:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1376479",
@@ -417,6 +462,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-12T17:12:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21610053",
+      "title": "בלי הקהל: מכבי חיפה הביסה את הפועל י-ם ונצמדה למכבי תל אביב",
+      "summary": "למרות ההחלטה שלא להגיע עם האוהדים, הירוקים חגגו על כר הדשא בטדי • אנדרו אידוקו הפתיע עם שער יתרון, אך אנדריאה נובאקוביץ' ופדרו ברזאו בשער נפלא הפכו עוד לפני ההפסקה • קנג'י חורה כבש ואפילו גיא מלמד הצטרף לחגיגה • ההפרש מהפסגה - נקודה אחת בלבד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21610053",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T17:09:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21610053",
@@ -24366,33 +24420,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-07T19:49:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-oval-office-rivals-presidency-sacred",
-      "title": "למה הוא רומז? טראמפ בחדר הסגלגל: \"יכולתי לעשות דברים רעים מאוד - ואני עדיין יכול\"",
-      "summary": "הנשיא האמריקני התייחס הערב בהצהרה מהחדר הסגלגל ליחסיו עם יריביו הפוליטיים | הנשיא אמר: \"יכולתי לעשות דברים רעים מאוד להילארי, לביידן ולאובמה\" | \"המוסד הוא מקודש\", טען טראמפ (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-oval-office-rivals-presidency-sacred",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T19:41:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/86746",
-      "title": "רוכב קורקינט בן 36 נפצע בינוני בתאונה בירושלים",
-      "summary": "רוכב קורקינט חשמלי בן 36 נפצע במצב בינוני בדרך רמאללה ליד תחנת דלק בירושלים. לפי עדי ראייה, הרוכב החליק ונחבל בראשו ובגפיו. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני והוא פונה לבית החולים שערי צדק.",
-      "link": "https://www.kikar.co.il/scoop-news/86746",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T19:41:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21576710",
-      "title": "בשמחה ובגיל",
-      "summary": "היום אני מחליפה קידומת • הגיוני, הרי זה הגיל שבו אני חשה מגע פתאומי במקלחת - ומבינה שזה העור שלי • מנגד, אני עדיין אמא שמסתירה מבתה את האמת על החיים • לפחות דבר אחד אני מסוגלת לומר בפה מלא • מחליפה צבעים: מדור מאויר",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21576710",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-07T19:31:32.000Z"
     }
   ]
 }
