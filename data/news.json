@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:45:46.860Z",
+  "updatedAt": "2026-10-12T16:01:04.722Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1376428",
+      "title": "קטנה, מוסתרת וקטלנית: הפצצה שגרמה לאסון ברכס רמים",
+      "summary": "לאחר מות התלמיד ברכס רמים, בצה\"ל מעריכים כי פצצת המצרר נורתה לעבר כוחות שפעלו בגזרה. כעת נבחנת האפשרות שתנאי השטח הסתירו את החימוש המסוכן, שנותר דרוך מאז המלחמה",
+      "link": "https://www.maariv.co.il/news/military/article-1376428",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-12T15:57:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/hadera-house-fire-dogs-parrots-rescue",
+      "title": "ארבעה כלבים ושני תוכים חולצו משריפה בבית קרקע | נפתחה חקירה • תיעוד",
+      "summary": "שריפה פרצה בבית קרקע בשכונת בית אליעזר • האש התפשטה מהחצר לפרגולה ומשם למבנה • לוחמי האש חילצו 4 כלבים ושני כלובי תוכים בשלום | אין נפגעים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/hadera-house-fire-dogs-parrots-rescue",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T15:57:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/defense-minister-katz-bagatz-judea-samaria-operati",
+      "title": "שר הביטחון כ\"ץ נגד בג\"ץ: \"תמשכו את ידכם מהפעילות המבצעית ביו\"ש\"",
+      "summary": "שר הביטחון מזהיר: התערבות בג\"ץ בשיקולים ביטחוניים תפגע בחיילים ואזרחים • כיבוש מחנות הפליטים הוריד את הטרור ב-80% | \"לא אתפשר גם אם זה ידרש חקיקה\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/defense-minister-katz-bagatz-judea-samaria-operati",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T15:54:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376425",
+      "title": "\"אין דרך אחרת\": ההחלטה החריגה אחרי האסון בגליל העליון",
+      "summary": "בעקבות האסון בגליל העליון, ראש המועצה אסף לנגלבן דורש מצה\"ל לסרוק את השטחים הפתוחים למטיילים ולהפיק לקחים. בריאיון ל-103FM הבהיר כי למרות האירוע הקשה, הטיולים באזור צפויים להימשך",
+      "link": "https://www.maariv.co.il/news/israel/article-1376425",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-12T15:51:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87227",
+      "title": "פועל בן 30 נפגע בינוני בנפילה מגובה במגדל העמק",
+      "summary": "פועל כבן 30 נפגע הערב (17:40) במצב בינוני לאחר שנפל מגובה במהלך עבודתו באתר בנייה במגדל העמק. צוותי מד\"א במרחב גלבוע העניקו לו טיפול רפואי ופינו אותו לבית החולים העמק עם חבלת גב.",
+      "link": "https://www.kikar.co.il/scoop-news/87227",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T15:47:20.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/smotrich-attacks-haredim-rav-lando-unprecedented",
       "title": "סמוטריץ' פתח מבערים כנגד הציבור החרדי ופער את פיו על המנהיג הגר\"ד לנדו",
@@ -24303,33 +24348,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-07T16:01:15.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj2rdjnizx",
-      "title": "נתניהו לא משתתף בטקסי היום - והליכוד משתלח ב-7/10 בתקשורת ובבכירי הביטחון",
-      "summary": "בעיצומו של יום השנה השלישי לטבח, ובזמן שמתקיימים הטקסים שבהם רה\"מ ורוב שרי הליכוד לא נוכחים, תקפו בליכוד את התקשורת: \"תעמולה שקרית במטרה להפיל את שלטון הימין\". נתניהו פרסם אף הוא את ההודעה, שבה הותקפו גם ראשי מערכות הביטחון: \"אם היה מעודכן בזמן אמת, הכול היה נראה אחרת\"",
-      "link": "https://www.ynet.co.il/news/article/rj2rdjnizx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T15:56:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmjn5t",
-      "title": "הדרמה בטיסה וספר התורה הזעיר; הימים הנעלים בצילו של הגר\"מ שטרנבוך",
-      "summary": "הושענא רבה ושמחת תורה בצל קודשו של הפוסק הגאון רבי משה שטרנבוך עמדו בסימן התעלות עצומה, לצד רגעים מרטיטים ומרגשים שחוו ההמונים שזכו לשהות במחיצתו | תיעוד וסיקור ענק (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tmjn5t",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T15:53:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tmjnqj",
-      "title": "פייגלין נגד הציבור החרדי: ״צריך להפסיק לממן את תלמידי הישיבות״",
-      "summary": "יו\"ר זהות קורא להפסיק את המימון ללומדי תורה • גורמים חרדיים: \"נורה אדומה לכל מי שעולם התורה יקר לו. הציבור החרדי צריך לשאול מי באמת עמד לצדו, מי פעל למענו ומי מבקש את אמונו\" (חרדים)",
-      "link": "https://www.kikar.co.il/israel-news/tmjnqj",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T15:50:59.000Z"
     }
   ]
 }
