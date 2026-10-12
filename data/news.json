@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:01:11.444Z",
+  "updatedAt": "2026-10-12T21:16:03.631Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
+      "title": "הלילה: פגיעת טיל ישירה סמוך לבית הספר היהודי, הפיצוץ הרעיד את האזור",
+      "summary": "הסלמה קשה באוקראינה: פיצוץ עז החריד את אזור בית הספר היהודי 'אור אבנר' בחרקוב בעקבות מתקפת טילים הרסנית | בעוד מבנה המוסד החינוכי ניצל בנס, ראש העיר מדווח על הרס כבד ולכודים תחת ההריסות בסמיכות מקום (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T21:07:39.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14925200",
+      "title": "עורו הציונים",
+      "summary": "שפע הגילויים והחשיפות על ההתרעות שקיבל נתניהו מגיעים בעיתוי לא מקרי. כדי להשפיע על ההצבעה. בפועל, מדובר בבומרנג. משום שזה בדיוק מה שנתניהו מבקש להוכיח: הם נגדי",
+      "link": "https://www.ynet.co.il/news/article/yokra14925200",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-12T21:06:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14924709",
+      "title": "מדיניות החוב הישראלית: אמריקניזציה מסוכנת",
+      "summary": "המעבר ממדינה בעלת כלכלה צומחת ויתירות תקציבית למודל של \"סופר-ספרטה\" מבית המדרש של נתניהו מייצר נזק עמוק וארוך טווח שעשוי להיות בלתי-הפיך",
+      "link": "https://www.ynet.co.il/news/article/yokra14924709",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-12T21:04:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14924716",
+      "title": "תחנת וושינגטון אינה עונה",
+      "summary": "נתניהו איבד את טראמפ - וישראל איבדה את אמריקה",
+      "link": "https://www.ynet.co.il/news/article/yokra14924716",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-12T21:02:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21610899",
+      "title": "\"אין מה לומר\": בכיר בגוש השינוי נגד איזנקוט",
+      "summary": "לאחר קמפין \"שתיית הקולות\" שיצא לדרך, השותפים בביקורת חריפה על יו\"ר ישר! • \"זה כ\"כ מטומטם\" • במפלגה של איזנקוט כתבו בקבוצה פנימית: \"חייבים להיות המפלגה הגדולה ביותר\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21610899",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:54:22.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/r15cdhcszx",
       "title": "מתקפת \"המקררים הלוהטים\" בצרפת: ההאקרים הרסו מזון בעשרות מיליוני אירו",
       "summary": "בפריז אומדים את הנזק אחרי שנחשף כי האקרים השתלטו מרחוק על מקפיאים וחדרי קירור ביותר מ-500 סופרמרקטים, העלו את הטמפרטורה ל-50 ו-80 מעלות – ואילצו את העובדים לזרוק טונות של אוכל שהתקלקל לפח: \"זה אסון, עלה עשן, ארגזים של באגטים הושלכו למכולת האשפה\". עדיין לא ברור מי אחראי למתקפה, העובדים המומים: \"למה שמישהו יתקוף פריזר של סופרמרקט?\". באוגוסט הושבתו מתקני קירור בחנויות של צבא ארה\"ב, חשש שההאקרים יתקפו במדינות נוספות",
@@ -39,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-12T20:45:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21610901",
+      "title": "בגיל 34 בלבד: כוכב \"שובר שורות\" הלך לעולמו",
+      "summary": "השחקן אר.ג'יי מיט שגילם את בנו של וולטר ווייט מת בנסיבות שטרם פורסמו • נציגיו אישרו את הבשורה והספידו: \"היה פילנתרופ ופעיל זכויות\" • מיט, שהתמודד בעצמו עם שיתוק מוחין, הותיר אחריו מורשת של מאבק למען ייצוג והכלה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21610901",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:43:01.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1gwxfqigg",
@@ -75,6 +129,114 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-12T20:32:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21534849",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "אתם שואפים לחשוף משהו שמתרחש מאחורי הקלעים, אולם אינכם בטוחים שתוכלו לסיים את המהלך על הצד הטוב ביותר ולכיוון הנדרש לכם לקדם את ענייניכם. &#xD; &#xD; הדיווחים והרכילות הלוהטת שמגיעה לאוזניכם מבלבלים אתכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21534849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21534850",
+      "title": "מזל שור, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "המשימות היומיות דורשות מכם לא מעט אומץ אבל אפשרית בהחלט. אתם כבר מודעים לעובדה שעליכם 'ללמוד שיעור' בהבעה עצמית, וכול סיטואציה 'מלחיצה' היא גם הזדמנות",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21534850",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21534851",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "היום נראה שאתם עומדים להעמיד את האינטואיציה החזקה שלכם במבחן המציאות. אל תבזבזו אנרגיה על עצות 'הגיוניות'",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21534851",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21535050",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "חולשה תוקפת אתכם, מה שלא ממש מתאים לכם בימים אלה -הדבר נובע בגלל עומס ריגשי שאתם סוחבים מבתחילת השבוע. &#xD; &#xD; אתם גוררים את עצמכם ממקום למקום מתוך תחושת מחויבות אבל האמת שהרצון שלכם הוא פשוט לזחול ולהתכרבל במיטה",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21535050",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21535052",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "יום הפכפך רצוף בדפיקות לב ומתח. תקבלו הצעה שנראית יותר מידי טובה מכדי להיות אמיתית",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21535052",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21535055",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "הניסיון לפרוץ לעצמכם דרך בכוחניות, אינו עולה יפה ואתם נוכחים בפעם המי יודע כמה שצריך לעיתים לפעול מתוך הקשבה לזולת וביתר עדינות. &#xD; &#xD; אל תשכחו שמולכם ניצבים אנשים לא פחות נבונים מכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21535055",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21535230",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "סובלנות וסבלנות הן מילות המפתח לבעיות שתיתקלו בהן היום. אולי אתם לא ממש מודעים אך יש לכם צורך חזק ביותר לשנות משהו בסיסי בצורת החיים הנוכחית",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21535230",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21535231",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "יום מתאים מאוד לקחת פסק זמן. אין טעם להמשיך לרוץ כאשר המטרה נעלמת מהעין",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21535231",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21535232",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "נראה לכם שאתם על סף התפרצות. חוסר שקט פנימי ורוח קרבית משתלטת עליכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21535232",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21535409",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "קשה לכם לצאת מהמלכוד. הדרישות שמשתנות לעיתים קרובות מצד גורמים שאיתם אתם מעורבים רגשית, רק גורמות לכם לתוהו ובוהו תהומי",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21535409",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21535410",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "אתם מחליטים להפסיק פרויקט התנדבותי שגורם לכם להרבה כאב ראש וטרחה מיותרת. בגלל שלא נעים לכם לסרב אתם מנסים להתחמק ולהפעיל מניפולציה",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21535410",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21535411",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 13.10.2026",
+      "summary": "הפסיקו להאשים את בני המשפחה ואת החברים בחוסר המנוחה שתוקף אתכם. אתם מרגישים מותשים אבל שורש העניין הוא פנימי- אישי ולא קשור לאירועים חיצוניים",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21535411",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-12T20:30:21.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21610827",
@@ -24285,42 +24447,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-07T21:45:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14920293",
-      "title": "משיחיות יהודית על אקסטות",
-      "summary": "כשקוראים את כתב האישום נגד פרופ' שחר נבו, יש תחושה כאילו מישהו חיבר את ברוך גולדשטיין עם יגאל עמיר והכיר להם את יונה אברושמי. היהדות עצמה, שאוסרת הן על החשת הגאולה והן על רצח בני אדם, כלל לא רלוונטית לאנשים מסוגו",
-      "link": "https://www.ynet.co.il/news/article/yokra14920293",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T21:04:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14920286",
-      "title": "לאן נעלם שמעון פרס?",
-      "summary": "אין לישראל כיום אף מדינאי בעל יכולת וחזון כפי שהיו לפרס, אשר ידע לשלב בין עשייה ביטחונית לעשייה מדינית",
-      "link": "https://www.ynet.co.il/news/article/yokra14920286",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T21:03:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14920524",
-      "title": "הבטן הרכה של התעופה",
-      "summary": "אבטחת התעופה אמורה להגן על מספר עצום של נקודות תורפה. \"לא צריכים יותר מפרצה אחת\", כותב המומחה הבינלאומי ד\"ר מנחם (מנה) בכרך בספר שלו",
-      "link": "https://www.ynet.co.il/news/article/yokra14920524",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T21:02:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14920212",
-      "title": "המהומות בצרפת: כאוס פלסטיני",
-      "summary": "מסתמן שבאופן אירוני עומדת הפצצה הפלסטינית להתפוצץ דווקא בידיים של מדינות באירופה שמימנו וטיפחו אותה נגד ישראל",
-      "link": "https://www.ynet.co.il/news/article/yokra14920212",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-07T21:02:00.000Z"
     }
   ]
 }
