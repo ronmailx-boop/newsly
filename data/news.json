@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:45:59.880Z",
+  "updatedAt": "2026-10-12T15:01:01.298Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1376413",
+      "title": "200 ק\"ג חומרי נפץ נתפסו בגבול סוריה, חיזבאללה: \"זכות טבעית\"",
+      "summary": "על פי דיווחים לבנונים, צבא לבנון תפס היום כ-200 קילוגרמים של חומרי נפץ במחוז הרמל, סמוך לגבול עם סוריה. התפיסה מגיעה בשעה שהמערכת הפוליטית בלבנון סוערת בעקבות חומרי נפץ שנתפסו בשבוע שעבר",
+      "link": "https://www.maariv.co.il/news/military/article-1376413",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-12T14:57:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/zeibert-complaint-ger-hasidim-recording",
+      "title": "״הקליטו בסתר״: ראש עיריית בני ברק מטעם גור הגיש תלונה נגד בכירים בחסידות גור",
+      "summary": "ראש עיריית בני ברק הגיש תלונה בבית הדין נגד שני בכירים בחסידות • הטענה: פעלו להקליט אותו בלשכתו ולהפלילו | הדרמה הפוליטית בבני ברק (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/zeibert-complaint-ger-hasidim-recording",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T14:55:10.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/police-chief-explosion-site-galilee-investigation",
+      "title": "המפכ\"ל בזירה: \"הטיולים לאיזור יופסקו בימים הקרובים\" | צה\"ל: מדובר בפצצת מצרר של חיזבאללה",
+      "summary": "מפכ\"ל המשטרה קיים הערכת מצב בזירת האסון בצפון שם נהרג תלמיד ויש עוד פצועים רבים יחד עם מפקד מחוז צפון • המפכ\"ל שיבח את עבודת השוטרים והחבלנים | על פי ההערכות נכון לשעה זו, הטיולים למקום יופסקו באופן זמני, עד שתתבהר התמונה המלאה של האסון ולמטיילים במקום יהיה ביטחון מלא (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/police-chief-explosion-site-galilee-investigation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-12T14:46:12.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-hassan-execution-broadcast-controversy",
       "title": "סערה בארה\"ב: ממשל טראמפ מגן על שידור הוצאה להורג פומבית",
@@ -430,7 +457,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b19yjvcjmx",
       "title": "בן 15 נהרג, נבדק החשד: אחד התלמידים מצא את הנפל - שהתפוצץ בתיקו",
-      "summary": "24 תלמידים נפגעו: בצה\"ל נבדק אם הטיול השנתי של הישיבה התיכונית אורט מעלות אושר כנדרש, ובמשרד החינוך טוענים: \"הוא הוסדר לפי הנהלים ופיקוח צה\"ל\". הכיוון המרכזי: התלמיד מצא נפל פצצת מצרר - באזור ששימש בעבר כשטח כינוס של צה\"ל",
+      "summary": "24 תלמידים נפגעו: בצה\"ל נבדק אם הטיול השנתי של הישיבה התיכונית אורט מעלות אושר כנדרש, ובמשרד החינוך טוענים: \"הוא הוסדר לפי הנהלים ופיקוח צה\"ל\". הכיוון המרכזי: התלמיד מצא נפל פצצת מצרר - באזור ששימש בעבר כשטח כינוס של צה\"ל. \"הם התלהבו, הצטלמו, וכנראה שאחד הילדים שם אותה בתיק\"",
       "link": "https://www.ynet.co.il/news/article/b19yjvcjmx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -24276,78 +24303,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-07T15:02:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-execution-survivor-testimony",
-      "title": "הצעיר האיראני הגיבור שנתפס עם דגל ישראל עבר \"הוצאה להורג מדומה\"",
-      "summary": "עדות דרמטית של צעיר איראני בן 26 ששרד עינויים קשים, הוצאה להורג מדומה ומאסר בכלא המקומי בעקבות השתתפותו בהפגנות המחאה, רגע לפני שהצליח להימלט מחוץ לגבולות המדינה.",
-      "link": "https://www.kikar.co.il/world-news/iran-execution-survivor-testimony",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T14:57:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmjlfe",
-      "title": "\"כתוב את הצוואה שלך\": עדות האימה של הצעיר האיראני שניצל מהגרדום",
-      "summary": "עדות דרמטית של צעיר איראני בן 26 ששרד עינויים קשים, הוצאה להורג מדומה ומאסר בכלא המקומי בעקבות השתתפותו בהפגנות המחאה, רגע לפני שהצליח להימלט מחוץ לגבולות המדינה.",
-      "link": "https://www.kikar.co.il/world-news/tmjlfe",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-07T14:57:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21575001",
-      "title": "התיעוד שחושף את וילות הפאר ברשות הפלסטינית - ואת צביעות העולם",
-      "summary": "תנועת רגבים השיקה תיעודים של וילות ענק, בריכות שחייה וצריחים שנבנו ביו\"ש • התיעוד הנרחב בוצע ביום אחד בלבד • הפרויקט זכה לשם \"נדל\"ן תחת כיבוש\" - ונועד לנפץ את קמפיין \"העוני והדיכוי\" הנפוץ בעולם • \"התקשורת בעולם בוחרת לעצום עיניים\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21575001",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-07T14:53:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21573856",
-      "title": "אקס היורוליג: \"אין לי שום דבר נגד סשה אוברדוביץ'\"",
-      "summary": "לפני שמונה למאמן הפועל ירושלים, הסרבי הדריך את הכוכב האדום בלגרד ו\"מחק\" את דונטאס מוטיונאס • כעת הליטאי סוגר איתו חשבון ומבהיר: \"הוא מאמן נהדר, מצידי אני מאחל לו הרבה הצלחה וכל טוב\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21573856",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-07T14:52:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21575124",
-      "title": "רחל מאופקים מתגעגעת: ''מחפשת אותך לידי''",
-      "summary": "שלוש שנים אחרי שהפכה לסמל של תושייה ואומץ, רחל אדרי מאופקים כתבה מכתב כואב לבעלה דוד, שנפטר חודשים אחרי הטבח • \"חשבתי שאם יצאנו בחיים, ניצחנו\", כתבה • והשורה שבה הודתה במה שאיש לא ראה מאחורי החיוך שלה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21575124",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-07T14:50:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21574994",
-      "title": "חשש במפרץ: טבעת חנק איראנית בבאב אל-מנדב",
-      "summary": "גורמי מודיעין באזור מזהירים מפני ניסיון של משמרות המהפכה לשכפל את מודל החות'ים לגדה המערבית של המצר האסטרטגי • במקביל, בחמאס מסמנים את לוב וסודאן כזירות פוטנציאליות לפתיחת \"חזית מערבית\" נגד ישראל",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21574994",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-07T14:49:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374679",
-      "title": "גדי איזנקוט על הירש גולדברג פולין ז\"ל: \"היה אפשר להחזיר אותו בחיים\" | צפו",
-      "summary": "יו\"ר מפלגת \"ישר\" ביקר במיגונית המוות סמוך לרעים עם הוריו של ענר שפירא ז\"ל, התייחס להירש גולדברג-פולין ז\"ל ואמר כי ניתן היה להשיב חלק מהחטופים בחיים",
-      "link": "https://www.maariv.co.il/news/israel/article-1374679",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-07T14:48:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1374679",
-      "title": "\"היה אפשר להחזיר חלק מהחטופים בחיים\": איזנקוט במיגונית המוות | צפו",
-      "summary": "יו\"ר מפלגת \"ישר\" ביקר במיגונית המוות סמוך לרעים עם הוריו של ענר שפירא ז\"ל, התייחס להירש גולדברג-פולין ז\"ל ואמר כי ניתן היה להשיב חלק מהחטופים בחיים",
-      "link": "https://www.maariv.co.il/news/israel/article-1374679",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-07T14:48:28.000Z"
     }
   ]
 }
