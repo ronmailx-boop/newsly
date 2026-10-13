@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:30:48.579Z",
+  "updatedAt": "2026-10-13T03:45:45.425Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/iran-threatens-military-confrontation-trump-predic",
+      "title": "איראן מאיימת בעימות צבאי מלא • טראמפ: \"זה יסתיים בקרוב מאוד\"",
+      "summary": "סגן שר החוץ האיראני מצהיר: ערוכים להגן על עצמנו ולהיכנס לעימות צבאי • טראמפ מבטיח: המלחמה תסתיים בקרוב ומחירי הנפט יצנחו | העדכונים האחרונים (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/iran-threatens-military-confrontation-trump-predic",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T03:45:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/galilee-explosion-injured-update-hospitals",
+      "title": "הטרגדיה בטיול בנאות מרדכי: נער בן 15 נהרג בפיצוץ, 24 פצועים עדיין מאושפזים",
+      "summary": "24 פצועים מאושפזים בבתי החולים בצפון • ארבעה במצב קשה, שבעה במצב בינוני ו-13 במצב קל | עדכון מצב הפצועים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/galilee-explosion-injured-update-hospitals",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T03:38:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21611164",
+      "title": "אימה בגרמניה: רובוט הגיח מאחורי נערה - וביצע מעשים מגונים",
+      "summary": "בת 16 בילתה עם חברותיה במסעדה, כשרובוט בגובה 1.20 מטר התקרב אליה מאחור - וביצע בה מעשה מגונה, בעוד נערים תיעדו הכל מהצד • המשטרה החרימה את המכונה שככה\"נ שייכת לשני הצעירים, החשודים בהפעלתו",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21611164",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T03:29:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21610318",
+      "title": "המזכרת מהחופשה שעלולה לעלות לתיירים אלפי אירו",
+      "summary": "מעל 250 ק\"ג של מזכרות טבע הוחרמו מתיירים בשדות התעופה בסרדיניה • הקנסות על נטילת \"מזכרת\" תמימה מהחוף עלולים להגיע ל-3,000 יורו • כמעט 75% מהנלכדים בבידוק הביטחוני - אזרחים זרים • אזהרות ואיסורים דומים חלים גם בחופי יוון, טורקיה ומצרים",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21610318",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T03:27:30.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1376504",
       "title": "אחרי האסון בצפון: חשש מפצצות מצרר שנותרו ברחבי הארץ - \"מלכודת קטלנית עבור ילדים גם אחרי שנים\"",
       "summary": "האסון ברכס רמים חשף מחדש את הסכנה בתחמושת מצרר: תתי-חימוש שלא התפוצצו עלולים להישאר דרוכים במשך חודשים ואף שנים. מומחים מסבירים כיצד הם פועלים – ולמה אסור להתקרב אליהם",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T03:04:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376508",
+      "title": "המכה האמריקאית לארדואן – והחגיגה ביוון: \"מטוסי ה-F-35 יחדרו ללב טורקיה\"",
+      "summary": "יוון מציגה את טווחי ה-F-35 מול טורקיה, ובמקביל מאיצה עסקת נשק של מיליארדי דולרים. באתונה מדברים על שינוי במאזן הכוחות, חיזוק חיל האוויר והיערכות לעימות אפשרי בזירה האזורית",
+      "link": "https://www.maariv.co.il/news/world/article-1376508",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T03:03:43.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1376508",
@@ -24465,24 +24510,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-08T03:49:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-october-7-statement-three-years",
-      "title": "טראמפ: \"לעולם לא נשכח את 7 באוקטובר, חפים מפשע נרצחו ונחטפו\"",
-      "summary": "הנשיא האמריקני פרסם הצהרה מיוחדת לציון שלוש שנים לטבח • \"גברים, נשים וילדים חפים מפשע נרצחו ונחטפו\" | \"נלחמתי ללא לאות להשיב את החטופים הביתה\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-october-7-statement-three-years",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-08T03:44:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21572316",
-      "title": "יותר מ-6 דקות של לילה - באמצע היום: האם אתם מוכנים ל\"ליקוי המאה\"?",
-      "summary": "ב-2 באוגוסט 2027 יתרחש ליקוי החמה המלא הממושך והנגיש ביותר של דורנו • שיא האירוע יירשם באזור לוקסור שבמצרים, שם ייעלם אור השמש לכשש דקות ו-23 שניות תחת שמיים נקיים מעננים • מיליוני צופים מדרום אירופה, דרך צפון אפריקה ועד חצי האי ערב, צפויים לחזות במחזה האסטרונומי הנדיר",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21572316",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T03:34:27.000Z"
     }
   ]
 }
