@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:30:59.120Z",
+  "updatedAt": "2026-10-13T20:45:46.688Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,40 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1mlvz2jfg",
+      "title": "חקירה בגרמניה: רובוט עם שרשר וגופייה הטריד מינית נערה בת 16, צעירים שידרו לייב",
+      "summary": "משטרת קלן פתחה בחקירה אחרי שנער בן 16 וחברו בן ה-19 יצאו להסתובב במרכז העיר עם רובוט לבוש בגופייה לבנה, מכנסי טרנינג שחורים ומשקפי שמש. הרובוט התקרב לקבוצת נשים, נגע בישבנה של נערה – וביצע תנועות אגן מיניות, תוך שהשניים מעבירים את הכול בשידור חי ברשת. השוטרים יבדקו אם תנועותיו תוכנתו מראש, הצעירים חשודים בהטרדה מינית, העונש – עד שנתיים מאסר",
+      "link": "https://www.ynet.co.il/news/article/r1mlvz2jfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T20:35:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618864",
+      "title": "מכבי תל אביב נגד ברצלונה: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
+      "summary": "פרק 5: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי המשחק של הצהובים בספרד ודיברו גם לקראת המשחק של הפועל תל אביב מול בשיקטאש",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618864",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T20:24:16.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hyjltznomg",
       "title": "נתניהו הודה שהבכיר המצרי נחת בארץ לפני 7/10: \"דיבר איתי? לא קרה פעם אחת\". הסרטון מוכיח אחרת",
-      "summary": "",
+      "summary": "רה\"מ אישר את הפרסום ב\"וול סטריט ג'ורנל\" על הגעת ראש המודיעין המצרי עבאס כאמל לישראל, ולמעשה גם את החשיפה ב-ynet וב\"ידיעות אחרונות\" מיד אחרי הטבח. \"לא נפגשתי איתו, ממתי ראש מודיעין מדבר עם ראש מדינה? לא קרה לי פעם אחת\", אמר נתניהו - אבל שנתיים לפני כן תועד נתניהו מארח את כאמל",
       "link": "https://www.ynet.co.il/news/article/hyjltznomg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-13T20:20:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21619177",
+      "title": "שוב איום על פצצה בטיסת דלתא לישראל: המטוס מניו יורק מעוכב",
+      "summary": "טיסה של חברת דלתא אירליינס שנערכה להמריא מניו יורק לישראל, מעוכבת בעקבות דיווח על פצצה • מדובר בפעם השנייה היום, כאשר בתקרית שאירעה הבוקר לא נמצא מטען חריג והנוסעים הורדו במהירות",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21619177",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T20:19:39.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/female-officer-blocked-hermon-haredi-soldiers",
@@ -336,6 +363,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T18:36:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 75:83",
+      "summary": "מחזור 5: ים מדר הגיע לוהט לרבע השלישי, אבל הקטלאנים התעוררו והצליחו לברוח להפרש משמעותי • מי תצא מנצחת מהפלאו בלאוגרנה?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T18:21:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
@@ -24690,33 +24726,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T20:50:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21585684",
-      "title": "קנה ציור ב-30 דולר וגילה אוצר ששווה יותר ממיליון",
-      "summary": "יצירה שנמצאה במסדרון חשוך במישיגן התגלתה כציור מקורי של ג׳רטרוד אברקרומבי, שנעלם מעיני הציבור לכמעט 75 שנה • הרוכש זיהה חתימה על הרקע הכהה והחליט להמר • במכירה הפומבית היא נמכרה ביותר מ-1.35 מיליון דולר ושברה את שיא המכירות של האמנית",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21585684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:42:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21585707",
-      "title": "כשהמבוגר האחראי חסר: כך הידרדרה המחאה בכביש 4",
-      "summary": "בשעה הראשונה נשמר השקט, והמשטרה הצליחה למנוע חיכוכים מיותרים • כשהחל פיזור ההפגנה, הפער בין שני הצדדים נעשה ברור: בצד אחד פעלו קצינים עם שרשרת פיקוד, ובצד השני לא הייתה הנהגה שתכוון את המפגינים • משם הדרך לצעקות, יריקות ודחיפות כבר הייתה קצרה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21585707",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:41:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21585307",
-      "title": "מכבי תל אביב נגד מילאנו: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
-      "summary": "פרק 4: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי המשחק של הצהובים מול האיטלקים ודיברו גם על ההפסד של הפועל תל אביב לוולנסיה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21585307",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:32:20.000Z"
     }
   ]
 }
