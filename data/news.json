@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:31:13.455Z",
+  "updatedAt": "2026-10-13T11:37:50.377Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376707",
+      "title": "בנט נתקל בבן גביר במסדרון - וקיבל ממנו הצעה מפתיעה: \"ממה אתה מפחד?\" | צפו",
+      "summary": "מפגש במסדרון כנס \"במת ישראל\" הפך לחילופי דברים בין השר איתמר בן גביר לראש הממשלה לשעבר נפתלי בנט. בן גביר הזמין את בנט לעימות אחד על אחד והטיח בו שורת האשמות חריפות",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1376707",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T11:36:26.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/nuremberg-airport-emergency-closure-fighter-jets",
       "title": "נמל התעופה בגרמניה נסגר: מטוסי קרב ולוחמי קומנדו ליוו מטוס נוסעים",
@@ -77,9 +86,36 @@
       "pubDate": "2026-10-13T11:21:15.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21615232",
+      "title": "\"חבל שלא הייתה סבלנות, בהפועל תל אביב הולך לו מצוין\"",
+      "summary": "נתניאל אסמואה, שחקן עבר של הכוכב האדום בלגרד וכיום סקאוט, התייחס בראיון להשתלבותו של דאגלס אווסו בישראל, וטען כי קבוצתו הקודמת לא העניקה לו מספיק סבלנות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21615232",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T11:19:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21614839",
+      "title": "11 מלחים נעדרים לאחר שספינה הוטבעה בים השחור: בולגריה זימנה את שגרירת רוסיה",
+      "summary": "שתי ספינות מטען נפגעו מתקיפות כטב\"מים מול חופי בולגריה, ואחת מהן טבעה. חמישה אנשי צוות חולצו, אך 11 נוספים עדיין נעדרים • בסופיה נמנעו מלהאשים את מוסקבה בצורה ישירה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21614839",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T11:19:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21615224",
+      "title": "פי 6 מהרגיל: ארגנטינה סגרה את הגישה למפלי איגואסו",
+      "summary": "הרשויות בארגנטינה חסמו את כניסת התיירים לאתר המפורסם בעקבות שיטפונות עזים ותופעת \"אל ניניו\", שהקפיצו את ספיקת המים ליותר מפי שישה מהממוצע",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21615224",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T11:18:47.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/s1zuufsizl",
       "title": "שורדי שבי ומשפחות שכולות לנתניהו: \"חשוף את הפרוטוקולים. לא ניתן לאמת להיקבר\"",
-      "summary": "בעקבות הדיווחים על ניסיון לסלף תוכן דיונים שקדמו לטבח ומאותו בוקר, עשרות שורדי שבי ומשפחות שכולות תובעים לפרסם את התיעוד וההקלטות. \"לא נסכים שהאמת תוסתר ותוחלף בגרסה שתשרת את מי שאחריותם עומדת לבחינה\", כתבו",
+      "summary": "בעקבות הדיווחים על ניסיון לסלף תוכן דיונים שקדמו לטבח ומאותו בוקר, עשרות נפגעים מטבח 7/10 תובעים לפרסם את התיעוד וההקלטות. \"לא נסכים שהאמת תוסתר ותוחלף בגרסה שתשרת את מי שאחריותם עומדת לבחינה\", כתבו",
       "link": "https://www.ynet.co.il/news/article/s1zuufsizl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -93,6 +129,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T11:18:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21615237",
+      "title": "אירוע חריג בגרמניה: מטוסי קרב הוקפצו ללוות מטוס נוסעים, נמל התעופה הושבת",
+      "summary": "מהמשטרה נמסר כי התקבל דיווח על \"אירוע חירום אווירי\" וכי המטוס נחת בשלום • ברקע האירוע, בגרמניה דווח הלילה על שיבושים בתנועת המטוסים בשדה בעקבות חשד לרחפנים באוויר",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21615237",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T11:17:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21615099",
+      "title": "ההורים השכולים דורשים: תפרסמו את הממצאים שממחישים את זוועות 7 באוקטובר",
+      "summary": "בכנס בינלאומי לרפואה משפטית בירושלים הציגו מומחים את האתגרים בזיהוי קורבנות הטבח, בהם דגימות DNA שנחשפו לחום של יותר מ־800 מעלות • אביה של התצפיתנית רוני אשל ז״ל קרא להשתמש בדוחות לצורכי הסברה: \"לפעמים זו רק שערה, לפעמים קצה ציפורן ולפעמים גוש פחם\" • פרופ׳ חן קוגל חשף כי צוות מיוחד הצליח לקבוע את מותם של 44 חטופים גם ללא גופות",
+      "link": "https://www.israelhayom.co.il/news/local/article/21615099",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T11:16:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87326",
@@ -156,6 +210,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T11:04:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sylgxtojge",
+      "title": "תקרית אווירית בגרמניה: \"מטוסי קרב הוזנקו למטוס מיוון\"",
+      "summary": "נמל התעופה בנירנברג נסגר לזמן קצר בגלל \"תקרית חירום אווירית\" שפרטיה אינם ברורים, ולפי הדיווחים היא החלה עם שידור אות מצוקה במטוס של חברת קורנדון איירליינס שהגיע מהאי היווני קורפו. מטוסי קרב ליוו אותו לפני שנחת שם, לפי ה\"בילד\" גם יחידת קומנדו הוזעקה - אך המשטרה הודיעה בהמשך: הוסר החשש",
+      "link": "https://www.ynet.co.il/news/article/sylgxtojge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T11:04:26.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sylgxtojge",
@@ -264,6 +327,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T10:44:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21614796",
+      "title": "20 מיליון שקלים: הצעד הבא והמפתיע של עידן עמדי",
+      "summary": "רשת ארומה נכנסת לראשונה לשוק הקפה השחור ומשיקה את \"קפה ירושלמי\" בהשקעה של 20 מיליון שקלים • עידן עמדי, שישמש כשותף וכפרזנטור, היה מעורב גם בבחירת תערובת הקפה ובעיצוב האריזה • המטרה: להתחרות במותגים הוותיקים, ובראשם הקפה הטורקי של עלית",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21614796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T10:44:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21614796",
@@ -1434,6 +1506,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-13T08:01:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21613054",
+      "title": "עשרה פעוטות חטפו הרעלת מזון - מעון בביתר עילית פונה",
+      "summary": "שמונה פעוטות טופלו הבוקר לאחר שקיבלו הרעלת מזון במעון, ושלושה מתוכם פונו לבית החולים • לוחמי האש שללו דליפת חומרים מסוכנים ואישרו כי הרקע הוא חשיפה למזון • \"הילדים חשו ברע לאחר שאכלו טונה משימורים\", סיפרו החובשים • המוסד הלימודי נסגר בהוראת המשטרה ומשרד הבריאות עודכן בפרטים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21613054",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T08:01:19.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21613054",
@@ -24663,33 +24744,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-08T11:40:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21580740",
-      "title": "\"לשחרר את פלסטין\": לורד שוב יוצאת נגד מדינת ישראל",
-      "summary": "אחרי ששורת אמנים פרשה במחאה ממופע החימום של אד שירן, לורד מצטרפת למאבק בדרך יצירתית משלה • אלו המהלכים הקודמים שעשתה נגד ישראל, והתגובה של קראפט לסערה",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21580740",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T11:37:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21580861",
-      "title": "התיעוד המטלטל מבארי נמכר לחו\"ל: השיחות האחרונות של הפרמדיקית שנרצחה",
-      "summary": "הפרק הפותח בסדרה התיעודית \"7 באוקטובר: קריאת חירום\" של HOT נמכר לשידור בערוץ ההונגרי ATV • הפרק כולל חשיפה בלעדית של שיחותיה של עמית מן ז\"ל שנרצחה בקיבוץ למוקד מד\"א",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21580861",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T11:36:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21580674",
-      "title": "הנשק אוזל, \"הזרוע הצבאית\" נחלשת: כך נראית השחיקה בחמאס",
-      "summary": "שלוש שנים ל-7 באוקטובר: חמאס סובל משחיקה קשה במלאי הרקטות ובשרשרת הפיקוד, לצד אובדן שליטה בשטח • עם זאת, הארגון משמר עתודות ומקווה לשוב ולהשתלט על הרצועה ביום שאחרי נסיגת צה\"ל",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21580674",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T11:32:17.000Z"
     }
   ]
 }
