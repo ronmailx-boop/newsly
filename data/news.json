@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T12:15:50.940Z",
+  "updatedAt": "2026-10-13T12:31:03.736Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjtjjoooge",
+      "title": "לראשונה מאז חזרתן לארץ: מלי וליאל התייחסו להיעלמות המסתורית",
+      "summary": "\"אנחנו נמצאות בתקופה הקשה בחיינו, לאחר שעברנו ימים מורכבים מאוד\", אמרו השתיים ל-ynet, שבוע אחרי שובן לישראל. \"לא ביקשנו את הפרסום הזה ולא רצינו לעורר דאגה. אנחנו מבקשות לשקם את חיינו, ומבקשות חמלה, זמן ושקט. כשנרגיש שאנחנו מסוגלות לכך נפשית, נשתף את הסיפור שלנו\"",
+      "link": "https://www.ynet.co.il/news/article/rjtjjoooge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T12:16:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376725",
+      "title": "הפתקים ישארו על הרצפה: בן גביר סגר את הדלת לוינטר - נתניהו יכול לחייך",
+      "summary": "השר איתמר בן גביר הודיע כי עוצמה יהודית לא תחתום על הסכם עודפים עם מפלגת עמך ישראל בראשות עופר וינטר. בפוסט שפרסם ברשת X הוא סיפק גם הסבר חריף להחלטתו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1376725",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T12:11:54.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376725",
       "title": "הפתקים ישארו על הרצפה: בן גביר שלח מסר לוינטר - נתניהו יכול לחייך",
       "summary": "השר איתמר בן גביר הודיע כי עוצמה יהודית לא תחתום על הסכם עודפים עם מפלגת עמך ישראל בראשות עופר וינטר. בפוסט שפרסם ברשת X הוא סיפק גם הסבר חריף להחלטתו",
@@ -50,13 +68,67 @@
       "pubDate": "2026-10-13T12:11:49.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21615633",
+      "title": "בחליפת ספיידרמן צמודה: סטפן מצלם (וידיאו)",
+      "summary": "רגע לפני שיחזור למסך ב\"הישרדות\", כוכב תועד היום בצילומים כשהוא לובש לוק לא שגרתי",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21615633",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:11:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21615602",
+      "title": "בר זומר בז׳קט של זארה שאנחנו רוצות בארון",
+      "summary": "בזמן שהשיקה פופ־אפ חדש למותג הביוטי שלה בדיוטי פרי, הדוגמנית ואשת העסקים משכה את תשומת הלב שלנו דווקא עם פריט לבוש אחד, בגוון וניל אלגנטי, שמוכיח שלפעמים כל מה שצריך בשביל לוק שיקי הוא ז׳קט מוצלח במיוחד",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21615602",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:10:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21615605",
+      "title": "נותרו 24 שעות: מכירת חיסול בקניון המפורסם במרכז - שייהרס בקרוב",
+      "summary": "רוב החנויות בקניון ארנה בהרצליה ייסגרו החל ממחר, לקראת המהפך הגדול של המתחם, ובינתיים כמה מהן יצאו במבצעי חיסול אגרסיביים • סרטון טיקטוק אחד הקפיץ את התנועה פי 40 • ומה ייבנה במקום",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21615605",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:06:43.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/ryp4jkijme",
       "title": "השר מיהר להכריז על המיגוניות כעתיקות - יועמ\"ש המשרד הזהיר: תיבלם בבג\"ץ, אנחנו בבחירות",
-      "summary": "פרסום ראשון: שר המורשת עמיחי אליהו הכריז על מיגוניות המוות על כביש 232 כעתיקות. אלא שעו\"ד חנן ארליך, יועמ\"ש משרדו, טוען כי לא שותף בהחלטה. במכתב נוקב ששלח לשר, אמר שלא נעשתה עבודת מטה - וכי המהלך \"צריך להיבחן משפטית ומקצועית\"",
+      "summary": "פרסום ראשון: שר המורשת עמיחי אליהו הכריז על מיגוניות המוות בכביש 232 כעתיקות. אלא שעו\"ד חנן ארליך, יועמ\"ש משרדו, טוען כי לא שותף בהחלטה. במכתב נוקב ששלח לשר, אמר שלא נעשתה עבודת מטה - וכי המהלך \"צריך להיבחן משפטית ומקצועית\"",
       "link": "https://www.ynet.co.il/news/article/ryp4jkijme",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-13T12:05:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21615419",
+      "title": "אניה בוקשטיין יוצאת על אברי גלעד: \"מביך\"",
+      "summary": "כמה משפטים מתוך \"המטבח המנצח VIP\" הספיקו כדי לגרום לאניה בוקשטיין לעצור ולהשאיר תגובה קצרה, חדה ולא ממש משתמעת לשתי פנים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21615419",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:02:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21615142",
+      "title": "חצי שעה ויש ארוחה: עוף קשיו כמו במסעדה תאילנדית",
+      "summary": "כל מה שאוהבים באוכל תאילנדי במתכון ביתי פשוט: עוף עסיסי, קשיו פריך, ירקות ורוטב שעוטף כל ביס • מכינים את המרכיבים מראש, מקפיצים במחבת ומגישים לצד אורז חם • מנה שמתאימה במיוחד לארוחת ערב באמצע השבוע",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21615142",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:02:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21615342",
+      "title": "משבר ההגירה בסאוטה: 58% מהספרדים חוששים מעימות צבאי עם מרוקו",
+      "summary": "פליפה השישי והמלכה לטיסיה הגיעו לסאוטה, המובלעת הספרדית בצפון אפריקה, במפגן תמיכה בתושבים בעקבות הגעתם של עשרות אלפי מהגרים בחודש יולי • הביקור מתקיים על רקע מתיחות עם מרוקו והטענות על התעללות במהגרים",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21615342",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:01:48.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-soldier-sinai-arrest",
@@ -66,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T12:01:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21615562",
+      "title": "בזמן שיעל שלביה בילתה בסינגפור: לאנס סטרול הפך לבדיחה ויראלית",
+      "summary": "הדוגמנית הישראלית ליוותה את בן זוגה בסוף השבוע של הפורמולה 1 • אחרי עוד מרוץ מאכזב, סרטון ממסיבה שבו נעקץ סטרול צבר מיליוני צפיות ברשת ועורר ביקורת",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21615562",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T12:01:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/health/article/21615544",
@@ -312,6 +393,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1376693",
+      "title": "רעייתו של ממדאני הסתבכה: זה האמן שהגדירה כ\"השראה\"",
+      "summary": "רעייתו של ראש עיריית ניו יורק זוראן ממדאני הציגה אמן פלסטיני כמקור השראה. אלא שתחקיר אמריקני חושף כי האמן הילל בכירי חמאס, הפיץ טענות נגד יומנה של אנה פרנק ושיתף ציורים של היטלר",
+      "link": "https://www.maariv.co.il/news/world/article-1376693",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T11:11:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376693",
       "title": "קונספירציות על אנה פרנק והילול מחבלים: ההשראה של אשתו של ממדאני",
       "summary": "רעייתו של ראש עיריית ניו יורק זוראן ממדאני הציגה אמן פלסטיני כמקור השראה. אלא שתחקיר אמריקני חושף כי האמן הילל בכירי חמאס, הפיץ טענות נגד יומנה של אנה פרנק ושיתף ציורים של היטלר",
       "link": "https://www.maariv.co.il/news/world/article-1376693",
@@ -444,6 +534,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-13T10:55:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376685",
+      "title": "סקר מנדטים של וואלה: וינטר מתחת לאחוז החסימה - כך נראית מפת הגושים",
+      "summary": "בסקר וואלה איזנקוט מוביל עם 22 מנדטים, הליכוד על 20, הנדל וזליכה עוברים עם ארבעה ווינטר נותר מתחת לאחוז החסימה. למרות זאת, אף אחד מהגושים לא מגיע ל-61 מנדטים",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1376685",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T10:50:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376685",
@@ -24573,33 +24672,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-08T12:32:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21581436",
-      "title": "הגירעון יחכה: \"העודפים בגביית המיסים ישמשו לגידול בהוצאות הממשלה\"",
-      "summary": "דוח האוצר מלמד שקצב העלייה בגביית המסים נמשך, אולם גורם בכיר מזהיר: ״מזהים עלייה בהוצאות הממשלה לקראת סוף השנה\" • מכאן שהממשלה תידרש להחלטה אם להשתמש בכספים העודפים כדי להפחית את החוב הלאומי או להגדיל את ההוצאה הממשלתית",
-      "link": "https://www.israelhayom.co.il/business/article/21581436",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T12:30:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21580859",
-      "title": "שומעים שזה טוב: האוזניות החדשות של סוני מעולות - ובעיקר זולות",
-      "summary": "הסומק החדש של NARS הצליח להפתיע אותנו • וגם: נעלי הטיולים של חברת סלומון משלבות נוחות ויציבות, שני מוצרי האיפור החדשים ועוד • מדי שבוע נוחתים על המדפים בחנויות וברשתות מוצרים חדשים, ואנחנו בודקים אותם וחוזרים כדי לדווח • חדש על המדף",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21580859",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T12:27:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/tml8y2",
-      "title": "היכונו לחסימות: הפלג הירושלמי יוצא להפגין במיקומים סודיים - כבישים מרכזיים ייסגרו",
-      "summary": "בעקבות מעצרם של שני תלמידי ישיבה, הפלג הירושלמי המרכזי בראשות הגאון רבי עזריאל אויערבך הודיע אמש על הפגנות שיתקיימו היום במספר מוקדים | לפי ההערכות, אלו המוקדים שייחסמו (חדשות, חרדים)",
-      "link": "https://www.kikar.co.il/haredim/tml8y2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-08T12:27:03.000Z"
     }
   ]
 }
