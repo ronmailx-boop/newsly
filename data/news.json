@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:16:01.308Z",
+  "updatedAt": "2026-10-13T19:31:08.018Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87426",
+      "title": "4 פצועים בביענה - אחד במצב קשה עם פציעות חודרות",
+      "summary": "ארבעה גברים נפצעו הערב (20:56) בביענה ופונו למרכז הרפואי לגליל בנהריה. בין הפצועים: גבר בן 56 במצב קשה, ושלושה כבני 30 במצב בינוני - כולם עם פציעות חודרות. צוותי מד\"א העניקו להם טיפול רפואי במקום.",
+      "link": "https://www.kikar.co.il/scoop-news/87426",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T19:23:24.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/maran-rav-ovadia-yosef-hilula-sanhedria-jerusalem",
+      "title": "אלפים נוהרים לציון מרן זצ\"ל: \"כמו הילולת הבבא סאלי\"",
+      "summary": "13 שנים להסתלקותו של מרן הרב עובדיה זצ\"ל: המוני עם ישראל ממלאים את בית העלמין בירושלים | העומסים הכבדים והאווירה המרטיטה במקום מזכירים את הילולת הבבא סאלי בנתיבות | \"הנושא שהיה חשוב לאבא יותר מהכל - לימוד הלכה\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/maran-rav-ovadia-yosef-hilula-sanhedria-jerusalem",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T19:20:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1376898",
+      "title": "שישה פצועים מירי לעבר בית בגליל, שניים במצב קשה - המשטרה פתחה בחקירה",
+      "summary": "שישה בני אדם נפצעו בירי לעבר בית ביישוב בענה, שניים מהם באורח קשה. אחד הפצועים הובהל לניתוח בבית החולים בנהריה, שהפעיל מערך טראומה מתוגבר. המשטרה פתחה בסריקות אחר חשודים, הרקע מסתמן כפלילי",
+      "link": "https://www.maariv.co.il/news/law/article-1376898",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T19:18:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1376897",
+      "title": "לא מבינים דבר אחד פשוט: נתניהו ובן גביר - שכנעתם אותי סופית להצביע לוינטר | אדי כצמן",
+      "summary": "הקמפיין הארסי שמתנהל לאחרונה נגד עופר וינטר ומפלגתו, מפספס נקודה אחת מרכזית: האופן העמוק שבו מדינת ישראל השתנתה אחרי טבח ה-7.10. | \"עמך ישראל\" תהיה הפתעת הבחירות",
+      "link": "https://www.maariv.co.il/news/opinions/article-1376897",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T19:16:40.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sk1zlw2jml",
       "title": "6 פצועים מירי לבית בגליל, שניים מהם במצב קשה",
       "summary": "שני פצועים קשה וארבעה במצב בינוני מירי על רקע פלילי בבענה שליד כרמיאל. ביה\"ח בנהריה, לשם פונו הפצועים, מפעיל מערך טראומה מתוגבר כדי לטפל בהם",
@@ -57,6 +93,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-13T18:59:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21618878",
+      "title": "ג’יפ גרנד צ’ירוקי המחודש בישראל",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/auto/article/21618878",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T18:54:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21618704",
@@ -111,6 +156,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T18:36:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 33:35",
+      "summary": "מחזור 5: אחרי פתיחה התקפית טובה של שתי הקבוצות, הן מתקשות למצוא את הסל ומחליפות ביניהן את היתרון • ג'ימי קלארק הסתבך בבעיית עבירות, קווין פאנטר מצטיין מנגד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T18:21:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
@@ -24591,78 +24645,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T19:33:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585080",
-      "title": "\"היו תמרורי אזהרה, זו הקונספציה - ואני צרחתי והתחננתי\"",
-      "summary": "חמאס רק התאמן, השופל רק חנה ליד הגדר, והמחבלים לא העלו לעמדה נשק - רק משקפת • עם שוך האזכרות, חבר כיתת הכוננות ויו\"ר ועד היישוב נתיב העשרה ב־7 באוקטובר חוזר אל ה-6 באוקטובר ומדייק את האחריות • המצב פה טוב עכשיו, הוא מציין, אך מה הלאה?",
-      "link": "https://www.israelhayom.co.il/opinions/article/21585080",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:27:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmlqun",
-      "title": "\"נמוך מידי?\" | השאלה המפתיעה שקיבלתי אחרי שפתחתי את ארון הקודש",
-      "summary": "אחרי שקיבל ברכה מכל הלב, הוסיף בלחש, שאף אחד לא ישמע: \"תברך אותי גם שאצליח ברישיון על המשאית\". ומיד שאל, בתמימות גמורה: \"מותר בכלל לבקש מה' דבר כזה? או שזה כבר נמוך מדי בשבילו?\" | המרצה הרב יואב אקריש מספר על תקרית שאירעה לו במהלך החג (יהדות)",
-      "link": "https://www.kikar.co.il/haredim-news/tmlqun",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-08T19:27:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21585303",
-      "title": "בגלל שלא הצליח לעבור לברצלונה: ההחלטה הדרמטית של חוליאן אלברס",
-      "summary": "החלוץ הארגנטינאי נפרד מהסוכן הוותיק פרננדו הידאלגו, על רקע הסאגה שהסתיימה בהישארותו באתלטיקו מדריד • במועדון כבר האשימו את סביבתו: \"הטעו ובלבלו אותו\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21585303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:26:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1375181",
-      "title": "פיצוץ רכב הרעיד את הכניסה לאור עקיבא: גבר חוסל במקום",
-      "summary": "תושב בנימינה כבן 40 המוכר למשטרה, חוסל הערב בכניסה לאור עקיבא, ככל הנראה בעקבות הפעלה של מטען: \"מדובר בזירה קשה מאוד\"",
-      "link": "https://www.maariv.co.il/news/law/article-1375181",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-08T19:25:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585040",
-      "title": "הגיע הזמן להפסיק לחזר אחרי אירופה",
-      "summary": "מול החרמות והעוינות, ישראל צריכה להחליף מחאות סמליות בצעדי נגד נחרצים • הבריתות המתהדקות באסיה ובדרום אמריקה והתמיכה שנשמעה בוועידת השמרנות בירושלים מצביעות על כיוון חדש",
-      "link": "https://www.israelhayom.co.il/opinions/article/21585040",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:23:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585231",
-      "title": "רוח המערב נחלשת, הבן־לאדנים מנצחים",
-      "summary": "25 שנה אחרי הפיגוע במגדלי התאומים, הטרור הג'יהאדיסטי כבר לא צריך מטוסים - הוא כבש את דעת הקהל במערב • כשהתודעה האנטי-ישראלית מחלחלת מהאקדמיה לרחובות ניו יורק, יורשיו של בן לאדן חוגגים את ניצחון הרוח",
-      "link": "https://www.israelhayom.co.il/opinions/article/21585231",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:23:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21584509",
-      "title": "הלחץ הבינלאומי גובר: נתניהו הורה להקים מפקדה לטיפול בפשיעה ביו\"ש",
-      "summary": "התמונות מהשטח מקשות יותר ויותר על הדיפלומטים הישראלים להסביר את המתרחש, ובוושינגטון הסבלנות נשחקת • בישראל מבינים שהאירועים כבר חורגים מזירת יו\"ש והופכים לבעיה מדינית • במקביל, הדרג המדיני ומערכת הביטחון מחפשים דרכים חדשות לבלום את התופעה",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21584509",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:23:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21577046",
-      "title": "ריס ווית'רספון מספקת לנו הצצה מבהילה בעולמם הסודי של המיליארדרים",
-      "summary": "שיתוף הפעולה המפתיע בין הרלן קובן לריס וית'רספון הוליד את אחד המותחנים הטובים של השנים האחרונות • סיפורה של מנתחת צבאית מבריקה שנשאבת אל תעשיית הרפואה השחורה של עשירי־העל מתגלה כרומן אפל, רגשי ומעורר מחשבה, שחורג בהרבה מגבולות ספר הטיסה",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21577046",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T19:17:30.000Z"
     }
   ]
 }
