@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:15:54.553Z",
+  "updatedAt": "2026-10-13T13:30:48.900Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkv9g2joge",
+      "title": "תינוק במצב אנוש - לאחר שככל הנראה נפל ממגלשה באשקלון",
+      "summary": "התינוק, כבן תשעה חודשים, פונה מחוסר הכרה ותוך כדי פעולות החייאה לבית החולים ברזילי בעיר. \"כנראה נפל ממגלשה במהלך משחק\"",
+      "link": "https://www.ynet.co.il/news/article/rkv9g2joge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T13:27:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/jimboree-fall-infant-critical",
+      "title": "נפילה מגובה בג'ימבורי: פעוט בן 9 חודשים במצב אנוש",
+      "summary": "טרגדיה מצמררת באשקלון: תינוק כבן תשעה חודשים נפצע באורח אנוש לאחר שנפל מגובה במהלך משחק במתחם ג'ימבורי בעיר • צוותי הרפואה שהוזעקו למקום ביצעו בו פעולות החייאה מתקדמות ונמרצות, ופינו אותו תוך כדי החייאה לבית החולים ברזילי • כל הפרטים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/jimboree-fall-infant-critical",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T13:27:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376750",
+      "title": "סעודיה הזהירה את תושבי צנעא - החות'ים מאיימים על \"עתיד מגזר הנפט כולו\"",
+      "summary": "סעודיה פרסמה התרעת פינוי לקראת תקיפה במתקן נפט בצנעא, והחות'ים הגיבו באיום חריף על תשתיות האנרגיה של הממלכה. חילופי האיומים מגבירים את החשש מהסלמה שתשפיע גם על שוק הנפט העולמי",
+      "link": "https://www.maariv.co.il/news/world/article-1376750",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T13:27:13.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/us-travel-warning-saudi-arabia-drone-attacks-iran-houthis",
+      "title": "איום טילים וכטב\"מים: אזהרת מסע דרמטית לסעודיה",
+      "summary": "מחלקת המדינה האמריקנית העלתה את אזהרת המסע לממלכה לרמה 3 • באזורי הגבול עם תימן הוגדרה רמת הסיכון על המרבי | בעקבות מתקפת כטב\"מים קשה בריאד והאיומים החות'ים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/us-travel-warning-saudi-arabia-drone-attacks-iran-houthis",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T13:22:44.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87347",
       "title": "ארה\"ב ממליצה לאזרחיה לשקול מחדש נסיעה לסעודיה",
       "summary": "ארצות הברית המליצה לאזרחיה לשקול מחדש האם להגיע לסעודיה, בשל הסיכון לפגיעה באינטרסים אמריקניים באמצעות כטב\"מים וטילים מצד איראן והחות'ים.",
@@ -41,6 +77,15 @@
       "pubDate": "2026-10-13T13:14:26.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21616241",
+      "title": "החות'ים מאיימים: \"כל תקיפה סעודית בצנעא תיענה בתקיפה בבירה הסעודית\"",
+      "summary": "ההסלמה בתימן מחריפה: דובר הקואליציה בהובלת סעודיה פרסם אזהרת פינוי לאתר חברת הנפט התימנית בצנעא, והחות'ים השיבו באיום ישיר • החות'ים קראו לפקידים ולאזרחים להתרחק ממתקני ענקית הנפט הסעודית עראמקו • מקור שביקר בדרום תימן ל\"היום\": \"החות'ים מזמן אינם מיליציה של חמושים בכפכפים, אלא גוף מאורגן וממושמע\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21616241",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T13:13:54.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1376747",
       "title": "נשבע אמונים לדאע\"ש ותכנן פיגוע נגד חיילי צה\"ל בעיר העתיקה בירושלים",
       "summary": "צעיר בן 18 מאום אל פחם נעצר בחקירה משותפת של שב\"כ וימ\"ר חוף, לאחר שעל פי החשד נשבע אמונים לארגון הטרור דאע\"ש ותכנן לפגוע בחיילים בירושלים. היום הוגשה נגדו הצהרת תובע לקראת כתב אישום",
@@ -48,6 +93,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T13:11:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21616225",
+      "title": "לוסי אהריש לצחי הלוי מתחת לחופה: ‘’אתה לא החצי שלי'’",
+      "summary": "בשיחה חשופה בפודקאסט של מירב לשם גונן, לוסי אהריש חוזרת לרגע שבו צחי הלוי יצא ללחימה ב-7 באוקטובר, ולמשבר שהיא עוברת מאז • מה המשותף לילדות שלהם • והמשפט שאמרה לו מתחת לחופה",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21616225",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T13:11:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21615812",
+      "title": "זול ומפתיע: המוצר מהכביסה שישמור על התריסים נקיים מאבק לשבועות",
+      "summary": "שואבי האבק ומברשות הנוצות רק מזיזים את האבק מצד לצד? • חובבי ניקיון ומומחים ברשת משתפים פתרון פשוט, זול ומפתיע",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21615812",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T13:06:44.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmujaq",
@@ -75,6 +138,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T13:03:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21616032",
+      "title": "תומכת בנורמליזציה עם ישראל: אל־מנסורי השלימה את הרכבת הממשלה במרוקו",
+      "summary": "ראשת הממשלה החדשה של המדינה המוסלמית בצפון אפריקה - מנהיגת מפלגת PAM שניצחה בבחירות - קיבלה את המנדט מהמלך מוחמד השישי והשלימה קואליציה של ארבע מפלגות • הממשלה החדשה נשענת על רוב של 207 מתוך 395 מושבים בפרלמנט • בשלב הבא יחלו השיחות על חלוקת התיקים בין השותפות",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21616032",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T13:02:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21616146",
+      "title": "פיגוע דאע\"ש בלב ירושלים סוכל: בן 18 תכנן לפגוע בחיילי צה\"ל - ונעצר",
+      "summary": "צעיר מאום אל פחם נשבע אמונים לארגון הטרור ותכנן במהלך השנה האחרונה לבצע פיגוע באזור העיר העתיקה • בחיפוש בביתו נתפסו ממצאים וחומרים דיגיטליים שחיזקו את החשדות נגדו • בתום חקירה משותפת של המשטרה ושב\"כ הוגשה נגדו הצהרת תובע לקראת כתב אישום",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21616146",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T13:01:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1376671",
@@ -570,6 +651,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T11:36:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376707",
+      "title": "בן גביר ראה את בנט במסדרון - ולא התאפק: \"אני רואה אותך מדבר\" | צפו",
+      "summary": "מפגש במסדרון כנס \"במת ישראל\" הפך לחילופי דברים בין השר איתמר בן גביר לראש הממשלה לשעבר נפתלי בנט. בן גביר הזמין את בנט לעימות אחד על אחד והטיח בו שורת האשמות חריפות",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1376707",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T11:36:26.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376707",
@@ -24645,60 +24735,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-08T13:32:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21581767",
-      "title": "מאחורי הקו הצהוב - חמאס כבר נערך לשלב הבא",
-      "summary": "שלוש שנים למתקפת 7 באוקטובר, חמאס מנסה לשרוד את המלחמה עם הפנים ליום שאחרי • בעוד צה\"ל ממשיך לדחוק את הארגון ולהחליש את יכולותיו, בארגון הטרור שומרים כוחות ואמצעים לרגע שבו המציאות ברצועה תשתנה • בישראל מעריכים: הדרך להכרעה עדיין ארוכה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21581767",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T13:28:09.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%91%D7%AA%D7%95%D7%9A_%D7%A4%D7%97%D7%95%D7%AA_%D7%9E%D7%A9%D7%A0%D7%94__%D7%A2%D7%A9%D7%A8%D7%95%D7%AA_%D7%9E%D7%97%D7%91%D7%9C%D7%99%D7%9D_%D7%91%D7%93%D7%95%D7%90%D7%99%D7%9D_%D7%A0%D7%A2%D7%A6%D7%A8%D7%95",
-      "title": "בתוך פחות משנה: עשרות מחבלים בדואים נעצרו",
-      "summary": "בהמשך לדברי ראש השב\"כ על נסיונות להקמה של גדודי בדואים בדרום, השב\"כ מפרסם נתונים מסמרי שיער על הטרור בקרב הבדואים",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%91%D7%AA%D7%95%D7%9A_%D7%A4%D7%97%D7%95%D7%AA_%D7%9E%D7%A9%D7%A0%D7%94__%D7%A2%D7%A9%D7%A8%D7%95%D7%AA_%D7%9E%D7%97%D7%91%D7%9C%D7%99%D7%9D_%D7%91%D7%93%D7%95%D7%90%D7%99%D7%9D_%D7%A0%D7%A2%D7%A6%D7%A8%D7%95",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-08T13:28:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21581951",
-      "title": "יעל שלביה ולאנס סטרול רומנטיים: \"איפה אני מוצאת כזה בארץ?\"",
-      "summary": "הדוגמנית הישראלית ונהג הפורמולה 1 ממשיכים ליהנות מחופשה בתאילנד, הפעם בחברת חברים - כששלביה שיתפה תיעוד זוגי מתוק במיוחד, רגע לפני שסטרול ימריא לסוף שבוע של מרוצים בסינגפור",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21581951",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T13:27:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21581603",
-      "title": "מנע מפורעים לרסס \"רצח עם\" - והותקף באכזריות: \"זמנים מפחידים להיות יהודי\"",
-      "summary": "דן לוין בן ה-52 הבחין ברעולי פנים מרססים עלילות דם נגד ישראל בלב לונדון • כשרצה למנוע זאת, הוכה באכזריות בכל חלקי גופו • הפורעים נמלטו מהמקום ולא נתפסו • המשטרה חוקרת את התקיפה כפשע שנאה",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21581603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T13:23:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21581180",
-      "title": "\"החלטת מנדלבליט הסבה, ועוד תסב, נזק קשה למערכת המשפט ולמדינה\"",
-      "summary": "עו\"ד רז נזרי, שכיהן כמשנה של היועמ\"ש לשעבר, משוכנע שסעיף השוחד נגד נתניהו היה טעות קשה • 6.5 שנים אחרי הגשת כתב האישום נגד רה\"מ, יתייצב ביום ראשון מנדלבליט על דוכן העדים - ובתזמון מושלם רגע לפני בחירות • זו תהיה ההצגה הכי טובה בעיר (אם לא ימצא דרך להתחמק)",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21581180",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T13:20:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byjxzfsoze",
-      "title": "מאסר עולם למחבל שהרג את לוחם צה\"ל עמית בן יגאל ב-2020: \"הצדק נעשה\"",
-      "summary": "על המחבל שהשליך חצי לבנה במשקל 11-9 ק\"ג על כוח של סיירת גולני ופגע בראשו של הלוחם במהלך פעילות ביו\"ש ב-2020 נגזר מאסר עולם. אביו ברוך: \"הצדק אמר את דברו, אבל לא יחזיר את עמית. מתגעגע בכל נשימה\"",
-      "link": "https://www.ynet.co.il/news/article/byjxzfsoze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-08T13:17:30.000Z"
     }
   ]
 }
