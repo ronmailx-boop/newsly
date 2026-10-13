@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:15:57.441Z",
+  "updatedAt": "2026-10-13T20:30:59.120Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyjltznomg",
+      "title": "נתניהו הודה שהבכיר המצרי נחת בארץ לפני 7/10: \"דיבר איתי? לא קרה פעם אחת\". הסרטון מוכיח אחרת",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/hyjltznomg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T20:20:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/female-officer-blocked-hermon-haredi-soldiers",
+      "title": "קצינה נשארה בחוץ בקור: \"לוחמים חרדים מנעו ממני להיכנס\"",
+      "summary": "קצינת לוגיסטיקה הגיעה למוצב בפסגת החרמון לשיפוץ מכלי דלק • לוחמים חרדים מנעו ממנה להיכנס למתחם | צה\"ל: \"מדובר בתקלה, כניסתה הייתה צריכה להתאפשר\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/female-officer-blocked-hermon-haredi-soldiers",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T20:17:51.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sk1ks11hife",
       "title": "המהפכה הדמוקרטית בהונגריה: החל ביטול חוקים נגד להט\"בים מעידן אורבן",
       "summary": "חצי שנה אחרי שסילקה את רה\"מ הלא-ליברלי מהשלטון ממשיכה ממשלת מדיאר לבטל את מהלכיו, ולראשונה הכניסה תיקונים בחוקים הומופוביים שעוררו את זעם האיחוד האירופי. היום בוטל החוק להגנת הילד שאסר כל אזכור של הומואים וזהות מגדרית שונה בפני מי שגילם פחות מ-18. החוק קשר במרומז בין יחסים חד-מיניים לפדופיליה ואיים להקשות על נערים הזקוקים לסיוע להתמודד עם נטייתם המינית",
@@ -39,6 +57,33 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-13T20:02:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21617053",
+      "title": "דור הנפילים נפרד, הרוח נשארת: המורשת עוברת לדור הבא",
+      "summary": "יקי חץ, מעוטר עיטור העוז ומשיא המשואה, ויוסף חגואל, שנפצע בקרבות ירושלים הלכו לעולמם בתוך יממה • אל\"מ (מיל') ערן קורצר, יו\"ר עמותת חטיבה 55, נפרד משני הלוחמים ומשרטט את הקשר בין משחררי ירושלים לדור הלוחמים שהתייצב מאז 7 באוקטובר: \"עוצמתנו ברוחנו\"",
+      "link": "https://www.israelhayom.co.il/opinions/article/21617053",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T20:00:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21617209",
+      "title": "איך הבחירות בישראל הפכו לדרמה של העולם הערבי?",
+      "summary": "מאל־ג'זירה ועד התקשורת הסעודית, במדינות ערב עוקבים מקרוב אחר הסקרים, המאבקים הפוליטיים והאפשרות להקמת ממשלה חדשה בישראל",
+      "link": "https://www.israelhayom.co.il/opinions/article/21617209",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T20:00:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21616345",
+      "title": "כל פתק חשוב: הקול הבודד שיכול לשנות את ההיסטוריה",
+      "summary": "מבחירות שהוכרעו בקול אחד בארה\"ב ועד לפער של ארבע נקודות בלבד במדד חלוקת המנדטים בישראל: מדוע גם קול שנראה חסר משמעות סטטיסטית עשוי להכריע את התוצאה",
+      "link": "https://www.israelhayom.co.il/opinions/article/21616345",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T20:00:18.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21616582",
@@ -291,6 +336,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T18:36:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 68:74",
+      "summary": "מחזור 5: ים מדר הגיע לוהט לרבע השלישי והצליח להשיב את הצהובים מפיגור 6, הקטלאנים התעוררו לקראת סיום הרבע כדי לרדת ל-10 הדקות האחרונות ביתרון זעיר • מי תצא מנצחת מהפלאו בלאוגרנה?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T18:21:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
@@ -24663,78 +24717,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-08T20:32:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375201",
-      "title": "\"ביטולי טיסות, סגירת מרחבים אוויריים ושיבושי נסיעות\": שגרירות ארה\"ב בישראל בהתרעה חריגה",
-      "summary": "שגרירות ארה\"ב בירושלים פרסמה אזהרת ביטחון לאזרחים אמריקאים במזרח התיכון, וקראה להם לגלות ערנות מוגברת בשל \"הסביבה הביטחונית המורכבת\"",
-      "link": "https://www.maariv.co.il/news/military/article-1375201",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-08T20:30:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1tnjsbofl",
-      "title": "כוכב המרד בצרפת, הכאוס בבסטיליה - ותיעוד התיכון שנבזז: \"מקרון, תיכנע!\"",
-      "summary": "המהומות ב\"מרד התלמידים\" נמשכו בכיכר הבסטיליה בפריז ש\"נכבשה\", עוד 500 נעצרו ועשרות שוטרים נפצעו. בבורדו תיעדו עצמם רעולי פנים בוזזים תיכון ומנפצים כיתות, תחנת משטרה הוצתה ליד: \"השוטרים נסקלו באבנים\". במארסיי סגן מנהל תיכון הותקף כשניסה \"לקחת מטף ולכבות אשפה שהוצתה\". ברשתות הפך אלוואן בן ה-17 לכוכב עם מיליוני צפיות: הוא מתראיין עם כאפייה, מביע \"הבנה לאלימות בשכונות קשות\" ונישק את מנהיג השמאל הקיצוני ש\"יציל אותנו\"",
-      "link": "https://www.ynet.co.il/news/article/h1tnjsbofl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-08T20:30:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21585639",
-      "title": "עדן הראל מצאה מחליף לעודד: \"הגעתי למסקנה\"",
-      "summary": "למגישת ערוץ 14 ומגישת MTV בעבר נמאס לחכות לבעלה ואבי ילדיה עודד מנשה, אז היא מצאה לו מחליף. \"השקעה לטווח ארוך\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21585639",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:27:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21585639",
-      "title": "עדן הראל לא מחכה לבעלה עודד: \"הגעתי למסקנה\"",
-      "summary": "למגישת ערוץ 14 ומגישת MTV בעבר נמאס לחכות לבעלה ואבי ילדיה עודד מנשה, אז היא מצאה לו מחליף. \"השקעה לטווח ארוך\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21585639",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:27:58.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bj7ux00rjze",
-      "title": "\"זה זיוף. הנחו לשנות שעת שיחה\": מה נחקר בפרשת הפרוטוקולים - ולמה זה תקוע",
-      "summary": "מזכירו הצבאי לשעבר של נתניהו, האלוף במיל' אבי גיל, העיד לראשונה בקולו על זיוף סטנוגרמה לכאורה. הוא הטיל את האחריות על ראש הסגל לשעבר ברוורמן, שטען: הכול בסמכות. מה עמד במוקד החקירה, מה קורה עם התיק עכשיו - ולמה לא צפויה הכרעה לפחות בחודש הקרוב? ההסברים - ואיך סתר רה\"מ את עצמו",
-      "link": "https://www.ynet.co.il/news/article/bj7ux00rjze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-08T20:27:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21585656",
-      "title": "תלמידים ירו באקדח אוויר במלון בפולין - ויוחזרו ארצה בהחלטת שב\"כ",
-      "summary": "תלמידי תיכון שהגיעו למשלחת במדינה ביצעו ירי באקדח איירוספוט בבית המלון בו שהו • שירות הביטחון הכללי החליט על השבתם לארץ",
-      "link": "https://www.israelhayom.co.il/news/education/article/21585656",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:26:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21585406",
-      "title": "ישראל מאבדת את אמריקה - ואסור לה להתעלם",
-      "summary": "השחיקה באהדה לישראל חוצה מפלגות ודורות ומסכנת את המשענת הצבאית והמדינית החשובה ביותר שלה • בלימת ההידרדרות ושיקום הקשר עם שתי המפלגות חייבים להיות בראש סדר העדיפויות של הממשלה הבאה",
-      "link": "https://www.israelhayom.co.il/opinions/article/21585406",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T20:17:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375188",
-      "title": "לא רק ארגון פשיעה: הלילה הבנו דבר אחד חדש על נתניהו | אבי אשכנזי",
-      "summary": "דבריו של מי ששימש כמזכיר הצבאי של ראש הממשלה נתניהו בבוקר טבח ה-7 באוקטובר הערב, לא באמת הפתיעו אף אחד. עם זאת, הם גרמו לנו להבין אפילו עוד יותר, את האמת קשה על נתניהו",
-      "link": "https://www.maariv.co.il/news/opinions/article-1375188",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-08T20:16:20.000Z"
     }
   ]
 }
