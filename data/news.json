@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T04:01:10.280Z",
+  "updatedAt": "2026-10-13T04:15:50.110Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmtuq9",
+      "title": "\"ישי, אתה לקחת משהו?!\" | כשיו\"ר 'יהדות התורה' יעקב אשר התפוצץ באולפן | צפו",
+      "summary": "בראיון סוער באולפן 'כיכר השבת', דחה יו\"ר 'יהדות התורה' ח\"כ יעקב אשר בנחרצות את הטענות כביכול המפלגה נזכרת בציבור החרדים העובדים רק בערב בחירות | צפו בקטע (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tmtuq9",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T04:01:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376523",
+      "title": "אבל במעלות תרשיחא: אלעזר יאיר וילנסקי ז\"ל נהרג באסון במהלך הטיול",
+      "summary": "אלעזר יאיר וילנסקי ז\"ל, בן 14 בלבד במותו נהרג באסון במהלך הטיול ברכס רמים שבצפון הארץ. ממשפחתו נמסר כי יאיר, הצעיר מבין חמישה אחים, היה \"ילד של החיים. חכם ונבון, מלא שמחת חיים, חבר טוב ואהוב\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1376523",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T04:00:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21611204",
+      "title": "אחרי השמלה השקופה: קים קרדשיאן חזרה ל-2003",
+      "summary": "יממה אחרי השמלה השקופה, קרדשיאן הגיעה לגרנד פרי בסינגפור בבגד צמוד עם מחשוף עמוק והדפסים צבעוניים מקולקציית רוברטו קוואלי מלפני 23 שנה. בן הזוג לואיס המילטון סיים במקום השישי",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21611204",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T03:57:22.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-61",
       "title": "תכינו את המטריות: המהפך במזג האוויר בדרך – והוא יגיע עם סופות רעמים",
       "summary": "התקררות הדרגתית וסוף שבוע חורפי: הגשם יחזור כבר ביום חמישי, וביום שישי יגיע לשיאו עם ממטרים מקומיים וסופות רעמים | התחזית המלאה (בארץ)",
@@ -39,6 +66,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T03:51:04.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-military/2026_q4/Article-b2c9d607c5331a1027.htm",
+      "title": "הנער שנהרג באסון בטיול השנתי: אלעזר יאיר וילנסקי",
+      "summary": "",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-b2c9d607c5331a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-13T03:51:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21611221",
+      "title": "הצעיר מבין 5 אחים: אלעזר יאיר וילנסקי, תלמיד כיתה ט', נהרג בפיצוץ הנפל",
+      "summary": "אלעזר יאיר וילנסקי, תושב מעלות תרשיחא ותלמיד כיתה ט', נהרג באסון שאירע אתמול במהלך הטיול השנתי באצבע הגליל • המשפחה: \"היה חבר טוב ואהוב, מלא שמחת חיים\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21611221",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-13T03:49:23.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/iran-threatens-military-confrontation-trump-predic",
@@ -51,12 +96,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bk5k007osgl",
+      "title": "יאיר נהרג מפיצוץ הנפל בגבול לבנון: \"כל העתיד היה לפניו\"",
+      "summary": "האסון בטיול השנתי: יאיר וילנסקי, שלמד בכיתה ט' בישיבה התיכונית אורט מעלות, נפגע מהנפל שהתפוצץ ברכס רמים. הוא התחרה בסיף, והוגדר בין הטובים לגילו בישראל. אחיו נחשב לתקווה אולימפית. משפחתו: \"הוא היה ילד של החיים, מלא שמחת חיים\"",
+      "link": "https://www.ynet.co.il/news/article/bk5k007osgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-13T03:43:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bk5k007osgl",
       "title": "הנער שנהרג בפיצוץ הנפל: יאיר וילנסקי, תלמיד כיתה ט'",
       "summary": "האסון בטיול השנתי: יאיר, שלמד בישיבה התיכונית אורט מעלות, נפגע מהנפל שהתפוצץ ברכס רמים. משפחתו אמרה כי הוא היה \"ילד של החיים, מלא שמחת חיים שכל עתידו עוד היה לפניו\"",
       "link": "https://www.ynet.co.il/news/article/bk5k007osgl",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-13T03:43:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/galilee-explosion-injured-update-hospitals",
+      "title": "הותר לפרסום: אלעזר יאיר וילנסקי ז\"ל הוא הנער שנהרג באסון הטיול השנתי | 24 נערים עדיין מאושפזים",
+      "summary": "הטרגדיה הנוראה בגליל העליון: הותר לפרסום כי אלעזר יאיר וילנסקי ז\"ל (15), תלמיד כיתה ט' בישיבת מעלות, הוא הנער שנהרג בפיצוץ הקטלני במהלך הטיול השנתי סמוך לקיבוץ נאות מרדכי | משפחתו ספדה: \"ילד של החיים, חכם ונבון, חבר טוב ואהוב שכל עתידו היה לפניו\" | 24 נפגעים מאושפזים בבתי החולים בצפון, בהם ארבעה במצב קשה ושבעה במצב בינוני (חדשות, בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/galilee-explosion-injured-update-hospitals",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-13T03:38:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/galilee-explosion-injured-update-hospitals",
@@ -207,6 +270,15 @@
       "title": "24 שעות אחרי 7 באוקטובר כתבתי על המחדל - וזה מה שהחמצתי",
       "summary": "ועדת חקירה ממלכתית, שצריכה לקום, תעסוק ודאי בכמה נושאים מרכזיים, ובראשם הכשל הצבאי, התכנוני והביצועי",
       "link": "https://www.maariv.co.il/news/opinions/article-1376452",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-13T03:00:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1376451",
+      "title": "ראש עיריית כפר סבא ורעייתו חשדו שסוגרים עליהם - בגלל \"תחקיר עיתונאי\"",
+      "summary": "לא צריך להיות מומחה לשפת גוף כדי להבחין במתח ובמבוכה שליוו את ראש עיריית כפר סבא רפי סער ורעייתו מיטל במהלך הדיונים במעצרם. המשטרה מתכוונת לזמן בהמשך גורמי מקצוע",
+      "link": "https://www.maariv.co.il/news/law/article-1376451",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T03:00:49.000Z"
@@ -18671,6 +18743,15 @@
       "pubDate": "2026-10-08T21:01:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14916705",
+      "title": "למה אני לא מספר למי אצביע / חנוך דאום",
+      "summary": "ולאיזה תסריט כולנו צריכים להתכונן ביום הבחירות",
+      "link": "https://www.ynet.co.il/news/article/yokra14916705",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-08T21:00:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14917526",
       "title": "בלי לקרוא לזה בשמות / רענן שקד",
       "summary": "האנשים הגבוליים מתרבים סביבנו ככל שהבחירות מתקרבות. זה לא מה שאנחנו צריכים",
@@ -18693,15 +18774,6 @@
       "title": "איזנקוט: \"גם אם לא יהיו לנו 61 מנדטים, אעמיד את הממשלה שלי לאישור הכנסת\"",
       "summary": "משוכנע שהוא ראש הממשלה הבא (\"וינטר וזליכה לא יעברו\"), ובכל זאת חרד מהאפשרות השנייה (\"בן גביר בביטחון, סמוטריץ' בחוץ וגוטליב במשפטים - זה איום חמור\"), לא דואג מהפתעות ברשימה שלו (\"אם מישהו לא יקבל את הדרך, אני מצפה שיתפטר\"), לא סולח לנתניהו (\"משתמש בביטחון המדינה לפוליטיקה\"), ומספר על האיומים כלפיו (\"השאירו לי הודעה על הקבר של גל\") | שבועיים וחצי לבחירות, יו\"ר \"ישר\" גדי איזנקוט לא מתיישר עם אווירת הנכאים במחנה השינוי",
       "link": "https://www.ynet.co.il/news/elections2026/article/yokra14920134",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-08T21:00:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14916705",
-      "title": "למה אני לא מספר למי אצביע / חנוך דאום",
-      "summary": "ולאיזה תסריט כולנו צריכים להתכונן ביום הבחירות",
-      "link": "https://www.ynet.co.il/news/article/yokra14916705",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-08T21:00:00.000Z"
@@ -24393,78 +24465,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-08T04:24:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374822",
-      "title": "זוהרן ממדאני הגיע לטקס הזיכרון - ואז פרצה המהומה",
-      "summary": "ראש עיריית ניו יורק זוהראן ממדאני הגיע לטקס זיכרון ל-7 באוקטובר וספג קריאות בוז ממפגינים פרו-פלסטינים. במקביל, הצהרתו עוררה זעם בקהילה היהודית, ושגריר ישראל באו\"ם דני דנון תקף אותו בחריפות",
-      "link": "https://www.maariv.co.il/news/world/article-1374822",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-08T04:14:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1374822",
-      "title": "ממדאני ניסה לרקוד על שתי החתונות ב-7 באוקטובר - וחטף חזק",
-      "summary": "ראש עיריית ניו יורק זוהראן ממדאני הגיע לטקס זיכרון ל-7 באוקטובר וספג קריאות בוז ממפגינים פרו-פלסטינים. במקביל, הצהרתו עוררה זעם בקהילה היהודית, ושגריר ישראל באו\"ם דני דנון תקף אותו בחריפות",
-      "link": "https://www.maariv.co.il/news/world/article-1374822",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-08T04:14:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21577399",
-      "title": "3 חודשים אחרי שעזב: פפ גווארדיולה התלבט - ויחזור למנצ'סטר סיטי",
-      "summary": "המאמן יגיע למשחק נגד פריז סן ז'רמן על רקע הסערה המשפטית סביב המועדון, וישב ליד היו\"ר • הספרדי תומך במועדון במאבק שלפניו",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21577399",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T04:13:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21565784",
-      "title": "כתום זה השחור החדש: 2 מתכונים מושלמים לסתיו",
-      "summary": "כשבחוץ הטמפרטורות יורדות, בפנים הרצון למנה עוטפת ומנחמת רק עולה • שלושה סוגי דלועים נכנסים למרק גריסים סמיך ועשיר, ובטטות מתקרמלות בתנור ומקבלות פטה כבשים וגרעיני דלעת קלויים • קבלו שני מתכונים כתומים, חמים ומנחמים שהכי כיף לאכול עכשיו",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21565784",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T04:11:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21577388",
-      "title": "הארי ומייגן לא מתכננים להתנצל: \"שטויות\"",
-      "summary": "דיווח בבריטניה טען שהנסיך הארי ומייגן מרקל מתכננים להתנצל בפני וויליאם וקייט על הריאיון לאופרה ווינפרי. מקורב לזוג מכחיש בתוקף, דווקא בתקופה שבה נרשמת התקרבות בין הארי לאביו, המלך צ'ארלס",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21577388",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T04:09:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21574623",
-      "title": "\"בא לי לז*** אותו\": רותי ברודו פותחת פה גדול",
-      "summary": "אין לה כמעט חברים, מערכות יחסים מרגישות לה כמו עבודה והיא חושבת ש\"לא במקרה\" לא הפכה לאמא • בשיחה עם איתי סגל, רותי ברודו מדברת על החיים שמחוץ למסעדות, הדימוי המפחיד שדבק בה והעתיד של העסקים שבנתה",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21574623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T04:08:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/military-police-dimona-bat-yam-arrest-attempts-fai",
-      "title": "לילה של מרדף: המשטרה הצבאית הגיעה לדימונה ובת ים בכדי לעצור תלמידי ישיבה ויצאה בידיים ריקות",
-      "summary": "כוחות פשטו הלילה על כתובות בדימונה ובת ים במטרה לעצור תלמידי ישיבות שהוגדרו כ'עריקים' | בעקבות הפעלת מערכת 'צבע שחור', מאות מפגינים הוזעקו למקום, עימותים פרצו – והכוחות נאלצו לעזוב בידיים ריקות | היום: הפגנות ענק של 'הפלג' (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/military-police-dimona-bat-yam-arrest-attempts-fai",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-08T04:03:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21573336",
-      "title": "לא מהמקפיא: שניצל תירס ופסטה אדומה בסיר אחד",
-      "summary": "את שניצל התירס מכינים הפעם מגרגרים טריים, ואת הפסטה מבשלים ישירות בתוך רוטב העגבניות • בלוגרית האוכל שי לי אוחנה עם גרסה ביתית לארוחת הילדות המוכרת, פריכה, אדומה ומנחמת",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21573336",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-08T04:02:15.000Z"
     }
   ]
 }
