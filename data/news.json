@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:45:41.909Z",
+  "updatedAt": "2026-10-14T04:00:55.666Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376939",
+      "title": "הבשורה שהדאיגה את הוותיקן והעולם הנוצרי: האפיפיור נאלץ לעבור ניתוח",
+      "summary": "האפיפיור לאו ה־14 עבר, לפי הדיווח, ניתוח להסרת גידול סרטני בריאתו, לאחר שהממצא התגלה בבדיקות רפואיות. בוותיקן נערכים לתקופת התאוששות, והופעותיו הפומביות צפויות להידחות בימים הקרובים",
+      "link": "https://www.maariv.co.il/news/world/article-1376939",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T03:59:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376937",
+      "title": "רגע לפני בחירות האמצע: איראן שולחת מסר מאיים לטראמפ",
+      "summary": "איראן משנה את שיטות התקיפה במצר הורמוז ומאיימת להרחיב את הפגיעה בספינות, במטרה לשמור על מחירי הנפט גבוהים לקראת בחירות האמצע בארה\"ב. טראמפ מגיב באיום חריף: \"די נמאס לנו\"",
+      "link": "https://www.maariv.co.il/news/world/article-1376937",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T03:52:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87434",
+      "title": "נהג בן 30 במצב אנוש לאחר תאונה עצמית בתל אביב",
+      "summary": "נהג רכב כבן 30 נמצא במצב אנוש לאחר שהתנגש בעמוד בדרך בן צבי בתל אביב. צוותי איחוד הצלה ביצעו פעולות החייאה בזירה ופינו אותו לבית החולים תוך המשך פעולות החייאה.",
+      "link": "https://www.kikar.co.il/scoop-news/87434",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T03:48:12.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21618289",
       "title": "״בזמן שאנחנו מתייצבים שוב ושוב, הממשלה דואגת שאחרים לא יגיעו\"",
@@ -24555,51 +24582,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T04:01:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21572494",
-      "title": "הם לא הצליחו לדבר זה עם זה. עכשיו הם מסבירים איך אואזיס חזרה: מה לראות היום בטלוויזיה",
-      "summary": "הדוקו החדש על אואזיס חוזר אל סיבוב האיחוד הענק ואל היחסים בין ליאם ונואל, טוני דינוזו שב ל-\"NCIS\", וג'ון סינה מוביל את \"מאצ'בוקס: הסרט\", ועוד תכנים שעולים היום (שישי) בטלוויזיה בישראל",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21572494",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T04:00:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21586034",
-      "title": "פיני גרשון בטוח: כך יוכרע מאבק הבעלות במכבי תל אביב",
-      "summary": "המאמן האגדי הסביר בפודקאסט \"על הבאזר\": \"הניסיונות לחמם את הקהל נגד רקנאטי לא יפים ולא מכובדים\" • על הדרמה מאחורי הקלעים בשנים האחרונות: \"ריצ'ארד דיץ' החליט שדני פדרמן ינהל את המועדון, בגלל שהוא היה הכי צעיר והקשרים שלו ביורוליג\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21586034",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T04:00:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21586034",
-      "title": "פיני גרשון משוכנע: כך יוכרע מאבק הבעלות במכבי תל אביב",
-      "summary": "המאמן האגדי הסביר בפודקאסט \"על הבאזר\": \"הניסיונות לחמם את הקהל נגד רקנאטי לא יפים ולא מכובדים\" • על הדרמה מאחורי הקלעים בשנים האחרונות: \"ריצ'ארד דיץ' החליט שדני פדרמן ינהל את המועדון, בגלל שהוא היה הכי צעיר והקשרים שלו ביורוליג\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21586034",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T04:00:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21566161",
-      "title": "כבש את הטיקטוק: זה כנראה הפתרון הכי מוזר נגד מיגרנה",
-      "summary": "טרנד חדש בטיקטוק מציע להצמיד קליפס לשיער באזור הגבה בזמן כאב ראש, וחלק מהמשתמשים מספרים על הקלה • אבל רופאים מדגישים כי מדובר בעדויות אישיות בלבד - ושדווקא הלחץ באזור העין עלול לגרום לתופעות לא רצויות",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21566161",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T03:49:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21580525",
-      "title": "ארמונות, מכרות ויקבים: חבל הארץ פותח את הדלתות הנעולות",
-      "summary": "במסגרת \"ימי הסתיו\" של קרן המורשת האיטלקית, ייפתחו בטוסקנה בסוף השבוע הקרוב 30 ארמונות, מכרות, יקבים וכנסיות, שבשגרה נעולים בפני מבקרים • הלהיט: מבנה היסטורי בליבורנו שיהפוך למוזיאון פתוח ליום אחד בלבד",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21580525",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T03:47:34.000Z"
     }
   ]
 }
