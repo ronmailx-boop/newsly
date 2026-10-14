@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:00:59.990Z",
+  "updatedAt": "2026-10-14T20:15:58.893Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87647",
+      "title": "ילד בן 8 נפגע בינוני מרכב בשגב שלום",
+      "summary": "ילד בן 8 נפצע במצב בינוני עם חבלות בגפיים לאחר שנפגע מרכב בשגב שלום. הדיווח התקבל במוקד 101 בשעה 21:26. צוותי מד\"א מעניקים לו טיפול רפואי ומפנים אותו לבית החולים סורוקה.",
+      "link": "https://www.kikar.co.il/scoop-news/87647",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T20:08:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87646",
+      "title": "פעילי עצמה יהודית התפרעו בכנס דמוקרטים עם משפחות שכולות",
+      "summary": "פעילי תנועת עצמה יהודית התפרעו במהלך כנס של המפלגה הדמוקרטית שבו השתתפו משפחות שכולות.",
+      "link": "https://www.kikar.co.il/scoop-news/87646",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T20:08:11.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377300",
       "title": "סקר חדש בצרפת חושף: מה יעשו המוסלמים אם לה פן תיבחר?",
       "summary": "סקר Ifop חדש מגלה כי 46% מהמוסלמים בצרפת ישקלו לעזוב את המדינה אם מרין לה פן תנצח בבחירות ב-2027. 81% חוששים מעלייה באפליה ובתקיפות, וגם 44% מהיהודים שוקלים לעזוב",
@@ -59,6 +77,15 @@
       "pubDate": "2026-10-14T19:54:14.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21628626",
+      "title": "ננסי ברנדס על ההתמודדות עם החיידק הטורף: ‘’סירבתי למות'’",
+      "summary": "בכתבת פרופיל לרגל יום הולדתו ה-75, המוזיקאי והסטנדאפיסט ננסי ברנדס חוזר לחודשים שבהם נלחם על חייו באיכילוב • מה אמרו הרופאים לאשתו כשהמצב נראה אבוד • והפאנץ' שהוא שולף גם כשהוא מדבר על הרגע הכי רציני בחייו",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21628626",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T19:47:13.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hyjtnsaoze",
       "title": "הנאום המרגש של שר החוץ של קולומביה בירושלים: \"אני כמעט בדמעות\"",
       "summary": "לאחר חנוכת השגרירות בירושלים, שר החוץ של קולומביה הכריז גם על פרישה מ\"קבוצת האג\", שפעלה לקידום צעדים נגד ישראל בעקבות המלחמה בעזה. הוא סיפר על מפגש מרגש עם שורד השבי אלקנה בוחבוט: \"השראה לכולנו\"",
@@ -75,6 +102,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T19:44:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21628608",
+      "title": "בפעם השלישית בתוך שבוע: מפגינים חרדים ניסו לפרוץ לבסיס צבאי",
+      "summary": "קבוצה הגיעה למקום לראשונה בשבוע שעבר, לאחר הפגנות הפלג הירושלמי ברחבי הארץ • מאז שבו המפגינים לבניין פעמיים נוספות כדי למחות נגד גיוס חרדים לצה\"ל",
+      "link": "https://www.israelhayom.co.il/news/local/article/21628608",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T19:36:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377293",
+      "title": "אחרי דברי סמוטריץ' על סיני - א-סיסי שולח מסר לישראל",
+      "summary": "נשיא מצרים עבד אל-פאתח א-סיסי התייחס לסערה סביב דבריו של בצלאל סמוטריץ' על סיני ותקיפה צבאית מצדה של מצרים, והבהיר כי לקהיר אין שאיפות טריטוריאליות כלפי ישראל",
+      "link": "https://www.maariv.co.il/news/world/article-1377293",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T19:27:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377293",
@@ -219,6 +264,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T18:52:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21628166",
+      "title": "חי מליגת האלופות: מנצ'סטר סיטי - פריז סן ז'רמן 3:0",
+      "summary": "אלופת אירופה מהממת את האיתיחאד • דזירה דואה כבש ובישל לעוסמאן דמבלה תוך שתי דקות, ויטיניה כבש את השלישי • עוד כעת: רומא - ריאל מדריד 1:1",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21628166",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T18:50:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21628166",
@@ -615,6 +669,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-14T17:33:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21627907",
+      "title": "וינטר כפי שטרם ראיתם: הצצה ראשונה לדוקו שייחשף על הקמת עמך ישראל בימים הקרובים",
+      "summary": "בסרט חדש שמתעד את הליך כניסתו לפוליטיקה, חושף וינטר את ההצעה שקיבל מהליכוד • הסרט מתעד את המפגשים שבהם הוחלט על ריצה משותפת במהלך אוגוסט וספטמבר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21627907",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T17:32:40.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21627907",
@@ -28380,42 +28443,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-09T20:18:28.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14921827",
-      "title": "אני מאשימה",
-      "summary": "ישנם אנשים רבים שצריך להאשים בימים אלה. אבל אני מאשימה בעיקר את כולנו – איך זה שעדיין אין שום ודאות שהקואליציה הכושלת הזאת תצא מחיינו בבחירות?",
-      "link": "https://www.ynet.co.il/news/article/yokra14921827",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T20:14:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919920",
-      "title": "כשעמית בורח מעימות",
-      "summary": "בשמאל קיוו שאבו–שחאדה יקבל תעודת הכשר, אבל נזהרו מלהגן עליו | בימין ציפו לפסילה ברורה ומנומקת של תומך הטרור | נשיא העליון חמק מהחלטה - וספג ביקורת משני הצדדים",
-      "link": "https://www.ynet.co.il/news/article/yokra14919920",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T20:12:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14921094",
-      "title": "על זה הבחירות",
-      "summary": "מי יהיה נחוש יותר בסבב הבא, מי ידאג למשילות בכל פינה בארץ, מי יגייס חרדים וילמד אותם ליבה, ומי יתקן את מערכת המשפט בלי לקרוע את העם | התלבטות מימין",
-      "link": "https://www.ynet.co.il/news/article/yokra14921094",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T20:11:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14919927",
-      "title": "מעל השבר הטרי",
-      "summary": "הפסיכולוגית מיכל ניובורן ועמיתיה, שמסייעים לפצועי נפש מהמלחמה, אינם מסתפקים בטיפול המסורתי בקליניקה | אפשר למצוא מרפא גם בסגירת מעגל בחלקה הצבאית ועם משפחות חברים שנפלו",
-      "link": "https://www.ynet.co.il/news/article/yokra14919927",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T20:09:56.000Z"
     }
   ]
 }
