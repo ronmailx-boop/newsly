@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:31:09.905Z",
+  "updatedAt": "2026-10-14T07:45:53.327Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/india-train-phone-thief-incident",
+      "title": "שיעור לחיים: גנב פלאפונים ולמד לקח במהירות של 130 קמ\"ש",
+      "summary": "ניסיון חטיפת טלפון בתחנת רכבת בהודו הסתיים בתיעוד דרמטי שהופץ ברשת | כשהרכבת החלה להתרחק מהרציף, החשוד מצא את עצמו במצב מסוכן במיוחד (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/india-train-phone-thief-incident",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T07:43:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/yeshiva-world/orhot-meir-yeshiva-rally-jail-10-eliyahu-davda-arrest",
+      "title": "\"אשריך שנתפסת, אליהו\": שירה ודמעות בשערי כלא 10",
+      "summary": "מאות מתלמידי ובוגרי ישיבת ״אורחות מאיר״ התכנסו אמש לעצרת תפילה וזעקה מול כלא 10 בבית ליד, בעקבות מעצרו החריג של חברם אליהו דבדה שנלקח מביתו באישון לילה • ראש הישיבה הורה: \"זו חובה קדושה\" (עולם הישיבות)",
+      "link": "https://www.kikar.co.il/yeshiva-world/orhot-meir-yeshiva-rally-jail-10-eliyahu-davda-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T07:42:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377011",
+      "title": "אחרי מעצרו של אייל נגר: מפת הפשע החדשה בדרום והסכסוכים שמאיימים להתפוצץ",
+      "summary": "מעצרו של אייל נגר טלטל את מפת הפשיעה בדרום והותיר חלל שמעורר מאבקי שליטה חדשים. במקביל, הסכסוכים בין ארביב לדאפס ובין רווח לדומרני נמשכים, ובקריית גת נחשפים קשרים לכאורה בין עבריינים לגורמים בעירייה",
+      "link": "https://www.maariv.co.il/news/law/article-1377011",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T07:39:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tmvve2",
+      "title": "39 שנים לאחר הסתלקות האדמו\"ר זצ\"ל - בקרוב תושלם חלוקת הירושה המפוארת",
+      "summary": "לאחר שסערת חלוקת הירושה בחצר סאטמר עוררה סערה בעולם החסידות, כעת נודע ל\"כיכר השבת\" כי גל ה\"חלוקות\" מגיע לחצר הקודש טשערנוביל | האחים האדמו\"רים מתכוננים להשלים עד ליום ההילולא של אביהם זצ\"ל את חלוקת העיזבון ההיסטורי | שמאים כבר החלו בהערכת הספרייה העתיקה הכוללת ש\"ס מדפוס סלאוויטע, כתרי ספרי תורה ונכסי נדל\"ן יוקרתיים | העסקנים מדווחים על פריטים נדירים שנעלמו במרוצת השנים ועל שאלות נוקבות שמטרידות את החצר | כל הפרטים (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tmvve2",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T07:34:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1376999",
+      "title": "טחינה מלאה או טחינה רגילה: מה באמת עדיף לשים בצלחת? | ד\"ר מאיה רוזמן",
+      "summary": "מה ההבדל בין טחינה מלאה לרגילה, מה באמת נספג בגוף וכמה קלוריות יש בכף? ד\"ר מאיה רוזמן מסבירה אם יש בסיס לטענה שקשה יותר לעכל טחינה מלאה, וגם מה אפשר לעשות איתה",
+      "link": "https://www.maariv.co.il/news/health/article-1376999",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T07:32:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tmvymg",
       "title": "בהשתתפות האורח מבורו פארק | טיש הילולא בקופיטשניץ",
       "summary": "זקן אדמו\"רי בית רוז'ין, האדמו\"ר מקופיטשניץ ערך אמש (שלישי) את השולחה\"ט לרגל הילולת הרה\"ק מרוז'ין זי\"ע | בטיש השתתפו כלל החסידים, וכן חתנו, האדמו\"ר מביאלה, והאדמו\"ר מסוקליא המתגורר בבורו פארק ומבקר בימים אלו בארץ הקודש (חסידים)",
@@ -41,6 +86,15 @@
       "pubDate": "2026-10-14T07:27:45.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21620890",
+      "title": "לדור יש מסר לסופי וזה הדבר הכי מתוק שתראו",
+      "summary": "באמצע הלילה כשקמה להניק את בנם הבכור, סופי נתקלה במחווה של אהבה מדור שהותירה אותה נרגשת: \"זה משנה את הכל\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21620890",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:26:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/tmvz6o",
       "title": "צה\"ל איתר מטען ועמדת שהייה של חיזבאללה בדרום לבנון | תיעוד",
       "summary": "במבצע של כוחות צה\"ל לאיתור תשתיות טרור בדרום לבנון אותרו מטען ועמדת שהייה של ארגון הטרור חיזבאללה | תיעוד (צבא)",
@@ -48,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T07:26:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21620896",
+      "title": "כל מה שצריך לדעת על ״הציונות הדתית״",
+      "summary": "במסגרת פרויקט הבחירות של ״מעריב לנוער״, באנו לעשות לכם סדר בעמדות, הערכים וההיסטוריה של המפלגות השונות. הפעם - ״הציונות הדתית״ בראשות בצלאל סמוטריץ׳",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21620896",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:25:44.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmvyuj",
@@ -66,6 +129,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T07:24:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21620844",
+      "title": "אריה דרעי על היועמ\"שית: \"אנרכיסטית, עברנו גם את פרעה\"",
+      "summary": "יו\"ר ש\"ס תקף בחריפות את היועצת המשפטית לממשלה וטען כי חידוש מעצרי בני הישיבות נועד לפגוע פוליטית בנתניהו • לקראת הבחירות הבהיר: \"לא תהיה ממשלה בישראל שש\"ס תומכת או משתתפת בלי שנסדיר את מעמד תלמידי הישיבות\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21620844",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:23:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21620543",
+      "title": "הווידוי של שלומי שבן: \"הגוף עובר תהליך שיכול לערער\"",
+      "summary": "אחרי שחגג יום הולדת 50 לא מכבר, שלומי שבן מלא תובנות (\"עם הזמן אני לומד להאמין לאינטואיציות ולתחושות הבטן שלי\") • עכשיו הוא חוזר לנהל אמנותית את פסטיבל תל אביב, עם יותר מ־40 מופעים ושיתופי פעולה חד־פעמיים - כולל מחווה מיוחדת לרבקה מיכאלי (\"זה הרגע לעשות ערב למישהי שהיא אוצר לאומי\")",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21620543",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:22:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21620766",
+      "title": "מגיש הטלוויזיה אלעד זוהר: \"הטיפול לא צלח, אני סובל\"",
+      "summary": "מגיש תוכנית הבוקר \"פותחים יום\" סיפר על הסיבה להעלמותו בימים האחרונים. \"אני די מרותק לבית. אי אפשר לנהוג, ובטח לא לראיין אנשים\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21620766",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:21:53.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tmvy9o",
@@ -102,6 +192,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T07:14:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21620629",
+      "title": "ללי דרעי: \"הוציאו את בני מהקבר כדי להגיד לי עד כמה אני בוגדת בזכרונו\"",
+      "summary": "חברת מפלגת \"עמך ישראל\" תקפה בחריפות את הלחצים הכבדים שמופעלים נגד הרשימה לפרוש מהמירוץ • היא סיפרה על שלטי שטנה, הודעות הטרדה והשימוש בשמו של בנה שנפל בעזה • \"מתנהל נגדנו קמפיין נבזי - כל זה כי העזנו להציע משהו חדש\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21620629",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T07:12:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21620629",
@@ -204,6 +303,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21620636",
+      "title": "חמישה בני אדם חולצו מבניין בשיפוץ שקרס חלקית בתל אביב",
+      "summary": "הבניין בפינת הרחובות אחד העם ונחלת בנימין בעיר לא היה מאוכלס והוגדר כאתר בנייה • צוותי חילוץ והצלה ממשיכים בסריקות באזור לשלילת הימצאותם של לכודים נוספים",
+      "link": "https://www.israelhayom.co.il/news/municipal/article/21620636",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T06:59:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21620636",
       "title": "שלושה לכודים חולצו מבניין בשיפוץ שקרס חלקית בתל אביב",
       "summary": "הבניין בפינת הרחובות אחד העם ונחלת בנימין בעיר לא היה מאוכלס והוגדר כאתר בנייה • צוותי חילוץ והצלה ממשיכים בסריקות באזור לשלילת המיצאותם של לכודים נוספים",
       "link": "https://www.israelhayom.co.il/news/municipal/article/21620636",
@@ -249,6 +357,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1376994",
+      "title": "קריסת מבנה בתל אביב: תמונת מצב הלכודים לא ברורה - חשש לקריסת חלק נוסף",
+      "summary": "דיווח על קריסת בניין ברחוב נחלת בנימין פינת רוטשילד בתל אביב. כוחות מבצעים סריקות. במד\"א מעדכנים כי בשלב זה לא אותרו נפגעים",
+      "link": "https://www.maariv.co.il/news/israel/article-1376994",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T06:53:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376994",
       "title": "בניין קרס ברחוב נחלת בנימין בתל אביב",
       "summary": "דיווח על קריסת בניין ברחוב נחלת בנימין פינת רוטשילד בתל אביב. כוחות מבצעים סריקות. במד\"א מעדכנים כי בשלב זה לא אותרו נפגעים",
       "link": "https://www.maariv.co.il/news/israel/article-1376994",
@@ -285,12 +402,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bja00ronomg",
+      "title": "קריסה חלקית בבניין בשיפוץ בתל אביב, אין נפגעים | תיעוד דרמטי",
+      "summary": "נסיבות הקריסה בבניין בן 3 קומות שנמצא בשיפוץ ואינו מאוכלס נבדקות. 5 פועלים הספיקו לצאת מהמבנה לפני התמוטטות המבנה",
+      "link": "https://www.ynet.co.il/news/article/bja00ronomg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-14T06:50:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bja00ronomg",
       "title": "בניין בשיפוץ בת\"א קרס חלקית; מד\"א: לא ידוע על נפגעים | תיעוד מהזירה",
       "summary": "נסיבות הקריסה בבניין שנמצא בשיפוץ ואינו מאוכלס נבדקות. כוחות הצלה הוזעקו לזירה",
       "link": "https://www.ynet.co.il/news/article/bja00ronomg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-14T06:50:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1376986",
+      "title": "החות'ים לא מבזבזים זמן: זו ההפתעה שהם מכינים לישראל",
+      "summary": "דו\"ח חדש חושף כי החות'ים מנסים לייצר טילים בליסטיים מתקדמים באמצעות רכיבים מסין, עם טווח שמכסה את כל ישראל. הטילים צפויים להגיע למהירות של כ-9,650 קמ\"ש ולתמרן כדי לחמוק ממערכות ההגנה האווירית",
+      "link": "https://www.maariv.co.il/news/world/article-1376986",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T06:49:34.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1376986",
@@ -372,6 +507,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T06:38:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21620220",
+      "title": "אחרי פלאפון: פרטנר הכריזה על מחירי האייפון המתקפל",
+      "summary": "המהפכה הגדולה של אפל מגיעה למדפים: האייפון המתקפל הראשון מוזנק בישראל • עם מסך כפול, תגי מחיר דמיוניים שמגיעים לחמש ספרות והטבות בלעדיות בענקית הסלולר פלאפון, פרטנר ו-iStore - האם הצרכן הישראלי מוכן לעידן החדש?",
+      "link": "https://www.israelhayom.co.il/news/local/article/21620220",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T06:38:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21620220",
@@ -24933,51 +25077,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-09T07:47:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21574101",
-      "title": "היא היתה \"האדם האחרון שחיבר בין כולם\". עכשיו האגדה איננה",
-      "summary": "ההתכתבויות עם האח הגדול יצחק רבין (\"שלום רב, אחיך הצולע\"), זיהוי ההסתה נגדו (\"אצלה כן נדלקה הצ'קלקה\"), המתיחות עם הגיסה לאה - והקריאה לפיוס • רחל רבין, ממייסדות קיבוץ מנרה, הלכה לעולמה לפני שנכדתה מיה ולנטיין הספיקה לפרסם את הביוגרפיה המרתקת שכתבה עליה",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21574101",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T07:45:04.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sks08glsme",
-      "title": "\"הייתי בהליכת בוקר - ופתאום ראיתי שני כטב\"מים\": התקרית המוזרה בחוף",
-      "summary": "שלומי בן ה-65 זיהה את הכטב\"מים בקריית חיים - ונאלץ להתקשר למשטרה 3 פעמים עד שהוזעק חבלן. בינתיים, המצילים סגרו את החוף והרחיקו את המתרחצים. בהמשך התברר כי מקור השברים בניסוי של חברת רפאל, שככל הנראה התפזרו באזורים נוספים",
-      "link": "https://www.ynet.co.il/news/article/sks08glsme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T07:43:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21587271",
-      "title": "יתושות נגועות בקדחת הנילוס נלכדו בצפון ובמרכז | אלו הערים בסיכון",
-      "summary": "במסגרת הניטור השוטף אומתו במעבדות משרד הבריאות יתושות נגועות • המשרד להגנת הסביבה פרסם הנחיות לרשויות שימנעו את ההתרבות וההידבקות • מנהל אגף מזיקים והדברה במשרד: \"המטרה - להפחית את הסיכון לפגיעה בבריאות הציבור\"",
-      "link": "https://www.israelhayom.co.il/health/article/21587271",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T07:42:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21587227",
-      "title": "מיליונים על סף רעב: אל ניניו מייבש את צפון אפריקה ואמריקה הלטינית",
-      "summary": "ארגון המטאורולוגיה העולמי: התחממות חריגה של מי האוקיינוס השקט מזינה אל ניניו עוצמתי, שמשבש את מפות המשקעים בעולם • בסינגפור ובתאילנד ערפיח משריפות יער באינדונזיה ומלזיה מכסה את השמים, ובסודאן, בצ'אד ובקולומביה מיליונים מתמודדים עם בצורת וסכנת רעב",
-      "link": "https://www.israelhayom.co.il/news/environment/article/21587227",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T07:37:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/86920",
-      "title": "זוג רוכבי אופנוע נפגעו בינוני בתאונה בכביש 1",
-      "summary": "גבר ואישה בני 58 ו-57 שרכבו יחדיו על אופנוע נפצעו באורח בינוני בתאונה עם רכב בכביש 1 סמוך למחלף מוצא. צוותי איחוד הצלה העניקו להם טיפול רפואי ראשוני בזירה, ושניהם פונו לבית החולים שערי צדק בירושלים.",
-      "link": "https://www.kikar.co.il/scoop-news/86920",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-09T07:33:23.000Z"
     }
   ]
 }
