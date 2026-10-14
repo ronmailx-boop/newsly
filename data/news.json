@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:30:53.987Z",
+  "updatedAt": "2026-10-14T16:45:49.617Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tmwojj",
+      "title": "זוכרים ומתגעגעים; בן גביר הדליק נר לזכרו של מרן וציין את מורשתו שחצתה מגזרים ועדות",
+      "summary": "יו״ר עוצמה יהודית השר איתמר בן גביר הדליק נר לזכר מרן הרב עובדיה יוסף זצ״ל בכנס המפלגה בקריית שמונה | בפוסט שפרסם ציין השר: \"מורשתו ממשיכה להאיר את דרכנו עד היום, ודמותו הגדולה חסרה כל כך\" (חדשות)",
+      "link": "https://www.kikar.co.il/israel-news/tmwojj",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T16:37:58.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjhmnqaszl",
+      "title": "ח\"כ קרויזר מעוצמה יהודית זומן לחקירה בחשד לתקיפת שוטרים",
+      "summary": "ראש אח\"מ ניצב בועז בלט פנה ליו\"ר הכנסת אמיר אוחנה בבקשה לזמן לחקירה את חבר הכנסת מעוצמה יהודית, בעקבות התקרית האלימה במצפה יריחו שנחשפה ב-ynet. קרויזר טוען כי שוטרים תקפו אותו וריססו אותו בגז פלפל, וכי במח\"ש מנעו ממנו להגיש תלונה: \"חקירה פוליטית מתוזמרת שנועדה להפוך מתלונן לחשוד\"",
+      "link": "https://www.ynet.co.il/news/article/hjhmnqaszl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-14T16:27:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21627400",
+      "title": "מטען החבלה התפוצץ באמצע הנסיעה: 4 פצועים בפיצוץ רכב בדרום",
+      "summary": "על פי החשד, הרכב סטה מנתיבו בעקבות פיצוץ המטען והתנגש בקיר • במשטרה חושדים כי הרקע לאירוע פלילי ופועלים למציאת החשודים במעשה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21627400",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T16:24:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21627412",
+      "title": "מי יקבל צל\"ש? צה\"ל יקדם הענקת עיטורים על שבעה באוקטובר - כך זה יעבוד",
+      "summary": "המתווה שאושר בידי הרמטכ\"ל כולל כמה שלבי בחינה, מהמלצות מפקדי החטיבות ועד להחלטת הרמטכ\"ל • המלצות לעיטור הגבורה יועברו לאישור שר הביטחון • מקרים מתאימים של גבורה אזרחית יועברו לוועדה המייעצת לנשיא המדינה",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21627412",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T16:23:32.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1377240",
       "title": "8 שנים אחרי הגירושים: החשד לאלימות שנחשף בבית המשפט",
       "summary": "תושב מושב תעוז בן 42 נעצר בעקבות תלונת גרושתו על אלימות מתמשכת כלפיה וכלפי בני משפחתה. היא סיפרה שבנה בן ה-15 ניסה להגן עליה והותקף. החשוד הכחיש את הטענות, אך בית המשפט האריך את מעצרו",
@@ -39,6 +75,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-14T16:21:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21626989",
+      "title": "בנט: \"אני עמדתי בהתחייבויות פי אלף יותר מנתניהו, סמוטריץ’ ובן גביר\"",
+      "summary": "‏ראש הממשלה לשעבר התארח באולפן שלנו, שבו חיכו לו חלות תוצרת בית ושאלות רציניות יותר ופחות – על בעיית האמינות, מטלות הבית ומי ביקש ממנו להיות פראייר",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21626989",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T16:21:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21626959",
+      "title": "עוד לפני הבחירות? הסימנים המתגברים לתקיפה באיראן",
+      "summary": "האיראנים לא רוצים להסלים לפני הבחירות בישראל, טראמפ לא רוצה להסלים לפני הבחירות באמריקה, ועדיין אין ספק: משהו דרמטי קורה בקו וושינגטון-ירושלים • לוח הזמנים שעשוי להוביל לתקיפה, והתרחיש שעלול להפוך את חיי הנשיא לגיהינום",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21626959",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T16:19:48.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1377241",
@@ -57,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-14T16:16:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21627060",
+      "title": "לא רק לעזרה ראשונה: 10 דברים שכדאי לנקות עם אלכוהול לחיטוי",
+      "summary": "שכחו מתרסיסים יקרים ומטליות חיטוי מבוזבזות • מסתבר שהפתרון המהיר, המבריק והחסכוני ביותר להסרת שומן, טביעות אצבע וחיידקים כבר יושב אצלכם בארון התרופות",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21627060",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T16:16:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/kiryat-gat-neighbors-dispute-bicycle-rack-lawsuit",
@@ -300,6 +363,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T15:43:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
+      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 18:22",
+      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס מצליחה לרוץ מול הקבוצה הטורקית ולשמור על היתרון • אמיר קופי שב נהדר מהפציעה, וסיליה מיציץ' עלה מהספסל • האדומים ישובו למאזן חיובי?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T15:41:08.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
@@ -579,6 +651,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T14:54:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21626236",
+      "title": "איתי תורג'מן על ההתמכרות: ''המצב היה מדאיג''",
+      "summary": "בהצצה לפרק של \"המטבח המנצח VIP\" שישודר הערב, איתי תורג'מן מדבר בגלוי על ההתמכרות שליוותה את הקריירה שלו • ההצעה של הפסיכותרפיסט שלו, שהוא התקשה לקבל בהתחלה • ומה באמת עמד מאחורי התשוקה שלו לעמוד מול המצלמה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21626236",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T14:53:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21626236",
@@ -27606,15 +27687,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T16:50:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21589622",
-      "title": "התאמן, למד את המסלול ותכנן להתרסק בנתב\"ג: תוכנית הטייס מפליי דובאי נחשפת",
-      "summary": "טייס המשנה העומאני הודה כי תכנן להשתלט על המטוס ולבצע פיגוע התאבדות בהשראת מתקפת 11 בספטמבר • הוא ניצל שתי טיסות קודמות לתל אביב כדי להכיר את המסלול והתאמן באגרוף לקראת התקיפה • לפי דיווחים, עומאן זיהתה את הקצנתו כבר ב-2024, אך לא התריעה בפני מדינות אחרות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21589622",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T16:31:47.000Z"
     }
   ]
 }
