@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:16:01.884Z",
+  "updatedAt": "2026-10-14T14:30:59.319Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1rxeg6jmx",
+      "title": "ארדואן השתלט על ערוץ טלוויזיה פופולרי - והשידור החי נקטע: \"פחדן!\" | תיעוד",
+      "summary": "נשיא טורקיה ממשיך להשתיק את מבקריו - והבוקר פשטו מאות שוטרים על מטה Halk TV, מערוצי הטלוויזיה העצמאיים האחרונים במדינה, בטענה שהבעלים חשוד בשחיתות. השידור החי נקטע, ועבר לתוכניות מוקלטות: \"יום אפל עבור טורקיה\"",
+      "link": "https://www.ynet.co.il/news/article/h1rxeg6jmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-14T14:27:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmwhlr",
+      "title": "\"מזמור לתודה\": התגובה החריגה של הזוכה בדירה בירושלים",
+      "summary": "אברך צנוע שעלה לישראל בעקבות הזכייה: הכירו את סיפורו של אריה לוריא - הזוכה הגדול של \"הגרלת החלומות\" התשפ\"ו • כך בחר להגיב לזכייה הגדולה…",
+      "link": "https://www.kikar.co.il/haredim-news/tmwhlr",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T14:26:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bk1u0baszl",
+      "title": "ילד במצב אנוש: \"נפגע מפיצוץ בשריפת פסולת\"",
+      "summary": "ככל הנראה, הפיצוץ בביתר עילית הוביל לכך שחפץ כלשהו פגע בילד כבן 10. הוא פונה לבית החולים עם כוויות קשות בגופו",
+      "link": "https://www.ynet.co.il/news/article/bk1u0baszl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-14T14:19:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/waste-fire-explosion-beitar-illit",
+      "title": "ילד בן 10 במצב אנוש בעיר החרדית: נפגע מפיצוץ בשריפת אשפה ברחוב",
+      "summary": "ילד כבן 10 נפצע באורח אנוש בעקבות פיצוץ עז שאירע במהלך שריפת פסולת ברחוב הרבי מנדבורנא בעיר ביתר עילית. כוחות חילוץ ורפואה רחבים זרמו למקום, והילד פונה לבית החולים תוך קבלת טיפול רפואי מציל חיים כשהוא סובל מחבלה רב-מערכתית קשה. לוחמי האש מתחנה אזורית יהודה פועלים בזירה להשתלטות על הבעירה (בארץ, חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/waste-fire-explosion-beitar-illit",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T14:16:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1377203",
+      "title": "עוזבים את הבנקים: שינוי דרמטי בשוק ההשקעות בישראל",
+      "summary": "קרא מספר יועצי ההשקעות בבנקים ירד מ-1,360 ל-1,068 בתוך ארבע שנים: \"הסניף הפסיק להיות המקום היחיד שבו יושב מי שמבין בשוק ההון\"",
+      "link": "https://www.maariv.co.il/news/military/article-1377203",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T14:16:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/waste-fire-explosion-beitar-illit",
+      "title": "ילד בן 10 פונה במצב קשה מפיצוץ בשריפת פסולת בביתר עילית",
+      "summary": "",
+      "link": "https://www.kikar.co.il/haredim-news/waste-fire-explosion-beitar-illit",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T14:14:59.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21625580",
       "title": "גאווה ישראלית: שני פרסי הצטיינות על ייצור רכיבים למטוסי F-35 ו-F-16",
@@ -66,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T14:12:41.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjhenl6jgx",
+      "title": "\"עפה להם סכין, הוא חי בנס\": אישום נגד הנערים מהתיעוד המחריד ברמלה",
+      "summary": "בתחילת השבוע הותקף צעיר באלימות קשה על ידי כמה נערים, הבוקר הוגש נגד חמישה מהם כתב אישום. ראש העיר ביקר אותו בביתו, אימו רועמת על ההחלטה: \"איך הם לא מואשמים בניסיון רצח?\"",
+      "link": "https://www.ynet.co.il/news/article/rjhenl6jgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-14T14:12:10.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/synb2ztizl",
@@ -26877,51 +26940,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T14:37:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21589234",
-      "title": "ארה\"ב הטילה סנקציות על בית הדין הפלילי בהאג",
-      "summary": "הצעד החריג עלול לשתק את פעילות בית הדין ולפגוע בבנקים, בחברות ביטוח ובספקי תוכנה שעובדים עמו • רוביו מאיים: \"או שבית הדין יפסיק את איומיו, או שאנחנו נשים לו קץ\" • באירופה נערכים לעימות דיפלומטי, ובהאג מבהירים: \"עבודתנו תימשך\" • ראש הממשלה בנימין נתניהו: \"אני משבח על קבלת ההחלטה החשובה הזו\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21589234",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T14:30:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21589209",
-      "title": "דני קושמרו רגע לפני ''אולפן שישי'': ''תוצאות הבחירות בידי''",
-      "summary": "רגע לפני המהדורה, מגיש חדשות 12 עמד בבית דפוס ענק והכריז על חשיפה ראשונה שאף פרשן או סוקר לא יוכלו לערער עליה • ההבעה הייתה דרמטית, השליפה מפתיעה • צפו בסרטון שהפך לוויראלי עוד לפני שעלה השידור לאוויר",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21589209",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T14:23:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "title": "\"ברק בכר אמר לי שאני הטוב בישראל - ומאז לא שיחקתי\"",
-      "summary": "ג'ורג'ה יובאנוביץ', ששיחק במדי מכבי חיפה ומכבי תל אביב, חזר לתקופה בישראל בראיון נרחב בסרביה • הוא סיפר על השיחות עם מאמנו, תקופת המלחמה וחשף: \"הפועל תל אביב פנתה אליי - ובחרתי בחיפה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T14:23:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "title": "\"הפועל תל אביב פנתה אליי - ובחרתי במכבי חיפה\"",
-      "summary": "ג'ורג'ה יובאנוביץ', ששיחק במדי הירוקים ומכבי תל אביב, חזר לתקופה בישראל בראיון נרחב בסרביה • הוא סיפר על ההצעה של האדומים לה סירב, והרחיב על השיחות עם ברק בכר: \"הוא אמר 'מבחינתי, אתה החלוץ הכי טוב בליגה' - ומאז לא שיחקתי אפילו דקה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T14:23:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "title": "החלוץ שחשף: \"הפועל תל אביב פנתה אליי - ובחרתי במכבי חיפה\"",
-      "summary": "ג'ורג'ה יובאנוביץ', ששיחק במדי הירוקים ומכבי תל אביב, חזר לתקופה בישראל בראיון נרחב בסרביה • הוא סיפר על ההצעה של האדומים לה סירב, והרחיב על השיחות עם ברק בכר: \"הוא אמר 'מבחינתי, אתה החלוץ הכי טוב בליגה' - ומאז לא שיחקתי אפילו דקה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21589179",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T14:23:20.000Z"
     }
   ]
 }
