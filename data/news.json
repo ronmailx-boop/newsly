@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T02:30:50.533Z",
+  "updatedAt": "2026-10-14T02:45:49.294Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21618630",
+      "title": "הסתערות על מעוזי הליכוד: תוכנית איזנקוט בפוטו פיניש לבחירות",
+      "summary": "יו\"ר \"ישר!\" יגביר את עבודת השטח ביישובים שמזוהים בעיקר עם גוש נתניהו • המפלגה תנסה למשוך מצביעי ימין מהמפלגות הקטנות • המטרה: לקבל את המנדט להרכיב ממשלה לפני נתניהו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21618630",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T02:22:02.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hykv00cosge",
       "title": "שיקלי נכנס באין כניסה ולא בדרך ללא מוצא",
@@ -24591,42 +24600,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21585461",
-      "title": "בדרך למבוי סתום? הבחירות מתקרבות - והקרע בין הגושים רק מעמיק",
-      "summary": "75% ממצביעי הקואליציה ו-78% ממצביעי האופוזיציה חוששים לעתיד המדינה אם הגוש היריב ירכיב ממשלה • גם במקרה שלא תושג הכרעה, רבים מעדיפים בחירות חוזרות על פני ממשלת אחדות • כשאף אחד מהגושים לא מתקרב כיום לרוב, האפשרות של סבב נוסף נראית ממשית",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21585461",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T02:37:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21586011",
-      "title": "הקיץ מסרב לעזוב: עומסי חום ואזהרות חריגות לסופ\"ש",
-      "summary": "הטמפרטורות יטפסו עד ל-30 מעלות, והשירות המטאורולוגי מזהיר מפני ים גבוה ומסוכן לרחצה ועומסי חום כבדים בבקעה ובעמקים • בשבת לא צפוי שינוי משמעותי, אך בתחילת השבוע תחול ירידה קלה בטמפרטורות • ומה הסיכוי לגשם בהמשך החודש?",
-      "link": "https://www.israelhayom.co.il/weather/article/21586011",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T02:35:40.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/0r227c7bd",
-      "title": "התחזית: היום ללא שינוי, ממחר ייתכנו גשמים",
-      "summary": "מחר תחול התחממות קלה ומשעות הערב ייתכנו גשמים מקומיים קלים בדרום הנגב ובערבה. ביום ראשון צפוי גשם מקומי קל במזרח הארץ",
-      "link": "https://www.ynet.co.il/news/article/0r227c7bd",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T02:33:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/0r227c7bd",
-      "title": "התחזית: ללא שינוי",
-      "summary": "מחר תחול התחממות קלה ומשעות הערב ייתכנו גשמים מקומיים קלים בדרום הנגב ובערבה. ביום ראשון צפוי גשם מקומי קל במזרח הארץ",
-      "link": "https://www.ynet.co.il/news/article/0r227c7bd",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-09T02:33:11.000Z"
     }
   ]
 }
