@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:45:55.688Z",
+  "updatedAt": "2026-10-14T09:01:05.639Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmw2ld",
+      "title": "העליב את מוחמד ונגזר דינו למוות בסעודיה - ברגע האחרון הוא ניצל",
+      "summary": "בית המשפט העליון הסעודי הפך את גזר הדין שהוטל על אנוֹג'ן סיבראסה, בן 27 מסרי לנקה, שהורשע בחילול הקודש בעקבות התבטאות נגד האסלאם ומוחמד | ההחלטה התקבלה לאחר מאמצים דיפלומטיים נרחבים, אך עדיין לא ברור אם הצעיר ישוחרר מהמעצר (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tmw2ld",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T08:46:03.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1377041",
       "title": "8 קילו בשר במכנסיים: ניסיון הגניבה שנגמר במעצר | צפו",
@@ -267,6 +276,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1377018",
+      "title": "שתי נשים, שני אולמות ואותו גבר: החתונה שהסתבכה",
+      "summary": "גבר בסין מצא את עצמו במרכז שני אירועים משפחתיים באותו בניין, עם שתי נשים שונות. כשהמשפחות נפגשו, הכול הסתבך והמשטרה הוזעקה. אלא שההפתעה האמיתית הגיעה דווקא מהרשויות",
+      "link": "https://www.maariv.co.il/news/viral/article-1377018",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T07:50:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1377018",
       "title": "חתונה בקומה אחת, אקסית ותינוק בשנייה - והמשטרה באמצע",
       "summary": "גבר בסין מצא את עצמו במרכז שני אירועים משפחתיים באותו בניין, עם שתי נשים שונות. כשהמשפחות נפגשו, הכול הסתבך והמשטרה הוזעקה. אלא שההפתעה האמיתית הגיעה דווקא מהרשויות",
       "link": "https://www.maariv.co.il/news/viral/article-1377018",
@@ -498,6 +516,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T07:21:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1377004",
+      "title": "אמא, אני רוצה הביתה: האטרקציה המוזרה שנפתחת בטוקיו",
+      "summary": "רחם מחומם ל-85 מעלות, יד ענקית שמקלחת אתכם וכורסה שמעניקה חיבוק אימהי. ביפן עומדים לפתוח מתחם משונה במיוחד, שבו אפשר להיוולד מחדש - ואפילו לבחור את אמא",
+      "link": "https://www.maariv.co.il/news/viral/article-1377004",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T07:16:33.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1377004",
@@ -25212,24 +25239,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T09:02:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tev4xk-61",
-      "title": "המשיך את סעודה שלישית לתוך ראש חודש - כיצד יברך? • צפו",
-      "summary": "הגאון רבי נחום נוסבכר, מראשי ישיבת \"שער התלמוד\", בפינת הלכה חדשה ב'כיכר השבת' - \"דקה מבית ההוראה\", על-פי פסקיו של הגאון רבי עמרם פריד | ובפינה היומית: המשיך את סעודה שלישית לתוך ראש חודש - כיצד יברך? • צפו (יהדות)",
-      "link": "https://www.kikar.co.il/haredim-news/tev4xk-61",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-09T09:00:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21587711",
-      "title": "קרן פלס נלחצה: \"היא ככה כבר 3 שעות\"",
-      "summary": "הזמרת והיוצרת תיעדה את כלבתה פפר כשהיא מסרבת להיכנס לבית במשך שעות ארוכות • לאחר שהתייעצה עם הגולשים לגבי הסיבות האפשריות, התברר מקור הבעיה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21587711",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T08:55:54.000Z"
     }
   ]
 }
