@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:45:43.877Z",
+  "updatedAt": "2026-10-14T14:01:09.819Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-14T14:07:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmwh1i",
+      "title": "הלך הטמו | האיראנים מפרסמים: הספינה שהותקפה שוקעת - ואלפי חבילות מפוזרות במים",
+      "summary": "משמרות המהפכה פרסמו סרטונים של ספינה שהותקפה בלב ים והחלה לשקוע | בתיעוד האיראני ניתן לראות אלפי חבילות מפוזרות על פני המים (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tmwh1i",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T13:56:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/new-york-governor-race-blakeman-mamdani-recordings",
+      "title": "המועמד הרפובליקני מזהיר את החסידים: \"ישרפו את הישיבות\"",
+      "summary": "הקלטות שחשף ה'ניו-יורק טיימס' מפגישה סגורה בברוקלין מגלות: ברוס בלייקמן הזהיר מנהיגים חסידיים מפני תרחיש של שריפת ישיבות ואלימות קשה • המועמד הרפובליקני תקף את המושלת הוקול ואת ראש העיר ממדאני – והזהיר מאירועים קשים ממהומות קראון הייטס • בסאטמר זועמים: \"הפחדה פוליטית\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/new-york-governor-race-blakeman-mamdani-recordings",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T13:54:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1377194",
+      "title": "טרור ערבי ביהודה ושומרון: מיליציות של בני 15 נעצרו",
+      "summary": "חמישה נערים פלסטינים בני 15 נעצרו בחשד להקמת מיליציית טרור בשם \"גדודי סיעיר\". המעצרים בוצעו בעקבות מידע מודיעיני שנאסף בתקופה האחרונה",
+      "link": "https://www.maariv.co.il/news/military/article-1377194",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T13:50:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87571",
+      "title": "ילד בן 7 נפצע בינוני בהתהפכות טרקטורון בירושלים",
+      "summary": "ילד בן 7 נפצע במצב בינוני עם חבלת ראש בהתהפכות טרקטורון ברחוב אל בטן בירושלים. הדיווח התקבל במוקד 101 בשעה 16:16. צוותי מד\"א מעניקים לו טיפול רפואי ומפנים אותו לבית החולים הדסה עין כרם.",
+      "link": "https://www.kikar.co.il/scoop-news/87571",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-14T13:48:27.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sy8k11wtsgg",
@@ -183,6 +219,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T13:21:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377178",
+      "title": "רונן בר טוען: נתניהו בלם בגופו מתקפת מנע על חמאס ב-21.9",
+      "summary": "בתביעת הדיבה נגד נתניהו, רונן בר מפרט את ההתרעות שלטענתו העביר לפני 7 באוקטובר: מסר חריג מהאויב, המלצה לתקיפה מקדימה והכנות לחיסול בכירים. הוא גם חושף את ההערות שלדבריו כתב נתניהו על מסמך השב\"כ",
+      "link": "https://www.maariv.co.il/news/law/article-1377178",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-14T13:20:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1377178",
@@ -26733,15 +26778,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-09T14:02:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21589063",
-      "title": "שבועיים לפני טיסת הבכורה: הקו החדש של ארקיע לטוקיו בסימן שאלה",
-      "summary": "נוסעים שהזמינו כרטיסים לקו החדש של ארקיע ליפן כבר קיבלו הודעות ביטול, שבועיים לפני הטיסה הראשונה • מאחורי הקלעים מתברר שהבעיה בכלל לא קשורה לביקוש • ובחברה מנסים למצוא בימים אלה פתרון חלופי שיציל את הקו המתוכנן",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21589063",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-09T13:47:05.000Z"
     }
   ]
 }
