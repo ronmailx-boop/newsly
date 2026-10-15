@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:31:03.522Z",
+  "updatedAt": "2026-10-15T08:46:00.420Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,96 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87706",
+      "title": "נהג בן 51 נפצע בינוני בתאונה באשקלון",
+      "summary": "נהג רכב בן 51 נפצע באורח בינוני בתאונת דרכים ברחוב מנחם בגין באשקלון. התאונה אירעה בין שני כלי רכב. בנוסף נפצעה אישה בת 50 במצב קל. צוותי איחוד הצלה העניקו טיפול רפואי ראשוני בזירה.",
+      "link": "https://www.kikar.co.il/scoop-news/87706",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T08:40:23.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87705",
+      "title": "המפכ\"ל לקראת הבחירות: שוטר שיביע עמדה פוליטית לא ימשיך לשרת",
+      "summary": "מפכ\"ל המשטרה דני לוי קיים דיון היערכות לבחירות עם סגל הפיקוד הבכיר, בהשתתפות מ\"מ מנכ\"ל ועדת הבחירות המרכזית ונציגי צה\"ל ושב\"כ. \"הנחיתי באופן חד-משמעי כי אף שוטר לא יביע את עמדותיו הפוליטיות במסגרת שירותו, ומי שיפר הנחיה זו לא יוכל להמשיך ולשרת במשטרה\", אמר המפכ\"ל. \"אנו ערוכים לכל תרחיש בכדי לשמור על טוהר הבחירות\". מ\"מ מנכ\"ל ועדת הבחירות, עו\"ד דין ליבנה, אמר כי \"שיתוף הפעולה בין ועדת הבחירות המרכזית לבין משטרת ישראל, חסר תקדים בהיקפו\".",
+      "link": "https://www.kikar.co.il/scoop-news/87705",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T08:40:13.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-hamas-18-months-commitment-gaza",
+      "title": "איזנקוט התחייב: \"תוך 18 חודשים חמאס לא ישלוט בעזה\" | כך הליכוד השיב לו",
+      "summary": "גדי איזנקוט מסר היום בגבול עזה הצהרה על התוכנית שלו להשמדת חמאס • תקף את נתניהו: \"כל עוד הוא בשלטון, חמאס יישאר\" | הליכוד: \"איך תמוטט בלי רשות ממנסור וטיבי?\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-hamas-18-months-commitment-gaza",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T08:36:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/container-confiscated-false-import-declaration-haifa-court",
+      "title": "הצהרת כזב: בית המשפט קבע שהוא חף מפשע – והחרים הכל",
+      "summary": "בית משפט השלום בחיפה דחה את תביעתה של חברת יבוא להשבת סחורה בשווי עתק שחולטה במכס, אף שנקבע כי בעליה לא ידע על חלקי אמצעי לחימה שהוסלקו בתוכה, זאת בשל הצהרת יבוא כוזבת (חוק ומשפט)",
+      "link": "https://www.kikar.co.il/law-and-order/container-confiscated-false-import-declaration-haifa-court",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T08:35:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmxwbg",
+      "title": "מי מפחד מטראמפ? איראן ממשיכה לירות בכל מה שזז במצר הורמוז",
+      "summary": "תיעוד חדש מאשר פגיעה נוספת בכלי שיט במעבר האסטרטגי, בזמן שהעימות סביב נתיב הנפט העולמי ממשיך להסלים (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmxwbg",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T08:35:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjytuf6imx",
+      "title": "תביעת מיליונים נגד הבן של מלכה לייפר: \"הרס את חייו של בן 10\"",
+      "summary": "לפני כשלוש שנים פתחה משפחה את ביתה בפני מאיר לייפר, בנה של המנהלת שהורשעה בעבירות מין בתלמידותיה. בהמשך הוא נישק את בנם בן ה-10 ללא הסכמתו ונגע באזור איבר מינו. לייפר הורשע במעשה מגונה, וכעת נתבע ביותר מ-2.5 מיליון שקל: \"הפגיעה הקשה תלווה אותו עד סוף חייו\"",
+      "link": "https://www.ynet.co.il/news/article/rjytuf6imx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T08:33:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377441",
+      "title": "\"טרללת קואליציונית\": התרחישים שמחכים לישראל ביום שאחרי הבחירות",
+      "summary": "בעקבות התביעה של רונן בר והפרסומים על יונתן אוריך, איתן כבל מאשים את האופוזיציה בהחמצת הזדמנות פוליטית. בפאנל ב-103FM עלו תרחישים להקמת קואליציה אחרי הבחירות, כולל ממשלת אחדות וחנינה לנתניהו",
+      "link": "https://www.maariv.co.il/news/politics/article-1377441",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T08:32:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk7yggrofl",
+      "title": "127,432,277 שקלים: הוצאות המיגון בבתי נתניהו זינקו פי יותר מ-4 בכהונה הנוכחית",
+      "summary": "בעקבות עתירת העמותה הקהילתית גבעת מרדכי, חשפה היחידה לחופש המידע במשרד רה\"מ את ההוצאות על פרויקטים ביטחוניים במעונותיו של נתניהו. ב-2025 לבדה שולמו 72.5 מיליון שקלים, פי 6 מאשר ב-2022. במשרד רה\"מ מתנגדים לפרסם את פילוח ההוצאות לפי כל מעון בנימוק של פגיעה בביטחון המדינה. עכשיו המשרד מאשר רשמית: מיגון בית בנט ברעננה - מחצית מהסכום שנתניהו הדהד",
+      "link": "https://www.ynet.co.il/news/article/rk7yggrofl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T08:28:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21630783",
+      "title": "אתם מפספסים שלב קריטי: הדרך הנכונה להכין פתיתים - לפי השף רז רהב",
+      "summary": "השף ניפץ מיתוס נוסף במטבח והסביר איך מגיעים למרקם המדויק • \"כשהם חמים הם צריכים להיות אחד אחד, וכשהם קרים נוצרים גושים אלוהיים\" • כל השלבים והסוד שמסתתר על השקית",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21630783",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:28:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21630625",
+      "title": "גרמניה: מהשטרה פתחה בחקירת רובוט ש\"הטריד מינית\"",
+      "summary": "רובוט דמוי אדם שתוכנת על ידי שני צעירים התחכך בצעירה ברחוב כשהוא מבצע תנועות המחקות יחסי מין • המשטרה בוחנת אם הרובוט תוכנת מראש על מנת לבצע את המעשים",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21630625",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:28:14.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1377437",
       "title": "שערורייה בבית המלוכה: נמצאה מעולפת ברחוב בלונדון",
       "summary": "מהרה אל-נהיאן, המקושרת למשפחת המלוכה של איחוד האמירויות, נמצאה מחוסרת הכרה לצד גבר נוסף, בזמן שילד בן שלוש שהיה באחריותה הסתובב יחף סמוך לכביש סואן",
@@ -39,6 +129,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-15T08:27:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21631050",
+      "title": "השוטרים נדהמו: הסריקות בתל שבע הובילו לממצא מזעזע באחד הבתים",
+      "summary": "שוטרי תחנת העיירות ולוחמי יחידת יואב מצאו אדם כפות בשרשראות לעמוד בטון וחילצו אותו • על פי החשד, הוא נכפת על ידי בני הבית על רקע שימוש בסמים • שלושה חשודים תושבי היישוב נעצרו והועברו לחקירה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21631050",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:26:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21625562",
+      "title": "טיפ הזהב מישראל: \"למחרת, שר הביטחון יכול להתקשר ולהגיד 'אתם חייבים לנו\"",
+      "summary": "זה נקרא \"מודיעין שותפים\": חלוקת מידע עם ארגוני מודיעין במדינות זרות, לפעמים עוינות, במטרה להגדיל יכולות איסוף או לבסס ולחזק קשרים מדיניים • אחרי 7 באוקטובר, המודיעין הישראלי הגביר מאוד את עוצמת הענף: סיוע רגיש למדינות במזרח התיכון, התראות שסיכלו פיגועים באירופה, וגם טיפים שמנעו התנקשויות • במפגשים כמוסים במטוסים פרטיים ובחדרי אירוח יוקרתיים, ישראל מקבלת גישה למידע קריטי - ומחזירה במודיעין מציל חיים",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21625562",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:26:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21630758",
+      "title": "ארה\"ב בהלם: הבלש שחקר מעשי רצח - היה בעצמו הרוצח של הילדה",
+      "summary": "פרשה רצח בת 65 שנה פוענחה: גלוריה בת ה-8 נחטפה ונרצחה בדרך לכנסייה בשיקגו בשנת 1960 • כעת, הודות לטכנולוגיית דנ\"א פורצת דרך וטביעת אצבע ישנה שאותרה, המשטרה גילתה את זהות הרוצח - שהיה משורותיה • ב-FBI בודקים: האם מדובר ברוצח סדרתי שהיו לו קורבנות נוספים?",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21630758",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:23:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21631025",
+      "title": "4 שנים אחרי מכבי חיפה: האקס בדרך ליעד מפתיע",
+      "summary": "יובל אשכנזי בן ה-34 בדרך לחתום בקבוצה חדשה מהליגה הלאומית, אחרי שבעונה שעברה שיחק בהפועל כפר שלם",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21631025",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:23:02.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87701",
@@ -86,6 +212,24 @@
       "pubDate": "2026-10-15T08:21:58.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21626767",
+      "title": "\"הוא היה יותר מבנאדם\": פרידה מהקרנף שלום, שעשה שלום",
+      "summary": "הוא היה ענק, מפואר, חביב הילדים בגן החיות התנ\"כי בירושלים, שמו היה \"שלום\", ולאורך השנים טיפלו בו יחד, באופן סימבולי, שני חברים טובים, יהודי וערבי־פלסטיני • יצירת הדוקו המרגשת \"שלום\" (מוצ\"ש, כאן 11) מתעדת את ימיו האחרונים של קרנף אהוב וחשוב - ומגלה שאולי בכל זאת יש סיכוי לדו־קיום",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21626767",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:21:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21631008",
+      "title": "מייקל לואיס חצה את הגבול בלי לשים לב: \"יצאתי חי\"",
+      "summary": "מייקל לואיס יצא לסידור שגרתי ממש ליד הבית שלו בבת חפר, ורק אחרי הקנייה גילה איפה בדיוק הוא עומד • הקבלה שהחזיק ביד חשפה את האמת, והוא מיהר לשתף את העוקבים • והסיבה שבגללה הסיפור הזה נגמר דווקא עם חיוך גדול",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21631008",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:21:37.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/police-chief-elections-political-neutrality-warnin",
       "title": "מפכ\"ל המשטרה בהודעה חריגה: \"מי שיביע עמדות פוליטיות לא ישרת במשטרה\"",
       "summary": "מפכ\"ל המשטרה רנ\"צ דני לוי קיים דיון היערכות לבחירות עם סגל הפיקוד הבכיר • הנחיה חד-משמעית: אף שוטר לא יביע עמדות פוליטיות במסגרת שירותו | \"ערוכים לכל תרחיש כדי לשמור על טוהר הבחירות\" (בארץ)",
@@ -111,6 +255,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T08:15:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21630262",
+      "title": "בלי להשתלט על כל מתקן הכביסה: הטריק הפשוט לייבוש סדין גומי",
+      "summary": "במקום לפרוש את סדין הגומי על המוטות, אפשר לתלות אותו בדרך אחרת שתפנה מקום לבגדים נוספים ותסייע לייבוש יעיל יותר • וגם: שיטת התלייה שתשאיר יותר מרווח בין הפריטים וארבעה טיפים לייבוש כביסה בבית בלי להעמיס לחות",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21630262",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:15:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21629963",
@@ -2120,24 +2273,6 @@
       "pubDate": "2026-10-14T20:41:40.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21533247",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 15.10.2026",
-      "summary": "יום ידידותי. אתם פופולאריים במיוחד ונראה שכול מה שאתם 'מוכרים' מתקבל בהתלהבות על ידי הסביבה",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21533247",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21533248",
-      "title": "מזל שור, תחזית הורוסקופ יומית 15.10.2026",
-      "summary": "יהיה לכם קשה לסיים דברים דחופים שהתחייבתם לסיים. קשה ליישם את הרצון והצורך להיות קצת יותר מעשיים ולא להתחבר בכל הזדמנות לעולם שמעל ומעבר",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21533248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T20:30:50.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21533250",
       "title": "מזל תאומים, תחזית הורוסקופ יומית 15.10.2026",
       "summary": "מישהו זורק לכם מילים שאתם שונאים לשמוע. לא פלא שאתם נתקפים בדכדוך",
@@ -2223,6 +2358,24 @@
       "title": "מזל דגים, תחזית הורוסקופ יומית 15.10.2026",
       "summary": "חשאיות מסוימת בתחום הרומנטי, הכרחית בתנאים שנוצרו. קשר מתפתח עם מישהו שמחובר בעקיפין לסיפור אחר",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21533923",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T20:30:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21533247",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 15.10.2026",
+      "summary": "יום ידידותי. אתם פופולאריים במיוחד ונראה שכול מה שאתם 'מוכרים' מתקבל בהתלהבות על ידי הסביבה",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21533247",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T20:30:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21533248",
+      "title": "מזל שור, תחזית הורוסקופ יומית 15.10.2026",
+      "summary": "יהיה לכם קשה לסיים דברים דחופים שהתחייבתם לסיים. קשה ליישם את הרצון והצורך להיות קצת יותר מעשיים ולא להתחבר בכל הזדמנות לעולם שמעל ומעבר",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21533248",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T20:30:50.000Z"
