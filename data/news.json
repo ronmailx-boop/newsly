@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:01:01.787Z",
+  "updatedAt": "2026-10-15T04:15:44.121Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/120andone/article/bjd8ricigx",
+      "title": "יוסף חדאד על סערת המדינה הפלסטינית: \"למה יש דין אחד לנתניהו ודין אחר לי?\"",
+      "summary": "בריאיון ל\"120 ואחת\" הפודקאסט הפוליטי של ynet, מתייחס מספר 2 של וינטר להתבטאויות העבר שלו על שתי מדינות: \"העברתי את רוח הדברים של הממשלה\". על הקואליציה הבאה: \"לא נשב תחת ליברמן, לא נישען על רע\"מ ולא נשתף פעולה עם הדמוקרטים\". על הגירה מעזה: \"כבר ניהלתי מגעים מטעם עצמי על עזיבה מרצון\". על החיזורים מהליכוד: \"נמשכו עד סגירת הרשימות\". ולמה אין לו תמיכה פומבית בחברה הערבית: \"הם רואים שאני מאוים ומותקף, אז למה שהם ידברו?\"",
+      "link": "https://www.ynet.co.il/news/120andone/article/bjd8ricigx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T04:11:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377338",
+      "title": "טראמפ שוב נפרד מבכירה - והפעם נחשף דפוס חריג",
+      "summary": "הדחת השגרירה ביוון מצטרפת לגל עזיבות של נשים בכירות בממשל טראמפ, שהוחלפו בגברים. ב\"ניו יורק טיימס\" חושפים את הדפוס החריג ואת היחס השונה לבכירים שהסתבכו בשערוריות",
+      "link": "https://www.maariv.co.il/news/world/article-1377338",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T04:09:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmxkoh",
+      "title": "\"עלינו להילחם בשדה הקרב\": האיום מאיראן להמשיך וההיערכות לחידוש המלחמה",
+      "summary": "יו\"ר הפרלמנט האיראני, מוחמד באקר קאליבאף, תוקף בחריפות את וושינגטון ומבהיר כי המגעים הדיפלומטיים אינם מספקים: \"הם מפרים הבטחות, עלינו להילחם בשדה הקרב כדי להשיג הרתעה\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmxkoh",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T04:07:17.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-63",
       "title": "מהפך לקראת שבת: תכינו את המטריות - הגשם והסופות בדרך | התחזית המלאה",
       "summary": "מזג האוויר מתהפך: מגוון תופעות של אובך, רוחות חזקות וצניחה בטמפרטורות • הגשם והסופות יגיעו לשיאם ביום שישי וימשיכו גם לתוך שבת קודש | התחזית המלאה (בארץ)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T04:00:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21629500",
+      "title": "CRINGE - אין לאן לברוח (פרק 3)",
+      "summary": "דודו ופרידה מנסים להימלט מהשקת האימה. החנות לא אוהבת את זה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21629500",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T03:57:50.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tmwusk",
@@ -75,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T03:41:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21629480",
+      "title": "סלין דיון הפכה לברבי. לא כולם מזהים אותה",
+      "summary": "חברת מאטל השיקה בובת אספנות בהשראת הופעתה של הזמרת באוסקר 1998, עם השמלה והשרשרת המזוהות עם \"טיטאניק\". דיון מברכת על המחווה, אבל ברשת לא כולם משוכנעים שהבובה באמת דומה לה",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21629480",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T03:37:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377334",
@@ -1011,6 +1056,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T18:57:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21628470",
+      "title": "השר מהליכוד מפתיע: לא פוסל ישיבה תחת איזנקוט",
+      "summary": "בריאיון בערוץ הכנסת הסביר השר מיקי זוהר כי ניתן לקיים רוטציה, אך נתניהו צריך לכהן ראשון בשל תפקידו בזירה האזורית • במקביל, במפלגה עדיין מביעים ספק בנוגע להקמת ממשלה רחבה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21628470",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-14T18:52:38.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21628470",
