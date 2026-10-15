@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:01:15.051Z",
+  "updatedAt": "2026-10-15T19:15:56.696Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjkuf50jge",
+      "title": "בנמל נדהמו: ירד מהמטוס עם מזוודה מלאה בנחשים ארסיים",
+      "summary": "גרמניה: נוסע ממקסיקו שנחת בקלן, בטיסת קונקשן מאיסטנבול, נתפס במכס עם מזוודה שבתוכה נדחסו 37 נחשים ארסיים ו-55 לטאות, בתוך בקבוקי שמפו וגרביים. 30 מהם לא שרדו את המסע, הנוסע - כבאי אש - טען שהביא אותם למכר וגורש לאיסטנבול: \"קשה לראות מה אנשים מעוללים לבעלי חיים רק מתאוות בצע\"",
+      "link": "https://www.ynet.co.il/news/article/rjkuf50jge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T19:00:53.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21637431",
       "title": "\"כמו מחבל במרתפי השב\"כ\": המחוזי הפך את ההחלטה - הרבש\"ץ יישאר במעצר",
@@ -93,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T18:30:33.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872368",
+      "title": "חי: מכבי תל אביב עם רבע אדיר מול אחת ממובילות היורוליג",
+      "summary": "עם ניצחון בודד בחמישה מחזורי יורוליג, הצהובים פתחו נהדר עם מטווח שלשות מול הספרדים. מדר, שהיה בספק, סוחף את החבורה של קטש",
+      "link": "https://sports.walla.co.il/item/3872368",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T18:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
@@ -426,6 +444,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T17:21:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/chassidut-noah-parsha-teachings",
+      "title": "סוד פרשת נח לאור החסידות: כך תהפכו את הצרה שלכם לצוהר",
+      "summary": "המשפיע הרב אשר פרקש בשיעור מאיר על מהותו הפנימית של חודש חשוון ועל פרשת נח, לאור תורת הבעל שם טוב | הסוד של הבעל שם טוב להפוך צרה לצוהר (חסידות)",
+      "link": "https://www.kikar.co.il/haredim-news/chassidut-noah-parsha-teachings",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T17:10:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377677",
@@ -33141,42 +33168,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-10T19:20:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/davar-rishon/tml2bv",
-      "title": "תסמונת 'בן גביר החרדית'? למה מוטי לייטנר ממשיך לרוץ למרות הסקרים והסיכוי האפסי לעבור? צפו",
-      "summary": "השבוע בתוכנית: יוסי בן עטר, יוסי סרגובסקי, אריאל שרפר, ד\"ר איתי זיו ודביר אפרתי בתוכנית מגזין מקיפה | מאחורי הקלעים של הקמפיינים הסמויים בציבור החרדי, העדויות המטלטלות מגל המחאות נגד הגיוס, הפחד השקט מניידות המשטרה והמומחה שמסביר למה אנשים מוכנים לשלם 380 ש\"ח כדי לעשות פילאטיס עם גורי כלבים | דבר השבוע",
-      "link": "https://www.kikar.co.il/davar-rishon/tml2bv",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T19:14:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21593799",
-      "title": "בנט שאל ברשת \"מה צריך לתקן במדינה?\": זה מה הגולשים ענו",
-      "summary": "ראש הממשלה לשעבר פנה לעוקביו בבקשה להצעות ייעול לשירותי המדינה • התגובות הציפו דרישה חד-משמעית לטיפול במשבר התחבורה, לצד קריאות להפרדת דת ומדינה וביקורת אישית על שרי הממשלה • אלו הסוגיות שמעסיקות את הציבור",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21593799",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T19:14:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21593795",
-      "title": "יוסי אבוקסיס קרא לאוהדי מכבי תל אביב \"שרמוטות\": \"איחלו לי סרטן\"",
-      "summary": "מאמן בני סכנין נקלע לעימות מילולי עם קומץ מהאוהדים הצהובים, ולא חסך בקללות וביקורת: \"הגיע להם יותר, הם צריכים להיות מחונכים\" • אוטובוס שהסיע את אוהדי האורחת נרגם באבנים • ולמה שוער סכנין קיבל מאוהד כסף במזומן?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21593795",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T19:02:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hy4hkwdomx",
-      "title": "מסוקים הוזנקו: כוחות הוקפצו בשל דיווח על עצם בלתי מזוהה שחדר מכיוון לבנון",
-      "summary": "שגרה מתוחה בצפון: התרעה על חדירת עצם בלתי מזוהה עוררה בהלה - וכוחות הוקפצו לסריקות בקרקע ומהאוויר. בצה\"ל לא יודעים עדיין לקבוע אם אכן חדר פריט לשטח הארץ: \"לא נמצאו ממצאים חריגים\". פיקוד הצפון: \"עושים כל שנדרש כדי לשלול כל פעילות עוינת\"",
-      "link": "https://www.ynet.co.il/news/article/hy4hkwdomx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T19:02:25.000Z"
     }
   ]
 }
