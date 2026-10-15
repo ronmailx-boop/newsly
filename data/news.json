@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:15:55.413Z",
+  "updatedAt": "2026-10-15T22:31:07.079Z",
   "sources": [
     {
       "key": "ynet",
@@ -543,6 +543,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T19:56:58.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957642",
+      "title": "צה״ל על פגיעת הרכב בעטרת: לא מדובר בפיגוע",
+      "summary": "צה\"ל מסר על ניסיון דריסה בעטרת שבבנימין, כרגע ישנו פצוע אחד באורח בינוני במקום. המחבל ברח מהזירה, כוחות צה\"ל קפצו לנקודה",
+      "link": "https://www.walla.co.il/news/military/383957642",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T19:56:32.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383957642",
@@ -33447,15 +33456,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T22:44:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21594303",
-      "title": "טיפול גנטי: עיוורים הצליחו לזהות חפצים בעזרת משקפיים מיוחדים",
-      "summary": "ניסוי ראשון בקבוצת חולים עם רטיניטיס פיגמנטוזה, מחלה גנטית שמובילה לעיוורון, מראה שהשיטה בטוחה ושהמוח לומד לפענח את האות החדש • הראייה לא חזרה לקדמותה, אבל חלק מהמשתתפים הצליחו להושיט יד בדיוק אל חפץ שמונח מולם",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21594303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T22:16:05.000Z"
     }
   ]
 }
