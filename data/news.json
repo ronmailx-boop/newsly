@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:15:48.626Z",
+  "updatedAt": "2026-10-15T05:30:56.332Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377354",
+      "title": "פצצה במשקל 9.8 טון - שמחריבה תשעה רחובות: טראמפ שוקל מכת מחץ באיראן",
+      "summary": "על פי דיווח ב-CNN, הפנטגון בוחן שימוש ב\"אם כל הפצצות\" נגד איראן, אך בכירים בצבא מטילים ספק ביעילותה. מאחורי התוכנית מסתתר מהלך מפתיע שעשוי לאפשר לטראמפ להכריז על ניצחון ולסיים את המלחמה",
+      "link": "https://www.maariv.co.il/news/world/article-1377354",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T05:23:37.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377351",
+      "title": "סכסוך בין משפחות מחריף בירושלים: גבר נרצח ביריות",
+      "summary": "במהלך הלילה, נקבע מותו של הגבר שנורה אמש בשכונת אבו טור בירושלים. ככל הנראה, מדובר בסכסוך בין משפחות | טרם בוצעו מעצרים",
+      "link": "https://www.maariv.co.il/news/law/article-1377351",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T05:21:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87660",
+      "title": "צבא ארה\"ב הכין תכנית לשימוש ב\"אם כל הפצצות\" נגד איראן",
+      "summary": "לפי דיווח ב-CNN, צבא ארה\"ב הכין תכנית לשימוש לראשונה ב\"אם כל הפצצות\" במסגרת עימות עם איראן. התכנית מיועדת לתקיפת אתרי גרעין או תשתיות איראניות.",
+      "link": "https://www.kikar.co.il/scoop-news/87660",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T05:20:26.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/elad-arrests-violence-municipality-officials",
       "title": "מעצרים באלעד: נעצרו חשודים בהשלכת רימון הלם והצתת רכב של בכירים בעירייה",
       "summary": "שוטרי תחנת ראש העין עצרו הלילה שני תושבי העיר בחשד למעורבות באירועי האלימות בעיר • רימון הלם הושלך לעבר בית ורכב עלה באש | הרקע: פעילות אכיפה של העירייה (בארץ)",
@@ -41,6 +68,33 @@
       "pubDate": "2026-10-15T05:06:57.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21629611",
+      "title": "העתיד תלוי במכונה? ה-AI נלחם בתופעה שמסכנת אלפי נשים בישראל",
+      "summary": "עוד לפני שהמטופלת יוצאת מהבדיקה עצמה, המערכת כבר מסמנת ממצא חשוד • פריצת הדרך באסותא מביאה את מהפכת ה-AI לחדרי הממוגרפיה והאולטרסאונד במטרה לתפוס גידולים בשלב קריטי • מנהל מערך הדימות, ד\"ר ארנון מקורי מבהיר: \"ה-AI לא מחליף את הרופא\"",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21629611",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T05:06:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21625596",
+      "title": "מבולבלים? אלו העקרונות של ״ישראל ביתנו״",
+      "summary": "במסגרת פרויקט הבחירות של ״מעריב לנוער״, באנו לעשות לכם סדר בעמדות, הערכים וההיסטוריה של המפלגות השונות. הפעם - ״ישראל ביתנו״ בראשית אביגדור ליברמן",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21625596",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T05:00:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21629747",
+      "title": "מהידע לתרגול מעשי בלימודי ההייטק של מכללת רמון",
+      "summary": "מכללת רמון שמה את הפרקטיקה במרכז לימודי ההייטק, עם מרצים מהתעשייה, תרגול וחיבור לחברות מגייסות.",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21629747",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T04:55:17.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21629700",
       "title": "4 מיליון דולר - לעונה: טיילר דורסי קיבל הצעת ענק",
       "summary": "על רקע המשבר באולימפיאקוס, ב־Iefimerida טוענים כי פאוק מציעה לכוכב סכום עצום • בפיראוס הציעו הארכה עד 2030 בשכר מדורג שיגיע לכ־2.8 מיליון יורו • הגארד זומן להליך משמעתי, אך טרם פורסמה הודעה על שחרורו",
@@ -48,6 +102,24 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T04:54:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21629751",
+      "title": "סוף למרדף אחרי החשבוניות? הכירו את Autodocs",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21629751",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T04:53:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21629755",
+      "title": "מהפה ועד למפרקים: הכירו את עולם התוספים של PUPS",
+      "summary": "יותר מ-5,000 בעלי כלבים בישראל כבר הצטרפו למהפכה ש-PUPS מובילים: תוספי בריאות איכותיים, שפותחו בתהליך מחקר ארוך, ומגיעים בצורת פינוק שהכלב מחכה לו",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21629755",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T04:49:10.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmxm6k",
@@ -84,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T04:41:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377343",
+      "title": "בלי אישור מישראל, בלי שיקום: המכה לתוכנית של טראמפ בעזה",
+      "summary": "לפי דיווח ב\"גרדיאן\", ישראל מונעת את כניסת הקבלנים שאמורים להקים בסיס צבאי עבור כוח בין-לאומי ברצועת עזה. הפרויקט תקוע כבר חודשיים, ובמועצת השלום של טראמפ מעריכים כי הסיבה קשורה לבחירות הקרובות בישראל",
+      "link": "https://www.maariv.co.il/news/politics/article-1377343",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T04:40:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377343",
@@ -1330,7 +1411,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sygnwrpogl",
       "title": "יצא מהופעה והותקף בתל אביב: \"פוצצו אותי מכות כי אני הומו, עשו בי לינץ'\"",
-      "summary": "עידן טרכטנגרץ (28) הותקף באכזריות על ידי קבוצת גברים שהשמיעו לעברו קללות הומופוביות בנמל יפו. \"בעטו בי, פירקו אותי עם קסדה, שברו בקבוק זכוכית על הרצפה ואיימו להרוג אותי\", שחזר. לדבריו, \"ראיתי את השנאה שלהם בעיניים, כל הגוף שלי שבור\". בן 17 נחקר ושוחרר למעצר בית",
+      "summary": "עידן טרכטנגרץ (28) הותקף באכזריות על ידי קבוצת גברים שהשמיעו לעברו קללות הומופוביות בנמל יפו. \"בעטו בי, פירקו אותי עם קסדה, שברו בקבוק זכוכית על הרצפה ואיימו להרוג אותי\", שחזר. לדבריו, \"ראיתי את השנאה שלהם בעיניים, כל הגוף שלי שבור\". המשטרה: נעצר החשוד המרכזי, נער בן 16",
       "link": "https://www.ynet.co.il/news/article/sygnwrpogl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -29037,33 +29118,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T05:51:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bknfevi9gx",
-      "title": "איזו שכונה הכי שמאלנית, מי הכי ימנית - ואיפה מצביעים הכי פחות?",
-      "summary": "מסע בין שכונות, שבועיים וחצי לפני שחוזרים לקלפי: באיזו עיר היה רוב מוחלט לליכוד ב-7 שכונות, איפה בן גביר וסמוטריץ' קיבלו חצי מהקולות, מה השכונה היחידה שבה מרצ הובילה והיכן היו אחוזי ההצבעה הכי נמוכים? נסו לפתור את החידון, הניתוח של מדלן מספק את התשובות",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bknfevi9gx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T05:26:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21590402",
-      "title": "טראמפ נגד זוכת פרס הנובל נאוי פיליי: \"פשוט שונאת את ישראל\"",
-      "summary": "נשיא ארצות הברית דונלד טראמפ פרסם פוסט זועם בעקבות הענקת פרס נובל לשלום, ותקף בחריפות את הזוכה: \"אף אחד לא שמע עליה, חוץ מהעובדה שהיא מן הסתם שונאת את ישראל\" • טראמפ טען כי הוא זה שהיה ראוי לקבל שמונה פרסי נובל לאחר שהסדיר שמונה מלחמות, בהן המלחמה בעזה • בנוסף, הצהיר כי ועדת הפרס הותירה \"כתם בל יימחה על נורווגיה\" והכפישה את הפרס לנצח",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21590402",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T05:24:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21590402",
-      "title": "טראמפ על זוכת הנובל: \"אף אחד לא שמע עליה, היא פשוט שונאת את ישראל\"",
-      "summary": "נשיא ארצות הברית דונלד טראמפ פרסם פוסט זועם בעקבות הענקת פרס נובל לשלום, ותקף בחריפות את הזוכה: \"אף אחד לא שמע עליה, חוץ מהעובדה שהיא מן הסתם שונאת את ישראל\" • טראמפ טען כי הוא זה שהיה ראוי לקבל שמונה פרסי נובל לאחר שהסדיר שמונה מלחמות, בהן המלחמה בעזה • בנוסף, הצהיר כי ועדת הפרס הותירה \"כתם בל יימחה על נורווגיה\" והכפישה את הפרס לנצח",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21590402",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T05:24:52.000Z"
     }
   ]
 }
