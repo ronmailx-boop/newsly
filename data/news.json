@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:30:54.604Z",
+  "updatedAt": "2026-10-15T20:45:47.034Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkmhd2cjzl",
+      "title": "הנציג החדש ביהדות התורה: \"המצב שלנו קרוב למה שהיה בשואה\"",
+      "summary": "אליקים שטארק, נציג חסידות בעלז באגודת ישראל, השווה בכנס בחירות בבית שמש את מצב החרדים שאינם יכולים לצאת מהארץ בשל צווי גיוס לתקופת השואה. לדבריו, המגבלות מקשות גם על שידוכים עם משפחות מחו\"ל: \"המצב שלנו קרוב למה שהיה בשואה. מזכיר לי סיפורים מהסבים שלנו\"",
+      "link": "https://www.ynet.co.il/news/article/hkmhd2cjzl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T20:36:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21637544",
+      "title": "רוץ וינטר, רוץ: דווקא עכשיו \"עמך ישראל\" חייבת ללכת עד הסוף",
+      "summary": "יו\"ר \"עמך ישראל\" למד בדרך הקשה שגם התחייבות פומבית לנתניהו לא עוצרת את מכונת החיסול • דווקא מהמקום הזה מתעוררת התקווה שמדובר במפלגת ימין אמיתית, שלא תיכנע לאינטרסים האישיים של המנהיג ובני משפחתו, תעמוד על הכרעת האויב ולא תאפשר את הנצחת ההשתמטות החרדית • לכן אסור לווינטר למצמץ - עליו לרוץ עד הסוף",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21637544",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T20:27:54.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sk1xh50ize",
       "title": "העלאת הכוננות בישראל, עמדת נתניהו - והחשש ממיסקלקולציה לפני הבחירות",
@@ -129,6 +147,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T20:21:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21637790",
+      "title": "אירוע דריסה בבנימין: ילד נפצע קל, מרדף מתנהל אחר הנהג",
+      "summary": "האירוע התרחש סמוך ליישוב עטרת שבבנימין • הולך הרגל נפצע באורח קל-בינוני ופונה לבית החולים • שוטרי מחוז ש\"י וכוחות צה\"ל פתחו בסריקות אחר הנהג החשוד • החקירה נמשכת",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21637790",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T20:07:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21637790",
@@ -348,12 +375,30 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3872368",
+      "title": "ההופעה הכי טובה שלה: מכבי ת״א הפתיעה עם ניצחון חוץ בספרד",
+      "summary": "עם ניצחון בודד בחמישה מחזורי יורוליג, הצהובים פתחו נהדר עם מטווח שלשות מול הספרדים. מדר, שהיה בספק, סוחף את החבורה של קטש",
+      "link": "https://sports.walla.co.il/item/3872368",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T18:30:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872368",
       "title": "חי: מכבי תל אביב עם רבע אדיר מול אחת ממובילות היורוליג",
       "summary": "עם ניצחון בודד בחמישה מחזורי יורוליג, הצהובים פתחו נהדר עם מטווח שלשות מול הספרדים. מדר, שהיה בספק, סוחף את החבורה של קטש",
       "link": "https://sports.walla.co.il/item/3872368",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-15T18:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "title": "הגיעה לעונה: ניצחון ענק למכבי תל אביב מול ולנסיה",
+      "summary": "לאחר ההפסד הצמוד מול ברצלונה, הצהובים עם דרמה נוספת • דקות הסיום צמודות כשהיתרון עובר מצד לצד, לאחר שהצהובים הרשימו בפתיחה • רומן סורקין בולט",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T18:29:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
@@ -33132,24 +33177,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-10T20:53:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj4l7evjmg",
-      "title": "משלחת אנשי החינוך באיטליה - והדרישה המקוממת: \"התנערו מכיבוש עזה\"",
-      "summary": "אנשי חינוך מישראל וארה\"ב הוזמנו לצפון איטליה כדי ללמוד שיטות לעבודה עם ילדים, אך עוד לפני הגעתם עוררו סערה. הורים מחו ש\"חלקם תומכים בצה\"ל\" - וחברי המשלחת נדרשו להציג את עמדתם לגבי המלחמה. הקבוצה האמריקנית ביטלה את הגעתה, הישראלים דווקא יגיעו כמתוכנן",
-      "link": "https://www.ynet.co.il/news/article/rj4l7evjmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T20:42:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21594196",
-      "title": "ויניסיוס ג'וניור כבש, השער נפסל והוא הורחק בגלל משיכה בשיער",
-      "summary": "כוכב ריאל מדריד חגג את ה-0:2 יחד עם ז'וזה מוריניו, שפרץ לדשא בטירוף • אלא שמשיכה בשיערו של שחקן ויאריאל מוקדם יותר במהלך הובילה לביטול השער ולכרטיס אדום לברזילאי • הבלאנקוס ניצחו 0:1",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21594196",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T20:36:47.000Z"
     }
   ]
 }
