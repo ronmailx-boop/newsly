@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:16:02.893Z",
+  "updatedAt": "2026-10-15T09:30:54.945Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87713",
+      "title": "פועל בן 19 נפגע מטרקטור בשטח פתוח סמוך לקרית גת",
+      "summary": "פועל בן 19 נפגע מטרקטור באתר עבודה בשטח פתוח סמוך לכביש 40 מקביל לקרית גת. צוותי איחוד הצלה העניקו לו טיפול רפואי במקום והוא פונה לבית חולים במצב בינוני.",
+      "link": "https://www.kikar.co.il/scoop-news/87713",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T09:30:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-lando-shochetim-elections-voting",
+      "title": "המנהיג הגר\"ד לנדו בפסק דרמטי: שוחטים לא יטוסו לשחיטות בחו\"ל כדי שיוכלו להצביע בבחירות • צפו",
+      "summary": "המנהיג הליטאי ראש הישיבה הגר\"ד לנדו הורה לשוחטים בגופי הכשרות - שלא לצאת בימים אלו לשחיטות בחו\"ל - אף שמפסידים פרנסה, רק כדי שיוכלו להצביע בבחירות | במענה לשאלה שהציג בפניו מקורבו הרב רפאל מנת, אמר ראש הישיבה כי \"בחירות זה צורכי הרבים יותר\" מהשחיטות, והסביר: \"כל קול, כל קול חשוב מאוד מאוד בשביל עם ישראל\" • צפו בתיעוד הבלעדי (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/rabbi-lando-shochetim-elections-voting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T09:24:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tmxz0k",
+      "title": "חיקה את חמינאי: הקומיקאי האיראני \"שקביא\" נחטף על ידי המשטר",
+      "summary": "הוא חיקה את קולו של המנהיג העליון לשעבר, שילב אמירות שהפכו לוויראליות ועורר זעם בקרב תומכי המשטר | בתוך פחות מיממה כבר נפתח נגדו תיק משפטי (חדשו בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tmxz0k",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T09:19:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
+      "title": "התרגיל הנשיאותי: כך עקף הרצוג את האיסור של ארדואן",
+      "summary": "מטוס של חברת התעופה הלאומית האזרית הוא שהטיס את הנשיא מעל שטחה של טורקיה, ובכך עקף את החרם הטורקי על מעבר מטוסים ישראליים • שיתוף הפעולה האזרי עם התרגיל של הרצוג מעיד לא רק על היחסים הקרובים בין באקו וירושלים אלא גם על המתיחות הגוברת בין האזרים לטורקי",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:14:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21614917",
+      "title": "למה הסוקרים מפספסים בבחירות? מאוד פשוט - זה בגלל ההורים",
+      "summary": "אני לא רוצה לדבר על הבחירות, אני לא חושבת שדעתי הפוליטית אמורה לעניין מישהו, ואני גם ככה עייפה כי אני ערה מחמש בבוקר • מי שרוצה מוזמן לדבר איתי על וין דיזל",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21614917",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:13:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21630881",
+      "title": "בני הזוג במילואים, הנשים מאבדות את העבודה: הסקר שמציב מראה מול המפלגות",
+      "summary": "סקר חדש של פורום נשות המילואימניקים, המתפרסם לראשונה ב״היום״, מגלה כי 16% מהנשים אינן עובדות – לעומת 8% לפני שנה וחצי • 83% מהעצמאיות מדווחות על ירידה בהכנסות, ו־65% מהמשפחות נאלצו לצמצם הוצאות • לקראת הבחירות, בדקנו מה המפלגות מבטיחות למשרתי המילואים ולמשפחותיהם – ומה עדיין חסר",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21630881",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:12:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21631652",
+      "title": "חזרתי פתאום: האם ההימור הגדול של קשת יצליח?",
+      "summary": "התגעגעתם לבר רפאלי? סלחתם על העלמת המס ועל \"פיק אפ\"? בקשת הימרו שכן, והציבו אותה כשופטת ב\"הזמר במסכה\" וכמנחה של \"נינג'ה ישראל\" ● נקווה בשבילה שהקאמבק יהיה גדול לפחות כמו כרס הבירה של לאונרדו דיקפריו",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21631652",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:10:27.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/lebanese-politician-hamas-palestinian-defeat",
       "title": "70 שנות תבוסות, חמאס הרס את פלסטין: הפוליטיקאי הלבנוני פותח מבערים",
       "summary": "אחרי שבעה עשורים של תבוסות, הפוליטיקאי הדרוזי מלבנון דורש חשבון נפש ומצביע על נקודה שלדבריו הערבים מסרבים להתמודד איתה - וגם נתניהו נכנס לתמונה (חדשות בעולם)",
@@ -39,6 +102,51 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T09:09:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21631766",
+      "title": "הדרמה הרפואית של כתבת חדשות 12: ''לא היה בתכנון שלי''",
+      "summary": "כתבת חדשות 12 יונה לייבזון תכננה יום רגיל, ומצאה את עצמה שוכבת על הכיסא שאף אחד לא אוהב לשבת עליו • התמונה שהעלתה לעוקבים, בלי איפור ובלי פילטרים, חשפה את מה שקרה • והמשפט שסיכם את כל מה שכולנו מרגישים ברגע כזה",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21631766",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:09:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21631363",
+      "title": "לא צריך לטוס לחו\"ל: חגיגות האלווין מגיעות גם לישראל",
+      "summary": "מסיבות תחפושות בתל אביב, חגיגה צבעונית בנמל יפו, יריד מכושף בחיפה ומסע ממתקים בין חדרי מלון בצפון: האלווין מגיע גם לישראל עם אירועים למבוגרים ולילדים • איפה אפשר לחגוג, מה מחכה למבקרים ואילו פעילויות מוצעות בחינם?",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21631363",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:08:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21631282",
+      "title": "קונות בלי לחשוב פעמיים: 5 ענקית האופנה שמגלגלת הכי הרבה כסף",
+      "summary": "הן מציעות בגדים במחירים נגישים, מחליפות קולקציות בקצב מסחרר ומגלגלות מיליארדים • אבל מאחורי ההצלחה של זארה, H&M, יוניקלו, שיין ופריימרק מסתתרים מודלים עסקיים שונים לחלוטי • מי מפעילה אלפי חנויות, מי בנתה אימפריה באינטרנט ואיזו רשת מוכיחה שגם בגדי בסיס יכולים להיות עסק של מיליארדים?",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21631282",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:06:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21618716",
+      "title": "הירקות הכי פשוטים הופכים לשתי מנות שקשה לעמוד בפניהן",
+      "summary": "התרגלנו לחשוב על שורשים ופקעות כעל ירקות למרק, לתבשיל או לפירה, אבל חלקם נפלאים דווקא כשהם נשארים טריים • סלט שורשים ותפוח ירוק ברוטב אסיאתי וקיש בצלים מקורמלים וגבינות: שני מתכונים שמוכיחים, בפעם המי יודע כמה, שהפשטות עובדת הכי טוב",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21618716",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:06:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21630359",
+      "title": "כוכבת \"האח הגדול\" בישראל עם קונור מקגרגור: הבילוי הלילי נחשף",
+      "summary": "פטל אסף ושירז בן ארי הגיעו לאירוע של ויקטוריה ג'סטיס במיאמי, אבל דווקא תמונה אחת ששיתפה שירז הצליחה למשוך את תשומת הלב: מפגש עם כוכב ה-MMA האירי • וגם: התיעוד עם חגורת האליפות",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21630359",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T09:03:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377454",
@@ -129,6 +237,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:49:20.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872292",
+      "title": "90 מיליון שקל בחודש: כך ישראל מזינה את הקופה של חמאס",
+      "summary": "למרות האזהרות, מחדל ישראלי כפול: בזמן שבשווקים בעזה נהנים ממנגו ב-5 שקלים ומפררו רושה, ארגון הטרור גורף הון ממזומנים ומבסס את שלטונו - זו השיטה",
+      "link": "https://finance.walla.co.il/item/3872292",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T08:47:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21631257",
@@ -1074,6 +1191,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T07:04:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377394",
+      "title": "\"הלם מוחלט\": זה מה שעברה חמותו של ראש עיריית כפר סבא באבו כביר",
+      "summary": "אמה של רעיית ראש עיריית כפר סבא שוחררה במפתיע ממעצר. פרקליטה חושף מהיכן הגיעו כ-150 אלף השקלים שנתפסו ברשותה, מתאר את התנאים הקשים באבו כביר ומספר על המפגש המשפחתי שהסתיים בבכי",
+      "link": "https://www.maariv.co.il/news/law/article-1377394",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T07:01:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1377394",
@@ -30450,69 +30576,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T09:31:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21590589",
-      "title": "\"'צ'רנוביל דיגיטלי' קרוב, קטסטרופה צפויה בתוך חודשים\"",
-      "summary": "בכירים בענף ה-AI מעריכים כי מתקפת סייבר קטסטרופלית על תשתיות מים, חשמל או מוסדות פיננסים תתרחש בתוך חצי שנה עד שנה • לפי דיווח ב-Axios, הנהלות OpenAI ואנתרופיק מקיימות סימולציות חירום ומגבשות אסטרטגיה להגבלת הרגולציה וההשלכות הפוליטיות לאחר האסון הגדול הראשון",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21590589",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T09:25:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21590589",
-      "title": "הערכות בתעשייה: אירוע קטסטרופלי צפוי בתוך חודשים",
-      "summary": "בכירים בענף ה-AI מעריכים כי מתקפת סייבר קטסטרופלית על תשתיות מים, חשמל או מוסדות פיננסים תתרחש בתוך חצי שנה עד שנה • לפי דיווח ב-Axios, הנהלות OpenAI ואנתרופיק מקיימות סימולציות חירום ומגבשות אסטרטגיה להגבלת הרגולציה וההשלכות הפוליטיות לאחר האסון הגדול הראשון",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21590589",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T09:25:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375483",
-      "title": "ממדאני הסתבך בגלל 7 באוקטובר - ובניו יורק טיימס לא ריחמו",
-      "summary": "ראש עיריית ניו יורק זוהרן ממדאני עורר סערה בעקבות הפוסט שפרסם ביום השנה לטבח 7 באוקטובר.העיתונאי הבכיר ברט סטיבנס תקף אותו בחריפות ב\"ניו יורק טיימס\", והאשים אותו בעיוות זכר הקורבנות",
-      "link": "https://www.maariv.co.il/news/world/article-1375483",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:18:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375483",
-      "title": "\"תועבה מוסרית\": המתקפה על ממדאני בעקבות 7 באוקטובר",
-      "summary": "ראש עיריית ניו יורק זוהרן ממדאני עורר סערה בעקבות הפוסט שפרסם ביום השנה לטבח 7 באוקטובר.העיתונאי הבכיר ברט סטיבנס תקף אותו בחריפות ב\"ניו יורק טיימס\", והאשים אותו בעיוות זכר הקורבנות",
-      "link": "https://www.maariv.co.il/news/world/article-1375483",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:18:47.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rytx1tdomg",
-      "title": "היעד החדש של הקרן ש\"צדה\" חיילי צה\"ל: רופאים ישראלים בכירים",
-      "summary": "קרן הינד רג'אב, הפועלת ברחבי העולם להגשת תלונות נגד אנשי מערכת הביטחון, הגישה תלונה לבית הדין הבינלאומי בהאג נגד ההסתדרות הרפואית ושורת רופאים ישראלים בכירים. הטענה: היו מעורבים ב\"התעללות בעצירים פלסטינים במתקן שדה תימן\"",
-      "link": "https://www.ynet.co.il/news/article/rytx1tdomg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T09:18:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375412",
-      "title": "הם כבר מזמן לא מיליציה: מכונת המלחמה האיראנית שמכוונת לערי ישראל",
-      "summary": "לפי דיווח ב\"אינדיפנדנט ערביה\", ארסנל החות'ים נשען על טילי שיוט וכטב\"מים בעלי זיקה איראנית, בהם קאסף 1, סומאר וקודס 1 - יכולות שמרחיבות את האיום מתימן עד ישראל",
-      "link": "https://www.maariv.co.il/news/world/article-1375412",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:16:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375412",
-      "title": "כמו בגרמניה הנאצית: ארסנל \"נשקי הנקמה\" של החות'ים שמסוגל להגיע לישראל",
-      "summary": "לפי דיווח ב\"אינדיפנדנט ערביה\", ארסנל החות'ים נשען על טילי שיוט וכטב\"מים בעלי זיקה איראנית, בהם קאסף 1, סומאר וקודס 1 - יכולות שמרחיבות את האיום מתימן עד ישראל",
-      "link": "https://www.maariv.co.il/news/world/article-1375412",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:16:47.000Z"
     }
   ]
 }
