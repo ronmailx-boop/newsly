@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:41:26.513Z",
+  "updatedAt": "2026-10-15T12:46:05.473Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377552",
+      "title": "הבחירות בישראל: אף אחד לא חף מהאשמה הזאת - מאף צד פוליטי | שלמה שמיר",
+      "summary": "כל הצדדים הפוליטיים נמנעים מלעסוק בסוגיה קריטית, שפעם הייתה במרכז סדר היום של פוליטיקאים בכירים אחרים",
+      "link": "https://www.maariv.co.il/news/opinions/article-1377552",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T12:43:02.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1n85eaiml",
+      "title": "מבוכה בצרפת בעקבות הדיווח על מכירת נשק לישראל: \"בודקים, ננקטו צעדי זהירות\"",
+      "summary": "חבר פרלמנט באספה הלאומית של צרפת האשים בהתבסס על דיווח בעיתון מקומי כי ארצו מפירה את ההבטחה לאמברגו נשק על ישראל. שר החוץ הצרפתי בארו הגיב: \"אנחנו לא מוכרים נשק לישראל, ננקטו צעדי זהירות עד לקבלת התוצאות\"",
+      "link": "https://www.ynet.co.il/news/article/s1n85eaiml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T12:42:48.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377556",
       "title": "המשלוח מקייב נחשף: הנשק האיראני-רוסי שהועבר לידיים ישראליות",
@@ -84,6 +102,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-15T12:23:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383957579",
+      "title": "נשיא איראן חשף את היקף הפגיעה האמיתי בתשתיות המדינה",
+      "summary": "מסעוד פזשכיאן אמר כי איראן התמודדה עם מחסור של כ-300 מיליון מטרים מעוקבים של גז עוד לפני התקיפות, שפגעו לדבריו בתשתיות המספקות קריטיות נוספות. הנשיא התחייב למנוע השבתת מפעלים",
+      "link": "https://www.walla.co.il/news/world/383957579",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T12:23:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21633887",
@@ -31944,33 +31971,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T12:48:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21591392",
-      "title": "הפועל פתח תקווה שילבה 12 שחקנים - ונמצאת בסכנת הפסד טכני",
-      "summary": "המלאבסים היו עם כמות לא חוקית של שחקנים במקביל על הדשא מול מכבי נתניה ועשויים להיענש בצורה קשה • ארסנל ניצחה 1:2 בביתה את לידס • דיא סבע כבש בפנדל, אבל אמדספור ספגה בתוספת הזמן ואיבדה את המקום הראשון בליגה הטורקית",
-      "link": "https://www.israelhayom.co.il/sport/article/21591392",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T12:42:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21591392",
-      "title": "מפיגור לניצחון: ארסנל חזרה מהפגרה עם מהפך מול לידס",
-      "summary": "אלופת אנגליה ניצחה 1:2 בביתה • דיא סבע כבש בפנדל, אבל אמדספור ספגה בתוספת הזמן ואיבדה את המקום הראשון בליגה הטורקית",
-      "link": "https://www.israelhayom.co.il/sport/article/21591392",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T12:42:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21591392",
-      "title": "דיא סבע כבש, אמדספור איבדה את הפסגה בתוספת הזמן",
-      "summary": "הישראלי כבש בפנדל ב-2:2 מול גנצ'ליבירליג'י, שהשוותה בדקה ה-92 • סבע וחבריו איבדו את המקום הראשון בליגה הטורקית בעקבות הספיגה המאוחרת",
-      "link": "https://www.israelhayom.co.il/sport/article/21591392",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T12:42:34.000Z"
     }
   ]
 }
