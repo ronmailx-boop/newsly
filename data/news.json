@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:01:04.052Z",
+  "updatedAt": "2026-10-15T20:15:51.802Z",
   "sources": [
     {
       "key": "ynet",
@@ -33,12 +33,30 @@
   "items": [
     {
       "id": "kikar:https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
+      "title": "תחקיר ראשוני: הנערים חסמו את הכביש – הרכב הפלסטיני נמלט ופגע",
+      "summary": "כוחות גדולים של צה\"ל פתחו במרדף אחר המחבל שנמלט מזירת הדריסה סמוך לעטרת • פצוע קל קיבל טיפול במקום | חסימות וסריקות נרחבות במרחב (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T19:56:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
       "title": "חשד לפיגוע בבנימין: פצוע קל בדריסה, מצוד נרחב אחר המחבל",
       "summary": "כוחות גדולים של צה\"ל פתחו במרדף אחר המחבל שנמלט מזירת הדריסה סמוך לעטרת • פצוע קל קיבל טיפול במקום | חסימות וסריקות נרחבות במרחב (צבא וביטחון)",
       "link": "https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T19:56:58.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957642",
+      "title": "חשד לאירוע דריסה בבנימין: פצוע במקום, הרכב נמלט",
+      "summary": "צה\"ל מסר על ניסיון דריסה בעטרת שבבנימין, כרגע ישנו פצוע אחד באורח בינוני במקום. המחבל ברח מהזירה, כוחות צה\"ל קפצו לנקודה",
+      "link": "https://www.walla.co.il/news/military/383957642",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T19:56:32.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
@@ -66,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T19:42:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21637623",
+      "title": "תיקון ולא ריסוק: מדינת ישראל זקוקה לרפורמה משפטית מאוזנת",
+      "summary": "ההצעות שניסתה הממשלה היוצאת לקדם היו מסוכנות, אך המצב הקיים מחייב תיקון • כל ממשלה חדשה תידרש לשינוי חיוני שיגביר את אמון הציבור • ותזכורת לאנשי הקצוות: להט אין משמעו אמת",
+      "link": "https://www.israelhayom.co.il/news/law/article/21637623",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T19:40:45.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkct7ocsge",
@@ -222,6 +249,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "title": "חי מהיורוליג: ולנסיה - מכבי תל אביב 78:78",
+      "summary": "לאחר ההפסד הצמוד מול ברצלונה, הצהובים פתחו בצורה מרשימה ביותר בספרד עם מופע שלשות ויתרון 8 בסוף הרבע הראשון • היריבה הגיבה לאחר מכן וחזרה למשחק, כשהיתרון עובר מצד לצד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T18:29:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
       "title": "חי מהיורוליג: ולנסיה - מכבי תל אביב 50:48",
       "summary": "לאחר ההפסד הצמוד מול ברצלונה, הצהובים פתחו בצורה מרשימה ביותר בספרד עם מופע שלשות ויתרון 8 במחצית • היריבה הגיבה ברבע השני ויצרה משחק צמוד",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
@@ -309,6 +345,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T18:04:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637136",
+      "title": "דן אוטורו בקרב עם אקס מכבי תל אביב: \"המבחן האמיתי הראשון\"",
+      "summary": "ב-BasketballSphere סימנו את הקרב בין דן אוטורו למתיאס לסור כמפתח למשחק מול פנאתינייקוס: \"הופעה חזקה שלו יכולה להציב את הפועל בעמדה לנצח\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21637136",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T18:03:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637136",
@@ -1713,6 +1758,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-15T14:30:08.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3872353",
+      "title": "כשנה אחרי הגירושים: דורית בר אור בזוגיות חדשה | פרסום ראשון",
+      "summary": "פחות משנה אחרי הפרידה המפתיעה מבעלה, איש העסקים זיו שני, מעצבת האופנה דורית (דודו) בר אור נמצאת בזוגיות חדשה ומסקרנת | כל הפרטים",
+      "link": "https://celebs.walla.co.il/item/3872353",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T14:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21635508",
@@ -33096,33 +33150,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T20:17:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmpjmg",
-      "title": "שמחה ענק בזוטשקא; נכדתו הראשונה של האדמו\"ר התארסה",
-      "summary": "באולם מקומי בבני ברק נחגגה בקול ששון וקול שמחה שמחת אירוסי הכלה, נכדתו הראשונה של האדמו\"ר מזוטשקא, חתן האדמו\"ר משאץ, בת לחתנו הרה\"ג רבי נפתלי צבי מוטצן, בן הגה\"צ רבי אפרים פישל מוטצן, גאב\"ד קרית הבעש\"ט בפתח תקווה. עב\"ג החתן בן הרה\"ג רבי שמואל דוד שניאורסון, בן הגה\"צ ראש ישיבת טשעבין | בשמחה השתתפו חסידים ואנשי מעשה לצד רבנים ואישי ציבור מכובדים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmpjmg",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T20:13:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmpjjw",
-      "title": "\"הם המשתמטים! הם העריקים!\": הראשל\"צ הגר\"י יוסף במתקפה על ההסתה בתקשורת",
-      "summary": "במהלך שיעורו השבועי בבית הכנסת 'היזדים', התייחס הראשל\"צ הגאון רבי יצחק יוסף למתקפות בתקשורת הכללית נגד בני הישיבות: \"בחורי הישיבות מצילים את הדור ואת כל ארץ ישראל – יש הסתה נוראה ואיומה\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tmpjjw",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T20:08:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21594033",
-      "title": "אחרי 9 חודשים: כוכבת \"חתונמי\" מאורסת",
-      "summary": "בן הזוג של יוצאת \"חתונמי\" בחר בתזמון מושלם כדי לשלוף את הטבעת, והצליח לתעד את הכל • כל הפרטים על הרגע שבו הגיעה להקליט פרק על זוגיות - והפכה למאורסת טרייה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21594033",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T20:02:08.000Z"
     }
   ]
 }
