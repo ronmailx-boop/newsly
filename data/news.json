@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:01:09.960Z",
+  "updatedAt": "2026-10-15T09:16:02.893Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,63 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/lebanese-politician-hamas-palestinian-defeat",
+      "title": "70 שנות תבוסות, חמאס הרס את פלסטין: הפוליטיקאי הלבנוני פותח מבערים",
+      "summary": "אחרי שבעה עשורים של תבוסות, הפוליטיקאי הדרוזי מלבנון דורש חשבון נפש ומצביע על נקודה שלדבריו הערבים מסרבים להתמודד איתה - וגם נתניהו נכנס לתמונה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/lebanese-politician-hamas-palestinian-defeat",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T09:09:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377454",
+      "title": "מה הבינו רעמסס והחיתים לפני 3,000 שנה על לוח חרס, שאירופה עדיין לא מצליחה ליישם | אלמוג חזז",
+      "summary": "ממצא חתי בן 3,000 שנה מחזיר את אירופה לשאלה שמסרבת להיעלם: איך מגינים על מי שזכאי למקלט, ובמקביל מחזירים את מי שנקבע שאין לו זכות להישאר – בלי להפוך את הגבול לכלי סחיטה פוליטי של מדינות אחרות",
+      "link": "https://www.maariv.co.il/news/opinions/article-1377454",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T09:03:28.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957540",
+      "title": "עקף את האיסור הטורקי, נכח ליד איראני: הטיסה של הרצוג לבאקו",
+      "summary": "לפי דיווח ב\"מידל איסט איי\", הנשיא טס לבאקו במטוס אזרחי של חברה אזרבייג'נית כדי לעבור במרחב האווירי של טורקיה, האוסרת מעבר מטוסים ממשלתיים ישראליים. גורם טורקי: \"לא ידענו שהוא על הטיסה\"",
+      "link": "https://www.walla.co.il/news/israel/383957540",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T09:00:37.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14927061",
+      "title": "מה להביא לקלפי, איפה מצביעים ומתי התוצאות: המדריך לבוחר",
+      "summary": "בעוד פחות משבועיים יותר משבעה מיליון אזרחים יוכלו לצאת ולהצביע בבחירות לכנסת ה-26, ו-ynet עושה סדר בשאלות הנפוצות: מתי ייפתחו הקלפיות ואיך תדעו איפה להצביע? מה עלול להוביל לפסילת ההצבעה? וכמובן - אילו עסקים יהיו פתוחים ביום השבתון הלאומי, ומי לא נהנה מיום השבתון",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14927061",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T08:59:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21631571",
+      "title": "לא ציפינו לראות ככה את סידני סוויני",
+      "summary": "בלוק אחר לגמרי, סידני סוויני יצאה לבלות והצליחה לבלבל לא מעט אנשים",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21631571",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:57:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21631382",
+      "title": "ההורים התנגדו לטיפול: תינוק שנולד במרכז לידה פיראטי בירושלים - במצב קשה",
+      "summary": "התינוק פונה לשערי צדק כשהוא במצב קשה, לאחר שצוות רפואי ביצע בו פעולות החייאה והשיב את הדופק • לפי הדיווח, האב סירב תחילה לפינוי ולהענקת טיפול לבנו, וגם היולדת סירבה בתחילה לטיפול רפואי • המשטרה פתחה בחקירת נסיבות המקרה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21631382",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:56:54.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hyksbmcige",
       "title": "נשיא המדינה, לצד נציג איראן: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
-      "summary": "",
+      "summary": "למרות החרם: הרצוג הגיע לאזרבייג'ן בטיסה מסחרית של חברה אזרית. שעברה בשמי טורקיה. גורם טורקי: \"לא ידענו, לא יכולים לקבל את רשימת הנוסעים של כל מטוס אזרחי שחולף במרחב שלנו\". לצד הרצוג, משתתפים בפסגת מדינות אסיה בבאקו גם מדינות רבות שאין להן יחסים דיפלומטיים עם ישראל - ואף נציג מאיראן",
       "link": "https://www.ynet.co.il/news/article/hyksbmcige",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +111,69 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T08:55:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21631380",
+      "title": "בחרתם בן גביר? ייתכן שהקול שלכם יעבור ליאיר גולן (ולהפך)",
+      "summary": "מתקדם לו שחקן לאורך המשחק, מקבל החלטות טובות ואחראיות, מזלו לצידו, והנה הוא מגיע אל הניצחון המיוחל - אבל לא, הוא לא מנצח ● כמו בטאקי, גם בקלפי יש קאץ' מעצבן בסגנון \"קלף אחרון בידי\"",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21631380",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:52:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21626906",
+      "title": "סיפור חייה של הפסנתרנית הדרוזית שהפכה את הטרגדיה במג'דל שמס ליצירה מוזיקלית מופלאה",
+      "summary": "הנורא מכל במג'דל שמס הפך למנגינה של כאב ושכול. מתוך רגעי האימה של אותה שבת, שבה נגדעו חייהם של 12 ילדים ובני נוער במגרש הכדורגל, נולדה יצירת חייה של הפסנתרנית האיא מוסטפה \"שקט במגרש המשחקים\" • רגע לפני שהיא תבוצע בפסטיבל קול המוזיקה לעיניהם של חלק מההורים השכולים, היא אומרת: \"אחיינים שלי באותו הזמן שיחקו גם הם כדורגל בחוץ. ניסיתי ללכוד את מכלול החוויה הנוראית הזו, את אותם הרגעים שבהם הילדים שילמו את מחיר המלחמה הנורא\"",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21626906",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:49:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21631257",
+      "title": "\"המטרה שישחק במכבי תל אביב שנים, הוא רוצה גם נבחרת\"",
+      "summary": "טי ג'יי ליף חוזר מפציעה קשה ומתקשה להציג את היכולת מהעונה שעברה • סוכנו מודה כי הוא \"איבד קצת מהביטחון\", אבל מבטיח שבקרוב נראה ממנו את אותם דברים • וגם: נבחרת ישראל, וסוגיית החוזה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21631257",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:45:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21630879",
+      "title": "בלי ליאון: פאולה רונזנברג חוזרת לטלוויזיה",
+      "summary": "תקראו לזה קאמבק: אחרי שלוש שנים מחוץ למסך, פאולה רוזנברג חוזרת עם התוכנית החדשה \"אחרי הדאבל\" בכאן 11 ומדברת על הפרידה מתוכנית הבוקר ההיא ועל הקונספט החדש • \"זה סוג של הגשמת חלום\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21630879",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:43:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21631297",
+      "title": "בתנאי אחד: עומר ציפורי החליט להתחתן עם שלי סרבריאניקוב",
+      "summary": "שלי סרבריאניקוב לא הרגישה טוב ושלחה לבן הזוג עומר ציפורי שאלה אחת קצרה, מהסוג שכל זוג מכיר • התשובה שלו הגיעה אחרי שש דקות בדיוק, ועבדה יותר טוב מכל תרופה • ואיך הכל נגמר בסלפי משותף ומתוק במיוחד מהמיטה",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21631297",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:42:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21631271",
+      "title": "\"פפ גווארדיולה נאנק מכאבים, הוא לא מודע לצביעות המוסרית שלו\"",
+      "summary": "בעוד פפ גווארדיולה מרבה להטיף מוסר על אי-צדק וסבל בעולם ואף עונד סמלים פוליטיים, הוא בוחר לשתוק לחלוטין מול הפרות זכויות האדם של בעלי מנצ'סטר סיטי • הכתב הבכיר חושף את הצביעות העמוקה המאפיינת את התנהלותו של המאמן ואת התגובות הלעגניות ברשת לעיתוי עזיבתו את המועדון",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21631271",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:41:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21631093",
+      "title": "אברי גלעד נגד המתמודדים של ״המטבח המנצח״: ״אנשים מעורפלים״",
+      "summary": "איש התקשורת ושותפתו לתחרות אילון נופר מתייחסים לתוצאה המאכזבת בתוכנית הבישול, מגיבים לציון המושלם שקיבלו מחיים כהן לעומת הקולגות סביב השולחן, ומסבירים את הדינמיקה ביניהם: \"הייתי בהלם מהטעויות\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21631093",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:40:39.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87706",
@@ -93,6 +210,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T08:36:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21631273",
+      "title": "ריקול למאוורר תקרה: עלול להשתחרר וליפול בזמן פעולה",
+      "summary": "היבואן קורא להפסיק מיד את השימוש במאוורר התקרה של MATRIX עם חוט המשיכה הלבן • בדיקה מטעם הממונה על התקינה מצאה שהחיבור המכני של המאוורר אינו חזק מספיק • המוצר שווק במשך שנתיים, בין אפריל 2023 לאפריל 2025",
+      "link": "https://www.israelhayom.co.il/news/local/article/21631273",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:36:53.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/container-confiscated-false-import-declaration-haifa-court",
@@ -140,6 +266,24 @@
       "pubDate": "2026-10-15T08:32:27.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21630935",
+      "title": "\"סבירות גבוהה לתקיפה על אוכלוסייה\": האם אפשר לדחות את הבחירות?",
+      "summary": "השרים יצביעו במשאל טלפוני • המשמעות: המצב צפוי להימשך גם ב-27 באוקטובר • האם לא נלך לקלפי במועד? הדרך לשם עוד ארוכה",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21630935",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:31:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21631159",
+      "title": "איזנקוט מתחייב: \"תוך 18 חודשים - חמאס לא ישלוט יותר ברצועה\"",
+      "summary": "איזנקוט טען כי ראש הממשלה התעלם מהתרעות לפני שבעה באוקטובר והגדיר את טענתו שלא הכיר את תרחיש הפשיטה \"אמירה פתטית\" • \"התהום פעורה בין הישגי הלוחמים בשטח לבין אי-העמידה במטרות\" • עוד מתחייב כי בתוך שבועיים מרגע כניסותו לתפקיד יקים וועדת חקירה ממלכתית",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21631159",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:31:03.000Z"
+    },
+    {
       "id": "walla:https://sports.walla.co.il/item/3872256",
       "title": "\"אני מתגעגע לכלב שלי\": כיצד הגיע הספרדי המעוטר לישראל?",
       "summary": "הספרדי המעוטר נחת בארץ בעשור הקודם רק כתוצאה מאירוע הזוי במכבי פתח תקוה תחת אבי לוזון וקובי רפואה. הסיפור המלא בפודקאסט \"לא לפרסום\"",
@@ -147,6 +291,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-15T08:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21630282",
+      "title": "\"ההכנסות צנחו\": כוכבת הילדים על המחיר הכלכלי שספגה - והפרק החדש בחייה",
+      "summary": "דנה דבורין הייתה מהפנים המוכרות של ערוץ הילדים, אבל בשלב מסוים החליטה לשנות כיוון • בריאיון לפודקאסט Stars היא מספרת על התחנות ששינו את חייה ועל הדרך שהובילה לעשייה חברתית ולתערוכה הייחודית באסותא אשדוד",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21630282",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:29:27.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk7yggrofl",
@@ -165,6 +318,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:28:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21630625",
+      "title": "גרמניה: המשטרה פתחה בחקירת רובוט ש\"הטריד מינית\"",
+      "summary": "רובוט דמוי אדם שתוכנת על ידי שני צעירים התחכך בצעירה ברחוב כשהוא מבצע תנועות המחקות יחסי מין • המשטרה בוחנת אם הרובוט תוכנת מראש על מנת לבצע את המעשים",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21630625",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:28:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21630625",
@@ -192,6 +354,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:26:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21625562",
+      "title": "טיפ הזהב המודיעיני: \"למחרת, שר הביטחון יכול להתקשר ולהגיד 'אתם חייבים לנו\"",
+      "summary": "זה נקרא \"מודיעין שותפים\": חלוקת מידע עם ארגוני מודיעין במדינות זרות, לפעמים עוינות, במטרה להגדיל יכולות איסוף או לבסס ולחזק קשרים מדיניים • אחרי 7 באוקטובר, המודיעין הישראלי הגביר מאוד את עוצמת הענף: סיוע רגיש למדינות במזרח התיכון, התראות שסיכלו פיגועים באירופה, וגם טיפים שמנעו התנקשויות • במפגשים כמוסים במטוסים פרטיים ובחדרי אירוח יוקרתיים, ישראל מקבלת גישה למידע קריטי - ומחזירה במודיעין מציל חיים",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21625562",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T08:26:37.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21625562",
@@ -327,6 +498,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:12:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377435",
+      "title": "גדי איזנקוט באזהרה ברורה: \"כל עוד בנימין נתניהו בשלטון\"",
+      "summary": "איזנקוט החליט לפרסם הצהרה מיוחדת בנוגע למלחמה הנמשכת ברצועת עזה. בדבריו הוא תקף בחריפות את נתניהו: \"השבת החטופים שנחטפו תחת ממשלת המחדל כלל לא הייתה במטרות המלחמה\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1377435",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T08:11:54.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377435",
@@ -858,6 +1038,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T07:08:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377386",
+      "title": "12 ימים לבחירות: \"יותר ויותר ישראלים מבינים\"",
+      "summary": "בעקבות התביעה שהגיש רונן בר נגד נתניהו, חילי טרופר תוקף את הסירוב להקים ועדת חקירה ממלכתית. בריאיון ל-103FM הוא מותח ביקורת חריפה על פרשת אוריך ומבהיר את עמדתו בנוגע למפלגות הערביות",
+      "link": "https://www.maariv.co.il/news/politics/article-1377386",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T07:07:25.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377386",
@@ -1463,6 +1652,15 @@
       "pubDate": "2026-10-15T05:37:51.000Z"
     },
     {
+      "id": "walla:https://food.walla.co.il/item/3872270",
+      "title": "מרק בוכרי משובח וקבב טלה נדיר: אבי אפרתי עוד יחזור לנווה צדק",
+      "summary": "מרק בוכרי משובח וקבב טלה נדיר: אבי אפרתי עוד יחזור לנווה צדק",
+      "link": "https://food.walla.co.il/item/3872270",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T05:37:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21629791",
       "title": "צמדים לבריבו ותורג'מן - אבו פרחי שוב הורחק: הלילה הסוער ב-MLS",
       "summary": "ארבעה שערים, בישול ואדום דרמטי אחרי שבע דקות בלבד: הליגיונרים הישראלים סיכמו לילה סוער ומלא אירועים בליגת ה-MLS במשחקים המכריעים לפני שלב הפלייאוף • דור תורג'מן כבש צמד והבטיח עם ניו אינגלנד את הכרטיס לפלייאוף, תאי בריבו כיכב ב-די.סי יונייטד, ועידן טוקלומטי הבקיע משחק שני ברציפות",
@@ -1623,6 +1821,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T04:44:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21629644",
+      "title": "חוזר ליורוליג: לוני ווקר חתם אצל יריבת מכבי והפועל תל אביב",
+      "summary": "חודשים ספורים אחרי שנפרד ממכבי ת\"א וקיבל חוזה זמני בדנבר נאגטס, הכוכב חוזר לאירופה וחתם אצל בשיקטאש",
+      "link": "https://www.israelhayom.co.il/sport/article/21629644",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T04:41:55.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21629644",
@@ -30306,33 +30513,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-10T09:16:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375409",
-      "title": "\"איסלאמו-שמאלנות\": הברית הפוליטית החדשה שמפרקת את צרפת מבפנים | ד\"ר איתן לסרי",
-      "summary": "בין אלפי מעצרים, עימותים אלימים ברחובות, פגיעה קשה במערכת החינוך ומאבק פוליטי יצרי, צרפת מתמודדת בשבועות האחרונים עם משבר לאומי עמוק החורג בבירור מתחום כתלי בתי הספר",
-      "link": "https://www.maariv.co.il/news/opinions/article-1375409",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:15:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1375409",
-      "title": "מעל 6,600 מעצרים ורחובות בוערים: הכאוס הצרפתי הוא רק קדימון | ד\"ר איתן לסרי",
-      "summary": "בין אלפי מעצרים, עימותים אלימים ברחובות, פגיעה קשה במערכת החינוך ומאבק פוליטי יצרי, צרפת מתמודדת בשבועות האחרונים עם משבר לאומי עמוק החורג בבירור מתחום כתלי בתי הספר",
-      "link": "https://www.maariv.co.il/news/opinions/article-1375409",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T09:15:20.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1kwtudjge",
-      "title": "גשם ראשון באילת, רעמים - וחשש משיטפונות בדרום | תיעוד",
-      "summary": "2.5 מ\"מ של גשם ירדו באילת ובמקומות נוספים בערבה. בימים הקרובים צפויים ממטרים מקומיים בדרום הארץ, ומחר, בעיקר משעות הצהריים, קיים חשש להתפתחות שיטפונות באזור ים המלח",
-      "link": "https://www.ynet.co.il/news/article/h1kwtudjge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T09:05:07.000Z"
     }
   ]
 }
