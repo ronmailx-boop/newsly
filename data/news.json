@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:15:51.802Z",
+  "updatedAt": "2026-10-15T20:29:56.450Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,108 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byntnjcige",
+      "title": "מרדכי דוד התפרץ להקרנת נז\"א במטה הרשימה המשותפת: \"לא יהיה פה סרט\" | תיעוד",
+      "summary": "קבוצת פעילי ימין הגיעה למטה הרשימה המשותפת בתל אביב, שם היו אמורים להקרין את הסרט שהאשים את צה\"ל בביצוע פשעי מלחמה- ובמקום נרשם עימות בין הצדדים",
+      "link": "https://www.ynet.co.il/news/elections2026/article/byntnjcige",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T20:24:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87847",
+      "title": "חשד לפצוע בפיגוע דריסה באזור עטרת שבבנימין",
+      "summary": "דיווח על חשד לפצוע בפיגוע דריסה באזור עטרת שבבנימין. כוחות ביטחון הגיעו למקום.",
+      "link": "https://www.kikar.co.il/scoop-news/87847",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:23:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87846",
+      "title": "חשד לפיגוע דריסה באזור עטרת בבנימין - פצוע קל",
+      "summary": "דיווח על חשד לפיגוע דריסה באזור עטרת שבבנימין. לפי הדיווח הראשוני, מצבו של הפצוע קל והמחבל נמלט מהמקום.",
+      "link": "https://www.kikar.co.il/scoop-news/87846",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:23:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87845",
+      "title": "גולן: נסלק את הדת מהמרחב הציבורי בישראל",
+      "summary": "יו\"ר המחנה הממלכתי יאיר גולן הצהיר כי ימפלגתו תפעל להסרת הדת מהמרחב הציבורי בישראל.",
+      "link": "https://www.kikar.co.il/scoop-news/87845",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:23:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87844",
+      "title": "שתי נשים נפצעו בתאונה עצמית במחלף ענבה בכביש 1",
+      "summary": "שתי נשים כבנות 20 נפצעו בתאונת דרכים עצמית במחלף ענבה בכביש 1 לכיוון מחלף דניאל. אחת הנפגעות סובלת מחבלת ראש ופציעה בידה ומצבה בינוני, והשנייה נפצעה באורח קל. צוותי איחוד הצלה העניקו להן טיפול רפואי בזירה ופינו אותן לבית החולים.",
+      "link": "https://www.kikar.co.il/scoop-news/87844",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:22:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87843",
+      "title": "שגריר ישראל בהולנד: אוהדים ישראלים נמנעו מכניסה למשחק הפועל באר שבע",
+      "summary": "שגריר ישראל בהולנד מסר כי קומץ אוהדים ישראלים לא הורשו להיכנס למשחק של הפועל באר שבע בהולנד בטענה של \"סיכונים ביטחוניים\". לעומתם, אוהדים שהניפו שלטים בעברית עם הכיתוב \"קדימה חמאס\" הורשו להיכנס ללא הפרעה. השגריר הדגיש כי חמאס מוגדרת בהולנד כארגון טרור, והיא אחראית למעשי הזוועה ב-7 באוקטובר.",
+      "link": "https://www.kikar.co.il/scoop-news/87843",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:22:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87842",
+      "title": "צה\"ל: האירוע בעטרת אינו פיגוע",
+      "summary": "בצה\"ל מעריכים כי האירוע שאירע בעטרת אינו פיגוע.",
+      "link": "https://www.kikar.co.il/scoop-news/87842",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:22:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87841",
+      "title": "דיווח על דריסה במרחב עטרת שבחטיבת בנימין",
+      "summary": "צה\"ל מסר כי התקבל דיווח ראשוני על אירוע דריסה במרחב עטרת שבחטיבת בנימין. הפרטים נבדקים וכוחות צה\"ל הגיעו למקום.",
+      "link": "https://www.kikar.co.il/scoop-news/87841",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:22:19.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87840",
+      "title": "מרדף אחר חשוד שפגע ברכבו באזרח ישראלי בבנימין",
+      "summary": "כוחות צה\"ל ושוטרי מחוז ש\"י פתחו במרדף אחר חשוד שפגע עם רכבו באזרח ישראלי במרחב עטרת שבחטיבת בנימין. האזרח נפצע ופונה לקבלת טיפול רפואי. הכוחות מבצעים חסימות בצירים ובכפרים במרחב.",
+      "link": "https://www.kikar.co.il/scoop-news/87840",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T20:22:11.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bketroaifg",
+      "title": "נערים הפריעו לתנועה בבנימין, רכב פלסטיני דרס אחד מהם ופצע אותו קל",
+      "summary": "הדריסה התרחשה בצומת עטרת שבכביש 465, בזמן שלפי החשד הנהג ניסה להימלט מהמקום. כוחות צה\"ל קפצו למקום ופתחו במצוד אחר הדורס",
+      "link": "https://www.ynet.co.il/news/article/bketroaifg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T20:21:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21637790",
+      "title": "פיגוע דריסה בבנימין: ילד נפצע קל, מרדף מתנהל אחר המחבל",
+      "summary": "מחבל שנהג בטנדר מסוג מרצדס דרס ילד בכביש 465, סמוך לעטרת, ונמלט מהמקום • הילד נפצע באורח קל ברגל ונותר בהכרה מלאה • כוחות צה\"ל הוזעקו לזירה ומסוק צבאי הוקפץ לאזור",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21637790",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T20:07:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
       "title": "תחקיר ראשוני: הנערים חסמו את הכביש – הרכב הפלסטיני נמלט ופגע",
-      "summary": "כוחות גדולים של צה\"ל פתחו במרדף אחר המחבל שנמלט מזירת הדריסה סמוך לעטרת • פצוע קל קיבל טיפול במקום | חסימות וסריקות נרחבות במרחב (צבא וביטחון)",
+      "summary": "כוחות גדולים של צה\"ל פתחו במרדף אחר המחבל שנמלט מזירת הדריסה סמוך לעטרת • המשטרה מעדכנת כי הפצוע פונה לטיפול רפואי במצב קל-בינוני. הכוחות פתחו בסריקות נרחבות והחקירה נמשכת.(צבא וביטחון)",
       "link": "https://www.kikar.co.il/security-news/manhunt-terrorist-ateret-benjamin-ramming-attack",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -246,6 +345,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-15T18:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "title": "חי מהיורוליג: ולנסיה - מכבי תל אביב 91:88",
+      "summary": "לאחר ההפסד הצמוד מול ברצלונה, הצהובים עם דרמה נוספת • דקות הסיום צמודות כשהיתרון עובר מצד לצד, לאחר שהצהובים הרשימו בפתיחה • רומן סורקין בולט",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T18:29:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21637331",
@@ -2433,6 +2541,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T13:04:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377565",
+      "title": "מלכוד של נתניהו: הקלף שיכול להציל אותו מתביעת רונן בר - ולסבך אותו",
+      "summary": "תביעת הענק של רונן בר נגד נתניהו מציבה את רה\"מ בפני דילמה: האם להשתמש בחסינות ולהסתכן בחיזוק טענותיו של ראש השב\"כ לשעבר? עורך דין מומחה מסביר מה עומד על הפרק, ומה עשויה להיות המטרה האמיתית",
+      "link": "https://www.maariv.co.il/news/law/article-1377565",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T12:54:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1377565",
@@ -33132,24 +33249,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T20:30:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/86975",
-      "title": "פיצוץ רימון רסס בנס ציונה על רקע סכסוך פלילי",
-      "summary": "דווח על פיצוץ ברחוב השונית בנס ציונה, ללא נפגעים אך עם נזק לרכוש. שוטרי תחנת רחובות פתחו בחקירה, ולפי החשד רימון רסס הושלך לעבר בית פרטי על רקע סכסוך פלילי.",
-      "link": "https://www.kikar.co.il/scoop-news/86975",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T20:22:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21594131",
-      "title": "חשד לניסיון חיסול בטורעאן: תושבת המקום נפצעה קשה",
-      "summary": "יום לאחר שורת אירועי אלימות ברחבי הארץ, אלמונים ירו לעבר בית ביישוב שבצפון ופצעו תושבת המקום • כוחות ההצלה העניקו לה טיפול מציל חיים והעבירו אותה לבית החולים • גל האלימות שהחל בצהריים גובה קורבנות נוספים ועד כה איש לא נעצר",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21594131",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T20:17:17.000Z"
     }
   ]
 }
