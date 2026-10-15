@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:45:55.373Z",
+  "updatedAt": "2026-10-15T12:01:03.367Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87753",
+      "title": "ילד בן 10 נפצע בינוני בתאונת דרכים בסח'נין",
+      "summary": "ילד בן 10 נפצע הצהריים (13:44) מרכב בזמן רכיבה על אופניים בסח'נין. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו למרכז הרפואי צפון (פוריה) במצב בינוני עם חבלות בפנים ובחזה.",
+      "link": "https://www.kikar.co.il/scoop-news/87753",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T11:55:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383957573",
+      "title": "פינדרוס נגד בחירת אוחנה ליו\"ר הכנסת: \"תקלה, חילול ה'\"",
+      "summary": "ח\"כ יצחק פינדרוס מיהדות התורה תקף את בחירתו של אמיר אוחנה ליו\"ר הכנסת בשל השתייכותו לקהילה הגאה, וטען כי המהלך לא קיבל את אישור ההנהגה הרבנית. \"אני חושב שיש לזה מחיר\", אמר",
+      "link": "https://www.walla.co.il/news/politics/383957573",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T11:49:28.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byxoferjzg",
       "title": "איליה צ'צ'ולין ועובד נוסף נהרגו בפיצוץ במפעל אינטל",
@@ -120,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T11:24:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377523",
+      "title": "61 אצבעות או כלום: אביגדור ליברמן בסיכול ממוקד שטורף את הקלפים באופוזיציה",
+      "summary": "ליברמן שולל ממשלת מיעוט גם כפתרון זמני, מציע להשלים רוב באמצעות ח\"כים מהליכוד ללא נתניהו – ומציב קו שונה מזה שהציגו מרידור ואיזנקוט בתרחיש שבו גוש האופוזיציה לא יגיע ל-61",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1377523",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T11:23:58.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377523",
@@ -1911,6 +1938,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:10:11.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3872307",
+      "title": "עוד צעד ליהדות? סידני סוויני עם פוזה של צניעות",
+      "summary": "הכוכבת ההוליוודית החליטה לבלות יום כיף במזח סנטה מוניקה, אבל כדי שלא יזהו אותה, בחרה לשנות את הלוק המוכר שלה ולהפתיע במראה חדש לגמרי. הצלחתם לזהות?",
+      "link": "https://celebs.walla.co.il/item/3872307",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T08:06:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmxvha",
@@ -31656,42 +31692,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T12:03:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21591162",
-      "title": "\"הדבר הראשון שעלה לי לראש\": דארן היליארד עקץ את מכבי תל אביב",
-      "summary": "אקס הצהובים התייחס בראיון לתקופה בצהוב, צחק כשנשאל עליה ודיבר על החשיבות של אמון ותקשורת בין שחקן למאמן: \"עם חלק היה לי את זה, עם אחרים לא\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21591162",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T11:59:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21591162",
-      "title": "\"הדבר הראשון שעלה לי לראש\": העקיצה של דארן היליארד למכבי תל אביב",
-      "summary": "אקס הצהובים התייחס בראיון לתקופה בצהוב, צחק כשנשאל עליה ודיבר על החשיבות של אמון ותקשורת בין שחקן למאמן: \"עם חלק היה לי את זה, עם אחרים לא\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21591162",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T11:59:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375506",
-      "title": "טראמפ הפתיע את כולם: כך נבחרה דוברת הבית הלבן החדשה",
-      "summary": "מועמדים נפסלו בשל ביקורת על טראמפ, וקייטי זכריה נבחרה במפתיע לדוברת הבית הלבן. כעת נבדקים הימורים חשודים שבוצעו זמן קצר לפני ההכרזה, ועשויים להניב רווחים של אלפי דולרים",
-      "link": "https://www.maariv.co.il/news/world/article-1375506",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T11:50:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375506",
-      "title": "שבוע אחד הספיק: המינוי המפתיע שמסעיר את הבית הלבן",
-      "summary": "מועמדים נפסלו בשל ביקורת על טראמפ, וקייטי זכריה נבחרה במפתיע לדוברת הבית הלבן. כעת נבדקים הימורים חשודים שבוצעו זמן קצר לפני ההכרזה, ועשויים להניב רווחים של אלפי דולרים",
-      "link": "https://www.maariv.co.il/news/world/article-1375506",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T11:50:19.000Z"
     }
   ]
 }
