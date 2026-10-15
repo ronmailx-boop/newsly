@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:31:01.315Z",
+  "updatedAt": "2026-10-15T21:45:54.901Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bketroaifg",
+      "title": "נערים הפריעו לתנועה בבנימין, רכב פלסטיני פגע באחד מהם ופצע אותו קל | תיעוד",
+      "summary": "תאונת הדרכים התרחשה בצומת עטרת שבכביש 465, בזמן שלפי החשד הנהג ניסה להימלט מהמקום. כוחות צה\"ל קפצו למקום ופתחו במצוד אחר הנהג הפוגע - שבהמשך הסגיר את עצמו",
+      "link": "https://www.ynet.co.il/news/article/bketroaifg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T21:15:58.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bketroaifg",
       "title": "נערים הפריעו לתנועה בבנימין, רכב פלסטיני דרס אחד מהם ופצע אותו קל | תיעוד",
@@ -456,6 +465,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383957642",
+      "title": "חשד לאירוע דריסה בבנימין: הנהג הסגיר את עצמו לצה״ל",
+      "summary": "צה\"ל מסר על ניסיון דריסה בעטרת שבבנימין, כרגע ישנו פצוע אחד באורח בינוני במקום. המחבל ברח מהזירה, כוחות צה\"ל קפצו לנקודה",
+      "link": "https://www.walla.co.il/news/military/383957642",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T19:56:32.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957642",
       "title": "חשד לאירוע דריסה בבנימין: פצוע במקום, הנהג הסגיר את עצמו",
       "summary": "צה\"ל מסר על ניסיון דריסה בעטרת שבבנימין, כרגע ישנו פצוע אחד באורח בינוני במקום. המחבל ברח מהזירה, כוחות צה\"ל קפצו לנקודה",
       "link": "https://www.walla.co.il/news/military/383957642",
@@ -588,6 +606,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T19:00:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957555",
+      "title": "מה הופך את \"אם כל הפצצות\" לקטלנית כל כך?",
+      "summary": "היא שוקלת כעשרה טונות, מסוגלת לגרום להרס עצום ופועלת גם כנשק פסיכולוגי. אלא שלפצצת ה-MOAB יש חיסרון משמעותי דווקא מול מתקני הגרעין התת-קרקעיים",
+      "link": "https://www.walla.co.il/news/military/383957555",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T19:00:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21637431",
@@ -1317,6 +1344,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T16:34:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21636612",
+      "title": "גם היזם הבכיר הגיע: המסיבה של נועה ארגמני",
+      "summary": "על הגג מול הים ובשעת שקיעה: שורדת השבי ציינה 29 כשהיא מרימה כוסית, רוקדת בעמדת הדי-ג'יי ומוקפת באנשים הקרובים אליה וביזם בולט במיוחד",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21636612",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T16:31:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21636612",
@@ -33339,24 +33375,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-10T21:53:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21594289",
-      "title": "על דוכן העדים: העמיד את נתניהו לדין - ויידרש לכל השאלות",
-      "summary": "היועץ המשפטי לממשלה לשעבר, שהחליט להעמיד לדין את ראש הממשלה, יעיד מחר כעד הגנה בתיקי האלפים • במוקד: האם המשטרה ביצעה פעולות חקירה ללא אישורו, ומה ידע בזמן אמת? • הפרוטוקולים שנחשפו לבקשת ״ישראל היום״ ובהם מתח מנדלבליט ביקורת על החוקרים צפויים לעמוד במרכז העדות",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21594289",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T21:44:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21594282",
-      "title": "עו\"ד ציון אמיר על מנדלבליט: על ה״תפיסה בגרון״ הייתי חוקר אותו שעתיים",
-      "summary": "אביחי מנדלבליט יעלה היום על דוכן העדים במשפט נתניהו • עו״ד ציון אמיר מסביר אילו שאלות נוקבות חייבות להישמע באולם – ומדוע לדעתו היועמ\"ש לשעבר עומד בפני מצב ללא מוצא",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21594282",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T21:33:01.000Z"
     }
   ]
 }
