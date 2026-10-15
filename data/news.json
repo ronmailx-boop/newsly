@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:16:01.727Z",
+  "updatedAt": "2026-10-15T16:31:10.388Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tmyipb",
+      "title": "עם ציורי טילים וטנק: המכתב שכתב בנו בן ה-10 של יחיא סינוואר נחשף",
+      "summary": "",
+      "link": "https://www.kikar.co.il/israel-news/tmyipb",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T16:19:53.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b18hjocszx",
+      "title": "נתניהו נגד בן גביר: לא תהיה שר ביטחון - וגם לא ביטחון הפנים",
+      "summary": "ראש הממשלה הבהיר כי בכוונתו להשאיר את התיקים המבוקשים בליכוד גם בממשלה הבאה שבכוונתו להקים - ובעוצמה יהודית תקפו: \"התקבלה החלטה להוציא מהקואליציה את השר בן גביר\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b18hjocszx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T16:18:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21636491",
+      "title": "איזנקוט עוקף את נתניהו, בנט נחלש - אך גוש השינוי מתחזק | סקר מנדטים",
+      "summary": "הקמפיין של איזנקוט על קרב ראש בראש מול נתניהו מתחיל להניב תוצאות, וישר! מתחזקת על חשבון יריבותיה בגוש השינוי • בנט נחלש, אך הגוש כולו דווקא מתחזק הודות להיחלשות מפלגות הימין החדשות • ליברמן ממשיך לשלול הישענות על המפלגות הערביות, אף שרוב מצביעי גוש השינוי פתוחים לכך",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21636491",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T16:10:33.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87810",
       "title": "נהג בן 18 נפצע בינוני בתאונה בכביש 40 סמוך למושב עוזה",
@@ -66,6 +93,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T16:06:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21636496",
+      "title": "שומרים על פרופיל נמוך: איציק זוהר ובת הזוג ממשיכים להתקדם",
+      "summary": "יותר משנה וחצי אחרי שנחשפו יחד לראשונה, הזוגיות של כדורגלן העבר עם עורכת הדין יפעת כהן רק מתחזקת • החופשות המשותפות והמפגש בין המשפחות • והצעד המשמעותי שעוד מחכה להם, לפני שבכלל מתחילים לדבר על חתונה",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21636496",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T16:05:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21636368",
+      "title": "האישה שהתנשקה עם נועה קירל: \"זה מה שזוכרים\"",
+      "summary": "השחקנית יובל לבקובסקי התארחה בפודקאסט 'לשחרר את הדב', ותיארה תגובה גופנית חריגה שהובילה לדחיית סצנה אינטימית מדוברת בהפקת 'איננה' • וגם: רגעי חרדה מאחורי הקלעים: \"הייתי בלחץ מטורף\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21636368",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T16:04:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21636133",
+      "title": "מכתביו של בנו של סינוואר נחשפים: \"הלוואי והייתי יכול לירות ביהודים\"",
+      "summary": "מסמכים שנתפסו בעזה על ידי חיילי צה\"ל ונחשפו בעיתון הבריטי מלמדים על תכניהם של מכתבים וציורים שכתב איברהים סינוואר, בנו הצעיר של מנהיג חמאס שחוסל • המומחים מעריכים כי המסמכים אותנטיים, ומשקפים את מציאות החינוך וההסתה ברצועה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21636133",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T16:02:26.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383957612",
@@ -1195,7 +1249,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hy9gs8aofx",
       "title": "נתניהו חשף: שוחחתי עם נשיא סוריה, לא יכול לספר הכול",
-      "summary": "נתניהו היה זה שהתקשר לאחמד א-שרע, והשניים שוחחו דקות בודדות באנגלית. \"השיחה הייתה קצרה וחדה, והטבח נפסק\", אמר בכנס עם העדה הדרוזית בירכא. בכנס בעכו אמר: \"משרדי הביטחון והביטחון הלאומי יהיו של הליכוד בממשלה הבאה\"",
+      "summary": "נתניהו היה זה שהתקשר לאחמד א-שרע, והשניים שוחחו דקות בודדות באנגלית. \"השיחה הייתה קצרה וחדה, והטבח נפסק\", אמר בכנס עם העדה הדרוזית בירכא, לצד המועמד הדרוזי שהוצב רק במקום ה-41 ברשימת הליכוד",
       "link": "https://www.ynet.co.il/news/article/hy9gs8aofx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -32925,123 +32979,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-10T16:32:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1375579",
-      "title": "\"אנחנו בדרך לאסון\": בני גנץ הודיע על המהלך הבא",
-      "summary": "כחול לבן משיקה קמפיין חדש למרות הסקרים שמותירים אותה מתחת לאחוז החסימה. גנץ מתעקש לרוץ עד הסוף, טוען שלפחות שישה מנדטים רוצים להצביע לו ומאשים את שני הגושים בהעמקת הקרע בישראל.",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1375579",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T16:30:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21592252",
-      "title": "\"יגרמו לאויבים לתקוף אותנו שוב\": גנץ תוקף את נתניהו - ואת שותפיו לשעבר",
-      "summary": "יו\"ר כחול לבן הזהיר מפני המשך הפיצול הפוליטי והכריז כי ירוץ \"עד הסוף\" בבחירות • לדבריו, שני הגושים מעדיפים הכרעה על פני ממשלת אחדות ומובילים את ישראל ל\"ממשלות צרות שיקרעו אותנו מבפנים\" • במקביל משיקה מפלגתו קמפיין חדש תחת הסיסמה: \"בוחרים אחדות, מצילים את המדינה\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21592252",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:30:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-syrian-terrorist-iran-syria-lebanon",
-      "title": "תקיפה חריגה: חוסל מחבל סורי שקידם טרור בהכוונת איראן בגבול סוריה-לבנון",
-      "summary": "יוסף עלי אלחסון חוסל בתקיפה אווירית • קידם מתווי טרור נגד כוחות צה\"ל ואזרחים | פרטים מהפעילות בדרום סוריה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-eliminates-syrian-terrorist-iran-syria-lebanon",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T16:29:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-public-party-rabbinic-committee-revealed",
-      "title": "פרסום ראשון: זו ההנהגה הרוחנית שמנהלת את 'הציבור החרדי' מאחורי הקלעים",
-      "summary": "עשרה רבנים מלווים את פעילות המפלגה • בראשות הרב יהושע פפר, הוועדה משמשת כסמכות הרבנית העליונה | הרשימה המלאה בפרסום ראשון (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/haredim-news/haredi-public-party-rabbinic-committee-revealed",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T16:23:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21592764",
-      "title": "אחרי שנה: הצעד החדש של ליאור נרקיס",
-      "summary": "בזמן שהוא נוהג ברכב שטח מוקף בשדות הפתוחים, נרקיס סיפק לעוקביו הצצה נדירה למה שמתבשל מאחורי הקלעים • כל הפרטים על המהלך המסקרן של הזמר המצליח",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21592764",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:22:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21592657",
-      "title": "אחות בכורה בת 7 חודשים: בן נולד למשפיען ולבן זוגו",
-      "summary": "7 חודשים אחרי לידת בתם הבכורה בהליך פונדקאות, בן נולד למשפיען אופיר דן ובן זוגו מפיק האירועים טל שרף",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21592657",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:21:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyyi8adofl",
-      "title": "נשיאת הצלב האדום מכה על חטא: היינו יכולים להפעיל לחץ מוקדם יותר, להציל חיים",
-      "summary": "מיריאנה ספולאריץ', נשיאת הוועד הבינלאומי של הצלב האדום, הודתה בריאיון ל\"ניו יורק טיימס\" כי הארגון הבינלאומי היה יכול לעשות יותר כדי להציל חטופים ישראלים. על הטענות שהארגון לא עשה מספיק כדי לבקר אותם בשבי אמרה: \"ביקור הוא עניין מורכב הרבה יותר מאשר השבתם\"",
-      "link": "https://www.ynet.co.il/news/article/hyyi8adofl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T16:19:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21592737",
-      "title": "דרמת העונה באירופה: המשחק נגמר ב-5:6 משוגע אחרי 0:0 במחצית",
-      "summary": "אחרי 45 דקות ללא שערים אף אחד לא ציפה למה שקרה בהמשך • AIK סולנה נקלעה לפיגור 5:1, כבר חזרה לשוויון לפני שספגה בדקה ה-90+9 מברומאפויקארנה בהפסד שלא יישכח • המחצית שברה שיא שהחזיק יותר מ-80 שנה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21592737",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:18:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
-      "title": "איבוד נקודות ראשון: 0:0 למכבי תל אביב מול בני סכנין",
-      "summary": "אחרי חמישה ניצחונות מפתיחת העונה בליגת העל, הצהובים מעדו דווקא מול היריבה מהתחתית • רז שלמה רק פגע במשקוף, יוסי אבוקסיס יצא מבלומפילד עם נקודה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:17:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
-      "title": "חי מליגת העל: מכבי תל אביב - בני סכנין 0:0",
-      "summary": "הצהובים חוזרים מהפגרה עם כוונה לשמור על מאזן מושלם גם אחרי המחזור השישי • מוחמד עלי קמארה שנפצע במשחק הקודם נכלל ב-11, בניגוד להליו וארלה • המארחת עם חולצות מיוחדות לזכר קורבנות 7 באוקטובר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21592707",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:17:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21592744",
-      "title": "תיעוד: בבוקר שבת - ויכוח על חניה בכפר סבא כמעט נגמר בירי",
-      "summary": "ויכוח על מקום חניה ציבורי בכפר סבא הסלים בתוך רגעים לאיום בנשק • בתיעוד נראה אחד המעורבים שולף אקדח, טוען אותו ומכוון אותו לעבר ראשו של שכנו • שני חשודים נעצרו, אחד מהם יובא לבית המשפט בבקשה להאריך את מעצרו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21592744",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:17:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/president-herzog-letter-pilot-machhar-medal",
-      "title": "\"תהפוך לחלק מההיסטוריה של עמנו\" | המכתב של הנשיא לקברניט שהציל את המטוס",
-      "summary": "נשיא המדינה שלח מכתב תודה לקברניט סמית מאצ'הר • הזמין אותו לביקור בירושלים לאחר החלמתו | הבשורה: יקבל את 'אות נשיא המדינה לגבורה אזרחית' (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/president-herzog-letter-pilot-machhar-medal",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-10T16:17:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21582120",
-      "title": "חודשיים לפני חנוכה: עשרות אנשים עומדים שעתיים בתור לסופגנייה",
-      "summary": "חנוכה עוד לא נראה באופק, אבל בדוכן ותיק באור יהודה כבר משתרכים תורים שנמשכים לעיתים יותר משעתיים • הסיבה: סופגניות ענקיות שמטוגנות במקום, עמוסות במילויים ונמכרות ב-7-8 שקלים בלבד • כך הפך המקום ללהיט ברשת, ומה כדאי לדעת לפני שמגיעים",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21582120",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T16:16:33.000Z"
     }
   ]
 }
