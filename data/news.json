@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:30:54.457Z",
+  "updatedAt": "2026-10-15T19:45:57.623Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sy2ygirsmg",
+      "title": "אחרי הפרסום ב-ynet: הצעירה שאמה נרצחה תוכל לגדל את אחיה בן ה-5",
+      "summary": "המחלוקת מול משרד הרווחה נפתרה שעות אחרי הפרסום ב-ynet, ובאנצ'י בת ה-22 תתאחד עם אחיה הקטן שהיה עד לרצח אמו בדירתם בבאר שבע. \"אני רוצה להיות עם אחי, כל הזמן\", שיתפה באנצ'י, ששואפת להיות אחראית גם על אחותה בת ה-16",
+      "link": "https://www.ynet.co.il/news/article/sy2ygirsmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T19:42:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkct7ocsge",
+      "title": "בגיל 92: הלך לעולמו אלוף במיל' חיים נדל, מפקד חטיבת הצנחנים לשעבר",
+      "summary": "אלוף במיל' חיים נדל ז\"ל הותיר אחריו אישה ושלושה ילדים. הוא השתתף במרבית מערכות ישראל תחת פיקודם של רמטכ\"לים שונים, קיבל צל\"ש על חלקו בקרב המיתלה - ונפצע בחרמון הסורי. נדל היה הקצין שזיכה מאשמה את יצחק מרדכי מפרשת קו 300. הלווייתו תתקיים מחר בבית העלמין הצבאי בקריית שאול",
+      "link": "https://www.ynet.co.il/news/article/rkct7ocsge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T19:36:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjgq0frofe",
+      "title": "משרד הרווחה נלחם על הישרדות: \"הקיצוץ יפגע אנושות באוכלוסיות הכי חלשות\"",
+      "summary": "בהמשך למיליארד השקלים שכבר קוצצו לטובת רכש מסוקי האפאצ'י, הממשלה תאשר קיצוץ רוחבי של 2.6 מיליארד מכל המשרדים. כ-140 מיליון יקוצצו ממשרד הרווחה - והמשמעות היא פגיעה בנשים בזנות, נפגעות אלימות ואנשים עם מוגבלות. מאות מיליונים כבר קוצצו והמשרד מתקשה לספק את צורכי המלחמה",
+      "link": "https://www.ynet.co.il/news/article/hjgq0frofe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-15T19:35:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87836",
+      "title": "אישה ו-2 פעוטות נפצעו בתאונה בכביש 31 סמוך למחלף מיתר",
+      "summary": "אישה בת 26 נפצעה בינוני ושני פעוטות נפצעו קל הערב (20:48) בתאונת דרכים בין שני כלי רכב בכביש 31 סמוך למחלף מיתר. צוותי מד\"א העניקו טיפול רפואי לפצועה עם חבלות בראש ובבטן ופינו את שלושת הנפגעים לבית החולים סורוקה.",
+      "link": "https://www.kikar.co.il/scoop-news/87836",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T19:35:33.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383957638",
+      "title": "אייפון 18 בדרך למצולות? דיווח: אלפי מכולות טבעו במצר הורמוז",
+      "summary": "לפי דיווחים בכלי תקשורת בעולם הערבי, ספינת מטען מאיחוד האמירויות טבעה לאחר שפגעה לכאורה במוקש ימי. על פי הטענות, הספינה נשאה מכשירי אייפון 18 ובשמים יוקרתיים מדובאי",
+      "link": "https://www.walla.co.il/news/world/383957638",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T19:28:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21637393",
+      "title": "לנצח בחזית השיח: המאבק באנטישמיות עובר דרך הקרב על המילים",
+      "summary": "מאז ה-7 באוקטובר, נחשף שמושגים רבים - בהם \"אפרטהייד\", \"רצח עם\", \"טיהור אתני\" ו\"פשעי מלחמה\" - נחטפו, עברו מניפולציה פוליטית, ושימשו ככלי נשק במאבק על דעת קהל עולמית • כעת משיק הפורום המשפטי הבינלאומי כלי דיגיטלי למאבק בעיוות",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21637393",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T19:19:09.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21637372",
       "title": "\"יש לי חדשות למפיקים של 'נז\"א': הסטודנטים שלנו לא מאמינים להם\"",
@@ -255,6 +309,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T18:01:35.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1377688",
+      "title": "העדות החדשה על העימות עם מרדכי דוד: \"לא יכולנו לצאת מהבניין\" | צפו",
+      "summary": "מרדכי דוד וכעשרה פעילים המזוהים עם עוצמה יהודית נכנסו לאירוע של \"רשת מסרבות\" במטה הרשימה המשותפת בתל אביב. לפי הדיווח, במקום התפתח עימות אלים, הפעילים הורחקו והמשטרה הוזעקה, אך הם שבו למקום",
+      "link": "https://www.maariv.co.il/news/israel/article-1377688",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T17:59:08.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1377688",
@@ -33105,69 +33168,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T19:49:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21593952",
-      "title": "\"היה לי נס\": תאונת הדרכים הקשה של נוי פדלון",
-      "summary": "הזמרת והיוצרת האהובה חוותה רגעי אימה של ממש על הכביש • הרגעים המצמררים מתוך הפוסט שהעלתה היישר מחדר המיון",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21593952",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T19:41:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21593946",
-      "title": "חשד שאחיו פלט כדור: צעיר נפצע אנוש מירי ביבנה",
-      "summary": "תושב יבנה בשנות ה־20 לחייו נפצע באורח קשה מירי בתוך בית בעיר • המשטרה פתחה בחקירה, ובבדיקה ראשונית עלה כי מדובר בנשק המוחזק כחוק בידי בן משפחה • הפצוע פונה לאסותא באשדוד",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21593946",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T19:38:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21593946",
-      "title": "חשד שאחיו פלט כדור: צעיר נפצע מירי ביבנה",
-      "summary": "תושב יבנה בשנות ה־20 לחייו נפצע באורח קשה מירי בתוך בית בעיר • המשטרה פתחה בחקירה, ובבדיקה ראשונית עלה כי מדובר בנשק המוחזק כחוק בידי בן משפחה • הפצוע פונה לאסותא באשדוד",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21593946",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T19:38:35.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-a13248dc44721a1026.htm",
-      "title": "חשד: מאבטח פלט כדור בביתו ביבנה - אחיו בן ה-28 נפצע קשה",
-      "summary": "מהבדיקה הראשונית עולה כי הנשק הוחזק באופן חוקי בידי המאבטח, אחיו של הקורבן - בן 21 • המשטרה חוקרת את נסיבות המקרה",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-a13248dc44721a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-10T19:35:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1ipsdijme",
-      "title": "פעולות החקירה - והאישור בעל פה: מנדלבליט יגיע להעיד במשפט נתניהו",
-      "summary": "7 שנים לאחר ההחלטה להגיש כתב אישום נגד נתניהו, היועמ\"ש לשעבר יעלה לדוכן העדים ויידרש להשיב על טענות ההגנה. במוקד: האם המשטרה חרגה מהאישורים שניתנו לה, עדויות החוקרים והמחלוקת על חוקיות פעולות החקירה",
-      "link": "https://www.ynet.co.il/news/article/h1ipsdijme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T19:31:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375637",
-      "title": "חשד לפליטת כדור ביבנה: מאבטח בן 21 פצע את אחיו - \"נלחמים על חייו\"",
-      "summary": "צעיר בן 21 המחזיק אקדח ברישיון חשוד כי פלט כדור מנשקו בבית משפחתו ביבנה - אחיו נפצע קשה. המשטרה חוקרת את האירוע",
-      "link": "https://www.maariv.co.il/news/israel/article-1375637",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T19:31:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1375637",
-      "title": "חשד לפליטת כדור ביבנה: מאבטח בן 21 פצע את אחיו באורח קשה",
-      "summary": "צעיר בן 21 המחזיק אקדח ברישיון חשוד כי פלט כדור מנשקו בבית משפחתו ביבנה - אחיו נפצע קשה. המשטרה חוקרת את האירוע",
-      "link": "https://www.maariv.co.il/news/israel/article-1375637",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-10T19:31:02.000Z"
     }
   ]
 }
