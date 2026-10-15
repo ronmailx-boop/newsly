@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:30:54.957Z",
+  "updatedAt": "2026-10-15T10:46:02.710Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/openai-saudi-engineer-recording-device-espionage",
+      "title": "נייר טואלט ועזרה מהצ'אט: פרטים חדשים בפרשת המרגל הסעודי ב-OpenAI",
+      "summary": "אחרי הפרסום על מהנדס סעודי שהואשם בריגול, כעת מתבררים פרטים חדשים | כפי שדווח, מהנדס סעודי חשוד בהתקנת מכשיר הקלטה בחדר ישיבות חסוי | שאל צ'אטבוט כיצד לבנות מכשיר ולהפעילו מרחוק | הפרטים המלאים מכתב האישום (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/openai-saudi-engineer-recording-device-espionage",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T10:43:18.000Z"
+    },
+    {
+      "id": "walla:https://dcx.walla.co.il/walla_news_files/elections2026/who-said-it/index.html",
+      "title": "זיכרון גורלי: אין להם מילה, וזה החידון שיוכיח זאת",
+      "summary": "זיכרון גורלי: אין להם מילה, וזה החידון שיוכיח זאת",
+      "link": "https://dcx.walla.co.il/walla_news_files/elections2026/who-said-it/index.html",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T10:41:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1377497",
+      "title": "יעל וילנר תיכנס לתמונה במקום דפנה ברק-ארז: שינוי משמעותי בוועדה למינוי שופטים",
+      "summary": "שופטת העליון, יעל וילנר תהפוך להיות חלק מהוועדה לבחירת שופטים. מי שתוחלף על ידה היא דפנה ברק-ארז. הוועדה לבחירת שופטים כרגע מורכבת מ-9 חברים, משלוש הרשויות במדינה",
+      "link": "https://www.maariv.co.il/news/law/article-1377497",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T10:40:47.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957528",
+      "title": "הלוחם שהגסטפו לא הצליח לעצור: הסוד בן ה-80 נחשף בירושלים",
+      "summary": "הוא ברח מהנאצים, הבריח נשק, צלח את הפירנאים והפך למקלען אוויר. כעת, האלבום הנדיר של מרסל לוי מגיע למשמרת עולם",
+      "link": "https://www.walla.co.il/news/israel/383957528",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T10:33:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tmy1rk",
       "title": "הרצוג ונציג איראני באותו אולם - כך הוא הגיב כשהנשיא החל לנאום | תיעוד נדיר",
@@ -336,6 +372,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T09:45:16.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383957547",
+      "title": "נשיא ארה\"ב לשעבר: \"העם היהודי לקח אדמות מאחרים\"",
+      "summary": "ברק אובמה תקף את ישראל וטען כי היא מנצלת את עליונותה הצבאית כדי לכפות את רצונה על הפלסטינים, ועורר ביקורת חריפה בקרב פרשנים יהודים בארה\"ב: \"מחק 3,000 שנות היסטוריה יהודית\"",
+      "link": "https://www.walla.co.il/news/world/383957547",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T09:44:45.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383957547",
@@ -984,6 +1029,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T08:49:20.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872292",
+      "title": "המחדל הכפול: ישראל מחזקת את חמאס בהון עתק - זו השיטה",
+      "summary": "למרות האזהרות, מחדל ישראלי כפול: בזמן שבשווקים בעזה נהנים ממנגו ב-5 שקלים ומפררו רושה, ארגון הטרור גורף הון ממזומנים ומבסס את שלטונו - זו השיטה",
+      "link": "https://finance.walla.co.il/item/3872292",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T08:47:00.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3872292",
