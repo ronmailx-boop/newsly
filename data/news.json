@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:30:57.820Z",
+  "updatedAt": "2026-10-15T15:45:56.949Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tmygj0",
+      "title": "בן 95 התמוטט ואיבד הכרה בעיר החרדית; פונה בהחייאה לבית חולים",
+      "summary": "גבר קשיש התמוטט ואיבד הכרה ברחוב הרב כהנמן בבני ברק • כוחות ההצלה ביצעו פעולות החייאה מתקדמות במקום • הגבר פונה לבית החולים מעייני הישועה תוך כדי המשך החייאה • הציבור נקרא להרבות בתפילות לרפואתו",
+      "link": "https://www.kikar.co.il/haredim-news/tmygj0",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T15:43:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377654",
+      "title": "בנט תקף את מדיניות ההכלה וטען: \"עדיף את ביבי\"",
+      "summary": "נפתלי בנט טען ב-103fm כי חומרים שנתפסו ברצועת עזה מלמדים שבחמאס העדיפו את נתניהו על פניו. בריאיון תקף את מדיניות ראש הממשלה, שלל ישיבה איתו בממשלה והציג את תוכניותיו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1377654",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-15T15:41:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/peoples/shabbat-observance-digital-detox",
+      "title": "\"לא חווייתי דבר כזה\": הזמר והיוצר חשף מה גרם לו לשמור שבת",
+      "summary": "הזמר והיוצר בר צברי חושף בריאיון מרגש על תהליך ההתחזקות שעובר בחודשים האחרונים • \"לא חוויתי דבר כזה - הרגשתי כאילו מישהו עשה לי מסאז' למוח\" • מההתנתקות מהטלפון בשבת ועד לשמירת שבת מלאה • \"אתה מגיע לבית כנסת, אין לך טלפון, אין לך תיק, אין לך כלום בכיסים - זה מטורף\" (אנשים)",
+      "link": "https://www.kikar.co.il/peoples/shabbat-observance-digital-detox",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-15T15:38:25.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872387",
+      "title": "שוק הדיור: הנתון שלא ראינו 10 שנים - והניגוד המדהים בשכירות",
+      "summary": "למרות זינוק בשכירות לשוכרים חדשים ועלייה קלה באינפלציה ל-1.6%, ירידות במחירי התרבות, התחבורה והדיור בכל המחוזות הובילו להתמתנות כללית",
+      "link": "https://finance.walla.co.il/item/3872387",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T15:30:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1377648",
       "title": "חיזוק יחסי ישראל–קפריסין: הדסה מרחיבה את פעילותה אל מחוץ לישראל",
       "summary": "המרכז הרפואי הדסה חנך עם קבוצת יזמים קפריסאית מרכז רפואי חדש בלימסול ומתכנן בית חולים באזור ניקוסיה, במהלך המעמיק את שיתוף הפעולה בין ישראל לקפריסין ומרחיב את פעילותו של אחד ממרכזי הרפואה המובילים",
@@ -39,6 +75,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-15T15:27:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21635784",
+      "title": "אחרי חודשיים של עליות: מפת ירידות מחירי הדירות ברחבי הארץ",
+      "summary": "מנתוני הלמ\"ס עולה כי מחירי הדירות ירדו ביולי-אוגוסט ב-0.6% • הירידות החדות ביותר נרשמו בצפון, בתל אביב ובמרכז, בעוד שבחיפה דווקא נרשמה עלייה • ברקע: ריבית גבוהה, האטה במכירות וגמישות גדולה יותר של הבנקים מול הקבלנים",
+      "link": "https://www.israelhayom.co.il/business/article/21635784",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:26:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21635782",
+      "title": "ראש הממשלה מסרב להתפטר ואלבניה סוערת: \"זו מהפכה, אין יותר הפגנות שקטות\"",
+      "summary": "המהומות נמשכות יום שלישי ברציפות בבירה אלבניה • המפגינים דורשים את סיום כהונתו של ראש הממשלה אדי רמה בעקבות תנאי הקבלה לאוניברסיטאות ושכר לימוד גבוה • רמה מסרב להתפטר\" \"ממשלות מוחלפות בבחירות דמוקרטיות, לא במהפכה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21635782",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:25:35.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/intel-kiryat-gat-explosion-investigation-findings",
@@ -50,6 +104,42 @@
       "pubDate": "2026-10-15T15:25:20.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21635910",
+      "title": "איתמר בן גביר: \"התחלתי זריקות הרזיה\"",
+      "summary": "השר לביטחון לאומי שיתף על המאבק במשקל, הארוחות הליליות וההמלצה שקיבל מהרופא: \"ב-2:00 בלילה אני אוכל שווארמות. התחלתי רק לפני כמה שבועות - דבר איתי עוד חצי שנה\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21635910",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:24:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21635977",
+      "title": "כמו בסרט פשע: שדד את כוכבי ברצלונה - ונתפס בגלל טעות מטופשת",
+      "summary": "ארסים בלאקו נחשב לעבריין ותיק עם היסטוריה של עשרות מקרי פריצה • למרות הניסיון שלו, התרברבות בשעונים של ז'ואן גארסיה ופאו קובארסי עלתה לו ביוקר",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21635977",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:20:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21635786",
+      "title": "אחרי שנים, גלית גיאת מנסה להתנתק מ\"שמש\": \"לא מעסיק אותי בשיט\"",
+      "summary": "שנים אחרי שהסתיימה, \"שמש\" עדיין משודרת שוב ושוב, אבל גלית גיאת לא מתרגשת מהשידורים החוזרים • למה היא נמנעת מלצפות בפרקים הישנים, ומה ביקשה מהילדים שלה כבר מגיל צעיר • והעבודה האמיתית שהחזיקה לפני הפריצה",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21635786",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:20:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21635887",
+      "title": "לראשונה בתולדותיה: הבשורה החדשה של וואטסאפ",
+      "summary": "עדכון חדש מאפשר להצטרף לשיחות קול ווידאו דרך הדפדפן גם ללא הרשמה לשירות • השירות יישאר מוצפן וללא הגבלת זמן, והתכונה תגיע לכלל המשתתפים בארץ בשבועות הקרובים",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21635887",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:20:22.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377646",
       "title": "עומר אדם על הבמה, בן גביר על המיקרופון - והשוטרים תקועים | בן כספית",
       "summary": "אלפי שוטרים ובני משפחותיהם שילמו מאות שקלים כדי להגיע למופע \"נקסט\", אך כוונת בן גביר לנאום באירוע מעוררת מחאה בקרב חלקם. \"לא שילמנו כסף כדי להגיע לחוג בית או לאסיפת בחירות\", אמרו שוטרים",
@@ -57,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-15T15:17:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21635840",
+      "title": "מידע על פיגוע מתוכנן של חמאס: החשש לקראת הבחירות",
+      "summary": "במערכת הביטחון מקיימים הערכות מצב ונערכים לאפשרות של הסלמה במספר זירות • גורם ביטחוני מסר ל\"היום\" כי יש מידע על כוונת חמאס לבצע פיגוע, אך פרטיו טרם התבררו • החשש המרכזי מול איראן: טעות בהערכת כוונות ישראל שתוביל למהלך התקפי מצידה",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21635840",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-15T15:17:09.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377643",
@@ -32826,42 +32925,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-10T15:46:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkiyzavimg",
-      "title": "אלפים מפגינים נגד ישראל בלונדון וקוראים לשחרר את מרואן ברגותי: \"סוף לרצח העם!\"",
-      "summary": "אלפי בני אדם מוחים בבירת בריטניה נגד ישראל, 3 ימים אחרי יום השנה לציון 7/10. המפגינים מניפים דגלי פלסטין, אחד מהם תועד עם תמונת עלי חמינאי. שלט ענק נפרס בקריאה לשחרור המנהיג-מחבל ברגותי, הפגנה גדולה גם בברלין",
-      "link": "https://www.ynet.co.il/news/article/rkiyzavimg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T15:43:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21592398",
-      "title": "\"תמיר בלאט לא חסר למכבי תל אביב - ים מדר מביא יותר ממנו\"",
-      "summary": "פיני גרשון ניתח ב\"על הבאזר\" את השינוי בקו האחורי של הצהובים, החמיא ללחץ, לחטיפות ולניהול המשחק של ים מדר, התייחס לנתון האסיסטים והסביר מה בשיטה של עודד קטש נשאר זהה גם אחרי עזיבת תמיר בלאט",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21592398",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T15:43:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjetk0psgx",
-      "title": "המהפך של טראמפ, והפרטים החדשים מחקירת הטייס-מחבל | כותרות השבת",
-      "summary": "רוסיה וארה\"ב הגיעו להסכם על קניית סולר ועוררו את זעמו של זלנסקי | דיווח מטריד: \"איראן הצליחה לשקם את מפעלי הטילים\" | החקירה באמירויות חשפה: טייס המשנה העומנאי החליט להיות טייס \"כהשראה מ-11/9\" | טראמפ תקף את זוכת הנובל: \"איש לא יודע מי היא\" | וגם: ההישג הנפלא של רז הרשקו באליפות העולם",
-      "link": "https://www.ynet.co.il/news/article/hjetk0psgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-10T15:43:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21591848",
-      "title": "\"לא מרגיש את הרגליים\": אלמוג בוקר קפא מול הילדים",
-      "summary": "מאחורי החזות המקצועית והמרגיעה מסתתרת טראומה עמוקה: המגיש המוכר מספר על השנייה שבה הוכרז \"צבע אדום\", ואיך אשתו נאלצה לקחת פיקוד ולהציל את המצב",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21591848",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-10T15:36:29.000Z"
     }
   ]
 }
