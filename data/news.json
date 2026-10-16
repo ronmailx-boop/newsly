@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:15:51.744Z",
+  "updatedAt": "2026-10-16T18:31:06.770Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1x59kgnzg",
+      "title": "יש פה עניין עם יהודים שונאי ישראל",
+      "summary": "אין צורך שנשלה את עצמנו שמדובר בתופעה שולית. הרי מדובר בקבוצה משמעותית של מאות, אולי אלפים, לרבים מהם יש נשק, הם מצפצפים על המדינה ועל חיילי צה\"ל. הם עושים בשטחים כרצונם",
+      "link": "https://www.ynet.co.il/news/article/s1x59kgnzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T18:25:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21641754",
+      "title": "הנשיא טראמפ: סעודיה שמחה מתמיכת ישראל נגד החות'ים",
+      "summary": "נשיא ארה\"ב הביע אופטימיות בנוגע לאפשרות שסעודיה תצטרף להסכמי הנורמליזציה, והדגיש את התמיכה שהיא מקבלת מירושלים ומוושינגטון • ברקע: המגעים לסיוע ישראלי לממלכה בהתמודדות עם החות'ים בתיווך אמריקני",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21641754",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T18:16:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21641760",
+      "title": "המסר של נתניהו לבן גביר נחשף: \"לא יהיה שוב השר לביטחון לאומי\"",
+      "summary": "שגריר ישראל בארה\"ב יחיאל לייטר טען בריאיון ל-CNN כי ראש הממשלה מעוניין בממשלת אחדות רחבה אחרי הבחירות. בריאיון התייחס גם לאלימות ביהודה ושומרון, ליחסים עם טראמפ וקרא להפלת המשטר האיראני",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21641760",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T18:15:58.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377974",
       "title": "\"הבוגד הכי גדול בתולדות ישראל\": העימות הסוער בין בנט לאוחנה | צפו",
       "summary": "נפתלי בנט במתקפה חריפה נגד יונתן אוריך במהלך ריאיון בקשת 12: \"להביא את השב\"כ, להכניס אותו לכלא\". אלי אוחנה ניסה לגרום לו לחזור בו, אך בנט התעקש והטיח: \"מי שפועל למען האויב הוא בוגד\"",
@@ -39,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T18:12:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21641665",
+      "title": "חי מהיורוליג: פנאתינייקוס - הפועל תל אביב 15:13",
+      "summary": "מחזור 6: דן אוטורו נכנס בצורה טובה למשחק ומשאיר את האדומים בתמונה מול היוונים, אצלה הכוכבים הספיקו לעלות מהספסל • האם האדומים יעצרו את החבורה הלוהטת בירוק?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21641665",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T18:08:37.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21641665",
@@ -50,9 +86,18 @@
       "pubDate": "2026-10-16T18:08:37.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383957734",
+      "title": "אחרי חמישה ימים בלבד: דוברת הבית הלבן פוטרה מתפקידה",
+      "summary": "“אמרתי לקייטי שלדעתי התייחסו אליה בצורה מאוד לא הוגנת - ואני חושב שהיא לא צריכה את זה״, אמר הנשיא האמריקני רגעים אחדים לפני הדיווח על פיטוריה של קייטי זכריה. “הרבה אנשים רוצים את התפקיד הזה”, הבהיר",
+      "link": "https://www.walla.co.il/news/world/383957734",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T18:08:23.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rkwehkx2fe",
       "title": "אחרי 5 ימים, וסערת \"שקר תואר עורכת הדין\": טראמפ פיטר את דוברת הבית הלבן החדשה",
-      "summary": "",
+      "summary": "קייטי זכריה, שרק ביום שני נכנסה לנעליה הגדולות של קרוליין לוויט, עוררה מיד מבוכה במסיבת עיתונאים שבה הייתה לחוצה ושאותה סיימה בתוך 14 דקות ואחרי 3 שאלות, ובהמשך גם התקשתה להסביר מדוע הוצגה כעורכת דין אף שלא עברה את מבחני הלשכה בקליפורניה. כעת, ואחרי שעברה גם ב\"פוקס ניוז\" השמרנית ריאיון \"קשוח\" - בארה\"ב מדווחים שטראמפ פיטר אותה: \"אולי זה לא בשבילה\"",
       "link": "https://www.ynet.co.il/news/article/rkwehkx2fe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -97,11 +142,20 @@
     {
       "id": "walla:https://www.walla.co.il/news/world/383957731",
       "title": "ישראל מסייעת לסעודיה נגד החות’ים - הסכמי אברהם חוזרים",
-      "summary": "״הסכמי אברהם על הפרק - יותר מתמיד״, אמר הנשיא האמריקני. לדבריו, ״ישראל סייעה מאוד לריאד - והיא שמחה על כך״",
+      "summary": "״הסכמי אברהם על הפרק, יותר מתמיד״, אמר הנשיא האמריקני. לדבריו, ״ישראל סייעה מאוד לריאד - והיא שמחה על כך״",
       "link": "https://www.walla.co.il/news/world/383957731",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-16T17:40:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
+      "title": "תדרוך אסוני וקדנציה קצרצרה: דוברת הבית הלבן פוטרה",
+      "summary": "ימים ספורים לאחר שנכנסה לתפקיד, קייטי זכריה סיימה את תפקידה בעקבות לחץ גובר, בין היתר לאחר הופעת בכורה קצרה במסיבת עיתונאים • ברקע, גם המחלוקת סביב הכשרתה המקצועית ולאחר שהודתה כי לא עברה את מבחני הלשכה, אף שהוצגה כעורכת דין",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T17:30:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
@@ -31323,96 +31377,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T18:31:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21602417",
-      "title": "\"אין לך מקום בקבוצה\": קומיקאי יהודי בלונדון סולק לאחר שאמר שהוא ציוני",
-      "summary": "הארי דינסוויי הורחק מקבוצת כתיבה שבה השתתף במשך חצי שנה, לאחר שהמנהלת ביררה את עמדותיו בנוגע לישראל • הקומיקאי סיפר כי היא אמרה שאמונותיו \"תומכות בטבח של אוכלוסייה שלמה\", ובהמשך בוטל גם ערב ספרותי שארגן • ארגון עורכי הדין למען ישראל שלח מכתב התראה וטען כי ההרחקה עלולה להפר את חוק השוויון הבריטי",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21602417",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:29:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21602478",
-      "title": "\"תוקפים אנשי ימין בתשלום\"? נתניהו נגד עמוד האינסטגרם הפופולרי",
-      "summary": "ראש הממשלה תקף את העמוד המוכר ברשתות - והזהיר מפני תכנים ממומנים ומסרים פוליטיים המוסווים, לדבריו, כדיווחים חדשותיים תמימים • \"אל תתנו לאריזה של 'חדשות' להחליף חשיבה ביקורתית, שימו לב למה שאתם קוראים\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21602478",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:26:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21602478",
-      "title": "\"תוקפים אנשי ימין בתשלום\"? נתניהו נגד עמוד החדשות הפופולרי",
-      "summary": "ראש הממשלה תקף את העמוד המוכר ברשתות - והזהיר מפני תכנים ממומנים ומסרים פוליטיים המוסווים, לדבריו, כדיווחים חדשותיים תמימים • \"אל תתנו לאריזה של 'חדשות' להחליף חשיבה ביקורתית, שימו לב למה שאתם קוראים\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21602478",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:26:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21602447",
-      "title": "עם מסר מסתורי: יעל שלביה סיכמה את החופשה עם לאנס סטרול",
-      "summary": "אחרי החופשה בתאילנד והביקור בסינגפור לצד בן זוגה, לאנס סטרול, הדוגמנית הישראלית שיתפה תמונות מסיכום הנסיעה • ומהתיעוד מבר הרופטופ אי אפשר היה להתעלם מהמסר שמחכה בכניסה",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21602447",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:26:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21602670",
-      "title": "למרות שטען שפעל לבדו: שני טייסים נוספים בפליי דובאי נעצרו",
-      "summary": "התפתחות בחקירת ניסיון הפיגוע בטיסה לישראל: שני טייסי משנה מהמלדיביים, שהכירו את החשוד המאם אל־המאמי ועבדו עמו באותה חברה, נעצרו באיחוד האמירויות, לפי דיווחים בתקשורת המקומית • השניים הפעילו בעבר טיסות לנתב\"ג, ועל פי הדיווחים אף התגוררו בבניין שבו התגורר החשוד • בשלב זה לא ברור מה מיוחס להם והאם יש להם קשר לתכנון הפיגוע",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21602670",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:25:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/illegal-residents-arrests-bnei-brak",
-      "title": "פשיטה נרחבת בבני ברק: 17 שב\"חים נעצרו ברחבי העיר | צפו",
-      "summary": "במסגרת מבצע מיוחד אותרו ברחבי העיר בני ברק 17 שוהים בלתי חוקיים, אשר נעצרו והועברו להמשך טיפול וחקירה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/illegal-residents-arrests-bnei-brak",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T18:20:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmr8u6",
-      "title": "האולטימטום של יו\"ר 'יהדות התורה' ח\"כ יעקב אשר: לא נכנס ולא נתמוך בממשלה שלא תעביר את חוק הגיוס",
-      "summary": "בראיון בכורה מאז כניסתו לתפקיד, ח\"כ יעקב אשר מציב קו אדום למערכת הפוליטית ומצהיר באולפן 'כיכר השבת': \"לא ניכנס ולא נתמוך בשום ממשלה שלא תעביר בפועל את חוק הגיוס – נקודה\" • באשר לפרטי חוק הגיוס אומר ח\"כ אשר: \"מי שיושב ולומד לא אמור לקבל סנקציות, זו העמדה שלנו\" | הריאיון המלא, מחר (אקטואלי)",
-      "link": "https://www.kikar.co.il/haredim-news/tmr8u6",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T18:18:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1xzsbyomx",
-      "title": "ברקים ליד המטוסים, זרימה בנחלי הרי אילת - ומתי צפוי פרק הגשם המשמעותי הבא?",
-      "summary": "7 מ\"מ ירדו בנמל התעופה רמון, גם בהרי אילת ירדו גשמים זה היום השני ברצף - ותועדה זרימה בנחל גשרון. מחר ייתכן גשם מקומי בצפון ובחוף, לקראת סופ\"ש כבר עשויים להיות גשמים משמעותיים. התחזית המלאה",
-      "link": "https://www.ynet.co.il/news/article/h1xzsbyomx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T18:17:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21602532",
-      "title": "לסגור את ברז אישורי התושבות לפלסטינים בנגב",
-      "summary": "מעצר הצעירים שתכננו להקים גדוד צבאי בהשראת גדודי יו\"ש הוא המחשה נוספת לאיום האסטרטגי שעליו התריע מבקר המדינה באפריל השנה • שב\"כ כבר הזהיר: 1 מכל 5 בדואים בנגב בעל זיקה פלסטינית",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21602532",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:17:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21602288",
-      "title": "כוכב \"חתונמי\" נקלע לתאונה ועימות בכביש: \"כמעט הרגו אותי\"",
-      "summary": "שקד ביטון מ\"חתונה ממבט ראשון\" תיאר כיצד נסיעה שיגרתית בכביש הפכה לאירוע מסוכן: תאונה, עימות וצעקות שהצריכו התערבות משטרה. ויש לו גם מסר",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21602288",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T18:16:54.000Z"
     }
   ]
 }
