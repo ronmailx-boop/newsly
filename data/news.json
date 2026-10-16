@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:15:49.062Z",
+  "updatedAt": "2026-10-16T23:30:50.007Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjaonqx3fl",
+      "title": "רוכב אופנוע נהרג בתאונה עצמית בהרצליה",
+      "summary": "צעיר כבן 25 אותר לצד הדרך ברחוב השונית בעיר כשהוא מחוסר הכרה וסובל מחבלה קשה בראשו. צוות מד\"א קבע את מותו במקום",
+      "link": "https://www.ynet.co.il/news/article/rjaonqx3fl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T23:06:53.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21642195",
       "title": "העיתונאי שלומי אלדר חשף: \"אושפזתי להסרת גידול\"",
       "summary": "העיתונאי והיוצר הדוקומנטרי סיפר כי עבר הליך רפואי בבית החולים אסותא באשדוד • אלדר שיבח את הצוות ואת תנאי האשפוז: \"אם זה לא היה בית חולים, זה יכול היה להיות מלון חמישה כוכבים\" • לאחרונה עמד יחד עם רות יובל מאחורי תחקיר שעסק באזהרה שקיבל לכאורה נתניהו לפני 7 באוקטובר",
@@ -39,6 +48,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T22:31:38.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-9d56950b49641a1026.htm",
+      "title": "צעיר כבן 25 נהרג בתאונת אופנוע בהרצליה",
+      "summary": "רוכב האופנוע נמצא ברחוב השונית בעיר כשהוא סובל מחבלה קשה בראשו • פרמדיק מד\"א: \"פציעותיו היו משמעותיות ולא נותר לנו אלא לקבוע את מותו\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-9d56950b49641a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-16T22:13:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21642167",
@@ -30972,15 +30990,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T23:36:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21603585",
-      "title": "אקזיט ב-7 מיליארד דולר? החברה הישראלית שאמזון צפויה לרכוש",
-      "summary": "ענקית הטכנולוגיה מנהלת מגעים מתקדמים לרכישת חברת הבינה המלאכותית מישראל • העסקה מתגבשת חודש בלבד לאחר שאנתרופיק נסוגה מהליך הרכישה, ונועדה להפחית את התלות בשבבי אנבידיה • כך הפכה חברה שהוקמה רק לפני שלוש שנים ליעד הרכישה החם של התעשייה",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21603585",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T23:25:35.000Z"
     }
   ]
 }
