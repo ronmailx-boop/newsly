@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:30:57.171Z",
+  "updatedAt": "2026-10-16T05:45:47.021Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/transport-news/tesla-roadster-flying-car-spacex-thrusters",
+      "title": "ביצועים מטורפים: אילון מאסק חשף את המכונית המעופפת של טסלה | צפו",
+      "summary": "באירוע חשיפה מרהיב הציג אילון מאסק את הדור הבא של הרודסטר, שמאיצה מ-0 ל-97 קמ\"ש ב-0.8 שניות בלבד ומצוידת במנועי דחף של SpaceX המאפשרים לה לבצע תמרונים באוויר. בעוד ששאלת חוקיות הרכב נותרה פתוחה וייצורו צפוי רק ב-2028, נראה כי המטרה האמיתית של המהלך השיווקי היא להפגין עליונות טכנולוגית, למשוך משקיעים ולגייס טאלנטים מובילים לחברה (רכב)",
+      "link": "https://www.kikar.co.il/transport-news/tesla-roadster-flying-car-spacex-thrusters",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T05:35:45.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872427",
+      "title": "החברה הישראלית שנמכרה ב-6.3 מיליארד דולר",
+      "summary": "חברת אבטחת הסייבר פרופפוינט תרכוש את חברת אבטחת המידע הישראלית ורוניס בעסקת ענק",
+      "link": "https://finance.walla.co.il/item/3872427",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T05:23:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21638526",
+      "title": "סערה במכבי נתניה: כוכב הקבוצה הושעה מהמשחק הקרוב",
+      "summary": "היהלומים הודיעו כי מאור לוי יעמוד בפני ועדת משמעת, ועד אז לא יהיה חלק מפעילות הקבוצה • הוא לא יתאמן ויישאר מחוץ לסגל של רוני לוי מול עירוני קריית שמונה",
+      "link": "https://www.israelhayom.co.il/sport/article/21638526",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T05:20:17.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-netanyahu-iran-zelenskyy-newsmax-interview",
       "title": "טראמפ: \"ביקשו ממני להתערב בבחירות. פוליטית, לא סומך על נתניהו\"",
@@ -885,6 +912,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T21:14:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383957036",
+      "title": "האנושות תוכחד עד 2100 - בגלל אחד משני הדברים האלה",
+      "summary": "ועדת מומחים בינלאומית זיהתה 17 איומים קטסטרופליים על בריאות האנושות עד שנת 2100. שניים מהם - מלחמה גרעינית ושימוש זדוני בבינה מלאכותית - עלולים להביא להכחדת המין האנושי",
+      "link": "https://www.walla.co.il/news/donotmiss/383957036",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T21:02:18.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/donotmiss/383957036",
@@ -14772,6 +14808,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T05:32:14.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872056",
+      "title": "\"הוציא תסכול\": התביעה שמסעירה את עולם הכדורגל",
+      "summary": "בתוכנית \"לא לפרסום\" יצא נמרוד קוסטיקה להגנת קובי רפואה בעקבות הסכסוך עם שחקנו לשעבר: \"קובי יכול לצעוק, לרדות, לשאוג, בחיים הוא לא קילל שחקן\"",
+      "link": "https://sports.walla.co.il/item/3872056",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-14T05:30:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1376965",
@@ -33267,114 +33312,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T05:48:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21594793",
-      "title": "פלא הנדסי בן 2,000 שנה נחשף מתחת לקיבוץ | צפו",
-      "summary": "בחפירות של רשות העתיקות מתחת לרמת רחל, נחשף קטע באורך 300 מטרים מאמת המים התחתונה, שהובילה מים מבריכות שלמה עד להר הבית • המיזם, שפעל בכוח הכבידה ושימש את העיר עד לפני כמאה שנה, ישולב בכניסה לשכונה חדשה שיוזמת רשות מקרקעי ישראל • מנהלי החפירה: \"התכנון היה כה מדויק שהמים ירדו במטר אחד בלבד בכל קילומטר\" • שר המורשת: \"הקמת האמה מספרת על הנהגה שידעה לחשוב קדימה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21594793",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T05:44:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/child-mountain-climbing-controversy",
-      "title": "הילד האמיץ בעולם? ההרפתקה שהזעיקה את שירותי הרווחה",
-      "summary": "בגיל שבע בלבד, כשהוא תלוי אלפי מטרים מעל הקרקע, השלים ילד אמריקני טיפוס על אחד המצוקים המפורסמים בעולם - אלא שההישג יוצא הדופן של הילד הפך במהרה לסערה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/child-mountain-climbing-controversy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T05:43:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1ptysdime",
-      "title": "\"גוף אווירי חריג\": החשד - לשמי ישראל חדר רחפן מדגם שלא מוכר לצה\"ל | תיעוד",
-      "summary": "בצה\"ל עדיין לא יודעים להגיד מהו אותו עצם שהביא להקפצת כוחות ברחבי הגזרה וטרם אותר. לפי שעה אין הנחיות מיוחדות לתושבים. יו\"ר קו העימות פנה לצה\"ל: \"ערים לסימני השאלה, רוצים לקבל תחקיר מלא, ברור וחד-משמעי\". התיעוד, בפרסום ראשון: טס בשמי ישראל - ונעלם",
-      "link": "https://www.ynet.co.il/news/article/r1ptysdime",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T05:42:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1ptysdime",
-      "title": "טס בשמי ישראל ונעלם: תיעוד העצם החשוד שחדר מלבנון",
-      "summary": "בצה\"ל עדיין לא יודעים להגיד מהו אותו עצם שהביא להקפצת כוחות ברחבי הגזרה וטרם אותר. לפי שעה אין הנחיות מיוחדות לתושבים",
-      "link": "https://www.ynet.co.il/news/article/r1ptysdime",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T05:42:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmq7av",
-      "title": "\"וינטר צלל מתחת לאחוז החסימה והחל לתקוף את נתניהו והחרדים\" | ישי כהן",
-      "summary": "פרשן 'כיכר השבת', ישי כהן, התראיין לתוכנית הבוקר של 'קשת 12' והתייחס להתבטאות של עופר וינטר \"שנתניהו יקפוץ לי\" לצד המתקפות על החרדים והדרישה לחוק גיוס כתנאי להקמת הממשלה | צפו בפרשנות המלאה (פוליטי)",
-      "link": "https://www.kikar.co.il/haredim-news/tmq7av",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T05:41:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/eli-cohen-burial-site-syrian-officer-reveals",
-      "title": "עם השעון על היד: איש המודיעין חשף איפה קבור הגיבור אלי כהן",
-      "summary": "סעיד ג'אוויש, איש המודיעין הסורי שחשף את שידוריו של \"האיש שלנו בדמשק\", חושף בריאיון דרמטי פרטים חדשים על הדיון הלילי הסודי לפני ההוצאה להורג, המיקום המדויק של הגופה, התעלומה סביב שעון היד - והמגעים החשאיים להחזרת המסמכים לישראל (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/eli-cohen-burial-site-syrian-officer-reveals",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T05:41:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/ben-gvir-prison-terrorists-confrontation",
-      "title": "בן גביר חשף תיעוד ממפגש פנים אל פנים עם חוליית המחבלים שניסתה להתנקש בחייו | צפו",
-      "summary": "השר לביטחון לאומי פגש בכלא את חברי החוליה שתכננה לפגוע בו ובמשפחתו • \"נפלת על השר הלא נכון, אני לא מפחד\" | התיעוד המלא (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/ben-gvir-prison-terrorists-confrontation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T05:36:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/ben-gvir-prison-terrorists-confrontation",
-      "title": "בן גביר חשף תיעוד ממפגש פנים אל פנים עם חוליית המחבלים שניסתה להתנשק בחייו | צפו",
-      "summary": "השר לביטחון לאומי פגש בכלא את חברי החוליה שתכננה לפגוע בו ובמשפחתו • \"נפלת על השר הלא נכון, אני לא מפחד\" | התיעוד המלא (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/ben-gvir-prison-terrorists-confrontation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T05:36:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1375715",
-      "title": "רוב העולם סובל מזה - ונשים מרגישות יותר את ההשפעות: \"אין לנו מספיק שעות\"",
-      "summary": "דוח חדש חושף כי אחד מכל שישה מבוגרים סובל מעייפות מתמשכת, גם אחרי מנוחה. מומחים מסבירים אילו הרגלים עלולים להחמיר את התשישות, מה יכול להחזיר את האנרגיה ומתי העייפות מחייבת בירור רפואי",
-      "link": "https://www.maariv.co.il/news/health/article-1375715",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T05:36:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21594654",
-      "title": "ליאור שליין: \"אין דרך שאתה תצא טוב מזה\"",
-      "summary": "מחמאה של בן בן ברוך לעינב גלילי הפכה לוויכוח על נשים בסטנדאפ. כשהמראיין תהה אם יש פחות נשים מצחיקות מגברים, שליין מיהר לעצור אותו ולהסביר למה הוא ממש לא מסכים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21594654",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T05:35:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21594688",
-      "title": "הקרב על התודעה: הנואשות לתהילה מחודשת הצילה את \"דה וויס\"",
-      "summary": "חבורת מפורסמים לשעבר מסתערת על המסך בקרב נואש על התודעה • עומס האגו של המתחרים חילץ את התוכנית מהקבר",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21594688",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T05:34:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21594726",
-      "title": "בית ההשקעות שמוכן לוותר על כמעט 60 מיליון שקלים מהפנסיה שלכם",
-      "summary": "איש העסקים יפרסם הצעת רכש לחברת אלרוב במחיר נמוך ב־20% מההון העצמי של החברה - וציין כי בית ההשקעות מור צפוי להיענות להצעה • המשמעות: פער של עשרות מיליוני ש' ביחס להון העצמי • בשוק ההון נשקלת פנייה לבית המשפט",
-      "link": "https://www.israelhayom.co.il/business/article/21594726",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T05:31:00.000Z"
     }
   ]
 }
