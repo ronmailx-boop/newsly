@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:45:48.346Z",
+  "updatedAt": "2026-10-16T10:01:11.660Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkmursj2me",
+      "title": "התעלומה - והקשר למאפיה: הנרצח בחבית זוהה",
+      "summary": "לפני 4 שנים, בעקבות ירידת מפלס אגם מיד שליד לאס וגאס, אותרה חבית חלודה - ובה שרידי גבר אמריקני שנורה בראשו. כעת הוא זוהה כתושב ארקנסו, שנראה לאחרונה לפני יותר מ-40 שנה - ומשפחתו מעולם לא דיווחה על היעדרותו. פענוח עדיין אין, מומחה סבור: יש \"סימנים אופייניים\" לחיסול של המאפיה",
+      "link": "https://www.ynet.co.il/news/article/rkmursj2me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T09:58:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87904",
+      "title": "הולך רגל בן 40 נפגע קשה מרכב בנתניה",
+      "summary": "הולך רגל כבן 40 נפגע קשה מרכב ברחוב הרצל בנתניה. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני בזירה לאחר שנחבל בראשו, והוא פונה לבית החולים לניאדו במצב קשה.",
+      "link": "https://www.kikar.co.il/scoop-news/87904",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T09:53:15.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87903",
+      "title": "חשוד נעצר בחשד להשלכת רימון הלם באופקים",
+      "summary": "במהלך הלילה התקבל דיווח על השלכת רימון הלם באופקים, ללא נפגעים. שוטרי תחנת אופקים הגיעו לזירה והחלו בפעולות חקירה ובאיסוף ממצאים. לפני זמן קצר נעצר חשוד בן 18, תושב העיר, בחשד למעורבות באירוע.",
+      "link": "https://www.kikar.co.il/scoop-news/87903",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T09:53:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377836",
+      "title": "\"כל אזרח צריך לחשוש ממשטרה כזאת\": ששי גז במתקפה",
+      "summary": "עו\"ד ששי גז מנתח את עדות היועמ\"ש לשעבר במשפט נתניהו, מותח ביקורת חריפה על תרגילי החקירה של המשטרה ומסביר מדוע החשיפות עשויות לסייע להגנה בזירה הציבורית, אך פחות בבית המשפט",
+      "link": "https://www.maariv.co.il/news/politics/article-1377836",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T09:48:51.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/london-teacher-tells-jewish-student-jews-responsib",
       "title": "מורה האשימה ילד בן 9: \"היהודים אשמים בטבח ה-7 באוקטובר\"",
@@ -453,6 +489,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T08:09:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377826",
+      "title": "סעודיה שפכה מיליארדים על נשק - והחות'ים מצאו את נקודת התורפה",
+      "summary": "סעודיה שופכת עשרות מיליארדי דולרים על צבא מתקדם, אך מתקשה להתמודד עם הכטב\"מים הזולים של החות'ים. מומחים חושפים את הכשלים המבניים והטכנולוגיים, ובצל סירוב טראמפ לסייע - ריאד מחפשת פתרונות חדשים",
+      "link": "https://www.maariv.co.il/news/world/article-1377826",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T08:08:09.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377826",
@@ -32547,159 +32592,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-11T10:01:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21597399",
-      "title": "תשובת האופוזיציה לליכוד: ינסו להביא עריקים מגוש הימין",
-      "summary": "בעקבות הדיווחים על ניסיונות הליכוד לגייס עריקים משורותיהם, באופוזיציה לא מסתפקים במגננה ומתכננים מהלך נגדי לחילוץ חברי כנסת מימין • במקביל, מקודמת תוכנית להשתלטות על תפקיד יו\"ר הכנסת, כשהשם המרכזי שעולה הוא איתן גינזבורג • וגם: המתיחות סביב רע\"מ בעקבות התבטאות חוג'יראת על חמאס, וההסכם עם איזנקוט שבישראל ביתנו מקפידים לשמור על ההסכם שחתמו באופוזיציה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21597399",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:59:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "title": "טרגדיה נוראית ומחרידה: פלט כדור מאקדח האבטחה - והרג את אחיו הגדול",
-      "summary": "צעיר בן 28 נפצע אנושות מירי בביתו ביבנה ונפטר בבית החולים • החשד: אחיו בן 21, מאבטח בעל נשק חוקי, פלט כדור בשוגג | האח נעצר ונחקר (חדשות)",
-      "link": "https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:58:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "title": "טרגדיה נוראית: פלט כדור מאקדח האבטחה – והרג את אחיו הגדול",
-      "summary": "צעיר בן 28 נפצע אנושות מירי בביתו ביבנה ונפטר בבית החולים • החשד: אחיו בן 21, מאבטח בעל נשק חוקי, פלט כדור בשוגג | האח נעצר ונחקר (חדשות)",
-      "link": "https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:58:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "title": "טרגדיה קשה ביבנה: צעיר בן 28 נהרג מירי שפגע בו בביתו",
-      "summary": "צעיר בן 28 נפצע אנושות מירי בביתו ביבנה ונפטר בבית החולים • החשד: אחיו בן 21, מאבטח בעל נשק חוקי, פלט כדור בשוגג | האח נעצר ונחקר (חדשות)",
-      "link": "https://www.kikar.co.il/news/yavne-shooting-tragedy-brother-security-guard",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:58:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87038",
-      "title": "מטוסי קרב ישראלים פעילים בשמי ביירות, אלבקאע ודרום לבנון",
-      "summary": "מטוסי קרב ישראלים פעילים בשעה זו בשמי ביירות, אזור אלבקאע ודרום לבנון, כך על פי דיווחים מלבנון.",
-      "link": "https://www.kikar.co.il/scoop-news/87038",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:58:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21597338",
-      "title": "קייטי פרי עלתה לבמה עם טאץ' ישראלי קטן",
-      "summary": "קייטי פרי הגיעה לנאפה עם לוק כחול בולט, אבל דווקא אחד הפרטים הקטנים בו לקח את הסיפור לכיוון ישראלי מפתיע",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21597338",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:57:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21597378",
-      "title": "אניה בוקשטיין זועמת: ״מה נסגר?״",
-      "summary": "היא בדרך כלל משתפת רגעים מעולם המוזיקה והמשחק, אבל הפעם אניה בוקשטיין החליטה לעסוק בבעיה יומיומית שמטריפה את כולם • קראו את הביקורת הנוקבת שלה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21597378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:56:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375867",
-      "title": "חיל הרפואה של צה\"ל הדהים את צבא ארה\"ב - שביקש ללמוד את המודלים",
-      "summary": "נתוני צה\"ל חושפים ירידה של יותר מ-50% בשיעור התמותה בקרב נפגעי לחימה, לצד קיצור זמן ההגעה לטיפול מתקדם לארבע דקות. כעת דוח של צבא ארה\"ב קורא ללמוד מהשיטות הישראליות לקראת מלחמות עתידיות",
-      "link": "https://www.maariv.co.il/news/military/article-1375867",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:56:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375867",
-      "title": "האמריקנים הופתעו מהנתונים: כך צה\"ל מציל חיי לוחמים",
-      "summary": "נתוני צה\"ל חושפים ירידה של יותר מ-50% בשיעור התמותה בקרב נפגעי לחימה, לצד קיצור זמן ההגעה לטיפול מתקדם לארבע דקות. כעת דוח של צבא ארה\"ב קורא ללמוד מהשיטות הישראליות לקראת מלחמות עתידיות",
-      "link": "https://www.maariv.co.il/news/military/article-1375867",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:56:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-rally-supporters-tennessee",
-      "title": "\"אפילו בתומכים שלו הוא מזלזל\": האמירה החריגה של טראמפ שמעוררת סערה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ התבטא בשבת באופן חריג במהלך עצרת בחירות שקיים במדינת טנסי | בהמשך ניסה להבהיר את דבריו, הגדיר את עמדותיו כ\"שכל ישר\" והתייחס לבחירות האמצע ולמועמדים הרפובליקנים שאותם בא לחזק (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/trump-rally-supporters-tennessee",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:54:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjvjkb00jfg",
-      "title": "נתניהו מסתבך בגרסאות סותרות: נחשפים מסמכים נוספים ש\"עברו טיפול\"",
-      "summary": "\"המענה המלא\" בפברואר - מול \"החלק הקטן\" באוקטובר: נתניהו טען שהציג בפני המבקר את גרסתו המלאה למה שהוביל לדעתו ל-7/10, אך אחרי סדרת התחקירים שפורסמו ב\"7 ימים\" הוא לפתע מתנער מהצהרותיו. מדוח מיוחד של שב\"כ שנתניהו עשה בו שימוש כדי להוכיח את \"חפותו\" עולה שהושמטו פרטים שאמורים להרעיד את לשכתו, חודשים לפני הטבח. \"היו מי שהחליטו לנהל שתי מלחמות מקבילות\", אמר גורם צבאי בכיר במיל', \"אחת מהן כלפי פנים\"",
-      "link": "https://www.ynet.co.il/news/article/hjvjkb00jfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T09:54:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21597207",
-      "title": "אתיופיה: המורדים והצבא האריתראי מוכים ונסוגים",
-      "summary": "דיווחים במדינה האפריקנית על הגעה של כוחות הצבא הפדרלי סמוך לגבול האריתראי • אסמרה ביקשה מהאו\"ם להתערב ולמנוע \"תוקפנות אתיופית\" • אתמול נפלה העיר אדיגראט לידי כוחותיה של אדיס אבבה והם מתקדמים לעבר מעוז המורדים התיגראים האחרון בעיר אקסום",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21597207",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:53:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1375864",
-      "title": "אחרי עדות מנדלבליט על התרגיל: ניר חפץ המום - \"מבין עכשיו למה הוא שתק\"",
-      "summary": "עד המדינה מגיב לעדות היועמ״ש לשעבר, שאמר כי התרגיל שנעשה בעניינו היה \"פסול ולא נכון\" וכי הוא עצמו מנע את הבירור: \"איך 8 שנים אחרי איש לא חקר את המעורבים? שערורייה\"",
-      "link": "https://www.maariv.co.il/news/law/article-1375864",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:47:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1375864",
-      "title": "אחרי עדות מנדלבליט על התרגיל: ניר חפץ מטיל פצצה - \"מבין עכשיו למה הוא שתק\"",
-      "summary": "עד המדינה מגיב לעדות היועמ״ש לשעבר, שאמר כי התרגיל שנעשה בעניינו היה \"פסול ולא נכון\" וכי הוא עצמו מנע את הבירור: \"איך 8 שנים אחרי איש לא חקר את המעורבים? שערורייה\"",
-      "link": "https://www.maariv.co.il/news/law/article-1375864",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:47:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21597149",
-      "title": "עדן הראל בסרטון: עודד לא סומך עליי",
-      "summary": "מגישת ערוץ 14 העלתה סרטון שבחן את האמון שנותן בה בעלה ואבי ילדיה, עודד מנשה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21597149",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:47:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21597220",
-      "title": "אחרי 14 שנות נישואים: כך רמי קלינשטיין הצליח לרגש את אשתו",
-      "summary": "מה קורה כשאשתו של אחד הזמרים האהובים בישראל פותחת רדיו בדרך לעבודה? • התיעוד המחויך של אלכס קלינשטיין שמגלה איך זה מרגיש כשבעלך שר לך מעל גלי האתר",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21597220",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:46:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/rav-chaim-brisker-letter-breslav-yeshiva-uman",
-      "title": "תגלית מרעישה: מדוע מרן הגר\"ח מבריסק כתב המלצה לישיבת ברסלב באומן",
-      "summary": "מכתב נדיר מלפני 115 שנה נחשף לראשונה • רבן של כל בני הגולה יצא בהתפעלות מעבודת התפילה של ראשי הישיבה של ברסלב בעיירה אומן ואף כתב להם מכתב תמיכה | גילוי מפתיע בספר חדש (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/rav-chaim-brisker-letter-breslav-yeshiva-uman",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:46:01.000Z"
     }
   ]
 }
