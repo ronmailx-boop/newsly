@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:01:14.472Z",
+  "updatedAt": "2026-10-16T09:15:39.112Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87896",
+      "title": "פצוע קשה לכוד בתאונה בין שתי משאיות בכביש 6",
+      "summary": "תאונת דרכים בין שתי משאיות אירעה הבוקר (10:07) בכביש 6 באזור ממחלף שורק דרומה. פצוע קשה לכוד בזירה מקבל טיפול רפואי מצוותי מד\"א. מסוק חילוץ נחת במקום.",
+      "link": "https://www.kikar.co.il/scoop-news/87896",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T09:03:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87895",
+      "title": "רוכב אופנוע בן 60 נהרג בתאונה סמוך למושב זכריה",
+      "summary": "רוכב אופנוע כבן 60 נהרג בתאונת דרכים סמוך למושב זכריה. צוותי איחוד הצלה מצאו אותו ללא דופק וללא נשימה, ביצעו החייאה ממושכת אך נאלצו לקבוע את מותו עקב פציעות קשות. ד\"ר ברוך בצופן והחובשים דודי וורטהימר ומנחם ויזמן השתתפו בפעולות ההצלה.",
+      "link": "https://www.kikar.co.il/scoop-news/87895",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T09:03:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87894",
+      "title": "גבר בן 40 במצב קשה פונה במסוק מתאונה בכביש 6",
+      "summary": "צוותי מד\"א מעניקים טיפול ומפנים במסוק לבית החולים איכילוב גבר כבן 40 במצב קשה עם פגיעה רב מערכתית. התאונה אירעה בכביש 6 ממחלף שורק לכיוון דרום.",
+      "link": "https://www.kikar.co.il/scoop-news/87894",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T09:03:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1377842",
+      "title": "סגן ראש השב\"כ לשעבר נגד נתניהו: \"הוא השתלח פה ברמה שהייתה בגידה\" | האזינו",
+      "summary": "סגן ראש השב\"כ לשעבר ישראל חסון מספר כי יצא מתחקיר הטבח ללא תשובות, חושף את האזהרות על חמאס לפני 7 באוקטובר ותוקף את העימות בין נתניהו לבכירי מערכת הביטחון: \"כל כך עצוב שהגענו למצב הזה\"",
+      "link": "https://www.maariv.co.il/news/military/article-1377842",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T09:03:13.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/liberman-eisenkot-netanyahu-coalition-attack",
       "title": "\"בני גנץ 2\": ליברמן מאשים את איזנקוט בתכנון להקים ממשלה עם נתניהו והחרדים",
       "summary": "יו\"ר ישראל ביתנו פרסם פוסט חריף נגד שותפו לגוש • \"שותה קולות בתוך הגוש כדי להגיע לעמדת כוח מול הליכוד\" | \"הפטור מגיוס לא יבוטל - מה שהיה הוא שיהיה\" (פוליטי מדיני)",
@@ -48,6 +84,51 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-16T08:53:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383957696",
+      "title": "ליברמן נגד איזנקוט: \"גנץ 2. מתכנן להקים ממשלה עם נתניהו\"",
+      "summary": "יו\"ר ישראל ביתנו האשים את איזנקוט בניסיון למשוך קולות ממפלגות גוש השינוי: \"אני רואה כאן הרבה יותר אמביציה אישית מרצון אמיתי לתקן\"",
+      "link": "https://www.walla.co.il/news/politics/383957696",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T08:52:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21639498",
+      "title": "ליברמן במתקפה על איזנקוט: \"חותר להקמת ממשלה עם נתניהו\"",
+      "summary": "יו\"ר ישראל ביתנו האשים את הרמטכ\"ל לשעבר כי קמפיין \"המפלגה הגדולה\" נועד לפגוע בשותפיו לגוש ולהכין את הקרקע לממשלה עם הליכוד • לטענתו, איזנקוט עשוי להשתמש באפשרות להקמת ממשלת מיעוט כדי לדרוש רוטציה עם נתניהו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21639498",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:45:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21639432",
+      "title": "הדסה בדרך לאירופה: מרכז רפואי חדש ביעד הנופש האהוב",
+      "summary": "מרכז רפואי נחנך מעבר לים בשיתוף יזמים מקומיים ומציע בדיקות דימות, מרפאות מומחים ושיקום • במקביל, מתקדם הקמת בית חולים נוסף • הדסה מגדירים את המהלך כראשון מסוגו במערכת הבריאות הישראלי",
+      "link": "https://www.israelhayom.co.il/health/article/21639432",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:44:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21639461",
+      "title": "חנן בן ארי שר את השיר של בתו בהופעה: \"זה מתנה מאלוהים\"",
+      "summary": "הזמר האהוב עלה לבמה וביצע את השיר המקורי של בתו, שיר ציון בן ארי • לאחר מכן פנה לקהל והתייחס לפריצה הוויראלית שלה בטיקטוק ולדרך העצמאית שבה היא בוחרת לפעול • \"היא תבחר מתי לצאת לאור ואיך\" • צפו",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21639461",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:43:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21585974",
+      "title": "מעיין אדם ילדה והתארסה בחדר הלידה: \"היה כל כך שווה לחכות\"",
+      "summary": "אחרי שתי בנות, בן נולד למעיין אדם, שקיבלה גם טבעת והצעת נישואים מהאב יובל צלנר. עוד שאלה מסקרנת: מהו השם שנבחר לתינוק, שאימו רמזה כי הוא יהיה הראשון בארץ שייקרא ככה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21585974",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:35:46.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87891",
@@ -86,6 +167,24 @@
       "pubDate": "2026-10-16T08:34:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21639453",
+      "title": "בכיר סורי מגיב לנתניהו: \"ישראל חימשה מיליציה שתחולל כאוס\"",
+      "summary": "גורם בדמשק הגיב לאמירתו של ראש הממשלה כי לחץ על נשיא סוריה אחמד א-שרע לעצור את המתקפה על הדרוזים • \"אנחנו עדים לניסיונות נוספים של ישראל לערער את היציבות במחוז א-סווידאא\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21639453",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:33:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377831",
+      "title": "סוקר מעריב קובע: \"במחנה הקואליציה יש מנהיג אחד בלתי מעורער\" | האזינו",
+      "summary": "11 ימים לבחירות, הסוקר מנחם לזר מזהה פער מפתיע בין הגושים: בקואליציה אופטימיים יותר, אך באופוזיציה יש מוטיבציה גבוהה יותר להצביע. וגם: הדרמה של וינטר, הנדל וזליכה סביב אחוז החסימה",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1377831",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T08:32:40.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377831",
       "title": "סוקר מעריב קובע: האמירה של יאיר גולן לא תבריח קולות לצד השני | האזינו",
       "summary": "11 ימים לבחירות, הסוקר מנחם לזר מזהה פער מפתיע בין הגושים: בקואליציה אופטימיים יותר, אך באופוזיציה יש מוטיבציה גבוהה יותר להצביע. וגם: הדרמה של וינטר, הנדל וזליכה סביב אחוז החסימה",
@@ -93,6 +192,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T08:32:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21639301",
+      "title": "תחת השפעת סמים: תקף את בתו בשנתה ורדף אחריה כשניסתה להימלט",
+      "summary": "תושב שייח' דנון בן 57 נאשם שהכה את בתו בחפץ קהה בעת שישנה • כשניסתה להזעיק את השכנים, השליך לעברה חפצים ואיים לפגוע בה וברכבה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21639301",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T08:32:19.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377833",
@@ -196,7 +304,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21639354",
       "title": "אוהדי מכבי חיפה בהודעה חריגה: \"לא נעודד את אלי דסה\"",
-      "summary": "ארגון \"הקופים הירוקים\" הכריז כי לא יתמוך בקפטן נבחרת ישראל בעקבות תקופתו במכבי תל אביב • \"שיחק אצל הגרמנים, לא יקבל מאיתנו עידוד בתחילת הדרך שלו\"",
+      "summary": "ארגון \"הקופים הירוקים\" הכריז כי לא יתמוך בקפטן נבחרת ישראל בעקבות תקופתו במכבי תל אביב • \"שיחק אצל הגרמנים וגם עכשיו רצה לחתום אצל הנאצים, לא יקבל מאיתנו עידוד בתחילת הדרך\"",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21639354",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -327,6 +435,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T07:55:48.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872446",
+      "title": "האולטראס של חיפה נגד אלי דסה: \"רצה לחתום אצל הנאצים\"",
+      "summary": "הארגון המרכזי של אוהדי מכבי חיפה: \"דסה ששיחק אצל הגרמנים וראה בנו אופציה אחרונה, יצטרך להוכיח שהוא ראוי לחולצה הירוקה\"",
+      "link": "https://sports.walla.co.il/item/3872446",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T07:55:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383957688",
@@ -32691,69 +32808,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T09:15:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375845",
-      "title": "טלטלה בצמרת צה\"ל: זה הקצין הבכיר שהסתבך - ונשלח הביתה",
-      "summary": "קצין בדרגת תת-אלוף, ששימש בתפקיד רגיש במערכת הביטחון, הסתבך בחשדות לניגוד עניינים ולהעברת מידע מסווג לגורם לא מוסמך. מצ\"ח חקרה, הפרקליטות החליטה שלא להעמידו לדין פלילי - והקריירה הצבאית הגיעה לסיומה",
-      "link": "https://www.maariv.co.il/news/military/article-1375845",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:14:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375845",
-      "title": "טלטלה בצמרת צה\"ל: הקצין הבכיר הסתבך - ונשלח הביתה",
-      "summary": "קצין בדרגת תת-אלוף, ששימש בתפקיד רגיש במערכת הביטחון, הסתבך בחשדות לניגוד עניינים ולהעברת מידע מסווג לגורם לא מוסמך. מצ\"ח חקרה, הפרקליטות החליטה שלא להעמידו לדין פלילי - והקריירה הצבאית הגיעה לסיומה",
-      "link": "https://www.maariv.co.il/news/military/article-1375845",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:14:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21595987",
-      "title": "ברבי מעוררת סערה: \"נראה כמו הצדעה נאצית\"",
-      "summary": "צלליות האוהדים המעודדים על גב אריזת בובת ההתעמלות הציתו גל קריאות לחרם בטיקטוק • ברשת חלוקים אם מדובר בטעות עיצוב או בפרשנות מוגזמת • יצרנית הצעצועים \"מאטל\" שומרת על שתיקה",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21595987",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:07:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21596504",
-      "title": "בעל החנות תלש דגלי ישראל, זה מה שחיכה לו מול העסק | צפו",
-      "summary": "פרויקט הדגלים בכביש 60 הפך לזירת עימות נקודתית לאחר שבעל חנות ערבי הסיר שוב ושוב את דגלי ישראל • ב-7 באוקטובר, הגיעו הפעילים בשטח והציבו מראה ישירות מול פתח העסק שלו: \"לא מתעסקים עם עם ישראל\" • צפו",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21596504",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:04:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21596594",
-      "title": "אחרי 20 שנה: הסדרה המיתולוגית של שלישיית \"מה קשור\" חוזרת למסך",
-      "summary": "תוכנית המערכונים של ציון ברוך, אסי ישראלוף ושלום מיכאלשווילי תציג דמויות מוכרות לצד חומרים חדשים • העונה המעודכנת תעלה בשידור ברשת 13 ותתמקד בישראליות העכשווית",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21596594",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:03:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21596658",
-      "title": "\"אסור להתייחס לנכים בצורה אחרת\": הדרישה להחרים את ישראל",
-      "summary": "לאחר הסערה הארוכה בכדורגל, באירלנד לא נחים וצפויים למחות נגד ישראל גם במשחק של נבחרת הנשים בכדורסל בכיסאות גלגלים • הסנאטור כריס אנדרוז מתח ביקורת על עצם קיום ההתמודדות: \"הנושא הזה לא צריך לקבל פחות ביקורת\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21596658",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:02:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21596525",
-      "title": "בכורה קולומביאנית: הזר שעשוי לשנות לבית\"ר ירושלים את העונה",
-      "summary": "אלכסיס סרנה הגיע לבירה אחרי סאגה ארוכה, והערב ייפתח לראשונה בהרכב במשחק הליגה מול הפועל רמת גן • בעזרת בריאן קרבאלי והיכולת האישית הטובה, הקשר התאקלם מצוין - וכעת הוא צריך להתחיל לפרוע שטרות",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21596525",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:01:32.000Z"
     }
   ]
 }
