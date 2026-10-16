@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:01:05.104Z",
+  "updatedAt": "2026-10-16T11:15:41.426Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.maariv.co.il/economy/international/article-1377567",
+      "title": "להציל את סעודיה: ההזדמנות ההיסטורית של ישראל",
+      "summary": "להציל את סעודיה: ההזדמנות ההיסטורית של ישראל",
+      "link": "https://www.maariv.co.il/economy/international/article-1377567",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T11:13:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1377884",
+      "title": "הצלמת האמריקאית הותקפה בשומרון: דיווחים על שברים וחתכים",
+      "summary": "היידי לוין, צלמת הוושינגטון פוסט, נפצעה ופונתה לבית חולים בעקבות תקיפת מתנחלים באזור רמאללה. במקביל דווח על פצועים נוספים, הצתת עצי זית וכלי רכב, ובהם רכב של ההגנה האזרחית הפלסטינית",
+      "link": "https://www.maariv.co.il/news/israel/article-1377884",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T11:10:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377885",
+      "title": "באקו: מעצמת ביניים מתפתחת ומקום מפגש דיפלומטי לישראל ולשכנותיה",
+      "summary": "פגישותיו של הנשיא הרצוג באזרבייג'ן מדגישות את תפקידה הגובר של באקו בדיפלומטיה האזורית – משיחות הביטחון בין ישראל לטורקיה ועד למאמצים לחיזוק הסכמי אברהם",
+      "link": "https://www.maariv.co.il/news/politics/article-1377885",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T11:07:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377883",
+      "title": "אני אשם. גם אתם: האחריות על המדינה לא נגמרת בקלפי | דביר קריב",
+      "summary": "המדינה הזאת לא תינצל בזכות מנהיג שיקום ויחליט לקחת אחריות. היא תינצל כשאנחנו נכריח את מנהיגינו לשאת בה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1377883",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T11:05:32.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957684",
+      "title": "מתנחלים התפרעו באיו\"ש: צלמת \"וושינגטון פוסט\" נפצעה",
+      "summary": "הצלמת וכמה פלסטינים נפצעו לפי דיווחים בתקיפות מתנחלים במהלך מסיק זיתים. בנוסף דווח על הצתת כלי רכב ועצי זית, ואף תקיפת בתים",
+      "link": "https://www.walla.co.il/news/israel/383957684",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T11:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21640107",
+      "title": "בכינוס מנהיגי דתות בקזחסטן: מחאה בעקבות אזכור 7 באוקטובר",
+      "summary": "נציגי דתות מרחבי העולם, בהם משלחות מהוותיקן, ערב הסעודית, איראן וישראל, השתתפו בכינוס בין-דתי בינלאומי באסטנה שבקזחסטן • במהלך הוועידה נדונו סוגיות גלובליות, בהן משבר האקלים, הבינה המלאכותית והטיפול בחולים • אזכור טבח 7 באוקטובר בנאום הנציג הישראלי עורר מחאה מצד נציגי איראן וטורקי",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21640107",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T10:54:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21639606",
+      "title": "לוחמה מודרנית: צבא אריתריאה פלש לאתיופיה - ונתקל ב\"חומת אש\" של כטב\"מים",
+      "summary": "הצבא הפדרלי של אדיס אבבה הצליח בתוך פחות משבועיים לתפוס את רוב השטחים שהחזיקו המורדים בחבל טיגראי • כוחות אריתראים שנכנסו לסייע למתקוממים הוכו מהאוויר על ידי נחילי מל\"טים אתיופיים ונאלצו לסגת • כשפוליטיקה אתנית עתיקת ימים פוגשת את שדה הקרב של המאה ה-21",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21639606",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T10:53:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/haredi-women-released-poland-khat-smuggling",
       "title": "במפתיע: הצעירות החרדיות שנעצרו בפולין בחשד להברחת גת שוחררו בערבות",
       "summary": "לאחר 3.5 חודשי מעצר בתנאים קשים, בית המשפט בקרקוב הורה על שחרורן בערבות • הצעירות נעצרו ביוני עם 100 ק\"ג גת במזוודות | עורך דין: 'הופתעתי מההחלטה' (חדשות חרדים)",
@@ -48,6 +111,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T10:42:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21639895",
+      "title": "המרוץ לפרס ישראל: המהלך שישנה את רשימת הזוכים",
+      "summary": "פחות משבוע לסגירת הגשת המועמדויות, מיזם 5050 פונה לעשרות מוסדות וארגונים כדי שימליצו על נשים לפרס ישראל • לפי נתוני המיזם, נשים היו רק 29% מהזוכים בשנים 2017–2024 • \"כדי שנשים יזכו, צריך להגיש נשים\"",
+      "link": "https://www.israelhayom.co.il/news/education/article/21639895",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T10:37:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21640037",
+      "title": "אילון מאסק וטסלה חושפים: המכונית המעופפת הראשונה",
+      "summary": "כמעט עשור אחרי ההבטחה המקורית, אילון מאסק הציג במתקן SpaceX בטקסס מפגן הנדסי בלתי נתפס • מ-0 ל-100 בפחות משנייה, מאיצי גז דחוס שסובבו את הרכב באוויר ומערכת יניקה שנוגדת את כוח המשיכה • הייצור נדחה ל-2028, המקדמה מגיעה ל-250 אלף דולר - ומומחים כבר ממהרים להזהיר: \"זה לא טיסה\"",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21640037",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T10:35:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1377869",
@@ -69,6 +150,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21639913",
+      "title": "אחת ולתמיד: האם מותר לקחת את השמיכה מהמטוס או לא",
+      "summary": "מומחי תעופה ודיילים מזהירים כי השמיכות והכריות אינן מתנה • הם חושפים באיזו תדירות הן באמת עוברות כביסה ומה קורה למי שמחליט לקחת אותן",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21639913",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T10:25:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21639913",
       "title": "לקחתם את השמיכה מהמטוס? זה מה שצוות הדיילים באמת חושב עליכם",
       "summary": "מומחי תעופה ודיילים מזהירים כי השמיכות והכריות אינן מתנה • הם חושפים באיזו תדירות הן באמת עוברות כביסה ומה קורה למי שמחליט לקחת אותן",
       "link": "https://www.israelhayom.co.il/travel/aviation/article/21639913",
@@ -84,6 +174,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T10:24:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkntnd12ge",
+      "title": "צלמת המלחמות נפצעה בעימותים עם פורעים יהודים: \"בעטו בי שוב ושוב, 50 פעם. מפלצות\"",
+      "summary": "הצלמת האמריקנית של \"וושינגטון פוסט\" היידי לוין העידה מביה\"ח, לאחר העימות בכפר אבו פלאח שליד רמאללה: \"היו 50 רעולי פנים, טרוריסטים יהודים. בני תמיד אומר שהוא חושש שארצח בידי מתנחלים\". דיווחים: הם השליכו אבנים לעבר תושבים שמסקו, והציתו עצי זית. במועצת בנימין האשימו: \"הרשות הפלסטינית הובילה את העימות\"",
+      "link": "https://www.ynet.co.il/news/article/rkntnd12ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T10:23:08.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkntnd12ge",
@@ -133,7 +232,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21639201",
       "title": "יקי רייסנר נפרד: \"השאירה חותם\"",
-      "summary": "השדכן המוכר מ\"ווארט\" החליט להקדיש את הפרק מהסדרה \"הבריחה\", אותה הפיק, לשחקנית הצעירה שנהרגה ולא זכתה לראות את עצמה על המסך",
+      "summary": "השדכן המוכר מ\"ווארט\" החליט להקדיש את הפרק מהסדרה החדשה שהפיק, לשחקנית הצעירה שנהרגה ולא זכתה לראות את עצמה על המסך",
       "link": "https://www.israelhayom.co.il/forreal/localy/article/21639201",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -311,6 +410,15 @@
       "pubDate": "2026-10-16T09:28:26.000Z"
     },
     {
+      "id": "walla:https://tech.walla.co.il/item/3872455",
+      "title": "הסטרימר השנוי במחלוקת הוזמן לאירוע של המפלגה הדמוקרטית",
+      "summary": "הסטרימר השנוי במחלוקת הוזמן לאירוע של המפלגה הדמוקרטית",
+      "link": "https://tech.walla.co.il/item/3872455",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T09:28:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1377855",
       "title": "ליברמן לאחר חשיפת \"מעריב\": \"גדי איזנקוט - בני גנץ 2\"",
       "summary": "יו\"ר \"ישראל ביתנו\" אביגדור ליברמן כתב על גדי איזנקוט שהוא מתכנן להקים ממשלת אחדות עם נתניהו, בדומה לבני גנץ. לדבריו, \"ארבע מפלגות הגוש חייבות להשיג רוב מוצק שימנע מאיזנקוט להציל את נתניהו בפעם השניה\"",
@@ -426,6 +534,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T09:03:13.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872450",
+      "title": "טורקיה רותחת אחרי ההשפלות: \"אין לנו מוח\"",
+      "summary": "אחרי התבוסות של גלאטסראיי ופנרבחצ'ה והכישלון של הנבחרת, בטורקיה תוקפים את מצב הכדורגל: \"יש הפסדים שאי אפשר להתנצל עליהם\"",
+      "link": "https://sports.walla.co.il/item/3872450",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T09:02:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/liberman-eisenkot-netanyahu-coalition-attack",
@@ -1112,6 +1229,15 @@
       "pubDate": "2026-10-16T06:46:23.000Z"
     },
     {
+      "id": "walla:https://cars.walla.co.il/item/3872439",
+      "title": "מה חשב דני קושמרו על \"הפרארי של האופנועים\"?",
+      "summary": "רק דוקאטי יכולה לשים מנוע מרוצים באופנוע אדוונצ'ר. המולטיסטרדה V4S הוא מעדן איטלקי לא ממש שפוי וגם נראה נהדר. אפילו שיש לו ארגז מאחור, ממש כמו לשליח של וולט",
+      "link": "https://cars.walla.co.il/item/3872439",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T06:37:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/filber-right-wing-bloc-victory-prediction-election",
       "title": "הסוקר טוען: \"גוש הימין ינצח בבחירות עם 61-64 מנדטים\" | כמה יקבלו החרדים?",
       "summary": "הסוקר והפרשן הפוליטי מפרסם ניתוח מקיף שבועיים לפני הבחירות • טוען כי הסקרים מטים את התמונה לטובת 'ישר' | \"400,000 מצביעי ליכוד לא נעלמו - המשקיפים של השמאל יפגשו אותם בקלפיות\" (פוליטי)",
@@ -1299,6 +1425,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T06:00:22.000Z"
+    },
+    {
+      "id": "walla:https://fashion.walla.co.il/item/3872203",
+      "title": "שבוע האופנה בריאד נדחה. איך זה ישפיע עלינו?",
+      "summary": "שבוע האופנה בריאד נדחה. איך זה ישפיע עלינו?",
+      "link": "https://fashion.walla.co.il/item/3872203",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T06:00:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383957641",
@@ -32259,177 +32394,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-11T11:17:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21598125",
-      "title": "\"ערבייה מסריחה\": צעירה דרוזית ספגה קריאות גזעניות באוטובוס - והנוסעים שתקו",
-      "summary": "אישה נסעה בקו 66 של דן ודיברה בערבית בטלפון, כשקבוצת נערים החלה לקלל אותה • לפי משפחתה, איש מהנוסעים לא התערב מחשש להתעמת עם הנערים • אחיה, טייס דרוזי בצה\"ל שחזר ממילואים, השיג את התיעוד שבועות לאחר האירוע ופועל לאיתור המעורבים • חברת דן מסרו כי \"לא מוכר אירוע שכזה\"",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21598125",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:15:35.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375924",
-      "title": "מי היה מאמין? בלון ישראלי עשוי להפוך לסיוט של הרחפנים",
-      "summary": "התעשייה האווירית חושפת בארה\"ב מערכת מכ\"ם חדשה שמסוגלת לזהות רחפנים ואיומים נוספים בגובה נמוך, לעקוב אחריהם ולהעניק לכוחות בשטח זמן תגובה יקר. הפיתוח מבוסס על פתרון מפתיע במיוחד",
-      "link": "https://www.maariv.co.il/news/military/article-1375924",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:15:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375924",
-      "title": "הנשק הסודי של ישראל נגד הרחפנים? הפיתוח החדש נחשף - והוא מפתיע במיוחד",
-      "summary": "התעשייה האווירית חושפת בארה\"ב מערכת מכ\"ם חדשה שמסוגלת לזהות רחפנים ואיומים נוספים בגובה נמוך, לעקוב אחריהם ולהעניק לכוחות בשטח זמן תגובה יקר. הפיתוח מבוסס על פתרון מפתיע במיוחד",
-      "link": "https://www.maariv.co.il/news/military/article-1375924",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:15:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/privacy-authority-investigation-yahalomi-leaks",
-      "title": "הרשות להגנת הפרטיות הורתה לחקור: מי הדליף את סרטוני מלי וליאל?",
-      "summary": "ראש הרשות פנה למפקח הכללי של המשטרה והנחה לבדוק כיצד הגיעו סרטונים ופרטים רגישים לתקשורת | 'פגיעה ממשית בפרטיות ללא הצדקה' | הבירור יבחן את התבחינים שנשקלו במשטרה בטרם התרת הפרסומים (אנשים)",
-      "link": "https://www.kikar.co.il/news/privacy-authority-investigation-yahalomi-leaks",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T11:12:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21598192",
-      "title": "תיעוד ממצלמות הטסלה: השליך מטח אבנים על רכבים באיילון - ונמלט",
-      "summary": "נהג רכב מסוג טסלה שנסע סמוך למחלף ארלוזורוב הופתע ממטח אבנים שנחת עליו ועל מונית שנסעה לצדו • רק לאחר שבדק את מצלמות הרכב, גילה כי אלמוני עמד על הגשר, יידה את האבנים בכוונה תחילה וברח • בעקבות התיעוד הוגשה תלונה ומשטרת לב תל אביב פתחה בחקירה • הנהג מזהיר: \"צריך להגיע אליו לפני שיעשה את זה שוב, בפעם הבאה זה עלול להיגמר במוות\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21598192",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:11:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21598192",
-      "title": "תיעוד ממצלמות הטסלה: השליך מטח אבנים על רכבים באיילון צפון – ונמלט",
-      "summary": "נהג רכב מסוג טסלה שנסע סמוך למחלף ארלוזורוב הופתע ממטח אבנים שנחת עליו ועל מונית שנסעה לצדו • רק לאחר שבדק את מצלמות הרכב, גילה כי אלמוני עמד על הגשר, יידה את האבנים בכוונה תחילה וברח • בעקבות התיעוד הוגשה תלונה ומשטרת לב תל אביב פתחה בחקירה • הנהג מזהיר: \"צריך להגיע אליו לפני שיעשה את זה שוב, בפעם הבאה זה עלול להיגמר במוות\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21598192",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:11:16.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1d3tadifx",
-      "title": "בעזה טוענים: צה\"ל דוחק שוב את הקו הצהוב ברצועה",
-      "summary": "צה\"ל שולט ברוב הרצועה והכוחות ממשיכים לדחוק את הקו הצהוב. האסטרטגייה של תפיסת שטח לא יחודית רק לעזה - אך לא תמיד זה היה המצב. כך זה השתנה אחרי 7/10",
-      "link": "https://www.ynet.co.il/news/article/s1d3tadifx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T11:09:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21598052",
-      "title": "ניסה להצית אוטובוס של חיילי צה\"ל - ונשלח ל-45 שנות מאסר",
-      "summary": "בית הדין הצבאי גזר את עונשו של מוחמד וליד אחמד סעיד, שהורשע על פי הודאתו בניסיון להצית אוטובוס של חיילים ובירי על האוטובוס • בנוסף נגזר עליו תשלום פיצויים של מאות אלפי שקלים",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21598052",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:08:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bka0ojkofe",
-      "title": "סכנת מוות באיילון: אבנים הושלכו מגשר על מכוניות | תיעוד",
-      "summary": "האבנים הושלכו מגשר לעבר מכוניות שנסעו במהירות כ-90 קמ\"ש באיילון צפון, סמוך למחלף ההלכה. כמה כלי רכב ניזוקו, בהם טסלה ומונית. מצלמות רכב תיעדו את החשוד נמלט בריצה לכיוון רמת גן, נהג הטסלה ל-ynet: \"בפעם הבאה זה יכול להרוג מישהו\"",
-      "link": "https://www.ynet.co.il/news/article/bka0ojkofe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T11:08:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21597880",
-      "title": "הסוף לבלאגן: הפתרון הפשוט שיסדר לכם את המקפיא בקלי קלות",
-      "summary": "קניתם מזון קפוא והכל מתערבב ונופל? השיטה הגאונית הזו תסדר לכם את המקפיא תוך דקות, תחסוך מקום יקר ותמנע בזבוז כסף על אוכל שנזרק לפח",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21597880",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:08:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21597896",
-      "title": "ארבעה איים, דילמה אחת: המלכוד שיפן מציבה בפני ישראל",
-      "summary": "טוקיו דורשת ממוסקבה להשיב שטחים שעליהם השתלטה בתום מלחמת העולם השנייה • תמיכה בידידה היפנית עלולה להקשות על ישראל להגן על טיעוניה הטריטוריאליים, אך סירוב עלול לפגוע ביחסים עמה • ומה אפשר ללמוד מסכסוך שלא נפתר גם אחרי 80 שנה?",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21597896",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:06:13.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375912",
-      "title": "נאצים בבתי הספר: הדרישה האיטלקית מהמורים היהודים - והסערה",
-      "summary": "סערה באיטליה בעקבות דרישה ממורים בבתי ספר יהודיים להסתייג ממדיניות ישראל כתנאי להשתתפות בפעילות חינוכית. המורים האמריקאים דחו את ביקורם, ונשיא הקהילה היהודית במילאנו תוקף בחריפות",
-      "link": "https://www.maariv.co.il/news/world/article-1375912",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:05:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375912",
-      "title": "\"מזכיר את גבלס\": הסערה האנטישמית שמטלטלת את איטליה",
-      "summary": "סערה באיטליה בעקבות דרישה ממורים בבתי ספר יהודיים להסתייג ממדיניות ישראל כתנאי להשתתפות בפעילות חינוכית. המורים האמריקאים דחו את ביקורם, ונשיא הקהילה היהודית במילאנו תוקף בחריפות",
-      "link": "https://www.maariv.co.il/news/world/article-1375912",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:05:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375914",
-      "title": "ניסה להצית אוטובוס חיילים ופתח באש: זה העונש שנגזר עליו",
-      "summary": "45 שנות מאסר ופיצוי של 700 אלף שקל נגזרו על המחבל שהשתתף בפיגוע ירי וניסיון הצתת אוטובוס חיילים ב-2022. לאחר שהנהג נפצע והאוטובוס החל להידרדר, קצין שנסע בו מנע פגיעה נוספת",
-      "link": "https://www.maariv.co.il/news/military/article-1375914",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:04:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1375914",
-      "title": "45 שנים בכלא: גזר הדין למחבל מפיגוע האוטובוס בבקעה",
-      "summary": "45 שנות מאסר ופיצוי של 700 אלף שקל נגזרו על המחבל שהשתתף בפיגוע ירי וניסיון הצתת אוטובוס חיילים ב-2022. לאחר שהנהג נפצע והאוטובוס החל להידרדר, קצין שנסע בו מנע פגיעה נוספת",
-      "link": "https://www.maariv.co.il/news/military/article-1375914",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T11:04:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87046",
-      "title": "רכב התנגש בחנות במרכז מסחרי באשדוד - גבר בן 71 פונה במצב קל",
-      "summary": "רכב התנגש היום (13:09) בחנות במרכז מסחרי באשדוד. צוותי מד\"א פינו לבית החולים אסותא באשדוד גבר בן 71 במצב קל. במקום טופלו גם שני נפגעי חרדה.",
-      "link": "https://www.kikar.co.il/scoop-news/87046",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T11:04:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkobyjfozg",
-      "title": "45 שנות מאסר למחבל שירה על חיילים בבקעת הירדן ב-2022",
-      "summary": "חסם את האוטובוס, שפך חומר דליק וירה: המחבל מוחמד וליד אחמד סעיד נשלח ל-45 שנות מאסר לאחר שהודה בתכנון וביצוע הפיגוע בבקעת הירדן לפני ארבע שנים. הוא נמלט מהזירה לאחר שפצע שישה חיילים ואזרח - ונתפס. בית המשפט הטיל עליו גם קנס ותשלום פיצויים בסך כולל של יותר מ-700 אלף שקלים",
-      "link": "https://www.ynet.co.il/news/article/rkobyjfozg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T11:03:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21598060",
-      "title": "השכר שירוויח והתנאי שדרש בחוזה: כך אלי דסה הגיע למכבי חיפה",
-      "summary": "ליאור רפאלוב ועומרי גלזר היו מעורבים בשיחות עם המגן, שיקבל תשלום גבוה ואת החוזה לשנתיים שחיפש • במועדון התרשמו גם מהמעמד שלו בנבחרת ומהמנהיגות שהוא צפוי להביא לחדר ההלבשה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21598060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T11:02:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/palestinian-elections-postponed",
-      "title": "בגיל 90 ישלוט לנצח?: \"ישראל אשמה ונדחה את הבחירות\"",
-      "summary": "הבחירות נדחות שוב, ישראל מואשמת, והמועד החדש נקבע לעוד כמעט שנה - הרשות הפלסטינית בורחת מבשורה (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/palestinian-elections-postponed",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T11:01:07.000Z"
     }
   ]
 }
