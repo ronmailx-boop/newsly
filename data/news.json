@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:15:51.508Z",
+  "updatedAt": "2026-10-16T16:30:54.847Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1377956",
+      "title": "אוחנה יו\"ר כנסת זה חילול השם? פינדרוס, הימין הוא שיקיא אותך | משה כהן-אליה",
+      "summary": "יצחק פינדרוס רואה בבחירת אמיר אוחנה ליו\"ר הכנסת \"חילול השם\", אבל דווקא דבריו חושפים את הבעיה האמיתית. הימין הישראלי חייב להבהיר שאין מקום להומופוביה בשורותיו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1377956",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T16:29:21.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383957711",
+      "title": "הימין יקיא את ההומופובים: פינדרוס לא מבין שהזמנים השתנו",
+      "summary": "דבריו של חבר הכנסת נגד יו\"ר הכנסת אמיר אוחנה חושפים את הפער בין ההומופוביה בפוליטיקה החרדית לבין השינוי שעובר הימין הישראלי. הגיע הזמן שהימין יתנער ממי שמבקשים להחזיר אותו לאחור",
+      "link": "https://www.walla.co.il/news/opinions/383957711",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T16:15:49.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21641506",
       "title": "\"צריך להתייחס לדני אבדיה כשחקן המרכזי בפורטלנד טרייל בלייזרס\"",
       "summary": "ב-ESPN ניתחו את משחקי ההכנה של הקבוצה ויצאו עם מסקנה ברורה שעשויה להטיב עם הישראלי: \"הדרך הטובה ביותר לאזן את החמישיות היא להעביר את ג'ה מוראנט לספסל, לא צריך להתייחס אליו ככוכב\"",
@@ -48,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T15:51:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377948",
+      "title": "חטיפה, עינויים ושוד: 13 בכירים ישראלים תחת חקירה סביב המשט לעזה",
+      "summary": "התביעה ברומא הרחיבה את חקירת ההשתלטות על המשטים לעזה. לפי הדיווחים, 13 בעלי תפקידים ישראלים, בהם כ\"ץ, בן גביר והרמטכ\"ל, נכללים בחקירת חשדות לחטיפה, עינויים ושוד. טרם הוגשו כתבי אישום",
+      "link": "https://www.maariv.co.il/news/world/article-1377948",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T15:47:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377948",
@@ -804,6 +831,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T11:55:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21640333",
+      "title": "צופית גרנט על בעלה: \"הפכתי את התפיסה\"",
+      "summary": "מגישת \"אבודים\" ואישתו של הזמר והיוצר דיברה ב\"שום פלפל ושמן זית\" על ההתמודדות עם הפערים בין השניים. \"הוא לא יוכל לחיות שם\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21640333",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T11:52:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21640333",
@@ -1911,6 +1947,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T07:57:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21639232",
+      "title": "בתום שעות של חיפושים: נעצר החשוד החמוש שנראה במדי צה\"ל",
+      "summary": "החשוד, בן 18 מכפר מעאוויה, נעצר בתום סריקות נרחבות בהכוונת שב\"כ ובהשתתפות כוחות משטרה, מג\"ב וכוחות נוספים • בסמוך למקום שבו אותר נמצאה תת-קרקעית מוסלקת של נשק מסוג M16",
+      "link": "https://www.israelhayom.co.il/news/local/article/21639232",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-16T07:56:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21639232",
@@ -31557,60 +31602,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T16:33:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21601595",
-      "title": "ברלין: נכה בכיסא גלגלים הותקף במשך ימים - בגלל כרזה נגד חמאס",
-      "summary": "בעל חנות מפורסמת בשכונת קרויצברג תלה בחלון כרזות נגד שנאת יהודים לקראת יום השנה לטבח • ביום השנה עצמו נכנסו לחנות כמה נערים וריססו אותו בגז פלפל, ולמחרת שבו להכות אותו • עדים סיפרו כי חבורה על קורקינטים חזרה ובעטה בדלת, והמשטרה חוקרת בחשד למניע אנטישמי",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21601595",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T16:30:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1376048",
-      "title": "משה פייגלין שמע מה אמר עליו טאקר קרלסון - והוריד את הכפפות",
-      "summary": "אחרי שטאקר קרלסון תקף את עמדותיו על עזה והציג אותו כחבר בקואליציה, משה פייגלין משיב במתקפה חריפה: \"מי שמחק ערים שלמות אינו בעמדה להטיף מוסר\". במפלגת זהות מאשימים את איש התקשורת בצביעות",
-      "link": "https://www.maariv.co.il/news/politics/article-1376048",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T16:29:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1376048",
-      "title": "\"מי אתה שתטיף לנו מוסר\": משה פייגלין יוצא למתקפה נגד טאקר קרלסון",
-      "summary": "אחרי שטאקר קרלסון תקף את עמדותיו על עזה והציג אותו כחבר בקואליציה, משה פייגלין משיב במתקפה חריפה: \"מי שמחק ערים שלמות אינו בעמדה להטיף מוסר\". במפלגת זהות מאשימים את איש התקשורת בצביעות",
-      "link": "https://www.maariv.co.il/news/politics/article-1376048",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T16:29:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/mayriv/haredi-judaism-news-updates",
-      "title": "אחרי 87 שנה: השיעור המרטיט של ראש ישיבת חברון בראדין | מעייריב",
-      "summary": "השיעור כללי המרטיט והמרגש בהיכל התורה ההיסטורי בישיבת ראדין בבלארוס - 87 שנים אחרי שנסגר | ההוראה המפתיעה של הפוסק הישיש וראש הישיבה (מעייריב)",
-      "link": "https://www.kikar.co.il/mayriv/haredi-judaism-news-updates",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T16:29:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21600887",
-      "title": "חיים רביבו לא ספר את האקסית: \"אנחנו נמצאים בדרך הנכונה\"",
-      "summary": "אביו של רוי הגיע כאורח כבוד ל\"דרבי\" המשפחתי בין אלצ'ה לסלטה ויגו: \"המשחק הזה מיוחד יותר בשבילי מאשר בשבילו\" • בספרד התלהבו מהמגן השמאלי: \"מצית את הדמיון, בקרוב ימשוך את תשומת הלב של מועדונים יוקרתיים יותר\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21600887",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T16:25:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmr3j4",
-      "title": "תיעוד חמוד; היניק מפרמישלאן התעטר בבגדי מלוכה קטנים",
-      "summary": "אמש, עם סיום סעודה שלישית והבדלה, נערך בהיכל בית מדרשו של האדמו\"ר מפרמישלאן מעמד ה\"חלאקה\" לנכדו, הילד היניק, בן לחתנו הרב ישעיה יואל פאנעט, בן האדמו\"ר מקארלסבורג מונטריאול | תחילה גזז האדמו\"ר מפרמישלאן את מחלפות ראשו של הרך היניק. לאחר מכן, התעטר הילד בבגדי מלוכה קטנים ומיוחדים כיאה לבנם של קדושים, קאפטן קטן על מידותיו, ציצית, כיפה וכובע קאסקעט מסורתי | בסיום המעמד המרומם, ערך הרבי \"טיש\" לחיים, והחסידים פצחו בניגוני שמחה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmr3j4",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T16:22:08.000Z"
     }
   ]
 }
