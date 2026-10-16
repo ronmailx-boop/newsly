@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:15:46.816Z",
+  "updatedAt": "2026-10-16T02:30:51.600Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1d000gcjfe",
+      "title": "אומץ פוליטי אינו מילה גסה",
+      "summary": "בנימין נתניהו והימין הקיצוני אינם מגמגמים. הם אומרים בדיוק מה הם רוצים ועושים זאת: הפיכה משטרית, השתוללות בשטחים הכבושים, דריסה גסה של מערכת המשפט והמשך האסון ההומניטרי בעזה",
+      "link": "https://www.ynet.co.il/news/article/b1d000gcjfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T02:16:00.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1vlpz0szx",
       "title": "כשהמציאות עולה על כל ספרות",
@@ -33528,33 +33537,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T02:38:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21593379",
-      "title": "גשם וסכנה לשיטפונות - ואז מגיע השינוי | תחזית מזג האוויר",
-      "summary": "גשמים ימשיכו לרדת היום בדרום, ובשעות הצהריים צפויה התחזקות לאורך הערבה ואזור ים המלח • השירות המטאורולוגי מזהיר מפני שיטפונות בנחלי הנגב המזרחי, הערבה, ים המלח ומדבר יהודה • בהמשך השבוע מזג האוויר יתייצב, הטמפרטורות יהיו נוחות והסיכוי לגשם יירד משמעותית",
-      "link": "https://www.israelhayom.co.il/weather/article/21593379",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T02:23:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21593399",
-      "title": "לא עוד כצאן לטבח: כך נבנה חוסן ישראלי מול האויב והשסע מבית",
-      "summary": "שלוש שנים אחרי 7 באוקטובר, לצד בירור הכשלים והפקת הלקחים, ישראל חייבת לחזק את הלכידות החברתית, לזהות איומים לפני שיהפכו למתקפה ולהתגונן מפני מניפולציות ומסעות השפעה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21593399",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T02:20:04.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/4ykfxngrs",
-      "title": "התחזית: גשם מקומי - וחשש לשיטפונות | צפו במכ\"מ הגשם",
-      "summary": "הטמפרטורות יהיו רגילות לעונה, כשבבוקר ייתכן גשם קל בצפון ובחוף - ובהמשך גם במזרח ובדרום. במקביל: סיכוי לסופות רעמים ושיטפונות מקומיים. מחר: התקררות קלה ועדיין צפי לגשם מקומי, בהמשך השבוע ללא שינוי בטמפרטורות",
-      "link": "https://www.ynet.co.il/news/article/4ykfxngrs",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T02:18:07.000Z"
     }
   ]
 }
