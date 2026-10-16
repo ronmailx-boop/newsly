@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:45:58.425Z",
+  "updatedAt": "2026-10-16T09:01:14.472Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/liberman-eisenkot-netanyahu-coalition-attack",
+      "title": "\"בני גנץ 2\": ליברמן מאשים את איזנקוט בתכנון להקים ממשלה עם נתניהו והחרדים",
+      "summary": "יו\"ר ישראל ביתנו פרסם פוסט חריף נגד שותפו לגוש • \"שותה קולות בתוך הגוש כדי להגיע לעמדת כוח מול הליכוד\" | \"הפטור מגיוס לא יבוטל - מה שהיה הוא שיהיה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/liberman-eisenkot-netanyahu-coalition-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-16T08:59:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjecc8k3ml",
+      "title": "מאבטח בבית ספר בת\"א חשוד שהטריד תלמידה - וכלא אותה עד שנמלטה",
+      "summary": "התלמידה סיפרה שהמאבטח בבית הספר שבו היא לומדת לקח אותה לחדר צדדי והטריד אותה מינית. הבוקר עצרה המשטרה את החשוד, בשנות ה-50 לחייו",
+      "link": "https://www.ynet.co.il/news/article/rjecc8k3ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T08:53:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/87891",
       "title": "ליברמן מאשים את איזנקוט בתכנון קואליציה עם נתניהו",
       "summary": "יו\"ר ישראל ביתנו אביגדור ליברמן טען כי גדי איזנקוט מתכנן להקים ממשלה עם נתניהו לאחר הבחירות. לדבריו, קמפיין \"המפלגה הגדולה\" של איזנקוט מנוגד להסכמות בין ראשי הגוש ונועד להגיע למשא ומתן עם נתניהו מעמדת כוח. ליברמן הוסיף כי עמדות אנשי איזנקוט בנושא הגיוס והחוקה מחזקות חשש זה, וכי מתווה הגיוס של איזנקוט כולל דיחוי של כ-4,500 לומדים בשנה. ליברמן הבהיר כי ישראל ביתנו לא תשב בקואליציה התלויה במפלגות ערביות ולא תשנה את עמדותיה בנושאי גיוס וחוקה.",
@@ -48,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T08:35:09.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14928338",
+      "title": "ליברמן בפוסט חריף במיוחד: \"איזנקוט - גנץ 2. הוא חותר להקמת ממשלה עם נתניהו ודרעי\"",
+      "summary": "לאחר שיו\"ר ישראל ביתנו סגר את הדלת על התוכנית להשבעת ממשלת מיעוט, הוא יצא במתקפה חסרת תקדים נגד שותפו לגוש: \"איזנקוט רוצה להגיע מעמדת כוח למו\"מ להקמת ממשלה עם נתניהו. קמפיין המפלגה הגדולה שלו מנוגד לחלוטין להסכמות. אני רואה כאן יותר אמביציה אישית מניסיון לתיקון עוולות\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14928338",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-16T08:34:12.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14928338",
@@ -84,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T08:30:51.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957693",
+      "title": "וינטר הכחיש שפנה להנדל: \"ספין פוליטי\"",
+      "summary": "וינטר הכחיש שפנה להנדל: \"ספין פוליטי\"",
+      "link": "https://www.walla.co.il/news/israel/383957693",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-16T08:30:27.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383957693",
@@ -543,6 +579,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T07:01:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1377802",
+      "title": "יוון שולפת קלף חדש מול ארדואן: הנשק שעלול לשנות את מאזן הכוחות",
+      "summary": "יוון בוחנת רכישת טילים חמקניים לטווח של כמעט 1,000 ק\"מ, לצד נשק אמריקאי ובריטי מתקדם. המטרה: לשנות את מאזן הכוחות מול טורקיה ולאפשר תקיפות בעומק שטחה, מבלי לסכן את המטוסים",
+      "link": "https://www.maariv.co.il/news/world/article-1377802",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-16T06:53:36.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1377802",
@@ -5736,6 +5781,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T10:43:18.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3872341",
+      "title": "מזל טוב כפול: מעיין אדם ילדה בן - והתארסה!",
+      "summary": "אשת התקשורת ואושיית הרשת ובן זוגה יובל צלנר הפכו להורים לשלושה והביאו לעולם בן, אח קטן לתבור ולקדם. ועל הדרך, גם התארסו!",
+      "link": "https://celebs.walla.co.il/item/3872341",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-15T10:43:00.000Z"
     },
     {
       "id": "walla:https://dcx.walla.co.il/walla_news_files/elections2026/who-said-it/index.html",
@@ -32700,123 +32754,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-11T09:01:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmqjlo",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 12:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 12:00 (כיכר FM)",
-      "link": "https://www.kikar.co.il/haredim-news/tmqjlo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T09:00:35.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1375833",
-      "title": "תחת האיום מצד פוטין: קנצלר גרמניה דחה את ההצעה בתקיפות - \"חייב להיות סביר\"",
-      "summary": "אירלנד הציעה לקצץ את הוצאות הביטחון של האיחוד האירופי, וספגה על כך ביקורת קשה. קנצלר גרמניה: \"התקציב חייב להיות סביר עבור מי שנושא בנטל המימון שלו\"",
-      "link": "https://www.maariv.co.il/news/world/article-1375833",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-11T09:00:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21595376",
-      "title": "\"המשכורת תתרסק\": האזהרה הדרמטית של אילון מאסק",
-      "summary": "החוזה החברתי של 200 השנים האחרונות מתפרק לנגד עינינו • כשהמכונות הופכות למהירות וזולות יותר מהזמן האנושי, המעבר מ\"עובד שכיר\" ל\"בעל נכסים\" הופך לשאלת הישרדות • התחזית הדרמטית של המיליארדר הכי שנוי במחלוקת על עתיד שוק העבודה",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21595376",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T09:00:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21596406",
-      "title": "המומחים קבעו: המפלגות עם הקמפיינים הנכשלים - וזו עם הציון הגבוה ביותר",
-      "summary": "בכירי מיתוג ואסטרטגיה בחנו את המסרים, הסלוגנים והעיצובים של המפלגות - וחילקו ציונים • מי נבלעת ברעש, מי מתקשה לספק סיבה חדשה לבחור בה ואילו שתי מפלגות זכו לציון 8 מתוך 10?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21596406",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:59:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21591453",
-      "title": "שבועיים אחרי החתונה: זוג הריאליטי מתרגל לסטטוס החדש",
-      "summary": "תום חיימוב ושחר צ'רנס, שהכירו בשידוך בריאליטי \"אהבה חדשה\" ולפני שבועיים הפכו לבעל ואשה, יצאו לטיול לילי עם הכלבה שאימצו. צפו בפפראצי",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21591453",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:57:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/radio/article/21596529",
-      "title": "לא יאיר גולן: חיים לוינסון חושף למי יצביע בבחירות הקרובות",
-      "summary": "העיתונאי ואיש התקשורת הקדיש פרק מיוחד בפודקאסט שלו כדי לחשוף את הפתק שישלשל לקלפי בבחירות הקרובות • קראו איך ההחלטה שלו קשורה למגילת העצמאות, ומי הפוליטיקאי שלדבריו ראוי לעמוד לצד דוד בן גוריון",
-      "link": "https://www.israelhayom.co.il/culture/radio/article/21596529",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:57:20.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1ud5t00szx",
-      "title": "75 ילדים טבעו בעונת הרחצה, 58 בני אדם טבעו למוות",
-      "summary": "חובשים ופרמדיקים של מד\"א העניקו טיפול ל-287 בני אדם בעונת הרחצה שהחלה באפריל, ונאלצו לקבוע את מותם של 26 שנמשו מהמים ללא רוח חיים. 32 נספים אחרים פונו קודם לבתי החולים. כמעט 24% מהטובעים הם ילדים עד גיל 10, וכ-20% הם בני נוער עד גיל 19. מנכ\"ל מד\"א: \"להשגיח על ילדים בקרבת מים\"",
-      "link": "https://www.ynet.co.il/news/article/s1ud5t00szx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-11T08:56:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21596547",
-      "title": "סמוטריץ': הבחירות גורליות לעתיד וזהות המדינה",
-      "summary": "יו\"ר הציונות הדתית נאם בכנס השנתי של ראשי ישיבות ההסדר בירושלים • סמוטריץ': \"בגירוש בגוש קטיף למדנו כמה קל להרוס ביום מפעל התיישבות שנבנה במשך עשורים\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21596547",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:53:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21581206",
-      "title": "בלי קמח ובלי חמאה: עוגת שוקולד עשירה מ-4 רכיבים בלבד",
-      "summary": "בלי טיפת קמח ובלי מוצרי חלב בכלל: העוגה הזאת מבוססת על ארבעה רכיבים בלבד, שאחד מהם מפתיע במיוחד • כמה דקות עבודה בבלנדר, אפייה בתנור וקירור במקרר, ויש לכם קינוח שוקולדי עשיר ונימוח",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21581206",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:52:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21596574",
-      "title": "פולין: סוכל ניסיון התנקשות בראש הממשלה טוסק",
-      "summary": "ורשה נקטה ב,צעדים מתאימים\" למניעת ניסיון לפגוע בראש הממשלה ושר הביטחון • לפי התקשורת בפולין, עדיין לא ידוע באיזה שלב היו תוכניות ההתנקשות בצמרת הממשלה ומה היה טיבן של ההתרעות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21596574",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:52:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21596506",
-      "title": "ליברמן: \"ישראל מצורעת כמו צפון קוריאה - אחרי הבחירות נסכים מי יהיה רה\"מ\"",
-      "summary": "יו\"ר ישראל ביתנו נשא דברים בכנס המכינות הליברליות והסביר מדוע הגוש לא מציג כעת מועמד לראשות הממשלה: \"האסטרטגיה היא שכל מפלגה תמקסם מנדטים, את חלוקת התפקידים נסגור תוך שעות אחרי הבחירות\" • ליברמן תקף את נתניהו שלדבריו מנסה לחמוק מאחריות על השבעה באוקטובר וקריסת המשילות • עוד הבהיר כי לא ייכנס לקואליציה ללא חוקה וגיוס חובה לכולם, וטען: \"בלבנון היינו צריכים לתאם מכת פתיחה עם המדינות והשבטים המתונים\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21596506",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:51:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21596514",
-      "title": "גם בחורף, מ-65 יורו לכיוון: החברה שתפעיל טיסות ישירות לאי היווני",
-      "summary": "חברת התעופה בלו בירד מרחיבה את פעילותה ותפעיל לראשונה טיסות ישירות מנתב\"ג להירקליון שבכרתים גם בעונות הסתיו והחורף",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21596514",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-11T08:50:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/fatal-fire-kfar-masada-golan-woman-dies",
-      "title": "אישה נספתה בשריפה בבבית בצפון: נקבע מותה לאחר חילוץ מהמבנה הבוער",
-      "summary": "לוחמי האש חילצו אישה מחוסרת הכרה מבית פרטי דו-קומתי שעלה באש • צוותי מד\"א נאלצו לקבוע את מותה במקום | תפתח חקירה לבירור נסיבות האירוע (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/israel-news/fatal-fire-kfar-masada-golan-woman-dies",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-11T08:48:14.000Z"
     }
   ]
 }
