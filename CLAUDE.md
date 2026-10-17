@@ -237,7 +237,7 @@
   שכן נוסף.
 - **סרטון פרומו:** `media/promo.mp4` (FHD 9:16, עד 30 שנ') נוצר בקוד
   מ-`scripts/promo/` (סצנה HTML עם `renderAt(t)` + Playwright + ffmpeg,
-  קריינות Google TTS). שינוי בסרטון = עריכת `promo.html`/`build-audio.sh`
+  קריינות ElevenLabs ב-`voiceover.mp3` + `TIME_MAP` ב-`render.mjs`). שינוי בסרטון = עריכת `promo.html`/`build-audio.sh`
   ורינדור מחדש, לא עריכה ידנית של ה-mp4. נפתח מכפתור ▶ ליד ⚙️ במודל עם
   `preload="none"`. פרטים ב-PROJECT_STATE.md.
 - **הוספת מקור שאינו RSS בעתיד:** אם יימצא מקור מתאים (בלי הגנת אנטי-בוט),

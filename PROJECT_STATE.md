@@ -172,12 +172,14 @@ commit-ים עם `GITHUB_TOKEN` פנימי לא מפעילים `on: push` ב-wor
 הנדרש (Source → GitHub Actions) - **אושר עובד, כולל ב-Chrome.**
 
 - [x] **סרטון פרומו (2026-10-17, לבקשת המשתמש):** `media/promo.mp4` -
-      FHD 1080x1920 (9:16), 29.5 שנ', H.264 High@4.0 + AAC, ~5MB. נוצר
+      FHD 1080x1920 (9:16), 29.9 שנ', H.264 High@4.0 + AAC, ~5MB. נוצר
       **בקוד** (`scripts/promo/`): `promo.html` = סצנה עם `renderAt(t)`
       דטרמיניסטי (בלי CSS animations), `render.mjs` מצלם כל פריים
       ב-Playwright ומקודד עם ffmpeg; `build-audio.sh` = קריינות גבר בעברית
-      (Google TTS `he-IL-Chirp3-HD-Charon`) + מוזיקה סינתטית (`music.py`)
-      עם ducking. סצנות: hook → 7 מקורות + עדכון כל 15 דק' → גלילת reels →
+      מ-**ElevenLabs** (`voiceover.mp3` - קול "Omer - Confident, Upbeat Ad",
+      מודל `eleven_v4`, טייק 3 מתוך 4; הוחלף מ-Google TTS לבקשת המשתמש)
+      + מוזיקה סינתטית (`music.py`) עם ducking. `TIME_MAP` ב-`render.mjs`
+      ממפה את ציר הזמן של הסצנה לתחילת כל משפט בקריינות. סצנות: hook → 7 מקורות + עדכון כל 15 דק' → גלילת reels →
       לשונית + גלילה אוטומטית → פענוח קליקבייט → swipe + אישור הסתרה →
       לוגו + "Newsly" + "כל החדשות. בלי הרעש." (בלי כתובת אתר). הכותרות
       בטלפון המדומה הן כותרות אמיתיות מ-`news.json` (נבחרו קלילות).
