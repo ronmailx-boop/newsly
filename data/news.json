@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:00:59.715Z",
+  "updatedAt": "2026-10-17T21:15:45.233Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,78 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1378245",
+      "title": "לא רק איראן: צה\"ל העלה כוננות כפולה בצפון | פרסום ראשון",
+      "summary": "הכוננות הגבוהה בצפון היא כפולה, כאשר צה\"ל פרוס ברמת הגולן וגם בדרום לבנון עם שתי האוגדות 36 ו-91, שנמצאים בדריכות מבצעית גבוהה ביותר, כאשר על פי מקורות בלבנון - חיזבאללה קיבל אור ירוק מאיראן לכוננות",
+      "link": "https://www.maariv.co.il/news/military/article-1378245",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T21:11:03.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87989",
+      "title": "הולך רגל בן 22 נהרג בתאונה בכביש 443",
+      "summary": "הולך רגל כבן 22 נהרג הלילה בתאונת דרכים בכביש 443 סמוך למחסום עופר. חובשי איחוד הצלה ארי פילצ'יק, אבי לוי וארי נוסבוים דיווחו כי מדובר בהולך רגל שנפגע מרכב. מותו נקבע במקום עקב אופי הפציעות הקשות.",
+      "link": "https://www.kikar.co.il/scoop-news/87989",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:07:33.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87988",
+      "title": "תאונה בין רכב לקורקינט חשמלי בפתח תקווה - שני פצועים קל",
+      "summary": "תאונת דרכים בין רכב לרוכב קורקינט חשמלי אירעה ברחוב בזל בפתח תקווה. צוותי איחוד הצלה טיפלו בשני נפגעים שנפצעו באורח קל.",
+      "link": "https://www.kikar.co.il/scoop-news/87988",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:07:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87987",
+      "title": "צעיר בן 19 נפצע במצב בינוני במחסום שועפאט בירושלים",
+      "summary": "צעיר בן 19 נפצע הערב (22:29) במצב בינוני עם פציעות חודרות סמוך למחסום שועפאט בירושלים. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים שערי צדק.",
+      "link": "https://www.kikar.co.il/scoop-news/87987",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:06:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87986",
+      "title": "שני צעירים נפצעו בינוני באירוע אלימות באשקלון",
+      "summary": "שני צעירים כבני 20 נפצעו במצב בינוני באירוע אלימות ברחוב הרצל באשקלון. חובשי איחוד הצלה שהגיעו למקום העניקו להם טיפול רפואי ראשוני, ושניהם פונו לבית חולים. אחד מהם פונה באמבולנס של איחוד הצלה.",
+      "link": "https://www.kikar.co.il/scoop-news/87986",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:06:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87985",
+      "title": "הולך רגל נהרג בתאונת דרכים בכביש 443 סמוך למחסום עופר",
+      "summary": "גבר פלסטיני בן 21 נהרג הלילה (23:05) לאחר שנפגע מרכב בכביש 443 סמוך למחסום עופר. צוותי מד\"א שהגיעו למקום קבעו את מותו לאחר שמצאו אותו ללא דופק וללא נשימה עם חבלה רב מערכתית.",
+      "link": "https://www.kikar.co.il/scoop-news/87985",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:06:28.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/87984",
+      "title": "שגריר ארה\"ב האקבי: תקיפת צלמת העיתונות היא מעשה טרור",
+      "summary": "שגריר ארה\"ב בירושלים מייק האקבי הצהיר כי תקיפת צלמת העיתונות אתמול היא מעשה טרור. לדבריו, מי שביצע את התקיפה צריך לשבת שנים בכלא.",
+      "link": "https://www.kikar.co.il/scoop-news/87984",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-17T21:06:26.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/h1pouub3zl",
+      "title": "הרבנים החלו לקרוא להצביע ג', האדמו\"ר מגור יצטרף: \"הצבעה אחרת - חילול השם\"",
+      "summary": "המפלגות החרדיות מסתערות על קולות הבוחרים. בכנסים שנערכו קראו רבנים וחסידים להצביע ליהדות התורה, במפלגת \"הציבור החרדי\" בראשות מוטי לייטנר טענו שהסקרים מראים על מומנטום: \"אנחנו כבר נוגעים באחוז החסימה\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/h1pouub3zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-17T21:04:34.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378243",
       "title": "עופר וינטר ממשיך לתקוף: \"שלמה פילבר מקבל כסף מקמפיין הליכוד\"",
       "summary": "יו\"ר \"עמך ישראל\" טען במהלך חוג בית באפרת כי הסוקר שלמה פילבר מקבל כסף מהליכוד: \"חלק מהקמפיין\". פילבר הזהיר כי מפלגתו של וינטר עלולה לבזבז כ-70 אלף קולות ימין",
@@ -39,6 +111,114 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-17T20:41:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21625690",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "אתם נתקפים בחולשה והייתם מצפים לקבל קצת יותר עזרה מאנשים קרובים לכם. כדי להתאושש דרושה לכם מנה גדושה של תשומת לב ולא רק סיוע פיזי",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21625690",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21625691",
+      "title": "מזל שור, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "אתם במצב רוח רגשני במיוחד, ונוטים להגיב בתוקפנות לא מוצדקת גם כלפי אלה שרוצים בטובתכם. זאת, למרות שברור לכם שכדי לעזור לעצמכם ולאחרים להתמודד עם מצבים קשים עליכם לנקוט בשיטה אחרת",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21625691",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21625706",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "יום מוזר במקצת. אתם נמשכים לאנשים ולמצבים שלא בדיוק מתאימים לכם, למרות שעל פני השטח זה נראה הכי אטרקטיבי שבעולם",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21625706",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21631247",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "נושא הזוגיות אינו יורד מה\"כותרות\". בעצם, הכל עניין של בחירה אישית וכדאי שתפנימו את העיקרון כדי להקל על עצמכם בעתיד",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21631247",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21631248",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "מה שהכי בא לכם זה להסתובב בשטח, לפגוש ולדבר עם אנשים, בלי שום התחייבויות ובלי להסתבך או להתחייב. כבר בתחילת השבוע יש סיכוי ש'ייפול לכם האסימון' ואתם תצאו לדרך",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21631248",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21631253",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "אם אינכם חשים במיטבכם, זה בגלל שנת הלילה שלא הייתה שקטה. ייתכן שבמהלך היום תחוו עייפות גדולה",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21631253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21631728",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "למרות שאתם עייפים מאוד מבחינה פיסית, אתם מצליחים לשמור על אופטימיות. התחושה שלכם שהמצב בו אתם נמצאים הוא זמני- נכונה",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21631728",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21631729",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "קשה לכם להחליט אם עובר עליכם יום טוב או רע. המון דברים מתרחשים בת אחת ולא קל לכם לעכל את השינויים",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21631729",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21631735",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "הפער בין צורת החשיבה שלכם ושל אנשים אחרים גורם לקצרים ולבעיות בתקשורת במהלך היום. למרות שנדמה לכם שמפלים אתכם לרעה, ייתכן שגם אתם לא מתייחסים לסובבים אתכם במידה ראויה של כבוד",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21631735",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21632111",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "התחשבות בדעות של בני משפחה תהיה מחווה יפה ומוערכת אולם אינכם מוכנים עדיין לוותר לחלוטין על עצמאותכם. הבחירה האולטימטיבית תהיה בוודאי לחלק את היום בצורה שווה",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21632111",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21632112",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "תחשבו בצורה מציאותית ואל תתנו לפנטזיה לגרור אתכם למקומות של ציפיות ואכזבות. הקדישו את היום לעניינים פרטיים ורק זמן קצר וקצוב לפגישות שתוצאותיהן לא ברורות עדיין",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21632112",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21632116",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 18.10.2026",
+      "summary": "אתם קצת מבולבלים בקטע הרומנטי. מפגש מרתק ואינטימי עם אדם שגורם לכם לאבד את הצפון, גורם לכם להיראות נפלא וגם להרגיש בהתאם",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21632116",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T20:30:34.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tn2j72",
@@ -28731,87 +28911,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-12T21:17:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjbxvp9jml",
-      "title": "טייס קרב לשעבר עוכב באזור שכם בחשד לתקיפת מתנחלים: \"הכה רועה צאן באלה\"",
-      "summary": "חברי \"מפקדים למען ביטחון ישראל\" הגיעו לכפר הפלסטיני דומא כדי לסייע במסיק זיתים. תא\"ל במיל' יואל פלדשו, לשעבר מנכ\"ל אל-על, עוכב לחקירה בעקבות עימות עם מתנחלים. בתנועה טוענים: \"פעילי טרור יהודי תקפו נשים ערביות\". פלדשו שוחרר, ובהמשך הודיעה המשטרה על מעצר של פעיל ימין בן 15 מירושלים",
-      "link": "https://www.ynet.co.il/news/article/hjbxvp9jml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:09:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjbxvp9jml",
-      "title": "טייס קרב לשעבר עוכב באזור שכם בחשד לתקיפת מתנחל: \"הכה נשים ערביות\"",
-      "summary": "חברי \"מפקדים למען ביטחון ישראל\" הגיעו לכפר הפלסטיני דומא כדי לסייע במסיק זיתים. תא\"ל במיל' יואל פלדשו, לשעבר מנכ\"ל אל-על, עוכב לחקירה בעקבות עימות עם מתנחלים. בתנועה טוענים: \"פעילי טרור יהודי תקפו נשים ערביות\". פלדשו שוחרר, ובהמשך הודיעה המשטרה על מעצר של פעיל ימין בן 15 מירושלים",
-      "link": "https://www.ynet.co.il/news/article/hjbxvp9jml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:09:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14924677",
-      "title": "דרוש מנהיג אמיץ",
-      "summary": "רוב החברה הישראלית עדיין רוצה בממשלת אחדות. דרושה מנהיגות, שתדע לצאת מהקיבעון ושתאמר לציבור: \"אנחנו נמצאים בשעות קריטיות וחייבים לשלב ידיים\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14924677",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:08:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
-      "title": "הלילה: פגיעת טיל ישירה סמוך לבית הספר היהודי, פיצוץ הרעיד את האזור",
-      "summary": "הסלמה קשה באוקראינה: פיצוץ עז החריד את אזור בית הספר היהודי 'אור אבנר' בחרקוב בעקבות מתקפת טילים הרסנית | בעוד מבנה המוסד החינוכי ניצל בנס, ראש העיר מדווח על הרס כבד ולכודים תחת ההריסות בסמיכות מקום (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T21:07:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
-      "title": "הלילה: פגיעת טיל ישירה סמוך לבית הספר היהודי, הפיצוץ הרעיד את האזור",
-      "summary": "הסלמה קשה באוקראינה: פיצוץ עז החריד את אזור בית הספר היהודי 'אור אבנר' בחרקוב בעקבות מתקפת טילים הרסנית | בעוד מבנה המוסד החינוכי ניצל בנס, ראש העיר מדווח על הרס כבד ולכודים תחת ההריסות בסמיכות מקום (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/kharkiv-jewish-school-missile-attack",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T21:07:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14925200",
-      "title": "למחנה מתנגדי נתניהו יש כישרון לפגוע בעצמם ותמיד זה ברגע האחרון",
-      "summary": "שפע הגילויים והחשיפות על ההתרעות שקיבל נתניהו מגיעים בעיתוי לא מקרי. כדי להשפיע על ההצבעה. בפועל, מדובר בבומרנג. משום שזה בדיוק מה שנתניהו מבקש להוכיח: הם נגדי",
-      "link": "https://www.ynet.co.il/news/article/yokra14925200",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:06:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14925200",
-      "title": "עורו הציונים",
-      "summary": "שפע הגילויים והחשיפות על ההתרעות שקיבל נתניהו מגיעים בעיתוי לא מקרי. כדי להשפיע על ההצבעה. בפועל, מדובר בבומרנג. משום שזה בדיוק מה שנתניהו מבקש להוכיח: הם נגדי",
-      "link": "https://www.ynet.co.il/news/article/yokra14925200",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:06:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14924709",
-      "title": "מדיניות החוב הישראלית: אמריקניזציה מסוכנת",
-      "summary": "המעבר ממדינה בעלת כלכלה צומחת ויתירות תקציבית למודל של \"סופר-ספרטה\" מבית המדרש של נתניהו מייצר נזק עמוק וארוך טווח שעשוי להיות בלתי-הפיך",
-      "link": "https://www.ynet.co.il/news/article/yokra14924709",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:04:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14924716",
-      "title": "תחנת וושינגטון אינה עונה",
-      "summary": "נתניהו איבד את טראמפ - וישראל איבדה את אמריקה",
-      "link": "https://www.ynet.co.il/news/article/yokra14924716",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T21:02:00.000Z"
     }
   ]
 }
