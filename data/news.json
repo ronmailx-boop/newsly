@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:30:59.432Z",
+  "updatedAt": "2026-10-17T09:45:49.347Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjyyyaehmx",
+      "title": "הצלמת האמריקנית נותחה, אצבעה כמעט נקטעה אחרי מתקפת הפורעים היהודים",
+      "summary": "היידי לוין, צלמת \"וושינגטון פוסט\", כמעט איבדה את האצבע אחרי שהותקפה בידי הפורעים ליד רמאללה. בתה אמרה שהחתך הגיע עד העצם, והגיד נחשף. היא סובלת גם משבר בצלע ומשברים בחוליות. \"הם בעטו בי במשך 10 דקות\", תיארה",
+      "link": "https://www.ynet.co.il/news/article/hjyyyaehmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-17T09:38:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1378076",
+      "title": "בחמאס חושפים: זה מה שעלה בגורלו של \"יורש סינוואר\" לאחר ניסיון החיסול",
+      "summary": "ניסיון החיסול של יורש סינוואר ברצועת עזה: בחמאס מודים כי אל-עאמודי נפצע בתקיפת צה\"ל לפני כשבועיים. זאת בניגוד לדיווחים קודמים שטענו כי הוזהר ופונה מהמקום. יתכן כי היה ניסיון להסתיר את המידע על מצבו",
+      "link": "https://www.maariv.co.il/news/military/article-1378076",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T09:32:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21643130",
+      "title": "השמיים שנצבעו כתום - ואיומי התביעה: הענן הרעיל שעלול \"להבעיר\" את דרום אסיה",
+      "summary": "שריפות יער ענק באינדונזיה מכסות את המדינות השכנות בעשן סמיך, ומובילות למשבר דיפלומטי חריף מול סינגפור ומלזיה • בעוד בתי ספר נסגרים ומאות אלפים חולים, באינדונזיה הודפים את הביקורת ומסרבים להכריז על מצב חירום • שכנתה מאיימת כעת לתבוע את החברות האחראיות למחדל",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21643130",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T09:26:40.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjvivil2ze",
       "title": "\"למדינות אין זכות קיום\": הפרו-פלסטינית שמסכנת את ניצחון השמאל הרדיקלי",
       "summary": "משבר במפלגת די לינקה - והניצחון בברלין בסכנה: הפוליטיקאית הפרו-פלסטינית ונסה אמדה עומדת בלב סערה סביב המו\"מ הקואליציוני להקמת ממשלה בבירת גרמניה, כשהתנערה מדרישת הסוציאל-דמוקרטים והירוקים - הכרה בזכות ישראל להתקיים: \"מדינה אחת עם זכויות שוות - לגיטימי\". השיחות הקואליציוניות בוטלו, במפלגתה מסתייגים ממנה ודנים במעמדה - ועתיד ממשלת השמאל לוט בערפל",
@@ -39,6 +66,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-17T09:19:35.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957764",
+      "title": "שניים נפצעו מדריסה בקדומים, המחבל נמלט מהמקום",
+      "summary": "גורם צבאי אמר כי מתחקור ראשוני עולה כי מדובר בחיכוך בין פלסטינים לישראלים במסגרתו אחד מהם נפגע. כוחות צה״ל ומשטרת ישראל קפצו לזירה",
+      "link": "https://www.walla.co.il/news/military/383957764",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T09:17:10.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378075",
@@ -156,6 +192,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-17T08:33:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1378065",
+      "title": "5 שנות מאסר בדובאי: הדרמה החדשה של \"הבנקאי הישראלי\"",
+      "summary": "אזרח ישראלי המכונה \"הבנקאי\" נעצר בקולומביה בעקבות התראת אינטרפול, בפרשת הונאה של כ-16.7 מיליון דולר נגד בנק בדובאי. באיחוד האמירויות כבר נגזרו עליו חמש שנות מאסר, וכעת נבחנת הסגרתו למדינה",
+      "link": "https://www.maariv.co.il/news/world/article-1378065",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T08:31:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378065",
@@ -520,7 +565,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/military/383957714",
       "title": "הרעב המבוים והילדים באוהלים: מה חמאס מנסה להסתיר?",
-      "summary": "3 שנים למלחמה, חמאס גובה מיסים באלימות ומשדר שליטה, בעוד מחירי השכירות מזנקים והתושבים נאבקים לשרוד באוהלים. ארבעת סוגי העזתים שצמחו מההריסות ומנסים לנהל שגרה מיום ליום | תמונת מצב",
+      "summary": "3 שנים למלחמה, חמאס גובה מיסים באלימות ומשדר שליטה, בעוד מחירי השכירות מזנקים והתושבים נאבקים לשרוד באוהלים",
       "link": "https://www.walla.co.il/news/military/383957714",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -561,6 +606,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-17T05:52:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1378042",
+      "title": "ישראלי נפצע בשומרון - בצה\"ל מבהירים: \"לא מדובר בפיגוע\"",
+      "summary": "ישראלי נפצע קל מפגיעת רכב סמוך לשבי שומרון, והנהג נמלט מהמקום. בצה\"ל הבהירו כי לא מדובר בפיגוע, אלא באירוע חיכוך לאחר שפעילי ימין ניסו לשבש את מסיק הזיתים. במקביל דווח על אירועים חריגים נוספים ביו\"ש",
+      "link": "https://www.maariv.co.il/news/military/article-1378042",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T05:51:33.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1378042",
@@ -29406,168 +29460,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-12T09:48:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21606015",
-      "title": "אלמוג בוקר מזועזע: \"שנאת ישראל ושנאת יהודים\"",
-      "summary": "כתב החדשות שאוהד את הפועל באר שבע כתב פוסט נוקב בחשבון האינסטגרם שלו, בו סיפר על הדרת ישראלים מהעיר בה יתקיים משחק נגד אלקמאר ההולנדית • הוא פנה לשרים גדעון סער ומיקי זוהר: \"תתעוררו, זה התפקיד שלכם\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21606015",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:45:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21606217",
-      "title": "משרד הבריאות מזהיר: אל תשתמשו בחברת האמבולנסים הזו",
-      "summary": "חברת \"אמבולנס חנא\" שפעלה בשפרעם החל משנת 2018, איבדה את הרישיון בעקבות ליקויים שנמצאו בהתנהלותה • כעת משרד הבריאות מתריע בפני הציבור: לוודא שהאמבולנס שהזמנתם הוא גורם מורשה",
-      "link": "https://www.israelhayom.co.il/health/article/21606217",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:44:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21606002",
-      "title": "אחז בצוואר בת זוגו לשעבר, שלף סכין מול שוטרים - ונעצר",
-      "summary": "בן 43 מקריית אתא נאשם כי חזר לדירת האישה למרות צו ההרחקה, דפק בחוזקה על הדלת וצעק • שוטרים שהוזעקו למקום השתלטו עליו • כחודש קודם לכן נעצר בחשד שתקף אותה וזרק חפצים כשהיה בגילופין",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21606002",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:43:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21606064",
-      "title": "אחרי לוקה גדראני: בית\"ר ירושלים בדרך לעוד מהלך ענק",
-      "summary": "הבלם חתם על חוזה חדש עד 2029, זה יהיה שכרו • במקביל, סוכנו של זר נוסף יגיע לישראל על מנת לסגור את הארכת חוזהו • שביעות רצון מהמהפך של בוריס אינו, שיצא מהמשבר עם צמד ב-0:4 על הפועל רמת גן",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21606064",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:42:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21606064",
-      "title": "כולל נאצות ברשת: שחקן בית\"ר ירושלים נקלע למשבר - כך הוא יצא ממנו",
-      "summary": "הודעות קשות מקומץ אוהדים בשיא גל הביקורות נגדו גרמו לבוריס אינו למחוק כל אזכור לבית\"ר ברשתות • עם חבר חדש שנותן לו ביטחון, אינו חגג צמד נדיר מול הפועל רמת גן ואף סגר מעגל עם הקהל • לוקה גדראני האריך חוזה עד 2029",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21606064",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:42:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/cellular-and-applications/tmsfvl",
-      "title": "בשורה למשתמשים: תזמון הודעות מראש בוואטסאפ - כבר כאן",
-      "summary": "אחרי ציפייה ממושכת, אפליקציית המסרים הפופולרית מתחילה לנסות פיצ'ר המאפשר לקבוע שעת שליחה מדויקת לטקסטים, תמונות וסרטונים - גם בצ'אטים פרטיים וגם בקבוצות • כל הפרטים על העדכון החדש (דיגיטל)",
-      "link": "https://www.kikar.co.il/cellular-and-applications/tmsfvl",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T09:41:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21604152",
-      "title": "נאס\"א פותחת את המאגר ההיסטורי מהמסע לירח | צפו",
-      "summary": "אלפי תמונות, סרטונים והקלטות שמע מתוך תא החללית אוריון זמינים כעת לעיון חופשי • האסטרונאוטים של ארטמיס II תיעדו מגוון צבעים נדיר על פני השטח והבזקי אור מסתוריים בצדו הרחוק של הירח",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21604152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:40:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21605845",
-      "title": "3 מהחשודים בתקיפה במצפה יריחו שוחררו, התיק הועבר ללהב 433",
-      "summary": "יריחו: שלושה חשודים במעורבות בסיוע למילוט חשוד בתקיפת פלסטינים ובתקיפת שוטרים - שוחררו בתנאים מגבילים • המשך הטיפול בתיק יועבר לידי להב 433, לאחר שבמשטרה הבהירו: \"כלל הפעולות הנדרשות בתחנת מעלה אדומים בוצעו\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21605845",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:40:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21605242",
-      "title": "למעריצי דפש מוד: הלהקה שעשתה את זה עוד יותר טוב ממנה חוזרת",
-      "summary": "הרכב הסינת'פופ הבריטי MESH יוצא לסיבוב הופעות חדש ומכריז על מיני-אלבום מפתיע • היצירה החדשה תציע קטעים חדשים, רמיקסים והקלטות לייב",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21605242",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:39:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87170",
-      "title": "גבר בן 70 נפצע בינוני בתאונה עצמית בצומת אשכולות",
-      "summary": "תאונת דרכים עצמית אירעה בכביש 4 סמוך לצומת אשכולות, בה רכב פגע במעקה בטיחות. צוותי איחוד הצלה טיפלו בנהג בן 70 שנפצע באורח בינוני ופינו אותו לבית חולים להמשך טיפול.",
-      "link": "https://www.kikar.co.il/scoop-news/87170",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T09:39:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21606028",
-      "title": "כוכבת \"האח הגדול\" בכתה: \"אני רוצה לצרוח\"",
-      "summary": "לינור סביניק פתחה אמש מצלמה וכתבה טקסט מורכב שדרכו ניסתה להעביר את הקונפליקט שבו היא נמצאת. \"נשבעתי שלעולם לא אהיה כמו האנשים שדרסו אותי\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21606028",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:38:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87169",
-      "title": "לפיד קורא לדחות ממשלת אחדות עם נתניהו",
-      "summary": "יאיר לפיד הצהיר כי הוא מקווה שהנשיא הרצוג לא ינסה לדחוף לממשלת אחדות \"מזויפת\" שבה נתניהו ירמה את שותפיו. לפיד הודיע שלא ישתף פעולה עם ממשלה כזו וקרא גם לשאר מפלגות המחנה להודיע מראש שלא יהיו חלק ממנה.",
-      "link": "https://www.kikar.co.il/scoop-news/87169",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T09:38:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21605862",
-      "title": "מ-384 שקלים הלוך ושוב: טיסות חורף במחיר נוח עם ענקית הלואוקוסט",
-      "summary": "חברת התעופה וויז אייר מציעה טיסות זולות לסוף השנה האזרחית, למגוון יעדים פופולריים באירופה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21605862",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:36:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21604585",
-      "title": "אייל ברקוביץ׳ רומנטי: \"אהובתי, שתמשיכי כל החיים\"",
-      "summary": "כדורגלן העבר האגדי ציין את יום הולדתה של בת זוגו, מיכל חזן, עם ברכה אוהבת, קינוח חגיגי וסרטון שבו שר לה \"Happy Birthday\" • כך נראתה המחווה הרומנטית ששיתף ברשתות החברתיות",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21604585",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:33:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376283",
-      "title": "הולך ומתחמם: טלטלה בלבנון בעקבות הגילוי החדש על החיזבאללה",
-      "summary": "ראש ממשלת לבנון נוואף סלאם התייחס למשלוח הנשק של החיזבאללה שנתפס לאחרונה: \"הממשלה לא תקל ראש עם כל מי שמנסה לפגוע בביטחון לבנון ותנהג בתקיפות\"",
-      "link": "https://www.maariv.co.il/news/world/article-1376283",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T09:33:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376283",
-      "title": "ראש ממשלת לבנון יוצא שוב נחרצות נגד חיזבאללה: \"כל המעורבים ירדפו\"",
-      "summary": "ראש ממשלת לבנון נוואף סלאם התייחס למשלוח הנשק של החיזבאללה שנתפס לאחרונה: \"הממשלה לא תקל ראש עם כל מי שמנסה לפגוע בביטחון לבנון ותנהג בתקיפות\"",
-      "link": "https://www.maariv.co.il/news/world/article-1376283",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T09:33:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376288",
-      "title": "פתחו מטה מיוחד: מפלגת ׳הציבור החרדי׳ עם הפנים לציונות הדתית",
-      "summary": "מפלגת 'הציבור החרדי' פתחה בקמפיין נרחב בריכוזים החרדיים, ובמקביל הקימה מטה ייעודי שמטרתו פנייה לציונות הדתית, לאחר שעל פי גורמים במפלגה סקרים הצביעו על עשרות אלפי מצביעים שנותרו ללא בית פוליטי",
-      "link": "https://www.maariv.co.il/news/world/article-1376288",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T09:32:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21605893",
-      "title": "שלט בקבלנים וניפח מחירים: בכיר שב\"ס לשעבר הורשע בשוחד ובגניבה",
-      "summary": "ארקדי שכוביצקי ניצל את סמכויותיו כקצין הבינוי במחוז מרכז כדי להכתיב את זהות קבלני המשנה ולהשפיע על תמחור העבודות • בית המשפט קבע כי דרש לנפח הצעות מחיר וגרף לכיסו כספים שלא כדין • הוא הורשע בעבירות בהיקף של כ-350 אלף שקל, לצד הלבנת הון ועבירות מס",
-      "link": "https://www.israelhayom.co.il/news/law/article/21605893",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T09:31:47.000Z"
     }
   ]
 }
