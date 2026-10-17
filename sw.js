@@ -10,5 +10,8 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
+  // וידאו (סרטון ההיכרות) נשלח ישירות לרשת בלי ה-SW - בקשות Range של
+  // נגן הווידאו לא תמיד עוברות תקין דרך respondWith (בעיקר בספארי).
+  if (event.request.destination === 'video') return;
   event.respondWith(fetch(event.request));
 });
