@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:00:56.143Z",
+  "updatedAt": "2026-10-17T14:15:47.096Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rknhtl11nml",
+      "title": "עם אף ארוך, על הרצועה של ישראל: קמפיין נרחב נגד נשיא אזרבייג'ן",
+      "summary": "על רקע חוק החיג'אב שעליו הכריזה הממשלה בבאקו מתנהל קמפיין רשת שמציג את אילהם אלייב כאויב האיסלאם ועושה דברה של ישראל. על פי הערכות מאחורי הקמפיין עומדים גורמים מטורקיה, איראן ורוסיה",
+      "link": "https://www.ynet.co.il/news/article/rknhtl11nml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-17T14:12:01.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3872555",
+      "title": "בילי ג'ואל אחרי ניתוח המוח: \"אני לא יכול להופיע\"",
+      "summary": "העתיד יעונן חלקית: בשל מצבו הרפואי המורכב, האמן שמכר יותר מ-150 מיליון אלבומים אינו יודע אם יוכל לחזור אי פעם לבמות. זה המהלך שהוא עושה בינתיים",
+      "link": "https://e.walla.co.il/item/3872555",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T14:00:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378117",
       "title": "אחרי שרכושה הוחרם: חברת הקונגרס שהסתבכה עם טראמפ דורשת תשובות",
       "summary": "עורכי דינה של חברת הקונגרס הדמוקרטית אילהאן עומאר, שהיגרה מסומליה לארה\"ב לפני עשרות שנים, דורשים להשיב את הדרכון והמכשירים שהוחרמו בפשיטה על ביתה. ברקע: החקירה שעשויה להוביל לשלילת אזרחותה ולגירושה",
@@ -48,6 +66,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-17T13:39:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21644225",
+      "title": "צעיר כבן 20 נפצע קשה מירי בנתניה; הרקע ככל הנראה פלילי",
+      "summary": "צוותי מד\"א פינו את הפצוע לבית החולים לניאדו כשהוא בהכרה וסובל מפציעות חודרות • שוטרים שהגיעו לרחוב ירמיהו פתחו בחקירה ובסריקות אחר מעורבים",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21644225",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T13:39:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21643655",
+      "title": "אפל מסתירה את זה 20 שנה: התרמית הגדולה של האייפון",
+      "summary": "כאשר סטיב ג'ובס הכריז על השקת האייפון הראשון ללא מקשים פיזיים, מומחי הטכנולוגיה חזו כישלון קולוסלי בהקלדה על גבי משטח זכוכית שטוח • אלא שמאחורי המסך פעלה הנדסת תוכנה מבריקה של \"אזורי פגיעה דינמיים\" המתרחבים ומתכווצים בזמן אמת על פי מודלים לשוניים של הסתברות • מאחורי ההנדסה הגאונית של אפל",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21643655",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T13:37:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21644227",
+      "title": "שנתיים וחצי אחרי שנפרדה ממאי קורץ: השחקנית התארסה - לגבר",
+      "summary": "מי שבעבר יצאה עם נשים, כולל זוגיות מתוקשרת עם מאי קורץ, הכריזה לפני כשנתיים שהיא מחפשת אהבה חדשה - וכעת באה על שכרה • \"אלף פעם כן\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21644227",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T13:34:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21644163",
@@ -1272,6 +1317,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-17T05:46:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383957682",
+      "title": "איראן מאיימת בפלישה - וצה\"ל נערך לתגובה",
+      "summary": "הסנקציות מגבירות את הלחץ על המשטר האיראני, שמאיים בפלישה לשכנותיו ומחדש את ייצור הטילים הבליסטיים. בישראל מעריכים כי נקודת שבר עשויה להגיע בתוך חודשים, ומזהירים מפני תגובה צבאית חסרת תקדים",
+      "link": "https://www.walla.co.il/news/military/383957682",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T05:42:16.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383957682",
@@ -28461,123 +28515,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-12T14:16:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21608619",
-      "title": "בגיל 49: הצד הלא מוכר של מירי בוהדנה נחשף",
-      "summary": "לא פשוט לקבל הצצה לחייה האישיים של מירי בוהדנה, אך הפעם בנה החליט לשתף את העולם בערכים שעליהם גדל ובמודל ההורות שספג בבית: \"להסתכל לכולם בגובה העיניים\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21608619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:14:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87215",
-      "title": "מעצר ראש עיריית כפר סבא ורעייתו הוארך ב-8 ימים",
-      "summary": "בית המשפט הורה על הארכת מעצרם של ראש עיריית כפר סבא רפי סער ורעייתו בשמונה ימים. לפי החשד, השניים קיבלו מאות אלפי שקלים, בין היתר במסעות קניות של ביגוד וחפצי ערך, בתמורה למכירת מכרזים.",
-      "link": "https://www.kikar.co.il/scoop-news/87215",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T14:14:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21608583",
-      "title": "\"לא דרשנו כסף, ספין של האוצר\": בכיר ביטחוני זועם על הקיצוץ המסתמן",
-      "summary": "על רקע כוונת משרד האוצר לקדם קיצוץ רוחבי של שני מיליארד שקלים בטענה לצורך ביטחוני בהול, גורם בכיר אומר ל\"היום\" כי מדובר בשקר וכי לא קרה אירוע מתפרץ • לדבריו האוצר מעכב 15 מיליארד שקלים שכבר אושרו • מדוע הכסף תקוע וכיצד ייראה תקציב השיא של המערכת",
-      "link": "https://www.israelhayom.co.il/business/article/21608583",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:13:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/man-found-dead-week-later-jerusalem-apartment",
-      "title": "הבדידות הקטלנית: נמצאה גופת גבר בן 60 בדירתו בירושלים | הערכה: נפטר לפני שבוע",
-      "summary": "בעל דירה גילה את השוכר ללא רוח חיים במצב ריקבון • מתנדבי זק\"א פעלו בזירה המורכבת לטיפול בכבוד המת | תופעה מדאיגה של בדידות (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/man-found-dead-week-later-jerusalem-apartment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T14:10:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21608660",
-      "title": "טלטלה בענקית הטכנולוגיה: עשרות עובדי פיתוח יועברו מתפקידם או יפוטרו",
-      "summary": "המהלך הוא חלק מארגון מחדש שמבצעת מיקרוסופט ברחבי העולם ומשפיע גם על מרכז הפיתוח בישראל • בחברה ינסו להעביר את העובדים לתפקידים אחרים, אך מי שלא יימצא עבורו פתרון צפוי לסיים את עבודתו • במיקרוסופט מסרו: \"במקרים מסוימים מדובר בהחלטות קשות שמשפיעות באופן ישיר על עובדים\"",
-      "link": "https://www.israelhayom.co.il/business/article/21608660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:10:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21608660",
-      "title": "שינוי ארגוני: עשרות עובדים במיקרוסופט ישראל יועברו מתפקידם או יפוטרו",
-      "summary": "המהלך הוא חלק מארגון מחדש שמבצעת מיקרוסופט ברחבי העולם ומשפיע גם על מרכז הפיתוח בישראל • בחברה ינסו להעביר את העובדים לתפקידים אחרים, אך מי שלא יימצא עבורו פתרון צפוי לסיים את עבודתו • במיקרוסופט מסרו: \"במקרים מסוימים מדובר בהחלטות קשות שמשפיעות באופן ישיר על עובדים\"",
-      "link": "https://www.israelhayom.co.il/business/article/21608660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:10:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21606324",
-      "title": "אונס ותקיפה מינית: ראסל בראנד התייצב בבית המשפט",
-      "summary": "שש נשים מאשימות את האקס של קייטי פרי בעבירות החמורות. השחקן והקומיקאי הבריטי, בעל עבר רצוף שערוריות, התמכרויות, מערכות יחסים סוערות והתבטאויות פרובוקטיביות, מכחיש את כל המיוחס לו",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21606324",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:09:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21608685",
-      "title": "הסתבכה: ה-FBI פשטה על ביתה של אילהאן עומאר",
-      "summary": "משרד המשפטים האמריקני אישר כי הפשיטה בוצעה באמצעות צו חיפוש שיפוטי, וזאת כחלק מחקירה פלילית מתמשכת המתנהלת נגדה • בחנות מחדש טענות ארוכות שנים שלפיהן נישאה עומאר לאחיה בשנת 2009",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21608685",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:09:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21608685",
-      "title": "חברת הקונגרס האנטי ישראלית הסתבכה: פשיטה של ה-FBI על ביתה של אילהאן עומאר",
-      "summary": "משרד המשפטים האמריקני אישר כי הפשיטה בוצעה באמצעות צו חיפוש שיפוטי, וזאת כחלק מחקירה פלילית מתמשכת המתנהלת נגדה • בחנות מחדש טענות ארוכות שנים שלפיהן נישאה עומאר לאחיה בשנת 2009",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21608685",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:09:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21607608",
-      "title": "מהפך במזג האוויר: אזהרות מסופות רעמים לצד גל חום קיצוני",
-      "summary": "שילוב חריג של מזג אוויר ברחבי הארץ: לצד סיכוי לגשם ופעילות חשמלית בנגב ובערבה, שורר באותם אזורים ובמזרח הארץ גל חום כבד המלווה באזהרות רשמיות • מצב הים דורש ערנות מהרוחצים בשל שינויים ברוחות ובגלים",
-      "link": "https://www.israelhayom.co.il/weather/article/21607608",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:08:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1376359",
-      "title": "אראל סג\"ל הפתיע את הכתב הצבאי: \"אתה בעצם אומר לי 'הקול שלך לא טוב'\"",
-      "summary": "אראל סג\"ל ואור הלר שוחחו עם אילה חסון ברדיו 103fm על משפט נתניהו, והרוחות באולפן התלהטו: \"הדבר הכי נורא זה שימוש בפסיכיאטריה או במשפט כדי לחסל יריבים פוליטיים\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1376359",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T14:06:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21604323",
-      "title": "חברת ילדות של אור: היכרות עם בת הזוג הצעירה של עמוס לוזון",
-      "summary": "היא צעירה ממנו ב-34 שנים, בעבר הייתה חברה טובה של בתו ואף חגגה את מסיבת הרווקות שלה בביתו, בתכנון של אור • כעת, כמעט חצי שנה לתוך הזוגיות, נופר פיבקו הגיעה עם עמוס ואור לחתונה היוקרתית של דור אירני באיטליה",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21604323",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:02:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376397",
-      "title": "הטרגדיה ברמים: הגיבור שהיה בנס בזירה והשתלט על האירוע - \"תפעלתי את התלמידים\"",
-      "summary": "פרטים חדשים ממשיכים להיחשף על האסון ברכס רמים במהלכו התפוצצה פצצת מצרר לאחר שתלמיד תיכון ככל הנראה הכניס אותה לתיק. תמיר דואדי שהגיע ראשון לזירה סיפר על הדקות הראשונות בהן פינה פצועים יחד עם הנערים",
-      "link": "https://www.maariv.co.il/news/israel/article-1376397",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T14:01:38.000Z"
     }
   ]
 }
