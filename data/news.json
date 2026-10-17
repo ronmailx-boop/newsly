@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:45:53.524Z",
+  "updatedAt": "2026-10-17T07:00:53.563Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383957427",
+      "title": "המטרה: הפיכה שקטה. השיטה: כיבוש מוקדי הכוח מבפנים",
+      "summary": "מאחורי ההתבטאויות הקשות נגד חילונים, חיילות וערבים מסתתרת אידאולוגיה ברורה שחדרה למוקדי ההכרעה. המאבק במכינת עלי הוא הקרב המכריע על עצם קיומה של הדמוקרטיה המהותית בישראל | דעה",
+      "link": "https://www.walla.co.il/news/opinions/383957427",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T06:54:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sk6dtcx2mx",
+      "title": "דיווח: \"היורש של סינוואר\" היה בדירה שצה\"ל תקף בעזה לפני שבועיים - אבל רק נפצע",
+      "summary": "עלי אל-עמודי, שנחשב למנהיג חמאס ברצועה, הותקף בדירה לפני שבועיים. בכיר בארגון אמר ל\"א-שרק אל-אווסט\" הסעודי כי הוא אכן היה שם, אבל באזור צדדי - וניצל",
+      "link": "https://www.ynet.co.il/news/article/sk6dtcx2mx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-17T06:48:37.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14927920",
       "title": "בבחירות האלו אין לנו זמן לטעות",
@@ -30207,105 +30225,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-12T07:01:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21604156",
-      "title": "רגע לפני אירוע ה-\"Welcome home\": הדלפת הענק של אפל",
-      "summary": "לקראת אירוע ההשקה, נחשפים 16 פרטים על ההימור המשמעותי ביותר של אפל על הבית החכם • מסך בעיצוב ה-iMac G4 האייקוני עם שבב A18, מרכז שליטה מבוסס Siri AI, זיהוי פנים למשתמשים, שלט שיודע לצפצף ושיתוף פעולה מפתיע עם LG • מוכנים לשדרוג ראשון ל-HomePod mini מזה 6 שנים? • כל מה שצפוי",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21604156",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T06:51:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21604109",
-      "title": "שנה למותה: הוליווד מציינת את הפרידה מכוכבת הענק",
-      "summary": "במלאת שנה למותה של השחקנית האגדית וזוכת האוסקר בגיל 79 דיאן קיטון, ילדיה המאומצים דקסטר ודיוק, לצד חברתה הקרובה שרה פולסון, שיתפו בזיכרונות אישיים, בתמונות נדירות ובגעגוע",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21604109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T06:50:38.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "title": "נפתלי בנט: \"ישראל במסע התאבדות בהילוך איטי. לדרעי אין אלוהים\"",
-      "summary": "שבועיים ויום לפתיחת הקלפיות, ואחרי הסערה שעורר בגוש השינוי, יו\"ר ביחד התראיין לוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\": \"ישראל נמצאת בתהליך התאבדות בהילוך איטי\", אמר, \"המדינה נפלה תחת בן גביר. הוא ליצן\". על הטענה שהגוש יקים ממשלה בהישענות על מפלגות ערביות: \"חרטא\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T06:50:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "title": "נפתלי בנט: \"ישראל במסע התאבדות בהילוך איטי. לדרעי אין אלוהים\" | ישיר",
-      "summary": "שבועיים ויום לפתיחת הקלפיות, ואחרי הסערה שעורר בגוש השינוי, יו\"ר ביחד התראיין לוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\": \"ישראל נמצאת בתהליך התאבדות בהילוך איטי\", אמר, \"המדינה נפלה תחת בן גביר. הוא ליצן\". על הטענה שהגוש יקים ממשלה בהישענות על מפלגות ערביות: \"חרטא\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T06:50:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "title": "נפתלי בנט: פעולות יועצי נתניהו - בגידה. סוכנים קטארים | ישיר",
-      "summary": "שבועיים ויום לפתיחת הקלפיות, ואחרי הסערה שעורר בגוש השינוי, יו\"ר ביחד התראיין לוועידת \"האנשים של המדינה\", של ynet ו\"ידיעות אחרונות\": \"מדינת ישראל נמצאץ בתהליך התאבדות בהילוך איטי, נחליף את נתניהו\", אמר. על הטענה שהגוש יקים ממשלה בהישענות על מפלגות ערביות: \"חרטא\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T06:50:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "title": "נפתלי בנט: פעולות יועצי נתניהו - בגידה. סוכנים קטאריים | ישיר",
-      "summary": "שבועיים ויום לפתיחת הקלפיות, ואחרי הסערה שעורר בגוש השינוי, יו\"ר ביחד התראיין לוועידת \"האנשים של המדינה\", ועידת הדגל של ynet ו\"ידיעות אחרונות\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1rvfkcsfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T06:50:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21604403",
-      "title": "אלירז שדה לאישתו אילנית לוי: \"נמכור את הבית\"",
-      "summary": "מגיש החדשות פרסם סטורי שבו תיעד בילוי עם אישתו ואם בתו אריאה, מלכת היופי במיל' אילנית לוי. במהלך הבילוי הציע לה למכור את ביתם הפרטי. מאיזו סיבה?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21604403",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T06:49:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376194",
-      "title": "אחרי הסערה שחולל בנט: לפיד סוגר חשבון - ומזהיר מפני מלחמה באיראן",
-      "summary": "לפיד מבהיר כי בנט התלוצץ וכי לא ישבו עם נתניהו, תוקף את התנהלות הממשלה לפני 7 באוקטובר ומעריך כי לא צפויה מלחמה עם איראן לפני הבחירות. בהמשך השמיע האשמות חריפות נגד יונתן אוריך וערוץ 14",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1376194",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T06:49:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1376194",
-      "title": "אחרי האמירה שהסעירה את המחנה: לפיד מבהיר למה באמת התכוון בנט | האזינו",
-      "summary": "לפיד מבהיר כי בנט התלוצץ וכי לא ישבו עם נתניהו, תוקף את התנהלות הממשלה לפני 7 באוקטובר ומעריך כי לא צפויה מלחמה עם איראן לפני הבחירות. בהמשך השמיע האשמות חריפות נגד יונתן אוריך וערוץ 14",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1376194",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T06:49:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21604496",
-      "title": "לאחר שהיה חשש לחייו: הישראלי שנעדר במדריד - אותר",
-      "summary": "לידן ערבה בן ה-31 יצא לחופשה במדריד עם חברים ונראה לאחרונה אמש • החשש לחייו גבר לאחר שלא התייצב הבוקר לטיסה חזרה לישראל, אך כעת הוא אותר במדריד",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21604496",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T06:47:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21604496",
-      "title": "חשש לחיי ישראלי שנעדר במדריד: לא הגיע לטיסה בחזרה לארץ",
-      "summary": "לידן ערבה בן ה-31 יצא לחופשה במדריד עם חברים ונראה לאחרונה אמש • החשש לחייו גבר לאחר שלא התייצב הבוקר לטיסה חזרה לישראל • זק\"א ומלווי המשפחה מבקשים את עזרת הציבור",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21604496",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T06:47:24.000Z"
     }
   ]
 }
