@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:30:48.517Z",
+  "updatedAt": "2026-10-17T19:45:42.207Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957813",
+      "title": "\"הוא קוף, מרוקאי\": ינון מגל תקף את איזנקוט - שהשיב בחריפות",
+      "summary": "מגיש \"הפטריוטים\" בערוץ 14 טען כי יו\"ר מפלגת ישר! מנוהל בידי \"אשכנזים אליטיסטים\", וכינה אותו שוב ושוב \"קוף\". איזנקוט הגיב: \"הבעיה היא לא ינון מגל אלא האיש שעומד מאחורי ינון מגל\"",
+      "link": "https://www.walla.co.il/news/israel/383957813",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T19:33:29.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byh5nhzhzg",
+      "title": "לעיני החיילים: פורעים גנבו עדר כבשים מפלסטינים - ועזבו | תיעוד",
+      "summary": "תיעוד מדרום הר חברון הראה רעולי פנים גונבים עדר כבשים. חיילים שהיו במקום התעלמו מהנעשה, ואף פעלו לאחר מכן להרחיק את התושבים הפלסטינים. בצה\"ל טענו: המשימה הייתה הפסקת החיכוך והפרדת הצדדים",
+      "link": "https://www.ynet.co.il/news/article/byh5nhzhzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-17T19:33:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21646349",
+      "title": "יריות נשמעו במהלך כנס של סמוטריץ' בלוד: \"הנשק הפלילי מתהפך בשנייה ללאומני\"",
+      "summary": "יריות נשמעו במהלך כנס של הציונות הדתית בלוד בהשתתפות מאות תושבים • סמוטריץ' טען כי על פי נתוני שב\"כ שנמסרו לו, בחברה הערבית מצויים יותר ממיליון כלי נשק • התוכנית שהציג כוללת שילוב שב\"כ, מעצרים מנהליים, עונשי מינימום וחנק כלכלי של ארגוני הפשיעה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21646349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T19:26:37.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tn2fpc",
       "title": "ינון מגל ספג מתקפה בתקשורת לאחר שכינה את איזנקוט: \"קוף ושמו מרוקאי\"",
@@ -95,8 +122,17 @@
       "pubDate": "2026-10-17T19:17:54.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21646140",
+      "title": "אילנית לוי מאבדת סבלנות: \"אני יכולה למות\"",
+      "summary": "מגישת הטלוויזיה מוכיחה שוב שגם אחרי שנות נישואים ארוכות, בני זוג עדיין יכולים להפתיע ולשגע אחד את השנייה בכל יום מחדש • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21646140",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T19:15:37.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/r1600dsz2ze",
-      "title": "ינון מגל: איזנקוט - קוף שמאחוריו אשכנזים אליטיסטים",
+      "title": "ינון מגל: \"איזנקוט - קוף שמאחוריו אשכנזים אליטיסטים\"",
       "summary": "מגיש ערוץ 14 כינה את יו\"ר ישר! \"קוף\", וטען שמאחוריו עומדים \"אשכנזים\" שמנהלים אותו. איזנקוט הגיב: \"תת-רמה\", במפלגה הוסיפו: \"הפחד מהפסד חושף את האמת המכוערת שלכם\"",
       "link": "https://www.ynet.co.il/news/elections2026/article/r1600dsz2ze",
       "source": "ynet",
@@ -372,6 +408,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-17T17:52:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21645501",
+      "title": "\"לא חושב ששרברב יכול להנחית מטוס\": הקברניט משחזר לראשונה את האימה",
+      "summary": "יותר משבועיים לאחר ניסיון הפיגוע בטיסת פליי דובאי לישראל, הקברניט ההודי סמית מאצ'הר מספר לראשונה בריאיון עיתונאי נרחב על הרגעים שבהם טייס המשנה תקף אותו בגרזן • הוא מתאר כיצד שמע את המנועים בעודו מדמם ומאבד את הכרתו, את המאבק לפתיחת דלת הקוקפיט ואת המחשבה שלא נתנה לו לוותר על חייו",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21645501",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T17:52:53.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21645501",
@@ -28830,24 +28875,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-12T19:46:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21610738",
-      "title": "עכשיו זה רשמי: איזנקוט הולך על הראש של השותפים לגוש",
-      "summary": "15 ימים לבחירות, קמפיין שתיית הקולות יוצא לדרך • בהודעה בקבוצה פנימית של ישר! נכתב: \"המרוץ על המפלגה הגדולה ביותר יוכרע על שברירי קולות\" • במפלגה של בנט תקפו: \"אין מקום לאגו\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21610738",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T19:41:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tmt68l",
-      "title": "מאות חנויות נפגעו: מתקפת הסייבר שהפכה את המקררים לתנורים",
-      "summary": "מאות סופרמרקטים נפגעו בצרפת במתקפת סייבר לילית, שהביאה להפעלת מנגנוני ההפשרה ולזינוק בטמפרטורות; מזון רב הושלך, שריפות פרצו והרשויות פתחו בחקירה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tmt68l",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T19:33:07.000Z"
     }
   ]
 }
