@@ -1,6 +1,6 @@
 import numpy as np, wave
 np.random.seed(7)
-SR=48000; DUR=29.5; N=int(SR*DUR); t=np.arange(N)/SR
+SR=48000; DUR=29.9; N=int(SR*DUR); t=np.arange(N)/SR
 out=np.zeros(N)
 bpm=104; beat=60/bpm
 def note(f): return 440*2**((f-69)/12)
@@ -32,8 +32,8 @@ for b in range(nb):
     ch=chords[int(b*beat/bar)%4]; m=ch[(b)%3]+12
     L=int(0.3*SR); tt=np.arange(min(L,N-s))/SR
     out[s:s+len(tt)]+=0.03*np.exp(-tt*10)*np.sin(2*np.pi*note(m)*tt)
-# end: ring out at 25.6s impact
-imp=int(25.6*SR); tt=np.arange(N-imp)/SR
+# end: ring out at 26.2s impact (logo end card)
+imp=int(26.2*SR); tt=np.arange(N-imp)/SR
 out[imp:]+=0.25*np.exp(-tt*2.5)*np.sin(2*np.pi*note(45)*tt)+0.08*np.exp(-tt*1.5)*np.sin(2*np.pi*note(69)*tt)
 fade=np.ones(N); fi=int(0.5*SR); fade[:fi]=np.linspace(0,1,fi); fo=int(1.5*SR); fade[-fo:]=np.linspace(1,0,fo)
 out*=fade; out/=np.max(np.abs(out))*1.1
