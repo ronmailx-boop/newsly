@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:45:44.809Z",
+  "updatedAt": "2026-10-17T12:01:02.708Z",
   "sources": [
     {
       "key": "ynet",
@@ -93,6 +93,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T10:52:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378089",
+      "title": "יוסף חדאד חושף את ההצעה מהליכוד - ומציב תנאי לנתניהו",
+      "summary": "יוסף חדאד חשף כי הליכוד הציע לו מקום בעשירייה הראשונה והבטחה לתפקיד שר, אך הוא בחר להתמודד מטעם \"עמך ישראל\". הוא הבהיר כי מפלגתו תשב בממשלת נתניהו רק אם יוסדר הגיוס לכולם",
+      "link": "https://www.maariv.co.il/news/politics/article-1378089",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T10:50:45.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1378089",
@@ -29118,69 +29127,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-12T12:01:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/flydubai-passengers-email-support-no-compensation",
-      "title": "\"מפתיע ולא לטובה\": ההודעה שקיבלו הנוסעים בטיסת פליי דובאי",
-      "summary": "החברה פנתה לנוסעי הטיסה הדרמטית כמעט שבועיים לאחר האירוע • הציעה ליווי נפשי אך נמנעה מלהתייחס לפיצוי כספי | הנוסעים מאוכזבים: \"ניסיון לצמצם נזקים\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/flydubai-passengers-email-support-no-compensation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T12:00:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376349",
-      "title": "חגיגות 60 השנה לאיחוד ירושלים: דרך על שמו של חיים גורי ז\"ל",
-      "summary": "עיריית ירושלים חונכת דרך על שמו של חיים גורי ז\"ל, חתן פרס ישראל, איש פלמ\"ח, יקיר ירושלים, מפקד ולוח שנלחם במלחמת ששת הימים והיה מבין משחרריה, משורר, סופר, עיתונאי ויוצר דוקומונטרי",
-      "link": "https://www.maariv.co.il/news/israel/article-1376349",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T12:00:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmsmax",
-      "title": "וילנא לבשה חג: מעמד ה\"קונוושן\" ה - 31 של דרשו, וסיום מסכת במסגרת \"העמוד היומי\"",
-      "summary": "גדולי ישראל וצירי \"דרשו\" מרחבי העולם התכנסו בעירו של הגר\"א למעמד מרומם שחתם את מסע התפילה וההתעוררות בבלארוס ובליטא • משאות חיזוק להעמקת לימוד התורה ותפילות להצלת עולם הישיבות • בשיאו של המעמד: סיום מסכת יומא במסגרת \"העמוד היומי\" וריקודים נרגשים לכבודה של תורה",
-      "link": "https://www.kikar.co.il/haredim-news/tmsmax",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T11:58:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376344",
-      "title": "דרמה בבית הלבן: השגרירה ביוון מועמדת באופן חריג להדחה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ ומזכיר המדינה מרקו רוביו שוקלים להדיח את שגרירת ארה\"ב ביוון, קימברלי גילפויל, שהייתה מאורסת לבנו של הנשיא. ברקע: בקשה לכיסוי חוב של 100 אלף דולר וטענות להתנהלות בלתי הולמת",
-      "link": "https://www.maariv.co.il/news/world/article-1376344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T11:49:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376344",
-      "title": "דרמה בבית לבן: השגרירה ביוון מועמדת באופן חריג להדחה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ ומזכיר המדינה מרקו רוביו שוקלים להדיח את שגרירת ארה\"ב ביוון, קימברלי גילפויל, שהייתה מאורסת לבנו של הנשיא. ברקע: בקשה לכיסוי חוב של 100 אלף דולר וטענות להתנהלות בלתי הולמת",
-      "link": "https://www.maariv.co.il/news/world/article-1376344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T11:49:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376344",
-      "title": "הדילמה של טראמפ: ארוסתו לשעבר של בנו מועמדת להדחה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ ומזכיר המדינה מרקו רוביו שוקלים להדיח את שגרירת ארה\"ב ביוון, קימברלי גילפויל, שהייתה מאורסת לבנו של הנשיא. ברקע: בקשה לכיסוי חוב של 100 אלף דולר וטענות להתנהלות בלתי הולמת",
-      "link": "https://www.maariv.co.il/news/world/article-1376344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T11:49:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/reckless-scooter-driver-traffic-violation",
-      "title": "חשב שזה מצחיק: כך נסע האופנוען על הכביש בצפון - וחטף ביוקר",
-      "summary": "קצין מסיירת האופנועים תיעד נהג קטנוע של חברת שליחויות נוסע בכביש 4 כשרגליו מורמות על הכידון וידיו חופשיות • כשהבחין שהוא מצולם, הוא הניף יד וסימן 'לייק' במקום לעצור • צפו (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/reckless-scooter-driver-traffic-violation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T11:47:20.000Z"
     }
   ]
 }
