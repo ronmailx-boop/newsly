@@ -25,6 +25,14 @@
   <header class="app-header">
     <div class="app-header__row">
       <h1 class="app-title">Newsly</h1>
+      <div class="app-header__actions">
+      <button
+        type="button"
+        class="promo-toggle"
+        id="promo-toggle"
+        aria-label="צפייה בסרטון ההיכרות עם Newsly"
+        title="סרטון היכרות"
+      ><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor" /></svg></button>
       <button
         type="button"
         class="settings-toggle"
@@ -34,6 +42,7 @@
         aria-controls="settings-panel"
         aria-label="הגדרות גלילה אוטומטית"
       >⚙️</button>
+      </div>
     </div>
     <nav class="source-tabs" aria-label="סינון לפי מקור חדשות">
       <button type="button" class="tab is-active" data-source="all">הכל</button>
@@ -87,6 +96,24 @@
         <button type="button" class="confirm-dialog__cancel" id="confirm-dialog-cancel">ביטול</button>
         <button type="button" class="confirm-dialog__confirm" id="confirm-dialog-confirm">הסתרה</button>
       </div>
+    </div>
+  </div>
+
+  <!-- סרטון היכרות (נוצר בקוד - scripts/promo/). preload="none" כדי שלא
+       יירד כלום עד שלוחצים על הכפתור. -->
+  <div class="promo-dialog" id="promo-dialog" hidden>
+    <div class="promo-dialog__backdrop"></div>
+    <div class="promo-dialog__frame" role="dialog" aria-modal="true" aria-label="סרטון היכרות עם Newsly">
+      <video
+        class="promo-dialog__video"
+        id="promo-video"
+        src="media/promo.mp4"
+        poster="media/promo-poster.jpg"
+        preload="none"
+        playsinline
+        controls
+      ></video>
+      <button type="button" class="promo-dialog__close" id="promo-close" aria-label="סגירת הסרטון">✕</button>
     </div>
   </div>
 

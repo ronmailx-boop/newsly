@@ -519,6 +519,62 @@
     settingsToggle.setAttribute('aria-expanded', String(!isOpen));
   });
 
+  // סרטון היכרות - נפתח רק בלחיצה (preload="none"), הגלילה האוטומטית
+  // נעצרת בזמן הצפייה וחוזרת בסגירה (כמו מסך אישור המחיקה).
+  const promoToggle = document.getElementById('promo-toggle');
+  const promoDialog = document.getElementById('promo-dialog');
+  const promoVideo = document.getElementById('promo-video');
+  const promoClose = document.getElementById('promo-close');
+
+  function openPromo() {
+    stopAutoplay();
+    promoDialog.hidden = false;
+    document.addEventListener('keydown', handlePromoKeydown);
+    promoClose.focus();
+    promoVideo.currentTime = 0;
+    promoVideo.play().catch(() => {
+      // ניגון אוטומטי נחסם - הפקדים של הנגן זמינים להפעלה ידנית
+    });
+  }
+
+  function closePromo() {
+    promoVideo.pause();
+    promoDialog.hidden = true;
+    document.removeEventListener('keydown', handlePromoKeydown);
+    promoToggle.focus();
+    scheduleAutoplay();
+  }
+
+  function handlePromoKeydown(event) {
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      closePromo();
+      return;
+    }
+    if (event.key === 'Tab') {
+      // לכידת פוקוס בין הנגן לכפתור הסגירה
+      const first = promoVideo;
+      const last = promoClose;
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    }
+  }
+
+  promoToggle.addEventListener('click', openPromo);
+  promoClose.addEventListener('click', closePromo);
+  promoDialog.querySelector('.promo-dialog__backdrop').addEventListener('click', closePromo);
+  promoVideo.addEventListener('error', () => {
+    promoVideo.replaceWith(Object.assign(document.createElement('p'), {
+      className: 'status-message',
+      textContent: 'לא ניתן לטעון את הסרטון כרגע. בדוק/י את החיבור לאינטרנט ונסה/י שוב.',
+    }));
+  });
+
   // עצירת הטיימר תוך כדי מגע - כדי לא "לקפוץ" reel באמצע גלילה ידנית.
   // ה-IntersectionObserver יתזמן מחדש ברגע שהגלילה מתייצבת על reel כלשהו.
   reelsEl.addEventListener('touchstart', stopAutoplay, { passive: true });
