@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:15:47.096Z",
+  "updatedAt": "2026-10-17T14:30:50.072Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-17T14:12:01.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383957782",
+      "title": "המשט החדש לעזה נעצר: אלו הסיבות שהביאו לביטול ההפלגה",
+      "summary": "מארגני המשט לעזה הודיעו כי לא ימשיכו ליעדם השנה, בעקבות תקלות בכלי השיט שעיכבו את ההפלגה ושני מפגשים קשים עם גופות מהגרים בים התיכון. הניסיון הבא לפרוץ את הסגר הישראלי על הרצועה מתוכנן לאביב 2027",
+      "link": "https://www.walla.co.il/news/world/383957782",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-17T14:10:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/gadget-review/article/21643927",
+      "title": "קניתם לאחרונה מקרר? פספסתם את הדבר הכי טוב בשוק",
+      "summary": "אחרי שבישרנו לכם על חזרתו לישראל של מותג המקררים האייקוני משנות ה-80, לקחנו לבדיקה את דגם המקפיא התחתון של Frigidaire • המסקנה? מאחורי השם הנוסטלגי מסתתרת מכונת עבודה מודרנית ששמה סוף למשחק ה\"טטריס\" של סידור הקניות • סקירה",
+      "link": "https://www.israelhayom.co.il/tech/gadget-review/article/21643927",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-17T14:04:06.000Z"
     },
     {
       "id": "walla:https://e.walla.co.il/item/3872555",
@@ -105,6 +123,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378108",
+      "title": "חיזבאללה הודה שהמטען שלו – ואז הגיעה הדרישה החריגה",
+      "summary": "פרשת משלוח חומרי הנפץ של חיזבאללה: דיווח בלבנון על הוראות מעצר נגד שני בכירים בחיזבאללה הצית סערה, אך בארגון מיהרו להכחיש. במקביל, נחשפו ניסיונות של הארגון להשיב את המטען",
+      "link": "https://www.maariv.co.il/news/world/article-1378108",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T13:28:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1378108",
       "title": "לבנון סוערת: הדיווח על בכירי חיזבאללה שהוכחש במהירות",
       "summary": "פרשת משלוח חומרי הנפץ של חיזבאללה: דיווח בלבנון על הוראות מעצר נגד שני בכירים בחיזבאללה הצית סערה, אך בארגון מיהרו להכחיש. במקביל, נחשפו ניסיונות של הארגון להשיב את המטען",
       "link": "https://www.maariv.co.il/news/world/article-1378108",
@@ -156,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T13:18:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1378023",
+      "title": "\"אני משוכנעת שהשדה לא יקום\": ראשת מועצת עמק יזרעאל במתקפה חריפה על סמוטריץ'",
+      "summary": "ראשת מועצת עמק יזרעאל שלומית שיחור רייכמן מזהירה מירי, שריפות פסולת ומחסור במשילות, יוצאת נגד שדה התעופה ברמת דוד ומציגה תוכנית ל-800 יחידות דיור: \"אני צריכה סמכות וכסף\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1378023",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-17T13:15:31.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1378023",
@@ -28407,114 +28443,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-12T14:31:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21608897",
-      "title": "המגפה השקטה של ישראל: בן 60 נמצא מת בירושלים",
-      "summary": "הגבר שחי לבדו התגלה ללא רוח חיים בשכונת הגבעה הצרפתית, לאחר שבעל הנכס הריח צחנה שעלתה מהדירה • מתנדבי זק\"א תיארו זירה מורכבת בתוך בית מלא באשפה וסיפרו כי פעלו במקום זמן ממושך • התקרית מצטרפת לשורת מקרים טרגיים של מוות בבדידות שנחשפו רק לאחרונה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21608897",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:29:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21608797",
-      "title": "לראשונה בעולם: הופק סידור תפילה בשפת אמם של עולי בני המנשה",
-      "summary": "נוף הגליל, המוגדרת כבירת עולי המנשה, הפיקה לראשונה סידורי תפילה ומחזורים המותאמים לשפתם של העולים מהודו • היוזמה נולדה בעקבות מפגש מקרי בערב ראש השנה, שבו סיפרו העולים לראש העיר כי התפילות הועברו בעל פה ומעולם לא היה בידיהם סידור מתורגם • היום חולקו הספרים החדשים בלשכת ראש העיר במעמד רבני העיר ונציגי הקהילה • המועצה הדתית: \"הם מקפידים לפקוד את בתי הכנסת ולהשתלב בחיי הקהילה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21608797",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:27:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk46cl9oze",
-      "title": "\"אנחנו לא צריכים שהממשלה תהיה כאן - צריך שיעבירו לנו סמכויות\"",
-      "summary": "בפאנל ראשי הרשויות בוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\" טענו ראשי ערים שהממשלה לא מבינה את הצרכים של האזרחים. ראש העיר רעננה: \"באה נציגת ממשלה ושאלה 'מה אנחנו יכולים לעזור?' - עניתי שלא יתערבו\". ראש העיר טבריה: \"לא הצלחנו להסביר בירושלים שסגירת הכינרת זה גזר דין מוות\". ראש העיר שדרות: \"ב-7/10 בבוקר ראו את הטנדרים בעיר - אבל בערב שכחו אותנו\"",
-      "link": "https://www.ynet.co.il/news/article/bk46cl9oze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T14:27:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/anti-israel-activists-deported-hebron-filming-idf",
-      "title": "נשיאת ארגון אנטי-ישראלי נתפסה מצלמת חיילים בחברון - וגורשה בבושת פנים",
-      "summary": "שלושה פעילים זרים עוכבו לאחר שצילמו חיילי צה\"ל בעמדה ביטחונית • התברר: אחת מהן נשיאת ארגון אנטי-ישראלי ומקדמת BDS | גורשו מישראל תוך 24 שעות (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/anti-israel-activists-deported-hebron-filming-idf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T14:27:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21608766",
-      "title": "\"זירה קשה\": בעל הדירה בירושלים הגיע - וגילה את גופת הדייר",
-      "summary": "טרגדיה בירושלים: כוחות החירום פרצו לדירה באזור הגבעה הצרפתית ומצאו את הדייר ללא רוח חיים • המתנדבים העידו: \"מדובר בזירה קשה ומורכבת, הדירה הייתה עמוסה בכמויות גדולות של פסולת וחפצים\" • פראמדיקים של מד\"א קבעו את מותו במקום",
-      "link": "https://www.israelhayom.co.il/news/local/article/21608766",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:25:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21608766",
-      "title": "הריח החריג הוביל לגילוי: גבר בן 60 אותר ללא רוח חיים, שבוע לאחר שנפטר",
-      "summary": "טרגדיה בירושלים: כוחות החירום פרצו לדירה באזור הגבעה הצרפתית ומצאו את הדייר ללא רוח חיים • המתנדבים העידו: \"מדובר בזירה קשה ומורכבת, הדירה הייתה עמוסה בכמויות גדולות של פסולת וחפצים\" • פראמדיקים של מד\"א קבעו את מותו במקום",
-      "link": "https://www.israelhayom.co.il/news/local/article/21608766",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:25:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/beauty/article/21608599",
-      "title": "משתמשים ברטינול בגיל 20? חכו עם זה רגע",
-      "summary": "לדאוג לעור שלכם זה דבר טוב – אבל יש דברים שאין סיבה לעשות אם לא קרה משהו שמאלץ אתכם להתחיל",
-      "link": "https://www.israelhayom.co.il/lifestyle/beauty/article/21608599",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:24:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/knesset-26-elections-historic-data-deepfake-threat",
-      "title": "נתונים מרתקים על מערכת הבחירות: 7.3 מיליון בוחרים והסכנות שעומדות בפתח",
-      "summary": "למעלה מ-7.3 מיליון בעלי זכות בחירה ייצאו לקלפיות ב-27 באוקטובר • הכנסת הראשונה מזה 38 שנה שממלאת קדנציה מלאה • חוק חדש נגד סרטוני בינה מלאכותית מזויפים | הערים החרדיות מובילות בשיעורי הצבעה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/knesset-26-elections-historic-data-deepfake-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T14:22:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21608816",
-      "title": "שוטר נפצע קשה ו-10 נעצרו: הכאוס בליברפול נגד מנצ'סטר סיטי",
-      "summary": "המשחק הטעון באנפילד גלש לאירועים אלימים • חמישה נעצרו בחשד לקריאות על אסונות עבר, שוטר נפצע בפניו במהלך מעצר ונזקק לטיפול בבית חולים, כשהמשטרה פתחה בחקירה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21608816",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-12T14:21:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/yaakov-asher-meron-prayer-injured-ramim-ridge",
-      "title": "יעקב אשר הגיע למירון: נשא תפילה לרפואת הפצועים באירוע הקשה",
-      "summary": "יו\"ר יהדות התורה הגיע לציון הרשב\"י לאחר פתיחת מטה הבחירות בצפת • נשא תפילה לרפואת הפצועים באירוע הקשה ברכס רמים | נער כבן 15 נהרג ועוד כ-19 נפגעו (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/yaakov-asher-meron-prayer-injured-ramim-ridge",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-12T14:20:51.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bym3esqjme",
-      "title": "ענישה, תנאי כליאה או דווקא חינוך ושיקום: איך עוצרים את הדימום?",
-      "summary": "בתי הסוהר - \"מפעל לייצור עבריינות\", מערכת המשפט - \"בנות הביאו 14-9 ק\"ג קוקאין וקיבלו עבודות שירות, בחייכם\", והמשטרה? \"מצפצפים עליה\". בוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\" ניסו משתתפי הפאנל לענות על השאלה שנתפסת מורכבת מאי פעם: מה צריך לעשות כדי להרגיש שוב בטוחים?",
-      "link": "https://www.ynet.co.il/news/article/bym3esqjme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-12T14:18:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1376365",
-      "title": "אילה חסון עלתה לדבר על מנדלבליט - וחשפה: \"אם זה היה קורה - הייתי מיליארדרית\"",
-      "summary": "אילה חסון שוחחה ברדיו 103fm על משפט נתניהו - וגם על העימות עם מנדלבליט לפני העדות: \"מה זה דיקטטורה פה? ממתי אסור לצלם?\". היא הסבירה מה העניין במעורבות שלו במשפט: \"הוא התרשל, הם קרקסו אותו\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1376365",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-12T14:16:01.000Z"
     }
   ]
 }
