@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:00:59.235Z",
+  "updatedAt": "2026-10-18T19:16:00.997Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjycecz3mx",
+      "title": "הנוסעים מת\"א לווינה עודכנו: \"דיווח אנונימי על פצצה במטוס\"; הטיסה נחתה בסופיה",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/sjycecz3mx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T19:06:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tn4a4a",
+      "title": "חשד לפצצה: מטוס שהמריא מישראל לווינה ביצע נחיתת חירום בבולגריה",
+      "summary": "מטוס שהמריא מישראל לווינה נחת בבולגריה בעקבות דיווח על חפץ חשוד (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tn4a4a",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T19:04:21.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/interviews/tn3pxy",
       "title": "ח\"כ מאיר פרוש לא מודאג: \"חסיד גור רואה בדיוק מה האדמו\"ר אומר שצריך לעשות, זה פשוט מאוד\"",
@@ -78,6 +96,15 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/us-approves-saudi-arabia-f35-fighter-jets-deal",
+      "title": "ישראל דורשת פיצוי: סעודיה תרכוש 48 מטוסי F-35",
+      "summary": "הקונגרס לא חסם את העסקה ההיסטורית • ישראל דורשת חבילת פיצויים כדי לשמור על יתרון צבאי | הסכם שישנה את מאזן הכוחות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/us-approves-saudi-arabia-f35-fighter-jets-deal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T18:40:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/us-approves-saudi-arabia-f35-fighter-jets-deal",
       "title": "אושר סופית בקונגרס: סעודיה תרכוש 48 מטוסי F-35",
       "summary": "הקונגרס לא חסם את העסקה ההיסטורית • ישראל דורשת חבילת פיצויים כדי לשמור על יתרון צבאי | הסכם שישנה את מאזן הכוחות (בעולם)",
       "link": "https://www.kikar.co.il/world-news/us-approves-saudi-arabia-f35-fighter-jets-deal",
@@ -93,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-18T18:38:33.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3872761",
+      "title": "יפים ומרגשים: שני גולדשטיין וסאם קליין התחתנו",
+      "summary": "כשנה וחצי אחרי שהתארסו זה לזו, אושיית הרשת וכוכבת \"האח הגדול\" שני גולדשטיין ובחיר לבה סאם קליין התחתנו",
+      "link": "https://celebs.walla.co.il/item/3872761",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T18:37:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tn48vc",
@@ -354,6 +390,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-18T17:28:26.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3872755",
+      "title": "למה תפגשו בקרוב פקחים ברכבת ומה תצטרכו לעשות?",
+      "summary": "למה תפגשו בקרוב פקחים ברכבת ומה תצטרכו לעשות?",
+      "link": "https://cars.walla.co.il/item/3872755",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T17:25:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21654134",
@@ -30108,24 +30153,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T19:16:40.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sk1zlw2jml",
-      "title": "6 פצועים מירי לבית בגליל, שניים מהם במצב קשה",
-      "summary": "שני פצועים קשה וארבעה במצב בינוני מירי על רקע פלילי בבענה שליד כרמיאל. ביה\"ח בנהריה, לשם פונו הפצועים, מפעיל מערך טראומה מתוגבר כדי לטפל בהם",
-      "link": "https://www.ynet.co.il/news/article/sk1zlw2jml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T19:04:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87424",
-      "title": "תאונה בכביש 431: שתי נפגעות, אחת במצב בינוני",
-      "summary": "שתי נשים בנות 20 נפגעו בתאונת דרכים בין שני כלי רכב בכביש 431 מחלף ראשון לציון. אחת מהן נפצעה באורח בינוני והשנייה באורח קל. צוותי איחוד הצלה טיפלו בנפגעות בזירה ופינו אותן לבית החולים.",
-      "link": "https://www.kikar.co.il/scoop-news/87424",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T19:01:35.000Z"
     }
   ]
 }
