@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:31:03.952Z",
+  "updatedAt": "2026-10-18T09:45:59.388Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
+      "title": "אסון בבסיס צבאי בקנדה: לפחות 7 הרוגים ועשרות פצועים בפיצוץ ושריפה ענקית",
+      "summary": "פיצוץ עז התרחש במהלך אימון אש חיה בבסיס ויינרייט באלברטה, קנדה, כאשר רוחות עזות הפיצו את השריפה מחוץ לתחומי הבסיס | שבעה חיילים נהרגו בתקרית החריגה | מצב חירום הוכרז בבתי החולים באזור (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T09:41:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1378412",
+      "title": "ביקש סיגריה, שלף גז פלפל ושדד אייפון: אישום נגד צעיר יהודי",
+      "summary": "צעיר יהודי בן 22 מלוד מואשם שחסם את דרכה של משפחה פלסטינית עם ילדיה סמוך לחברון, דרש סיגריות ומצית ובהמשך חטף טלפון נייד וריסס גז פלפל על פני אחד הנוסעים. הקורבן נזקק לטיפול רפואי",
+      "link": "https://www.maariv.co.il/news/law/article-1378412",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T09:36:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/asher-working-haredim-education-commitment",
+      "title": "\"זו תוכנית עבודה, לא הבטחת בחירות\": ההתחייבות של יעקב אשר לחרדים עובדים",
+      "summary": "יו\"ר יהדות התורה חשף במפגש אינטימי את המאבקים שניהל בעבר • \"הקמתי 3 בתי ספר באלעד למרות התנגדויות\" | ההתחייבות הנחרצת לעתיד (חרדים)",
+      "link": "https://www.kikar.co.il/political-news/asher-working-haredim-education-commitment",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T09:31:36.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjkq2bmhzg",
+      "title": "המשטרה התנגדה, השופט הסכים לפרסם לבקשת ynet: זה החשוד ברצח אשתו בב\"ש",
+      "summary": "שבוע אחרי שאנאניה קלב נדקרה למוות בביתה, בית המשפט התיר לפרסם את שמו של בעלה החשוד במעשה. בכוונת חוקרי המשטרה לגבות עדות מבנם בן ה-5 שהיה עד לרצח. מעצרו של הבעל הוארך ב-9 ימים נוספים",
+      "link": "https://www.ynet.co.il/news/article/sjkq2bmhzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T09:30:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21649141",
+      "title": "הוארך מעצרו של אייפרם מלדה, החשוד ברצח אשתו נאניאה",
+      "summary": "בית המשפט האריך עד 26 באוקטובר את מעצרו של אייפרם מלדה, החשוד ברצח רעייתו נאניאה • בשבוע שעבר הותר שמו לפרסום • חקירת נסיבות הרצח נמשכת",
+      "link": "https://www.israelhayom.co.il/news/local/article/21649141",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:27:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/church-cross-accident-ecuador",
+      "title": "נהרג על ידי עבודה זרה: צלב ענקי צנח על הכומר והרג אותו",
+      "summary": "רגעי אימה בכנסייה באקוודור: שיקוץ שהיה תלוי על הקיר השתחרר ופגע בכומר בעת שניהל את התפילה. האירוע תועד בשידור חי (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/church-cross-accident-ecuador",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T09:26:28.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/church-cross-accident-ecuador",
       "title": "נהרג בשידור: צלב ענקי צנח על הכומר והרג אותו",
       "summary": "רגעי אימה בכנסייה באקוודור: הצלב שהיה תלוי על הקיר השתחרר ופגע בכומר בעת שניהל את התפילה. האירוע תועד בשידור חי (חדשות בעולם)",
@@ -48,6 +102,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T09:26:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21648834",
+      "title": "\"הבכת אותי\": העימות בין מייגן מרקל למעצב הצרפתי נחשף",
+      "summary": "פנייה שגויה אחת לצוות של קייט מידלטון הספיקה כדי לעורר את זעמה של הדוכסית מסאסקס • המעצב הבינלאומי רולאן מורה שובר שתיקה ומגלה מה באמת קרה מאחורי הקלעים של הפיצוץ שהוביל לנתק מוחלט",
+      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21648834",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:20:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21648963",
+      "title": "סערת ענק בהוליווד: טיקטוק הסירה את עמוד הסרט על אילון מאסק",
+      "summary": "רגע לפני סוף שבוע הפתיחה בכ-500 בתי קולנוע בארה\"ב, הרשת החברתית מחקה את החשבון הרשמי של הדוקו \"מאסק\" בטענה ל\"תוכן פוליטי\" • המפיצים הגישו ערעור בהול בטענה ל\"פגיעה קשה בשיווק\" • וגם: הרמזים לקשר המפתיע בין הנהלת טיקטוק לטייקון",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21648963",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:20:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21649091",
+      "title": "ליאור נרקיס נזכר בכאב: ''מתגעגע''",
+      "summary": "הזמר שיתף ברשת סטורי מרגש לזכרו של אחד היוצרים הגדולים בזמר העברי, יממה אחרי שמלאו 22 שנים לפטירתו • השיר שבחר לצרף לפוסט • והלהיט שהיוצר כתב עבורו כשהיה זמר לא מוכר, והפך לשיר שליווה מאות זוגות לחופה",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21649091",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:19:43.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1378400",
@@ -84,6 +165,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T09:16:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21648937",
+      "title": "אחרי שסירבה להתייצב: מאי גולן תציג את הצד שלה בחקירה",
+      "summary": "לאחר שהשרה לשוויון חברתי כבר נחקרה בחשד לעבירות מתחום טוהר המידות, בפרקליטות ביקשו מהחוקרים לבצע השלמות, בין היתר על רקע אי־הגעתה • כעת היא תקבל הזדמנות נוספת למסור את גרסתה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21648937",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:16:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21649038",
+      "title": "תיעוד קשה: בית כנסת הושחת על ידי מתפרעים בפריז",
+      "summary": "אתר תפילה יהודי ברובע ה-19 נפרץ במהלך שעות הלילה והפורעים השליכו ספרי תורה ורהיטים • לא נגרם נזק מבני למקום ואיש לא נפגע",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21649038",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T09:15:57.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/emergency-gathering-gedolei-yisrael-elections",
@@ -147,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T09:07:14.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872663",
+      "title": "ההתפרעויות מפלגות את צרפת: \"וומבניאמה נושא באחריות\"",
+      "summary": "כוכב ה-NBA הביע תמיכה במחאת התלמידים ופוסט מסתורי שלו עורר סערה, בעוד טדי רינר וג'ימי גרסייה יצאו נגד האלימות: גם עולם הספורט בצרפת סוער מהאירועים",
+      "link": "https://sports.walla.co.il/item/3872663",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T09:06:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1qdkkghgg",
@@ -219,6 +327,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T08:56:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378384",
+      "title": "נתניהו חושף את התוכנית שלו בגבול לבנון: \"אני לא סומך עליהם\" | האזינו",
+      "summary": "בראיון לגדי נס ברדיו צפון 104.5FM, ראש הממשלה בנימין נתניהו הגיב לאמירת ינון מגל שקרא לאיזנקוט 'קוף מזרחי שנשלט ע\"י אשכנזים': \"הייתי שמח שגדי איזנקוט יגנה את האמירות של גלי אלבין\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1378384",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T08:55:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378384",
@@ -339,6 +456,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1378385",
+      "title": "עימות חזיתי בשידור חי: \"תהיתי מה יגיד הפעם\"; \"אל תגידו שקפצתם\"",
+      "summary": "רונן צור ועו\"ד גיא בוסי התווכחו במהלך שיחה ב-103FM, בנושא האמירה מעוררת הסערה של ינון מגל נגד גדי איזנקוט. צור ניסה לעקוץ את בוסי, שלא ממש התרשם",
+      "link": "https://www.maariv.co.il/news/politics/article-1378385",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T08:36:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378385",
       "title": "קונספירציה חדשה לקראת הבחירות: גדי איזנקוט הוא איש הקש של קואליציית נתניהו?",
       "summary": "רונן צור ועו\"ד גיא בוסי התווכחו במהלך שיחה ב-103FM, בנושא האמירה מעוררת הסערה של ינון מגל נגד גדי איזנקוט. צור ניסה לעקוץ את בוסי, שלא ממש התרשם",
       "link": "https://www.maariv.co.il/news/politics/article-1378385",
@@ -372,6 +498,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-18T08:34:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21648440",
+      "title": "הכספים הקואליציוניים לא קוצצו: הממשלה אישרה קיצוץ של 2.6 מיליארד שקל",
+      "summary": "הממשלה אישרה היום קיצוץ רוחבי של 2.6 מיליארד שקל, שנועד להעביר תקציבים למערכת הביטחון • בעקבות ההחלטה על קיצוץ בתקציב משרד הבריאות, מסרה האגודה לזכויות החולה: \"דווקא המערכת שמטפלת בפצועים ובנפגעי הנפש נדרשת לשלם את המחיר\"",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21648440",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T08:30:33.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21648440",
@@ -633,6 +768,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-18T07:57:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378359",
+      "title": "גנץ שולף שפן מהכובע: התפקיד החדש שהוא מייעד לנתניהו",
+      "summary": "בריאיון ל-103fm הציג בני גנץ פתרון מפתיע לפלונטר הפוליטי: נתניהו לא יהיה ראש הממשלה, אך יוכל לכהן בתפקיד אחר. הוא גם תקף את ינון מגל, מתח ביקורת על הנהגת החרדים ודיבר על מחלת רעייתו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1378359",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T07:56:44.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378359",
@@ -1245,6 +1389,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T06:53:00.000Z"
+    },
+    {
+      "id": "walla:https://sheva7.walla.co.il/item/3872638",
+      "title": "\"הנגב יהפוך ליהודה ושומרון\": הירי בגבעות בר ונקודת אל חזור",
+      "summary": "קולות הירי המסיבי ממשיכים להישמע הייטב ביישובי הנגב, הפעם היו אלו תושבי גבעות בר שנאלצו להתמודד עם התופעה המבהילה. התושבים בתגובה זועמים ומתריעים מפני ההפקרה, כאשר במקביל דוח של משרד התפוצות מזהיר מפנ",
+      "link": "https://sheva7.walla.co.il/item/3872638",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T06:52:00.000Z"
     },
     {
       "id": "walla:https://celebs.walla.co.il/item/3872642",
@@ -2028,6 +2181,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-18T05:17:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjjtc6b3ge",
+      "title": "במשטרה טוענים לחוסר שיתוף פעולה מצד הדיפלומטים, עדיין לא נעצרו חשודים",
+      "summary": "לפי גורמים במשטרה, חוקרי תקיפת הדיפלומטים האירופים בכפר הפלסטיני טייבה ביקשו לקבל עדויות מפורטות וחומרי צילום על מעשיהם של הפורעים היהודים. ואולם, הגורמים טוענים כי נציגויות מדינות הדיפלומטים הפנו עורף למשטרה. טרם נעצרו חשודים בתקיפת הדיפלומטים וצלמת ה\"וושינגטון פוסט\"",
+      "link": "https://www.ynet.co.il/news/article/hjjtc6b3ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T05:15:34.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjjtc6b3ge",
@@ -29190,141 +29352,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-13T09:47:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21614065",
-      "title": "\"ערבייה מסריחה\": בת 15 עוכבה בחשד לגזענות נגד הצעירה הדרוזית באוטובוס",
-      "summary": "כחודשיים לאחר האירוע בקו 66, שבו צעירה בת 24 ספגה לפי משפחתה קריאות גזעניות לאחר שדיברה בערבית, המשטרה הודיעה כי זוהתה חשודה • לפי החשד, היא קיללה את המתלוננת והשליכה לעברה גרביים יחד עם נוספים • בתום חקירתה שוחררה בתנאים מגבילים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21614065",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21614181",
-      "title": "הזמר המפורסם מתוודה על מצבו הכלכלי: ''מעולם לא הצלחתי''",
-      "summary": "הראפר שכבר שיתף בעבר על תקופות של מצוקה כלכלית וקשיים להתפרנס לא ניסה לייפות את המצב גם הפעם והתוודה בפני עוקביו בסשן שאלות ותשובות באינסטגרם על הקושי",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21614181",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:40:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1376653",
-      "title": "חלק מהורי התלמידים בטיול ברכס רמים גילו על האסון ברדיו: \"שמע את המבזק והבין שזה הם\"",
-      "summary": "אמו של אחד התלמידים שנפצע קל באסון ברכס רמים מספרת על רגעי החרדה, השיחה הראשונה עם בנה והסיוע שקיבלו התלמידים: \"תלמידי כיתה י' ניהלו את האירוע וחסמו עורקים עם החולצות\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1376653",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-13T09:40:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21614008",
-      "title": "רומי סטרייג' לא התקבלה לתצוגת ויקטוריה'ס סיקרט",
-      "summary": "אחרי שבועות של המתנה ותהליך ליהוק שכבר הסתיים, הדוגמנית קיבלה תשובה שלילית וכעת היא לא בטוחה שתרצה לנסות שוב",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21614008",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:40:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21614191",
-      "title": "אחרי תקרית פליי דובאי - ישראייר מקפיאה את הטיסות למרוקו",
-      "summary": "בעקבות ניסיון הפיגוע בטיסת פליי דובאי והנחיות הביטחון החדשות שהתקבלו, החליטה ישראייר להקפיא את הטיסות למרקש • ברקע: הפעלת טיסות באמצעות מטוס חכור וצוות זר, אשר לא קיבלו אישור • טיסות ארקיע ליעד נמשכות כרגיל, סאן דור של אל על צפויה להפעיל טיסות מנובמבר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21614191",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:39:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21614191",
-      "title": "אחרי תקרית פליי דובאי - ישראייר מקפיאה את הטיסות למדינה הערבית",
-      "summary": "בעקבות ניסיון הפיגוע בטיסת פליי דובאי והנחיות הביטחון החדשות שהתקבלו, החליטה ישראייר להקפיא את הטיסות למרקש, מרוקו • ברקע: הפעלת טיסות באמצעות מטוס חכור וצוות זר, אשר לא קיבלו אישור • טיסות ארקיע ליעד נמשכות כרגיל, סאן דור של אל על צפויה להפעיל טיסות מנובמבר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21614191",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:39:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/tmuama",
-      "title": "גנץ חושף את התכנית של ליברמן: רוצה להקים ממשלה עם בל\"ד",
-      "summary": "העימות הפוליטי מחריף: גנץ טוען כי ליברמן רוצה להקים ממשלה עם המפלגות הערביות גם אחרי הבחירות • נתניהו הצטרף למתקפה, ואילו ליברמן מאשים: \"גנץ פועל להציל את ביבי\" (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/tmuama",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T09:38:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1376647",
-      "title": "העבר של אשתו של ראש עיריית כפר סבא: \"היא הייתה שכונה ממש, הכניסה אותו לתוך ה...\"",
-      "summary": "עובדים שהכירו את רפי ומיטל סער בעיריית הוד השרון מתקשים לעכל את מעצרו של ראש עיריית כפר סבא. לצד ההערכה כלפיו, הם מעלים טענות חריפות על התנהלות רעייתו ועל השינוי שחל בה לאורך השנים",
-      "link": "https://www.maariv.co.il/news/law/article-1376647",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-13T09:37:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21614108",
-      "title": "אחרי האזעקה במשחק של כריסטיאנו רונאלדו: החשש שמטלטל את סעודיה",
-      "summary": "המתקפות של החות'ים במדינה, ההרוגים והפצועים שמים סימן שאלה גדול סביב גביע אסיה שאמור להתקיים בינואר • התאחדות הכדורגל של יפן כבר נקטה בצעד דרמטי",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21614108",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:37:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21614101",
-      "title": "טכנולוגיה חדשה לאיתור מותגי ענק: זיג תשקיע בכל מותג מבטיח",
-      "summary": "חברת ZyG משיקה את ה-ZyG Score ומציעה למותגי איקומרס בדיקת עומק טכנולוגית ללא עלות, לצד השקעה של מיליוני דולרים במבחני שוק בארה\"ב",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21614101",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:35:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjv37dsjzl",
-      "title": "בכיר טורקי ייבחר למזכ\"ל האו\"ם? \"טראמפ מחפש מועמד מטלטל\"",
-      "summary": "\"פוליטיקו\" מדווח שבבית הלבן לא מרוצים מהמועמדים להחלפת אנטוניו גוטרש, שבסוף השנה יעזוב אחרי עשור כמזכ\"ל האו\"ם, ובוחנים גם את שמו של פרידון סינירליוגלו, שר החוץ הטורקי לשעבר שהאשים את ישראל ב\"פשעי מלחמה\". עוד נבדקים: נשיא פיפ\"א שחילק לטראמפ \"פרס שלום\", ונציג מועצת השלום בעזה מלאדנוב. המועמדת המובילה היא עדיין רבקה גרינספן, שאם תיבחר תהיה האישה והיהודייה הראשונה בתפקיד: \"ביקורתית מדי כלפי ישראל, ורכה מדי כלפי סין\"",
-      "link": "https://www.ynet.co.il/news/article/hjv37dsjzl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T09:34:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21613184",
-      "title": "מישראל לניו יורק: מעצבת שמלות הכלה עושה היסטוריה",
-      "summary": "ליהי הוד פתחה חנות דגל ראשונה מחוץ לתל אביב, בלב רובע הגלריות בצ'לסי, והשיקה במקביל גם בושם חדש וקולקציית סתיו בהשראת הזוהר של שנות ה־80",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21613184",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:34:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21613728",
-      "title": "לא הספיק להם: התיירים שגנבו מחנות בתאילנד - חשודים בגניבה ממקום נוסף",
-      "summary": "השניים, אשר נתפסו בחשד לגניבת מוצרים מסניף \"סבן אילבן\" בפוקט, תועדו יוצאים מחנות בגדים באי • בעל החנות, אשר זיהה אותם בדיעבד טוען: הם גנבו גם מהחנות שלי",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21613728",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:34:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21614032",
-      "title": "זינק ממשאית הזבל לשיחים: שב\"ח נעצר בלב יישוב בצפון",
-      "summary": "שב\"ח בן 18 מתרקומיה ניסה לחמוק מניידת משטרה בכפר עיילבון, קפץ מתוך משאית לפינוי אשפה ונמלט אל עבר בתי התושבים • לאחר מרדף רגלי וסריקות הוא אותר כשהוא מתחבא בתוך צמחייה סמוך לאחד הבתים, וכעת מתברר מה יעלה בגורלו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21614032",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:33:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21614050",
-      "title": "אחרי 900,000 הורדות ב-6 ימים: פייסבוק ומארק צוקרברג חטפו מכה",
-      "summary": "אמזון חסמה את Muse, סוכן הבינה המלאכותית של מטא שיודע לקנות עבור המשתמשים, פחות משבועיים אחרי שהושק • שלוש הטענות של ענקית המסחר נגד הסוכן • זו לא הפעם הראשונה שרשת הענק יוצאת לקרב נגד הסוכנים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21614050",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T09:31:17.000Z"
     }
   ]
 }
