@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:15:46.585Z",
+  "updatedAt": "2026-10-18T11:30:56.600Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/israeli-chess-players-banned-malaysia-world-amateur-championship",
+      "title": "נעלמו מהרשימה: שחקנים ישראלים נחסמו מאליפות העולם",
+      "summary": "שני שחקנים מישראל שנרשמו לאליפות העולם לחובבים במלזיה הוסרו מרשימת המשתתפים. מנהל מועדון \"שחמט לכל\" דורש לפנות לבית הדין בספורט ולבטל את התחרות: \"במדינה המארחת מבחינתם ישראל לא קיימת\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/israeli-chess-players-banned-malaysia-world-amateur-championship",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T11:20:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1z8ymm3gg",
+      "title": "משפחות שכולות דורשות לחקור את נתניהו: \"ניסה להרחיק עצמו מהטבח, במידע מטעה\"",
+      "summary": "14 משפחות ששכלו את יקיריהן במהלך המלחמה הגישו תלונה פלילית ליועמ\"שית ולמשטרה נגד ראש הממשלה בעקבות ממצאי תחקירי ynet ו\"ידיעות אחרונות\" על מסמך התשובות הסלקטיבי שהעביר למבקר המדינה",
+      "link": "https://www.ynet.co.il/news/article/h1z8ymm3gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T11:19:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/kaplan-hospital-blood-samples-investigation",
+      "title": "חשד חמור בבית החולים במרכז: דם נלקח ממטופלים ללא ידיעתם",
+      "summary": "המרכז הרפואי קפלן ברחובות הגיש תלונה במשטרה בעקבות חשד חמור לכשל בהתנהלות המערך הקרדיולוגי בבית החולים: חשד כי בוצעו לקיחות דם ממטופלים ללא קבלת הסכמה מדעת כנדרש בחוק ובנהלים הרפואיים | כל הפרטים (בארץ, בריאות)",
+      "link": "https://www.kikar.co.il/israel-news/kaplan-hospital-blood-samples-investigation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T11:18:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkrkkxmhgg",
+      "title": "ה\"בגידה מבפנים\" תלווה אותנו לקלפי",
+      "summary": "למה כמעט חצי ממצביעי הקואליציה מעדיפים בוגד על פני מחדל ומה גורם לאנשים סבירים להאמין בסיפורי מעשיות מופרכים?",
+      "link": "https://www.ynet.co.il/news/article/hkrkkxmhgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T11:18:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21650156",
+      "title": "אתם הולכים להתענג על זה: הסדרה שחודשה לעונה שנייה",
+      "summary": "וגם: ג'וד לאו יגלם את מאמן הכדורגל המיתולוגי ביל שאנקלי, אנטוניו בנדרס וניקולס קייג' יובילו את העונה החמישית של \"בלש אמיתי\" והפרויקט החדש של כוכבת \"המתים המהלכים\" • חדשות הטלוויזיה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21650156",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T11:12:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21650349",
+      "title": "משי קלינשטיין מתרגשת: \"לא מאמינה שאני כותבת את זה\"",
+      "summary": "משי קלינשטיין שיתפה בהתרגשות על יציאת אלבום הבכורה \"משק\" לצד עומס בבית עם בנה החולה • על הדרך המוזיקלית והסינגל החדש",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21650349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T11:12:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1mi2lf2fx",
+      "title": "פעילי ימין הקימו מאחז לפני \"מעבר לעזה\", השר גיבה - אך בעוטף קוראים לפנותו",
+      "summary": "תנועת \"נחלה\" הקימה \"יישוב\" ליד נחל עוז שמוגדר \"יעד ביניים להתיישבות בעזה\". דניאלה וייס: \"הגרעין לא יזוז מכאן אלא כדי להיכנס לתוך הרצועה\". המשטרה טוענת כי התקבלה תלונה והנושא בטיפול, אך עד כה לא נעשה דבר כדי לפנותו",
+      "link": "https://www.ynet.co.il/news/article/r1mi2lf2fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T11:10:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-regime-evacuates-bases-fears-uprising",
       "title": "\"מפנים בסיסים ומחלקים כסף למפגינים\": המשטר באיראן נערך לתרחיש הקיצון",
       "summary": "משמרות המהפכה מפנים בסיסים צבאיים מהערים ומעבירים נשק למערב המדינה • המשטר מציע תשלום לאנשי הבסיג' כדי שיפגינו ברחובות | \"כבר פרצנו את מחסום הפחד\" (בעולם)",
@@ -59,6 +122,15 @@
       "pubDate": "2026-10-18T11:09:23.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21650329",
+      "title": "שני מאשרת: \"אני ויובל הפרדנו כוחות\"",
+      "summary": "רק יום אחרי שתועדו יחד בתל אביב, שני אדרי אישרה בסטורי כי היא ויובל לוי החליטו להיפרד: \"עדיף לנו בנפרד\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21650329",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T11:09:20.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tn3o0r",
       "title": "187 שנה אחרי; נר התמיד של ה\"חתם סופר\" מפרעשבורג – הוצת בירושלים",
       "summary": "מעמד חגיגת חנוכת הבית להרחבת היכל התורה שע\"י ביהמ\"ד הגדול היכל מהרי\"ץ דושינסקיא נדבת הרבני הנגיד רבי מרדכי אהרן גומבו | המעמד התקיים בליל הילולת בעל ה'חתם סופר' זיע\"א ובמשך המעמד התכבד התורם בהדלקת נר בנר תמיד שעמד בביכנ\"ס בפרעשבורג בזמנו של ה'חתם סופר' (חסידים)",
@@ -77,6 +149,15 @@
       "pubDate": "2026-10-18T11:06:59.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21650323",
+      "title": "''המיזם'' של הבן של אייל גולן - לא מה שחשבתם",
+      "summary": "ליאם גולן, בנם של אייל גולן ואילנית לוי, הוצג לפני פחות משבוע כאחד מארבעה שותפים במיזם בהשקעה של מאות אלפי שקלים • אבל מאחורי הפרטים המרשימים מסתתר סיפור אחר לגמרי • ומה בכלל הוא מתכנן לחודש הבא",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21650323",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T11:05:07.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/skpcsmfhgl",
       "title": "חשד: בן 22 אנס ותקף מינית נערות שהכיר בפארק ציבורי",
       "summary": "תושב חולון נעצר בעקבות תלונה של בת 14 שלקח לביתו. בחקירה התברר שפגע גם בבת 15 כמה ימים קודם לכן. הוגשה הצהרת תובע והשבוע יוגש נגדו כתב אישום",
@@ -84,6 +165,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-18T11:04:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21649784",
+      "title": "\"לא בשביל הכסף\": לקח את ה-AI כ\"עורך דין\" - וניצח בבית המשפט",
+      "summary": "נהג בריטי שקיבל דוח חניה שנוי במחלוקת סירב להישבר מול חברת הגבייה, ויצא למאבק של שלוש שנים על העיקרון • בעזרת ChatGPT, שניסח עבורו את התגובות וכתב ההגנה המשפטי, חברת הענק נכנעה ברגע האחרון וביטלה את הקנס: \"ניצחתי במלחמה בלי הקרב האחרון\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21649784",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T11:03:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1cjhqzhfl",
@@ -138,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-18T10:56:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21649995",
+      "title": "בליכוד טוענים: \"מועמדי וינטר פונים אלינו - אחד צפוי לפרוש השבוע\"",
+      "summary": "במטה מעריכים כי מפלגת עמך ישראל אינה עוברת את אחוז החסימה וחוששים משריפת קולות בגוש הימין • גורם בכיר סירב למסור את זהות מי שעשוי לעזוב את המרוץ • במקביל מגבירים את פעילות השטח ואת בליץ הראיונות לקראת יום הבחירות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21649995",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T10:55:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21649995",
@@ -29433,123 +29532,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-13T11:36:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/nuremberg-airport-emergency-closure-fighter-jets",
-      "title": "נמל התעופה בגרמניה נסגר: מטוסי קרב ולוחמי קומנדו ליוו מטוס נוסעים",
-      "summary": "נמל התעופה בנירנברג נסגר לפני זמן קצר • יחידת קומנדו מיוחדת הוזנקה למקום | מטוסי קרב ליוו את המטוס נוסעים עד לנחיתה שעברה בשלום | כל הפרטים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/nuremberg-airport-emergency-closure-fighter-jets",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T11:29:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1376694",
-      "title": "28 שנה, 29 מדינות ומטרה אחת: להגיע הביתה",
-      "summary": "קארל בושבי יצא מצ'ילה ב-1998 והחל במסע רגלי מסביב לעולם. בדרך חצה יבשות, נעצר בגבולות ואפילו שחה בים הכספי. כעת, אחרי כ-50 אלף קילומטרים, הוא סוף סוף מתקרב לביתו באנגליה",
-      "link": "https://www.maariv.co.il/news/viral/article-1376694",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-13T11:24:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tmu3pu",
-      "title": "על שטיח אדום; כך התקבל הרה\"צ מבעלזא באשדוד",
-      "summary": "לרגל שמחת אירוסי ילדו העשירי, החתן אלעזר יחזקאל שרגא רוקח, ערך אביו הרה\"צ רבי אהרן מרדכי רוקח מבעלזא ביקור מרומם בהיכל ישיבת 'ישמח לב' דחסידי בעלזא באשדוד, שם ערך מסיבת 'לחיים' מיוחדת | עם הגעתו נפרס שטיח אדום בכניסה, ובהמשך הסב הרה\"צ על כיסא מכובד במרכז שולחן המזרח ועודד את השירה בעוז (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tmu3pu",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T11:24:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87329",
-      "title": "סקר וואלה: גוש השינוי מוביל בחמישה מנדטים על גוש נתניהו",
-      "summary": "סקר חדש של אתר וואלה מצביע על יתרון של חמישה מנדטים לגוש השינוי על פני גוש נתניהו. על פי הסקר, בני גנץ לא עובר את אחוז החסימה.",
-      "link": "https://www.kikar.co.il/scoop-news/87329",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T11:21:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87328",
-      "title": "יחידת אתג\"ר וצה\"ל הרסו משחטת אופנועים בקלקיליה",
-      "summary": "יחידת אתג\"ר הרסה בשיתוף צה\"ל משחטת אופנועים בקלקיליה שהוכרזה לפני מספר חודשים. הכוחות מצאו במקום מאות חלקי אופנועים החשודים כגנובים. לאחר שבדיקה העלתה כי המשחטה משמשת לאורך זמן לסחר בכלי רכב, נחתם צו הריסה והמקום נהרס. ההריסה בוצעה במסגרת שינוי מדיניות באשר להליך המנהלי כלפי משחטות.",
-      "link": "https://www.kikar.co.il/scoop-news/87328",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T11:21:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21615232",
-      "title": "\"חבל שלא הייתה סבלנות, בהפועל תל אביב הולך לו מצוין\"",
-      "summary": "נתניאל אסמואה, שחקן עבר של הכוכב האדום בלגרד וכיום סקאוט, התייחס בראיון להשתלבותו של דאגלס אווסו בישראל, וטען כי קבוצתו הקודמת לא העניקה לו מספיק סבלנות",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21615232",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:19:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21614839",
-      "title": "11 מלחים נעדרים לאחר שספינה הוטבעה בים השחור: בולגריה זימנה את שגרירת רוסיה",
-      "summary": "שתי ספינות מטען נפגעו מתקיפות כטב\"מים מול חופי בולגריה, ואחת מהן טבעה. חמישה אנשי צוות חולצו, אך 11 נוספים עדיין נעדרים • בסופיה נמנעו מלהאשים את מוסקבה בצורה ישירה",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21614839",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:19:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21615224",
-      "title": "פי 6 מהרגיל: ארגנטינה סגרה את הגישה למפלי איגואסו",
-      "summary": "הרשויות בארגנטינה חסמו את כניסת התיירים לאתר המפורסם בעקבות שיטפונות עזים ותופעת \"אל ניניו\", שהקפיצו את ספיקת המים ליותר מפי שישה מהממוצע",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21615224",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:18:47.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1zuufsizl",
-      "title": "שורדי שבי ומשפחות שכולות לנתניהו: \"חשוף את הפרוטוקולים. לא ניתן לאמת להיקבר\"",
-      "summary": "ב\"ידיעות אחרונות\" חשפו רונן ברגמן ויובל רובוביץ' סתירות והשמטות של ראש הממשלה בגרסה שהציג למבקר. גם המזכיר הצבאי לשעבר אבי גיל הזהיר שזויפו סטנוגרמות. בתגובה דורשים עשרות נפגעי 7/10 לפרסם את התיעוד וההקלטות: \"לא נסכים שהאמת תוחלף בגרסה שתשרת את מי שאחריותם עומדת לבחינה\"",
-      "link": "https://www.ynet.co.il/news/article/s1zuufsizl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T11:18:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/rishon-letzion-rabbi-david-yosef-strengthens-rabbi",
-      "title": "ערב יום האזכרה למרן: כך הראשון לציון חיזק את אלפי הנבחנים בבחינות הרבנות",
-      "summary": "הראשון לציון הגר\"ד יוסף בירך את הנבחנים במבחני הרבנות • מעל 6,000 נבחנים החלו בבחינות שיתפרסו על מספר ימים | \"הנושא שהיה חשוב לאבי מורי יותר מהכל - לימוד הלכה\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/rishon-letzion-rabbi-david-yosef-strengthens-rabbi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T11:18:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21615237",
-      "title": "אירוע חריג בגרמניה: מטוסי קרב הוקפצו ללוות מטוס נוסעים",
-      "summary": "ממשטרת נירנברג נמסר כי התקבל דיווח על \"אירוע חירום אווירי\" וכי המטוס נחת בשלום • לאחר יותר משעה עלה כי המטוס שידר קוד חירום בטעות",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21615237",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:17:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21615237",
-      "title": "אירוע חריג בגרמניה: מטוסי קרב הוקפצו ללוות מטוס נוסעים, נמל התעופה הושבת",
-      "summary": "ממשטרת נירנברג נמסר כי התקבל דיווח על \"אירוע חירום אווירי\" וכי המטוס נחת בשלום • ברקע האירוע, בגרמניה דווח הלילה על שיבושים בתנועת המטוסים בשדה בעקבות חשד לרחפנים באוויר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21615237",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:17:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21615099",
-      "title": "ההורים השכולים דורשים: תפרסמו את הממצאים שממחישים את זוועות 7 באוקטובר",
-      "summary": "בכנס בינלאומי לרפואה משפטית במוזיאון הסובלנות בירושלים, הציגו מומחים את האתגרים בזיהוי קורבנות הטבח, בהם דגימות DNA שנחשפו לחום של יותר מ־800 מעלות • אביה של התצפיתנית רוני אשל ז״ל קרא להשתמש בדוחות לצורכי הסברה: \"לפעמים זו רק שערה, לפעמים קצה ציפורן ולפעמים גוש פחם\" • פרופ׳ חן קוגל חשף כי צוות מיוחד הצליח לקבוע את מותם של 44 חטופים גם ללא גופות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21615099",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T11:16:22.000Z"
     }
   ]
 }
