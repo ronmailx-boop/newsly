@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:20:30.607Z",
+  "updatedAt": "2026-10-18T13:31:00.944Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1378518",
+      "title": "התחזה לשליח וולט וחיסל מטווח אפס: הפרט שהכריע את פרשת הרצח בת\"א",
+      "summary": "אזרח סודן בן 40 התחזה לשליח וולט, ירה למוות מטווח קצר באזרח סודני אחר ונמלט מהמקום. לאחר הרצח שב לזירה וצפה בצוות מד\"א מטפל בקורבן; הוא הורשע פה אחד וצפוי למאסר עולם",
+      "link": "https://www.maariv.co.il/news/law/article-1378518",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T13:28:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/education/article-1378515",
+      "title": "איומים על השבתה מלאה: ארגון העובדים הסוציאלים מחריף את העיצומים",
+      "summary": "העובדים הסוציאליים מחריפים את העיצומים: אנשים עם מוגבלויות שאמורים להתחיל לקבל שירותים חדשים שמגיעים להם, לא יקבלו אותם. העו\"סים מזהירים: \"הקיצוץ ברווחה הוא המשך מסע ההרס של השירותים החברתיים\"",
+      "link": "https://www.maariv.co.il/news/education/article-1378515",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T13:26:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88103",
+      "title": "גשמים עזים ברצועת עזה — חשש לקריסת מבנים",
+      "summary": "ברצועת עזה ירדו בשעה האחרונה גשמים עזים. בשל מצב המבנים הרעוע ברצועה, קיים חשש לקריסת מבנים.",
+      "link": "https://www.kikar.co.il/scoop-news/88103",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T13:25:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88102",
+      "title": "איראן: מטוס קרב כבד מתוצרת מקומית ימריא בשנה הבאה",
+      "summary": "שר ההגנה האיראני החדש הודיע כי מטוס קרב \"כבד\" חדש מתוצרת איראנית צפוי להמריא לאוויר כבר בשנה הבאה.",
+      "link": "https://www.kikar.co.il/scoop-news/88102",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T13:25:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88101",
+      "title": "רוכב אופנוע בן 32 נפצע בינוני בתאונה בבת ים",
+      "summary": "רוכב אופנוע בן 32 נפצע באורח בינוני בתאונת דרכים עם מעורבות רכב פרטי ברחוב יוספטל בבת ים. צוותי איחוד הצלה העניקו לו טיפול רפואי בזירה, והוא פונה לבית החולים כשמצבו מוגדר בינוני.",
+      "link": "https://www.kikar.co.il/scoop-news/88101",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T13:25:26.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383957920",
+      "title": "הוארך מעצר הבעלים של קבוצת הכדורגל מליגת העל",
+      "summary": "בית משפט האריך את מעצרם של הבעלים של קבוצת הכדורגל עירוני טבריה, החשוד בעבירות כלכליות בהיקף עשרות מיליוני שקלים. לפי החשד, כספים ששולמו לשחקנים לא דווחו במשך ארבע עונות",
+      "link": "https://www.walla.co.il/news/israel/383957920",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T13:23:39.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378508",
       "title": "טרגדיה בדרום תאילנד: ישראלי נהרג בתאונת אופנוע",
@@ -183,6 +237,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T12:51:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378498",
+      "title": "אם איזנקוט ינצח בבחירות: התרחיש שסמוטריץ' לא שלל",
+      "summary": "שר האוצר נשאל אם יצטרף לממשלה בראשות איזנקוט והותיר פתח לתרחיש אחד, תוך שהוא מבהיר שלא יעזוב את גוש הימין. בהמשך חשף את תוכניותיו לקדנציה נוספת באוצר והאשים את בן גביר באובדן תיק הדתות",
+      "link": "https://www.maariv.co.il/news/politics/article-1378498",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-18T12:50:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1378498",
@@ -29622,105 +29685,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T13:35:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87351",
-      "title": "פעוט בן 9 חודשים במצב אנוש לאחר נפילה מגובה באשקלון",
-      "summary": "פעוט כבן 9 חודשים נפל היום (16:04) מגובה ברחוב הנשיא באשקלון. צוותי מד\"א מפנים אותו לבית החולים ברזילי במצב אנוש, תוך כדי ביצוע פעולות החייאה.",
-      "link": "https://www.kikar.co.il/scoop-news/87351",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T13:30:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkv9g2joge",
-      "title": "תינוק פונה במצב אנוש לבי\"ח, ההורים סיפרו: \"נפל ממגלשה באשקלון\"",
-      "summary": "התינוק, כבן 9 חודשים, פונה תוך פעולות החייאה לבית החולים ברזילי בעיר. ההורים אמרו שהוא נפל ממגלשה, ולאחר ששבו איתו הביתה - הוא איבד הכרה. בדרך לבית החולים ליבו שב לפעום",
-      "link": "https://www.ynet.co.il/news/article/rkv9g2joge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T13:27:42.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkv9g2joge",
-      "title": "תינוק פונה במצב אנוש לבי\"ח, ההורים סיפרו: \"נפל ממגלשה\"",
-      "summary": "התינוק, כבן תשעה חודשים, פונה תוך פעולות החייאה לבית החולים ברזילי בעיר. ההורים אמרו שהוא נפל ממגלשה, ולאחר ששבו איתו הביתה - הוא איבד הכרה",
-      "link": "https://www.ynet.co.il/news/article/rkv9g2joge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T13:27:42.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkv9g2joge",
-      "title": "תינוק במצב אנוש - לאחר שככל הנראה נפל ממגלשה באשקלון",
-      "summary": "התינוק, כבן תשעה חודשים, פונה מחוסר הכרה ותוך כדי פעולות החייאה לבית החולים ברזילי בעיר. \"כנראה נפל ממגלשה במהלך משחק\"",
-      "link": "https://www.ynet.co.il/news/article/rkv9g2joge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-13T13:27:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/jimboree-fall-infant-critical",
-      "title": "נפילה מגובה בג'ימבורי: פעוט בן 9 חודשים במצב אנוש",
-      "summary": "טרגדיה מצמררת באשקלון: תינוק כבן תשעה חודשים נפצע באורח אנוש לאחר שנפל מגובה במהלך משחק במתחם ג'ימבורי בעיר • צוותי הרפואה שהוזעקו למקום ביצעו בו פעולות החייאה מתקדמות ונמרצות, ופינו אותו תוך כדי החייאה לבית החולים ברזילי • כל הפרטים (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/jimboree-fall-infant-critical",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T13:27:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376750",
-      "title": "ריאד סימנה את המטרה החות'ית - ונענתה באיום חריף: \"פותחת על עצמה שערי אסון\"",
-      "summary": "סעודיה פרסמה התרעת פינוי לקראת תקיפה במתקן נפט בצנעא, והחות'ים הגיבו באיום חריף על תשתיות האנרגיה של הממלכה. חילופי האיומים מגבירים את החשש מהסלמה שתשפיע גם על שוק הנפט העולמי",
-      "link": "https://www.maariv.co.il/news/world/article-1376750",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-13T13:27:13.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376750",
-      "title": "סעודיה הזהירה את תושבי צנעא - החות'ים מאיימים על \"עתיד מגזר הנפט כולו\"",
-      "summary": "סעודיה פרסמה התרעת פינוי לקראת תקיפה במתקן נפט בצנעא, והחות'ים הגיבו באיום חריף על תשתיות האנרגיה של הממלכה. חילופי האיומים מגבירים את החשש מהסלמה שתשפיע גם על שוק הנפט העולמי",
-      "link": "https://www.maariv.co.il/news/world/article-1376750",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-13T13:27:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21616347",
-      "title": "הנס באשקלון: הרופאים השיבו דופק לתינוק שנפל ממגלשה בג'ימבורי",
-      "summary": "התינוק בן תשעת החודשים נפל ככל הנראה ממגלשה בגובה כחצי מטר במהלך משחק בג'ימבורי בעיר • צוותי מד\"א מצאו אותו מחוסר הכרה, ללא דופק וללא נשימה, וביצעו בו פעולות החייאה • במהלך הפינוי לבית החולים ברזילי שב ליבו לפעום",
-      "link": "https://www.israelhayom.co.il/news/local/article/21616347",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T13:26:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21616347",
-      "title": "תינוק בן 9 חודשים נפל מגובה באשקלון - מצבו אנוש",
-      "summary": "הפעוט נפל ככל הנראה ממגלשה במהלך משחק בג'ימבורי באשקלון • צוותי מד\"א מצאו אותו מחוסר הכרה, ללא דופק וללא נשימה, וביצעו בו פעולות החייאה • הוא פונה לבית החולים ברזילי במצב אנוש, תוך המשך ניסיונות ההחייאה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21616347",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T13:26:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-travel-warning-saudi-arabia-drone-attacks-iran-houthis",
-      "title": "איום טילים וכטב\"מים: אזהרת מסע דרמטית לסעודיה",
-      "summary": "מחלקת המדינה האמריקנית העלתה את אזהרת המסע לממלכה לרמה 3 • באזורי הגבול עם תימן הוגדרה רמת הסיכון על המרבי | בעקבות מתקפת כטב\"מים קשה בריאד והאיומים החות'ים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-travel-warning-saudi-arabia-drone-attacks-iran-houthis",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-13T13:22:44.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-df3602a395531a1027.htm",
-      "title": "תינוק נפל מגובה בג'ימבורי באשקלון, מצבו אנוש",
-      "summary": "צוות מד\"א שהגיע לזירה העניק לו טיפול רפואי וביצע פעולות החייאה תוך פינויו של התינוק לבית חולים ברזילי בעיר • חובש מד\"א סיפר שהתינוק ככל הנראה נפל ממגלשה בעת משחק, הוא פונה לבית החולים במצב אנוש\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-df3602a395531a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-13T13:22:00.000Z"
     }
   ]
 }
