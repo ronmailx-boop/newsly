@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T18:15:52.948Z",
+  "updatedAt": "2026-10-18T18:30:54.334Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tn4895",
+      "title": "בצל הסקרים: נתניהו במגעים על פרישה עם יו\"ר \"הציבור החרדי\" מוטי לייטנר",
+      "summary": "עמית סגל דיווח על מגעים בין ראש הממשלה נתניהו ליו״ר מפלגת ״הציבור החרדי״ מוטי לייטנר בניסיון להביא לפרישתו מהמרוץ. לפי הדיווח יש התקדמות בשיחות | במקביל, המפלגה מתקשה להתקרב לאחוז החסימה בסקרים האחרונים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tn4895",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T18:28:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88147",
+      "title": "7 נפגעים בתאונת דרכים ברהט - 2 במצב בינוני",
+      "summary": "שבעה נפגעים בגילאים שונים נפצעו בתאונת דרכים עם מעורבות שני רכבים באיזור התעשייה ברהט. שניים מהם נפצעו באורח בינוני וחמישה קל. צוותי איחוד הצלה העניקו טיפול רפואי בזירה, ואחד הפצועים הבינוניים פונה לבית החולים.",
+      "link": "https://www.kikar.co.il/scoop-news/88147",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T18:19:23.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tn47i3",
+      "title": "אחרי התמיכה בנתניהו: טראמפ נשאל אם יעבוד עם מועמד אחר - כך הוא הגיב",
+      "summary": "בריאיון שהעניק טראמפ לחדשות 12 זמן קצר לאחר הבעת התמיכה הפומבית שלו בנתניהו התבטא: \"תמיד התכוונתי להביע תמיכה בביבי\" | הנשיא התייחס גם לאפשרות אם יוכל לעבוד עם ראש ממשלה אחר (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tn47i3",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-18T18:14:56.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378646",
       "title": "\"הסדר כבר לא קיים בצרפת\": המהומות האלימות התחדשו לקראת נאום מקרון",
       "summary": "המהומות בצרפת התחדשו שעות לפני נאומו המתוכנן של הנשיא עמנואל מקרון. רעולי פנים התעמתו עם שוטרים ובזזו חנויות בפריז, בעוד מרין לה פן הזהירה מפני איום על הדמוקרטיה ותקפה את הנשיא",
@@ -39,6 +66,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-18T18:14:49.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1q00udfnfg",
+      "title": "אזור שלם בישראל חי במערב פרוע: \"סוחרים מנסים נשק ונעלמים לפני שהמשטרה באה\"",
+      "summary": "ביום ובלילה, על פני שטח ענק: רבים מתושבי הנגב סובלים מירי בלתי פוסק של סוחרים ש\"לוקחים את הנשק לסיבוב\" עבור רוכשים אפשריים. אך למרות שהתופעה אינה חדשה, התושבים טונעים: \"מרגישים שחזרנו אחורה. כל המאמצים הם רק טיפה בים\". המשטרה מתעקשת: \"היקף אירועי הירי באזור ירד\"",
+      "link": "https://www.ynet.co.il/news/article/b1q00udfnfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T18:14:12.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1bd5df2zx",
+      "title": "גז מדמיע ורימוני הלם בפריז, מקרון בנאום לאומה: \"כולנו חשים זעם ובושה\"",
+      "summary": "הנשיא היוצא של צרפת, שמואשם באוזלת יד מול המהומות שמטלטלות את ארצו, התייצב סוף סוף מול מצלמות ואמר: \"כולנו מתביישים הלילה\". במקביל: עימותים בין שוטרים למתפרעים בכיכר הרפובליקה. לה פן תקפה: \"נגמר לך האוויר, איבדת שליטה\", יד ימינה ברדלה: \"צרפת הושפלה\". מנהיג השמאל הקיצוני, שנטען כי ליבה את המהומות: \"מקרון ישב על הגדר וקיווה שהעניין יגווע\". קריאות להתפטרות שר הפנים וועדת חקירה, הערב: ביזה בפריז, רעולי פנים ניסו לפרוץ ל-Lacoste בליון",
+      "link": "https://www.ynet.co.il/news/article/b1bd5df2zx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-18T18:14:07.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tn47oj",
@@ -57,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T18:10:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21654157",
+      "title": "רמי קלינשטיין מתמוגג: ״התרגשות שיא״",
+      "summary": "אחרי שאמה ריטה הודתה שהלב שלה כמעט מתפוצץ מרוב שמחה, גם רמי קלינשטיין תופס את המיקרופון הוויראלי ומפרגן בגדול • \"משמוש! מזל טוב\"",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21654157",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-18T18:07:50.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1378630",
@@ -241,7 +295,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21653986",
       "title": "חי מליגת העל: הפועל באר שבע - הפועל ירושלים 1:0",
-      "summary": "אחרי 35 דקות, הם בטרנר • ויטלי דמשקאן העלה את האורחים במבצע אישי ענק",
+      "summary": "אחרי 35 דקות, הלם בטרנר • ויטלי דמשקאן העלה את האורחים במבצע אישי ענק",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21653986",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -313,7 +367,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21653898",
       "title": "פרסום ראשון: רב החטיבה הורה ללוחמות איסוף קרבי לעזוב מוצב בגבול לבנון",
-      "summary": "צוות של לוחמות איסוף קרבי התמקם במוצב ציפורן ברכס רמים והחל בפעילות • רב החטיבה ביקש מהן לעזוב בטענה ששהותן פוגעת בחוק השירות המשותף • \"בסוף קיבלנו פקודה מלמעלה להתקפל\", סיפרו בכעס",
+      "summary": "צוות של לוחמות איסוף קרבי התמקם במוצב ציפורן ברכס רמים והחל בפעילות • רב החטיבה ביקש מהן לעזוב בטענה ששהותן פוגעת בחוק השירות המשותף • \"בסוף קיבלנו פקודה מלמעלה להתקפל\", סיפרו בכעס • צה\"ל: \"תקלה בתיאום, רק לאחר הגעת הלוחמות התברר כי התנאים אינם מאפשרים את שהייתן\"",
       "link": "https://www.israelhayom.co.il/news/defense/article/21653898",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -29910,78 +29964,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-13T18:36:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "פספוס גדול: מכבי תל אביב הפסידה 90:87 לברצלונה",
-      "summary": "הופעת ענק של ים מדר (22 נק', מדד 31) לא עזרה לצהובים לרשום ניצחון באחד המגרשים שבהם היא הכי מתקשה באירופה וירדה למאזן 4:1 ביורוליג • ג'סטין רובינסון קלע את שלשת הניצחון 1.6 שניות לסיום",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 75:83",
-      "summary": "מחזור 5: ים מדר הגיע לוהט לרבע השלישי, אבל הקטלאנים התעוררו והצליחו לברוח להפרש משמעותי • מי תצא מנצחת מהפלאו בלאוגרנה?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 68:74",
-      "summary": "מחזור 5: ים מדר הגיע לוהט לרבע השלישי והצליח להשיב את הצהובים מפיגור 6, הקטלאנים התעוררו לקראת סיום הרבע כדי לרדת ל-10 הדקות האחרונות ביתרון זעיר • מי תצא מנצחת מהפלאו בלאוגרנה?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 54:52",
-      "summary": "מחזור 5: ים מדר הגיע לוהט לרבע השלישי והצליח להשיב את הצהובים מפיגור 6, הקטלאנים שומרים על הפרש של פחות מפוזישן אחד • הניצחון השני של עודד קטש בהישג יד?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 42:40",
-      "summary": "מחזור 5: אחרי פתיחה התקפית טובה של שתי הקבוצות, הן מתקשות למצוא את הסל ומחליפות ביניהן את היתרון • ג'ימי קלארק הסתבך בבעיית עבירות, קווין פאנטר מצטיין מנגד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 33:35",
-      "summary": "מחזור 5: אחרי פתיחה התקפית טובה של שתי הקבוצות, הן מתקשות למצוא את הסל ומחליפות ביניהן את היתרון • ג'ימי קלארק הסתבך בבעיית עבירות, קווין פאנטר מצטיין מנגד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 24:23",
-      "summary": "מחזור 5: למרות פתיחה לא טובה בצד ההגנתי, הצהובים פתחו עם מטווח שלשות שהוביל למהפך ויתרון קטן עם סיום הרבע הראשון • קווין פאנטר לוהט בצד השני",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "title": "חי מהיורוליג: ברצלונה - מכבי תל אביב 0:0",
-      "summary": "מחזור 5: אחרי שהשיגה את הניצחון הראשון, החבורה בצהוב תנסה לצבור מומנטום במגרש הקשה בספרד במשחק הראשון של השבוע הכפול • ג'ון דיברתולומיאו נעדר מהסגל, ארמנדו בייקוט בפנים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21618475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-13T18:21:16.000Z"
     }
   ]
 }
