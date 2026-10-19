@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:31:01.796Z",
+  "updatedAt": "2026-10-19T15:45:50.270Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88312",
+      "title": "ילד בן 6 נפגע מאוטובוס ברחוב אברבנאל בבני ברק",
+      "summary": "ילד בן 6 נפגע מאוטובוס ברחוב אברבנאל בבני ברק. צוותי איחוד הצלה העניקו לו טיפול רפואי במקום עקב חבלות בגפיים. מצבו מוגדר קל.",
+      "link": "https://www.kikar.co.il/scoop-news/88312",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T15:40:38.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tn5v19",
+      "title": "כְּשׁוֹשַׁנָּה בֵּין הַחוֹחִים | החתן הצעיר נקלע לשיחה בין האריות שבחבורה",
+      "summary": "קהל רב נהר לשמחת בר מצווה לנכד האדמו\"ר מקוזמיר, בן לחתנו הרב טוביה ליברמן בן הגר\"י ליברמן | בין ההמונים נצפו אדמו\"רים ורבנים, שחלקם פתחו בשיח עם הסבים, תוך שחתן המצווה יושב ביניהם ומתענג על דברי חכמים שנשמעו בנחת | מתתיהו גולדברג מגיש תיעוד (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tn5v19",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T15:35:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/gedolei-yisrael-north-campaign-degel-hatorah-elect",
+      "title": "גדולי ישראל יצאו למסע חיזוק בצפון: \"זו הדרך לשמור על העצמאות שלנו\"",
+      "summary": "ראשי הישיבות הגר\"ד לנדו והגרמ\"ה הירש יצאו למסע חיזוק בחריש, חיפה ועפולה • במסע השתתפו יו\"ר יהדות התורה יעקב אשר וכן חברי הכנסת גפני ומקלב | המסע הגורלי לקראת הבחירות (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/gedolei-yisrael-north-campaign-degel-hatorah-elect",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T15:34:26.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21661887",
       "title": "מדרסים בהתאמה אישית עד הבית: השירות של המרכז לנוחות ואורטופדיה",
@@ -192,6 +219,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T15:05:52.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872911",
+      "title": "יטוס הלילה או מחר: ברק יצחקי על סף חתימה בקבוצה אירופית",
+      "summary": "הקבוצה בה שיחק המאמן לפני 14 שנה רוצה לצרפו כמה שיותר מהר ומאמינה שישדרג אותה, חתימה רשמית עשויה ב-24 השעות הקרובות. אנורתוזיס מדורגת במקום האחד לפני אחרון בטבלה",
+      "link": "https://sports.walla.co.il/item/3872911",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-19T15:05:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21660900",
@@ -1299,6 +1335,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-19T12:34:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1378953",
+      "title": "חקירות בכמה מוקדים בבנימין ובעציון: המשטרה אוספת ראיות",
+      "summary": "לאחר סוף שבוע של אירועי אלימות בבנימין, המשטרה פתחה בחקירות נוספות בעקבות דיווחים על פגיעה ברכוש. הכוחות אוספים ראיות וצפויים להיכנס לזירות נוספות",
+      "link": "https://www.maariv.co.il/news/law/article-1378953",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-19T12:33:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1378953",
@@ -30567,150 +30612,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T15:48:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87601",
-      "title": "ילדה בת שנתיים נפגעה מרכב באשדוד",
-      "summary": "צוותי רפואה של איחוד הצלה הוזעקו לרחוב ז'בוטינסקי באשדוד בעקבות תאונת דרכים בה נפגעה הולכת רגל בת שנתיים מרכב. הילדה נפצעה באורח קל וקיבלה טיפול רפואי במקום.",
-      "link": "https://www.kikar.co.il/scoop-news/87601",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T15:43:40.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyd1vjaime",
-      "title": "המשבר החדש בעזה והאזהרה הדחופה לעולם: \"חמאס ינסה להאשים בזה את ישראל\"",
-      "summary": "ישראל מחויבת לאפשר כניסה של כ-600 משאיות ביום לרצועה, אלא שלפי צה\"ל לסוחרים נמאס מכך שחמאס סוחט אותם ומאיים עליהם - והם פתחו בשביתה. המשמעות: מספר המשאיות עלול לצנוח בכ-50%, וצה\"ל עדכן את מנכ\"ל מועצת השלום. ביו\"ש: פשיטה על ארגוני צדקה שלפי צה\"ל שיתפו פעולה עם ארגוני טרור",
-      "link": "https://www.ynet.co.il/news/article/hyd1vjaime",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-14T15:43:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87600",
-      "title": "גבר כבן 30 נפצע בינוני בנפילה מגובה בבית שמש",
-      "summary": "גבר כבן 30 נפצע בינוני לאחר שנפל מגדר בגובה כ-4 מטרים ברחוב רפאל אלנקווה בבית שמש. צוותי איחוד הצלה העניקו לו טיפול רפואי במקום והוא פונה לבית החולים להמשך טיפול.",
-      "link": "https://www.kikar.co.il/scoop-news/87600",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T15:43:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87599",
-      "title": "אוגדה 99 השלימה משימתה בצפון רצועת עזה",
-      "summary": "אוגדה 99 של צה\"ל השלימה את משימתה בצפון רצועת עזה. במהלך הפעילות חוסלו יותר מ-100 מחבלים ונוטרלו כ-8 קילומטרים של תשתיות תת-קרקעיות.",
-      "link": "https://www.kikar.co.il/scoop-news/87599",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T15:43:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "ללא ישראלים בסגל: הפועל תל אביב הביסה 82:100 את בשיקטאש",
-      "summary": "דימיטריס איטודיס בחר שלא לרשום אף שחקן עם תעודת זהות כחולה בסגל, אבל השחקנים הזרים השלימו את המשימה עם מחצית שנייה נהדרת ועלייה למאזן 2:3 חיובי • אמיר קופי הצטיין בבכורה, זאק לידיי ואנטוניו בלייקני בלטו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 49:58",
-      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס פתחה נהדר את המחצית השנייה בהובלת זאק לידיי בדרך ליתרון מבטיח • האדומים ישובו למאזן חיובי?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 39:43",
-      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס מתקשה לשמור על היתרון שלה מול הקבוצה הטורקית, אצלה בולט אנטה ז'יז'יץ' מתחת לסלים • האדומים ישובו למאזן חיובי?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 18:22",
-      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס מצליחה לרוץ מול הקבוצה הטורקית ולשמור על היתרון • אמיר קופי שב נהדר מהפציעה, וסיליה מיציץ' עלה מהספסל • האדומים ישובו למאזן חיובי?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 10:11",
-      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס תנסה לשוב למסלול הניצחונות ולמאזן חיובי במפעל הבכיר ביבשת • מנגד, הקבוצה הטורקית רוצה להשלים ניצחון כפול על היריבות מתל אביב",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "title": "חי מהיורוליג: הפועל תל אביב - בשיקטאש 0:0",
-      "summary": "מחזור 5: ללא שחקן בעל אזרחות ישראלית בסגל, החבורה של דימיטריס איטודיס תנסה לשוב למסלול הניצחונות ולמאזן חיובי במפעל הבכיר ביבשת • מנגד, הקבוצה הטורקית רוצה להשלים ניצחון כפול על היריבות מתל אביב",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21626678",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:41:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hzira/tmw9c1",
-      "title": "13 ימים לבחירות | רגעי ההכרעה והסקרים הדרמטיים המלמדים על אי הכרעה",
-      "summary": "פחות משבועיים לבחירות, רוב ככל הסקרים מלמדים על אי הכרעה בבחירות ופלונטר פוליטי שיוביל לסבב שני או להפרת הבטחות בחירות | וגם: כמה יקלבו הסיעות החרדיות ויום ההילולה למרן רבינו עובדיה יוסך זצ\"ל| הפרשן ישי כהן והיועץ האסטרטגי אבי וידרמן מנתחים באולפן 'הזירה' • צפו/האזינו (כיכר הסכתים)",
-      "link": "https://www.kikar.co.il/hzira/tmw9c1",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T15:39:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21626866",
-      "title": "כוכב ''ארץ נהדרת'' מתוודה: ''כנראה העונה האחרונה שלי''",
-      "summary": "ליאור אשכנזי, שמגלם את בני גנץ ב\"ארץ נהדרת\" כבר כמעט שמונה שנים, מגלה שייתכן שזו עונתו האחרונה בתוכנית • הסיבה קשורה ישירות לדמות • ומה התחזית הנחרצת שלו לגבי יו\"ר כחול לבן, פחות משבועיים לפני הבחירות",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21626866",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:39:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1377229",
-      "title": "עתירת משפחת קסטלמן נדחתה: \"לא ננקט כל צעד נגד מי שסרחו\"",
-      "summary": "בג\"ץ דחה את עתירת משפחת יובל קסטלמן ז\"ל נגד ההחלטה לא לפתוח בחקירה פלילית נגד גורמי משטרה. עם זאת, השופטים קבעו כי נפלו פגמים בחקירה הראשונית וכינו את האופן בו נוהלה מצער ומקומם",
-      "link": "https://www.maariv.co.il/news/law/article-1377229",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T15:37:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1377229",
-      "title": "בג\"ץ לא יתערב בפרשת קסטלמן - אך ביקר בחריפות: \"נפלו ליקויים רבים\"",
-      "summary": "בג\"ץ דחה את עתירת משפחת יובל קסטלמן ז\"ל נגד ההחלטה לא לפתוח בחקירה פלילית נגד גורמי משטרה. עם זאת, השופטים קבעו כי נפלו פגמים בחקירה הראשונית וכינו את האופן בו נוהלה מצער ומקומם",
-      "link": "https://www.maariv.co.il/news/law/article-1377229",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T15:37:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21626696",
-      "title": "\"התעלומה\" שעדיין נותרה גם אחרי עסקת הענק של חיל האוויר",
-      "summary": "הקיצוץ הרוחבי האחרון לא נועד לממן את עסקת המסוקים, שכבר תוקצבה באוגוסט • לפי גורמים המעורים בפרטים, בימים הקרובים צפוי קיצוץ נוסף לטובת צרכים ביטחוניים קריטיים אחרים • במערכת הביטחון מזהירים מפער תקציבי עמוק: \"נגמרו הקסמים\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21626696",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T15:35:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hjqqjzajfx",
-      "title": "יונתן שלו: \"לא מרגיש שגדלתי עם כסף\" | הספינר",
-      "summary": "מי שצפוי להיות הח\"כ הכי צעיר בכנסת הבאה, וממוקם 10 ברשימה של בנט, מגיע לשאלון הספינר של ynet. הוא חושף את מצבו הזוגי, מסביר מדוע בכוונתו לייצג את הצעירים במאבק ביוקר המחיה למרות האקזיט של אימו, ומספר על ההרגשה להיות תחת אש. זה מה שיש לו להגיד למי שחושב שעשה שימוש פוליטי במילואים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hjqqjzajfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-14T15:31:25.000Z"
     }
   ]
 }
