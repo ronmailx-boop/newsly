@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:15:44.048Z",
+  "updatedAt": "2026-10-19T04:30:48.050Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tn4yye",
+      "title": "מאיר פרוש על מוי לייטנר והמועמדת החרדית: \"אפשר להתעלם, מה היא קשורה אלינו?\"",
+      "summary": "ח\"כ מאיר פרוש לא מתרגש ממפלגתו החדשה של מוטי לייטנר ומאות המשתתפים בכנס בבנייני האומה: \"לא ראיתי אנשים מאגודה או דגל, יכול להיות שהצביעו לבן גביר קודם\". וגם: מה ענה על שילוב נשים? צפו (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tn4yye",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T04:29:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-eases-russia-sanctions-attacks-zelensky",
+      "title": "טראמפ הקל בסנקציות על רוסיה ותקף את זלנסקי: \"מעולם לא רצה שלום\"",
+      "summary": "נשיא ארה\"ב מאשים את מנהיג אוקראינה בהמשך הלחימה ומבטיח 'התקדמות רבה' בדרך להסדר • זלנסקי משיב אש: \"מנסה לדחוף אותנו להיכנע\" | דיווח חושף: פוטין מציע פסגת מעצמות משולשת עם סין (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-eases-russia-sanctions-attacks-zelensky",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T04:29:14.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1ohvyg3ml",
+      "title": "המטרה של איזנקוט: להפיל את המפלגות הקטנות בגוש נתניהו",
+      "summary": "בשיחות סגורות התייחס יו\"ר ישר! לביקורת מצד שותפיו לגוש על קמפיין המפלגה הגדולה שהוא מוביל. לטענתו, כך ינצחו בבחירות הקרובות: \"מפלגה גדולה מזיזה ליכודניקים, הנשיא ייתן מנדט להרכבת ממשלה\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/s1ohvyg3ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-19T04:18:05.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1378717",
+      "title": "174 קורבנות מתחילת השנה: גבר נורה למוות ליד מעלה אדומים",
+      "summary": "אזרח ישראלי בשנות ה-60 לחייו הגיע לכניסה למעלה אדומים כשהוא סובל מפצעי ירי, וצוותי הרפואה קבעו את מותו. המשטרה פתחה בחקירה ובודקת חשד לסכסוך בין משפחות בכפר הסמוך",
+      "link": "https://www.maariv.co.il/news/law/article-1378717",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-19T04:17:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sypd69f2fe",
+      "title": "פיצוי של 70 אלף שקלים לבן ה-8 שננשך על-ידי הכלב של שכנו",
+      "summary": "בן ה-8 מחולון שהה מחוץ לביתו והותקף על-ידי הרועה הגרמני של השכנים. הוא ננשך בראשו ואיבד הכרה - ונותר עם צלקת באורך כ-10 ס\"מ. הוריו התפשרו עם השכן כדי לממן טיפולים לבנם. \"הוא מנסה להתגבר על הפחד ולא מצליח\", סיפרו",
+      "link": "https://www.ynet.co.il/news/article/sypd69f2fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-19T04:16:40.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tn4ycw",
       "title": "טרגדיה נוראית בבית שמש: גבר כבן 40 אותר ללא רוח חיים בביתו",
       "summary": "השכן נכנס לדירה ברחוב רמב\"ם בעיר והזדעזע לגלות את השכן כשהוא ללא חיים • מתנדבי זק\"א הוזעקו לזירה באישון לילה ופעלו לשמירה על כבוד המת (בארץ)",
@@ -48,6 +93,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T04:12:57.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872776",
+      "title": "חברת הענק תקצה 5% מהמניות \"לתועלת הציבור\"",
+      "summary": "אנתרופיק מתכננת את אחת מהנפקות ה-AI הגדולות בהיסטוריה, והחליטה לתרום מראש מיליארדים לטובת הציבור. המטרה: להתמודד עם גל הפיטורים שיביא ה-AI. אילון מאסק לא התאפק ועקץ",
+      "link": "https://finance.walla.co.il/item/3872776",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-19T04:09:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21650489",
@@ -858,6 +912,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T19:55:15.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383957965",
+      "title": "לא רק ינון מגל: פאנליסט ערוץ 14 כינה את איזנקוט \"קוף\"",
+      "summary": "יותם זמרי התייחס לתמיכת נשיא ארה\"ב בראש הממשלה, וחזר על הכינוי שבו השתמש מגיש \"הפטריוטים\" נגד יו\"ר ישר - שהשיב למגל: \"הבעיה היא האיש שעומד מאחוריו\"",
+      "link": "https://www.walla.co.il/news/politics/383957965",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-18T19:46:55.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383957965",
@@ -30081,69 +30144,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-14T04:32:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-62",
-      "title": "סערה בדרך? היכן יירד גשם ואיפה יורגשו סופות רעמים בסוף השבוע",
-      "summary": "המהפך מתחיל לפנות בוקר: הגשם חוזר לחוף ולצפון, הטמפרטורות ירדו בחדות ובסוף השבוע ילוו אותנו ממטרים וסופות רעמים יחידות • כל הפרטים על מזג האוויר הצפוי עד שבת קודש",
-      "link": "https://www.kikar.co.il/israel-news/thop0g-62",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T04:29:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21619822",
-      "title": "\"יודעים למי להצביע - וזה לא לך\": הצל תוקף את נתניהו בסרטון זועם",
-      "summary": "מי שנחשב לאחד מתומכיו הגדולים ביותר של ראש הממשלה, מתח עליו ביקורת חריפה בסרטון שפרסם אמש • לדבריו, נתניהו מפנה עורף לשותפו איתמר בן גביר, מחרים אותו ומתעלם ממנו • כל זאת כשבמקביל בכירים בליכוד מכשירים אפשרות לשותפות עם גדי איזנקוט • \"אנחנו רואים מה קורה פה\", אמר אליאסי לנתניהו, \"אנחנו לא מטומטמים\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21619822",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T04:25:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tmvqne",
-      "title": "בהילולת אביו מרן זצ\"ל: הראש\"ל הגר\"ד יוסף עלה בסמוך לחצות לציון בסנהדריה",
-      "summary": "הילולת פוסק הדור: הראשון לציון והרב הראשי לישראל, הגאון רבי דוד יוסף, נכנס לאחר חצות לילה לבית העלמין סנהדריה להעתיר בתפילה על ציונו של אביו מרן רבנו עובדיה יוסף זצוק\"ל • עשרות אלפים נוהרים למקום (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tmvqne",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-14T04:23:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376945",
-      "title": "השופט שטראמפ מינה הפך לו את הקערה: הדרמה בבית הלבן",
-      "summary": "שופט פדרלי הורה לממשל טראמפ להשיב את גישת CNN, פוליטיקו ו-MS NOW לבית הלבן. בהחלטתו קבע כי החרם נבע לכאורה ממניעי נקמה בשל סיקור שלילי, ודחה את טענות הממשל לשיקולי ביטחון לאומי",
-      "link": "https://www.maariv.co.il/news/world/article-1376945",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T04:22:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1376945",
-      "title": "הנקמה של טראמפ הסתבכה: השופט לא קנה את הסיפור",
-      "summary": "שופט פדרלי הורה לממשל טראמפ להשיב את גישת CNN, פוליטיקו ו-MS NOW לבית הלבן. בהחלטתו קבע כי החרם נבע לכאורה ממניעי נקמה בשל סיקור שלילי, ודחה את טענות הממשל לשיקולי ביטחון לאומי",
-      "link": "https://www.maariv.co.il/news/world/article-1376945",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T04:22:33.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1gogt2jmg",
-      "title": "בן 29 נהרג בתאונת דרכים בדרום תל אביב",
-      "summary": "הנהג שהתנגש בצד הדרך פונה על-ידי מד\"א במצב אנוש לבית חולים, ושם נאלצו הרופאים לקבוע את מותו. המשטרה חוקרת את נסיבות התאונה",
-      "link": "https://www.ynet.co.il/news/article/h1gogt2jmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-14T04:18:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21619828",
-      "title": "החשד: המקטע שבו אירע הפיצוץ ברכס רמים היה אסור לטיולים",
-      "summary": "במשטרה ממתינים לשיפור במצבם של שני מורים שנפצעו קשה, כדי להבין כיצד הגיעו תלמידי אורט מעלות למקטע הספציפי - כך פורסם בגלי צה\"ל • ב-12:00 יובא למנוחות אלעזר יאיר וילנסקי ז\"ל",
-      "link": "https://www.israelhayom.co.il/news/local/article/21619828",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T04:16:06.000Z"
     }
   ]
 }
