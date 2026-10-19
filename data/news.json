@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T17:45:49.279Z",
+  "updatedAt": "2026-10-19T18:01:11.706Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88334",
+      "title": "צה\"ל: החשש לחדירה באביתר התברר כשווא - מדובר באזרח ישראלי",
+      "summary": "דובר צה\"ל הבהיר כי בעקבות התרעה על חשש לחדירת מחבלים ביישוב אביתר שבחטיבת שומרון, התברר שמדובר באזרח ישראלי. אין חשש לאירוע ביטחוני.",
+      "link": "https://www.kikar.co.il/scoop-news/88334",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-19T17:50:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1fjmrm2fe",
+      "title": "גם אחרי טבח 7/10: אוריך הודה שהמשיך לעבוד עבור קטאר ב-2024 | דיווח",
+      "summary": "יועצו של ראש הממשלה טען בחקירה שסיים את עבודתו עבור הקטארים רק לאחר שעודכן כי \"הפרויקט הסתיים\" - בשנת 2024. הוא אמר כי לא דיווח לנתניהו על עבודתו בחו\"ל: \"אף פעם לא נדרשתי לגילוי נאות\"",
+      "link": "https://www.ynet.co.il/news/article/b1fjmrm2fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-19T17:49:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958104",
+      "title": "יו\"ר מפלגת הציבור החרדי: \"החרדים צריכים את צה\"ל\"",
+      "summary": "לייטנר קרא בכנס \"בוחרים בחינוך\" לשינוי בתפיסת האחריות של החברה החרדית כלפי המדינה וביטחונה: \"כדי שיהיה מי שישמור על הגבולות, יגן על הערים החרדיות ועל כלל הערים במדינת ישראל - אנחנו צריכים את צה\"ל״",
+      "link": "https://www.walla.co.il/news/israel/383958104",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-19T17:37:42.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/channel-13-poll-izenkot-netanyahu-iran-attack-conc",
       "title": "סקר חדש: איזנקוט פותח פער על נתניהו; בנט עולה גם | זו החלוקה לגושים",
@@ -480,6 +507,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-19T16:02:29.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3872895",
+      "title": "חי: מכבי ת\"א רוצה לנקום בבית\"ר כל הדרך חזרה לפסגה",
+      "summary": "הצהובים רוצים לנקום על ההשפלה מהעונה שעברה, לשוב לפסגה ולהגדיל את הפער בין השתיים לשבע נקודות. וארלה שב ל-11, יחזקאל עבר ימינה, קאלו הועדף על אנסה מנגד ושועה המשיך בחוד",
+      "link": "https://sports.walla.co.il/item/3872895",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-19T16:02:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3872895",
@@ -1011,6 +1047,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-19T14:41:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379001",
+      "title": "אחז ברחפן והמריא משדה הקרב: התיעוד מאוקראינה מטריף את רוסיה",
+      "summary": "חייל אוקראיני שנפצע בחזית נותר באזור ממוקש תחת איום רחפנים רוסיים. לאחר שפינוי קרקעי לא התאפשר, רחפן כבד הרים אותו לאוויר והטיס אותו למקום מבטחים. בצבא אוקראינה טוענים: מדובר בתקדים היסטורי",
+      "link": "https://www.maariv.co.il/news/world/article-1379001",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-19T14:40:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379001",
@@ -30441,42 +30486,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-14T18:03:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkk00gbpofx",
-      "title": "נקבע מותו של אחד הפצועים בפיצוץ במפעל אינטל",
-      "summary": "ההרוג, טכנאי גז באינטל, פונה תחילה לבית החולים סורוקה במצב אנוש בעקבות הפיצוץ, שלפי החשד נגרם מבלון גז בעת פריקת משאיות. שני פצועים נוספים מאושפזים במצב קשה בטיפול נמרץ",
-      "link": "https://www.ynet.co.il/news/article/bkk00gbpofx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-14T17:59:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21628168",
-      "title": "נעצר החשוד בדקירה בגינת לוינסקי בתל אביב עם סכין ברשותו",
-      "summary": "הקורבן סיפר לשוטרים כי הותקף ונפצע, ולפי החשד נגנבו ממנו כסף ומכשיר טלפון • החשוד, תושב לוד, הועבר לחקירה והמשטרה תבקש להאריך את מעצרו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21628168",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-14T17:55:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377259",
-      "title": "התפתחות דרמטית בפרשת קטארגייט: יונתן אוריד מודה - נפגשתי עם בכירים קטארים",
-      "summary": "החשיפות על יונתן אוריך, יועצו הקרוב של ראש הממשלה נתניהו נמשכות: על פי דיווח בחדשות 12, מספר חודשים בודדים לאחר טבח ה-7 באוקטובר, נפגש אוריך עם מקורבו של אמיר קטאר",
-      "link": "https://www.maariv.co.il/news/politics/article-1377259",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T17:54:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1377259",
-      "title": "כבר לא רק שליחים: יונתן אוריך נפגש עם אחד הבכירים הבולטים בקטאר | דיווח",
-      "summary": "החשיפות על יונתן אוריך, יועצו הקרוב של ראש הממשלה נתניהו נמשכות: על פי דיווח בחדשות 12, מספר חודשים בודדים לאחר טבח ה-7 באוקטובר, נפגש אוריך עם מקורבו של אמיר קטאר",
-      "link": "https://www.maariv.co.il/news/politics/article-1377259",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-14T17:54:15.000Z"
     }
   ]
 }
