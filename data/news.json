@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:15:49.965Z",
+  "updatedAt": "2026-10-20T03:31:11.288Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958141",
+      "title": "שיתף גיוסי תרומות לעזה: החשוד בדריסת חברת הפרלמנט האוסטרלית",
+      "summary": "ברנדן נוג’נט, בן 43, חשוד שדרס את הלן היינס, חברת הפרלמנט האוסטרלית, שאיבדה את רגלה. בעבר פרסם הדורס פוסטים ברשתות התומכים בעזה, והתנגד לכריתת יערות. המניע לדריסה טרם התברר",
+      "link": "https://www.walla.co.il/news/world/383958141",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T03:27:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379108",
+      "title": "ואנס לא דופק חשבון: המסר המפתיע לנתניהו מהבית הלבן",
+      "summary": "סגן נשיא ארה\"ב ג'יי.די ואנס הבהיר כי בניגוד לטראמפ, לא יתערב בבחירות בישראל ולא יביע תמיכה בנתניהו. במקביל, התייחס לאפשרות שיתמודד לנשיאות ב-2028 והעריך כי יזכה לתמיכת טראמפ",
+      "link": "https://www.maariv.co.il/news/world/article-1379108",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T03:26:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21663889",
+      "title": "כוכבת \"אופוריה\" חושפת: \"עברתי ניתוח באיברי המין\"",
+      "summary": "האנטר שפר מספרת לראשונה על הניתוח שעברה לפני פחות משנה, על ההחלטה שקיבלה אחרי שנים של התלבטות ועל ההחלמה שכללה הגבלה ל-150 צעדים ביום: \"זה היה מדהים, ואני כל כך אוהבת את זה\"",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21663889",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T03:25:29.000Z"
+    },
     {
       "id": "walla:https://www.walla.co.il/news/world/383958109",
       "title": "\"בשביל לפגוש את ישו\": מנהיג הכת בקניה הורשע ברצח 190 ילדים",
@@ -210,6 +237,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-20T02:00:00.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3872943",
+      "title": "עושה את אמריקה שוב גדולה",
+      "summary": "קאדילק גילתה את החשמל באיחור מסוים אבל עכשיו היא מפגיזה: אסקלייד IQ מתהדר בסוללה ענקית ובאורווה של 750 סוסים, כדי להישאר ענק גם בעידן האפס פליטות",
+      "link": "https://cars.walla.co.il/item/3872943",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T01:56:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21663813",
@@ -30612,24 +30648,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-15T03:37:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21629460",
-      "title": "בגיל 52: השחקנית זוכת האוסקר שוב בהריון",
-      "summary": "הילארי סוואנק, שהפכה לאמא לראשונה בגיל 48, חשפה בסרטון משפחתי משעשע שהיא מצפה לילד שלישי עם בעלה פיליפ שניידר. בעבר סיפרה על ההחלטה להקפיא ביציות ועל היתרונות שמצאה באימהות מאוחרת",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21629460",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T03:23:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21599754",
-      "title": "מים קדושים: המלון שמגדיר מחדש את גבולות ה\"וואו\"",
-      "summary": "מלון יאכט (The Yacht) החדש של רשת פתאל, שנפתח במרינה בהרצליה בהשקעה של כמיליארד שקל, מבקש להביא לישראל חוויית אירוח שמזכירה אתרי נופש מעבר לים • בגזרת ההנאה: 325 חדרים וסוויטות, כמה מתחמי בריכות, מסעדות, ספא ועיצוב בהשראת יאכטת יוקרה - שמציבים רף שטרם ראינו בתחום",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21599754",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T03:15:52.000Z"
     }
   ]
 }
