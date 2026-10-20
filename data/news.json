@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:30:57.838Z",
+  "updatedAt": "2026-10-20T00:45:52.845Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T23:47:43.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958134",
+      "title": "מקורות מאשרים לוואלה: הגסת' נפגש עם נתניהו בישראל",
+      "summary": "פיט הגסת’ הגיע לישראל לביקור חשאי ונפגש עם רוה\"מ בנוכחות גורמים אמירתיים. הביקור התקיים על רקע הדיונים על אפשרות לחידוש הלחימה עם איראן",
+      "link": "https://www.walla.co.il/news/world/383958134",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-19T23:39:53.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383958134",
@@ -30630,15 +30639,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-15T00:59:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21629224",
-      "title": "מהר של זבל לזהב ירוק: מסיק זיתים במקום הכי מפתיע בגוש דן | צפו",
-      "summary": "במקום שבו הוטמנו בעבר טונות של פסולת, צומחים היום עצי זית שמניבים פרי • בפארק אריאל שרון נפתחה עונת המסיק, שבסיומה צפויים להפיק כ-200 בקבוקי שמן זית",
-      "link": "https://www.israelhayom.co.il/news/local/article/21629224",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T00:42:06.000Z"
     }
   ]
 }
