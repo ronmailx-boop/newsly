@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:45:52.149Z",
+  "updatedAt": "2026-10-20T13:01:21.280Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1379361",
+      "title": "איך במאי \"שר הטבעות\" מתכוון להחזיר יצור שנכחד?",
+      "summary": "ביצה נדירה של עוף ענק שנכחד לפני כ-600 שנה התגלתה במכירה פומבית בארה\"ב. הבמאי פיטר ג'קסון סייע להשיב אותה לניו זילנד, שם מדענים מנסים לפענח את סודותיה",
+      "link": "https://www.maariv.co.il/news/viral/article-1379361",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T12:59:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1379360",
+      "title": "בעקבות המפות של הנוח'בה: הסיירת החדשה של חיל האוויר נחשפת - עם לוחמות בלבד",
+      "summary": "בעקבות מחדלי 7 באוקטובר, חיל האוויר משנה את תפיסת ההגנה על בסיסיו: יחידת עילית חדשה המורכבת מלוחמות בלבד תסיים בקרוב את הכשרתה, ובמקביל נבחנת העברת כוחות מיוחדים לבסיסים אסטרטגיים",
+      "link": "https://www.maariv.co.il/news/military/article-1379360",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T12:56:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-chief-gaza-division-training-readiness-october",
+      "title": "יש מרחבי עיוורון – לא נאפשר לאויב להפתיע | הרמטכ\"ל באימון אוגדת עזה",
+      "summary": "רב-אלוף זמיר ערך ביקור צמוד באימון מפקדות נרחב של אוגדת עזה • בכירי צה\"ל בחנו כשירות הכוחות למלחמה רב-זירתית | \"לקחי ה-7 באוקטובר מחייבים אותנו\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-chief-gaza-division-training-readiness-october",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T12:53:06.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88420",
+      "title": "מנדלבליט: אם ביצעו האזנות בחקירת הרו לפני אישורי - זה אסור",
+      "summary": "היועץ המשפטי לממשלה לשעבר אביחי מנדלבליט התייחס לחקירת ארי הרו וציין כי אם גורמי החקירה ביצעו האזנות סתר והקשיבו לשיחות לפני שקיבלו את אישורו, מדובר בפעולה אסורה.",
+      "link": "https://www.kikar.co.il/scoop-news/88420",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T12:47:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88419",
+      "title": "הרשות הפלסטינית קוראת להגיע למסיק זיתים בדיר ג'ריר מחר בבוקר",
+      "summary": "הרשות למאבק בגדר ההפרדה ובהתנחלויות, משרד ממשלתי של הרש\"פ, קוראת לפלסטינים להגיע מחר בשעה 08:30 ל\"יום הזית\" בכפר דיר ג'ריר שבנפת רמאללה. באירוע צפויים להשתתף בכירים ממשרדי הממשלה הפלסטינית ומתנדבים בינלאומיים, עם סיקור עיתונאי נרחב. המקום מוכר כנקודת חיכוך ותיקה.",
+      "link": "https://www.kikar.co.il/scoop-news/88419",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T12:47:12.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-submarines-houthis-weapons-smuggling",
       "title": "איראן עברה לצוללות: כך מבריחים נשק לחות'ים מתחת למים",
@@ -75,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T12:30:03.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958196",
+      "title": "ברדוגו מחמיא לאיזנקוט: \"הוא השמיד את גנץ\"",
+      "summary": "המשוריין של נתניהו מכחיש שהוסתר מהקמפיין ותוקף את בן גביר: \"עושה קניבליזציה לגוש. ניהלתי מו\"מ עם איזנקוט לבוא לליכוד, אפשר לשבת איתו\"",
+      "link": "https://www.walla.co.il/news/politics/383958196",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T12:28:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21668978",
@@ -318,6 +372,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T11:49:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379327",
+      "title": "\"אנו קוראים להתגייס\": אחרי צרפת - גם בבריטניה מתכננים להבעיר את השטח",
+      "summary": "פעילים פרו-פלסטינים וארגוני שמאל מתכננים שביתת תלמידים והפגנות בלונדון בהשראת המחאה בצרפת. בעקבות אירועי הביזה וההצתות במדינה, השמרנים מזהירים מפני התפשטות הכאוס לבריטניה",
+      "link": "https://www.maariv.co.il/news/world/article-1379327",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T11:49:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379327",
@@ -1596,6 +1659,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T09:20:58.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958175",
+      "title": "אחרי פרישת גנץ: טלטלה במפת הגושים - סקר וואלה",
+      "summary": "לאחר פרישתו של גנץ, גוש נתניהו בשפל של 48 מנדטים וגוש השינוי עם 54, הנדל וזליכה ממשיכים לעבור את אחוז החסימה בעוד וינטר נותר מתחתיו",
+      "link": "https://www.walla.co.il/news/politics/383958175",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T09:20:56.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383958175",
@@ -30288,60 +30360,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T13:04:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1377565",
-      "title": "מלכוד של נתניהו: הקלף שיכול להציל אותו מתביעת רונן בר - ולסבך אותו",
-      "summary": "תביעת הענק של רונן בר נגד נתניהו מציבה את רה\"מ בפני דילמה: האם להשתמש בחסינות ולהסתכן בחיזוק טענותיו של ראש השב\"כ לשעבר? עורך דין מומחה מסביר מה עומד על הפרק, ומה עשויה להיות המטרה האמיתית",
-      "link": "https://www.maariv.co.il/news/law/article-1377565",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-15T12:54:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1377565",
-      "title": "החסינות תציל את נתניהו? דווקא כאן מסתתרת הבעיה הגדולה שלו",
-      "summary": "תביעת הענק של רונן בר נגד נתניהו מציבה את רה\"מ בפני דילמה: האם להשתמש בחסינות ולהסתכן בחיזוק טענותיו של ראש השב\"כ לשעבר? עורך דין מומחה מסביר מה עומד על הפרק, ומה עשויה להיות המטרה האמיתית",
-      "link": "https://www.maariv.co.il/news/law/article-1377565",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-15T12:54:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21627870",
-      "title": "הצלקת שנשארת אחרי פגיעה במחבל: \"אתה יודע שפעלת נכון - וסובל\"",
-      "summary": "הם בטוחים בצדקת דרכם, אבל דילמות ערכיות בשטח הותירו בהם פצעים • מאז 7 באוקטובר עוד ועוד חיילים מדווחים על פציעה מוסרית - מצוקה נפשית הנובעת ממעשים שביצעו כדי לפגוע באויב • כעת יש מי שמבקשים מצה\"ל להתאים את הקוד האתי לשטח",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21627870",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T12:54:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21633401",
-      "title": "ניסוי הטילים האיראני שהדליק נורות אזהרה: ההיערכות בצה\"ל נחשפת",
-      "summary": "בעקבות הדיווחים על שיגור 30 טילים בליסטיים באיראן, צה\"ל מעלה כוננות בכל הגזרות ונערך לאפשרות של מתקפה ממוקדת • החשש מהסלמה במצר הורמוז גובר",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21633401",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T12:53:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21634237",
-      "title": "9 חודשים אחרי שנהרגה בתאונה: השחקנית הישראלית תופיע בסדרה החדשה",
-      "summary": "הפרק של \"הבריחה\" שישודר הערב בקשת 12 יוקדש לזכרה של השחקנית והדוגמנית טל ברקוביץ', בתפקיד המשחק האחרון שלה • ההצצה הראשונה לסצנה שבה היא מופיעה לצד כוכבי המותחן החדש • והדרך הארוכה שעשתה מהבמות של להקות המחול ועד המסך",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21634237",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T12:50:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21634092",
-      "title": "שיר אלמליח החליטה לוותר: \"צריך לעצור\"",
-      "summary": "הדוגמנית וגרושתו של איש העסקים מייקל זנזורי פרסמה סטורי אישי שבו דיברה על החלטה אישית שקיבלה. \"עכשיו הוא פה איתי, מאושר עד הגג\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21634092",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T12:47:01.000Z"
     }
   ]
 }
