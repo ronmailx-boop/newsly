@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:00:57.153Z",
+  "updatedAt": "2026-10-20T09:15:48.293Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/security-news/tn77ua",
+      "title": "יותר מ-540 תשתיות טרור הושמדו: צפו בפעילות אוגדה 91 בדרום לבנון",
+      "summary": "במהלך השבועות האחרונים פעלה אוגדה 91 במספר כפרים במרחב הביטחוני בדרום לבנון | הכוחות השמידו יותר מ-540 תשתיות טרור בהן מחסני אמל\"ח ואיתרו יותר מ-150 אמצעי לחימה | צפו בתיעוד (צבא)",
+      "link": "https://www.kikar.co.il/security-news/tn77ua",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T09:08:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tn77fx",
+      "title": "האחרון בעולם: הג'ירף הלבן נותר לבדו בטבע",
+      "summary": "הוא בולט למרחוק בנוף האפריקני, אך מאחורי המראה החריג מסתתר סיפור של תופעה נדירה במיוחד, שעתידה להעלם מן העולם (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tn77fx",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T09:05:07.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1379254",
       "title": "מחקר חדש חושף: כך משתנים הסיכויים של נתניהו ואיזנקוט בשוק החיזוי",
       "summary": "מחקר שניתח 1.24 מיליון עסקאות בפולימרקט חושף כיצד מאות דולרים בלבד יכולים להקפיץ את סיכויי המועמדים לראשות הממשלה. החוקרים מזהירים מפני מניפולציות אפשריות והפיכת הימורים לכותרות שמשפיעות על דעת הקהל",
@@ -39,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T09:00:03.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3872999",
+      "title": "חלום ההייטק מת? המקצועות שבאמת מעניינים את הצעירים בישראל",
+      "summary": "סקר חדש חשף כי הצעירים בישראל מעדיפים איזון בין פנאי לעבודה על פני שכר גבוה, וחולמים על מקצועות טיפול וחינוך יותר מאשר על הייטק",
+      "link": "https://finance.walla.co.il/item/3872999",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T08:56:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1379253",
@@ -50,12 +77,39 @@
       "pubDate": "2026-10-20T08:52:45.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21666147",
+      "title": "מכת הפרוטקשן: שני כלי עבודה כבדים עלו באש סמוך לכנרת",
+      "summary": "שני צוותי כיבוי מתחנת גליל גולן פעלו הלילה, מעט לאחר חצות, בשריפה של שני כלי צמ\"ה ביישוב כרכום • חוקר דליקות יבדוק את נסיבות פרוץ האש",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21666147",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:52:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21657628",
+      "title": "עוף ואורז בסיר אחד: הסוד הוא ברוטב העשיר בתבלינים",
+      "summary": "עוף עסיסי, אורז בסמטי ורוטב אדום עם פלפלים, עגבניות, שום ותבלינים • בהשראת הג'ולוף המערב-אפריקאי, המתכון הזה הופך כמה מרכיבים מוכרים לארוחה עשירה בטעמים, שמתבשלת בסיר אחד ומספיקה לארבעה סועדים",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21657628",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:52:15.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rkxcdi4hfl",
       "title": "טלפון מהגננת לאמא הציל את הפעוט: שוטרים ניפצו את החלון וחילצו אותו",
       "summary": "אם שנסעה לעבודתה ברכבת שכחה את הפעוט ברכב בתחנה ביבנה. הגננת התקשרה אליה לוודא למה בנה לא הגיע, ואז הוזעקה המשטרה. השוטרים חילצו את הפעוט מזיע ומיובש מעט, אבל במצב טוב. הוא לא נזקק לפינוי לבית החולים",
       "link": "https://www.ynet.co.il/news/article/rkxcdi4hfl",
       "source": "ynet",
       "sourceKey": "ynet",
+      "pubDate": "2026-10-20T08:50:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21666239",
+      "title": "תחזית לבחירות: מזג אוויר אידיאלי לפארקים ולקלפי",
+      "summary": "יום הבחירות ב-27 באוקטובר יתאפיין במזג אוויר סתווי, נוח ונטול גשמים בכל רחבי הארץ • באזורי החוף תורגש בריזה מתונה, בעוד שבהרים יהיה קריר יותר בבוקר ובערב • רשות הטבע והגנים ועיריות רבות מציעות פעילויות חוץ לניצול יום השבתון הלאומי • ההמלצה למצביעים ולמטיילים: להצטייד בעליונית קלה לשעות הערב",
+      "link": "https://www.israelhayom.co.il/weather/article/21666239",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T08:50:40.000Z"
     },
     {
@@ -77,6 +131,24 @@
       "pubDate": "2026-10-20T08:49:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21666190",
+      "title": "בקפריסין טוענים: הצעד החריג לקראת הגעת ברק יצחקי",
+      "summary": "אנורתוזיס נערכת להגעתו של מאמן בית\"ר ירושלים לשעבר, ועל פי דיווח מקומי אף שינתה את שעת האימון כדי לאפשר לו לפגוש את השחקנים",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21666190",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:47:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21666159",
+      "title": "אריאלה ורטהיימר: \"עזב אותי בשביל אישה שהכרתי\"",
+      "summary": "האמנית והפילנתרופית אריאלה ורטהיימר חשפה כיצד הסתיימו נישואיה הראשונים אחרי עשור, כשהיא בת 31 ואם לשני ילדים קטנים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21666159",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:45:31.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379247",
       "title": "המירוץ במישיגן מתחמם - ושוב ישראל במוקד: \"בעלת ברית לא לוקחת את הכסף שלך\"",
       "summary": "מתקפה חריפה נוספת על ישראל מצד מועמד דמוקרטי בארה\"ב: עבדול אל-סייד, המתמודד לסנאט במישיגן, טען בריאיון ל-ABC כי ישראל אינה בעלת ברית של ארה\"ב והאשים אותה בגרירת וושינגטון למלחמות",
@@ -84,6 +156,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T08:41:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21666046",
+      "title": "אלירז שדה נגד יועצו של ראש הממשלה: \"מבזה מחנה שלם\"",
+      "summary": "מגיש הטלוויזיה נקלע לעימות חריף עם יועץ ראש הממשלה סביב הקשרים עם קטאר והטיח בו ביקורת נוקבת • \"תקלה ברמת סיכון בטחון ישראל\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21666046",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:36:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21665832",
+      "title": "זעם בתימן על היוזמה המצרית: \"זו הפיכה, לא סכסוך בין מדינות\"",
+      "summary": "רשות חכמי הדת בתימן דוחה את יוזמת התיווך של שייח' אל-אזהר המצרי • במכתב נוקב האשימו את המורדים בהפרות קשות, כולל המצור המתמשך על תעז • זאת, על רקע הצהרת נשיא מצרים א-סיסי כי הוא ממתין לאישור הפרלמנט כדי לסייע לסעודיה בהסלמה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21665832",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:35:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1379243",
@@ -95,6 +185,15 @@
       "pubDate": "2026-10-20T08:35:27.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21666014",
+      "title": "המתיחות ביו\"ש נמשכת: המשטרה חוקרת הצתה ואירוע חיכוך בבנימין",
+      "summary": "שוטרים וחוקרי זיהוי פלילי נכנסו לכפר בורקא בליווי כוחות צה\"ל, אספו ראיות וגבו עדויות • בהמשך צפויים הכוחות להגיע גם לזירה בעין יברוד",
+      "link": "https://www.israelhayom.co.il/news/local/article/21666014",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:32:44.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1379240",
       "title": "38 רשימות מתמודדות בבחירות לכנסת – ואף אחת מהן כמעט לא מדברת על כלכלה | צורי דבוש",
       "summary": "במערכת הבחירות כולם מדברים על ביטחון, צבא , גיוס חרדים , מפלגות מהמגזר הערבי , חינוך , יוקר המחיה, אבל אף אחד כמעט ולא מדבר על הנכס שיכריע את עתידנו – עתיד הכלכלה בישראל",
@@ -102,6 +201,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T08:32:12.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3872998",
+      "title": "בן אפלק, תיזהר: ג'ניפר לופז שוב בזוגיות, והפעם עם סלב יהודי",
+      "summary": "לקחו את הכימיה שלהם על המסך גם לחיים האמיתיים? על פי דיווחים מעבר לים, הזמרת והשחקנית נמצאת בתחילתה של מערכת יחסים עם השחקן ברט גולדשטיין, שכיכב לצידה בסרט \"Office Romance\" של נטפליקס",
+      "link": "https://celebs.walla.co.il/item/3872998",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T08:30:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1379239",
@@ -192,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T08:13:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21665509",
+      "title": "פרטים מפגישת נתניהו-הגסת': המודיעין המדאיג שהתקבל והרמזים לפעולה צבאית",
+      "summary": "פגישתו של שר ההגנה האמריקני עם ראש הממשלה חושפת את עילות הכוננות הביטחונית החריגה • המודיעין מצביע על העברת צנטריפוגות איראניות לעומק האדמה, על רקע חשש כי המשבר הכלכלי דוחף את משמרות המהפכה להשלים פצצת גרעין כדי להבטיח את שרידות המשטר • בממשל האמריקני דוחפים לתקיפה מיידית אם יתברר שהחלון נסגר, בעוד בישראל נוקטים זהירות",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21665509",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T08:12:49.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21665509",
@@ -714,6 +831,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-20T07:01:51.000Z"
+    },
+    {
+      "id": "walla:https://healthy.walla.co.il/item/3872970",
+      "title": "איזה סרנד בריאותי מחבר בין בנט, איזנקוט ובן גביר?",
+      "summary": "שלושתם מגיעים ממחנות פוליטיים שונים, ושלושתם סיפרו שנעזרו בזריקות להפחתת משקל. ד\"ר רז הגואל מסביר כיצד החשיפה עשויה להפחית את הסטיגמה סביב השמנה, ולמה גם נחישות ומשמעת עצמית אינן תחליף לטיפול רפואי",
+      "link": "https://healthy.walla.co.il/item/3872970",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T07:01:00.000Z"
     },
     {
       "id": "walla:https://healthy.walla.co.il/item/3872970",
@@ -2588,6 +2714,42 @@
       "pubDate": "2026-10-19T20:31:13.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
+      "title": "מזל קשת - הורוסקופ יומי: צפויה לכם הפתעה | תחזית אסטרולוגית",
+      "summary": "הלך רוח של חריצות מביא אתכם ליום מלא פעילות שמסתיים בתחושת סיפוק והצלחה פנימית. בשעות הערב והלילה מוטב שתקדישו זמן לפעילות בכיף שאינה קשורה למחויבות כל שהיא • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-19T20:30:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
+      "title": "מזל גדי - הורוסקופ יומי: עזרה ושיתוף פעולה ישפרו את המצב | תחזית אסטרולוגית",
+      "summary": "הרוח שלכם מתנדנד בין אושר עצום ובין עייפות שמביאה אתכם להתנהגות אימפולסיבית שפוגעת לעיתים. עזרה ושיתוף פעולה ישפרו את המצב מבחינה אובייקטיבית ובעיקר מבחינת ההרגשה • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-19T20:30:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
+      "title": "מזל דלי - הורוסקופ יומי: הכל יסתדר בצורה הרצויה לכם | תחזית אסטרולוגית",
+      "summary": "צפויה היכרות מרתקת אך הפכפכה. נסו להתמקד בחצי הכוס המלאה כדי לא לקלקל לעצמכם את התענוג • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-19T20:30:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
+      "title": "מזל דגים - הורוסקופ יומי: אתם מבצעים מהלך לולייני ומתוחכם | תחזית אסטרולוגית",
+      "summary": "אתם מתאוששים ממשבר במהירות שמפתיעה אפילו אתכם. חוש ההומור שלכם משמש עבורכם מקפצה להגיע למקומות ולאנשים שבדרך רגילה לא הייתם מגיעים אליהם • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-19T20:30:39.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21629618",
       "title": "מזל טלה - הורוסקופ יומי: שמועות שונות ומשונות מגיעות אליכם | תחזית אסטרולוגית",
       "summary": "יש לכם תוכניות רבות אולם חלקן לא יתממש היום בגלל תקלות ואי הבנות. קצר בתקשורת ביניכם ובין מישהו בעבודה עלול לגרום לעוגמת נפש • הורוסקופ אלטרנטיבלי",
@@ -2655,42 +2817,6 @@
       "title": "מזל עקרב - הורוסקופ יומי: מצב הרוח שלכם ירוד למדי | תחזית אסטרולוגית",
       "summary": "ירידה באנרגיות גורמת לכם להרגיש חולשה וחוסר רצון התמודד עם נושאים שעומדים על הפרק • הורוסקופ אלטרנטיבלי",
       "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21629841",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
-      "title": "מזל קשת - הורוסקופ יומי: צפויה לכם הפתעה | תחזית אסטרולוגית",
-      "summary": "הלך רוח של חריצות מביא אתכם ליום מלא פעילות שמסתיים בתחושת סיפוק והצלחה פנימית. בשעות הערב והלילה מוטב שתקדישו זמן לפעילות בכיף שאינה קשורה למחויבות כל שהיא • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
-      "title": "מזל גדי - הורוסקופ יומי: עזרה ושיתוף פעולה ישפרו את המצב | תחזית אסטרולוגית",
-      "summary": "הרוח שלכם מתנדנד בין אושר עצום ובין עייפות שמביאה אתכם להתנהגות אימפולסיבית שפוגעת לעיתים. עזרה ושיתוף פעולה ישפרו את המצב מבחינה אובייקטיבית ובעיקר מבחינת ההרגשה • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
-      "title": "מזל דלי - הורוסקופ יומי: הכל יסתדר בצורה הרצויה לכם | תחזית אסטרולוגית",
-      "summary": "צפויה היכרות מרתקת אך הפכפכה. נסו להתמקד בחצי הכוס המלאה כדי לא לקלקל לעצמכם את התענוג • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
-      "title": "מזל דגים - הורוסקופ יומי: אתם מבצעים מהלך לולייני ומתוחכם | תחזית אסטרולוגית",
-      "summary": "אתם מתאוששים ממשבר במהירות שמפתיעה אפילו אתכם. חוש ההומור שלכם משמש עבורכם מקפצה להגיע למקומות ולאנשים שבדרך רגילה לא הייתם מגיעים אליהם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T20:30:39.000Z"
@@ -30288,123 +30414,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T09:19:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "title": "הפסגה בבאקו: הרצוג נאם - נציגי איראן, טורקיה ופקיסטן יצאו",
-      "summary": "הנשיא משתתף בוועידה חריגה יחד עם מנהיגים ממדינות עוינות כמו קטאר ואיראן • אמיר קטאר לא יצא מהאולם במהלך נאומו • חברת התעופה האזרית הטיסה את הרצוג מעל שטחה של טורקיה על מנת לעקוף את איסור הטיסה הטורקי",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:14:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "title": "פסגה חריגה: התרגיל של הרצוג לארדואן והתמונה עם נציגי איראן וקטאר",
-      "summary": "מטוס של חברת התעופה הלאומית האזרית הוא שהטיס את הנשיא מעל שטחה של טורקיה, ובכך עקף את החרם הטורקי על מעבר מטוסים ישראליים • שיתוף הפעולה האזרי עם התרגיל של הרצוג מעיד לא רק על היחסים הקרובים בין באקו וירושלים אלא גם על המתיחות הגוברת בין האזרים לטורקי",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:14:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "title": "התרגיל הנשיאותי: כך עקף הרצוג את האיסור של ארדואן",
-      "summary": "מטוס של חברת התעופה הלאומית האזרית הוא שהטיס את הנשיא מעל שטחה של טורקיה, ובכך עקף את החרם הטורקי על מעבר מטוסים ישראליים • שיתוף הפעולה האזרי עם התרגיל של הרצוג מעיד לא רק על היחסים הקרובים בין באקו וירושלים אלא גם על המתיחות הגוברת בין האזרים לטורקי",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:14:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21614917",
-      "title": "למה הסוקרים מפספסים בבחירות? מאוד פשוט - זה בגלל ההורים",
-      "summary": "אני לא רוצה לדבר על הבחירות, אני לא חושבת שדעתי הפוליטית אמורה לעניין מישהו, ואני גם ככה עייפה כי אני ערה מחמש בבוקר • מי שרוצה מוזמן לדבר איתי על וין דיזל",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21614917",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:13:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21630881",
-      "title": "בני הזוג במילואים, הנשים מאבדות את העבודה: הסקר שמציב מראה מול המפלגות",
-      "summary": "סקר חדש של פורום נשות המילואימניקים, המתפרסם לראשונה ב״היום״, מגלה כי 16% מהנשים אינן עובדות – לעומת 8% לפני שנה וחצי • 83% מהעצמאיות מדווחות על ירידה בהכנסות, ו־65% מהמשפחות נאלצו לצמצם הוצאות • לקראת הבחירות, בדקנו מה המפלגות מבטיחות למשרתי המילואים ולמשפחותיהם – ומה עדיין חסר",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21630881",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:12:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21631652",
-      "title": "חזרתי פתאום: האם ההימור הגדול של קשת יצליח?",
-      "summary": "התגעגעתם לבר רפאלי? סלחתם על העלמת המס ועל \"פיק אפ\"? בקשת הימרו שכן, והציבו אותה כשופטת ב\"הזמר במסכה\" וכמנחה של \"נינג'ה ישראל\" ● נקווה בשבילה שהקאמבק יהיה גדול לפחות כמו כרס הבירה של לאונרדו דיקפריו",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21631652",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:10:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/lebanese-politician-hamas-palestinian-defeat",
-      "title": "70 שנות תבוסות, חמאס הרס את פלסטין: הפוליטיקאי הלבנוני פותח מבערים",
-      "summary": "אחרי שבעה עשורים של תבוסות, הפוליטיקאי הדרוזי מלבנון דורש חשבון נפש ומצביע על נקודה שלדבריו הערבים מסרבים להתמודד איתה - וגם נתניהו נכנס לתמונה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/lebanese-politician-hamas-palestinian-defeat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T09:09:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21631766",
-      "title": "הדרמה הרפואית של כתבת חדשות 12: ''לא היה בתכנון שלי''",
-      "summary": "כתבת חדשות 12 יונה לייבזון תכננה יום רגיל, ומצאה את עצמה שוכבת על הכיסא שאף אחד לא אוהב לשבת עליו • התמונה שהעלתה לעוקבים, בלי איפור ובלי פילטרים, חשפה את מה שקרה • והמשפט שסיכם את כל מה שכולנו מרגישים ברגע כזה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21631766",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:09:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21631363",
-      "title": "לא צריך לטוס לחו\"ל: חגיגות האלווין מגיעות גם לישראל",
-      "summary": "מסיבות תחפושות בתל אביב, חגיגה צבעונית בנמל יפו, יריד מכושף בחיפה ומסע ממתקים בין חדרי מלון בצפון: האלווין מגיע גם לישראל עם אירועים למבוגרים ולילדים • איפה אפשר לחגוג, מה מחכה למבקרים ואילו פעילויות מוצעות בחינם?",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21631363",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:08:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21631282",
-      "title": "קונות בלי לחשוב פעמיים: 5 ענקית האופנה שמגלגלת הכי הרבה כסף",
-      "summary": "הן מציעות בגדים במחירים נגישים, מחליפות קולקציות בקצב מסחרר ומגלגלות מיליארדים • אבל מאחורי ההצלחה של זארה, H&M, יוניקלו, שיין ופריימרק מסתתרים מודלים עסקיים שונים לחלוטי • מי מפעילה אלפי חנויות, מי בנתה אימפריה באינטרנט ואיזו רשת מוכיחה שגם בגדי בסיס יכולים להיות עסק של מיליארדים?",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21631282",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:06:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21618716",
-      "title": "הירקות הכי פשוטים הופכים לשתי מנות שקשה לעמוד בפניהן",
-      "summary": "התרגלנו לחשוב על שורשים ופקעות כעל ירקות למרק, לתבשיל או לפירה, אבל חלקם נפלאים דווקא כשהם נשארים טריים • סלט שורשים ותפוח ירוק ברוטב אסיאתי וקיש בצלים מקורמלים וגבינות: שני מתכונים שמוכיחים, בפעם המי יודע כמה, שהפשטות עובדת הכי טוב",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21618716",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:06:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21630359",
-      "title": "כוכבת \"האח הגדול\" בישראל עם קונור מקגרגור: הבילוי הלילי נחשף",
-      "summary": "פטל אסף ושירז בן ארי הגיעו לאירוע של ויקטוריה ג'סטיס במיאמי, אבל דווקא תמונה אחת ששיתפה שירז הצליחה למשוך את תשומת הלב: מפגש עם כוכב ה-MMA האירי • וגם: התיעוד עם חגורת האליפות",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21630359",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T09:03:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377454",
-      "title": "מה הבינו רעמסס והחיתים לפני 3,000 שנה על לוח חרס, שאירופה עדיין לא מצליחה ליישם | אלמוג חזז",
-      "summary": "ממצא חתי בן 3,000 שנה מחזיר את אירופה לשאלה שמסרבת להיעלם: איך מגינים על מי שזכאי למקלט, ובמקביל מחזירים את מי שנקבע שאין לו זכות להישאר – בלי להפוך את הגבול לכלי סחיטה פוליטי של מדינות אחרות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1377454",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-15T09:03:28.000Z"
     }
   ]
 }
