@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:15:56.394Z",
+  "updatedAt": "2026-10-20T19:30:51.997Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379511",
+      "title": "באיטליה חזו בכאוס המהגרים בצרפת - ונקטו בפעולות מיידיות",
+      "summary": "ראש ממשלת איטליה ג'ורג'ה מלוני, הודיעה על שורה של צעדים, על רקע החשש מזליגת כאוס המהגרים בצרפת גם לאיטליה: \"אנו מיישמים עיקרון פשוט\"",
+      "link": "https://www.maariv.co.il/news/world/article-1379511",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T19:24:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/daycare-abuse-ariel-arrests",
+      "title": "זעזוע במעון הילדים: המנהלת ושתי עובדות נעצרו בחשד להתעללות קשה",
+      "summary": "התפתחות סוערת בחקירת החשד להתעללות בפעוטות במעון פרטי בעיר אריאל: שוטרים עצרו שתי חשודות נוספות – בהן מנהלת המעון ועובדת נוספת, זאת בהמשך למעצרה של סייעת ראשונה הבוקר | החקירה כוללת ניתוח חומרי תיעוד ממצלמות האבטחה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/daycare-abuse-ariel-arrests",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T19:21:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958219",
+      "title": "עוצר בפריז, 500 חיילים במילאנו - וטראמפ מזהיר מגורל אירופה",
+      "summary": "צרפת ואיטליה מנסות להשתלט על המהומות: רומא אישרה לפעול נגד קטינים, בפריז נוקטים בצעדי חירום. נשיא ארה\"ב נגד המגרים: \"לא תישאר אירופה\"",
+      "link": "https://www.walla.co.il/news/world/383958219",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T19:20:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/trump-iran-decision-nice-way-or-not",
+      "title": "\"צריכים לקבל רק החלטה סופית\": טראמפ שיגר איום עוקצני לאיראנים",
+      "summary": "הנשיא לשעבר התייחס למתיחות מול טהרן ואמר כי יש לקבל החלטה סופית • נתניהו התחייב להפיל את המשטר האיראני | דיווחים על מגעים בין וושינגטון לטהרן (חדשות)",
+      "link": "https://www.kikar.co.il/news/trump-iran-decision-nice-way-or-not",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T19:11:35.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/news/trump-iran-decision-nice-way-or-not",
       "title": "טראמפ על איראן: צריך להחליט אם לנצח בדרך נחמדה או פחות נחמדה",
@@ -138,6 +174,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-20T18:41:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1379497",
+      "title": "בצה\"ל החליטו להוריד את הכפפות: הצנחנים נשלחים לזירה נפיצה",
+      "summary": "צה\"ל מציב את ההצנחנים בחזית המאבק בטרור יהודי, והשב\"כ מפעיל יחידת עילית שנלחמת בדרך כלל בחמאס ובג'יהאד האיסלאמי. כ-500 מעורבים על הכוונת, אך במערכת הביטחון מסמנים מכשול",
+      "link": "https://www.maariv.co.il/news/military/article-1379497",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T18:37:11.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1379497",
@@ -30270,24 +30315,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-15T19:35:33.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383957638",
-      "title": "אייפון 18 בדרך למצולות? דיווח: אלפי מכולות טבעו במצר הורמוז",
-      "summary": "לפי דיווחים בכלי תקשורת בעולם הערבי, ספינת מטען מאיחוד האמירויות טבעה לאחר שפגעה לכאורה במוקש ימי. על פי הטענות, הספינה נשאה מכשירי אייפון 18 ובשמים יוקרתיים מדובאי",
-      "link": "https://www.walla.co.il/news/world/383957638",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-15T19:28:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21637393",
-      "title": "לנצח בחזית השיח: המאבק באנטישמיות עובר דרך הקרב על המילים",
-      "summary": "מאז ה-7 באוקטובר, נחשף שמושגים רבים - בהם \"אפרטהייד\", \"רצח עם\", \"טיהור אתני\" ו\"פשעי מלחמה\" - נחטפו, עברו מניפולציה פוליטית, ושימשו ככלי נשק במאבק על דעת קהל עולמית • כעת משיק הפורום המשפטי הבינלאומי כלי דיגיטלי למאבק בעיוות",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21637393",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T19:19:09.000Z"
     }
   ]
 }
