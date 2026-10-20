@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:15:57.974Z",
+  "updatedAt": "2026-10-20T13:31:05.544Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkj8vyr3fl",
+      "title": "הרמטכ\"ל: \"מטרתנו היא לאפשר קיום בחירות דמוקרטיות ללא השפעה חיצונית\"",
+      "summary": "רב-אלוף אייל זמיר הגיע לאימון מפקדות באוגדת עזה: \"חיזקנו את ההגנה ותגברנו את הכוחות בכלל הזירות, אנחנו נמצאים ברמת דריכות ומוכנות גבוהה\"",
+      "link": "https://www.ynet.co.il/news/article/bkj8vyr3fl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-20T13:24:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379379",
+      "title": "\"קמפוס נטול ציונים\": הקמפיין שמסעיר את האוניברסיטה היוקרתית",
+      "summary": "ארגון פרו-פלסטיני באוניברסיטת גלזגו קורא למועדוני סטודנטים להגדיר ציונות כגזענות ולמנוע הצטרפות תומכי ישראל. האוניברסיטה הבהירה כי מדובר במהלך מפלה המנוגד לחוקי השוויון",
+      "link": "https://www.maariv.co.il/news/world/article-1379379",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-20T13:22:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/lawyer-arrested-fraud-trust-account-real-estate",
+      "title": "עורכת דין נעצרה: 1.5 מיליון ₪ נעלמו מחשבון נאמנות",
+      "summary": "עורכת דין בתחום הנדל\"ן נעצרה בחשד למרמה וגניבה בהיקף של כ-1.5 מיליון שקלים • הכספים הועברו מחשבון נאמנות לחשבונה הפרטי | חקירה סמויה ממושכת (חוק ומשפט)",
+      "link": "https://www.kikar.co.il/law-and-order/lawyer-arrested-fraud-trust-account-real-estate",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T13:19:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/tzeva-shahor-election-jingle-torah-or-compromise",
+      "title": "׳צבע שחור׳ מחממת מנועים ועכשיו משיקה ג׳ינגל פרובקטיבי; \"די די די\"",
+      "summary": "המפלגה שמציבה את סוגיית הגיוס במרכז, משיקה היום ג'ינגל בחירות חדש ומצהירה כי לא תוותר על אף בחור ישיבה | ״הקול שלך עומד למבחן״ (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/tzeva-shahor-election-jingle-torah-or-compromise",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T13:15:26.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1379370",
       "title": "הלחצים על עופר וינטר לפרוש מהמרוץ גוברים - אבל האנגר 11 כבר מחכה",
       "summary": "למרות הלחצים בימין והסקרים שמציבים את מפלגתו מתחת לאחוז החסימה, עופר וינטר ממשיך במרוץ. מפלגת \"עמך ישראל\" כבר שכרה את מתחם האנגר 11 בנמל תל אביב לערב הבחירות ושלחה הזמנות לתקשורת",
@@ -50,6 +86,15 @@
       "pubDate": "2026-10-20T13:06:30.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21669419",
+      "title": "באמצע היום: גופת גבר אותרה ליד רכב בוער בכביש 92",
+      "summary": "צוותי מד\"א ביצעו בגבר פעולות החייאה מתקדמות, אך נאלצו לקבוע את מותו במקום • לוחמי האש פעלו לכיבוי השריפה ברכב ובשטח הסמוך",
+      "link": "https://www.israelhayom.co.il/news/local/article/21669419",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T13:06:21.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1379366",
       "title": "שלוש שנים אחרי הטבח: מירה שטהל הובאה לקבורה בכפר עזה",
       "summary": "זו הכותרת החזקה ביותר בעיניי מבחינה רגשית וחדשותית. היא נשענת על דבריו של הבעל, מעבירה את הכאב שבקבורה המחודשת ומעוררת עניין מבלי לפגוע ברגישות הסיפור",
@@ -59,6 +104,15 @@
       "pubDate": "2026-10-20T13:03:43.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21669096",
+      "title": "האנזי פליק או לואיס אנריקה: דירוג המאמנים הטובים בעולם",
+      "summary": "המפגש בין פריז סן ז'רמן לברצלונה הוא גם דו קרב בין שני מוחות הכדורגל המובילים בעולם כיום • נדב יעקבי עם הדירוג, הנימוקים וגם מסביר מי נשאר בחוץ",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21669096",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T13:03:23.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/hamas-terrorists-crossed-yellow-line-drills-elimin",
       "title": "ניסו לגנוב מקדחים: מחבלי חמאס חצו את הקו הצהוב – וחוסלו במקום",
       "summary": "שני מחבלים חצו את הקו הצהוב בדרום עזה וניסו לגנוב מקדחים לאיתור מנהרות • זוהו בזמן אמת והוזנק כלי טיס | חוסלו במקום עם הציוד בידיהם (צבא וביטחון)",
@@ -66,6 +120,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-20T13:03:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21669250",
+      "title": "\"הם בחרו מה לערוך\": ספיר בורגיל חושפת את האמת על הדוקו",
+      "summary": "חודשים ארוכים אחרי שמצאה את עצמה במוקד של סערה תקשורתית ומשפטית חסרת תקדים, הכוכבת מחליטה לשתף את הקושי האמיתי שלה • \"זה הרגעים שאתה נשבר\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21669250",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T13:02:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21669313",
+      "title": "תקיפה אנטישמית בלונדון: שלוש נשים יהודיות הוכו",
+      "summary": "ארגון \"שומרים\" פרסם תיעוד בו נראה גבר גדול מכה באגרופים שלוש נשים יהודיות, בהן אחת המובילה עגלת תינוק בפרבר היהודי גולדרס גרין בצפון הבירה הבריטית • החשוד נעצר והרקע לאירוע נחקר",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21669313",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T13:01:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21669144",
+      "title": "מהפך בבחירות האמצע עלול לכבול את ידיו של טראמפ מול ישראל",
+      "summary": "בעוד פחות משבועיים יכריע הבוחר האמריקני את צביון השנתיים האחרונות לכהונת הנשיא המכהן • המלחמה באיראן, נסיקת מחירי הדלק ומדיניות המכסים שחקו את מעמד הרפובליקנים ועלולים להוביל לרוב דמוקרטי בבית הנבחרים ובסנאט • עם סוף עידן הזוהר של התמיכה הדו-מפלגתית, לירושלים יש מה לחשוש ממשבר בגבעת הקפיטול • פרשנות",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21669144",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T13:01:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1379361",
@@ -219,6 +300,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T12:30:03.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873047",
+      "title": "בבית הכנסת ומול הבמה: נעצר ה\"מעריץ האובססיבי\" של יובל דיין",
+      "summary": "הגיע להופעותיה, תיעד אותה ופקד את בית הכנסת שבו היא מתפללת: מעריץ של יובל דיין נעצר בחשד להטרדתה. לפי המשטרה, שעות אחרי ששוחרר בתנאי הרחקה, שב להופעה נוספת שלה והתיישב בשורה הראשונה | כל הפרטים",
+      "link": "https://celebs.walla.co.il/item/3873047",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T12:29:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383958196",
@@ -752,19 +842,19 @@
       "pubDate": "2026-10-20T11:10:08.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21667955",
-      "title": "הרצוג בהונגריה: \"אני גאה במדיניות של אפס סובלנות לאנטישמיות\"",
-      "summary": "נשיא המדינה התייחס לאיום האיראני, ליחסים בין ירושלים לבודפשט ולבחירתו של פטר מגיאר • בהמשך צפוי להיפגש עם ראש הממשלה הנבחר",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21667955",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
+      "title": "בריטניה שולחת מטוסי קרב לסעודיה כדי לסייע בהגנה מפני תקיפות החות'ים",
+      "summary": "משרד ההגנה הבריטי אישר כי מטוסי טייפון של חיל האוויר המלכותי יפעלו במשימות הגנתיות בסעודיה מפני תקיפות אוויריות של החות'ים • מחירי הנפט מזנקים על רקע ההסלמה באזור",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T11:09:00.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
-      "title": "בריטניה שולחת מטוסי קרב לסעודיה כדי לסייע בהגנה מפני תקיפות החות'ים",
-      "summary": "משרד ההגנה הבריטי אישר כי מטוסי טייפון של חיל האוויר המלכותי יפעלו במשימות הגנתיות בסעודיה מפני תקיפות אוויריות של החות'ים • מחירי הנפט מזנקים על רקע ההסלמה באזור",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21667955",
+      "title": "הרצוג בהונגריה: \"אני גאה במדיניות של אפס סובלנות לאנטישמיות\"",
+      "summary": "נשיא המדינה התייחס לאיום האיראני, ליחסים בין ירושלים לבודפשט ולבחירתו של פטר מגיאר • בהמשך צפוי להיפגש עם ראש הממשלה הנבחר",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21667955",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T11:09:00.000Z"
@@ -894,6 +984,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T10:46:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/new-products/article/21666055",
+      "title": "אוראו ופרינגלס איבדו את זה: המהדורות המוזרות והמפתיעות",
+      "summary": "עוגיות עם מילויים צבעוניים, אריזות זוהרות בחושך וקמפיין עם הומור שחור במיוחד • לקראת ליל כל הקדושים, אוראו ופרינגלס מציגות חידושים יוצאי דופן, והן ממש לא לבד • גם סקיטלס, טוויקס והאריבו מצטרפות לחגיגה עם הפתעות משלהן",
+      "link": "https://www.israelhayom.co.il/food/new-products/article/21666055",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T10:45:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/new-products/article/21666055",
@@ -1663,7 +1762,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1lmciv3ge",
       "title": "לא יסכימו להתגייס? יישלחו לכלא 10: התנאי לעריקים שעוכבו בנתב\"ג",
-      "summary": "חסידי חב\"ד שהגיעו מניו יורק יועמדו לדין משמעתי. בצה\"ל פועלים להבהיר להם כי מי שיביע נכונות להתגייס ישובץ במסלול המותאם לאורח החיים החרדי. זו הסיבה לאי-מעצרם של החסידים עם יציאתם מישראל לשנת לימודים בארה\"ב",
+      "summary": "חסידי חב\"ד שהגיעו מניו יורק יועמדו לדין משמעתי, שניים מהם כבר נכלאו. בצה\"ל פועלים להבהיר לאחרים כי מי שיביע נכונות להתגייס ישובץ במסלול המותאם לאורח החיים החרדי. זו הסיבה לאי-מעצרם של החסידים עם יציאתם מישראל לשנת לימודים בארה\"ב",
       "link": "https://www.ynet.co.il/news/article/h1lmciv3ge",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -1904,6 +2003,15 @@
       "pubDate": "2026-10-20T09:08:31.000Z"
     },
     {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-673c3745d7851a1026.htm",
+      "title": "מתמודד הנפש השתולל בחצר, אביו טוען כי שוטרים שהוזעקו לסייע נהגו בו ובבנו באלימות קשה",
+      "summary": "אב ביקש משכנים להזמין משטרה לאחר שבנו חווה התקף פסיכוטי והשתולל • שכנים שהיו עדים לאירוע טוענים כי השוטרים הכו את האב והבן והצמידו אותם לקרקע • האב שחזר את האלימות הקשה: \"בעטו בראש של הבן שלי כמו כדור, השוטר חנק אותי\" • המשטרה: \"התעוררה התנגדות והשוטרים נאלצו להפעיל כוח\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-673c3745d7851a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-20T09:06:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/tn77fx",
       "title": "הציידים חיסלו את המשפחה: הג'ירף הלבן נותר היחיד בעולם",
       "summary": "הוא בולט למרחוק בנוף האפריקני, אך מאחורי המראה החריג מסתתר סיפור של תופעה נדירה במיוחד, שעתידה להעלם מן העולם (חדשות בעולם)",
@@ -2055,6 +2163,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T08:45:31.000Z"
+    },
+    {
+      "id": "walla:https://sheva7.walla.co.il/item/3873001",
+      "title": "יונת נרצחה ב-7/10, וכעת מפעל חייה עלה באש",
+      "summary": "יונת נרצחה ב-7/10, וכעת מפעל חייה עלה באש",
+      "link": "https://sheva7.walla.co.il/item/3873001",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T08:44:00.000Z"
     },
     {
       "id": "walla:https://sheva7.walla.co.il/item/3873001",
@@ -30315,105 +30432,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-15T13:32:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21633920",
-      "title": "עודד קטש מאוד רצה: כך התפספסה חזרתו של האקס למכבי תל אביב",
-      "summary": "חודשים ארוכים ניהלו הצהובים שיחות עם חסיאל ריברו, שהיה מעוניין להתאחד עם המאמן, אלא שדבר אחד מנע לבסוף את המהלך • הקובני עבר לבסוף לאקסית אחרת שלו, ולנסיה, במדיה הוא ינסה להוכיח לצהובים שהם טעו לגביו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21633920",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:30:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21634610",
-      "title": "תרבות השקר בשיאה: נתניהו והאנשים שהפכו את הטינוף לאמנות",
-      "summary": "בהיעדרה של ועדת חקירה ממלכתית, פרטים על מחדל 7 באוקטובר נחשפים בטפטופים • אך במקום להתמודד ולספק הסברים, נתניהו ושופרותיו בוחרים להכפיש ולשקר • ואיזו הודעה נדחקה לשולי הכותרות - אך מעידה על שינוי כללי המשחק בשמי ישראל?",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21634610",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:27:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tmyans",
-      "title": "נתניהו מודה לראשונה בקולו ששוחח עם נשיא סוריה - זה היה נושא השיחה | צפו",
-      "summary": "ראש הממשלה בנימין נתניהו חשף כי שוחח באופן אישי עם נשיא סוריה אחמד א-שרעא במהלך פגישה עם בכירי העדה הדרוזית בירכא | נתניהו על השיחה: \"הייתה קצרה מאוד, חדה מאוד - והטבח נפסק\" (חדשות)",
-      "link": "https://www.kikar.co.il/news/tmyans",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T13:26:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tmyans",
-      "title": "נתניהו חושף לראשונה: \"שוחחתי עם נשיא סוריה א-שרעא\" - זה היה נושא השיחה",
-      "summary": "ראש הממשלה בנימין נתניהו חשף כי שוחח באופן אישי עם נשיא סוריה אחמד א-שרעא במהלך פגישה עם בכירי העדה הדרוזית בירכא | נתניהו על השיחה: \"הייתה קצרה מאוד, חדה מאוד - והטבח נפסק\" (חדשות)",
-      "link": "https://www.kikar.co.il/news/tmyans",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T13:26:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21634770",
-      "title": "\"אין כוונה לרשום 8 זרים במקביל בהפועל תל אביב\"",
-      "summary": "מאמן הקבוצה, אליניב ברדה, עדכן כי אין בכוונת הקבוצה לשחק עם כל הזרים האפשריים • על סתיו טוריאל ואנדריאן קרייב אמר: \"השלימו אימון מלא\" • עמנואל בואטנג: \"ישראל מדינה מדהימה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21634770",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:24:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21634600",
-      "title": "\"מעשה תועבה\" במסגד במכה: גבר ואישה הוצאו להורג",
-      "summary": "השניים, אזרחי בנגלדש, הורשעו בביצוע המעשה במסגד במכה • לפי משרד הפנים הסעודי, עונש המוות נגזר בשל \"חומרת מעשיהם והפרת קדושת הזמן והמקום\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21634600",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:24:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87762",
-      "title": "תאונה בין רכב לקטנוע ברחובות - רוכב פונה במצב בינוני",
-      "summary": "תאונה בין רכב לקטנוע אירעה ברחוב פנחס בן דוד קפרא ברחובות. רוכב הקטנוע, בן 30, קיבל טיפול ראשוני מחובשי איחוד הצלה ופונה לבית החולים קפלן. מצבו מוגדר קל עד בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/87762",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T13:23:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21634289",
-      "title": "ביקשו החזר מס על השופינג בחו\"ל - וקיבלו קנס ואזהרה על עבירה פלילית",
-      "summary": "משפחה ישראלית שסיימה חופשה ביער השחור הגיעה לנמל התעופה בפרנקפורט כדי לקבל החזר מס על הקניות שביצעה, אלא שבמקום כסף בחזרה, היא קיבלה קנס של 25 אירו ואזהרה על עבירה פלילית • גם זוג שעמד בסמוך נקנס, בסכום גבוה בהרבה • הסיבה: הצהרה על מוצרים שלא ניתן היה להציג בפני פקיד המכס",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21634289",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:21:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21634581",
-      "title": "\"למה לקחת אדם דובר ערבית כרוקח?\": מתקפה חריפה על ערוץ 14",
-      "summary": "ארגון הרוקחות בישראל טוען כי במהלך הדיון בשידור הוצגו רוקחים ערבים כאיום בשל זהותם הלאומית • לדבריו, אמירות מסוג זה עלולות לפגוע באמון המטופלים ולחשוף אנשי מקצוע לעוינות",
-      "link": "https://www.israelhayom.co.il/health/article/21634581",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T13:20:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383957581",
-      "title": "המנכ״ל העצור בכפ\"ס חושף: \"זה מה שהציעו לי לפני שנה\"",
-      "summary": "המשטרה ביקשה עוד חמישה ימי מעצר למנכ\"ל וטענה שהחשד התחזק משמעותית. השופט קבע: \"נראה שחקירתו מוצתה\", והורה על מעצר בית. המשטרה הגישה בקשה לעיכוב ביצוע ההחלטה",
-      "link": "https://www.walla.co.il/news/law/383957581",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-15T13:19:38.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383957581",
-      "title": "המנכ״ל העצור בכפ\"ס: \"הציעו לי להיות מנכ״ל העירייה - וסירבתי״",
-      "summary": "המשטרה ביקשה עוד חמישה ימי מעצר למנכ\"ל וטענה שהחשד התחזק משמעותית. השופט קבע: \"נראה שחקירתו מוצתה\", והורה על מעצר בית. המשטרה הגישה בקשה לעיכוב ביצוע ההחלטה",
-      "link": "https://www.walla.co.il/news/law/383957581",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-15T13:19:38.000Z"
     }
   ]
 }
