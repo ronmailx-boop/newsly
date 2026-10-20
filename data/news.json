@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:01:01.700Z",
+  "updatedAt": "2026-10-20T21:15:47.567Z",
   "sources": [
     {
       "key": "ynet",
@@ -33,12 +33,30 @@
   "items": [
     {
       "id": "kikar:https://www.kikar.co.il/political-news/ben-zion-winter-withdrawal-explanation-interview",
+      "title": "\"לא הערכתי את העוצמה נגדנו\": המועמד של וינטר מסביר מדוע פרש מהמירוץ",
+      "summary": "סגן ראש מועצת שומרון התייחס להחלטתו לפרוש ממפלגת עמך ישראל • \"מי שיוצא לגשם בלי מטרייה שלא יופתע שהוא נרטב\" | הריאיון המלא (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ben-zion-winter-withdrawal-explanation-interview",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-20T20:58:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-zion-winter-withdrawal-explanation-interview",
       "title": "\"לא הערכתי את עוצמת הקמפיין נגדנו\": המועמד במפלגת וינטר מסביר מדוע פרש מהמירוץ",
       "summary": "סגן ראש מועצת שומרון התייחס להחלטתו לפרוש ממפלגת עמך ישראל • \"מי שיוצא לגשם בלי מטרייה שלא יופתע שהוא נרטב\" | הריאיון המלא (פוליטי מדיני)",
       "link": "https://www.kikar.co.il/political-news/ben-zion-winter-withdrawal-explanation-interview",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-20T20:58:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21672522",
+      "title": "בעקבות גל המהומות: הצעד החריג של ממשלת צרפת ואיטליה",
+      "summary": "אחרי שבוע של אלימות וביזה שבו נעצרו אלפים, הממשלות מעלות הילוך • חיילים יחליפו שוטרים בצרפת, עוצר לילי הוטל בערים המרכזיות ומערכת המשפט מחמירה ענישה • באיטליה מקדמים חקיקת חירום, בעוד שביתת נהגי המשאיות משתקת את תעשיית המזון",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21672522",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:46:03.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/woman-hit-by-bus-jerusalem-bar-lev",
@@ -50,6 +68,24 @@
       "pubDate": "2026-10-20T20:42:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21672520",
+      "title": "מאות עמותות עלולות להישאר בלי תקצוב: הדרישה של גפני שמעכבת את האישור",
+      "summary": "פחות משישה ימים לפני הבחירות, ועדת הכספים צפויה לדון בהטבות מס לעמותות • בליכוד מבקשים לאשר את עמותות הלומי הקרב, אך גפני מתנגד להחרגת העמותות המעודדות השתמטות • זוהי הפשרה המסתמנת",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21672520",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:37:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21672506",
+      "title": "מועמדת דמוקרטית \"כיכבה\" בהופעה ויראלית, ואז הודתה: \"שתיתי לפני\" | צפו",
+      "summary": "הופעתה ב-9 באוקטובר של ג'יימי ווסט הפכה לוויראלית, לאחר שהצהירה כי ברצונה לפטר את כל הרפובליקנים וסיימה במסר חריג לבוחרים: \"גם לנו יש רובים\" בריאיון לתוכניתו של המגיש הליברלי פירס מורגן נשאלה אם שתתה, בתחילה הודתה בשתיית בירה אחת, לאחר מכן אמרה ששתתה שתיים ואז הודתה בשתיית 3 בירות",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21672506",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:35:48.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/byfaossnfe",
       "title": "אלה החשודים בעוקץ המיליונים מצה\"ל בעזה: כך פעלה ההונאה",
       "summary": "רן רחמני, בעלי חברה קבלנית, חשוד בניפוח היקפי עבודות שביצע ברצועה; אלישע יפרח חשוד שהוציא חשבוניות פיקטיביות על דלקים שלא סיפק; יוסף אבו עמאר חשוד בגניבת דלקים צה\"ליים ובמתן שוחד לנגדים; ובביתו של יועץ המס זידן אבו עמאר נתפסו 600 אלף שקלים במזומן וזהב. כך, על פי החשד, פעלה רשת ההונאה שחבריה ניצלו את המלחמה כדי לעקוץ עשרות מיליוני שקלים ממשרד הביטחון",
@@ -57,6 +93,114 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-20T20:31:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21629416",
+      "title": "מזל טלה - הורוסקופ יומי: אתם מקבלים מסרים מבלבלים | תחזית אסטרולוגית",
+      "summary": "אתם מגלים רגישות בלתי רגילה ומגיבים בצורה נדיבה ומרשימה כלפי אנשים שמתסכלים אתכם. מאבקי כוח זה לא בשבילכם, בטח לא היום ואתם מן הסתם, מוכנים לוותר במיוחד כשמדובר באנשים קרובים לכם • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21629416",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21629417",
+      "title": "מזל שור - הורוסקופ יומי: המחיר הרגשי שאתם משלמים גבוה מידי | תחזית אסטרולוגית",
+      "summary": "פגישה מוקדמת שקבעתם גורמת לכם חששות עוד לפני שהתרחשה. נראה לכם שאתם לא מצליחים להעמיד את עצמכם בדרגה המתאימה ויש מי שמנצל את המצב • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21629417",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21629418",
+      "title": "מזל תאומים - הורוסקופ יומי: נושאים חדשים עולים על הפרק | תחזית אסטרולוגית",
+      "summary": "אתם חווים מתח למרות שיש ניסיונות ממשיים להרגיע את הרוחות. המצב די תקוע ודרושה פעולה דרסטית כדי להתחיל להזיז את הגלגלים לכיוון של שינוי מהותי • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21629418",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21629453",
+      "title": "מזל סרטן - הורוסקופ יומי: תקשורת בין אישית חשובה לכם | תחזית אסטרולוגית",
+      "summary": "התחום הפיננסי מעסיק אתכם גם היום. מחשבות ועוד מחשבות • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21629453",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21629454",
+      "title": "מזל אריה - הורוסקופ יומי: תחושת העייפות היא בעיקר רגשית | תחזית אסטרולוגית",
+      "summary": "אתם חייבים לחשוף את הפחדים החבויים שעוצרים אתכם. תחושת העייפות היא בעיקר רגשית • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21629454",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21629455",
+      "title": "מזל בתולה - הורוסקופ יומי: המעמד קשה לכם מאוד | תחזית אסטולוגית",
+      "summary": "היום אתם זקוקים לשיחה עם מישהו קרוב שיעודד אתכם. אתם עומדים בפני שינוי גדול הכרוך בסיום קשר שנמשך זמן רב ולא תרם לכם מבחינה רגשית • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21629455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21629484",
+      "title": "מזל מאזניים - הורוסקופ יומי: נסו להשתלט על רגשות התסכול | תחזית אסטרולוגית",
+      "summary": "בתחום הזוגי, הכול זורם בנחת אך לא כדאי לכם להיכנס לשאננות. בני הזוג עלולים להפתיע אתכם היום במשפט שיעורר אצלכם דאגה בקשר לרגשותיהם כלפיכם • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21629484",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21629485",
+      "title": "מזל עקרב - הורוסקופ יומי: עדיף להישאר כל הערב בבית | תחזית אסטרולוגית",
+      "summary": "זה שאנשים לא מתייחסים אליכם כפי שאתם רוצים, זה לא אומר כלום ובוודאי שאין זאת סיבה לירידה במצב הרוח. אז ככה, כשמגיעות אליכם הצעות לבילויים תהיו קצת יותר סלקטיביים ותסכימו רק אם זה מתאים לכם באמת • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21629485",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629486",
+      "title": "מזל קשת - הורוסקופ יומי: הספונטניות שלכם מתאימה לזמן קצר | תחזית אסטרולוגית",
+      "summary": "'לכבות שריפות' זאת תכונה נפלאה בתחום העבודה כשמדובר במקרה לחץ, אולם במישור החברתי אנשים רוצים לדעת מראש מה הם עושים בסוף • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629486",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21629529",
+      "title": "מזל גדי - הורוסקופ יומי: לכו לאט אבל בטוח | תחזית אסטרולוגית",
+      "summary": "אתם חולמים על התנסויות חדשות וההזדמנות לא מאחרת להגיע. חוויות יוצאות דופן יתרחשו במהלך היום • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21629529",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21629530",
+      "title": "מזל דלי - הורוסקופ יומי: חכו לעיתוי מתאים יותר | תחזית אסטרלוגית",
+      "summary": "יום של פסק זמן ורוגע יחסי בשבוע סוער למדי. הרגשנות והתוקפנות ש'קפצו' עליכם פתאום עלולות לגלוש לתחום הרומנטי וחבל • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21629530",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21629533",
+      "title": "מזל דגים - הורוסקופ יומי: תהיו חזקים, אין לכם הרבה מה להפסיד | תחזית אסטרולוגית",
+      "summary": "עליכם להתייחס ברצינות הראויה לכל מילה הנאמרת במקום העבודה ועוד יותר למה שלא נאמר. טיפול בהלם הוא כנראה הדרך הטובה לטפל במצב שנרקם לאט לאט מול עיניכם • הורוסקופ אלטרנטיבלי",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21629533",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T20:30:20.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88489",
@@ -375,6 +519,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21671969",
+      "title": "ואז הגיעה האלופה: ברצלונה הפסידה לראשונה העונה - 4:2 לפ.ס.ז'",
+      "summary": "אחרי שרק ניצחה מפתיחת העונה, בארסה נכנעה במחזור השלישי של ליגת האלופות מול מחזיקת המפעל • שלושה כוכבים של הצרפתים נפצעו, אבל הם נהנו משערים של דואה, הרננדס, ויטיניה ופביאן רואיס • אספרט וימאל השוו זמנית בחזרה הגנרלית לקלאסיקו",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21671969",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T18:50:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21671969",
       "title": "חי מליגת האלופות: פ.ס.ז' - ברצלונה 1:1",
       "summary": "דזירה דואה העלה את אלופת אירופה ליתרון בקרב הענקיות (38), צ'אבי אספרט איזן (55) • עוסמאן דמבלה ודני אולמו נפצעו והוחלפו",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21671969",
@@ -408,6 +561,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-20T18:50:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21671956",
+      "title": "לא כמו אבא: הבת של מושיק רוט קטפה תפקיד נחשק",
+      "summary": "שייה רוט, בתו של השף המוערך ואשתו שירן, לוהקה לאחת מההצגות הרבות שיגיעו אל הבמות בחנוכה • האב הגאה חלק את החדשות בחשבון האינסטגרם שלו",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21671956",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-20T18:48:32.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21671956",
@@ -2084,19 +2246,19 @@
       "pubDate": "2026-10-20T13:39:42.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21669687",
-      "title": "אחרי 24 שנה: הצעד המפתיע של יונית לוי - לפני הבחירות",
-      "summary": "בזמן שחברת החדשות כולה בכוננות שיא, הפנים המוכרות ביותר על המסך עוצרות הכל כדי לשתף סוד נוסטלגי מהימים הראשונים באולפן • \"הפעם הראשונה שישבתי בכיסא\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21669687",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21669335",
+      "title": "\"הרוצח של בנך מגיע לבית שלך\": אחרי נתניהו, האם השכולה מחכה לבן גביר",
+      "summary": "אמו של רון שרמן ז\"ל, שנחטף לעזה ונהרג בשבי כתוצאה מתקיפת צה\"ל, תקיים הערב טקס מחאה בלהבים, שם צפוי השר לביטחון לאומי להשתתף בחוג בית לקראת הבחירות: \"זה הבית של רון\" • בשבוע שעבר התעמתה עם נתניהו בבאר שבע וצעקה לעברו: \"רצחת לי את הילד\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21669335",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T13:38:16.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21669335",
-      "title": "\"הרוצח של בנך מגיע לבית שלך\": אחרי נתניהו, האם השכולה מחכה לבן גביר",
-      "summary": "אמו של רון שרמן ז\"ל, שנחטף לעזה ונהרג בשבי כתוצאה מתקיפת צה\"ל, תקיים הערב טקס מחאה בלהבים, שם צפוי השר לביטחון לאומי להשתתף בחוג בית לקראת הבחירות: \"זה הבית של רון\" • בשבוע שעבר התעמתה עם נתניהו בבאר שבע וצעקה לעברו: \"רצחת לי את הילד\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21669335",
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21669687",
+      "title": "אחרי 24 שנה: הצעד המפתיע של יונית לוי - לפני הבחירות",
+      "summary": "בזמן שחברת החדשות כולה בכוננות שיא, הפנים המוכרות ביותר על המסך עוצרות הכל כדי לשתף סוד נוסטלגי מהימים הראשונים באולפן • \"הפעם הראשונה שישבתי בכיסא\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21669687",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T13:38:16.000Z"
@@ -30072,51 +30234,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-15T21:15:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21637981",
-      "title": "אקזיט ענק בסייבר הישראלי: ורוניס נמכרת ב-6.3 מיליארד דולר",
-      "summary": "חברת הסייבר הישראלית תירכש על ידי Proofpoint תמורת 49.75 דולר למניה • העסקה תיצור אחת מחברות הסייבר הגדולות בעולם, עם יותר מ-16 אלף לקוחות ארגוניים • כאלף מעובדי ורוניס מועסקים בישראל",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21637981",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-15T21:14:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87850",
-      "title": "צעיר בן 20 נפצע קשה בתאונת אופנוע בבאר שבע",
-      "summary": "צעיר כבן 20 נפצע קשה הלילה (23:13) בתאונת אופנוע בשדרות יגאל אלון בבאר שבע. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים סורוקה במצב קשה עם חבלה רב מערכתית.",
-      "link": "https://www.kikar.co.il/scoop-news/87850",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T21:14:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87849",
-      "title": "שני הולכי רגל נפצעו בינוני עד קשה בתאונה בירושלים",
-      "summary": "שני הולכי רגל, גבר ואישה כבני 50, נפצעו בינוני עד קשה לאחר שנפגעו מרכב בדרך חברון בירושלים. שניהם סבלו מחבלות בראש ובפלג גופם העליון. צוותי איחוד הצלה העניקו להם טיפול ראשוני בזירה, ולאחר מכן הם פונו בניידת טיפול נמרץ לבית החולים להמשך טיפול.",
-      "link": "https://www.kikar.co.il/scoop-news/87849",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-15T21:14:22.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383957036",
-      "title": "האנושות תוכחד עד 2100 - בגלל אחד משני הדברים האלה",
-      "summary": "ועדת מומחים בינלאומית זיהתה 17 איומים קטסטרופליים על בריאות האנושות עד שנת 2100. שניים מהם - מלחמה גרעינית ושימוש זדוני בבינה מלאכותית - עלולים להביא להכחדת המין האנושי",
-      "link": "https://www.walla.co.il/news/donotmiss/383957036",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-15T21:02:18.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383957036",
-      "title": "האנושות ניצבת בפני 17 איומים - שניים עלולים להביא להכחדתה",
-      "summary": "ועדת מומחים בינלאומית זיהתה 17 איומים קטסטרופליים על בריאות האנושות עד שנת 2100. שניים מהם - מלחמה גרעינית ושימוש זדוני בבינה מלאכותית - עלולים להביא להכחדת המין האנושי",
-      "link": "https://www.walla.co.il/news/donotmiss/383957036",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-15T21:02:18.000Z"
     }
   ]
 }
