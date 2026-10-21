@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:46:00.841Z",
+  "updatedAt": "2026-10-21T12:01:18.188Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-attacks-ben-gvir-push-page-lies",
+      "title": "הליכוד VS בן גביר: \"הוא מפיץ שקרים בוטים ועושה הכל כדי שהשמאל ינצח\"",
+      "summary": "מפלגת הליכוד הוציאה הודעה חריפה נגד השר לביטחון לאומי • האשימה אותו בשימוש בעמוד התעמולה 'פוש' להפצת שקרים נגד ראש הממשלה | \"העמוד הזה עושה הכל כדי שגוש השמאל ינצח\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/likud-attacks-ben-gvir-push-page-lies",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T11:58:45.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/attorney-general-netanyahu-live-broadcast-ban",
+      "title": "היועמ\"שית שוב מתערבת | הפעם על המוקד: נאום של נתניהו בשידור חי",
+      "summary": "היועצת המשפטית לממשלה הנחתה שלא להעביר בשידור חי את נאומו של ראש הממשלה בטקס סיום קורס קצינים, מחשש לתעמולת בחירות אסורה. בנוסף נדרשה בדיקה משפטית מוקדמת של הנאום (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/attorney-general-netanyahu-live-broadcast-ban",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T11:47:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1379725",
+      "title": "רעידת אדמה: חשד לשוחד בלהב 433 - עובד מדינה וקבלנים נעצרו",
+      "summary": "עובד מדינה חשוד שקיבל כספי שוחד מקבלנים בתמורה להימנעות מפיקוח על אתרי בנייה שבהם הועסקו עובדים מטורקיה ללא היתר. במשטרה חושדים כי הקבלנים אף הבריחו עובדים דרך ירדן וגבו מהם כספים",
+      "link": "https://www.maariv.co.il/news/law/article-1379725",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T11:45:02.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/police/driver-no-license-drugs-chase-or-akiva",
       "title": "נהג ללא רישיון ניסה להימלט מהשוטרים, נעצר אחרי מרדף וזה מה שהתגלה | צפו",
@@ -201,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T11:09:12.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383958337",
+      "title": "השרה מאי גולן התייצבה לחקירה בלהב 433",
+      "summary": "השרה התייצבה בלהב 433 להשלמת חקירה לבקשת היועמ\"שית. הגעתה תואמה בין פרקליטה עמית חדד למשטרה, ברקע החשדות לשוחד, מרמה והפרת אמונים",
+      "link": "https://www.walla.co.il/news/law/383958337",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T11:08:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21676687",
@@ -671,6 +707,15 @@
       "pubDate": "2026-10-21T10:11:07.000Z"
     },
     {
+      "id": "walla:https://sports.walla.co.il/item/3873182",
+      "title": "יגיעו למפגש עם באר שבע? במכבי חיפה נושמים לרווחה",
+      "summary": "הברזילאי ערך אימון חלקי ועדיין בספק קל למפגש עם הפועל באר שבע, אבל ההערכה היא שיהיה כשיר. ההתלבטות העיקרית של בכר תהיה בהגנה",
+      "link": "https://sports.walla.co.il/item/3873182",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T10:11:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21676097",
       "title": "לאחר פגישה עם נתניהו: יו\"ר \"הציבור החרדי\" מוטי לייטנר לא שולל פרישה על הסף",
       "summary": "הפגישה היא שיאו של לחץ כבד שמופעל על המפלגה בימים האחרונים, מכיוון לשכת ראש הממשלה ומכיוון הציונות הדתית • לפי סקר של חברת אסקריא במגזר החרדי, \"הציבור החרדי\" היא הרשימה החדשה היחידה שעוברת את רף ה-1% תמיכה במגזר",
@@ -786,6 +831,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T10:02:48.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873071",
+      "title": "מה שאבדיה עושה מאחורי הקלעים נחשף: \"זה מטורף\"",
+      "summary": "מה שאבדיה עושה מאחורי הקלעים נחשף: \"זה מטורף\"",
+      "link": "https://sports.walla.co.il/item/3873071",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T10:00:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21675828",
@@ -2409,8 +2463,8 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383958293",
-      "title": "\"היתה לי תחושה שבן כספית מפעיל את המשטרה, במקום שהיא תחקור\"",
-      "summary": "\"היתה לי תחושה שבן כספית מפעיל את המשטרה, במקום שהיא תחקור\"",
+      "title": "התרגיל התקשורתי נחשף: \"הפגישה שלי עם דנה וייס הייתה מתוכננת\"",
+      "summary": "התרגיל התקשורתי נחשף: \"הפגישה שלי עם דנה וייס הייתה מתוכננת\"",
       "link": "https://www.walla.co.il/news/law/383958293",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -2418,8 +2472,8 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383958293",
-      "title": "התרגיל התקשורתי נחשף: \"הפגישה שלי עם דנה וייס הייתה מתוכננת\"",
-      "summary": "התרגיל התקשורתי נחשף: \"הפגישה שלי עם דנה וייס הייתה מתוכננת\"",
+      "title": "\"היתה לי תחושה שבן כספית מפעיל את המשטרה, במקום שהיא תחקור\"",
+      "summary": "\"היתה לי תחושה שבן כספית מפעיל את המשטרה, במקום שהיא תחקור\"",
       "link": "https://www.walla.co.il/news/law/383958293",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -31530,69 +31584,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T12:18:20.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383957702",
-      "title": "המבחן של בנט: עבודת השטח תנצח את ניסיון העבר?",
-      "summary": "יו\"ר ביחד החליף את החליפה בנעלי ספורט, חורש את הרחובות ומנסה לשכנע כל בוחר באופן אישי. במטה מדווחים על זינוק באהדה, אבל הסקרים עדיין לא זזים. האם הפעם עבודת השטח תנצח את ניסיון העבר?",
-      "link": "https://www.walla.co.il/news/politics/383957702",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-responds-obama-israel-land-rights",
-      "title": "נתניהו דוחה את דברי אובמה: \"לא גנבנו את האדמה - זו המולדת שלנו\"",
-      "summary": "ראש הממשלה פרסם סרטון תגובה לדברי נשיא ארה\"ב לשעבר • \"אנחנו לא ההולנדים באינדונזיה - אנחנו יהודים ביהודה\" | \"המכשול לשלום הוא סירובם של אויבינו להכיר בזכותנו למדינה\" (מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-responds-obama-israel-land-rights",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T11:57:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/galilee-explosions-expected-idf-strikes-lebanon",
-      "title": "צפויים הדי פיצוצים חזקים בגליל: חיל האוויר תוקף בלבנון",
-      "summary": "המועצה האזורית מעלה יוסף פנתה לתושבים בהודעה מיוחדת • עדכון רשמי מפיקוד הצפון על פעילות חיל האוויר המתוכננת | \"למנוע בהלה מיותרת\" (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/galilee-explosions-expected-idf-strikes-lebanon",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T11:55:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21640333",
-      "title": "צופית גרנט על בעלה: \"הפכתי את התפיסה\"",
-      "summary": "מגישת \"אבודים\" ואישתו של הזמר והיוצר דיברה ב\"שום פלפל ושמן זית\" על ההתמודדות עם הפערים בין השניים. \"הוא לא יוכל לחיות שם\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21640333",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T11:52:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21640333",
-      "title": "צופית גרנט על שולי: לא יכולה לעשות את זה",
-      "summary": "מגישת \"אבודים\" ואישתו של הזמר והיוצר דיברה ב\"שום פלפל ושמן זית\" על ההתמודדות עם הפערים בין השניים. \"הוא לא יוכל לחיות שם\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21640333",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T11:52:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87914",
-      "title": "ילדה בת 8 נפצעה בינוני בתאונת דרכים ברחובות",
-      "summary": "ילדה בת 8 נפצעה היום (13:54) במצב בינוני לאחר שנפגעה מרכב ברחוב הדקל ברחובות. הילדה סובלת מחבלות בגפיים. צוותי מד\"א העניקו לה טיפול רפואי ופינו אותה לבית החולים קפלן.",
-      "link": "https://www.kikar.co.il/scoop-news/87914",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T11:51:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/brenze/eliana-tidhar-shabbat-lee-biran-tefillin",
-      "title": "אליאנה תדהר חושפת: \"גם אני לא עובדת בשבת\" • מה דעתה על התחזקות בעלה?",
-      "summary": "השחקנית חשפה בריאיון כי גם היא מקפידה שלא לעבוד בשבת • בעלה לי בירן מניח תפילין ומתפלל | \"הוא הרבה יותר רוחני ממני\" (ברנז'ה)",
-      "link": "https://www.kikar.co.il/brenze/eliana-tidhar-shabbat-lee-biran-tefillin",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T11:50:59.000Z"
     }
   ]
 }
