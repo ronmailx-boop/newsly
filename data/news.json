@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T19:45:52.269Z",
+  "updatedAt": "2026-10-21T20:01:07.267Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379898",
+      "title": "מקרון רותח על טראמפ ונתניהו: \"האנשים האלה מרגיזים אותי\"",
+      "summary": "בעקבות המהומות הקשות בצרפת, מקרון יוצא למתקפה נגד טראמפ ומנהיגים נוספים, בהם נתניהו, שקשרו את האלימות להגירה ולאסלאם הקיצוני. הנשיא הצרפתי מאשים אותם בהפצת טענות שקריות ובניצול המשבר לצרכים פוליטיים",
+      "link": "https://www.maariv.co.il/news/world/article-1379898",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T19:53:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1379897",
+      "title": "11 שעות לא הספיקו? מאי גולן עשויה להיחקר שוב",
+      "summary": "השרה מאי גולן נחקרה במשך 11 שעות בחשד לעבירות שוחד, מרמה והפרת אמונים וקבלת דבר במרמה בנסיבות מחמירות. במשטרה סבורים כי התשתית הראייתית נגדה מספקת להגשת כתב אישום, אך ייתכן שתזומן לחקירה נוספת",
+      "link": "https://www.maariv.co.il/news/law/article-1379897",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T19:52:09.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tn9w2n",
+      "title": "בחשד לשוחד, מרמה והפרת אמונים: השרה מאי גולן נחקרה מעל 10 שעות",
+      "summary": "ארבעה חודשים לאחר סיום החקירה, השרה נחקרה יותר מעשר שעות בעקבות דרישת הפרקליטות להשלמות חקירה בחשד לשוחד, מרמה והפרת אמונים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tn9w2n",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T19:47:21.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sk11bytrhzx",
       "title": "השלמות בתיק השוחד: השרה מאי גולן נחקרה במשך יותר מ-10 שעות בלהב 433",
@@ -120,6 +147,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-21T19:26:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379883",
+      "title": "לקראת מלחמה? ההוראה מוושינגטון - להיערך לפינוי דיפלומטים",
+      "summary": "לפי רויטרס, שלושה גורמים אמריקניים מסרו כי וושינגטון נערכת להורות לחלק מעובדי השגרירויות ובני משפחותיהם לעזוב את מדינות המפרץ. במשרד החוץ האמריקני ניסו לצנן והבהירו: \"הדיווח אינו מדויק\"",
+      "link": "https://www.maariv.co.il/news/world/article-1379883",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T19:25:19.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379883",
@@ -33897,15 +33933,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T20:10:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21641917",
-      "title": "גורשו למולדתם: תפנית בחקירת טיסת פליי דובאי",
-      "summary": "שני הטייסים מהמלדיביים, שנעצרו בעקבות ניסיון הפיגוע בטיסה לישראל, הגיעו הבוקר לארצם לאחר כמעט שבועיים במעצר באיחוד האמירויות • המשטרה המקומית אישרה כי השניים תושאלו עם נחיתתם אך לא נעצרו מחדש",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21641917",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T19:46:04.000Z"
     }
   ]
 }
