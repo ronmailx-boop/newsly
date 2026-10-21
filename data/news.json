@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:15:52.036Z",
+  "updatedAt": "2026-10-21T15:30:48.761Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,103 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tn9jic",
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88640",
+      "title": "תאונה בין רכב לאופניים חשמליים באשדוד - נער נפצע",
+      "summary": "תאונה בין רכב לרוכב אופניים חשמליים אירעה ברחוב נורדאו באשדוד. צוותי איחוד הצלה טיפלו ברוכב האופניים, נער בן 15, שנפצע קל עד בינוני.",
+      "link": "https://www.kikar.co.il/scoop-news/88640",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T15:29:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88639",
+      "title": "גבר בן 25 נפצע בינוני בתאונה בין שני רכבים בכביש 90",
+      "summary": "גבר כבן 25 נפצע היום (17:21) בתאונת דרכים בין שני כלי רכב פרטיים בכביש 90 סמוך למחלף אליפלט. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים זיו במצב בינוני עם חבלה רב מערכתית. בתאונה נפגע גם אדם נוסף במצב קל.",
+      "link": "https://www.kikar.co.il/scoop-news/88639",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T15:29:17.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958374",
+      "title": "חשש לסלמונלה: ריקול לכל מוצרי טחינה של המותג הפופולרי",
+      "summary": "בבדיקות מעבדה התגלה חיידק סלמונלה במוצרי טחינה אלזעים, המשווקים גם תחת התווית \"טחינה של פעם\". משרד הבריאות מצא כי המוצרים שווקו בניגוד לדין. החברה קוראת לציבור שלא לצרוך אותם",
+      "link": "https://www.walla.co.il/news/israel/383958374",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T15:20:52.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byehp18nme",
+      "title": "המטרה: להחליף את נתניהו. על הדרך יש מחלוקת | אלו התוכניות בגוש השינוי",
+      "summary": "בגוש כבר נרקמות תוכניות למקרה של היעדר הכרעה ברורה, אלא שהפערים בין השותפים נראים היטב. הדחת יו\"ר הכנסת צפויה להיות ההתחלה, אבל המחלוקות על ממשלת מיעוט עשויות להקשות על המשך הדרך. זו העמדה של כל מפלגה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/byehp18nme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-21T15:20:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h181u8u3ge",
+      "title": "נעצר חשוד: הניח עובר ללא רוח חיים בכניסה לבי\"ח - ונמלט",
+      "summary": "שוטרי מחוז ירושלים הוזעקו לבית החולים שערי צדק, לאחר דיווח על אדם שהשאיר בכניסה למקום עובר מת. זמן קצר לאחר מכן, נעצר חשוד",
+      "link": "https://www.ynet.co.il/news/article/h181u8u3ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-21T15:14:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21679479",
+      "title": "המשטרה חוקרת: אדם הניח עובר מת בפתח בית חולים בירושלים - ונמלט",
+      "summary": "שוטרי מחוז ירושלים הוזעקו למקום בעקבות דיווח על האירוע החריג • המשטרה פתחה בחקירה בניסיון להתחקות אחר זהותו של האדם שנמלט • בשלב זה טרם התבררו הרקע למקרה ונסיבותיו",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21679479",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:13:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21679396",
+      "title": "אחרי ההאשמות בהונאת הגירה, חברת הקונגרס המוסלמית נגד טראמפ: \"לא נירתע ולא נשתוק\"",
+      "summary": "שמונה ימים לאחר שסוכנים פדרליים פשטו על ביתה במסגרת חקירה הנוגעת למסמכי ההגירה שלה, חברת הקונגרס הדמוקרטית ממינסוטה יוצאת למתקפה נגד הנשיא האמריקני: \"הם מפחדים, ואנחנו ננצח בבחירות האמצע\" • טראמפ: \"היא חרפה למדינתנו\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21679396",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:11:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/fetus-abandoned-hospital-jerusalem",
       "title": "אירוע חריג בירושלים: הניח עובר ללא רוח חיים בכניסה לבית חולים - ונמלט",
-      "summary": "",
-      "link": "https://www.kikar.co.il/israel-news/tn9jic",
+      "summary": "דרמה וחקירה משטרתית נפתחה בירושלים: אדם אלמוני הגיע בשעות האחרונות לכניסה לאחד מבתי החולים בעיר, הניח במקום עובר ללא רוח חיים, ונמלט במהירות מהזירה. שוטרי מחוז ירושלים הוזעקו למקום בעקבות דיווח ממוקד מצוות בית החולים, והחלו בביצוע פעולות חקירה ראשוניות וסריקות נרחבות (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/fetus-abandoned-hospital-jerusalem",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T15:10:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21679255",
+      "title": "כוכב ריאל מדריד הוצא מקבוצת הווטסאפ של השחקנים",
+      "summary": "טיבו קורטואה אומנם לא פרש מנבחרת בלגיה, אבל אחרי שלא זומן למשחקי ליגת האומות הוצא מהצ'אט הקבוצתי • הוא חשף כי תכנן לפרוש אחרי המונדיאל, אבל שם שינה את דעתו: \"התחלתי ליהנות שוב, זה היה אחד הטורנירים הנחמדים שחוויתי\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21679255",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:10:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21679344",
+      "title": "קטאר, טורקיה, פקיסטן ואינדונזיה: הברית הביטחונית בעולם המוסלמי",
+      "summary": "משרד ההגנה הקטארי הודיע כי ארבע המדינות חתמו על מזכר הבנות בשם \"באדר\" לשיתוף פעולה בתעשיות הביטחוניות • בטקס נכחו שרי ההגנה של קטאר, טורקיה ופקיסטן וסגן שר ההגנה של אינדונזיה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21679344",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:06:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21679355",
+      "title": "אזהרת מסע חריגה: \"הכינו צוואה וקבעו אות חיים לפני היציאה\"",
+      "summary": "מחלקת המדינה בארה\"ב העלתה את אזהרת המסע לקנייה לרמה 3 בשל פשיעה אלימה, חטיפות וטרור • האזרחים נקראו להכין צוואה מראש ולגבש פרוטוקול \"אות חיים\" • האזהרה כוללת גם סכנת הונאות פיננסיות ונדל\"ן",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21679355",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:04:51.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88637",
@@ -66,6 +156,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T15:02:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21679349",
+      "title": "עדן הראל על הזוגיות עם בעלה עודד מנשה: \"זה ההסכם בינינו\"",
+      "summary": "בשיחה פתוחה בפודקאסט שלה, עדן הראל חושפת את הפער בינה לבין עודד מנשה כשזה מגיע לחופשות, ומודה שהיא מרגישה חנוקה בבית ברעננה • מה הוא אומר לה על החלום לעבור לצפון?",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21679349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:01:23.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkksmrlnzg",
@@ -345,6 +444,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T14:17:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21677555",
+      "title": "הרמז לפני הגירושים: 5 דברים שלא ידעתם על נינט טייב",
+      "summary": "למה נפרדה מיוסי מזרחי עוד לפני החתונה, הדמות שהיתה אמורה לגלם ב\"זגורי אימפריה\", הזכייה לפני \"כוכב נולד\" והפרט הנשכח על הקרחת המפורסמת • לרגל יום הולדתה: 5 עובדות שבטח לא הכרתם על המוזיקאית, השחקנית והדוגמנית האהובה",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21677555",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T14:16:52.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21677555",
@@ -779,6 +887,15 @@
       "pubDate": "2026-10-21T13:27:50.000Z"
     },
     {
+      "id": "walla:https://sports.walla.co.il/item/3873226",
+      "title": "50 משחקים תחת חקירה: שחיתות ומעצרים בצמרת כדורסל היווני",
+      "summary": "יו\"ר איגוד הכדורסל במדינה נעצר בחשד לשוחד ולהטיית משחקים, לצד שופטים בכירים. בביתו של אחד החשודים נמצאו 820 אלף יורו במזומן",
+      "link": "https://sports.walla.co.il/item/3873226",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T13:26:00.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/opinions/383958352",
       "title": "לייטנר, אל תאמין לביבי: ברגע שאתה פורש אתה חשוב כקליפת השום",
       "summary": "נתניהו חושש לשרוף עשרות אלפי קולות ולוחץ על לייטנר ווינטר לפרוש. אבל אין במערכת הפוליטית, אפילו לא בליכוד, אנשים שמאמינים להבטחות נתניהו. תשאלו את בני גנץ שנעקץ פעמיים על ידו",
@@ -871,7 +988,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/military/383958333",
       "title": "נתניהו: \"איראן לא למדה את הלקח. יש דרך אחת להסיר את האיום\"",
-      "summary": "רה\"מ נכח בטקס סיום קורס קצינים בבה\"ד 1 ותקף את המשטר האיראני. טען כי \"מוג׳תבא חמינאי החליט ללכת בדרכו של אביו. ואיראן מנסה שוב לפתח את פצצות המוות\"",
+      "summary": "רה\"מ נכח בטקס סיום קורס קצינים בבה\"ד 1 ותקף את המשטר האיראני. טען כי \"מוג׳תבא החליט ללכת בדרכו של אביו. ואיראן מנסה שוב לפתח את פצצות המוות\"",
       "link": "https://www.walla.co.il/news/military/383958333",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -32511,42 +32628,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T15:34:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21641258",
-      "title": "לא מכבי תל אביב: הקבוצה שמוכנה לשלם מיליונים על טיילר דורסי",
-      "summary": "לפי דיווחים ביוון, כוכב אולימפיאקוס המושעה נמצא בדרך החוצה מאלופת אירופה ואף עשוי לעזוב את היורוליג תמורת הצעת עתק • בינתיים, הוא שב לפיראוס והציג בפני ההנהלה את עמדותיו בנוגע להתבטאויותיו ברשתות החברתיות",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21641258",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T15:25:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21641449",
-      "title": "רמי קלינשטיין נזכר: \"זה לקח המון המון זמן\"",
-      "summary": "המוזיקאי חזר בריאיון חושפני לגיל 15, אל המשפט של אביו שערער את ביטחונו כזמר ולא הרפה ממנו שנים • 40 שנה אחרי, הוא גם מגלה מה באמת קרה עם אלבום הבכורה המיתולוגי, ומה למד מהופעה אחת בחיפה שלא ישכח לעולם",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21641449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T15:21:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1377945",
-      "title": "יאט את יכולת ההתחמשות של חמאס: שתי דמויות מפתח חוסלו בעזה",
-      "summary": "הבוקר הותר לפרסום כי בפעילות השב\"כ ובצה\"ל חוסלו שני מחבלים של חמאס והג'יאהד האיסלאמי. לדברי גורם ביטחוני, השב\"כ זיהה כי השניים דמויות מרכזיות בתחום ההברחה - והיו מרכז ידע משמעותי בשני הארגונים",
-      "link": "https://www.maariv.co.il/news/military/article-1377945",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T15:20:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21641377",
-      "title": "קריאת מציאות",
-      "summary": "אין כמו הספרייה • זו חנות ממתקים, ג'ימבורי וסדנת אמנים גם יחד • כאן בילינו כמה מהשעות הטובות ביותר של הילדות, ונרצה שכאן יעשו זאת גם הילדים שלנו • רק דבר אחד עלול לסכל את התקווה הזו: אנחנו • מחליפה צבעים: מדור מאויר",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21641377",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T15:17:18.000Z"
     }
   ]
 }
