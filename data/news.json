@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:15:51.684Z",
+  "updatedAt": "2026-10-21T08:31:02.406Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1379638",
+      "title": "491 ימים לבדו בחזית: החילוץ הבלתי נתפס תועד",
+      "summary": "קוסטיאנטין ולסנקו איבד את חברו לנשק, נפצע קשה ונאלץ לשרוד לבדו במשך חודשים. כשכל הדרכים להגיע אליו נחסמו, הצבא האוקראיני הוציא לפועל מבצע חילוץ חסר תקדים",
+      "link": "https://www.maariv.co.il/news/viral/article-1379638",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T08:28:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88545",
+      "title": "סמוטריץ': וינטר מחרים אותי חצי שנה והפכתי לרדיואקטיבי",
+      "summary": "שר האוצר בצלאל סמוטריץ' טען כי יו\"ר הליכוד גדעון וינטר מחרים אותו כבר חצי שנה. \"הפכתי לרדיואקטיבי, הקמפיין שלו דורך עליי ועל ראש הממשלה\" אמר סמוטריץ'.",
+      "link": "https://www.kikar.co.il/scoop-news/88545",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T08:25:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1379645",
+      "title": "אם מנדלבליט אכן אמר את זה - הסיפור של משפט נתניהו נראה אחרת | פרופ' משה כהן-אליה",
+      "summary": "אם מנדלבליט אכן דיבר על \"תיק שיציל את הדמוקרטיה\", השאלה כבר אינה רק מה היו הראיות נגד נתניהו – אלא האם החשש ממנו ומהרפורמה המשפטית חלחל גם לשיקולי התביעה והפך למניע זר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1379645",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T08:23:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/le-pen-france-2027-poll-lead",
       "title": "סקר דרמטי ראשון אחרי המחאות: מארין לה פן נשיאת צרפת ב-2027 - בפער עצום",
       "summary": "סקר חדש מעניק ללה פן ניצחון ענק מול כל מי שיתמודד מולה בסיבוב הראשון | החידוש הגדול של הסקרים האחרונים וזה בפרט הוא בכך שהיא מנצחת בכל התרחישים - בסיבוב השני ועולה לכס הנשיאות | המחסום נגד הימין קורס (בעולם)",
@@ -39,6 +66,69 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T08:14:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21674551",
+      "title": "איך אני נראית? נועה קירל עושה קיילי ג'נר",
+      "summary": "כוכבת הפופ הישראלית הופיעה על הבמה בלוק שמזכיר מאוד את הלוק הויראלי של המילארדרית",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21674551",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:13:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21674367",
+      "title": "שלא תופתעו: אחד המוצרים הכי בסיסיים במטבח יתייקר - בחודש הבא",
+      "summary": "על רקע העלייה במחירי החיטה בעולם והשיבושים באספקה, קבוצת טחנות קמח מפרץ הודיעה על התייקרות של 14% במחירי הקמחים החל מנובמבר • בענף המאפיות מזהירים: ההתייקרות עלולה להתגלגל לצרכנים ולהוביל לעליית מחירי הלחם",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21674367",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:09:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21674400",
+      "title": "פעם בשבוע: רשת בתי הקולנוע הכריזה על צעד ראשון מסוגו",
+      "summary": "רשת בתי הקולנוע הגדולה בישראל משיקה הקרנות מותאמות לבעלי רגישויות חושיות, שיתקיימו במתחמים ברחבי הארץ • שלושה שינויים באולם יהפכו את הבילוי לנגיש יותר לכל המשפחה, באיזה יום זה קורה ומי עומד לצד הרשת במהלך",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21674400",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:07:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21674512",
+      "title": "אחרי שחשף את הזוגיות הפתוחה: כוכב \"חתונמי\" התארס",
+      "summary": "דניס רוסקוב, כוכב העונה השלישית של \"חתונה ממבט ראשון\", הציע נישואים לבת זוגו תמר שפמן אחרי שלוש שנות זוגיות • השניים שיתפו את הרגע המרגש ברשתות החברתיות, חודשים אחרי שהקשר שלהם עורר עניין בעקבות החשיפה על מערכת היחסים הפתוחה",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21674512",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:06:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21673932",
+      "title": "הכוכבים בישראל נמצאים במלכוד בחירות - ואתם אשמים",
+      "summary": "למרות שהם חולקים איתנו כל אספקט בחייהם, מכמות מזרקי הבוטוקס שהזריקו ועד הבגדים שהם לובשים, ידוענים מקומיים מתקשים להתייחס לסוגייה אחת בוערת - הבחירות • כשרואים את התגובות שהם מקבלים, ההימנעות שלהם יותר ממובנת • מזל שמוריה וברקו מצאו דרך לשבור את המעגל",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21673932",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:04:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21674228",
+      "title": "אופירה אסייג מפתיעה: הנשיקה עם הזמר האגדי",
+      "summary": "מגישת קשת 12 ורדיו תל אביב ואחת הנשים הבולטות בתקשורת הספורט בישראל בעשורים האחרונים הגיעה להופעתו של בועז שרעבי בתיאטרון הבימה, אבל עוד לפני שהתרגשה מההופעה, היא זכתה לרגע אינטימי עם אריק סיני",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21674228",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:04:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21674410",
+      "title": "בדרך לטיול הגדול: הסכנה השקטה שאורבת לכם בדרכים",
+      "summary": "מטיילים ישראלים שמתכננים נסיעות ארוכות נדרשים לשמור על ערנות שיא בעקבות תיעודים מטרידים שנחשפו לאחרונה ממצלמות האבטחה • \"דפוס הגניבה השקט שצובר תאוצה\"",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21674410",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:04:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1379631",
@@ -57,6 +147,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T08:01:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21672115",
+      "title": "יש רק איש אחד שיש לו אינטרס לחרחר מלחמה, והרמטכ\"ל חייב לעמוד בדרכו",
+      "summary": "על-פי כל הסימנים, המלחמה לא צפויה להתחדש בקרוב, ובכל זאת, מתבקש לתהות למי, ולמה, יש עניין לחרחר מלחמה, או לפחות להיראות שאנחנו על-סיפה של אחת כזו • לצה\"ל ולעומד בראשו תפקיד חשוב: להבהיר, אם יידרשו, את הפער שבין חשוב לבהול, ובין מסוכן לקיומי",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21672115",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T08:00:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21674223",
@@ -30756,114 +30855,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-16T08:32:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1377832",
-      "title": "בן 5 בין הקורבנות: ארבעה נרצחו בטבח בבית ספר בארה\"ב",
-      "summary": "נער בן 16 פתח באש בבית ספר יסודי באורגון ורצח שלושה ילדים בני 5, 8 ו-11 ומורה. שניים נוספים נפצעו אנושות. אזרח חמוש שרדף אחרי היורה לתוך המבנה ירה בו למוות ושם קץ למסע הירי",
-      "link": "https://www.maariv.co.il/news/world/article-1377832",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T08:30:51.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383957693",
-      "title": "וינטר הכחיש שפנה להנדל: \"ספין פוליטי\"",
-      "summary": "וינטר הכחיש שפנה להנדל: \"ספין פוליטי\"",
-      "link": "https://www.walla.co.il/news/israel/383957693",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-16T08:30:27.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383957693",
-      "title": "וינטר הכחיש שפנה להנדל בשביל הסכם עודפים",
-      "summary": "וינטר הכחיש שפנה להנדל בשביל הסכם עודפים",
-      "link": "https://www.walla.co.il/news/israel/383957693",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-16T08:30:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/87889",
-      "title": "נהג משאית נפצע קשה בתאונה בין שתי משאיות בכביש 6",
-      "summary": "נהג משאית כבן 30 נפצע באורח קשה בתאונה בין שתי משאיות בכביש 6 סמוך למחלף שורק. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני בזירה, ולאחר מכן פונה במסוק לבית חולים במצב קשה. צוותי כיבוי פעלו לחילוצו מהרכב.",
-      "link": "https://www.kikar.co.il/scoop-news/87889",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T08:30:15.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1yf8lynzg",
-      "title": "אבשלום סטה עם האוטובוס ברגע האחרון, הציל את החיילים - ונהרג: \"מעשה גבורה\"",
-      "summary": "נהג האוטובוס שנהרג בתאונה בגליל הוא אבשלום רביבו (61) מאשדוד. ככל הנראה הוא הבחין במשאית ששעטה לעברו וסטה ימינה ברגע האחרון. החיילים שהסיע נפגעו באורח קל בלבד. אלמנתו: \"החיילים הגיעו ללוויה, המפקד שלהם אמר לי: 'הוא הציל את 30 הילדים שלי'\".ארגון נהגי התחבורה הציבורית: \"ראוי לאות גבורה\"",
-      "link": "https://www.ynet.co.il/news/article/r1yf8lynzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-16T08:27:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1yf8lynzg",
-      "title": "אבשלום סטה עם האוטובוס, הציל את החיילים - ונהרג: \"מעשה גבורה\"",
-      "summary": "נהג האוטובוס שנהרג בתאונה בכביש 91 בגליל הוא אבשלום רביבו (61) מאשדוד. ככל הנראה הוא הבחין במשאית ששעטה לעברו וסטה ימינה ברגע האחרון. החיילים שהסיע נפגעו באורח קל בלבד. ארגון נהגי התחבורה הציבורית: \"ראוי לאות גבורה\"",
-      "link": "https://www.ynet.co.il/news/article/r1yf8lynzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-16T08:27:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377724",
-      "title": "עבודה ערבית: הימין הניח את כל היסודות להקמת מדינה פלסטינית | לילך סיגן",
-      "summary": "מדוע יש הרבה יותר סיכוי למדינה פלסטינית דווקא עם הממשלה הנוכחית | למה הסיכוי של הערבים לחיים משופרים יגדל ככל שהם יצביעו פחות | ואמת מפחידה אחת על הירי בתוך הנגמ\"ש",
-      "link": "https://www.maariv.co.il/news/opinions/article-1377724",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T08:23:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1377731",
-      "title": "לא רק חופשות: המדינה שהפכה לאחת השותפות של ישראל",
-      "summary": "מאחורי האיים, החופים והחופשות מסתתרת אחת השותפויות החשובות של ישראל. מאימונים צבאיים והכשרת טייסים ועד שיתופי פעולה באנרגיה ובתיירות, יוון מוכיחה שהקשר בין המדינות הוא הרבה מעבר לידידות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1377731",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T08:22:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14928338",
-      "title": "הצהרת ליברמן, ומה שעמד מאחוריה: \"הוא התעצבן על איזנקוט, רואה בזה רמאות\"",
-      "summary": "לאחר שיו\"ר ישראל ביתנו סגר את הדלת על התוכנית להשבעת ממשלת מיעוט, אמר ל-ynet בכיר בגוש השינוי כי \"ההתנגדות לא מגיעה בחלל ריק. ליברמן חושב שקמפיין המפלה הגדולה עלול להפסיד לכל הגוש את הבחירות\". ליברמן, הבוקר: \"פונה לחבריי לגוש - תפסיקו לדבר על סיבוב נוסף, תפסיקו לתכנן את ההפסד\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14928338",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-16T08:21:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21639280",
-      "title": "\"אני לא מעריץ של זלנסקי\": שפל חדש ביחסי ארה\"ב ואוקראינה",
-      "summary": "הנשיא טראמפ כינה את חזרת האוקראינים לתקיפות על מתקני אנרגיה ברוסיה \"בושה וחרפה\" • קייב סובלת ממחסור חמור של מיירטי פטריוט בשעה שמוסקבה מגבירה את ירי הטילים הבליסטיים למדינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21639280",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T08:21:10.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%A8%D7%91_%D7%93%D7%91_%D7%9C%D7%99%D7%90%D7%95%D7%A8__%D7%9E%D7%A1%D7%99%D7%A7_%D7%96%D7%99%D7%AA%D7%99%D7%9D_%D7%9E%D7%95%D7%AA%D7%A8__%D7%92%D7%9D_%D7%91%D7%A9%D7%98%D7%97%D7%99%D7%9D_%D7%A8%D7%97%D7%95%D7%A7%D7%99%D7%9D",
-      "title": "הרב דב ליאור: מסיק זיתים מותר, גם בשטחים רחוקים",
-      "summary": "לאחר שרבנים מגוש עציון הוציא פסק הלכה שאוסר למסוק זיתים ליד הישובים, הרב דב ליאור שליט\"א בתשובה ברורה: מותר למסוק זיתים ויש בזה כיבוש הארץ",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%A8%D7%91_%D7%93%D7%91_%D7%9C%D7%99%D7%90%D7%95%D7%A8__%D7%9E%D7%A1%D7%99%D7%A7_%D7%96%D7%99%D7%AA%D7%99%D7%9D_%D7%9E%D7%95%D7%AA%D7%A8__%D7%92%D7%9D_%D7%91%D7%A9%D7%98%D7%97%D7%99%D7%9D_%D7%A8%D7%97%D7%95%D7%A7%D7%99%D7%9D",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-16T08:18:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21639354",
-      "title": "אוהדי מכבי חיפה בהודעה חריגה: \"לא נעודד את אלי דסה\"",
-      "summary": "ארגון \"הקופים הירוקים\" הכריז כי לא יתמוך בקפטן נבחרת ישראל בעקבות תקופתו במכבי תל אביב • \"שיחק אצל הגרמנים וגם עכשיו רצה לחתום אצל הנאצים, לא יקבל מאיתנו עידוד בתחילת הדרך\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21639354",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T08:17:30.000Z"
     }
   ]
 }
