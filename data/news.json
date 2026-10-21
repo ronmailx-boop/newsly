@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T12:45:52.538Z",
+  "updatedAt": "2026-10-21T13:01:06.795Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1379711",
+      "title": "רק ביבי: בדימונה חיכו לנתניהו כמו לכוכב רוק, ולא בשביל תשובות",
+      "summary": "מאות תומכים חיכו לנתניהו מחוץ לקניון בדימונה, עם דגלים, תמונות ואפילו בובה מתנפחת. בין קריאות \"אין לו תחליף\" להשתלחויות בתקשורת, הקהל המתין ל\"מנהיג העליון\" כמו להופעה של הביטלס",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1379711",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T12:58:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1379740",
+      "title": "מלחמת עולם בתוך הימין: הליכוד ובן גביר מורידים כפפות",
+      "summary": "קרב ההאשמות בין הליכוד לעוצמה יהודית מחריף: בן גביר חושש שנתניהו יקים ממשלה עם איזנקוט בלעדיו, ובליכוד מאשימים אותו בהפצת שקרים. בעוצמה יהודית משיבים: \"הפגיעה מצד הליכוד כואבת לנו\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1379740",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T12:58:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjd16guhgg",
+      "title": "תחקיר ברומניה: \"אוריך ואיינהורן עבדו בחשאי עבור מפלגה שחבריה הואשמו באנטישמיות\"",
+      "summary": "תחקיר מעלה כי יועץ רה\"מ אוריך והיועץ לשעבר איינהורן שמוגדר \"עבריין נמלט\", ניסחו מסרים פוליטיים עבור מפלגת AUR הלאומנית, שנטען כי לחלק מחבריה דעות אנטישמיות. העומד בראשה נחשב לתומך בפוטין, במפלגתו אמרו בעבר כי השואה צריכה להיות נושא \"מינורי\" בבתי הספר | פרטי התחקיר והשאלות שעולות",
+      "link": "https://www.ynet.co.il/news/article/sjd16guhgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-21T12:54:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/davar-rishon/elections-ai-deepfakes-honi-circle-protest",
+      "title": "\"החלפתי את השם לחוני ואני לא אזוז מהמעגל עד שהממשלה תתחלף!\" | ריאיון לא שגרתי",
+      "summary": "סיכום התוכנית של ישראל מאיר ב\"דבר ראשון\": מהסערה סביב המעגל מול בית הנשיא והעימות התורני במסכת תענית, דרך נשק ה-AI והסרטונים המזויפים שמשתלטים על מערכת הבחירות, ועד אובדן המנדטים הדרמטי בגוש הימין שעלול להכריע את השלטון",
+      "link": "https://www.kikar.co.il/davar-rishon/elections-ai-deepfakes-honi-circle-protest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T12:54:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/blue-white-withdraws-all-candidates-resign-ballots",
+      "title": "צעד אחראי? כחול לבן: כל המועמדים התפטרו - הפתקים יסומנו ב-X",
+      "summary": "כל חברי רשימת כחול לבן חתמו על הסרת מועמדותם • ועדת הבחירות הורתה להסיר את פתקי 'כן' מהקלפיות | גנץ נפגש עם יו\"ר ועדת הבחירות והודה לו (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/blue-white-withdraws-all-candidates-resign-ballots",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T12:49:53.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88602",
       "title": "פועל בן 60 נפצע בינוני מקיר שקרס באתר בנייה בכפר הרא\"ה",
@@ -222,6 +267,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383958309",
+      "title": "מנהרה בלב ביירות: חיזבאללה ערוך לחודשי לחימה",
+      "summary": "צבא לבנון חשף מנהרה המשויכת לחיזבאללה במזרח ביירות, אך גורם ביטחוני טען כי לבנון אינה אוכפת את ההבנות כנדרש",
+      "link": "https://www.walla.co.il/news/military/383958309",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T11:55:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383958309",
       "title": "גורם ביטחוני: חיזבאללה משקם תשתיות בביירות",
       "summary": "צבא לבנון חשף מנהרה המשויכת לחיזבאללה במזרח ביירות, אך גורם ביטחוני טען כי לבנון אינה אוכפת את ההבנות כנדרש",
       "link": "https://www.walla.co.il/news/military/383958309",
@@ -384,6 +438,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1379721",
+      "title": "חרדה ביבנה: פעוט נשכח ברכב סגור - השוטרים ניפצו את החלון",
+      "summary": "שוטרים שהוזעקו לחניון תחנת הרכבת ביבנה הבחינו בפעוט לכוד ברכב סגור, כשפניו אדומות והוא מגלה סימני מצוקה. מחשש לחייו ניפצו את החלון וחילצו אותו במהירות. לאחר בדיקה רפואית התברר כי מצבו טוב",
+      "link": "https://www.maariv.co.il/news/law/article-1379721",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T11:30:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1379721",
       "title": "חדרה ביבנה: פעוט נשכח ברכב סגור - השוטרים ניפצו את החלון",
       "summary": "שוטרים שהוזעקו לחניון תחנת הרכבת ביבנה הבחינו בפעוט לכוד ברכב סגור, כשפניו אדומות והוא מגלה סימני מצוקה. מחשש לחייו ניפצו את החלון וחילצו אותו במהירות. לאחר בדיקה רפואית התברר כי מצבו טוב",
       "link": "https://www.maariv.co.il/news/law/article-1379721",
@@ -453,6 +516,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-21T11:25:51.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3873199",
+      "title": "הלחם המפוקח מתייקר: \"לא נוכל לספוג את עליית המחירי הקמח\"",
+      "summary": "טחנות הקמח בישראל הודיעו על התייקרות של 10% עד 15% עקב המלחמה בין רוסיה לאוקראינה והתייקרות החיטה. כעת, יצרני הלחם המפוקח מתכוונים לפנות למשרד הכלכלה בבקשה להעלות מחירים, בעוד שאר המאפים והקמח בסופר",
+      "link": "https://finance.walla.co.il/item/3873199",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T11:24:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tn98r9",
@@ -552,6 +624,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T11:08:14.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3873194",
+      "title": "עתירה לבג\"ץ: לפתוח בחקירה פלילית נגד ערוץ 14 בגלל הדלפות",
+      "summary": "העתירה, שהגיש פורום לוחמות ולוחמי חרבות ברזל, מפרטת אירועים בהם ערוץ 14 חשף, לכאורה, מידע ביטחוני רגיש: חשיפת אמצעי איסוף מודיעיני שפעל בעומק עזה, פרסום מיקומי כוחות בלבנון ועוד",
+      "link": "https://e.walla.co.il/item/3873194",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T11:07:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21676735",
@@ -804,6 +885,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T10:28:46.000Z"
+    },
+    {
+      "id": "walla:https://fashion.walla.co.il/item/3873188",
+      "title": "איש עסקים טורקי רכש את החזייה של קיילי ג'נר ב-50 מיליון דולר",
+      "summary": "איש עסקים טורקי רכש את החזייה של קיילי ג'נר ב-50 מיליון דולר",
+      "link": "https://fashion.walla.co.il/item/3873188",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T10:28:00.000Z"
     },
     {
       "id": "walla:https://fashion.walla.co.il/item/3873188",
@@ -1380,6 +1470,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T09:37:34.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3873174",
+      "title": "\"הוא יודע שהוא עבד\": הפיצוץ הסופי של בן כספית וינון מגל",
+      "summary": "בפוסט חריף שפרסם ברשתות החברתיות, הסביר כספית מדוע החליט שלא להתייצב לתוכנית המשותפת, ולא חסך ביקורת משותפו",
+      "link": "https://e.walla.co.il/item/3873174",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T09:37:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/tn93m5",
@@ -31719,78 +31818,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-16T13:02:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21640768",
-      "title": "\"האפודים הצהובים\" חוזרים: צרפת נערכת לגל מחאה היסטורי",
-      "summary": "פעילי המחאה הכלכלית יצטרפו בשל יוקר המחייה להפגנות התיכוניסטים ב-300 מוקדים שונים ברחבי המדינה • המשטרה נערכת לשימוש ברימוני הלם במטרה למנוע מהומות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21640768",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T13:00:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21640214",
-      "title": "בית\"ר ירושלים רחוקה צעד אחד מהכרזה ענקית: \"הולכים עד הסוף\"",
-      "summary": "ירדן שועה חזר להוביל, עומר אצילי בכושר אדיר והקבוצה חוזרת לטדי כדי לספק הצהרה מול מכבי תל אביב • עוד קודם לכן, הפועל ת\"א רוצה לשמור על המאזן המדהים, ממכבי חיפה כבר יש ציפיות והפועל באר שבע תנסה להתאושש תוך 48 שעות",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21640214",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T13:00:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21640812",
-      "title": "11 שנים של 99 שקלים נגמרו: רשת הענק מעלה את המחיר ב-50%",
-      "summary": "רשת חדרי כושר מוכרת הודיעה ללקוחותיה על התייקרות חדה של מחיר המנוי, וחלק מהמתאמנים יחויבו במחיר החדש עוד לפני שהשינוי ייכנס לתוקף • ברשת מסבירים מה עומד מאחורי ההחלטה, וגם איזה סניף צפוי להיות הבא בתור",
-      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21640812",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T12:55:36.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sytmn51hfe",
-      "title": "עלייה של כמעט 20%: הסתיימה ההצבעה לבחירות בנציגויות הישראליות בעולם",
-      "summary": "שיעור ההצבעה בנציגויות ישראל בחו\"ל הסתכם ב-86.7%. 4,218 מתוך 4,863 בעלי זכות בחירה הצביעו ב-99 נציגויות ברחבי העולם. מדובר בעלייה של 17.1 נקודות אחוז לעומת שיעור ההצבעה בבחירות לכנסת ה-25. ההצבעה, שהחלה בניו זילנד והסתיימה בחוף המערבי של ארה\"ב, נמשכה כ-30 שעות",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sytmn51hfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-16T12:55:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21640671",
-      "title": "קרואטיה מתביישת בסערת האנטישמיות - ותגזור עונשי מאסר כבדים",
-      "summary": "המדינה גינתה את קריאות \"אושוויץ\" ו\"אדולף תתעורר\" בצעדת אוהדי היידוק ספליט לפני המשחק מול אוסקר גלוך • באירופה דורשים מאופ\"א עונש קשה: \"כל דבר מלבד הרחקה לשנים ארוכות של המועדון יהיה שערורייה\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21640671",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T12:51:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21640676",
-      "title": "\"לכל מי שצקצק, עברו 15 שנה\": העקיצה של איגי וקסמן",
-      "summary": "הזמרת שיתפה בסיפור ההיכרות עם עתי שולברג, שהחל בגיל 39 לאחר פרידה • מהפנייה בהופעה, דרך סירוב בת הדודה למסור את הטלפון ועד לידת הילדים והחתונה • כעת השניים מציינים 15 שנה ביחד",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21640676",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T12:51:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1377908",
-      "title": "טענות על אובדן ראייה מאוזמפיק: המטופל יוצא למאבק משפטי",
-      "summary": "טוד אנגל החל להשתמש באוזמפיק לטיפול בסוכרת, ובהמשך איבד את ראייתו בשתי עיניו. כעת הוא תובע את היצרנית וטוען שלא הוזהר מפני הסיכון. החברה דוחה את הטענות, והקשר למקרה שלו לא הוכח",
-      "link": "https://www.maariv.co.il/news/health/article-1377908",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T12:47:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1377908",
-      "title": "בן 63 איבד את ראייתו אחרי טיפול באוזמפיק - ותובע",
-      "summary": "טוד אנגל החל להשתמש באוזמפיק לטיפול בסוכרת, ובהמשך איבד את ראייתו בשתי עיניו. כעת הוא תובע את היצרנית וטוען שלא הוזהר מפני הסיכון. החברה דוחה את הטענות, והקשר למקרה שלו לא הוכח",
-      "link": "https://www.maariv.co.il/news/health/article-1377908",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-16T12:47:30.000Z"
     }
   ]
 }
