@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:16:01.401Z",
+  "updatedAt": "2026-10-21T18:30:57.836Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958398",
+      "title": "סקר בחירות: איזנקוט מוביל במנדטים - והנדל נשאר בחוץ",
+      "summary": "הליכוד נחלש ל-19 מנדטים ובנט מתחזק ל-15. מפלגת עמך ישראל זוכה לארבעה מנדטים לאחר שנותרה בחוץ בשני הסקרים הקודמים. תמונת הגושים ללא שינוי: 55 לגוש איזנקוט, 51 לגוש נתניהו ו-14 למפלגות הערביות",
+      "link": "https://www.walla.co.il/news/politics/383958398",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T18:20:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21680882",
+      "title": "בצה\"ל חשפו: הבכיר לשעבר שביקש לזמן את הרמטכ\"ל להעיד",
+      "summary": "ראש המוסד לשעבר יוסי כהן ביקש לזמן את זמיר על מנת שיעיד בוועדת החקירה לפרשת הצוללת • בין היתר צפויים להעיד גם ראש הממשלה נתניהו והנשיא לשעבר ריבלין • העדויות יחלו בחודש נובמבר",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21680882",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T18:12:22.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1379826",
       "title": "סקר מנדטים של חדשות 12: גוש השינוי פותח פער גדול - גם וינטר לא עוזר לנתניהו",
@@ -111,6 +129,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T17:51:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1379853",
+      "title": "הרמטכ\"ל זמיר חושף: ראש המוסד לשעבר הוא שזימן אותו לעדות אישית בפרשת הצוללות",
+      "summary": "הרמטכ\"ל אייל זמיר חושף שראש המוסד לשעבר הוא שזימן אותו לעדות אישית בפרשת הצוללות. בצה\"ל לא יודעים לקבוע בשלב זה מה מהות הדברים שעליהם יידרש הרמטכ\"ל להעיד",
+      "link": "https://www.maariv.co.il/news/law/article-1379853",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T17:49:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1379853",
@@ -870,6 +897,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
+      "title": "אחרי פיגור דו ספרתי: הפועל תל אביב גברה על הפתעת היורוליג",
+      "summary": "האדומים מחקו מינוס 13 וניצחו 81:90 את וירטוס בולוניה בדרך למאזן 2:5 במפעל • זאק לידיי התפוצץ עם דאבל דאבל של 22 נקודות ו-10 ריבאונדים • במחזור הבא: אנאדולו אפס מגיעה לסופיה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:50:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
       "title": "חי מהיורוליג: הפועל תל אביב - וירטוס בולוניה 68:79",
       "summary": "האיטלקים רצים, שולטים בריבאונד ההתקפה ותפסו את האדומים לא מוכנים בדרך ליתרון דו ספרתי בסופיה • הקבוצה של דימיטריס איטודיס רוצה למנף את הניצחון על פנאתינייקוס ולחבר רצף ניצחונות במפעל",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
@@ -1146,6 +1182,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T15:15:18.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h181u8u3ge",
+      "title": "הניח עובר ללא רוח חיים בכניסה לבית חולים, ונעצר בבית כנסת",
+      "summary": "שוטרי מחוז ירושלים הוזעקו לשערי צדק, לאחר דיווח על אדם בשנות ה-30 לחייו, שהשאיר בכניסה למקום עובר מת. מעט אחר כך, נעצר החשוד בבית כנסת בשכונת קריית היובל בעיר. גם אשתו עוכבה לחקירה. השניים ישוחררו כנראה, מקורבים להם: \"האישה הפילה את העובר בבית. הבעל פנה לאנשי ביטחון, ולא קיבל מענה\"",
+      "link": "https://www.ynet.co.il/news/article/h181u8u3ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-21T15:14:19.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h181u8u3ge",
@@ -9714,6 +9759,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-20T12:30:03.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873047",
+      "title": "גבר נעצר בחשד להטרדת יובל דיין ולהפרת תנאי הרחקה ממנה",
+      "summary": "הגיע להופעותיה, תיעד אותה ופקד את בית הכנסת שבו היא מתפללת: מעריץ של יובל דיין נעצר בחשד להטרדתה. לפי המשטרה, שעות אחרי ששוחרר בתנאי הרחקה, שב להופעה נוספת שלה והתיישב בשורה הראשונה | כל הפרטים",
+      "link": "https://celebs.walla.co.il/item/3873047",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-20T12:29:00.000Z"
     },
     {
       "id": "walla:https://celebs.walla.co.il/item/3873047",
@@ -33447,24 +33501,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-16T18:33:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1x59kgnzg",
-      "title": "יש פה עניין עם יהודים שונאי ישראל",
-      "summary": "אין צורך שנשלה את עצמנו שמדובר בתופעה שולית. הרי מדובר בקבוצה משמעותית של מאות, אולי אלפים, לרבים מהם יש נשק, הם מצפצפים על המדינה ועל חיילי צה\"ל. הם עושים בשטחים כרצונם",
-      "link": "https://www.ynet.co.il/news/article/s1x59kgnzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-16T18:25:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21641754",
-      "title": "הנשיא טראמפ: סעודיה שמחה מתמיכת ישראל נגד החות'ים",
-      "summary": "נשיא ארה\"ב הביע אופטימיות בנוגע לאפשרות שסעודיה תצטרף להסכמי הנורמליזציה, והדגיש את התמיכה שהיא מקבלת מירושלים ומוושינגטון • ברקע: המגעים לסיוע ישראלי לממלכה בהתמודדות עם החות'ים בתיווך אמריקני",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21641754",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T18:16:48.000Z"
     }
   ]
 }
