@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:16:03.326Z",
+  "updatedAt": "2026-10-21T17:30:51.319Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rjiibdlhgl",
+      "title": "למרות הלחצים הכבדים מנתניהו: עופר וינטר ומוטי לייטנר הודיעו - לא פורשים",
+      "summary": "6 ימים לבחירות, והלחץ על המפלגות הקטנות בימין גובר: יו\"ר עמך ישראל תיאר \"הטרדות של מועמדים וילדיהם ופולסה דנורא על אם שכולה\", האשים את סמוטריץ' בשקר והבהיר: \"אנחנו בימין, אבל אין צ'ק פתוח. יתנו, יקבלו. לא יתנו, לא יקבלו\". גם יו\"ר הציבור החרדי נשאר במרוץ: \"הם מפחדים, אנחנו לא פורשים\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rjiibdlhgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-21T17:24:55.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/winter-statement-not-withdrawing-elections",
+      "title": "עופר וינטר בהצהרה: \"הופעלו הטרדות, חוקרים פרטיים, פולסה דונרא\"",
+      "summary": "יו\"ר עמך ישראל בהצהרה חריפה נגד הלחצים לפרישה • \"התבלבלתם - באנו לשנות ולהוביל דרך\" | \"יתנו - יקבלו, לא יתנו - לא יקבלו\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/winter-statement-not-withdrawing-elections",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T17:19:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-7",
+      "title": "ערב בחירות: גפני זועם על נתניהו | פעיל ג'יהאד הוסווה כנהג מונית • צפו",
+      "summary": "גפני באזהרה חריפה לנתניהו בעקבות הדרת מוסדות חרדיים | מהומות סוערות מחוץ לתחנת המשטרה בכפר סבא סביב הסגרת בחור ישיבה | סמוטריץ' בהצעה דרמטית לווינטר | בנק ישראל עוצר את רצף ההפחתות ומותיר את הריבית ללא שינוי | תיעוד דרמטי לוחמי הגדעונים לכדו בבית לחם פעיל ג'יהאד אסלאמי שהוסווה כנהג מונית | דיווח ביטחוני מפריך את הטענה שטראמפ בלם תקיפה ישראלית באיראן | והתיעוד הקיצוני היומי אחרי התחזית: צרפתים צולים מרשמלו על אש הפוגרום בפריז | (היום בכיכר)",
+      "link": "https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-7",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T17:16:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21680517",
+      "title": "ליאור רז: \"דבר אחד צריך להיות ברור\"",
+      "summary": "השחקן והיוצר פרסם קריאה לשינוי פוליטי בעקבות המלחמה • \"לא אצביע לממשלה שתתמוך בהשתמטות\" • הדגיש כי העמידה לצד משרתי המילואים חייבת להתבטא במעשים בפועל ולא רק בהצהרות",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21680517",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T17:13:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958388",
+      "title": "היועמ\"שית לבג\"ץ: מספר המשתמטים עלה ל-110 אלף",
+      "summary": "היועצת המשפטית לממשלה עדכנה את בג\"ץ כי 110 אלף חייבי גיוס מפרים את החוק. לדבריה, המדינה אינה ממצה את כלי האכיפה, ולכן הציעה שבית המשפט ישקול הוראות נוספות לשלילת הטבות כלכליות ממשתמטים",
+      "link": "https://www.walla.co.il/news/politics/383958388",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T17:09:18.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hyvtguinfl",
       "title": "היועמ\"שית: מספר המשתמטים עלה ל-110,330",
       "summary": "בעדכון לבג\"ץ, כתבה בהרב-מיארה כי יותר מ-110 אלף חייבים בגיוס מפרים את החוק: \" המדינה אינה ממצה את כלי האכיפה, בית המשפט צריך לשקול הוראות נוספות לשלילת הטבות כלכליות ממשתמטים\"",
@@ -39,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-21T17:09:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21680513",
+      "title": "\"ערוץ כזה בדיחה\": הפדיחה של ערוץ 14 - והעקיצה של חיים לוינסון",
+      "summary": "ערוץ 14 השקיע בפרומו חגיגי לקראת משדר הבחירות, אבל פספס פרט קטן: בכנסת יש רק 120 מנדטים • חיים לוינסון הבחין בטעות בסרטון שפרסם ינון מגל ברשת X ומיהר לעקוץ • עוד פרק ביריבות המתמשכת בין השניים",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21680513",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T17:08:44.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tn9op4",
@@ -192,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T16:32:33.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3873244",
+      "title": "ערוץ 14 דורש לסקר את המשותפת – שסירבה לבקשה",
+      "summary": "פחות משבוע לבחירות, ערוץ 14 מאיים בפנייה לבית המשפט אם לא תותר כניסת צוותיו לאירועי הרשימה המשותפת. בתגובה חריפה מאשימה הרשימה את הערוץ ב\"שיסוי והסתה\"",
+      "link": "https://e.walla.co.il/item/3873244",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T16:31:00.000Z"
     },
     {
       "id": "walla:https://e.walla.co.il/item/3873244",
@@ -480,6 +543,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T15:51:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
+      "title": "חי מהיורוליג: הפועל תל אביב - וירטוס בולוניה 51:48",
+      "summary": "האיטלקים רצים, שולטים בריבאונד ההתקפה ותפסו את האדומים לא מוכנים בדרך ליתרון דו ספרתי בסופיה • הקבוצה של דימיטריס איטודיס רוצה למנף את הניצחון על פנאתינייקוס ולחבר רצף ניצחונות במפעל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T15:50:27.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21679757",
@@ -33213,24 +33285,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-16T17:40:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
-      "title": "תדרוך אסוני וקדנציה קצרצרה: דוברת הבית הלבן פוטרה",
-      "summary": "ימים ספורים לאחר שנכנסה לתפקיד, קייטי זכריה סיימה את תפקידה בעקבות לחץ גובר, בין היתר לאחר הופעת בכורה קצרה במסיבת עיתונאים • ברקע, גם המחלוקת סביב הכשרתה המקצועית ולאחר שהודתה כי לא עברה את מבחני הלשכה, אף שהוצגה כעורכת דין",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T17:30:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
-      "title": "אחרי פחות משבוע בתפקיד: דוברת הבית הלבן תסיים את תפקידה",
-      "summary": "ימים ספורים לאחר שנכנסה לתפקיד, קייטי זכריה ניצבת בפני לחץ גובר בעקבות הופעת בכורה קצרה מול העיתונאים ומחלוקת סביב הכשרתה המשפטית • לאחר שהנשיא דונלד טראמפ אמר כי עליה לשקול מחדש את התפקיד, בארה\"ב מדווחים כי היא עשויה לסיים את תפקידה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T17:30:15.000Z"
     }
   ]
 }
