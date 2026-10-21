@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:15:47.968Z",
+  "updatedAt": "2026-10-21T05:30:56.216Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tn8s6z",
+      "title": "סייר סודי: חתול אותת לרחפן התצפית והכוח המיוחד חוסל",
+      "summary": "הכוח הרוסי נע על גבי לעבר עמדה שבה פעל מפעיל רחפנים אוקראיני | עוד לפני שהחיילים הבחינו באיום המתקרב, החתול שבמקום הפגין דריכות יוצאת דופן (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tn8s6z",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-21T05:28:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-strait-hormuz-oil-exports-blockade-failure",
       "title": "מבוכת ענק לאיראן: יצוא הנפט מהמפרץ עקף את הרמות שלפני המלחמה",
       "summary": "איראן תוקפת כלי שיט במפרץ הפרסי - אך הנפט ממשיך לזרום | נתיבים חלופיים והגנה אמריקנית מאפשרים את המשך יצוא הנפט | איראן נכשלה במאבק על מצר הורמוז (בעולם)",
@@ -59,6 +68,15 @@
       "pubDate": "2026-10-21T05:08:35.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21673264",
+      "title": "נהג מונית קשיש הותקף ונשדד באכזריות בתל אביב: שני צעירים נעצרו",
+      "summary": "שוטרי תחנת תל אביב דרום עצרו שני צעירים בשנות ה-20 לחייהם, החשודים בתקיפה אלימה ושוד של נהג מונית בן 76 • הקורבן הגיע לתחנת המשטרה כשהוא חבול בפניו, וסיפר כי הרקע למעשה הוא סכסוך כספי שהתפתח ברחוב בירנית בעיר • החשודים נמלטו מהזירה אך אותרו תוך זמן קצר, והבוקר תבקש המשטרה להאריך את מעצרם",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21673264",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T05:05:49.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1379559",
       "title": "פרישתו של בני גנץ הבאה הורידה את המסך על עוד פרק מעניין בפוליטיקה הישראלית | אפרים גנור",
       "summary": "פרישתו של בני גנץ מהמרוץ לכנסת הבאה הורידה את המסך על עוד פרק מעניין בפוליטיקה הישראלית",
@@ -66,6 +84,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-21T05:05:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21671900",
+      "title": "השדכן של \"ווארט\" שהתגרש מדבר על פרק ב': \"בקרוב\"",
+      "summary": "יקי רייסנר השיב לשאלות של עוקביו הנוגעות לסטטוס שלו, גילה מה הדרישות שלו מבת הזוג, וגם סיפק הצצה לעונה החדשה של \"ווארט\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21671900",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T05:05:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21673159",
+      "title": "6 ימים לבחירות: הבת של שר החוץ בוחרת - ולא מה שחשבתם",
+      "summary": "מי שעוקב אחריה יודע שאלונה סער לא חוסכת ביקורת מהממשלה, אבל ההכרזה הפומבית על זהות המפלגה שלה הצליחה להפתיע לא מעט אנשים • \"אפשר להצביע להם במקום אליי\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21673159",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T05:04:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379555",
+      "title": "רגע לפני המתקפה באיראן: טראמפ טרף לנתניהו את הקלפים",
+      "summary": "לפי דיווחים, נתניהו הורה להיערך למתקפה באיראן, רחבה אף מזו שבוצעה בפברואר, אך טראמפ בלם את המהלך מחשש להשלכות על בחירות האמצע. בישראל נערכים לאפשרות של חידוש הלחימה",
+      "link": "https://www.maariv.co.il/news/world/article-1379555",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T05:02:34.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379555",
@@ -150,6 +195,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21673178",
+      "title": "דיווח: נתניהו דחף לחדש את התקיפות באיראן - טראמפ בלם עד לבחירות",
+      "summary": "על פי דיווח ב\"פייננשל טיימס\", צה\"ל נערך למבצע הפצצות נרחב נגד מתקני גרעין ותשתיות אזרחיות באיראן מוקדם יותר החודש • המבצע נדחה בשל התנגדותו של הנשיא טראמפ לפתיחת מערכה לפני בחירות האמצע בארה\"ב • מזכיר ההגנה האמריקני פיט הגסת' דן בישראל ב\"בנק מטרות מעודכן\" • גורמים ביטחוניים מביעים חשש מהשלכות פתיחת מלחמה בסמוך כל כך לבחירות, ומזהירים ממהלכים של נתניהו גם תחת ממשלת מעבר",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21673178",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-21T04:44:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21673178",
       "title": "דיווח: נתניהו דוחף לחדש את התקיפות באיראן - טראמפ בולם עד לבחירות האמצע",
       "summary": "על פי דיווח ב\"פייננשל טיימס\", צה\"ל נערך למבצע הפצצות נרחב נגד מתקני גרעין ותשתיות אזרחיות באיראן מוקדם יותר החודש • המבצע נדחה בשל התנגדותו של הנשיא טראמפ לפתיחת מערכה לפני בחירות האמצע בארה\"ב • מזכיר ההגנה האמריקני פיט הגסת' דן בישראל ב\"בנק מטרות מעודכן\" • גורמים ביטחוניים מביעים חשש מהשלכות פתיחת מלחמה בסמוך כל כך לבחירות, ומזהירים ממהלכים של נתניהו גם תחת ממשלת מעבר",
       "link": "https://www.israelhayom.co.il/news/geopolitics/article/21673178",
@@ -174,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T04:38:26.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379550",
+      "title": "מה שהתחיל כגן עדן לישראלים הפך למקור לדאגה: החיים היהודיים במדינה הערבית משתנים",
+      "summary": "שש שנים אחרי הסכמי הנורמליזציה, הישראלים והיהודים באיחוד האמירויות מוצאים את עצמם במציאות שלא הכירו: סמלים נעלמים, בתי כנסת נסגרים, משפחות עוזבות והחשש מפני איראן משנה את חייהם מהיסוד",
+      "link": "https://www.maariv.co.il/news/world/article-1379550",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T04:37:12.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379550",
@@ -237,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T04:27:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1379543",
+      "title": "הפך לסמל המחאות הפרו-פלסטיניות - עכשיו הוא נלחם על עתידו בארה\"ב",
+      "summary": "מחמוד חליל, ממנהיגי המחאות הפרו-פלסטיניות באוניברסיטת קולומביה, שנעצר אשתקד בידי סוכני הגירה, פנה לבית המשפט העליון בארה\"ב בניסיון למנוע את גירושו. ממשל טראמפ מתעקש: הוא חייב לעזוב",
+      "link": "https://www.maariv.co.il/news/world/article-1379543",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-21T04:25:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1379543",
@@ -30342,51 +30414,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-16T05:33:11.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3872427",
-      "title": "החברה הישראלית שנמכרה ב-6.3 מיליארד דולר",
-      "summary": "חברת אבטחת הסייבר פרופפוינט תרכוש את חברת אבטחת המידע הישראלית ורוניס בעסקת ענק",
-      "link": "https://finance.walla.co.il/item/3872427",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-16T05:23:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21638526",
-      "title": "גיא מלמד סובל מפציעה חמורה - ומכבי חיפה קיבלה החלטה",
-      "summary": "החלוץ אובחן עם קרע חלקי ברצועה הצולבת, אך לא ינותח ויעבור טיפול שמרני בחודש הקרוב • מכבי נתניה השעתה את מאור לוי והוא יעמוד בפני ועדת משמעת",
-      "link": "https://www.israelhayom.co.il/sport/article/21638526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T05:20:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21638526",
-      "title": "יעקב שחר פגש את דור העתיד של מכבי חיפה - והעביר מסר חשוב",
-      "summary": "נשיא המועדון והמנכ\"ל איציק עובדיה סיירו באקדמיה: \"חשוב שקודם כל מי שיוצא מכאן יהיה בן אדם\" • מכבי נתניה השעתה את מאור לוי והוא יעמוד בפני ועדת משמעת",
-      "link": "https://www.israelhayom.co.il/sport/article/21638526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T05:20:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21638526",
-      "title": "סערה במכבי נתניה: כוכב הקבוצה הושעה מהמשחק הקרוב",
-      "summary": "היהלומים הודיעו כי מאור לוי יעמוד בפני ועדת משמעת, ועד אז לא יהיה חלק מפעילות הקבוצה • הוא לא יתאמן ויישאר מחוץ לסגל של רוני לוי מול עירוני קריית שמונה",
-      "link": "https://www.israelhayom.co.il/sport/article/21638526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-16T05:20:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-netanyahu-iran-zelenskyy-newsmax-interview",
-      "title": "טראמפ: \"ביקשו ממני להתערב בבחירות. פוליטית, לא סומך על נתניהו\"",
-      "summary": "הנשיא האמריקני בראיון סוער: \"בפוליטיקה לא סומכים על אף אחד\" • מתכנן שימוש ב'אם כל הפצצות' נגד איראן | על מלחמת רוסיה-אוקראינה: \"זלנסקי לא רוצה הסדר\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-netanyahu-iran-zelenskyy-newsmax-interview",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-16T05:16:04.000Z"
     }
   ]
 }
