@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:45:47.364Z",
+  "updatedAt": "2026-10-22T08:01:08.276Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tnatov",
+      "title": "הבוס הסיני: מפרק מכוניות, נלחם בתוקפים - ויודע לחלום",
+      "summary": "ברת הרובוטיקה Unitree מציגה את H2-X Kung Fu Legend Guardian, רובוט שמדגים רצף של תנועות לחימה, פעלולים עוצמתיים - וגם יודע לעשות משהו מעניין במיוחד (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tnatov",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T07:58:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/education/article-1380024",
+      "title": "תואר על החוף: המסלול האקדמי החדש בחיפה",
+      "summary": "28 סטודנטים וסטודנטיות המתמודדים עם פוסט-טראומה החלו לימודי תואר ראשון במסגרת ייחודית במועדון שייט בחיפה. לצד הלימודים הם יקבלו ליווי ותמיכה, ובשנה הבאה צפוי המסלול לעבור למעגן הקישון",
+      "link": "https://www.maariv.co.il/news/education/article-1380024",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T07:58:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/education/article-1380034",
+      "title": "ירושלים תארח לראשונה את כנס החינוך הבינלאומי בישראל",
+      "summary": "ב־9 וב־10 בנובמבר יגיעו לירושלים אלפי אנשי חינוך, שרי חינוך, מקבלי החלטות, חוקרים, יזמים ומובילי דעה מעשרות מדינות ברחבי העולם",
+      "link": "https://www.maariv.co.il/news/education/article-1380034",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T07:56:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/katz-attacks-eisenkot-lebanon-security-zone-withdr",
+      "title": "כ\"ץ במתקפה על איזנקוט: \"מעליל עלי שאני רוצה לפתוח מלחמה - מסיבות פוליטיות ומפקיר את הצפון\"",
+      "summary": "שר הביטחון מאשים את איזנקוט בנכונות להחזיר את חיזבאללה לגבול • גולן מואשם בהאשמת חיילים בהרג ילדים מתוך תחביב | \"לא ילמד אותי מהי אחריות\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/katz-attacks-eisenkot-lebanon-security-zone-withdr",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T07:54:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1g5zmwnfg",
+      "title": "קומיקאי השווה את נשיא סין לפו הדוב - ונדרס: \"רצו לשבור לו את הידיים והרגליים\"",
+      "summary": "בגלל שקומיקאי מטייוואן העז לצחוק על שי ג'ינפינג וללעוג לשלטון בבייג'ינג, אדם מסין הציע לחמישה גברים כ-14 אלף דולר כדי לפצוע אותו קשה ולמנוע ממנו להופיע. הם עקבו אחריו, התקינו מכשיר GPS על הקטנוע שלו - ודרסו אותו ליד ביתו. הוא נפגע קל, המזמין סירב לשלם הכול: \"הפציעה לא חמורה מספיק\". הקומיקאי: \"אם כך מתייחסים אלינו עוד לפני שסין שולטת בנו, מה יקרה אחר כך?\"",
+      "link": "https://www.ynet.co.il/news/article/s1g5zmwnfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T07:46:44.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1380028",
       "title": "אנטישמיות מזעזעת בארה\"ב: חסיד חב\"ד הותקף במרכז מנהטן",
@@ -66,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T07:42:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/deri-tefillin-every-child-shas-election-promise",
+      "title": "יו\"ר ש\"ס אריה דרעי בהתחייבות דרמטית: תפילין לכל נער שחוגג בר מצווה",
+      "summary": "יו\"ר ש\"ס מכריז על תוכנית 'תפילין לכל ילד' - ערכת בר מצווה לכל נער לצד חיוב מערכת החינוך להקצות מקום תפילה | התשובה ליאיר גולן (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/deri-tefillin-every-child-shas-election-promise",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T07:41:11.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/deri-tefillin-every-child-shas-election-promise",
@@ -222,6 +276,15 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sksl8zwnfl",
+      "title": "\"זקוקים לפעולה מיידית\": העיר שנחטפה בידי עבריינים",
+      "summary": "עבריינים מתעדים את עצמם יורים על בתים ועסקים בסכנין, כשרק ב-48 השעות האחרונות התרחשו 7 מקרים כאלה. איש לא נעצר, התושבים שחיים בחרדה חסרי אונים: \"הבן שלי כמעט מת\". העסקים קורסים, בעל חנות מתאר ירידה של 50% במכירות, ואם לילד שניצל בנס סיפרה: \"הכדורים חלפו לידו\"",
+      "link": "https://www.ynet.co.il/news/article/sksl8zwnfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T07:16:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sksl8zwnfl",
       "title": "יורים, מצלמים ולא נעצרים - והעסקים קורסים: העיר שנחטפה בידי עבריינים",
       "summary": "עבריינים מתעדים את עצמם יורים על בתים ועסקים בסכנין, כשרק ב-48 השעות האחרונות התרחשו 7 מקרים כאלה. איש לא נעצר, התושבים שחיים בחרדה חסרי אונים: \"הכתובת על הקיר - זקוקים לפעולה מיידית\". העסקים נפגעים, בעל חנות מתאר ירידה של 50% במכירות, ואם לילד שניצל בנס סיפרה: \"הכדורים חלפו לידו\"",
       "link": "https://www.ynet.co.il/news/article/sksl8zwnfl",
@@ -345,6 +408,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T07:05:09.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958454",
+      "title": "לינץ' ברהט: צעיר הוכה באקדח ובמקלות, נבדק חשד לנקמה",
+      "summary": "כמה צעירים תועדו כשהם מכים תושב מקומי, בועטים בפניו וחובטים בו באגרופים. במשטרה חושדים כי הרקע לתקיפה הוא סכסוכים מהעבר. הקורבן אותר וצפוי למסור עדות בשעות הקרובות",
+      "link": "https://www.walla.co.il/news/israel/383958454",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T07:03:24.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380007",
@@ -579,6 +651,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T06:32:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1379995",
+      "title": "\"לפני כל שאלה שלך יש פתיח\": למנדלבליט נמאס מהשיטות של עמית חדד",
+      "summary": "בבית המשפט סיפר היועמ\"ש לשעבר על אישורי חקירת תיק המתנות, על עדות הדס קליין ששינתה את התמונה, על ההוראה לנתק קשר עם בן כספית, והסנגורית ביקשה 8 ימי עדות נוספים. היום חדד ממשיך לחקור אותו",
+      "link": "https://www.maariv.co.il/news/law/article-1379995",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T06:29:48.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1379995",
@@ -1065,6 +1146,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T05:21:31.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3873291",
+      "title": "העסקה הגדולה בהיסטוריה בסכנה, בגלל הפה הגדול של מאסק",
+      "summary": "זה אמור להיות המהלך הכלכלי של המאה בשווי 3.5 טריליון דולר, אבל משפט אחד מיותר של האיש העשיר בעולם הצליח להכניס את המשקיעים לפאניקה מוחלטת",
+      "link": "https://finance.walla.co.il/item/3873291",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T05:20:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-cnn-reporter-confrontation",
@@ -35517,42 +35607,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T08:06:09.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383957753",
-      "title": "על רקע ריבוי אירועי הפשיעה הלאומנית: צה״ל יתגבר כוחות ביו״ש",
-      "summary": "האוגדה תתוגבר בכוחות נוספים בעקבות העלייה החדה בהיקף ובחומרה של אירועי הפשיעה המכוונים נגד פלסטינים, כך מסר גורם בטחוני. ״עלייה בהתרעות לפיגועי טרור״",
-      "link": "https://www.walla.co.il/news/military/383957753",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T07:57:35.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383957753",
-      "title": "על רקע ריבוי אירועי הפשיעה הלאומנית: צה״ל יתגבר כוחות",
-      "summary": "האוגדה תתוגבר בכוחות נוספים בעקבות העלייה החדה בהיקף ובחומרה של אירועי הפשיעה המכוונים נגד פלסטינים, כך מסר גורם בטחוני. ״עלייה בהתרעות לפיגועי טרור״",
-      "link": "https://www.walla.co.il/news/military/383957753",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T07:57:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21642946",
-      "title": "כבר לא צריך להעתיק ולהדביק: השדרוג של ChatGPT",
-      "summary": "OpenAI שדרגה את התוסף הרשמי: הצ'אטבוט יכול כעת \"להציץ\" בכל הלשוניות הפתוחות בכרום, להשוות מחירים ומפרטים בין אתרים, למלא טפסים ולשלוח מיילים בשמכם מבלי שתצטרכו לעבור מסך • כל מה שצריך לדעת",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21642946",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T07:56:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1378058",
-      "title": "בתוך שעתיים: שני נהגים איבדו הכרה בנסיעה - אחד נהרג, השני במצב אנוש",
-      "summary": "שני נהגים איבדו הבוקר את הכרתם בזמן נהיגה, ככל הנראה בעקבות אירוע לבבי. בבת ים נהג בן 62 התנגש בקיר ומותו נקבע בבית החולים. כשעתיים לאחר מכן, נהג כבן 40 התמוטט בכביש 3 ופונה במצב אנוש",
-      "link": "https://www.maariv.co.il/news/israel/article-1378058",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-17T07:47:23.000Z"
     }
   ]
 }
