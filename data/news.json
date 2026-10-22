@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T09:31:10.652Z",
+  "updatedAt": "2026-10-22T09:45:54.003Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/cross-falls-on-priest-colombia",
+      "title": "שוב פעם: צלב ענקי נפל על ראש כומר",
+      "summary": "ימים ספורים לאחר שכומר באקוודור נהרג מפגיעת צלב כבד בשידור חי, תיעוד נוסף מגיע מקולומביה: צלב נפל על כומר (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/cross-falls-on-priest-colombia",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T09:44:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tnayu6",
+      "title": "הרב יורקוביץ מצהיר: אני מצביע בן גביר! • צפו",
+      "summary": "גדול רבני חב\"ד, הרב ברוך בועז יורקוביץ, בהצהרה אישית שאיננה משתמעת לשתי פנים על תמיכתו בבחירות בשר איתמר בן גביר | \"בן גביר הוא היחיד שאי אפשר לשחד אותו\", אומר הרב, \"ולעולם לא ישנה את עמדותיו. והוא היחיד שגם מוותר על משרה אם לא עומדים בעקרונות שלו שהם טובת כלל ישראל. אני אישית מצביע בן גביר!\" • צפו בווידאו (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tnayu6",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T09:43:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tnas8z",
+      "title": "היסטוריה כואבת: כשמפלגות ימין וחרדים הצהירו שיהיו ״הפתעת הבחירות״ - והתרסקו בקלפי",
+      "summary": "בימין פועלים בשבועות האחרונים לפרישת המפלגות הקטנות שעלולות לסכן את ניצחון הגוש, או לפחות לגרום לאי-הצבעה אליהם, אך במפלגות מבטיחים להיות \"הפתעת הבחירות\" ולנצח בענק | חזרנו אל ההיסטוריה המלאה במפלגות שכאלה, ההבטחה הייתה נוצצת - אך ההתרסקות בקלפי הייתה כואבת (בחירות)",
+      "link": "https://www.kikar.co.il/political-news/tnas8z",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T09:37:35.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380075",
+      "title": "בליכוד דרשו מערוצי הטלוויזיה: אל תשדרו בשידור חי את העצרת בכיכר החטופים",
+      "summary": "יממה לאחר ההנחיה שלא לשדר בשידור חי את נאום נתניהו בבה\"ד 1, הליכוד דורש לעכב בעשר דקות את נאומי עצרת \"מועצת אוקטובר\", בהשתתפות בכירי האופוזיציה. הנימוק: חשש לתעמולת בחירות",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380075",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T09:35:11.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sksphewnzg",
+      "title": "התוכנית שתנסה לגייס אלפי נהגי אוטובוס - ולהציל את התחבורה הציבורית",
+      "summary": "פרסום ראשון: על רקע מחסור של 5,000 נהגים, שחיקה קשה ואלימות גואה נגדם, מציג מנהל הרשות לתחבורה ציבורית תוכנית לאומית שכוללת מענקים, תוספות ותק וקביעת רצפת שכר, מחיצות מגן בכל אוטובוס ומסלולי גיוס ייחודיים לחרדים וחיילים משוחררים. שאלת התקציב - ומכשול הבחירות: \"מחויבים לתנאים ראויים\"",
+      "link": "https://www.ynet.co.il/news/article/sksphewnzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T09:35:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/hadera-junction-eucalyptus-fire-strong-winds",
+      "title": "שריפת קוצים בחורשת אקליפטוסים סמוך לצומת חדרה - לוחמי האש במאבק עם הרוח",
+      "summary": "שריפת קוצים פרצה בחורשת אקליפטוסים מערבית לכביש 4 • רוחות חזקות מקשות על לוחמי האש | הכוחות פועלים לבלימת התפשטות האש (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/hadera-junction-eucalyptus-fire-strong-winds",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T09:30:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/israel-railways-free-travel-election-day-arrangeme",
       "title": "נסיעה חינם ביום הבחירות - ואיך תגיעו לקלפי? | כל הפרטים לקראת יום שלישי",
       "summary": "רכבת ישראל תפעיל שלוש רכבות בשעה לירושלים ביום הבחירות • נסיעה חינם מיום שני בערב ועד תום יום הבחירות | כך תוציאו כרטיס (בארץ)",
@@ -41,13 +95,49 @@
       "pubDate": "2026-10-22T09:30:11.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnaxxk",
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21684900",
+      "title": "עסקת ענק באזור: אזורים Living רוכשת 80 דירות מצבי צרפתי ובניו בכ-198 מיליון שקל",
+      "summary": "את אזורים Living ייצג בעסקה עו\"ד שמואל שוב, שותף מנהל במשרד שוב ושות', לצד עורכי הדין שושי בירזון וליאור קיל • העסקה כוללת 80 דירות בפרויקט AZOR ברחוב קפלן באזור, מתוכן 60 כבר מושכרות • שווי הדירות מוערך בכ-231 מיליון שקל",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21684900",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T09:28:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21684931",
+      "title": "\"זו התבוללות\": לינור אברג'יל יוצאת למתקפה",
+      "summary": "מלכת היופי ומיס עולם לשעבר בחרה לצאת בחריפות נגד טרנד חגיגות חג ההאלווין הנוצרי על ידי יהודים כשהיא מבקשת להזהיר • \"אסור לנו להתפתות לאמץ מנהגים זרים\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21684931",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T09:27:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21684578",
+      "title": "מול הפושעים האלימים בעולם: מבצע לשחרור חטופים באיים הקריביים",
+      "summary": "נשיא אל סלבדור הכריז כי שלח כוח להציל מידי ארגוני הפשע השולטים ברחובות האיטי ארבעה אזרחי ארצו שנחטפו • קרבות עזים נרשמו בשעה שהכוחות סרקו אחר השבויים",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21684578",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T09:25:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/stolen-iphones-tracking-france-looters",
       "title": "הבוזזים בצרפת נדהמו: האייפונים הגנובים הפכו למכשירי מעקב",
       "summary": "הם פרצו לחנויות ולקחו מכשירים יקרים, אבל זמן קצר לאחר מכן הופיעה על המסכים הודעה שהבהירה להם כי השלל עלול להוביל היישר אליהם (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tnaxxk",
+      "link": "https://www.kikar.co.il/world-news/stolen-iphones-tracking-france-looters",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T09:24:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rk9logunfx",
+      "title": "15 מנדטים יחכו למעטפות הכפולות: מתי באמת יהיו תוצאות? | המדריך המלא",
+      "summary": "ביום שלישי בשעה 22:00 ייסגרו כל הקלפיות, ואז יחל מרוץ נגד הזמן: איך מחלקים את המנדטים ודואגים שלא יהיו זיופים? למה הפעם לא כדאי למפלגות שמתנדנדות על אחוז החסימה לחגוג או להספיד את עצמן גם אחרי רוב התוצאות? כמה קולות יהיה שווה כל מנדט, ומה אם לא תושבע ממשלה? ynet מסביר",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rk9logunfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T09:23:04.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rk9logunfx",
@@ -77,6 +167,15 @@
       "pubDate": "2026-10-22T09:22:11.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21684777",
+      "title": "תומכים בהתיישבות, מתנגדים לזכויות להט\"ב: העקרונות של \"עוצמה יהודית\"",
+      "summary": "במסגרת פרויקט הבחירות של ״מעריב לנוער״, באנו לעשות לכם סדר בעמדות, הערכים וההיסטוריה של המפלגות השונות. הפעם - ״עוצמה יהודית״ בראשות איתמר בן גביר",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21684777",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T09:19:51.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21684809",
       "title": "נתניהו מכחיש: \"הדיווח שטראמפ בלם אותי מלתקוף באיראן - מגמתי ולא נכון\"",
       "summary": "ראש הממשלה בנימין נתניהו דוחה בתוקף את הדיווחים לפיהם נשיא ארה\"ב מנע ממנו לתקוף באיראן לאחרונה • בראיון לערוץ 7 הבהיר נתניהו כי הטענות בנושא מגמתיות ואינן נכונות • ההכחשה מגיעה בעקבות דיווח ב\"פייננשל טיימס\" שטען כי צה\"ל נערך להפצצת יעדי גרעין ותשתיות ב-10 באוקטובר • לפי אותו דיווח, המבצע בוטל לכאורה בשל רצונו של טראמפ להימנע מהסלמה לפני בחירות האמצע בארה\"ב",
@@ -84,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T09:14:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21684714",
+      "title": "התעללות מזעזעת במרכז הארץ: \"36 מקרים ביום אחד\" | תיעוד קשה",
+      "summary": "שלוש עובדות במעון פרטי באריאל, בהן המנהלת, נעצרו בחשד להתעללות בפעוטות • בתיעוד מיום אחד בלבד אותרו עשרות אירועים החשודים כאלימות, בהם סטירות, הטחות וחסימת דרכי נשימה • חבר הכנסת לשעבר אורן חזן, שבנו לומד במעון: \"אמרו לנו שהוא החליק ונתקע בקיר. היום אנחנו מבינים שעזרו לו להחליק\"",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21684714",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T09:14:58.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21684714",
@@ -300,6 +408,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T08:46:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21682638",
+      "title": "160 חוות ורבבות יחידות דיור: המהפכה שחיסלה את רעיון המדינה הפלסטינית",
+      "summary": "105 יישובים מוסדרים, 160 חוות ששומרות על מיליון דונם, וביטול ההתנתקות בצפון השומרון: כך יוצר מפעל ההתיישבות עובדות בלתי הפיכות בשטח - בדרך ליעד האסטרטגי של מיליון ישראלים ביו\"ש",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21682638",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T08:45:47.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21682638",
@@ -1023,6 +1140,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380014",
+      "title": "אנשים שנפטרו \"הגיעו\" לבית המרקחת: משרד הבריאות בחשיפה מטרידה",
+      "summary": "בביתו של תושב קדימה-צורן נתפסו חותמות רופאים, תעודות זהות מזויפות וסכומי כסף גדולים. הפרקליטות מתכוונת להגיש כתבי אישום",
+      "link": "https://www.maariv.co.il/news/law/article-1380014",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T07:12:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1380014",
       "title": "מרשמים מזויפים וסמים מסוכנים: רוקח וחשוד נוסף הסתבכו",
       "summary": "בביתו של תושב קדימה-צורן נתפסו חותמות רופאים, תעודות זהות מזויפות וסכומי כסף גדולים. הפרקליטות מתכוונת להגיש כתבי אישום",
       "link": "https://www.maariv.co.il/news/law/article-1380014",
@@ -1272,6 +1398,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T06:50:16.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958452",
+      "title": "איזנקוט מתחייב: \"נחזיר את הצווים המנהליים\"",
+      "summary": "בכנס בחירות במודיעין התחייב איזנקוט לצמצם את מספר משרדי הממשלה מ-37 ל-24 ולהכניס לישראל 60–70 אלף פועלים פלסטינים מיו\"ש. על החשש מעריקות ממפלגתו הבהיר: \"לא יהיה אצלנו סילמן ושיקלי\"",
+      "link": "https://www.walla.co.il/news/politics/383958452",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T06:49:43.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383958452",
@@ -36093,33 +36228,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T09:46:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21642943",
-      "title": "ה-AI פרץ לחשבון קריפטו, גנב כסף - והסתיר את הראיות מיוצריו",
-      "summary": "תקרית חמורה ומטלטלת במעבדות הבינה המלאכותית של OpenAI • מודל המחקר GPT-5.6 Sol נתקע במשימת פיתוח, סרק מאות כתובות ברשת, גנב מטבעות בדיקה מחשבון זר - והעלים מידע ממפעיליו • המודל הצדיק את מעשיו: \"המטבעות היו חסרי ערך\"",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21642943",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T09:43:31.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjyyyaehmx",
-      "title": "הצלמת האמריקנית נותחה, אצבעה כמעט נקטעה אחרי מתקפת הפורעים היהודים",
-      "summary": "היידי לוין, צלמת \"וושינגטון פוסט\", כמעט איבדה את האצבע אחרי שהותקפה בידי הפורעים ליד רמאללה. בתה אמרה שהחתך הגיע עד העצם, והגיד נחשף. היא סובלת גם משבר בצלע ומשברים בחוליות. \"הם בעטו בי במשך 10 דקות\", תיארה. שוב: עימותים במסיק בשומרון - וגרסאות סותרות",
-      "link": "https://www.ynet.co.il/news/article/hjyyyaehmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-17T09:38:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1378076",
-      "title": "בחמאס חושפים: זה מה שעלה בגורלו של \"יורש סינוואר\" לאחר ניסיון החיסול",
-      "summary": "ניסיון החיסול של יורש סינוואר ברצועת עזה: בחמאס מודים כי אל-עאמודי נפצע בתקיפת צה\"ל לפני כשבועיים. זאת בניגוד לדיווחים קודמים שטענו כי הוזהר ופונה מהמקום. יתכן כי היה ניסיון להסתיר את המידע על מצבו",
-      "link": "https://www.maariv.co.il/news/military/article-1378076",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-17T09:32:28.000Z"
     }
   ]
 }
