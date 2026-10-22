@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:16:00.793Z",
+  "updatedAt": "2026-10-22T18:31:08.699Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1380273",
+      "title": "השתתף בטבח 7 באוקטובר: חוסל ראש ארגון טרור המקושר לחמאס",
+      "summary": "רמדאן מוחמד אשחאדה דיאב, שעמד בראש ועדת ההתנגדות העממית בח'אן יונס, קידם מתווי טרור נגד כוחות צה\"ל ואזרחים ופעל לשיקום יכולות חמאס תוך הפרת הפסקת האש. הוא חוסל בתקיפה אווירית בח'אן יונס",
+      "link": "https://www.maariv.co.il/news/military/article-1380273",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T18:24:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/defendants-bench/urich-whatsapp-leak-court-injunction-lashem",
+      "title": "צו מניעה ותביעת מיליון: קרב ההדלפות מהנייד של יונתן אוריך",
+      "summary": "בית משפט השלום בירושלים הוציא צו מניעה דחוף נגד פעיל המחאה איתי לשם • יונתן אוריך תובע אותו במיליון שקלים בטענה שפרצו למכשירו והדליפו 19 אלף הודעות | לשם: \"לא הייתה פריצה – זה מבצע השפעה מתוכנן\" (בארץ)",
+      "link": "https://www.kikar.co.il/defendants-bench/urich-whatsapp-leak-court-injunction-lashem",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T18:23:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bkwj02w2ml",
+      "title": "המשבר החרדי מגיע לקלפי: מפלגות המחאה מאיימות על ש״ס ויהדות התורה",
+      "summary": "האכזבה בציבור החרדי, וכאב הראש של הימין: הממשלה הנוכחית הייתה \"חלומית\" עבור החרדיות, אבל כשהן כשלו בהסדרת מעמד לומדי התורה, ובזמן שחרדים השואפים לליבה ולגיוס נותרו \"שקופים\" - צבע שחור והציבור החרדי רצות עד הסוף. אלו מסריהן - ומלחמת הרבנים: \"להצביע למישהו אחר? אסור, אסור, אסור!\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bkwj02w2ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T18:21:03.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1z5oaw3gx",
+      "title": "היועמ\"שית צפויה להגיש עוד כתב אישום נגד נציב שב\"ס קובי יעקובי | הדיווח - והתגובה",
+      "summary": "בהרב-מיארה תגיש כתב אישום נגד רב גונדר קובי יעקובי בגין הטרדת עד ושיבוש הליכי משפט של תנ\"צ ליאור אבודרהם, חצי שנה לאחר שהוחלט כי יואשם בהפרת אמונים ושיבוש מהלכי משפט. סנגורו של יעקובי על הדיווח ב-i24: \"לא קיבלנו כל הודעה\"",
+      "link": "https://www.ynet.co.il/news/article/s1z5oaw3gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T18:18:35.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tnbmg1",
       "title": "עולם שלם נגדנו: המסר המטלטל של המשפיע לפרשת לך לך",
       "summary": "אברהם אבינו עמד לבדו מול עולם שלם – מאיפה לקח את הכוח? הרב אשר פרקש בשיעור מאיר על שלושת השמות של אברהם אבינו, משמעותם העמוקה לאור החסידות, וסוד הכוח הגנוז בהם לכל יהודי – לעמוד איתן גם כשאתה לבד, בגאון יעקב, בלי פחד ובלי בושה (חסידות)",
@@ -39,6 +75,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T18:13:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21689977",
+      "title": "חמישה ימים לבחירות: זה השר שבעלי חוות ביו\"ש מתייצבים לצידו",
+      "summary": "במכתב תמיכה שפורסם בישורת האחרונה של הקמפיין, מודים החוואים לשר האוצר בצלאל סמוטריץ' על הרחבת ההתיישבות, חיזוק המשילות ושינוי המדיניות בשטח",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21689977",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T18:11:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21679701",
+      "title": "ליל הבחירות יהיה מבחן לדמוקרטיה, וגם לערוץ אחד ספציפי",
+      "summary": "שישה ערוצים ישדרו בערב הבחירות 6 מדגמים של 6 סוקרים • כל אחד ינסה להוכיח שהמדינה שהוא מציג היא האמיתית - והמפשלים יחפשו דרך אלגנטית להסביר לאן נעלמה המדינה שלהם •וגם: סדרה להתמכר אליה, אחת לוותר עליה – ורגע שחתך אותנו",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21679701",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T18:08:47.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88840",
@@ -57,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T17:59:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
+      "title": "חי מהיורוליג: מכבי תל אביב - ריאל מדריד 7:8",
+      "summary": "אחרי הניצחון הגדול מול ולנסיה ובלי איפה לונדברג הפצוע, הצהובים ינסו להפתיע גם את הבלאנקוס • הקבוצה של פדרו מרטינס נמצאת ברצף של שישה ניצחונות, עודד קטש יקווה לעצור את הספרדים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T17:55:01.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
@@ -573,6 +636,15 @@
     },
     {
       "id": "walla:https://tech.walla.co.il/item/3873398",
+      "title": "נגד מתחזים וסרטוני פייק: טיקטוק בפעולת ענק לבחירות בישראל",
+      "summary": "נגד מתחזים וסרטוני פייק: טיקטוק בפעולת ענק לבחירות בישראל",
+      "link": "https://tech.walla.co.il/item/3873398",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T16:14:00.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3873398",
       "title": "חסימות, הסרות ומלחמה במתחזים: המבצע של טיקטוק לבחירות בישראל",
       "summary": "חסימות, הסרות ומלחמה במתחזים: המבצע של טיקטוק לבחירות בישראל",
       "link": "https://tech.walla.co.il/item/3873398",
@@ -687,6 +759,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T15:53:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1380228",
+      "title": "נהג אוטובוס מחורה נעצר בחשד שדרס למוות ילד בן 8 - ונמלט מהזירה",
+      "summary": "ילד בן 8 נפצע אנושות בתאונה בכביש 316 ופונה מבית מרפאה בחורה לסורוקה, שם נקבע מותו. המשטרה פתחה בסריקות ואיתרה נהג אוטובוס בשנות ה-50 לחייו, החשוד שפגע בילד ונמלט מהזירה - הוא יובא לדיון",
+      "link": "https://www.maariv.co.il/news/law/article-1380228",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T15:53:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380228",
@@ -37785,42 +37866,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T18:34:24.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14922074",
-      "title": "\"אדם שמחכה 5 שנים לצדק מאבד תקווה\": המהפכה האמיתית שצריכה מערכת המשפט",
-      "summary": "בזמן שהפוליטיקאים נאבקים על עילת הסבירות, פסקת ההתגברות ונוהל הסניוריטי, הציבור משלם את מחיר הסחבת: חקירות מתארכות, פסקי דין מתעכבים ותיקים נערמים. רגע לפני הבחירות, עורכי דין בכירים, שופטים בדימוס ונציבי תלונות מציעים דרכים לשיפור השירות לאזרח | פרויקט מיוחד",
-      "link": "https://www.ynet.co.il/news/article/yokra14922074",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-17T18:30:10.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3872574",
-      "title": "מכבי חיפה מסבירה את הסוד למהפך השלישי ברציפות: \"לא נבהלים\"",
-      "summary": "מאמן מכבי חיפה היה שבע רצון מהעלייה הזמנית לפסגה: \"היה לחץ גדול מאוד\". על דסה: \"קפטן נבחרת ישראל היה פנוי - לא חשבנו פעמיים\". שטייפמן התרגש: \"הגשמת חלום\"",
-      "link": "https://sports.walla.co.il/item/3872574",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T18:26:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21645797",
-      "title": "5 ניצחונות רצופים: מכבי חיפה עלתה לפסגה אחרי עוד מהפך",
-      "summary": "תוך 4 דקות הירוקים כבשו פעמיים מקרן, מחקו פיגור מוקדם וניצחו 1:2 את מכבי פתח תקווה • ברק בכר עלה לפחות זמנית למקום הראשון בליגת העל, אלי דסה ערך בכורה וזכה לתשואות מהקהל",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21645797",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T18:25:15.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3872573",
-      "title": "התמונה המפלילה? הטענות מאחורי הפנדל המכריע של הפועל ת\"א",
-      "summary": "הפועל ת\"א חגגה 0:1 יקר, ברדה גאה: \"כל שחקן נתן אקסטרה\". שוער טבריה על הפנדל של קוקו: \"לא נגעתי בו, אני יודע את האמת. רצו להחזיר להם\"",
-      "link": "https://sports.walla.co.il/item/3872573",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T18:20:00.000Z"
     }
   ]
 }
