@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:30:50.970Z",
+  "updatedAt": "2026-10-22T11:45:56.894Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/tnb3rf",
+      "title": "\"31 שנה זה לא מספיק\": הנשיא סיפר על נסיעה לירושלים - והשלט שזעזע אותו",
+      "summary": "נשיא המדינה יצחק הרצון השתתף בכינוס בבית הנשיא לרגל יום רצח רבין | הנשיא חלק את תחושותיו אודות שלט שראה מרכבו במהלך נסיעה (חדשות)",
+      "link": "https://www.kikar.co.il/news/tnb3rf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T11:35:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1380133",
+      "title": "הסנקציות של טראמפ הביאו לו פרס: הפרלמנט האירופי בחר בבית הדין בהאג",
+      "summary": "הפרלמנט האירופי העניק לבית הדין בהאג ולעובדיו את פרס סחרוב היוקרתי, בתגובה לסנקציות האמריקניות חסרות התקדים שהטיל ממשל טראמפ, ובמסר חד לוושינגטון: אירופה לא מתכוונת לנטוש את המוסד תחת הלחץ",
+      "link": "https://www.maariv.co.il/news/world/article-1380133",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T11:30:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21686167",
+      "title": "דברים שאסור לנקות עם מגבונים - ומה לעשות במקום",
+      "summary": "מגבוני חיטוי הם פתרון מהיר ונוח לניקיון הבית, אבל לא כל משטח מתאים להם • אז ממה כדאי להתרחק, במה אפשר להשתמש במקום ואיך מנקים נכון?",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21686167",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:29:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1380130",
+      "title": "בית המשפט לא קיבל את מלוא דרישות המשטרה: רפי סער ורעייתו שוחררו בתנאים מגבילים",
+      "summary": "בית המשפט הורה לשחרר את מיטל סער למעצר בית מלא עד 1 בנובמבר. המשטרה ביקשה 14 ימים ותנאים מחמירים בשל חשש לשיבוש, אך ההגנה טענה כי הדרישות מופרזות",
+      "link": "https://www.maariv.co.il/news/law/article-1380130",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T11:27:02.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380130",
       "title": "למרות דרישת המשטרה: מיטל סער תשוחרר ל-11 ימי מעצר בית",
       "summary": "בית המשפט הורה לשחרר את מיטל סער למעצר בית מלא עד 1 בנובמבר. המשטרה ביקשה 14 ימים ותנאים מחמירים בשל חשש לשיבוש, אך ההגנה טענה כי הדרישות מופרזות",
@@ -50,6 +86,24 @@
       "pubDate": "2026-10-22T11:25:05.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21686101",
+      "title": "הגיע לתקן מכונת כביסה - ונאשם באונס בעלת הדירה",
+      "summary": "לפי כתב האישום, תושב יישוב סמוך לירושלים הגיע לדירתה של אישה שהכיר כדי לתקן מכונת כביסה • במהלך הביקור, כך נטען, אנס אותה וביצע בה מעשים מגונים למרות בקשותיה שיפסיק • הפרקליטות ביקשה את מעצרו עד תום ההליכים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21686101",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:23:10.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958498",
+      "title": "\"פעם הם התחננו לסלפי איתי, היום הפכו אותי לבוגד\"",
+      "summary": "בריאיון ל\"מונית הכנסת\" של וואלה סיפר חדאד כי מפלגת השלטון הציעו לו מקום עשירי ותפקיד בממשלה. הוא טען כי מעולם לא שוחח עם נתניהו - ושיתף כי תקף שרים שבעבר ביקשו להצטלם איתו, וכעת יוצאים נגדו",
+      "link": "https://www.walla.co.il/news/politics/383958498",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T11:21:11.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byrm4ldhfl",
       "title": "איזנקוט: רוטציה? מתנגד עקרונית, אליסף פרץ? לעולם לא יהיה עריק | הספינר",
       "summary": "גדי איזנקוט הגיע לשאלון הספינר של ynet. הוא אומר מה הוא חושב על רוטציה בראשות הממשלה, משתף מה דעתו על החשש בגוש השינוי מעריקים שיעברו לנתניהו, מה התחביב שלו, מה הסוד שלא יודעים עליו, ומדבר על החלום האישי שלו - וגם על הגעגוע לבנו גל ז\"ל",
@@ -57,6 +111,33 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T11:19:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21686023",
+      "title": "מאסק: \"בישראל הבינו שאסור להכניס למדינה את מי ששונא אותה\"",
+      "summary": "האיש העשיר בעולם שיבח את ישראל בתוכנית ראיונות נחשבת והביע הערכה למדיניות ההגירה ושמירת הגבולות הישראלית • \"שכנותיה של ישראל ניסו להשמיד אותה כמה פעמים\", אמר המיליארדר",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21686023",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:18:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21685327",
+      "title": "דווקא במעוז של קפלן, לא בטוחים שגוש השינוי באמת ישנה משהו",
+      "summary": "בביקור ברמת השרון נחשפים גם התקוות וגם הספקות של רבים ממפגיני קפלן • הם מודים שמה שמאחד את המחנה הוא בעיקר תפיסת \"רק לא ביבי\" • מבינים שהשמאל של פעם גוסס • ועדיין, נערכים אך ורק לתרחיש של ניצחון",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21685327",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:17:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21685505",
+      "title": "נחשף: פרטים חדשים על סדרת הדוקו בנטפליקס על מת'יו פרי",
+      "summary": "אחותו של כוכב \"חברים\" המנוח מדברת לראשונה בסדרה התיעודית החדשה, לצד בנות זוג לשעבר ומכרים ממסע הגמילה • הבמאית מרי רוברטסון חושפת כיצד הסכמת המשפחה סללה את הדרך להפקה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21685505",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:15:13.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/elon-musk-israel-security-support-statement",
@@ -147,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T11:04:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21685691",
+      "title": "תמיכת טראמפ עזרה לנתניהו? הסוקר הכי מדויק יודע את התשובה",
+      "summary": "דודי חסיד, שמתגאה במדגם האמין בישראל, מספר בראיון כי \"העם הפך לימני יותר\" • לא בונה על הכרעה שגרתית: \"לא רואה מצב שבו אחד הגושים יגיע ל־61 מנדטים\" • ומספר על הדקות מורטות העצבים שלפני תוצאות האמת: \"עדיף לשמור ממני מרחק\"",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21685691",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T11:01:45.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21685691",
@@ -408,6 +498,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T10:15:07.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958491",
+      "title": "איראן נערכת למלחמה א-סימטרית: \"מבינים רק כוח\"",
+      "summary": "טהראן דיווחה על תקיפות ופיצוצי מוקשים במפרץ, אך לדיווחים טרם התקבל אימות עצמאי. ברקע החשש מחידוש המלחמה, ארה”ב מתגברת כוחות ואיראן מזהירה מפגיעה גם בכבלי תקשורת ובמרכזי נתונים",
+      "link": "https://www.walla.co.il/news/world/383958491",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T10:08:10.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383958491",
@@ -1317,6 +1416,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T08:35:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21683412",
+      "title": "\"אחרי 4 משמרות נגמרה הקריירה שלי במועדון חשפנות במוסקבה\"",
+      "summary": "אליזבת נסעה ללמוד ברוסיה והתחילה לעבוד כמארחת במועדון חשפנות יוקרתי במוסקבה, שם נחשפה לסכומים דמיוניים • אלא שאחרי שלוש משמרות, היא החלה להבין לאן הדברים עלולים להתגלגל • לאחר שחזרה לארץ היא חושפת את המקרים החריגים, המצלמות בשירותים והסכומים העצומים שהתגלגלו במקום",
+      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21683412",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T08:35:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21683412",
@@ -2361,6 +2469,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T06:35:22.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3873304",
+      "title": "מכה בשווי 25,000,000,000 דולר: צוקרברג ומטא מסתבכים",
+      "summary": "בית משפט במדינת ניו מקסיקו קבע כי החברה הטעתה צרכנים לגבי פרטיות המידע שלהם. מטא הודיעה כי שבכוונתה לערער על הצעד, שלטענתה \"הופך את עשיית העסקים במדינה לבלתי אפשרית\"",
+      "link": "https://finance.walla.co.il/item/3873304",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T06:35:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21683019",
@@ -36822,42 +36939,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-17T11:57:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21643684",
-      "title": "לא לניצחון הוא מכוון: תוכנית ההישרדות האמיתית של נתניהו",
-      "summary": "עשרה ימים לבחירות, המטרה של ראש הממשלה ברורה - היעדר הכרעה ברורה • כך יוכל להשיג ממשלת מעבר אינסופית או חנינה • אל מול הצל שמטיל איזנקוט על נתניהו, פוליטיקת השנאה וההפחדה נמצאת בשיאה • כדאי לגוש השינוי להתמקד בעידוד ההצבעה, כדי שכן תהיה הכרעה ברורה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21643684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T11:45:10.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383957740",
-      "title": "מח\"ט האש באוגדה 99: \"לא ניתן להכריע את חמאס באש מנגד\"",
-      "summary": "עם סיום סבב המילואים החמישי של החטיבה מה-7 באוקטובר, התפנה אל\"מ מ' לראיון מיוחד לוואלה. על הלקחים מ-7 באוקטובר, פעילות החטיבה, וטענות הסרט 'נז\"א'. \"הטענות, כפי שהן לפחות מדווחות, הן בדיה\"",
-      "link": "https://www.walla.co.il/news/military/383957740",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T11:38:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383957740",
-      "title": "״לא ניתן להכריע את חמאס באש מנגד, התמרון מביא הישגים״",
-      "summary": "עם סיום סבב המילואים החמישי של החטיבה מה-7 באוקטובר, התפנה אל\"מ מ' לראיון מיוחד לוואלה. על הלקחים מ-7 באוקטובר, פעילות החטיבה, וטענות הסרט 'נז\"א'. \"הטענות, כפי שהן לפחות מדווחות, הן בדיה\"",
-      "link": "https://www.walla.co.il/news/military/383957740",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T11:38:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21643674",
-      "title": "קטאר צפויה להרחיב את מעורבותה בלבנון - ולספק חשמל וגז",
-      "summary": "שתי המדינות יכינו מזכר הבנות לפרויקט שיספק חשמל דרך סוריה, ויהיה כפוף לאישור הממשלה • החשמל יסופק על ידי חברת UCC הקטארית, לצד גז טבעי שיועבר באמצעות צינור ששוקם במענק מיוחד",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21643674",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T11:37:09.000Z"
     }
   ]
 }
