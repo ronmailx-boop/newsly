@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:45:44.542Z",
+  "updatedAt": "2026-10-22T16:01:11.418Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/armed-kidnapping-child-rahat",
+      "title": "חמושים חטפו ילד קטן ותקפו אותו קשות; חולץ מתוך מרפאה מקומית",
+      "summary": "אירוע אלימות חמור ועליית מדרגה בסכסוכים הפליליים בדרום: משטרת ישראל פתחה בחקירה מואצת בעקבות דיווח על חטיפתו של קטין על ידי אלמונים חמושים. הנער, שהותקף באלימות קשה, אותר בהמשך כשהוא נזקק לטיפול רפואי במרפאה מקומית (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/armed-kidnapping-child-rahat",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T15:58:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1380233",
+      "title": "המצע נעלם, הטיקטוק השתלט: איתן כבל מסמן מה יכריע את הבחירות",
+      "summary": "חבר הכנסת לשעבר איתן כבל ויועץ התקשורת איציק אלרוב שוחחו ב-103fm על היעלמות המצעים ממערכת הבחירות, על מקומן הגובר של הרשתות החברתיות ועל הנושאים שעשויים להשפיע על המצביעים המתלבטים",
+      "link": "https://www.maariv.co.il/news/politics/article-1380233",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T15:57:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-yeshiva-students-election-appeal",
+      "title": "טור מטלטל של בחור ישיבה לאחיו המודרני שמתבלט למי להצביע | \"לא! למפלגה\"",
+      "summary": "בחור ישיבה מתאר את השנים הקשות שחווה בצל הגזירות הקשות שניחתו בקצב מסחרר על בחורי הישיבות בשנים האחרונות | לאחר כל התיאורים הקשים, הוא פונה לאחיו - החרדים המודרנים ובפיו תחינה אחת - \"תגיד לא למפלגה וכן לגדולי הדור\" | טור מטלטל וחשוב במיוחד (דעות)",
+      "link": "https://www.kikar.co.il/haredim-news/haredi-yeshiva-students-election-appeal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T15:53:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1380228",
+      "title": "נהג אוטובוס מחורה נעצר בחשד שדרס למוות ילד בן שמונה - ונמלט מהזירה",
+      "summary": "ילד בן 8 נפצע אנושות בתאונה בכביש 316 ופונה מבית מרפאה בחורה לסורוקה, שם נקבע מותו. המשטרה פתחה בסריקות ואיתרה נהג אוטובוס בשנות ה-50 לחייו, החשוד שפגע בילד ונמלט מהזירה - הוא יובא לדיון",
+      "link": "https://www.maariv.co.il/news/law/article-1380228",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T15:53:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-fake-attacks-oil-prices-midterm-electio",
+      "title": "טראמפ במתקפה על איראן: \"מקווה שעולם יבין כמה הם מרושעים\"",
+      "summary": "הנשיא האמריקני טוען כי המשטר מנסה להשפיע על בחירות האמצע • \"75 אלף מפגינים נהרגו בפחות משבעה חודשים\" | התקיפה הבאה באיראן צפויה לאחר ההצבעה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-iran-fake-attacks-oil-prices-midterm-electio",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T15:47:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/yahadut-hatorah-mass-rally-bnei-brak",
       "title": "גדולי ישראל ישתתפו בעצרת הענק בבני ברק | ההיערכות, המיקום והקריאה החריגה",
       "summary": "גדולי ישראל קוראים לכל החרדים להשתתף במעמד הגורלי • \"אין אפשרות לעמוד מנגד, חובה להתייצב למען התורה\" | העצרת ביום ראשון בשעה 19:15 (חרדים)",
@@ -39,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T15:45:18.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1nmsudhfe",
+      "title": "בן 8 נהרג בפגע וברח בנגב, בת 12 נפצעה אנושות בעת שרכבה על אופניה",
+      "summary": "הילד הובא למרפאה בחורה ומותו נקבע בסורוקה, לאחר שלפי החשד נפגע מאוטובוס בכביש 316. הנהג הפוגע נעצר כמה שעות אחר כך. פעולות החייאה בילדה שנפצעה ביצהר",
+      "link": "https://www.ynet.co.il/news/article/s1nmsudhfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T15:42:54.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/last-poll-bennett-surge-lieberman-drop-netanyahu-b",
@@ -150,6 +204,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1380220",
+      "title": "ישראלי שמע ירי והשיב באש: אירוע חריג סמוך לחומש",
+      "summary": "אזרח ישראלי שנסע מחומש לסאנור דיווח כי מחבל ירה לעברו, וכי השיב באש. אלא שמתחקור ראשוני של צה\"ל עולה כי מקור הירי לא היה פיגוע. כוחות צבא הוזעקו לאזור ומבצעים סריקות אחר חמושים",
+      "link": "https://www.maariv.co.il/news/military/article-1380220",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T15:18:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1380220",
       "title": "אזרח ישראלי דיווח שמחבל ירה לעברו - בצה\"ל מציגים גרסה אחרת",
       "summary": "אזרח ישראלי שנסע מחומש לסאנור דיווח כי מחבל ירה לעברו, וכי השיב באש. אלא שמתחקור ראשוני של צה\"ל עולה כי מקור הירי לא היה פיגוע. כוחות צבא הוזעקו לאזור ומבצעים סריקות אחר חמושים",
       "link": "https://www.maariv.co.il/news/military/article-1380220",
@@ -174,6 +237,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T15:12:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1380215",
+      "title": "איראן מאיימת על הבחירות - ובישראל כבר יש תוכנית",
+      "summary": "הבחירות צפויות להתקיים כסדרן בשבוע הבא, אך בצל המתיחות הגוברת מול איראן, ועדת הבחירות המרכזית נערכת לכל תרחיש אפשרי - מאזעקות בזמן ההצבעה ועד ניסיונות התערבות זרה ושיבוש ספירת הקולות",
+      "link": "https://www.maariv.co.il/news/politics/article-1380215",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T15:10:15.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1380215",
@@ -37749,60 +37821,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-17T16:02:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/jewish-settlers-attack-diplomats-taybeh-west-bank",
-      "title": "תקרית דיפלומטית חמורה: פורעים יהודים תקפו דיפלומטים מצרפת ובלגיה ביו\"ש",
-      "summary": "קבוצת פורעים רעולי פנים תקפה משלחת דיפלומטית במסיק זיתים בכפר טייבה • ראש עיר צרפתי נדחף ורכב קונסוליה ניזוק | \"אלימות שאסור לסבול\" (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/jewish-settlers-attack-diplomats-taybeh-west-bank",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-17T16:01:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21644569",
-      "title": "הפועל תל אביב רשמה את אחד הניצחונות הגדולים של קבוצה ישראלית באירופה",
-      "summary": "ה-81:91 על פנאתינייקוס הביא סימן של שינוי עבור החבורה של דימיטריס איטודיס, שכבר לא נרתעת משמות גדולים והוכיחה כי היא יכולה לנצח גם במגרשים הקשים ביותר • המאמן היווני גבר על ז'ליקו אוברדוביץ' בזכות ניהול משחק מבריק ותצוגת אימון מהגבוהות ביותר",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21644569",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T16:00:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21644853",
-      "title": "\"הוא הכה אותי בגרזן\": קברניט פליי דובאי מדבר לראשונה",
-      "summary": "כשראשו וידו חבושים, קברניט טיסת פליי דובאי חושף את רגעי האימה שבהם הותקף בגרזן על ידי עמיתו לתא, לפני שהנוסעים הישראלים פרצו פנימה • \"הרגשתי את חרטום המטוס יורד בתלילות מטה\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21644853",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T15:55:47.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/opinions/383957668",
-      "title": "הקרב על המתלבטים, המאבק על הכנסת - והשאלות הקשות למנדלבליט",
-      "summary": "שבוע וחצי לבחירות, מאות אלפי מתלבטים עשויים להכריע את גורל הגושים. בליכוד נערכים גם לתרחיש של תיקו, בעוד עדות מנדלבליט וההתרעות של בכירי מערכת הביטחון מציתות מחדש את המאבק על האחריות ל-7 באוקטובר",
-      "link": "https://www.walla.co.il/news/opinions/383957668",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-17T15:55:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-reveals-israel-saudi-cooperation-houthis",
-      "title": "טראמפ: ישראל מסייעת לסעודיה במלחמה נגד החות'ים | כינון יחסים עם ישראל - חזר לשולחן המו\"מ",
-      "summary": "הנשיא האמריקני אישר כי ישראל מעניקה סיוע פעיל לריאד במערכה מול המורדים • הסעודים שמחים לקבל את התמיכה הישראלית והאמריקנית | כאשר נשאל הנשיא האמריקני לגבי 'הסכמי אברהם'- בין ישראל לסעודיה, הוא השיב כי המשא ומתן חזר כעת לשולחן; \"ישראל סייעה הרבה לסעודיה\", אמר (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-reveals-israel-saudi-cooperation-houthis",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-17T15:52:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21644932",
-      "title": "\"בזה תם הסיפור\": המהלך של ליברמן ליום שאחרי הבחירות",
-      "summary": "יו\"ר ישראל ביתנו הצהיר כי יפעל להחלפת אמיר אוחנה מיד עם השבעת הכנסת ה־26, ולאחר מכן להעברת \"חוק הנאשם\" בשלוש קריאות • הדברים מגיעים יום לאחר שהאשים את איזנקוט כי הוא חותר להקמת ממשלה עם נתניהו",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21644932",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T15:51:44.000Z"
     }
   ]
 }
