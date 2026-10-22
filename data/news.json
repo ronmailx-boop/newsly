@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:30:52.786Z",
+  "updatedAt": "2026-10-22T22:45:42.428Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88853",
+      "title": "חמשה נפצעו קל בתאונה בין אוטובוס לרכב בפתח תקווה",
+      "summary": "בתאונת דרכים בין אוטובוס לרכב פרטי ברחוב שלמה שלמצר בפתח תקווה נפצעו חמשה בני אדם בגילאי 20-31 באורח קל. צוותי איחוד הצלה העניקו סיוע רפואי ראשוני בזירה, ואחד מהנפגעים פונה באמבולנס לבית החולים להמשך טיפול.",
+      "link": "https://www.kikar.co.il/scoop-news/88853",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T22:42:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88852",
+      "title": "תאונה באלעד: ארבעה נפצעו קל בהתנגשות בין שני רכבים",
+      "summary": "ארבעה בני אדם נפצעו באורח קל בתאונת דרכים בין שני כלי רכב ברחוב הריף באלעד. צוותי איחוד הצלה העניקו טיפול רפואי לנפגעים בזירה.",
+      "link": "https://www.kikar.co.il/scoop-news/88852",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-22T22:42:23.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/s1q11rwo3fl",
       "title": "בקבוק נזרק לעבר שיירת ראש הממשלה סמוך לשוק מחנה יהודה | תיעוד",
       "summary": "שיירת רה\"מ עזבה את המקום לאחר ביקור קצר שערך נתניהו במסגרת קמפיין הבחירות. אין נפגעים באירוע. לא נמסר על עצורים",
@@ -39,6 +57,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T22:17:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21691177",
+      "title": "אבי שושן ב\"פטריוטים\": \"אצביע לוינטר, רה\"מ מנסה לחסל איש ימין\"",
+      "summary": "חבר הפאנל בתוכנית הפטריוטים בערוץ 14 הודיע על תמיכה במפלגתו של עופר וינטר • שושן מתח ביקורת חריפה על הקמפיין שנוהל נגד וינטר וטען כי מנסים לעשות לו דה-לגיטימציה • למה הוא חושב שרשימתו של וינטר עדיפה על המפלגות הגדולות",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21691177",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T22:12:03.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21691177",
@@ -37992,15 +38019,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-17T22:53:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21646881",
-      "title": "לקראת הפסגה: אלו הדרישות איתן מתכוונת להגיע ממשלת לבנון",
-      "summary": "נשיאות לבנון הודיעה כי משלחת צבאית מטעמה תדרוש במפגש המשולש בארה\"ב לבלום את ההסלמה של ישראל • המהלך מגיע על רקע ניסיונות ממשל טראמפ לשמור על ערוץ פתוח, בעוד שישראל מתעקשת על פירוק חיזבאללה ויציאה מדרום המדינה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21646881",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T22:44:52.000Z"
     }
   ]
 }
