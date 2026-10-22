@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:00:56.744Z",
+  "updatedAt": "2026-10-22T04:15:50.569Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21678319",
+      "title": "אחת ולתמיד: איזו קטנייה בריאה יותר - עדשים או חומוס?",
+      "summary": "שתיהן עשירות בחלבון ובסיבים תזונתיים, אבל איזו קטנייה מספקת יותר? • בדקנו מה מציעות הקטניות מבחינת ברזל, מגנזיום וקלוריות, ואילו יתרונות יש לסוגי השעועית השונים • וגם: איך מפחיתים את כמות המלח בקטניות משומרות?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21678319",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T04:05:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21676603",
+      "title": "אחד מרוקאי, אחד צרפתי: שני מרקים שאי אפשר לעמוד בפניהם",
+      "summary": "הימים מתקצרים, השמש נעלמת מוקדם ועונת המרקים חוזרת • הפעם עם שני מתכונים אהובים: מרק לחשו מרוקאי עם סולת, שום וכוסברה, שזכה לכינוי \"האנטיביוטיקה של הטבע\", ומרק בצל צרפתי עשיר עם קרוטון וגבינה מוקרמת • בדיוק מה שצריך כשהערב מגיע מוקדם מדי",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21676603",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T04:02:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21682409",
+      "title": "CRINGE: אקסית מהגיהינום (פרק 9)",
+      "summary": "בפרק התשיעי של CRINGE, שני, האקסית של דודו, חוזרת כדי לסגור איתו חשבון ולהזכיר לו בדיוק למה הקשר ביניהם נגמר. עם דודו פארוק ופרידה עוזיאל",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21682409",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T04:00:52.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/tnaiol",
       "title": "ישראל וארה\"ב גיבשו תוכנית תקיפה באיראן | היעדים: ממתקני הגרעין ועד הטילים",
@@ -75,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T03:37:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21682384",
+      "title": "עם 20 אלף שוטרים ביום הבחירות: המשטרה נערכת ל\"תרחיש הקפיטול\"",
+      "summary": "רמ\"ח המבצעים במשטרה, נצ\"מ אלעד קליין, בראיון ל\"ישראל היום\" שישה ימים לפני הבחירות: אין מידע מודיעיני קונקרטי, אך ההיערכות כוללת גם תרחיש של פריצה למשכן • מעל 20 אלף שוטרים ומתנדבים ייפרסו ל־24 שעות, כוחות עתודה ירוכזו משעות הערב וחמ\"ל ייעודי יפעל נגד פייק ניוז • \"אצלנו זה לא גבעת הקפיטול, זה כנסת ישראל\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21682384",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T03:29:47.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21682384",
@@ -412,7 +448,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/world/383958422",
       "title": "ארה”ב וישראל גיבשו תוכניות לתקיפה באיראן לאחר בחירות האמצע",
-      "summary": "לפי הניו יורק טיימס, שתי המדינות גיבשו תוכנית למבצע בן כשלושה ימים נגד מתקני גרעין, תשתיות אנרגיה ומערכי טילים. טראמפ טרם אישר את התקיפה, והמגעים עם טהרן נמשכים",
+      "summary": "לפי הניו יורק טיימס, שתי המדינות תכננו תוכנית למבצע בן 3 ימים נגד מתקני גרעין, תשתיות אנרגיה ומערכי טילים. אולם, טראמפ טרם אישר את התקיפה",
       "link": "https://www.walla.co.il/news/world/383958422",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -615,6 +651,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-21T21:10:15.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383958342",
+      "title": "תעלומת הענן הענק שמופיע - ונעלם במאדים בתוך שעות",
+      "summary": "ליד הר געש אדיר על פני מאדים נוצר מדי בוקר, במשך כמה חודשים בשנה, ענן קרח שנמתח לאורך של עד 1,800 קילומטרים ונעלם לפני הצהריים. עכשיו מחקר חדש מצביע על תהליך שלא נצפה מעולם",
+      "link": "https://www.walla.co.il/news/donotmiss/383958342",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-21T21:04:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14934141",
