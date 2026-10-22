@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:15:52.620Z",
+  "updatedAt": "2026-10-22T20:31:04.101Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1lqwrw3zx",
+      "title": "ה\"מאני טיים\" כאן: הבליץ של נתניהו, המפה של בנט והערים שעליהן פוסח איזנקוט",
+      "summary": "כשראשי המפלגות יתעוררו, יישארו להם פחות מ-100 שעות לשכנע מתלבטים: לפי פולימרקט, לאיזנקוט סיכוי של 49% להקמת ממשלה - והוא דווקא לא מתמקד במעוזים הליברלים. נתניהו, עם 30%, ישים דגש על ערים ליכודיות, בניסיון להעיר את השטח. בנט, שטיפס ל-16%, בונה על הפרלמנטים. כך תיראה הישורת האחרונה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/s1lqwrw3zx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T20:23:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1380310",
+      "title": "הישראלים לא ממהרים לחזור להצביע? מנכ\"ל ארקיע חושף את מצב הטיסות",
+      "summary": "בעקבות הנחיות גורמי הביטחון, ארקיע תפסיק את טיסותיה למרוקו החל מנובמבר. מנכ\"ל החברה, עוז ברלוביץ', הסביר ב-103fm מה עומד מאחורי ההחלטה והשיב לשאלה האם הנוסעים זכאים לפיצוי",
+      "link": "https://www.maariv.co.il/news/israel/article-1380310",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T20:17:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1380307",
+      "title": "דרמה בקומה ה-11: לוחמי הימ\"מ גלשו מהגג וחילצו אישה שאיימה לקפוץ",
+      "summary": "אישה שהתבצרה בדירתה בקומה ה-11 ואיימה לקפוץ מחלון ביתה חולצה בשלום במבצע של הימ\"מ. לוחמי צוות \"הקופים\" גלשו בחבלים מגג הבניין, הגיעו לחלון והשתלטו על האירוע בתוך זמן קצר, ללא נפגעים",
+      "link": "https://www.maariv.co.il/news/israel/article-1380307",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-22T20:15:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21690748",
+      "title": "נתניהו דילג על טקס רבין - והעדיף את המגרש הביתי בשוק התקווה",
+      "summary": "31 שנים לרצח ראש הממשלה לשעבר, והאירוע הממלכתי בהר הרצל התקיים שוב ללא נוכחותו של יו\"ר הליכוד • במקביל, בעיצומו של מסע הבחירות, המתינו לו תומכים, שוטרים וצוותי תקשורת - כשברקע עימותים קולניים, קריאות נגד משפחות חטופים ומתיחות בין פעילים למתנגדים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21690748",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T20:07:43.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21690703",
       "title": "מחסור בכוח אדם, תיאום מול צה\"ל ושיקום הרצועה: החששות של שגריר ארה\"ב מתוכנית טראמפ",
       "summary": "לפי דיווח ב\"פוליטיקו\", מייק האקבי התריע בפני מחלקת המדינה כי המרכז שאמור לתאם בין ארה\"ב, ישראל והשותפות הבינלאומיות עלול להתקשות למלא את משימותיו • בין החששות: מחסור בכוח אדם, היעדר משאבים מספקים והקושי להעביר את האחריות מאנשי הפנטגון לאזרחים • האקבי הזהיר גם מפני פגיעה בתיאום עם צה\"ל ובמאמצי השיקום ברצועה",
@@ -43,7 +79,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21690487",
       "title": "מכבי תל אביב נגד ריאל מדריד: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
-      "summary": "פרק 7: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי המשחק של הצהובים בבלגרד ודיברו גם על הניצחון הגדול של הפועל ת\"א על בולוניה, עם הפנים לשבוע הבא",
+      "summary": "פרק 7: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי ההפסד של הצהובים בבלגרד ודיברו גם על הניצחון הגדול של הפועל ת\"א על בולוניה, עם הפנים לשבוע הבא",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21690487",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -570,6 +606,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T17:59:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
+      "title": "איבדה יתרון 15: מכבי תל אביב הובסה 113:99 מול ריאל מדריד",
+      "summary": "רבע וחצי טובים נמחקו לחלוטין ומחצית שנייה רעה הובילה למאזן 5:2 של הצהובים • הבלאנקוס ניפצו שיא מועדון עם 21 שלשות ביותר מ-50% וחיברו ניצחון שביעי בכל המסגרות • ג'ימי קלארק בלט עם 20 נקודות, בונזי קולסון הוסיף 19 שלא הספיקו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T17:55:01.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21689778",
@@ -37857,150 +37902,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-17T20:41:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21631735",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "הפער בין צורת החשיבה שלכם ושל אנשים אחרים גורם לקצרים ולבעיות בתקשורת במהלך היום. למרות שנדמה לכם שמפלים אתכם לרעה, ייתכן שגם אתם לא מתייחסים לסובבים אתכם במידה ראויה של כבוד",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21631735",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21632111",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "התחשבות בדעות של בני משפחה תהיה מחווה יפה ומוערכת אולם אינכם מוכנים עדיין לוותר לחלוטין על עצמאותכם. הבחירה האולטימטיבית תהיה בוודאי לחלק את היום בצורה שווה",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21632111",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21632112",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "תחשבו בצורה מציאותית ואל תתנו לפנטזיה לגרור אתכם למקומות של ציפיות ואכזבות. הקדישו את היום לעניינים פרטיים ורק זמן קצר וקצוב לפגישות שתוצאותיהן לא ברורות עדיין",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21632112",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21632116",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "אתם קצת מבולבלים בקטע הרומנטי. מפגש מרתק ואינטימי עם אדם שגורם לכם לאבד את הצפון, גורם לכם להיראות נפלא וגם להרגיש בהתאם",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21632116",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21631728",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "למרות שאתם עייפים מאוד מבחינה פיסית, אתם מצליחים לשמור על אופטימיות. התחושה שלכם שהמצב בו אתם נמצאים הוא זמני- נכונה",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21631728",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21631729",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "קשה לכם להחליט אם עובר עליכם יום טוב או רע. המון דברים מתרחשים בת אחת ולא קל לכם לעכל את השינויים",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21631729",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21625690",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "אתם נתקפים בחולשה והייתם מצפים לקבל קצת יותר עזרה מאנשים קרובים לכם. כדי להתאושש דרושה לכם מנה גדושה של תשומת לב ולא רק סיוע פיזי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21625690",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21625691",
-      "title": "מזל שור, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "אתם במצב רוח רגשני במיוחד, ונוטים להגיב בתוקפנות לא מוצדקת גם כלפי אלה שרוצים בטובתכם. זאת, למרות שברור לכם שכדי לעזור לעצמכם ולאחרים להתמודד עם מצבים קשים עליכם לנקוט בשיטה אחרת",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21625691",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21625706",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "יום מוזר במקצת. אתם נמשכים לאנשים ולמצבים שלא בדיוק מתאימים לכם, למרות שעל פני השטח זה נראה הכי אטרקטיבי שבעולם",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21625706",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21631247",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "נושא הזוגיות אינו יורד מה\"כותרות\". בעצם, הכל עניין של בחירה אישית וכדאי שתפנימו את העיקרון כדי להקל על עצמכם בעתיד",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21631247",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21631248",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "מה שהכי בא לכם זה להסתובב בשטח, לפגוש ולדבר עם אנשים, בלי שום התחייבויות ובלי להסתבך או להתחייב. כבר בתחילת השבוע יש סיכוי ש'ייפול לכם האסימון' ואתם תצאו לדרך",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21631248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21631253",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 18.10.2026",
-      "summary": "אם אינכם חשים במיטבכם, זה בגלל שנת הלילה שלא הייתה שקטה. ייתכן שבמהלך היום תחוו עייפות גדולה",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21631253",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:30:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tn2j72",
-      "title": "שגריר ארה\"ב בישראל נגד תקיפת העיתונאית ביו\"ש: \"מעשה טרור מתועב\"",
-      "summary": "שגריר ארה\"ב בישראל מייק האקבי הוציא הודעה חריפה נגד התקיפה שארעה נגד היידי לוין, צלמת עיתונות של ה\"וושינגטון פוסט\" | \"מעשה טרור מתועב שבוצע בידי פחדנים רעולי פנים\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tn2j72",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-17T20:27:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21646476",
-      "title": "לא השוואה - ייעוד: הזכות לשאת בנטל במבחן הקיומי שלנו",
-      "summary": "המחיר הקשה לא גרם לנו, ולו לרגע, לחשוב כי דם ילדינו סמוק מדמם של רבבות הלוחמים שממשיכים למסור את נפשם למען עם ישראל • אם נשכיל להבין את גודל השעה, יהפוך הוויכוח לענייני יותר",
-      "link": "https://www.israelhayom.co.il/news/local/article/21646476",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:27:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21646548",
-      "title": "כאוס בצרפת: בניין העירייה בלימוז' נשרף, חנויות לואי ויטון וספורה נבזזו | תיעוד",
-      "summary": "המחאה נגד יוקר המחיה גלשה למהומות אלימות ברחבי צרפת, עם הצתות, ביזה ועימותים קשים • בלימוז' נשרף בניין העירייה ההיסטורי, ובפריז ובמרסיי הותקפו מבני ציבור ונבזזו חנויות • מקרון: \"נעמוד כגוש אחד מול זורעי הכאוס\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21646548",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:23:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21646517",
-      "title": "הממשלה תעביר מאות מיליונים ממנהלת תקומה - ובעוטף זועמים: \"הרסני\"",
-      "summary": "הקיצוץ במשרדים החברתיים, בהיקף 2.6 מיליארד שקל, מבוצע לטובת רכש ביטחוני דחוף • בפורום \"הביתה\" דורשים להחריג את מנהלת תקומה ומזהירים מעיכוב בשיקום הקהילות, החינוך והחוסן הנפשי • \"הצרכים הביטחוניים קריטיים, אך ביטחון לאומי נמדד גם בחוסן בקו הראשון\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21646517",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-17T20:17:53.000Z"
     }
   ]
 }
