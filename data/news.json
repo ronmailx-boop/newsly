@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:45:49.526Z",
+  "updatedAt": "2026-10-23T14:01:11.223Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,10 +32,28 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/dayan-haamet/tnd4mo",
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88940",
+      "title": "צה\"ל יערוך תרגיל הגנה רב-זירתי בצפון ובמרכז ביום ראשון ושני",
+      "summary": "צה\"ל יקיים ביום ראשון ושני הקרוב (25-26 באוקטובר) תרגיל צבאי במרחב הצפון והמרכז בהשתתפות חיל האוויר ומספר אוגדות. במהלך התרגיל יתרגלו הכוחות תרחישי הגנה רב-זירתית, כולל מתקפת פתע וחדירה לשטח ישראל באוויר וביבשה. התרגיל נועד לשפר את מוכנות צה\"ל להגנה בגבולות ולמעבר להסלמה, ומיושמים בו לקחים מהמלחמה. צה\"ל מדגיש: אין חשש לאירוע בטחוני. במהלך התרגיל תורגש תנועה ערה של כוחות ביטחון וכלי טיס באזור.",
+      "link": "https://www.kikar.co.il/scoop-news/88940",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-23T13:55:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-drill-north-center-escalation-readiness",
+      "title": "מתקפת פתע וחדירה אווירית: תרגיל ענק של צה\"ל בצפון ובמרכז",
+      "summary": "ארבע אוגדות וחיל האוויר יתרגלו תרחישי חדירה ומתקפת פתע • האימון יתמקד בהגנה על יישובים ומעבר מהיר לחירום | התרגיל תוכנן מראש כחלק מגרף האימונים (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-drill-north-center-escalation-readiness",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-23T13:54:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/dayan-haamet/yehuda-cohen-chief-rabbinate-passing",
       "title": "טרגדיה; איש המעש, ר' יהודה כהן ז\"ל, נפטר לבית עולמו",
       "summary": "אבל כבד מנשוא: שעה קלה טרם כניסתו השבת, מגיעה הבשורה הקשה על פטירתו של איש החסד והמעש ר' יהודה כהן ז״ל, מנכ״ל הרבנות הראשית לשעבר | המנוח ז\"ל נפצע בתחילת השבוע באורח אנוש לאחר שנפגע מקיר שקרס, ולפני שעה קלה השיב נשמתו הזכה לבוראו עטור במעשי חסד | פרטים אודות מסע ההלוויה, נמשיך ונעדכן (דיין האמת)",
-      "link": "https://www.kikar.co.il/dayan-haamet/tnd4mo",
+      "link": "https://www.kikar.co.il/dayan-haamet/yehuda-cohen-chief-rabbinate-passing",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T13:45:07.000Z"
@@ -50,10 +68,10 @@
       "pubDate": "2026-10-23T13:37:46.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88936",
+      "id": "kikar:https://www.kikar.co.il/dayan-haamet/yehuda-cohen-chief-rabbinate-passing",
       "title": "אבל ברבנות הראשית: הלך לעולמו המנכ\"ל היוצא ר' יהודה כהן ז\"ל",
       "summary": "בשורה קשה לעולם הדת והעשייה הציבורית: הרבנות הראשית לישראל הודיעה בצער רב על פטירתו של ר' יהודה כהן ז\"ל, אשר כיהן כמנכ\"ל הרבנות הראשית וכיו\"ר מועצה דתית, והקדיש את חייו לחיזוק שירותי הדת ולביצור מעמד הרבנות",
-      "link": "https://www.kikar.co.il/scoop-news/88936",
+      "link": "https://www.kikar.co.il/dayan-haamet/yehuda-cohen-chief-rabbinate-passing",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T13:34:33.000Z"
@@ -231,6 +249,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1380478",
+      "title": "חמושים פתחו באש בכנסייה בירדן - שישה נהרגו, 28 נפצעו",
+      "summary": "במהלך טקס הלוויה במחוז כרכ שבדרום ירדן פתחו חמושים באש ונמלטו מהמקום. מינהל הביטחון בירדן מסר כי שישה בני אדם נהרגו ו-28 נפצעו; זהות היורים והמניע למעשה טרם התבררו",
+      "link": "https://www.maariv.co.il/news/world/article-1380478",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-23T12:54:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1380478",
       "title": "חמושים פתחו באש בכנסייה בירדן - לפחות שבעה נהרגו ועשרות פצועים",
       "summary": "במהלך טקס הלוויה במחוז כרכ שבדרום ירדן פתחו חמושים באש ונמלטו מהמקום. לפי הדיווחים הראשוניים, כעשרה בני אדם נפצעו; זהות היורים והמניע למעשה טרם התבררו",
       "link": "https://www.maariv.co.il/news/world/article-1380478",
@@ -330,6 +357,15 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjhbpad2me",
+      "title": "\"דקות של אש\": 7 נרצחים מירי לעבר כנסייה בטקס הלוויה בירדן | תיעודים קשים לצפייה",
+      "summary": "בדיווחים מהממלכה נמסר כי חמושים הגיעו ברכב לבית התפילה, ופתחו באש לעבר הנוכחים. לפחות 7 נרצחו, אחרים נפצעו. כוחות הביטחון הירדניים מנהלים מצוד אחר היורים",
+      "link": "https://www.ynet.co.il/news/article/hjhbpad2me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-23T12:25:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjhbpad2me",
       "title": "ירדן: 7 נרצחים מירי לעבר כנסייה במהלך טקס הלוויה",
       "summary": "בדיווחים מהממלכה נמסר כי שני חמושים הגיעו ברכב לבית התפילה, ופתחו באש לעבר הנוכחים. לפחות 7 נרצחו, אחרים נפצעו. כוחות הביטחון הירדניים מנהלים מצוד אחר היורים",
       "link": "https://www.ynet.co.il/news/article/hjhbpad2me",
@@ -376,7 +412,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ryko0punfg",
       "title": "הותר לפרסום: סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם נהרגו בפיגוע הירי ליד חברון",
-      "summary": "דובר צה\"ל עדכן כי השניים, מפקד ולוחם בגדוד ארי של פיקוד העורף, נהרגו מירי המחבלים בפיגוע הקטלני בצומת יהודה. ראש העיר הוד השרון ספד ליובל, אחיו של רון סיפר שהתעקש להיות לוחם: \"היה כוכב, אהוב על כולם\"",
+      "summary": "דובר צה\"ל עדכן כי השניים, מפקד ולוחם בגדוד ארי של פיקוד העורף, נהרגו מירי המחבלים בפיגוע הקטלני בצומת יהודה. הם ההרוגים הראשונים מהגדוד החדש שהוקם עקב העומס על הכוחות הלוחמים. ראש העיר הוד השרון ספד ליובל, אחיו של רון סיפר שהתעקש להיות לוחם: \"היה כוכב, אהוב על כולם\"",
       "link": "https://www.ynet.co.il/news/article/ryko0punfg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -2955,6 +2991,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T21:53:03.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873418",
+      "title": "אחת שיודעת: אשת הסוד של שרה נתניהו פותחת הכול",
+      "summary": "אחת שיודעת: אשת הסוד של שרה נתניהו פותחת הכול",
+      "link": "https://celebs.walla.co.il/item/3873418",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T21:13:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/donotmiss/383958228",
@@ -6924,6 +6969,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T10:39:06.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873097",
+      "title": "ניסה לחקות את בנט? הסוד המפתיע של ברדוגו",
+      "summary": "ניסה לחקות את בנט? הסוד המפתיע של ברדוגו",
+      "link": "https://celebs.walla.co.il/item/3873097",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T10:39:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21685582",
@@ -35751,123 +35805,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T14:02:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21651888",
-      "title": "הרצח בתל אביב פוענח: התחפש לשליח וולט והורשע ברצח",
-      "summary": "בית המשפט קבע כי חוסיין אטייב תכנן את המעשה מראש וניסה להעלים ראיות • על מסכת הפנים נמצאו שרידי דנ\"א התואמים את שלו, והמצלמות תיעדו את מסלולו של הרוצח •",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21651888",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:01:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21652065",
-      "title": "\"כדי לקדם דברים בעירייה היה צריך לתת לה כסף\": החשדות שמטלטלים את כפר סבא",
-      "summary": "במשטרה חושדים כי מיטל סער, רעיית ראש העיר, קידמה אינטרסים עסקיים תמורת כספי שוחד • גורם בעירייה טוען: \"היא הייתה הדמות הדומיננטית, ידה הייתה בכל\" • עורכת דינה: \"יש להמתין להתקדמות החקירה לצורך בירור האמת\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21652065",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:00:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/filber-election-prediction-right-wing-63-64-mandat",
-      "title": "פילבר מתייחס לסקרים לקראת הבחירות: כך זה בסוף יגמר לגוש הימין - וזו הסיבה",
-      "summary": "האנליסט הפוליטי מסר בראיון כי שתי מפלגות שורפות מנדטים לשני הצדדים • טען שאחוזי ההצבעה אצל החרדים והערבים משפיעים על התוצאה | \"המשקיפים של השמאל יפגשו את מצביעי הליכוד בקלפיות\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/filber-election-prediction-right-wing-63-64-mandat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T14:00:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21651849",
-      "title": "גם מגעיל, גם מזוהם: הדרך הנכונה לניקוי ראש המקלחת",
-      "summary": "זרם המים במקלחת נחלש, משפריץ לכל הכיוונים וגורם לבזבוז משווע? נוזל פשוט וזול שנמצא בכל מטבח מחזיר לראש המקלחת ביצועים של מוצר חדש לגמרי - ללא צורך בהחלפה יקרה, ללא מאמץ ובלי להרוס את אטמי הגומי",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21651849",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:58:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/tn3vvx",
-      "title": "החשודה שפרצה לחנות טלפונים בעיר החרדית – והסתבכה בענק",
-      "summary": "שוטרי תחנת מודיעין עילית עצרו תושבת בית שמש בחשד למעורבות בשורת אירועי פריצה, ובהם לחנות טלפונים במודיעין עילית וכן למנזר בירושלים. בחיפוש שנערך על החשודה נתפס רכוש רב החשוד כגנוב, הכולל אלפי דולרים, שקלים רבים ותכשיטי זהב | כל הפרטים (בארץ)",
-      "link": "https://www.kikar.co.il/police/tn3vvx",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T13:55:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1378527",
-      "title": "ליברמן, תחשוב שוב: המשחקים שלך עלולים להציל את נתניהו | דן פרי",
-      "summary": "ליברמן ניצב בפני הכרעה שעשויה להגדיר את מורשתו: האם לאפשר החלפת שלטון גם בתמיכה ערבית מבחוץ, או להתעקש על קווים אדומים שעלולים, לטענת הכותב, להעניק לנתניהו חבל הצלה פוליטי נוסף",
-      "link": "https://www.maariv.co.il/news/opinions/article-1378527",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T13:55:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21652050",
-      "title": "אחרי עשור: שני גולדשטיין חוזרת לריאליטי",
-      "summary": "פרסום ראשון: אחרי שפרצה לחיינו ב\"האח הגדול\" לפני תשע שנים, גולדשטיין לוהקה לפרוייקט מסקרן בו תככב לצד בן זוגה הבריטי",
-      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21652050",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:53:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21651585",
-      "title": "החשיפה של עופר וינטר: \"אתה מקליט אותי?\"",
-      "summary": "יו\"ר מפלגת עמך ישראל חשף סיפור חריג מתקופתו בצבא: חייל ניסה להפיל אותו בטענה כי הורה לו להרוג - והחביא על גופו מכשירי הקלטה • וינטר עלה על המזימה - ושנתיים לאחר מכן הגיע מכתב מפתיע",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21651585",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:53:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88108",
-      "title": "שני פצועים בתאונה בין שלושה רכבים בכביש 90",
-      "summary": "נהג רכב כבן 32 נפצע באורח בינוני ונהגת בת 35 נפצעה קל בתאונת דרכים עם מעורבות שלושה כלי רכב בכביש 90 סמוך לצומת בית זרע. צוותי איחוד הצלה העניקו טיפול רפואי בזירה ושני הפצועים פונו לבית חולים.",
-      "link": "https://www.kikar.co.il/scoop-news/88108",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T13:53:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21651653",
-      "title": "עיריית הרצליה נגד רפי קדושים: \"השתלט על שטח ציבורי בכוחנות\"",
-      "summary": "העירייה החלה להקים חניון ליד ביתו של פעיל הליכוד, וטוענת כי הציב בשטח מחסן וקרוואן • העבריין המורשע דוחה את הטענות נגדו: \"לא ידעתי שלהחנות את הרכב עם עוד שכנים נקרא 'השתלטות'\"",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21651653",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:53:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21651968",
-      "title": "קרן פלס מתנצלת מעומק ליבה: ''סליחה''",
-      "summary": "קרן פלס שיתפה את העוקבים בסדרת סרטונים על הכלבה האהובה שלה, פפר, רגע לפני ורגע אחרי עיקור • מה היא קיוותה שלא ישתנה בעקבות הניתוח • והמבט ההמום שגרם לה לבקש סליחה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21651968",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:50:36.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383957929",
-      "title": "תושבת בריטניה נחקרה בגלל \"הזדהות יתר על המידה עם ישראל\"",
-      "summary": "שוטרים הגיעו לביתה של אם לשניים מבריטניה בעקבות דיווח אנונימי על \"הזדהות יתר על המידה עם ישראל\", ותשאלו אותה על קשריה למדינה. במשטרה הבהירו: \"תמיכה בישראל לא מעוררת חשד לטרור\"",
-      "link": "https://www.walla.co.il/news/world/383957929",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-18T13:49:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21651879",
-      "title": "סקר פלסטיני חדש: מעמד חמאס בשפל - התמיכה בטרור דווקא עולה",
-      "summary": "רק 19% מהפלסטינים תומכים בארגון הטרור, השיעור הנמוך ביותר מאז טבח 7 באוקטובר • ברצועת עזה נרשמה עלייה חדה בתמיכה במאבק המזוין, מ-21% ל-37% • גם פת\"ח רושמת שפל, בעוד רשימות עצמאיות מובילות בסקר לקראת הבחירות הפלסטיניות • קרוב לשני שלישים מהנשאלים סבורים כי אף צד לא צפוי לנצח במלחמה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21651879",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T13:48:57.000Z"
     }
   ]
 }
