@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:30:56.245Z",
+  "updatedAt": "2026-10-23T14:45:46.492Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-23T14:26:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21693763",
+      "title": "אחרי פרישת אח\"י: תלונה נגד נתניהו בחשד לשוחד בחירות",
+      "summary": "בעקבות פרישת מפלגת אח\"י מהמירוץ הגיש יאיא פינק מהדמוקרטים תלונה למשטרה בטענה להבטחת תפקיד סגן שר לרב אברג'ל תמורת הסרת המועמדות • פינק תקף: \"מכירת חיסול של הציבור המשרת\" • המהלך מגיע לאחר לחצים כבדים בימין והבטחות לקידום חוק הגיוס",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21693763",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T14:25:49.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88945",
@@ -3416,15 +3425,6 @@
       "pubDate": "2026-10-22T20:56:30.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21691036",
-      "title": "מזל בתולה, תחזית הורוסקופ שבועית, לשבוע של 23.10.2026 - 29.10.2026",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21691036",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T20:50:58.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21691037",
       "title": "מזל מאזניים, תחזית הורוסקופ שבועית, לשבוע של 23.10.2026 - 29.10.2026",
       "summary": "",
@@ -3474,6 +3474,15 @@
       "title": "מזל דגים, תחזית הורוסקופ שבועית, לשבוע של 23.10.2026 - 29.10.2026",
       "summary": "",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21691045",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-22T20:50:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21691036",
+      "title": "מזל בתולה, תחזית הורוסקופ שבועית, לשבוע של 23.10.2026 - 29.10.2026",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21691036",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T20:50:58.000Z"
@@ -35715,105 +35724,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-18T14:46:02.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjfkvlz3ge",
-      "title": "בן 6 שרכב על קורקינט נהרג מפגיעת אוטובוס במודיעין עילית",
-      "summary": "צוות מד\"א נאלץ לקבוע את מותו של הילד בזירה ברחוב אבני נזר: \"הפציעה הייתה קריטית\". המשטרה חוקרת",
-      "link": "https://www.ynet.co.il/news/article/rjfkvlz3ge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-18T14:41:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1378549",
-      "title": "הסכסוך מאחורי הסורגים והאיומים בכלא הסתיימו במעצר בית של הנאשם המרכזי",
-      "summary": "אחרי כתב האישום בפרשה שהתבססה על שיחות טלפון ואיומים מהכלא, ההגנה תקפה את זיהוי הקולות ואת פרשנות התביעה. בית המשפט הורה על מעצר בית לנאשם המרכזי בתנאים מגבילים",
-      "link": "https://www.maariv.co.il/news/law/article-1378549",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T14:41:29.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ry5lzuz2gg",
-      "title": "החומרים נאספו, הפרקליטות תכריע: הרב שמזוהה עם עוצמה יהודית ייחקר?",
-      "summary": "לאחר שהרב דוב ליאור קבע כי מסיק של יהודים במטעי פלסטינים הוא \"מעלה יתרה\", במשטרה ממתינים להחלטת הפרקליטות האם לפתוח בחקירה בגין חשד להסתה. ארגון \"קול רבני לזכויות אדם\" הגיש תלונה במשטרה נגד הרב: \"זה לא מה שאלוהים רוצה מאיתנו\"",
-      "link": "https://www.ynet.co.il/news/article/ry5lzuz2gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-18T14:40:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tn3xs4",
-      "title": "בגלל איראן? ההחלטה הדרמטית של הרמטכ\"ל בנוגע ליום הבחירות",
-      "summary": "הרמטכ\"ל החליט על מהלך דרמטי ביום הבחירות, ברקע הערכות מודיעיניות שהתקיימו בצה\"ל | בעוד איראן נערכת לסבב נוסף, קיים חשש גם מפיגועים מבית בניסיון לפגוע במערכת הבחירות (חדשות)",
-      "link": "https://www.kikar.co.il/news/tn3xs4",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T14:38:50.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1378548",
-      "title": "טרגדיה: ילד בן 6 נהרג מפגיעת אוטובוס במודיעין עילית, נפתחה חקירה",
-      "summary": "ילד בן 6 שרכב על קורקינט נפגע מאוטובוס במודיעין עילית, ומותו נקבע במקום. צוותי מד\"א: \"הוא היה מחוסר הכרה ללא דופק ונשימה, ביצענו פעולות החייאה אך הפציעה הייתה קריטית\". 345 נהרגו בתאונות ב-2026",
-      "link": "https://www.maariv.co.il/news/law/article-1378548",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T14:36:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21652578",
-      "title": "רשת ויקטורי עם צעד ראשון מסוגו - שלא היה בישראל",
-      "summary": "בעוד רוב מכשירי iPhone 18 Pro Max ביבוא המקביל מגיעים ללא מגירת SIM פיזית, הפתרון החדש מציע שילוב שעדיין קשה למצוא בשוק • כל הפרטים על המחיר, תנאי הרכישה וההגבלה על הכמות",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21652578",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:36:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21650886",
-      "title": "במקום רועי הובר: הישראלי הבכיר שיכול להגיע להפועל ירושלים",
-      "summary": "הרכז לא נספר תחת סשה אוברדוביץ' ופרידה תהיה הפתרון הטוב ביותר לשני הצדדים • היעד הבא שלו צריך להיות יחד עם יונתן אלון בהפועל העמק, בעוד שהאדומים מהבירה יקבלו את ניב משגב בתמורה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21650886",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:36:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21652820",
-      "title": "ילד בן 5 נדרס למוות על ידי אוטובוס במודיעין עילית",
-      "summary": "חובשים ופראמדיקים של מד\"א שהגיעו לרחוב אבני נזר מצאו את הילד ללא דופק ונשימה • הפציעה הוגדרה קריטית, ולמרות מאמצי ההחייאה נקבע מותו במקום",
-      "link": "https://www.israelhayom.co.il/news/local/article/21652820",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:36:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21652694",
-      "title": "ריטה: \"הלב שלי כמעט עומד להתפוצץ\"",
-      "summary": "השנים הארוכות של הגנה מחשיפה פומבית השתלמו, וכעת הזמרת האהובה מברכת על פריחתה המוזיקלית של בתה בפוסט פתוח ומרגש",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21652694",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:35:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21652565",
-      "title": "תפסיקו לשלם מחיר מלא: השיטה הפשוטה למציאת קודי קופון",
-      "summary": "מיליוני ישראלים משוכנעים שההנחות המוצגות באתרי השופינג הן גבול המחיר, וממשיכים להפסיד מאות שקלים בכל רכישהׁׁ • שימוש נכון במנוע החיפוש של טיקטוק חושף קודי קופון נסתרים שיורידו את המחיר בקופה תוך שניות",
-      "link": "https://www.israelhayom.co.il/tech/how-to/article/21652565",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:34:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21652585",
-      "title": "עם פטיש ומשחק מחשב: הקמפיין של וינטר למשרד הביטחון",
-      "summary": "מפלגת עמך ישראל מבקשת למתג את וינטר כשר הביטחון הבא ומשיקה את \"מכים בקונספציה\" • השחקנים נדרשים להביס איומים באמצעות הפטישים • הפסדתם? \"תיערכו לסבב נוסף\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21652585",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T14:33:13.000Z"
     }
   ]
 }
