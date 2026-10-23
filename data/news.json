@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:30:47.252Z",
+  "updatedAt": "2026-10-23T20:45:50.358Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21694606",
+      "title": "\"כיוונון מחדש\": שעון החורף חושף נקודת תורפה במשק החשמל",
+      "summary": "המעבר לשעון חורף מקדים את שקיעת השמש ומרחיב את הפער בין הביקוש לייצור סולארי • בכירה בחברת nGrid מזהירה מהזינוק בצריכה בערב ומהשלכות כניסת חוות שרתים של בינה מלאכותית לישראל • איך זה ישפיע על התעשייה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21694606",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T20:25:54.000Z"
+    },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383958645",
       "title": "למה הרעיון של נתניהו פחות מופרך ממה שהוא נשמע?",
@@ -34572,141 +34581,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-18T20:51:45.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/h1o8xqz2mg",
-      "title": "הפוליטיקאים מנסים להעיר את השטח: \"איך אנחנו לא לוקחים את זה בהליכה?\"",
-      "summary": "בן גביר איחר לעולים הצרפתים בשעתיים, איזנקוט שטח את תפיסת עולמו בפני קהל דתי, ובבניין בי-ם התכנסו 100 בני הגיל השלישי שתומכים בגולן: \"רק שיחשוב לפני שהוא מדבר\". במלון בחיפה חדאד ניסה לשכנע כ-50 איש ש\"עמך ישראל\" תעבור, ומירב כהן ביקשה להפיח תקווה ב-30 איש בשיחה שבכלל עסקה בחינוך. חמש מפלגות, חמישה אירועים, רגע לפני המאני טיים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/h1o8xqz2mg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-18T20:43:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88158",
-      "title": "קבוצת לופטהנזה מגיבים אחרי נחיתת החירום של המטוס בבולגריה",
-      "summary": "קבוצת לופטהנזה מגיבים אחרי שמטוס שהמריא מישראל לווינה נחת נחיתת חירום בבולגריה בשל התרעת שווא: אנו מאשרים כי התקבל איום הנוגע לטיסת אוסטריאן איירליינס OS82 מתל אביב לווינה, שבעקבותיו הוסטה הטיסה לנחיתה בסופיה, בולגריה. המטוס נחת בשלום בשעה 20:42 (שעון קיץ מרכז אירופה). המטוס, מסוג איירבוס A320, עובר כעת סריקות ביטחוניות. על סיפונו היו 51 נוסעים ושישה אנשי צוות. עם השלמת הסריקות ישובצו הנוסעים לטיסה חלופית בהקדם האפשרי. בטיחות הנוסעים ואנשי הצוות עומדת תמיד בראש סדר העדיפויות שלנו.",
-      "link": "https://www.kikar.co.il/scoop-news/88158",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T20:37:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21654941",
-      "title": "\"טיפה יותר מנשיקה\": מצאנו את השחקנית שאברי גלעד התאהב בה - על הסט",
-      "summary": "איש התקשורת הפתיע את שולחן \"המטבח המנצח VIP\" כשחשף רומן ישן בצילומים • הוא סירב לנקוב בשם הסרט, אבל הארכיון זוכר היטב את הסרט \"יהושע יהושע\" ואת השחקנית ששיחקה לצידו: \"הייתי מאוהב עד מעל הראש\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21654941",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:33:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21630606",
-      "title": "מזל קשת - הורוסקופ יומי: בשעות הערב תוכלו להכיר אנשים חדשים | תחזית אסטרולוגית",
-      "summary": "הניסיון לקבל בדיוק את מה שאתם רוצים, לא ממש מצליח. והעקשנות שלכם רק גורמת למצב להיות יותר גרוע • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21630606",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21630887",
-      "title": "מזל גדי - הורוסקופ יומי: יש חיים גם מעבר להתחייבויות | תחזית אסטרולוגית",
-      "summary": "תזכירו לעצמכם ש-'יש חיים' גם מעבר להתחייבויות. למשל, הקפדנות שלא מרשה לכם לצאת מהבית לפני שהכול מסודר טיפ טופ, מעיקה, גם עליכם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21630887",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21630888",
-      "title": "מזל דלי - הורוסקופ יומי: נסו לעשות הפרדה | תחזית אסטרולוגית",
-      "summary": "יש לכם יכולת קליטה מהירה וחשיבה חדה כמו תער, מה שמאפשר לכם להבין תוך זמן קצר מצבים שלאחרים היה לוקח הרבה יותר. יחד עם זאת, אין הדבר אומר שאתם תמיד צודקים בהכרח, למרות שאולי אתם חשים כך • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21630888",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21630889",
-      "title": "מזל דגים - הורוסקופ יומי: ותרו על מידת הגאווה למען ערך חשוב יותר | תחזית אסטרולוגית",
-      "summary": "שיחת נפש כנה ופתוחה המאפשרת לכם לחלק את הסודות הכמוסים שלכם עם מישהו אחר שלא שופט אתכם, מקלה מאוד על הרגשתכם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21630889",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21630371",
-      "title": "מזל אריה - הורוסקופ יומי: עליכם ללמוד לתקשר | תחזית אסטרולוגית",
-      "summary": "אתם רוצים לצאת ולהשתולל אבל משהו עוצר בעדכם. נסו להשתחרר ולתת לעצמכם את הרשות להגשים את המאווים הכי כמוסים • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21630371",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21630372",
-      "title": "מזל בתולה - הורוסקופ יומי: שיחה טובה תוריד מכם המון לחץ | תחזית אסטרולוגית",
-      "summary": "יום עמוס בו אתם מרגישים היטב את הלחץ המופעל עליכם מכל הכיוונים. אחד מבני הבית יאלץ להתגייס ולשחרר אתכם מביצוע חלק מן המטלות השונות • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21630372",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21630596",
-      "title": "מזל מאזניים - הורוסקופ יומי: כדאי לתת את דגש על כיוונים רוחניים | תחזית אסטרולוגית",
-      "summary": "היום לא מומלץ לקבל החלטות קריטיות וכן לא כדאי לנסוע למרחקים ארוכים ובכלל מומלץ להיזהר בדרכים, עקב מצב הכוכבים. הישארו בקרבת מקום לבית • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21630596",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21630601",
-      "title": "מזל עקרב - הורוסקופ יומי: עניין 'הפוזה' יצא מכלל פרופורציה | תחזית אסטרולוגית",
-      "summary": "מה דעתכם להקדיש קצת יותר תשומת לב לסגנון הלבוש שלכם? אולי לא שמתם לב לעניין אבל בזמן האחרון כל עניין 'הפוזה' יצא מכלל פרופורציה וגורם לאנשים משמעותיים בחייכם, להרים גבה • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21630601",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21630128",
-      "title": "מזל טלה - הורוסקופ יומי: היציבות שבקשר חשובה לכם | תחזית אסטרולוגית",
-      "summary": "אתם מחפשים רגע של שקט אך מתקשים למצוא. דרושה לכם מנוחה, בעיקר בגלל מתח שהצטבר אצלכם בתקופה האחרונה • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21630128",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21630131",
-      "title": "מזל שור - הורוסקופ יומי: תנסו להירגע | תחזית אסטרולוגית",
-      "summary": "קשה לכם כי אינכם מרשים לעצמכם לתת ביטוי לרגשות הפנימיים שמרטיטים בכם כל חלקה טובה. יתכנו התפרצויות קולניות ותוקפניות • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21630131",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21630136",
-      "title": "מזל תאומים - הורוסקופ יומי: נחוצה השקעה ביחסים | תחזית אסטרולוגית",
-      "summary": "בן הזוג שלכם נותן לכם רמזים שאתם לא מפרשים נכון. נחוצה השקעה ביחסים, שללא ספק עוברים ירידה משמעותית • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21630136",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21630370",
-      "title": "מזל סרטן - הורוסקופ יומי: מצבכם הכלכלי השתפר | תחזית אסטרולוגית",
-      "summary": "יום ללא שינויים מהותיים או אירועים דרמטיים. הכל רגוע מדי לטעמכם, אך אתם מודעים במידה מספקת כדי לא לקלקל את החלקים הטובים • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21630370",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T20:30:50.000Z"
     }
   ]
 }
