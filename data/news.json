@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:30:56.187Z",
+  "updatedAt": "2026-10-23T08:45:45.506Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380404",
+      "title": "הסוקר הבכיר: הכל פתוח - \"עובר או לא עובר זה ארבעה אנשים\"",
+      "summary": "ארבעה ימים לפני הבחירות, מנחם לזר חושף עד כמה שברירית מפת המנדטים, משווה את מצב העניינים הנוכחי לבחירות 2022 ומסביר כיצד מזהים נסקרים שלא אומרים אמת. ומה בעצם עשוי להכריע את הבחירות?",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380404",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-23T08:36:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syap5kpnfl",
+      "title": "לאחוז בדמיון כמו בחבל שנזרק כששוקעים בחול טובעני",
+      "summary": "על מה הבחירות האלה? על פני השטח, על האחריות על 7 באוקטובר ועל דמותה של ישראל. ובעומק, הן מאבק על היכולת לדמיין עתיד טוב יותר, דרמטית | הטור המלא - היום במוסף לשבת של \"ידיעות אחרונות\"",
+      "link": "https://www.ynet.co.il/news/article/syap5kpnfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-23T08:30:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88902",
       "title": "נעצרו 9 שוהים בלתי חוקיים באום אל פחם, בהם 5 תושבי עזה",
@@ -77,6 +95,15 @@
       "pubDate": "2026-10-23T08:28:17.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21692023",
+      "title": "הסוד מאחורי הקלעים של אברי וג'ודי: \"לא עושה את זה יותר\"",
+      "summary": "אברי גלעד סיפר שבמהלך צילומי \"המטבח המנצח VIP\" נתן לג'ודי ניר מוזס כמוסה, שאחריה הבחין בשינוי בהתנהגותה. ואז הגיעה תגובת הבמאי",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21692023",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T08:24:21.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/idf-chief-reveals-terrorists-major-attack-plan-jud",
       "title": "קרב יריות של 20 דקות: כך התנהל הפיגוע הקשה - ונמנע אסון גדול יותר | כתר על חברון וכפרים באזור",
       "summary": "שני מחבלים יצאו מחברון עם תחמושת רבה במטרה לבצע פיגוע משמעותי • כוחות צה\"ל עצרו אותם במחסום ארעי וחיסלו לאחר קרב יריות | \"ברכב נמצאה כמות רבה של תחמושת\" (צבא וביטחון)",
@@ -93,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-23T08:22:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21692091",
+      "title": "התחייה המופלאה של אקס מכבי תל אביב: \"אני ממש שמח בשבילו\"",
+      "summary": "ווסלי פטאצ'י כבר איבד את מקומו בהרכב אלקמאר, אבל קיבל הזדמנות מחודשת וכיכב בענק בליגה האירופית • כלי התקשורת בהולנד יצאו מגדרם, והמאמן שיבח: \"זו התגובה שלו אחרי תקופה שלא הצליח להבקיע\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21692091",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T08:16:48.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383958604",
@@ -282,6 +318,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T07:23:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hko811t00ngg",
+      "title": "שני פצועים אנוש בפיגוע ליד חברון. זמיר: \"נמצאה תחמושת רבה, נמנע פיגוע חמור\"",
+      "summary": "מיד לאחר פיגוע הירי שבו נפצעו 5 בני אדם, כינס הרמטכ\"ל הערכת מצב שבה נמסר כי המחבלים חוסלו על-ידי סמג\"ד ומ\"פ בגדוד ארי של פיקוד העורף, שהוקם רק השנה מתוך צורך בהגדלת הסד\"כ. חילופי האש נמשכו 20 דקות, ובמערכת הביטחון מעריכים שהמחבלים היו בדרכם לפיגוע משמעותי נגד אזרחים. לדברי הרמטכ\"ל, \"פעולתם המהירה של הלוחמים מנעה פגיעה נוספת באזרחים ובכוחות הביטחון\"",
+      "link": "https://www.ynet.co.il/news/article/hko811t00ngg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-23T07:15:43.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hko811t00ngg",
@@ -37002,114 +37047,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-18T08:47:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/crime-and-justice/barman-eye-injury-pepsi-explosion-compensation-court",
-      "title": "פיצוץ זכוכית בתוך הפנים: הברמן שאיבד ראייה יפוצה במיליונים",
-      "summary": "בית המשפט המחוזי בתל אביב חילץ פיצוי של כ-3.11 מיליון שקלים מחברת טמפו לטובת ברמן שאיבד את הראייה בעינו בעקבות התפוצצות בקבוק פפסי מקס. השופטת קבעה: המוצר פגום (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/crime-and-justice/barman-eye-injury-pepsi-explosion-compensation-court",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T08:45:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21648566",
-      "title": "תוכניות הענק בחולון ובהרצליה: אלפי בעלי קרקעות מתקרבים לרגע ההכרעה",
-      "summary": "בחולון ובהרצליה מקודמות תוכניות הכוללות כ-45 אלף דירות בסך הכל • הליכי האיחוד והחלוקה יקבעו לא רק כמה זכויות יקבל כל בעל, אלא גם עם מי יחלוק את המגרש • על רקע התקדמות התכנון, נמשכים המאמצים לצרף בעלי זכויות להתאגדויות",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21648566",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:45:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21647792",
-      "title": "\"אמרו לי שאני חייבת וזה גמר אותי\": בר כהן על החשש מטיפולי הפוריות",
-      "summary": "שיחה תמימה עם חברות הציפה אצל משפיענית הרשת את החרדות מהחזרה לטיפולי הפוריות • במונולוג חשוף היא משתפת בקשיים הפיזיים, ברצון להרחיב את המשפחה ובהחלטה לעשות את הצעד הראשון בחזרה ללופ הטיפולים תשעה חודשים אחרי שהביאה לעולם את בנה השני",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21647792",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:44:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21648270",
-      "title": "\"יצא משליטה\": רגעי האימה של אדוה דדון וידין גלמן",
-      "summary": "העיתונאית והשחקן הגיעו לסוף שבוע משפחתי בפריז ומצאו את עצמם בלב מחאות ומהומות אלימות שפרצו ברחבי העיר • העשן השחור, ההרס וההמונים שתיעדו ממש מחוץ למלון • והמשפט של גלמן על מה שקורה בכל מקום שאליו הוא מגיע",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21648270",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:44:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21648517",
-      "title": "חסמו את הקריה: מחאת הרבש\"צים נגד התנהלות שב\"כ",
-      "summary": "רבש\"צים מיהודה ושומרון הפגינו במחאה על מעצר איש ביטחון בחשד למעורבות באירוע אלימות • בסוף השבוע הועבר העצור מהצינוק למגרש הרוסים, וביום שלישי ייבחן שחרורו למעצר בית • \"אין לנו בעיה עם החקירה, אבל מתייחסים אליו כאילו הוא מחבל\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21648517",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:42:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21648454",
-      "title": "בלי להזיז: הדרך הנכונה לנקות את האבק מתחת למקרר",
-      "summary": "במקום לשבור את הגב בניסיון להזיז את המקרר או התנור, הטיפ הוויראלי הבא ידרוש מכם רק שני פריטים שיש בכל בית • מצאנו לכם את הפתרון המושלם לחיסול הפירורים והאבק שמצטברים באזורים הצרים ביותר במטבח",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21648454",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:39:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378385",
-      "title": "עימות חזיתי בשידור חי: \"תהיתי מה יגיד הפעם\"; \"אל תגידו שקפצתם\"",
-      "summary": "רונן צור ועו\"ד גיא בוסי התווכחו במהלך שיחה ב-103FM, בנושא האמירה מעוררת הסערה של ינון מגל נגד גדי איזנקוט. צור ניסה לעקוץ את בוסי, שלא ממש התרשם",
-      "link": "https://www.maariv.co.il/news/politics/article-1378385",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T08:36:12.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378385",
-      "title": "קונספירציה חדשה לקראת הבחירות: גדי איזנקוט הוא איש הקש של קואליציית נתניהו?",
-      "summary": "רונן צור ועו\"ד גיא בוסי התווכחו במהלך שיחה ב-103FM, בנושא האמירה מעוררת הסערה של ינון מגל נגד גדי איזנקוט. צור ניסה לעקוץ את בוסי, שלא ממש התרשם",
-      "link": "https://www.maariv.co.il/news/politics/article-1378385",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T08:36:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21648246",
-      "title": "תייר נעקץ במהלך חופשה במצרים: \"לא אדרוך פה יותר\"",
-      "summary": "תייר שפקד את עיר הנופש הורגאדה טוען כי נהג מונית דרש ממנו תשלום מופקע ואף איים בהזמנת משטרה • בעקבות התקרית המטרידה נאלצו הנוסעים לשלם ונשבעו שלא לחזור אל המדינה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21648246",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:35:51.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3872652",
-      "title": "הנחה נוספת: עלי אקספרס משיקה מועדון לקוחות",
-      "summary": "הנחה נוספת: עלי אקספרס משיקה מועדון לקוחות",
-      "link": "https://finance.walla.co.il/item/3872652",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-18T08:35:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383957861",
-      "title": "המועמד הדמוקרטי נשאל על האחים המוסלמים - ותקף חזרה",
-      "summary": "עבדול אל-סייד התעמת עם משתתף באסיפת בחירות שדרש ממנו לגנות את התנועה האסלאמיסטית. המועמד דחה את הטענות לקשרים עם הארגון: \"בגלל שאני מוסלמי, אתה מניח שיש לי נאמנות כפולה\"",
-      "link": "https://www.walla.co.il/news/world/383957861",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-18T08:35:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21648441",
-      "title": "רשת פתאל יוצאת בשיתוף פעולה עם רשת ה\"וולנס\" - זה מה שהאורחים יקבלו",
-      "summary": "אורחי מלונות קולקציית Fattal Limited Edition ומלונות NYX יקבלו במהלך שהותם פאצ'ים פונקציונליים של 'WHAT THAT PATCH', שהותאמו לאופי החופשה בכל מלון • הפאצ'ים מיוצרים בטכנולוגיה המאפשרת שחרור הדרגתי של רכיבים פעילים דרך העור, המיועדים לרוגע, איזון, התאוששות ופוקוס",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21648441",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T08:34:52.000Z"
     }
   ]
 }
