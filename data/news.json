@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:30:27.333Z",
+  "updatedAt": "2026-10-23T19:46:02.801Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383958546",
+      "title": "האיש שיכול להכריע את גורל המדינה: ההימור הגדול של עופר וינטר",
+      "summary": "הוא קיבל מהליכוד הצעה שבנט ושקד יכלו רק לחלום עליה. הקמפיינר שלו היה העד בחתונה של יונתן אוריך, כך שהדלתות היו פתוחות",
+      "link": "https://www.walla.co.il/news/opinions/383958546",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-23T19:31:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hybiewf3me",
+      "title": "ישראל בדרך לריסוק כלכלי? נתניהו שחרר הצהרה חריגה - עם משמעות מסוכנת מאוד",
+      "summary": "אחרי שרה\"מ אמר בריאיון כי הסיוע הביטחוני מארה\"ב עומד להסתיים - אמירה חריפה כשלעצמה - הוא הוסיף כי ישראל צריכה להיערך לכלכלה עוקפת סנקציות בנקאיות, מה ששקול להודעה שהאיראנים פיתחו ראש נפץ גרעיני. יש רק שתי אפשרויות: או שנתניהו צייר תרחיש ריאלי לסופה הקרוב של כלכלת ישראל - או שהוא אינו כשיר להוביל את המדינה",
+      "link": "https://www.ynet.co.il/news/article/hybiewf3me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-23T19:24:13.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1380561",
       "title": "תשדיר הבחירות עורר סערה: מהומה במפלגה הרפובליקנית בארה\"ב",
@@ -210,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T17:01:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21694034",
+      "title": "מסוק הוקפץ למתחם: מאמן באיירן חש ברע - והתמוטט באימון",
+      "summary": "וינסנט קומפני התמוטט במתחם של באיירן מינכן ופונה באמבולנס, כשגם מסוק הוזנק למקום • המאמן בן ה-40 סבל לאחרונה מזיהום נגיפי והתקשה לתפקד כבר במשחקים האחרונים • \"נלקח לבית חולים לאחר שהתמוטט\", צייץ פבריציו רומאנו בצל הדאגה סביב מצבו",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21694034",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T16:46:51.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21694034",
@@ -34743,33 +34770,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-18T19:46:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21654696",
-      "title": "תיעוד מצמרר: צלב ענק נפל על כומר במהלך מיסה והוביל למותו",
-      "summary": "פטריסיו סאנצ'ס ערך תפילה בכנסייה בעיר גואיאקיל שבאקוודור כשצלב כבד מעל המזבח התנתק מהקיר ופגע בראשו • המתפללים זעקו לעזרה בעוד השידור נמשך",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21654696",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T19:43:29.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/ry3yhqgnzx",
-      "title": "עסקים כרגיל בערוץ 14: פאנליסט כינה את איזנקוט \"קוף\", האחרים צחקו",
-      "summary": "יו\"ר ישר! הציב מחוץ לאולפן \"הפטריוטים\" מסך ענק עם הכיתוב \"ינון מגל, למי קראת קוף?\" - אך בפנים התבדח הפאנליסט יותם זמרי: \"טראמפ אמר 'choose Bibi, not the monkey'\". זו התגובה של איזנקוט",
-      "link": "https://www.ynet.co.il/news/elections2026/article/ry3yhqgnzx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-18T19:36:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21654560",
-      "title": "שיא קריירה לג'ון דיברתולומיאו: מכבי תל אביב הביסה בלי מאמץ",
-      "summary": "הקפטן צלף שבע שלשות והוביל את הצהובים לניצחון 89:116 מול עירוני קריית אתא • המשחק הפך לגארבג' טיים כבר ברבע השני, שיין האנטר ערך בכורה מצוינת עם דאבל דאבל • ביום חמישי: ריאל מדריד מגיעה לבלגרד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21654560",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T19:34:49.000Z"
     }
   ]
 }
