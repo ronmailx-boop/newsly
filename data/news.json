@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:15:50.880Z",
+  "updatedAt": "2026-10-23T04:30:50.019Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21691384",
+      "title": "כמעט חתם בעבר: מכבי תל אביב במו\"מ עם מחליף לאיפה לונדברג",
+      "summary": "הצהובים מנהלים מגעים עם נמניה נדוביץ' הוותיק שנחשב לשחקן חופשי • הגארד הסרבי שיחק תחת עודד קטש בפנאתינייקוס והצדדים היו בשיחות עוד בקיץ שעבר • בעונה האחרונה שיחק במונאקו וקלע 6.1 נקודות בממוצע למשחק",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21691384",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T04:15:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21670226",
+      "title": "במקום הכי לא צפוי מסתתר אחד הסביחים הטובים בארץ",
+      "summary": "בקיבוץ מורן הוא מגיש בשרים ובירה מקומית, ובמגרש חניה בכרמיאל הוא מכין סביח עם חציל יוצא דופן • מאיה דרין יצאה להכיר את שני המקומות של השף יהב יעקב, שהפך לאחד השמות המסקרנים בקולינריה הגלילית • בשניהם היא גילתה שהסוד לא נמצא בתחכום, אלא ביד שיודעת לבשל",
+      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21670226",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T04:06:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/bennett-petah-tikva-murder-parents-letter",
       "title": "בנט: \"זה לא מרפה ממני, המדינה הייתה צריכה לרעוד, כותב מדם ליבי\"",
@@ -105,7 +123,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380291",
-      "title": "לוין, כץ, קיש או כהן: אפילו עם 61 מנדטים - זו הצרה הבאה שמחכה לנתניהו",
+      "title": "ארבעה שרים בליכוד כבר סומנו כמחליפים: התרגיל של האופוזיציה והאיתות של החרדים",
       "summary": "ארבעה ימים לבחירות, בליכוד חוששים מאובדן מאות אלפי קולות למפלגות הקטנות ונערכים לתרחיש ללא רוב של 61 מנדטים. במקביל, החרדים מסמנים מחליפים לאמיר אוחנה, והמאבק על הקואליציה הבאה כבר החל",
       "link": "https://www.maariv.co.il/news/elections-2026/article-1380291",
       "source": "מעריב",
@@ -162,6 +180,15 @@
       "title": "הקיץ מסרב להיפרד: הטמפרטורות עולות - אבל המהפך בדרך | תחזית מזג האוויר",
       "summary": "סוף שבוע לוהט במיוחד: הטמפרטורות יטפסו עד 36 מעלות, עומסי החום יגברו ורוחות ערות ינשבו בצפון ולאורך החוף. בשבת תחל ירידה הדרגתית במידות החום, וביום ראשון כבר תורגש הקלה משמעותית",
       "link": "https://www.maariv.co.il/news/weather/article-1380222",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-23T03:00:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380291",
+      "title": "לוין, כץ, קיש או כהן: אפילו עם 61 מנדטים - זו הצרה הבאה שמחכה לנתניהו",
+      "summary": "ארבעה ימים לבחירות, בליכוד חוששים מאובדן מאות אלפי קולות למפלגות הקטנות ונערכים לתרחיש ללא רוב של 61 מנדטים. במקביל, החרדים מסמנים מחליפים לאמיר אוחנה, והמאבק על הקואליציה הבאה כבר החל",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380291",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-23T03:00:52.000Z"
@@ -37902,42 +37929,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-18T04:38:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1378271",
-      "title": "חשד חמור: מעסה בבית המלון ביצע מעשה מגונה בעיצומו של הטיפול",
-      "summary": "מעסה העובד בבית מלון בים המלח, נעצר בחשד כי בצע מעשה מגונה באישה, במהלך הטיפול",
-      "link": "https://www.maariv.co.il/news/law/article-1378271",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T04:29:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/flydubai-pilot-machhar-first-interview-cockpit-att",
-      "title": "\"כוח עליון היה מעורב\": הקברניט שהציל את המטוס חושף לראשונה מה קרה בתא הטייס",
-      "summary": "סמית מאצ'הר משחזר את רגעי האימה בקוקפיט • \"איבדתי את ההכרה, אבל לא ויתרתי\" | כל הציטוטים מהריאיון הראשון (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/flydubai-pilot-machhar-first-interview-cockpit-att",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T04:23:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21647070",
-      "title": "קבלת פנים חמה, סיום מביך: הערב של איזנקוט בעוספיה",
-      "summary": "כאלף משתתפים הגיעו לעצרת הבחירות של יו\"ר ישר! בעוספיה • איזנקוט התחייב לתקן את חוק הלאום ולהציג צעדים מדידים בתוך מאה ימים • הקהל הריע בהתלהבות, אך כשפתח את הבמה לשאלות, המשתתפים החלו להתפזר והשאירו אותו לבדו",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21647070",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T04:20:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21647095",
-      "title": "דיבר עם מכבי והפועל תל אביב הקיץ - וחתם באלופת ה-NBA",
-      "summary": "ג'יימס וייסמן, הבחירה מספר 2 מהדראפט של דני אבדיה, הצטרף באופן רשמי לניו יורק ניקס שבחרה בו להתחרות על עמדת הסנטר המחליף שלה • גבר במאבק על המקום האחרון בסגל על אלוף ה-NBA לשעבר, שהפך לשחקן חופשי",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21647095",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T04:17:04.000Z"
     }
   ]
 }
