@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:31:10.099Z",
+  "updatedAt": "2026-10-23T09:45:46.253Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380428",
+      "title": "\"למה אין חוק?\": הדרישה החריגה שהפתיעה בכנס בן גביר",
+      "summary": "בכנס הבחירות של בן גביר בקריית אתא נחשף הוויכוח שמעסיק את תומכיו: להצביע לנתניהו כדי שינצח, או לבן גביר כדי שלא יפנה שמאלה? בין ההרעות לשר עלתה גם דרישה למנוע מערבים לרכוש דירות בעיר",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380428",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-23T09:39:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/judea-junction-terror-attack-prevented-disaster",
+      "title": "המחבלים תצפתו, יצאו מהרכב - ופתחו באש | תיעוד רגעי הפיגוע",
+      "summary": "שני מחבלים הגיעו עם תחמושת רבה במטרה לבצע פיגוע בעומק השטח • נעצרו במחסום ארעי וחוסלו לאחר קרב יריות של 20 דקות | \"מצאנו כמות רבה של תחמושת ברכב\" (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/judea-junction-terror-attack-prevented-disaster",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-23T09:33:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1380424",
+      "title": "בין הפקרה לאחריות | יונה ברטל",
+      "summary": "פעם יום בחירות היה חגיגה דמוקרטית שבו כולנו לבשנו בגדי חג, והיום הוא יום שמלווה במבול של השמצות, פילוג ואובדן אמון. אך דווקא עכשיו עלינו לזכור שהאחריות לעתיד נמצאת בידיים שלנו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1380424",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-23T09:32:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21692493",
+      "title": "אפילו האקס התלהב: אריאנה גרנדה נפרדה מהקוקו ושינתה לבוב קצר",
+      "summary": "הכוכבת שידעה לאחרונה שערוריות עברה ללוק חדש, ובהפרש של שעות גם בילי אייליש הציגה תספורת דומה",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21692493",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T09:29:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21692476",
+      "title": "לימור לבנת הכריזה על תמיכה בבנט - ותקפה את הליכוד",
+      "summary": "שרת החינוך לשעבר הודיעה על תמיכה בנפתלי בנט ותקפה את נתניהו: \"זרקו את מורשת בגין\" • לבנת, שהייתה מבכירות הליכוד במשך עשרות שנים, כבר קראה בעבר למפלגה לעבור מן העולם • \"לא זזתי מילימטר מדעותיי\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21692476",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-23T09:26:21.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383958608",
+      "title": "פיגוע הירי, דקה אחר דקה: כך חיילים בלמו אסון כבד סמוך לחברון",
+      "summary": "לוחמי גדוד ארי יצאו מהמוצב לבדיקת כלי רכב בצ'ק פוסט סמוך לצומת יהודה, כששני מחבלים פתחו לעברם באש. חמישה נפצעו, שניים אנוש. המחבלים חוסלו",
+      "link": "https://www.walla.co.il/news/military/383958608",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-23T09:21:27.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380418",
       "title": "\"12 אלף לוחמים? אנחנו נשיג אותם\": ההתחייבות של מוטי לייטנר | האזינו",
@@ -120,6 +174,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T09:03:34.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958607",
+      "title": "בדרך לעימות? ארה\"ב מכינה תוכניות תקיפה באיראן",
+      "summary": "לפי הוול סטריט ג'ורנל, המתווכות במזרח התיכון פועלות בדחיפות לחידוש המשא ומתן עם טהראן, בניסיון למנוע התלקחות מחודשת. הצבא האמריקני מכין אפשרויות לתקיפה, ונושאת מטוסים שלישית עושה את דרכה לאזור",
+      "link": "https://www.walla.co.il/news/world/383958607",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-23T08:52:51.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383958607",
@@ -444,6 +507,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T07:28:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958572",
+      "title": "סקר מעריב: בנט בזינוק, מפת הגושים שוב מתערבבת",
+      "summary": "במפת הגושים הנוכחית נחלשת קואליצית נתניהו בשלושה מנדטים מול האופוזיציה הציונית. מפלגת \"ביחד\" מתחזקת בשני מנדטים, הנדל וזליכה בקושי עוברים את אחוז החסימה והגוש הערבי נותר עם 14 מנדטים",
+      "link": "https://www.walla.co.il/news/israel/383958572",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-23T07:27:26.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383958572",
@@ -1940,6 +2012,15 @@
       "pubDate": "2026-10-22T21:01:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14935642",
+      "title": "ועדת חקירה ממלכתית בראש: תוכנית \"100 הימים\" של איזנקוט לאחר הבחירות",
+      "summary": "פרסום ראשון: 4 ימים לבחירות ותוכנית ישר! במקרה של ניצחון נחשפת. הטיוטות שהגיעו לידי ynet ו\"ידיעות אחרונות\" מציגות את הצעדים הראשונים של המפלגה בתחומי יוקר המחיה, פשיעה והשוויון בנטל",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14935642",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-22T21:00:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14931348",
       "title": "פסימיות אופטימית / דניאלה לונדון דקל",
       "summary": "הבחירות בפתח, ורגע אני מוצפת תקווה, רגע ייאוש נורא. טוב שמצאתי על מי להישען: מנחם בגין",
@@ -1953,15 +2034,6 @@
       "title": "ואז נתניהו צעק: \"תפסיקו כולם לכתוב! אף אחד לא כותב את מה שנאמר פה\"",
       "summary": "כבר בתחילת המלחמה פתחה לשכת רה\"מ במערכה חשאית נוספת: איך לעשות הכול כדי שהסיפור על המחדל הכבד בתולדות ישראל לא יידבק בנתניהו. בין האמצעים: השגת שליטה על הקלטות הדיונים הסודיים, חשד לשינויים בפרוטוקולים, ואפילו גיוס מיוחד של מילואימניקים בעת חירום - כדי שיאספו את החומרים שעליהם התבסס תיק הגנה של נתניהו. לשכת רה\"מ: \"טענות שקריות\"",
       "link": "https://www.ynet.co.il/news/article/yokra14931849",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-22T21:00:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14935642",
-      "title": "ועדת חקירה ממלכתית בראש: תוכנית \"100 הימים\" של איזנקוט לאחר הבחירות",
-      "summary": "פרסום ראשון: 4 ימים לבחירות ותוכנית ישר! במקרה של ניצחון נחשפת. הטיוטות שהגיעו לידי ynet ו\"ידיעות אחרונות\" מציגות את הצעדים הראשונים של המפלגה בתחומי יוקר המחיה, פשיעה והשוויון בנטל",
-      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14935642",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T21:00:00.000Z"
@@ -36687,105 +36759,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-18T09:48:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news-interviews/haredi-likud-recruitment-influence",
-      "title": "רגע לפני הבחירות: הצעיר החרדי שבונה את 'הכוח השקט' בתוך הליכוד",
-      "summary": "ימים ספורים לבחירות והמתח במערכת הפוליטית בשיאו: מה המשמעות של נהירת אלפי חרדים לליכוד וכיצד זה ישפיע על היום שאחרי? • היועץ והפוקד החרדי אלעזר גורדון בראיון גלוי באולפן 'כיכר השבת' על סוגיית חוק הגיוס, הקשרים והאינטרסים מול השרים הבכירים, ומה באמת יקרה מאחורי הפרגוד • \"בסוף זה win-win לקידום הערכים שלנו\" | צפו (פוליטי)",
-      "link": "https://www.kikar.co.il/news-interviews/haredi-likud-recruitment-influence",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T09:44:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21648695",
-      "title": "ישראל עוברת לשעון חורף: הדרך הנכונה להיערך",
-      "summary": "מחוגי השעון יזוזו שעה אחת אחורה, אך השעון הביולוגי דורש זמן הסתגלות ממושך יותר • ירידה בשעות האור משפיעה על האנרגיה ומצב הרוח • כך תנצלו את השינוי לבניית שגרת שינה ובריאות חדשה",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21648695",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T09:44:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
-      "title": "דרמה בקנדה: לפחות 7 הרוגים בפיצוץ מסתורי בבסיס צבאי; עשרות חיילים פונו לבית החולים",
-      "summary": "פיצוץ עז התרחש במהלך אימון אש חיה בבסיס ויינרייט באלברטה, קנדה, כאשר רוחות עזות הפיצו את השריפה מחוץ לתחומי הבסיס | שבעה חיילים נהרגו בתקרית החריגה | מצב חירום הוכרז בבתי החולים באזור (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T09:41:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
-      "title": "אסון בבסיס צבאי בקנדה: לפחות 7 הרוגים ועשרות פצועים בפיצוץ ושריפה ענקית",
-      "summary": "פיצוץ עז התרחש במהלך אימון אש חיה בבסיס ויינרייט באלברטה, קנדה, כאשר רוחות עזות הפיצו את השריפה מחוץ לתחומי הבסיס | שבעה חיילים נהרגו בתקרית החריגה | מצב חירום הוכרז בבתי החולים באזור (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/canada-military-base-explosion-fire-wainwright",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T09:41:25.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3872670",
-      "title": "תוצאות הבחירות לא לטעמכם? אלו 10 מדינות שהכי כדאי להגר אליהן",
-      "summary": "מדד חדש בחן 63 מדינות ויעדים ברחבי העולם לפי איכות החיים, ביטחון אישי, מיסוי, אפשרויות לקבלת תושבות ואזרחות, אקלים ותשתיות. אירופה שולטת בצמרת, אבל גם איחוד האמירויות, סינגפור וניו זילנד ברשימה",
-      "link": "https://travel.walla.co.il/item/3872670",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-18T09:38:00.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3872670",
-      "title": "תוצאות הבחירות לא לטעמכם? אלו 10 מדינות שהכי כדאי להגר אליה",
-      "summary": "מדד חדש בחן 63 מדינות ויעדים ברחבי העולם לפי איכות החיים, ביטחון אישי, מיסוי, אפשרויות לקבלת תושבות ואזרחות, אקלים ותשתיות. אירופה שולטת בצמרת, אבל גם איחוד האמירויות, סינגפור וניו זילנד ברשימה",
-      "link": "https://travel.walla.co.il/item/3872670",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-18T09:38:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21649223",
-      "title": "חנן בן ארי קיבל הודעות: ''שואלים אותי מלא''",
-      "summary": "הזמר קבע שיא חדש למופע הארוך ביותר של זמר ישראלי, ושבר את השיא הקודם שהחזיק בעצמו • מה קורה במופע המיוחד שהוא מקיים רק עבור המעריצים השרופים • ולמה אף אחד בקהל לא יודע מראש מתי ההופעה תסתיים",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21649223",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T09:37:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21649223",
-      "title": "חנן בן ארי: \"שואלים אותי מלא\"",
-      "summary": "הזמר קבע שיא חדש למופע הארוך ביותר של זמר ישראלי, ושבר את השיא הקודם שהחזיק בעצמו • מה קורה במופע המיוחד שהוא מקיים רק עבור המעריצים השרופים • ולמה אף אחד בקהל לא יודע מראש מתי ההופעה תסתיים",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21649223",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T09:37:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1378412",
-      "title": "ביקש סיגריה, שלף גז פלפל ושדד אייפון: אישום נגד צעיר יהודי",
-      "summary": "צעיר יהודי בן 22 מלוד מואשם שחסם את דרכה של משפחה פלסטינית עם ילדיה סמוך לחברון, דרש סיגריות ומצית ובהמשך חטף טלפון נייד וריסס גז פלפל על פני אחד הנוסעים. הקורבן נזקק לטיפול רפואי",
-      "link": "https://www.maariv.co.il/news/law/article-1378412",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-18T09:36:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21649026",
-      "title": "עומר ציפורי על שלי: \"זה לא היה עובד\"",
-      "summary": "פיינליסט העונה האחרונה של \"האח הגדול\" פתח תיבת שאלות לעוקביו, שם דיבר בכנות על הקשר עם בת זוגו שלי סרבריאניקוב. \"אני לא הייתי מוכן לזה\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21649026",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-18T09:34:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/asher-working-haredim-education-commitment",
-      "title": "\"זו תוכנית עבודה, לא הבטחת בחירות\": ההתחייבות של יעקב אשר לחרדים עובדים",
-      "summary": "יו\"ר יהדות התורה חשף במפגש אינטימי את המאבקים שניהל בעבר • \"הקמתי 3 בתי ספר באלעד למרות התנגדויות\" | ההתחייבות הנחרצת לעתיד (חרדים)",
-      "link": "https://www.kikar.co.il/political-news/asher-working-haredim-education-commitment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-18T09:31:36.000Z"
     }
   ]
 }
