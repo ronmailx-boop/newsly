@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:01:00.859Z",
+  "updatedAt": "2026-10-24T15:15:47.921Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383958699",
+      "title": "מפת החסימות, האזהרה מאלימות ומסר המפכ\"ל: הערב העצרת הנפיצה",
+      "summary": "שעות לפני העצרת בכיכר החטופים, המשפחות מתריעות: גורמים הקשורים לקואליציה נערכים לשבשה. בפנייה למפכ״ל הן דורשות למנוע פרובוקציות והחדרת שלטים ודגלים שיוצגו כחלק מהאירוע, ולהפריד בין הקהל למפרי סדר",
+      "link": "https://www.walla.co.il/news/israel/383958699",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T15:03:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byn4gh53gl",
+      "title": "הלם בחברון: \"ללכת עד הודעה חדשה? אני לא אעזוב\"",
+      "summary": "בצה\"ל מעריכים כי סביב 2,000 תושבים חיים בשכונות שבהן החל המבצע בעקבות הפיגוע שבו נהרגו לוחמי גדוד אר\"י של פיקוד העורף. הפלסטינים מאשימים ב\"עונש קולקטיבי\", ראש העיר: \"נתניהו והשרים הרדיקליים שלו רק רוצים עוד קולות מהמתנחלים\"",
+      "link": "https://www.ynet.co.il/news/article/byn4gh53gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-24T15:02:17.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1380724",
       "title": "שרד את השבי במצרים ואת הטבח בבארי: אלי כרסנטי הלך לעולמו בגיל 96",
       "summary": "אלי כרסנטי שרד את השבי המצרי במלחמת יום הכיפורים וניצל גם מהטבח בבארי, שבו נרצחו בתו, חתנו וגרושתו. המחבלים כבר תכננו לחטוף אותו לעזה, אך ברגע האחרון ניצל. כעת הלך לעולמו בגיל 96",
@@ -41,9 +59,72 @@
       "pubDate": "2026-10-24T14:48:09.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21696686",
+      "title": "אל תעזו להתפתות: 5 דברים שאסור לנקות עם אקונומיקה",
+      "summary": "חשבתם שהיא מחטאת ומבריקה הכל? תחשבו שוב • מסתבר שחומר הניקוי הנפוץ ביותר בכל בית ישראלי עלול לצרוב משטחים, להחליד מתכות ולגרום נזק בלתי הפיך לתשתיות היקרות שלכם",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21696686",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:47:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21696727",
+      "title": "אסי עזר נפצע במהלך צילומי פרסומת בקפריסין",
+      "summary": "מגיש הטלוויזיה טס לחו\"ל לטובת צילומים, אבל תאונה שאירעה בחדר המלון שלו הובילה לפציעה בלתי צפויה • \"הייתי צריך לרוץ\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21696727",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:46:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21696739",
+      "title": "השיל יותר מ-20 קילו: הכוכב המפורסם בלתי ניתן לזיהוי",
+      "summary": "דוויין ג'ונסון, שהיה מזוהה במשך שנים עם גוף שרירי במיוחד, תועד בניו יורק במראה מפתיע • מאחורי השינוי עומדים תפקיד קולנועי חדש, תהליך הרזיה ממושך ועבודת איפור יוצאת דופן • אבל לא כל התמונות שמסתובבות ברשת אמיתיות",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21696739",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:45:59.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-82329c5a2fc61a1027.htm",
+      "title": "כבישים בתל אביב נחסמו לקראת העצרת בכיכר החטופים",
+      "summary": "\"מועצת אוקטובר\" שמארגנת את העצרת קוראת להקמת ועדת חקירה ממלכתית לטבח 7 באוקטובר • המארגנים נערכים להשתתפות של אלפי בני אדם",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-82329c5a2fc61a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-24T14:40:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21696720",
+      "title": "200 אתרים נסרקו, 10 חשודים נעצרו: צה\"ל מעמיק את המבצע בלב חברון",
+      "summary": "בעקבות הפיגוע שבו נפלו שני לוחמי צה\"ל, כוחות דובדבן, מגלן, צנחנים וסיירת גבעתי במילואים פועלים בהכוונת שב\"כ במרחב שממנו יצאו המחבלים • לפי הערכות צה\"ל, באזור מתגוררים כ-2,000 בני אדם המשתייכים לחמולת ג'בעה, המזוהה עם חמאס • תושבים שביקשו להתפנות הורשו לצאת דרך נקודות בידוק ייעודיות • במקביל, נמשכת הריסת מבנים בלתי חוקיים בסמוך לזירת הפיגוע",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21696720",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:39:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21696718",
+      "title": "ארה\"ב דורשת הצהרה חדשה מהנוסעים: בלעדיה לא תעלו למטוס",
+      "summary": "החל מ-3 בנובמבר ייכנס לתוקף נוהל חדש שיחול על כלל הנוסעים המגיעים לארה\"ב, כולל ישראלים • חברות התעופה יחויבו לאכוף את הדרישה, ומסירת מידע כוזב עלולה לגרור קנסות ואף הליכים פליליים",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21696718",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:38:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21696696",
+      "title": "בסביבת טראמפ בוחנים אפשרות לעבוד בממשלה בלי נתניהו: \"זה השטן שהוא מכיר\"",
+      "summary": "גורמים אמריקניים: למרות תמיכת נשיא ארה\"ב לקראת הבחירות - דווקא ממשלה אחרת עשויה לקדם את האינטרסים של וושינגטון במזרח התיכון • בבית הלבן מביעים תסכול מהתנהלות ראש הממשלה בסוגיות עזה, סוריה ולבנון, ובוחנים את האפשרות שממשלה ללא שותפיו מהימין הקיצוני תהיה נעימה יותר לעבודה",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21696696",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T14:32:05.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sj8wpecnzx",
       "title": "דברי ההבל של נתניהו על מעבר לקריפטו",
-      "summary": "מה אמר ביבי? הוא אמר בערוץ טלוויזיה כלכלי שהמשך מדיניותו-שלו, המשך כהונתו כראש הממשלה יוביל לסנקציות כלכליות על ישראל כפי שלא הוטלו על אף מדינה מערבית",
+      "summary": "ראש הממשלה אמר שהמשך מדיניותו-שלו, המשך כהונתו כראש הממשלה, יוביל לסנקציות כלכליות על ישראל כפי שלא הוטלו על אף מדינה מערבית",
       "link": "https://www.ynet.co.il/news/article/sj8wpecnzx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -174,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T14:02:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873514",
+      "title": "פרץ נגד סולומון: חגיגת שערים בדרבי הישראלי באנגליה - חי",
+      "summary": "סולומון שמר על מקומו בהרכב הפטישים, שנותרו בהלם אחרי שערים של מאצוקי (2) וברי (11). פרץ נכנע לשער אדיר של ווקר-פיטרס (24), דובין הגדיל (34)",
+      "link": "https://sports.walla.co.il/item/3873514",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T14:00:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21695732",
@@ -5844,6 +5934,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-22T21:12:04.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383958322",
+      "title": "אצלנו ובעולם: מצעד המתמודדים ההזויים שרצו בקלפי",
+      "summary": "רגע לפני הבחירות אצלנו, עם מפלגת פיראטים ו\"שרשר המלך\", יצאנו לבדוק מי עוד הפך קמפיין פוליטי למופע בלתי נשכח - מכוכבת הפורנו שהגיעה לכנסת ועד בעלי חיים שזכו בקולות",
+      "link": "https://www.walla.co.il/news/donotmiss/383958322",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-22T21:10:58.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/donotmiss/383958322",
@@ -30711,78 +30810,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T15:15:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tn5tgf",
-      "title": "הרבנים מכל החוגים נהרו; שמחת נישואי נכד הגאון רבי משה צדקה",
-      "summary": "קהל רב ובראשם אדמו\"רים ורבנים נהרו אמש (ראשון) לשמחת נישואי נכד ראש הישיבה הגאון רבי משה צדקה, בן לחתנו רבי מרדכי עטייה, ראש כולל 'שערי ישועה' | בין ההמונים נצפו כאמור רבנים מכל המגזרים המעריכים את פעלו של ראש הישיבה למען כלל ישראל, על שנלחם על כל הקודש לנו כל הימים, מגזירות הגיוס ועד התקשורת ועוד | דוד ארזני מגיש גלריה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tn5tgf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T15:15:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/smotrich-calls-winter-withdraw-elections",
-      "title": "סמוטריץ' קורא לוינטר לפרוש: \"השמאל מאורגן - אל תהמרו על מדינת ישראל\"",
-      "summary": "שר האוצר פונה בקריאה דרמטית למפלגות הימין הקטנות • \"השמאל מאורגן למופת, בימין זריקת קולות\" | אחרי פרישת גנץ והסקרים הקשים (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/smotrich-calls-winter-withdraw-elections",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T15:12:55.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byelysx2ze",
-      "title": "רץ כמעט עד הסוף: האינטרס הכלכלי - והמרוויחים מהפרישה של גנץ",
-      "summary": "בני גנץ אמנם הכריז שלא יתמודד בבחירות, אך בתוך מפלגתו היו כוחות שדחפו אותו ללכת עד הסוף: כחול לבן זכאית למימון בחירות בסך 15 מיליון שקלים - שחלקם הועברו ליועצים וסוקרים. הח\"כ שדחף לפרישה: \"הדרך לא מסתיימת\". כעת הגוש השלישי התרסק - והמרוויחים הם לא נתניהו ואיזנקוט",
-      "link": "https://www.ynet.co.il/news/elections2026/article/byelysx2ze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T15:10:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1379006",
-      "title": "בישראל ביתנו מודים באובססיה: \"משאיר לכם את הפרשנויות\"",
-      "summary": "חבר הכנסת עודד פורר הדגיש את הרצון של ישראל ביתנו להדיח את נתניהו מתפקיד ראש הממשלה. כמו כן, סירב להתייחס באופן מפורש לפרישתו של בני גנץ מהבחירות הקרובות",
-      "link": "https://www.maariv.co.il/news/politics/article-1379006",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T15:10:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21661635",
-      "title": "ניב גלבוע מתפוצץ: \"הם גנבו אותנו בשידור חי\"",
-      "summary": "מה שהתחיל כסקירת אוכל שגרתית הפך לזירת צעקות באולפן, כשחבר הפאנל סירב לטעום את המנה החדשה • \"אתה רוצה שאני אקיא לך פה?\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21661635",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T15:09:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/research/article/21661563",
-      "title": "אל תלחצו: המלכודת המתוחכמת - שהפילה ישראלים רבים",
-      "summary": "הודעות SMS המתחזות למשטרה ולרשויות ממשלתיות מפנות לאתרים מזויפים שנועדו לגנוב פרטי אשראי ומידע אישי • מחקר חדש של ReasonLabs חושף רשת הונאות בינלאומית שפועלת גם בישראל ומחליפה אתרי התחזות לאחר חסימתם",
-      "link": "https://www.israelhayom.co.il/tech/research/article/21661563",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T15:09:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21661614",
-      "title": "ימריא בקרוב: ברק יצחקי סגר בקבוצה חדשה בחו\"ל",
-      "summary": "גורמים בקפריסין מאשרים כי מאמן בית\"ר ירושלים לשעבר בדרך הבטוחה להתמנות למאמן אנורתוזיס פמגוסטה • בחודשים האחרונים סירב להצעות להשתלב בתקשורת כדי לחזור לאמן, וכעת יקבל את ההזדמנות באי השכן",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21661614",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T15:05:52.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3872911",
-      "title": "יטוס הלילה או מחר: ברק יצחקי על סף חתימה בקבוצה אירופית",
-      "summary": "הקבוצה בה שיחק המאמן לפני 14 שנה רוצה לצרפו כמה שיותר מהר ומאמינה שישדרג אותה, חתימה רשמית עשויה ב-24 השעות הקרובות. אנורתוזיס מדורגת במקום האחד לפני אחרון בטבלה",
-      "link": "https://sports.walla.co.il/item/3872911",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T15:05:00.000Z"
     }
   ]
 }
