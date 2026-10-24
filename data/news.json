@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:15:50.181Z",
+  "updatedAt": "2026-10-24T20:30:50.027Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89003",
+      "title": "צעיר בן 20 נפצע קשה באירוע אלימות בנתניה",
+      "summary": "צעיר כבן 20 נפצע קשה באירוע אלימות בשדרות בן צבי בנתניה. לפי צוותי איחוד הצלה, הצעיר סבל מפציעות חודרות וקיבל טיפול רפואי ראשוני בזירה. הוא פונה לבית חולים כשמצבו מוגדר קשה.",
+      "link": "https://www.kikar.co.il/scoop-news/89003",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-24T20:20:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89002",
+      "title": "הרוג ו-2 פצועים בתאונה בין משאית לרכב בכביש 465 ליד עאבוד",
+      "summary": "גבר כבן 35 נהרג בתאונת דרכים בין משאית לרכב פרטי בכביש 465 סמוך לעאבוד. חובשים ופרמדיקים של מד\"א קבעו את מותו במקום. בנוסף, פונו 2 פצועים לבית החולים על ידי הסהר האדום: גבר כבן 30 במצב בינוני עם חבלות בגופו ופצוע נוסף במצב קל. התאונה אירעה בשעה 22:32.",
+      "link": "https://www.kikar.co.il/scoop-news/89002",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-24T20:20:23.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380818",
       "title": "תקרית חריגה סביב נפתלי בנט: צעיר צעק \"רק ביבי\", תקף מאבטח - ונעצר",
@@ -87,6 +105,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21698374",
+      "title": "בן 18 נדקר ביפו: שתי סכינים נתפסו, אך סימני השאלה נותרו",
+      "summary": "ויכוח שפרץ במועדון ברחוב קיבוץ גלויות התפתח לקטטה אלימה בחניון, שבמהלכה נפצע צעיר באורח בינוני • המשטרה הציגה עדויות וסרטון אבטחה, אך טרם הצליחה לקבוע את חלקו המדויק של כל חשוד • שניים מהחשודים נפצעו אף הם במהלך הקטטה • מעצרם של שני צעירים הוארך בארבעה ימים, בעוד שהשלישי שוחרר בשל חולשת הראיות נגדו",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21698374",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T19:53:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21698374",
       "title": "בן 18 נדקר ביפו: שתי סכינים נתפסו, אך לא ברור איזו מהן שימשה לתקיפה",
       "summary": "ויכוח שפרץ במועדון ברחוב קיבוץ גלויות התפתח לקטטה אלימה בחניון, שבמהלכה נפצע צעיר באורח בינוני • המשטרה הציגה עדויות וסרטון אבטחה, אך טרם הצליחה לקבוע את חלקו המדויק של כל חשוד • שניים מהחשודים נפצעו אף הם במהלך הקטטה • מעצרם של שני צעירים הוארך בארבעה ימים, בעוד שהשלישי שוחרר בשל חולשת הראיות נגדו",
       "link": "https://www.israelhayom.co.il/news/crime/article/21698374",
@@ -114,12 +141,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380814",
+      "title": "הלחץ על עופר וינטר גובר: המכתב הדרמטי של הרב אלי סדן",
+      "summary": "הלחץ על עופר וינטר גובר: בערוץ 13 נחשף מכתב של הרב אלי סדן, המזהיר מפני בזבוז קולות בימין. במקביל, נתניהו פונה למצביעי וינטר וטוען שגם אויבי ישראל מעוניינים בהפסדו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380814",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T19:42:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380814",
       "title": "אחד ממנהיגיו הרוחניים של וינטר מזהיר: \"זה יהיה אסון נוראי\"",
       "summary": "הלחץ על עופר וינטר גובר: בערוץ 13 נחשף מכתב של הרב אלי סדן, המזהיר מפני בזבוז קולות בימין. במקביל, נתניהו פונה למצביעי וינטר וטוען שגם אויבי ישראל מעוניינים בהפסדו",
       "link": "https://www.maariv.co.il/news/elections-2026/article-1380814",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-24T19:42:59.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958738",
+      "title": "תאונה קטלנית בעמק בית שאן: גבר ואישה נהרגו, שלושה נפצעו",
+      "summary": "שני כלי רכב התנגשו בכביש 6678. צוותי ההצלה חילצו שני לכודים ללא רוח חיים מרכב שהתהפך, ושלושה פצועים נוספים פונו לבית החולים העמק",
+      "link": "https://www.walla.co.il/news/israel/383958738",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T19:37:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88998",
@@ -204,12 +249,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21698361",
+      "title": "לילה קטלני בדרכים: שלושה הרוגים בשתי תאונות בפחות משעה",
+      "summary": "גבר ואישה כבני 30 נהרגו בהתנגשות בין שני כלי רכב סמוך לטירת צבי • ליד עאבוד נהרג גבר כבן 35 בתאונה בין משאית לרכב פרטי • חמישה פצועים פונו לבתי החולים, בהם שניים במצב בינוני ושלושה במצב קל",
+      "link": "https://www.israelhayom.co.il/news/local/article/21698361",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T19:30:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21698361",
       "title": "תאונה קטלנית בעמק בית שאן: רכב התהפך - גבר ואישה נהרגו במקום",
       "summary": "שלושה פצועים נוספים פונו לבית החולים העמק, בהם אישה כבת 25 במצב בינוני ושניים במצב קל • לוחמי האש חילצו את שני ההרוגים, כבני 30, מכלי הרכב • המשטרה פתחה בחקירת נסיבות התאונה",
       "link": "https://www.israelhayom.co.il/news/local/article/21698361",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T19:30:53.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-b23a155ac5f61a1026.htm",
+      "title": "שני הרוגים בתאונה סמוך לבית שאן, שלושה נפצעו",
+      "summary": "צוותי מד\"א שהגיעו לזירה נאלצו לקבוע את מותם של השניים, גבר ואישה כבני 30 • שלושת הפצועים שאורחם בינוני וקל פונו לבית החולים העמק • המשטרה פועלת בזירה ופתחה בחקירת נסיבות התאונה",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-b23a155ac5f61a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-24T19:30:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tnff81",
@@ -1776,6 +1839,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T14:45:59.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-82329c5a2fc61a1027.htm",
+      "title": "\"חובה מוסרית של ההנהגה להגיע לחקר האמת\": המונים התייצבו בכיכר החטופים בקריאה להקמת ועדת חקירה ממלכתית",
+      "summary": "הרב אלחנן דנינו, אביו של אורי דנינו ז”ל שנחטף ונרצח בשבי חמאס קרא להקמת ועדת חקירה ממלכתית: \"לא תשיב לנו את בנינו, אך היא חובה של כולנו\" • משפחות שכולות ושורדי שבי קראו בעצרת בכיכר החטופים להקמת ועדת חקירה ממלכתית • גם לפיד, ליברמן איזנקוט וגולן הגיעו לעצרת",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-82329c5a2fc61a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-10-24T14:40:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-82329c5a2fc61a1027.htm",
@@ -30918,150 +30990,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-19T20:31:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
-      "title": "מזל קשת - הורוסקופ יומי: צפויה לכם הפתעה | תחזית אסטרולוגית",
-      "summary": "הלך רוח של חריצות מביא אתכם ליום מלא פעילות שמסתיים בתחושת סיפוק והצלחה פנימית. בשעות הערב והלילה מוטב שתקדישו זמן לפעילות בכיף שאינה קשורה למחויבות כל שהיא • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21629842",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
-      "title": "מזל גדי - הורוסקופ יומי: עזרה ושיתוף פעולה ישפרו את המצב | תחזית אסטרולוגית",
-      "summary": "הרוח שלכם מתנדנד בין אושר עצום ובין עייפות שמביאה אתכם להתנהגות אימפולסיבית שפוגעת לעיתים. עזרה ושיתוף פעולה ישפרו את המצב מבחינה אובייקטיבית ובעיקר מבחינת ההרגשה • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21629898",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
-      "title": "מזל דלי - הורוסקופ יומי: הכל יסתדר בצורה הרצויה לכם | תחזית אסטרולוגית",
-      "summary": "צפויה היכרות מרתקת אך הפכפכה. נסו להתמקד בחצי הכוס המלאה כדי לא לקלקל לעצמכם את התענוג • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21629901",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
-      "title": "מזל דגים - הורוסקופ יומי: אתם מבצעים מהלך לולייני ומתוחכם | תחזית אסטרולוגית",
-      "summary": "אתם מתאוששים ממשבר במהירות שמפתיעה אפילו אתכם. חוש ההומור שלכם משמש עבורכם מקפצה להגיע למקומות ולאנשים שבדרך רגילה לא הייתם מגיעים אליהם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21629909",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21629618",
-      "title": "מזל טלה - הורוסקופ יומי: שמועות שונות ומשונות מגיעות אליכם | תחזית אסטרולוגית",
-      "summary": "יש לכם תוכניות רבות אולם חלקן לא יתממש היום בגלל תקלות ואי הבנות. קצר בתקשורת ביניכם ובין מישהו בעבודה עלול לגרום לעוגמת נפש • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21629618",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21629619",
-      "title": "מזל שור - הורוסקופ יומי: תחום האסרטיביות בחייכם זקוק לחיזוק | תחזית אסטרולוגית",
-      "summary": "יום טוב בו צפויה לכם הצלחה בעבודה. יגיעו אליכם הצעות מפתות ממקור לא צפוי • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21629619",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21629623",
-      "title": "מזל תאומים - הורוסקופ יומי: עדיף עכשיו מאשר עוד דחייה מתסכלת | תחזית אסטרולוגית",
-      "summary": "יום בו הדגש הוא על התפתחות אישית וכל מה שקשור בזה. אל תתכחשו לצרכים הפנימיים שלכם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21629623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21629740",
-      "title": "מזל סרטן - הורוסקופ יומי: מחמאות ופרגונים יגיעו מכל עבר | תחזית אסטרולוגית",
-      "summary": "השמרנות והפנקסנות שלכם גורמות לכם לבזבז יותר מידי זמן על ויכוחים במקום ליהנות מהיום הזה. לקראת חציו השני של היום ישתפר המצב ותוכלו להפנות מעט משאבים לקצת רומנטיקה שנמצאת ממש בהישג יד • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21629740",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21629742",
-      "title": "מזל אריה - הורוסקופ יומי: תנו לזמן לעשות את שלו | תחזית אסטרולוגית",
-      "summary": "השאיפות, הדעות והגישה שלכם לחיים שונות מאלו של רוב האנשים ולא פלא שקצת קשה לכם בזמן האחרון. החוכמה היא לא להלעיט את כל מי שאתם פוגשים בפילוסופית החיים שלכם, על ההתחלה • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21629742",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21629746",
-      "title": "מזל בתולה - הורוסקופ יומי: נצלו את הזמן אחרי העבודה לבילוי | תחזית אסטרולוגית",
-      "summary": "צפויות הכרויות חדשות וגם יש אפשרות לקשר רומנטי. אתם נראים טוב ומצב הרוח בהתאם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21629746",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21629840",
-      "title": "מזל מאזניים - הורוסקופ יומי: העבודה שוחקת אתכם | תחזית אסטרולוגית",
-      "summary": "שעות העבודה הארוכות הן משימה קשה מידי עבורכם ולמרות שאתם זקוקים למשכורת יש לפנות ישירות לממונים עליכם ולהסביר את הרגשתכם • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21629840",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21629841",
-      "title": "מזל עקרב - הורוסקופ יומי: מצב הרוח שלכם ירוד למדי | תחזית אסטרולוגית",
-      "summary": "ירידה באנרגיות גורמת לכם להרגיש חולשה וחוסר רצון התמודד עם נושאים שעומדים על הפרק • הורוסקופ אלטרנטיבלי",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21629841",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:30:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1ldjln3mg",
-      "title": "הזכרונות עלו באש: נשרפה הנגרייה של תושבת בארי שנרצחה ב-7/10",
-      "summary": "בוטיק הנגרות \"עיונה\" בקיבוץ היה מפעל חייה של יונת אור ז\"ל, שנרצחה בטבח, בעוד שבעלה ושני ילדיה נחטפו לעזה. חמישה צוותי כבאות הוקפצו הערב למקום והשיגו שליטה על האש - אחרי שהנגרייה נשרפה כליל",
-      "link": "https://www.ynet.co.il/news/article/s1ldjln3mg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T20:28:47.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383958121",
-      "title": "רצח בניהו רזי: אין ראיות לאישום ברצח נגד בת זוגו",
-      "summary": "בית המשפט המחוזי בירושלים קבע כי אין ראיות לכאורה לרצח נגד אגם צרפי ושילת חוטה, אך יש ראיות לסיוע לרצח. השתיים הופנו לשירות המבחן לבחינת שחרורן. סנגוריה של צרפי: \"בית המשפט קיבל את טענותינו\"",
-      "link": "https://www.walla.co.il/news/law/383958121",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T20:26:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21663512",
-      "title": "תפנית בפרשת רצח בניהו רזי: בוטל האישום ברצח נגד שתי הנאשמות",
-      "summary": "בית המשפט המחוזי בירושלים קבע כי אין ראיות המבססות את האישום ברצח, אך קיימות ראיות לכאורה לסיוע לרצח • שתי הנאשמות הופנו לשירות המבחן לצורך בחינת אפשרות שחרורן",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21663512",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T20:22:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sktfmgnnmx",
-      "title": "ההלם מהמהומות במילאנו, והורי \"כנופיות הילדים\" שחיכו מבוישים: \"אשבור לך את הראש!\"",
-      "summary": "גם באיטליה התחוללו מהומות, ובמילאנו אלפים התעמתו עם שוטרים, השליכו בלוקים ובזזו חנויות יוקרה. בהמשך התברר ש-80% מהעצורים קטינים, רבים מהם בני מהגרים - ואלו חיכו לילדיהם המומים ועם דמעות בעיניים בתחנת המשטרה: \"אני שובר את הגב כל יום כדי להתפרנס, ואני מתבייש. הוא ישלם ביוקר\", צוטט אב מתוניסיה. \"כנופיות המרנזה\" שמטילות אימה ברחובות - וצעדי החירום של מלוני",
-      "link": "https://www.ynet.co.il/news/article/sktfmgnnmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T20:22:22.000Z"
     }
   ]
 }
