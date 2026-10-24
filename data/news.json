@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:30:51.811Z",
+  "updatedAt": "2026-10-24T16:46:01.675Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/88967",
+      "title": "בנט: משפטנים הסבירו לי שחוק הנאשם לא חוקתי וייפסל",
+      "summary": "לדברי נפתלי בנט, משפטנים הסבירו לו כי חוק הנאשם אינו חוקתי וצפוי להיפסל.",
+      "link": "https://www.kikar.co.il/scoop-news/88967",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-24T16:39:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1380753",
+      "title": "מסר חד לארדואן: ישראל ויוון שולפות את הנשק הכבד - בלב הים התיכון",
+      "summary": "עוד איתות ישראלי לטורקיה: צה\"ל חושף תרגיל ימי משותף עם יוון בלב הים התיכון, שכלל ירי טילים והטבעת כלי שיט עוין. מפקדי הציים הובילו את התרגיל, שנועד לחזק את שיתוף הפעולה המבצעי",
+      "link": "https://www.maariv.co.il/news/military/article-1380753",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T16:36:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/severe-flooding-warning-negev-dead-sea",
+      "title": "השירות המטאורולוגי מזהיר: אירוע שיטפונות חריג - ביום הבחירות | התחזית",
+      "summary": "גשמים עזים צפויים החל מהצהריים ביום שלישי באילת ובנגב • סופות רעמים, ברקים וברד יכו באזור | חשש לחסימת כבישים | התחזית המלאה לשבוע הקרוב (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/severe-flooding-warning-negev-dead-sea",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-24T16:34:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx",
+      "title": "נתניהו בסרטון בחירות חדש: \"שבוע גורלי לישראל. איראן רוצה להשמיד אותנו תוך זמן קצר\"",
+      "summary": "רה\"מ הדהד את המסר של נשיא ארה\"ב טראמפ שהביע תמיכה בו, וטען כי \"איראן חידשה את תוכנית הגרעין שלה\". לדבריו, \"מוטל כאן על הכף קיומה של מדינת ישראל ומניעת השמדתה\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-24T16:32:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21697273",
+      "title": "בנק ישראל נגד נתניהו: \"מטבעות קריפטו לא יכולים לשמש כמסלול עוקף סנקציות\"",
+      "summary": "לאחר שראש הממשלה אמר כי הורה להכין תוכנית למערכת פיננסית חלופית, בבנק המרכזי קוראים לשמר את הקשרים עם שותפי הסחר ולפעול למניעת בידוד כלכלי • \"נושא זה מצוי בתחומי אחריותו של הדרג המדיני\"",
+      "link": "https://www.israelhayom.co.il/business/article/21697273",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T16:28:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21697307",
+      "title": "החתונה מתקרבת: אלמוג ויהודה פרסמו תאריך",
+      "summary": "הסייב דה דייט כבר באוויר, התמונה אולי ב-AI, אבל התאריך של אלמוג ויהודה אמיתי לגמרי",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21697307",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T16:27:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21697259",
+      "title": "\"הפועל תל אביב שינתה כיוון - וזה כואב לי מאוד\"",
+      "summary": "יונתן רבינוביץ' מסמל אולי טוב מכולם את הקרע אצל האדומים - הוא זכה עם הקבוצה ביורוקאפ, אבל שנתיים לאחר מכן מככב ב\"הפועל אורי\" שמשחקת בליגה הארצית• בראיון מיוחד הוא מסביר מה הרגיש כשחקן (\"רוצים להיות כל הזמן בכותרות\") ובעיקר כואב את המצב: \"יש לנו קהילה מפולגת\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21697259",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T16:26:56.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-argentina-falklands-support-directive",
       "title": "דיווח: נתניהו הורה לדיפלומטים לתמוך בארגנטינה בנוגע לסכסוך עפ בריטניה",
       "summary": "עיתון בריטי חושף הנחיה ישראלית לתמוך בפתיחת משא ומתן על האיים • הקשר: סנקציות בריטיות על יהודה ושומרון וידידות עם מיליי | חברת נפט ישראלית במוקד המחלוקת (פוליטי מדיני)",
@@ -43,11 +106,20 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hjdjfaw3fg",
       "title": "המשחק הכפול של העסקנים החרדים: עבדו בפריימריז הליכוד - ושבו למפלגות החרדיות",
-      "summary": "קבלני הקולות החרדים שגייסו מתפקדים רבים לליכוד עובדים כעת רשמית לטובת אגודת ישראל וש”ס. חלקם חברי מרכז הליכוד ואחד מהם אפילו מכהן במקביל גם כחבר מרכז - ובמקביל מופיע ברשימת יהדות התורה לכנסת - למרות שהחוק אוסר על חברות בשתי מפלגות. זו הפרצה שמנצלים העסקנים",
+      "summary": "פרסום ראשון: קבלני הקולות החרדים שגייסו מתפקדים רבים לליכוד עובדים כעת רשמית לטובת אגודת ישראל וש”ס. חלקם חברי מרכז הליכוד ואחד מהם אפילו מכהן במקביל גם כחבר מרכז - ובמקביל מופיע ברשימת יהדות התורה לכנסת - למרות שהחוק אוסר על חברות בשתי מפלגות. זו הפרצה שמנצלים העסקנים",
       "link": "https://www.ynet.co.il/news/elections2026/article/hjdjfaw3fg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-24T16:26:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21696862",
+      "title": "יותר מ־100 אלף מפגינים בפריז, עשרות עצורים ברחבי המדינה",
+      "summary": "המחאה בצרפת נגד הקיצוצים במערכת החינוך ויוקר המחיה נמשכת, ומציבה את ממשלתו של עמנואל מקרון בפני אתגר בחודשים האחרונים לכהונתו • לפי המשטרה, 110 אלף בני אדם השתתפו בהפגנה בפריז, שבסיומה נרשמו עימותים עם כוחות הביטחון • הרשויות דיווחו על עשרות מעצרים, ובטולוז נפצע אדם באורח קשה בידו • במקביל, אלפים הפגינו באורליאן נגד מפלגת הימין הקיצוני",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21696862",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T16:26:25.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/88964",
@@ -66,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-24T16:24:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21697241",
+      "title": "קרן פלס: \"יש לי רומן סודי\"",
+      "summary": "הזמרת שיתפה תיעוד מתוך דירה עתיקה ומיוחדת בחו\"ל, והפליגה בדמיון על סיפור אהבה בדיוני מהמאה הקודמת: \"נמלטתי מנשף\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21697241",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T16:22:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1380751",
@@ -102,6 +183,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-24T16:14:14.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873541",
+      "title": "בספרד מנתחים מדוע גורן יהיה בסגל לקאלסיקו: \"הפנינה מברצלונה\"",
+      "summary": "ב\"מארקה\" הקדישו לילד הפלא הישראלי כתבה שהסבירה מדוע הוא עשוי להיכלל בסגל מול ריאל מדריד: \"יציב במרכז המגרש\"",
+      "link": "https://sports.walla.co.il/item/3873541",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T16:12:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/winter-time-change-october-2026-haredi-impact",
@@ -507,6 +597,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T15:15:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383958717",
+      "title": "המבצע בחברון: החיילים חיפשו ב-200 מבנים - ולא מצאו כלום",
+      "summary": "כוחות דובדבן, מגלן, צנחנים ומג\"ב פועלים בחטיבת יהודה מול חמולת ג'בעה המזוהה עם חמאס. 200 מבנים נסרקו ללא ממצאים ועשרה חשודים נעצרו. עוד נודע כי לאזרחים התאפשרה פינוי זמני דרך נקודות בידוק",
+      "link": "https://www.walla.co.il/news/military/383958717",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T15:03:19.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383958717",
@@ -30810,78 +30909,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T16:47:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-trump-phone-call-warm-conversation",
-      "title": "השיחה החמה שהתקיימה בין נתניהו לטראמפ: \"נסיים את העבודה יחד\" | צפו",
-      "summary": "ראש הממשלה נתניהו הודה לנשיא טראמפ על תמיכתו • טראמפ כינה את נתניהו \"לוחם\" וחזה לו \"ניצחון עצום\" | צפו בשיחה המלאה (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-trump-phone-call-warm-conversation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T16:44:31.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383958097",
-      "title": "צרפת: בשל המהומות, הוחלט להטיל עוצר לילי בפריז ובערים נוספות",
-      "summary": "בצל הנאום של מקרון, העוצר צפוי לחול בארבע ערים בצפון המדינה: ליל, דואה, ואטיני ודנן. לפי דיווח של סוכנות הידיעות רויטרס, העוצר יחול בין 21:00 ל-07:00 בבוקר (שעון צרפת), במשך שני לילות",
-      "link": "https://www.walla.co.il/news/world/383958097",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T16:42:47.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383958097",
-      "title": "צרפת: בשל המהומות במדינה הוחלט להטיל עוצר לילי בכמה ערים",
-      "summary": "בצל הנאום של מקרון, העוצר צפוי לחול בארבע ערים בצפון המדינה: ליל, דואה, ואטיני ודנן. לפי דיווח של סוכנות הידיעות רויטרס, העוצר יחול בין 21:00 ל-07:00 בבוקר (שעון צרפת), במשך שני לילות",
-      "link": "https://www.walla.co.il/news/world/383958097",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T16:42:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21662294",
-      "title": "בגיל 34: הדוגמנית המפורסמת והאקסית של ג'סטין ביבר הלכה לעולמה",
-      "summary": "דוגמנית בגדי הים האוסטרלית, שכבשה את האינסטגרם ועלתה לכותרות בזכות קשר עם אחד הכוכבים הגדולים בעולם, הלכה לעולמה בבית החולים • המשפחה מסרה הודעה קצרה ונרגשת • ומה ידוע על המאבק הרפואי שניהלה בשנים האחרונות",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21662294",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T16:42:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88318",
-      "title": "חשד לחדירת מחבלים באזור אביתר בשומרון",
-      "summary": "פיקוד העורף הורה לתושבי אביתר באזור שומרון להיכנס מיד למרחב המוגן בעקבות חשד לחדירת מחבלים לאזור.",
-      "link": "https://www.kikar.co.il/scoop-news/88318",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T16:40:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88317",
-      "title": "חשש מחדירת מחבלים באביתר שבשומרון",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/88317",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T16:39:42.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958095",
-      "title": "\"אנחנו פלסטין?\" וינטר תקף את השר קרעי והליכוד",
-      "summary": "עופר וינטר תקף את קרעי בעקבות הכינוי \"פלסטין\" שלטענתו הופנה כלפיו, והאשים את הקואליציה בהתעלמות מבעיות המדינה. למרות הלחצים לפרוש, הבהיר: \"רצים עד הסוף!\"",
-      "link": "https://www.walla.co.il/news/politics/383958095",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T16:33:46.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958095",
-      "title": "וינטר במתקפה על קרעי והליכוד: \"הימין אינו רכושכם\"",
-      "summary": "עופר וינטר תקף את קרעי בעקבות הכינוי \"פלסטין\" שלטענתו הופנה כלפיו, והאשים את הקואליציה בהתעלמות מבעיות המדינה. למרות הלחצים לפרוש, הבהיר: \"רצים עד הסוף!\"",
-      "link": "https://www.walla.co.il/news/politics/383958095",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T16:33:46.000Z"
     }
   ]
 }
