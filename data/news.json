@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:30:50.027Z",
+  "updatedAt": "2026-10-24T20:46:04.599Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1380824",
+      "title": "\"נחש כזה\": המתקפה החריגה נגד מח\"ט הצנחנים שמסעירה את צה\"ל",
+      "summary": "מפקד חטיבת הצנחנים, אל\"ם רועי צווייג, הותקף ברשתות הימין הקיצוני בעקבות הצבת כוחותיו בעמק שילה למניעת אלימות נגד פלסטינים. בכירים בצה\"ל זועמים ודורשים לבחון חשד להסתה נגד הקצין",
+      "link": "https://www.maariv.co.il/news/military/article-1380824",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T20:39:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/land-encroachment-court-ruling",
+      "title": "טענו שפלשו רק 10 ס\"מ - בית המשפט חייב על מגרש שלם",
+      "summary": "ארבעה בעלי זכויות במגרש טענו כי החריגה לשטח הציבורי מסתכמת בסנטימטרים בודדים בלבד. אלא שבית המשפט קבע כי השימוש בקרקע מנע מהמדינה לנצל מגרש שלם בשטח 488 מ\"ר – וחייב אותם בתשלום דמי שימוש ובהוצאות משפט (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/land-encroachment-court-ruling",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-24T20:39:15.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1i11af53fx",
+      "title": "צעיר נעצר בחשד לתקיפת צוות האבטחה של בנט בסיור בתל אביב | תיעוד",
+      "summary": "החשוד, בן 23 מגבעתיים, נעצר בפארק המסילה בת\"א ותועד כששוטרים רוכנים מעליו ואוזקים אותו. הוא הועבר לחקירה בתחנה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1i11af53fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-24T20:30:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21629080",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 25.10.2026",
+      "summary": "אתם מוציאים דברים מהקשרם. ייתכן שתתקשו לשלוט על היצרים שלכם ומצב זה, בתזמון חסר מזל עלול להביא לתוצאות לא נעימות",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21629080",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21629081",
+      "title": "מזל שור, תחזית הורוסקופ יומית 25.10.2026",
+      "summary": "הנטייה שלכם לבדוק ולברר מה אתם מקבלים לפני שאתם מסכימים להתמסר ולהעניק מעצמכם לזולת עלולה להרוס קשר בהתהוות. &#xD; &#xD; עם כל הקסם האישי והכושר המניפולטיבי אתם עלולים למצוא את עצמכם במצב של \"אל חזור\"",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21629081",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T20:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21698559",
+      "title": "בר כהן: \"לא רוצה ממשלה כמו שקיימת היום\"",
+      "summary": "יוצרת התוכן שחשפה כי תצביע לירון זליכה נתקלה בעוקבת שלא הבינה מדוע תבחר בו • \"גם ביבי ישב בעבר עם מפלגות שמאל כדי להקים ממשלה, לא מאמינה לאף אחד מהם\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21698559",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T20:24:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89003",
       "title": "צעיר בן 20 נפצע קשה באירוע אלימות בנתניה",
       "summary": "צעיר כבן 20 נפצע קשה באירוע אלימות בשדרות בן צבי בנתניה. לפי צוותי איחוד הצלה, הצעיר סבל מפציעות חודרות וקיבל טיפול רפואי ראשוני בזירה. הוא פונה לבית חולים כשמצבו מוגדר קשה.",
@@ -48,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-24T20:20:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1380818",
+      "title": "\"רק ביבי\": הדרמה במהלך הסיור של נפתלי בנט ברמת גן",
+      "summary": "צעיר בן 23 מגבעתיים נעצר לאחר שלפי החשד ניסה להתקרב לנפתלי בנט במהלך סיור ברמת גן, תוך שצעק \"רק ביבי\". הוא התעמת עם מאבטחיו ודחף אחד מהם. במשטרה בודקים את נסיבות האירוע",
+      "link": "https://www.maariv.co.il/news/law/article-1380818",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T20:07:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1380818",
@@ -30963,33 +31026,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-19T21:00:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1379091",
-      "title": "דרמה בבית המשפט: התשתית הראייתית נגד אגם צרפי ושילת חוטה נסדקת",
-      "summary": "בית המשפט קבע כי אין די ראיות לכאורה לייחס לאגם צרפי ולשילת חוטה ביצוע רצח בצוותא, אך מצא תשתית לעבירת סיוע לרצח. השתיים הופנו לתסקיר שירות המבחן לקראת בחינת שחרורן",
-      "link": "https://www.maariv.co.il/news/politics/article-1379091",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T20:33:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1379091",
-      "title": "דרמה בפרשת בניהו רזי: סעיף הרצח נגד אגם צרפי ושילת חוטה נסדק",
-      "summary": "בית המשפט קבע כי אין די ראיות לכאורה לייחס לאגם צרפי ולשילת חוטה ביצוע רצח בצוותא, אך מצא תשתית לעבירת סיוע לרצח. השתיים הופנו לתסקיר שירות המבחן לקראת בחינת שחרורן",
-      "link": "https://www.maariv.co.il/news/politics/article-1379091",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T20:33:09.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skcomrm2gx",
-      "title": "רוב החשודים בתקיפת הצלמת והדיפלומטים יישארו במעצר",
-      "summary": "חשוד אחד טען שלא היה בזירה שבה הותקפה הצלמת היידי לוין, ומעצר שלושת האחרים הוארך עד ליום רביעי. השופטת האריכה גם את מעצרם של החשודים בתקיפת הדיפלומטים שביקרו באזור, ושחררה בתנאים מגבילים את הנותרים. עורכי דינם: \"אלו מעצרי ראווה. לא הוצגו ראיות\"",
-      "link": "https://www.ynet.co.il/news/article/skcomrm2gx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T20:31:13.000Z"
     }
   ]
 }
