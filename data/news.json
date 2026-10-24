@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T07:15:54.652Z",
+  "updatedAt": "2026-10-24T07:31:05.636Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1380625",
+      "title": "\"קן הנשרים\" של היטלר בגרמניה עלה באש - נבדקת אפשרות להצתה",
+      "summary": "שריפה גדולה פרצה ב\"קן הנשרים\", מבנה היסטורי ששימש את בכירי המפלגה הנאצית בזמן מלחמת העולם השנייה. נבדקת אפשרות של הצתה מכוונת",
+      "link": "https://www.maariv.co.il/news/world/article-1380625",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T07:22:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958673",
+      "title": "“קן הנשרים” בלהבות: האתר ההיסטורי של היטלר עולה באש",
+      "summary": "שריפה גדולה פרצה במבנה ששימש את ההנהגה הנאצית באלפים הבוואריים. כ-200 אנשי כוחות חירום הוזעקו למקום, והגישה ההררית הקשתה על הכיבוי. רוכב אופנוע נעצר, אך הקשר שלו לאירוע עדיין נבדק. לא דווח על נפגעים",
+      "link": "https://www.walla.co.il/news/world/383958673",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T07:18:18.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bkdl0tynzx",
       "title": "בן ה-6 שאמו נרצחה לנגד עיניו מטופל בידי הרווחה, סבתו בדרך לארץ: \"קשור אליה מאוד\"",
       "summary": "אמה של יאנה זיקובה (43), שנרצחה לפי החשד ע\"י בן זוגה בחיפה, עושה את דרכה מאוקראינה כדי לטפל בילד - תלמיד כיתה א' בעל צרכים מיוחדים - שהיה עד להתרחשות המזעזעת. שירותי הרווחה מחפשים אחר משפחה מורחבת שתסייע לו",
@@ -57,6 +75,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-24T07:05:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21695184",
+      "title": "ישראלי בקלאסיקו: \"אוריין גורן בדרך לסגל של ברצלונה\"",
+      "summary": "הקשר בן ה-17 עשוי לקבל סיכוי לקבל זימון בכורה לקבוצה הבוגרת, דווקא במשחק הנוצץ מול ריאל מדריד • השחקן הוקפץ לאימונים על ידי האנזי פליק, על רקע פציעתו של דני אולמו",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21695184",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T07:01:59.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383958580",
@@ -329,6 +356,15 @@
       "pubDate": "2026-10-24T03:11:42.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380585",
+      "title": "הייאוש מחלחל ללשכה: המהלך הדרמטי שנתניהו שקל להוציא לפועל | בן כספית",
+      "summary": "בסביבת נתניהו עלתה שוב האפשרות להכריז כי הקדנציה הבאה תהיה האחרונה שלו. הרעיון, שנבחן גם בעבר ונגנז, צפוי לרדת מהפרק גם הפעם, על רקע הקשיים בקמפיין והחשש מאובדן קולות בימין",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1380585",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T03:00:53.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1380581",
       "title": "חולמים את החלום המטריד הזה? המסקנה המפתיעה של המחקר החדש",
       "summary": "חולמים על נפילה, מרדף או מעלית שצונחת? מחקרים מגלים כי חלומות דומים חוזרים אצל אנשים רבים, אך משמעותם אינה בהכרח זהה. חוויות אישיות, איכות השינה ולחצים עשויים להשפיע על תוכן החלום",
@@ -414,15 +450,6 @@
       "title": "בלע את הצפרדע ויגורש מהעיר: מקרון נכנע לאסלאם הקיצוני - וקיבל שוב סטירה מצלצלת | דוד בן בסט",
       "summary": "כשהרחובות בוערים, חנויות נבזזות, ויהודים חוששים לביטחונם, מתגלה הפער המביש בין הפוזה הבינלאומית של ההנהגה הצרפתית לבין המציאות בבית",
       "link": "https://www.maariv.co.il/news/opinions/article-1380549",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-24T03:00:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380585",
-      "title": "הייאוש מחלחל ללשכה: המהלך הדרמטי שנתניהו שקל להוציא לפועל | בן כספית",
-      "summary": "בסביבת נתניהו עלתה שוב האפשרות להכריז כי הקדנציה הבאה תהיה האחרונה שלו. הרעיון, שנבחן גם בעבר ונגנז, צפוי לרדת מהפרק גם הפעם, על רקע הקשיים בקמפיין והחשש מאובדן קולות בימין",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1380585",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-24T03:00:53.000Z"
@@ -33447,159 +33474,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-19T07:34:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21656665",
-      "title": "פרסום ראשון: טל פרידמן יגלם את ראש הממשלה",
-      "summary": "השחקן האהוב בדרך לתפקיד חדש ומפתיע, שמכניס אותו ישר אל מוקד הלחץ",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21656665",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:31:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21656659",
-      "title": "\"אנחנו נבטיח הקמת ממשלת שינוי\": המסר של עבאס לציבור הערבי - דרך התקשורת הבינלאומית",
-      "summary": "יו\"ר רע\"מ קורא לציבור הערבי בישראל להגדיל את שיעור ההצבעה בבחירות, בתקווה לסייע בהחלפת ממשלת נתניהו • לדבריו, המפלגה עשויה להשתלב בקואליציה על אף ההתנגדות שמביע איזנקוט: \"המטרה - להפסיק את הרחבת ההתנחלויות ואת אלימות המתנחלים\" • ומה אמר על החבירה לסגלוביץ'?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21656659",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:27:36.000Z"
-    },
-    {
-      "id": "walla:https://healthy.walla.co.il/item/3872810",
-      "title": "לבבות דקל בשימורים: מה נשאר מהערך התזונתי?",
-      "summary": "סלט שהכינו ג'ודי ניר מוזס ורון לוין עורר שאלה על מקורם של לבבות הדקל. האם הקטיף הורג את הצמח, מה נשאר מהערך התזונתי בשימורים, ואיזה נתון כדאי לבדוק על האריזה? ד\"ר מאיה רוזמן מסבירה",
-      "link": "https://healthy.walla.co.il/item/3872810",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T07:26:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21656494",
-      "title": "קרן פלס: \"שרדתי כדי לספר\"",
-      "summary": "הזמרת והאקסית ואם שני ילדיו של כוכב הריאליטי נועם טור, פרסמה קטע וידאו בשעת לילה מאוחרת מאוד בו סיפרה על התחלה חדשה. \"אלוהים, תן לי את הכוחות\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21656494",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:25:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21656494",
-      "title": "קרן פלס בהתחלה חדשה: \"אני לא מבינה\"",
-      "summary": "הזמרת והאקסית ואם שני ילדיו של כוכב הריאליטי נועם טור, פרסמה קטע וידאו בשעת לילה מאוחרת מאוד בו סיפרה על התחלה חדשה. \"אלוהים, תן לי את הכוחות\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21656494",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:25:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/tn58fg",
-      "title": "צה\"ל חיסל ראש חוליה ושני מחבלים מהזרוע הצבאית של חמאס",
-      "summary": "שלושה מחבלים בזרוע הצבאית של ארגון הטרור חמאס, בהם ראש חוליה, חוסלו בסוף השבוע על-ידי צה\"ל בתקיפות בעזה | השלושה קידמו מתווי טרור נגד כוחות צה\"ל (צבא)",
-      "link": "https://www.kikar.co.il/security-news/tn58fg",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T07:25:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21656509",
-      "title": "אחרי 20 שנה: הלהקה האהובה חוזרת",
-      "summary": "להקת התבלינים מוציאה סינגל חדש מתוך אלבום שבדרך, שנכתב כבר לפני עשור • המטרה? לשמור על החיבור בין אנשים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21656509",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:25:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378790",
-      "title": "ברק סרי מתפוצץ על \"הפטריוטים\" - ומסמן את האחראי האמיתי",
-      "summary": "בעקבות הכינוי שהצמיד ינון מגל לגדי איזנקוט והצחוק באולפן \"הפטריוטים\", ברק סרי יוצא למתקפה חריפה על המשתתפים ומפנה את האש גם לנתניהו: \"אני לא מבין את הצחוק הזה\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1378790",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T07:25:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1378790",
-      "title": "\"הוא בובה על חוט\": ברק סרי תוקף את ינון מגל ומאשים את נתניהו",
-      "summary": "בעקבות הכינוי שהצמיד ינון מגל לגדי איזנקוט והצחוק באולפן \"הפטריוטים\", ברק סרי יוצא למתקפה חריפה על המשתתפים ומפנה את האש גם לנתניהו: \"אני לא מבין את הצחוק הזה\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1378790",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T07:25:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21656442",
-      "title": "עירית לינור קיבלה פתק מנתניהו: \"סגירת מעגל\"",
-      "summary": "אשת התקשורת ביקשה מספר פעמים מראש הממשלה להשאיר לה את אחת מכרטיסיות הריאיון - והפעם הוא נענה לבקשתה • לינור גילתה: מה היה כתוב על הפתק, ומה היא עשתה איתו: \"אהבה זאת אהבה\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21656442",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T07:24:58.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958013",
-      "title": "הגוועלד של וינטר: \"מי שמנסה לחסל אותנו מסכן את הימין\"",
-      "summary": "ב\"עמך ישראל\" טוענים כי המתקפות נגדם, שהובילו לדעיכה בסקרים, מסכנות את ניצחון הימין. בגוש נתניהו אין תמימות דעים - וינטר הוא \"בנט 2\" או בזבזן קולות?",
-      "link": "https://www.walla.co.il/news/politics/383958013",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T07:23:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1378784",
-      "title": "הדלק יקר מדי? החקלאי האיטלקי מצא תחליף לטרקטור",
-      "summary": "מחאת יוקר המחיה באיטליה קיבלה תפנית משעשעת כשחקלאי הגיע להפגנה עם האתון סוזי, שהפכה מיד לכוכבת האירוע. לדבריו, ייתכן שדווקא היא הפתרון להתייקרות הדלק",
-      "link": "https://www.maariv.co.il/news/viral/article-1378784",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T07:22:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1378788",
-      "title": "אנדרטה לזכרו של מודי אלון נחשפה בהרצליה",
-      "summary": "78 שנה לאחר שנהרג בהתרסקות סמוך לשדה התעופה בהרצליה, נחשפה אנדרטה לזכר סא\"ל מודי אלון, מפקדה הראשון של טייסת 101 ומחלוצי הטיסה הקרבית בחיל האוויר",
-      "link": "https://www.maariv.co.il/news/military/article-1378788",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T07:20:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkrw0vqnfl",
-      "title": "בן שנה וחצי נחנק למוות מגרעין: \"ילד מיוחד ואהוב על כולם\"",
-      "summary": "כרם מג'ד ג'מאל הלסה ממזרח ירושלים מת מחנק לאחר שלפי החשד בלע גרעין. חברי המשפחה סיפרו כי \"הם באבל כבד, חייהם הפכו לטרגדיה\"",
-      "link": "https://www.ynet.co.il/news/article/bkrw0vqnfl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T07:20:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/parking-fee-evasion-crash-moscow",
-      "title": "טעות של הביוקר: נהג ערמומי נצמד לפורשה ולמד את הלקח",
-      "summary": "150 רובל בלבד הפרידו בין הנהג במוסקבה לבין היציאה מהחניון. הוא החליט לנסות תרגיל מתוחכם ונצמד לפורשה שלפניו (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/parking-fee-evasion-crash-moscow",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T07:19:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/police-motorcycle-chase-arrest",
-      "title": "14 דקות של מרדף אחר אופנוע משופר הסתיימו במעצר | צפו בדרמה",
-      "summary": "מרדף אחר אופנוע משופר שביצע עשרות עבירות תנועה הסתיים כעבור 14 דקות במעצרו של הנהג על ידי אופנוען מהמחוז הצפוני | צפו (משטרה)",
-      "link": "https://www.kikar.co.il/police/police-motorcycle-chase-arrest",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T07:18:01.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1yt3e7nzg",
-      "title": "ביקור מדיני ראשון אחרי נפילתו של אורבן: הנשיא הרצוג ימריא לבודפשט",
-      "summary": "רגע לפני הבחירות כאן בישראל, נשיא המדינה ייצא מחר לביקור בזק של 12 שעות בהונגריה, במהלכו ייפגש עם הנשיא ועם ראש הממשלה החדש פטר מדיאר",
-      "link": "https://www.ynet.co.il/news/article/h1yt3e7nzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T07:16:28.000Z"
     }
   ]
 }
