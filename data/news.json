@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:15:57.539Z",
+  "updatedAt": "2026-10-24T22:30:55.827Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21698684",
+      "title": "בכיר במשק הישראלי: \"גם אחריות עסקית - היא ציונות\"",
+      "summary": "איננו רואים בפעילותנו החברתית עשיית טובה למי שסיכנו את חייהם כדי להגן עלינו • להפך - זו זכות לעבוד לצידם, ללמוד מהם ולראות בהם חלק מדור המנהיגים הבא של ישראל",
+      "link": "https://www.israelhayom.co.il/news/local/article/21698684",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T23:07:36.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89010",
       "title": "צה\"ל מגביל כניסת פועלים פלסטינים ליהודה ושומרון לקראת הבחירות",
@@ -31170,15 +31179,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-19T22:46:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21663616",
-      "title": "עשר דקות לפני הפתיחה: קלף תורה שבזזו הנאצים הורד מהמכירה הפומבית",
-      "summary": "דיווח בנורבגיה: בית המכירות הפומביות שמכר קלף של ספר תורה שנבזז על ידי חייל נאצי רכש בעצמו את הקלף לאחר הלחץ שהופעל על ידי משרד החוץ הישראלי",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21663616",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T22:27:42.000Z"
     }
   ]
 }
