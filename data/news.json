@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:15:41.475Z",
+  "updatedAt": "2026-10-24T08:30:57.066Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1380632",
+      "title": "שובו של החבר מצפון: קים ג'ונג-און חצה את הגשר לסין",
+      "summary": "קים ג'ונג-און הגיע לביקור ראשון בסין זה כשנה, על רקע הידוק היחסים עם בייג'ינג ומוסקבה והמתיחות מול ארה\"ב. במקביל, בדרום קוריאה מעריכים כי קיים סיכוי לפגישה בינו לבין טראמפ בחודש הבא",
+      "link": "https://www.maariv.co.il/news/world/article-1380632",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-24T08:27:08.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/ryhd4yq2fx",
       "title": "אתר הנופש האהוב על אדולף היטלר עלה באש - 200 כבאים הוזעקו לכבות אותו",
       "summary": "שריפה גדולה פרצה במבנה ההיסטורי שמכונה \"קן הנשרים\" - אתר נופש הררי ששימש בעבר את מנהיג גרמניה הנאצית. אדם נעצר בחשד למעורבות באירוע",
@@ -39,6 +48,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-24T08:09:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21682136",
+      "title": "דווקא במקום שבו נתניהו נחשב מלך, חיכתה לנו הפתעה",
+      "summary": "ראש הממשלה זוכה כאן ליותר מ-50% מהקולות • אבל התוצאה החשובה יותר, כך נדמה, מסתתרת דווקא במפלגה שרק מעטים יצביעו לה • מגזין \"היום\" יוצא לתור את הארץ עם קלפי נודדת - וחוזר כדי לספר • קלפי על הדרך: מדור אחרון לפני הבחירות",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21682136",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-24T08:08:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383958513",
+      "title": "מי ניצח ומי הפסיד אחרי שקיבל את תמיכת נשיא ארה”ב?",
+      "summary": "מבודפשט ועד טוקיו, תמיכת נשיא ארה\"ב הפכה למותג גלובלי. נתניהו הצטרף השבוע לרשימת המנהיגים שמבקשים להרוויח מחותמת ״הכשרות״ של האיש החזק בבית הלבן. האם מדובר בנכס אלקטורלי או בחיבוק שעלול להפוך למלכודת?",
+      "link": "https://www.walla.co.il/news/world/383958513",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-24T08:05:25.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383958677",
@@ -33114,168 +33141,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-19T08:31:18.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3872835",
-      "title": "ארקיע מכרה אלפי כרטיסים לטוקיו בלי אישור - ונתבעת במיליונים",
-      "summary": "ארקיע מכרה אלפי כרטיסים לטוקיו בלי אישור - ונתבעת במיליונים",
-      "link": "https://travel.walla.co.il/item/3872835",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T08:30:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/houthi-leader-claims-israeli-officers-in-saudi-arabia",
-      "title": "מנהיג החות'ים: קצינים ישראלים פועלים מבסיסים סעודיים",
-      "summary": "מנהיג החות'ים חוזר על טענותיו נגד סעודיה • טראמפ אישר: ישראל מסייעת לריאד במלחמה בחות'ים | האם יש ראיות לשיתוף פעולה צבאי? (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/houthi-leader-claims-israeli-officers-in-saudi-arabia",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T08:29:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skdhsmfsmx",
-      "title": "מפת העודפים: ההסכמים - ואיך הם ישפיעו על הבחירות",
-      "summary": "בגוש השינוי סגרו את כל הפינות, המפלגות החרדיות והערביות הגיעו להסכמות, נתניהו וסמוטריץ' שילבו ידיים - אבל וינטר ובן גביר לא הגיעו להסכם, וגם הנדל וזליכה נותרו לבד. איך עובדים הסכמי העודפים - ולמה השיטה מסייעת למפלגות הגדולות?",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skdhsmfsmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-19T08:28:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21656521",
-      "title": "כל עציץ אצלכם מת? 5 צמחי בית שכמעט בלתי אפשרי להרוג",
-      "summary": "יש אנשים שמצליחים להפוך את הבית לג'ונגל ירוק ומרשים, ויש מי שגם עציץ תמים מצליח להתייבש אצלם • אם אתם שייכים לקבוצה השנייה, כדאי שתכירו חמישה צמחי בית עמידים שדורשים מעט תחזוקה ויכולים להתאים גם למי ששוכחים לפעמים להשקות",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21656521",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:28:15.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3872831",
-      "title": "\"מפחיד אותי מה שקורה\": הפוסט הסוער של השף רז רהב",
-      "summary": "בזמן שרוב המפורסמים מפחדים לפתוח את הפה כדי לא לפגוע באלגוריתם, השף רז רהב מחליט לשבור שתיקה. בפוסט עוצמתי הוא מסביר מדוע נמאס לו לשתוק, למה הייאוש המתפשט מפחיד אותו יותר מכל דבר אחר. קריאת חובה",
-      "link": "https://food.walla.co.il/item/3872831",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T08:28:00.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3872831",
-      "title": "\"אחרים עלולים לשלם על הדעות שלי\": השף בווידוי אמיץ במיוחד",
-      "summary": "בזמן שרוב המפורסמים מפחדים לפתוח את הפה כדי לא לפגוע באלגוריתם, השף רז רהב מחליט לשבור שתיקה. בפוסט עוצמתי הוא מסביר מדוע נמאס לו לשתוק, למה הייאוש המתפשט מפחיד אותו יותר מכל דבר אחר. קריאת חובה",
-      "link": "https://food.walla.co.il/item/3872831",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T08:28:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21656964",
-      "title": "בלי לגהץ שעות: הטריק שיעלים לכם את הקמטים מהבגדים",
-      "summary": "הבגדים יצאו מקומטים ואין זמן לעמוד מול הקרש? טרנד הרשת הויראלי מבטיח להחליק את הקמטים תוך 10 דקות בלבד בעזרת מייבש הכביסה ופריט פשוט מהמטבח • מומחים מסבירים איך זה עובד, וממה חייבים להיזהר • כך תעשו זאת נכון",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21656964",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:27:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1378827",
-      "title": "הפאניקה מאחורי הקלעים בבית הלבן: אנשי טראמפ ממהרים לעורכי דין",
-      "summary": "שרים ובכירים בממשל טראמפ פונים למשרדי עורכי דין מחשש שהדמוקרטים ישיגו שליטה בקונגרס ויפתחו בגל חקירות. על הפרק: חנינות, עסקי המשפחה ואפילו חתונת בנו של הנשיא",
-      "link": "https://www.maariv.co.il/news/world/article-1378827",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T08:26:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1378817",
-      "title": "חי בזהותו של אחיו המת 19 שנה - ונתפס בגלל טעות אחת",
-      "summary": "גבר סיני שהיה מבוקש בגין חטיפה ושוד הצליח להונות את הרשויות במשך כמעט שני עשורים, לאחר שאימץ את זהותו של אחיו התאום שנהרג בתאונת דרכים. תמונה ישנה ועדות של אישה מעברו חשפו את התרמית",
-      "link": "https://www.maariv.co.il/news/viral/article-1378817",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T08:22:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378824",
-      "title": "הפרשה שמסעירה את לשכת נתניהו: כספית ומגל ראש בראש",
-      "summary": "בן כספית תקף בחריפות את יונתן אוריך וטען כי התנהלותו מול קטאר גרמה נזק לביטחון ישראל וליחסים עם מצרים. ינון מגל דחה את ההאשמות, טען שהפרסומים הם \"פייק\" והציג עמדה שונה בנוגע להיבט הביטחוני",
-      "link": "https://www.maariv.co.il/news/politics/article-1378824",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T08:22:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1378824",
-      "title": "ינון מגל מודה: \"זה לא בסדר שהם עבדו עבור קטאר\"",
-      "summary": "בן כספית תקף בחריפות את יונתן אוריך וטען כי התנהלותו מול קטאר גרמה נזק לביטחון ישראל וליחסים עם מצרים. ינון מגל דחה את ההאשמות, טען שהפרסומים הם \"פייק\" והציג עמדה שונה בנוגע להיבט הביטחוני",
-      "link": "https://www.maariv.co.il/news/politics/article-1378824",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-19T08:22:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21657107",
-      "title": "9 ימים לבחירות: מגי טביבי מתחדשת",
-      "summary": "בפתח המהדורה המרכזית, שיתפה המגישה את הצופים בהיערכות השיא של הערוץ לקראת ההכרעה בקלפיות • \"מערכת הבחירות הגורלית במדינה\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21657107",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:21:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21656961",
-      "title": "\"בעוד עשור תהיה נציבת כבאות בישראל\"",
-      "summary": "רק 28 לוחמות אש משרתות במערך, וכעת כ-30 נשים ינסו לשנות את התמונה במכינה ייעודית ראשונה • במשך 9 שבועות הן יתכוננו למבחנים הפיזיים והמנטליים, במטרה להכפיל את שיעור הנשים בשטח • הנציב מבהיר: \"לא נקצר לכן תהליכים, אבל ניתן לכן את הכלים הכי טובים להצליח\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21656961",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:21:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21656961",
-      "title": "הנשים שלא צולחות את הגיבוש - וההבטחה: \"בעוד עשור תהיה נציבת כבאות בישראל\"",
-      "summary": "רק 28 לוחמות אש משרתות במערך, וכעת כ-30 נשים ינסו לשנות את התמונה במכינה ייעודית ראשונה • במשך 9 שבועות הן יתכוננו למבחנים הפיזיים והמנטליים, במטרה להכפיל את שיעור הנשים בשטח • הנציב מבהיר: \"לא נקצר לכן תהליכים, אבל ניתן לכן את הכלים הכי טובים להצליח\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21656961",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:21:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3872828",
-      "title": "רונאלדו מביס את מסי: ההצבעה המפתיעה של כדור הזהב",
-      "summary": "האתר הרשמי השיק הצבעת אוהדים לבחירת הזכייה הגדולה בתולדות הפרס, וכרגע CR7 של 2008 מוביל עם 62% לעומת 13% למסי של 2012. הקאץ': כל קול עולה יורו ואפשר להצביע שוב ושוב",
-      "link": "https://sports.walla.co.il/item/3872828",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-19T08:20:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-considers-kharg-island-attack-iran-oil",
-      "title": "דיווח דרמטי: טראמפ שוקל תקיפה באי הנפט האיראני - עוד לפני בחירות האמצע בארה\"ב",
-      "summary": "הנשיא האמריקאי דן עם יועציו בתקיפות צבאיות נגד מתקני הנפט המרכזיים | האי מהווה את עורק התחבורה הראשי לייצוא הנפט של איראן | לפי הדיווח, טראמפ שוקל לעשות זאת עוד לפני הבחירות | החישובים הפוליטיים לקראת בחירות האמצע (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-considers-kharg-island-attack-iran-oil",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T08:19:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-germany-energy-warning-rubio",
-      "title": "הצחוק שהפך לסיוט: רוביו מחזיר לגרמנים את הסרטון החיוכים המביך",
-      "summary": "ב-2018 הזהיר הנשיא האמריקני את גרמניה מפני התלות שלה באנרגיה רוסית, והמצלמות תפסו את התגובה המשועשעת של המשלחת הגרמנית | כעת מזכיר המדינה האמריקני מציף את התיעוד בחזרה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-germany-energy-warning-rubio",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-19T08:19:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21657084",
-      "title": "אסי עזר משתף: ״פחדתי שאני הולך ומשתגע״",
-      "summary": "מגיש הטלוויזיה השיב לשאלות עוקביו באינסטגרם ושיתף בפתיחות על התקפי החרדה • \"כשהחרדה לא מטופלת היא מפחידה\" • עזר התייחס להתאמת התרופות והמליץ לא להסס לפנות לטיפול",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21657084",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-19T08:15:52.000Z"
     }
   ]
 }
