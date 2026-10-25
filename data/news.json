@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:46:05.231Z",
+  "updatedAt": "2026-10-25T06:55:59.737Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/india-effigy-fireworks-disaster",
+      "title": "רגע מאסון: בובת ענק השיבה באש זיקוקים קטלנית על ההמונים",
+      "summary": "שריפת דמות הענק המסורתית בהודו יצאה משליטה בתוך שניות: זיקוקים ורקטות החלו לעוף ישירות לתוך ההמון שנמלט בבהלה. הרשת כבר סוערת: \"זה נראה כמו מתקפת נגד\" (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/india-effigy-fireworks-disaster",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-25T06:51:23.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89029",
       "title": "מהומות בברצלונה: פורעים אנרכיסטים משחיתים רכוש בכיכר קטלוניה",
       "summary": "ספרד מצטרפת לגל המהומות באירופה לאחר צרפת, איטליה ובלגיה. פורעים אנרכיסטים משחיתים רכוש בכיכר קטלוניה בברצלונה.",
@@ -59,10 +68,10 @@
       "pubDate": "2026-10-25T06:39:29.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/manhattan-chabad-hasid-attack-suspect-arrested",
+      "id": "kikar:https://www.kikar.co.il/haredim-news/manhattan-chabad-hasid-attack-suspect-arrested",
       "title": "אחרי שהתנפלה עם מזרק על בחור ישיבה: החשודה נתפסה במהלך השבת",
       "summary": "חשודה בתקיפה אנטישמית של חסיד חב\"ד ברחוב 47 במנהטן נעצרה במהלך השבת • שיתוף פעולה בין ארגוני השמירה והמשטרה הוביל למעצר (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/manhattan-chabad-hasid-attack-suspect-arrested",
+      "link": "https://www.kikar.co.il/haredim-news/manhattan-chabad-hasid-attack-suspect-arrested",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-25T06:39:18.000Z"
@@ -84,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-25T06:39:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/weapon-theft-givat-shmuel-school-guard",
+      "title": "חשד לחטיפת נשק ממאבטח בגבעת שמואל: המשטרה בסריקות נרחבות",
+      "summary": "חשוד תקף מאבטח בית ספר ברחוב יהושע יגל בגבעת שמואל, חטף את נשקו ונמלט מהמקום | כוחות משטרה נרחבים בסריקות (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/weapon-theft-givat-shmuel-school-guard",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-25T06:37:56.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/weapon-theft-givat-shmuel-school-guard",
@@ -30459,78 +30477,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T06:56:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/beauty/article/21665018",
-      "title": "עוד לפני הבלאק פריידי: אלפי מוצרי ביוטי בהנחות ענק",
-      "summary": "ענקית המסחר פתחה את עונת הקניות עם אירוע מכירות מיוחד למוצרי איפור, טיפוח, בישום ושיער, בהשתתפות מותגים כמו שרלוט טילבורי, קליניק, לנקום וקיל'ס • המבצעים מתחלפים מדי 48 שעות, וגם הישראלים יכולים להצטרף לחגיגה - אפילו כשאין משלוח ישיר לארץ",
-      "link": "https://www.israelhayom.co.il/lifestyle/beauty/article/21665018",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-20T06:55:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14930420",
-      "title": "איפה העימות, איפה אספות הבוחרים ואיפה הסטיקרים?",
-      "summary": "אתה מהדור הישן, אומרים לי יועצי בחירות, כיום מערכות התעמולה מתנהלות אך ורק ברשתות חברתיות. כל מאמצי ההשפעה והשכנוע בעולם מופנים לשם. האמנם?",
-      "link": "https://www.ynet.co.il/news/article/yokra14930420",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-20T06:54:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14930420",
-      "title": "איפה עימות, איפה אספות בוחרים ואיפה הסטיקרים?",
-      "summary": "אתה מהדור הישן, אומרים לי יועצי בחירות, כיום מערכות התעמולה מתנהלות אך ורק ברשתות חברתיות. כל מאמצי ההשפעה והשכנוע בעולם מופנים לשם. האמנם?",
-      "link": "https://www.ynet.co.il/news/article/yokra14930420",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-20T06:54:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21664340",
-      "title": "\"בית ספר לעבריינות\": הסוד מאחורי מעגל הפשיעה בנגב - והאזהרה",
-      "summary": "על רקע הפרוטקשן וסכסוכי הדמים בדרום, סא\"ל במיל' חניט שגיא מזהירה כי מאסר לבדו אינו מרתיע עבריינים • לדבריה, הכלא עלול לחזק קשרים פליליים, והמשוחררים חוזרים לאותה סביבה ללא כלים להשתקם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21664340",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-20T06:52:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tn716o",
-      "title": "שלום עם מפלצות?: שורדת השבי נגד חוגגי הכאפייה וה\"שיר לשלום\" בעוטף",
-      "summary": "20 קילומטרים בלבד ממתחם הנובה: אמילי דמארי צפתה בתיעוד מהפסטיבל והגיבה בזעזוע (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/israel-news/tn716o",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-20T06:51:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tn70x5",
-      "title": "חבר המועצת בחשיפה דרמטית: הרב אלישיב אמר לי שבזמננו גם הגרב\"צ אבא שאול היה מודה שחובה להצביע",
-      "summary": "חבר המועצת, הגאון רבי יצחק זילברשטיין, חשף התבטאות חריפה של חמיו מרן פוסק הדור הגאון רבי יוסף שלום אלישיב זצ\"ל בענין חובת ההצבעה בבחירות | צפו בדברים באדיבות מערכת דברי חמד (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tn70x5",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-20T06:50:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14932379",
-      "title": "הערבים שותפים רק כשזקוקים לקולות שלהם",
-      "summary": "מנהיגי המחנה המכנה את עצמו \"ליברלי\" ו\"דמוקרטי\" מדברים על שוויון ושינוי, אבל כשמגיע הרגע לתרגם את הערכים האלה לכוח פוליטי, הם ממהרים להציב גבולות. בזה אחר זה נשמעות מצידם הצהרות על כך שלא תוקם ממשלה הנשענת על המפלגות הערביות, כאילו השותפות איתן היא פגם שיש להתנצל עליו",
-      "link": "https://www.ynet.co.il/news/article/yokra14932379",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-20T06:49:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21664969",
-      "title": "חיים בסקר: למה הסקרים של 14 ו-15 כל כך שונים?",
-      "summary": "במשך שנים היינו רגילים לכך שהסקרים של ערוצים 1, 2 ו-10 נבדלים במנדט בודד לפה או לשם • בשנים האחרונות, הערוצים שהפכו ל-11, 12 ו-13 ממשיכים להיות דומים, אך הערוצים החדשים 14 ו-15 מראים סקרים שונים מאוד • מי צודק, מי טועה, ומה מוביל להבדלים?",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21664969",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-20T06:47:53.000Z"
     }
   ]
 }
