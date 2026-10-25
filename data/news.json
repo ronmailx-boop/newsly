@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:30:59.312Z",
+  "updatedAt": "2026-10-25T18:46:01.879Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1381242",
+      "title": "בעולם מציגים: הבחירות בישראל - הקרב האחרון על נשמתה של המדינה | ניתוח",
+      "summary": "הפייננשל טיימס מגדיר את הבחירות ביום שלישי כ\"קרב על נשמת האומה\", מותח ביקורת קשה על נתניהו וקובע: ישראל זקוקה למנהיגות אחראית שתבין שביטחון לא יושג באמצעות מלחמה בלתי פוסקת",
+      "link": "https://www.maariv.co.il/news/politics/article-1381242",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-25T18:44:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/mayriv/tnh7rs",
+      "title": "מביך: הרכב שנשכר לטנף את בני ברק בפאשקווילים - חושף את האמת מאחורי הקמפיין המשותף | מעייריב",
+      "summary": "לא להאמין: האמת מאחורי הפאשקווילים שטינפו את בני ברק | גדולי הפוסקים במתקפה חזיתית על לייטנר | הישגים בולטים לש\"ס והליכוד: נמנעה שריפת עשרות אלפי קולות | היערכות שיא של מתנגדי המפלגות החרדיות למנוע הצבעה חרדית (מעייריב)",
+      "link": "https://www.kikar.co.il/mayriv/tnh7rs",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-25T18:43:17.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1381236",
+      "title": "מה באמת קורה בישראל למי שמתעללים בבעלי חיים? התשובה מטרידה",
+      "summary": "סרטון ההתעללות בחתולה ממנחמיה עורר זעם, אבל נתוני האכיפה מעלים שאלות קשות: אלפי תלונות על צער בעלי חיים, חמישה קנסות מנהליים בלבד ב-2024 וירידה במספר כתבי האישום",
+      "link": "https://www.maariv.co.il/news/israel/article-1381236",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-25T18:32:43.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1381234",
       "title": "אחרי התמיכה של הרב סדן, וינטר בכנס \"עמך ישראל\": \"הם מפחדים\"",
       "summary": "בכנס המסכם של \"עמך ישראל\" בירושלים טען יו\"ר המפלגה עופר וינטר כי הושקעו עשרות מיליוני שקלים בניסיון לפגוע בקמפיין, וקרא לתומכיו: \"אל תחששו. לכו עם הלב שלכם\"",
@@ -48,6 +75,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-25T18:27:25.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hj8lrao3fe",
+      "title": "רוכב קורקינט חשמלי נהרג מפגיעת אוטובוס ליד אור עקיבא",
+      "summary": "הרוכב, כבן 25, נפגע בכביש 4, נפצע אנושות ומותו נקבע במקום. נהג האוטובוס, כבן 50, נפצע קל ופונה לבית החולים",
+      "link": "https://www.ynet.co.il/news/article/hj8lrao3fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-25T18:26:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21705948",
+      "title": "200 ק\"ג שווארמה: ההישג ההיסטורי של נבחרת ישראל",
+      "summary": "בהשתתפותה הראשונה אי פעם, הצליחה נבחרת ישראל לגבור על 17 מדינות ולהביא כבוד עצום לתעשיית הבשר המקומית • \"חזרנו עם המקום הראשון בתחרות הבינלאומית\"",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21705948",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-25T18:17:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21705845",
+      "title": "\"מלחמה שאיש לא ביקש\": אובמה תוקף את טראמפ ומתייצב לצד המועמד האנטי-ישראלי",
+      "summary": "בעצרות בחירות באוהיו ובמישיגן האשים הנשיא לשעבר את טראמפ באחריות ליוקר המחיה וטען כי הסכם הגרעין שהשיג מנע מאיראן לפתח נשק גרעיני ללא פעולה צבאית • הוא גם לעג לעיצוב הבית הלבן: \"הצ'יזקייק פקטורי של סדאם חוסיין\" • במקביל העניק תמיכה לעבדול אל-סייד, המתנגד לסיוע הצבאי האמריקני לישראל",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21705845",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-25T18:16:06.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873552",
+      "title": "חי: אחרי עימות מוזר על הדשא, בית\"ר עלתה ליתרון מוקדם",
+      "summary": "צפו השער: עומר אצילי הוכשל ברחבה וירדן שועה דייק מהנקודה הלבנה והעניק לירושלמים יתרון בדקה ה-12. הראל שלום לראשונה בהרכב המארחת, שכבשה רק שלושה שערים העונה ושקועה בתחתית",
+      "link": "https://sports.walla.co.il/item/3873552",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-25T18:15:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21705929",
@@ -75,6 +138,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T18:09:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21705760",
+      "title": "חי מליגת העל: הפועל פתח תקווה - בית\"ר ירושלים 1:0",
+      "summary": "הצהובים-שחורים רוצים לחזור למסלול הניצחונות ולשמור על המרחק מהפסגה • המלאבסים במשבר ולא ניצחו כבר חמישה מחזורים ברציפות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21705760",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-25T18:05:53.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21705760",
@@ -642,6 +714,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-25T16:23:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21704751",
+      "title": "חברים מצה\"ל ויועצים צעירים: הפנים והשמות מאחורי גדי איזנקוט",
+      "summary": "הם מלווים אותו עוד מימיו בצמרת צה\"ל, נשארו לצדו גם כשנפרד מגנץ והקים מפלגה משלו, וכעת עשויים להגיע איתו ללשכת ראש הממשלה • לצד אנשי האמון הוותיקים פועלים דוברים צעירים ואיש קריאייטיב שהגיע מהליכוד • מי האנשים הקרובים ביותר לאיזנקוט, ואילו תפקידים הם עשויים למלא אם ינצח בבחירות?",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21704751",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-25T16:23:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21704751",
@@ -31044,51 +31125,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-20T18:48:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21671971",
-      "title": "\"קללת קנדי\": קייל, הנכדה של רוברט ואתל ואחיינית השר מתה בגיל 42",
-      "summary": "לפי הדיווח, קנדי מתה ב-21 בספטמבר בביתה במסצ'וסטס, שש שנים אחרי שנפגעה בחוט השדרה ונותרה משותקת • סיבת מותה לא נמסרה, וההלוויה נערכה בטקס פרטי",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21671971",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-20T18:43:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88478",
-      "title": "נהג בן 55 נפצע בינוני בתאונת דרכים בעוספיא",
-      "summary": "נהג רכב בן 55 נפצע באורח בינוני בתאונת דרכים בשדרות אבא חושי בעוספיא. בתאונה היו מעורבים שני כלי רכב, ונפגעה גם אישה בת 55 שמצבה קל. צוותי איחוד הצלה העניקו טיפול רפואי ראשוני בזירה.",
-      "link": "https://www.kikar.co.il/scoop-news/88478",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-20T18:41:19.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3873097",
-      "title": "יעקב ברדוגו: \"ניסיתי זריקות הרזיה, אבל הן לא השפיעו עליי\"",
-      "summary": "בכיר הליכוד סיפר ב\"סרי ושלזינגר\" כי ניסה לרדת במשקל באמצעות זריקות, אך ללא הצלחה: \"הרופא אמר שאני באחוזים שזה לא עובד עליהם\". עם זאת, הבהיר כי הוא מרוצה מהמראה שלו: \"אני רק רוצה את הבריאות\"",
-      "link": "https://celebs.walla.co.il/item/3873097",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-20T18:39:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1379497",
-      "title": "בצה\"ל החליטו להוריד את הכפפות: הצנחנים נשלחים לזירה נפיצה",
-      "summary": "צה\"ל מציב את ההצנחנים בחזית המאבק בטרור יהודי, והשב\"כ מפעיל יחידת עילית שנלחמת בדרך כלל בחמאס ובג'יהאד האיסלאמי. כ-500 מעורבים על הכוונת, אך במערכת הביטחון מסמנים מכשול",
-      "link": "https://www.maariv.co.il/news/military/article-1379497",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-20T18:37:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1379497",
-      "title": "לא רק חמאס וג'יהאד: המשימה החדשה של יחידת העילית בשב\"כ",
-      "summary": "צה\"ל מציב את ההצנחנים בחזית המאבק בטרור יהודי, והשב\"כ מפעיל יחידת עילית שנלחמת בדרך כלל בחמאס ובג'יהאד האיסלאמי. כ-500 מעורבים על הכוונת, אך במערכת הביטחון מסמנים מכשול",
-      "link": "https://www.maariv.co.il/news/military/article-1379497",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-20T18:37:11.000Z"
     }
   ]
 }
