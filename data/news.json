@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:16:01.209Z",
+  "updatedAt": "2026-10-26T23:24:14.461Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21715041",
+      "title": "המרוץ למילון: בחירות 2026 - מא' ועד ת'",
+      "summary": "משובם של חוגי הבית ועד התנינים, מהקוף העדתי ועד שרשר המלך, מקמילת הכתבים הפוליטיים ועד פריחת היועצים המאכערים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21715041",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T23:03:22.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14939434",
       "title": "מותר גם לחלום",
@@ -642,6 +651,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-26T20:04:01.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873848",
+      "title": "הארי קיין זכה לראשונה בקריירה בכדור הזהב",
+      "summary": "הטקס היוקרתי בפריז הכתיר את כוכב באיירן מינכן, שהתגבר על לאמין ימאל וקיליאן אמבפה. מסי סיים חמישי. כוכב ברצלונה יתנחם עם זכייה שלישית ברציפות בפרס השחקן הצעיר המצטיין",
+      "link": "https://sports.walla.co.il/item/3873848",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T20:00:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3873848",
@@ -1290,6 +1308,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-26T17:49:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
+      "title": "הכדורגלן הטוב בעולם: הארי קיין זכה בכדור הזהב",
+      "summary": "כוכב באיירן מינכן ונבחרת אנגליה הוכתר לשחקן הטוב בעולם לשנת 2026 מטעם מגזין \"פראנס פוטבול\" • אחרי 45 שנה שחקן ממועדון הפאר הגרמני זכה בפרס, הוא גם האנגלי הראשון לעשות זאת מאז מייקל אואן",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T17:45:08.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
@@ -31647,24 +31674,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T23:43:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21682110",
-      "title": "הטאבו נשבר: הדרך של איראן מהכחשת הפצצה לאיום הגרעיני",
-      "summary": "במשך שנים הסתתרה טהרן מאחורי פסיקה דתית האוסרת נשק גרעיני, אף שניהלה תוכנית חשאית לפיתוחו • כעת, בעקבות המלחמה וחיסול חמינאי, מתרחב השיח באיראן על הצורך בפצצה – וגם הרעיון של פרישה מהאמנה למניעת הפצת נשק גרעיני כבר אינו טאבו",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21682110",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T23:23:52.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14934126",
-      "title": "אחותו נרצחה בפיגוע, הוא עובר לגור בסמוך: \"אחרי אירוע קשה - מתרחבים ובונים\"",
-      "summary": "שבע שנים אחרי שאחותו רנה שנרב נרצחה בפיגוע במעין דני והוא נפצע קשה, דביר שנרב סוגר מעגל: אתמול הגיעו הוא ואשתו לביתם ביישוב החדש נאות הרים, הסמוך למקום האסון. \"יש לי קשר דם למקום\", אומר דביר, \"הגענו לכאן לא בגלל הנוף היפה אלא כדי להראות נוכחות\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14934126",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T23:22:07.000Z"
     }
   ]
 }
