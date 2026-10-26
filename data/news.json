@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:15:48.099Z",
+  "updatedAt": "2026-10-26T17:30:54.571Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1381680",
+      "title": "בת 17 מאושפזת בעקבות סיבוך של שפעת - והנתון שמדאיג במיוחד בישראל",
+      "summary": "עונת השפעת החלה מוקדם, ומשרד הבריאות קורא לציבור להתחסן: רק 4% עשו זאת, ובקרב בני 13-17 השיעור עומד על 1.2% בלבד. ברקע, נערה בת 17 ללא מחלות רקע מאושפזת במצב קשה, מורדמת ומונשמת",
+      "link": "https://www.maariv.co.il/news/health/article-1381680",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-26T17:16:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/knesset-26-elections-tomorrow-preparations",
+      "title": "מחר ישראל בוחרת: 7.3 מיליון בוחרים, 12,018 קלפיות ו-100 אלף עובדים | הנתונים",
+      "summary": "מחר עם ישראל יצא בהמוניו לקלפיות: 7.3 מיליון בעלי זכות בחירה • 12,018 קלפיות ו-450 מיליון פתקים | כל הפרטים להיערכות הענקית של ועדת הבחירות המרכזית (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/news/knesset-26-elections-tomorrow-preparations",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-26T17:15:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21713448",
+      "title": "לא רוצה לדעת מה הצבעת, ולא צריכה שתסבירי למה הפתק שלך הוא הנכון",
+      "summary": "עשרים שנה אחורה, לשאול מישהו \"מה הצבעת?\" התפרש כחוסר נימוס • היום, עם שלל גילויי הדעת שכמעט הפכו אותנו קהים, אפשר להבין למה • ומה עם הסקרים? הבחירות הללו הוכיחו שהניסיון לחזות את העתיד קובע אותו בפועל",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21713448",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T17:13:58.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/revival-miracle-hair-straightening-hospitalization",
       "title": "זהירות, שימו לב: בגלל התכשיר הבא, אישה אושפזה בבית החולים",
@@ -68,6 +95,15 @@
       "pubDate": "2026-10-26T17:05:51.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21713462",
+      "title": "הסתיים באשפוז: משרד הבריאות מזהיר מתכשיר השיער",
+      "summary": "אישה אושפזה בבית החולים רמב\"ם לאחר שעברה החלקת שיער באמצעות המוצר \"Revival Miracle\", שלפי התווית מכיל חומצה גליאוקסילית האסורה לשימוש בישראל במוצרי החלקה • מבדיקת משרד הבריאות עולה כי התכשיר משווק ללא האישורים הנדרשים, והמשרד קורא להפסיק מיד את השימוש בו ואת מכירתו • אלה התסמינים שמחייבים פנייה דחופה לטיפול רפואי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21713462",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T17:04:05.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rkcosg63fg",
       "title": "מטרייה בקלפי: התחזית המלאה ליום הבחירות - והאזהרה משיטפונות בדרום",
       "summary": "במרכז הארץ מזג האוויר יהיה רגיל לעונה, אך באזורי הנגב, הערבה, מדבר יהודה וים המלח צפויים גשמים - מלווים בסופות רעמים, פרצי רוח וברד. קיים חשש לשיבושי תנועה והציבור מתבקש להימנע מהגעה לאפיקי הנחלים",
@@ -75,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-26T17:03:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21713410",
+      "title": "נינט טייב רמזה למי תצביע בבחירות: \"לוחמת צדק\"",
+      "summary": "לקראת יום הבוחר, פוסט שפרסמה חברת הכנסת נעמה לזימי על ארבע השנים החולפות והמאבק הציבורי זכה לתגובה ישירה ומחזקת מהזמרת",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21713410",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T17:03:27.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/hospitalized-patients-voting-rights-knesset-electi",
@@ -93,6 +138,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-26T17:01:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21712833",
+      "title": "לא חושב ולא זוכר: התרמית הגדולה מאחורי סוכני ה-AI",
+      "summary": "העולם מדבר בהתרגשות על \"סוכני AI\" אוטונומיים שמסוגלים לפתור תקלות, לנהל מחקרים ולשלוט במערכות הפעלה בלחיצת כפתור • אך מאחורי הקלעים עומד מודל מתמטי עיוור שאינו מסוגל אפילו להזיז את סמן העכבר • כיצד קובץ סטטי הופך למכונה שמבצעת פעולות בעולם האמיתי ומה מסתתר מאחורי המנגנון",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21712833",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T16:59:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1381673",
@@ -219,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-26T16:30:06.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3873852",
+      "title": "אין מקום לספק: שרה, רואים לך את הפאניקה",
+      "summary": "אין מקום לספק: שרה, רואים לך את הפאניקה",
+      "link": "https://e.walla.co.il/item/3873852",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T16:27:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21712907",
@@ -615,6 +678,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-26T15:19:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21712229",
+      "title": "\"הבנו למה תושבי המקום בטוחים שהם חיים במקום הכי יפה בעולם\"",
+      "summary": "איי קוק, קבוצת איים באחד האזורים הכי מרוחקים מישראל, מציעים לגונות צלולות, חופים מבודדים ואפשרות לשחות לצד לווייתנים גדולי סנפיר • בלוגר הטיולים יהונתן הרשקוביץ ובת זוגו שיר ביקרו שם בירח דבש יוצא דופן, ובשל חציית קו התאריך הבינלאומי, חזרו כמעט יממה לאחור",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21712229",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T15:16:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21712229",
@@ -1128,6 +1200,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T14:05:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21711792",
+      "title": "ארוסתו לשעבר של נתנאל רודניצקי נשברת: \"לילות בלי שינה\"",
+      "summary": "רגע אחרי ביטול האירוסים לנתנאל, מאמנת הכושר מעלה תמונה דומעת וחושפת התמודדות קשה עם חרדות וקשיים בתפקוד היומיומי • \"אני עדיין לא מצליחה לעבוד ולחזור לעצמי\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21711792",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T14:03:17.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21711792",
@@ -2802,6 +2883,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-26T10:40:46.000Z"
+    },
+    {
+      "id": "walla:https://travel.walla.co.il/item/3873798",
+      "title": "ישראלים, לידיעתכם: כך ייראה השינוי ברחוב השופינג המפורסם",
+      "summary": "ישראלים, לידיעתכם: כך ייראה השינוי ברחוב השופינג המפורסם",
+      "link": "https://travel.walla.co.il/item/3873798",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T10:39:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381512",
@@ -31269,114 +31359,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-21T17:33:35.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/iaf-massive-sortie-iran-border-hegseth-visit",
-      "title": "מבצע חריג: עשרות מטוסי קרב ישראליים הגיעו עד גבול איראן ופנו חזרה",
-      "summary": "עשרות מטוסי קרב חלפו מעל סוריה ועיראק והגיעו למרחק קצר מאיראן • ארה\"ב: ישראל קיוותה לתגובה איראנית שתצדיק תקיפה | הגיחה בוצעה ביום ביקור שר ההגנה האמריקני (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/iaf-massive-sortie-iran-border-hegseth-visit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T17:30:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21680255",
-      "title": "פרט קטן ו\"שולי\" נשכח במופע הסיסמאות האבסורדי של נתניהו",
-      "summary": "ראש הממשלה הציג תפיסת ביטחון לאומי שכל כלי AI זול היה יכול לכתוב, אבל שכח את המרכיב שאירופה מלמדת שהוא חיוני לביטחון • וגם: היכן מסתתר קצה החוט לפתרון תעלומת תקיפת העיתונאית היידי לוין?",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21680255",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T17:30:29.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873233",
-      "title": "פאס פאס איטס אה קאם: ניקו פאס וקומו התעללו במנצ'סטר יונייטד",
-      "summary": "הצגה של ניקו פאס, שכבש צמד נהדר (2 ו-57) וגם בישל לדוביקאס (49). רמון נגח את הרביעי (76), קאריק יפוטר בעקבות ההשפלה?",
-      "link": "https://sports.walla.co.il/item/3873233",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T17:28:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873233",
-      "title": "חי מהאלופות: מנצ'סטר יונייטד בעיצומה של השפלה היסטורית בקומו",
-      "summary": "הצגה של ניקו פאס, שכבש צמד נהדר (2 ו-57) וגם בישל לדוביקאס (49). רמון נגח את הרביעי (76), קאריק יפוטר בעקבות ההשפלה?",
-      "link": "https://sports.walla.co.il/item/3873233",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T17:28:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21680196",
-      "title": "ביום שלישי נכריע בין \"שיר לשלום\" ל\"חרבו דרבו\"",
-      "summary": "תמונות חוגגי אינדינגב רוקדים לצלילי \"שיר לשלום\" עוררו רגש עז • הסיפור מאחורי הקלעים מלמד שלא מדובר בעוד שיר של תקווה תמימה, אלא כזה שמבטא מרידה בפקודות, בחוקים ובעיקר במפקדי צה\"ל • בבחירות האלה הוא מתמודד מול \"חרבו דרבו\"",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21680196",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T17:25:29.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rjiibdlhgl",
-      "title": "למרות הלחצים הכבדים מנתניהו: עופר וינטר ומוטי לייטנר הודיעו - לא פורשים",
-      "summary": "6 ימים לבחירות, והלחץ על המפלגות הקטנות בימין גובר: יו\"ר עמך ישראל תיאר \"הטרדות של מועמדים וילדיהם ופולסה דנורא על אם שכולה\", האשים את סמוטריץ' בשקר והבהיר: \"אנחנו בימין, אבל אין צ'ק פתוח. יתנו, יקבלו. לא יתנו, לא יקבלו\". גם יו\"ר הציבור החרדי נשאר במרוץ: \"הם מפחדים, אנחנו לא פורשים\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rjiibdlhgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T17:24:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958392",
-      "title": "וינטר דוחה את הצעות הפרישה: \"לא באנו בשביל ג'וב, לא ניכנע\"",
-      "summary": "יו\"ר עמך ישראל תקף את סמוטריץ' וטען להטרדות וללחצים כנגד מפלגתו. הוא הבהיר כי לא יקים ממשלה עם יאיר גולן, אך הציב תנאים לתמיכה בממשלת ימין",
-      "link": "https://www.walla.co.il/news/politics/383958392",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T17:24:08.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383958391",
-      "title": "איראן בהודעה חריגה: חמינאי נפגש עם יו\"ר הפרלמנט קאליבאף",
-      "summary": "סוכנות הידיעות האיראנית הרשמית דיווחה על פגישה בין המנהיג העליון מוג'תבא חמינאי ליו\"ר הפרלמנט קאליבאף. בהודעה חריגה מאז מינוי חמינאי נמסר כי השניים דנו בעימות מול ישראל וארה\"ב ובמצב הכלכלי",
-      "link": "https://www.walla.co.il/news/world/383958391",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T17:24:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21680535",
-      "title": "ורוד, סגול, כתום: אירית רחמים הצטלמה עם כלב צבעוני, וחטפה",
-      "summary": "בין בגדי הערב שאיתם הצטלמה המפורסמת, מי שמשך את תשומת הלב הוא כלב הפודל הצבעוני. העוקבים לא הצליחו להסתיר את הביקורת",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21680535",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T17:23:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/winter-statement-not-withdrawing-elections",
-      "title": "עופר וינטר בהצהרה: \"הופעלו הטרדות, חוקרים פרטיים, פולסה דונרא\"",
-      "summary": "יו\"ר עמך ישראל בהצהרה חריפה נגד הלחצים לפרישה • \"התבלבלתם - באנו לשנות ולהוביל דרך\" | \"יתנו - יקבלו, לא יתנו - לא יקבלו\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/winter-statement-not-withdrawing-elections",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T17:19:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21680519",
-      "title": "\"אין סכנה מיידית\": החשוד בהטרדת יובל דיין צפוי להשתחרר למעצר בית",
-      "summary": "רועי פרי, שהפר גם את צווי ההרחקה, ישוחרר למעצר בית ברגע שיימצא ערב • לאחר חוות הדעת של המשטרה, השופט קבע: \"תיק זה בהחלט סובל שחרור בתנאים\" • דיין הגיבה לראשונה: \"סומכת על המשטרה ועל בורא עולם\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21680519",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T17:18:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-7",
-      "title": "ערב בחירות: גפני זועם על נתניהו | פעיל ג'יהאד הוסווה כנהג מונית • צפו",
-      "summary": "גפני באזהרה חריפה לנתניהו בעקבות הדרת מוסדות חרדיים | מהומות סוערות מחוץ לתחנת המשטרה בכפר סבא סביב הסגרת בחור ישיבה | סמוטריץ' בהצעה דרמטית לווינטר | בנק ישראל עוצר את רצף ההפחתות ומותיר את הריבית ללא שינוי | תיעוד דרמטי לוחמי הגדעונים לכדו בבית לחם פעיל ג'יהאד אסלאמי שהוסווה כנהג מונית | דיווח ביטחוני מפריך את הטענה שטראמפ בלם תקיפה ישראלית באיראן | והתיעוד הקיצוני היומי אחרי התחזית: צרפתים צולים מרשמלו על אש הפוגרום בפריז | (היום בכיכר)",
-      "link": "https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-7",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T17:16:26.000Z"
     }
   ]
 }
