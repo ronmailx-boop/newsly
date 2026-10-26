@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T21:45:50.307Z",
+  "updatedAt": "2026-10-26T22:01:06.882Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-gvir-netanyahu-europe-commitment-unity-governm",
+      "title": "מנסים לחסל אותנו: המתקפה החריפה של בן גביר נגד הליכוד",
+      "summary": "השר לביטחון לאומי טוען כי לשכת ראש הממשלה התחייבה בפני האיחוד האירופי על ממשלת אחדות ללא עוצמה יהודית • \"המידע בדוק ומאומת, הועבר לשרי חוץ ולגורמים בכירים\" | הליכוד: \"ספינים שקריים וירי בנגמ\"ש\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ben-gvir-netanyahu-europe-commitment-unity-governm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-26T21:42:28.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/ben-gvir-netanyahu-europe-commitment-unity-governm",
       "title": "בן גביר חושף: \"נתניהו התחייב לאירופה - ממשלה בלעדיי\"",
@@ -264,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-26T20:31:44.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873872",
+      "title": "התואר היוקרתי שקיבלה כוכבת העל - שרומזת למי תצביע",
+      "summary": "הכוכבת הישראלית הבינלאומית זכתה להרבה כבוד מאוניברסיטת בר אילן, וקיבלה תואר לשם כבוד כהוקרה על הישגיה יוצאי הדופן בעולם הקולנוע והשפעתה הגלובלית",
+      "link": "https://celebs.walla.co.il/item/3873872",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T20:31:00.000Z"
     },
     {
       "id": "walla:https://celebs.walla.co.il/item/3873872",
@@ -1833,8 +1851,8 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3873816",
-      "title": "בליץ באדום: ב\"ש חגגה בחיפה, בכר הודה: \"עזרנו להם\"",
-      "summary": "בליץ באדום: ב\"ש חגגה בחיפה, בכר הודה: \"עזרנו להם\"",
+      "title": "בליץ באדום: ב\"ש חגגה בחיפה; בכר הודה: \"עזרנו להם\"",
+      "summary": "בליץ באדום: ב\"ש חגגה בחיפה; בכר הודה: \"עזרנו להם\"",
       "link": "https://sports.walla.co.il/item/3873816",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -31557,33 +31575,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T22:02:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/yokra14934743",
-      "title": "בין האיומים למציאות: הקמפיינים של כל המפלגות בימים האחרונים עד הבחירות",
-      "summary": "5 ימים לבחירות, המפלגות מנסות להשיג כל קול אפשרי עד לרגע האחרון - גם על חשבון חברותיהן לגושים: איזנקוט מדגיש את חשיבות \"הרשימה הגדולה\" במטרה לקבל ראשון את מנדט הרכבת ממשלה. בליכוד מתמקדים במסרי הפחדה נגד גוש השינוי. בן גביר נגד הליכוד, סמוטריץ' נגד וינטר - הדמוקרטים מבינים כי צמיחה תבוא רק על חשבון השותפים. מסעות הגיוסים של המפלגות בישורת האחרונה",
-      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14934743",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T21:56:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1379916",
-      "title": "השדולה הפרו-ישראלית משנה מסלול: ההחלטה הדרמטית בארה\"ב",
-      "summary": "התמיכה הכספית של איפא\"ק הפכה למוקד ביקורת נגד פוליטיקאים אמריקאים. כעת השדולה הודיעה על שיטת הפעולה שלה, אך שומרת על ערוצי השפעה אחרים לקראת הבחירות לקונגרס האמריקאי",
-      "link": "https://www.maariv.co.il/news/world/article-1379916",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-21T21:48:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21681878",
-      "title": "איפא\"ק משנה כיוון: כך היא תנסה להשפיע על הפוליטיקה בארה\"ב",
-      "summary": "השדולה הפרו-ישראלית בארה\"ב תבטל את התמיכה הרשמית במועמדים ואת התרומות דרך ועדת הפעולה הפוליטית שלה, ותתמקד בהרחבת התרומות הישירות של חבריה • זרוע הסופר-פאק תמשיך לפעול ולהשקיע בבחירות",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21681878",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T21:46:00.000Z"
     }
   ]
 }
