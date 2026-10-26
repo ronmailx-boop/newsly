@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:45:49.900Z",
+  "updatedAt": "2026-10-26T12:01:01.556Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tnihcn",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 14:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 14:00 (רדיו כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tnihcn",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-26T12:00:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tnij3m",
+      "title": "יום לפני הבחירות: המפלגה החרדית פורשת מהמרוץ",
+      "summary": "מפלגת 'הקהל' בראשות עו\"ד שלמה אלבוים הודיעה על פרישה מהתמודדות בבחירות לכנסת | ההחלטה התקבלה \"מתוך אחריות עמוקה לעם ישראל ותורתו\"",
+      "link": "https://www.kikar.co.il/israel-news/tnij3m",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-26T11:59:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1381551",
+      "title": "תוכנית נטרול הדמוקרטים: אשת המקצוע של ביידן עוברת לצד של טראמפ",
+      "summary": "מועצת השלום של נשיא ארה\"ב דונלד טראמפ מינתה בכירה, שלקחה חלק בפעילות ההסברה, בתקופת ממשל הנשיא לשעבר ג'ו ביידן",
+      "link": "https://www.maariv.co.il/news/world/article-1381551",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-26T11:59:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyfmd3n2gx",
+      "title": "\"צינור להעברת שוחד\": יועץ התקשורת הורשע בפרשת הצוללות",
+      "summary": "בית המשפט המחוזי בת\"א הרשיע את צחי ליבר בתיווך לשוחד והלבנת הון במסגרת תיק 3000. השופט קבע: הוא שימש \"צינור להעברת כספי שוחד\" בעשרות אלפים בין מיקי גנור למקורבו של נתניהו. ממשחקי הטניס בשישי ל\"טבלת היועצים\" שנמצאה: כך מתוארת השיטה בהכרעת הדין",
+      "link": "https://www.ynet.co.il/news/article/hyfmd3n2gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-26T11:55:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/dayan-haamet/tnij9o",
+      "title": "אמם של הגבאי והחזן בבעלזא; מרת שאשא הירש ע\"ה הלכה לעולמה בשיבה טובה",
+      "summary": "בשעה זו מלווים המונים למנוחות את האשה החשובה מרת שאשא הירש ע\"ה, אלמנת הרה\"ח ר' חיים הירש ז\"ל, מזקני חשובי חסידי בעלזא | המנוחה הותירה אחריה דור ישרים מבורך, בין בניה, החזן והגבאי של האדמו\"ר מבעלזא (דיין האמת)",
+      "link": "https://www.kikar.co.il/dayan-haamet/tnij9o",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-26T11:49:03.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958970",
+      "title": "מפנה עורף לבן גביר: ברוך מרזל קורא להצביע למפלגה מפתיעה",
+      "summary": "פעיל הימין הקיצוני, בעבר שותפו הקרוב של השר לביטחון לאומי וממייסדי \"עוצמה יהודית\", פירסם סרטון שבו הוא מצהיר כי בבחירות הקרובות יצביע למפלגת הציונות הדתית - תוך עקיצה ברורה והתעלמות מחברו הוותיק",
+      "link": "https://www.walla.co.il/news/politics/383958970",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T11:48:59.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383958969",
+      "title": "פרשה ביטחונית חמורה: עורכת דין ישראלית נאשמת במגע עם סוכן זר",
+      "summary": "כשבועיים וחצי לאחר שנעצרה בחקירה משותפת של שב\"כ והמשטרה, הוגש נגד עורכת הדין כתב אישום בגין מגע עם סוכן חוץ ושיבוש מהלכי משפט. הפרקליטות ביקשה להאריך את מעצרה עד תום ההליכים",
+      "link": "https://www.walla.co.il/news/law/383958969",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T11:43:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/law-and-order/israeli-lawyer-foreign-agent-contact",
       "title": "חשד לעבירות ביטחון: עורכת דין ישראלית הואשמה במגע עם סוכן חוץ",
       "summary": "עורכת הדין נעצרה לפני כשבועיים וחצי בחקירה משותפת של השב\"כ והמשטרה. בתום החקירה הוגש נגדה כתב אישום בגין מגע עם סוכן חוץ ושיבוש מהלכי משפט. בית המשפט התיר לפרסם רק פרטים מוגבלים מהפרשה (משפט)",
@@ -57,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-26T11:40:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjcmi333me",
+      "title": "פרשה ביטחונית חדשה: עורכת דין נעצרה על ידי שב\"כ - והואשמה במגע עם סוכן חוץ",
+      "summary": "בית המשפט המחוזי בלוד התיר לפרסם כי עורכת הדין נעצרה לחקירה לפני שבועיים וחצי, בחשד לביצוע עבירות ביטחון. עם סיום החקירה, היא הואשמה גם בשיבוש מהלכי משפט - והוגשה בקשה למעצרה עד תום ההליכים",
+      "link": "https://www.ynet.co.il/news/article/rjcmi333me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-26T11:38:41.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjcmi333me",
@@ -129,6 +201,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T11:25:10.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%A6%D7%99%D7%95%D7%93_%D7%9C%D7%9E%D7%9C%D7%97%D7%9E%D7%94__4_%D7%A8%D7%95%D7%91%D7%99%D7%9D__%D7%90%D7%A4%D7%95%D7%93%D7%99%D7%9D_%D7%95%D7%A8%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%9D_%D7%A0%D7%AA%D7%A4%D7%A1%D7%95_%D7%91%D7%A7%D7%9C%D7%A0%D7%A1%D7%95%D7%95%D7%94",
+      "title": "ציוד למלחמה: 4 רובים, אפודים ורימונים נתפסו בקלנסווה",
+      "summary": "המשטרה תפסה מאגר אמל\"ח משמעותי בשטח פתוח בקלנסווה.",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%A6%D7%99%D7%95%D7%93_%D7%9C%D7%9E%D7%9C%D7%97%D7%9E%D7%94__4_%D7%A8%D7%95%D7%91%D7%99%D7%9D__%D7%90%D7%A4%D7%95%D7%93%D7%99%D7%9D_%D7%95%D7%A8%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%9D_%D7%A0%D7%AA%D7%A4%D7%A1%D7%95_%D7%91%D7%A7%D7%9C%D7%A0%D7%A1%D7%95%D7%95%D7%94",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-10-26T11:25:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1381534",
@@ -282,6 +363,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T10:59:59.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1jeatnhme",
+      "title": "\"צבא לולה\" שנתן לו ניצחון חסר תקדים, הטלטלה בברזיל - והשמאל העולמי שחוגג: \"הקאמבק רק מתחיל!\"",
+      "summary": "השווקים הפיננסיים בברזיל מגיבים בירידות חדות אחרי הניצחון המפתיע בבחירות של הנשיא האנטי-ישראלי. מאחורי המהפך - יותר מ-10 מיליון קולות נוספים שגייס לולה אחרי הסיבוב הראשון, ו\"צבא וואטסאפ\" של 11 מיליון עוקבים: \"אתה כמו מסי, רצים על המגרש בשבילך\". באירופה חוגגים, ר\"מ ספרד סנצ'ס: \"הקאמבק של המחנה הפרוגרסיבי העולמי רק התחיל\". מנהיג הימין בולסונרו מסרב להכיר בהפסד, טראמפ ג'וניור תקף את הליך ההצבעה: \"אם השמרנים היו עושים את זה...\"",
+      "link": "https://www.ynet.co.il/news/article/h1jeatnhme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-26T10:59:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1jeatnhme",
@@ -1812,6 +1902,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T08:00:14.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873703",
+      "title": "שני המיליארדרים שסירבו לרכוש את מכבי חיפה: פרטים חדשים",
+      "summary": "תום ליבנה, ששמו נקשר לקבוצת הרכישה של מכבי חיפה, חשף פרטים חדשים מאחורי הקלעים. וגם: ההערצה ליעקב שחר (\"השלט נגדו היה סכין בלב\"), נקודות החוזק שלו, השינויים הדרושים, ומה עמדתה של משפחת קז על העסקה?",
+      "link": "https://sports.walla.co.il/item/3873703",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T08:00:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3873703",
@@ -6123,6 +6222,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-25T15:35:28.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3873685",
+      "title": "מתוק, תמים ואז מגיעה הכאפה: הביסלי החדש שישרוף לכם את הפה",
+      "summary": "אסם השיקה את סדרת \"המוגזמים\" עם טעמים ביזאריים כמו מלפפון חמוץ ופולנטה פרמז'ן. יצאנו למבחן טעימה וחזרנו עם פה שורף, התמכרות לא ברורה לשמיר, וכעס מוצדק על האריזה שהוקטנה",
+      "link": "https://food.walla.co.il/item/3873685",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-25T15:34:00.000Z"
     },
     {
       "id": "walla:https://food.walla.co.il/item/3873685",
@@ -31377,78 +31485,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-21T12:03:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/likud-attacks-ben-gvir-push-page-lies",
-      "title": "הליכוד VS בן גביר: \"הוא מפיץ שקרים בוטים ועושה הכל כדי שהשמאל ינצח\"",
-      "summary": "מפלגת הליכוד הוציאה הודעה חריפה נגד השר לביטחון לאומי • האשימה אותו בשימוש בעמוד התעמולה 'פוש' להפצת שקרים נגד ראש הממשלה | \"העמוד הזה עושה הכל כדי שגוש השמאל ינצח\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/likud-attacks-ben-gvir-push-page-lies",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T11:58:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21677184",
-      "title": "גיא זו-ארץ חושף: \"היו קשרים רומנטיים על האי\"",
-      "summary": "רגע לפני שפרק הבכורה עולה לאוויר, הסוד הכי שמור של ההפקה נחשף בפליטת פה אחת שמשנה את כל מה שחשבנו על העונה הקרובה • \"אתם תראו את הכל על המסך\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21677184",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T11:58:07.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873204",
-      "title": "\"יריקה בפרצוף\": המהלך היפני שמעורר זעם בישראל",
-      "summary": "ג'יבריל רג'וב, יו\"ר ההתאחדות הפלסטינית לכדורגל ומחבל מורשע, התקבל בכבוד ביפן. שגרירות ישראל מחתה על המהלך",
-      "link": "https://sports.walla.co.il/item/3873204",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T11:58:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958309",
-      "title": "מנהרה בלב ביירות: חיזבאללה ערוך לחודשי לחימה",
-      "summary": "צבא לבנון חשף מנהרה המשויכת לחיזבאללה במזרח ביירות, אך גורם ביטחוני טען כי לבנון אינה אוכפת את ההבנות כנדרש",
-      "link": "https://www.walla.co.il/news/military/383958309",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T11:55:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958309",
-      "title": "גורם ביטחוני: חיזבאללה משקם תשתיות בביירות",
-      "summary": "צבא לבנון חשף מנהרה המשויכת לחיזבאללה במזרח ביירות, אך גורם ביטחוני טען כי לבנון אינה אוכפת את ההבנות כנדרש",
-      "link": "https://www.walla.co.il/news/military/383958309",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-21T11:55:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21677057",
-      "title": "\"אני קם פעמיים בשבוע ב-4 בבוקר ונוסע לאמן בירושלים\"",
-      "summary": "חנן אזולאי זלל תארים עם הצהובים-שחורים, אבל תמיד נמשך לטבע • לא פחד ממכבי תל אביב: \"בזמני התחלנו להסתכל להם בלבן של העיניים\" • ומאמין בקבוצה הנוכחית של אלמוג כהן: \"בשלה לאליפות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21677057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T11:51:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21677163",
-      "title": "ללי דרעי לנתניהו: \"גם אני מהמשפחות השכולות ואני לא הולכת לשום מקום\"",
-      "summary": "האם השכולה ממפלגת עמך ישראל אמרה את הדברים בתגובה למכתב המשפחות השכולות וקריאת רה\"מ לעופר וינטר לפרוש מהמירוץ",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21677163",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T11:51:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/attorney-general-netanyahu-live-broadcast-ban",
-      "title": "היועמ\"שית שוב מתערבת | הפעם על המוקד: נאום של נתניהו בשידור חי",
-      "summary": "היועצת המשפטית לממשלה הנחתה שלא להעביר בשידור חי את נאומו של ראש הממשלה בטקס סיום קורס קצינים, מחשש לתעמולת בחירות אסורה. בנוסף נדרשה בדיקה משפטית מוקדמת של הנאום (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/attorney-general-netanyahu-live-broadcast-ban",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T11:47:24.000Z"
     }
   ]
 }
