@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T03:45:45.286Z",
+  "updatedAt": "2026-10-26T04:00:57.037Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjbldhn3gx",
+      "title": "מבודפשט לניו יורק: ר\"מ הונגריה המודח - מועמד הבית הלבן למזכ\"ל האו\"ם | דיווח",
+      "summary": "ויקטור אורבן, שהובס בבחירות בהונגריה אחרי 16 שנים בשלטון, הביע עניין בהצעת ארה\"ב להצטרף למירוץ למזכ\"ל האו\"ם - במסגרת ניסיון של טראמפ למנות מנהיג שמרני שיתעמת עם הממסד הבינלאומי ויוביל שינוי עמוק בארגון, הנתון במשבר תקציבי ופוליטי. כך דווח ב\"וול סטריט ג'ורנל\", שציין כי אורבן טרם החליט בנושא",
+      "link": "https://www.ynet.co.il/news/article/bjbldhn3gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-26T03:43:19.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21706053",
       "title": "ליברמן מסבך את בנט ואיזנקוט: המכשול שעלול לעלות לגוש השינוי בבחירות",
@@ -31242,96 +31251,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-21T04:01:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14933707",
-      "title": "צחי הנגבי לא לבד",
-      "summary": "שיר הפרידה שלי מהליכוד היה עוד לפני טבח 7 באוקטובר, עליו מסרב ראש הממשלה נתניהו לקחת אחריות. כשנתניהו החליט לרסק את שומרי הסף, כשכל ערכי ז'בוטינסקי עליהם גדלנו היו למרמס, מתחתי ביקורת, אבל כאשר החליט לחתום על הסכם עודפים עם הכהניסט בן גביר שבסלון ביתו הייתה תלויה תמונתו של מאיר כהנא, היה זה הקש ששבר את גב הגמל",
-      "link": "https://www.ynet.co.il/news/article/yokra14933707",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T04:00:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14933226",
-      "title": "בחיסול הנרטיבי של דמותו של דוד לוי שתקתם",
-      "summary": "סערה כמו זו שפרצה סביב דברי ינון מגל על גדי איזנקוט לא קרתה כשאנשי ציבור, אנשי תרבות ובידור הגחיכו את מירי רגב, דוד אמסלם, שלמה קרעי ואמיר אוחנה",
-      "link": "https://www.ynet.co.il/news/article/yokra14933226",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T03:57:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21672070",
-      "title": "חלקם מועמדים לעזיבה: שחקני מכבי תל אביב שמתקרבים לסיום חוזה",
-      "summary": "הצהובים עשויים לממש אופציות על שני זרים כדי למכור אותם • מספר ישראלים יסיימו חוזה בקיץ אך נמצאים בתוכניות להמשך • ויש סימן שאלה גדול לגבי עידו שחר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21672070",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T03:55:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14933199",
-      "title": "ההימור החרדי: ההתעקשות של מוטי לייטנר",
-      "summary": "מפלגת \"הציבור החרדי\" לוקחת סיכון משמעותי, וכנראה לא תעבור את אחוז החסימה. אך לא בהכרח מדובר בפתק לפח",
-      "link": "https://www.ynet.co.il/news/article/yokra14933199",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T03:53:52.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14933265",
-      "title": "קיש דפק את המערכת",
-      "summary": "שר החינוך לוקח אותנו אחורה 22 שנה, אבל מתנהג כאילו אף אחד לא רואה. זאת שיטה שלמד מהמנהיג שלו: מה שאתה לא חוקר הציבור לא יודע, ומה שהציבור לא יודע לא כואב לו",
-      "link": "https://www.ynet.co.il/news/article/yokra14933265",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T03:52:21.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14933192",
-      "title": "איפה היית, מדינת ישראל, בשלוש השנים האחרונות?",
-      "summary": "נטבחנו. דיממנו. כאבנו. הזדקקנו. חלקנו לא קמנו. עמדנו עם דגלים דוממים בצד הדרך. תרמנו. נלחמנו. חיכינו לתשובה. חיכינו להצלה. למילת נחמה. למילת תקווה. לתוכנית. לדרך חדשה. גילינו עוצמות יחד כעם. גילינו שבעוצמות הללו אנחנו לבד",
-      "link": "https://www.ynet.co.il/news/article/yokra14933192",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-21T03:49:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21673001",
-      "title": "פילדלפיה העבירה שיעור בנחישות לאלופה ניו יורק",
-      "summary": "הניקס נכנעו לסיקסרס 106:100, 28 נקודות לטייריס מקסי",
-      "link": "https://www.israelhayom.co.il/sport/article/21673001",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T03:49:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-enriched-uranium-us-talks-condition",
-      "title": "בכיר איראני מבהיר: \"אפילו חלקיק אחד של אורניום מועשר לא ייצא מהמדינה\"",
-      "summary": "מזכיר המועצה העליונה לביטחון לאומי באיראן הבהיר: האורניום המועשר נכס לאומי לשימוש מקומי בלבד • התנאי לחידוש המגעים עם וושינגטון: מילוי מלא של כל הדרישות האיראניות | הדברים נאמרו בפגישה עם מפקד צבא פקיסטן (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-enriched-uranium-us-talks-condition",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-21T03:48:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21672973",
-      "title": "אותרה בת ה-86 שהוגדרה כנעדרת בתל אביב",
-      "summary": "המשטרה עדכנה הבוקר כי מצאה את גילה אלון, שהקשר עמה אבד אתמול בשעות הצהריים • אלון, הסובלת מדמנציה, יצאה מדירתה ללא השגחה ברגע של היסח דעת ונראתה לאחרונה ברחוב שמעוני בעיר • החיפושים אחריה התנהלו במשך מספר שעות, כשמשפחתה מבקשת מהציבור סיוע כדי להשיבה בבטחה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21672973",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T03:47:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21672996",
-      "title": "CRINGE: הנשיקה והמחיר (פרק 8)",
-      "summary": "בפרק השמיני של CRINGE, דודו ופרידה נענים לדרישת הקהל, אבל לפני שהם מספיקים להבין מה קורה, אורחת לא צפויה מהעבר של דודו מופיעה בחנות. עם דודו פארוק ופרידה עוזיאל",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21672996",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-21T03:46:54.000Z"
     }
   ]
 }
