@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:16:02.335Z",
+  "updatedAt": "2026-10-27T21:31:02.845Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1382090",
+      "title": "כ-70 מנדטים נגד נתניהו - והאופוזיציה עוד עלולה לחטוף תבוסה ממלתעות הניצחון | דן פרי",
+      "summary": "אם האופוזיציה תשאיר את נתניהו בשלטון למרות רוב עצום, זה יהיה המהלך החלמאי בתולדות הפוליטיקה הדמוקרטית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1382090",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T21:16:29.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89595",
       "title": "שיעור ההצבעה במגזר הערבי הגיע ל-80%",
       "summary": "שיעור ההצבעה במגזר הערבי עומד על 80 אחוז.",
@@ -39,6 +48,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T21:14:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21721607",
+      "title": "דיווח: \"מכבי תל אביב בוחנת את החלפת עודד קטש ביאניס ספרופולוס\"",
+      "summary": "העיתונאי האיטלקי מתאו אנדראני פרסם כי הצהובים בוחנים את עתידו של המאמן לאור הפתיחה הרעה לעונת היורוליג • לדבריו, החזרתו של המאמן היווני היא אופציה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21721607",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:14:24.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89594",
@@ -77,6 +95,24 @@
       "pubDate": "2026-10-27T21:14:11.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721512",
+      "title": "תוצאות בחירות 2026: הפלונטר, הליכוד והזינוק במגזר",
+      "summary": "תוצאות הבחירות מציגות פלונטר פוליטי סבוך: הליכוד טיפס ברגע האחרון, אך שני הגושים מתקשים להרכיב ממשלה ללא המפלגות הערביות, שרשמו הישג חסר תקדים עם שיעורי הצבעה גבוהים • בעוד הדרגים הפוליטיים בוחנים חקיקה להזזת נתניהו או רוטציה, עתיד הממשלה נותר ללא הכרעה ברורה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721512",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:13:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721510",
+      "title": "השר זוהר לפני עוצר הראיונות בליכוד: אם גוש השינוי יילך עם הערבים - זה יהיה סופו",
+      "summary": "השר מיקי זוהר הזהיר כי הקמת ממשלה בתמיכת המפלגות הערביות תפגע פוליטית בראשי גוש השינוי • מנגד, אפרת רייטן וגלעד קריב קראו לפעול במהירות להקמת ממשלה חדשה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721510",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:09:24.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382083",
       "title": "המתח, העימותים והמדגמים: כך עבר יום הבחירות על ישראל ביתנו",
       "summary": "במטה ישראל ביתנו באקספו תל אביב קיבלו במחיאות כפיים את המדגמים, שהעניקו למפלגה 7–9 מנדטים. אלא שהפער בין הערוצים משאיר כמה מהשמות הבולטים ברשימה בחוסר ודאות, והפעילים ממתינים לתוצאות האמת",
@@ -104,10 +140,19 @@
       "pubDate": "2026-10-27T21:03:33.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/political-news/tnl347",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721362",
+      "title": "איש לא באמת ניצח - וזו ההזדמנות של ישראל",
+      "summary": "הפער הקטן בין הגושים עשוי לחסוך מישראל עוד סבב של נקמה ודריסת היריב • הבוחרים יצאו בהמוניהם לקלפיות, וכעת האחריות עוברת למנהיגים: להתפשר, להקים ממשלת אחדות ולשקם את מה שנחרב כאן",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721362",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:02:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/joint-list-election-victory",
       "title": "יו\"ר 'המשותפת' צוהל: כך הגיב להישג הדרמטי של המפלגות הערביות",
-      "summary": "",
-      "link": "https://www.kikar.co.il/political-news/tnl347",
+      "summary": "שיעור הצבעה של 80% במגזר הערבי מעניק למפלגות הערביות הישג חסר תקדים • יו\"ר הרשימה המשותפת יוסף ג'בארין מכריז: \"נמשיך להוביל את הדרך של הציבור שתומך בנו - לשוויון של כל האזרחים, יהודים וערבים, לצדק חברתי ולשלום צודק המבוסס על הקמת מדינה פלסטינית בגבולות 67\" (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/joint-list-election-victory",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T21:01:45.000Z"
@@ -264,6 +309,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T20:32:21.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959151",
+      "title": "בליכוד מאיימים על איזנקוט, שאמר: \"אפעל מיד להחליף את נתניהו\"",
+      "summary": "לאחר פרסום המדגמים, קולות מנהיגי המפלגות לא יאחרו להגיע. יו\"ר מפלגת \"ישר!\": \"אפעל להחלפת ממשלת נתניהו ולהקמת ממשלת גיוס ציונית, בהקדם האפשרי\"",
+      "link": "https://www.walla.co.il/news/politics/383959151",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T20:31:43.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959151",
@@ -564,7 +618,7 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959104",
-      "title": "ההערכה: הנשיא יטיל את המנדט הראשון להרכבת הממשלה על אייזנקוט",
+      "title": "הערכה: הנשיא יטיל את המנדט הראשון להרכבת הממשלה על איזנקוט",
       "summary": "הנתונים נוסקים: 5.4 מיליון ישראלים הצביעו נכון ל-20:00. ועדת הבחירות החליטה שלא להאריך את שעת ההצבעה. זו מפת ההצבעות לפי ישובים",
       "link": "https://www.walla.co.il/news/israel/383959104",
       "source": "וואלה",
@@ -590,10 +644,28 @@
       "pubDate": "2026-10-27T20:00:00.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383959138",
+      "title": "לפיד אחרי המדגמים: \"גוש נתניהו ספג תבוסה קשה, קריסה גמורה\"",
+      "summary": "יו\"ר יש עתיד הגיב לראשונה למדגמים: \"הציבור אמר להם לעוף הביתה\". גוש נתניהו מקבל 50 מנדטים, לעומת 52–53 לגוש השינוי. מוקדם יותר קרא בנט להצביע למפלגה שמאמינים בה, ללא קשר לגודלה",
+      "link": "https://www.walla.co.il/news/politics/383959138",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T20:00:00.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/politics/383959133",
       "title": "הנדל וזליכה לא עוברים את אחוז החסימה: \"לא נשברים\"",
       "summary": "מדגמי חדשות 12 ו-13 מותירים את מפלגת המילואימניקים והכלכלית מחוץ לכנסת. הנדל מבטיח להמשיך במאבק: \"נועדנו לדרך ארוכה\". על וינטר: \"בחר להיות חלק מהגוש של נתניהו והחרדים\"",
       "link": "https://www.walla.co.il/news/politics/383959133",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T20:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959104",
+      "title": "ההערכה: הנשיא יטיל את המנדט הראשון להרכבת הממשלה על אייזנקוט",
+      "summary": "הנתונים נוסקים: 5.4 מיליון ישראלים הצביעו נכון ל-20:00. ועדת הבחירות החליטה שלא להאריך את שעת ההצבעה. זו מפת ההצבעות לפי ישובים",
+      "link": "https://www.walla.co.il/news/israel/383959104",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-27T20:00:00.000Z"
@@ -678,6 +750,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T19:42:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382057",
+      "title": "במפלגה של איזנקוט בטוחים: חברי הכנסת של הליכוד יראו לנתניהו את הדרך החוצה",
+      "summary": "מתן כהנא, מספר 5 במפלגת \"ישר!\" של איזנקוט, אמר ל\"מעריב\": \"המפלגות הערביות יעשו מה שהן רוצות. ברגע שנתניהו יבין את גודל תבוסתו ויגיד - 'אני הולך', יפתחו הרבה מאוד השאלות\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382057",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T19:41:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382057",
@@ -777,6 +858,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T19:11:32.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3873926",
+      "title": "זמן לשינוי? מכבי תל אביב הושפלה בענק אצל הכוכב האדום בלגרד",
+      "summary": "הצהובים של עודד קטש הגיעו לבלגרד בניסיון לשוב למסלול הניצחונות בפתיחת השבוע הכפול ביורוליג, אבל בתוך פחות משמונה דקות מתחילת המשחק כבר נקלעו לפיגור של 20 נקודות, ולא הצליחו לצמצם אותו מול מטח השלש",
+      "link": "https://sports.walla.co.il/item/3873926",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T19:00:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3873926",
@@ -951,6 +1041,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959144",
+      "title": "לאור הפערים במדגמים: בישראל ביתנו שומרים על אופטימיות זהירה",
+      "summary": "מטה המפלגה התמלא לאחר פרסום תוצאות המדגמים, אולם לאור המספרים השונים שקיבלה המפלגה, לא ממהרים לשמוח, ויחכו לתוצאות האמת. שרון שרעבי, אחיו של אלי שרעבי, צפוי להיכנס לכנסת",
+      "link": "https://www.walla.co.il/news/politics/383959144",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T18:33:15.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959144",
       "title": "סערת הכיפות בקלפי: ישראל ביתנו עתרה נגד ש\"ס",
       "summary": "במפלגה הגישו עתירה לועדת הבחירות המרכזית, בדרישה להפסיק חלוקת כיפות בכניסה לקלפי בעפולה. לדבריהם, מדובר בתעמולת בחירות אסורה ובחלוקת מתנות בניגוד לחוק",
       "link": "https://www.walla.co.il/news/politics/383959144",
@@ -1024,7 +1123,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959142",
       "title": "תוצאות המדגמים: הליכוד המפלגה הגדולה, יתרון קל לגוש השינוי",
-      "summary": "לפי מדגמי הערוצים, הציבור הביע אי אמון בקואליציה הנוכחית, אך אף גוש לא השיג 61 מנדטים. הישג היסטורי למפלגות הערביות, וינטר והנדל-זליכה בחוץ",
+      "summary": "לפי מדגמי הערוצים, הציבור הביע אי אמון בקואליציה הנוכחית, אך אף גוש לא השיג 61 מנדטים. הישג היסטורי למפלגות הערביות. אחוז הצבעה סופי - 77.7%",
       "link": "https://www.walla.co.il/news/politics/383959142",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -3848,19 +3947,19 @@
       "pubDate": "2026-10-27T11:29:09.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21717418",
-      "title": "אייל גולן הלך להצביע: ״היום יותר מתמיד״",
-      "summary": "הזמר הגיע לממש את זכות ההצבעה בליווי ילדיו, ושיתף תמונה ישירה מרגע השלשלת המעטפה לקלפי לצד מסר פוליטי חד-משמעי",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21717418",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21716946",
+      "title": "גולשים מתעדים: האייפון המתקפל החדש של אפל נסדק תוך שעות | צפו",
+      "summary": "רוכשים ראשונים של ה-iPhone Duo המתקפל מעלים לרשת תמונות ועדויות על מסכים סדוקים וקולות שבירה, שעות ספורות בלבד לאחר הרכישה • באפל מסרו כי מדובר בתקלה ב\"מספר קטן\" של יחידות ומציעים החלפה מיידית",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21716946",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T11:28:31.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21716946",
-      "title": "גולשים מתעדים: האייפון המתקפל החדש של אפל נסדק תוך שעות | צפו",
-      "summary": "רוכשים ראשונים של ה-iPhone Duo המתקפל מעלים לרשת תמונות ועדויות על מסכים סדוקים וקולות שבירה, שעות ספורות בלבד לאחר הרכישה • באפל מסרו כי מדובר בתקלה ב\"מספר קטן\" של יחידות ומציעים החלפה מיידית",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21716946",
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21717418",
+      "title": "אייל גולן הלך להצביע: ״היום יותר מתמיד״",
+      "summary": "הזמר הגיע לממש את זכות ההצבעה בליווי ילדיו, ושיתף תמונה ישירה מרגע השלשלת המעטפה לקלפי לצד מסר פוליטי חד-משמעי",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21717418",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T11:28:31.000Z"
