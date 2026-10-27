@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:01:14.375Z",
+  "updatedAt": "2026-10-27T21:16:02.335Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,96 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89595",
+      "title": "שיעור ההצבעה במגזר הערבי הגיע ל-80%",
+      "summary": "שיעור ההצבעה במגזר הערבי עומד על 80 אחוז.",
+      "link": "https://www.kikar.co.il/scoop-news/89595",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T21:14:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89594",
+      "title": "נהג בן 21 נפצע בינוני בתאונה עצמית בבאר שבע",
+      "summary": "נהג רכב בן 21 נפצע באורח בינוני בתאונה עצמית בשדרות צה\"ל בבאר שבע. הרכב התהפך על צידו. חובשי איחוד הצלה העניקו לנפגע טיפול רפואי בזירה.",
+      "link": "https://www.kikar.co.il/scoop-news/89594",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T21:14:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382081",
+      "title": "מנסור עבאס מסמן את המטרה: \"יש 53 לאופוזיציה - ואינשאללה השמיני שלנו יגיע\"",
+      "summary": "המדגמים מעניקים לרע\"ם שבעה מנדטים ולמפלגות הערביות יחד 17, אך מנסור עבאס עדיין מקווה למנדט השמיני. בנאומו בסכנין קרא לאיחוד כוחות עם האופוזיציה כדי להחליף את הממשלה",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382081",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T21:14:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89593",
+      "title": "חילוץ משפחה עם 4 ילדים שנתקעה בשיטפונות במזרח גוש עציון",
+      "summary": "מתנדבי יחידת החילוץ המשטרתית עציון-יהודה חילצו משפחה בת שישה נפשות – זוג וארבעת ילדיהם מגוש עציון – שנתקעו עם רכביהם בשטח היורד לרמת המדבר סמוך לכפר זעתרה. המתנדבים איתרו את מיקומם בעומק השטח ובסיוע כוחות צבא שאבטחו אותם, הגיעו אליהם ברכבי שטח דרך הכפר. בני המשפחה חולצו בשלום ללא צורך בטיפול רפואי. זהו החילוץ השלישי היום בשיטפונות בנחלי מדבר יהודה, ובכל החילוצים לא היו נפגעים.",
+      "link": "https://www.kikar.co.il/scoop-news/89593",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T21:14:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89592",
+      "title": "אחוז ההצבעה הסופי: 77.7% - הגבוה ביותר מאז 1999",
+      "summary": "אחוז ההצבעה הסופי עמד על 77.7%, עלייה של 7.1% לעומת הבחירות ב-2022. זהו אחוז ההצבעה הגבוה ביותר שנרשם מאז שנת 1999.",
+      "link": "https://www.kikar.co.il/scoop-news/89592",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T21:14:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382083",
+      "title": "המתח, העימותים והמדגמים: כך עבר יום הבחירות על ישראל ביתנו",
+      "summary": "במטה ישראל ביתנו באקספו תל אביב קיבלו במחיאות כפיים את המדגמים, שהעניקו למפלגה 7–9 מנדטים. אלא שהפער בין הערוצים משאיר כמה מהשמות הבולטים ברשימה בחוסר ודאות, והפעילים ממתינים לתוצאות האמת",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382083",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T21:08:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382086",
+      "title": "\"הציבור אמר את דברו\": ריקודים במטה הדמוקרטים - יאיר גולן חגג",
+      "summary": "על אף שמדובר בתוצאות ראשוניות, חגיגות נרשמו במטה מפלגת הדמוקרטים בראשות יאיר גולן לנוכח התוצאות שמתחילות להגיע והמדגמים שפורסמו בערוצי החדשות השונים. גולן אמר: \"‏הציבור אמר את דברו\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1382086",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T21:07:48.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
+      "title": "הדמוקרטים מסמנים את הדרך להחלפת נתניהו: \"לגלות אומץ, לשבת עם רע\"מ\"",
+      "summary": "יאיר גולן אמר כי \"יש הזדמנות היסטורית\" - והכריז: \"עכשיו תורנו\". בכירת המפלגה לזימי קראה במטה הדמוקרטים להקים ממשלה עם מנסור עבאס: \"עלינו לגלות מנהיגות\". ח\"כ אפרת רייטן: \"גוש נתניהו התרסק, מדינת ישראל הוציאה לו כרטיס אדום\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T21:03:33.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tnl347",
+      "title": "יו\"ר 'המשותפת' צוהל: כך הגיב להישג הדרמטי של המפלגות הערביות",
+      "summary": "",
+      "link": "https://www.kikar.co.il/political-news/tnl347",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T21:01:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
+      "title": "לאחר המדגמים: חגיגות ב\"דמוקרטים\" - זעם על נתניהו ב\"עוצמה יהודית\"",
+      "summary": "מדגמי הבחירות לכנסת ה-26 מציגים תמונת מצב מתוחה של חוסר הכרעה בין הגושים, כאשר הליכוד בראשות בנימין נתניהו מובילה עם 24 עד 25 מנדטים ומיד אחריה מפלגת \"ישר!\" בראשות גדי איזנקוט עם 22 עד 23 מנדטים • במקביל לזינוק של המפלגות הערביות ל-17 עד 18 מנדטים משותפים, נרשמו אכזבה והלם במטות \"ביחד\" ועוצמה יהודית, בעוד ועדת הבחירות המרכזית סיכמה טיפול בכ-10,000 דיווחים במערך טוהר הבחירות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:54:54.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382080",
       "title": "המדגמים כאן, הפעילים אינם: מטה \"הציונות הדתית\" ריק",
       "summary": "ערוצי החדשות יצרו בילד-אפ בעניין פרסום המדגמים בדיוק ב-22:00, אך הבילד-אפ פסח על מפלגת \"הציונות הדתית\". במקום פחות מ-100 איש, וגם הכפיים שהחלו - גדעו אחרי זמן מה. שכבת הפעילים והנציגים העיקרית - אינה",
@@ -50,6 +140,15 @@
       "pubDate": "2026-10-27T20:48:26.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21720893",
+      "title": "על רקע ההסלמה מול החות'ים: המשלחת הסעודית חוזרת מטהרן ללא תוצאות",
+      "summary": "הבכירים מסעודיה, פקיסטן וטורקיה ביקשו מטהרן לפעול להפסקת התקיפות החות'יות נגד הממלכה, אך לפי דיווח ב\"דה נשיונל\" לא הושגה התקדמות • איראן טענה כי אין לה מנופי לחץ מספיקים על החות'ים, וביקשה מהמדינות לסייע בקידום הפוגה בת שבועיים מול ארה\"ב",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21720893",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:48:19.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382075",
       "title": "החיוכים חזרו למטה הליכוד - אלא שהמספרים מספרים סיפור אחר",
       "summary": "מהדכדוך בבוקר לחגיגות במטה הליכוד: נתניהו שומר על מעמד מפלגתו כגדולה ביותר במדגמים, אך 61 המנדטים עדיין רחוקים. הפערים בין הערוצים גדולים, ובמפלגה תולים תקוות במעטפות הכפולות",
@@ -57,6 +156,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-27T20:48:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21721090",
+      "title": "בעולם מבולבלים: \"האופוזיציה מנצחת\", \"נתניהו מוביל\" ו\"תיקו\"",
+      "summary": "כלי תקשורת ברחבי העולם ניסו להסביר את תוצאות הבחירות בישראל והדגישו את ההבדל בין השגת המפלגה הגדולה בכנסת ליכולת להרכיב ממשלה • ה\"קורייר דלה סרה\" האיטלקי דיווח: \"השתתפות שיא בבחירות בישראל\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21721090",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:46:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721221",
+      "title": "אכזבה במטה ישראל ביתנו: \"המומנטום היה שלנו - ופספסנו\"",
+      "summary": "הפערים הגדולים בין מדגמי הטלוויזיה הותירו את תומכי המפלגה ברגשות מעורבים, אך הם שומרים על אופטימיות זהירה לקראת הימים הקרובים • הפעילים מסתמכים על ניסיון העבר ומאמינים כי ספירת הקולות הסופית תוסיף למפלגה מנדטים קריטיים. \"עוד יום, יום וחצי, כשנראה את תוצאות האמת - נהיה הרבה יותר חכמים\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721221",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:45:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721202",
+      "title": "העם אמר את דברו. ממשלת הטבח סיימה את דרכה.",
+      "summary": "תוצאות המדגמים מראות כי נתניהו לא מגיע ל-50 מנדטים, בעוד גוש השינוי מוביל ומנסה לגבש רוב • מול האתגרים בהרכבת הקואליציה והאפשרות לממשלת מיעוט ציונית, המטרה הראשונה תהיה החלפת יו\"ר הכנסת והקמת ועדת חקירה ממלכתית",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721202",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:43:58.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/h1pnwf03gg",
@@ -68,6 +194,15 @@
       "pubDate": "2026-10-27T20:43:55.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721298",
+      "title": "בערוץ 14 נתניהו קרוב לממשלה - אך בליכוד שורר שקט",
+      "summary": "מטה הליכוד בבנייני האומה החל להתמלא סמוך לשעה 22:00, אך חברי הכנסת והשרים טרם הגיעו והפעילים זרמו באיטיות • בעוד ערוץ 14 מציג את נתניהו במרחק מנדט מהרכבת ממשלה, בשאר הערוצים התמונה נותרה לא מוכרעת",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721298",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:42:36.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382074",
       "title": "\"ביבי הביתה\": חגיגות במטה הרשימה המשותפת אחרי תוצאות המדגמים",
       "summary": "תוצאות המדגמים העניקו לרשימה המשותפת הישג משמעותי, ובמטה המפלגה בנצרת חגגו בקריאות נגד נתניהו. כעת במפלגה מסמנים את היעדים הבאים. עופר כסיף הגיב: \"העם הפלסטיני יזכה להקים את ביתו!\"",
@@ -75,6 +210,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-27T20:41:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21721301",
+      "title": "המגישה המשיכה להקריא: הפדיחה של ערוץ 14 בשידור המדגמים",
+      "summary": "במהלך הצגת מדגמי הבחירות בערוץ 14 הופיעו על המסך חלוקות גושים שלא מתחברות ל-120 מנדטים • באחד הלוחות נעלמו מהמפה 26 מנדטים שלמים בבת אחת • וגם: המספרים שהמגישה הקריאה בקול רם, למרות הפער שבלט לעין על המסך",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21721301",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:37:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21720895",
+      "title": "גוש השינוי רחוק מממשלה - אך יש לו עדיין אופציה דרמטית",
+      "summary": "איזנקוט, בנט, ליברמן ושות' כבר רקמו את המתווה להשתלטות על הכנסת • בשלב הראשון, אם וכאשר התוכנית תצא אל הפועל, יודח היו\"ר אוחנה • לאחר מכן, הם עשויים להעמיד את נתניהו בסכנה משמעותית • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21720895",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:35:24.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89589",
@@ -93,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T20:32:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/studio-kikar/haredi-sector-election-broadcast",
+      "title": "כל הפרשנויות ותוצאות הבחירות לכנסת ה-26 | משדר הבחירות של המגזר החרדי • צפו בשידור החי",
+      "summary": "3 שעות לסגירת הקלפיות בבחירות לכנסת ה-26 והדרמה בעיצומה בעקבות אחוז ההצבעה הגבוה | המשדר המקדים של 'כיכר השבת', בהגשת משה מנס ואלי גוטהלף - מ'אולפן כיכר' ומכל המוקדים המרכזיים יחד עם בכירי הפרשנים, היועצים האסטרטגיים ואנשי התקשורת | ב-21:00 המשדר המרכזי • צפו בשידור חי (אולפן)",
+      "link": "https://www.kikar.co.il/studio-kikar/haredi-sector-election-broadcast",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T20:32:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/studio-kikar/haredi-sector-election-broadcast",
@@ -138,6 +300,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T20:31:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21720792",
+      "title": "ההתרסקות של המפלגות החרדיות: הציבור הפנה עורף?",
+      "summary": "ש\"ס ויהדות התורה השיגו במקרה הטוב 16 מנדטים על פי המדגמים יחד, זאת לעומת 18 משותפים בבחירות הקודמות • שילוב של אחוז ההצבעה והכישלון בחקיקת חוק הפטור מגיוס הובילו ככל הנראה גם להצבעת מחאה למפלגות החדשות שצצו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21720792",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:30:55.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-voting-patterns-survey",
@@ -201,6 +372,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T20:18:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rks5sp03zx",
+      "title": "יתרון קל לגוש השינוי, הליכוד היא המפלגה הגדולה | תוצאות כל המדגמים",
+      "summary": "אחרי יום של אחוזי הצבעה ששברו שיאים, לאף צד אין 61 מנדטים: הקלפיות נסגרו, ולפי מדגמי 11, 12 ו-13 הליכוד אמנם נשארה המפלגה הגדולה ביותר - אבל גוש השינוי הוא זה שמוביל - נתוני כל המדגמים",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rks5sp03zx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T20:17:41.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rks5sp03zx",
@@ -349,7 +529,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382054",
       "title": "תוצאות מדגם חדשות 13: הליכוד המפלגה הגדולה - גוש השינוי מוביל",
-      "summary": "אחרי שיעורי הצבעה שוברי שיאים: יום הבחירות לכנסת ה-26 הגיע לסופו. עם סגירת הקלפיות בשעה 22:00 פורסמו מדגמי ערוצי הטלוויזיה. כך נראית מפת המנדטים המסתמנת לפי ערוץ 13",
+      "summary": "עם סגירת הקלפיות בשעה 22:00 פורסמו מדגמי ערוצי הטלוויזיה. מפת המנדטים המסתמנת לפי ערוץ 13: הליכוד המפלגה הגדולה עם 25 מנדטים אחריה ישר! עם 23 מנדטים, המפלגות הערביות מגיעות ל-18 מנדטים",
       "link": "https://www.maariv.co.il/news/elections-2026/article-1382054",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -627,6 +807,15 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "title": "אחוז ההצבעה שבר שיאים • גוש הימין ונתניהו מתרסק במדגמים",
+      "summary": "שיעורי ההשתתפות הגבוהים ביותר מזה עשרות שנים השפיעו באופן ישיר ודרמטי על המפה הפוליטית כפי שהכירו בישראל עד היום | על פי כל המדגמים, אין לנתניהו 61 מנדטים להקמת ממשלה, על פי רוב הערוצים גוש ימין ונתניהו עומד על 50 מנדטים, גוש השמאל על 52 מנדטים וגוש הערבים על 18 (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T18:57:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "title": "אחוז ההצבעה שבר שיאים • גוש הימין ונתניהו מתרסק במדגמים ל-50 מנדטים",
       "summary": "שיעורי ההשתתפות הגבוהים ביותר מזה עשרות שנים השפיעו באופן ישיר ודרמטי על המפה הפוליטית כפי שהכירו בישראל עד היום | על פי כל המדגמים, אין לנתניהו 61 מנדטים להקמת ממשלה, על פי רוב הערוצים גוש ימין ונתניהו עומד על 50 מנדטים, גוש השמאל על 52 מנדטים וגוש הערבים על 18 (חדשות, פוליטי)",
       "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
@@ -642,6 +831,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T18:57:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21720486",
+      "title": "עוד תבוסה לאוסף: מכבי תל אביב הפסידה 100:78 לכוכב האדום בלגרד",
+      "summary": "הצהובים קרסו ונקלעו כבר בדקות הראשונות לפיגור דו ספרתי, ממנו לא חזרו • עודד קטש ירד למאזן 6-2 ביורוליג",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21720486",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T18:47:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21720486",
@@ -3711,6 +3909,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-27T11:20:10.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3873787",
+      "title": "כשצעיר השליך רימון למליאה, ורה\"מ שלח להוריו איגרת אלגנטית",
+      "summary": "למה הונח פרופלור מפלסטיק על שולחן ראש הממשלה, יצחק רבין? מדוע הופסק נאומו של ח\"כ מיקי איתן רק אחרי שמונה שעות? מי הבכיר שמכדרר מהר יותר ממסי וקופץ גבוה יותר מג'ורדן? ספר חדש חושף את הסיפורים הקטנים",
+      "link": "https://e.walla.co.il/item/3873787",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T11:20:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21717388",
@@ -9111,6 +9318,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T14:05:35.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3873829",
+      "title": "היברידי במבחן: העיצוב למבורגיני, אבל איך הוא נוסע?",
+      "summary": "צ'רי מרחיבה את הסתערותה על השוק הישראלי עם קרוסאובר מוחצן אך חסכוני, שמצליח להפתיע דווקא בתחום שבו סיניות רבות מתקשות",
+      "link": "https://cars.walla.co.il/item/3873829",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-26T14:04:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21711792",
@@ -30351,60 +30567,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T21:53:03.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3873418",
-      "title": "המטפלת של שרה נתניהו חיפשה לכלוך - וזה מה שמצאה",
-      "summary": "המטפלת של שרה נתניהו חיפשה לכלוך - וזה מה שמצאה",
-      "link": "https://celebs.walla.co.il/item/3873418",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T21:13:00.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3873418",
-      "title": "אחת שיודעת: אשת הסוד של שרה נתניהו פותחת הכול",
-      "summary": "אחת שיודעת: אשת הסוד של שרה נתניהו פותחת הכול",
-      "link": "https://celebs.walla.co.il/item/3873418",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T21:13:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383958228",
-      "title": "חיפש מקום לישון בו בטיול - ומצא משהו ששינה את ההיסטוריה",
-      "summary": "כשתכנן חופשה בקנדה, חובב אסטרונומיה הבחין בתצורה עגולה ומשונה סביב אגם מרוחק. המדענים שפנה אליהם הסתייגו בתחילה, אבל המשלחת שיצאה לשטח חזרה עם הוכחה מפתיעה",
-      "link": "https://www.walla.co.il/news/donotmiss/383958228",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T21:12:04.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383958322",
-      "title": "אצלנו ובעולם: מצעד המתמודדים ההזויים שרצו בקלפי",
-      "summary": "רגע לפני הבחירות אצלנו, עם מפלגת פיראטים ו\"שרשר המלך\", יצאנו לבדוק מי עוד הפך קמפיין פוליטי למופע בלתי נשכח - מכוכבת הפורנו שהגיעה לכנסת ועד בעלי חיים שזכו בקולות",
-      "link": "https://www.walla.co.il/news/donotmiss/383958322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T21:10:58.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383958322",
-      "title": "מכוכבת הפורנו ועד לבעלי החיים שרצו בבחירות - וגרפו קולות",
-      "summary": "רגע לפני הבחירות אצלנו, עם מפלגת פיראטים ו\"שרשר המלך\", יצאנו לבדוק מי עוד הפך קמפיין פוליטי למופע בלתי נשכח - מכוכבת הפורנו שהגיעה לכנסת ועד בעלי חיים שזכו בקולות",
-      "link": "https://www.walla.co.il/news/donotmiss/383958322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T21:10:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21691015",
-      "title": "\"הכריעו את הבחירות לטובת נתניהו\": הטענה של בכיר פת\"ח שמסעירה את חמאס",
-      "summary": "ג'רביל רג'וב טען כי פיגועי הטרור שבוצעו באותה תקופה נועדו לבלום את תהליך אוסלו ולהעלות את הימין לשלטון • ארגון הטרור דחה את הדברים בחריפות, כינה אותם \"שקריים\" והאשים כי הם פוגעים במאמצים לאחד את השורות הפלסטיניות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21691015",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T21:04:16.000Z"
     }
   ]
 }
