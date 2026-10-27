@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T13:45:51.493Z",
+  "updatedAt": "2026-10-27T14:01:07.237Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "title": "אחוז ההצבעה בעליה ועומד על 44.9%, הגבוה מאז 1973 • נתניהו וסמוטריץ' נערכים לבליץ מצביעים",
+      "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T13:44:33.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
       "title": "קרב על כל קול: תיאום דרמטי בין נתניהו לסמוטריץ'",
       "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
@@ -52,7 +61,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/weather/article-1381969",
       "title": "חסימות הכבישים בדרום: כלל הדרכים המובילות לאילת חסומות",
-      "summary": "כביש 90 נחסם לתנועת כלי רכב מצומת הערבה, וכך נחסמה הכניסה והיציאה הצפונית לעיר אילת. מוקדם יותר נחסמו גם כביש 40 וכביש 13 מחשש לשטפונות. לפי התחזית, הגשם צפוי להתגבר",
+      "summary": "כביש 90 נחסם לתנועת כלי רכב מצומת הערבה, וכך נחסמה הכניסה והיציאה הצפונית לעיר אילת וכביש 25 מצומת צפית. מוקדם יותר נחסמו גם כביש 40 וכביש 13 מחשש לשטפונות. לפי התחזית, הגשם צפוי להתגבר",
       "link": "https://www.maariv.co.il/news/weather/article-1381969",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -138,6 +147,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T13:28:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381964",
+      "title": "שיעורי הצבעה בחלק ממעוזי הליכוד והחשש במפלגה: \"הילד שצעק זאב, זאב\"",
+      "summary": "שיעור ההצבעה הארצי הגיע לשיא של עשרות שנים, אך בליכוד חוששים מהיענות מצביעי הימין ומהתגייסות המחנה היריב. במפלגה טוענים שקריאות ה\"גיוועלד\" נשחקו: \"אין אפילו סימן אחד מעודד\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1381964",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T13:28:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381964",
@@ -266,13 +284,22 @@
       "pubDate": "2026-10-27T13:04:18.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "title": "אחרי 4 שנים, ישראל בוחרת: אחוז ההצבעה עומד על 44.9%, הגבוה מאז 1973 • כל העדכונים",
       "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/tniqj3",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T13:02:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959112",
+      "title": "אחרי יותר ממאה שנה בקרח: נחשפו 250 פצצות ממלחמת העולם ה-1",
+      "summary": "הצבא האיטלקי איתר אמצעי לחימה מתקופת מלחמת העולם הראשונה בהרי הדולומיטים. הפצצות והמוקשים היו בתוך קרחונים שנמסו בשנים האחרונות - והובילו לחשיפתם. מומחים מזהירים כי הנפלים עדיין עלולים להיות מסוכנים",
+      "link": "https://www.walla.co.il/news/world/383959112",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T13:01:05.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89481",
@@ -300,6 +327,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-27T12:56:00.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3873938",
+      "title": "מהקלפי לסטורי: הסלבס שחשפו למי הצביעו בבחירות",
+      "summary": "מבנט ועד נתניהו: הבחירות הגורליות לכנסת ה-26 הוציאו גם את הסלבס מהבית ואל הקלפיות, והפעם רבים מהם לא הסתפקו רק במימוש זכותם הדמוקרטית, אלא גם חשפו בפומבי איזה פתק הם שמים בקלפי",
+      "link": "https://celebs.walla.co.il/item/3873938",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T12:52:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-voter-turnout-surges-election-day-2026",
@@ -345,6 +381,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T12:46:09.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959109",
+      "title": "\"חג שטני וגזעני\": אישום נגד חבר פרלמנט אירופי",
+      "summary": "חבר הפרלמנט האירופי גז'גוז' בראון, שכיבה את נרות החנוכה בפרלמנט הפולני, מואשם בהסתה לשנאה דתית, בתקיפת רופאת נשים ובהשחתת רכוש. בראון כפר באישומים וטען כי הוא קורבן ל\"לינץ' ממלכתי\"",
+      "link": "https://www.walla.co.il/news/world/383959109",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T12:46:02.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1381954",
@@ -995,10 +1040,10 @@
       "pubDate": "2026-10-27T11:06:14.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "title": "אחרי 4 שנים, ישראל בוחרת: אחוז ההצבעה עומד על 31.5%, הגבוה מאז 1977 • כל העדכונים",
       "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/tniqj3",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T11:02:21.000Z"
@@ -29937,114 +29982,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T14:01:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21686985",
-      "title": "בדיוק לפני 7 שנים קיבל גנץ את המנדט מהנשיא. השבוע המעגל נסגר",
-      "summary": "החתירה לאחדות ולממלכתיות • ההזדמנויות שלא השכיל לנצל • והסיום השבוע, עם ההחלטה לפרוש מהמירוץ • רגע לפני הקלפי, מעניין להיזכר ברגע אחד בבחירות 2019, ובעתיד שהיה יכול להתממש - ונגנז • היום לפני: מדור חדש",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21686985",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T14:01:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21687963",
-      "title": "\"אני מרגיש כמו הסמרטוט הכי גדול שקיים על כדור הארץ\"",
-      "summary": "אבישי בן שמעון חושף בפוסט חשוף את המחיר הנפשי הכבד שהוא משלם לצד ניוון השרירים • \"לא תמיד רואים כמה כוחות נדרשים ממני\", כתב • \"רוצה להאמין שמחכים לי ימים שלמים\".",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21687963",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T14:00:51.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hygduovhzg",
-      "title": "\"הוא לא ידע\": המילים היחידות שאומרת בחקירה אשת ראש העיר כפר סבא - וגרסתו",
-      "summary": "מיטל סער שומרת על שתיקה בחקירת פרשת השחיתות, למעט אמירתה שבעלה רפי \"לא ידע\". הוא טוען: \"לא לקחתי שקל\". מנגד, החוקרים קובעים: \"לפי החשד הוא היה מעורב באופן פעיל באינטרסים שקידמה, וגם אם לא ידע - רק עיוור או חירש לא היה שואל על המזומן הרב שיש לה ואורח החיים הראוותני\"",
-      "link": "https://www.ynet.co.il/news/article/hygduovhzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-22T13:59:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21684680",
-      "title": "מה הקשר בין המוסד, ישראל והיהדות למהומות בפריז?",
-      "summary": "מחאות של תלמידי תיכון בצרפת, שהידרדרו לעימותים אלימים, הפכו ברשתות החברתיות לקרקע פורייה להפצת תיאוריות קונספירציה אנטישמיות • איך הפכו אירועים ברחובות פריז לעוד הזדמנות להאשים את היהודים בכל מה שמשתבש בעולם?",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21684680",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T13:58:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21687793",
-      "title": "שבוע הנגרוני מגיע לישראל",
-      "summary": "מעל 45 ברים ומסעדות, שפים מובילים ואירועים מיוחדים יצדיעו למשקה האיטלקי המפורסם • האירועים מתקיימים בין 28 באוקטובר ל-4 בנובמבר ברחבי הארץ",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21687793",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T13:57:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21687808",
-      "title": "\"גאים בקדאפי\": 15 שנה לחיסולו - בלוב מתגעגעים לרודן המטורף",
-      "summary": "תומכי הדיקטטור שאחראי לפשעים נגד האנושות עדיין מהללים את פועלו • תושב טריפולי: \"הוא שמר על אחדות המולדת, עצמאותה וריבונותה\" • 15 שנים אחרי מותו, לוב קרועה בין שתי ממשלות ומנסה להשתקם מרצף של מלחמות אזרחים",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21687808",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T13:56:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21686732",
-      "title": "עם כוכבי מכבי תל אביב וחיפה: 3 הקבוצות הכי ישראליות באירופה",
-      "summary": "הבלם שמושאל ממכבי תל אביב משחק לצד אקס בית\"ר ירושלים, הפלופ של הצהובים סגר מעגל יחד עם החלוץ שאכזב במכבי חיפה ושני הבלמים מהעונה הקסומה של הירוקים חזרו לשתף פעולה • שלושת המועדונים שמחזיקים בנציגות \"ישראלית\" מרשימה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21686732",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T13:56:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnbach",
-      "title": "רבה של באר שבע בירמ\"ץ את בנו / גלריה",
-      "summary": "רבה הראשי של באר שבע וחבר מועצת הרבנות הראשית לישראל הגאון רבי אברהם דרעי בירמ\"ץ את בנו |בשמחה נטלו חלק גדולי ישראל. רבני ערים ודיינים, אדמורי\"ם וראשי ישיבות וכן אישי ציבור שעלו לברך ולאחל (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tnbach",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T13:54:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkkfxqwhmx",
-      "title": "נתניהו – איזנקוט: הבחירות שבין הפחד לנורמליות",
-      "summary": "נתניהו זיהה את עקב אכילס של המחנה הנגדי. אם יעלה בידיהם להרכיב ממשלה, כיצד יתמודדו עם איראן, שטראמפ מאיים שוב ושוב לתקוף — רגע לפני שהוא מצהיר חגיגית שאפשר להגיע להסכם? \"הכינו את הממ\"דים והמקלטים\" הייתה יכולה להיות סיסמת הבחירות של נתניהו. ואילו של איזנקוט? \"קצת שפיות\"",
-      "link": "https://www.ynet.co.il/news/article/hkkfxqwhmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-22T13:51:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21687694",
-      "title": "לא מתנצלת: סידני סוויני שוב מורידה בגדים",
-      "summary": "אחרי סערת העירום הקודמת, השחקנית הלוהטת חוזרת למסך בתיעוד חושפני ונועז שמוכיח שהיא ממש לא סופרת את המבקרים שלה • \"לא אכפת לה אם אנשים לא אוהבים אותה\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21687694",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T13:51:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88799",
-      "title": "הרב מאיה מש\"ס: \"מי שמצביע ליכוד אין לו חלק לעולם הבא\"",
-      "summary": "זקן חברי מועצת ש\"ס, הרב מאיה, השמיע מסר חריף נגד מצביעי הליכוד: \"מי שמצביע ליכוד - אין לו חלק לעולם הבא\". ההצהרה מגיעה במסגרת החרפת המסרים של המפלגה.",
-      "link": "https://www.kikar.co.il/scoop-news/88799",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T13:51:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/brazil-bolsonaro-son-election-runoff-israel-relati",
-      "title": "הקרב על ברזיל: בנו של בולסונארו מתקרב להכרעה – והיחסים עם ישראל במרכז",
-      "summary": "פלאביו בולסונארו מוביל בסקרים האחרונים מול הנשיא האנטישמי לולה | הבחירות ביום ראשון יכריעו את עתיד היחסים עם ישראל | מרוץ צמוד לנשיאות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/brazil-bolsonaro-son-election-runoff-israel-relati",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T13:48:29.000Z"
     }
   ]
 }
