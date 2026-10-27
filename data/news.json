@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:15:45.411Z",
+  "updatedAt": "2026-10-27T10:31:01.245Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/election-committee-no-systematic-ballot-damage",
+      "title": "ועדת הבחירות הודפת את הטענות: אין השחתה שיטתית של פתקים",
+      "summary": "בעקבות דיווחים ברשת על השחתת פתקי הצבעה • הוועדה מבהירה: אין אינדיקציות להשחתה שיטתית | כל מקרה נקודתי מטופל באופן מיידי (חדשות)",
+      "link": "https://www.kikar.co.il/political-news/election-committee-no-systematic-ballot-damage",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T10:30:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
+      "title": "אחרי שכל ראשי המפלגות כבר הצביעו: רק כעת ראש הממשלה נתניהו הגיע להצביע בקלפי בירושלים",
+      "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tniqj3",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T10:27:23.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/ramat-gan-voter-94-collapsed-died-election-day",
+      "title": "התמוטט לאחר שהצביע: גבר בן 94 נפטר ברמת גן; \"הצביע לאיזנקוט\"",
+      "summary": "גבר בן 94 הגיע להצביע בקלפי ברמת גן והתמוטט ברחוב החי\"ל • כוננים ופראמדיקים ביצעו החייאה אך נאלצו לקבוע את מותו | הפרטים המלאים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/ramat-gan-voter-94-collapsed-died-election-day",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T10:21:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21716877",
+      "title": "נינט טייב ביום הבחירות: \"חיכינו לך\"",
+      "summary": "בבוקר יום הבחירות, הזמרת חושפת את תחושותיה ומבהירה מה היא מבקשת לראות בעתיד • לצד הדרישה לשוויון אמיתי, היא משתפת במסר אישי • \"התרגשות ופרפרים\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21716877",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:11:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21716468",
+      "title": "אמירה בוזגלו נגד שמות ילדי הסלבס: \"זה לא קוד קופון\"",
+      "summary": "מגישת הטלוויזיה יצאה במתקפה חריפה באולפן נגד הטרנד של השמות המיוחדים - מ\"עיתו\" הטרי של מעיין אדם ועד \"תו פרינס\" של בן אל • בוזגלו: \"לא הכל זה רשתות חברתיות. הילדים הם לא יחסי ציבור\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21716468",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:03:58.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hjxfpy2nzx",
       "title": "מפת הבחירות: גלו כמה הצביעו בשכונה ובעיר שלכם",
       "summary": "ישראל בוחרת: במפה האינטראקטיבית ב-ynet תוכלו לראות את אחוזי ההצבעה מרמת העיר ועד לקלפי הבודדת",
@@ -41,6 +86,15 @@
       "pubDate": "2026-10-27T10:03:29.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21716854",
+      "title": "עופר לוי קורא לרצוח תומכי שמאל: \"מצווה להוציא להורג\"",
+      "summary": "סרטון חדש של עופר לוי ברשתות גורר תגובות. הזמר נשמע מצהיר כי \"לא צריך להתייפייף בבתי משפט, פשוט להוציא להורג\" • הוא גם מזהיר שאם מחנהו לא ינצח במאבק, הם יקחו את החוק לידיים בכל הכוח",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21716854",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:02:59.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/toddler-found-alone-yavne-night-police",
       "title": "פעוט נמצא משוטט לבדו באמצע הלילה בעיר מרכזית; כך פעלה המשטרה",
       "summary": "תושב העיר הזעיק את המשטרה לאחר שהבחין בפעוט משוטט לבדו ברחוב בשעה 1:00 לפנות בוקר • שוטרים וצוות השיטור העירוני טיפלו בו לאורך הלילה | בשעות הבוקר נוצר חיבור עם בני המשפחה (בארץ)",
@@ -48,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T10:01:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkv5r10hmg",
+      "title": "\"אבא הספיק להצביע\": בן 94 חזר מהקלפי - ונפטר בכניסה לביתו",
+      "summary": "\"אבא ממש רצה שאקח אותו לבחור הבוקר. הוא לא ויתר\". כך סיפרה ל-ynet בתו של תושב רמת גן ישראל קרייס, שהתמוטט ונפטר בכניסה לבניין מגוריו לאחר ששב מהקלפי. בזק\"א מסרו כי הם מסייעים למשפחה, ובתו הודתה להם: \"אבא חזר לאחר שמימש את זכותו הדמוקרטית. הוא דוגמה לכולנו\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hkv5r10hmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T09:58:52.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkv5r10hmg",
@@ -771,6 +834,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
+      "title": "בגלל בדיחה של קיליאן אמבפה: המעצמה שתפסיק לשדר את הלה ליגה",
+      "summary": "מה שהתחיל כבדיחה של כוכב ריאל מדריד על תמונה שלו בדמותו של מאו דזה־דונג הפך למשבר בינלאומי: הטלוויזיה הממלכתית בסין השעתה את שידורי הליגה הספרדית, חברות ענק ביטלו הסכמי חסות עם החלוץ ומשרד החוץ הסיני פרסם אזהרה חריפה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T07:25:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
       "title": "בגלל בדיחה לא מוצלחת: חרם הוטל על קיליאן אמבפה",
       "summary": "כוכב ריאל מדריד הסתבך לאחר שסיפר כי הוא נוהג לצחוק עם חבריו מתמונה שבה פניו מופיעות על גופו של מנהיג סין לשעבר מאו דזה-דונג• שלוש חברות סיניות הודיעו על הפסקת שיתוף הפעולה המסחרי עמו, על רקע הרגישות במדינה ללעג כלפי מנהיגיה",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
@@ -1483,7 +1555,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/politics/383958985",
       "title": "שיעור ההצבעה המעודכן: 17%, עליה ביחס לבחירות הקודמות",
-      "summary": "מעל ל-1.2 מיליון ישראלים כבר הצביעו: בליכוד טוענים לעבירות טוהר בחירות במגזר הערבי, תלונה על אלימות נגד אנשי המפלגה החרדית החדשה. זו מפת ההצבעות לפי ישובים",
+      "summary": "מעל ל-1.2 מיליון ישראלים כבר הצביעו: בליכוד טוענים לעבירות טוהר בחירות במגזר הערבי, תלונה על אלימות נגד אנשי המפלגה החרדית החדשה. זו מפת ההצבעות",
       "link": "https://www.walla.co.il/news/politics/383958985",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -2127,6 +2199,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-26T21:58:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21714982",
+      "title": "דיווח אמריקני: בממשל טראמפ דנו בהקמת ממשלת אחדות",
+      "summary": "בארה\"ב חושפים כי ממשל טראמפ מקדם ממשלה רחבה בישראל • רה\"מ התחייב בשיחות סגורות להקים קואליציה מתונה ולזנוח את שותפיו מימין • מנגד, יו\"ר ישר הבהיר כי \"הציבור יקבע את התוצאה\", ומותיר פתח להסדר מדיני שישנה את פני המזרח התיכון",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21714982",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-26T21:55:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21714982",
@@ -30072,87 +30153,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-22T10:31:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21685481",
-      "title": "\"זה יקרה בשנה הקרובה\": התעשייה האווירית בדרך להשלים מהלך דרמטי",
-      "summary": "לדברי יו\"ר הדירקטוריון הועז לוי, השילוב בין הצמיחה המהירה של החברה, אי-הוודאות במדינה והמחסור בתקציבי המדינה מכתיב את הצורך בהנפקה לבורסה • זו תתבצע בהתאם להחלטת הממשלה מנובמבר 2020 להנפקת מיעוט בה כ-50% מהמניות יוכלו להיות בידי הציבור, בעוד החברה תישאר ממשלתית ולאומית",
-      "link": "https://www.israelhayom.co.il/business/article/21685481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:29:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21685481",
-      "title": "הנפקת התעשייה האווירית: \"אין ברירה, זה יקרה בשנה הקרובה\"",
-      "summary": "לדברי יו\"ר הדירקטוריון הועז לוי, השילוב בין הצמיחה המהירה של החברה, אי-הוודאות במדינה והמחסור בתקציבי המדינה מכתיב את הצורך בהנפקה • זו תתבצע בהתאם להחלטת הממשלה מנובמבר 2020 להנפקת מיעוט בה כ-50% מהמניות יוכלו להיות בידי הציבור, בעוד החברה תישאר ממשלתית ולאומית",
-      "link": "https://www.israelhayom.co.il/business/article/21685481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:29:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21685481",
-      "title": "\"אין ברירה, זה יקרה בשנה הקרובה\": יו\"ר התעשייה האווירית על ההנפקה",
-      "summary": "לדברי יו\"ר הדירקטוריון הועז לוי, השילוב בין הצמיחה המהירה של החברה, אי-הוודאות במדינה והמחסור בתקציבי המדינה מכתיב את הצורך בהנפקה • זו תתבצע בהתאם להחלטת הממשלה מנובמבר 2020 להנפקת מיעוט בה כ-50% מהמניות יוכלו להיות בידי הציבור, בעוד החברה תישאר ממשלתית ולאומית",
-      "link": "https://www.israelhayom.co.il/business/article/21685481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:29:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21685477",
-      "title": "\"אקט מהפכני\": קיירי אירווינג ישלם את הקנס של השחקן הפרו-פלסטיני",
-      "summary": "כוכב דאלאס מאבריקס יצא להגנתו של ליינבקר היוסטון טקסנס, עזיז אל-שאער, והודיע כי יישא בעלות הקנס שספג מהליגה על עטית שמות של ילדים פלסטינים מתחת לעיניו • אירווינג הגדיר את הצעד כחלק ממאבק דורי רחב והתבטא בחריפות נגד השימוש בכספי המסים של אזרחים אמריקנים, בעוד שחברו ממשיך לאתגר את מדיניות המדים הנוקשה של ה-NFL",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21685477",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:29:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21685451",
-      "title": "שעון החורף עוד יומיים כאן: כך תוודאו שהטלפון שלכם יעבור אוטומטית",
-      "summary": "המעבר הרשמי לשעון חורף יתרחש בלילה שבין שבת לראשון • כדי למנוע תקלות בשעון המעורר ובסנכרון הרשת, מומלץ לבדוק מראש את הגדרות המכשיר • כך תבצעו את הפעולות הנדרשות באייפון ובאנדרואיד.",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21685451",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:26:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21685451",
-      "title": "שעון החורף עוד יומיים כאן: כך תוודאו שהטלפון שלכם יתעדכן אוטומטית",
-      "summary": "המעבר הרשמי לשעון חורף יתרחש בלילה שבין שבת לראשון • כדי למנוע תקלות בשעון המעורר ובסנכרון הרשת, מומלץ לבדוק מראש את הגדרות המכשיר • כך תבצעו את הפעולות הנדרשות באייפון ובאנדרואיד.",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21685451",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:26:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21674924",
-      "title": "בול כמו באיטליה: חצילים בפרמזן שאי אפשר להפסיק לאכול",
-      "summary": "שכבות של חצילים בציפוי פריך, רוטב מרינרה עשיר, מוצרלה נמסה ופרמזן זהוב • המאפה האיטלקי האהוב מקבל גרסה ביתית מושחתת במיוחד, עם טריק קטן שעוזר לשמור על המרקם גם אחרי האפייה",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21674924",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:22:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tnb0be",
-      "title": "טאבלטים, 500 שקל ואלכוהול: הגנב מתל אביב נקלט במצלמות - ונתפס",
-      "summary": "שוטרי תחנת לב תל אביב במרחב ירקון עצרו תושב תל אביב שפרץ למסעדה ברחוב הירקון בתל אביב וגנב כסף מזומן, שני טאבלטים ובקבוקי אלכוהול: בתום החקירה הוגשו אתמול נגדו כתב אישום ובקשה למעצר עד תום ההליכים | המשטרה פרסמה את רגעי הפריצה (משטרה)",
-      "link": "https://www.kikar.co.il/news/tnb0be",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T10:19:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tnb0be",
-      "title": "בודק אם יש כסף בקופה וגונב טאבלטים: כך נראו רגעי הפריצה למסעדה",
-      "summary": "שוטרי תחנת לב תל אביב במרחב ירקון עצרו תושב תל אביב שפרץ למסעדה ברחוב הירקון בתל אביב וגנב כסף מזומן, שני טאבלטים ובקבוקי אלכוהול: בתום החקירה הוגשו אתמול נגדו כתב אישום ובקשה למעצר עד תום ההליכים | המשטרה פרסמה את רגעי הפריצה (משטרה)",
-      "link": "https://www.kikar.co.il/news/tnb0be",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T10:19:49.000Z"
     }
   ]
 }
