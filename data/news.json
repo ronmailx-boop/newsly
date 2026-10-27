@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:27:27.667Z",
+  "updatedAt": "2026-10-27T19:31:00.595Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/studio-kikar/haredi-sector-election-broadcast",
+      "title": "המדד למנדט בשיא של כל הזמנים, האם ישראל תלך לסיבוב שני ?",
+      "summary": "3 שעות לסגירת הקלפיות בבחירות לכנסת ה-26 והדרמה בעיצומה בעקבות אחוז ההצבעה הגבוה | המשדר המקדים של 'כיכר השבת', בהגשת משה מנס ואלי גוטהלף - מ'אולפן כיכר' ומכל המוקדים המרכזיים יחד עם בכירי הפרשנים, היועצים האסטרטגיים ואנשי התקשורת | ב-21:00 המשדר המרכזי • צפו בשידור חי (אולפן)",
+      "link": "https://www.kikar.co.il/studio-kikar/haredi-sector-election-broadcast",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T19:26:06.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tnkvju",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 21:00",
@@ -30153,24 +30162,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T19:34:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88849",
-      "title": "שתי הולכות רגל נפגעו מרכב בכפר יונה",
-      "summary": "שתי הולכות רגל נפגעו מרכב ברחוב הנגב בכפר יונה. צוותי מד\"א פינו לבית החולים לניאדו אישה כבת 70 במצב בינוני עם חבלות בראש ובגב, ונפגעת נוספת במצב קל. התאונה אירעה בשעה 21:04.",
-      "link": "https://www.kikar.co.il/scoop-news/88849",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T19:30:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21690663",
-      "title": "בגיל 93: כוכב ״הנוסע השמיני״ הלך לעולמו",
-      "summary": "הוליווד נפרדת מאחד השחקנים המוערכים והאהובים ביותר, שהותיר אחריו מורשת אדירה של סרטים וסדרות מיתולוגיות • \"שבורי לב מהאובדן שלו\"",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21690663",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T19:29:51.000Z"
     }
   ]
 }
