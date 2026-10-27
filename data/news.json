@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:01:00.728Z",
+  "updatedAt": "2026-10-27T22:15:58.647Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382098",
+      "title": "בש\"ס ביטלו את הכנס הערב - אבל משדרים אופטימיות: \"תודה לבורא עולם\"",
+      "summary": "בש\"ס ביטלו את כנס הפעילים שתוכנן להערב - והמראה באולם המרכזי מדכא. גורם בקמפיין אמר ל\"מעריב\": \"למרות קמפיין אגרסיבי, ש\"ס מוכיחה פעם נוספת את כוחה בציבור\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382098",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T22:13:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tnl070",
+      "title": "פילבר בערוץ 14: הימין עולה ל-61, ליברמן לא עובר את אחוז החסימה",
+      "summary": "עם סגירת הקלפיות, ערוצי התקשורת פרסמו את נתוני המדגמים שבוצעו לאורך היום | מסתמן: עדיין אין הכרעה בין הגושים, המפלגות הערביות רושמות זינוק היסטורי וחסר תקדים (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tnl070",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T22:06:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89601",
+      "title": "ליברמן קורא לחברי הליכוד להדיח את נתניהו",
+      "summary": "יו\"ר ישראל ביתנו אביגדור ליברמן קרא לחברי הליכוד להרים \"נס מרד\" ולהדיח את ראש הממשלה בנימין נתניהו. \"נתניהו חייב לרדת מהבמה. תרימו נס מרד בתוך הליכוד - ותעיפו אותו\", אמר.",
+      "link": "https://www.kikar.co.il/scoop-news/89601",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T22:05:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89600",
+      "title": "דרעי: פערים גדולים במדגמים, ש\"ס צפויה לתוצאה טובה מאוד",
+      "summary": "יו\"ר ש\"ס אריה דרעי אמר כי תוצאות המדגמים מציגות פערים גדולים ולכן יש להמתין לתוצאות האמיתיות. לדבריו, מהנתונים שבידי ש\"ס המפלגה צפויה להציג תוצאה טובה מאוד.",
+      "link": "https://www.kikar.co.il/scoop-news/89600",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T22:04:14.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/lieberman-unprecedented-attack-netanyahu-elections",
       "title": "ליברמן התלוצץ: \"הייתי חייב רופא\" - וקרא למרד בתוך הליכוד נגד נתניהו",
       "summary": "יו\"ר ישראל ביתנו הגיב לסקרים בנאום תקיף • \"נתניהו לא ימין, רק אינטרסים אישיים\" • קרא לחברי הליכוד: \"תרימו נס מרד ותעיפו אותו\" | התקפה חסרת תקדים (פוליטי מדיני)",
@@ -51,12 +87,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkvst9chge",
+      "title": "בן גביר זכה רק ב-6 מנדטים לפי המדגמים: \"אחדות עם איזנקוט? אל תעשו את הטעות\"",
+      "summary": "אחרי ששאף למספר דו-ספרתי של מנדטים, יו\"ר עוצמה יהודית הסתפק בשישה בלבד לפי המדגמים - אך ניסה לשדר אופטימיות: \"מפלגה עצמאית שזוכה לתמיכה של מאות אלפי אזרחים\". הוא הזהיר מפני הקמת ממשלת אחדות עם יו\"ר ישר!: \"זה התרחיש שהזהרתי מפניו, זו ממשלת שיתוק\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hkvst9chge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T21:57:15.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkvst9chge",
       "title": "בן גביר זכה רק ב-6 מנדטים לפי המדגמים: צפו בשידור הישיר מנאומו",
       "summary": "",
       "link": "https://www.ynet.co.il/news/elections2026/article/hkvst9chge",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-27T21:57:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721868",
+      "title": "מהן, מי מצביע, ואיך הן נספרות? כל מה שצריך לדעת על המעטפות הכפולות",
+      "summary": "כ-650 אלף קולות, השווים לכ-14 מנדטים, צפויים להיספר במעטפות כפולות • מי זכאי להצביע מחוץ לקלפי שלו, כיצד מונעים הצבעה כפולה ואיך שומרים על חשאיות הבחירה?",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721868",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:53:56.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/winter-refuses-withdraw-long-term-journey-begun",
@@ -79,7 +133,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skpqrq0hmx",
       "title": "החשש בגוש השינוי - וחידת הנשיא טראמפ",
-      "summary": "הרצוג ימתין לתוצאות הסופיות והרשמיות, ואז יחל לעסוק בשאלת הענקת המנדט להקמת ממשלה. עד אז, לפי ההערכות, לא צפויה התפתחות ביטחונית חריגה. בגוש המתנגד לנתניהו חוששים שהוא יוביל להסלמה כדי לכפות ממשלת חירום - ושהנשיא האמריקני שוב יתגייס למענו",
+      "summary": "הרצוג ימתין לתוצאות הרשמיות, אך בסביבתו מבהירים: הוא יחל במגעים שקטים עוד קודם - ולא בהכרח יטיל את המנדט על ראש המפלגה הגדולה. בגוש המתנגד לנתניהו חוששים שהוא יוביל להסלמה כדי לכפות ממשלת חירום, ושטראמפ שוב יתגייס למענו",
       "link": "https://www.ynet.co.il/news/elections2026/article/skpqrq0hmx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -95,6 +149,15 @@
       "pubDate": "2026-10-27T21:45:08.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721917",
+      "title": "יאיר גולן: \"הציבור הישראלי פיטר היום את נתניהו ואת הליכוד\"",
+      "summary": "באירוע הסיום של הדמוקרטים הכריז יו\"ר המפלגה כי גוש השינוי ניצח וקרא להקים ממשלה בהקדם • גולן פנה לראשי הגוש: \"מול פקודה כזו לא מהססים, לא מתחשבנים על אגו ולא משאירים פתח לתמרונים פוליטיים\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721917",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:42:55.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rkcoxqc2ml",
       "title": "שיעור ההצבעה הגבוה זה 25 שנה - והיישובים שבהם 100% הצביעו",
       "summary": "אחרי הירידה בהתייצבות בשעות האחרונות, על פי ועדת הבחירות המרכזית 77.7% מבעלי זכות הבחירה מימשו את זכותם להצביע - הנתון הגבוה מ-2001. בפארן ושחרות הצביעו כל בעלי זכות הבחירה. אלו הנתונים מהערים הגדולות",
@@ -104,6 +167,15 @@
       "pubDate": "2026-10-27T21:42:01.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721471",
+      "title": "גדי לתשומת ליבך: הכרעה אין, אבל פתרון דווקא יש",
+      "summary": "המדגמים שאחרי אחוזי ההצבעה ההיסטוריים לא ייצרו מנצח ברור, ומציבים את יו\"ר \"ישר!\" כדמות המפתח בפאזל הפוליטי • אם יבחר להסתמך על 18 המנדטים של המפלגות הערביות כדי לעשות \"טבח פרלמנטרי\" בימין, הוא יהפוך לראש ממשלה לא ציונית • כדי להשיג מטרות לאומיות, ליברמן ובנט חייבים לחתור לקואליציה רחבה עם הליכוד",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721471",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:40:05.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/politics/383959153",
       "title": "נתניהו מוביל במנדטים, איזנקוט מוביל בגושים - והפלונטר התחיל",
       "summary": "ממוצע מדגמי הבחירות מציג תמונה פוליטית מסובכת: הליכוד נותרה המפלגה הגדולה, אבל נתניהו רחוק מרוב להקמת ממשלה; איזנקוט רושם הישג אישי משמעותי, אך גם לו אין קואליציה מוכנה. הערביות מזנקות להישג חסר תקדים",
@@ -111,6 +183,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-27T21:36:14.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byrovcrhzx",
+      "title": "ליברמן קרא למרד בתוך הליכוד, ולא התחייב שלא להישען על קולות ערבים",
+      "summary": "יו\"ר ישראל ביתנו אמר כי הוא סומך על המעטפות הכפולות, שם להערכתו כוחן של המפלגות החרדיות והערביות יהיה קטן יותר. \"עברתי ניתוח להארכת הפתיל\", הוסיף, קרא לחברי הליכוד להפיל את נתניהו כדי להקים קואליציה ציונית - והציע לחכות לשישי בבוקר. \"נמתין לתוצאות האמת ונטכס עצה\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/byrovcrhzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T21:35:12.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/byrovcrhzx",
@@ -138,6 +219,123 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-27T21:32:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21721644",
+      "title": "מהומות בבני ברק: 2 חרדים נעצרו, מפגינים חוסמים את כביש 4 | תיעוד",
+      "summary": "עימותים קשים בבני ברק לאחר סגירת הקלפיות: צעיר חרדי נעצר על רקע פלילי, מפגינים מנסים לחסום את כביש 4 במחלף גבעת שמואל • בעקבות המעצר הופעלה מערכת ההתרעות \"צבע שחור\" של הפלג הירושלמי; מספר מפגינים נפצעו בעימותים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21721644",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:32:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21627609",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "אתם מתחברים לצד הרך והכנוע שבכם וזה מאפשר יצירת אווירה נוחה ואוהדת, גם מבחינת הבית וגם מבחינת מערכות יחסים אינטימיות. &#xD; &#xD; מחלוקות שהעסיקו אתכם בימים האחרונים מתפוגגות",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21627609",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21627612",
+      "title": "מזל שור, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "אתם עלולים לחוש כי רבים סביבכם הולכים ותופסים לעצמם תפקידי ניהול, בעוד שאתם נותרים איכשהו מאחור. ובכן, לתחושתכם זו אין על מה לסמוך ונראה שדווקא השם שלכם הוא זה שמוזכר מאחורי הקלעים כמי שצפויים לקידום ולהנהגת האחרים",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21627612",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21627619",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "חברים מציעים לכם בילוי משותף ואתם מתלבטים. תפסיקו לעשות יותר מידי חישובים",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21627619",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21627810",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "סיבות שונות שאינן תלויות בכם גורמים לכם לחוש קצת אבודים. נראה שיש צורך להגביר את הקצב ולהתקדם הלאה כאילו שום דבר לא עומד בדרככם",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21627810",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21627811",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "מעורבות רגשית גבוהה מהרגיל מאפיינת אתכם ביום הזה. אתם מרגישים כאילו קצות העצבים שלכם חשופים",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21627811",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21627812",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "יום נהדר. תחושה של ניצחון וכוח",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21627812",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21628047",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "עליכם לגלות קצת יותר איפוק ופחות ספונטאניות. אתם מגיבים בתוקפנות כלפי אנשים שאינם ממלאים את הציפיות שלכם וזה מעורר כעסים נגדכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21628047",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21628048",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "אתם חווים הקלה של ממש אחרי מספר ימים לא קלים. בן/ת הזוג נכנס לתקופה מאתגרת מבחינה אישית",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21628048",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21628049",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "רדו מהפנטזיות ועברו להילוך מציאותי יותר במסגרת המגבלות הקיימות. חשוב שהפעילות שלכם תתבצע בהסכמת כל הנוגעים בדבר במיוחד כשמדובר על בני משפחה",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21628049",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21628248",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "יש לכם עוד הרבה מה ללמוד בקטע של מעשיות במתבטאת בהצבת מטרות ודחיית סיפוקים. קחו את הנושא כאתגר אישי ואל תתנו לעצמכם לגלוש למקומות אפלוליים ומוגנים לכאורה, בהם בא לכם להתחבא מהעולם התובעני, להתכרבל ולהירדם",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21628248",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "יום מפתיע. אתם מגלים מתחת לשכבה העליונה של משהו שנותן תחושה של בלבול ואובדן דרך, גרעין קשה של כיוון ברור לפעולה",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "אתם מתעצלים לטפל בעצמכם ולעניין הזה יש תוצאות ומחירים. אינכם מרגישים טוב והדבר פוגע גם במצב הרוח",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1mqb50nmx",
@@ -285,6 +483,15 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
+      "title": "\"לשבת עם רע\"מ\": הדמוקרטים מסמנים את הדרך להחלפת נתניהו - וזה הרמז של גולן",
+      "summary": "יאיר גולן פנה לראשי גוש השינוי במטה הדמוקרטים: \"נתניהו פוטר, עלינו לוודא שהפיטורים נכנסים לתוקף\". בכירת המפלגה נעמה לזימי קראה להקים ממשלה עם מנסור עבאס, וגם היו\"ר רמז: \"אם יש רוב, חייבים לממשו. בין אם בקואליציה מלאה או בתמיכה מבחוץ\". ח\"כ רייטן: \"מדינת ישראל הוציאה לנתניהו כרטיס אדום\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T21:03:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
       "title": "הדמוקרטים מסמנים את הדרך להחלפת נתניהו: \"לגלות אומץ, לשבת עם רע\"מ\"",
       "summary": "יאיר גולן אמר כי \"יש הזדמנות היסטורית\" - והכריז: \"עכשיו תורנו\". בכירת המפלגה לזימי קראה במטה הדמוקרטים להקים ממשלה עם מנסור עבאס: \"עלינו לגלות מנהיגות\". ח\"כ אפרת רייטן: \"גוש נתניהו התרסק, מדינת ישראל הוציאה לו כרטיס אדום\"",
       "link": "https://www.ynet.co.il/news/elections2026/article/b1glatahzx",
@@ -309,6 +516,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T21:01:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
+      "title": "לאחר המדגמים: חגיגות ב\"דמוקרטים\" - ליברמן קורא למרד בליכוד",
+      "summary": "שיא הצבעה של 25 שנה: 77.7% מכלל בעלי זכות הבחירה יצאו לקלפיות • הליכוד נגד בן גביר: \"עבודתו המעולה הביאה לנהירה חסרת תקדים\" • האשמות בימין לאחר המדגמים: \"וינטר סירב לכל הצעה ושרף קולות\" • גלעד קריב על המדגמים: \"גוש נתניהו התרסק, חייבים להקים ממשלה\" • כל העדכונים מהלילה הדרמטי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:54:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
@@ -384,6 +600,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721221",
+      "title": "ליברמן: צריך מרד בליכוד, נתניהו הרס את המחנה הלאומי",
+      "summary": "הפערים הגדולים בין מדגמי הטלוויזיה הותירו את תומכי המפלגה ברגשות מעורבים, אך הם שומרים על אופטימיות זהירה לקראת הימים הקרובים • הפעילים מסתמכים על ניסיון העבר ומאמינים כי ספירת הקולות הסופית תוסיף למפלגה מנדטים קריטיים. \"עוד יום, יום וחצי, כשנראה את תוצאות האמת - נהיה הרבה יותר חכמים\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721221",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:45:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721221",
       "title": "אכזבה במטה ישראל ביתנו: \"המומנטום היה שלנו - ופספסנו\"",
       "summary": "הפערים הגדולים בין מדגמי הטלוויזיה הותירו את תומכי המפלגה ברגשות מעורבים, אך הם שומרים על אופטימיות זהירה לקראת הימים הקרובים • הפעילים מסתמכים על ניסיון העבר ומאמינים כי ספירת הקולות הסופית תוסיף למפלגה מנדטים קריטיים. \"עוד יום, יום וחצי, כשנראה את תוצאות האמת - נהיה הרבה יותר חכמים\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21721221",
@@ -403,7 +628,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/h1pnwf03gg",
       "title": "אצל וינטר מאשימים את נתניהו וסמוטריץ'. הנדל מחכה לחיילים | המפלגות שלא עברו",
-      "summary": "במפלגת \"עמך ישראל\" טוענים ל\"קמפיין חסר אחריות\" של הליכוד ו\"הציונות הדתית\", שמצד אחד דרש לא להצביע לווינטר ומצד שני המריץ את המצביעים הערבים. המדגמים מראים שגם הנדל וזליכה לא עברו את אחוז החסימה, אך יו\"ר המילואימניקים טוען שהמעטפות הכפולות עשויות לשנות את התמונה. גם \"הציבור החרדי\" של לייטנר בחוץ",
+      "summary": "ב\"עמך ישראל\" טוענים ל\"קמפיין חסר אחריות\" של הליכוד והציונות הדתית שגרם למפלה, אך לדברי עופר וינטר \"התנועה כאן כדי להישאר\". המדגמים מראים שגם הנדל וזליכה לא עברו את אחוז החסימה, אך יו\"ר המילואימניקים טוען שהמעטפות הכפולות עשויות לשנות את התמונה. גם \"הציבור החרדי\" של לייטנר בחוץ",
       "link": "https://www.ynet.co.il/news/elections2026/article/h1pnwf03gg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -588,6 +813,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T20:23:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21720880",
+      "title": "תבוסה במדגמים? במטה וינטר חוגגים",
+      "summary": "לאחר שהתרסק במדגמי הטלוויזיה ולא עבר את אחוז החסימה, במטהו של עופר וינטר מסרבים לשתוק ומפנים אצבע מאשימה אל עבר הליכוד • לטענתם, קמפיין \"שתיית הקולות\" של נתניהו היה טעות אסטרטגית שעלתה לימין במנדטים יקרים: \"הרוב המוחלט של המצביעים שלנו הגיע מחוץ לגוש\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21720880",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:18:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21720880",
@@ -1065,6 +1299,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T18:59:13.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "title": "גוש הימין ונתניהו מתרסק במדגמים • במפלגות הערביות ובשמאל חוגגים",
+      "summary": "שיעורי ההשתתפות הגבוהים ביותר מזה עשרות שנים השפיעו באופן ישיר ודרמטי על המפה הפוליטית כפי שהכירו בישראל עד היום | על פי כל המדגמים, אין לנתניהו 61 מנדטים להקמת ממשלה, על פי רוב הערוצים גוש ימין ונתניהו עומד על 50 מנדטים, גוש השמאל על 52 מנדטים וגוש הערבים על 18 (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T18:57:56.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
@@ -30819,33 +31062,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T22:17:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "title": "אבי שושן ב\"פטריוטים\": \"אצביע לווינטר, רה\"מ מנסה לחסל איש ימין\"",
-      "summary": "חבר הפאנל בתוכנית הפטריוטים בערוץ 14 הודיע על תמיכה במפלגתו של עופר וינטר • שושן מתח ביקורת חריפה על הקמפיין שנוהל נגד וינטר וטען כי מנסים לעשות לו דה-לגיטימציה • למה הוא חושב שרשימתו של וינטר עדיפה על המפלגות הגדולות",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T22:12:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "title": "אבי שושן ב\"פטריוטים\": \"אצביע לוינטר, רה\"מ מנסה לחסל איש ימין\"",
-      "summary": "חבר הפאנל בתוכנית הפטריוטים בערוץ 14 הודיע על תמיכה במפלגתו של עופר וינטר • שושן מתח ביקורת חריפה על הקמפיין שנוהל נגד וינטר וטען כי מנסים לעשות לו דה-לגיטימציה • למה הוא חושב שרשימתו של וינטר עדיפה על המפלגות הגדולות",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T22:12:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "title": "אבי שושן בשידור: \"אצביע לוינטר, רה\"מ מנסה לחסל איש ימין\"",
-      "summary": "חבר הפאנל בתוכנית הפטריוטים בערוץ 14 הודיע על תמיכה במפלגתו של עופר וינטר • שושן מתח ביקורת חריפה על הקמפיין שנוהל נגד וינטר וטען כי מנסים לעשות לו דה-לגיטימציה • למה הוא חושב שרשימתו של וינטר עדיפה על המפלגות הגדולות",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21691177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T22:12:03.000Z"
     }
   ]
 }
