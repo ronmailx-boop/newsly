@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:31:01.245Z",
+  "updatedAt": "2026-10-27T10:46:04.637Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
+      "title": "\"מדווחים על פתקי 'נר' שנעלמים מהקלפיות בשכונות חרדיות\" | צפו",
+      "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tniqj3",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T10:43:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1381910",
+      "title": "מימש את זוכותו הדמוקרטית והתמוטט: המקרה המצער ברמת גן",
+      "summary": "גבר כבן 94 יצא הבוקר לממש את זכותו הדמוקרטית ולהצביע, ובדרך חזרה לביתו התמוטט. ביתו אמרה: \"אבא מימש את זכותו והתמוטט, הוא דוגמא לכולנו\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1381910",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T10:36:09.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/election-committee-no-systematic-ballot-damage",
       "title": "ועדת הבחירות הודפת את הטענות: אין השחתה שיטתית של פתקים",
       "summary": "בעקבות דיווחים ברשת על השחתת פתקי הצבעה • הוועדה מבהירה: אין אינדיקציות להשחתה שיטתית | כל מקרה נקודתי מטופל באופן מיידי (חדשות)",
@@ -50,6 +68,33 @@
       "pubDate": "2026-10-27T10:27:23.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21717099",
+      "title": "דיווח דרמטי: מכבי תל אביב תקבל הצעת ענק על שחקן הקבוצה",
+      "summary": "באפריקה טוענים: לבאנטה מהליגה הספרדית מכינה הצעה של כ־3 מיליון יורו עבור קשר הצהובים, איסוף סיסוקו, במטרה לצרפו כבר בחלון ההעברות הקרוב בינואר",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21717099",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:26:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21717085",
+      "title": "יצא להצביע בבחירות - התמוטט ומת בדרך לביתו",
+      "summary": "גבר בן 94 מרמת גן התמוטט בכניסה לבניין מגוריו, לאחר שחזר מהקלפי עם בתו • הבת סיפרה: \"אבא מימש את זכותו הדמוקרטית. אני גאה בו, הוא דוגמה לכולנו\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21717085",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:23:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21716996",
+      "title": "הצופים בבית בחרו: 10 הסרטים המובילים בישראל היום בנטפליקס",
+      "summary": "מקיפוד כחול בפסגה ועד קלאסיקות שוד מהניינטיז: דירוג הצפיות של נטפליקס בישראל מוכיח שהקהל המקומי מחפש בעיקר אקשן נדוש ובידור משפחתי • אלה עשרת הסרטים הנצפים ביותר השבוע.",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21716996",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:21:35.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/ramat-gan-voter-94-collapsed-died-election-day",
       "title": "התמוטט לאחר שהצביע: גבר בן 94 נפטר ברמת גן; \"הצביע לאיזנקוט\"",
       "summary": "גבר בן 94 הגיע להצביע בקלפי ברמת גן והתמוטט ברחוב החי\"ל • כוננים ופראמדיקים ביצעו החייאה אך נאלצו לקבוע את מותו | הפרטים המלאים (בארץ)",
@@ -57,6 +102,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T10:21:07.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959085",
+      "title": "החרדים נוהרים, הערבים שאננים ומה קורה בישובכם? המגמות מהבוקר",
+      "summary": "יותר מ-1.2 מיליון ישראלים הצביעו עד 10:00, ושיעור ההצבעה הגיע ל-16.68% • בת\"א הצביעו 9.2% ובירושלים 9% • מודיעין עילית עם 12.6%, אום אל-פחם עם 5.2% בלבד - ובעין הוד ובשדה נחמיה כבר חצו את רף ה-25%",
+      "link": "https://www.walla.co.il/news/israel/383959085",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T10:20:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21716828",
+      "title": "מדגם פתיחת העונה: מכבי תל אביב מגרדת בקושי את אחוז החסימה",
+      "summary": "למרות שהתחזיות היו די אופטימיות, הצהובים חזרו על אותן טעויות כמו בעונה שעברה והם בדרך לבור שלא יוכלו לצאת ממנו • הקבוצה חייבת לצרף שני גארדים באופן מיידי, אבל עד שיפוץ הסגל היא צריכה לצאת מהשבוע הכפול עם 0:2",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21716828",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:20:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21716897",
+      "title": "המבצעים של יום הבחירות הם מלכודת: הזמן שבו המחירים יצנחו באמת",
+      "summary": "הרשתות הגדולות מפתות עם קניות ללא מע\"מ והנחות של עשרות אחוזים ביום השבתון, אך המבצעים העמוקים באמת יגיעו רק בעוד ימים ספורים • מ-ShoppingIL ועד בלאק פריידי: לוח הזמנים המלא של נובמבר סייל 2026, היכן תמצאו הוזלות של עד 70% ולמתי כדאי לחכות?",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21716897",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T10:19:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21716877",
@@ -834,6 +906,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
+      "title": "בגלל בדיחה של אמבפה: מדינה ענקית תפסיק לשדר את הלה ליגה",
+      "summary": "מה שהתחיל כבדיחה של הצרפתי על תמונה שלו בדמותו של מאו דזה־דונג הפך למשבר בינלאומי: הטלוויזיה הממלכתית בסין השעתה את שידורי הליגה הספרדית, חברות ענק ביטלו הסכמי חסות עם החלוץ ומשרד החוץ הסיני פרסם אזהרה חריפה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T07:25:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
       "title": "בגלל בדיחה של קיליאן אמבפה: המעצמה שתפסיק לשדר את הלה ליגה",
       "summary": "מה שהתחיל כבדיחה של כוכב ריאל מדריד על תמונה שלו בדמותו של מאו דזה־דונג הפך למשבר בינלאומי: הטלוויזיה הממלכתית בסין השעתה את שידורי הליגה הספרדית, חברות ענק ביטלו הסכמי חסות עם החלוץ ומשרד החוץ הסיני פרסם אזהרה חריפה",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21715954",
@@ -903,6 +984,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T07:06:21.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3873830",
+      "title": "רכבת אל החושך - או לעתיד: התחבורה הציבורית אחרי הבחירות",
+      "summary": "רכבת אל החושך - או לעתיד: התחבורה הציבורית אחרי הבחירות",
+      "link": "https://cars.walla.co.il/item/3873830",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T07:05:00.000Z"
     },
     {
       "id": "walla:https://cars.walla.co.il/item/3873830",
@@ -30063,96 +30153,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-22T10:47:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21685536",
-      "title": "את ההשפעות של 7 באוקטובר על הספורט, הפועל באר שבע חווה על בשרה",
-      "summary": "מדינות באירופה שקיבלו בעבר את הנציגות הישראליות בידיים פתוחות, מוצאות כל תירוץ כדי לסגור בפנינו שערים • מראש העיר המוסלמי שמנסה להתחבב על בוחריו ועד הבריחה ההולנדית מאחריות, האוהדים האדומים סופרים משחק חוץ שני שהם לא יכולים לראות מקרוב • וזה עוד מבלי לדבר על משחקי הבית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21685536",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:44:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnb1oc",
-      "title": "\"אדוני, זה לא אפשרי\": טראמפ חשף שיחה משעשעת עם 'גוגל מפות'",
-      "summary": "נשיא ארה\"ב דונלד טראמפ כבר הספיק לשנות את השם של מספר אתרים ברחבי העולם, כמו אגם אונטריו שהפך מאז בהוראתו ל\"אגם אמריקה\" | הנשיא החליט שטוב יהיה לקרוא לאוקיינוס האטלנטי \"אוקיינוס טראמפ\", ואף הרים טלפון לגוגל מפות לשם כך | זו התשובה שהוא קיבל (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tnb1oc",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T10:44:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21685122",
-      "title": "מקרון: \"נאסור הפגנות\" - הסטודנטים: \"נצא לרחוב הערב\"",
-      "summary": "מועצת התלמידים קראה לצעדות מחאה גם בערים בהן הוכרז איסור על התקהלות בשעות הערב • הרשויות הודיעו כי הגדילו ב-20 אחוזים את היקף הכוחות הערוכים להתמודד עם מהומות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21685122",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:43:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21685493",
-      "title": "\"מצפים לחקור\": התפנית לאחר הטרגדיה בשער בית החולים בירושלים",
-      "summary": "הגבר שנעצר לאחר שהניח עובר מת בעמדת האבטחה בבית החולים שערי צדק ושוחרר, טוען לאלימות משטרתית • סנגוריתו הודיעה כי בכוונתו להגיש תלונה למח\"ש: \"לא ברור למה צריך היה לנהוג באלימות\" • לדבריה, ניתן היה לברר את נסיבות המקרה מבלי לעצור את האב",
-      "link": "https://www.israelhayom.co.il/news/local/article/21685493",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:40:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380103",
-      "title": "אחרי העתירה של הליכוד: הנתון החדש על הטיסות לבחירות",
-      "summary": "אחרי המאבק המשפטי עם הליכוד, מיזם Fly&Vote מדווח כי כ-67 אלף ישראלים בחו\"ל נערכים להגיע להצביע בבחירות הקרובות. הנתון מבוסס על אומדן של המיזם, ועשוי לייצג היקף קולות השקול לכ-1.7 מנדטים",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1380103",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-22T10:39:06.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3873097",
-      "title": "ניסה לחקות את בנט? הסוד המפתיע של ברדוגו",
-      "summary": "ניסה לחקות את בנט? הסוד המפתיע של ברדוגו",
-      "link": "https://celebs.walla.co.il/item/3873097",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T10:39:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21685582",
-      "title": "דיווח: נתניהו הציג לטראמפ תוכנית לתקיפה שתביא להפלת המשטר באיראן",
-      "summary": "מקור המקורב לממשל האמריקני אמר לאתר \"אירם ניוז\" האמירותי כי ראש הממשלה הציג לנשיא ארה\"ב אופציה לפעולה צבאית נרחבת נגד טהרן • המטרה של נתניהו: לפגוע מעבר ליכולות הגרעין ולשנות באופן שורשי את מבנה המשטר האיראני • מנגד, ממשל טראמפ שואף להגיע להסכם על ביטחון מצר הורמוז והגרעין כדי לסיים את המלחמה • המקור מזהיר: \"ארה\"ב בדילמה, עימות גלוי ישפיע על שווקי האנרגיה והיציבות\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21685582",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:32:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21685310",
-      "title": "משרב לגשם: המהפך במזג האוויר החל מיום הבחירות",
-      "summary": "עד 35 מעלות צפויות בסוף השבוע, לצד יובש ורוחות ערות • אזהרה צהובה פורסמה בשל עומס חום כבד בעמק בית שאן, בבקעת כנרות ובבקעת הירדן • בשלישי צפוי גשם בדרום עם חשש לשיטפונות, ובהמשך השבוע הוא עשוי להתפשט למרכז ולצפון",
-      "link": "https://www.israelhayom.co.il/weather/article/21685310",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:32:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21685526",
-      "title": "עדן הראל התפרקה בבכי: \"צריכה רגע לעכל את האירוע\"",
-      "summary": "אשת התקשורת התייצבה ברגע שיא מרגש לצד בנה הלוחם על מדים, ושיתפה בתיעוד חם את התחושות המציפות והסיום המשמעותי שעברו: \"זה רגע מטורף\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21685526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:31:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21685526",
-      "title": "עדן הראל, אחרי 7 חודשים של מתח: \"צריכה רגע לעכל את האירוע\"",
-      "summary": "אשת התקשורת התייצבה ברגע שיא מרגש לצד בנה הלוחם על מדים, ושיתפה בתיעוד חם את התחושות המציפות והסיום המשמעותי שעברו: \"זה רגע מטורף\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21685526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:31:56.000Z"
     }
   ]
 }
