@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:46:04.637Z",
+  "updatedAt": "2026-10-27T11:01:13.521Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1381914",
+      "title": "איום חדש ומבהיל ממצרים: הגיע כדי \"להרוג יהודים\"",
+      "summary": "תצפיות צה״ל זיהו במהלך הלילה מצרי שחצה את גדר הגבול. בחקירתו, אמר כי מטרתו הייתה לרצוח יהודים",
+      "link": "https://www.maariv.co.il/news/military/article-1381914",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T11:00:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-emergency-call-stealing-elections-arab-s",
+      "title": "חלוקת הכספים אצל הבדואים | נתניהו: \"מנסים לגנוב לנו את הבחירות!\"",
+      "summary": "ראש הממשלה הגיע להצביע אחרי השעה 12 • \"המשטרה תפסה שלושה מאנשי רע״מ עם מעטפות כסף\" | \"שיעורי ההצבעה במגזר הערבי גבוהים בהרבה - אתם חייבים לצאת\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-emergency-call-stealing-elections-arab-s",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T11:00:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/credit-card-spending-surge-election-day-2026",
+      "title": "יום הבוחר: הישראלים באטרף של קניות | נתונים מפתיעים - כמה גיהצו עד עכשיו?",
+      "summary": "למעלה מ-250 מיליון ש״ח בשלוש שעות • עלייה של 26.5% לעומת בחירות 2022 | נתוני שב״א מצביעים על פעילות צרכנית גבוהה (כלכלה בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/credit-card-spending-surge-election-day-2026",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T10:51:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
       "title": "\"מדווחים על פתקי 'נר' שנעלמים מהקלפיות בשכונות חרדיות\" | צפו",
       "summary": "7,331,981 אזרחים בעלי זכות בחירה ייגשו היום לאחת מ-12,018 הקלפיות שהוצבו ברחבי הארץ ויבחרו את הרשימה שתייצג אותם בכנסת ה-26 מתוך 36 רשימות שמתמודדות לכנסת - וזאת ארבע שנים מאז הבחירות האחרונות • \"כיכר השבת\" עם כל העדכונים השוטפים של יום הבחירות הדרמטי לכנסת (חדשות, פוליטי)",
@@ -50,6 +77,24 @@
       "pubDate": "2026-10-27T10:36:09.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383959088",
+      "title": "יצא להצביע ולא שב לביתו: בן 94 התמוטט ומת ברמת גן",
+      "summary": "ישראל קרייס יצא להצביע בקלפי יחד עם בתו, אך בדרכו חזרה התמוטט בכניסה לבניין מגוריו. מתנדבי זק\"א הוזעקו למקום וסייעו למשפחה. בתו סיפרה: \"אבא מימש את זכותו הדמוקרטית. אני גאה בו\"",
+      "link": "https://www.walla.co.il/news/israel/383959088",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T10:35:15.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383958985",
+      "title": "שיעור ההצבעה המעודכן: 32%, הגבוה מאז מהפך 77",
+      "summary": "מעל ל-1.2 מיליון ישראלים כבר הצביעו: בליכוד טוענים לעבירות טוהר בחירות במגזר הערבי, תלונה על אלימות נגד אנשי המפלגה החרדית החדשה. זו מפת ההצבעות",
+      "link": "https://www.walla.co.il/news/politics/383958985",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T10:35:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/election-committee-no-systematic-ballot-damage",
       "title": "ועדת הבחירות הודפת את הטענות: אין השחתה שיטתית של פתקים",
       "summary": "בעקבות דיווחים ברשת על השחתת פתקי הצבעה • הוועדה מבהירה: אין אינדיקציות להשחתה שיטתית | כל מקרה נקודתי מטופל באופן מיידי (חדשות)",
@@ -57,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T10:30:04.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/s1axsithze",
+      "title": "חלק הגיעו גם עם הנכדים: מצעד ראשי המפלגות בקלפיות",
+      "summary": "ראשי המפלגות יצאו לקלפיות יחד עם יותר מ-7 מיליון בעלי זכות בחירה. בנט: \"זה יום גורלי, נביא מהפכה\". הנדל: \"3 שנות מלחמה מתנקזות ביום אחד\". עבאס: \"נקים ממשלת שינוי שנייה\". דרעי: \"כל גדולי ישראל מתחננים להצבעה\". יאיר גולן: \"בוקר של תקווה אדירה\". וינטר: \"תצביעו עם הלב\". יעקב אשר: \"אנחנו מאוחדים\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/s1axsithze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T10:28:38.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/tniqj3",
@@ -122,6 +176,15 @@
       "pubDate": "2026-10-27T10:20:08.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383959086",
+      "title": "\"לא רוצים עוד מחדל\": משפחות חטופים בשלטי ענק וקריאה לבוחרים",
+      "summary": "בני משפחות חטופים פרסו בתל אביב שלט ענק נגד נתניהו וקראו להחלפת הממשלה ולהקמת ועדת חקירה ממלכתית. במקביל, איזנקוט הגיע לניר עוז ותקף את חברי הקואליציה: \"ממשיכים לברוח מאחריות\"",
+      "link": "https://www.walla.co.il/news/israel/383959086",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T10:20:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21716897",
       "title": "המבצעים של יום הבחירות הם מלכודת: הזמן שבו המחירים יצנחו באמת",
       "summary": "הרשתות הגדולות מפתות עם קניות ללא מע\"מ והנחות של עשרות אחוזים ביום השבתון, אך המבצעים העמוקים באמת יגיעו רק בעוד ימים ספורים • מ-ShoppingIL ועד בלאק פריידי: לוח הזמנים המלא של נובמבר סייל 2026, היכן תמצאו הוזלות של עד 70% ולמתי כדאי לחכות?",
@@ -174,6 +237,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T10:01:17.000Z"
+    },
+    {
+      "id": "walla:https://travel.walla.co.il/item/3873792",
+      "title": "רק לבחור: 10 היעדים הטובים ביותר לעונת הסתיו",
+      "summary": "מחקר חדש דירג 40 יעדים ברחבי העולם לפי צפיפות העצים הנשירים, שעות השמש, מגוון הסיורים והעניין של המטיילים. רק יעד אירופי אחד הצליח להיכנס לעשירייה הראשונה",
+      "link": "https://travel.walla.co.il/item/3873792",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T10:00:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hkv5r10hmg",
@@ -588,6 +660,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T08:35:51.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959067",
+      "title": "אלפי שקלים תמורת הפתק הנכון: 3 נעצרו ליד קלפי בדרום",
+      "summary": "המשטרה עצרה שלושה תושבי הפזורה בחשד שתכננו להציע תשלום בתמורה להצבעה לרע\"ם. במקביל: במפלגה פנו לוועדת הבחירות החשד לפגיעה בטוהר הבחירות. מפלגות נוספות התלוננו על פגיעות בפתקים",
+      "link": "https://www.walla.co.il/news/israel/383959067",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T08:29:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959067",
@@ -30081,78 +30162,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-22T11:01:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/beauty/article/21685788",
-      "title": "ענקית הטיפוח משיקה מתחם במיקום מבריק - לזמן מוגבל",
-      "summary": "מתחם הפופ-אפ של לנקום יפעל ברחבת סופר-פארם בביג גלילות • המבקרים ייהנו מאבחון עור במכשיר Skin Screen ודוגמית במתנה • המוצרים מבוססים על מחקר ביוטכנולוגי שווייצרי",
-      "link": "https://www.israelhayom.co.il/lifestyle/beauty/article/21685788",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T11:00:07.000Z"
-    },
-    {
-      "id": "walla:https://e.walla.co.il/item/3873224",
-      "title": "יותר מעשור אחרי: הסדרה האהובה סופסוף חוזרת",
-      "summary": "אחת עשרה שנים עברו מאז ירדה מהמסך הסדרה המוזיקלית \"גלי\" שעקבה אחרי מקהלת תיכוניסטים. עכשיו רק נשאר לגלות מי יחזור ומי יישאר בחוץ",
-      "link": "https://e.walla.co.il/item/3873224",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T11:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21685753",
-      "title": "ישראל, מצרים ויוון זועמות - ארה\"ב לא עוצרת את ארדואן",
-      "summary": "הפרלמנט במזרח לוב אישר הסכם ימי שנוי במחלוקת עם טורקיה, המתעלם מזכויות האיים היווניים • ישראל, יוון, מצרים והאיחוד האירופי גינו את המהלך, אך וושינגטון הסתפקה בקריאה להידברות • ב-2020 הגדירה ארה\"ב את ההסכם \"לא בונה ופרובוקטיבי\", וכעת היא נמנעת מלהתייחס לחוקיותו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21685753",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:58:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21685753",
-      "title": "ישראל, מצרים ויוון נגד ארדואן - ארה\"ב נמנעת מגינוי",
-      "summary": "הפרלמנט במזרח לוב אישר הסכם ימי שנוי במחלוקת עם טורקיה, המתעלם מזכויות האיים היווניים • ישראל, יוון, מצרים והאיחוד האירופי גינו את המהלך, אך וושינגטון הסתפקה בקריאה להידברות • ב-2020 הגדירה ארה\"ב את ההסכם \"לא בונה ופרובוקטיבי\", וכעת היא נמנעת מלהתייחס לחוקיותו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21685753",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:58:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21685839",
-      "title": "\"צביעות\": זעם באופוזיציה אחרי שנתניהו ויו\"ר הכנסת נעדרו מטקס הזיכרון לרבין",
-      "summary": "אל הטקס הממלכתי שנערך בבית הנשיא הוזמנו ראשי כל שלוש רשויות השלטון, אך היחיד שהגיע היה נשיא בית המשפט העליון, השופט יצחק עמית",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21685839",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:55:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21684950",
-      "title": "אחרי הסגירה בכפר סבא: בית הפנקייק המקורי מגיע למיקום מפתיע",
-      "summary": "רשת בית הפנקייק המקורי מתכננת לפתוח בדצמבר סניף חדש במרינה באשקלון, עם תפריט חלבי כשר למהדרין ופעילות עד 2:00 בלילה • מאחורי הסניף עומדים שני חברים בני 29, שמקדמים את הקמת העסק במקביל לשירות המילואים",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21684950",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:49:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21685728",
-      "title": "ללכת שבי אחרייך: סקירת הנעליים הכי חדשות",
-      "summary": "לכבוד שבוע ההליכה הבינ\"ל בדקנו את הנעליים הנוחות ביותר, אלו שאפשר ללכת איתן ושומרות על הרגליים רעננות בכל מצב ואלו שייראו עלינו טוב אפילו בעבודה",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21685728",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T10:47:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1380106",
-      "title": "יוליה מלינובסקי הגיעה לחוג בית ונשאלה על יאיר גולן: \"הוא יגן עליי - בן גביר יברח\"",
-      "summary": "ח\"כ יוליה מלינובסקי (ישראל ביתנו) התייחסה בחוג בית בהר אדר ליחסים בגוש, שיבחה את יאיר גולן, הזכירה את חוסר הניסיון של אזינקוט ותקפה את הממשלה על תפקודה, מדיניות הגיוס, הסבסוד החרדי והתנהלותה בעזה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1380106",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-22T10:47:03.000Z"
     }
   ]
 }
