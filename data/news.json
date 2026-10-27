@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:15:47.957Z",
+  "updatedAt": "2026-10-27T04:30:51.013Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958794",
+      "title": "הפתק נעלם, הקלפי נסגרה או שאתם בעיר אחרת? כל מה שצריך לדעת",
+      "summary": "מה עושים אם הפתק של המפלגה נעלם, האם מותר לצלם מאחורי הפרגוד ומי יכול להצביע בעיר אחרת? לקראת הבחירות לכנסת ה-26, אלה הכללים, הזכויות והחידושים שכדאי להכיר לפני שמגיעים לקלפי",
+      "link": "https://www.walla.co.il/news/israel/383958794",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3873385",
+      "title": "כך תוכלו לנסוע היום בחינם ברכבת ובאוטובוס",
+      "summary": "החל מ-26 באוקטובר בשעה 20:00 ועד תום פעילות התחבורה הציבורית ביום הבחירות ב-27 באוקטובר, תתאפשר נסיעה חינם ברכבת ישראל ובאוטובוסים בין-עירוניים",
+      "link": "https://cars.walla.co.il/item/3873385",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383958317",
+      "title": "7.3 מיליון זכאים להצביע, אבל 810 אלף מהם גרים בחו\"ל",
+      "summary": "הלמ\"ס מפרסם נתונים לקראת הבחירות לכנסת ה26: כ-6.5 מיליון בעלי זכות בחירה גרים בישראל, והקבוצה הגדולה ביותר בהם היא בני 40 עד 59",
+      "link": "https://www.walla.co.il/news/israel/383958317",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/knesset-26-elections-tomorrow-preparations-details",
+      "title": "חצי שעה לפתיחת הקלפיות: כל מה שאתם צריכים לדעת",
+      "summary": "7.3 מיליון בעלי זכות בחירה יצאו היום לקלפיות • 100 אלף עובדים ו-450 מיליון פתקים | כל הפרטים להיערכות הענקית (חדשות)",
+      "link": "https://www.kikar.co.il/political-news/knesset-26-elections-tomorrow-preparations-details",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T04:29:57.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
+      "title": "ישראל בוחרת: התחבורה הציבורית שבחינם, התחזית לגשם, הלו\"ז וכל מה שצריך לדעת",
+      "summary": "36 רשימות, 12,018 קלפיות ו-7,331,981 בעלי זכות בחירה: היום ייקבעו פניה של הכנסת ה-26. איזו תחבורה ציבורית פועלת בחינם, כיצד יודעים היכן להצביע ללא הודעה לבוחר, מי רשאי להצביע בקלפי נגישה, ומתי נדע את התוצאות הסופיות? כל הפרטים החשובים בדרך אל הקלפי",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T04:20:53.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1381763",
       "title": "המחקר שמצא: התוסף בהיריון שמעלה את ה-IQ של הילד בכ-8 נקודות",
@@ -69,7 +114,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381735",
-      "title": "עם ישראל דורש מנהיגות לאומית-ימנית חדשה | עופר וינטר, יו\"ר מפלגת עמך ישראל",
+      "title": "עם ישראל דורש מנהיגות לאומית-ימנית חדשה | עופר וינטר",
       "summary": "אני יודע שמנסים להפחיד אתכם. מספרים לכם שקולכם \"ייזרק לפח\". אל תיתנו לפחד לנהל אתכם. ברגע שתלכו עם האמת ועם הלב, נהיה לכוח גדול ונחוש שיביא להכרעה, להסכמות ולשינוי",
       "link": "https://www.maariv.co.il/news/elections-2026/article-1381735",
       "source": "מעריב",
@@ -162,6 +207,15 @@
       "title": "נחזיר את מדינת ישראל למסלול הנכון | אביגדור ליברמן, יו\"ר מפלגת ישראל ביתנו",
       "summary": "היום אתם קובעים את עתיד המדינה: האם נמשיך עם ממשלת המשתמטים ויוקר המחיה, או שנקים ממשלה ציונית וליברלית שתבטיח גיוס לכולם, משילות, כלכלה הוגנת ושוויון בנטל",
       "link": "https://www.maariv.co.il/news/opinions/article-1381719",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-27T04:00:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381735",
+      "title": "עם ישראל דורש מנהיגות לאומית-ימנית חדשה | עופר וינטר, יו\"ר מפלגת עמך ישראל",
+      "summary": "אני יודע שמנסים להפחיד אתכם. מספרים לכם שקולכם \"ייזרק לפח\". אל תיתנו לפחד לנהל אתכם. ברגע שתלכו עם האמת ועם הלב, נהיה לכוח גדול ונחוש שיביא להכרעה, להסכמות ולשינוי",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1381735",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-27T04:00:46.000Z"
@@ -31431,78 +31485,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T04:31:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-war-ending-soon-south-carolina",
-      "title": "טראמפ מעריך: המערכה מול איראן תסתיים בקרוב מאוד, לא יהיה לה לעולם נשק גרעיני",
-      "summary": "הנשיא האמריקני בעצרת בחירות: 'השמדנו את יכולת העשרת האורניום' • 'אם לאיראן היה נשק גרעיני היינו יושבים על חבית חומר נפץ' | הדברים המלאים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-iran-war-ending-soon-south-carolina",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T04:26:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21682449",
-      "title": "פתיחה מושלמת: 18 נקודות לדני אבדיה, פורטלנד ניצחה ב-41 הפרש",
-      "summary": "הישראלי הוסיף 10 ריבאונדים ב-23 נקודות בניצחון הענק 83:124 על פיניקס סאנס • המארחת פתחה את המשחק בריצת 0:21, דמיאן לילארד הצטיין עם 25 נקודות במשחק החזרה מפציעה ממושכת",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21682449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T04:23:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21682479",
-      "title": "מיניבוס התהפך סמוך לשריגים: 9 פצועים, אחד מהם קשה",
-      "summary": "תאונה עצמית בכביש 353 בשעות הבוקר: המיניבוס התהפך על צידו, וכל הנוסעים נמצאו בסמוך אליו • גבר כבן 30 נפצע קשה וצעיר בן 18 במצב בינוני, ועוד 7 פצועים קל פונו לבית החולים הדסה עין כרם • חובש מד\"א: \"הענקנו לפצוע הקשה טיפול שכלל הרדמה והנשמה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21682479",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T04:22:19.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873286",
-      "title": "אבדיה כיכב, פורטלנד פתחה עונה עם הצגת תכלית",
-      "summary": "אבדיה כיכב, פורטלנד פתחה עונה עם הצגת תכלית",
-      "link": "https://sports.walla.co.il/item/3873286",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T04:22:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873286",
-      "title": "ככה פותחים עונה: אבדיה ופורטלנד הביסו את פיניקס במשחק הבכורה",
-      "summary": "ככה פותחים עונה: אבדיה ופורטלנד הביסו את פיניקס במשחק הבכורה",
-      "link": "https://sports.walla.co.il/item/3873286",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T04:22:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21682429",
-      "title": "לא פרובוקציה ולא בחירות: האמת מאחורי המטס הדרמטי לאיראן",
-      "summary": "בחיל האוויר פיתחו אסטרטגיה להכנה לתקיפה באיראן: טיסות תרגול שמגיעות קרוב לגבול האיראני • מלבד תרגול צוותי האוויר והחיל, המהלך נועד להרגיל את איראן לתנועה אווירית - ולהכין את הקרקע לתקיפה בהפתעה • גם כעת, סביר שהפרסומים על תקיפה לפני הבחירות הם חלק ממהלך פוליטי או אזורי",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21682429",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T04:20:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21678149",
-      "title": "סדרת הלהיט של נטפליקס, הכוכבת מחסלת מתנקשים: מה חדש בטלוויזיה",
-      "summary": "קריסטן בל ואדם ברודי חוזרים לעונה השלישית של \"רק לא זה\", קתרין זיטה ג'ונס יוצאת לחסל שבעה מתנקשים, עונות חדשות לסדרות \"מוקד 911\", דרמת מתח בריטית עם כוכב \"התבגרות\" ועוד תכנים שעולים היום (חמישי) בטלוויזיה בישראל",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21678149",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T04:18:24.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3873261",
-      "title": "לא נתנו להעלות ספר תורה למטוס - עד שמישהו קנה לו כרטיס טיסה",
-      "summary": "לא נתנו להעלות ספר תורה למטוס - עד שמישהו קנה לו כרטיס טיסה",
-      "link": "https://travel.walla.co.il/item/3873261",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T04:17:00.000Z"
     }
   ]
 }
