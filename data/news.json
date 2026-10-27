@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:01:06.089Z",
+  "updatedAt": "2026-10-27T17:15:57.547Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,87 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89551",
+      "title": "ועדת הבחירות תתכנס לקבל החלטה אם להאריך את שעת ההצבעה",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/89551",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:15:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89550",
+      "title": "אחוז ההצבעה בשעה 18:00: 66.7% - עליה של 9% לעומת הבחירות הקודמות",
+      "summary": "נכון לשעה 18:00 עומד אחוז ההצבעה על 66.7%, עליה של כ-9% לעומת אותה שעה בבחירות הקודמות.",
+      "link": "https://www.kikar.co.il/scoop-news/89550",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:14:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89549",
+      "title": "משטרת ישראל החרימה קלפיות בערערה שבנגב ומנעה המשך הצבעה",
+      "summary": "הרשימה המשותפת מדווחת כי משטרת ישראל החרימה קלפיות ביישוב ערערה שבנגב ומונעת את המשך ההצבעה במקום.",
+      "link": "https://www.kikar.co.il/scoop-news/89549",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:14:24.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89548",
+      "title": "בעוד דקות: דיון על הארכת שעות ההצבעה",
+      "summary": "בעוד מספר דקות צפוי להתקיים דיון בשאלה האם להאריך את שעת ההצבעה.",
+      "link": "https://www.kikar.co.il/scoop-news/89548",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:14:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89547",
+      "title": "אחוז ההצבעה בשעה 18:00 עבר את כל בחירות 2022",
+      "summary": "עד השעה 18:00 הצביעו יותר ישראלים מאשר בכל מהלך בחירות 2022.",
+      "link": "https://www.kikar.co.il/scoop-news/89547",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:14:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/dudi-zaltz-emergency-return-beitar-voting",
+      "title": "מנהל מטה ההסברה דודי זלץ עזב את הכל וחזר בדחיפות לביתר | צפו בתיעוד",
+      "summary": "המועמד לכנסת ויו\"ר מטה ההסברה של יהדות התורה קיבל את נתוני אחוזי ההצבעה ושינה תוכניות, עזב הכל וחזר לעירו, ביתר שם יחד עם ראש העיר רובינשטיין החלו להמריץ את הבוחרים לצאת להצביע; \"איך יכול להיות דבר כזה? זה מעשה שטן!\" | המאבק על כל קול (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/dudi-zaltz-emergency-return-beitar-voting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:13:14.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bypzl8r3gg",
+      "title": "לא יכולים להגיע לקלפי בגלל השיטפונות: \"תקועים בכביש, תאריכו את ההצבעה\"",
+      "summary": "ביישובי הערבה ייסגרו הקלפיות בשעה 20:00, אבל המשטרה חסמה את כביש 90 מאילת עד עין גדי וישראלים רבים חוששים שלא יספיקו להצביע: \"רוצים לממש את זכותנו\". ועדת הבחירות המרכזית תדון בבקשת גוש נתניהו להאריך את ההצבעה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bypzl8r3gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-27T17:10:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/yaakov-asher-emergency-call-voting-deadline",
+      "title": "״מי שיושב בבית עובר על לא תעמוד על דם רעך״ | יעקב אשר בקריאה חריגה • צפו",
+      "summary": "יו״ר יהדות התורה מזהיר: אחוזי ההצבעה במגזר הערבי גבוהים • ״זו אזעקת אמת, קחו את המשפחה והשכנים ותנהרו לקלפי״ | שלוש שעות לסגירה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/yaakov-asher-emergency-call-voting-deadline",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:04:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89544",
+      "title": "עד השעה 18:00: 66.7% כבר הצביעו",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/89544",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-27T17:01:44.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tnkpso",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 19:00",
       "summary": "ביום הבחירות - מבזקי חדשות מיוחדים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 19:00 (רדיו כיכר FM)",
@@ -39,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T17:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21719795",
+      "title": "אחרי שהצביעה, מירן בוזגלו קיבלה הודעה בטעות: ''אפשר לפטר אותה''",
+      "summary": "ביום הבחירות העלתה מירן בוזגלו סטורי שקרא לצאת להצביע ולכבד כל בחירה • ואז נחתה בקבוצת הוואטסאפ של החברה הודעה שלא הייתה אמורה להישלח לשם • וגם: הצעד שעשתה החברה כדי לסגור את הפרשה, והמסר של בוזגלו לעוקבות",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21719795",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T16:59:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21719770",
+      "title": "בדרך ל-80% הצבעה? המפלגות שבסכנה והתרחיש שמשרת את נתניהו",
+      "summary": "אחוזי ההצבעה חצו את רף 50% כבר בשעה 17:00, והאפשרות שיגיעו ל-80% מאיימת על המפלגות הקטנות והחדשות • בחברה הערבית צופים שיעורי השתתפות חריגים, שעשויים להגדיל את כוחן של המפלגות הערביות ליותר מ-14 מנדטים • בליכוד נערכים למבצע המרצה של 10,000 פעילים, במטרה להגיע ל-75% הצבעה במעוזי המפלגה ולבלום הקמת ממשלת שינוי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21719770",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T16:59:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/tnks8z",
@@ -104,6 +203,15 @@
       "pubDate": "2026-10-27T16:46:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21719689",
+      "title": "לגזור ולשמור: עושים סדר בכל נורות האזהרה ברכב",
+      "summary": "מסתבר שרובנו מכירים רק את נורת המנוע ומנחשים את כל השאר • המדריך המלא ל-7 הסמלים המבלבלים בלוח המחוונים: מתי חובה לרדת מיד לשוליים, למה אסור לכבות את הרכב כשיש \"קוביית לגו\" ואיזה סימון בכלל לא מעיד על שום תקלה? כל הפרטים",
+      "link": "https://www.israelhayom.co.il/tech/how-to/article/21719689",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T16:45:02.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/tnkreb",
       "title": "לייטנר טוען: \"העוזר שלי קיבל איומי רצח; צבאו על ביתי עם אשתי וילדיי\"",
       "summary": "יו\"ר מפלגת 'הציבור החרדי' טוען בפוסט כי ההנהגה החרדית \"התירה את דמו\", ומתאר מספר אירועים קשים שעבר לטענתו | הוא גם האשים את המשטרה בשיתוף פעולה עם מה שהוא כינה \"ההנהגה החרדית\" (חדשות)",
@@ -111,6 +219,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T16:42:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21719720",
+      "title": "אתלטיקו מדריד לא מרוצה: העונש שספגה ברצלונה על פרשת חוליאן אלברס",
+      "summary": "אחרי שהקולצ'ונרוס הגישו תלונה על פנייה לשחקן תחת חוזה בניגוד לתקנון, הגיע העונש מההתאחדות לכדורגל בספרד • הבלאוגרנה נקנסו בסכום זעום, בטענה שמדובר בהפרה קלה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21719720",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T16:39:11.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/election-results-government-formation",
@@ -804,6 +921,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T14:30:43.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959104",
+      "title": "שיעור ההצבעה עד 18:00: 66.7% - עלייה של 9 אחוזים מ-2022",
+      "summary": "הנתונים נוסקים: מעל ל-4 מיליון ישראלים בחרו נכון ל-18:00. הליכוד וש\"ס הגישו בקשה להארכת שעת ההצבעה - איזנקוט מתנגד. זו מפת ההצבעות לפי ישובים",
+      "link": "https://www.walla.co.il/news/israel/383959104",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T14:30:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959097",
+      "title": "בחירות אלימות: קטטה ברהט ובחולון, חמוש בסכין נעצר בת\"א",
+      "summary": "במהלך סיור בתל אביב התקרב אדם באופן מאיים ליו\"ר הדמוקרטים, וסכין גדולה נשמטה מבגדיו. החשוד נעצר. האירוע: יממה לאחר שהשב\"כ קיבל אחריות לאבטחת גולן. יו\"ר המפלגה: \"ההסתה והאלימות לא ירתיעו אותנו\"",
+      "link": "https://www.walla.co.il/news/israel/383959097",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T14:30:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959104",
@@ -29982,51 +30117,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-22T17:17:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21689657",
-      "title": "הפוליטיקאי התקשר גם אליכם? המטרד שמשגע את המדינה - ואפשרויות החסימה",
-      "summary": "לקראת הבחירות, שיחות מוקלטות של פוליטיקאים מגיעות ישירות לאזרחים, גם בלי שביקשו לשמוע אותן • החיפוש \"חסימת שיחות ספאם\" זינק ביותר מ־5,000% בשבוע האחרון • ח\"כ טלי גוטליב טוענת: \"תפארת הקידמה מאפשרת הסבר ישיר לבוחר\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21689657",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T17:15:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/kfar-saba-mayors-wife-investigation-silence",
-      "title": "\"מצב נפשי קשה\": המשפט היחיד שאשת ראש העיר מוכנה לומר לחוקרים",
-      "summary": "מיטל סער ממשיכה לשמור על זכות השתיקה ביאח\"ה • המשפט היחיד: \"הוא לא ידע\" - ניסיון להרחיק את בעלה מהפרשה | דרמה בחקירת כפר סבא (משטרה)",
-      "link": "https://www.kikar.co.il/police/kfar-saba-mayors-wife-investigation-silence",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T17:14:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/art/article/21689430",
-      "title": "תערוכה חדשה תציג דיוקנאות של נרצחי טבח 7 באוקטובר",
-      "summary": "האמן הישראלי המצליח יגאל עוזרי צייר דיוקנאות של אמנים ואמניות מיישובי העוטף, שנרצחו בשבת השחורה • בתום התצוגה, היצירות יונקו למשפחות וציורים אחרים יימכרו במטרה לסייע בשימור ואחסון של יצירות הנרצחים",
-      "link": "https://www.israelhayom.co.il/culture/art/article/21689430",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-22T17:11:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88829",
-      "title": "לוחמי ימ\"מ חילצו אישה שאיימה לקפוץ מקומה 11",
-      "summary": "לוחמי ימ\"מ חילצו אישה שהתבצרה בדירתה בקומה ה-11 בבניין מגורים ואיימה לקפוץ מחלון. הלוחמים גלשו מגג הבניין אל חלון הדירה, השתלטו על האישה וחילצו אותה בבטחה. נסיבות האירוע נבדקות.",
-      "link": "https://www.kikar.co.il/scoop-news/88829",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-22T17:03:14.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383958539",
-      "title": "ניפץ, שרף, ברח ונתפס - והקשר לאקסית: החנות הגדולה הועלתה באש",
-      "summary": "דניאל עזריה, בן 35 מרחובות, מואשם בהצתת העסק שבו עבדה בעבר האקסית שלו. בתיעוד שהגיע לידי וואלה הוא נראה רעול פנים, הולם בפטיש בדלתות ושופך דלק, כשהאש התלקחה נמלט לביתו | כל הפרטים",
-      "link": "https://www.walla.co.il/news/law/383958539",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-22T17:03:00.000Z"
     }
   ]
 }
