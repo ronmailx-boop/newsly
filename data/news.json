@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:46:06.476Z",
+  "updatedAt": "2026-10-28T15:01:12.070Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,27 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/united-airlines-passenger-hijack-threat-las-vegas",
+      "title": "משקה אחד יותר מדי: הנוסע שגרם לנחיתת חירום בגלל \"בדיחה\"",
+      "summary": "נוסע בטיסה מלאס וגאס לניו ג'רזי שלח הודעה על כוונתו לחטוף את המטוס • דיילת דיווחה לטייסים והמטוס חזר תוך 15 דקות | \"זו הייתה בדיחה גרועה בין חברים\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/united-airlines-passenger-hijack-threat-las-vegas",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T14:57:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1382318",
+      "title": "ישראל שיכולה להיות: פנטזיה פוליטית שלא חייבת להישאר פנטזיה | גרשון בסקין",
+      "summary": "ממשלת איזנקוט עם בנט, ליברמן, עבאס וטיבי נשמעת כמו פנטזיה פוליטית. אבל דווקא שותפות יהודית־ערבית מלאה עשויה לסלול דרך לשיקום הדמוקרטיה, לחיזוק הביטחון ולתקווה להסדר עם הפלסטינים",
+      "link": "https://www.maariv.co.il/news/opinions/article-1382318",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T14:47:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tnl4z2",
-      "title": "ארכיון הכנסת: הרגעים הגדולים של הח\"כים החרדים בכנסת | צפו",
-      "summary": "סרטון מיוחד ששודר במשדר הבחירות של 'כיכר השבת' יחזיר אתכם בזמן לרגעים הבלתי נשכחים של החרדים בכנסת - מהקשירה באזיקים של פרוש למיקרופון ועד קריעת הבגדים הכפולה של גפני ואייכלר במליאה | צפו (פוליטי)",
+      "title": "ארכיון הכנסת: הרגעים הגדולים של הח\"כים החרדים בכנסת • צפו",
+      "summary": "סרטון מיוחד ששודר במשדר הבחירות של 'כיכר השבת' יחזיר אתכם בזמן לרגעים הבלתי נשכחים של החרדים בכנסת - מהקשירה באזיקים של פרוש למיקרופון ועד קריעת הבגדים הכפולה של גפני ואייכלר במליאה • צפו בסרטון (פוליטי)",
       "link": "https://www.kikar.co.il/haredim-news/tnl4z2",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -114,12 +132,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1382305",
+      "title": "בחירות ללא הכרעה: הרצוג עשוי לקדם רוטציה - וחנינה לנתניהו",
+      "summary": "אף גוש אינו מגיע ל-61, ובית הנשיא עשוי להפוך למוקד הניסיונות לפרוץ את הפלונטר. המתווה שנחשף ב\"מעריב\" בספטמבר חוזר לדיון, לצד תרחישי אחדות ורוטציה. גם סוגיית החנינה לנתניהו עולה מחדש",
+      "link": "https://www.maariv.co.il/news/politics/article-1382305",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T14:22:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382305",
       "title": "כפי שנחשף ב\"מעריב\": אין הכרעה בבחירות - החנינה ועסקת הטיעון עשויות לשוב לשולחן הנשיא",
       "summary": "אף גוש אינו מגיע ל-61, ובית הנשיא עשוי להפוך למוקד הניסיונות לפרוץ את הפלונטר. המתווה שנחשף ב\"מעריב\" בספטמבר חוזר לדיון, לצד תרחישי אחדות ורוטציה. גם סוגיית החנינה לנתניהו עולה מחדש",
       "link": "https://www.maariv.co.il/news/politics/article-1382305",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T14:22:23.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874063",
+      "title": "היה סקורר קטלני ב-NBA, ויכול להציל את מכבי ת\"T",
+      "summary": "ב\"באסקטניוז\" סקרו את האפשרות שקאם תומאס יפצח בקריירת יורוליג והזכירו את הצהובים כמועמדים: \"יכול ללכת בדרך דומה לזו של לוני ווקר\". מי יתר המועמדות ומה השכר שהוא צפוי לדרוש?",
+      "link": "https://sports.walla.co.il/item/3874063",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T14:22:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21726018",
@@ -174,6 +210,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T14:16:34.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%99%D7%95_%D7%A8_%D7%94%D7%A8%D7%A9%D7%99%D7%9E%D7%94_%D7%94%D7%9E%D7%A9%D7%95%D7%AA%D7%A4%D7%AA__%D7%94%D7%A9%D7%99%D7%A0%D7%95%D7%99_%D7%99%D7%92%D7%99%D7%A2_%D7%93%D7%A8%D7%9A_%D7%A9%D7%95%D7%AA%D7%A4%D7%95%D7%AA_%D7%90%D7%9E%D7%99%D7%AA%D7%99%D7%AA_%D7%95%D7%A9%D7%95%D7%95%D7%99%D7%95%D7%A0%D7%99%D7%AA",
+      "title": "יו\"ר הרשימה המשותפת: השינוי יגיע דרך שותפות אמיתית ושוויונית",
+      "summary": "על רקע הדיבורים על צירוף הקמת ממשלה בשיתוף הרשימה המשותפת, למה מתכוון יוסף ג'בארין כשהוא מדבר על שותפות אמיתית",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%99%D7%95_%D7%A8_%D7%94%D7%A8%D7%A9%D7%99%D7%9E%D7%94_%D7%94%D7%9E%D7%A9%D7%95%D7%AA%D7%A4%D7%AA__%D7%94%D7%A9%D7%99%D7%A0%D7%95%D7%99_%D7%99%D7%92%D7%99%D7%A2_%D7%93%D7%A8%D7%9A_%D7%A9%D7%95%D7%AA%D7%A4%D7%95%D7%AA_%D7%90%D7%9E%D7%99%D7%AA%D7%99%D7%AA_%D7%95%D7%A9%D7%95%D7%95%D7%99%D7%95%D7%A0%D7%99%D7%AA",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-10-28T14:13:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/election-results-deadlock-netanyahu-eisenkot-arab-",
@@ -993,6 +1038,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T12:15:03.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3874047",
+      "title": "\"העיר שביבי חירבן עליה מצביעה לו?\": אנשי האוכל מתקשים לעכל",
+      "summary": "\"העיר שביבי חירבן עליה מצביעה לו?\": אנשי האוכל מתקשים לעכל",
+      "link": "https://food.walla.co.il/item/3874047",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T12:15:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21726897",
@@ -33204,51 +33258,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-23T15:02:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21693813",
-      "title": "נתניהו הודה: ישראל עשויה להיות מנותקת מהכלכלה העולמית | זה \"הפתרון\" שהציע",
-      "summary": "מול גל סנקציות חסר תקדים ממדינות אירופה וקנדה, נתניהו מודה כי ישראל על סף בידוד כלכלי - ומציע פתרון • זו התכנית ה\"כלכלה עוקפת הסנקציות\" שלו",
-      "link": "https://www.israelhayom.co.il/business/article/21693813",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T14:55:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21693813",
-      "title": "נתניהו הודה: מאמין שישראל תנותק מהכלכלה העולמית | זה \"הפתרון\" שהציע",
-      "summary": "מול גל סנקציות חסר תקדים ממדינות אירופה וקנדה, נתניהו מודה כי ישראל על סף בידוד כלכלי - ומציע פתרון • זו התכנית ה\"כלכלה עוקפת הסנקציות\" שלו",
-      "link": "https://www.israelhayom.co.il/business/article/21693813",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T14:55:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21693813",
-      "title": "\"הבלוקצ'יין הוא חלופה\": נתניהו נערך לחרם בנקאי על ישראל",
-      "summary": "בראיון כלכלי חושף ראש הממשלה כי ישראל מתכוננת לתרחיש של בידוד פיננסי בינלאומי • \"צריך להתארגן בכלכלה עוקפת סנקציות\", הצהיר נתניהו ואישר כי הנחה להכין תוכנית לאומית בנושא • כך נראה המהלך שנועד לשמור על זרימת הכספים למשק",
-      "link": "https://www.israelhayom.co.il/business/article/21693813",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T14:55:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88948",
-      "title": "ילד בן 11 נפצע בתאונה בין רכב לקורקינט באשדוד",
-      "summary": "ילד בן 11 נפצע באורח קל עד בינוני בתאונה בין רכב לקורקינט חשמלי ברחוב הפלמ\"ח באשדוד. צוות אמבולנס של איחוד הצלה העניק לו טיפול רפואי ופינה אותו לבית החולים אסותא.",
-      "link": "https://www.kikar.co.il/scoop-news/88948",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T14:47:26.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383958633",
-      "title": "הח״כ לשעבר על החשד להתעללות במעון ילדיו: “לא שונה מחמאס״",
-      "summary": "הח״כ לשעבר חשף שילדיו היו במעון באריאל בו נעצרו שלוש עובדות בחשד להתעללות. בנו פונה למיון כשמצחו נפתח: “סיפרו לנו שהוא החליק על הקיר״. כעת הוא ואשתו חוזרים לבכי בבקרים ולהסברים שקיבלו, ומחפשים תשובות",
-      "link": "https://www.walla.co.il/news/law/383958633",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T14:47:17.000Z"
     }
   ]
 }
