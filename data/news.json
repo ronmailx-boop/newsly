@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:30:50.590Z",
+  "updatedAt": "2026-10-28T05:45:55.944Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
+      "title": "הלכנו לישון עם איזנקוט, קמנו עם נתניהו: המהפך הדרמטי בספירת הקולות ותוצאות האמת, בנתיים",
+      "summary": "לאחר ספירת 48.43% מכלל הקולות (כ-2.1 מיליון מצביעים), מסתמן שינוי דרמטי לעומת המדגמים כאשר גוש נתניהו עומד על 55 מנדטים לעומת 50 לגוש איזנקוט • הליכוד עם 27 מנדטים, 'ישר' עם 22, יהדות התורה עומדת על 8 מנדטים וש\"ס על 7 • במגזר הערבי נרשם שיא הצבעה המעניק למפלגותיהם 15 מנדטים • ספירת הקולות נמשכת - כך נראית המפה המעודכנת (חדשות)",
+      "link": "https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T05:31:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1382138",
       "title": "טראמפ לוקח קרדיט על נתניהו: \"התמיכה שלי עזרה לו מאוד\"",
       "summary": "בעוד ספירת הקולות בישראל נמשכת, טראמפ כבר מייחס לעצמו את התחזקותו המסתמנת של נתניהו וטוען כי תמיכתו שינתה את מגמת הבחירות. הנשיא האמריקאי הדגיש: \"התמיכה שלי עזרה לו מאוד\"",
@@ -39,6 +48,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T05:27:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21723324",
+      "title": "אפקט הבחירות: הדולר מזנק ל-3.08 שקלים",
+      "summary": "תוצאות האמת שזורמות למערכות החדשות מעוררות עצבנות בשווקים הפיננסיים • הדולר רושם התחזקות של 1% ונסחר ברמה של 3.08 שקלים • עם זאת, המסחר מתנהל כעת ללא המערכת הבנקאית במחזורים אפסיים, ויש להתייחס לנתונים בזהירות כאינדיקציה ראשונית בלבד • במקביל, נרשמת מגמת עלייה בחוזים על הנפט",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21723324",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T05:22:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21723269",
+      "title": "ברוקלין הפסידה לבוסטון בדרמה, בן שרף ודני וולף לא שותפו",
+      "summary": "הנטס היו קרובים להדהים את הסלטיקס בהארכה, אבל נכנעו למופע גדול של ג'ייסון טייטום • ניצחון בכורה לאלופה ניו יורק ניקס",
+      "link": "https://www.israelhayom.co.il/sport/article/21723269",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T05:20:09.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959001",
+      "title": "המרוץ לבית הנשיא: מה יקרה אם כולם ייכשלו בהרכבת ממשלה?",
+      "summary": "תוצאות האמת יתבהרו בימים הקרובים, והנשיא הרצוג יידרש להחליט על מי להטיל את הרכבת הממשלה. כמה זמן יקבל המועמד הראשון, כיצד יכולים 61 ח\"כים לכפות הזדמנות נוספת - ומתי נלך שוב לבחירות? המדריך ליום שאחרי",
+      "link": "https://www.walla.co.il/news/israel/383959001",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T05:20:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21702996",
@@ -192,6 +228,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-28T04:11:30.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959177",
+      "title": "כמחצית מהקולות: גוש נתניהו מוביל, בלי רוב לממשלה",
+      "summary": "תוצאות האמת: לפי 48% מהמצביעים, נתניהו עם 55 מנדטים לעומת 51 לאיזנקוט ו-15 למפלגות הערביות. טראמפ: \"זה ניצחון או מבוי סתום\" טראמפ הגיב לראשונה: \"זה מבוי סתום או ניצחון\"",
+      "link": "https://www.walla.co.il/news/israel/383959177",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T04:11:22.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
@@ -912,6 +957,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-27T23:15:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722153",
+      "title": "\"תרימו את הראש, ניצחנו\": החגיגות המאולצות בכיכר הבימה",
+      "summary": "כ-500 צעירים התכנסו סמוך לחצות בכיכר בתל אביב עם דגלי ישראל וגאווה, בניסיון לעודד את המחנה • לצד קריאות במגפון \"לא נוותר עד שהוא הולך\", האווירה נתקלה באדישות מצד עוברי אורח וצוותי תקשורת שמיהרו לקפל ציוד • למה המבוגרים העדיפו להישאר בבית",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21722153",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T23:15:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722153",
@@ -1731,6 +1785,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T21:01:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
+      "title": "מעל 2 מיליון קולות נספרו: יתרון גדול לגוש נתניהו - שעדיין לא הבטיח 61",
+      "summary": "שיא הצבעה של 25 שנה: 77.7% מכלל בעלי זכות הבחירה יצאו לקלפיות • איזנקוט לנתניהו: \"אל תעז להשתמש בביטחון ישראל לצרכיך הפוליטיים\" • בחרדיות מבהירים: \"ש\"ס ויהדות התורה יתמכו במי שיסדיר מעמד לומדי תורה\" • בגוש השינוי טרם נקבעה פגישת ראשים • כל העדכונים מהלילה הדרמטי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:54:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
@@ -31575,33 +31638,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T05:46:17.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873414",
-      "title": "שני משחקים ללא שער הספיקו: השינוי שמתכנן מאמן מכבי תל אביב",
-      "summary": "אחרי שני משחקים ללא שער, הצהובים ינסו לחזור להבקיע ולנצח מול הפועל חיפה (שבת, 19:30, ספורט2). שלמה התאושש מהפציעה, גם דוידה ייכלל בסגל",
-      "link": "https://sports.walla.co.il/item/3873414",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T05:42:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/judea-junction-shooting-attack-dramatic-footage",
-      "title": "\"יורים מעלינו כל הזמן\": תיעוד מרגעי פיגוע הירי ביהודה",
-      "summary": "מחבלים פתחו באש על כביש 35 והותירו 5 פצועים • כוחות צה\"ל חיסלו את המחבלים לאחר מרדף קצר | התיעוד המלא (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/judea-junction-shooting-attack-dramatic-footage",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T05:38:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1380239",
-      "title": "כשאתם מאחורי הפרגוד, עצמו עיניים לרגע אחד - וחזרו אל יום ה-7 באוקטובר | אבי בניהו",
-      "summary": "בעיניי, מי שלא יצביע הפעם בוגד בילדיו ובמדינתו | הבחירות הן \"יום הדין\" של הממשלה | יש כמה מנהיגים ראויים, אבל רק פתק אחד | איך הפך ה\"שלום\" למילה גסה? | ותפילה אחת: שמי שייבחר יהיה ראש הממשלה של כולם",
-      "link": "https://www.maariv.co.il/news/opinions/article-1380239",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T05:31:52.000Z"
     }
   ]
 }
