@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:00:57.926Z",
+  "updatedAt": "2026-10-28T04:15:44.127Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "title": "כ-40 אחוז מהקולות נספרו: הליכוד מוביל בפער גדול • עדכונים שוטפים",
+      "summary": "לפי יותר מ-2 מיליון קולות שנספרו, מפלגת הליכוד מובילה והרשימה המשותפת במקום השלישי | לפי עדכון מדגם חדשות 12 ממהלך הלילה, הליכוד עולה בשלושה מנדטים ל-27, וגוש נתניהו עולה לפיכך ל-52 מנדטים - כשגוש איזנקוט עם 49 (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T04:11:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
+      "title": "2.1 מיליון קולות נספרו: תוצאות האמת ביישובים - והמפה המתעדכנת",
+      "summary": "37% מהקולות נספרו, ונכון לעכשיו לגוש נתניהו 57 מנדטים, לגוש השינוי 47 - ולמפלגות הערביות 16. הליכוד מוביל עם 27 מנדטים, ישר! עם 21. בת\"א איזנקוט בראש, בי-ם מובילה יהדות התורה ובקריית שמונה הליכוד קיבל כמחצית מהקולות - אחרי 3 שנות מלחמה. אז מי הצביע לבנט, ואיפה נתניהו ניצח? מפת ההצבעות",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T04:09:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1382123",
+      "title": "במפלגה של איזנקוט לא שוללים: ממשלה צרה בתמיכת המפלגות הערביות",
+      "summary": "במפלגת ישר דיברו הלילה על שלוש אופציות: ממשלה צרה בתמיכה מהחוץ של הערבים, ממשלה צרה הנסמכת על קואליציה עם מפלגה חרדית ואו עם חלקים מהציונות הדתית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1382123",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T04:00:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1382126",
       "title": "נתניהו כבר מתכונן לבחירות הבאות? הנאום שחשף הכול | אנה ברסקי",
       "summary": "נתניהו יצא מליל הבחירות מחוזק, אך בלי רוב ברור להקמת ממשלה. בנאום שהתמקד באיראן הוא כמעט שלא דיבר על אחדות, בעוד הפלונטר הפוליטי נותר בעינו והאפשרות לבחירות נוספות עדיין מרחפת מעל המערכת הפוליטית",
@@ -39,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T03:59:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/h1kyc1kpgg",
+      "title": "\"נתניהו ניצח – וגם הפסיד\": המבוי הסתום בכותרות העולם",
+      "summary": "דרמה בברזיל, הדחה בסרביה - ובחירות בלי שורה תחתונה בישראל: ב\"ניו יורק טיימס\" הדגישו כי \"התוצאה רחוקה מלהיות ברורה\", ב-CNN כתבו שלאף אחד מהצדדים אין רוב, ב\"גרדיאן\" ציינו את הזינוק של המפלגות שכינו \"פלסטיניות\" - וברויטרס מתחו ביקורת על ההמתנה לנאום נתניהו והפלייליסט במטה הליכוד",
+      "link": "https://www.ynet.co.il/news/elections2026/article/h1kyc1kpgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T03:59:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382122",
@@ -57,6 +93,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T03:53:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21723048",
+      "title": "אחרי יום הבחירות הסוער: הגשמים נחלשים בהדרגה | התחזית",
+      "summary": "יום הבחירות הגשום הותיר אזהרות כתומות מפני חסימות צירים וסכנת שיטפונות בנחלי הדרום • המערכת המטאורולוגית תיחלש בימים הקרובים, כשהגשם יתרכז מחר ומחרתיים בעיקר בצפון ובמרכז הארץ",
+      "link": "https://www.israelhayom.co.il/weather/article/21723048",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T03:50:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21721031",
+      "title": "צניחה חדה: ירידה של 44% בתיירות ליעד הזול של המזרח הרחוק",
+      "summary": "קמבודיה רשמה ירידה במספר התיירים הזרים ב-9 החודשים הראשונים של 2026 • בין הסיבות: הפגיעה בתדמיתה הבינלאומית בעקבות פעילות רשתות הונאה מקוונות, והעימות הממושך עם תאילנד, שהוביל לסגירת מעברי הגבול בין המדינות",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21721031",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T03:50:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21723059",
+      "title": "איזנקוט מיהר לחגוג, נתניהו \"הצהיר נאמנות\": הלילה הדרמטי - והתרחישים",
+      "summary": "יו\"ר ישר! מיהר להכריז \"עשינו היסטוריה\", אך עם עדכון המדגמים התמונה עבור גוש השינוי נראתה אופטימית הרבה פחות • רה\"מ הצהיר: \"מי שרוצה יכול להצטרף - בלי רוטציה\" • ומהן האופציות שעומדות בפני השניים - והאם ישראל בדרך לבחירות נוספות?",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21723059",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T03:49:56.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
@@ -84,6 +147,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-28T03:06:33.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959161",
+      "title": "יותר מ-2 מיליון קולות נספרו, נתניהו שומר על יתרון",
+      "summary": "בתום 37% מספירת הקולות: גוש נתניהו עם 57 מנדטים, גוש השינוי עם 46. מפלגת הליכוד מובילה עם 28 מנדטים",
+      "link": "https://www.walla.co.il/news/politics/383959161",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T03:00:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959161",
@@ -31782,51 +31854,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-23T04:24:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21691384",
-      "title": "כמעט חתם בעבר: מכבי תל אביב במו\"מ עם מחליף לאיפה לונדברג",
-      "summary": "הצהובים מנהלים מגעים עם נמניה נדוביץ' הוותיק שנחשב לשחקן חופשי • הגארד הסרבי שיחק תחת עודד קטש בפנאתינייקוס והצדדים היו בשיחות עוד בקיץ שעבר • בעונה האחרונה שיחק במונאקו וקלע 6.1 נקודות בממוצע למשחק",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21691384",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:15:04.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-9a5e4bc109561a1027.htm",
-      "title": "\"ראינו בפייסבוק שלה סרטון שמחבלי חמאס רוצחים אותה\": תביעת הענק של משפחות קורבנות 7 באוקטובר נגד מטא",
-      "summary": "תיעודים רבים של מעשי הזוועות שביצעו מחבלי חמאס בטבח 7 באוקטובר פורסמו ברשתות החברתיות על ידי המחבלים • משפחות הקורבנות נחשפו לרגעים האחרונים של יקיריהם דרך אותם תיעודים ונאבקים להסיר אותם מהרשתות - עד היום • כעת הן יצאו למאבק משפטי ותובעות את חברת מטא ביותר מ-4 מיליארד שקלים, בתקווה למנוע את המקרה הבא",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-9a5e4bc109561a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-10-23T04:09:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21670226",
-      "title": "במקום הכי לא צפוי מסתתר אחד הסביחים הטובים בארץ",
-      "summary": "בקיבוץ מורן הוא מגיש בשרים ובירה מקומית, ובמגרש חניה בכרמיאל הוא מכין סביח עם חציל יוצא דופן • מאיה דרין יצאה להכיר את שני המקומות של השף יהב יעקב, שהפך לאחד השמות המסקרנים בקולינריה הגלילית • בשניהם היא גילתה שהסוד לא נמצא בתחכום, אלא ביד שיודעת לבשל",
-      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21670226",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:06:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21691485",
-      "title": "יונדאי טוסון היבריד במבחן דרכים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/auto/article/21691485",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:04:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/bennett-petah-tikva-murder-parents-letter",
-      "title": "בנט: \"זה לא מרפה ממני, המדינה הייתה צריכה לרעוד, כותב מדם ליבי\"",
-      "summary": "ראש הממשלה לשעבר תוקף את חוסר המעש של הדרג המדיני • קושר ישירות בין התנהלות נבחרי הציבור לאלימות ברחובות | 'המפתח בדוגמה האישית של ההנהגה' (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/bennett-petah-tikva-murder-parents-letter",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:02:21.000Z"
     }
   ]
 }
