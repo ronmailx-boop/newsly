@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:30:47.980Z",
+  "updatedAt": "2026-10-28T20:45:43.100Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89801",
+      "title": "עדכון ספירת הקולות: 89.8% נספרו, ללא שינוי במפת המנדטים",
+      "summary": "עם ספירת כ-89.8% מהקולות (67,393 קולות נוספו), מפת המנדטים נותרה ללא שינוי: הליכוד 26, ישר 21, הרשימה המשותפת 12, ביחד 12, הדמוקרטים 8. רע\"ם, ישראל ביתנו, יהדות התורה, עוצמה יהודית וש\"ס 7 כל אחת, הציונות הדתית וזהות 6. המילואימניקים והכלכלית (2.63%) ועמך ישראל (1.6%) לא עוברות את אחוז החסימה. תמונת הגושים: הקואליציה הנוכחית 53 מנדטים, גוש השינוי 48, הרשימה המשותפת 12, רע\"ם 7.",
+      "link": "https://www.kikar.co.il/scoop-news/89801",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T20:44:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tnmx5q",
+      "title": "הרשימה המשותפת: מוכנים לשת\"פ פוליטי להפלת נתניהו",
+      "summary": "",
+      "link": "https://www.kikar.co.il/israel-news/tnmx5q",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T20:34:29.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89799",
       "title": "נהג אוטובוס בן 45 נפצע בינוני בתאונת דרכים בירושלים",
@@ -66,6 +84,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-28T20:27:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21731158",
+      "title": "קשר ישיר עם המחנה הקיצוני: ואנס מקיים מגעים עם מנהיג הפלג הניצי באיראן",
+      "summary": "ה\"וול סטריט ג'ורנל\" דיווח כי סגן הנשיא שלח מכתב לראש הגוף הביטחוני העליון של איראן ומי שנחשב מנהיג הקיצוניים במשטר • בסביבתו של ואנס ציינו כי הציפייה היא לתוצאה טובה יותר במגעים ישירות עם המחנה הניצי",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21731158",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T20:18:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959290",
+      "title": "דיווח בארה\"ב: המסר האמריקני לבכיר האיראני לחידוש המו\"מ",
+      "summary": "לפי הדיווח, המכתב נשלח בהוראת הנשיא דונלד טראמפ במטרה לבחון אם ניתן להימנע מחידוש הלחימה. דיווח סעודי טוען כי המדינות המתווכות בין ארה\"ב לאיראן מנסות לקבוע פגישה בין השתיים בטורקיה",
+      "link": "https://www.walla.co.il/news/world/383959290",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T20:18:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21731092",
+      "title": "אחרי 6 שנים: רשת הענק עומדת לסגור סניפים בישראל",
+      "summary": "הקניונים פועלים למימוש ערבויות ופינוי סניפי KFC בישראל בעקבות אי תשלום שכר דירה • הנהלת הרשת צומצמה, ובכירים פוטרו לאחר שמגעים להעברת הזיכיון נכשלו",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21731092",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T20:13:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21731092",
@@ -192,6 +237,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-28T19:16:38.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959283",
+      "title": "הרשימה המשותפת: מוכנים לשיתוף פעולה פוליטי להפלת נתניהו",
+      "summary": "אזינקוט הבהיר: \"ממוקדים במשימה - הקמת ממשלת גיוס ציונית\". המעטפות הכפולות ייספרו הלילה",
+      "link": "https://www.walla.co.il/news/israel/383959283",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T19:16:11.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959283",
