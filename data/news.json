@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:30:59.274Z",
+  "updatedAt": "2026-10-28T04:45:41.363Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "title": "טראמפ בתגובה ראשונה לבחירות: בזכותי נתניהו לא הובס",
+      "summary": "לפי יותר מ-2 מיליון קולות שנספרו, מפלגת הליכוד מובילה והרשימה המשותפת במקום השלישי | לפי הנתונים נכון לתוצאות החלקיות, גוש נתניהו עומד על 57 מנדטים, גוש איזנקוט עומד על 47 - והמפלגות הערביות עם 16 (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T04:41:10.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ry842xkafx",
+      "title": "טראמפ בתגובה ראשונה: בזכותי נתניהו לא הובס, יש תיקו בישראל",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/ry842xkafx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T04:40:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21723160",
+      "title": "זונטס 703T בישראל ב-55,900 שקלים",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/auto/article/21723160",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T04:28:20.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1382127",
       "title": "\"500 מיליון ערבים לא מייצרים מדע\": השר האמריקאי מעורר סערה",
       "summary": "שר הבריאות האמריקני רוברט קנדי ג'וניור טען בעצרת בחירות כי ערבים אינם תורמים למדע ולספרות, שיבח את ישראל והאשים את האחים המוסלמים. בדיקת עובדות הפריכה את טענותיו, וארגון זכויות אזרח קרא לפיטוריו",
@@ -39,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T04:23:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722131",
+      "title": "דרושים מבוגרים אחראים: נתניהו צריך ללכת, והימין חייב להתאחד",
+      "summary": "תניהו לא הצליח לגבש רוב מספק, וכי מצביעי ימין רבים בחרו במפלגות אחרות בגלל התנגדותם אליו • הליכוד יוכל לשוב ולרכז תמיכה רחבה רק לאחר עזיבתו • על שני המחנות לשבור את החלוקה לגושים ולפעול להקמת קואליציה רחבה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21722131",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T04:23:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
@@ -167,6 +203,15 @@
       "pubDate": "2026-10-28T03:06:33.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383959142",
+      "title": "מההובלה של איזנקוט למהפך בגושים | הדרמה הלילית",
+      "summary": "שיוויון במנדטים במדגמים של ערוצים 11 ו-13. המפלגות הערביות עם הישג היסטורי - 18-19 מנדטים",
+      "link": "https://www.walla.co.il/news/politics/383959142",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T03:03:00.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/politics/383959161",
       "title": "יותר מ-2 מיליון קולות נספרו, נתניהו שומר על יתרון",
       "summary": "בתום 37% מספירת הקולות: גוש נתניהו עם 57 מנדטים, גוש השינוי עם 46. מפלגת הליכוד מובילה עם 28 מנדטים",
@@ -210,6 +255,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-28T02:57:28.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959140",
+      "title": "נתניהו נאם אחרי פרסום המדגמים - ונמנע ממילה אחת",
+      "summary": "\"'ברית המשרתים' - עם מפלגות אנטי-ציוניות\", אמר רה\"מ. בכיר בליכוד מבהיר: \"נתניהו לא ילך לאחדות\"",
+      "link": "https://www.walla.co.il/news/politics/383959140",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T02:50:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722910",
@@ -31593,168 +31647,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T04:48:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "title": "פיגוע ירי קשה בצומת יהודה: שני ישראלים נפצעו | המחבלים ניסו לברוח - וחוסלו אחרי קרב יריות",
-      "summary": "מחבלים ביצעו הבוקר פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה • מספר פצועים במקום וכוחות צה\"ל פתחו במרדף מהיר, בסיומו חיסלו את המחבלים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:40:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "title": "פיגוע ירי קשה ביהודה: פצועים במקום, המחבלים חוסלו בתום מרדף",
-      "summary": "מחבלים ביצעו הבוקר פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה • מספר פצועים במקום וכוחות צה\"ל פתחו במרדף מהיר, בסיומו חיסלו את המחבלים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:40:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21690978",
-      "title": "פיני גרשון טוען: השחקן שפוגע במכבי תל אביב",
-      "summary": "מאמן העבר ניתח בפודקאסט \"על הבאזר\" עם עפר \"ג'ובה\" גרוס את ההפסד לריאל מדריד ביורוליג, ולא חסך ביקורת משני הגארדים של הצהובים • על ג'ימי קלארק: \"התרומה-תמורה שלו לא טובה\" • על קיטון וולאס: \"אם זה מה שהוא מסוגל, צריך להביא זר בעמדה הזו כמה שיותר מהר\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21690978",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:35:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88857",
-      "title": "פיגוע ירי ליד מחסום תרקומיא: פצועים במקום, מצוד נרחב אחר המחבל",
-      "summary": "מחבל פתח באש לעבר ישראלים במרחב חטיבת יהודה ונמלט. כוחות רפואה מטפלים במספר פצועים בזירה. כוחות צה\"ל פתחו במרדף ונערכים לפריסת חסימות לכיוון חברון",
-      "link": "https://www.kikar.co.il/scoop-news/88857",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:34:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1380340",
-      "title": "הותר לפרסום: רון יונתן רויטמן ויובל שי סוילם נהרגו בפיגוע בצומת יהודה",
-      "summary": "סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם מגדוד ארי נהרגו בפיגוע בצומת יהודה. שלושה חיילים נוספים נפצעו קל. שני המחבלים חוסלו, והם ככל הנראה משתייכים לתא טרור של חמאס בחברון",
-      "link": "https://www.maariv.co.il/news/military/article-1380340",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:34:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1380340",
-      "title": "פיגוע ירי קטלני בצומת יהודה: המחבלים חוסלו במקום, כתר מלא הוטל על חברון | צפו בתיעוד",
-      "summary": "חמישה בני אדם נפצעו בפיגוע ירי סמוך לצומת יהודה, בהם שניים באורח קשה. שני המחבלים חוסלו. נתניהו הורה לבטל את אירועי הליכוד שתוכננו להיערך הבוקר. המחבלים ככל הנראה משתייכים לתא טרור של חמאס בחברון",
-      "link": "https://www.maariv.co.il/news/military/article-1380340",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:34:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1380340",
-      "title": "פיגוע ירי סמוך לצומת יהודה: חמישה פצועים, שניים קשה - שני מחבלים חוסלו",
-      "summary": "חמישה בני אדם נפצעו בפיגוע ירי סמוך לצומת יהודה, בהם שניים באורח קשה. שני המחבלים חוסלו. נתניהו הורה לבטל את אירועי הליכוד שתוכננו להיערך הבוקר. המחבלים ככל הנראה משתייכים לתא טרור של חמאס בחברון",
-      "link": "https://www.maariv.co.il/news/military/article-1380340",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:34:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1380340",
-      "title": "פיגוע ירי סמוך לצומת יהודה: שני פצועים קשה, שני מחבלים חוסלו",
-      "summary": "שני בני אדם נפצעו, אחד באורח קשה והשני בינוני, בפיגוע ירי סמוך לצומת יהודה. כוחות צה\"ל הוקפצו לזירה, פתחו במרדף וביצעו חסימות במרחב. על פי דיווחים, שני המחבלים שביצעו את הירי חוסלו",
-      "link": "https://www.maariv.co.il/news/military/article-1380340",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:34:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21691500",
-      "title": "פיגוע ירי בצומת יהודה: שני פצועים אנוש ואחד בינוני, שני מחבלים חוסלו",
-      "summary": "כוחות צה\"ל, בהם יחידת דובדבן וכלי טיס, חיסלו שני מחבלים והטילו כתר על כפרים במרחב • הסריקות נמשכות בחשד למחבל נוסף • 5 נפגעים, בהם: שניים במצב אנוש, אחד בינוני ושניים קל",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21691500",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:33:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21691500",
-      "title": "פיגוע ירי בצומת יהודה: שני פצועים קשה ואחד בינוני בזירה, שני מחבלים חוסלו",
-      "summary": "כוחות צה\"ל, בהם יחידת דובדבן וכלי טיס, חיסלו שני מחבלים והטילו כתר על כפרים במרחב • הסריקות נמשכות בחשד למחבל נוסף",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21691500",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:33:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21691500",
-      "title": "פיגוע ירי בצומת יהודה: שני פצועים קשה ואחד ובינוני בזירה, שני מחבלים חוסלו",
-      "summary": "כוחות צה\"ל, בהם יחידת דובדבן וכלי טיס, חיסלו שני מחבלים והטילו כתר על כפרים במרחב • הסריקות נמשכות בחשד למחבל נוסף",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21691500",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:33:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21691500",
-      "title": "פיגוע ירי בצומת יהודה: פצוע קשה ובינוני בזירה, שני מחבלים חוסלו",
-      "summary": "כוחות צה\"ל, בהם יחידת דובדבן וכלי טיס, חיסלו שני מחבלים והטילו כתר על כפרים במרחב • הסריקות נמשכות בחשד למחבל נוסף",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21691500",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T04:33:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88856",
-      "title": "דיווח על פיגוע ירי סמוך לצומת יהודה",
-      "summary": "צה\"ל מדווח כי התקבל דיווח על פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה. הפרטים נבדקים וכוחות צה\"ל הגיעו למקום.",
-      "link": "https://www.kikar.co.il/scoop-news/88856",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:31:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958588",
-      "title": "אספו מודיעין, ארבו לכוח וידעו את נקודת התורפה | פרטים חדשים",
-      "summary": "חמישה נפצעו, בהם שניים במצב אנוש, מירי סמוך לצומת יהודה. לוחמי צה\"ל השיבו באש, פתחו במצוד וחיסלו את שני המחבלים | עדכונים שוטפים",
-      "link": "https://www.walla.co.il/news/military/383958588",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:31:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958588",
-      "title": "הפיגוע סמוך לחברון: המחבלים חוסלו - שני פצועים אנוש בזירה",
-      "summary": "חמישה נפצעו, בהם שניים במצב אנוש, מירי סמוך לצומת יהודה. לוחמי צה\"ל השיבו באש, פתחו במצוד וחיסלו את שני המחבלים | עדכונים שוטפים",
-      "link": "https://www.walla.co.il/news/military/383958588",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:31:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958588",
-      "title": "פיגוע ירי סמוך לחברון: כוחות צה\"ל חיסלו את המחבלים",
-      "summary": "בזירה שני פצועים, וסריקות מתבצעות באזור הירי | עדכוני שוטפים",
-      "link": "https://www.walla.co.il/news/military/383958588",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:31:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958588",
-      "title": "פיגוע ירי סמוך לחברון: 2 מחבלים חוסלו, 2 נפצעו",
-      "summary": "הירי התבצע לעבר גדוד מילואים של פיקוד העורף הפועל באזור, אחד הפצועים במצב קשה | כל הפרטים",
-      "link": "https://www.walla.co.il/news/military/383958588",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:31:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958588",
-      "title": "פיגוע ירי סמוך לחברון: כוחות צה\"ל הוקפצו למקום",
-      "summary": "דובר צה\"ל מסר כי התקבל דיווח על פיגוע ירי במרחב חטיבת יהודה. כוחות צה\"ל הוקפצו לנקודה והחלו בבדיקת נסיבות האירוע. פצוע קל במקום",
-      "link": "https://www.walla.co.il/news/military/383958588",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:31:05.000Z"
     }
   ]
 }
