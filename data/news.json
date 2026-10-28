@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:15:59.934Z",
+  "updatedAt": "2026-10-28T22:31:03.244Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,13 @@
   ],
   "items": [
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14941825",
-      "title": "דרוש מבוגר אחראי",
-      "summary": "מה שנתניהו ואיזנקוט יתקשו להבין, משום שהם פוליטיקאים, הנשיא הרצוג מבין. והשניים הללו, טראמפ והרצוג, יכולים וצריכים להוביל את ישראל לממשלת אחדות",
-      "link": "https://www.ynet.co.il/news/article/yokra14941825",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T22:03:00.000Z"
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21731436",
+      "title": "גשמים בצפון וקריר מהרגיל: התחזית לסוף השבוע",
+      "summary": "מזג האוויר בימים הקרובים יוסיף להיות מעונן חלקית וקריר מהרגיל לעונה, כאשר משקעים מקומיים יוסיפו לרדת מדי פעם בעיקר באזורי הצפון • בתחילת השבוע הבא צפויה תפנית משמעותית עם עלייה ניכרת בטמפרטורות ואוויר חם ויבש, בטרם תשוב הירידה במעלות לקראת יום שלישי",
+      "link": "https://www.israelhayom.co.il/weather/article/21731436",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T22:14:50.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14941209",
@@ -57,6 +57,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-28T22:03:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14941825",
+      "title": "דרוש מבוגר אחראי",
+      "summary": "מה שנתניהו ואיזנקוט יתקשו להבין, משום שהם פוליטיקאים, הנשיא הרצוג מבין. והשניים הללו, טראמפ והרצוג, יכולים וצריכים להוביל את ישראל לממשלת אחדות",
+      "link": "https://www.ynet.co.il/news/article/yokra14941825",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T22:03:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731394",
+      "title": "הנדל: \"ראינו פוטנציאל של 8 מנדטים, אבל הפחידו אותם\"",
+      "summary": "יו\"ר מפלגת המילואמניקים פרסם פוסט נוקב בחשבון הפייסבוק שלו רגע לפני ספירת קולות החיילים, שבו לקח אחריות מלאה על הובלת הרשימה והסביר את ההחלטה האסטרטגית להקים גוש שלישי עצמאי • הנדל תקף בחריפות את קמפייני ההכפשות, הפייק ניוז וההפחדה של המפלגות הגדולות משני צידי המפה הפוליטית, והדגיש כי הדרך היחידה למנוע את פירוק המדינה היא הקמת ממשלה ציונית רחבה שתתבסס על שירות לכולם וחיזוק הממלכתיות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21731394",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T22:02:11.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14941679",
@@ -34896,15 +34914,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-23T22:41:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21694719",
-      "title": "איך מחברים מחדש את העם היהודי? היוזמות שמנסות להפוך רעיונות למציאות",
-      "summary": "בכנס בבודפשט הוצגו יוזמות בתחומי הרוח, האירוח והטכנולוגיה, שנועדו לתת מענה לאתגרים של יהודים בישראל ובעולם • בין הרעיונות: ריטריטים בהשראת החוכמה היהודית, פלטפורמה לאירוח מטיילים יהודים וכלי בינה מלאכותית לחיזוק הקהילות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21694719",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T22:23:19.000Z"
     }
   ]
 }
