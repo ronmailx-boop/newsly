@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:45:50.423Z",
+  "updatedAt": "2026-10-28T19:01:08.376Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89789",
+      "title": "הולך רגל בן 42 נפגע קשה מרכב בכפר קרע",
+      "summary": "גבר בן 42 נפגע במצב קשה מרכב בכפר קרע. הפצוע סובל מחבלה רב מערכתית. צוותי מד\"א פינו אותו לבית החולים הלל יפה. התאונה דווחה במוקד 101 בשעה 19:40.",
+      "link": "https://www.kikar.co.il/scoop-news/89789",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T18:58:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89788",
+      "title": "5 פצועים בתאונת דרכים בכביש 35 ליד ברכיה",
+      "summary": "5 בני אדם נפצעו בתאונת דרכים בכביש 35 סמוך לברכיה. צוותי מד\"א פינו לבית החולים ברזילי שתי נשים במצב בינוני: אישה בת 56 עם חבלות באגן ואישה בת 47 עם חבלה בבטן, וכן שלושה פצועים קל. התאונה דווחה בשעה 20:10.",
+      "link": "https://www.kikar.co.il/scoop-news/89788",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T18:58:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/89787",
+      "title": "ספירת המעטפות הכפולות תתחיל הלילה ותסתיים מחר בערב",
+      "summary": "ספירת המעטפות הכפולות בבחירות צפויה להתחיל הלילה ולהסתיים מחר בערב. הצפי הוא לכ-430 עד 480 אלף מעטפות כפולות.",
+      "link": "https://www.kikar.co.il/scoop-news/89787",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T18:58:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/central-elections-committee-double-envelopes-count",
+      "title": "המעטפות הכפולות: כך צפויה להתנהל הספירה - ושעת התוצאות הסופיות",
+      "summary": "ועדת הבחירות מעריכה כי 430-480 אלף מעטפות כפולות ממתינות לספירה | הספירה צפויה להתחיל בסביבות 01:00 ולהסתיים מחר בערב | כל הפרטים (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/news/central-elections-committee-double-envelopes-count",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T18:46:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1382385",
+      "title": "ישראל במרוץ לעליונות בחלל: התעשייה האווירית בשורת צעדים משמעותיים",
+      "summary": "שינוי בשדה הקרב העתידי: בתעשיה האווירית פועלים לקראת עידן החלל. מינוי סמנכ”ל בכיר ומנהל חטיבת מערכות טילים וחלל, ומיזוג חברת הבת אלתא לתוך התעשיה האווירית",
+      "link": "https://www.maariv.co.il/news/military/article-1382385",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T18:45:10.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89784",
       "title": "מזכ\"ל חיזבאללה: לא נפרק את נשקנו כל עוד הכיבוש נמשך",
@@ -1227,6 +1272,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T14:54:28.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874066",
+      "title": "בית\"ר ירושלים החתימה רכז חדש, למשך 4 שנים",
+      "summary": "הקבוצה מהבירה רכשה את כוכב עירוני טבריה תמורת 150 אלף יורו. סגר לארבע שנים, יישאר בקבוצת התחתית עד הקיץ ואז יגיע לבית וגן: \"מנצלים הזדמנות לצרף שחקן סופר מוכשר\".",
+      "link": "https://sports.walla.co.il/item/3874066",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T14:54:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21728684",
@@ -34194,51 +34248,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-23T19:03:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21694000",
-      "title": "גוש איזנקוט שומר על יתרון - לאף צד אין 61 | סקרי המנדטים האחרונים",
-      "summary": "הישורת האחרונה: איזנקוט שומר על המקום הראשון במרבית הסקרים בכלי התקשורת • וינטר, שהפתיע בסקרים הקודמים ועבר את הרף, צולל מחדש אל מתחת לאחוז החסימה • 5 ימים לבחירות לכנסת ה-26 - זו תמונת המצב בגושים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21694000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T18:56:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21694000",
-      "title": "סקרי המנדטים האחרונים - ותמונת הגושים רגע לפני הבחירות | כל המספרים",
-      "summary": "הישורת האחרונה: איזנקוט שומר על המקום הראשון במרבית הסקרים בכלי התקשורת • כעת, גורל הקואליציה הבאה ייקבע על חודן של המפלגות הקטנות • וינטר, שהפתיע בסקרים הקודמים ועבר את הרף, צולל מחדש אל מתחת לאחוז החסימה • 5 ימים לבחירות לכנסת ה-26 - זו תמונת המצב בגושים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21694000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T18:56:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21694342",
-      "title": "הנשיא מקרון על הפיגוע סמוך לפריז: \"זו נקודת מפנה\"",
-      "summary": "נשיא צרפת התייחס לירי בעיירה טראפ שבו נרצח אדם ונפצעו שלושה, והגדיר את האירוע כמתקפת טרור נגד קורבנות שנבחרו בשל דתם וצבע עורם • שר הפנים הצביע גם הוא על מניע גזעני אפשרי, בזמן שהמדינה סוערת על רקע מחאות ענק ואלימות ברחובות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21694342",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T18:53:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21694342",
-      "title": "הרוג בפיגוע סמוך לפריז - מקרון: \"זו נקודת מפנה\"",
-      "summary": "נשיא צרפת התייחס לירי בעיירה טראפ שבו נרצח אדם ונפצעו שלושה, והגדיר את האירוע כמתקפת טרור נגד קורבנות שנבחרו בשל דתם וצבע עורם • שר הפנים הצביע גם הוא על מניע גזעני אפשרי, בזמן שהמדינה סוערת על רקע מחאות ענק ואלימות ברחובות",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21694342",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T18:53:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1380559",
-      "title": "סקר חדשות 13: גוש השינוי מגדיל את הפער - איזנקוט הימם את נתניהו",
-      "summary": "ארבעה ימים לפני הבחירות, גם בסקר המנדטים של חדשות 13 אין הכרעה בין שני הגושים. איזנקוט בראש טבלת המנדטים, אך ללא ממשלה",
-      "link": "https://www.maariv.co.il/news/politics/article-1380559",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T18:51:56.000Z"
     }
   ]
 }
