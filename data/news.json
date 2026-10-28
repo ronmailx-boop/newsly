@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:00:59.582Z",
+  "updatedAt": "2026-10-28T05:15:40.805Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skmbqgj6ze",
+      "title": "גם כשתסתיים הספירה בקלפיות זה לא ייגמר: הקולות שיכולים לשנות את התמונה",
+      "summary": "עד הבוקר כבר נספרו 37% מהקולות, אך תוצאות האמת יתבררו רק לאחר ספירת המעטפות הכפולות. עם מספר מוערך של עד 650 אלף בוחרים שהצביעו הרחק מביתם, בהם מילואימניקים ומפונים, מדובר בכ-15 מנדטים שעשויים לשנות את מפת המפלגות. ואיך נראית מסורת ההצבעה?",
+      "link": "https://www.ynet.co.il/news/elections2026/article/skmbqgj6ze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T05:06:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21723165",
+      "title": "אירוע ירי בעראבה: גבר כבן 50 נפצע אנושות - המשטרה פתחה בחקירה",
+      "summary": "צוותי מד\"א מצאו את הפצוע מחוסר הכרה, ללא דופק וללא נשימה, ופינו אותו לבית החולים פוריה תוך כדי פעולות החייאה • המשטרה פתחה בסריקות לאיתור חשודים בירי • הרקע לאירוע פלילי והנסיבות נבדקות",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21723165",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T04:58:08.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/world/383959179",
       "title": "עוד לא הוכרז מנצח - וטראמפ כבר לוקח קרדיט: \"בשל התמיכה שלי\"",
       "summary": "נשיא ארצות הברית הגיב לבחירות בישראל ואמר כי בעקבות תמיכתו בנתניהו המגמה התהפכה לחלוטין, \"במקום תבוסה מוחצת לראש ממשלה דגול, נראה שהתוצאה היא תיקו דרמטי, ואולי אפילו ניצחון\"",
@@ -50,6 +68,15 @@
       "pubDate": "2026-10-28T04:51:33.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21723157",
+      "title": "30 שנות מאסר לאחים מישראל: \"מעשים מפלצתיים\"",
+      "summary": "שלושת האחים אלכסנדר שהורשעו בסחר במין ובתקיפות מיניות חמורות שמעו את גזר דינם במנהטן. השופטת תקפה בחריפות את מעשיהם, הקורבנות התעמתו איתם, וההורים והנשים נעדרו מהאולם",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21723157",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T04:48:08.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "title": "טראמפ בתגובה ראשונה לבחירות: בזכותי נתניהו לא הובס",
       "summary": "לפי יותר מ-2 מיליון קולות שנספרו, מפלגת הליכוד מובילה והרשימה המשותפת במקום השלישי | לפי הנתונים נכון לתוצאות החלקיות, גוש נתניהו עומד על 57 מנדטים, גוש איזנקוט עומד על 47 - והמפלגות הערביות עם 16 (חדשות, פוליטי)",
@@ -66,6 +93,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-28T04:40:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21723222",
+      "title": "גולף R בישראל עם 333 כ”ס ב-309,900 שקלים",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/auto/article/21723222",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T04:33:30.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21723160",
@@ -1632,6 +1668,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T21:01:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
+      "title": "טראמפ הגיב לתוצאות: נראה כמו תיקו, או אפילו ניצחון לנתניהו",
+      "summary": "שיא הצבעה של 25 שנה: 77.7% מכלל בעלי זכות הבחירה יצאו לקלפיות • איזנקוט לנתניהו: \"אל תעז להשתמש בביטחון ישראל לצרכיך הפוליטיים\" • בחרדיות מבהירים: \"ש\"ס ויהדות התורה יתמכו במי שיסדיר מעמד לומדי תורה\" • בגוש השינוי טרם נקבעה פגישת ראשים • כל העדכונים מהלילה הדרמטי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21721455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T20:54:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21721455",
@@ -31548,42 +31593,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T05:24:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/kushner-secret-accounts-gulf-funding-allegations",
-      "title": "חשבון חשאי, מיליארד דולר דרך ישראל: התחקיר שמסעיר את וושינגטון",
-      "summary": "תחקיר אמריקני מעלה טענות על חשבונות חשאיים בהיקף של כשני מיליארד דולר • קושנר: 'הדברים מעולם לא התרחשו' | הפרשה שמסעירה את וושינגטון (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/kushner-secret-accounts-gulf-funding-allegations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T05:14:54.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873420",
-      "title": "אפשר לומר שזה היה לילה היסטורי: המהפך של לברון והרצף של שיי",
-      "summary": "הסיקסרס התפוצצו במחצית השנייה בדרך ל-106:114 על קליבלנד ולמהפך הגדול בקריירה של לברון. אוקלהומה גברה על דנבר למרות 17 נקודות בלבד של ה-MVP",
-      "link": "https://sports.walla.co.il/item/3873420",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T05:11:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21686725",
-      "title": "כבר 300 שנה: מה הקטע עם האובססיה של פוליטיקאים לתינוקות?",
-      "summary": "מועמדים לתפקידים ציבוריים אוהבים להצטלם עם תינוקות – הם לא יכולים לומר או לעשות שום דבר שלא ייראה חמוד ויגרום לפוליטקאי להיראות סימפתי • עד שהגיע החוק שהכריז: די עם זה",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21686725",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T05:09:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/hakahal-party-withdraws-from-elections",
-      "title": "למקרה ותכננתם להצביע להם: מפלגת 'הקהל' פורשת מהמירוץ לכנסת",
-      "summary": "המפלגה החליטה הלילה שלא להתמודד בבחירות הקרובות • ההודעה פורסמה לאחר התייעצויות בין בכירי המפלגה, שכלל לא נספרה בסקרים | סוף דרך פוליטית (חדשות)",
-      "link": "https://www.kikar.co.il/political-news/hakahal-party-withdraws-from-elections",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T05:07:24.000Z"
     }
   ]
 }
