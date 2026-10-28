@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:30:58.448Z",
+  "updatedAt": "2026-10-28T10:45:55.424Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
+      "title": "הלכנו לישון עם איזנקוט, קמנו עם נתניהו: המהפך הדרמטי בספירת הקולות ו-77.6% מתוצאות האמת",
+      "summary": "לאחר ספירת 77.6% מכלל הקולות מסתמן שינוי דרמטי לעומת המדגמים כאשר גוש נתניהו עומד על 54 מנדטים לעומת 49 לגוש איזנקוט • הליכוד עם 27 מנדטים, 'ישר' עם 22, יהדות התורה עומדת על 7 מנדטים וש\"ס על 7 • במגזר הערבי נרשם שיא הצבעה המעניק למפלגותיהם 17 מנדטים • ספירת הקולות נמשכת - כך נראית המפה המעודכנת (חדשות)",
+      "link": "https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T10:40:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1382229",
+      "title": "משהו מתבשל מול איראן: התנועות החריגות של צבא ארה\"ב",
+      "summary": "על רקע האפשרות לתקיפה נוספת באיראן, המכון למחקרי ביטחון לאומי מזהה סימנים להיערכות מחודשת של צבא ארה\"ב, בהם פריסת משחתות בים התיכון ובנייה מחדש של מערך המתדלקים באירופה",
+      "link": "https://www.maariv.co.il/news/military/article-1382229",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T10:36:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sjmfnmytml",
+      "title": "לאף גוש אין רוב: המגבלות של ממשלת המעבר",
+      "summary": "החוק לא מבחין בין ממשלת מעבר לרגילה, ומשפטית היא לא מנועה בין השאר מיציאה למלחמה. למרות כללי ה\"איפוק וריסון\", על ההחלטה להתקבל בממשלה או בקבינט ולא רק בידי רה\"מ. התקדימים: \"שומר החומות\" ו\"עלות השחר\". ההגבלות על מינויים, שאלת האיזון - והחשש ממצב \"בלתי הפיך\" עבור הממשלה הבאה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sjmfnmytml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T10:25:56.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/tnm4gr",
       "title": "כישלון צורב: הנתונים המדאיגים שממחישים את הירידה הדרמטית של ש\"ס",
       "summary": "ניתוח הנתונים מצביע על נסיגה משמעותית בכוחה של ש\"ס, דווקא לאחר שנים שבהן הצליחה לבסס את מעמדה בציבור החרדי כמפלגתו של מרן זיע\"א | בערים שבהן מתגוררים ריכוזים חרדיים נרשמת ירידה בשיעורי התמיכה, ובחלקן הפער מהישגי העבר דרמטי במיוחד | הניתוח המלא של הנתונים (חרדים)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-28T10:23:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21725857",
+      "title": "גבר הגיע למפגש מיני בנווה שאנן - והותקף באכזריות: \"היום אתה מת\"",
+      "summary": "כתב אישום הוגש נגד פאקר אבו זעילה (40) מרהט, לאחר שהתנפל על גבר במבנה נטוש בשכונת נווה שאנן בתל אביב • הנאשם הכה את הקורבן שוב ושוב בראשו באמצעות שבר רעף, הטיח בו - \"היום אתה מת\" ושדד את חפציו • לנאשם 13 הרשעות קודמות",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21725857",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T10:21:50.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1382223",
@@ -59,6 +95,24 @@
       "pubDate": "2026-10-28T10:19:53.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21725851",
+      "title": "איראן מכחישה: \"קטאר לא הציגה הצעה חדשה לסיום המלחמה\"",
+      "summary": "בכיר איראני מכחיש את הדיווחים על טיוטת הסכם חדשה לסיום המלחמה עם ארה\"ב וישראל, וטוען כי הרעיונות שהועלו מצד דוחה אינם מקובלים על איראן • בטהרן מבהירים כי אין שינוי בעמדת המשטר בסוגיית הגרעין • המגעים נמשכים על רקע איומי טראמפ לחדש את התקיפות והחשש מהסלמה אזורית",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21725851",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T10:17:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21725436",
+      "title": "חופשת הסקי עלולה להפוך לאכזבה: 5 טעויות שכדאי להימנע מהן",
+      "summary": "אתרי הסקי באירופה נערכים לעונת החורף, אבל מה שנראה כמו חופשה חלומית בתמונות לא בהכרח מתאים לכל אחד • ההבדלים שעשויים להכריע בין חופשה מוצלחת לאכזבה, והתקופה שבה כדאי להיזהר במיוחד לפני שמזמינים",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21725436",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T10:17:35.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382222",
       "title": "בקולה - טלי גוטליב באזהרה חריגה: \"המטרה היא מתחת לרדאר\"",
       "summary": "טלי גוטליב תקפה את גוש השינוי והמפלגות הערביות, והזהירה מפני ניסיון להקים ממשלה ללא עוצמה יהודית: \"המטרה היא מתחת לרדאר להקים כאן ממשלה בלי עוצמה יהודית\". במקביל, הביעה תקווה להקמת ממשלת ימין",
@@ -66,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T10:17:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21623154",
+      "title": "כשהבטן מתהפכת: אלה המאכלים שמומחים ממליצים לאכול",
+      "summary": "מבחילות וכאבי בטן ועד לבוקר שאחרי שתיית אלכוהול: דיאטנים ומומחים מסבירים אילו מזונות עשויים להקל על התחושה הלא נעימה • למה כדאי לבחור באורז לבן ומרק צח, ומדוע ארוחה שומנית דווקא עלולה להחמיר את המצב?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21623154",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T10:16:06.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sye47s1pfl",
@@ -230,6 +293,15 @@
       "pubDate": "2026-10-28T09:55:10.000Z"
     },
     {
+      "id": "walla:https://e.walla.co.il/item/3874022",
+      "title": "הרייטינג של הבחירות: הערוץ ששבר שיא, והניצחון של המתחרה",
+      "summary": "כמעט מיליון ישראלים צפו במשדר המדגם של חדשות 12, זינוק היסטורי לערוץ 14 ונתונים נמוכים בהרבה ברשת 13, כאן 11 ו-i24NEWS: זה מה שעשו ערוצי הטלוויזיה בליל הבחירות",
+      "link": "https://e.walla.co.il/item/3874022",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T09:55:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1382211",
       "title": "טענה שבעלה במוסד סיעודי. האמת זעזעה את כולם",
       "summary": "במשך שנים סיפרה אישה מאלסקה שבעלה עבר למוסד סיעודי, בזמן שהקצבאות שלו המשיכו להגיע לחשבון. רק לאחר מותה התגלה מה באמת עלה בגורלו, והחקירה חשפה פרטים מטרידים במיוחד",
@@ -282,6 +354,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T09:37:56.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkc6xskaml",
+      "title": "לפחות 30 הרוגים בהתנגשות רכבות בספרד, חשד לטעות אנוש: \"תקלה בחדר הבקרה\"",
+      "summary": "התאונה אירעה במחוז טולדו בין שתי רכבות שעליהן היו יותר מ-500 נוסעים: לפי החשד מפעיל בחדר הבקרה אישר לאחת מהן להמשיך לנסוע כשאחרת חסמה את המסילה, וזו פגעה בחלקה האחורי - ושני קרונות התרסקו. מספר ההרוגים צפוי לעלות, רה\"מ סנצ'ס \"מזועזע\". רק בינואר: 45 נהרגו בהתנגשות רכבות בדרום ספרד",
+      "link": "https://www.ynet.co.il/news/article/rkc6xskaml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-28T09:35:15.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkc6xskaml",
@@ -564,6 +645,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959177",
+      "title": "77% מהקולות: גוש נתניהו מוביל, בלי רוב לממשלה",
+      "summary": "תוצאות האמת: גוש נתניהו עם 54 מנדטים לעומת 49 לגוש איזנקוט ו-17 למפלגות הערביות. עד הצהריים: תסתיים הספירה של המעטפות הרגילות",
+      "link": "https://www.walla.co.il/news/israel/383959177",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T09:05:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959177",
       "title": "70% מהקולות: גוש נתניהו מוביל, בלי רוב לממשלה",
       "summary": "תוצאות האמת: גוש נתניהו עם 54 מנדטים לעומת 47 לגוש איזנקוט ו-19 למפלגות הערביות. עד הצהריים: תסתיים הספירה של המעטפות הרגילות",
       "link": "https://www.walla.co.il/news/israel/383959177",
@@ -574,7 +664,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
       "title": "הלכנו לישון עם איזנקוט, קמנו עם נתניהו: המהפך הדרמטי בספירת הקולות ו-71% מתוצאות האמת",
-      "summary": "לאחר ספירת 66% מכלל הקולות (יותר מ-4 מיליון מצביעים), מסתמן שינוי דרמטי לעומת המדגמים כאשר גוש נתניהו עומד על 54 מנדטים לעומת 48 לגוש איזנקוט • הליכוד עם 27 מנדטים, 'ישר' עם 20, יהדות התורה עומדת על 7 מנדטים וש\"ס על 7 • במגזר הערבי נרשם שיא הצבעה המעניק למפלגותיהם 19 מנדטים • ספירת הקולות נמשכת - כך נראית המפה המעודכנת (חדשות)",
+      "summary": "לאחר ספירת 71% מכלל הקולות (יותר מ-4 מיליון מצביעים), מסתמן שינוי דרמטי לעומת המדגמים כאשר גוש נתניהו עומד על 54 מנדטים לעומת 48 לגוש איזנקוט • הליכוד עם 27 מנדטים, 'ישר' עם 20, יהדות התורה עומדת על 7 מנדטים וש\"ס על 7 • במגזר הערבי נרשם שיא הצבעה המעניק למפלגותיהם 19 מנדטים • ספירת הקולות נמשכת - כך נראית המפה המעודכנת (חדשות)",
       "link": "https://www.kikar.co.il/haredim-news/election-results-netanyahu-eisenkot",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -831,6 +921,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-28T08:44:28.000Z"
+    },
+    {
+      "id": "walla:https://e.walla.co.il/item/3874007",
+      "title": "הסוקרים שהתרסקו, ומי בכל זאת התקרב",
+      "summary": "הבוקר הזה אינו סוף עידן הסקרים, אבל הוא בהחלט מחייב בדיקה רצינית של שיטות הדגימה, מודל ההצבעה והאופן שבו התקשורת מציגה תחזיות לציבור",
+      "link": "https://e.walla.co.il/item/3874007",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T08:44:00.000Z"
     },
     {
       "id": "walla:https://e.walla.co.il/item/3874007",
@@ -3299,6 +3398,24 @@
       "pubDate": "2026-10-27T21:32:28.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "יום מפתיע. אתם מגלים מתחת לשכבה העליונה של משהו שנותן תחושה של בלבול ואובדן דרך, גרעין קשה של כיוון ברור לפעולה",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 28.10.2026",
+      "summary": "אתם מתעצלים לטפל בעצמכם ולעניין הזה יש תוצאות ומחירים. אינכם מרגישים טוב והדבר פוגע גם במצב הרוח",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-27T21:30:12.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21628047",
       "title": "מזל מאזניים, תחזית הורוסקופ יומית 28.10.2026",
       "summary": "עליכם לגלות קצת יותר איפוק ופחות ספונטאניות. אתם מגיבים בתוקפנות כלפי אנשים שאינם ממלאים את הציפיות שלכם וזה מעורר כעסים נגדכם",
@@ -3330,24 +3447,6 @@
       "title": "מזל גדי, תחזית הורוסקופ יומית 28.10.2026",
       "summary": "יש לכם עוד הרבה מה ללמוד בקטע של מעשיות במתבטאת בהצבת מטרות ודחיית סיפוקים. קחו את הנושא כאתגר אישי ואל תתנו לעצמכם לגלוש למקומות אפלוליים ומוגנים לכאורה, בהם בא לכם להתחבא מהעולם התובעני, להתכרבל ולהירדם",
       "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21628248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T21:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 28.10.2026",
-      "summary": "יום מפתיע. אתם מגלים מתחת לשכבה העליונה של משהו שנותן תחושה של בלבול ואובדן דרך, גרעין קשה של כיוון ברור לפעולה",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21628252",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T21:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 28.10.2026",
-      "summary": "אתם מתעצלים לטפל בעצמכם ולעניין הזה יש תוצאות ומחירים. אינכם מרגישים טוב והדבר פוגע גם במצב הרוח",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21628253",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T21:30:12.000Z"
@@ -32178,60 +32277,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T10:50:13.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3873444",
-      "title": "גל גדות הגיעה לארץ לקראת הבחירות | פרסום ראשון",
-      "summary": "רגע לפני הבחירות שיתקיימו ביום שלישי הקרוב, השחקנית המצליחה הגיעה לארץ לממש את זכותה הדמוקרטית ולהצביע",
-      "link": "https://celebs.walla.co.il/item/3873444",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T10:45:00.000Z"
-    },
-    {
-      "id": "walla:https://cars.walla.co.il/item/3873443",
-      "title": "בגלל ממשלת איטליה: פיאט מחזירה את המותג האהוב אחרי 30 שנה",
-      "summary": "גרסה חדשה של פיאט פנדה הוותיקה מקבלת את שמו של יצרן הקטנות האיטלקי, רק כדי למנוע מהממשלה להעביר את הזכויות לשם לאחד היצרנים הסינים",
-      "link": "https://cars.walla.co.il/item/3873443",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T10:43:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21692977",
-      "title": "\"התכוון לבצע טבח\": הרוגים ופצועים בפיגוע ירי בצרפת",
-      "summary": "חמישה נפגעו כשחמוש פתח באש בעיר טראפ ממערב לבירה פריז וניסה להימלט מהזירה • כוחות משטרה גדולים הגיעו למקום והתוקף נעצר",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21692977",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T10:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21692977",
-      "title": "צרפת: הרוג בפיגוע ירי דרומית לפריז",
-      "summary": "חמישה נפגעו כשחמוש פתח באש בעיר טראפ וניסה להימלט מהזירה • כוחות משטרה גדולים הגיעו למקום והתוקף נעצר",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21692977",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T10:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21692962",
-      "title": "טעויות הניקיון שכדאי להפסיק לעשות - ומה לעשות במקום",
-      "summary": "לא כל פעולת ניקיון באמת משיגה את התוצאה הרצויה, מסדר הניקוי הלא נכון ועד שימוש באביזרים שמשאירים סימנים - כמה טעויות נפוצות עלולות להפוך את העבודה לממושכת ופחות יעילה. כך תנקו נכון יותר, תחסכו זמן ותשיגו תוצאות טובות יותר",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21692962",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T10:33:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21692969",
-      "title": "אוהד בוזגלו נחקר בחשד לתקיפת זוגתו - וטען שהותקף על ידה",
-      "summary": "כדורגלן העבר וכוכב הריאליטי הוא המפורסם שנעצר בבת ים • בתום החקירה שוחררו השניים בתנאי הרחקה ואיסור יצירת קשר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21692969",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T10:33:30.000Z"
     }
   ]
 }
