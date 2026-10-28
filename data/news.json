@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:45:41.363Z",
+  "updatedAt": "2026-10-28T05:00:59.582Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/world/383959179",
+      "title": "עוד לא הוכרז מנצח - וטראמפ כבר לוקח קרדיט: \"בשל התמיכה שלי\"",
+      "summary": "נשיא ארצות הברית הגיב לבחירות בישראל ואמר כי בעקבות תמיכתו בנתניהו המגמה התהפכה לחלוטין, \"במקום תבוסה מוחצת לראש ממשלה דגול, נראה שהתוצאה היא תיקו דרמטי, ואולי אפילו ניצחון\"",
+      "link": "https://www.walla.co.il/news/world/383959179",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T04:54:11.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959178",
+      "title": "איזנקוט חגג מוקדם, נתניהו פתח פער: \"הליכוד המפלגה הגדולה\"",
+      "summary": "יו\"ר ישר טען לאחר פרסום המדגמים המחמיאים כי \"נתניהו מול רוב גדול יותר, בזמן שרה\"מ חיכה לספירת תוצאות האמת - שהפכו את הקערה • בנט הכריז על ניצחון \"ברית המשרתים\" • עבאס חשף: \"קיבלתי טלפונים גם מהימין\"",
+      "link": "https://www.walla.co.il/news/israel/383959178",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T04:51:33.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/israel-elections-voting-turnout",
       "title": "טראמפ בתגובה ראשונה לבחירות: בזכותי נתניהו לא הובס",
       "summary": "לפי יותר מ-2 מיליון קולות שנספרו, מפלגת הליכוד מובילה והרשימה המשותפת במקום השלישי | לפי הנתונים נכון לתוצאות החלקיות, גוש נתניהו עומד על 57 מנדטים, גוש איזנקוט עומד על 47 - והמפלגות הערביות עם 16 (חדשות, פוליטי)",
@@ -43,7 +61,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ry842xkafx",
       "title": "טראמפ בתגובה ראשונה: בזכותי נתניהו לא הובס, יש תיקו בישראל",
-      "summary": "",
+      "summary": "נשיא ארה\"ב ייחס את התוצאה של נתניהו לעצמו. \"הוא הצליח לחזור מפיגור לתיקו, אולי לניצחון - והכול קרה אחרי הודעת התמיכה\", הוא כתב בחשבונו ברשת החברתית שלו. לכתבים בדרכו חזרה מטקסס אמר: \"הוא הצליח מאוד\"",
       "link": "https://www.ynet.co.il/news/article/ry842xkafx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -31566,87 +31584,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-23T05:07:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1380292",
-      "title": "עשרות שנים אני כותב כאן. זה הטור החשוב ביותר שכתבתי בחיי | בן כספית",
-      "summary": "בעוד ארבעה ימים יוכרע המאבק על עתידה של מדינת ישראל | על המשך קיומה כמעצמה יהודית של קדמה ונאורות, על שגשוג הדמוקרטיה ועל מקומנו במשפחת האומות | אסור לוותר על שום קול | הטור החשוב ביותר שכתבתי בחיי",
-      "link": "https://www.maariv.co.il/news/opinions/article-1380292",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T05:00:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "title": "פיגוע ירי קשה בצומת יהודה: שניים מהפצועים במצב אנוש | המחבלים ניסו לברוח - וחוסלו אחרי קרב יריות",
-      "summary": "מחבלים ביצעו הבוקר פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה • מספר פצועים במקום וכוחות צה\"ל פתחו במרדף מהיר, בסיומו חיסלו את המחבלים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:59:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "title": "הפלסטינים תיעדו: חילופי אש בזירת הפיגוע | צפו",
-      "summary": "מחבלים ביצעו הבוקר פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה • מספר פצועים במקום וכוחות צה\"ל פתחו במרדף מהיר, בסיומו חיסלו את המחבלים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:59:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1380342",
-      "title": "חלקיקים זרים בשימורים האהובים: ריקול בהול - הרוכשים מתבקשים לא לצרוך",
-      "summary": "חברת ג. ויליפוד אינטרנשיונל הודיעה על איסוף לפתן פירות בסירופ קל של המותג בית יהודה, בעקבות חשש להימצאות חלקיקי חומר פולימרי במוצר. הצרכנים מתבקשים שלא לצרוך אותו",
-      "link": "https://www.maariv.co.il/news/health/article-1380342",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:59:45.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1380342",
-      "title": "ריקול ללפתן פירות של בית יהודה: חשש להימצאות חלקיקים זרים",
-      "summary": "חברת ג. ויליפוד אינטרנשיונל הודיעה על איסוף לפתן פירות בסירופ קל של המותג בית יהודה, בעקבות חשש להימצאות חלקיקי חומר פולימרי במוצר. הצרכנים מתבקשים שלא לצרוך אותו",
-      "link": "https://www.maariv.co.il/news/health/article-1380342",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T04:59:45.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873419",
-      "title": "אחרי האכזבה נגד ריאל, מכבי תל אביב מתקרבת להחלטה לגבי גארד",
-      "summary": "הצהובים פספסו הזדמנות נגד הבלאנקוס במשחק שבו שמטו יתרון של 15 נקודות. הורד: \"חייבים לשחק כקבוצה\". בריסט: \"נתנו למשחק לחמוק מאיתנו\". בצוות המקצועי לוחצים על החתמת זר כבר בימים הקרובים. בין האפשרו",
-      "link": "https://sports.walla.co.il/item/3873419",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T04:57:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88863",
-      "title": "פצוע בפיגוע ירי ביהודה, המחבל נמלט מהמקום",
-      "summary": "אדם נפצע בפיגוע ירי שבוצע ביהודה. המחבל ברח מהמקום.",
-      "link": "https://www.kikar.co.il/scoop-news/88863",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:52:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/88862",
-      "title": "שני מחבלים חוסלו בפיגוע הירי בצומת יהודה",
-      "summary": "צה\"ל מדווח כי שני מחבלים חוסלו בפיגוע הירי במרחב צומת יהודה שבחטיבת יהודה. כוחות צה\"ל ממשיכים בסריקות באזור והוטל כתר על מספר כפרים במרחב.",
-      "link": "https://www.kikar.co.il/scoop-news/88862",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:52:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "title": "פיגוע ירי קשה בצומת יהודה: שני פצועים במצב קשה | המחבלים ניסו לברוח - וחוסלו אחרי קרב יריות",
-      "summary": "מחבלים ביצעו הבוקר פיגוע ירי סמוך לצומת יהודה במרחב חטיבת יהודה • מספר פצועים במקום וכוחות צה\"ל פתחו במרדף מהיר, בסיומו חיסלו את המחבלים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/shooting-attack-judea-junction-injured-manhunt",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-23T04:48:05.000Z"
     }
   ]
 }
