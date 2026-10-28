@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:30:55.449Z",
+  "updatedAt": "2026-10-28T17:45:51.397Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/trump-netanyahu-support-election-turnaround",
+      "title": "טראמפ מתייחס לתוצאות הבחירות; כך השיב כשנשאל על ממשלת אחדות",
+      "summary": "הנשיא האמריקני טוען כי הביע תמיכה בנתניהו והמגמה התהפכה • בשיחה עם 'אקסיוס' מסר: \"בהתחלה שמעתי דיווחים קשים, עכשיו הוא במצב טוב\" | לא שלל התערבות בהרכבת ממשלת אחדות (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/trump-netanyahu-support-election-turnaround",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T17:44:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382313",
+      "title": "נתניהו מכין פיתוי לאיזנקוט: התוכנית המפתיעה להקמת הממשלה הבאה",
+      "summary": "גורמים בסביבת נתניהו מקדמים תוכנית להקמת ממשלת אחדות עם גדי איזנקוט, למרות התחייבותו שלא לשבת תחתיו. הפיתוי הגדול: ממשלה ללא המפלגות החרדיות בשלב הראשון, לצד אפשרות לרוטציה בראשות הממשלה",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382313",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-28T17:44:27.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/by9xpsj6zl",
       "title": "התוכנית ליום שאחרי - אחדות עם כוכבית",
@@ -192,6 +210,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T16:51:49.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3874086",
+      "title": "מי במקום הראשון, ואיזו חברה הפתיעה: דירוג האמינות הגדול",
+      "summary": "סקר ?What Car הבריטי הנחשב דירג 30 יצרנים: סוזוקי חוזרת למקום הראשון אחרי שבע שנים, אלפא רומיאו מפתיעה בעשירייה הראשונה, ולנד רובר שוב בתחתית הטבלה",
+      "link": "https://cars.walla.co.il/item/3874086",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T16:50:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21729234",
@@ -34005,51 +34032,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T17:47:50.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1380543",
-      "title": "סקר מנדטים של כאן 11: וינטר לא עובר - זאת תמונות הגושים",
-      "summary": "למרות היחלשות מסוימת, מפלגתו של גדי איזנקוט ממשיכה להוביל במספר המנדטים, כך על פי סקר המנדטים האחרון של כאן 11. עוד מסתמן על פי הסקר, כי אף גוש לא מצליח להחזיק ברוב ברור, על מנת להרכיב את הממשלה הבאה",
-      "link": "https://www.maariv.co.il/news/politics/article-1380543",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T17:42:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21694201",
-      "title": "ביעד לא צפוי בכלל: ישראלים גורשו ממסעדה בצעקות",
-      "summary": "תיעוד מעורר סערה בבייג'ינג: בעל מסעדה לבנונית סילק קבוצת סועדים ישראלים מבית העסק לאחר ששמע אותם משוחחים בעברית • \"המקום הזה - לא להתקרב אליו\", הזהיר המצלם",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21694201",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T17:36:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1380542",
-      "title": "נורה בפתח ביתו: אבראהים בשכאר בן ה-82 נרצח בשפרעם, אשתו ובנו נפצעו",
-      "summary": "אבראהים בשכאר (בן 82) נורה למוות בשפרעם. ארגון יוזמות אברהם מעדכן כי 186 ערבים קיפחו את חייהם. מדוברות המשטרה נמסר יותר היום שנפתחה חקירה. אשתו ובנו נפצעו",
-      "link": "https://www.maariv.co.il/news/law/article-1380542",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T17:33:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1380542",
-      "title": "נורה בפתח ביתו - ומותו נקבע במקום: אבראהים בשכאר בן ה-82 נרצח בשפרעם",
-      "summary": "אבראהים בשכאר (בן 82) נורה למוות בשפרעם. ארגון יוזמות אברהם מעדכן כי 186 ערבים קיפחו את חייהם. מדוברות המשטרה נמסר יותר היום שנפתחה חקירה. שניים נוספים נפצעו קל",
-      "link": "https://www.maariv.co.il/news/law/article-1380542",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-23T17:33:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21694220",
-      "title": "נקמה בנכדו? חמושים פרצו לביתו של קשיש - וירו בו 13 פעמים",
-      "summary": "רעולי פנים פרצו לביתו של איברהים בושקאר בן ה-82 בשפרעם, ירו לעברו וניסו לרצוח גם את בנו - שנמלט וניצל • לפי החשד, נכדו של הקשיש היה חלק מחוליית חיסול של משפחת חרירי, שתכננה לפגוע באדם שקשור לחמושים - כ\"נקמת דם מתוכננת\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21694220",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T17:31:21.000Z"
     }
   ]
 }
