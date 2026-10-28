@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:30:52.533Z",
+  "updatedAt": "2026-10-28T19:45:58.929Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tnmtw2",
+      "title": "88.6 אחוז מהקולות נספרו: המפלגה שרחוקה 30 אלף קול מאחוז החסימה",
+      "summary": "על פי נתוני ספירת 88.6% מהקולות, אין שינוי בתמונת המנדטים | כדי לעבור את אחוז החסימה חסרים למפלגת המילואימינקים והכלכלית 30,910 קולות לפי מספר הקולות הנוכחי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tnmtw2",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T19:32:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tnmopw",
+      "title": "מיוחד: כשהרבי מליובאוויטש עצר את ההתוועדות בגלל ילד קטן בן 5",
+      "summary": "מה קרה כשילד בן חמש התעורר בהתוועדות אצל הרבי? איך רגע אחד של תשומת לב השפיע על כל חייו? ומה הקשר בין זה לסוד של אברהם אבינו בהכנסת אורחים? שיעור מרגש על הכוח של להרגיש נראה | צפו (יהדות)",
+      "link": "https://www.kikar.co.il/haredim-news/tnmopw",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-28T19:32:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89792",
       "title": "רוכב אופנוע בן 20 נפצע בינוני בתאונה עצמית בירושלים",
       "summary": "רוכב אופנוע כבן 20 נפצע במצב בינוני בתאונה עצמית בצומת גולמב פינת דרך הגן חיות בירושלים. הרוכב החליק במהלך הנסיעה. צוותי איחוד הצלה העניקו לו טיפול רפואי בזירה, והוא פונה לבית החולים הדסה עין כרם.",
@@ -39,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-28T19:23:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21730958",
+      "title": "אלינה רבינוביץ' נבחרה להנחות את הישרדות בדיגיטל",
+      "summary": "אחרי שכבר פגשה את המתמודדים וצילמה איתם תכנים, ל-ForReal נודע כי רבינוביץ' תנחה את \"בקתת המשחקים\", תוכנית דיגיטלית מלווה שבה תראיין את שורדי העונה ותציג חומרים שצולמו על האי",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21730958",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T19:20:42.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383959284",
@@ -79,7 +106,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21730908",
       "title": "נתניהו פנה לבכירי המפלגות החרדיות - שסירבו לשוחח איתו",
-      "summary": "בלשכת ראש הממשלה מנסים לתאם שיחות עם ראשי המפלגות החרדיות בעקבות הבחירות, אך חלקם מסרבים בשלב זה • בין המסרבים: אליקים שטארק מחסידות בעלז ויו\"ר ש\"ס אריה דרעי, שמסרב כעת לשוחח גם עם גורמים אחרים ולא רק עם נתניהו",
+      "summary": "בלשכת ראש הממשלה ניסו לתאם שיחות עם ראשי המפלגות החרדיות, אך אריה דרעי ואליקים שטארק מחסידות בעלז סירבו בשלב זה להיענות • מנגד, נתניהו שוחח עם בן גביר וסמוטריץ' והבטיח שלא ינטוש את שותפיו לגוש הימין",
       "link": "https://www.israelhayom.co.il/news/politics/article/21730908",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -381,6 +408,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T17:57:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21730349",
+      "title": "חי מהיורוליג: הפועל תל אביב - אנאדולו אפס 59:90",
+      "summary": "מחזור 8: ריצת 2:19 ברבע השני סידרה יתרון משמעותי לאדומים, שנמצאים בדרך הבטוחה לניצחון שישי ברציפות במפעל • אנטוניו בלייקני ודן אוטורו לוהטים, אלייז'ה בראיינט מתקרב לדאבל דאבל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21730349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-28T17:54:17.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21730349",
@@ -2138,10 +2174,10 @@
       "pubDate": "2026-10-28T13:24:37.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21727774",
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21727774",
       "title": "אבי שושן על החטופה שחזרה מהשבי: \"אני רציתי שהיא תתנצל\"",
       "summary": "שלוש שנים אחרי הרגע שהצית סערה סביב עבודתו באיכילוב, אבי שושן חוזר לשיחה שלא התקיימה ולמילים שקיווה לשמוע מיוכבד ליפשיץ",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21727774",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21727774",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T13:23:46.000Z"
@@ -2775,6 +2811,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T11:54:19.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/myhealth/383959228",
+      "title": "החלפתם את הקשים מפלסטיק לנייר? עשיתם טעות",
+      "summary": "בדיקה שהוזמנה בדרום קוריאה מצאה שלקשים מפלסטיק הייתה השפעה נמוכה יותר בעשרה מתוך 16 מדדים סביבתיים - בהשוואה לקשים מנייר",
+      "link": "https://www.walla.co.il/healthy/myhealth/383959228",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-28T11:52:53.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21726532",
@@ -34392,33 +34437,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-23T19:54:16.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hy500sxt2mx",
-      "title": "הסקרים האחרונים לפני הבחירות: זו תמונת הגושים - ומי נותר מתחת לאחוז החסימה?",
-      "summary": "בכל הסקרים שפורסמו יש יתרון לגוש השינוי, אך אף צד לא משיג 61 מנדטים. ישר! של איזנקוט היא המפלגה הגדולה בישראל, הליכוד מיד אחריה. וינטר לא עובר את אחוז החסימה, הנדל וזליכה גם כן לא משיגים 3.25% מהקולות בשניים משלושת הערוצים - וכמה מקבלות המפלגות הערביות? | \"סקר הסקרים\" - כל הנתונים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hy500sxt2mx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-23T19:42:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21694473",
-      "title": "\"התנדבתי לשירות צבאי משלי\": הוענקו פרסי בוני ציון לעולים",
-      "summary": "שמונה עולים מארצות דוברות אנגלית קיבלו הוקרה בטקס השנתי של ארגון נפש בנפש בירושלים • בין הזוכים השר לשעבר רון דרמר ודניאל אברהם הפועלת לשיקום החקלאות בעוטף עזה שהזהירה כי ללא חקלאות לא יהיה בסיס לקהילות בגבולות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21694473",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-23T19:36:46.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/opinions/383958546",
-      "title": "האיש שיכול להכריע את גורל המדינה: ההימור הגדול של עופר וינטר",
-      "summary": "הוא קיבל מהליכוד הצעה שבנט ושקד יכלו רק לחלום עליה. הקמפיינר שלו היה העד בחתונה של יונתן אוריך, כך שהדלתות היו פתוחות",
-      "link": "https://www.walla.co.il/news/opinions/383958546",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-23T19:31:07.000Z"
     }
   ]
 }
