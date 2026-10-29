@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:31:00.177Z",
+  "updatedAt": "2026-10-29T09:45:49.421Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkacw9e6me",
+      "title": "הפעם ביבי היה ער",
+      "summary": "אם הכל נכון, ועדת חקירה ממלכתית חייבת תהיה לקום מייד, אני מניח שביבי יהיה הראשון לדרוש זאת. ערוצי הימין בטח יפנו אצבע מאשימה כלפי זיני, כלפי גופמן, בדיוק כפי שעשו להרצי ורונן בר. או שהכל ספין כדי להראות לאיזנקוט מי הבוס",
+      "link": "https://www.ynet.co.il/news/article/hkacw9e6me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-29T09:39:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382565",
+      "title": "בצל חקירת השב\"כ בחשד לשוחד בחירות: בליכוד נערכים להגביר את הלחץ לאחדות",
+      "summary": "חקירת השב\"כ בחשד לשוחד בחירות עשויה לחזק את מאבק הליכוד נגד ממשלה בתמיכת המפלגות הערביות. במערכת הפוליטית מעריכים כי בליכוד יגבירו את הקריאות לממשלת אחדות, בעוד גולן מנסה לגבש חלופה",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1382565",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-29T09:39:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/armenia-parliament-brawl",
+      "title": "מכות בפרצוף: מאבק על כסף הפך בית הנבחרים לזירת קרב",
+      "summary": "יון בפרלמנט הארמני יצא משליטה והידרדר לעימות פיזי בין חברי הקואליציה לאופוזיציה. המאבטחים נאלצו להתערב ולהפריד בין הניצים, והישיבה הופסקה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/armenia-parliament-brawl",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-29T09:31:04.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
+      "title": "ליברמן שולל הצטרפות לנתניהו: \"לא נשב לא עם ביבי ולא עם טיבי\"",
+      "summary": "יו\"ר הליכוד מנסה לאתר שותפות אפשריות לאחר שהגוש בראשותו לא הגיע ל-61 מנדטים, אבל יו\"ר ישראל ביתנו מבהיר למעשה כי לא יצטרף אליו - וגם לא לממשלת מיעוט עם המפלגות הערביות: \"נחכה שהאבק ישקע, ונראה מה עושים\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-29T09:29:16.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/89854",
       "title": "94% מהקולות נספרו: גוש נתניהו 53 מנדטים, גוש השינוי 48",
@@ -546,6 +582,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383959325",
+      "title": "מידע המודיעיני, ועצורים: ההתראות להתערבות שקדמו לבחירות",
+      "summary": "מידע מודיעני, מזומן ועצורים: ההתרעות שקדמו להתערבות בבחירות",
+      "link": "https://www.walla.co.il/news/military/383959325",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-29T08:21:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383959325",
       "title": "חודש לפני הבחירות: החשד למימון זר דרך איראן, טורקיה וקטאר",
       "summary": "כבר חודש לפני הבחירות הוקם צוות מודיעיני לבדיקת החשדות. ביום ההצבעה נעצרו שלושה חשודים, ובחקירה עלה חשד לחלוקת מזומנים והטבות למצביעים.",
       "link": "https://www.walla.co.il/news/military/383959325",
@@ -696,6 +741,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-29T07:53:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1382497",
+      "title": "לפני שאתם עושים הזרקה לפנים: האזהרה החדשה של משרד הבריאות",
+      "summary": "אלפי אריזות של חומרי הזרקה נגנבו ממחסני שתי חברות, ובמשרד הבריאות חוששים שהן נמכרות למרפאות ולמכוני אסתטיקה. החשש המרכזי: תנאי האחסון נפגעו והמטופלים עלולים להסתכן",
+      "link": "https://www.maariv.co.il/news/health/article-1382497",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-29T07:50:15.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1382497",
@@ -1074,6 +1128,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-29T07:07:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b130kdeaml",
+      "title": "סולברג לזיני: \"לחקור חשדות חמורים לשוחד בחירות\". החשד - קטאר העבירה עשרות מיליונים",
+      "summary": "יו\"ר ועדת הבחירות הורה לראש השב\"כ לחקור חשד למימון זר - ניסיון השפעה של קטאר. גורמים משפטיים בכירים: \"כרגע המידע לא דרמטי\". שב\"כ החזיק במידע כבר כמה ימים, אבל רק שלשום הודיע זיני: \"הבחירות בטוחות\". כבר 7 עצורים בפרשה אחרת, שעוסקת בחשד לשוחד בחירות עבור רע\"ם",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b130kdeaml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-29T07:06:17.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b130kdeaml",
@@ -35832,24 +35895,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T09:50:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21695734",
-      "title": "דיווח: נתניהו תומך בדרישת ארגנטינה לריבונות באיי פוקלנד",
-      "summary": "על פי ה\"טלגרף\" הבריטי, ראש הממשלה הורה לדיפלומטים ישראלים לשנות את העמדה הרשמית • הצעד המדיני מגיע על רקע הסנקציות שהטיל שר החוץ הבריטי על ישראל והיחסים החמים עם נשיא ארגנטינה מיליי • ממשרד החוץ נמסר בתגובה: \"הדיווח אינו נכון, אין שינוי בעמדתנו בנושא\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21695734",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-24T09:43:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21695699",
-      "title": "בלי ששמתם לב: מעכשיו - גוגל תוכל להשתמש בג'ימייל ובתמונות שלכם",
-      "summary": "גוגל עדכנה בחשאי את מדיניות הפרטיות שלה ושברה הבטחה בת שנים • אם חיברתם את Gmail, תמונות או את ה-Drive לשירותי ה-AI של החברה, המידע האישי שלכם יוכל לשמש להתאמת פרסומות • מה בדיוק השתנה, מדוע ה-AI הפך לדלת האחורית, ואיך מבטלים את זה מיד?",
-      "link": "https://www.israelhayom.co.il/tech/how-to/article/21695699",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-24T09:33:01.000Z"
     }
   ]
 }
