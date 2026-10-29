@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:01:00.658Z",
+  "updatedAt": "2026-10-29T23:16:02.316Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hynlqsbaze",
+      "title": "ועדת הבחירות: חקירת שב\"כ לא משפיעה על התוצאות - ולא מתייחסת למגזר כלשהו",
+      "summary": "בהצהרה לילית אמר מ\"מ מנכ\"ל הוועדה עו\"ד דין ליבנה כי \"דיווחים שפורסמו במהלך היום - אינם מבוססים כלל. לכשתושלם החקירה, ממצאיה יוגשו ליו\"ר, ויוודאו מימדיה והשלכותיה\". הוועדה גם אישרה בהודעתה את תוצאות האמת הסופיות, \"בכפוף לתיקונים קלים\"",
+      "link": "https://www.ynet.co.il/news/article/hynlqsbaze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-29T22:57:10.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21739920",
       "title": "תאונה קשה בבנימין: בת 22 במצב קשה לאחר שהתנגשה במעקה בטיחות",
@@ -37830,24 +37839,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T23:24:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21698731",
-      "title": "\"המוח\" מאחורי המהומות באיטליה: פעיל פרו-פלסטיני תומך חמאס",
-      "summary": "איטלקי ממוצא מרוקאי נעצר בחשד שהסית לאלימות ולטרור בהפגנות, ולפי הדיווח הקים ארגון שהפיץ תעמולת חמאס • בברצלונה התפרעו מאות צעירים וגרמו לנזק במרכז העיר ולפחות 100 נעצרו • בצרפת יצאו לרחובות מאות אלפים, ולפחות 1,000 נעצרו",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21698731",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-24T23:12:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21698684",
-      "title": "בכיר במשק הישראלי: \"גם אחריות עסקית - היא ציונות\"",
-      "summary": "איננו רואים בפעילותנו החברתית עשיית טובה למי שסיכנו את חייהם כדי להגן עלינו • להפך - זו זכות לעבוד לצידם, ללמוד מהם ולראות בהם חלק מדור המנהיגים הבא של ישראל",
-      "link": "https://www.israelhayom.co.il/news/local/article/21698684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-24T23:07:36.000Z"
     }
   ]
 }
