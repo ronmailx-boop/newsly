@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:45:52.928Z",
+  "updatedAt": "2026-10-29T06:01:09.102Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1382453",
+      "title": "אקדחים, סמים ויידוי אבנים: הפשיטה המשטרתית במזרח ירושלים",
+      "summary": "שוטרים ולוחמי מג\"ב פשטו על יעדים בשועפאט ובבית חנינא, שם איתרו כלי נשק, תחמושת וחומרים החשודים כסמים • כלב משטרתי הוביל לתגלית נוספת במחסן, ובמהלך הפעילות הותקפו הכוחות באבנים",
+      "link": "https://www.maariv.co.il/news/military/article-1382453",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-29T05:55:43.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/police/tnnmhz",
       "title": "חשד להתעללות בפעוטון: עובדת בשנות ה-50 לחייה נעצרה",
@@ -1074,15 +1083,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-28T19:16:38.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383959283",
-      "title": "למעלה מ-91% מהקולות נספרו: כל העדכונים מתוצאות האמת",
-      "summary": "איזנקוט הבהיר: \"ממוקדים במשימה - הקמת ממשלת גיוס ציונית\". המעטפות הכפולות ייספרו הלילה",
-      "link": "https://www.walla.co.il/news/israel/383959283",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T19:16:11.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959283",
@@ -14439,6 +14439,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-27T05:51:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959283",
+      "title": "למעלה מ-91% מהקולות נספרו: כל העדכונים מתוצאות האמת",
+      "summary": "איזנקוט הבהיר: \"ממוקדים במשימה - הקמת ממשלת גיוס ציונית\". המעטפות הכפולות ייספרו הלילה",
+      "link": "https://www.walla.co.il/news/israel/383959283",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-27T05:50:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21715496",
@@ -34959,15 +34968,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-24T06:06:03.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873500",
-      "title": "\"זה דני אבדיה האמיתי\": האם פורטלנד מצאה את הנוסחה?",
-      "summary": "הישראלי הוביל את פורטלנד לניצחון נוסף, קלע 18 נקודות במחצית השנייה והזכיר מי בעל הבית: \"הוא המשיך לתקוף עד שההגנה נשברה\". האם נמצאה הנוסחה הנכונה?",
-      "link": "https://sports.walla.co.il/item/3873500",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-24T05:52:00.000Z"
     }
   ]
 }
