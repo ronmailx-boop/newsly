@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:30:55.259Z",
+  "updatedAt": "2026-10-30T12:45:41.687Z",
   "sources": [
     {
       "key": "ynet",
@@ -41,6 +41,33 @@
       "pubDate": "2026-10-31T09:05:00.000Z"
     },
     {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1383020",
+      "title": "\"יש כאן עייפות מנתניהו\": האכזבה הגדולה בוושינגטון אחרי הבחירות",
+      "summary": "למרות התמיכה הפומבית של טראמפ בנתניהו, גורמים בממשל ובקונגרס קיוו לניצחון האופוזיציה. לפי הטלגרף, המבוי הסתום בישראל מסכל את התקוות לשיקום היחסים",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1383020",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-30T12:44:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1j0ijgafx",
+      "title": "\"זירה מחרידה וכואבת\": 5 נרצחים בחברה הערבית - תוך 3 ימים",
+      "summary": "189 נרצחים מתחילת השנה בחברה הערבית: בעכו נרצחה צעירה באכזריות מזעזעת בידי ארוסה, תושב שכם שנמלט ונעצר על ידי המשטרה הפלסטינית. בריינה נרצח טארק בסול כששהה עם רעייתו ברכבם. בעראבה נורה למוות מטווח אפס מערוף כנעאנה, שהיה בדרך לעבודה. מוחמד רזייל נדרס בקטטה בכפר קרע. בטייבה נורה עלאא מנסי ג'באלי, אף שכנראה לא היה היעד: \"עבד יומם ולילה כדי לבנות בית\"",
+      "link": "https://www.ynet.co.il/news/article/r1j0ijgafx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-30T12:34:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/yeshiva-driver-arrested-road-3-military-police",
+      "title": "בחור ישיבה נעצר בדרכו מהישיבה לביתו; 35 בני תורה ישהו בשבת בכלא צבאי",
+      "summary": "בחור מישיבת רוממות הלב נעצר בדרך לנתיבות והוסגר למשטרה הצבאית • מפגינים חסמו את כביש 3 סמוך למושב בקוע | 35 בני תורה ישהו בשבת בכלא הצבאי | שני בחורי ישיבות שוחררו היום לבתיהם (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/yeshiva-driver-arrested-road-3-military-police",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-30T12:32:54.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21741593",
       "title": "זעם בבריטניה: השרה המוסלמית הסתירה נתונים הקשורים להגירה",
       "summary": "חברי הקבינט כועסים על שבאנה מחמוד לאחר שלא ציינה את ההשפעות הצפויות של תוכנית המק'לט החדשה שלה על שיעור חסרי הבית במדינה • השרה סירבה להתייחס לסוגייה או לתת מספרים מהימנים",
@@ -75,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T12:17:35.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383959476",
+      "title": "היה שלום, קפטן: כן, היית באמת ענק",
+      "summary": "זכיתי לעבוד עם אחד הכוכבים הגדולים בעולם, וגיליתי אדם מצחיק, רגיש וצנוע, שהצליח להפתיע אותי בכל פעם מחדש. משיחת הטלפון הראשונה שלנו ועד לרגע שבו ראיתי אותו פורץ בבכי מול מכתב מילד חולה סרטן",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383959476",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T12:14:30.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90061",
@@ -165,6 +201,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-30T11:39:34.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874313",
+      "title": "\"אי אפשר בלי דניאל פרץ\": סאות'המפטון מתאהבת ומתמכרת",
+      "summary": "השוער הישראלי נבחר לשחקן המצטיין של אוקטובר ב-Saints Marching: \"אי אפשר בלעדיו. הרכישה שלו בקיץ - עסקה מבריקה\"",
+      "link": "https://sports.walla.co.il/item/3874313",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T11:36:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/307-thousand-votes-wasted-election-analysis",
@@ -291,6 +336,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-30T11:03:03.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874302",
+      "title": "בלי קופים ובלי ביקורת: איטודיס שוב המלך של הפועל תל אביב",
+      "summary": "אחרי סיום העונה המאכזב, המאמן היווני הגיע עם בטן מלאה על התקשורת ולא מעט מה להוכיח. הפתיחה המרשימה ביורוליג השתיקה את המבקרים, אבל הדרבים הקרובים עשויים להחזיר את הלחץ ואת הלחשושים. מדור \"אבא של שבת\"",
+      "link": "https://sports.walla.co.il/item/3874302",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T11:00:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/missing-military-hummer-julis-base-investigation",
@@ -1218,6 +1272,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T07:30:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1382927",
+      "title": "טראמפ מדבר על סוף המלחמה עם איראן - וחושף את הדרישה האמריקאית",
+      "summary": "דונלד טראמפ ביטל שתי עצרות לקראת בחירות האמצע, וסגנו ג'יי די ואנס ביטל ביקור ברגע האחרון ללא הסבר. המתיחות עם איראן מעוררת שאלות, אך אין אישור לקשר בין הביטולים להיערכות צבאית",
+      "link": "https://www.maariv.co.il/news/world/article-1382927",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-30T07:28:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1382927",
@@ -35769,87 +35832,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T12:45:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s12vuuohfx",
-      "title": "טרגדיה בהלוויה: התיישב על קבר אביו, נפל פנימה – ומת",
-      "summary": "ברזיל: אדילסון מרסארו הגיע להשתתף בהלוויית חבר שנהרג בתאונה, וניצל את ההזדמנות לפקוד גם את קבר אביו. כשהתיישב על המצבה היא קרסה, הוא נפל פנימה – ונהרג. הרשויות מזהירות מתקריות דומות ב\"יום המתים\" המתקרב",
-      "link": "https://www.ynet.co.il/news/article/s12vuuohfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T12:45:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89117",
-      "title": "שני גברים נפצעו בתאונת דרכים בכביש 65",
-      "summary": "שני גברים נפצעו בתאונה בין שני כלי רכב פרטיים בכביש 65 ליד מחלף עירון. גבר כבן 36 נפצע באורח בינוני וגבר כבן 40 נפצע באורח קל. צוותי איחוד הצלה העניקו להם טיפול רפואי בזירה, ולאחר מכן שניהם פונו לבית חולים.",
-      "link": "https://www.kikar.co.il/scoop-news/89117",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T12:44:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89116",
-      "title": "אישה בת 40 נפצעה בינוני בתאונה בין שני רכבים בכביש 4312",
-      "summary": "אישה כבת 40 נפצעה היום (14:06) בתאונת דרכים בין שני כלי רכב בכביש 4312 סמוך לגן שורק. צוותי מד\"א העניקו לה טיפול במקום ופינו אותה לבית החולים שמיר-אסף הרופא במצב בינוני, כשהיא סובלת מחבלות בגפיים.",
-      "link": "https://www.kikar.co.il/scoop-news/89116",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T12:44:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89115",
-      "title": "אושר מינוי ועדת סל הבריאות לשנת 2027 בתקציב 650 מיליון שקלים",
-      "summary": "מונתה הוועדה הציבורית להרחבת סל שירותי הבריאות לשנת 2027, עם תקציב של 650 מיליון שקלים. הוועדה תבחן כמאות תרופות וטכנולוגיות רפואיות חדשות ותמליץ על הכללתן בסל בהתאם לשיקולים רפואיים, מקצועיים, חברתיים וכלכליים. שר הבריאות חיים כץ: \"מערכת בריאות ציבורית חזקה צריכה לאפשר לחולים לקבל טיפול רפואי מתקדם, ללא תלות ביכולתם הכלכלית\". את הוועדה תעמוד פרופ' דינה בן יהודה, מנהלת האגף ההמטולוגי בהדסה.",
-      "link": "https://www.kikar.co.il/scoop-news/89115",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T12:44:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/father-charged-infant-abuse-beersheba",
-      "title": "מזעזע: תינוקת בת חודש הורדמה והונשמה בגלל תקיפה של אביה הצעיר",
-      "summary": "כתב אישום חמור הוגש נגד אב מהדרום שתקף את בתו התינוקת • התינוקת אושפזה מורדמת ומונשמת עם שברים מרובים ודימומים פנימיים | פרטי המקרה המזעזע (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/law-and-order/father-charged-infant-abuse-beersheba",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T12:42:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21700498",
-      "title": "איבד את הארנק? האיש האלמוני שיושב על 90 מיליארד דולר ולא נוגע בהם",
-      "summary": "הוא הופיע די בסערה, המציא מחדש את הצורה שאנחנו חושבים על כסף, צבר הון עתק – ואז נעלם • מיהו סאטושי נאקמוטו, ממציא הביטקוין?",
-      "link": "https://www.israelhayom.co.il/business/article/21700498",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T12:41:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/syyb0iihgg",
-      "title": "מבצע טוהר הבחירות: איך מונעים זיופים בקלפי?",
-      "summary": "ממצלמות בחדר הספירה ועד פיקוח צולב של נציגים ממפלגות יריבות: ועדת הבחירות המרכזית תפעיל מערך בקרה רב-שכבתי שילווה את ההליך מרגע הזיהוי בקלפי ועד לבדיקות המשפטיות שאחרי סגירת הקלפיות. כך יוודאו שאף שלב לא תלוי באדם אחד בלבד",
-      "link": "https://www.ynet.co.il/news/elections2026/article/syyb0iihgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T12:39:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381104",
-      "title": "שליח וולט הוכה קשות בסביון: חודשיים אחרי - המאבטח של מוסלי נעצר",
-      "summary": "אדוארד רמזנוב, בן 38, ששימש כמאבטחו של מוסלי, חשוד בתקיפה האלימה של שליח וולט בסביון. לאחר שנמלט ונעצר בתום חיפושים שנמשכו כחודשיים, הוגשה נגדו הצהרת תובע לקראת כתב אישום חמור",
-      "link": "https://www.maariv.co.il/news/law/article-1381104",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T12:38:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-lando-italy-voting-ruling-families",
-      "title": "אחרי ההוראה המפתיעה של הגר\"ד לנדו: גם הנשים מרומא יגיעו להצביע | כך זה יעבוד",
-      "summary": "משפחות אברכים העוסקות בקירוב ברומא תהו כיצד עליהם לנהוג לקראת יום הבחירות בארץ • ראש הישיבה הגאון רבי דב לנדו השיב במכתב חד-משמעי בכתב ידו • בעקבותיו, ההצבעה של הגברים והנשים תפוצל, אך כולם יגיעו להצביע | כל הפרטים בפרסום ראשון (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/rabbi-lando-italy-voting-ruling-families",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T12:35:25.000Z"
     }
   ]
 }
