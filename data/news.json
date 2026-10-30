@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:01:00.872Z",
+  "updatedAt": "2026-10-30T10:15:48.057Z",
   "sources": [
     {
       "key": "ynet",
@@ -34,11 +34,29 @@
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383959410",
       "title": "אם ניצח, למה הוא רוצה לבטל את הבחירות? נתניהו יודע את האמת",
-      "summary": "נתניהו משנה כיוון מול המפלגות הערביות, החשדות למעורבות קטארית מעוררים סערה, והפגישה הגורלית בין איזנקוט לבנט נחשפת. למרות תוצאות הבחירות, אין מקום כמו ישראל",
+      "summary": "נתניהו משנה כיוון מול המפלגות הערביות, החשדות למעורבות קטארית מעוררים סערה, והפגישה הגורלית בין איזנקוט לבנט נחשפת. למרות הבחירות, אין כמו ישראל",
       "link": "https://www.walla.co.il/news/opinions/383959410",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T09:05:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959459",
+      "title": "מהפיראטים ועד שרשר המלך: 25 המפלגות שנשארו בחוץ",
+      "summary": "כ-309 אלף קולות ירדו לטמיון בבחירות האחרונות, והותירו שורה ארוכה של מפלגות מחוץ לכנסת. מהנדל וזליכה, דרך עופר וינטר ועד שרשר המלך ומפלגת הפיראטים: מי נשארו בחוץ, וכמה קולות הצליחו לגרוף?",
+      "link": "https://www.walla.co.il/news/politics/383959459",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T10:03:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1382974",
+      "title": "המפכ\"לית היהודייה מול ראש העיר המוסלמי: הקרב על ניו יורק מתחיל",
+      "summary": "סקר בקרב מצביעים יהודים בניו יורק מציב את מפכ\"לית משטרת ניו יורק ג'סיקה טיש על 44% מול 42% לראש העיר זוהרן ממדאני בתרחיש היפותטי. בקרב כלל הדמוקרטים התמונה שונה, וטיש טרם הודיעה על התמודדות",
+      "link": "https://www.maariv.co.il/news/world/article-1382974",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-30T10:01:01.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90044",
@@ -48,6 +66,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-30T10:00:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21741309",
+      "title": "החרדים מגששים אצל איזנקוט - אבל המסר מכוון לנתניהו",
+      "summary": "ביהדות התורה מקיימים מגעים לא רשמיים עם סביבת איזנקוט • למרות זאת, הסיכוי להצטרפות לגוש השינוי קלוש • הדרישה לפטור מלא מגיוס נותרה תנאי סף • המטרה: להבהיר לנתניהו שהחרדים אינם בכיסו ולשפר את עמדת המיקוח מולו",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21741309",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T09:59:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21741332",
+      "title": "מכבי תל אביב קופחה, עלי קמארה היה צריך להיות מורחק",
+      "summary": "הוועדה המקצועית של איגוד השופטים פרסמה כי השופט שניר לוי ושופט המסך אלי חכמון שגו בהחלטה לא להעניק פנדל לצהובים במחצית הראשונה של גמר גביע הטוטו • בנוסף, הם טעו באי הענקת כרטיס אדום לבלם במחצית השנייה",
+      "link": "https://www.israelhayom.co.il/sport/article/21741332",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T09:58:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21741278",
+      "title": "נינט טייב מבקשת: \"אל תעמוד בצד\"",
+      "summary": "הזמרת וגרושתו של המוזיקאי יוסי מזרחי פרסמה הבוקר טקסט פרי עטה בחשבונה ברשת החברתית אינסטגרם בו כתבה על הזמן לבחור בביחד. \"הדרך פתלתלה\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21741278",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T09:54:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/article/21736693",
+      "title": "פרידה בשטח: אפריקה מתפרקת – ולא בגלל פוליטיקה",
+      "summary": "המדינות המזרחיות ביבשת הגדולה בעולם הולכות ומתרחקות משכנותיהן • זה לא תיאור של סכסוך פוליטי, אלא של מגמה גיאו-פיזיקלית • מדענים מאמינים שבעוד כמה מיליוני שנים אפריקה עשויה להתחלק לשניים",
+      "link": "https://www.israelhayom.co.il/tech/article/21736693",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T09:46:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/polymarket-investigation-suspicious-betting-israel",
@@ -36480,186 +36534,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T10:16:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21700307",
-      "title": "יכלו להביא מהפך: 5 מפלגות שחבל שלא מתמודדות בבחירות 2026",
-      "summary": "המפלגה שתקים מיזם נדל\"ן באי שבכנרת • זו שתסיג את כוחות תל אביב ותקדם סיפוח לרמת גן • זו שתחייב ח\"כים להתחפש • זו שתחליט רק לפי תחושות בטן • וזו שתפעל לביטול ההווה והעתיד • 5 מפלגות שהיינו שמחים להצביע להן בשלישי",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21700307",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:13:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "title": "\"ראיתי אותן שוחות בכל הכוח לכיווני - לא האמנתי למה שהעיניים שלי רואות\"",
-      "summary": "טמפרטורת מים שנושקת לאפס מעלות, שמיים שרוקדים בירוק ומפגש פנים מול פנים עם להקת אורקות בשיא הציד • אורי לירון נסע לעיר הצפונית טרומסו וחזר עם תיעוד של אחד מפלאי הטבע הפראיים בעולם: \"הייתי מוקף בעשרות לווייתנים\"",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:11:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "title": "\"לא האמנתי למה שהעיניים שלי רואות, וזה אפילו לא היה שיא הטיול\"",
-      "summary": "אורי לירון נסע ללפלנד כדי לתפוס את הרגע שבו הזוהר הצפוני צובע את השמיים, לחזות בנופי הפיורדים ולשחות במים הקפואים לצד אורקות שצדות להקות הרינג • \"אי אפשר להסביר את ההרגשה כשרואים את השמיים משתוללים\"",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:11:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "title": "\"אי אפשר להסביר את ההרגשה כשרואים את השמיים משתוללים\"",
-      "summary": "אורי לירון נסע ללפלנד כדי לתפוס את הרגע שבו הזוהר הצפוני צובע את השמיים, לחזות בנופי הפיורדים ולשחות במים הקפואים לצד אורקות שצדות להקות הרינג • \"יצאתי מהרכב ולא האמנתי למה שהעיניים שלי רואות\"",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:11:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "title": "\"יצאתי מהרכב ולא האמנתי למה שהעיניים שלי רואות\"",
-      "summary": "אורי לירון נסע ללפלנד כדי לתפוס את הרגע שבו הזוהר הצפוני צובע את השמיים, לחזות בנופי הפיורדים ולשחות במים הקפואים לצד אורקות שצדות להקות הרינג • \"לעמוד באמצע יער חשוך ולראות את השמיים משתוללים בצבעים ירוקים שנראים כאילו מישהו מצייר בטוש\"",
-      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21701182",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:11:33.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958798",
-      "title": "הפצת תמונת האטום | איזנקוט: \"נתניהו, אתה בהיסטריה\"",
-      "summary": "ראש הממשלה שיתף ברשת X טקסט המזהיר מפני האיום הגרעיני האיראני, לצד המחשה של פיצוץ אטומי בישראל. בפרסום נטען כי העיסוק בפרשות קטאר, אוריך והגיוס נועד להסיט את תשומת הלב מהסכנה: \"הכל מסך עשן ענקי\"",
-      "link": "https://www.walla.co.il/news/politics/383958798",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-25T10:10:22.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958798",
-      "title": "נתניהו הפיץ תמונה של פצצת אטום על ישראל; \"הוא איבד את זה\"",
-      "summary": "ראש הממשלה שיתף ברשת X טקסט המזהיר מפני האיום הגרעיני האיראני, לצד המחשה של פיצוץ אטומי בישראל. בפרסום נטען כי העיסוק בפרשות קטאר, אוריך והגיוס נועד להסיט את תשומת הלב מהסכנה: \"הכל מסך עשן ענקי\"",
-      "link": "https://www.walla.co.il/news/politics/383958798",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-25T10:10:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skhddhjhmg",
-      "title": "מצד סבתא של הנאשם: המשטרה חוקרת איומים על אימו של בניהו רזי",
-      "summary": "פרסום ראשון: דקלה רזי התלוננה כי עדנה לוי, סבתו של אביאור ששון ואימה של לינור ששון, מכפישה ומטרידה אותה. לפני שבוע קבע בית המשפט המחוזי כי אין ראיות המבססות אישום ברצח נגד בת זוגו לשעבר של בניהו, אגם צרפי, ונגד שילת חוטה",
-      "link": "https://www.ynet.co.il/news/article/skhddhjhmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:09:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89078",
-      "title": "צעיר בן 19 נפצע בינוני בתאונת אופניים סמוך למצפה עוז",
-      "summary": "צעיר בן 19 נפצע הבוקר (10:50) במהלך רכיבה על אופניים בשטח פתוח סמוך למצפה עוז. צוותי מד\"א העניקו לו טיפול במקום ופינו אותו לבית החולים זיו במצב בינוני, כשהוא סובל מחבלת ראש.",
-      "link": "https://www.kikar.co.il/scoop-news/89078",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:08:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89077",
-      "title": "המפכ\"ל נכנס לפגישה עם נתניהו ובן גביר",
-      "summary": "מפכ\"ל המשטרה נכנס לפגישה עם ראש הממשלה בנימין נתניהו ושר הביטחון הלאומי איתמר בן גביר, לאחר הסערה שפרצה.",
-      "link": "https://www.kikar.co.il/scoop-news/89077",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:08:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tngdw2",
-      "title": "לא רק הצבעת מחאה בקלפי: פלגים קיצוניים יוזמים שיבוש של הכבישים המרכזיים במהלך יום הבחירות",
-      "summary": "לצד הניסיונות להצבעות מחאה בבחירות באמצעות מפלגות שלא יעברו את אחוז החסימה, גורמים קיצוניים מתכננים לקיים הפגנות סוערות וחסימות של עורקי תנועה מרכזיים ברחבי הארץ, במחאה על מעצרם של תלמידי הישיבות • כל הפרטים (חדשות, חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tngdw2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:07:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hy004bohgg",
-      "title": "בת זוגו של רון שנהרג בפיגוע: \"היינו צמד, אהבה טהורה. איך מתעוררים בלעדיך?\"",
-      "summary": "מאות רבות ליוו למנוחות באשקלון את סמ\"ר רון יונתן רויטמן, לוחם חטיבת החילוץ בן ה-23 שנפל בפיגוע הירי ליד חברון. אביו ספד לו ברוסית: \"אני מאוד אוהב אותך, בן קטן שלי\", ואחותו נפרדה: \"ניסיתי להתקשר ולא ענית\". בת זוגו אלה סיפרה על אהבתם: \"הפך מהחבר הכי טוב שלי לבן הזוג הכי טוב שיכולתי לבקש\"",
-      "link": "https://www.ynet.co.il/news/article/hy004bohgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:07:25.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hy004bohgg",
-      "title": "בת זוגו של רון יונתן רויטמן: \"היינו צמד, אהבה טהורה. איך מתעוררים בלעדיך?\"",
-      "summary": "מאות רבות ליוו למנוחות באשקלון את לוחם חטיבת החילוץ בן ה-23, שנפל בפיגוע הירי ליד חברון. אביו ספד לו ברוסית: \"אני מאוד אוהב אותך, בן קטן שלי\", ואחותו נפרדה בכאב: \"ניסיתי להתקשר ולא ענית\". בת זוגו אלה סיפרה על אהבתם: \"הפך מהחבר הכי טוב שלי לבן הזוג הכי טוב שיכולתי לבקש\"",
-      "link": "https://www.ynet.co.il/news/article/hy004bohgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:07:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-winter-lieberman-conspiracy-election",
-      "title": "נתניהו זועם: \"וינטר וליברמן סגורים זה עם זה - התוכנית שלהם למנוע ממשלת ימין\"",
-      "summary": "ראש הממשלה פרסם סרטון חריף נגד וינטר וליברמן • \"הם תוקפים זה את זה למראית עין, אבל בעצם סגורים\" | \"התוכנית: לכפות ממשלה שליברמן ראש הממשלה ווינטר שר הביטחון\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-winter-lieberman-conspiracy-election",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:05:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21701489",
-      "title": "קייט מידלטון עושה חורף - זו התוצאה",
-      "summary": "עם גזרה מחויטת וצבע עמוק שמציע אלטרנטיבה לשחור ולאפור, הנסיכה מספקת השראה ללוק החורפי הבא שלנו",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21701489",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:05:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyuflbjhmg",
-      "title": "באווירת הבחירות: שינויי הממשלות שנרשמו במדינות ערב סביבנו",
-      "summary": "כמעט כל ראשי הממשלות סביבנו התחלפו בשלוש שנות המלחמה האחרונות. מי נשאר בתפקיד?",
-      "link": "https://www.ynet.co.il/news/article/hyuflbjhmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:03:47.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyuflbjhmg",
-      "title": "לפני שאנחנו נבחר: אלה ראשי הממשלה של מדינות ערב",
-      "summary": "בלבנון הבטיח נואף סלאם לאסוף את הנשק מחיזבאללה, במצרים קרוב מדבולי לסגור עשור - ובסוריה התפקיד כלל לא מאויש. מבט למנהיגים של השכנות",
-      "link": "https://www.ynet.co.il/news/article/hyuflbjhmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:03:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1381019",
-      "title": "\"אתה שד משחת אתה, זה נכון\": ברק סרי הפתיע את אלמוג כהן בשידור חי",
-      "summary": "סגן השר אלמוג כהן, שעזב את מפלגתו של בן גביר בטונים צורמים והצטרף לליכוד, הצהיר בראיון לרדיו 103fm כי הוא מעוניין בתפקיד השר לביטחון פנים בממשלה הבאה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1381019",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T10:02:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21699162",
-      "title": "יותר מ-6,800 קישורים: הסטארטאפ הישראלי שהפילו את מניית מטא",
-      "summary": "מחקר ישראלי של חברת הסייבר Claroc היכה גלים בארה\"ב: כשל אבטחה בסוכן ה-AI החדש של מטא, ה-Muse, חשף לכל דורש אלפי מסמכים עסקיים, נתונים פיננסיים חסויים וכתובות מגורים • וכל זה - ללא צורך בפריצה או סיסמה • הגילוי הוביל להשבתת השיתוף, צניחה במניה ותיקון חירום של ענקית הטק",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21699162",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:01:07.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381022",
-      "title": "פרו-מערבי מול אוהדת הקרמלין: הקרב על הנשיאות בבולגריה",
-      "summary": "אזרחי בולגריה מצביעים בבחירות לנשיאות, על רקע התפשטות המלחמה של רוסיה באוקראינה והגעתה לחופי הים השחור במדינה. המועמדים הם ראש הממשלה הזמני הפרו-מערבי וסגנית הנשיא, שנתמכת ע\"י מי שנחשב לאוהד הקרמלין",
-      "link": "https://www.maariv.co.il/news/world/article-1381022",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T10:01:05.000Z"
     }
   ]
 }
