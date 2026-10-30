@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:30:54.463Z",
+  "updatedAt": "2026-10-30T10:45:52.066Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T09:05:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1382989",
+      "title": "הגיעה השעה לחשבון נפש | זכי שלום",
+      "summary": "ישראל ידעה תמיד שהזמן פועל לרעתה במלחמות, אך מאז 7 באוקטובר נדחק הלקח הזה לשוליים. חרף ההישגים בעזה, בלבנון ובאיראן, ההכרעה נותרה רחוקה, התלות בארה\"ב גברה - והמחיר האסטרטגי ממשיך להצטבר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1382989",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-30T10:31:40.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383959463",
+      "title": "החשוד ברצח הצעירה גופתה בותרה בעכו הודה באשמה | פרטים חדשים",
+      "summary": "המשטרה הפלסטינית הודיעה כי פענחה את רצח הצעירה בת ה-21 משכם, כשלפי הודעת המשטרה, החשוד אותר ונעצר במסגרת חקירה יזומה, ובחקירתו הודה בביצוע הרצח וחשף פרטים חדשים על המקרה",
+      "link": "https://www.walla.co.il/news/law/383959463",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T10:30:07.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90049",
@@ -124,7 +142,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21741180",
       "title": "משילות? לא אצלנו: מופע הפרידה של אוהדי הכדורגל מאיתמר בן גביר",
-      "summary": "השר לביטחון פנים חתום על התבוסה הגדולה של המשטרה בהתמודדות עם האולטראס, ומסיים את הקדנציה עם \"המשחק היקר בהיסטוריה\", שהפך למופקר אי פעם • וגם: רוני לוי מתחמק ומתעלם מאחריות",
+      "summary": "השר לביטחון פנים חתום על התבוסה הגדולה של המשטרה בהתמודדות עם האולטראס ומסיים את הקדנציה עם \"המשחק היקר בהיסטוריה\", שהפך למופקר מכל כיוון • וגם: רוני לוי מתחמק ומתעלם מאחריות",
       "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21741180",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -150,12 +168,30 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959459",
+      "title": "309 אלף קולות לפח: 25 מפלגות נשארו מחוץ לכנסת",
+      "summary": "כ-309 אלף קולות ירדו לטמיון בבחירות האחרונות, והותירו שורה ארוכה של מפלגות מחוץ לכנסת. מהנדל וזליכה, דרך עופר וינטר ועד שרשר המלך ומפלגת הפיראטים: מי נשארו בחוץ, וכמה קולות הצליחו לגרוף?",
+      "link": "https://www.walla.co.il/news/politics/383959459",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T10:03:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959459",
       "title": "מהפיראטים ועד שרשר המלך: 25 המפלגות שנשארו בחוץ",
       "summary": "כ-309 אלף קולות ירדו לטמיון בבחירות האחרונות, והותירו שורה ארוכה של מפלגות מחוץ לכנסת. מהנדל וזליכה, דרך עופר וינטר ועד שרשר המלך ומפלגת הפיראטים: מי נשארו בחוץ, וכמה קולות הצליחו לגרוף?",
       "link": "https://www.walla.co.il/news/politics/383959459",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-30T10:03:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21741318",
+      "title": "אמו של אבינתן אור: \"יש אזורים במדינה שבהם מותר לצוד יהודים בלי חשבון\"",
+      "summary": "אמונה אור, אחותו של שורד השבי, נפצעה קשה בתאונה בכפר לובן לאחר שאבן גדולה פגעה ברכבה • אמה, דיצה, מותחת ביקורת על התקשורת ועל מערכת הביטחון: \"אף אחד לא אמר שהתאונה נגרמה אחרי שהרכב כבר נפגע מאבנים\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21741318",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T10:01:10.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21741318",
@@ -36399,132 +36435,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-25T10:46:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-israel/tax-authority-vehicle-sector-2025-record-registrat",
-      "title": "רשות המסים בנתונים מפתיעים: נשבר השיא ברישום רכבים חדשים",
-      "summary": "למרות ירידה של 25% ביבוא, נרשם שיא של 290 אלף רכבי נוסעים לתנועה • רכבים חשמליים מסין השתלטו על השוק | הרקע להקדמות היבוא בדצמבר 2024 (כלכלה בארץ)",
-      "link": "https://www.kikar.co.il/economy-israel/tax-authority-vehicle-sector-2025-record-registrat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:42:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21701838",
-      "title": "המחסור בעובדים מעכב את הבנייה - והחשש מעליית מחירי הדיור",
-      "summary": "מנכ\"ל משרד הבינוי והשיכון יהודה מורגנשטרן פנה לממלאת מקום מנכ\"לית משרד ראש הממשלה בבקשה להוסיף 20 אלף עובדים במסלול הפרטי • במשרד מזהירים כי המחסור בכוח אדם מאריך את משך הבנייה ומייקר את העלויות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21701838",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:42:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21701990",
-      "title": "חשד לרצח ביפיע: גבר כבן 25 נורה למוות לאור יום",
-      "summary": "גבר כבן 25 נורה למוות בשעות הצהריים במועצה המקומית יפיע • צוותי מד\"א שהוזעקו לזירה איתרו אותו מחוסר הכרה עם פציעות חודרות, ונאלצו לקבוע את מותו במקום • המשטרה פתחה בחקירה בחשד לרקע פלילי ועורכת סריקות לאיתור המעורבים בירי",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21701990",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:41:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21701242",
-      "title": "דרגה גבוהה של אלימות וגועל: לא ברור מה הביא את DC לעשות את הסרט הזה",
-      "summary": "\"קלייפייס\", סרט אימת הגוף החדש מבית האולפנים המפורסמים, מציג חוויה מבלבלת, מגעילה וחסרת מעוף • הוא סביר, אך הצפייה בו לא מהנה בשום צורה ומעוררת דאגה לגבי עתיד היקום הקולנועי",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21701242",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:40:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/finance-committee-approves-budget-changes-educatio",
-      "title": "יומיים לפני הבחירות: ועדת הכספים אישרה מיליארדים לחינוך ותיירות | הפרטים",
-      "summary": "500 מיליון ש\"ח למשרד החינוך • 95 מיליון ש\"ח למשרד התיירות | זה מה שעבר היום בוועדת הכספים, היו\"ר של הוועדה חנוך מילביצקי נפרד מהוועדה לאחר שנה בתפקיד (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/finance-committee-approves-budget-changes-educatio",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:40:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1381041",
-      "title": "\"הפעם יכולת יותר - יכולת לא למות\": רון יונתן רויטמן ז\"ל שנהרג בפיגוע הובא למנוחות",
-      "summary": "רון יונתן רויטמן ז\"ל, שנהרג בפיגוע בחברון, הובא למנוחות באשקלון. אחיו נזכר בשיחה על האפשרות ליפול, אחותו סיפרה על השיחה שלא נענתה, ובת זוגו שיתפה בפחד שליווה אותה מתחילת הקשר",
-      "link": "https://www.maariv.co.il/news/israel/article-1381041",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T10:39:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bjo8chs3fl",
-      "title": "הבמאי והיוצר עופר וינטר הכריז בצחוק \"אני פורש\" - ונחסם מכל הרשתות",
-      "summary": "עופר וינטר מכפר אדומים, שאינו עומד בראש מפלגת \"עמך ישראל\", החליט להשתעשע - ונחסם מפייסבוק ומטיקטוק. \"נכון, זה מבלבל כי שנינו זכרי אלפא עם קול עמוק, אבל אני לא הוא\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bjo8chs3fl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T10:37:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21700759",
-      "title": "אחרי 7 שנים: הפיצרייה האהובה נסגרה בלי הודעה מוקדמת",
-      "summary": "פאצה פיצה בר, שפעלה מאז 2019 בפינת הרחובות כצנלסון והמלבן בגבעתיים, הפסיקה את פעילותה והותירה לקוחות רבים מופתעים ומאוכזבים • ברשתות החברתיות התפתח דיון על נסיבות הסגירה, אבל בעלי המקום מבהירים: \"יצאנו להפסקה. ניפגש בקרוב\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21700759",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:37:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21701852",
-      "title": "חשבוניות פקטיביות בסך כ-6 מיליון שקלים: מנכ\"ל חברת הטכנולוגיה ייכנס לכלא",
-      "summary": "אבנר אלוק, בעלי חברת סגיב טכנולוגיות מיגון אש בע\"מ, הורשע בכך שבשנים 2012-2015 החברה שבבעלותו קיבלה 139 חשבוניות פיקטיביות מחמש חברות שונות, כללה אותן בדוחותיה וניכתה את מס התשומות שלא כדין • בכתב האישום נטען כי אלוק ניסה להסוות את חלקו בביצוע העבירות ע\"י מינוי גורמים שונים כמנהלים בחברה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21701852",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:37:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21701821",
-      "title": "אחרי ההדחה מ\"הישרדות\", יוכי אפוליאון נגד אבי שושן: ״אל תשכח״",
-      "summary": "סערה בעקבות פרק הבכורה של \"הישרדות\": אחותה של חיה אפוליאון שהודחה ראשונה תוקפת את פאנליסט \"הפטריוטים\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21701821",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:35:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/tzeva-shahor-new-video-draft-crisis-message",
-      "title": "\"50%. זה אתה או הבן שלך\": הסרטון החדש של 'צבע שחור' שמעורר שאלות",
-      "summary": "מפלגת 'צבע שחור' משיקה סרטון חדש על המבוי הסתום בסוגיית הגיוס • יו\"ר המפלגה יעקב חיים מילר: \"אין להם פתרון לתורתו אומנותו. נרוץ עד הסוף ותמצאו אותנו בקלפי\" (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim/tzeva-shahor-new-video-draft-crisis-message",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T10:35:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21700440",
-      "title": "30 שנה אחרי: כל מה שרציתם לדעת על \"טומב ריידר\"",
-      "summary": "הסרטים בהם אנג'לינה ג'ולי מגלמת את הארכיאולוגית הלוהטת לארה קרופט התחילו כמשחקי מחשב, שמציינים היום שלושה עשורים לצאתם • מההפיכה לסמל מין, דרך האלבום ועד הקוד הסודי השקרי - קבלו 12 עובדות מפתיעות על התופעה",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21700440",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:34:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21700888",
-      "title": "11 וחצי חודשים אחרי החתונה: אמה של נועה קירל רומזת",
-      "summary": "אילנה קירל שמה על השולחן בפוסט את הציפיות שלה להפוך לסבתא, תוך שהיא לא שוכחת לתייג את בתה נועה. הזמרת מיהרה להגיב לאמה, וכך גם דניאל פרץ שענה לחמותו",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21700888",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:32:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21701297",
-      "title": "המעבר של קאדין קרינגטון להפועל תל אביב השתבש - ולא רק הוא אשם",
-      "summary": "הגארד המתאזרח לא קרא נכון את המפה, והפך ממנהיג בבירה לשחקן משלים שמתקשה למצוא את מקומו בבית החדש • ביורוליג הוא כמעט ולא נספר, וגם בליגת העל דימיטריס איטודיס לא נותן לו יותר מדי הזדמנויות • הערב מול האקסית הוא ינסה לצאת לדרך חדשה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21701297",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T10:31:12.000Z"
     }
   ]
 }
