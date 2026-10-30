@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:15:53.521Z",
+  "updatedAt": "2026-10-30T00:30:55.012Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyqjuizage",
+      "title": "\"ממדאני של LA\" בדרך לראשות העיר - אך דווקא הסוציאליסטים עומדים בדרכה",
+      "summary": "5 ימים לבחירות, ניתיה ראמאן נאבקת לא רק בראש העיר המכהנת אלא גם בתנועה שהעלתה אותה לשלטון: למרות שהאשימה את ישראל ברצח עם, הסוציאליסטים מאיימים לשלול את התמיכה אם לא תאמץ חרם במפורש. בפלורידה אנג'י ניקסון, שגם כן יצאה נגד ישראל, בנחיתות מול הרפובליקנית. אובמה וסנדרס כבר התגייסו",
+      "link": "https://www.ynet.co.il/news/article/hyqjuizage",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-30T00:15:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21740040",
+      "title": "דיווח: הגנרל האמריקני הודה בהדלפת מידע מסווג על איראן - והודח",
+      "summary": "לפי דיווח ב\"אקסיוס\", המתכנן הצבאי הבכיר בפנטגון הודה בהעברת מידע מסווג על איראן ואוקראינה לשני עיתונאים במשך כשנה • ההודאה תועדה בווידאו לאחר שנכשל בארבע בדיקות פוליגרף • בדוח החקירה נחשפו פגישות חשאיות, התכתבויות שנמחקו ומאבק סביב הדחתו",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21740040",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T00:02:12.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21740015",
       "title": "שרדה שתי מנות רעל - וחזרה לכלא: פרטים חדשים על ניסיון ההוצאה להורג שהשתבש",
@@ -1713,6 +1731,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-29T16:05:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1382764",
+      "title": "ירדן הביעה צער - אבל בסוריה דורשים תשובות על ההפצצה",
+      "summary": "לאחר התקיפה הירדנית בסוריה, שבה נהרגו שבעה אזרחים ונפצעו נוספים, הודיע שר החוץ הסורי כי ועדה משותפת תבחן את נסיבות האירוע. בינתיים, המגעים הדיפלומטיים בין המדינות נמשכים בניסיון להרגיע את המשבר",
+      "link": "https://www.maariv.co.il/news/world/article-1382764",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-29T16:05:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1382764",
@@ -37821,15 +37848,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T00:40:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21698770",
-      "title": "מחקר על 50 מיליון אשפוזים: מה קרה ללב של האמריקנים אחרי שהקנאביס הפך לחוקי",
-      "summary": "במדינות שהתירו קנאביס לשימוש פנאי עלה מספר האשפוזים בגלל התקפי לב ואי ספיקת לב מדי שנה • זה לא מוכיח שהקנאביס הוא הגורם, אבל החוקרים מבקשים לשים לב",
-      "link": "https://www.israelhayom.co.il/health/article/21698770",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T00:23:19.000Z"
     }
   ]
 }
