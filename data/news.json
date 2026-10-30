@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T21:15:45.097Z",
+  "updatedAt": "2026-10-30T21:30:52.519Z",
   "sources": [
     {
       "key": "ynet",
@@ -561,6 +561,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-30T16:04:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1383049",
+      "title": "לאחר שבוע בלבד: צה\"ל הרס את בתי המחבלים מההיתקלות בצומת יהודה",
+      "summary": "שבוע בלבד לאחר הפיגוע בצומת יהודה, שבו נפלו סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל ונפצעו שלושה לוחמים נוספים, צה\"ל הרס את בתי שני המחבלים שחוסלו, בפרק זמן תקדימי",
+      "link": "https://www.maariv.co.il/news/military/article-1383049",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-30T16:02:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1383049",
@@ -33735,168 +33744,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T21:32:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21628992",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "חבל שמפלס הביטחון העצמי שלכם מושפע כל כך מאירועים חיצוניים וממה שאנשים אחרים אומרים לכם. ירידה זאת גורמת לכם להתמודד בדרך פחות יעילה פחות",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21628992",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21628993",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "הבעיה היא שאתם מרימים ידיים עוד לפני שניסיתם. צפויות לכם לא מעט הזדמנויות להכיר אנשים חדשים המתאימים לפתח מערכת רומנטית אבל אם תדחו אותם על הסף, לעולם לא תדעו",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21628993",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21629034",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "אתם מרגישים צורך לגוון ולהתרחק מכל דבר שהוא שבלוני ונוטה לאפרוריות. מצב הרוח סוער ואתם בעצמכם לא בטוחים מה יכול להרגיע אתכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21629034",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21629035",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "צו השעה הוא לגלות פשרנות וזרימה. לחצים במקום העבודה דורשים מכם להתעלות על עצמכם ולוותר",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21629035",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21629036",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "יום נחמד. יש לכם הרגשה שיש על מי להישען ושאתם לא לבד",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21629036",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21628819",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "תוכלו להפיק תועלת רבה ממפגשים בהם תתבלטו ותפגינו אקטיביות. גילוי המנהיגות והכושר המילולי המרשים יעזור להזיז עניינים שאחרים נכשלו בהם",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21628819",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21628820",
-      "title": "מזל שור, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "יום מצוין. מחשבות מקוריות ומבריקות עולות אל פני השטח",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21628820",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21628821",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "תופעה קוסמית עלולה להכניס אתכם ללחץ ונראה שאתם משתמשים בכול מיני טכניקות מתוחכמות ותירוצים שאף אחד לא קונה. לא פלא שהתוצאות אינן משביעות רצון",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21628821",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21628909",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "הזמנתם וקיבלתם ולכן לא פלא שצפוי יום מאתגר. תקלות טכניות עלולות לשבש חלק מתוכניותיכם ליום הזה",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21628909",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21628910",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "תפסיקו לנתח את המצב ונסו להבין את עצמכם לעומק. החולשה שלכם היא גם העוצמה שלכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21628910",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21628911",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "צפויים שינויים בתחום הביתי. נראה שכמה דברים יצאו מכלל פעולה ואולי תדרשו לקחת יום חופש כדי לטפל בכל התקלות",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21628911",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21628991",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 26.10.2026",
-      "summary": "יום מוצלח במיוחד. יש לכם מצב רוח טוב ואתם מרגישים מעולה מבחינה פיסית",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21628991",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:30:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381292",
-      "title": "המשטרה נערכת לבחירות - אבל החשש הגדול מתחיל דווקא בשעה 22:00",
-      "summary": "על רקע עיכוב העברת כ-350 מיליון שקל לתקציב המשטרה, המפכ\"ל מאיים לעתור לבג\"ץ ודורש להעביר את הכספים. במקביל, נמשך העימות עם השר בן גביר סביב המינויים הבכירים בארגון והקיפאון באיוש תפקידי פיקוד",
-      "link": "https://www.maariv.co.il/news/law/article-1381292",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T21:26:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381292",
-      "title": "\"אין לי שום כוונה לוותר על שקל\": המסר החריף של מהמשטרה לבן גביר",
-      "summary": "על רקע עיכוב העברת כ-350 מיליון שקל לתקציב המשטרה, המפכ\"ל מאיים לעתור לבג\"ץ ודורש להעביר את הכספים. במקביל, נמשך העימות עם השר בן גביר סביב המינויים הבכירים בארגון והקיפאון באיוש תפקידי פיקוד",
-      "link": "https://www.maariv.co.il/news/law/article-1381292",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T21:26:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381292",
-      "title": "\"אין לי שום כוונה לוותר על שקל\": המסר החריף של המפכ\"ל לבן גביר",
-      "summary": "על רקע עיכוב העברת כ-350 מיליון שקל לתקציב המשטרה, המפכ\"ל מאיים לעתור לבג\"ץ ודורש להעביר את הכספים. במקביל, נמשך העימות עם השר בן גביר סביב המינויים הבכירים בארגון והקיפאון באיוש תפקידי פיקוד",
-      "link": "https://www.maariv.co.il/news/law/article-1381292",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T21:26:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381293",
-      "title": "מהפך היסטורי בסרביה: ווצ'יץ' הודה בתבוסה, תנועת הסטודנטים בדרך לשלטון",
-      "summary": "לאחר 14 שנות שלטון מפלגתו, אלכסנדר ווצ'יץ' הודה בהפסד בבחירות לפרלמנט בסרביה. לפי המדגמים, תנועת מחאת הסטודנטים בדרך לרוב מוחלט בפרלמנט, ותומכיה כבר חוגגים ברחובות בלגרד",
-      "link": "https://www.maariv.co.il/news/world/article-1381293",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T21:22:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381293",
-      "title": "14 שנות שלטון בדרך לסיום: הסטודנטים מחוללים מהפך בסרביה",
-      "summary": "לאחר 14 שנות שלטון מפלגתו, אלכסנדר ווצ'יץ' הודה בהפסד בבחירות לפרלמנט בסרביה. לפי המדגמים, תנועת מחאת הסטודנטים בדרך לרוב מוחלט בפרלמנט, ותומכיה כבר חוגגים ברחובות בלגרד",
-      "link": "https://www.maariv.co.il/news/world/article-1381293",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T21:22:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21706918",
-      "title": "מי באמת שורף את קולות הימין?",
-      "summary": "הימין צריך לסייע לווינטר, לא להחליש אותו • מצביעיו לא ייתנו את קולם למפלגה שתיתן לחרדים את מבוקשם, והם מחפשים בית פוליטי אחר - זו הדרך לממשלה • דווקא הקמפיין שנועד למנוע בזבוז קולות עלול לדחוק את וינטר אל מתחת לאחוז החסימה ולסכל את הקמתה של ממשלת ימין",
-      "link": "https://www.israelhayom.co.il/opinions/article/21706918",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T21:17:48.000Z"
     }
   ]
 }
