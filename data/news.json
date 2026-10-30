@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:15:49.168Z",
+  "updatedAt": "2026-10-30T16:30:51.665Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,42 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T12:40:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959502",
+      "title": "המשטרה בלונדון איימה במעצרים בהפגנת הענק מול שגרירות ארה״ב",
+      "summary": "המשטרה הבריטית הזהירה כי כל מפגין שיביע תמיכה בארגון \"פלסטיין אקשן\" יסתכן במעצר מידי בעוון עבירות טרור. המארגנים מצידם מבהירים כי אין בכוונתם להירתע, ומאשימים את השלטונות בריצוי טראמפ וחברות ישראליות",
+      "link": "https://www.walla.co.il/news/world/383959502",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T16:19:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21742611",
+      "title": "טרגדיה ברהט: פעוט כבן שנתיים נשכח במשך שעות ברכב - ומת",
+      "summary": "בני המשפחה חיפשו אחר הפעוט עד שאותר מחוסר הכרה והוכנס לביתו • צוותי מד״א שהוזעקו למקום הבחינו בסימני מכת חום וביצעו פעולות החייאה, אך לבסוף נאלצו לקבוע את מותו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21742611",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T16:14:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21742569",
+      "title": "\"הסרטן ייעלם תוך 5 שנים\": הנבואה הפרועה של מייסד אורקל",
+      "summary": "הצהרה מנותקת או חזון פורץ דרך? לארי אליסון הדהים את באי כנס החברה בלאס וגאס כשהבטיח שבינה מלאכותית תמגר את רוב סוגי הסרטן בתוך עשור ותחליף מנתחים ברובוטים מושלמים • אלא שמאחורי הנבואות על מס רובוטים והכנסה אוניברסלית, מסתתר קרב הישרדות עסקי של מיליארדים",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21742569",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T16:12:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21742634",
+      "title": "לפני אגדת מועדון: אוהדי סאות'המפטון בחרו בדניאל פרץ",
+      "summary": "באתר האוהדים של הקבוצה בחרו בשוער הישראלי למצטיין חודש אוקטובר, אחרי שהקדים גם את ג'יימס וורד-פראוס: \"השחקן שאפשר לסמוך עליו יותר מכולם\" • המספרים המרשימים וההצלה הדרמטית מול ווסטהאם מסבירים את הבחירה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21742634",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T16:11:29.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjlk11fgpgg",
@@ -147,6 +183,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-30T15:45:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
+      "title": "חי מהיורוליג: דובאי - הפועל תל אביב 7:9",
+      "summary": "אחרי הניצחון המרשים על אנאדולו אפס שהיה גם הרביעי ברציפות במפעל, השבוע הכפול של האדומים נמשך עם מפגש קשה במיוחד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T15:44:27.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
@@ -300,6 +345,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T14:52:56.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ryuqquunzg",
+      "title": "\"אנסו אותי. אם אתלונן, יזרקו אותי מהמכון ליווי\" | כך נשמעות השיחות בקו לנשים בזנות",
+      "summary": "יש כאן הייטקיסטיות, מורות, עורכות דין, סבתות וצעירות - וההוראה שהן קיבלו פשוטה: אל תהיו גיבורות-על, רק תעניקו אוזן קשבת לנשים הבודדות ביותר בחברה. הצצה נדירה לשיחות הקשות שהן מקבלות, ולמה דווקא לשמוע מהצד השני של הקו \"לא\" - ואפילו ניתוק בפרצוף - נחשב מבחינתן להישג?",
+      "link": "https://www.ynet.co.il/news/article/ryuqquunzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-30T14:51:51.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ryuqquunzg",
@@ -34761,150 +34815,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-25T16:37:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21705055",
-      "title": "הקריפטו לא יציל את ישראל מסנקציות: \"זו תהיה מכה אנושה לכלכלה\"",
-      "summary": "על רקע דבריו של ראש הממשלה בנימין נתניהו על האפשרות להסתייע במטבעות דיגיטליים כדי להתמודד עם סנקציות, מזהיר אילן שטרק, מנכ\"ל הוריזון מקבוצת אלטשולר שחם כי הבלוקצ’יין אינו יכול להחליף את המערכת הפיננסית הבינלאומית • המחיר האפשרי: פגיעה קשה בהייטק, בפנסיות, ביבוא וביכולת של חברות ישראליות לפעול בעולם",
-      "link": "https://www.israelhayom.co.il/business/article/21705055",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:29:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21704866",
-      "title": "אייל גולן לא סולח: \"לא לשים אותי כאיש הסוד שלך?\"",
-      "summary": "הריאליטי החדש מצליח לייצר דרמה קומית במשפחת גולן, שלא מוכנה להשלים עם המידור של אב המשפחה • \"ועוד להיות עגבנייה?\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21704866",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:28:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-warns-germany-bases-legitimate-targets",
-      "title": "לקראת מתקפה על אירופה? איראן משגרת איום ישיר לעבר גרמניה",
-      "summary": "איראן העבירה אזהרה חריפה לברלין בדבר בסיסים ומתקנים גרמניים באזור | האיום מגיע על רקע דיווחים על סימון בסיסים אמריקניים בגרמניה כמטרות | המתיחות מול המערב (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-warns-germany-bases-legitimate-targets",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T16:27:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381198",
-      "title": "\"שני אנשים שצריכים להיות פה לפניי\": הנאשם בתכנון טבח בפנייה חריגה לביהמ\"ש",
-      "summary": "שחר נבו, הפרופסור למתמטיקה שהואשם בתכנון רצח מאות ערבים, התעקש בדיון כי אינו זקוק לבדיקה פסיכיאטרית והזכיר את משה פייגלין. השופטת החליטה שלא להפנותו לבדיקה בניגוד לרצונו",
-      "link": "https://www.maariv.co.il/news/law/article-1381198",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T16:27:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381198",
-      "title": "\"פייגלין צריך להיות פה לפניי\": הוידוי של הנאשם בתכנון רצח המוני",
-      "summary": "שחר נבו, הפרופסור למתמטיקה שהואשם בתכנון רצח מאות ערבים, התעקש בדיון כי אינו זקוק לבדיקה פסיכיאטרית והזכיר את משה פייגלין. השופטת החליטה שלא להפנותו לבדיקה בניגוד לרצונו",
-      "link": "https://www.maariv.co.il/news/law/article-1381198",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T16:27:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21704939",
-      "title": "רשת הפיצה הישראלית מתרחבת בתאילנד - וסימנה שתי מדינות חדשות",
-      "summary": "הסניף השני של הרשת בתאילנד צפוי להיפתח בקוסמוי בעוד כחודש וחצי • במקביל, החברה בוחנת כניסה לשני יעדים שאהובים במיוחד על הישראלים ומתמודדת עם התייקרות של כמעט 20% במחיר הקמח - בלי כוונה להעלות מחירים בשלב זה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21704939",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:26:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21704939",
-      "title": "פיצה שמש מתרחבת מחוץ לישראל - וסימנה שתי מדינות חדשות",
-      "summary": "הסניף השני של הרשת בתאילנד צפוי להיפתח בקוסמוי בעוד כחודש וחצי • במקביל, החברה בוחנת כניסה לשני יעדים שאהובים במיוחד על הישראלים ומתמודדת עם התייקרות של כמעט 20% במחיר הקמח - בלי כוונה להעלות מחירים בשלב זה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21704939",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:26:42.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383958853",
-      "title": "פיגוע סוכל בבנימין: חשוד נעצר בעקבות מידע מודיעיני",
-      "summary": "כוחות צה\"ל עצרו חשוד שתכנן לפי החשד לבצע פיגוע מיידי בציר מרכזי בבנימין. ראש מועצת בנימין ישראל גנץ קרא להרחיב את הפעילות ההתקפית ביהודה ושומרון: \"לפגוע בתשתיות הטרור לפני הפיגוע הבא\"",
-      "link": "https://www.walla.co.il/news/military/383958853",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-25T16:25:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21705038",
-      "title": "8 חודשים לאחר מותו: משפחתו של מתי כספי מציבה קו אדום",
-      "summary": "משפחת כספי פנתה למפיקים ולאמנים בבקשה לתאם מראש אירועים לזכרו • השימוש בדמותו ובשיריו לצרכים מסחריים כפוף לחוק: \"פנייה מוקדמת תמנע אי-הבנות ותשמור על המורשת\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21705038",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:25:28.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1tr4di3ml",
-      "title": "\"בת ז***, שברתי לה ת'ראש\": טענות למעצר אלים של אישה פוסט-טראומטית | תיעוד קשה",
-      "summary": "א' נעצרה לפני כ-3 שנים ברמת גן אחרי שהתפרעה מחוץ לבית הפרוד שלה. השוטר שגילה על מצבה הזעיק שוטרת נוספת כדי לעזור, אך זו לטענתה נקטה כלפיה אלימות קשה. כתב אישום שהוגש נגד א' בוטל אחרי שבתיעוד ממצלמת הגוף של השוטרת, היא נשמעת רומזת לתקיפה: \"חתיכת משוגעת, שברתי לה את הראש\". תלונות שהוגשו למח\"ש נסגרו אך ייבחנו שוב, המשטרה: \"נשללו טענות לאלימות\"",
-      "link": "https://www.ynet.co.il/news/article/r1tr4di3ml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-25T16:23:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21704751",
-      "title": "חברים מצה\"ל ויועצים צעירים: הפנים והשמות מאחורי גדי איזנקוט",
-      "summary": "הם מלווים אותו עוד מימיו בצמרת צה\"ל, נשארו לצדו גם כשנפרד מגנץ והקים מפלגה משלו, וכעת עשויים להגיע איתו ללשכת ראש הממשלה • לצד אנשי האמון הוותיקים פועלים דוברים צעירים ואיש קריאייטיב שהגיע מהליכוד • מי האנשים הקרובים ביותר לאיזנקוט, ואילו תפקידים הם עשויים למלא אם ינצח בבחירות?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21704751",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:23:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21704751",
-      "title": "מקורבים מהצבא ויועצים צעירים: האנשים שמאחורי גדי איזנקוט",
-      "summary": "הם מלווים אותו עוד מימיו בצמרת צה\"ל, נשארו לצדו גם כשנפרד מגנץ והקים מפלגה משלו, וכעת עשויים להגיע איתו ללשכת ראש הממשלה • לצד אנשי האמון הוותיקים פועלים דוברים צעירים ואיש קריאייטיב שהגיע מהליכוד • מי האנשים הקרובים ביותר לאיזנקוט, ואילו תפקידים הם עשויים למלא אם ינצח בבחירות?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21704751",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:23:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1381196",
-      "title": "סוף מעמדה המדיני של ישראל על הפרק, בעלי זכות ההצבעה - ראו הוזהרתם | שלמה שמיר",
-      "summary": "מעבר לעתידם הפוליטי של המועמדים והמפלגות, הבחירות יקבעו גם את מעמדה של ישראל בזירה הבינלאומית. דיפלומטים ותיקים מביעים דאגה מהאפשרות שהממשלה הנוכחית תמשיך לכהן",
-      "link": "https://www.maariv.co.il/news/opinions/article-1381196",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T16:21:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381197",
-      "title": "סעודיה משחקת באש: ההחלטה הדרמטית - למרות איומי החות'ים",
-      "summary": "למרות איומי החות'ים והמתקפה הקטלנית שבה נהרגו 13 בני אדם, סעודיה מחדשת חלקית את הפעילות בנמל התעופה בריאד. המורדים מזהירים כי המקום \"לעולם לא יהיה בטוח\", ובמקביל נמשכים מטחי הטילים",
-      "link": "https://www.maariv.co.il/news/world/article-1381197",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T16:19:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89148",
-      "title": "טראמפ באמירה מסתורית: \"לא נתקוף באיראן היום\"",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/89148",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T16:18:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21704911",
-      "title": "התופעה בקניון מלחה נמשכת: נערים פרצו לעסקים וגנבו כסף מהקופות",
-      "summary": "לפי עדויות שהגיעו ל\"היום\", ארבעה נערים בני 12 ו-13 פרצו למתחם בשישי בערב, השחיתו קופות וגנבו כספים • בעלי העסקים טוענים כי גילו על האירוע במקרה, לאחר שמצאו חוסרים בקופות ושוחחו עם מאבטח",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21704911",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T16:16:25.000Z"
     }
   ]
 }
