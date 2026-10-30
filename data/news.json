@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:45:44.821Z",
+  "updatedAt": "2026-10-30T05:00:55.740Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/world/383959427",
+      "title": "6.3 מיליארד דולר ב-20 דקות: מתקפת הענק על חברת בינאנס",
+      "summary": "חברת ניתוח הבלוקצ'יין TRM Labs מייחסת את גניבת הקריפטו ליחידת האקרים צפון קוריאנית. בבינאנס הודיעו כי ההפקדות נמשכות כרגיל, אך שירותי המשיכה טרם חודשו במלואם וצפויים לחזור בתוך 48 שעות",
+      "link": "https://www.walla.co.il/news/world/383959427",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T04:55:57.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rjnsrfbafx",
       "title": "מה בעצם מסתתר מאחורי חשד ל\"מימון זר\"",
       "summary": "כדי שכסף קטארי ישנה את מפת המנדטים, עשרות אלפי בוחרים היו צריכים לקבל אותו. מנגנון בהיקף כזה משאיר עקבות בכל מקום: מתווכים, רשימות, מזומנים, ובעיקר אנשים שמדברים",
@@ -61,7 +70,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/israel/383959391",
       "title": "מי ישב עם מי? איך אפשר להקים קואליציה לאחר הבחירות?",
-      "summary": "התרחישים הפוליטיים סבוכים והאפשרויות להקמת ממשלה מעטות, אך ייתכן שדווקא המבוי הסתום יהפוך להזדמנות. כל התרחישים שעל הפרק",
+      "summary": "התרחישים הפוליטיים סבוכים והאפשרויות להקמת ממשלה מעטות, אך ייתכן שדווקא המבוי הסתום יהפוך להזדמנות. כל האפשרויות שעל הפרק",
       "link": "https://www.walla.co.il/news/israel/383959391",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -37740,60 +37749,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T05:01:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21698867",
-      "title": "אחרי ההפסד המפתיע בליגה: מכבי תל אביב קיבלה החלטה משמעותית",
-      "summary": "הצהובים שהופתעו בראשל\"צ, יגבירו את חיפושיהם אחרי מחליף לאיפה לונדברג הפצוע • המשא ומתן עם נמניה נדוביץ' יואץ, ובכל מקרה המטרה היא להחתים, כמה שיותר מהר, גארד עם ניסיון באירופה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21698867",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T04:57:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21698839",
-      "title": "פורעים פלשו לשטח צבאי סגור ביו\"ש; צה\"ל: \"מסיטים את הקשב של הכוחות\"",
-      "summary": "הכוחות פינו הלילה פורעים יהודים שפלשו לשטח צבאי סגור, במקום פרצה שריפה • צה\"ל: \"לא אמורים להימצא שם ישראלים, המעשים פוגעים בפעילות ההגנה\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21698839",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T04:54:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/death-notices/tng5gp",
-      "title": "נאמנם של גדולי ישראל: הגאון רבי מרדכי גלאי זצ\"ל - מבכירי השוחטים הלך לעולמו",
-      "summary": "בבית החולים 'מעייני הישועה' נפטר לאחר מחלה ממושכת הגאון רבי מרדכי גלאי זצ\"ל, ממוותיקי המומחים במלאכת השחיטה והכשרות ואחיו של הגאון הצדיק רבי שמעון גלאי שליט\"א • הלווייתו תצא מביתו בבני ברק (דיין האמת)",
-      "link": "https://www.kikar.co.il/death-notices/tng5gp",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T04:53:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-attack-georgia-rally-leadership-destroy",
-      "title": "\"הבסנו אותם בכל דרך, אין אפילו עם מי לדבר\": טראמפ במתקפה על איראן",
-      "summary": "הנשיא דונלד טראמפ התייחס בעצרת בג'ורג'יה למצב המשטר האיראני • \"השמדנו את יכולת העשרת האורניום, הדרג הראשון והשני חוסלו\" | \"אין עם מי לנהל משא ומתן\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-iran-attack-georgia-rally-leadership-destroy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T04:50:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1380845",
-      "title": "מענה למתקפה רב-זירתית ופלישה ליישובים: תרגיל הענק של צה\"ל",
-      "summary": "צה\"ל פתח הבוקר בתרגיל הצבאי הגדול ביותר שאותו הוא מבצע זה שנים, בהשתתפות 4 אוגדות, חיל האוויר ומערכים של המטה הכללי",
-      "link": "https://www.maariv.co.il/news/military/article-1380845",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T04:47:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21698873",
-      "title": "אילנית לוי על גולן: \"התגרשתי בתוך הנישואים\" (וידאו)",
-      "summary": "שנים אחרי הגירושים מאייל גולן, אילנית לוי מספרת על הפרידה שהחלה עוד כשחיו יחד, על תהליך האבל שעברה לפני הגירושים הרשמיים ועל תחושת הכישלון מול משפחתה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21698873",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T04:47:10.000Z"
     }
   ]
 }
