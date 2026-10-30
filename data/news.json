@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:31:02.878Z",
+  "updatedAt": "2026-10-30T13:45:46.441Z",
   "sources": [
     {
       "key": "ynet",
@@ -48,6 +48,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-30T13:24:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21741855",
+      "title": "מאות מוקדים וחשש מאלימות: צרפת נערכת לעוד סוף שבוע של מחאה",
+      "summary": "חילוקי דעות בין הרשויות וכוחות הביטחון לבין מארגני המחאה לגבי מסלולי המחאות, כאשר כוחות הביטחון מנסים לדחוק את המפגינים ממרכזי הערים בכל רחבי המדינה • ה\"אפודים הצהובים\" צפויים לשתתף במחאות לצד תלמידי התיכון",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21741855",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T13:20:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21741947",
+      "title": "סוכל פיגוע בבית כנסת באיטליה: צעיר בן 22 נעצר",
+      "summary": "בחקירת היחידה המיוחדת נמצאו במכשיריו הדיגיטליים של החשוד מדריכים להכנת מטענים ותכנים ניאו-נאציים • החוקרים בודקים אם פעל לבדו או כחלק מרשת רחבה יותר",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21741947",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T13:16:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21739516",
+      "title": "תעלומה האנושות: כך הניסויים האטומיים של המלחמה הקרה חשפו את האמת",
+      "summary": "במשך עשרות שנים התחבטו מדעני המוח בשאלה האם התודעה שלנו נשענת על אותם תאי עצב מיום לידתנו, או שמא המוח מתחדש ללא הרף • פריצת הדרך המפתיעה ביותר בתולדות הביולוגיה המודרנית לא נולדה במעבדות פארמה, אלא הגיעה מתוך פטריות העשן של פיצוצי המימן בשנות החמישים - שהותירו חותם רדיואקטיבי נצחי בתוך סלילי ה-DNA שלנו",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21739516",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T13:16:41.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90067",
@@ -35571,78 +35598,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-25T13:49:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21703660",
-      "title": "לא על יוקר המחיה לבדו: המפלגות מתעלמות מעתיד הכלכלה בישראל",
-      "summary": "בעוד מערכת הבחירות עוסקת בשלל נושאים, עתיד התעשייה והייצור המקומי נותר מחוץ לשיח • בעולם של מלחמות ושיבושים, ישראל חייבת לגבש תוכנית לאומית לחיזוק העצמאות הייצורית",
-      "link": "https://www.israelhayom.co.il/business/article/21703660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T13:44:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21703591",
-      "title": "המפגש בתשלום שהסתיים באונס ובגניבת 4,000 שקלים",
-      "summary": "לפי כתב האישום, הנאשם קבע עם האישה בטלגרם בחדר לפי שעה בבת-ים ולאחר שסיפקה לו שירותי מין, אנס אותה למרות התנגדותה ואף ניסה לחנוק אותה בעזרת כרית • הפרקליטות מייחסת לנאשם עבירות של אינוס, גניבה, איומים ושיבוש מהלכי משפט",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21703591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T13:42:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tngt3c",
-      "title": "פעם שנייה: הנער בן ה-17 מהעיר החרדית נעדר כבר שלושה שבועות",
-      "summary": "משטרת ישראל פרסמה היום את תמונתו ופרטיו של הנער שמואל רחמים טויטאן בן ה-17 מביתר עילית, וביקשה את עזרת הציבור באיתורו - כמעט חודש לאחר שנראה בפעם האחרונה | זו לא הפעם הראשונה שבה \"נעלם\" לזמן ממושך (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tngt3c",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T13:42:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/bnei-brak-kindergarten-strike",
-      "title": "עימות בבני ברק: האזהרה של העירייה והנקמה המתוכננת של הגננות",
-      "summary": "לקראת העיכוב המתוכנן בפתיחת גני הילדים העירוניים מחר, שיגרה העירייה הודעה להורים והבהירה כי הנחייתה היא לפתוח את הגנים בשעה הרגילה • הורים שיגיעו לגן סגור מתבקשים לדווח למוקד 106 • מנכ״ל העירייה: ״נפעל לצמצום היעדרויות שאינן הכרחיות״ (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/bnei-brak-kindergarten-strike",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T13:40:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21703498",
-      "title": "בשידור חי: הכתב דיווח על הסערה - וגל ענקי שטף אותו | צפו",
-      "summary": "דרמה בספרד: כתב הטלוויזיה דיווח מחוף הים על גלי הענק והתנאים המסוכנים, כשלפתע נחשול מים עוצמתי היכה בו ובצלמת והפיל אותם לקרקע • השידור הופסק בפתאומיות, והרשת סערה • צפו",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21703498",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T13:40:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381139",
-      "title": "גם אם איזנקוט יוביל: התרחיש הפוליטי שישאיר את נתניהו מול איראן",
-      "summary": "מאמר מערכת ב\"וול סטריט ג'ורנל\" מצביע על תרחיש שבו גם אם איזנקוט יתחזק בבחירות, הקושי להרכיב קואליציה יותיר את נתניהו בתפקיד חודשים ארוכים - בזמן שהמערכה מול איראן עשויה להגיע לצומת מכריע",
-      "link": "https://www.maariv.co.il/news/world/article-1381139",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T13:38:32.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873605",
-      "title": "הנשק הסודי של מוריניו: כך ריאל מתכננת להכניע את ברצלונה",
-      "summary": "רבע מהשערים של ריאל מדריד מגיעים ממצבים נייחים, ומוריניו מתכנן לנצל את החולשה ההגנתית של ברצלונה בכדורי גובה. המספרים, השינוי מאז אלונסו והאזהרה של פליק לקראת הקלאסיקו",
-      "link": "https://sports.walla.co.il/item/3873605",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-25T13:35:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21703404",
-      "title": "בבלעדיות: נועה קירל מגיעה לערוץ 16",
-      "summary": "הערוץ רכש את זכויות השידור הבלעדיות של הטלנובלה הלטינית \"הדרך של נועה\" בכיכובם של קירל ואגוסטין ברנסקוני • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21703404",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T13:31:05.000Z"
     }
   ]
 }
