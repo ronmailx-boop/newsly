@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:30:58.082Z",
+  "updatedAt": "2026-10-30T17:46:00.116Z",
   "sources": [
     {
       "key": "ynet",
@@ -66,6 +66,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T17:12:31.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3874335",
+      "title": "מזל טוב: בנו של סטיב ויטקוף הציע נישואים בירושלים",
+      "summary": "אלכס ויטקוף כרע ברך מול נוף העיר העתיקה והכותל המערבי. לצד התמונות הרומנטיות ברשתות, נועה ארגמני ועומר שם טוב הצטרפו לברכות: \"האנשים האהובים עליי, מזל טוב\"",
+      "link": "https://celebs.walla.co.il/item/3874335",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-30T17:09:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/health/article/21742717",
@@ -264,6 +273,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-30T15:45:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
+      "title": "חי מהיורוליג: דובאי - הפועל תל אביב 55:70",
+      "summary": "השבוע הכפול של האדומים נמשך עם מפגש קשה במיוחד באמירויות • תומאש סטורנסקי התמוטט על הפרקט אחרי נחיתה לא טובה • השחקנים הזעיקו את הרופא לפרקט, והמשחק נעצר עד שפונה לחדר ההלבשה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T15:44:27.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21742524",
@@ -1425,6 +1443,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T09:59:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21741332",
+      "title": "בשורה לאוהדי הפועל באר שבע: היעד בו תארח בשיקטאש",
+      "summary": "משחק החוץ מול הקבוצה הטורקית (26.11) במסגרת הליגה האירופית יערך בבאטומי עם קהל",
+      "link": "https://www.israelhayom.co.il/sport/article/21741332",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-30T09:58:51.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21741332",
@@ -34536,87 +34563,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-25T17:46:01.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381224",
-      "title": "שגרירות ארה\"ב בסעודיה באזהרה: \"שמרו בפלאפונים מספרי חירום\"",
-      "summary": "ברקע המלחמה בין החות'ים לסעודיה, שגרירות ארצות הברית בממלכה פרסמה אזהרה ביטחונית, שלפיה עובדי ממשל שאינם חיוניים ובני משפחותיהם נדרשו לעזוב את המדינה מחשש להסלמה ולתקיפות נוספות",
-      "link": "https://www.maariv.co.il/news/world/article-1381224",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T17:44:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381224",
-      "title": "ארה\"ב מורה לאנשיה לעזוב את סעודיה: חשש מהסלמה עם החות'ים",
-      "summary": "ברקע המלחמה בין החות'ים לסעודיה, שגרירות ארצות הברית בממלכה פרסמה אזהרה ביטחונית, שלפיה עובדי ממשל שאינם חיוניים ובני משפחותיהם נדרשו לעזוב את המדינה מחשש להסלמה ולתקיפות נוספות",
-      "link": "https://www.maariv.co.il/news/world/article-1381224",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-25T17:44:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21705705",
-      "title": "\"החוצה מה שלא שייך\": ראפרית דרכה על דגל ישראל | צפו",
-      "summary": "במקום להתמקד במוזיקה, הזמרת בחרה להסית את הקהל המקומי נגד ישראל באמצעות מילים קשות • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21705705",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T17:42:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21705682",
-      "title": "האתגר הגדול מאז נפילת מדורו: מנהיגת האופוזיציה חזרה לוונצואלה",
-      "summary": "זוכת פרס נובל לשלום הודיעה ברשת X כי היא שוב על אדמת ונצואלה, אחרי לפחות שבעה ניסיונות חזרה שנכשלו • ממשל טראמפ, שהידק את קשריו עם הנשיאה בפועל דלסי רודריגס, הניא אותה מלחזור גם אחרי רעידות האדמה ביוני • טראמפ אמר שלא ידע על חזרתה, ובסקר חדש היא מובילה על רודריגס בפער גדול",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21705682",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T17:41:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21705567",
-      "title": "הבחירות לא יפתרו את המשבר: הסכנה שמחכה לישראל אחרי ההכרעה",
-      "summary": "בין שהימין ינצח ובין שגוש השינוי יקים ממשלה, מחצית מהציבור עלולה להרגיש שקולה לא נשמע • מול האיומים הביטחוניים, הלחץ הבינלאומי והקרע הפנימי, ממשלת אחדות ופשרה חוצת גושים עשויות להיות צו השעה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21705567",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T17:37:57.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383958862",
-      "title": "הח\"כ לשעבר מהליכוד קורא למצביעים לשלוח את נתניהו לאופוזיציה",
-      "summary": "השר לשעבר בני בגין, בנו של מנחם בגין, תקף את ראש הממשלה בסרטון שפרסם לקראת הבחירות ביום שלישי: \"ראש ממשלה כזה הוא איום על כולנו\". רק לפני כשבועיים הודיע כי יצביע לאחת ממפלגות האופוזיציה",
-      "link": "https://www.walla.co.il/news/politics/383958862",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-25T17:35:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89159",
-      "title": "נהג המשאית מהתאונה הקטלנית בכביש 465 נעצר ושוחרר בתנאים",
-      "summary": "נהג המשאית שהיה מעורב בתאונה הקטלנית אמש בכביש 465 סמוך לכפר עבוד נעצר בחשד לגרימת מוות ברשלנות. בתאונה, שהתרחשה בין משאית לשני כלי רכב פרטיים, נהרג אחד הנהגים ונפצעו נוסעים נוספים. החשוד, תושב קלנסווה בשנות ה-20, נחקר על ידי בוחני תאונות דרכים של מחוז שומרון ויהודה ושוחרר בתנאים מגבילים. החקירה נמשכת.",
-      "link": "https://www.kikar.co.il/scoop-news/89159",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-25T17:35:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21705345",
-      "title": "\"הזמן הוא לא מותרות\": מסרטן ועד אלצהיימר - התרופות שעל שולחן ועדת הסל",
-      "summary": "אחרי עיכובים ממושכים מונתה הוועדה שתכריע אילו טיפולים חדשים ייכנסו לסל הבריאות, בתקציב של 650 מיליון שקלים • בשל האיחור, התרופות שיאושרו צפויות להגיע לחולים רק במרץ • בזמן שהוועדה נערכת לדיונים, החולים ממשיכים להמתין: \"התרופה הצילה את החיים שלי, אבל יש עוד הרבה אנשים שצריכים לקבל אותה ולא מקבלים\"",
-      "link": "https://www.israelhayom.co.il/health/article/21705345",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T17:33:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21704652",
-      "title": "משנה סטייל? דורון מדלי נפגש עם אושיית האופנה",
-      "summary": "המוסיקאי והמפיק שנחשב ל\"מר אירוויזיון\", נצפה בפגישה עם המעצב ויוצר הלוקים איתי בצלאלי. מה קרה שם? צפו",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21704652",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-25T17:33:27.000Z"
     }
   ]
 }
