@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:30:56.783Z",
+  "updatedAt": "2026-10-31T17:45:58.014Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bysmrjq6gg",
+      "title": "איזנקוט מסביר: זה מה שאעשה עם \"הרוב הפרלמנטרי המובהק\" נגד נתניהו",
+      "summary": "יו\"ר ישר! פרסם את הצעדים ליום שאחרי השבעת הכנסת בעוד פחות משבועיים. הקמת ועדת חקירה ממלכתית וביטול חוקי המהפכה המשפטית הם רק חלק מהתוכנית שלו. איזנקוט הציב ארבעה עקרונות לכל שותפיו העתידיים והבהיר: \"אחוזי ההצבעה מחייבים מאמץ עילאי כדי להימנע מבחירות נוספות\"",
+      "link": "https://www.ynet.co.il/news/article/bysmrjq6gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-10-31T17:33:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90091",
       "title": "איזנקוט ולפיד נפגשו לתיאום מהלכים לאחר הבחירות",
@@ -77,6 +86,15 @@
       "pubDate": "2026-10-31T17:27:29.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21745961",
+      "title": "מהבמה לקופת חולים: נציגת האירוויזיון לשעבר על הנפילה",
+      "summary": "עדן אלנה זכתה בשני ריאליטי מוזיקליים וייצגה את ישראל באירוויזיון, אבל מאחורי ההצלחה התחולל משבר עמוק • בפרומו לכתבה שתשודר הערב היא מדברת לראשונה על הנפילה הגדולה • ואיפה היא עובדת היום, הרחק מאור הזרקורים",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21745961",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-31T17:26:44.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tel-aviv-hit-and-run-congress-street-arrest",
       "title": "הפצוע הקשה נשאר לבד מעורפל הכרה; זה מה שקרה לנהג הפוגע הלילה",
       "summary": "נהג רכב פגע בהולך רגל בן 30 ברחוב הקונגרס בתל אביב • הנפגע פונה במצב קשה לאיכילוב, הנהג נמלט מהזירה | נעצר בעקבות פעולות חקירה מהירות (בארץ)",
@@ -95,6 +113,33 @@
       "pubDate": "2026-10-31T17:21:35.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21746038",
+      "title": "גורי אלפי חוזר למטבח: כל הסדרות הישראליות החדשות שעולות בנובמבר",
+      "summary": "לצד עונה שלישית של \"הטבח\", החודש יעלו למסך גם האיחוד של אסי כהן וליאת הר לב, עונה חדשה של \"באש ובמים\" בנטפליקס, ברקוני בכאן 11 וסדרה תיעודית על אריה דרעי • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21746038",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-31T17:18:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21744280",
+      "title": "הלוחם שאיבד רגל בעזה ומתחרה באיירון מן ומרתון: \"הכל אפשרי\"",
+      "summary": "בוריס שטונדה נפצע קשה בבית חאנון ועבר 19 ניתוחים ושיקום ממושך • מאז הלוחם התמסר לספורט, טיפס פעמיים על הקילימנג'רו והשתתף באליפות העולם באיירון מן בהוואי • כעת הוא מתייצב למרתון ניו יורק: \"אין גבול לכוח הרצון, רץ עבור מי שנלחם בכל יום מחדש על מקומו\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21744280",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-31T17:18:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21745525",
+      "title": "גם בגלל איראן: הם החזירו את טראמפ לשלטון - עכשיו הוא מאבד אותם",
+      "summary": "מעמד הפועלים הלבן וההיספנים היו מעמודי התווך של הקואליציה שהביאה את טראמפ לניצחון, אך הם גם הראשונים להיפגע מהמכסים, ממחירי הדלק ומהאינפלציה • מועמדים רפובליקנים שנשבעו בשמו מתרחקים ממנו כעת, כשהפופולריות שלו בשפל • ובמישיגן, ניצחון של עבדול אל-סייד, שרואה בברית עם ישראל פגיעה באינטרסים של ארה\"ב, עלול להזניק אותו לקראת המרוץ לנשיאות ב-2028",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21745525",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-31T17:18:41.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bjtvr57pze",
       "title": "גנבו כלי רכב של לוחם שב\"כ שנהרג ב-7/10 - בפעם השנייה: \"הקשר של הילדים לאבא\"",
       "summary": "יוסי טהר נפל בהגנה על מפלסים, לאחר שחילץ פצוע בשטח וחיסל מחבלים. רעולי פנים הגיעו למשק המשפחה במושב ביצרון וגנבו כלי רכב וציוד שטח. גם בפעם הקודמת, לפני שנה, נגנב ציוד דומה. אלמנתו ביקשה עזרה: \"עבורנו זה לא 'רק ציוד'\"",
@@ -111,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-31T17:13:45.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959571",
+      "title": "איזנקוט ולפיד נפגשו, ליברמן: \"אין לי רצון להיות יו\"ר הכנסת\"",
+      "summary": "יו\"ר ישר!: \"אפעל למימוש הרוב הפרלמנטרי באופן מיידי\", יו\"ר ישראל ביתנו: \"קיבלתי כמה וכמה פניות\"",
+      "link": "https://www.walla.co.il/news/politics/383959571",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-31T17:12:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1383230",
@@ -537,6 +591,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383959559",
+      "title": "חמאס בונה על החורף למהלך הבא נגד ישראל",
+      "summary": "לנצל את ההצפות והמחלות: בצבא מזהירים מקמפיין חדש של חמאס, וחוששים משיקום הזרוע הצבאית",
+      "link": "https://www.walla.co.il/news/military/383959559",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-31T15:29:41.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383959559",
       "title": "בצבא מזהירים: חמאס בונה על החורף למהלך הבא נגד ישראל",
       "summary": "לנצל את ההצפות והמחלות: בצבא מזהירים מקמפיין חדש של חמאס, וחוששים משיקום הזרוע הצבאית",
       "link": "https://www.walla.co.il/news/military/383959559",
@@ -671,10 +734,10 @@
       "pubDate": "2026-10-31T14:52:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rkyoav7aze",
+      "id": "ynet:https://www.ynet.co.il/news/article/rkyoav7aze",
       "title": "ההתנהלות התמוהה של ראש השב\"כ - וגלגול הקמפיין נגד המפלגות הערביות",
       "summary": "מידע מודיעיני ראשוני, מכתב חריג של סולברג, הודעת שב\"כ שמשאירה שאלות פתוחות ולא מעט גרסאות סותרות בין גורמי האכיפה לבין עצמם - נפגשו עם קמפיין הליכוד שהכריז מראש על גניבת בחירות. גורמים הבקיאים בפרשה מתארים פער עמוק בין החומר לדרמה שנבנתה סביבו, כמו גם בין הודעות שב\"כ לתקשורת - למציאות: \"ועדת הבחירות נפלה למלכודת מבצע השפעה. לא בטוח שהוא נגמר\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rkyoav7aze",
+      "link": "https://www.ynet.co.il/news/article/rkyoav7aze",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-31T14:51:37.000Z"
@@ -1785,6 +1848,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T05:54:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21743722",
+      "title": "מדליית כסף לרז הרשקו בגרנד סלאם אבו דאבי",
+      "summary": "מדליסטית הארד מאליפות העולם הפסידה בניקוד זהב בגמר • יפתח זיו הצטרף למכבי ראשון לציון • דניאל פרץ וסאות'המפטון גברו 1:4 על ק.פ.ר, סולומון עלה מהספסל בהפסד ווסטהאם",
+      "link": "https://www.israelhayom.co.il/sport/article/21743722",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-10-31T05:53:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21743722",
@@ -29019,96 +29091,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-26T17:49:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "title": "הכדורגלן הטוב בעולם: הארי קיין זכה בכדור הזהב",
-      "summary": "כוכב באיירן מינכן ונבחרת אנגליה הוכתר לשחקן הטוב בעולם לשנת 2026 מטעם מגזין \"פראנס פוטבול\" • אחרי 45 שנה שחקן ממועדון הפאר הגרמני זכה בפרס, הוא גם האנגלי הראשון לעשות זאת מאז מייקל אואן",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T17:45:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "title": "אחרי עונה היסטורית: הארי קיין זכה בכדור הזהב",
-      "summary": "כוכב באיירן מינכן ונבחרת אנגליה הוכתר לשחקן הטוב בעולם לשנת 2026 מטעם מגזין \"פראנס פוטבול\" • אחרי 45 שנה שחקן ממועדון הפאר הגרמני זכה בפרס, הוא גם האנגלי הראשון לעשות זאת מאז מייקל אואן",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T17:45:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "title": "דרמה בטקס כדור הזהב: הרוסים חשפו את זהות המנצח?",
-      "summary": "האתר של \"פראנס פוטבול\" נפרץ והופצו ידיעות שהציגו לכאורה את הזוכה בפרס • המארגנים הודיעו כי נפתחה חקירה • הארי קיין, לאמין ימאל וקיליאן אמבפה צפויים להגיע לקו הסיום",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21713538",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T17:45:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-four-terrorists-gaza-strip",
-      "title": "מקצה לקצה ברצועת עזה: צה\"ל חיסל 4 מחבלי חמאס וגא\"פ | צפו בתיעוד",
-      "summary": "שלושה מחבלים חוסלו אתמול בתקיפות ברחבי הרצועה • מחבל נוסף חוסל בסוף השבוע | \"קידמו מתווי טרור והפרו את הפסקת האש\" (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-eliminates-four-terrorists-gaza-strip",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-26T17:42:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
-      "title": "ישראל בוחרת: התחבורה הציבורית שבחינם מהערב, התחזית לגשם, הלו\"ז וכל מה שצריך לדעת",
-      "summary": "36 רשימות, 12,018 קלפיות ו-7,331,981 בעלי זכות בחירה: ברחבי המדינה הושלמו ההכנות לקביעת פניה של הכנסת ה-26. איזו תחבורה ציבורית פועלת בחינם, כיצד יודעים היכן להצביע ללא הודעה לבוחר, מי רשאי להצביע בקלפי נגישה, ומתי נדע את התוצאות הסופיות? כל הפרטים החשובים בדרך אל הקלפי",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-26T17:41:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
-      "title": "ישראל בוחרת: הלו\"ז, התחזית לגשם, התחבורה הציבורית שבחינם וכל מה שצריך לדעת",
-      "summary": "36 רשימות, 12,018 קלפיות ו-7,331,981 בעלי זכות בחירה: ברחבי המדינה הושלמו ההכנות לקביעת פניה של הכנסת ה-26. איזו תחבורה ציבורית פועלת בחינם, כיצד יודעים היכן להצביע ללא הודעה לבוחר, מי רשאי להצביע בקלפי נגישה, ומתי נדע את התוצאות הסופיות? כל הפרטים החשובים בדרך אל הקלפי",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-26T17:41:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rkmqjw63zx",
-      "title": "בנט: \"אני או ליברמן יכולים להיות רה\"מ - אין משמעות לגודל המפלגה\"",
-      "summary": "על אף הסקרים שמראים שהמפלגה הגדולה בגוש השינוי תהיה ישר! של איזנקוט, יו\"ר ביחד אומר כי אחרי הבחירות הוא או יו\"ר ישראל ביתנו יכולים להתמנות לראש ממשלה. לדבריו, אחרי הבחירות ראשי גוש השינוי יסכמו על מי להמליץ",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rkmqjw63zx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-26T17:35:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/severe-weather-south-election-day-floods-warning",
-      "title": "יום בחירות סוער: שיטפונות, ברד וסגירת כבישים | התחזית המלאה למחר",
-      "summary": "גשמים עזים צפויים מהצהריים באילת ובנגב • סופות רעמים, ברד וחשש לשיטפונות בנחלים | המשטרה קוראת להימנע מנסיעות לא חיוניות | התחזית המלאה למחר - יום הבחירות (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/severe-weather-south-election-day-floods-warning",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-26T17:33:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/synrlk6hmg",
-      "title": "\"מפולת שמחקה רודן\": כך חוללו הצעירים מהפך היסטורי בבלקן",
-      "summary": "גג בטון שקרס בסרביה הצית מחאת ענק של סטודנטים - שאמש הפילה את שלטונו בן 12 השנים של אלכסנדר ווצ'יץ', מנהיג הימין הלאומני שמבקריו מאשימים בשחיתות ובניסיון להשתלט על מערכות המשפט והתקשורת. הם עשו זאת עם \"ניסוי\" חסר תקדים שבו בחרו כנציגיהם בפרלמנט פרופסורים ורופאים לא-מוכרים, וכעת לא ברור מי יהיה רה\"מ. ברחובות חוגגים ו\"בוכים מאושר\", באירופה מברכים - ובקרמלין מודאגים מתבוסת החבר של פוטין: \"יחסים קרובים? צריך שניים לטנגו\"",
-      "link": "https://www.ynet.co.il/news/article/synrlk6hmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-26T17:33:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21713556",
-      "title": "אחרי ששרדה את ה-7.10: המסעדה האהובה הודיעה על סגירה",
-      "summary": "המסעדה התאילנדית האהובה בחבל אשכול מודיעה על סגירה בסוף נובמבר • בעלי המקום בישרו על ההחלטה המפתיעה בעקבות עניינים מנהלתיים",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21713556",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T17:32:33.000Z"
     }
   ]
 }
