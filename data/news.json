@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:15:54.062Z",
+  "updatedAt": "2026-10-31T06:30:50.953Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T12:40:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1383118",
+      "title": "על מיטה מתקפלת במנהרה: תיעודים חדשים של מוחמד דף, הנייה וסינוואר",
+      "summary": "רשת אל-ג'זירה חשפה תיעודים נדירים של מוחמד דף ובכירי חמאס במנהרות במהלך המלחמה, תיעודים של דף עם הנייה וסינוואר וגם מסמכים חדשים המפרטים את תוכניות המתקפה ב-7 באוקטובר",
+      "link": "https://www.maariv.co.il/news/military/article-1383118",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-31T06:20:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383959529",
+      "title": "מה באמת עומד מאחורי העיכוב בפסיקת בג\"ץ?",
+      "summary": "מפסילת חוק השידורים ועד הרכב הוועדה לבחירת שופטים: כך מנווטת המערכת המשפטית את המהלכים שלה, ומדוע ממשלת אחדות היא הסיוט הגדול שלה",
+      "link": "https://www.walla.co.il/news/opinions/383959529",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-31T06:20:39.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383959417",
@@ -32853,105 +32871,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-26T06:32:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tni45z",
-      "title": "מההכנות ועד ריקוד הקוזקים; תיעוד ענק משמחת בית באבוב 45",
-      "summary": "אלפי חסידי באבוב 45 נטלו חלק בשמחת נישואי הכלה, נכדת הגה\"צ רבי יהושע רובין, אב\"ד החסידות | השמחה נחגגה בהיכל ביהמ\"ד הגדול בבורו פארק, בראשות האדמו\"ר מבאבוב 45 | צפו בתיעוד ענק, מההכנות לשמחה, ועד לרגעי ההוד של ריקוד הקוזקים וריקודי המצווה טאנץ (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tni45z",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-26T06:29:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tni2sa",
-      "title": "תיעוד עוצמתי מגשר הרב לנדא • גלריית ענק מעצרת הרבבות בבני ברק",
-      "summary": "מפגן עוצמה של 'דגל התורה' | רבבות בני ישראל גדשו אמש את 'גשר הרב לנדא' החדש במתחם הסופרים בבני ברק, שם נערכה עצרת הבחירות המרכזית והענקית של תנועת 'דגל התורה' לקראת הבחירות הקרובות בראשות מרנן ורבנן גדולי ישראל | שוקי לרר מגיש תיעוד ענק ועוצמתי (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tni2sa",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-26T06:28:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21707807",
-      "title": "טייס יונייטד דיווח למגדל הפיקוח: \"נוסע מתכנן לחטוף את המטוס\"",
-      "summary": "טיסה שהמריאה לניוארק שינתה את מסלולה בעקבות הודעת טקסט מחשידה שזיהתה דיילת • הדיווח החריג מהקוקפיט, של הקברניט למגדל הפיקוח, הופץ ברשתות",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21707807",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:28:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21707786",
-      "title": "לאחר מצוד של ימים: נתפסה חוליית דעאש שביצעה את הטבח בירדן",
-      "summary": "מנגנוני הביטחון של ירדן עצרו את שלושת מחבלי דאעש האחראים לפיגוע הקטלני בכנסייה בעיר כרכ, שבו נרצחו שמונה בני אדם ועשרות נוספים נפצעו • שר הפנים מאזן אל-פראיה הכריז על לכידת החוליה בתום מרדף שנמשך יותר משלושה ימים, בעוד המלך עבדאללה הבטיח להילחם בטרור ביד ברזל",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21707786",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:24:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381347",
-      "title": "דלק סילוני במקום סולר: השיטה האיראנית נחשפת",
-      "summary": "תחקיר רויטרס חושף כיצד דלק סילוני מאיראן הגיע לצבא מיאנמר במסווה של סולר מדרום אפריקה. מסמכים חסויים, עסקאות במיליוני דולרים ותצלומי לוויין חושפים את השיטה שנועדה לעקוף את הסנקציות",
-      "link": "https://www.maariv.co.il/news/world/article-1381347",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-26T06:22:50.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381347",
-      "title": "מתחת לאף האמריקאי: המדינה שעושה עסקאות נשק עם איראן",
-      "summary": "תחקיר רויטרס חושף כיצד דלק סילוני מאיראן הגיע לצבא מיאנמר במסווה של סולר מדרום אפריקה. מסמכים חסויים, עסקאות במיליוני דולרים ותצלומי לוויין חושפים את השיטה שנועדה לעקוף את הסנקציות",
-      "link": "https://www.maariv.co.il/news/world/article-1381347",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-26T06:22:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21707705",
-      "title": "\"הניצחון בקלאסיקו מוקדש לאוהדי ברצלונה שהפריעו לי בשנ\"צ\"",
-      "summary": "ז'וזה מוריניו, בדרכו האופיינית, סיכם את ה-1:2 של ריאל מדריד בקאמפ נואו: \"הם שרו מתחת למלון כל היום, אז לא נחתי, אבל ניצחתי\" • קיליאן אמבפה רשם הישג ענק ששם אותו שני לכריסטיאנו רונאלדו, וכבש מול בארסה יותר מאשר כמעט כל קבוצה אחרת בקריירה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21707705",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:21:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21707707",
-      "title": "מעיין אדם מתפתלת: \"מרגישה היום כמו בשבת השחורה\"",
-      "summary": "אשת התקשורת שאיבדה את אחותה במסיבת הנובה משתפת בכאב את תחושותיה לקראת ההליכה לקלפיות מחר • \"כמה קשה לי לבקש עזרה, אין לכן מושג\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21707707",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:20:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21707707",
-      "title": "\"היחיד שבא לנחם אותנו\": מעיין אדם חושפת למי תצביע",
-      "summary": "אשת התקשורת שאיבדה את אחותה במסיבת הנובה משתפת בכאב את תחושותיה לקראת ההליכה לקלפיות מחר • \"כמה קשה לי לבקש עזרה, אין לכן מושג\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21707707",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:20:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21707658",
-      "title": "כריזמה של סוכני ביטוח: כך הפכו סוקרי הבחירות לסלבס של המסך",
-      "summary": "כמו סינדרלה: ערבי בחירות הפכו את הסטטיסטיקאים על המסך לכוכבים הכי מבוקשים • אבל ביום שלישי בחצות הכרכרה תחזור להיות דלעת",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21707658",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:16:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21707638",
-      "title": "צה\"ל חושף גידול בגיוס חרדים: 781 הצטרפו למסלולים הייעודיים, שיא בלוחמים",
-      "summary": "נתוני הגיוס האחרונים בצה\"ל מצביעים על גידול במספר החרדים המצטרפים למסלולים הטכנולוגיים ולתפקידי לחימה, עם 781 מתגייסים מאז חודש אוגוסט • מנגד, היועצת המשפטית לממשלה עדכנה את בג\"ץ כי תופעת ההשתמטות הגיעה להיקף של 110 אלף חייבי גיוס • היועמ\"שית הציעה לבית המשפט לשקול הוראות אופרטיביות לשלילת הטבות כלכליות ממפרי חוק",
-      "link": "https://www.israelhayom.co.il/news/local/article/21707638",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T06:15:58.000Z"
     }
   ]
 }
