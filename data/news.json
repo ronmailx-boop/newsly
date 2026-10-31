@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:45:57.736Z",
+  "updatedAt": "2026-10-31T17:01:06.133Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90085",
+      "title": "רוכב אופנוע נפצע בינוני בתאונה עצמית בשפרעם",
+      "summary": "רוכב אופנוע כבן 20 נפצע בינוני בתאונה עצמית ברחוב ד'אהר עומר אלזידאני בשפרעם. לפי דיווח איחוד הצלה, הרוכב החליק במהלך הנסיעה. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני בזירה, ולאחר מכן פונה לבית חולים במצב בינוני.",
+      "link": "https://www.kikar.co.il/scoop-news/90085",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-10-31T16:52:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1383224",
+      "title": "פגע בהולך רגל לפי החשד ונמלט – ואז הגיעה בדיקת הינשוף",
+      "summary": "הולך רגל בן 30 נפצע קשה מפגיעת רכב בתל אביב, ולפי החשד הנהג נמלט מבלי לסייע לו. לאחר שנעצר, בדיקת ינשוף העלתה תוצאה של 500 מיקרוגרם אלכוהול, והמשטרה תבקש להאריך את מעצרו",
+      "link": "https://www.maariv.co.il/news/law/article-1383224",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-10-31T16:46:55.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/s1ecyympmg",
       "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
@@ -1182,6 +1200,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-31T09:22:05.000Z"
+    },
+    {
+      "id": "walla:https://cars.walla.co.il/item/3874368",
+      "title": "זה לא עוד רכב, זה פתראון אירופאי מוצלח לישראלים",
+      "summary": "זה לא עוד רכב, זה פתראון אירופאי מוצלח לישראלים",
+      "link": "https://cars.walla.co.il/item/3874368",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-10-31T09:15:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21744063",
@@ -28983,60 +29010,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-26T17:01:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21712833",
-      "title": "לא חושב ולא זוכר: התרמית הגדולה מאחורי סוכני ה-AI",
-      "summary": "העולם מדבר בהתרגשות על \"סוכני AI\" אוטונומיים שמסוגלים לפתור תקלות, לנהל מחקרים ולשלוט במערכות הפעלה בלחיצת כפתור • אך מאחורי הקלעים עומד מודל מתמטי עיוור שאינו מסוגל אפילו להזיז את סמן העכבר • כיצד קובץ סטטי הופך למכונה שמבצעת פעולות בעולם האמיתי ומה מסתתר מאחורי המנגנון",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21712833",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T16:59:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1381673",
-      "title": "לבחור גם בבריאות: מבצע ההתחסנות לשפעת מטעם כללית יוצא לדרך",
-      "summary": "כללית תפעיל ביום הבחירות ניידות חיסון בירושלים, בפתח תקווה, בהוד השרון, בטבריה בבית שאן, וכן תחסן בעשרות מוקדי חיסון במרפאות ובקניונים ברחבי הארץ. בדקו כאן היכן נקודת החיסון הקרובה אליכם",
-      "link": "https://www.maariv.co.il/news/health/article-1381673",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-26T16:57:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b111j9gthzg",
-      "title": "הצעירה ניסתה להתאבד - וחשפה בביה\"ח: אביה וחבר מועצה תקפו אותה במוט ברזל",
-      "summary": "המשטרה עצרה את חבר המועצה ואביה של הצעירה בעקבות הדיווח הדרמטי בבית החולים. לפי החשד, השניים תקפו אותה יחד עם בן משפחה נוסף. מעצרו של האב הוארך מחשש לביטחונה של בתו",
-      "link": "https://www.ynet.co.il/news/article/b111j9gthzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-26T16:56:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381666",
-      "title": "פרשת הירי מחוץ לבנק בשכונת יד אליהו: רצח את אחיו והתאבד",
-      "summary": "עדות עובדת הבנק, עדויות נוספות וסרטון אבטחה מחזקים את החשד כי האח בן ה-70 ירה למוות באחיו מחוץ לסניף בנק בשכונת יד אליהו בתל אביב, ולאחר מכן התאבד. הרקע לוויכוח שקדם לירי עדיין נבדק",
-      "link": "https://www.maariv.co.il/news/law/article-1381666",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-26T16:52:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21713362",
-      "title": "תיעוד: בן 15 רכב בפראות, ביצע תנועות מגונות לעבר שוטרים - ונעצר",
-      "summary": "סרטונים שהופצו ברשתות החברתיות תיעדו רוכב אופניים חשמליים נוסע בפראות ומסכן משתמשי דרך • במשטרה איתרו את החשוד והוא הועבר לחקירה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21713362",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T16:52:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21713318",
-      "title": "אבי שושן מגיב לקורין גדעון: \"מפונקת ופריווילגית\"",
-      "summary": "אחרי שקורין גדעון החזירה את עימות איכילוב מ-2021 וכינתה אותו \"הימור שלי זה הנבל של העונה\", אבי שושן עונה בסדרת סטוריז חריפה, חוזר לגרסה שלו לאירוע ולא חוסך ממנה מילים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21713318",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-26T16:47:48.000Z"
     }
   ]
 }
