@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:01:06.494Z",
+  "updatedAt": "2026-11-01T05:15:56.929Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tnt50s",
+      "title": "טראמפ במסר תקיף: \"איראן רוצה הסכם, אך נוכל לחסל את שאר הגרעין בתוך דקות\"",
+      "summary": "נשיא ארה\"ב התייחס למגעים המתנהלים בתיווך קטאר והבהיר כי \"לשלטון באיראן לעולם לא יהיה נשק גרעיני\" • טראמפ טען כי הצבא האמריקני כמעט השמיד כליל את היכולות הצבאיות של טהרן, והתחמק מלהשיב אם תהיה תקיפה נוספת השבוע: \"שאלה טיפשית\" (מדיני)",
+      "link": "https://www.kikar.co.il/world-news/tnt50s",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T05:13:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/goldknopf-lieberman-draft-law-coalition-talks",
+      "title": "ברקע השיחות החשאיות עם בכירים בגוש השינוי | גולדקנופף מבהיר: \"דורשים חוק ללא יעדים וסנקציות\"",
+      "summary": "בעוד בגוש השינוי בוחנים ברצינות פשרות בסוגיית הגיוס והסדרת מעמד תלמידי הישיבות, כדי להקים ממשלת מיעוט בתמיכה מבחוץ של 'יהדות התורה', יו\"ר 'אגודת ישראל' ח\"כ גולדקנופף מבהיר כי הדרישות לא ישונו וכי בהוראת גדולי ישראל הדרישה נותרה: חוק גיוס ללא יעדי גיוס וללא סנקציות כלכליות או פליליות (אקטואליה)",
+      "link": "https://www.kikar.co.il/haredim-news/goldknopf-lieberman-draft-law-coalition-talks",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T05:09:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21748403",
+      "title": "זנדאיה הפכה להאלי ברי, היידי קלום איבדה יד",
+      "summary": "הכוכבים חגגו את האלווין בתחפושות מושקעות ומחוות מפתיעות. זנדאיה נכנסה לנעליה של האלי ברי משנת 2000, היידי קלום הפכה לכף יד כרותה",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21748403",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:57:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21748411",
+      "title": "מופע ענק לוומבי ב-111:1121 של סן אנטוניו על מינסוטה",
+      "summary": "הצרפתי קלע 43 נקודות וחסם 6 פעמים עבור הספרס",
+      "link": "https://www.israelhayom.co.il/sport/article/21748411",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:55:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21748455",
+      "title": "סקי בגודאורי בלי כאב ראש עם איילה נסיעות",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21748455",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:53:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21748407",
+      "title": "המשטרה תבקש הארכת המגבלות על ראש עיריית כ\"ס ורעייתו - שלא יוכלו להיפגש",
+      "summary": "האיסור על רפי ומיטל סער לשוחח זו עם זה מסתיים היום, והמשטרה צפויה לבקש מבית המשפט להאריך את המגבלות • בני הזוג נתונים במעצר בית כבר יותר מ-10 ימים, ונאסר עליהם גם להגיע למשרדי העירייה",
+      "link": "https://www.israelhayom.co.il/news/law/article/21748407",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:52:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/thop0g-72",
       "title": "מהפך קצר במזג האוויר: זינוק בטמפרטורות ומחר - חם עד שרבי",
       "summary": "היום עוד יישאר נוח ורגיל לעונה, אך כבר מחר תחול עלייה ניכרת במעלות וייעשה חם מהרגיל ויבש ברוב הארץ. השינוי לא יאריך ימים: כבר ביום שלישי הטמפרטורות יצנחו בחזרה והלחות תעלה | התחזית המלאה (מזג האוויר)",
@@ -39,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T04:48:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21748390",
+      "title": "כלה בהאלווין: כוכבת \"כמעט מלאכים\" התחתנה",
+      "summary": "תשעה חודשים וחצי אחרי האירוסים, לאלי אספוסיטו נישאה לפדרו רוזמבלאט בתאריך שבו הכירו לפני שלוש שנים. היא הבטיחה חתונה אינטימית, אבל נדרי הנישואים שלה הגיעו לרשת",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21748390",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:35:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90124",
@@ -28749,51 +28812,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T05:17:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381772",
-      "title": "אש במזרח התיכון: ירדן תקפה בסוריה - מתח שיא מול משטר אל ג'ולאני",
-      "summary": "אחרי פיגוע הטרור בכנסייה, חיל האוויר הירדני תקף בסוריה. עם זאת, השלטונות המקומיים טוענים כי הדבר לא תואם עמם",
-      "link": "https://www.maariv.co.il/news/world/article-1381772",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T05:15:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89407",
-      "title": "הקלפיות נפתחו ברחבי הארץ ליום הבחירות",
-      "summary": "הקלפיות נפתחו הבוקר ברחבי הארץ ליום הבחירות. האזרחים יכולים להגיע להצביע החל מהשעה הנוכחית.",
-      "link": "https://www.kikar.co.il/scoop-news/89407",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T05:14:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21687222",
-      "title": "התה שמגן על הלב שלכם – וזה שעלול להזיק לו",
-      "summary": "תה שחור, ירוק או רויבוש? מחקרים מצביעים על קשר בין שתיית תה להפחתת הסיכון למחלות לב וכלי דם, אבל לא כל החליטות פועלות באותו אופן • כמה כוסות כדאי לשתות ביום, מה קורה כשמוסיפים סוכר ומאיזה תה דווקא מומלץ להיזהר?",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21687222",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T05:09:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21709343",
-      "title": "חמאה או שמן? הסודות של השפים לחביתה מושלמת",
-      "summary": "שפים מסבירים איזה שמן יעזור לכם לקבל שוליים פריכים, מתי כדאי להעדיף חמאה למרקם רך ועדין, ומה היתרון בשילוב בין השניים • כל הטיפים לטיגון נכון, לשליטה בחום ולבישול בטוח",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21709343",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T05:06:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21711153",
-      "title": "5 סרטי בחירות שאתם חייבים לראות היום",
-      "summary": "הפתקים הודפסו, הקלפיות נפתחו והבחירות לכנסת ה-26 יצאו לדרך • ליקטנו עבורכם סרטים שעוסקים בכל הצדדים המורכבים של הפוליטיקה עם הרבה תככים, מזימות, הומור - וקווי דמיון לישראל",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21711153",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T05:05:00.000Z"
     }
   ]
 }
