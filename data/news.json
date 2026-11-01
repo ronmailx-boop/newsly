@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:30:58.413Z",
+  "updatedAt": "2026-11-01T12:45:57.464Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tntpmf",
+      "title": "שמחת בית עטרת ישראל - חברון | המונים השתתפו בשמחת נישואי צאצאי ראשי הישיבות",
+      "summary": "קהל רב נטל חלק בשמחת נישואי החתן, נכדו של הגאון רבי בן ציון אזרחי ראש ישיבת 'עטרת ישראל', בן לבנו רבי חיים לייב אזרחי, עם הכלה נכדת הגאון רבי דוד כהן ראש ישיבת חברון וחבר מועצת גדולי התורה, בת לבנו רבי משה כהן | צפו בגלריה של הצלם שוקי לרר (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tntpmf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T12:43:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tntn04",
+      "title": "סערת הבובות: הפוסק מ'מנחת יצחק' יוצא נגד צעצועי הילדים והוויטרינות",
+      "summary": "פסק הלכה מעניין מעורר דיון נרחב בבתי ההוראה: הגאון רבי חיים אהרן בלייער יוצא באזהרה חריגה סביב איסור עשיית צורת אדם וצעצועי ילדים • אילו בובות אסורות בהחלט בשהייה בבית, מה דינן של בובות הכסף בויטרינה, ומה הפתרון המהודר? (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tntn04",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T12:36:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/utj-denies-all-unofficial-reports-minority-governm",
+      "title": "ממשלת מיעוט עם איזנקוט? ביהדות התורה מגיבים ל\"כותרות ותדרוכים\"",
+      "summary": "יו\"ר יהדות התורה מבהיר: כל פרסום שלא נמסר רשמית מטעמנו מוכחש מראש • \"לא נקים מוקד הכחשות לכל דיווח סרק\" | התגובה מגיעה על רקע דיווחים על בחינת ממשלת מיעוט (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/utj-denies-all-unofficial-reports-minority-governm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T12:30:43.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/tntokq",
       "title": "'כסא רחמים': עצרת חיזוק מרכזית לזכרם של שלשת גדולי רבני הישיבה",
@@ -66,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T12:26:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/christa-pike-execution-survivor-first-statement",
+      "title": "האישה ששרדה את ההוצאה להורג מדברת לראשונה: \"הגוף שלי דואב כולו\"",
+      "summary": "חודש לאחר שניצלה מזריקת רעל קטלנית בטנסי • פייק מתארת כאבים עזים בכל הגוף וטראומה נפשית | \"עדיין מתקשה לדבר\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/christa-pike-execution-survivor-first-statement",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T12:26:18.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/christa-pike-execution-survivor-first-statement",
@@ -498,6 +534,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T11:24:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1383507",
+      "title": "בלי רוטציה: אייל ברקוביץ' מציע לנתניהו עוד ארבע שנים בשלטון",
+      "summary": "אייל ברקוביץ' הציע ממשלת אחדות בראשות נתניהו, אף שכינה אותו \"המחריב הכי גדול של מדינת ישראל\". ההסכמה המפתיעה עם אראל סג\"ל לוותה במתקפה על גוש השינוי ובהתנגדות לצירוף החרדים",
+      "link": "https://www.maariv.co.il/news/politics/article-1383507",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-01T11:20:36.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1383507",
@@ -29460,42 +29505,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-27T12:46:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1381954",
-      "title": "אחרי אסון הגג בנובי־סאד: הסטודנטים במדינה האירופית מתכוננים להקים ממשלה",
-      "summary": "תנועת הסטודנטים בסרביה, שנולדה מהמחאה על אסון נובי־סאד ואין לה מנהיג רשמי, מתכוננת להקים ממשלה ולסיים 14 שנות שלטון שהפך סמכותני. מי עומד מאחוריה, ואיך תתמודד עם מוסדות שמאוישים בנאמני המשטר היוצא?",
-      "link": "https://www.maariv.co.il/news/world/article-1381954",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T12:39:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1381953",
-      "title": "התרנגולת שהטילה פצצה: \"כל המפלגות ביצים שלי\"",
-      "summary": "ביום הבחירות הפך שוק מחנה יהודה למוקד בילוי, כשבין הדוכנים הסתובב צעיר בתחפושת תרנגולת עם מסר נגד כל המפלגות. בין המסעדות המלאות וההומור הפוליטי, המבקרים הביעו תקווה לשינוי",
-      "link": "https://www.maariv.co.il/news/politics/article-1381953",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T12:35:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1381953",
-      "title": "התרנגולת שהטילה פצצה בירושלים: \"כל המפלגות ביצים שלי\"",
-      "summary": "ביום הבחירות הפך שוק מחנה יהודה למוקד בילוי, כשבין הדוכנים הסתובב צעיר בתחפושת תרנגולת עם מסר נגד כל המפלגות. בין המסעדות המלאות וההומור הפוליטי, המבקרים הביעו תקווה לשינוי",
-      "link": "https://www.maariv.co.il/news/politics/article-1381953",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T12:35:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21717803",
-      "title": "\"מנסים לגנוב לנו את הבחירות\": נתניהו חוזר לנשק הבחירות של 2015",
-      "summary": "ראש הממשלה פרסם \"קריאת חירום\" למצביעי הליכוד והזהיר מפני שיעורי ההצבעה בחברה הערבית, בדומה לסרטון שעורר סערה לפני 11 שנים • ברקע: מעצר שלושה חשודים בשוחד בחירות בנגב • המשטרה הבהירה כי אינם בכירי רע\"ם, ובוועדת הבחירות לא זיהו סימנים לזיוף שיטתי",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21717803",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T12:33:11.000Z"
     }
   ]
 }
