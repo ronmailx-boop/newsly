@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T14:45:51.826Z",
+  "updatedAt": "2026-11-01T15:01:06.680Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tnttry",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 17:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 17:00",
+      "link": "https://www.kikar.co.il/haredim-news/tnttry",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T15:00:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tntuue",
+      "title": "טראמפ בסכנה? הקרב על הקונגרס מתחמם: המושבים שעלולים לעבור לידי הדמוקרטים | פרויקט מיוחד",
+      "summary": "48 שעות לפני בחירות האמצע בארצות הברית, הרפובליקנים מתמודדים עם אפשרות לאבד את השליטה בבית הנבחרים ואולי גם בסנאט • באוהיו, מיין, אלסקה וקנזס מתנהלים מרוצים צמודים במיוחד, ובטקסס ובצפון קרוליינה הדמוקרטים מנסים לחולל מהפך • אובדן שני בתי הקונגרס יעמיד את ממשל טראמפ מול אופוזיציה שתשלוט במוקדי הכוח המחוקקים והפיקוחיים בוושינגטון",
+      "link": "https://www.kikar.co.il/world-news/tntuue",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T14:52:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1i04avtgg",
+      "title": "לראשונה מאז הבחירות: ליברמן נפגש עם איזנקוט - ויקיים תדרוך סגור",
+      "summary": "יו\"ר ישראל ביתנו, שלא הרבה להתבטא מחוץ לגבולות רשת X מאז פרסום תוצאות האמת, צפוי לשאת מחר הצהרה ולערוך תדרוך סגור לעיתונאים. אמש, נפגש לראשונה עם יו\"ר ישר גדי איזנקוט",
+      "link": "https://www.ynet.co.il/news/article/s1i04avtgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-01T14:52:08.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-courts/buyer-left-with-nothing-seller-canceled-deal",
       "title": "הקונה נשארה בלי כלום: המוכר התחרט ברגע האחרון ולא ישלם פיצוי",
@@ -84,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-01T14:37:24.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383959618",
+      "title": "למען היציבות: החסינות הישראלית מחיסולים לבכירי חמאס",
+      "summary": "בצבא מאשרים כי צה\"ל נמנע מחיסול ראשי רשויות ובכירים בעזה כדי למנוע כאוס - בהיעדר חלופה שלטונית. לצד זאת, מחוסלים פעילי שטח, כמעט בכל יום",
+      "link": "https://www.walla.co.il/news/military/383959618",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T14:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21751386",
@@ -210,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T13:58:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1383587",
+      "title": "פעם הרגישו בבית - היום הם מפחדים: העדויות המטלטלות מבלגיה",
+      "summary": "מורה יהודייה שמספרת על תקיפה בבית הספר, תושב שנדרס ביציאה מבית הכנסת ופעילה שחוששת לדבר עברית ברחוב. ארבע עדויות מבלגיה חושפות את הפחד הגובר בקהילה היהודית ואת תחושת הנטישה מצד הממסד",
+      "link": "https://www.maariv.co.il/news/world/article-1383587",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-01T13:55:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1383587",
@@ -525,6 +570,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T13:22:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/music/383959656",
+      "title": "יו2 נגד אואזיס - מי תשבור את הקיץ?",
+      "summary": "שתי מפלצות הרוק חוזרות לאצטדיונים ב-2027. אואזיס באה לחגוג מחדש את האיחוד, יו2 מבטיחה לשכלל את הבום טראח הראוותני שלה. מה שבטוח, זו תהיה הזדמנות להרגיש שוב צעירים, רק הפעם עם כרטיס אשראי יותר מפנק",
+      "link": "https://www.walla.co.il/entertainment/music/383959656",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T13:21:40.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/music/383959656",
@@ -1182,6 +1236,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T11:46:17.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3874499",
+      "title": "128 ש\"ח ל-100 גרם סטייק? השואו החדש והכשר של רושפלד בנתניה",
+      "summary": "128 ש\"ח ל-100 גרם סטייק? השואו החדש והכשר של רושפלד בנתניה",
+      "link": "https://food.walla.co.il/item/3874499",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T11:45:00.000Z"
     },
     {
       "id": "walla:https://food.walla.co.il/item/3874499",
@@ -3756,6 +3819,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T06:25:17.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874439",
+      "title": "מכבי ת\"א המומה ונבוכה: מי הדליף לפיני גרשון",
+      "summary": "הצהובים יפגשו את הפועל תל אביב בדרבי הליגה הראשון העונה (20:55) כשברקע הניסיון הלא מוצלח להתחזק (\"בלתי אפשרי במצבת הגארדים הנוכחית\") והפרסום המפתיע שיצא מטעם ריצ'רד דיץ: \"דברים שאסור שייצאו החוצה\"",
+      "link": "https://sports.walla.co.il/item/3874439",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T06:25:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3874439",
@@ -29496,69 +29568,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T15:01:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21719359",
-      "title": "חפירות בריכות שחייה: תכנון מקצועי, בטיחות ובקרת איכות בשטח",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21719359",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T15:01:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/haredi-voter-switched-ben-gvir-gimmel-rabbi-hirsch",
-      "title": "כזה עוד לא היה | ראש הישיבה נעתר לבקשת הבחור והקריא במשך זמן רב את הברכה שביקש",
-      "summary": "בחור חרדי מרמת שלמה התחייב לחבר: אם הגרמ\"ה הירש יברך אותי - אעבור מבן גביר לג' • מטה 'עמיילים' העביר את הבקשה לראש הישיבה שנענה מיד | תיעוד מרגש (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim/haredi-voter-switched-ben-gvir-gimmel-rabbi-hirsch",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T14:57:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89502",
-      "title": "שר הבריאות האמריקאי קנדי: האחים המוסלמים מפיצים שנאת יהודים ואנטי-דמוקרטיה",
-      "summary": "שר הבריאות האמריקאי רוברט קנדי ג'וניור תקף את תנועת האחים המוסלמים וטען כי היא מפיצה \"אידיאולוגיה רעילה\" של שנאת יהודים, שנאת אמריקה ושנאת הציוויליזציה המערבית. לדבריו, התנועה שואפת לחסל את הדמוקרטיה ולהשליט חוקי שריעה. קנדי הוסיף כי שנאת היהודים בקרב האחים המוסלמים קדמה להקמת מדינת ישראל, וטען: \"אין יהודים בערב הסעודית, בתוניסיה, בלוב או באלג'יריה - זהו רצח העם האמיתי במזרח התיכון\". השר גם שיבח את הישגיה של ישראל והפכה למעצמת הייטק.",
-      "link": "https://www.kikar.co.il/scoop-news/89502",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T14:57:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21718893",
-      "title": "\"יום הדין של נתניהו\": עיני התקשורת העולמית נשואות לישראל",
-      "summary": "הבחירות בישראל הגיעו לכותרות הראשיות בעיתונים מרכזיים בעולם כשכלי תקשורת רבים הגדירו את ההצבעה כ\"חבל דק\" עבור ראש הממשלה נתניהו • ב\"קורייר דלה סרה, האיטלקי הוגדרו הבחירות כ\"משאל עם על נתניהו\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21718893",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T14:53:22.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3873946",
-      "title": "וואו: כך הפכו 16 שקלים לארבעה מיליון, בהימור פשוט משוגע",
-      "summary": "אוהד אסטון וילה הצליח לנחש את מספר הקרנות ב-12 משחקים באנגליה וזכה כמעט במיליון ליש\"ט, ביחס זכייה בלתי נתפס של 1 ל-249,345. את הבשורה גילה רק חצי שעה לאחר סיום המשחקים: \"הרגשתי קצת חולה מרוב התרגשות",
-      "link": "https://sports.walla.co.il/item/3873946",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-27T14:53:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1381987",
-      "title": "השיטפונות בדרום: טרקטורון נסחף בזרם, חשש לגורל הנהג",
-      "summary": "בעקבות השיטפונות בערבה אותר טרקטורון שנסחף במים, וכוחות חילוץ מחפשים אחר הנהג מחשש שהוא נעדר. במקביל, ההצפות הובילו לחסימת מספר כבישים, וכל הדרכים לאילת וממנה חסומות לתנועה",
-      "link": "https://www.maariv.co.il/news/israel/article-1381987",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T14:51:51.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%97%D7%92_%D7%90%D7%92_",
-      "title": "מירב והרצל חג'אג': רע\"מ של היום היא כמו חמאס של לפני כמה עשורים",
-      "summary": "על רקע העליה באחוזי ההצבעה במגזר הערבי, שוחחנו עם הרצל ומירב חג'אג' על התחקירים בנושא רע\"מ, ועל הסכנה שעומדת בפני מדינת ישראל",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%97%D7%92_%D7%90%D7%92_",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-27T14:49:00.000Z"
     }
   ]
 }
