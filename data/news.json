@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:01:10.823Z",
+  "updatedAt": "2026-11-01T22:15:52.673Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1383746",
+      "title": "9 הרוגים בעקבות התרסקות מטוס בפלורידה - \"זה פשוט טירוף\"",
+      "summary": "מטוס מנהלים פרטי ועליו תשעה בני אדם צלל בפתאומיות לתוך פארק קרוואנים בפלורידה, גרם לפיצוץ עז ולשרפת ענק והותיר אחריו הרס כבד. עדי ראייה תיארו את רגעי האימה: \"נשמע פיצוץ אדיר שהרעיד את הקרקע\"",
+      "link": "https://www.maariv.co.il/news/world/article-1383746",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-01T22:08:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21756448",
+      "title": "פרופ’ מרים אדלסון זכתה לאות הוקרה מיוחד בערב הגאלה של תגלית",
+      "summary": "אשת העסקים והפילנתרופית פרופ' מרים אדלסון זכתה לאות הוקרה מיוחד על תרומתה רבת השנים לתגלית, במסגרת ערב הגאלה החגיגי שפתח את כנס העסקים הבינלאומי הראשון של הארגון בתל אביב • באירוע, שהתקיים במעמד נשיא המדינה יצחק הרצוג ומאות מנהלים בכירים ומשקיעים מישראל ומהעולם, הדגישה אדלסון את חשיבות חיזוק הזהות היהודית והתמיכה במדינה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21756448",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T22:00:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21756608",
+      "title": "חשש לקטיעת אצבעות: צעיר נפצע מרימון הלם בהפגנה בבית שמש",
+      "summary": "חמישה בני אדם נוספים נפגעו בהפגנת החרדים במהלך האירוע, שלושה מהם פונו לבתי חולים בירושלים במצב קל • שניים נוספים קיבלו טיפול רפואי ראשוני במקום",
+      "link": "https://www.israelhayom.co.il/news/local/article/21756608",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:55:59.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/almog-cohen-air-force-commander-classified-officer",
       "title": "מכתב צבאי חריג: \"אלמוג כהן סיכן קצין בתפקיד רגיש\"",
@@ -77,10 +104,118 @@
       "pubDate": "2026-11-01T21:34:45.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21756507",
+      "title": "חשב שמדובר בכאבי ראש חולפים - וגילה גידול עצום במוחו",
+      "summary": "דוד טוקר סבל במשך חודשים מכאבי ראש שהלכו והחמירו, ובהמשך גם מטשטוש וראייה כפולה • בדיקות בהדסה חשפו גידול שהתפרס על פני שני אזורים במוחו • הצוות הרפואי השלים ניתוח מורכב שנמשך 12 שעות והסיר את הגידול • לאחר אשפוז ושיקום קצר, הצעיר חזר לשגרת חייו ולאימונים בחדר הכושר",
+      "link": "https://www.israelhayom.co.il/health/article/21756507",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:31:06.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21740208",
       "title": "מזל טלה, תחזית הורוסקופ יומית 02.11.2026",
       "summary": "יום לא קל. צפויים כעסים ונראה כי מילים חריפות עפות לכל עבר",
       "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21740208",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21740209",
+      "title": "מזל שור, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "הכוכבים יוצרים מצבים שאין לצפותם מראש. אתם מוצאים את עצמכם בסיטואציה הדורשת מכם לבצע עבודה גדולה ולהתאמץ הרבה מאוד, בלי יכולת להפעיל אחרים לעשות עבורכם מטלות כאלה ואחרות",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21740209",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21740210",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "הכוכבים מעודדים אתכם לפרוק עול ורסן. יש לכם דעה נחרצת כמעט על כל דבר",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21740210",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21740251",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "מפגש עם בני מזל אש (טלה, קשת או אריה) יביא הזדמנות של ממש לחיבור ברמה רגשית ונפשית עמוקה. &#xD; &#xD; אגב, זה לא חייב להיות משהו רומנטי אלא קטע של חברות בלב ובנפש שתתרום לכם הרבה",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21740251",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21740252",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "האנרגיה הקוסמית מסייעת לכם להעניק משקל לדברים החשובים באמת, ולהתעלם משטויות. ראיה צלולה של המציאות תאפשר לכם לפעול במהירות ובדייקנות, במיוחד במקומות הקשורים לחיים המשפחתיים",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21740252",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21740253",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "היום אתם נוכחים לדעת כי קשה לכם מאוד להתמודד אפילו עם מטלות פשוטות. אתם מבזבזים המון זמן בהתרוצצות ובעיסוק בטפל, אבל בעצם אתם מחפשים עידוד",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21740253",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21740273",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "יום גדוש רומנטיקה וחיזורים. הטלפון יצלצל היום לעיתים קרובות ואתם תרגישו מאוד מחוזרים ורצויים גם במקומות מפתיעים",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21740273",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21740274",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "למרות הרצון העקרוני להתבודד ולעשות הכול בעצמכם, נראה שיהיה נכון אם תסתייעו באדם שעוסק בתחום העיסוק שלכם או לפחות מבין בו. אפשרו לאחרים להתקרב ואל תפרשו מצב זה כחולשה",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21740274",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740275",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "אתם עסוקים בלהרשים אנשים ושוכחים להקדיש חלק מהאנרגיה שלכם לבני המשפחה. מומלצת חלוקה מאוזנת יותר של המשאבים",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740275",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21740300",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "כוכבים המבשרים על שינויים נמצאים בדרך אליכם. התחושה הגופנית המשופרת מצביעה על כיוון פעולה ברור",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21740300",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21740301",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "מצב הכוכבים מעניק לכם הזדמנות לצאת לעצמאות כלכלית. הצעה שתגיע כאילו משום מקום, תתגלה כעסקה מעניינת וראויה ששווה בחינה מדוקדקת ורצינית",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21740301",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T21:30:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21740302",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 02.11.2026",
+      "summary": "מערך הכוכבים מעודד ניידות. צפויה הצעה מפתיעה לנסיעה",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21740302",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T21:30:21.000Z"
@@ -28848,51 +28983,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-27T22:17:02.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959155",
-      "title": "בעולם מסכימים: הבחירות בישראל הסתיימו, ההכרעה עוד לפנינו",
-      "summary": "כלי התקשורת בעולם עוקבים אחר הבחירות: באירופה הצביעו על יתרון האופוזיציה, בעולם הערבי התמקדו בכוחן של המפלגות הערביות - ובאוסטרליה הזהירו ממבוי סתום פוליטי. כיצד סיקרו את תוצאות המדגמים",
-      "link": "https://www.walla.co.il/news/world/383959155",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-27T22:13:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382098",
-      "title": "בש\"ס ביטלו את הכנס הערב - אבל משדרים אופטימיות: \"תודה לבורא עולם\"",
-      "summary": "בש\"ס ביטלו את כנס הפעילים שתוכנן להערב - והמראה באולם המרכזי מדכא. גורם בקמפיין אמר ל\"מעריב\": \"למרות קמפיין אגרסיבי, ש\"ס מוכיחה פעם נוספת את כוחה בציבור\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382098",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T22:13:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/tnl070",
-      "title": "פילבר בערוץ 14: הימין עולה ל-61, ליברמן לא עובר את אחוז החסימה",
-      "summary": "עם סגירת הקלפיות, ערוצי התקשורת פרסמו את נתוני המדגמים שבוצעו לאורך היום | מסתמן: עדיין אין הכרעה בין הגושים, המפלגות הערביות רושמות זינוק היסטורי וחסר תקדים (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/tnl070",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T22:06:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89601",
-      "title": "ליברמן קורא לחברי הליכוד להדיח את נתניהו",
-      "summary": "יו\"ר ישראל ביתנו אביגדור ליברמן קרא לחברי הליכוד להרים \"נס מרד\" ולהדיח את ראש הממשלה בנימין נתניהו. \"נתניהו חייב לרדת מהבמה. תרימו נס מרד בתוך הליכוד - ותעיפו אותו\", אמר.",
-      "link": "https://www.kikar.co.il/scoop-news/89601",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T22:05:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89600",
-      "title": "דרעי: פערים גדולים במדגמים, ש\"ס צפויה לתוצאה טובה מאוד",
-      "summary": "יו\"ר ש\"ס אריה דרעי אמר כי תוצאות המדגמים מציגות פערים גדולים ולכן יש להמתין לתוצאות האמיתיות. לדבריו, מהנתונים שבידי ש\"ס המפלגה צפויה להציג תוצאה טובה מאוד.",
-      "link": "https://www.kikar.co.il/scoop-news/89600",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T22:04:14.000Z"
     }
   ]
 }
