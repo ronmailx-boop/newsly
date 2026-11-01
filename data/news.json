@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:01:09.362Z",
+  "updatedAt": "2026-11-01T09:15:53.329Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1383427",
+      "title": "הונאה מטרידה: בת 79 יצאה לפגוש נער מהרשת",
+      "summary": "קשישה סינית יצאה לבדה למסע כדי לפגוש נער שהכירה ברשת, אלא ששיחה עם שוטרי הרכבת חשפה תרמית מטרידה. מאחורי הסיפור מסתתרת תופעה שצברה יותר מ-620 מיליון צפיות",
+      "link": "https://www.maariv.co.il/news/viral/article-1383427",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-01T09:13:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/afula-synagogue-vandalism-teen-indictment",
+      "title": "חרפה בצפון | בגלל מריבה עם בני המשפחה: קטין חילל בית כנסת ונעצר • תיעוד",
+      "summary": "קטין בן 15 רב עם בני משפחתו ובתגובה פרץ לבית כנסת בעיר • השחית ספרי קודש, הצית נייר טואלט וגנב קופת צדקה | כתב אישום הוגש נגדו (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/afula-synagogue-vandalism-teen-indictment",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T09:09:19.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/life-insurance-haredi-sector",
+      "title": "למה ביטוח חיים ב'ריסק' הוא כבר מזמן לא טאבו במגזר החרדי?",
+      "summary": "הוצאות שוטפות, חתונות של הילדים ושכר לימוד - כראשי משפחה, הכל מונח על הכתפיים שלנו. אלא שלצד האמונה והביטחון, ההלכה מחייבת אותנו ב\"חובת ההשתדלות\" לדאוג ליום שאחרי • ב'כתר מגן' לוקחים אחריות על העתיד הכלכלי של הבית ומסבירים למה דווקא עכשיו זה הזמן להסדיר מטריית הגנה פיננסית למשפחה - ובמחיר שווה לכל נפש",
+      "link": "https://www.kikar.co.il/haredim-news/life-insurance-haredi-sector",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T09:08:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/crane-collapse-construction-accident",
+      "title": "היום האחרון בעבודה: מנוף ענק קרס עם מבנה טרומי על בניין",
+      "summary": "בית טרומי במשקל עצום שהורם באוויר איבד שיווי משקל וריסק בית מגורים על יושביו (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/crane-collapse-construction-accident",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T09:05:02.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sj1r9cxaze",
+      "title": "התחמושת האמיתית לאויבים",
+      "summary": "בעולם רואים בחומרה את השיח הישראלי הקשה כלפי הקול הערבי. חיזבאללה וחמאס נהנים במיוחד, וסבורים שהעמקת השסע תוביל לקריסתה של ישראל",
+      "link": "https://www.ynet.co.il/news/article/sj1r9cxaze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-01T09:03:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tntfc6",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tntfc6",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T09:00:29.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1383419",
       "title": "איראן מחכה לחבל הצלה מרוסיה: \"אחרי המלחמה, אם ירצה השם\"",
       "summary": "צבא איראן מאשר לראשונה כי עסקת מטוסי הסוחוי 35 עם רוסיה הושלמה, אך מסירתם נדחתה עד לאחר המלחמה. ברקע האפשרות לחידוש התקיפות האמריקאיות, בטהרן מצפים לשדרוג משמעותי של חיל האוויר",
@@ -39,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T08:57:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21749610",
+      "title": "יום אחרי שחגג 56: תפסנו את איציק זוהר",
+      "summary": "אחרי יום ההולדת הגיע תורו של צלם ForReal. זוהר נתפס יוצא מחנות למוצרי שיער, ובהמשך הערב צפויה לו חגיגה נוספת עם חברים",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21749610",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:57:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1383418",
@@ -50,6 +113,24 @@
       "pubDate": "2026-11-01T08:56:48.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21749349",
+      "title": "לירז צ'רכי שלחה מסר חד משמעי לאבי שושן",
+      "summary": "רייטינג: חשיפת הבצל ב\"הזמר במסכה\" העניקה לקשת 12 ניצחון בפריים טיים עם 15.3% מול 12.9% ל\"הישרדות\" • חדשות 12 דרסה בחדשות בעוד ערוץ 14 נדחק למקום השלישי",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21749349",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:55:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21749390",
+      "title": "אוכלים חופן בוטנים ביום? זה מה שקורה למוח שלכם",
+      "summary": "מחקר חדש בדק מה מחוללת צריכה יומיומית של הפיצוח הפופולרי במשך 16 שבועות • המדענים גילו שיפור בזיכרון המילולי, ביכולת הלמידה ובזרימת הדם למוח בקרב מבוגרים • כך עשוי להשפיע עלינו הנשנוש היומי",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21749390",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:53:57.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1383417",
       "title": "בלי חוק גיוס: איזנקוט מקבל מהחרדים פתח להקמת ממשלה",
       "summary": "בכירים ביהדות התורה מאותתים על נכונות לתמוך מבחוץ בממשלת איזנקוט, גם בלי חוק גיוס מראש. בתמורה הם דורשים תקציבים וחוקים לציבור החרדי, כשהקמת הממשלה תלויה גם במפלגות הערביות",
@@ -57,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T08:48:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21749315",
+      "title": "עדי בוזגלו משחררת: \"לא תמיד אפשר להילחם\"",
+      "summary": "כוכבת הריאליטי ואישתו של כדורגלן העבר וזוכה הריאליטי אסי בוזגלו דיברה על ההחלטה להפסיק להיאבק ולשחרר. \"יש רגעים שהראש רוצה משהו, אבל הנפש כבר לא שם\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21749315",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:48:23.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjvdfdntmx",
@@ -68,6 +158,24 @@
       "pubDate": "2026-11-01T08:48:21.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21749416",
+      "title": "מישל גרציג על ההצעה מנטפליקס: \"עדיין שוקלת\"",
+      "summary": "במהלך צילומי הקמפיין החדש של דלתא, מישל גרציג חשפה שקיבלה הצעה מנטפליקס לסדרת דוקו על חייה • לצדה הצטלמו לראשונה סאן מזרחי ואליאנה תדהר",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21749416",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:47:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21749487",
+      "title": "אירוע אנטישמי בתאילנד: אהבת השם גורדון תיעד הכול",
+      "summary": "אחרי רגע לא צפוי ברחוב, גורדון תיעד את מה שקרה ובחר להסביר לעוקבים למה מבחינתו יש גבול שלא חוצים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21749487",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:45:01.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1383392",
       "title": "נאור נלחם במחבלים ונפל. מה שגילו הוריו בשבעה הפך למפעל חיים",
       "summary": "נאור סיבוני, לוחם גולני שנפל בקרב על מוצב נחל עוז ב-7 באוקטובר, הותיר אחריו סיפור גבורה ומעשי חסד שמשפחתו לא הכירה. הגילוי בשבעה הוביל את הוריו להקים מפעל הנצחה שממשיך לצמוח",
@@ -75,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T08:39:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21749037",
+      "title": "\"כולם יהיו עשירים ואף אחד לא יעבוד\": החזון המנותק של מייסד אורקל",
+      "summary": "בעוד ענף ההייטק מדמם עשרות אלפי משרות וחברתו מפטרת בסיטונאות, מייסד אורקל לארי אליסון מציג חזון אוטופי שבו AI ורובוטים יהפכו את כל בני האדם ל\"עשירים ובריאים יותר\" • הפתרון שלו: מעבר ממיסוי עבודה אנושית למיסוי הערך המוסף שמייצרות המכונות וחלוקת \"הכנסה גבוהה אוניברסלית\"",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21749037",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:38:34.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/polite-robber-pays-toll-police-chase",
@@ -86,6 +203,24 @@
       "pubDate": "2026-11-01T08:37:55.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21749272",
+      "title": "הרים בטעות טלפון של תיירת - נעצר ולא מורשה לעזוב את תאילנד במשך 9 חודשים",
+      "summary": "תייר סקוטי הגיע לבנגקוק לחופשה קצרה, אך טעות בזיהוי טלפון נייד הובילה למעצרו ולהליך משפטי ממושך • למרות ששני שוטרים העידו כי מדובר היה באי-הבנה, ובעלת המכשיר קיבלה את התנצלותו, הוא אינו יכול לעזוב את תאילנד עד להכרעת בית המשפט, הצפויה ב-9 בדצמבר",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21749272",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:35:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21749216",
+      "title": "32 שב\"חים חדרו דרך הביוב: החשש הביטחוני ביהודה ושומרון",
+      "summary": "מעבר תת-קרקעי שהתבסס על תשתיות ביוב שימש להברחת שוהים בלתי חוקיים מאזור א-ראם לשטח ישראל • פתח הכניסה הוסתר מתחת לרכב מסחרי, והגישה אליו התאפשרה מתוך הרכב עצמו • 36 חשודים נעצרו • החשיפה מעלה שאלות בנוגע לאבטחת קו התפר וליכולת למנוע חדירות מתחת לפני האדמה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21749216",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:34:58.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90161",
       "title": "נחשף: מחוסל חמאס ליווה את גלעד שליט ביום שחרורו",
       "summary": "ערפאת אלערעיר, מחבל חמאס שחוסל בתקיפה ישראלית ב-22 באוקטובר ומת מפצעיו בסוף השבוע, שימש כמלווה האישי של אחמד אלג'עברי, רמטכ\"ל חמאס שחוסל במבצע עמוד ענן ב-2012. מתוקף תפקידו זה, ליווה את גלעד שליט ביום שחרורו. באותה תקיפה חוסל גם פואד אלע'ולה. שני המחוסלים היו ברשימה שפרסם העיתונאי העזתי חמזה אלמצרי כשבועיים לפני התקיפה, ובעקבות כך הואשם אלמצרי בסיוע לשב\"כ. בהלוויה קראו המשתתפים: \"חמזה אלמצרי יא משת\"פ, נדרוך על ראשך\".",
@@ -95,6 +230,15 @@
       "pubDate": "2026-11-01T08:33:14.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21748753",
+      "title": "יעקב בוזגלו מפתיע: תפקיד השר שהיה נותן לאחמד טיבי",
+      "summary": "כוכב \"הבוזגלוס\" ואביהם של כדורגלני העבר מאור, אסי ואוהד בוזגלו הביע תמיכה בחברה הערבית ואף הציע למנות את חבר הכנסת לעמוד בראש משרד הבריאות • \"יש הזדמנות לשלב אותם איתנו, לא כסוג ב', אזרחים שווים\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21748753",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:33:10.000Z"
+    },
+    {
       "id": "walla:https://fashion.walla.co.il/item/3874467",
       "title": "גאווה ישראלית: ההישג הבינלאומי של מכללת שנקר",
       "summary": "כבוד! המחלקה לעיצוב אופנה בשנקר נכנסה לרשימת בתי הספר המובילים בעולם לשנת 2027 של מגזין האופנה הבינלאומי Vanilla, לצד מוסדות נחשבים מלונדון, ניו יורק ופריז",
@@ -102,6 +246,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-01T08:32:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21749324",
+      "title": "מזעזע: אם ובתה שניהלו פעוטון הכו, סטרו וטלטלו תינוקות בני 8 חודשים",
+      "summary": "כתב האישום נגד ברכה אלון ושני בקר הוגש בבית משפט השלום בפתח תקווה • האירועים התרחשו \"בגן של ברכה\" בכפר סבא, אותו ניהלה האם ובו בתה שימשה כסייעת • בפעוטון שהו ילדים מגיל 3 חודשים עד 3 שנים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21749324",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:31:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21749267",
+      "title": "\"היה קשה מאד\": משפחתה של מור שמלי שופכת אור אחרי לכתה",
+      "summary": "בריאיון ל\"היום\", נחום ישראלי נפרד מאחייניתו ומספר על הקשר הקרוב ביניהם, המפגשים שהפכו נדירים והמאבק שניהלה לאחר רצח בעלה • כעת הוא מבקש שימשיכו בדרכה: \"הלוואי ומישהו ירים את הכפפה וייתן תשובות\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21749267",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T08:30:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21749265",
@@ -195,6 +357,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383959630",
+      "title": "מצרפת ועד הולנד: המחאות באירופה יצאו משליטה",
+      "summary": "565 בני אדם נעצרו בצרפת, שם נפצע שוטר מבקבוק תבערה. בגרמניה הוצתו מחסומים והושלכו זיקוקים לעבר שוטרים, בפורטוגל פונו מאהלי מחאה ובהולנד נעצרו 34 מפגינים",
+      "link": "https://www.walla.co.il/news/world/383959630",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T08:14:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959630",
       "title": "מאות עצורים ועימותים עם שוטרים: גל המחאות באירופה מסלים",
       "summary": "565 בני אדם נעצרו בצרפת, שם נפצע שוטר מבקבוק תבערה. בגרמניה הוצתו מחסומים והושלכו זיקוקים לעבר שוטרים, בפורטוגל פונו מאהלי מחאה ובהולנד נעצרו 34 מפגינים",
       "link": "https://www.walla.co.il/news/world/383959630",
@@ -223,7 +394,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21749177",
       "title": "לזמן מוגבל: רשת ההמבורגרים מציעה המבורגר במתנה - בתנאי אחד",
-      "summary": "לרגל חודש השופינג: שייק שאק מחלקת המבורגר למבוגרים בשווי של החל מ-34 שקלים על כל קניית ארוחת ילדים • המבצע תקף למישה ימים בלבד בישיבה בסניפים • כל הפרטים",
+      "summary": "לרגל חודש השופינג: שייק שאק מחלקת המבורגר למבוגרים בשווי של החל מ-34 שקלים על כל קניית ארוחת ילדים • המבצע תקף למישה ימים בלבד בישיבה בסניפים ובטייק אווי • כל הפרטים",
       "link": "https://www.israelhayom.co.il/food/food-news/article/21749177",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -329,19 +500,19 @@
       "pubDate": "2026-11-01T08:01:00.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tntbyp",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 10:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 10:00",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/tntbyp",
+      "id": "kikar:https://www.kikar.co.il/law-and-order/tnsgou",
+      "title": "נפגע בבריכה במהלך נופש מהעבודה: למה התביעה נדחתה?",
+      "summary": "עובד ביקש להכיר בפציעתו בבריכת מלון כתאונת עבודה, בטענה שהנופש אורגן ומומן בחלקו בידי המעסיק. בית הדין בחן את מטרת הנופש ואת נסיבות הפגיעה (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/tnsgou",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T08:00:00.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tnsgou",
-      "title": "נפגע בבריכה במהלך נופש מהעבודה: למה התביעה נדחתה?",
-      "summary": "עובד ביקש להכיר בפציעתו בבריכת מלון כתאונת עבודה, בטענה שהנופש אורגן ומומן בחלקו בידי המעסיק. בית הדין בחן את מטרת הנופש ואת נסיבות הפגיעה (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tnsgou",
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tntbyp",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 10:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 10:00",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tntbyp",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T08:00:00.000Z"
@@ -1272,6 +1443,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T04:57:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21748411",
+      "title": "מופע ענק לוומבי ב-111:121 של סן אנטוניו על מינסוטה",
+      "summary": "הצרפתי קלע 43 נקודות וחסם 6 פעמים עבור הספרס • ממפיס עדיין מושלמת • 13 דקות לסייד אבו פרחי בהפסד של קולורדו",
+      "link": "https://www.israelhayom.co.il/sport/article/21748411",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-01T04:55:56.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21748411",
@@ -28857,87 +29037,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-27T09:20:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21712446",
-      "title": "טל מוסרי: \"הפצעים שלי מתחילים להתרפא\"",
-      "summary": "ההצגה שגרמה לו לפרוץ בבכי ולצאת מהאולם • השיעור החשוב שלמד מאשתו והולך איתו עד היום • ולמה הוא מבקש סליחה מילדיו • חיים שלמים ב-15 שאלות • והפעם: הצד הטוב של טל מוסרי, שחקן, זמר וכוכב ילדים",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21712446",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T09:15:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21703781",
-      "title": "האידיוט המקורי בכלל לא היה טיפש – אבל הוא באמת לא השתתף בבחירות",
-      "summary": "הסיפור שלפיו היוונים לעגו למי שלא משתתף בהליך הדמוקרטי מעוות מעט את המציאות – אבל הבסיס שלו נכון: היוונים לא העריכו בחירה להישאר מחוץ למשחק האזרחי",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21703781",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T09:08:00.000Z"
-    },
-    {
-      "id": "walla:https://e.walla.co.il/item/3873902",
-      "title": "כאן כבר מוקמות קואליציה ואופוזיציה חדשות, ומי זה אבי שושן?",
-      "summary": "סטפן מלחין מורלים, גל ורוני מנסות להבין מי זה אבי שושן, הבריתות נרקמות ואפילו קמה קואליציה ואופוזיציה. המשחק מתחיל באמת בפרק השני של \"הישרדות\", ותודה לאל על לינור",
-      "link": "https://e.walla.co.il/item/3873902",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-27T09:07:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381876",
-      "title": "בקשה חריגה: הבכיר בעירייה שנחקר בחשד לעבירות מין חושף את זהותו",
-      "summary": "אבי חיים, שנחקר בחשד לעבירות מין כלפי עובדת עירייה ביקש להסיר את צו איסור הפרסום על שמו. הוא מכחיש את החשדות וטוען כי זה קשר חד-פעמי בהסכמה מלאה ועלילת שווא. התיק מועבר לפרקליטות לצורך קבלת החלטה",
-      "link": "https://www.maariv.co.il/news/law/article-1381876",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T09:06:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1381876",
-      "title": "בקשה חריגה: הבכיר בעירייה שנחקר בחשד לעבירות מין חושף את עצמו",
-      "summary": "אבי חיים, שנחקר בחשד לעבירות מין כלפי עובדת עירייה ביקש להסיר את צו איסור הפרסום על שמו. הוא מכחיש את החשדות וטוען כי זה קשר חד-פעמי בהסכמה מלאה ועלילת שווא. התיק מועבר לפרקליטות לצורך קבלת החלטה",
-      "link": "https://www.maariv.co.il/news/law/article-1381876",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-27T09:06:36.000Z"
-    },
-    {
-      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%9C%D7%90%D7%97%D7%A8_%D7%94%D7%A4%D7%A8%D7%A1%D7%95%D7%9D_%D7%91%D7%A7%D7%95%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99__%D7%A6%D7%94_%D7%9C_%D7%94%D7%A8%D7%A1_%D7%90%D7%AA_%D7%90%D7%A0%D7%93%D7%A8%D7%98%D7%AA_%D7%94%D7%9E%D7%97%D7%91%D7%9C%D7%99%D7%9D",
-      "title": "לאחר הפרסום בקול היהודי: צה\"ל הרס את אנדרטת המחבלים",
-      "summary": "לאחר הפרסום בקול היהודי, ולאחר שחבר הכנסת צבי סוכות הגיע למקום ושבר את האנדרטה, ובמסגרת שינוי המדיניות של צה\"ל, נהרס סוף סוף אנדרטת המחבלים בכפר מדמא",
-      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%9C%D7%90%D7%97%D7%A8_%D7%94%D7%A4%D7%A8%D7%A1%D7%95%D7%9D_%D7%91%D7%A7%D7%95%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99__%D7%A6%D7%94_%D7%9C_%D7%94%D7%A8%D7%A1_%D7%90%D7%AA_%D7%90%D7%A0%D7%93%D7%A8%D7%98%D7%AA_%D7%94%D7%9E%D7%97%D7%91%D7%9C%D7%99%D7%9D",
-      "source": "הקול היהודי",
-      "sourceKey": "hakolhayehudi",
-      "pubDate": "2026-10-27T09:06:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89440",
-      "title": "ועדת הבחירות: פחות אירועים חריגים ממערכות קודמות",
-      "summary": "ועדת הבחירות המרכזית מדווחת כי יחסית לשעה הנוכחית, מספר האירועים החריגים נמוך משמעותית בהשוואה למערכות בחירות קודמות.",
-      "link": "https://www.kikar.co.il/scoop-news/89440",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-27T09:04:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21716489",
-      "title": "סגן ראש עיריית ראשל\"צ ויתר על צו איסור הפרסום: זה החשוד בעבירות מין בפקידה",
-      "summary": "אבי חיים, שנחקר בחשד לעבירות מין בפקידה בעירייה, הודיע באמצעות סנגורו כי הוא מוותר על החיסיון • הדיון בבקשה להארכת הצו היה אמור להתקיים מחר בבית משפט השלום • ההחלטה התקבלה בעצת עורך דינו, עו\"ד עופר אלמוג",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21716489",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T09:02:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21716451",
-      "title": "הישראלים מסתערים על הקניונים: הענף שרשם זינוק של 198%",
-      "summary": "בזמן שהקלפיות נפתחות, אזרחי ישראל שולפים כרטיסי אשראי • הנתונים מראים כי הישראלים מעדיפים לצאת מהבית מאשר להזמין אוכל • \"ירידה של 78% במספר העסקאות\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21716451",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-27T09:01:15.000Z"
     }
   ]
 }
