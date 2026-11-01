@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:15:54.920Z",
+  "updatedAt": "2026-11-01T07:17:35.990Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tnta8j",
+      "title": "מהומה בבית הכנסת \"דרך התיירה\": פרשה חדשה מסעירה את המתפללים",
+      "summary": "מה קורה כשחסימות הכבישים מגיעות לקריאת התורה? סרטון סאטירי חדש מציג קריאה יוצאת דופן, מתפללים שלא מפסיקים להעיר ומסר חד במיוחד (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tnta8j",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-01T07:14:19.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1383374",
       "title": "תוצאות הבחירות הן תעודת הפטירה הרשמית של מדינת ישראל | יצחק בריק",
@@ -354,6 +363,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T06:11:11.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-ac8723a23a591a1026.htm",
+      "title": "עשרות מפגינים חרדים מנסים לחסום כניסת מתגייסים לתל השומר",
+      "summary": "ההפגנה מתקיימת ביום גיוס של חרדים לתפקידי תומכי לחימה • המשטרה הגדירה את המחאה בלתי חוקית וחסמה רחובות באזור • הנהגים התבקשו לנסוע בדרכים חלופיות ולהימנע מהגעה למקום",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-ac8723a23a591a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-01T06:10:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1383348",
