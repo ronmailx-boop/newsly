@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:00:56.176Z",
+  "updatedAt": "2026-11-02T20:15:53.154Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384166",
+      "title": "מספר טלפון בלבד: כך נפרצו האייפונים של בכירי גרמניה - אולי",
+      "summary": "הרשות הפדרלית לאבטחת מידע בגרמניה קראה לבכירים ולחברי פרלמנט שקיבלו התראה מאפל להניח שהאייפון שלהם נפרץ. התוקפים לא היו זקוקים ללחיצה או לקובץ, רק למספר טלפון",
+      "link": "https://www.maariv.co.il/news/world/article-1384166",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T20:02:52.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384160",
       "title": "\"את לא תחיי\": תלונה במשטרה הוגשה נגד המפגין שאיים על רעייתו של איזנקוט",
       "summary": "יממה אחרי ההפגנה הסוערת מול ביתו של גדי איזנקוט, מפלגת ישר! הגישה תלונה במשטרה בעקבות הדברים שהוטחו בו והאיום שהוטח ברעייתו. במפלגה מבהירים כי נחצה קו אדום ודורשים מהמשטרה לפעול",
@@ -50,6 +59,15 @@
       "pubDate": "2026-11-02T19:58:22.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763792",
+      "title": "שבעה מנדטים, שלושה קווים אדומים: מה באמת מתכנן אביגדור ליברמן?",
+      "summary": "יו\"ר ישראל ביתנו שוב מחזיק בידיו את המפתח להרכבת הממשלה, אך התחייבויותיו שלא לשבת עם נתניהו, החרדים או המפלגות הערביות מציבות אותו בפני מלכוד פוליטי • בשיחות עם \"היום\", אנשים שעבדו לצידו מנסים לפענח את כוונותיו • בין החשש מבחירות חוזרות לאובדן אמון המצביעים, ליברמן נדרש להכריע איזה מחיר הוא מוכן לשלם",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21763792",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:52:50.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90508",
       "title": "טראמפ: איראן מעוניינת בהסכם וזה יכול להתממש",
       "summary": "נשיא ארה\"ב דונלד טראמפ הצהיר כי איראן מעוניינת להגיע להסכם, והוסיף שהדבר יכול לקרות.",
@@ -57,6 +75,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T19:52:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21763589",
+      "title": "עוד יום בפסגה: 0:5 קליל למכבי תל אביב על הפועל רמת גן",
+      "summary": "מפגש הקצוות הוליד משחק רב שערים, בעיקר לזכות מוליכת הטבלה • אלעד מדמון ודור פרץ כבשו אחד ובישלו אחד נוסף, אסטר סוקלר עלה מהספסל והבקיע צמד • יחד עם עצמי של מרסיו סילבה ועצירת פנדל של עמית רייף, נקבעה תוצאת הסיום",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21763589",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:51:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21763905",
+      "title": "מי הגזען האמיתי: ערבים במסכה",
+      "summary": "יוסף ג'בארין, יו\"ר המשותפת, הוא ממנסחי מסמך החזון של ערביי ישראל • המסמך שולל את זכות היהודים על ארצם ודורש לשנות את הגדרתה היהודית של ישראל",
+      "link": "https://www.israelhayom.co.il/opinions/article/21763905",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:48:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21762363",
+      "title": "לטל טיטו נמאס: \"זה כבר בלתי נסבל\"",
+      "summary": "אחרי סערת אבי שושן ו\"הישרדות\", יוצאת \"האח הגדול\" החליטה אחת ולתמיד לדבר על נושא העריכה בריאליטי",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21762363",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:48:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/brenze/tnw459",
@@ -77,6 +122,15 @@
       "pubDate": "2026-11-02T19:46:09.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21763857",
+      "title": "אחדות. לשם מה?",
+      "summary": "לו רצה נתניהו אחדות, היה אומר זאת • הדבר היחיד שהוא ושופריו הנאמנים עושים, המשך קמפיין ההפחדה נגד 20 אחוזים מהאוכלוסייה ונגד ראשי גוש השינוי",
+      "link": "https://www.israelhayom.co.il/opinions/article/21763857",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:43:31.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/india-refinery-fire-visakhapatnam",
       "title": "פיצוץ בבית זיקוק בהודו: להבות ענק ועשן עד לב השמים – כך זה נראה",
       "summary": "שריפה פרצה במתקן של חברת HPCL בעיר וישאקפאטנם • כוחות הכיבוי השתלטו על האש, לא דווח על נפגעים | התיעודים עוררו בהלה (בעולם)",
@@ -84,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T19:42:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763823",
+      "title": "\"העמיד אותו במקום\": בן גביר תקף מגיאורגיה, המפכ\"ל הופתע במרוקו",
+      "summary": "בעקבות עתירה לבג\"ץ שבה האשים בן גביר את המפכ\"ל באלימות קשה וב\"רצון לראות דם\" בהפגנות החרדים, נחשף נתק מוחלט בין השניים – בזמן ששניהם שוהים בחו\"ל • בסביבת המפכ״ל לוי מבהירים: \"הכול שקר וכזב\". המפכ\"ל לשעבר קראדי: \"בן גביר ממשיך במסעו להשמדת המשטרה\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21763823",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:41:34.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/ukraine-military-facility-soldiers-detained",
@@ -286,7 +349,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21763364",
       "title": "אחרי הסערה עם אבי שושן: ליר עוז זוכה לאהבה",
-      "summary": "עדה לזורגן השיקה סניף חדש של מותג האיפור והטיפוח שלה ADAH בקניון אילון. בין המפרגנים: ליר עוז אחרי סערת \"הישרדות\", השגרירות תרצה כהן ושלי סרבריאניקוב, ועדי ואייר בוזגלו שנראו כמו אחיות",
+      "summary": "עדה לזורגן השיקה סניף חדש של מותג האיפור והטיפוח שלה ADAH בקניון אילון. בין המפרגנים: ליר עוז אחרי סערת \"הישרדות\", השגרירה הטרייה שלי סרבריאניקוב, ועדי ואייר בוזגלו שנראו כמו אחיות",
       "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21763364",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -471,6 +534,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T18:24:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
+      "title": "חי מליגת העל: הפועל תל אביב - מכבי חיפה 1:2",
+      "summary": "מחזור 9: מפגש צמרת בבלומפילד • צונאמי ניסה להרחיק נגיחה של פרננד מאיימבו, אבל הכדור נכנס לשערו הוא (9) • רועי אלקוקין בעט על דניאל דאפה, שהכפיל על סף הירידה למחצית • ברוניניו (58) הכניע לראשונה את אסף צור בבלומפילד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T18:24:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
@@ -29280,69 +29352,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-28T20:18:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "title": "אחרי 6 שנים: רשת הענק בדרך לסגור סניפים בישראל",
-      "summary": "הקניונים פועלים למימוש ערבויות ופינוי סניפי KFC בישראל בעקבות אי תשלום שכר דירה • הנהלת הרשת צומצמה, ובכירים פוטרו לאחר שמגעים להעברת הזיכיון נכשלו",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:13:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "title": "אחרי 6 שנים: רשת הענק עומדת לסגור סניפים בישראל",
-      "summary": "הקניונים פועלים למימוש ערבויות ופינוי סניפי KFC בישראל בעקבות אי תשלום שכר דירה • הנהלת הרשת צומצמה, ובכירים פוטרו לאחר שמגעים להעברת הזיכיון נכשלו",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:13:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "title": "ענקית המזון הבינלאומית נקלעה לקשיים - ומתכוננת לסגירת סניפים",
-      "summary": "הקניונים פועלים למימוש ערבויות ופינוי סניפי KFC בישראל בעקבות אי תשלום שכר דירה • הנהלת הרשת צומצמה, ובכירים פוטרו לאחר שמגעים להעברת הזיכיון נכשלו",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21731092",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:13:50.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/sytzznktgg",
-      "title": "לצאת מהפלונטר הפוליטי: מפת התרחישים - וזה שבו אף אחד לא יפר הבטחה",
-      "summary": "אחדות, עריקה, מיעוט, או סבב נוסף: בהיעדר הכרעה ברורה בין גוש נתניהו לגוש השינוי, אלו התרחישים האפשריים להקמת ממשלה חדשה על בסיס התוצאות הכמעט-סופיות של הבחירות. חלק מהם יוכלו לצאת אל הפועל רק אם כמה מפלגות יפרו חלק מהבטחותיהן. ואיזו אופציה מעדיפים הנשיאים הרצוג וטראמפ?",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sytzznktgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T20:12:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731081",
-      "title": "הבחירות חשפו רוב ציוני רחב - אז למה ישראל עדיין בדרך למבוי סתום?",
-      "summary": "87 מנדטים ציוניים עשויים לאפשר הקמת ממשלת אחדות, אך החשדנות וההתחייבויות הפוליטיות משאירות את ישראל במבוי סתום • כשברקע האפשרות לבחירות נוספות והמתיחות הביטחונית, המנהיגים ממשיכים להתבצר בעמדותיהם במקום לחפש מכנה משותף",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21731081",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:06:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731057",
-      "title": "\"גוש המשתמטים בשפל\": איזנקוט ינסה להקים ממשלה חדשה",
-      "summary": "יממה לאחר הבחירות, מנהיג המפלגה החדשה מציב יעד ברור ומצהיר כי בכוונתו להוביל שינוי שלטוני • \"העם הביע אי-אמון בממשלת השבעה באוקטובר\", תקף והודה למאות אלפי המצביעים שהעניקו לו את כובד האחריות • לאן מועדות פניו של המשא ומתן הקואליציוני",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21731057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:05:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731057",
-      "title": "\"גוש המשתמטים בשפל\": איזנקוט נערך להקמת ממשלה חדשה",
-      "summary": "יממה לאחר הבחירות, מנהיג המפלגה החדשה מציב יעד ברור ומצהיר כי בכוונתו להוביל שינוי שלטוני • \"העם הביע אי-אמון בממשלת השבעה באוקטובר\", תקף והודה למאות אלפי המצביעים שהעניקו לו את כובד האחריות • לאן מועדות פניו של המשא ומתן הקואליציוני",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21731057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T20:05:24.000Z"
     }
   ]
 }
