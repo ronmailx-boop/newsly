@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T14:30:56.322Z",
+  "updatedAt": "2026-11-02T14:45:57.890Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,94 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90440",
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1384047",
+      "title": "הצעיר מאילת עורר את חשדם של הבלשים - זה מה שהתגלה במזוודה שלו",
+      "summary": "תושב אילת בשנות ה-20 לחייו נעצר בנתב\"ג לאחר שנחת בטיסה ישירה מברלין. יחידת הבילוש חשפה בכבודתו כ-16 ק\"ג חומר החשוד כקטמין ושני ק\"ג נוספים החשודים כסם 2CB, שהוסוו כתוספי מזון. מעצרו הוארך עד יום ראשון",
+      "link": "https://www.maariv.co.il/news/law/article-1384047",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T14:41:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1andf86mx",
+      "title": "דקר כי רצתה להיפרד: בן זוגה של ינינה שנרצחה בחיפה יואשם",
+      "summary": "הצהרת תובע הוגשה נגד עלי מסוודא, החשוד שרצח את ינינה רוסינובה רק חודשיים אחרי שילדה את בנם. לפי החשד, הוא דקר אותה למוות בגלל שרצתה להיפרד ממנו, ובהמשך גם ניסה להציג מצג שווא שלפיו פגעה בעצמה",
+      "link": "https://www.ynet.co.il/news/article/b1andf86mx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T14:40:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/ben-gvir-urgent-petition-police-chief-haredi-prote",
+      "title": "בן גביר דורש לבטל את צו בג\"ץ וטוען: \"המפכ\"ל אמר שרוצה לראות דם\"",
+      "summary": "בן גביר דורש לבטל את צו הביניים האוסר עליו להתערב בהנחיות המשטרה • טענות חמורות: המפכ\"ל הורה לאלימות קשה כלפי מפגינים חרדים, עקף את שרשרת הפיקוד והעביר מפקדים ללא אישור | \"מכין עצמו לסגלוביץ\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/ben-gvir-urgent-petition-police-chief-haredi-prote",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T14:37:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tnvppg",
+      "title": "תיעוד עצוב: המכתב של ילדה לאביה ששבר את ליבו של האויב הרוסי",
+      "summary": "תיעוד מצמרר משדה הקרב באוקראינה חושף את הרגע שבו חייל רוסי מצא בארנקו של לוחם אוקראיני מת פתק מצמרר שכתבה לו בתו הקטנה לפני שיצא אל הקרב שממנו לא שב (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/tnvppg",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T14:37:38.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjracmlagx",
+      "title": "בן גביר טוען: המפכ\"ל ביקש לראות דם בהפגנות החרדים",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/bjracmlagx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T14:36:10.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959823",
+      "title": "תקיפה נוספת באיראן? לראש המוסד לשעבר יש תשובה",
+      "summary": "ראש המוסד לשעבר נשאל על יורש העצר הסעודי והשיב: \"כנראה, הוא לא אדם בוגר מספיק. אל תצטטו אותי\". בהמשך העריך כי תתרחש תקיפה נוספת באיראן והבהיר כי לא ניתן להפיל את המשטר האיראני מבחוץ",
+      "link": "https://www.walla.co.il/news/israel/383959823",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T14:32:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1384048",
+      "title": "בן גביר פנה בדחיפות לבג\"ץ נגד המפכ\"ל: \"רוצה לראות דם\"",
+      "summary": "בן גביר פנה לבג\"ץ בדרישה לבטל את הצו המגביל את התערבותו בהפגנות, והאשים את המפכ\"ל בהפעלת כוח חריג נגד חרדים ובהתערבות בהחלטות קצינים. למרות הבקשה, צו הביניים נותר בתוקף",
+      "link": "https://www.maariv.co.il/news/law/article-1384048",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T14:32:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21761059",
+      "title": "עומר מילר על ימים לא פשוטים: \"יש דאון\"",
+      "summary": "השף המפורסם, שטס לישראל מתאילנד כדי להצביע בבחירות, מספר על הנפילה שאחרי, וחושף סוד ששמר במשך כמה חודשים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21761059",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:28:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/ben-gvir-urgent-petition-police-chief-haredi-prote",
       "title": "בן גביר דורש לבטל את הצו וחושף – \"המפכ\"ל הורה לשפוך דם\"",
       "summary": "השר לביטחון לאומי הגיש בקשה בהולה לבג\"ץ לביטול הצו האוסר עליו להתערב בהפגנות. בעתירה מאשים השר את המפכ\"ל דני לוי במתן הנחיות לאלימות קשה מול מפגינים חרדים, אכיפה בררנית, העברת מפקדים בניגוד לחוק וטיסה לחו\"ל ללא אישור.",
-      "link": "https://www.kikar.co.il/scoop-news/90440",
+      "link": "https://www.kikar.co.il/haredim-news/ben-gvir-urgent-petition-police-chief-haredi-prote",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T14:27:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21761335",
+      "title": "חובות של 50 מיליון שקלים: בית המשפט הכריע בעתיד KFC בישראל",
+      "summary": "בית המשפט המחוזי בבאר שבע הורה על פתיחת הליכי חדלות פירעון למפעילת 12 סניפי רשת המזון המהיר • ברקע: חובות לעובדים, דמי שכירות שלא שולמו וקשיים בהעברת כספים מרוסיה • שני נאמנים מונו לבחינת אפשרויות לשיקום החברה",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21761335",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:27:46.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/dahiyeh-warning-beirut-strikes-not-limited-one-day",
@@ -48,6 +129,60 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T14:26:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21761453",
+      "title": "קנתה דירה בזול מכספי הגירושין - הגרוש ישלם גם על השיפוץ",
+      "summary": "הסכם הגירושין קבע כי הבעל יעביר לאשתו 950 אלף שקלים לרכישת דירה • האישה מצאה נכס ב-750 אלף שקלים, ודרשה את היתרה לשיפוצים: \"אין סיבה שאפגע כי בחרתי בדירה זולה\" • הגרוש דרש את הכסף בחזרה לכיסוי המשכנתא שלו • למי שייך עודף הכסף",
+      "link": "https://www.israelhayom.co.il/news/law/article/21761453",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:25:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21760975",
+      "title": "בלי בצק ובלי טיגון: הטריק לסופגנייה בפחות מ-10 דקות",
+      "summary": "לקראת חנוכה, טריק פשוט שרץ ברשת מציע קיצור דרך מפתיע המאפה האהוב של החג • בלי שמרים, בלי התפחות ובלי סיר שמן, עם מצרך אחד שיש כמעט בכל בית • התוצאה אמנם לא מחליפה סופגנייה אמיתית, אבל בהחלט יכולה לסגור את הפינה כשמתחשק משהו מתוק",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21760975",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:24:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21761517",
+      "title": "רום ברסלבסקי מפרגן: \"צדיק אמיתי, דאג ללוחמים\"",
+      "summary": "שורד השבי רום ברסלבסקי שיתף מחווה מרגשת וחשף את בעלי המסעדה שפתח את דלתותיו ואת לבו בפני נכי צה\"ל בשיקום: \"לא לקח מהם שקל, דאג לפינה שקטה ועשרות פינוקים. מאז אנחנו חברים טובים\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21761517",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:24:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21761268",
+      "title": "מלך ירדן: ישראל - האיום הגדול ביותר על עתיד האזור",
+      "summary": "בנאום בפרלמנט בעמאן תקף עבדאללה השני את \"השאיפות ההתפשטותיות הישראליות\" וטען כי אין ביטחון ויציבות באזור ללא מימוש זכויות הפלסטינים: \"מי שחושב שהזמן מוחק את האמת - חי באשליה\" • בהתייחסו למשבר המים בממלכה אמר: \"לא נאפשר שצמאונם של הירדנים יהיה בן ערובה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21761268",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:24:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/you-may-find-interesting/article/21657720",
+      "title": "מכונות הקפה המומלצות בישראל לשנת 2026, מבחר מהמותגים המובילים",
+      "summary": "מכונת קפה היא מכשיר שמשתמשים בו כל בוקר, והיא קובעת איך נראה הקפה בבית. בכתבה הזו התמקדנו בדגמים מומלצים מארבעה מותגים בשוק הישראלי, נספרסו, פרוסוניק, דלונגי ונינג'ה. ממכונת קפסולות פשוטה ועד מכונה ידנית מקצועית",
+      "link": "https://www.israelhayom.co.il/you-may-find-interesting/article/21657720",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:23:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21761399",
+      "title": "עסקת ענק של 115 מיליארד דולר: ענקית השבבים מתמזגת עם חברה נוספת",
+      "summary": "יצרנית השבבים האמריקנית מארוול תרכוש את חברת הרכיבים האופטיים, לומנטום, בעסקת מניות, שבה יקבלו בעלי מניות פרמיה של 23.9% • שווי המניות בעסקה עומד על כ-102.5 מיליארד דולר, ושווי הפעילות כולל חוב מגיע ל-115 מיליארד דולר",
+      "link": "https://www.israelhayom.co.il/business/article/21761399",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:20:31.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3874668",
@@ -111,6 +246,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-02T14:13:07.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3874671",
+      "title": "למה ממשלות בעולם קוראות לאזרחים להצטייד במזון ומים?",
+      "summary": "מבריטניה ועד יפן, ממשלות קוראות לאזרחים להצטייד במזון ובמים ולהיערך לימים ללא חשמל ואינטרנט. ברקע: מתקפות סייבר שפגעו בסופרמרקטים באירופה, איומים על תשתיות ותוכניות חירום חדשות. האם יש סיבה לדאגה?",
+      "link": "https://tech.walla.co.il/item/3874671",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T14:11:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90437",
@@ -501,7 +645,7 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959812",
-      "title": "\"גורם פוליטי מנסה לפגוע במפכ\"ל המשטרה\"",
+      "title": "בן גביר באמירה חריגה: \"המפכ\"ל הנחה לשפוך דם של מפגינים\"",
       "summary": "אחרי המתקפה של בן גביר נגד דני לוי, בסביבת המפכ״ל טוענים בשיחה עם וואלה כי גורם פוליטי משתמש בתדרוכים אנונימיים כדי להביא להדחתו. ברקע, המאבק על המינויים והתקציב: “לא ניכנע ללחצים חיצוניים”",
       "link": "https://www.walla.co.il/news/politics/383959812",
       "source": "וואלה",
@@ -515,6 +659,15 @@
       "link": "https://www.israelhayom.co.il/culture/tv/article/21760932",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T13:19:21.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959812",
+      "title": "\"גורם פוליטי מנסה לפגוע במפכ\"ל המשטרה\"",
+      "summary": "אחרי המתקפה של בן גביר נגד דני לוי, בסביבת המפכ״ל טוענים בשיחה עם וואלה כי גורם פוליטי משתמש בתדרוכים אנונימיים כדי להביא להדחתו. ברקע, המאבק על המינויים והתקציב: “לא ניכנע ללחצים חיצוניים”",
+      "link": "https://www.walla.co.il/news/politics/383959812",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-02T13:19:21.000Z"
     },
     {
@@ -28749,105 +28902,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-28T14:47:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21712676",
-      "title": "בראוניז או עוגיות? המתכון הזה נותן לכם את שניהם",
-      "summary": "לא מצליחים להחליט בין בראוניז לעוגיות שוקולד צ'יפס? הברוקיז האלה משלבים את שניהם במאפה אחד • המתכון הזה מאחד בין שני קינוחים אהובים עם רכיבים קצת פחות שגרתיים • קינוח שוקולדי שאפשר לשמור במקרר ולשלוף כשמתחשק משהו מתוק",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21712676",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:45:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnl4z2",
-      "title": "ארכיון הכנסת: הרגעים הגדולים של הח\"כים החרדים בכנסת • צפו",
-      "summary": "סרטון מיוחד ששודר במשדר הבחירות של 'כיכר השבת' יחזיר אתכם בזמן לרגעים הבלתי נשכחים של החרדים בכנסת - מהקשירה באזיקים של פרוש למיקרופון ועד קריעת הבגדים הכפולה של גפני ואייכלר במליאה • צפו בסרטון (פוליטי)",
-      "link": "https://www.kikar.co.il/haredim-news/tnl4z2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T14:45:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21728455",
-      "title": "אילנית לוי צועקת בכאב: \"אנחנו גמורים\"",
-      "summary": "בעקבות תוצאות הבחירות והתחושה ש\"חזרנו לאותו מקום\", מגישת הטלוויזיה יוצאת במסר מפורט ומורכב לחברי הכנסת מכל הקשת הפוליטית: \"די לתאוריית הגושים. לא יכולות להיות פה עוד בחירות\".",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21728455",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:43:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/katz-attacks-eisenkot-undemocratic-speech-idf",
-      "title": "כץ תוקף את איזנקוט: פנייה לא דמוקרטית לבכירי צה\"ל",
-      "summary": "שר הביטחון תקף את נאום איזנקוט שקרא לבכירי הביטחון לעמוד נגד נתניהו • דחה טענות על סכסוכים בנושא איראן | העימות שמסעיר את המערכת הפוליטית (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/katz-attacks-eisenkot-undemocratic-speech-idf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T14:42:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/wellness/article/21726441",
-      "title": "לא רק 8 שעות: הרגל השינה שחשוב לבריאות שלכם",
-      "summary": "אנחנו רגילים לחשוב שמספר שעות השינה הוא המדד החשוב ביותר, אבל מומחים מצביעים על גורם נוסף שעשוי להשפיע על הבריאות לאורך זמן • מה כדאי לשנות בשגרת הלילה, ואיך עושים את זה גם כשהחיים עמוסים?",
-      "link": "https://www.israelhayom.co.il/lifestyle/wellness/article/21726441",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:42:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21728558",
-      "title": "אחרי 68 שנה: \"הפתיחה מול מכבי תל אביב היא היפה שראיתי בחיי\"",
-      "summary": "מאמן העבר הסרבי הוותיק ולאדה ג'ורוביץ' התלהב מהפתיחה המוחצת של הכוכב האדום בלגרד מול הצהובים • לדבריו, \"שמונה הדקות הראשונות היו הדבר הכי יפה שראיתי, ואני צופה בקבוצה כבר 68 שנה, מגיל 10\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21728558",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:40:13.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3874067",
-      "title": "\"אבא שלי התמוטט\": נתאנאל רודינצקי שתקף את בת זוגו מגיב לפרשה",
-      "summary": "ממעצר הבית, ובזמן שהחקירה נגדו עדיין מתנהלת, נתנאל מתייחס לראשונה לפרשה, מותח ביקורת על הסיקור התקשורתי ומסביר מדוע בחר לשתוק: \"זה עדיין לא מאחורי אך כולי תקווה שאצא לדרך חדשה\"",
-      "link": "https://celebs.walla.co.il/item/3874067",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T14:40:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21728457",
-      "title": "נתניהו או הערבים: שעת ההכרעה של גוש השינוי",
-      "summary": "הבחירות הותירו את איתמר בן גביר עם הישג מאכזב ואת המפלגות הערביות עם כוח פוליטי משמעותי • גוש השינוי, שאיבד את יתרונו אחרי 7 באוקטובר, ניצב כעת בפני דילמה: להסיר את החרם על ראש הממשלה או לשתף פעולה עם המפלגות הערביות • כך או כך, בלי פשרות וויתורים, ישראל עלולה למצוא את עצמה שוב במבוי סתום פוליטי",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21728457",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:39:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/hypyb8jafl",
-      "title": "\"מה שהיה הוא שיהיה\": 3 שנות מלחמה ושדרות עדיין נאמנה לנתניהו. גם קריית שמונה",
-      "summary": "טבח, 3 שנות מלחמה, פינוי - ותמיכה כמעט בלתי-מסויגת בליכוד: 39.1% הצביעו לנתניהו בשדרות, כמעט כמו בבחירות הקודמות, ובקריית שמונה - 48%. הערים, בין אלו שספגו את הנזקים הכבדים ביותר, המשיכו להביע אמון עם כ-70% תמיכה בגוש. בפלאפל המיתולוגי הופתעו, ראש מועצת שלומי: \"לתושבים לא חסר דבר\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/hypyb8jafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T14:36:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89737",
-      "title": "הולך רגל בן 70 נפגע בינוני מרכב בקריית גת",
-      "summary": "גבר כבן 70 נפגע במצב בינוני מרכב בשדרות העצמאות בקריית גת. הפצוע סובל מחבלת ראש. צוותי מד\"א פינו אותו לבית החולים סורוקה. התאונה דווחה בשעה 16:10.",
-      "link": "https://www.kikar.co.il/scoop-news/89737",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T14:34:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21728464",
-      "title": "קים קרדשיאן מחזירה את האחיות לפריים אחד",
-      "summary": "קים קרדשיאן קראה לארבע האחיות להתייצב, וכולן הגיעו. התוצאה היא חג מולד משפחתי מאוד לא שגרתי, עם הלבשה תחתונה, עקבים וסנטה שנקלע בדיוק לאמצע הפריים",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21728464",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:31:46.000Z"
     }
   ]
 }
