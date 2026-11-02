@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:24:55.465Z",
+  "updatedAt": "2026-11-02T08:31:09.640Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1383857",
+      "title": "סבל מכאבי ראש חזקים - ואז גילה מה גדל לו בעין",
+      "summary": "גבר מרוסיה סבל במשך חודשים מכאבים ומתחושת גוף זר בעינו, לאחר שנפגע מענף במהלך טיול ביער. כשהגיע לבית החולים, הרופאים גילו זרע שכבר החל להצמיח שורש בתוך רקמת העין",
+      "link": "https://www.maariv.co.il/news/viral/article-1383857",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T08:29:19.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-hebron-operation-ends-withdrawal",
+      "title": "צה\"ל נסוג מחברון: אחרי שבוע של פעילות המבצע הסתיים",
+      "summary": "צה\"ל השלים את המבצע בחברון שבוע אחרי פתיחתו • הכוחות הרסו בתי מחבלים ואטמו חללים תת-קרקעיים | הבוקר הכוחות יצאו מהשכונה (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-hebron-operation-ends-withdrawal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T08:28:19.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjl6ztraze",
+      "title": "כשגדי יהפוך לביבי זה יהיה ניצחון הביביזם",
+      "summary": "סבל התיקו המוזר שנכפה עלינו בבחירות האחרונות מוציא ממחילותיהם את קולות הרל\"ב הנפסדים ביותר. בשם סילוקו של נתניהו מהשלטון, גם אם יהא זה סילוק זמני שבסופו נצא שוב לבחירות שבסופן תקום ממשלת נתניהו חזקה אף יותר, מתגברים הקולות הדוחקים באיזנקוט לקפוץ אל פי התהום, קפיצת ראש",
+      "link": "https://www.ynet.co.il/news/article/hjl6ztraze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T08:25:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1hvyqhtfg",
+      "title": "האופציות הגרועות של איזנקוט - ואיך נתניהו עשוי להרוויח מהן",
+      "summary": "כשבוע אחרי סגירת הקלפיות, הפלונטר הפוליטי נראה רחוק מפתרון. יו\"ר ישר! צפוי לקבל ראשון את המנדט להקים ממשלה, אך מנעד האפשרויות שעומד בפניו נע בין קשה לכמעט בלתי אפשרי. השותפות האפשרית עם המפלגות הערביות והחרדיות, מלכוד האחדות והתקוות של נתניהו: אלה הדילמות של איזנקוט",
+      "link": "https://www.ynet.co.il/news/article/h1hvyqhtfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T08:22:57.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/police/motorcycle-239-kmh-police-helicopter-chase-arrest",
       "title": "239 קמ\"ש בכביש 70: המרדף שהסתיים בעזרת מסוק משטרתי | צפו",
@@ -203,21 +239,21 @@
       "pubDate": "2026-11-02T07:52:38.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/healthy/beautyandcare/383959722",
-      "title": "סובלים מנשירת שיער? מה עוזר - ומה ממש מיותר",
-      "summary": "ברזל, ויטמין D וביוטין מככבים במוצרים שמבטיחים שיער מלא יותר, אבל הצורך ברכיב תזונתי אינו מוכיח שתוספת ממנו תצמיח שיער. מה ידוע על התוספים הפופולריים, ואיזו בדיקה כדאי לעשות לפני שקונים?",
-      "link": "https://www.walla.co.il/healthy/beautyandcare/383959722",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T07:49:23.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21757146",
       "title": "הקרקס הגוסס: כך מכבי תל אביב הפכה למועדון מרוסק לחלוטין",
       "summary": "עודד קטש שותף מלא להשמדה העצמית וכבר לא יכול להציל, ולקלאודיו קולדבלה אין מושג איפה הוא נמצא • משפחת רקנאטי האחראית הבלעדית, ו\"האלטרנטיבה\" ריצ'ארד דיץ' גרם נזק עצום למועדון • והשיא: ארגון האוהדים שמתנהג כמו משמר פרטי",
       "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21757146",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T07:49:23.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/beautyandcare/383959722",
+      "title": "סובלים מנשירת שיער? מה עוזר - ומה ממש מיותר",
+      "summary": "ברזל, ויטמין D וביוטין מככבים במוצרים שמבטיחים שיער מלא יותר, אבל הצורך ברכיב תזונתי אינו מוכיח שתוספת ממנו תצמיח שיער. מה ידוע על התוספים הפופולריים, ואיזו בדיקה כדאי לעשות לפני שקונים?",
+      "link": "https://www.walla.co.il/healthy/beautyandcare/383959722",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-02T07:49:23.000Z"
     },
     {
@@ -1668,6 +1704,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T22:08:52.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383959663",
+      "title": "\"נביא הזעם\" מזהיר: המהומות באירופה הן רק ההתחלה",
+      "summary": "בזמן שגל המחאות באירופה הולך ומחריף, המדיום הבריטי קרייג המילטון-פרקר צופה משבר חמור ב-2027: קריסה כלכלית, מתקפה על סמל דתי - וטענה מדאיגה על מעורבות איראן",
+      "link": "https://www.walla.co.il/news/donotmiss/383959663",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T22:02:52.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21756448",
@@ -28524,78 +28569,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T08:35:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/tnlz85",
-      "title": "מתוחכם: החברה הישראלית הפציצה בפרסומות - ואז התברר למה",
-      "summary": "לפי דיווח בסוכנות הידיעות 'רויטרס', חברה ישראלית חשודה במערב אחרי משתמשים באמצעות פרסומות באתרים | החברה התמקדה בין היתר במדינות אויב, מה שמעלה חשד כי מדובר בפעילות ביטחונית (חדשות)",
-      "link": "https://www.kikar.co.il/news/tnlz85",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T08:30:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/polymarket-netanyahu-eisenkot-betting-market-rever",
-      "title": "המהפך הדרמטי: איך 70 מיליון דולר הימרו על איזנקוט - והפסידו בלילה אחד",
-      "summary": "בשוק ההימורים הגדול בעולם הימרו על ניצחון איזנקוט עד הבוקר • נתניהו זינק מ-27.5% ל-48% תוך שעות • המהמרים צדקו רק בשני דברים: אחוז ההצבעה הגבוה והמבוי הסתום (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/polymarket-netanyahu-eisenkot-betting-market-rever",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T08:29:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959197",
-      "title": "אלו שבחוץ, ומי יכנס: הח\"כים שמתנדנדים בין הכנסת לבית",
-      "summary": "שרי הכלכלה והחדשנות, שחששו למקומם בכנסת, עשויים להיכנס בזכות התחזקות הליכוד. מנגד, בביחד של בנט ציפו ל-14 מנדטים, בזמן שהמפלגה עומדת נכול לעכשיו על 11 בלבד, ונאור שירי ורם בן ברק עלולים להישאר בחוץ",
-      "link": "https://www.walla.co.il/news/politics/383959197",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T08:26:01.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874001",
-      "title": "האופטימיות נעלמה: הבורסה צונחת והדולר זינק",
-      "summary": "בורסה נפתחה בירידות: ת\"א 35 ות\"א 125 סופגות ירידות חדות, השקל יורד. נראה כי השווקים שתמחרו חילופי שלטון והפחתת סיכון הופתעו מספירת הקולות",
-      "link": "https://finance.walla.co.il/item/3874001",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T08:26:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874001",
-      "title": "שוק ההון מגיב לבחירות: הבורסה נצבעת באדום ומה קורה לשקל",
-      "summary": "בורסה נפתחה בירידות: ת\"א 35 ות\"א 125 סופגות ירידות חדות, השקל יורד. נראה כי השווקים שתמחרו חילופי שלטון והפחתת סיכון הופתעו מספירת הקולות",
-      "link": "https://finance.walla.co.il/item/3874001",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T08:26:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874001",
-      "title": "שוק ההון מגיב לבחירות: הבורסה נצבעת באדום ומה קרה לשקל",
-      "summary": "בורסה נפתחה בירידות: ת\"א 35 ות\"א 125 סופגות ירידות חדות, השקל יורד. נראה כי השווקים שתמחרו חילופי שלטון והפחתת סיכון הופתעו מספירת הקולות",
-      "link": "https://finance.walla.co.il/item/3874001",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T08:26:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/putin-chapo-height-difference-photo",
-      "title": "ירד נמוך: הנשיא הענק מאפריקה פרסם תמונה שמגמדת את פוטין",
-      "summary": "פסגת הגז במוסקבה סיפקה רגע לא שגרתי: דניאל שאפו, המתנשא לגובה של 2.04 מטרים, הצטלם לצד ולדימיר פוטין, שגובהו מוערך בכ־1.70 מטרים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/putin-chapo-height-difference-photo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T08:24:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/putin-chapo-height-difference-photo",
-      "title": "ירד נמוך: הנשיא הענק אפריקאי פרסם תמונה שמגמדת את פוטין",
-      "summary": "פסגת הגז במוסקבה סיפקה רגע לא שגרתי: דניאל שאפו, המתנשא לגובה של 2.04 מטרים, הצטלם לצד ולדימיר פוטין, שגובהו מוערך בכ־1.70 מטרים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/putin-chapo-height-difference-photo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T08:24:57.000Z"
     }
   ]
 }
