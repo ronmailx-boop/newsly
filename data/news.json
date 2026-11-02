@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:15:50.207Z",
+  "updatedAt": "2026-11-02T04:30:53.505Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21752604",
+      "title": "ביי לטלפון בבוקר? הפריט הישן שחוזר לשידה שלנו",
+      "summary": "רבים מאיתנו משתמשים בסמארטפון כשעון מעורר, אבל מחקר חדש מצא קשר מעניין בין שימוש בשעון מעורר רגיל לבין הרגלי גלישה בריאים יותר • האם הפריט שכמעט נעלם מחדר השינה הוא דווקא מה שיעזור לנו להפסיק לפתוח את הבוקר מול המסך?",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21752604",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T04:07:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383959729",
+      "title": "גנבו את הקלנועית של ניצולת שואה בת 94: \"אלו אנשים חסרי לב\"",
+      "summary": "אלמונים פרצו למחסן וגנבו את הקלנועית ששימשה את רינה שוורץ בחיי היומיום. בנה סיפר כי בעלה המנוח רכש אותה עבורה: \"הקלנועית היא הרגליים של אמא\". המשפחה מבקשת את עזרת הציבור",
+      "link": "https://www.walla.co.il/news/israel/383959729",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T04:05:11.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/lav613wit",
       "title": "התחזית: שרבי ברוב הארץ, מחר - ירידה חדה בטמפרטורות",
       "summary": "היום תחול עלייה ניכרת בטמפרטורות - אך מחר הן צפויות לרדת בחדות. ברביעי יישאר ללא שינוי ובחמישי צפויים גשמים מקומיים במרכז ובצפון הארץ",
@@ -39,6 +57,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T04:04:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21751685",
+      "title": "מעיין קסום, שביל ותצפית לחוף: הדרך החדשה שנחנכה למטיילים בארץ",
+      "summary": "מסלול מעגלי חדש הושק בלב גוש עציון • הדרך הסלולה מנגישה לכל סוגי הרכב תצפית פנורמית מרהיבה עד מישור החוף, מורשת קרב, שרידים עתיקים בני 2,000 שנה ופינת טבע קסומה בעין יצחק",
+      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21751685",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T04:03:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1383762",
@@ -147,6 +174,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T01:12:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21752061",
+      "title": "הסדרה האהובה חוזרת עם עוד כסף גדול ותככים קטנים: מה חדש בטלוויזיה",
+      "summary": "\"העידן המוזהב\" שבה לעונה רביעית, עם מאבקי כוח חדשים בין עשירי ניו יורק של המאה ה-19, \"מקדונלד ודודס\" מגיעה עם כל ארבע העונות, \"תשאלו את אי ג'ין\" חוזר למאבקה המשפטי של העיתונאית נגד דונלד טראמפ, פרק אחרון לעונה של \"נעורים\" ועוד תכנים שעולים היום (שני) בטלוויזיה בישראל",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21752061",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T01:00:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21752061",
@@ -525,6 +561,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-01T21:47:59.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874571",
+      "title": "קולדבלה: \"לוקח אחריות מלאה. פיטורים של קטש לא מציאותיים\"",
+      "summary": "המנהל המקצועי של מכבי ת\"א התייצב מול המצלמות בצל המשבר, התייחס למצב הסגל, לרעשים סביב המועדון ולרכש: \"סבלנות הדבר המרכזי\"",
+      "link": "https://sports.walla.co.il/item/3874571",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-01T21:46:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tnudbi",
@@ -28308,33 +28353,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T04:31:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21723160",
-      "title": "זונטס 703T בישראל ב-55,900 שקלים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/auto/article/21723160",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T04:28:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382127",
-      "title": "\"500 מיליון ערבים לא מייצרים מדע\": השר האמריקאי מעורר סערה",
-      "summary": "שר הבריאות האמריקני רוברט קנדי ג'וניור טען בעצרת בחירות כי ערבים אינם תורמים למדע ולספרות, שיבח את ישראל והאשים את האחים המוסלמים. בדיקת עובדות הפריכה את טענותיו, וארגון זכויות אזרח קרא לפיטוריו",
-      "link": "https://www.maariv.co.il/news/world/article-1382127",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-28T04:23:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722131",
-      "title": "דרושים מבוגרים אחראים: נתניהו צריך ללכת, והימין חייב להתאחד",
-      "summary": "תניהו לא הצליח לגבש רוב מספק, וכי מצביעי ימין רבים בחרו במפלגות אחרות בגלל התנגדותם אליו • הליכוד יוכל לשוב ולרכז תמיכה רחבה רק לאחר עזיבתו • על שני המחנות לשבור את החלוקה לגושים ולפעול להקמת קואליציה רחבה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21722131",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T04:23:00.000Z"
     }
   ]
 }
