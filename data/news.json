@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T17:15:50.838Z",
+  "updatedAt": "2026-11-02T17:31:03.684Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90476",
+      "title": "תאונה סמוך לתקוע: 2 פצועים כולל אחד בינוני",
+      "summary": "שני פצועים פונו לבית החולים הדסה עין כרם בעקבות תאונת דרכים בין משאית לרכב פרטי סמוך לתקוע. גבר כבן 30 נפצע במצב בינוני עם חבלת ראש, ופצוע נוסף במצב קל. הדיווח התקבל במוקד 101 בשעה 18:36.",
+      "link": "https://www.kikar.co.il/scoop-news/90476",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T17:29:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90475",
+      "title": "חברי כנסת מש\"ס השתתפו בדיון אצל נתניהו על חשדות לזיופים במגזר הערבי",
+      "summary": "חברי כנסת מש\"ס השתתפו הערב בדיון בבית ראש הממשלה נתניהו בנושא פרשת החשדות לזיופים במגזר הערבי. לפי הדיווח, חברי הכנסת נשארים בגוש נתניהו בינתיים.",
+      "link": "https://www.kikar.co.il/scoop-news/90475",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T17:29:11.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syehknutge",
+      "title": "היסטוריה בבולגריה: אישה נבחרה לראשונה לנשיאות, ניצחון למחנה המקורב לרוסיה",
+      "summary": "איליאנה יוטובה, בעלת בריתו של ראש הממשלה רומן ראדב, ניצחה בסיבוב השני עם 57.6% מהקולות והביסה את המועמד הפרו-מערבי. היא מתנגדת להמשך הסיוע הצבאי לאוקראינה וקוראת לחידוש הדיאלוג עם מוסקבה, למרות המתקפות הקטלניות שביצעה רוסיה על ספינות בולגריות בים השחור. רק כ-27% מבעלי זכות הבחירה הגיעו לקלפיות במדינה - שעברה 8 מערכות בחירות לפרלמנט תוך 5 שנים",
+      "link": "https://www.ynet.co.il/news/article/syehknutge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T17:20:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s14ir11iafe",
+      "title": "חוסר אונים בראשל\"צ, הגלאי מראה 0: תושבים מסתגרים, מקור ריח הגז לא נמצא",
+      "summary": "יום אחרי הדיווחים במערב העיר על ריח חריג שהתפשט, נשמעו טענות דומות גם בשכונות במרכז ראשון לציון. הורים הגיעו לאסוף את ילדיהם בבית ספר בשכונת אברמוביץ': \"הזיה שאף אחד לא יודע מה מקור הריח\". הכבאים שהוזעקו הערב לא איתרו ממצא חריג, אבל חשו בריח: \"עברנו רחוב-רחוב\"",
+      "link": "https://www.ynet.co.il/news/article/s14ir11iafe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T17:18:21.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3874701",
+      "title": "המקררים ישארו ריקים? התרעה דחופה לרשתות המזון",
+      "summary": "בעקבות גל מתקפות שגרם לקלקול מזון, לנזק לציוד ולשריפות באירופה, מערך הסייבר הלאומי דורש מרשתות השיווק, חברות המזון והמרכזים הלוגיסטיים לבדוק מיד את מערכות הקירור והבקרה המחוברות לאינטרנט",
+      "link": "https://finance.walla.co.il/item/3874701",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T17:17:00.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384096",
       "title": "10 שנים של עבודה: ישראל חתמה על הסכם היסטורי עם ספקית האורניום הגדולה בעולם",
@@ -75,6 +120,33 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T17:10:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21762928",
+      "title": "\"את תהיי ליד הבן שלך\": תלונה נגד הפעיל שאיים על משפחת איזנקוט",
+      "summary": "בעקבות התקרית מחוץ לביתו של יו\"ר מפלגת ישר!, המפלגה הגישה תלונה נגד יוסי כהן שקרא לעברו \"רצחת את הבן שלך\" • כעת נחשף שכהן איים גם על רעייתו חנה • במפלגה מאשימים את תרבות השלטון באובדן הקווים האדומים • הצעד שדורשים כעת ממשטרת ישראל",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21762928",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T17:07:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21762739",
+      "title": "עובדי ארקיע יפגינו מחר: \"ננקוט צעדים\"",
+      "summary": "העימות בין עובדי ארקיע להנהלת החברה מחריף • במכתב התראה שנשלח לבעלי החברה נטען לפגיעה בזכויות העובדים ולמהלכים שנעשים ללא שיתוף נציגותם • במקביל, העובדים נערכים להפגנה, ובאיגוד מזהירים מצעדים נוספים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21762739",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T17:04:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21762651",
+      "title": "\"הגענו מוכנים למכבי תל אביב, זה מדהים לנצח דרבי\"",
+      "summary": "דן אוטורו, הסנטר הבכיר של הפועל תל אביב, חגג את ההופעה הגדולה של קבוצתו מול היריבה הגדולה: \"משמח אותי לנצח את המשחק הזה עבור האוהדים שלנו\" • על השילוב של תמיר בלאט, שערך את הבכורה המחודשת באדום: \"תוספת כוח אדירה, יודעים מה הוא שווה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21762651",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T17:00:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/ayom-bakikar/hayom-bakikar-news-summary",
@@ -210,6 +282,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T16:35:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21762577",
+      "title": "המיילים שסיבכו את אחד הרופאים המנתחים הבכירים בישראל",
+      "summary": "פרופ' משה הדני כתב לעורכי דינו של מטופל כי אי ניתוחו בזמן מהווה רשלנות • לאחר מכן הגיש לבית המשפט חוות דעת מטעם בית החולים שקובעת כי לא נפל פגם בטיפול • בית המשפט התיר את פרסום הפרשה • משפחת המטופל: \"למי אפשר להאמין?\"",
+      "link": "https://www.israelhayom.co.il/health/article/21762577",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T16:35:42.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/health/article/21762577",
@@ -750,6 +831,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T15:19:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762290",
+      "title": "קופת גמל להשקעה כקצבה מגיל 60: איך ניתן ליהנות מפטור ממס?",
+      "summary": "קופת גמל להשקעה היא אפיק חיסכון והשקעה המאפשר לצבור כספים לאורך זמן ולשמור על האפשרות למשוך1 אותם גם לפני גיל הפרישה",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21762290",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T15:18:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762290",
@@ -4485,6 +4575,15 @@
       "source": "N12",
       "sourceKey": "n12",
       "pubDate": "2026-11-02T08:03:00.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3874604",
+      "title": "הדת החדשה של הבינה המלאכותית? מיליון איש כבר הצטרפו",
+      "summary": "הדת החדשה של הבינה המלאכותית? מיליון איש כבר הצטרפו",
+      "link": "https://tech.walla.co.il/item/3874604",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T08:02:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383959763",
@@ -29001,60 +29100,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T17:40:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/by9xpsj6zl",
-      "title": "התוכנית ליום שאחרי - אחדות עם כוכבית",
-      "summary": "אפשר להניח שתוך שנה עד שנה וחצי אפשר, ויותר חשוב מזה: צריך, לבנות אלטרנטיבה שלטונית. בינתיים הקמת ממשלת חירום בראשות בנימין נתניהו לזמן מוגבל היא פתרון שיכול לעזור לגוש השינוי",
-      "link": "https://www.ynet.co.il/news/article/by9xpsj6zl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T17:26:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21730041",
-      "title": "המטרה - הליכוד: התוכנית החדשה של ליברמן",
-      "summary": "יו\"ר ישראל ביתנו מנסה לנצל את קשריו בליכוד כדי לגייס חברי כנסת שיאפשרו את שינוי מאזן הכוחות • למרות הסיכויים הקלושים למהלך, ליברמן טוען כי לא מעט ח\"כים מעוניינים לערוק • בינתיים, במחנה בנט שומרים על שתיקה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21730041",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T17:24:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21730041",
-      "title": "לוכד עריקים: התוכנית השאפתנית של ליברמן מול הליכוד",
-      "summary": "יו\"ר ישראל ביתנו מנסה לנצל את קשריו בליכוד כדי לגייס חברי כנסת שיאפשרו את שינוי מאזן הכוחות • למרות הסיכויים הקלושים למהלך, ליברמן טוען כי לא מעט ח\"כים מעוניינים לערוק • בינתיים, במחנה בנט שומרים על שתיקה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21730041",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T17:24:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21730258",
-      "title": "\"לא נפלתי\": ג'ה מוראנט יוצא לקרב נגד ה-NBA",
-      "summary": "כוכב פורטלנד טרייל בלייזרס מתכנן לערער על העבירה הטכנית שספג במהלך הניצחון על לוס אנג'לס לייקרס: \"ניסינו להראות לשופטים שהם אלו שיוזמים את המגע, אבל עדיין יצאנו בצד המפסיד של השריקות\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21730258",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T17:22:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-bennett-lieberman-plan-remove-ohana-kness",
-      "title": "ב\"גוש השינוי\" בוחנים מהלך להחלפת יו\"ר הכנסת ושיתוף פעולה עם הערביות",
-      "summary": "איזנקוט, בנט וליברמן מקיימים מגעים להחלפת יו\"ר הכנסת, אבל עדיין לא קיימו פגישה משותפת • המהלך דורש 61 קולות ותמיכה ערבית • טיבי: \"נצביע להפלתו\" • נתניהו מתכונן לקמפיין נגדי • הנשיא הרצוג קורא למנהיגים למנוע בחירות נוספות (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-bennett-lieberman-plan-remove-ohana-kness",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T17:19:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-bennett-lieberman-plan-remove-ohana-kness",
-      "title": "ראשי מפלגות \"גוש השינוי\" בוחנים מהלך להחלפת יו\"ר הכנסת ושיתוף פעולה עם המפלגות הערביות",
-      "summary": "איזנקוט, בנט וליברמן מקיימים מגעים להחלפת יו\"ר הכנסת, אבל עדיין לא קיימו פגישה משותפת • המהלך דורש 61 קולות ותמיכה ערבית • טיבי: \"נצביע להפלתו\" • נתניהו מתכונן לקמפיין נגדי • הנשיא הרצוג קורא למנהיגים למנוע בחירות נוספות (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-bennett-lieberman-plan-remove-ohana-kness",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T17:19:41.000Z"
     }
   ]
 }
