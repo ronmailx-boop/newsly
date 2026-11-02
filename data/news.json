@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:31:10.723Z",
+  "updatedAt": "2026-11-02T19:45:50.197Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/india-refinery-fire-visakhapatnam",
+      "title": "פיצוץ בבית זיקוק בהודו: להבות ענק ועשן עד לב השמים – כך זה נראה",
+      "summary": "שריפה פרצה במתקן של חברת HPCL בעיר וישאקפאטנם • כוחות הכיבוי השתלטו על האש, לא דווח על נפגעים | התיעודים עוררו בהלה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/india-refinery-fire-visakhapatnam",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T19:42:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/ukraine-military-facility-soldiers-detained",
+      "title": "אירוע חריג בקייב: עשרות חיילים אותרו בדירת מסתור אחרי התעללות של הצבא",
+      "summary": "עשרות אנשים התקהלו מחוץ למתחם צבאי סמוך לקייב | ארבעה חיילים פונו לטיפול רפואי | פרשה מסתורית שמעוררת שאלות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/ukraine-military-facility-soldiers-detained",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T19:40:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/education/article-1384156",
+      "title": "האלימות נמשכת: תלמיד תקף מורה באלימות קשה - הלימודים יתחילו באיחור",
+      "summary": "צוות ההוראה בבית הספר בגולן נותר בטלטלה לאחר שתלמיד תקף מורה ופגע בעובדת הוראה נוספת. הסתדרות המורים הודיעה על דחיית פתיחת הלימודים לשעה 9:00 ועל קיום שיחת הסברה לצוות",
+      "link": "https://www.maariv.co.il/news/education/article-1384156",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T19:35:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/mayriv/haredi-coalition-politics-idf-draft",
+      "title": "מ'חוק השתמטות' ל'חוק גיוס': החרדים עשויים ליפול למלכודת | מעייריב",
+      "summary": "ערפול סביב עמדת יהדות התורה - חיבוק דב של נתניהו לדרעי והכחשת הגר\"מ מאיה | תעלומה: לאן נעלמה ההסתה התקשורתית נגד החרדים? | מעצר החתן יערי ליברמן: אלימות משטרתית מזעזעת ושחרור מוקדם | בפעם הראשונה: ראשי הישיבות נכנסים לעובי הקורה של מחירי הדיור | התיעודים הנדירים של מרן החזון אי\"ש זצוק\"ל",
+      "link": "https://www.kikar.co.il/mayriv/haredi-coalition-politics-idf-draft",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T19:33:59.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384154",
       "title": "\"האשמות חמורות, הזויות ומבישות\": המפכ\"ל עונה לבן גביר",
@@ -75,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T19:17:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21763677",
+      "title": "יוצא \"הכוכב הבא\" הותקף ביוון: \"קלטתי שאני לבד\"",
+      "summary": "בזמן שחגג את יום הולדתו ביוון, נקלע הזמר לעימות בלתי צפוי • הוא מספר על הרגע שבו הבין שהמצב מחייב אותו לפעול במהירות",
+      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21763677",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:16:03.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763668",
@@ -194,6 +239,15 @@
       "pubDate": "2026-11-02T18:43:02.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383959837",
+      "title": "מלכודת גוש השינוי: המהלכים שישנו את התמונה הפוליטית",
+      "summary": "הפלונטר הפוליטי: שלוש התחייבויות של פוליטיקאי אחד מציבים את ראשי המפלגות הגדולות בפני דילמות חדשות",
+      "link": "https://www.walla.co.il/news/politics/383959837",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T18:40:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21763437",
       "title": "הנוסעים בירושלים ממתינים בתור - הכניסה החדשה עומדת ריקה",
       "summary": "למרות ההבטחה לפתוח את הכניסה החדשה לתחנת יצחק נבון כבר בקיץ, המבואה עדיין סגורה בשל עיכובים בקבלת אישורי רישוי ובטיחות • ברכבת מקווים לפתוח אותה בדצמבר, אך גם אז לא בטוח שהעומסים בדרך לרציפים ייפתרו • במקביל מסתמן תגבור משמעותי בתדירות הרכבות",
@@ -295,7 +349,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763458",
       "title": "נתניהו: \"ידינו מושטת להקמת ממשלה לאומית רחבה\"",
-      "summary": "על רקע הקיפאון במגעים הקואליציוניים, נתניהו פסל הקמת ממשלה שתסתמך על רע\"ם והרשימה המשותפת: \"הציבור אינו רוצה ממשלה שתלויה במפלגות שתומכות בטרור\" • ראש הממשלה טען כי רוב ברור בציבור היהודי בחר בו להוביל את הממשלה הבאה, והזמין סיעות נוספות להצטרף למגעים • בגוש השינוי בוחנים שיתוף פעולה עם רע\"ם ויהדות התורה, אך המחלוקות הפנימיות מעכבות את המגעים",
+      "summary": "על רקע הקיפאון במגעים הקואליציוניים, נתניהו פסל הקמת ממשלה שתסתמך על רע\"ם והרשימה המשותפת: \"הציבור אינו רוצה ממשלה שתלויה במפלגות שתומכות בטרור\" • ראש הממשלה טען כי רוב ברור בציבור היהודי בחר בו להוביל את הממשלה הבאה, והזמין סיעות נוספות להצטרף למגעים • יאיר גולן: \"\"ממשלת האחדות האמיתית - אחדות של משרתים ועובדים, של יהודים וערבים\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21763458",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -354,6 +408,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T18:24:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
+      "title": "חי מליגת העל: הפועל תל אביב - מכבי חיפה 0:2",
+      "summary": "מחזור 9: מפגש צמרת בבלומפילד • צונאמי ניסה להרחיק נגיחה של פרננד מאיימבו, אבל הכדור נכנס לשערו הוא (9) • רועי אלקוקין בעט על דניאל דאפה, שהכפיל על סף הירידה למחצית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T18:24:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21762959",
@@ -914,6 +977,15 @@
       "pubDate": "2026-11-02T16:36:03.000Z"
     },
     {
+      "id": "walla:https://travel.walla.co.il/item/3874700",
+      "title": "מיזם \"שבת ישראלית\" חוזר אבל רק בימי שישי, ויש מי שמוחים",
+      "summary": "מיזם \"שבת ישראלית\" חוזר אבל רק בימי שישי, ויש מי שמוחים",
+      "link": "https://travel.walla.co.il/item/3874700",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T16:36:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21762667",
       "title": "מוהנד קמאלאת, בן 23, נורה ברהט ומת מפצעיו בבית החולים סורוקה",
       "summary": "שלושה גברים הובאו לקבלת טיפול במרפאה מקומית ופונו על ידי מד\"א לבית החולים • שניים מהם, בני 23 ו-26, נפצעו באורח בינוני • במשטרה פתחו בחקירה ובודקים חשד שלפיו הרקע לאירוע הוא סכסוך פלילי בין משפחות",
@@ -1299,6 +1371,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T15:43:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21762184",
+      "title": "הבערת צמיגים ותקיפת לוחמים: 18 העצורים בשומרון ישוחררו",
+      "summary": "כוחות הביטחון הרסו מבנים לא חוקיים סמוך לסלפית, ובמהלך הפינוי התפתחו עימותים עם עשרות מתפרעים שחסמו כבישים והבעירו צמיגים • בית המשפט הורה לשחרר את כל החשודים בתנאים מגבילים, והמשטרה תגיש ערר על שחרור ארבעה מהם • ארגון חוננו דורש חקירת מח\"ש בטענה שמבנה נהרס כשקטינים על גגו",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21762184",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T15:41:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21762184",
@@ -29217,33 +29298,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-28T19:51:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21730467",
-      "title": "הפועל תל אביב נגד אנאדולו אפס: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
-      "summary": "פרק 8: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי המשחק של האדומים מול הטורקים ודיברו גם על ההפסד של מכבי ת\"א מול הכוכב האדום בלגרד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21730467",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T19:36:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tnmtw2",
-      "title": "88.6 אחוז מהקולות נספרו: המפלגה שרחוקה 30 אלף קול מאחוז החסימה",
-      "summary": "על פי נתוני ספירת 88.6% מהקולות, אין שינוי בתמונת המנדטים | כדי לעבור את אחוז החסימה חסרים למפלגת המילואימינקים והכלכלית 30,910 קולות לפי מספר הקולות הנוכחי (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tnmtw2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T19:32:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnmopw",
-      "title": "מיוחד: כשהרבי מליובאוויטש עצר את ההתוועדות בגלל ילד קטן בן 5",
-      "summary": "מה קרה כשילד בן חמש התעורר בהתוועדות אצל הרבי? איך רגע אחד של תשומת לב השפיע על כל חייו? ומה הקשר בין זה לסוד של אברהם אבינו בהכנסת אורחים? שיעור מרגש על הכוח של להרגיש נראה | צפו (יהדות)",
-      "link": "https://www.kikar.co.il/haredim-news/tnmopw",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T19:32:00.000Z"
     }
   ]
 }
