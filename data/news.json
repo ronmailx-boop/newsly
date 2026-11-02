@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T00:30:55.729Z",
+  "updatedAt": "2026-11-02T00:45:45.011Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1poelbame",
+      "title": "אלמונים השחיתו בית תפילה של יוצאי צד\"ל בנהריה: \"כל הסמלים הקדושים נופצו\"",
+      "summary": "תמונות וסמלים דתיים נופצו והושלכו לרצפה במבנה המשמש את הקהילה הנוצרית של יוצאי צבא דרום לבנון בעיר. הכומר רודי נורה סיפר ל-ynet: \"ב-26 שנה לא קרה לנו דבר כזה, הכול היה שבור והרוס. זה מעשה לא מוסרי, אבל אנחנו סולחים למי שעשה את זה\". המשטרה פתחה בחקירה, הרקע עדיין לא ברור",
+      "link": "https://www.ynet.co.il/news/article/r1poelbame",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T00:26:49.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21756728",
       "title": "גרמניה, איטליה, פורטוגל ואפילו שווייץ: האש מצרפת מבעירה את אירופה",
@@ -246,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T22:00:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14943387",
+      "title": "\"חבל על הזמן, יש מחסור בלוחמים\"",
+      "summary": "הצעירים הללו משתוקקים לעלות כבר שנים על מדים - אך הפלונטר הפוליטי גורם לחלום שלהם להתעכב עוד יותר • אחרי תקופת המתנה ארוכה, הפרקליטות קבעה כי יש להמתין לכינונה של ממשלה חדשה עד שיוחלט בעניינם • \"זה פשוט מתסכל, זורקים אחריות\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14943387",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-01T22:00:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14945206",
@@ -28560,33 +28578,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T00:49:58.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
-      "title": "כמעט מיליון קולות נספרו: תוצאות האמת ביישובים - והמפה המתעדכנת",
-      "summary": "המדגמים הראשונים העניקו יתרון לגוש השינוי, בהמשך התמונה השתנתה. מה שיקבע הן כמובן תוצאות האמת, שממשיכות להתעדכן לאורך הלילה. אז מי הצביע לאיזנקוט, ואיפה נתניהו ניצח? מפת ההצבעה הראשונית",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T00:38:16.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
-      "title": "סופרים קולות, בינתיים לאט: תוצאות האמת ביישובים - והמפה המתעדכנת",
-      "summary": "המדגמים הראשונים העניקו יתרון לגוש השינוי, בהמשך התמונה השתנתה. מה שיקבע הן כמובן תוצאות האמת, שממשיכות להתעדכן לאורך הלילה. אז מי הצביע לאיזנקוט, ואיפה נתניהו ניצח? מפת ההצבעה הראשונית",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bj5pk302zg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T00:38:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21722671",
-      "title": "הרבה פחות מהציפיות: האפשרויות של גוש השינוי לאחר האכזבה",
-      "summary": "בסביבת איזנקוט אמנם מעריכים שהוא יקבל ראשון את המנדט מהנשיא, אך הדרך שלו להקמת ממשלה נראית כמעט בלתי אפשרית • ממשלת אחדות? ישנו מתווה במסגרתו יהוא עשוי להסכים לרוטציה עם נתניהו • ויש גם את התרחיש שהכי מדאיג את הציבור",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21722671",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T00:32:00.000Z"
     }
   ]
 }
