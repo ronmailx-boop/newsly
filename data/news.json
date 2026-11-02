@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T14:16:10.591Z",
+  "updatedAt": "2026-11-02T14:30:56.322Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90440",
+      "title": "בן גביר דורש לבטל את הצו וחושף – \"המפכ\"ל הורה לשפוך דם\"",
+      "summary": "השר לביטחון לאומי הגיש בקשה בהולה לבג\"ץ לביטול הצו האוסר עליו להתערב בהפגנות. בעתירה מאשים השר את המפכ\"ל דני לוי במתן הנחיות לאלימות קשה מול מפגינים חרדים, אכיפה בררנית, העברת מפקדים בניגוד לחוק וטיסה לחו\"ל ללא אישור.",
+      "link": "https://www.kikar.co.il/scoop-news/90440",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T14:27:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/dahiyeh-warning-beirut-strikes-not-limited-one-day",
+      "title": "תרחיש האימה בדאחיה: \"הפעם זה לא יוגבל ליום אחד\"",
+      "summary": "משפחות בלבנון מחזיקות דירות חלופיות מחשש להסלמה • נשיא איראן: חמינאי העניק סמכויות למשא ומתן | מכלית נפט עלתה באש במצר הורמוז (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/dahiyeh-warning-beirut-strikes-not-limited-one-day",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T14:26:31.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874668",
+      "title": "היהלום הישראלי צפוי להיכלל בסגל ברצלונה לליגת האלופות",
+      "summary": "הקשר הישראלי התאמן עם הקבוצה הבוגרת וצפוי לתפוס את מקומו של אברימה טונקארה בשלישי מול אסטון וילה. פליק: \"אנחנו יכולים לעשות היסטוריה\"",
+      "link": "https://sports.walla.co.il/item/3874668",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T14:18:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/davar-rishon/spiritual-life-lessons-grief-politics",
+      "title": "\"99% מהדברים שאנחנו עוסקים בהם הם שטויות והבלים - וגם זעקת געוואלד נגד האלימות המשטרתית\"",
+      "summary": "שנה לפטירת אביו ז\"ל והתפרקות הדמעות באוטו, הזעקה נגד האלימות המשטרתית ומעצר חתן ב'שבע ברכות', הדילמה הפוליטית מול הימין והציבור הערבי, הסכנות הנסתרות שבזריקות ההרזיה, והפנינה היומית מ'אגרות משה' | מוישי מנס ושוקי סלומון בשיחה גלויה, כואבת ומחזקת בתוכנית \"דבר ראשון\"",
+      "link": "https://www.kikar.co.il/davar-rishon/spiritual-life-lessons-grief-politics",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T14:16:44.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1384042",
       "title": "ראש המוסד לשעבר מעריך: \"תתרחש פעולה צבאית ממוקדת נוספת באיראן\"",
       "summary": "בפסגת העסקים הבינלאומית הראשונה של ארגון תגלית בתל אביב התייחס ראש המוסד לשעבר לאפשרות של תקיפה נוספת באיראן, למאמצים לבלימת תוכנית הגרעין ולאנטישמיות בעולם",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-02T14:15:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21761280",
+      "title": "קרן פלס נשברת: \"איזה ייאוש\"",
+      "summary": "הזמרת ממשיכה לספק רגעים משעשעים מחיי היומיום שלה • הפעם היא בחרה לדבר על ההתמדה בספורט, ולא חסכה מעצמה אף עקיצה בדרך",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21761280",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:14:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384025",
@@ -77,6 +122,15 @@
       "pubDate": "2026-11-02T14:10:35.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21761317",
+      "title": "\"חומר מסרטן ודאי\": קנס של 1,130,000 שקלים לדלק מנטה",
+      "summary": "המשרד להגנת הסביבה קנס את חברת דלק מנטה לאחר שמפקחים גילו פליטת אדי דלק מסוכנים בתחנה בירושלים • בכיר במשרד מזהיר כי מדובר בחומר מסרטן ולא בעניין טכני בלבד • למרות שהחברה מיהרה לתקן את הליקויים, הקנס הכבד הוטל • מה בדיוק מצאו המפקחים בפתחי המילוי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21761317",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:10:34.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90436",
       "title": "שריפה בחנות אופניים ברחוב אגריפס בירושלים — אין נפגעים",
       "summary": "צוותי איחוד הצלה וכיבוי אש הוזעקו לשריפה שפרצה בחנות אופניים ברחוב אגריפס בירושלים. עד כה לא אותרו נפגעים. כוחות כיבוי פעלו בזירה.",
@@ -95,6 +149,24 @@
       "pubDate": "2026-11-02T14:10:18.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21760488",
+      "title": "אחרי השיטפונות: המטיילים נוהרים לבריכה שהתמלאה במים",
+      "summary": "הבריכה בעין ירקעם, אחד ממסלולי הטיול בנגב, התמלאה על גדותיה אחרי הגשמים האחרונים באזור • כך תוכלו להגיע ולטבול",
+      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21760488",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:10:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21761290",
+      "title": "אחרי 2,000 שנה: הסוד שנשמר בתוך ארון העץ נחשף",
+      "summary": "תגלית מרתקת בפומפיי: ארון עץ חתום חשף אוצרות אישיים מהרגעים שקדמו להתפרצות וזוב • מבקבוקון בושם מזכוכית ועד שרשרת קמיעות של ילדים - העדויות שנשארו מאחור כשהתושבים נמלטו",
+      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21761290",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:09:16.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384039",
       "title": "נתניהו אחרון: המהלך החריג של הרצוג לקראת הרכבת הממשלה",
       "summary": "הנשיא הרצוג יפתח את ההתייעצויות להרכבת הממשלה עם הסיעות הקטנות, במטרה לבחון אפשרויות נוספות להקמת קואליציה. הסבב יחל ברביעי עם הציונות הדתית-זהות ויסתיים בחמישי עם הליכוד",
@@ -102,6 +174,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-02T14:08:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21761301",
+      "title": "התחדשות עירונית בלב גדרה: משהב תקים 246 דירות חדשות ב-6 בניינים",
+      "summary": "הפרויקט, שיקודם בפינת הרחובות ויצמן והעצמאות, נמצא לקראת קבלת היתר בנייה • לצד בנייני המגורים מתוכננים שטחים למבני ציבור, שטחים ירוקים ופיתוח תשתיות תחבורה • ראש המועצה סהר פינטו נפגש עם מנכ\"ל משהב אלון יוניאן לקידום הפרויקט",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21761301",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T14:04:48.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90433",
@@ -228,6 +309,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T13:47:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21761105",
+      "title": "ליברמן חשף: בשב\"כ חוקרים - העברת כספים מהרשות הפלסטינית לרשימה המשותפת",
+      "summary": "יו\"ר ישראל ביתנו אמר בתדרוך לכתבים כי נבדקת העברת כספים מהרשות הפלסטינית לרשימה המשותפת, במטרה לעודד הצבעה בחברה הערבית • גורם הבקיא בחקירה הבהיר כי גם אם החשדות החמורים ביותר יתבררו כנכונים, לא יהיה בכך כדי לשנות את תוצאות הבחירות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21761105",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T13:46:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21761105",
@@ -385,7 +475,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21760736",
       "title": "ראש המוסד לשעבר: \"מעריך שתתרחש פעולה צבאית ממוקדת נוספת באיראן\"",
-      "summary": "יוסי כהן הזהיר כי טהרן ממשיכה לקדם את יכולותיה וייתכן שמשקמת מתקנים שנפגעו • לדבריו, האיראנים אינם מנהלים משא ומתן בתום לב: \"טראמפ מתעקש על הסכם טוב\" • על האפשרות להפלת המשטר: \"האיראנים עצמם צריכים לעשות זאת\"",
+      "summary": "יוסי כהן הזהיר כי טהרן ממשיכה לקדם את יכולותיה וייתכן שהיא משקמת מתקנים שנפגעו • לדבריו, האיראנים אינם מנהלים משא ומתן בתום לב: \"טראמפ מתעקש על הסכם טוב\" • על האפשרות להפלת המשטר: \"האיראנים עצמם צריכים לעשות זאת\" • ראש המוסד לשעבר סיפר כי ביקר באיחוד האמירויות גם במהלך המלחמה כדי לשמר את היחסים בין המדינות",
       "link": "https://www.israelhayom.co.il/news/defense/article/21760736",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1272,6 +1362,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T11:35:12.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3874617",
+      "title": "יש ואגיו בארץ: ההמבורגריה שמשנה את כללי המשחק",
+      "summary": "יש ואגיו בארץ: ההמבורגריה שמשנה את כללי המשחק",
+      "link": "https://food.walla.co.il/item/3874617",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T11:35:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959797",
@@ -28749,150 +28848,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T14:31:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89736",
-      "title": "ועדת הבחירות המרכזית: 430-480 אלף מעטפות כפולות",
-      "summary": "ועדת הבחירות המרכזית מעריכה כי נכון לעכשיו יש בין 430 ל-480 אלף מעטפות כפולות.",
-      "link": "https://www.kikar.co.il/scoop-news/89736",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T14:30:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89735",
-      "title": "כביש 6 לכיוון צפון נפתח לתנועה סמוך למחלף בן שמן",
-      "summary": "כביש 6 לכיוון צפון סמוך למחלף בן שמן נפתח לתנועת כלי רכב, לאחר שנסגר בעקבות שריפה באזור כביש 444 ליד מחלף בן שמן. משטרת ישראל תמשיך לעדכן את הציבור על שינויים בהסדרי התנועה בהתאם להתפתחויות.",
-      "link": "https://www.kikar.co.il/scoop-news/89735",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T14:30:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21728167",
-      "title": "כ-650 אלף קולות: מאיפה הגיע השם \"מעטפות כפולות\"?",
-      "summary": "בספר החוקים הן מוגדרות בכלל כ\"מעטפה שנייה\" או \"מעטפה חיצונית\", ובתוכן ממתין רק פתק הצבעה בודד • אז איך הפכה הוראה טכנית פשוטה לצמד המילים הדרמטי שחורץ מנדטים וממשלות, ומי הם כ-650 אלף הישראלים שזכאים להצביע כך?",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21728167",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:29:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21728167",
-      "title": "יש שם רשמי אחר: מאיפה הגיע השם \"מעטפות כפולות\"?",
-      "summary": "בספר החוקים הן מוגדרות בכלל כ\"מעטפה שנייה\" או \"מעטפה חיצונית\", ובתוכן ממתין רק פתק הצבעה בודד • אז איך הפכה הוראה טכנית פשוטה לצמד המילים הדרמטי שחורץ מנדטים וממשלות, ומי הם כ-650 אלף הישראלים שזכאים להצביע כך?",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21728167",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:29:54.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959250",
-      "title": "במהלך אליפות צה\"ל בקרב מגע: קטטה בין לוחמי גבעתי והצנחנים",
-      "summary": "עשרות לוחמים השתתפו בקטטה שפרצה במהלך האליפות בווינגייט. לפי גורמי צבא, העימות החל בין כמה לוחמים והסלים במהירות. קצינים נאלצו להפעיל כוח כדי להפריד בין הצדדים, והאירוע נמשך כמה דקות",
-      "link": "https://www.walla.co.il/news/military/383959250",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T14:28:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skmbqgj6ze",
-      "title": "הקולות שיכולים לשנות את התמונה: עדכון במספר המעטפות הכפולות - ומתי תחל הספירה",
-      "summary": "85.6% מהקולות כבר נספרו, אך תוצאות האמת יתבררו רק לאחר ספירת המעטפות הכפולות. בוועדת הבחירות מעריכים כי בין 400 אלף ל-500 אלף הצביעו הרחק מביתם, ואלה המנדטים שעשויים לשנות את המפה: \"כל עוד לא נספרו הקולות - אי אפשר לדעת\". צה\"ל: כמעט 80% הצביעו. ואיך נראית מסורת ההצבעה?",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skmbqgj6ze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-28T14:22:48.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382305",
-      "title": "בחירות ללא הכרעה: הרצוג עשוי לקדם רוטציה - וחנינה לנתניהו",
-      "summary": "אף גוש אינו מגיע ל-61, ובית הנשיא עשוי להפוך למוקד הניסיונות לפרוץ את הפלונטר. המתווה שנחשף ב\"מעריב\" בספטמבר חוזר לדיון, לצד תרחישי אחדות ורוטציה. גם סוגיית החנינה לנתניהו עולה מחדש",
-      "link": "https://www.maariv.co.il/news/politics/article-1382305",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-28T14:22:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382305",
-      "title": "כפי שנחשף ב\"מעריב\": אין הכרעה בבחירות - החנינה ועסקת הטיעון עשויות לשוב לשולחן הנשיא",
-      "summary": "אף גוש אינו מגיע ל-61, ובית הנשיא עשוי להפוך למוקד הניסיונות לפרוץ את הפלונטר. המתווה שנחשף ב\"מעריב\" בספטמבר חוזר לדיון, לצד תרחישי אחדות ורוטציה. גם סוגיית החנינה לנתניהו עולה מחדש",
-      "link": "https://www.maariv.co.il/news/politics/article-1382305",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-28T14:22:23.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874063",
-      "title": "היה סקורר קטלני ב-NBA, ויכול להציל את מכבי ת\"א",
-      "summary": "ב\"באסקטניוז\" סקרו את האפשרות שקאם תומאס יפצח בקריירת יורוליג והזכירו את הצהובים כמועמדים: \"יכול ללכת בדרך דומה לזו של לוני ווקר\". מי יתר המועמדות ומה השכר שהוא צפוי לדרוש?",
-      "link": "https://sports.walla.co.il/item/3874063",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T14:22:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874063",
-      "title": "היה סקורר קטלני ב-NBA, ויכול להציל את מכבי ת\"T",
-      "summary": "ב\"באסקטניוז\" סקרו את האפשרות שקאם תומאס יפצח בקריירת יורוליג והזכירו את הצהובים כמועמדים: \"יכול ללכת בדרך דומה לזו של לוני ווקר\". מי יתר המועמדות ומה השכר שהוא צפוי לדרוש?",
-      "link": "https://sports.walla.co.il/item/3874063",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-28T14:22:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21726018",
-      "title": "בלי להכין בצק: סמוסה הודית במינימום מאמץ",
-      "summary": "מעטפת זהובה שמתפצחת בביס הראשון, מילוי מתובל של בצל ואפונה וכל הטעמים של אוכל הרחוב ההודי • בזכות דפי סמוסה מוכנים, לא צריך ללוש או להכין בצק מאפס • כך תכינו את הנשנוש הפריך והממכר",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21726018",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:21:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21728447",
-      "title": "התיאטרון הישראלי נפרד בכאב: \"כישרון שלא הספיק להתגלות\"",
-      "summary": "אחרי מאבק ממושך במחלה הלכה לעולמה בגיל 54 שימרית רון, שניהלה את המכון למחזאות ישראלית ע\"ש חנוך לוין ואת אירועי הישראדרמה • לצד עבודתה כמנהלת היא כתבה, יצרה והעלתה הפקות עצמאיות • ובעלה נפרד ממנה במילים מרגשות",
-      "link": "https://www.israelhayom.co.il/culture/stage/article/21728447",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:21:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21728622",
-      "title": "U SOLAR (יו סולאר) הופכת הגגות של ישראל להזדמנות כלכלית",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21728622",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:20:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21728627",
-      "title": "צעדים ראשונים בקריפטו: 7 בדיקות בטיחות לפני ההפקדה הראשונה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21728627",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:19:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382309",
-      "title": "המגעים של טורקיה בלוב מקבלים תפנית: \"בקרוב תשמעו חדשות טובות\"",
-      "summary": "טורקיה מנסה לאחד את הממשלים היריבים בלוב, ובמקביל מקדמת מהלך אסטרטגי בים התיכון. שיחות ראשונות כבר התקיימו באנקרה, אך הסכם טרם הושג. ביוון ובקפריסין לא מרוצים מההתפתחויות",
-      "link": "https://www.maariv.co.il/news/world/article-1382309",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-28T14:17:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21728633",
-      "title": "בית קפה פרטי בסלון: השדרוג היומי עם מכונת קפה אוטומטית ביתית",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21728633",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T14:16:34.000Z"
     }
   ]
 }
