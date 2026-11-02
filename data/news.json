@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:45:12.136Z",
+  "updatedAt": "2026-11-02T19:01:16.350Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90500",
+      "title": "נעצרו שני חשודים בגניבת אופנוע במחסום צופים",
+      "summary": "יחידת אתג\"ר עצרה במחסום צופים שני חשודים בגניבת אופנוע ממחוז תל אביב. החשודים הועברו לתחנת המשטרה להמשך טיפול.",
+      "link": "https://www.kikar.co.il/scoop-news/90500",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T18:56:12.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1384144",
+      "title": "זה כבר לא מדע בדיוני: כך ייראה שדה הקרב הבא של ישראל",
+      "summary": "הרמטכ\"ל אייל זמיר מציג את מהפכת הבינה המלאכותית והרובוטיקה בצה\"ל. במסגרת התוכנית הרב-שנתית \"חושן\", יחידות מאוישות יפעלו לצד כלים בלתי מאוישים והטכנולוגיה תשולב בהגנה, במודיעין ובתקיפה",
+      "link": "https://www.maariv.co.il/news/military/article-1384144",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T18:55:26.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/skh1wuuafg",
+      "title": "גופת צעירה נמצאה בנגב, שנים לאחר שנרצחה ע\"י אחיה והועלמה",
+      "summary": "במשך 6 שנים לא ידע אף אחד איפה נמצאת גופתה של ניבין אלעמרני, שנרצחה בידי אחיה. היום זוהו שרידיה. כתב האישום נגד אחיה, שנשלח ל-28 שנים בכלא, הוגש אחרי שהמטפלת של אמה העידה על מה שהתרחש בבית. אח אחר היה זה שהזעיק את המשטרה חודש לאחר מכן: \"יהרגו אותי אם ידעו\"",
+      "link": "https://www.ynet.co.il/news/article/skh1wuuafg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-02T18:52:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959861",
+      "title": "\"הציבור בחר בי\": המסר של נתניהו לאיזנקוט",
+      "summary": "ראש הממשלה הביע נכונות לשיחות עם מפלגות נוספות והבהיר כי הוא מתנגד לממשלה שתישען על רע\"ם והמשותפת. במקביל, ליברמן וגולן הודיעו שימליצו על איזנקוט, וראשי גוש השינוי צפויים להיפגש מחר",
+      "link": "https://www.walla.co.il/news/politics/383959861",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T18:52:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/attorney-general-blocks-shabak-parliamentary-aides",
+      "title": "היועמ\"שית חסמה את השב\"כ? התערבה בעניין חקירת עוזרים פרלמנטריים ערבים",
+      "summary": "השב\"כ ביקש לחקור עוזרים פרלמנטריים במסגרת פרשת ההשפעה הזרה • היועמ\"שית הבהירה: חלים כללי חסינות כמו על חבר הכנסת | על השב\"כ לבסס תחילה את החשדות (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/attorney-general-blocks-shabak-parliamentary-aides",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-02T18:50:31.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/yishai-cohen-channel-12-haredi-draft-hypocrisy",
       "title": "\"אתם לא בהלם?\" ישי כהן מתפוצץ באולפן: \"כל התזה שלכם על החרדים קורסת\"",
@@ -201,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T18:23:29.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384132",
+      "title": "הליכוד אומר שלא יעתור לבג\"ץ - אבל יש תרחיש מדאיג אחר",
+      "summary": "סולברג דחה את דרישת הליכוד וקבע כי חובה לפרסם את תוצאות הבחירות במועד. מבחינה משפטית, התנגדות הנציגים אינה מאפשרת לעכב את הפרסום, אך עלולה להצית מאבק פוליטי ומשפטי סביב בג\"ץ",
+      "link": "https://www.maariv.co.il/news/politics/article-1384132",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-02T18:14:36.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384132",
@@ -456,6 +510,15 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3874605",
+      "title": "מי יעצור אותה? הפועל ת\"א ביתרון על מכבי חיפה",
+      "summary": "משחק צמרת תוסס בבלומפילד: האדומים רוצים ניצחון חמישי ברציפות, קרייב שב לקישור ודאפה בחוד. בכר מקווה להתאושש מהתבוסה להפועל באר שבע והעניק בכורה ב-11 לדסה, כשחלאילי הועדף על גורה",
+      "link": "https://sports.walla.co.il/item/3874605",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T17:16:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874605",
       "title": "הפועל תל אביב ומכבי חיפה בקרב צמרת לוהט",
       "summary": "משחק צמרת תוסס בבלומפילד: האדומים רוצים ניצחון חמישי ברציפות, קרייב שב לקישור ודאפה בחוד. בכר מקווה להתאושש מהתבוסה להפועל באר שבע והעניק בכורה ב-11 לדסה, כשחלאילי הועדף על גורה",
       "link": "https://sports.walla.co.il/item/3874605",
@@ -588,6 +651,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T16:54:44.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/music/383959832",
+      "title": "כל הכוכבים הגיעו: הערב העוצמתי של המוזיקה המקומית",
+      "summary": "תמיר מוסקט כינס על הבמה חבורה, שלא בטוח שהיתה מצליחה להסכים אפילו על קבוצת ווטסאפ משותפת. ערב שהיה הרבה יותר ממסיבת ניצחון: זו תזכורת למה שהמוזיקה הישראלית עדיין מסוגלת לעשות",
+      "link": "https://www.walla.co.il/entertainment/music/383959832",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-02T16:51:19.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21762644",
@@ -29163,69 +29235,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-28T19:03:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tnmg90",
-      "title": "לחיצת יד הסתיימה בתביעה של כמיליון שקל | פסק זמן • 3 פסקי דין שכדאי לכם להכיר",
-      "summary": "אב שגילה כי ילדיו מקבלים קצבאות נכות דרש לשנות את המזונות. נגד בעל דירה שלא התגונן ניתן פסק דין שיאפשר לקדם את הפינוי-בינוי אך ללא פיצויים. לחיצת יד על מכירת דירה הסתיימה בתביעה של כמיליון שקל | שלושה פסקי דין והמשמעות עבורכם",
-      "link": "https://www.kikar.co.il/law-and-order/tnmg90",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T19:01:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89789",
-      "title": "הולך רגל בן 42 נפגע קשה מרכב בכפר קרע",
-      "summary": "גבר בן 42 נפגע במצב קשה מרכב בכפר קרע. הפצוע סובל מחבלה רב מערכתית. צוותי מד\"א פינו אותו לבית החולים הלל יפה. התאונה דווחה במוקד 101 בשעה 19:40.",
-      "link": "https://www.kikar.co.il/scoop-news/89789",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T18:58:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89788",
-      "title": "5 פצועים בתאונת דרכים בכביש 35 ליד ברכיה",
-      "summary": "5 בני אדם נפצעו בתאונת דרכים בכביש 35 סמוך לברכיה. צוותי מד\"א פינו לבית החולים ברזילי שתי נשים במצב בינוני: אישה בת 56 עם חבלות באגן ואישה בת 47 עם חבלה בבטן, וכן שלושה פצועים קל. התאונה דווחה בשעה 20:10.",
-      "link": "https://www.kikar.co.il/scoop-news/89788",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T18:58:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89787",
-      "title": "ספירת המעטפות הכפולות תתחיל הלילה ותסתיים מחר בערב",
-      "summary": "ספירת המעטפות הכפולות בבחירות צפויה להתחיל הלילה ולהסתיים מחר בערב. הצפי הוא לכ-430 עד 480 אלף מעטפות כפולות.",
-      "link": "https://www.kikar.co.il/scoop-news/89787",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T18:58:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21730792",
-      "title": "רצון העם: \"המטבחון\" מפנים את תוצאות הבחירות",
-      "summary": "בלי חרדים • בלי ערבים • בלי בן גביר • בלי יאיר גולן • בלי תקווה • בלי חלום • עם סיכוי לממשלת אחדות • ועם סיכוי גבוה עוד יותר ל... אתם כבר יודעים מה • המטבחון: מדור מאויר",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21730792",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T18:54:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/central-elections-committee-double-envelopes-count",
-      "title": "המעטפות הכפולות: כך צפויה להתנהל הספירה - ושעת התוצאות הסופיות",
-      "summary": "ועדת הבחירות מעריכה כי 430-480 אלף מעטפות כפולות ממתינות לספירה | הספירה צפויה להתחיל בסביבות 01:00 ולהסתיים מחר בערב | כל הפרטים (חדשות, פוליטי)",
-      "link": "https://www.kikar.co.il/news/central-elections-committee-double-envelopes-count",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-28T18:46:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21730726",
-      "title": "ים מדר חוטף מהאקסית: \"דיברת מעל הגובה שלך\"",
-      "summary": "לקראת השקת הסינגל החדש מחר: הזמרת מור רביעי עוקצת את האקס • \"בא לי לים - אבל לא לשלך, אין גלים\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21730726",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-28T18:45:34.000Z"
     }
   ]
 }
