@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T08:45:51.321Z",
+  "updatedAt": "2026-11-03T09:01:07.114Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjbummptfx",
+      "title": "נתוני העריקים יועברו לעיריות, וסגן ראש העיר ירושלים דורש: לשלול מהם הטבות",
+      "summary": "יוסי חביליו דרש לקבל את נתוני העריקים מצה\"ל, ול-ynet נודע כי בכוונתו לשלול מהם סבסוד צהרונים, מלגות והנחות באירועי תרבות וספורט בירושלים. \"נטל השירות והמסים נופל רובו ככולו על הציבור המשרת\", כתב לראש העיר ליאון",
+      "link": "https://www.ynet.co.il/news/article/sjbummptfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T08:56:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/internal-divisions-arab-parties-cooperation",
+      "title": "הזמנו את האויב פנימה // הרב יצחק ידידיה שינפלד",
+      "summary": "אנחנו מתווכחים איך ייראה החלום הציוני. יש מי שכלל לא רוצה שהוא יתגשם | הרב יצחק ידידיה שינפלד על השת\"פ עם המפלגות הערביות (דעות)",
+      "link": "https://www.kikar.co.il/haredim-news/internal-divisions-arab-parties-cooperation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T08:54:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384287",
+      "title": "בלי מלצרים ובלי שולחנות: הסטייק שהפך ללהיט ברשת",
+      "summary": "מקום חדש בברוקלין מושך אליו סועדים בזכות שיטת הגשה יוצאת דופן: תמורת 25 דולר מקבלים ארוחה שמגיעה מהדירה שמעל הרחוב - רק כדאי להזמין מראש!",
+      "link": "https://www.maariv.co.il/news/viral/article-1384287",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T08:51:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384290",
+      "title": "אביר קארה מצא את דרך המלך? \"ואז תגיע ממשלת ימין עם 85 מנדטים\"",
+      "summary": "לאחר תוצאות הבחירות והפלונטר הפוליטי שנוצר בעקבותיהן, קרא היום סגן השר לשעבר אביר קארה להקמת ממשלת אחדות | מיכאל האוזר טוב ('הארץ'): \"לא כדאי לסלף את רצון הבוחר\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1384290",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T08:46:27.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/r1h3lgwpfl",
       "title": "גם אם הערבים ישירו \"נפש יהודי הומיה\" זה לא יספיק",
       "summary": "הסכנה הגדולה היא שהדרת ערביי ישראל מהקואליציה תהפוך בהדרגה להדרה מהכנסת עצמה. כאשר מסמנים מפלגות ערביות כבלתי לגיטימיות לשותפות בשלטון, הדרך קצרה יותר למהלך שמבקש לשלול גם את הלגיטימיות של עצם ייצוגן בכנסת",
@@ -39,6 +75,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-03T08:43:12.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383959916",
+      "title": "קשת שידרה \"דרמה גדולה\". אלוהים, כמה מביכים אפשר להיות",
+      "summary": "יכול להיות שאבי ניר צפה במופע של ספיר בורגיל ואמר לעצמו \"למה שרק אסף רפפורט יהנה\"? אין מצב, נכון? ובכל זאת, פרויקט יובל מעתוק לא היה אלא שעתוק חיוור וצולע של המקור הלא מופתי",
+      "link": "https://www.walla.co.il/entertainment/tv/383959916",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T08:40:11.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90549",
@@ -97,7 +142,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/idf-spokesperson-breaking-silence",
       "title": "תנו לצה\"ל לנצח? החרדית שהשתחררה מדובר צה\"ל עברה לשוברים שתיקה",
-      "summary": "היא גדלה בחברה החרדית, ויתרה על הפטור משירות והתגייסה לצה\"ל במהלך המלחמה. כעת, זמן קצר לאחר שחרורה, היא מודיעה על תפקיד חדש בארגון המזוהה עם ביקורת חריפה על פעילות הצבא.",
+      "summary": "היא גדלה בחברה החרדית, ויתרה על הפטור משירות והתגייסה לצה\"ל במהלך המלחמה. כעת, זמן קצר לאחר שחרורה, היא מודיעה על תפקיד חדש בארגון המזוהה עם ביקורת חריפה על פעילות הצבא (חדשות בארץ)",
       "link": "https://www.kikar.co.il/israel-news/idf-spokesperson-breaking-silence",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -29163,114 +29208,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-29T09:01:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21732961",
-      "title": "הסכום נחשף: ההשקעה בעסק החדש של אהבת השם גורדון",
-      "summary": "מותג התכשיטים שהשיק לוחם האגרוף התאילנדי הוקם בהשקעה של כ-1.6 מיליון שקל • גורדון משמש שותף מלא במיזם ומעורב גם באסטרטגיית התוכן והשיווק • בהמשך מתוכננים מתחמי פופ-אפ והתרחבות לקהילות יהודיות בחו\"ל",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21732961",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T09:00:53.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874123",
-      "title": "הגרלת גביע המדינה: הפועל ת\"א תארח את מכבי",
-      "summary": "כבר בשלב 32 האחרונות: התל אביביות ייפגשו לקרב לוהט נוסף. הפועל באר שבע בדוחא נגד סכנין, בית\"ר ירושלים נגד אשדוד, מכבי חיפה מול הפועל רעננה. המשחקים יתקיימו בין ה-24 ל-28 בדצמבר",
-      "link": "https://sports.walla.co.il/item/3874123",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T09:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21733049",
-      "title": "שימי תבורי נשבר: ״לא נותנים לי לראות את הנכד שלי״",
-      "summary": "הזמר הוותיק התראיין לרדיו דרום ושיתף בכאב על הקשר הרופף עם נכדו תו פרינס. למרות הסכם המשמורת בין בנו בן אל לגרושתו אורטל, הסבא נאלץ לתאם מפגשים וחושף: \"אני לא בקשר איתה\".",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21733049",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:59:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/you-may-find-interesting/article/21732767",
-      "title": "פנסים בשמיים, נרות על הנהר: פסטיבל האורות בצ'אנג מאי",
-      "summary": "אלפי פנסים בשמיים, נרות על הנהר וחגיגה שמביאה לצפון תאילנד לא מעט תיירים. מתכננים להגיע לפסטיבל האורות בצ'אנג מאי בחודש נובמבר? סיאם טורס עושה לכם סדר: מה ההבדל בין החגים, היכן מתקיימות הפרחות הפנסים ומה כדאי לדעת על הלינה וההתניידות",
-      "link": "https://www.israelhayom.co.il/you-may-find-interesting/article/21732767",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:59:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21732826",
-      "title": "הבגדים השחורים שלכם דוהים? יכול להיות שאתם מכבסים אותם לא נכון",
-      "summary": "למה בגדים שחורים מאבדים את הצבע שלהם, מה אפשר לעשות כשהם כבר נראים דהויים ואילו טעויות בכביסה כדאי להפסיק לעשות? • מומחי כביסה עם הטיפים שיעזרו לכם לשמור על הבגדים השחורים לאורך זמן",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21732826",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:56:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21732904",
-      "title": "משדר עליבות: 6 הרגלים מיושנים שגורמים לבית להיראות זול",
-      "summary": "מעצב הפנים ריינרד לואל מסמן את המוסכמות השגויות שהורסות את האווירה בחלל, ומסביר אילו תפיסות נוקשות מייצרות מראה גנרי, משעמם ומנוכר שפוגע ביוקרת הבית",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21732904",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:56:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/thailand-revokes-citizenship-chabad-rabbi-kantor",
-      "title": "דרמה בתאילנד: הרשויות החליטו לשלול אזרחות לשליח חב\"ד הראשי של המדינה",
-      "summary": "הרב יוסף חיים קנטור, שליח חב\"ד הראשי בתאילנד, מצא עצמו בסערה משפטית • ראש הממשלה ושר הפנים חתמו על צו שלילת אזרחות | \"תאילנד היא הבית שלנו\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/thailand-revokes-citizenship-chabad-rabbi-kantor",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:52:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383959324",
-      "title": "ערוצי התבהלה? נתניהו דווקא יכול להירגע",
-      "summary": "דפנה ליאל דיווחה בשוויון נפש על תלונת שווא, בכאן 11 סיכמו את הבחירות עם נציגי הליכוד ומוריה אסרף חושבת שבמטה איזנקוט \"מבינים שהם הפסידו\". ערב של פורענות בערוצי הטלוויזיה",
-      "link": "https://www.walla.co.il/entertainment/tv/383959324",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:50:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383959324",
-      "title": "הקלפיות כבר נסגרו, אבל באולפנים המשיכו לעבוד עבור נתניהו",
-      "summary": "דפנה ליאל דיווחה בשוויון נפש על תלונת שווא, בכאן 11 סיכמו את הבחירות עם נציגי הליכוד ומוריה אסרף חושבת שבמטה איזנקוט \"מבינים שהם הפסידו\". ערב של פורענות בערוצי הטלוויזיה",
-      "link": "https://www.walla.co.il/entertainment/tv/383959324",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:50:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21732738",
-      "title": "רוסלנה רודינה: \"שוקלת לחזור\"",
-      "summary": "הדוגמנית ובת זוגו לשעבר של אייל גולן, פתחה את הסטורי וסיפרה על הרצון לחזור למה שנטשה לפני ארבע שנים. \"חייכתי בלב\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21732738",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:48:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21732564",
-      "title": "הכי קרובה לדני אבדיה: כוכבת \"האח הגדול\" מפתיעה",
-      "summary": "יוצאת הריאליטי המצליח של רשת 13, פטל אסף, הגיעה למשחק של פורטלנד טרייל בלייזרס מול לוס אנג'לס לייקרס, התמקמה על הפרקט ממש ליד הספסל, ולא הפסיקה לעודד את הכוכב הישראלי לאורך כל המשחק: \"כיף מדי\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21732564",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:47:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/tassel/chef-aviv-moshe-kosher-shabbat-observance",
-      "title": "השף המפורסם שהחל להקפיד על כשרות ושבת חושף: \"ההחלטה שעשתה לי פלאים לבית\"",
-      "summary": "השף אביב משה חשף בריאיון על ההחלטה להקפיד על כשרות ושבת • \"להכיר את המשפחה, הילדים לא רואים אותי ביום יום\" | \"זה לא שהיום מסעדה כשרה זה מקום שאתה רואה את כולם עם כיפות\" (ציצית)",
-      "link": "https://www.kikar.co.il/tassel/chef-aviv-moshe-kosher-shabbat-observance",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:46:41.000Z"
     }
   ]
 }
