@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:16:01.419Z",
+  "updatedAt": "2026-11-03T20:31:21.684Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sk5pe6w6gl",
+      "title": "ההודעה החריפה, החריגה והפומבית של היועמ\"שית נגד ראש השב\"כ",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/sk5pe6w6gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T20:26:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/tny050",
+      "title": "סערת ענק בעקבות דרישת זיני: תגובות חריפות בימין ובגוש איזנקוט",
+      "summary": "גוש איזנקוט תוקף בחריפות את ראש השב\"כ דוד זיני על דרישתו לפתוח בחקירה כנגד ראשי המפלגות הערביות | בגוש נתניהו תוקפים בחריפות את גלי בהרב מיארה, המונעת את קיום החקירה | הסערה והתגובות (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/tny050",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T20:20:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21773928",
+      "title": "לקוחות שיין בישראל מתלוננים: ''אין עם מי לדבר, זה בוט''",
+      "summary": "במשך שנים זה היה אחד היתרונות הגדולים של אתר האופנה הסיני: שליח עד הבית והכסף חוזר לאשראי • עכשיו לקוחות ישראלים מדווחים על שליחים שלא מגיעים ועל החזרים שנתקעים • ומה מספרים דווקא הלקוחות שקיבלו את הכסף כרגיל",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21773928",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T20:11:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-full-war-readiness-volunteers-conditions",
       "title": "איראן השלימה היערכות למלחמה: אלו ההנחיות שמשדרים בטלוויזיה הממלכתית",
       "summary": "הטלוויזיה הממלכתית משדרת הנחיות התגוננות מפני תקיפה גרעינית | 32 מיליון איראנים התנדבו להגן במסגרת תרגילי טילים | באיראן השלימו הערכויות לקראת מלחמה אפשרית (בעולם)",
@@ -41,6 +68,15 @@
       "pubDate": "2026-11-03T20:10:20.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383960010",
+      "title": "עפרה פונתה מהקראון איריס: \"קר, אבל דואגים לנו והמוראל גבוה\"",
+      "summary": "הבוקר באי סירוס התחיל ב\"קבלת פנים של פרי פלסטין\", ובערב נאלצו הנוסעים לרדת מהאונייה באמצע הארוחה. עפרה אברהם, אחת הנוסעות, סיפרה לוואלה: \"הירידה הייתה מסודרת. אין לנו טענות, בינתיים מתנהגים בסדר גמור\"",
+      "link": "https://www.walla.co.il/news/world/383960010",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T20:04:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/likud-knesset-speaker-removal-bill-unity-governmen",
       "title": "תכנית המגירה של הליכוד: המהלך שיאפשר להדיח את לפיד מראשות הכנסת",
       "summary": "בליכוד מכינים הצעת חוק לשינוי הרוב הנדרש להדחה • החשש: לפיד ישתלט על סדר היום החקיקתי | התכנית שתשמור על האפשרות לממשלת אחדות (פוליטי מדיני)",
@@ -48,6 +84,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T20:04:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21773595",
+      "title": "התלות ביבוא מסוכנת: ישראל חייבת לחזק את ייצור המזון המקומי",
+      "summary": "תעשיית המזון המקומית כוללת יותר מ־2,400 מפעלים ומספקת כ־75% מהצריכה המקומית • למרות זאת, פער הפריון מול ממוצע ה־OECD עומד על כ־30% • התוכנית המוצעת כוללת השקעה של כ־3.75 מיליארד שקל בטכנולוגיה ואוטומציה והגדלת הייצור הצמחי ב־65% עד שנת 2050",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21773595",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T20:04:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21773868",
+      "title": "\"זיני לא הציג ראיות ומסרב לשתף פעולה עם המשטרה\"",
+      "summary": "גורמים במערכת אכיפת החוק מתחו ביקורת על דרישתו של ראש השב\"כ לחקור באזהרה את אחמד טיבי, מנסור עבאס, סמי אבו שחאדה וח\"כ נוסף • בהרב מיארה: \"הטענה כי התביעה הכללית מעכבת ביצוע פעולות חקירה - כוזבת\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21773868",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T20:04:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21773741",
@@ -141,6 +195,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21773593",
+      "title": "חי מליגת האלופות: ברצלונה - אסטון וילה 0:1",
+      "summary": "לאמין ימאל העלה את הבלאוגרנה ליתרון כבר בדקה השמינית אחרי טעות בהגנה האנגלית • אוריין גורן ממתין על הספסל להופעת בכורה בקבוצה הבוגרת",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21773593",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T19:53:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21773593",
       "title": "חי מליגת האלופות: ברצלונה - אסטון וילה 0:0",
       "summary": "אוריין גורן לראשונה בסגל הבלאוגרנה למשחק באלופות, ומחכה להופעת בכורה בקבוצה הבוגרת • המארחת בקאמפ נואו רוצה להרוס את המאזן המושלם של האנגלים",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21773593",
@@ -176,6 +239,15 @@
       "pubDate": "2026-11-03T19:43:41.000Z"
     },
     {
+      "id": "walla:https://celebs.walla.co.il/item/3874871",
+      "title": "אלף מוזמנים: ה-חתונה של המגזר מתקרבת",
+      "summary": "כתב ופאנליסט חדשות 12 מוחמד מג'אדלה, חשף בפודקאסט של גיא פלג כי התארס לבת הזוג שלו בשנתיים האחרונות מאי וגילה לראשונה איך השניים הכירו: \"היא התקשרה לנזוף בי\"",
+      "link": "https://celebs.walla.co.il/item/3874871",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T19:42:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21773683",
       "title": "יעל שלביה ולאנס סטרול כובשים יעד חדש בזוגיות",
       "summary": "אחרי האכזבה הגדולה במרוץ הפורמולה 1 במקסיקו, שבו נאלץ סטרול לפרוש כבר אחרי חמש הקפות, נהג אסטון מרטין ובת זוגו הישראלית המריאו לחופשה רומנטית באחד היעדים היוקרתיים בקריביים • חופים לבנים, מי טורקיז, צבי יבשה ומלון מפואר במיוחד: הצצה לחופשה החלומית",
@@ -201,6 +273,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T19:36:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21773474",
+      "title": "עומר מילר על היום ששינה הכל: \"לא יודע להסביר\"",
+      "summary": "השף ויוצר התוכן, שחי בתאילנד עם אשתו שירנקה ושלושת ילדיהם, חושף את ההתכתבות מ-3 בנובמבר 2011 שאחריה חייו השתנו: \"הרגשתי אבוד בחלל\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21773474",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T19:36:28.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21773474",
@@ -29262,42 +29343,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-29T20:35:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382852",
-      "title": "ישראל תתריע באו\"ם: איראן בונה מחדש את תוכנית הטילים",
-      "summary": "שגריר ישראל באו\"ם דני דנון צפוי להאשים את טהרן בשיקום תוכנית הטילים ובהזרמת כספים לחיזבאללה. בנאומו בדיון על זכויות האדם יציג את איראן כאיום עולמי ויתייחס גם לדיכוי האזרחים ולהפרעה לשיט במצר הורמוז",
-      "link": "https://www.maariv.co.il/news/politics/article-1382852",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T20:31:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21739476",
-      "title": "הכול כדי להחליף את נתניהו: ההימור של גוש השינוי",
-      "summary": "למרות הקריאות לממשלת אחדות, בגוש השינוי נחושים להקים ממשלה ללא נתניהו, גם במחיר הישענות על המפלגות הערביות • התרחיש שכבר התממש ב-2021 עשוי לחזור, אך הפעם המחיר הפוליטי עלול להיות כבד יותר • ובסופו של דבר, המהלך עשוי דווקא לסלול את דרכו של נתניהו בחזרה לשלטון",
-      "link": "https://www.israelhayom.co.il/opinions/article/21739476",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T20:30:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21739542",
-      "title": "אין כוונה לעצור: נטפליקס מחדשת את סדרת הלהיט לעונה נוספת",
-      "summary": "רגע אחרי סיום העונה הרביעית שטרף את כל הקלפים בפסגת ה-G7, ענקית הסטרימינג מאשרת רשמית: דרמת המתח הפוליטית המוערכת \"הדיפלומטית\" בכיכובה של קרי ראסל תחזור לעונה חמישית • עם יותר מ-130 מיליון צפיות ושלל פרסי אמי - הקנוניות במסדרונות הבית הלבן רחוקות מלהסתיים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21739542",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T20:25:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21739364",
-      "title": "\"מדברים שעות על ישראל, לא מצביעים כאן\": המאבק על הקול הציוני",
-      "summary": "לקראת בחירות האמצע ביום שלישי, ארגון ה-IAC יוצא בקמפיין שמטרתו להוציא את הישראלים-אמריקנים לקלפיות • בארגון מזהירים שרוב הקהילה בקיאה בפוליטיקה בישראל, אך מתעלמת ממועצות החינוך שקובעות מה הילדים ילמדו • למה ההתעלמות הזו עלולה לפגוע בביטחון הקהילה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21739364",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T20:16:57.000Z"
     }
   ]
 }
