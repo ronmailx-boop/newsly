@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:15:51.146Z",
+  "updatedAt": "2026-11-03T06:31:09.210Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1384229",
+      "title": "מינה צמח מטילה פצצה וחושפת: \"זה היה מאורגן על ידי אנשי הליכוד - הם צלצלו להתנצל\"",
+      "summary": "מינה צמח חושפת בריאיון לרדיו 103fm כיצד נסקרים הטעו אותה בכוונה, מי לטענתה עמד מאחורי המהלך ומה קרה כשהתקשרו להתנצל. הסוקרת הוותיקה מסבירה גם איך טעות קטנה הופכת לפער של חמישה מנדטים",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1384229",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T06:28:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21765091",
+      "title": "עד 10 שנות מאסר: ישראלית מואשמת בהונאת בחירות בארה\"ב",
+      "summary": "בצל בחירות האמצע בארה\"ב, כתבי אישום הוגשו נגד 63 בני אדם בגין הצבעה בלתי חוקית ובדיווח כוזב בבחירות 2024 • ביניהם נמצאת מוריה דהן (35) מקליפורניה, הנאשמת כי שיקרה בבקשת ההתאזרחות שלה תחת שבועה - והצביעה • לכל הפרטים, והעונש המקסימלי שעומדת בפניו",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21765091",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:13:14.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hk1175ouagx",
       "title": "צד\"לניק ראשון בקורס צוערי משרד החוץ: \"הוריי חתמו ברית עם ישראל\"",
@@ -84,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T05:50:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjwnjkvtgx",
+      "title": "איזנקוט או נתניהו? מצעד הממליצים יחל מחר, אלו המפלגות שטרם פרסמו החלטה",
+      "summary": "חברות גוש השינוי הודיעו כולן כי ימליצו על איזנקוט, ומנגד בבלוק נתניהו - שלא ברור אם הוא יציב כבעבר - לא מסרו דבר. ש\"ס צפויה כן להמליץ על יו\"ר הליכוד, יהדות התורה כנראה לא תמליץ על איש. המפלגות הערביות מתואמות, וימליצו כנראה על איזנקוט. הראשונים שיתייצבו בבית הנשיא: נציגי הציונות הדתית-זהות",
+      "link": "https://www.ynet.co.il/news/article/bjwnjkvtgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T05:47:35.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjwnjkvtgx",
@@ -1191,6 +1218,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T19:58:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763792",
+      "title": "המקורבים לשעבר מעריכים: כך יפעל ליברמן",
+      "summary": "יו\"ר ישראל ביתנו שוב מחזיק בידיו את המפתח להרכבת הממשלה, אך התחייבויותיו שלא לשבת עם נתניהו, החרדים או המפלגות הערביות מציבות אותו בפני מלכוד פוליטי • בשיחות עם \"היום\", אנשים שעבדו לצידו מנסים לפענח את כוונותיו • בין החשש מבחירות חוזרות לאובדן אמון המצביעים, ליברמן נדרש להכריע איזה מחיר הוא מוכן לשלם",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21763792",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T19:52:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763792",
@@ -29415,69 +29451,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-29T06:32:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21731771",
-      "title": "הסקרים פישלו, ערוץ 12 ניצח: זה מה שלמדנו מליל הבחירות בטלוויזיה",
-      "summary": "ערוץ 12 ממשיך לשלוט מבחינת רייטינג, הסוקרים שוב מפספסים ורשת נשארת מאחור • וגם: ליאור שליין סיפק רגע עיתונאי בולט, i24NEWS פגע קרוב לתוצאות, וערוץ 16 מתמודד עם אתגר לא פשוט",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21731771",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T06:30:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382465",
-      "title": "תרגיל ההסחה שהדהים את ברזיל: כך בולסונרו נמלט מהמדינה",
-      "summary": "פחות מיממה לאחר שהפסיד בבחירות בברזיל, פלביו בולסונרו נמלט מהמדינה במבצע חשאי שכלל תרגילי הסחה ומטוס פרטי. מאחורי הבריחה, שבוצעה בניגוד לצו בית המשפט, עמדו מקורבי טראמפ ונשיא ארגנטינה",
-      "link": "https://www.maariv.co.il/news/world/article-1382465",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:29:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382465",
-      "title": "תרגיל ההסחה שהדהים את ברזיל: כך נמלט המועמד לנשיאות",
-      "summary": "פחות מיממה לאחר שהפסיד בבחירות בברזיל, פלביו בולסונרו נמלט מהמדינה במבצע חשאי שכלל תרגילי הסחה ומטוס פרטי. מאחורי הבריחה, שבוצעה בניגוד לצו בית המשפט, עמדו מקורבי טראמפ ונשיא ארגנטינה",
-      "link": "https://www.maariv.co.il/news/world/article-1382465",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:29:42.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959307",
-      "title": "לפני מכתב סולברג - המשטרה דחתה טענות הליכוד ל\"גניבת בחירות\"",
-      "summary": "לפני מכתב סולברג - המשטרה דחתה טענות הליכוד ל\"גניבת בחירות\"",
-      "link": "https://www.walla.co.il/news/politics/383959307",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T06:23:08.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959307",
-      "title": "המשטרה על טענות הליכוד לזיופים בבחירות: \"אין תימוכין\"",
-      "summary": "לאחר שבליכוד טענו לזיופים נרחבים בקלפיות בחברה הערבית ודרשו חקירת שב\"כ, המשטרה מבהירה כי יום הבחירות התאפיין במיעוט אירועים חריגים בתחום טוהר הבחירות, גם בהשוואה למערכות בחירות קודמות",
-      "link": "https://www.walla.co.il/news/politics/383959307",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T06:23:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21731837",
-      "title": "מודי ספורי מודה לנתניהו: ״תודה״",
-      "summary": "כוכב הריאליטי מתייחס להישג המפלגות הערביות ומעביר מסר על היחסים בין יהודים לערבים בישראל • לצד הדברים, הוא יוצא נגד תופעה שמפריעה לו • \"אסור לשפוט ציבור שלם\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21731837",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T06:22:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89817",
-      "title": "המשטרה מכחישה טענת הליכוד על גניבת הבחירות על ידי ערבים",
-      "summary": "המשטרה הודיעה כי אין כל תימוכין חקירתי או מודיעיני לטענת הליכוד שהערבים גנבו את הבחירות.",
-      "link": "https://www.kikar.co.il/scoop-news/89817",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T06:18:13.000Z"
     }
   ]
 }
