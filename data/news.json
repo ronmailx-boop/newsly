@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T09:31:08.496Z",
+  "updatedAt": "2026-11-03T09:45:55.353Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90556",
+      "title": "ראשי גוש השינוי מתכנסים לפגישה ראשונה מאז הבחירות",
+      "summary": "ראשי גוש השינוי מתכנסים בהרצליה לפגישה ראשונה מאז הבחירות.",
+      "link": "https://www.kikar.co.il/scoop-news/90556",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T09:42:09.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tiger-climbing-tree-india",
+      "title": "הטורף האימתני בפעולה: טיגריס ענקי זינק לצמרת העץ לעיני הצופים",
+      "summary": "הוא נראה כבד ומסורבל, אבל בתוך שניות הוא הוכיח יכולת אתלטית יוצאת דופן | הסרטון שצולם בהודו חושף צד פחות מוכר של אחד הטורפים הגדולים בעולם (חדשות בעלם)",
+      "link": "https://www.kikar.co.il/world-news/tiger-climbing-tree-india",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T09:37:54.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sk0ny7wtzg",
+      "title": "הצבענו. על מה אנחנו נענשים?",
+      "summary": "מה משמעותה של זכות ההצבעה אם כוחם הפוליטי של המצביעים נפסל מראש כבסיס לשותפות שלטונית? מדוע קוראים לנו להשתתף בדמוקרטיה, ואז מתייחסים לאפשרות שנכריע בה כאיום?",
+      "link": "https://www.ynet.co.il/news/article/sk0ny7wtzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T09:36:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21766822",
+      "title": "תעשיית הקולנוע בסערה: זה מה שקורה עם מותג ג'יימס בונד",
+      "summary": "שחקן בולט מסתמן כמועמד המוביל להחליף את דניאל קרייג • התפטרותו מחברת ההפקה שהקים עם דואה ליפה מעוררת עניין",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21766822",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:29:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/police/national-enforcement-operation-umm-al-fahm",
       "title": "מבצע נרחב נגד הפשיעה: מאות שוטרים פשטו על אום אל-פחם",
       "summary": "מאות שוטרים ולוחמי מג\"ב פועלים בעיר אום אל-פחם • במבצע נוטלים חלק גם רגולטורים וגופי אכיפה הפועלים במקביל במטרה לאתר ולעצור מחוללי פשיעה ואלימות ולפגוע בתשתיות הכלכליות המזינות את הפשיעה (בארץ)",
@@ -39,6 +75,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T09:29:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjsdi7wtfe",
+      "title": "עד כמה חברות הסקרים אכן טעו בבחירות?",
+      "summary": "מנכ\"ל הלמ\"ס לשעבר ממליץ להימנע ממדגמים כפי שהיכרנו בסגירת הקלפיות, ולהתבסס רק על מדגם קלפיות עם תוצאות אמת. עם מעט מאמץ אפשר להפיק ולפרסם את תוצאות מדגמים אלו תוך כשעתיים מאז סיום הבחירות. מחכים כמה שנים, נחכה עוד שעתיים",
+      "link": "https://www.ynet.co.il/news/article/hjsdi7wtfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T09:28:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21766749",
+      "title": "מפתחת קלוד מטילה פצצה: \"לא זיהינו בזמן\"",
+      "summary": "באותיות הקטנות של מסמכי ההנפקה המעודכנים לוול סטריט, מעבדת ה-AI אנתרופיק הטילה פצצה • החברה מודה כי היא קרובה מאוד לנקודת ה-RSI - השלב שבו הבינה המלאכותית מפתחת דורות חדשים של עצמה • המפתחים מתחייבים להשאיר בני אדם בלולאה, אך מזהירים מפני פערי בטיחות קריטיים",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21766749",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:27:13.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1384312",
@@ -50,6 +104,24 @@
       "pubDate": "2026-11-03T09:26:29.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21766904",
+      "title": "ההכרעה שביהדות התורה יקבלו ברגע האחרון - והאם יתמכו בהחלפת אוחנה?",
+      "summary": "פלונטר פוליטי בדרך לבית הנשיא: מסתמן כי המפלגה בראשות יעקב אשר לא תמליץ על אף מועמד להרכבת הממשלה, בעוד שבש\"ס ימליצו על נתניהו • ברקע: חילוקי דעות קשים בסיעה בין תמיכה בנתניהו לבין האפשרות לחבור לאיזנקוט להחלפת יו\"ר הכנסת - בתמורה לראשות ועדת הכספים • ההכרעה הסופית תתקבל מחר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21766904",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:24:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21766840",
+      "title": "אחרי 18 שנה: הסדרה פורצת הדרך חוזרת לעונה חדשה בהוט",
+      "summary": "כמעט שני עשורים אחרי שירדה מהמסך, הוט מפתחת עונה חדשה לסדרת הדרמה המיתולוגית • היוצר חגי לוי צפוי לשוב לפרויקט, אך עדיין לא ברור מי ייכנס לנעליו של אסי דיין המנוח • הסדרה המקורית זכתה להצלחה בינלאומית והולידה עשרות עיבודים ברחבי העולם, בהם הגרסה האמריקאית של HBO",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21766840",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:20:53.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1384303",
       "title": "גוגל תחת חקירה: כריתת יערות ענקית מסעירה את פינלנד",
       "summary": "פרויקט להקמת חוות שרתים עורר זעם לאחר ששטחי יער נרחבים נכרתו לפני השלמת בדיקות ההשפעה הסביבתית. הרשויות הורו לעצור את העבודות, מנהל גוגל במדינה התנצל והמשטרה חוקרת חשד לפגיעה בסביבה",
@@ -57,6 +129,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T09:20:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21766270",
+      "title": "בית\"ר ירושלים הציעה חצי מיליון: החלוץ שמטריף את ליגת העל",
+      "summary": "מכבי תל אביב והפועל באר שבע מעוניינות בו, הקבוצה מהבירה כבר פנתה ונדחתה • איליה פוטקין, הכישרון של מ.ס קריית ים, עשוי להיות אחד השמות החמים בחלון ההעברות • בקבוצתו מבינים שהוא בדרך ליעד הבא - אולי אפילו מעבר לים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21766270",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:19:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21765663",
+      "title": "העצור האחרון מפרשת השוחד שוחרר - השופט ביקר את המשטרה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21765663",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T09:18:46.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384305",
@@ -106,7 +196,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21766280",
       "title": "טרגדיה בספרד: כדורגלן מת אחרי שהתנגש בשוער היריבה",
-      "summary": "חסוס דה מיגל מטנריפה הלך לעולמו בגיל 30 לאחר סבל מדום לב כתוצאה מהתנגשות חזקה בשוער אנדורה • למרות המאמצים, הוא לא שרד בבית החולים",
+      "summary": "חסוס דה מיגל מטנריפה הלך לעולמו בגיל 30 לאחר סבל מדום לב כתוצאה מהתנגשות חזקה בשוער אנדורה • החלוץ שהפך למקצוען רק לפני שלוש שנים שיחק בליגה השנייה מאז העונה שעברה: \"לא מאמינים שזה אמיתי\"",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21766280",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -156,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T09:02:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384299",
+      "title": "אחרי 90 יום בכלא - הפורץ לשעבר לקפיטול משגר אזהרה חמורה לאמריקה",
+      "summary": "זכוכיות חסינות כדורים הותקנו בקלפיות בארה\"ב, ועובדי בחירות מתמודדים עם איומים. ברקע, טראמפ מציב תנאי לקבלת התוצאות, וגורמי פיקוח חוששים מגל תביעות ומחזרה על אירועי הקפיטול",
+      "link": "https://www.maariv.co.il/news/world/article-1384299",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T09:01:25.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1384299",
@@ -813,6 +912,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T07:33:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1384249",
+      "title": "גם היום מנדלבליט על הדוכן - ועמית חדד לוחץ: \"אני זוכר שחתמתי\"",
+      "summary": "סנגורו של ראש הממשלה ממשיך לחקור את היועץ המשפטי לממשלה לשעבר, אביחי מנדלבליט. חדד טוען שאתמול קיבל מהתביעה חורים חדשים ושלא היה זמן להתגנה להתכונן לכך",
+      "link": "https://www.maariv.co.il/news/law/article-1384249",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T07:32:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384249",
@@ -2138,33 +2246,6 @@
       "pubDate": "2026-11-02T21:52:53.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "בגלל השפעה מעכבת של כוכב מארס אתם מרגישים עייפות ואפילו חוסר אונים מסוים מול מה שקורה סביבכם. נראה כי האווירה התוקפנית אינה פוסחת על אף אחד",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
-      "title": "מזל שור, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "כוכב יופיטר מעורר אתכם לפעילות ובמהלך היום צפויות אנרגיות פיסיות תוססות. אהבה חדשה עומדת על הפרק עבור הפנויים שביניכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "אנרגיות חלומיות זורמות אליכם מכיוונו של כוכב מרקורי, אך היקום מעדיף לרסן קמעה את הרפתקנותכם. יש לכם צורך בזמן ובמעט יותר פרטיות מכפי שאתם רגילים",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21740150",
       "title": "מזל סרטן, תחזית הורוסקופ יומית 03.11.2026",
       "summary": "אתם מושפעים היום מכוכב וונוס האחראי על היופי ועל האהבה. לא פלא כי הרפתקה בתחום הזוגי עשויה להתחיל היום",
@@ -2241,6 +2322,33 @@
       "title": "מזל דגים, תחזית הורוסקופ יומית 03.11.2026",
       "summary": "כוכב נפטון השולט במזל דגים, מקיים עתה קשרים ענפים עם הכוכבים סטורן ויופיטר. מן ההיבט הנומרולוגי יש בתופעה כדי לחבר אתכם עם אנשים ומקומות המושפעים מן המספרים 4 ו-3",
       "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21740197",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T21:30:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 03.11.2026",
+      "summary": "בגלל השפעה מעכבת של כוכב מארס אתם מרגישים עייפות ואפילו חוסר אונים מסוים מול מה שקורה סביבכם. נראה כי האווירה התוקפנית אינה פוסחת על אף אחד",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T21:30:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
+      "title": "מזל שור, תחזית הורוסקופ יומית 03.11.2026",
+      "summary": "כוכב יופיטר מעורר אתכם לפעילות ובמהלך היום צפויות אנרגיות פיסיות תוססות. אהבה חדשה עומדת על הפרק עבור הפנויים שביניכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-02T21:30:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 03.11.2026",
+      "summary": "אנרגיות חלומיות זורמות אליכם מכיוונו של כוכב מרקורי, אך היקום מעדיף לרסן קמעה את הרפתקנותכם. יש לכם צורך בזמן ובמעט יותר פרטיות מכפי שאתם רגילים",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T21:30:48.000Z"
@@ -29199,78 +29307,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-29T09:46:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/flydubai-pilot-hero-uae-award",
-      "title": "עם צלקות חמורות: הטייס הגיבור קיבל אות הוקרה מנשיא האמירויות",
-      "summary": "חודש לאחר שהותקף בגרזן בתא הטייסים במהלך טיסה מדובאי לתל אביב, קברניט פליי דובאי הופיע בפנים גלויות ובפציעות שעדיין ניכרות על ראשו | נשיא איחוד האמירויות העניק לו ולאנשי הצוות אות הוקרה על האומץ שהציל את חייהם של 174 נוסעים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/flydubai-pilot-hero-uae-award",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T09:45:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "title": "לשב\"כ היה מידע, סולברג לא עודכן: השאלות הקשות, והבהרת הוועדה - \"טוהר הבחירות נשמר\"",
-      "summary": "עוד לפני יום הבוחר, השב\"כ היה מודיעין על חשד לניסיון קטארי לפגוע בטוהר הבחירות, אבל הוא חיכה - וההתערבות כנראה לא סוכלה. מ\"מ מנכ\"ל ועדת הבחירות: \"לפרסומים אין בסיס\". גורם בכיר: הפרשה קטנה בהרבה ממה שעושים ממנה",
-      "link": "https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T09:43:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "title": "שב\"כ החזיק במודיעין על חשד לפגיעה בטוהר הבחירות לפני יום הבוחר. סולברג לא עודכן",
-      "summary": "רשמית, שב\"כ \"לא מתייחס\" לחקירה בחשד לניסיון קטארי לפגוע בטוהר הבחירות. אבל התנהלות הארגון תמוהה ומעלה שאלות קשות: מדוע חיכו ולא פעלו קודם, למה זיני הצהיר על בחירות \"בטוחות\", כיצד נחשפו למידע - ומדוע אם היה חשד להתערבות היא לא סוכלה מראש. מערך הדוברות לא קיים - וזיני שותק. בכיר המעורה בפרטי החקירה: \"זו פרשה הרבה יותר קטנה ממה שעושים ממנה. סולברג חייב לצאת לציבור\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T09:43:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "title": "זיני הצהיר שהבחירות \"בטוחות\", בזמן שהשב\"כ החזיק במידע | השאלות הקשות",
-      "summary": "רשמית, השב\"כ \"לא מתייחס\" לחקירה שהחלה לפני ימים בחשד לניסיון קטארי לפגוע בטוהר הבחירות. אבל התנהלות הארגון תמוהה ומעלה שאלות קשות: מדוע חיכו ולא פעלו קודם, למה זיני הצהיר על בחירות \"מפוקחות ותקינות\", כיצד נחשפו למידע - ומדוע ההתערבות לא סוכלה. מערך הדוברות לא קיים - וזיני שותק",
-      "link": "https://www.ynet.co.il/news/elections2026/article/r1yundxpge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T09:43:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkacw9e6me",
-      "title": "הפעם ביבי היה ער",
-      "summary": "אם הכל נכון, ועדת חקירה ממלכתית חייבת תהיה לקום מייד, אני מניח שביבי יהיה הראשון לדרוש זאת. ערוצי הימין בטח יפנו אצבע מאשימה כלפי זיני, כלפי גופמן, בדיוק כפי שעשו להרצי ורונן בר. או שהכל ספין כדי להראות לאיזנקוט מי הבוס",
-      "link": "https://www.ynet.co.il/news/article/hkacw9e6me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T09:39:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382565",
-      "title": "חקירת השב\"כ עשויה לשחק לידי נתניהו - והמהלך שמסתמן: \"בליכוד יעלו הילוך\"",
-      "summary": "חקירת השב\"כ בחשד לשוחד בחירות עשויה לחזק את מאבק הליכוד נגד ממשלה בתמיכת המפלגות הערביות. במערכת הפוליטית מעריכים כי בליכוד יגבירו את הקריאות לממשלת אחדות, בעוד גולן מנסה לגבש חלופה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382565",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T09:39:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382565",
-      "title": "בצל חקירת השב\"כ בחשד לשוחד בחירות: בליכוד נערכים להגביר את הלחץ לאחדות",
-      "summary": "חקירת השב\"כ בחשד לשוחד בחירות עשויה לחזק את מאבק הליכוד נגד ממשלה בתמיכת המפלגות הערביות. במערכת הפוליטית מעריכים כי בליכוד יגבירו את הקריאות לממשלת אחדות, בעוד גולן מנסה לגבש חלופה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382565",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T09:39:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21733623",
-      "title": "\"הפועל תל אביב? כבר הייתי בשני המועדונים הטובים במדינה\"",
-      "summary": "חוסה רודריגס התייחס בפודקאסט לתקופות שלו במכבי תל אביב, מכבי חיפה והפועל תל אביב • הספרדי הסביר מדוע התקשה בתחילה להשתכנע להגיע לאדומים, אחרי שכבר שיחק לדבריו בשני המועדונים הטובים בישראל • וגם: המחמאות לכדורגל הישראלי והחיים בארץ",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21733623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T09:33:51.000Z"
     }
   ]
 }
