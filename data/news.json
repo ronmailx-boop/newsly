@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:31:09.210Z",
+  "updatedAt": "2026-11-03T06:45:52.742Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/walking-around-the-world-28-years",
+      "title": "28 שנה בלי לחזור הביתה: האיש המטורף שהלך ברגל מסביב לעולם חזר",
+      "summary": "מסביב לעולם: 28 שנים של הישרדות בג'ונגלים, ים קפוא וכלא זר: הרגע שבו קארל בושבי סוף סוף הגיע הביתה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/walking-around-the-world-28-years",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T06:34:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1384228",
+      "title": "כבר בימים הקרובים: היערכות לתרחיש ההרס במלחמה מול איראן",
+      "summary": "פיקוד העורף נערך לתרחיש של פתיחה מלחמה מול איראן, כבר במהלך הימים הקרובים. במסגרת התרגיל שהוא מקיים הבוקר, יופקו הלקחים מהאסון שאירע בחיפה במלחמה האחרונה",
+      "link": "https://www.maariv.co.il/news/military/article-1384228",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T06:34:31.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1384229",
       "title": "מינה צמח מטילה פצצה וחושפת: \"זה היה מאורגן על ידי אנשי הליכוד - הם צלצלו להתנצל\"",
       "summary": "מינה צמח חושפת בריאיון לרדיו 103fm כיצד נסקרים הטעו אותה בכוונה, מי לטענתה עמד מאחורי המהלך ומה קרה כשהתקשרו להתנצל. הסוקרת הוותיקה מסבירה גם איך טעות קטנה הופכת לפער של חמישה מנדטים",
@@ -39,6 +57,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T06:28:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21765227",
+      "title": "תיעוד מצמרר: שני מסוקים התנגשו והתרסקו למרגלות האוורסט",
+      "summary": "תאונה קטלנית באחד מאזורי הטרקים הפופולריים בעולם: שני מסוקים התנגשו במהלך נחיתה בגובה של יותר מ־4,000 מטרים • תייר הודי נהרג ושלושה בני אדם נפצעו • רגעי ההתנגשות תועדו במצלמה והופצו ברשתות החברתיות • הרשויות פתחו בחקירה",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21765227",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:27:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/21-under-21/article/21765225",
+      "title": "״לא לחכות למשבר״: בן ה-18 שנלחם על ישראל מפציר",
+      "summary": "בעידן שבו הרשתות החברתיות שולטות וכל סטורי עלול לשנות את דעת הקהל הבינלאומית - האם הקרב שישראל מנהלת בחזית ההסברה אבוד מראש?",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/21-under-21/article/21765225",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:26:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21764960",
+      "title": "מאמן פורטלנד חשף: התוכנית המיוחדת שבנה לדני אבדיה",
+      "summary": "הטרייל בלייזרס שברו בצורת של 16 שנה ללא ניצחון חוץ בדנבר במסגרת העונה הסדירה • מייקה נורי פרגן לכוכב הישראלי והבהיר: \"הוא 'מנהל המשחק המשני', הוא מצוין בזה\" • בארצות הברית מודאגים מנתון אחד בעייתי של הישראלי",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21764960",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:25:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21765132",
+      "title": "מאיה בוסקילה: ״רואה את הרוע הזה ופשוט בוכה״",
+      "summary": "הזמרת נחשפה לתיעוד הקשה מבית הספר ולא הצליחה להישאר אדישה • בסטורי חריף היא פנתה ישירות לתלמידות המעורבות והציבה שאלות קשות גם למבוגרים שסביבן",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21765132",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:18:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21765091",
@@ -29388,69 +29442,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-29T06:46:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382474",
-      "title": "ראש עיריית סח'נין נשאל על איזנקוט - והשיב: \"כואב לי הלב\"",
-      "summary": "לאחר ההישג של המפלגות הערביות בבחירות, ראש עיריית סח'נין מאזן גנאים ביקר ב-103fm את ההתנגדות לשילובן בממשלה. הביע אכזבה מאיזנקוט והאשים את בן גביר וסמוטריץ' בפגיעה במדינה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382474",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:41:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382474",
-      "title": "מאזן גנאים נשאל על איזנקוט - והשיב: \"כואב לי הלב\"",
-      "summary": "לאחר ההישג של המפלגות הערביות בבחירות, ראש עיריית סכנין מאזן גנאים ביקר ב-103fm את ההתנגדות לשילובן בממשלה. הביע אכזבה מאיזנקוט והאשים את בן גביר וסמוטריץ' בפגיעה במדינה",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382474",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:41:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21731901",
-      "title": "חריג: תאילנד שללה אזרחות לרב הראשי של חב\"ד במדינה",
-      "summary": "לפי הרשויות, הרב יוסף חיים קנטור השתמש באזרחות האמריקאית שוב ושוב לצורך נסיעות, למרות שהתאזרח בתאילנד • שר הפנים רשאי לשלול אזרחות מאדם שקיבל אזרחות תאילנדית, אם יש ראיות לכך שהוא ממשיך להשתמש באזרחותו הקודמת • למרות הפשיטות הקודמות על בתי חב\"ד, הרשויות לא פרסמו באופן רשמי כי ההתנהלות פלילית",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21731901",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T06:39:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731895",
-      "title": "הדרך של איזנקוט להקים ממשלה בהימנעות הערבים - ושלושת העריקים ש\"סומנו\" בליכוד",
-      "summary": "בגוש השינוי לוטשים עיניים לעבר ביטן, ברקת, חיים כץ ואתי עטיה • הארבעה מכחישים בתוקף כל כוונה לערוק, אך חלקם מאשרים כי התקבלו פניות מצד האופוזיציה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21731895",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T06:35:45.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874117",
-      "title": "השווקים רצו מהפך. עכשיו כולנו עלולים לשלם את המחיר",
-      "summary": "הרפורמות, התקציב והמינויים הנדרשים נתקעו בעקבות תוצאות הבחירות. הדרך היחידה למנוע הידרדרות היא הסכמה רחבה בין נתניהו לאופוזיציה - לפני שיהיה מאוחר מדי",
-      "link": "https://finance.walla.co.il/item/3874117",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T06:35:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382470",
-      "title": "פגישות בפאבים ושם בדוי: המבצע החשאי שנחשף באלסקה",
-      "summary": "תחקיר הניו יורק טיימס חושף ניסיון חשאי לגייס מועמדים כדי לפצל את הקול הרפובליקני באלסקה. מורה בגמלאות, פעיל בשם בדוי ועדות של מנהלת שפוטרה עומדים במרכז פרשה שהגיעה עד לבית המשפט",
-      "link": "https://www.maariv.co.il/news/world/article-1382470",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:32:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382470",
-      "title": "אנשי הקש נחשפו: מצעד הכפילים של המועמדים בבחירות מסעיר את ארה\"ב",
-      "summary": "תחקיר הניו יורק טיימס חושף ניסיון חשאי לגייס מועמדים כדי לפצל את הקול הרפובליקני באלסקה. מורה בגמלאות, פעיל בשם בדוי ועדות של מנהלת שפוטרה עומדים במרכז פרשה שהגיעה עד לבית המשפט",
-      "link": "https://www.maariv.co.il/news/world/article-1382470",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T06:32:54.000Z"
     }
   ]
 }
