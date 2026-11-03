@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:45:49.813Z",
+  "updatedAt": "2026-11-03T14:01:04.366Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-coalition-negotiation-team-change-bloc",
+      "title": "איזנקוט מקים צוות מקצועי: \"נרכיב ממשלה במהירות\"",
+      "summary": "מינוי צוות משא ומתן בראשות יואב הורוביץ • צוות פרלמנטרי מסייע עם כהנא וטרופר | מפגשי עבודה מול גוש השינוי כבר היום (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-coalition-negotiation-team-change-bloc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T13:57:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384445",
+      "title": "החשד למעורבות זרה בבחירות: \"יש דרך אחת לוודא כדי שלא נדע - לא לחקור\"",
+      "summary": "ח\"כ שמחה רוטמן טוען ב-103fm כי החשד למעורבות זרה בבחירות כבר אינו מוטל בספק, ודורש לברר את היקפה ואת השפעתה על התוצאות. לדבריו, אם אכן הייתה השפעה כזו, \"כנראה שמישהו בשב\"כ כשל\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1384445",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T13:54:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1384453",
+      "title": "מיליון שקל במזומן ורכבי יוקרה: השוטרים יצאו למבצע ענק בצפון הארץ",
+      "summary": "מאות שוטרים ולוחמי מג\"ב פעלו באום אל פחם והסביבה במסגרת מבצע לאומי נגד הפשיעה. במהלך הפעילות נתפסו סכומי כסף גדולים ורכבי יוקרה בשווי מיליונים, חלקם של בעלי חובות לרשויות",
+      "link": "https://www.maariv.co.il/news/law/article-1384453",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T13:53:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/shas-recommends-netanyahu-yeshiva-students-status",
+      "title": "ש\"ס תמליץ על נתניהו: \"התחייב להסדיר את מעמד לומדי התורה\"",
+      "summary": "מועצת חכמי התורה החליטה להמליץ על נתניהו לנשיא המדינה • ההחלטה התקבלה לאחר התחייבותו המפורשת להסדרת מעמד תלמידי הישיבות | מתקפה חריפה על האופוזיציה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/shas-recommends-netanyahu-yeshiva-students-status",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T13:49:41.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1qrevwpfl",
+      "title": "ש\"ס: נמליץ על נתניהו להרכבת ממשלה אחרי שהתחייב להסדרת מעמד לומדי התורה",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/s1qrevwpfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T13:47:56.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/tnxgun",
+      "title": "מכתב פתוח לח\"כים החרדים: הכוח בידיים שלכם, תגרמו להם קצת להזיע",
+      "summary": "רגע האמת שלכם הגיע, הרגע בו תצטרכו להוכיח ששווה היה לשים ג' בקלפי | הרגע בו לא יהיו יותר תירוצים: היועמ\"שית, בג\"ץ - כולם הפעם יהיו בצד שלכם - האחריות מוטלת עליכם יותר מאי פעם | וגם מילה אחת ל'גוש השינוי' (דעה)",
+      "link": "https://www.kikar.co.il/haredim/tnxgun",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T13:45:25.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90623",
       "title": "נשיא ארגנטינה מיליי: מי שמתעסק עם ישראל מתעסק עם כל המערב",
@@ -284,6 +338,15 @@
       "pubDate": "2026-11-03T13:01:10.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383959966",
+      "title": "\"מרתף העינויים של זלנסקי\": נער בן 14, יריות וחשדות קשים",
+      "summary": "שמועות על מתקן שבו מוחזקים עשרות מגויסים הובילו לעימותים אלימים בפאתי קייב. המשטרה מכחישה שנחשף חדר עינויים, אך ארבעה חיילים נפצעו ונפתחה חקירה פלילית",
+      "link": "https://www.walla.co.il/news/donotmiss/383959966",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T13:00:01.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384429",
       "title": "אחרי הקריאות נגד גדי איזנקוט: היחידה לאבטחת אישים של השב\"כ לוקחת את המושכות",
       "summary": "בעקבות הכישלון של אגף האבטחה בשב\"כ באבטחה של סביבת גדי איזנקוט, לאחר ההפגנה מחוץ לביתו וכניסה של אישה לבניין מגוריו מבלי שנבדקה - הארגון קיים הערכת מצב והעביר את הסמכות ליחידה לאבטחת אישים",
@@ -336,6 +399,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T12:55:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959964",
+      "title": "כמועמד לרה\"מ: החל ממחר איזנקוט יאובטח ע\"י השב\"כ",
+      "summary": "מקורות בכירים אישרו לוואלה כי האחריות לאבטחת יו\"ר ישר! תועבר ליחידה הממלכתית לאבטחת אישים. זאת לאחר חודשים של מחלוקת סביב אבטחתו, שבמהלכם השב\"כ סירב להצמיד לו מאבטחים מטעמו",
+      "link": "https://www.walla.co.il/news/politics/383959964",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T12:53:17.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959964",
@@ -597,6 +669,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T12:24:11.000Z"
+    },
+    {
+      "id": "walla:https://travel.walla.co.il/item/3874812",
+      "title": "טסים לארה\"ב? זו ההצהרה שתצטרכו למלא לפני ההמראה",
+      "summary": "טסים לארה\"ב? זו ההצהרה שתצטרכו למלא לפני ההמראה",
+      "link": "https://travel.walla.co.il/item/3874812",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T12:24:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/drunk-forklift-driver-kills-coworker-arrest",
@@ -29316,60 +29397,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-10-29T14:01:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21736553",
-      "title": "\"להיפרד מהגושים\": היוזמה החדשה לממשלת אחדות - במטרה למנוע בחירות נוספות",
-      "summary": "על רקע התיקו הפוליטי המוחלט והחשש משיתוק לאומי, תנועת \"הרבעון הרביעי\" מובילה מהלך ציבורי הקורא למנהיגי שתי המפלגות הגדולות להיפרד מהגושים ולגבש קווי יסוד משותפים • מייסד התנועה, ד\"ר יואב הלר, מזהיר: \"עומדות בפנינו שתי ברירות בלבד – התדרדרות לעוד מערכת בחירות או הקמת הנהגה רחבה ומחברת\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21736553",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T13:56:15.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryf00z3eame",
-      "title": "בביתו בנס ציונה: סער נפגש בחשאי עם שר החוץ הצרפתי",
-      "summary": "ב-7 באוקטובר נועד שר החוץ עם ז'אן-נואל בארו, שהגיע לישראל כדי להשתתף באירועי ההנצחה ליום השנה לטבח. השניים נפגשו למרות שבפריז הדגישו כי שר החוץ הצרפתי לא יוועד עם גורמים רשמיים",
-      "link": "https://www.ynet.co.il/news/article/ryf00z3eame",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T13:55:12.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874218",
-      "title": "הלקח מטיסת האימים - והפרט המטריד שעדיין לא סידרו",
-      "summary": "חודש אחרי שטייס-מחבל ניסה לרסק מטוס בדרכו לנתב\"ג, דורשת רשות המסים מחברות התעופה להעביר את רשימות אנשי הצוות 48 שעות מראש. שאלת בדיקת הרקע נותרת פתוחה",
-      "link": "https://finance.walla.co.il/item/3874218",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T13:55:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21736402",
-      "title": "במדינה שבחרה נשיא תומך חמאס, מסתתר המון פרו-ישראלי נשכח",
-      "summary": "לולה נשאר בשלטון, והיחסים בין ברזיל לישראל עלולים להגיע לשפל חדש • אבל לדברי רפאל רוזנשיין, האיש שנלחם על ישראל בפורטוגזית, אסור לבלבל בין הממשלה הפרו-איראנית לבין העם • בראיון הוא מסביר איך הופכים את המשבר להזדמנות",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21736402",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T13:53:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syf8i6x6me",
-      "title": "יהדות התורה תציע לאיזנקוט תמיכה לראשות הממשלה: \"התנאי - פטור מגיוס\"",
-      "summary": "יו\"ר ישר! הציב בקמפיין הבחירות שלו 4 תנאים, כולל חובת שירות, אבל ביהדות התורה - שנחלו אכזבה מנתניהו בכנסת היוצאת, מתכננים להציע לו לשבור את הבטחתו. השאלה: מה יעשו השותפות, והאם ש\"ס תצטרף. וגם: הנתונים מאחורי קריסת המפלגה של דרעי - שאיבדה 100 אלף קולות",
-      "link": "https://www.ynet.co.il/news/article/syf8i6x6me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T13:52:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21736400",
-      "title": "עוקף את ChatGPT וקלוד: גוגל חושפת AI חדש - ולכם אסור להשתמש בו",
-      "summary": "שבועיים בלבד לאחר השקת מודל Argon, גוגל מציגה את Gemini 4 Carbon • מדובר במודל עלית חדש שמזנק למקום הראשון במדד Artificial Analysis, עוקף את GPT-6 Astra ו-Claude Opus 5.5, ומציג עליונות חסרת תקדים בהגנת סייבר ועמידות מוחלטת של 100% בפני מתקפות הזרקת פקודות",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21736400",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T13:49:07.000Z"
     }
   ]
 }
