@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T08:15:52.073Z",
+  "updatedAt": "2026-11-03T08:31:07.125Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1ftrzwage",
+      "title": "כולם אומרים אחרת - אבל מי רוצה בחירות חוזרות? מפת האינטרסים",
+      "summary": "האופציה היחידה של נתניהו היא ממשלת אחדות, והוא חושש מכך. ליברמן אמר כי \"חייבים למנוע עוד בחירות\", אבל במעשיו הוא דוחף לכך. בנט עשוי להיות המועמד המוביל הבא של הגוש, לש\"ס שהתרסקה יש גם אינטרס. ולמי זה ממש לא כדאי?",
+      "link": "https://www.ynet.co.il/news/article/s1ftrzwage",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T08:29:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/jenin-terror-cell-rockets-explosives-arrest",
+      "title": "תשתית טרור נחשפה: שישה חשודים נעצרו בחשד לייצור רקטות ומטענים",
+      "summary": "שישה חשודים נעצרו בחשד לייצור רקטות ומטענים • ביצעו שלושה שיגורי ניסוי וקיבלו הנחיות מגורם חוץ | הצהרת תובע הוגשה (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/police/jenin-terror-cell-rockets-explosives-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T08:25:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384278",
+      "title": "הבינה המלאכותית השתלטה על הגירושים - השופטים התערבו",
+      "summary": "גבר מפלורידה שניהל בעצמו את הליך הגירושים שלו הגיש לפחות 145 בקשות לבית המשפט, ובהמשך מסמכים בהיקף מאות עמודים שנכתבו בעזרת AI. בסופו של דבר, השופטים החליטו לשים לזה סוף",
+      "link": "https://www.maariv.co.il/news/viral/article-1384278",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T08:15:34.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/idaho-official-firearm-vote",
       "title": "בזמן שכל אמריקה בוחרת: המדינה שתבחר איזה נשק יהפוך לסמל הרשמי",
       "summary": "בזמן שהאמריקנים מצביעים בבחירות האמצע, תושבי מדינת אחת בארה\"ב מקבלים פתק הצבעה יוצא דופן (חדשות בעולם)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T08:14:15.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1fzuzvpze",
+      "title": "\"מבצע הביפרים\" האוקראיני: משקפיים ממולכדים נשלחו לחיילים רוסים בחזית",
+      "summary": "רוסיה הודיעה כי סיכלה מזימה אוקראינית להעביר כמה משלוחים של משקפיים ממולכדים עבור מפעילי רחפנים רוסים בחזית במסווה של סיוע פטריוטי לחיילים. במסגרת המבצע התחזו סוכנים אוקראינים לתומכי צבא רוסיה ויצרו קשר עם ארגוני סיוע מקומיים. לא ידוע אם חיילים רוסים נפגעו כתוצאה מהמבצע",
+      "link": "https://www.ynet.co.il/news/article/h1fzuzvpze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T08:13:52.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tnx1r0",
@@ -50,6 +86,15 @@
       "pubDate": "2026-11-03T08:13:05.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21766022",
+      "title": "תעלומה בנאפולי: הצעיר שחי בשדה התעופה ואיבד את זיכרונו",
+      "summary": "כבר יותר מחודש הוא שוהה בנמל התעופה בלי מסמכים וכסף • העובדים מסייעים לו והרשויות מחפשות תשובות • בקשתו היחידה: \"אני מבקש רק זוג נעליים חדשות\"",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21766022",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T08:12:07.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1384178",
       "title": "בזמן שכולם עסוקים בבחירות: האיום הגדול שישראל עלולה לפספס",
       "summary": "ישראל שקועה במבוי סתום פוליטי דווקא כשהעולם נכנס לעידן טכנולוגי חדש. הבינה המלאכותית צפויה לשנות את שוק העבודה, הביטחון והפרטיות, ומחייבת את נבחרי הציבור לשתף פעולה",
@@ -57,6 +102,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T08:11:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21765889",
+      "title": "למכבי חיפה יש בעיה אחת: קוראים לה ברק בכר",
+      "summary": "המאמן הודה כי הירוקים \"לא ברמה של הגדולות\", אבל לא מבין שהוא הסיבה המרכזית לכך • בזמן שאלו מאומנות לעילא ועילא, הקבוצה שלו נראית כאסופת שחקנים • וגם: התצוגה המרשימה של אלי דסה והטעות של עומרי גלזר",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21765889",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T08:10:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21766067",
+      "title": "הרכבת ממשלה או חסימת האחדות? מאבקי הכוח בגוש השינוי",
+      "summary": "שבוע אחרי הבחירות, ראשי הגוש נפגשים לראשונה בניסיון לגשר על המחלוקות שמאיימות לסכל את הקמת הממשלה • מה הצעד הבא של ליברמן, כיצד ינסו בנט ולפיד לצמצם את מרחב התמרון של איזנקוט, וממה בכלל מתחילים? • עושים סדר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21766067",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T08:09:59.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/mistaarvim-arrested-fatah-suspect-kfar-dan",
@@ -68,6 +131,24 @@
       "pubDate": "2026-11-03T08:08:56.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383959918",
+      "title": "ליברמן: \"אפשר להקים ממשלה בלי רע\"ם והמשותפת\"",
+      "summary": "לקראת פגישת ראשי גוש השינוי, יו\"ר ישראל ביתנו קורא למנוע בחירות נוספות וטוען כי ניתן להקים ממשלה יציבה ללא המפלגות הערביות. אתמול הודיע כי ימליץ על איזנקוט, וברביעי יחלו ההתייעצויות בבית הנשיא",
+      "link": "https://www.walla.co.il/news/politics/383959918",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T08:08:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21765759",
+      "title": "חיים אתגר שולח מסר חד וברור לינון מגל וערוץ 14",
+      "summary": "מהדורת חדשות 12 שומרת על הפסגה עם 12.8% • המהדורה המרכזית 14 מתבססת במקום השני עם 6.9% ועוקפת את רשת 13 • ברצועת הפריים טיים \"חשיפה\" בקשת 12 מובילה בזמן ש\"עדיף שנשאר ביחד\" מסתפקת בנתון של 2.5%",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21765759",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T08:06:57.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1384273",
       "title": "בשורה לנהגים בישראל: השינוי הגדול שמתקרב לתחנות הדלק",
       "summary": "המועצה הארצית אישרה להעביר לממשלה תוכנית להרחבת עמדות הטעינה המהירות בתחנות הדלק, עם תוספת שטחי בנייה, אזורי המתנה מקורים והקלות ברישוי. אלה השינויים שמתוכננים לנהגים",
@@ -75,6 +156,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T08:06:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21765884",
+      "title": "מאיה ורטהיימר: זה מה שגילו בבדיקת ההיריון",
+      "summary": "מנחת הטלוויזיה שבישרה על היריון שלישי משמח במיוחד רק בקיץ האחרון, מתמודדת עם חרדה גדולה בעקבות ממצא שהתגלה בבדיקת אולטרסאונד שגרתית. \"אני צריכה שתרגיעו אותי\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21765884",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T08:05:18.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1384271",
@@ -142,7 +232,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
       "title": "פגישת ראשי גוש השינוי: התפקיד \"החם\" שבמוקד - והחוקים שעל הפרק",
-      "summary": "לקראת המפגש, המתח בגוש השינוי בשיאו • ליברמן תוקף את \"הקמפיין האגואיסטי\" של איזנקוט ומודיעה: \"חייבים למנוע בחירות נוספות\" • בשאר המפלגות דורשים את תפקיד יו\"ר הכנסת ללפיד - ומאבק עיקש מתנהל על חלוקת הוועדות והשליטה במשכן",
+      "summary": "לקראת המפגש, המתח בגוש השינוי בשיאו • ליברמן תוקף את \"הקמפיין האגואיסטי\" של איזנקוט ומצהיר: \"חייבים למנוע בחירות נוספות\" • בשאר המפלגות דורשים את תפקיד יו\"ר הכנסת ללפיד - ומאבק עיקש מתנהל על חלוקת הוועדות והשליטה במשכן",
       "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -402,6 +492,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
+      "title": "גרושתו של חנן בן ארי במסר חד משמעי לבתה: \"לא הכל אפשר לתקן\"",
+      "summary": "שיחה יומיומית בין אם לבתה על דברים שנשברים קיבלה משמעות עמוקה הרבה יותר • בסטורי אישי הסבירה בן ארי מדוע דווקא הניסיון של אורי להרגיע אותה כל כך מכאיב לה",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T07:07:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
       "title": "גרושתו של חנן בן ארי: \"לא הכל אפשר לתקן\"",
       "summary": "שיחה יומיומית בין אם לבתה על דברים שנשברים קיבלה משמעות עמוקה הרבה יותר • בסטורי אישי הסבירה בן ארי מדוע דווקא הניסיון של אורי להרגיע אותה כל כך מכאיב לה",
       "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
@@ -426,6 +525,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T07:00:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1384232",
+      "title": "מפקד מערך הגנה אווירית לשעבר מזהיר: \"החברה הישראלית לא תתמודד עם עוד סבב\"",
+      "summary": "תא\"ל (מיל') צביקה חיימוביץ' מותח ביקורת על העיסוק במועד התקיפה האפשרית באיראן, מזהיר מפני סבבים חוזרים ודורש להגדיר מטרה אסטרטגית ברורה לפני יציאה למערכה נוספת",
+      "link": "https://www.maariv.co.il/news/military/article-1384232",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T07:00:01.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1384232",
@@ -489,6 +597,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T06:54:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21765284",
+      "title": "אחרי קפה גן סיפור ו-GDB: הרשת הנוספת שנמכרה - ועשתה אקזיט",
+      "summary": "אחרי שנים שבהן ביססה את מעמדה בתחום ההמבורגרים, הרשת יוצאת לדרך חדשה • תוכנית הרכישה כוללת מהלך נוסף שעשוי לשנות את היקף פעילותה",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21765284",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-03T06:46:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21765284",
@@ -1121,19 +1238,19 @@
       "pubDate": "2026-11-03T03:50:00.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/news/israel/383959879",
-      "title": "ישראלית נעצרה בארה\"ב: חשודה שהצביעה לנשיאות ללא אזרחות",
-      "summary": "מוריה דהן, ישראלית בת 35 מלוס אנג'לס, נעצרה בחשד שהצביעה בבחירות לנשיאות ב-2024 אף שאינה אזרחית אמריקנית, ובהמשך מסרה הצהרות כוזבות בבקשת ההתאזרחות שלה • היא אחת משישה חשודים חדשים במבצע אכיפה פדרלי",
-      "link": "https://www.walla.co.il/news/israel/383959879",
+      "id": "walla:https://www.walla.co.il/news/israel/383959865",
+      "title": "הבית הפך לזירת רצח, והילדים נאלצים להתחיל את החיים מחדש",
+      "summary": "רצף מקרי הרצח של נשים, שחלקם התרחשו כשילדיהן בבית, מעורר דאגה בקרב אנשי מקצוע. במשרד הרווחה מסבירים כיצד מטפלים בילדים שאיבדו את אמם, ובפורום מיכל סלה מזהירים: \"החקיינות בין מקרי הרצח האחרונים מדאיגה\"",
+      "link": "https://www.walla.co.il/news/israel/383959865",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-03T03:50:00.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/news/israel/383959865",
-      "title": "הבית הפך לזירת רצח, והילדים נאלצים להתחיל את החיים מחדש",
-      "summary": "רצף מקרי הרצח של נשים, שחלקם התרחשו כשילדיהן בבית, מעורר דאגה בקרב אנשי מקצוע. במשרד הרווחה מסבירים כיצד מטפלים בילדים שאיבדו את אמם, ובפורום מיכל סלה מזהירים: \"החקיינות בין מקרי הרצח האחרונים מדאיגה\"",
-      "link": "https://www.walla.co.il/news/israel/383959865",
+      "id": "walla:https://www.walla.co.il/news/israel/383959879",
+      "title": "ישראלית נעצרה בארה\"ב: חשודה שהצביעה לנשיאות ללא אזרחות",
+      "summary": "מוריה דהן, ישראלית בת 35 מלוס אנג'לס, נעצרה בחשד שהצביעה בבחירות לנשיאות ב-2024 אף שאינה אזרחית אמריקנית, ובהמשך מסרה הצהרות כוזבות בבקשת ההתאזרחות שלה • היא אחת משישה חשודים חדשים במבצע אכיפה פדרלי",
+      "link": "https://www.walla.co.il/news/israel/383959879",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-03T03:50:00.000Z"
@@ -29154,222 +29271,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-29T08:31:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382524",
-      "title": "בני סבטי על תוצאות הבחירות: \"חלום הבלהות של האיראנים התגשם\"",
-      "summary": "בני סבטי טוען כי הישארות נתניהו היא \"חלום הבלהות\" של המשטר בטהרן, אך בחירות נוספות בישראל דווקא ישרתו אותו. במקביל, הוא מזהיר מהמשבר באיראן ותוקף את התנהלות ממשל טראמפ",
-      "link": "https://www.maariv.co.il/news/world/article-1382524",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T08:29:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1382524",
-      "title": "בני סבטי: \"בחירות שניות זה הדבר הכי טוב שיכול לקרות לאיראן\"",
-      "summary": "בני סבטי טוען כי הישארות נתניהו היא \"חלום הבלהות\" של המשטר בטהרן, אך בחירות נוספות בישראל דווקא ישרתו אותו. במקביל, הוא מזהיר מהמשבר באיראן ותוקף את התנהלות ממשל טראמפ",
-      "link": "https://www.maariv.co.il/news/world/article-1382524",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T08:29:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/akedat-yitzhak-personal-trials",
-      "title": "יש לך ניסיונות, קשיים בחיים | בוא תלמד מפרשת השבוע איך להתמודד",
-      "summary": "יש לך הרבה ניסיונות, אבל, ברובם אתה מרגיש שהם - 'קטנים' עליך. ויש ניסיון אחד, שמרגיש לך - שאין סיכוי שתעמוד בו, אבל, דווקא אם תנצח את הניסיון הזה, יחשב הדבר כאילו: ניצחת את 'עקדת יצחק' – הפרטית שלך! | הפרשה על פי רבי נחמן (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/akedat-yitzhak-personal-trials",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:28:24.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "title": "איזנקוט: נתניהו מהנדס תודעה. הליכוד: הוא מכשיר שוחד בחירות",
-      "summary": "בוועדת הבחירות הנחו את שב\"כ לחקור חשד לשוחד בחירות על ידי קטאר - ובליכוד חיברו לאפשרות להחלפת יו\"ר הכנסת: \"אסור להחליפו באמצעות קולות שנקנו במזומן\". איזנקוט: \"לשמור על טוהר הבחירות מהטיות וספינים, לא לאפשר להשפיע על מועד ההשבעה\". עבאס לנתניהו: \"לא יהיה כלום, כי אין כלום - באמת\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T08:28:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "title": "הליכוד: רע\"מגייט - פיגוע בדמוקרטיה. גולן: מסע דה-לגיטימציה מכוער",
-      "summary": "בוועדת הבחירות המרכזית הנחו את שב\"כ לחקור חשד לשוחד בחירות כנראה על ידי קטאר - ובליכוד חיברו לאפשרות להחלפת יו\"ר הכנסת: \"אסור להחליפו באמצעות קולות שנקנו במזומן\". איזנקוט: \"לשמור על טוהר הבחירות מכל הטיות וספינים, לא לאפשר להשפיע על מועד ההשבעה\". יו\"ר הדמוקרטים: \"שנתניהו ימשיך לנבוח\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T08:28:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "title": "הליכוד: רע\"מגייט - פיגוע בדמוקרטיה. איזנקוט: לא לאפשר להשפיע על מועד ההשבעה",
-      "summary": "בוועדת הבחירות המרכזית הנחו את שב\"כ לחקור חשד למימון זר ולשוחד בחירות כנראה על ידי קטאר - ובליכוד חיברו לאפשרות להחלפת יו\"ר הכנסת: \"אסור להחליפו באמצעות קולות שנקנו במזומן\". יו\"ר ישר!: \"לשמור על טוהר הבחירות מכל הטיות וספינים, ואסור לאפשר לגורמים פוליטיים לנצל את המצב\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skj6aoetgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T08:28:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382522",
-      "title": "מה יקרה אם תוכח התערבות זרה בבחירות? החוק מספק תשובה אחת ברורה",
-      "summary": "בעקבות החשדות למימון זר ולשוחד בחירות, עולה שאלת ביטול הבחירות: החוק מאפשר לבטלן בכל המדינה, אך לא באופן אוטומטי. מי רשאי לערער, בתוך כמה זמן, והאם הכנסת תמשיך לפעול?",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382522",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T08:27:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1382522",
-      "title": "החשדות להתערבות זרה: האם הבחירות בישראל עלולות להתבטל?",
-      "summary": "בעקבות החשדות למימון זר ולשוחד בחירות, עולה שאלת ביטול הבחירות: החוק מאפשר לבטלן בכל המדינה, אך לא באופן אוטומטי. מי רשאי לערער, בתוך כמה זמן, והאם הכנסת תמשיך לפעול?",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1382522",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T08:27:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21732367",
-      "title": "אחרי הקלאסיקו: האתגר החדש של אוריין גורן בברצלונה",
-      "summary": "הישראלי בן ה־17 קיבל זימון לסגל מול ריאל מדריד, אך בקבוצה בוחנים כישרון נוסף על אותה משבצת • אברימה טונקרה בן ה-16, שנחשב לאחד מפרויקטי העתיד של המועדון, חזר מפציעה וכבר התאמן עם הקבוצה הראשונה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21732367",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:26:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1382519",
-      "title": "יש סיבה לתקוף? \"ראינו משלחות שמגיעות לאיראן ואומרות להם 'אוי ואבוי'\"",
-      "summary": "לאחר שהבחירות עברו ללא תקיפות, כפי שחלק צפו, עדיין נותרה התהייה לגבי מערכה אפשרית מול איראן. מי שהתייח לדברים היה ממפקד חיל הים לשעבר אליעזר מרום. \"אין עדיין אירוע מחייב או אירוע מודיעיני\", אמר",
-      "link": "https://www.maariv.co.il/news/politics/article-1382519",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T08:23:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/raam-gains-mandate-coalition-loses-majority-electi",
-      "title": "ברקע החשדות: רע\"מ עולה במנדט נוסף בעוד הקואליציה מאבדת את הרוב",
-      "summary": "ספירת 94.4% מהקולות מעניקה לרע\"מ מנדט שמיני • הקואליציה הנוכחית צוללת ל-53 מנדטים בלבד | החשדות למימון זר מטלטלים את המערכת הפוליטית (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/raam-gains-mandate-coalition-loses-majority-electi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:22:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21732571",
-      "title": "\"יש להם את המידע שלנו - לנו יש את שלהם”: הדלפת ענק חשפה זהות של 41,000 סוכנים חשאיים",
-      "summary": "דליפת ענק חסרת תקדים מטלטלת את הממשל האמריקני • ארכיון נתונים בשם \"Icepick\" חשף פרטים אישיים, מספרי טלפון, הרשאות גישה ותוכניות מעקב סודיות של יותר מ-41,000 עובדי המחלקה לביטחון המולדת (DHS), סוכני הגירה (ICE) ושוטרי גבולות (CBP), לצד חשיפת שימוש בכלים מסווגים ומערכות AI",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21732571",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:22:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89835",
-      "title": "לשכת איזנקוט: ישראל חייבת לשמור על טוהר הבחירות מפני התערבות זרה",
-      "summary": "לשכת גדי איזנקוט, יו\"ר מפלגת ישר! עם איזנקוט, מסרה כי איזנקוט נמצא בקשר עם גורמים רלוונטיים ומקבל עדכונים בנוגע לחשדות על מעורבות זרה בבחירות. הלשכה הדגישה כי על ישראל לשמור על טוהר הבחירות מפני כל ניסיון התערבות, ספינים והטייה ולבחון כל תלונה לעומק. במקביל, הלשכה הוסיפה כי אסור לאפשר לגורמים פוליטיים לנצל את המצב ולהשפיע על מועד השבעת הכנסת ה-26.",
-      "link": "https://www.kikar.co.il/scoop-news/89835",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:21:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21732466",
-      "title": "כדור אש בכביש המהיר: הרכב עמד בשוליים - והתפוצץ | צפו",
-      "summary": "אירוע חריג בכביש המהיר בקליפורניה: רכב מסוג טויוטה שנתקע במרכז הכביש הוזז לשוליים בשל תקלה טכנית • שניות לאחר שהגיעו שוטרי סיור למקום, הרכב התפוצץ • השוטרים פונו לבית החולים, נהג הרכב נעצר בחשד לנהיגה תחת השפעת אלכוהול",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21732466",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:21:17.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959325",
-      "title": "מזומן, שוברי דלק והחשדות: מה ידעו על ניסיון ההתערבות בבחירות",
-      "summary": "מידע מודיעני, מזומן ועצורים: ההתרעות שקדמו להתערבות בבחירות",
-      "link": "https://www.walla.co.il/news/military/383959325",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:21:13.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959325",
-      "title": "מידע מודיעיני, ועצורים: ההתראות להתערבות שקדמו לבחירות",
-      "summary": "מידע מודיעני, מזומן ועצורים: ההתרעות שקדמו להתערבות בבחירות",
-      "link": "https://www.walla.co.il/news/military/383959325",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:21:13.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959325",
-      "title": "מידע המודיעיני, ועצורים: ההתראות להתערבות שקדמו לבחירות",
-      "summary": "מידע מודיעני, מזומן ועצורים: ההתרעות שקדמו להתערבות בבחירות",
-      "link": "https://www.walla.co.il/news/military/383959325",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:21:13.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959325",
-      "title": "חודש לפני הבחירות: החשד למימון זר דרך איראן, טורקיה וקטאר",
-      "summary": "כבר חודש לפני הבחירות הוקם צוות מודיעיני לבדיקת החשדות. ביום ההצבעה נעצרו שלושה חשודים, ובחקירה עלה חשד לחלוקת מזומנים והטבות למצביעים.",
-      "link": "https://www.walla.co.il/news/military/383959325",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T08:21:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21732439",
-      "title": "טליה עובדיה מודה: \"לא הולך\"",
-      "summary": "כוכבת הריאליטי בשיחה כנה ואמיצה עם בעלה ואבי בנה שחף רז ברכבם הפרטי, מדברת על הכישלון וההתמודדות איתו. \"את מתחילה להשליך את זה על עצמך\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21732439",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:19:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21732559",
-      "title": "\"ממדאני של ברלין\" חשפה בטעות: מפחדת מתומכי חמאס",
-      "summary": "אליף ארלפ, מועמדת די לינקה לראשות העיר, ביקשה למחוק מראיון שאלה על פעיל שכינה את סינוואר \"גיבור שהיד\" • בהערות שנשלחו בטעות ל\"דר שפיגל\" כתבה על בעלה: \"הוא מפחד מהאנשים האלה, וגם אני\" • בשבת תצביע מפלגתה על משא ומתן קואליציוני, שעשוי להביא אותה לראשות העיר",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21732559",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:18:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21732254",
-      "title": "יעקב בוזגלו קורא להקמת ממשלה עם הערבים: \"הם חלק מהמדינה\"",
-      "summary": "כוכב \"הבוזגלוס\" וכדורגלן העבר סיכם את תוצאות הבחירות בקריאה לגוש השינוי לפעול להחלפת הממשלה, תוך שימוש במונחים מעולם הכדורגל • בתגובות לפוסט הבהיר כי אינו פוסל שיתוף פעולה עם \"תומכי טרור\", כפי שהגדירו זאת המגיבים",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21732254",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:17:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21732633",
-      "title": "שנה וחצי אחרי לידת הבן: כוכבת \"חתונה ממבט ראשון\" הביאה לעולם בת",
-      "summary": "מור רדמי הפכה לאמא לשניים, שנה וחצי אחרי לידת בנה הבכור רפאל וכבר הספיקה להבחין בפרט מעניין",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21732633",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:17:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/qatar-election-interference-investigation-israel",
-      "title": "איזנקוט: \"אסור לאפשר לגורמים פוליטיים לנצל את המצב\" | כל התגובות",
-      "summary": "השופט סולברג הורה לראש השב״כ לבדוק חשדות למימון זר של הבחירות • שרים דורשים חקירת ראשי המפלגות הערביות | פרשה שמטלטלת את המערכת הפוליטית (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/qatar-election-interference-investigation-israel",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T08:16:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21732425",
-      "title": "לפני הדרבי: מכבי תל אביב מנסה לפתור שתי בעיות רציניות",
-      "summary": "ההתקפה היא הטובה בישראל אבל תמורת החלוצים נמוכה מדי, בחלק האחורי לקני מילר יש מכת פציעות שעלולה לפרק את הכול • מנגד, הפועל מציגה את ההגנה הטובה בליגה ותרצה להוכיח שהמפגש הקודם היה רק מעידה רגעית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21732425",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T08:15:59.000Z"
     }
   ]
 }
