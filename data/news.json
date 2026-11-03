@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:45:53.567Z",
+  "updatedAt": "2026-11-03T11:01:03.881Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384363",
+      "title": "8 כורים גרעיניים: המהלך הבא של טורקיה וקוריאה הדרומית",
+      "summary": "ארדואן ונשיא קוריאה הדרומית הסכימו על הרחבת שיתוף הפעולה המסחרי והגרעיני בין המדינות. בין הפרויקטים: 8 כורים גרעיניים. השניים הסכימו גם על תיאום אסטרטגי בנוגע לשלום בחצי האי הקוריאני",
+      "link": "https://www.maariv.co.il/news/world/article-1384363",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T10:59:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjkuovvagg",
+      "title": "הבית מתפרק אבל לבייבי ליברמן יש זמן להתבכיין",
+      "summary": "אם אביגדור ליברמן באמת חושב שנתניהו \"לא כשיר פיזית, בלשון המעטה\", למה הוא ממשיך להתנהג כמו תינוק מפונק?",
+      "link": "https://www.ynet.co.il/news/article/bjkuovvagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T10:52:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384361",
+      "title": "\"מה יש בקופסה?\": הניסוי שינסה למחוק את הטוויסט של בראד פיט",
+      "summary": "רשת בתי קולנוע בהולנד מציעה ל-30 משתתפים לעבור היפנוזה כדי לצפות מחדש בסרט שכבר ראו, בלי לזכור את העלילה. בין המועמדים: \"שבעה חטאים\", \"מטריקס\" ו\"בין כוכבים\". רק בעיה קטנה: לא בטוח שזה בכלל אפשרי",
+      "link": "https://www.maariv.co.il/news/viral/article-1384361",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-03T10:52:24.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90568",
+      "title": "רוכב קורקינט בן 16 נפצע בינוני בתאונת דרכים ברחובות",
+      "summary": "נער בן 16 שרכב על קורקינט חשמלי נפצע בינוני בתאונת דרכים עם מעורבות רכב ברחוב קיבוביץ ברחובות. הנער סבל מפציעות בגפיים התחתונות, קיבל טיפול רפואי ראשוני בזירה מצוותי איחוד הצלה ופונה לבית החולים.",
+      "link": "https://www.kikar.co.il/scoop-news/90568",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T10:51:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-gurion-government-arab-mks",
+      "title": "48 מול 46: כך ארבעה חברי כנסת ערבים הקימו את ממשלת בן גוריון",
+      "summary": "הליברלים, המפד\"ל ופועלי אגודת ישראל בקרב בלימה מול שלטון מפא\"י • כיצד הפכו רשימות הלוויין הערביות ללשון המאזניים של הממשלה העשירית, ומה אפשר ללמוד מזה על מפת הגושים במערכת הפוליטית כיום? (היסטוריה)",
+      "link": "https://www.kikar.co.il/political-news/ben-gurion-government-arab-mks",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-03T10:47:20.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384357",
       "title": "\"זה היה ליד החלות\": חדד לחץ ואז - מנדלבליט נזכר בפגישה בשופרסל",
       "summary": "במסגרת המשך חקירתו של היועץ המשפטי לממשלה לשעבר אביחי מנדלבליט בבית המשפט, סנגורו של נתניהו הקשה על מנדלבליט והתעקש על פגישה שהתקיימה בין מנדלבליט לשלמה פילבר. לבסוף אישר זאת מנדלבליט",
@@ -39,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T10:42:38.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383959943",
+      "title": "ארדואן מקדם תחנת גרעין נוספת: ההסכם החדש עם דרום קוריאה",
+      "summary": "אנקרה וסיאול חתמו על מזכר לשיתוף פעולה במימון פרויקטים גרעיניים, ברקע המגעים להקמת תחנת הכוח בסינופ שלחופי הים השחור. נשיא דרום קוריאה: בדיקות האתר ועבודת הצוות המשותף ״מתקדמות היטב״",
+      "link": "https://www.walla.co.il/news/world/383959943",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T10:36:53.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkfzhnwpme",
@@ -102,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T10:26:26.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959940",
+      "title": "יאיר גולן נפגש עם נציגי המשותפת - רגע לפני פגישת גוש השינוי",
+      "summary": "יו\"ר הדמוקרטים נפגש עם יוסף ג'בארין ואחמד טיבי. השלושה דנו בתיאום בין הסיעות ובצעדים למימוש הרוב הפרלמנטרי ולהחלפת ממשלת נתניהו. הצדדים סיכמו להמשיך לפעול יחד לקראת הקמת ממשלת שינוי",
+      "link": "https://www.walla.co.il/news/politics/383959940",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T10:26:09.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959940",
@@ -1083,6 +1146,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T08:08:56.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383959918",
+      "title": "ראשי גוש השינוי נפגשו: \"יש ניסיון מסוכן לפגוע בתוצאות\"",
+      "summary": "לקראת פגישת ראשי גוש השינוי, יו\"ר ישראל ביתנו קורא למנוע בחירות נוספות וטוען כי ניתן להקים ממשלה יציבה ללא המפלגות הערביות. אתמול הודיע כי ימליץ על איזנקוט, וברביעי יחלו ההתייעצויות בבית הנשיא",
+      "link": "https://www.walla.co.il/news/politics/383959918",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-03T08:08:18.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383959918",
@@ -29073,150 +29145,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-29T11:03:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21734815",
-      "title": "ננסי ברנדס על זוגתו: ''על גבול הפדופיליה''",
-      "summary": "המוזיקאי והבדרן ננסי ברנדס חושף את הבחירה שלו בבת זוג צעירה ממנו ב-23 שנים, ומסביר למה הוא לא מסוגל להיות לבד • הוא נזכר בימים שבהם הרופאים כמעט ויתרו עליו • ובמשבר שהגיע מיד אחרי ההחלמה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21734815",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:58:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21734815",
-      "title": "ננסי ברנדס: \"יש לי בת זוג צעירה, על גבול הפדופיליה\"",
-      "summary": "המוזיקאי והבדרן ננסי ברנדס חושף את הבחירה שלו בבת זוג צעירה ממנו ב-23 שנים, ומסביר למה הוא לא מסוגל להיות לבד • הוא נזכר בימים שבהם הרופאים כמעט ויתרו עליו • ובמשבר שהגיע מיד אחרי ההחלמה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21734815",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:58:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/lieberman-no-bibi-no-tibi-coalition-statement",
-      "title": "ליברמן מכריז: \"לא נשב עם ביבי ולא עם טיבי\"; איזנקוט ונתניהו נועדו עם ראש השב\"כ",
-      "summary": "יו\"ר ישראל ביתנו מבהיר את עמדתו לאחר הבחירות • \"לא במישרין ולא בעקיפין\" | דורש ועדת חקירה וחוק גיוס כתנאי | איזנקוט עדכן שנפגש עם ראש השב\"כ דוד זיני | כך הגיבו במפלגת הליכוד (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/lieberman-no-bibi-no-tibi-coalition-statement",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T10:57:02.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
-      "title": "ארבעת הלאווים של ליברמן: \"לא נשב עם ביבי, טיבי, דרעי וגולדקנופף\"",
-      "summary": "נתניהו מנסה לאתר שותפות אפשריות לאחר שהגוש בראשותו לא הגיע ל-61 מנדטים, אבל יו\"ר ישראל ביתנו מבהיר למעשה כי לא יצטרף אליו ולחרדים - וגם לא לממשלת מיעוט עם המפלגות הערביות. גולן נפגש עם איזנקוט וביקש ממנו לא לפסול שותפות עם הערביות",
-      "link": "https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T10:56:14.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
-      "title": "ארבעת הלאווים של ליברמן: \"לא נשב עם ביבי, טיבי, דרעי וחוג'יראת\"",
-      "summary": "נתניהו מנסה לאתר שותפות אפשריות לאחר שהגוש בראשותו לא הגיע ל-61 מנדטים, אבל יו\"ר ישראל ביתנו מבהיר למעשה כי לא יצטרף אליו ולחרדים - וגם לא לממשלת מיעוט עם המפלגות הערביות. גולן נפגש עם איזנקוט וביקש ממנו לא לפסול שותפות עם הערביות",
-      "link": "https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-29T10:56:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/89868",
-      "title": "7 עצורים בחשד לשוחד בחירות בנגב",
-      "summary": "על פי מקורות ערבים ישראלים, 7 אנשים נעצרו בפרשה של חשד לשוחד בחירות בנגב.",
-      "link": "https://www.kikar.co.il/scoop-news/89868",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T10:56:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21734567",
-      "title": "בגלל אקס מכבי תל אביב: מאמן היורוליג תקף עיתונאי",
-      "summary": "פתיח אוזן הגיש תלונה לבשיקטאש וטען כי דושאן אלימפייביץ' קילל אותו ואיים עליו אחרי המשחק מול אולימפיאקוס • הסיבה לתקרית הייתה לכאורה הביקורת שלו כלפי אנטה ז'יז'יץ': \"אפגוש אותך באחד על אחד\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21734567",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:55:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21734023",
-      "title": "80 שקלים אצל אייל שני: לא ציפינו לקבל כל כך הרבה",
-      "summary": "ארבעה הנד-רולים לבחירה ב-80 שקלים בלבד: האפריטיבו החדש בביז'ו של אייל שני בתל אביב מציע עסקה שקשה לסרב לה • הגענו לבדוק אם גם האוכל עומד בציפיות, גילינו כמה מנות מצוינות וקינוח בלתי נשכח • אבל יש גם כמה דברים שכדאי לדעת לפני שמגיעים",
-      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21734023",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:55:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tno0rs",
-      "title": "מזמור לתודה; הרבי מצאנז הגיע מנתניה להודות לראש הישיבה",
-      "summary": "האדמו\"ר מצאנז שהגיע לבני ברק לנחם את הגר\"ש גלאי, ביקר גם אצל ראש הישיבה הגר\"ד לנדו, והודה לו על מסירותו הגדולה לנסוע בערי הארץ למען המערכה להצלחת היהדות החרדית (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tno0rs",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T10:54:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21734471",
-      "title": "בגיל 19 על האי: לרה גרינסס מ\"הישרדות\" התגייסה לצה\"ל?",
-      "summary": "בזמן שהיא מככבת בפריים טיים, הצופים תוהים האם כוכבת הטיקטוק הספיקה לעלות על מדים • מתברר שגרינסס משרתת בימים אלה כפרזנטורית של חיל האוויר תחת מעמד מיוחד • וגם: הזוגיות החדשה עם המתמודד שהכירה בתוכנית",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21734471",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:52:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21734736",
-      "title": "רשת KFC בישראל קורסת: החברה המפעילה ביקשה לפתוח בהליכי חדלות פירעון",
-      "summary": "סמארט סרוויס, שמפעילה את 12 סניפי הרשת בישראל, הגישה בקשה דחופה לבית המשפט המחוזי בבאר שבע למינוי נאמן זמני • לחברה חובות של כ-50 מיליון שקל, ובעלי המניות, תושבי רוסיה לא יכולים להזרים לה כסף בגלל הסנקציות • בבקשה נכתב: \"לא נותרה ברירה אלא לעתור לבית המשפט\"",
-      "link": "https://www.israelhayom.co.il/business/article/21734736",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:52:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21734113",
-      "title": "לפני שמכריזים על בחירות שנגנבו - כדאי לשים לב ל-4 בעיות בדרך",
-      "summary": "הפתק החשאי הומצא כדי להכשיל את קונה הקולות • מנגד, אותה חשאיות מגינה על קניית הקולות מפני ביהמ\"ש • הכלים לעריכת הבחירות מחדש בקלפיות מסוימות קיימים - אבל בדרך עומדות מספר שאלות שצריכות להיענות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21734113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T10:52:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/lieberman-no-bibi-no-tibi-coalition-statement",
-      "title": "ליברמן מכריז: \"לא נשב עם ביבי ולא עם טיבי\"; איזנקוט נועד עם ראש השב\"כ",
-      "summary": "יו\"ר ישראל ביתנו מבהיר את עמדתו לאחר הבחירות • \"לא במישרין ולא בעקיפין\" | דורש ועדת חקירה וחוק גיוס כתנאי | איזנקוט עדכן שנפגש עם ראש השב\"כ דוד זיני | כך הגיבו במפלגת הליכוד (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/lieberman-no-bibi-no-tibi-coalition-statement",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-29T10:51:09.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959344",
-      "title": "שלושה כטב\"מים ימיים פגעו באונייה מחיפה – שטבעה",
-      "summary": "אוניית מכולות הפועלת בקו של חברת הספנות הישראלית הותקפה מול חופי בולגריה. האונייה נשאה 421 מכולות, בהן חומרים מסוכנים, ונפגעה מכטב״מים ימיים. כל 18 אנשי הצוות חולצו בשלום - וזהות התוקפים טרם התבררה",
-      "link": "https://www.walla.co.il/news/world/383959344",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T10:48:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959344",
-      "title": "אונייה של חברת צים הותקפה בידי כטב\"מים והוטבעה בים השחור",
-      "summary": "אוניית מכולות הפועלת בקו של חברת הספנות הישראלית הותקפה מול חופי בולגריה. האונייה נשאה 421 מכולות, בהן חומרים מסוכנים, ונפגעה מכטב״מים ימיים. כל 18 אנשי הצוות חולצו בשלום - וזהות התוקפים טרם התבררה",
-      "link": "https://www.walla.co.il/news/world/383959344",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T10:48:55.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874177",
-      "title": "נשיאת הבנק המרכזי האירופי הודיעה על התפטרותה",
-      "summary": "נשיאת הבנק המרכזי האירופי הודיעה על התפטרותה",
-      "link": "https://finance.walla.co.il/item/3874177",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T10:48:00.000Z"
     }
   ]
 }
