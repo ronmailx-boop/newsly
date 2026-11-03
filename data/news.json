@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:45:48.395Z",
+  "updatedAt": "2026-11-03T06:01:16.009Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjwnjkvtgx",
+      "title": "מצעד הממליצים ייצא היום לדרך: אלו המפלגות שעדיין לא פרסמו כיצד יפעלו",
+      "summary": "חברות גוש השינוי הודיעו כולן כי ימליצו על איזנקוט, ומנגד בבלוק נתניהו - שלא ברור אם הוא יציב כבעבר - לא מסרו דבר. ש\"ס צפויה כן להמליץ על יו\"ר הליכוד, יהדות התורה כנראה לא תמליץ על איש. המפלגות הערביות מתואמות, וימליצו כנראה על איזנקוט. הראשונים שיתייצבו בבית הנשיא: נציגי הציונות הדתית-זהות",
+      "link": "https://www.ynet.co.il/news/article/bjwnjkvtgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-03T05:47:35.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/environment/article-1384216",
       "title": "תעלומת הסירחון בראשון לציון: מה שנמצא בביוב הסביר הכל",
@@ -29433,60 +29442,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-10-29T06:04:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21731602",
-      "title": "\"מי רואה את הפועל תל אביב ולא פוחד ממנה?\"",
-      "summary": "ארבעה ניצחונות יורוליג רצופים והמאזן השני בטיבו במפעל גורמים לאירופה לחשוש מהאדומים • בטורקיה תקפו את אנאדולו אפס: \"אנחנו התביישנו לצפות, ואתם?\", המאמן פבלו לאסו היה מתוסכל: \"הרגשנו ששיחקנו מול קיר\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21731602",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T06:00:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1382453",
-      "title": "אקדחים, סמים ויידוי אבנים: הפשיטה המשטרתית במזרח ירושלים",
-      "summary": "שוטרים ולוחמי מג\"ב פשטו על יעדים בשועפאט ובבית חנינא, שם איתרו כלי נשק, תחמושת וחומרים החשודים כסמים • כלב משטרתי הוביל לתגלית נוספת במחסן, ובמהלך הפעילות הותקפו הכוחות באבנים",
-      "link": "https://www.maariv.co.il/news/military/article-1382453",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-29T05:55:43.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3873822",
-      "title": "כש\"מבקר\" האוכל שגיא כהן נפל למקלדת של ניר קיפניס",
-      "summary": "כש\"מבקר\" האוכל שגיא כהן נפל למקלדת של ניר קיפניס",
-      "link": "https://food.walla.co.il/item/3873822",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T05:54:00.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3873822",
-      "title": "כש\"מבקר\" האוכל של \"הארץ\" נפל למקלדת של ניר קיפניס",
-      "summary": "כש\"מבקר\" האוכל של \"הארץ\" נפל למקלדת של ניר קיפניס",
-      "link": "https://food.walla.co.il/item/3873822",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-29T05:54:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21731691",
-      "title": "תיעוד: ירו לעבר בית על רקע סחיטה - והתחבאו במגרש גרוטאות",
-      "summary": "שני תושבי דבוריה, בני 19 ו-23, נאשמים בירי לעבר בית על רקע ניסיונות סחיטה • רחפן משטרתי זיהה תנועות חשודות במגרש גרוטאות, והכוחות איתרו את השניים במקום",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21731691",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T05:47:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21731708",
-      "title": "רוטמן בניסיון דה לגיטימציה: שוחד בחירות חסר תקדים בקלפיות במגזר הערבי",
-      "summary": "יו\"ר ועדת החוקה וחבר ועדת הבחירות המרכזית טען בריאיון בכאן רשת ב' כי התקבלו דיווחים על שוחד בהיקף חריג בקלפיות במגזר הערבי • לדבריו, עד לבדיקת התלונות בידי הגורמים המוסמכים, בהם המשטרה, שב\"כ וועדת הבחירות, אין לקבוע שמדובר בתוצאות אמת • במשטרה אומרים: אין חשש לזיופים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21731708",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-29T05:46:25.000Z"
     }
   ]
 }
