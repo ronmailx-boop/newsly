@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:01:13.431Z",
+  "updatedAt": "2026-11-04T13:15:55.365Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1o4to00amx",
+      "title": "משפחות יהודיות נכנסו ל-8 בתים ביריחו",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/h1o4to00amx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T13:10:09.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90822",
+      "title": "המשטרה הרסה מתחם שהלין שוהים בלתי חוקיים בבית חנינא",
+      "summary": "שוטרי מחוז ירושלים הרסו היום חלק ממתחם בשכונת בית חנינא ששימש להלנת שוהים בלתי חוקיים. הפעילות בוצעה בשיתוף עיריית ירושלים ובסיוע כוחות מג\"ב ומתפ\"א. לפני כשלושה שבועות התקיים במקום מבצע אכיפה שבמהלכו נעצרו 155 שוהים בלתי חוקיים, ומפקד מחוז ירושלים הוציא צו סגירה למתחם. למרות הצו, אותרו היום במקום חמישה שוהים בלתי חוקיים נוספים שנחקרו וגורשו לשטחי יהודה ושומרון.",
+      "link": "https://www.kikar.co.il/scoop-news/90822",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:08:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/90821",
+      "title": "חשד: ח\"כ איימן עודה קיבל מאות אלפי שקלים במזומן מגורם זר",
+      "summary": "חקירה נגד חבר הכנסת איימן עודה בחשד שקיבל מאות אלפי שקלים במזומן מגורם זר, כך על פי דיווח של עיתונאי הערוץ הציבורי אריאל גרינצייג.",
+      "link": "https://www.kikar.co.il/scoop-news/90821",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:08:10.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk2yr9opgl",
+      "title": "הפנייה של נתניהו ל\"ציר הימני\" ביהדות התורה - והמהלך ששוקל גולדקנופף",
+      "summary": "פרסום ראשון: על מנת לברר את הלך הרוח במפלגה החרדית לקראת ההגעה לבית הנשיא, רה\"מ פנה לח\"כ מאיר פרוש ולח\"כ המיועד אליקים שטארק, שנחשבים לציר הימני ביהדות התורה. מנגד, יצחק גולדקנופף שוקל צעד של תמיכה באיזנקוט",
+      "link": "https://www.ynet.co.il/news/article/rk2yr9opgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T13:00:12.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90820",
       "title": "ישיבת מועצת חכמי התורה של ש\"ס לא תתקיים היום",
       "summary": "ישיבת מועצת חכמי התורה של ש\"ס, שהייתה אמורה להתקיים היום, בוטלה. הישיבה תוכננה כדי לדון בבקשתו של אריה דרעי לשקול פרישה מראשות התנועה. הדיון היה צפוי להסתיים בהתפטרות דרעי מהכנסת תוך שהוא נשאר בתפקיד יו\"ר ש\"ס.",
@@ -39,6 +75,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T12:59:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21779479",
+      "title": "רן דנקר: \"משהו לא עובד נכון\"",
+      "summary": "רן דנקר התייחס בסטורי למה שקורה בישראל ובארה\"ב, הודה שאין לו מושג לאן הדברים הולכים, וסיים במסר חד על הצורך \"לחשב מסלול מחדש\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21779479",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:59:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21779067",
+      "title": "הישראלי המכוער ביוון: תייר עשה את צרכיו על במנזר באי סירוס",
+      "summary": "ישראלי שהיה על סיפון אוניית הקרוזים \"קראון אייריס\" הטיל את מימיו על קיר במנזר באי סירוס לעייניהם של תלמידי בית ספר • אב המנזר כתב: \"מדובר בחוסר כבוד ועלבון צורב למקום הקדוש\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21779067",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:58:13.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/journalism/ilana-hasson-leaving-kan-broadcaster-apology-ultim",
@@ -50,6 +104,33 @@
       "pubDate": "2026-11-04T12:57:04.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21779428",
+      "title": "אחרי ניצחון הדמוקרטים בארה\"ב: ת\"א בירידות, וול סטריט מסמנת עליות",
+      "summary": "חוסר הוודאות ממשיך להכות במשקיעים בתל אביב, אולם בניו יורק האווירה משתנה, וכרגע החוזים העתידיים עולים בשיעור של עד 1.5% • מניות האנרגיה המתחדשת מזנקות",
+      "link": "https://www.israelhayom.co.il/business/article/21779428",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:55:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21779469",
+      "title": "איך נראית הפרשת חלה של דוגמניות? ככה בדיוק",
+      "summary": "מוטי רייף אירח בביתו ערב הפרשת חלה חגיגי בהשתתפות לינור אברג'יל, לאה שנירר, אלין כהן ורונית יודקביץ, שנערך לכבוד תצוגת המעצבת פורצת הדרך חנה מרילוס בשבוע האופנה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21779469",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:54:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779459",
+      "title": "נועה מוזס על מתמודד \"חתונמי\": \"היינו בקשר מאוד קרוב\"",
+      "summary": "בפרק חדש של הפודקאסט \"לב שבור\", כוכבת \"חתונה ממבט ראשון\" אירחה את השף אסף ורד ודיברה לראשונה על הקשר הקרוב שנרקם ביניהם אחרי הצילומים • ורד מסביר מה גרם לו להיפתח מולה: \"הרגשתי שאת רואה אותי\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21779459",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:52:54.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjtscu006fe",
       "title": "לראשונה אחרי 94 שנה: המהפכים המדהימים בבחירות בארה\"ב",
       "summary": "בטקסס הביס ג'יימס טלריקו בן ה-37 את יריבו הרפובליקני שטראמפ חיבק - ושבגד באשתו והסתבך בפרשות שחיתות. בצפון קרוליינה הפסידה אחותו של לינדזי גרהאם לרופאת הילדים אנני אנדרוז. במיסיסיפי, שם איש לא צפה קרב צמוד, מפגרת הסנאטורית הרפובליקנית ב-43 קולות. ואפילו בקנזס, שם לא ניצח נציג דמוקרטי בסנאט מאז 1932 - הם השיגו מהפך. הדרמות במעוזי השמרנים",
@@ -57,6 +138,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T12:51:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21779454",
+      "title": "הפריצה בעתלית והמעצר הבריטי: חוזרים לתחילת דרכו של יצחק רבין",
+      "summary": "מחבר פלמ״ח למפקד במלחמת העצמאות: הרבה לפני שהיה ראש ממשלה, יצחק רבין כבר לקח אחריות, הוביל לוחמים והשפיע על ההיסטוריה של מדינת ישראל",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21779454",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:51:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1384810",
@@ -77,6 +167,24 @@
       "pubDate": "2026-11-04T12:49:30.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21779166",
+      "title": "\"הפסקות נשימה\": בנה של כוכבת \"חתונמי\" נותח",
+      "summary": "מאי שכטר הזכורה לכולנו מהעונה החמישית של \"חתונה ממבט ראשון\", שם הכירה את בעלה משה יחזקאל, סיפרה על ניתוח שנאלץ לעבור בנם הבכור אחרי שסבל מהפסקות נשימה. \"ראינו ושמענו אותו ונשבר לנו הלב\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21779166",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:49:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21779051",
+      "title": "עמית סגל נגד תאגיד כאן 11: \"מתחנפים לכת\"",
+      "summary": "פרשן חדשות 12 תוקף את תאגיד השידור בעקבות סערת אילה חסון • סגל: \"ברכות לתאגיד - שמצא סוף סוף את הפגם הראשון של אחד ממגישיו וכעת דורש התנצלות משפילה אחר התנצלות משפילה\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21779051",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:49:06.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90817",
       "title": "פועל נכווה בעבודתו בחצור הגלילית ופונה במצב בינוני",
       "summary": "גבר כבן 30 נכווה היום (14:11) במהלך עבודתו במרכז מסחרי בחצור הגלילית. צוותי מד\"א פינו אותו לבית החולים זיו במצב בינוני עם כוויות בגפיים עליונות.",
@@ -93,6 +201,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T12:46:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779305",
+      "title": "אחרי שנה שהסתירו: הצעד החדש בזוגיות של ליהי טולדנו",
+      "summary": "אחרי שכבר סיפרו על מערכת היחסים שלהן, הזמרת והשחקנית בת ה־24 ומנהלתה האישית מיטל שבח עושות צעד נוסף • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21779305",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:46:27.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90815",
@@ -114,12 +231,39 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3874935",
+      "title": "המשחקים לא חוזרים לישראל: המהלך המפתיע של מכבי ת\"א - וההסבר",
+      "summary": "הצהובים נפרדים מבלגרד, שם אירחו את רוב משחקי היורוליג שלהם מאז ה-7 באוקטובר. הופעת הבכורה שלהם באי השכן תהיה בשבוע הבא, בדרבי הגדול מול הפועל תל אביב",
+      "link": "https://sports.walla.co.il/item/3874935",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-04T12:45:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3874935",
       "title": "קרוב לישראל, אבל עדיין לא בהיכל: הבית החדש של מכבי ת\"א",
       "summary": "הצהובים נפרדים מבלגרד, שם אירחו את רוב משחקי היורוליג שלהם מאז ה-7 באוקטובר. הופעת הבכורה שלהם באי השכן תהיה בשבוע הבא, בדרבי הגדול מול הפועל תל אביב",
       "link": "https://sports.walla.co.il/item/3874935",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-04T12:45:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21779317",
+      "title": "עדן חסון: \"לא מעניין אותי\"",
+      "summary": "הזמר משחרר סינגל קצבי חדש שמציג צד אישי ובוגר יותר בחייו • הפעם הוא שר על ההתרחקות מחיי הלילה ועל החיפוש אחר שקט, יציבות ואהבה",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21779317",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:44:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21778526",
+      "title": "12 שנה אחרי: איפה כוכבי מכבי והפועל תל אביב מ\"דרבי פואד\"",
+      "summary": "ערן זהבי המשיך לחגוג בדרבים, אלרואי ידעי ריצה עונש מאסר, רועי ריינשרייבר עזב את השיפוט לטובת תפקיד מפתיע וגם ג'ורדי קרויף ואייל ברקוביץ' היו חלק מרכזי • אחד האירועים הזכורים בתולדות הכדורגל הישראלי, היכן הם היום?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21778526",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:43:36.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/ebola-test-results-negative-congo-returnees",
@@ -150,12 +294,39 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1384808",
+      "title": "אריה דרעי בדרך לפרישה מהכנסת: ביהדות התורה מזהים פתח לשינוי",
+      "summary": "אריה דרעי הגיש מכתב התפטרות, אך צפוי להישאר יו\"ר ש\"ס גם אם יפרוש מהכנסת. למהלך עשויה להיות השפעה דרמטית על המגעים להקמת הממשלה. בש\"ס מכחישים את הדיווחים",
+      "link": "https://www.maariv.co.il/news/politics/article-1384808",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T12:37:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384808",
       "title": "רעידת אדמה בש\"ס: אריה דרעי בדרך לפרישה מהכנסת",
       "summary": "אריה דרעי הגיש מכתב התפטרות, אך צפוי להישאר יו\"ר ש\"ס גם אם יפרוש מהכנסת. למהלך עשויה להיות השפעה דרמטית על המגעים להקמת הממשלה. בש\"ס מכחישים את הדיווחים",
       "link": "https://www.maariv.co.il/news/politics/article-1384808",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-04T12:37:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21779140",
+      "title": "עידן עמדי מול ליאור רז: \"יאללה מלחמה\"",
+      "summary": "שיתוף פעולה חדש של רז הצליח למשוך את עמדי לתגובות, ומשם זה כבר התגלגל לעקיצה, הזמנה הביתה וכוס קפה אחת עם העדפה מאוד ברורה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21779140",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:36:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779319",
+      "title": "אחרי ארבעה חודשים בלבד: רוסלנה רודינה ובן הזוג נפרדו",
+      "summary": "ארבעה חודשים אחרי שהחלו בזוגיות, ואחרי משבר ביחסים, רוסלנה רודינה ועמי ברדה החליטו להיפרד",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21779319",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:35:31.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/shas-council-deri-resignation",
@@ -167,6 +338,15 @@
       "pubDate": "2026-11-04T12:34:38.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21778332",
+      "title": "סושי בזל, צ'וקה ולאקי צ'יקן משיקות 7 סניפים חדשים: אלו המיקומים",
+      "summary": "בהשקעה של כ-15 מיליון שקלים, קבוצת ניראור יוצאת למהלך התרחבות של שלוש רשתות האוכל שלה • סניפים חדשים של סושי בזל, צ'וקה ולאקי צ'יקן ייפתחו בין היתר במודיעין, באילת ובאשדוד • אחד הסניפים כבר נפתח, ושישה נוספים בדרך",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21778332",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:32:39.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21779129",
       "title": "ידיים קשורות, ראש מוטח בקיר ואובדן הכרה: החשדות בפרשת המעון באריאל",
       "summary": "הצהרת תובע הוגשה היום נגד מנהלת מעון \"לוצ'יק\" באריאל ושתי מטפלות • כתב האישום צפוי להיות מוגש ביום ראשון • החוקרים צפו ביותר מ־2,400 שעות תיעוד, ונבדק חשד שחלק מהפעוטות איבדו את הכרתם • מפקד מחוז ש\"י, ניצב משה פינצ'י: \"נחשפתי לתיעודים קשים ואכזריים שלא ראיתי בכל שנותיי בשירות הציבורי\"",
@@ -174,6 +354,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T12:29:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21779044",
+      "title": "\"ברק בכר מאוד החזיק ממנו, אני חושב שיש פה משהו לא מקצועי\"",
+      "summary": "אייל גולסה התייחס בפרק החדש של \"הדקה ה-99\" למעמדו של שון גולדברג במכבי חיפה, והעלה סימני שאלה: \"אולי משהו מלמעלה, אני לא יודע בדיוק מה קורה שם\" • על היחסים בין המאמן לליאור רפאלוב: \"לא יודע אם זה רץ על אותו כיוון\" • וגם: הביקורת על הזרים והסיכוי למאבק האליפות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21779044",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:27:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21779044",
@@ -408,6 +597,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T11:57:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21778704",
+      "title": "דיווח: בנק צרפתי נפרץ במתקפת סייבר: 133 מיליון דולר נגנבו",
+      "summary": "הבנק קרדי מוטואל ארקאה אישר שהיה מטה למתקפה שכללה \"פעולות הונאה\" • בבנק לא מסרו איך בוצעה המתקפה ומי עמד מאחוריה - והבהירו כי האירוע נמצא בשליטה • במקביל, גל מתקפות הסייבר על מערכות קירור באירופה הגיע לשירות הדם הצרפתי • טכנאי זיהה את השינוי בזמן ולא נגרם נזק",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21778704",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T11:55:45.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21778704",
@@ -1923,6 +2121,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21776442",
+      "title": "עוזבת את בלגרד: מכבי תל אביב עוברת לארח ביעד חדש",
+      "summary": "היורוליג הודיעה רשמית כי החל מהדרבי בשבוע הבא הצהובים יארחו את משחקי הבית בקפריסין • חן שניידרמן עוזב את תפקידו כיו\"ר מכבי רמת גן והודיע על כך לבעלים החדש אבי גבאי",
+      "link": "https://www.israelhayom.co.il/sport/article/21776442",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T08:39:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21776442",
       "title": "בסוף החודש: חן שניידרמן עוזב את מכבי רמת גן",
       "summary": "יו\"ר המועדון הודיע לבעלים החדש אבי גבאי על החלטתו • בתקופתו הקבוצה חזרה לליגת העל ולמפעלים האירופיים",
       "link": "https://www.israelhayom.co.il/sport/article/21776442",
@@ -1938,6 +2145,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T08:39:28.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3874931",
+      "title": "אפל מתחילה להקשיב לכם: הפיצ'ר החדש שמעורר דאגה",
+      "summary": "אפל מתחילה להקשיב לכם: הפיצ'ר החדש שמעורר דאגה",
+      "link": "https://tech.walla.co.il/item/3874931",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-04T08:38:00.000Z"
     },
     {
       "id": "walla:https://tech.walla.co.il/item/3874931",
@@ -31278,24 +31494,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T13:16:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90067",
-      "title": "מעצרים בעימותים סביב מסיק זיתים ביהודה ושומרון",
-      "summary": "כוחות הביטחון עצרו הבוקר פעילים ישראלים ופלסטינים באזור מעלה אהוביה וכפר מאלכ שבנפת רמאללה, בעקבות עימותים סביב מסיק זיתים. בין הנעצרים: יהונתן פולק שנעצר ביום שישי האחרון על הפרת צו שטח צבאי סגור והגיע שוב לאזור, ורועי אלעני. בתיעודים נראים פלסטינים תוקפים רועים יהודים במכות ומרימים אבנים. צה\"ל הוציא צו שטח צבאי סגור באזור.",
-      "link": "https://www.kikar.co.il/scoop-news/90067",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-10-30T13:07:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21741896",
-      "title": "ChatGPT המליץ למטופלת להפסיק לקחת את התרופות - והוביל למותה",
-      "summary": "תביעה שהוגשה בארצות הברית מאשימה את OpenAI באחריות למותה של מהנדסת מאורגון • לפי כתב התביעה, הצ'אטבוט עודד אותה להפסיק את הטיפול התרופתי נגד אפילפסיה עד לאיפוס מוחלט",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21741896",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:06:34.000Z"
     }
   ]
 }
