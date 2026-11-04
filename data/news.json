@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:15:55.365Z",
+  "updatedAt": "2026-11-04T13:31:17.652Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,63 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1btznutgg",
+      "title": "איימן עודה הוא הח\"כ ששב\"כ בודק אם קיבל כספים מהרשות הפלסטינית",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/b1btznutgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T13:27:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1384837",
+      "title": "טראמפ נחלש, והחשבון הפוליטי בישראל משתנה | דן פרי",
+      "summary": "תוצאות בחירות האמצע בארצות הברית מצמצמות את כוחו הפוליטי של הנשיא דווקא ברגע שבו ישראל נכנסת לשלב המכריע של הרכבת הממשלה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1384837",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T13:26:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ayman-odeh-investigation-foreign-funding-hundreds-",
+      "title": "נחשף: ח\"כ איימן עודה הוא הפוליטיקאי הבכיר שחשוד בקבלת מאות אלפי שקלים",
+      "summary": "נחשפה הזהות של ח\"כ איימן עודה מבל\"ד - שנבדק בחשד למימון זר • ראש השב\"כ דרש לחקור גם את טיבי, עבאס ואבו שחאדה | היועמ\"שית דורשת תשתית ראייתית (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ayman-odeh-investigation-foreign-funding-hundreds-",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:24:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384826",
+      "title": "ינון מגל ובן כספית חזרו לשדר יחד - וזה לא עבר חלק: \"תודה רבה, תשחרר\"",
+      "summary": "אחרי נתק ממושך, ינון מגל ובן כספית חזרו לשדר יחד ב-103fm, אך האיחוד הפך במהירות לעימות. השניים התווכחו על התנאים שהובילו לחזרה, על הכינויים שהטיחו זה בזה ועל הסיבות לפיצוץ: \"לא בא לי להיות בשיח הזה\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1384826",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T13:24:34.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1qltqdtfl",
+      "title": "\"קיבלתי ילד פוסט טראומטי\": המטפלות מהמעון באריאל יואשמו במאות מקרי התעללות",
+      "summary": "נטליה קיסלבסקי, דרינה (דשה) חלופה ואנה פגלסקי צפויות להיות מואשמות בכ-600 מקרי התעללות בעשרה חסרי ישע אם לפעוט שהיה במעון 26 ימים סיפרה ל-ynet: \"הוא מתעורר בצרחות 15 פעמים בלילה, הביטחון שלו נעלם\". עם התקדמות החקירה נעצרו שלוש חשודות נוספות שעבדו במעון",
+      "link": "https://www.ynet.co.il/news/article/b1qltqdtfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T13:16:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21779735",
+      "title": "238 חלקים במקפיא: הבן הסתיר את גופת אביו במשך 4 שנים",
+      "summary": "האב נחשב לנעדר מאז 2021, עד שחבר מודאג הרים דגל אדום וכלבי גישוש הובילו את השוטרים אל המקפיאים בבית המשפחה בצפון הולנד • כעת, במשפט, ההגנה מציגה גרסה מפתיעה ושונה לחלוטין למה שקרה באותו יום",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21779735",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T13:12:09.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/h1o4to00amx",
       "title": "משפחות יהודיות נכנסו ל-8 בתים ביריחו",
-      "summary": "",
+      "summary": "במהלך חשאי שנשמר בסוד ולווה בצוותי אבטחה, נכנסו המשפחות היהודיות לבתיהן החדשים. יו\"ר תנועת נחלה דניאלה וייס: \"אנו פותחים פרק חדש בהיסטוריית ההתיישבות בעיר יריחו\"",
       "link": "https://www.ynet.co.il/news/article/h1o4to00amx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +111,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T13:08:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21779548",
+      "title": "אילה חסון מכחישה עזיבה, פוליטיקאים תוקפים את התאגיד: \"חרפה, צריך להיסגר\"",
+      "summary": "מגישה כאן 11 הודיעה כי לא תשדר הערב, אך מכחישה פרסומים כי תעזוב • שרים בקואליציה תקפו את התנהלות התאגיד: \"היה צריך לסגור אותו מזמן\" • הליכוד גיבה את המגישה: \"קול בודד ואמיץ\", והוסיף: \"זו השפלה. ההפך מחופש הביטוי, ההפך מדמוקרטיה\"",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21779548",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T13:05:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21779426",
+      "title": "\"הולכים להתנקש בביבי\": ביקשה לפרסם פוסט - והואשמה באיומים על חיי רה\"מ",
+      "summary": "הכול התחיל מהודעה ששלחה אישה לקבוצת \"וידויים אנונימיים\" • עורכות דינה טענו כי היא דווקא חששה לחייו של נתניהו ולא התכוונה לאיים עליו: \"דברים אלה יכולים לנבוע מתוך סערת רגשות\" • לאחר הדיון בבית המשפט החליטה יחידת התביעות של להב 433 לסגת, והתיק נגדה נסגר",
+      "link": "https://www.israelhayom.co.il/news/law/article/21779426",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T13:03:41.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk2yr9opgl",
@@ -84,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T12:59:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21779067",
+      "title": "הישראלי המכוער ביוון: תייר עשה את צרכיו במנזר באי סירוס",
+      "summary": "ישראלי שהיה על סיפון אוניית הקרוזים \"קראון אייריס\" הטיל את מימיו על קיר במנזר באי סירוס לעייניהם של תלמידי בית ספר • אב המנזר כתב: \"מדובר בחוסר כבוד ועלבון צורב למקום הקדוש\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21779067",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:58:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21779067",
@@ -201,6 +282,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T12:46:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779305",
+      "title": "פער של 14 שנה: ליהי טולדנו כבר לא מסתירה",
+      "summary": "אחרי שכבר סיפרו על מערכת היחסים שלהן, הזמרת והשחקנית בת ה־24 ומנהלתה האישית מיטל שבח עושות צעד נוסף • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21779305",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T12:46:27.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779305",
@@ -31458,42 +31548,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T13:35:31.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383959487",
-      "title": "מ\"משחקי הכס\" למקלט בקייב: ג'יימי לאניסטר נמלט מהטילים הרוסים",
-      "summary": "כוכב הסדרה המצליחה ניקולאי קוסטר-ולדאו הגיע לאוקראינה במסגרת פעילותו באו\"ם, אך מצא את עצמו מעביר את הלילה בתחנת מטרו לצד תושבים שנמלטו מאימת התקיפות הרוסיות",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383959487",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-30T13:24:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21741855",
-      "title": "מאות מוקדים וחשש מאלימות: צרפת נערכת לעוד סוף שבוע של מחאה",
-      "summary": "חילוקי דעות בין הרשויות וכוחות הביטחון לבין מארגני המחאה לגבי מסלולי המחאות, כאשר כוחות הביטחון מנסים לדחוק את המפגינים ממרכזי הערים בכל רחבי המדינה • ה\"אפודים הצהובים\" צפויים לשתתף במחאות לצד תלמידי התיכון",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21741855",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:20:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21741947",
-      "title": "סוכל פיגוע בבית כנסת באיטליה: צעיר בן 22 נעצר",
-      "summary": "בחקירת היחידה המיוחדת נמצאו במכשיריו הדיגיטליים של החשוד מדריכים להכנת מטענים ותכנים ניאו-נאציים • החוקרים בודקים אם פעל לבדו או כחלק מרשת רחבה יותר",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21741947",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:16:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21739516",
-      "title": "תעלומה האנושות: כך הניסויים האטומיים של המלחמה הקרה חשפו את האמת",
-      "summary": "במשך עשרות שנים התחבטו מדעני המוח בשאלה האם התודעה שלנו נשענת על אותם תאי עצב מיום לידתנו, או שמא המוח מתחדש ללא הרף • פריצת הדרך המפתיעה ביותר בתולדות הביולוגיה המודרנית לא נולדה במעבדות פארמה, אלא הגיעה מתוך פטריות העשן של פיצוצי המימן בשנות החמישים - שהותירו חותם רדיואקטיבי נצחי בתוך סלילי ה-DNA שלנו",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21739516",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:16:41.000Z"
     }
   ]
 }
