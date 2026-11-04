@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:46:01.295Z",
+  "updatedAt": "2026-11-04T14:01:12.638Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
+      "title": "עם פתיחת כינוס השלוחים העולמי: שיא חדש של שלוחי חב\"ד בישראל",
+      "summary": "נתונים חדשים נחשפו: בארץ הקודש ישנם 984 סניפים פעילים של חב\"ד, 68 משפחות שלוחים חדשים ו־40 סניפי בתי חב\"ד חדשים | הרב אהרונוב: \"עם יותר מ-1,400 משפחות שלוחי הרבי בארץ הקודש, אנחנו מגבירים את פעילות השלוחים להביא לקבלת פני משיח צדקנו\" | הנתונים המלאים (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:55:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384848",
+      "title": "לאור החשד לשוחד בבחירות - בכיר שב\"כ לשעבר: \"למי היה אינטרס להשפיע\"",
+      "summary": "עמית אסא - לשעבר בכיר בשב\"כ - התראיין ברדיו 103fm והציג את השאלות שצריך לשאול לאור החשד בשוחד בבחירות. על זיני הוא אומר \"כולם צריכים להתיישר בסופו של דבר עם ההחלטה של ראש השירות\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1384848",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T13:53:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384844",
+      "title": "\"מהנדס הקריסה\": בכירים במפלגה הרפובליקנית מצאו את האשם בתבוסה",
+      "summary": "אחרי שאיבדו את השליטה בשני בתי הקונגרס, הרפובליקנים מפנים אצבע מאשימה לנשיא. טראמפ מתנער מאחריות, אך בכירים במפלגה טוענים שלולא מדיניות המכסים והמלחמה באיראן, התוצאה הייתה אחרת",
+      "link": "https://www.maariv.co.il/news/world/article-1384844",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T13:50:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjzg8n006fe",
+      "title": "לראשונה זה שבועות: צה\"ל תקף מחבלים בלבנון",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/rjzg8n006fe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T13:47:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-courts/bribe-checkpoint-ras-biddu-border-police-prison-sentence",
+      "title": "שוחד במחסום בזמן מלחמה: 17 חודשי מאסר למבריחי השב\"חים",
+      "summary": "שוטרי מג\"ב קיבלו אלפי שקלים תמורת אי-ביצוע בדיקות • הוברחו לפחות 100 שוהים בלתי חוקיים | השופט: 'פגיעה במנגנון ההגנה' (חוק ומשפט)",
+      "link": "https://www.kikar.co.il/law-and-courts/bribe-checkpoint-ras-biddu-border-police-prison-sentence",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:46:40.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960083",
+      "title": "איימן עודה הוא הח\"כ שנבדק אם קיבל מאות אלפי שקלים מגורם זר",
+      "summary": "יו\"ר חד\"ש נבדק בחשד לקבלת מאות אלפי שקלים במזומן מגורם זר, ברקע חקירת החשדות להתערבות זרה בבחירות. עודה דחה את החשדות וטען: \"מדובר ברדיפה פוליטית שתהפוך לבלון נפוח שיתפוצץ להם בפרצוף\"",
+      "link": "https://www.walla.co.il/news/politics/383960083",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-04T13:42:58.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90825",
       "title": "שוטרת שלא בתפקיד עצרה חשוד בפריצה לרכב בחולון",
@@ -70,7 +124,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1btznutgg",
       "title": "איימן עודה הוא הח\"כ ששב\"כ בודק אם קיבל כספים מהרשות הפלסטינית",
-      "summary": "ח\"כ עודה, שאמור לסיים את תפקידו בשבוע הבא, צפוי להיחקר באזהרה. אתמול דווח כי יש \"הסכמה מקיר לקיר\" לכך שהראיות נגדו מספקות לפתיחת חקירה",
+      "summary": "ח\"כ עודה, שאמור לסיים את תפקידו בשבוע הבא, צפוי להיחקר באזהרה. אתמול דווח כי יש \"הסכמה מקיר לקיר\" לכך שהראיות נגדו מספקות לפתיחת חקירה - אלא שראש השב\"כ ביקש לחקור גם את טיבי, עבאס ואבו שחאדה, בלי להציג ראיות. עודה: \"מדובר ברדיפה פוליטית שהולכת להפוך במהרה לבלון נפוח\"",
       "link": "https://www.ynet.co.il/news/article/b1btznutgg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -84,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-04T13:26:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ayman-odeh-investigation-foreign-funding-hundreds-",
+      "title": "נחשף: איימן עודה הוא הפוליטיקאי הבכיר שחשוד בקבלת מאות אלפי שקלים; \"מדובר ברדיפה פוליטית\"",
+      "summary": "נחשפה הזהות של ח\"כ איימן עודה מבל\"ד - שנבדק בחשד למימון זר לבחירות בישראל • ראש השב\"כ דרש לחקור גם את טיבי, עבאס ואבו שחאדה | עודה הגיב: \"לכולם ברור שמדובר ברדיפה פוליטית, שהולכת להפוך במהרה לבלון נפוח שיתפוצץ להם בדיוק בפרצוף\" | היועמ\"שית דורשת תשתית ראייתית (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ayman-odeh-investigation-foreign-funding-hundreds-",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T13:24:43.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/ayman-odeh-investigation-foreign-funding-hundreds-",
@@ -599,10 +662,10 @@
       "pubDate": "2026-11-04T12:11:27.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/elections2026/article/rk82ksdagl",
+      "id": "ynet:https://www.ynet.co.il/news/article/rk82ksdagl",
       "title": "דרעי ביקש לפרוש מראשות ש\"ס: האפשרויות שלו - והתנגדות הרבנים למכתב תמיכה עם הרב יוסף",
       "summary": "לא בפעם הראשונה: אחרי קריסת המפלגה ל-6 מנדטים, יו\"ר ש\"ס ייפגש מחרתיים עם הרבנים. שניים מחברי מועצת חכמי התורה סירבו לחתום על מכתב תמיכה משותף עם הרב יוסף עקב סרטון \"הצווים לאסלה\" שלשיטתם פגע במפלגה. השאלה כעת: אם יפרוש לחלוטין, יהיה יו\"ר מחוץ לכנסת - או שישמש כ\"נשיא\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rk82ksdagl",
+      "link": "https://www.ynet.co.il/news/article/rk82ksdagl",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T12:09:54.000Z"
@@ -1326,6 +1389,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T10:37:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1384755",
+      "title": "דרמה מאחורי הקלעים: השב\"כ ביקש לחקור ח\"כים – איימן עודה הודה - \"אני החשוד\" | פרסום ראשון",
+      "summary": "ברקע העימות עם היועמ\"שית סביב חקירת בכירים במפלגות הערביות, גורם ביטחוני מבהיר: \"השב\"כ לא מושפע מלחצים\". לדבריו, להב 433 תצטרף לחקירה בימים הקרובים, והמשך הפעולות יהיה כפוף לאישורים הנדרשים",
+      "link": "https://www.maariv.co.il/news/military/article-1384755",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T10:35:05.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1384755",
@@ -31521,60 +31593,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T14:07:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21742105",
-      "title": "\"זה לא הפתרון למכבי תל אביב, הוא הלך והתרסק\"",
-      "summary": "בזמן שקיליאן הייז מתקרב לחתימה בצהוב, פיני גרשון ועפר ג'ובה גרוס מתחו ביקורת על השמות שעל הפרק בפודקאסט \"על הבאזר\": \"תנו לאוהדים שחקן שייתן להם תקווה\" • ומה הם חושבים על נמניה נדוביץ'?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21742105",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:54:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21742138",
-      "title": "חשש מעומס יתר: האי בתאילנד שעלול להגביל כניסת תיירים",
-      "summary": "איגוד התיירות בקו קוד קורא לשלטונות ולחברות המעבורות לווסת את תנועת המבקרים בשל עומס קיצוני • בארגון מזהירים מנזק בלתי הפיך למשאבי הטבע ומדורשים לעבור למודל שיווק איכותי",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21742138",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:53:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21742057",
-      "title": "שני חשודים נעצרו בפשיטה על בית הימורים בצפון: זה הציוד שנתפס",
-      "summary": "פעילות משטרתית בחיפה הובילה לחשיפת מקום שעל פי החשד שימש לקזינו בלתי חוקי • בין הממצאים: אלפי שקלים במזומן, שבבים של מכונות הימורים, טלפונים ניידים ומצלמות אבטחה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21742057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T13:52:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1lengmtgl",
-      "title": "המידע נגד פעילי רע\"מ שנעצרו בבחירות הגיע מלשכת רה\"מ; מסתמן: העצורים ישוחררו",
-      "summary": "עדו נורדן העביר \"מידע מודיעיני\" למשטרה, שפשטה על בתיהם של 3 חשודים בבוקר הבחירות ללא צו - ופרסמה הודעה שניצל הליכוד לתעמולה. לפי שעה טרם גובשו ראיות משמעותיות בתיק, והחשודים עצורים עד יום ראשון - וככל הנראה לאחר מכן הם ישוחררו למעצר בית. בינתיים, 4 כבר שוחררו",
-      "link": "https://www.ynet.co.il/news/article/b1lengmtgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-30T13:51:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1lengmtgl",
-      "title": "המידע נגד פעילי רע\"מ שנעצרו בבוקר הבחירות הגיע מלשכת רה\"מ",
-      "summary": "עדו נורדן העביר \"מידע מודיעיני\" למשטרה, שפשטה על בתיהם של 3 חשודים בבוקר הבחירות ללא צו - ופרסמה הודעה שניצל הליכוד לתעמולה. לפי שעה טרם גובשו ראיות משמעותיות בתיק, והחשודים עצורים עד יום ראשון - ומסתמן שלאחר מכן ישוחררו למעצר בית. בינתיים, 4 כבר שוחררו",
-      "link": "https://www.ynet.co.il/news/article/b1lengmtgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-30T13:51:12.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959488",
-      "title": "האסירה ששרדה הוצאה להורג מדברת לראשונה: \"עדיין סובלת מכאב״",
-      "summary": "יותר מחודש לאחר שהליך ההוצאה להורג בפנטוברביטל השתבש בטנסי, האסירה בת ה-50 מציגה את השלכות הזריקות הקטלניות: \"לא היה רגע אחד שבו לא סבלתי, יש כאב גם בנפש ובנשמה\"",
-      "link": "https://www.walla.co.il/news/world/383959488",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-30T13:50:10.000Z"
     }
   ]
 }
