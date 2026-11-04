@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T18:15:47.990Z",
+  "updatedAt": "2026-11-04T18:31:03.699Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sj00brekagx",
+      "title": "טראמפ על הצהרת ואנס: הוא צודק, אבל המלחמה הייתה שווה את זה",
+      "summary": "לדברי נשיא ארה\"ב, \"לא הייתה לנו ברירה. איראן לא יכולה להחזיק בנשק גרעיני, אחרת כל מה שאתם רואים כאן עלול יום אחד לא להיות\"",
+      "link": "https://www.ynet.co.il/news/article/sj00brekagx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T18:14:37.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/s1rnf1tpml",
       "title": "מפקד ימ\"ר חוף: \"עורכי דין חארות ושקרנים, זורק לים 30%-50% מהם\"",
       "summary": "ניצב-משנה יוני חג'ג' אמר בריאיון לפודקאסט כי סנגורים פליליים \"ימכרו את אמא שלהם\" וישבשו חקירות כדי לסייע ללקוח שלהם. לטענתו, הפרקליטות כובלת את ידיו. לשכת עורכי הדין פנתה למפכ\"ל המשטרה: \"הסתה פרועה והתרת דם\"",
@@ -48,6 +57,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T18:06:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/derei-stays-shas-deghel-hatorah-no-recommend-netanyahu",
+      "title": "לראשונה מזה עשרות שנים ביהדות התורה יימנעו מהמלצה על נתניהו",
+      "summary": "בדגל בתורה ואגודת ישראל הודיעו כי לא ימליצו לנשיא על אף אחד מהמועמדים להרכבת הממשלה | דרעי: \"מקבל את ההוראה של מועצת חכמי התורה ללא הרהור\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/derei-stays-shas-deghel-hatorah-no-recommend-netanyahu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T18:03:34.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/derei-stays-shas-deghel-hatorah-no-recommend-netanyahu",
@@ -177,6 +195,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1384956",
+      "title": "הטלטלה במחנה של טראמפ לאחר הבחירות: הנשיא מגיב לשמועות על פיטורים",
+      "summary": "על רקע המפלה הרפובליקנית והביקורת על המלחמה באיראן, דיווח המיוחס ל-CBS מעלה אפשרות להחלפת שר ההגנה פיט הגסת'. גם שמו של רון דסנטיס עלה, אך טראמפ מכחיש כי בכוונתו לבצע שינויים בקבינט",
+      "link": "https://www.maariv.co.il/news/world/article-1384956",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T17:41:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384956",
       "title": "אחרי המפלה בבחירות: השם המפתיע שעשוי להחליף את שר ההגנה",
       "summary": "על רקע המפלה הרפובליקנית והביקורת על המלחמה באיראן, דיווח המיוחס ל-CBS מעלה אפשרות להחלפת שר ההגנה פיט הגסת'. גם שמו של רון דסנטיס עלה, אך טראמפ מכחיש כי בכוונתו לבצע שינויים בקבינט",
       "link": "https://www.maariv.co.il/news/world/article-1384956",
@@ -214,7 +241,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21782660",
       "title": "חי מליגת האלופות: א.א.ק אתונה - ריאל מדריד 0:1",
-      "summary": "הבלאנקוס חזרו לאתונה, שם קיליאן אמבפה הבקיע רביעייה מול אולימפיאקוס אשתקד • ויניסיוס ג'וניור ב-11, האקס לוקה יוביץ' פתח מנגד",
+      "summary": "קויטה העלה את היוונים ליתרון מפתיע בדקה ה-12 • ויניסיויס ג'וניור בהרכב הבלאנקוס, האקס לוקה יוביץ' בהתקפה מנגד",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21782660",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -492,6 +519,15 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1bl0cdagg",
+      "title": "עכשיו ניתן לפרסם: בליל 7/10 נבדק אם מוחמד דף ירד למנהרה",
+      "summary": "לאחר שלוש שנות מלחמה, הצנזורה מתירה לפרסם פרטים נוספים על הסימנים המעידים שקדמו למתקפת חמאס",
+      "link": "https://www.ynet.co.il/news/article/r1bl0cdagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T16:43:55.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1bl0cdagg",
       "title": "עכשיו ניתן לפרסם: בליל 7/10 זוהה מוחמד דף יורד למנהרה",
       "summary": "לאחר שלוש שנות מלחמה, הצנזורה מתירה לפרסם פרטים נוספים על הסימנים המעידים שקדמו למתקפת חמאס",
       "link": "https://www.ynet.co.il/news/article/r1bl0cdagg",
@@ -651,6 +687,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T16:10:58.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ry7o11auamx",
+      "title": "המפה הפוליטית רוסקה, טקסס נצבעה כחול: השינוי הטקטוני לפני בחירות 2028",
+      "summary": "לתבוסה הרפובליקנית בבחירות האמצע יהיו גלי הדף שיורגשו שנים קדימה, לא רק בגלל הניצחון הדמוקרטי המוחץ בסנאט ובבית הנבחרים, אלא גם בשל נפילתם בזה אחר זה של מעוזים רפובליקניים היסטוריים. הטלטלה הגדולה: בטקסס, שלראשונה מאז 1994 בחרה סנאטור ומושלת דמוקרטים, ו-40 האלקטורים שלה עשויים לטרוף את הקלפים במרוץ לנשיאות בעוד שנתיים. גם קנזס, דרום קרוליינה ואייווה נצבעו כחול אחרי שנים, מבצע \"הנדסת אזורי הבחירה\" של טראמפ חזר לשמרנים כבומרנג",
+      "link": "https://www.ynet.co.il/news/article/ry7o11auamx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T16:07:11.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ry7o11auamx",
@@ -1416,6 +1461,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T14:25:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21780449",
+      "title": "מחלוקת ביהדות התורה על ההמלצה לנתניהו; רע\"מ המליצה על איזנקוט",
+      "summary": "ישראל ביתנו המליצה על איזנקוט • בש\"ס הבהירו כי דרעי זוכה לגיבוי ההנהגה הרוחנית, ובציונות הדתית התעמתו עם הרצוג על המפלגות הערביות: \"זו הערה מאוד מסוכנת\" • במקביל, עיתונאית מאיטליה עוכבה במשכן בעקבות חשד לחומר חשוד על גופה - בתום הבדיקה הוסר החשד",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21780449",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T14:24:43.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21780449",
@@ -32682,15 +32736,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T18:43:10.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959478",
-      "title": "התקיפה החריגה בהורמוז - ומערכות ההגנה ליד אחוזת טראמפ",
-      "summary": "סירה קטנה הצמידה שני מוקשים למכלית לואיז 1 - בפגיעה המוצלחת הידועה הראשונה בשיטה זו באזור מאז תחילת המלחמה. איראן טוענת ששתי מכליות נוספות נקלעו ל”תקריות”. באחוזתו של טראמפ תועדו מערכות הגנה אווירית",
-      "link": "https://www.walla.co.il/news/world/383959478",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-30T18:20:49.000Z"
     }
   ]
 }
