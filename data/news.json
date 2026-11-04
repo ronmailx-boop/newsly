@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T05:00:57.347Z",
+  "updatedAt": "2026-11-04T05:15:58.923Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1fahndaze",
+      "title": "טראמפ מתרץ את הכישלון, ומאשים: \"חלק מהתוצאות - בגלל איראן. נטיל וטו\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/h1fahndaze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T05:14:16.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947822",
+      "title": "להמציא את נתניהו מחדש",
+      "summary": "בפני נתניהו עומדת בחירה, אך חשוב מכך: בתוכו מתנגשים שני כוחות משמעותיים. מצד אחד, נתניהו המדינאי המחפש מורשת; מצד שני, נתניהו הפוליטיקאי, שמורגל במקסום הכוח, ריסוק היריבים ובניצחון בכל מחיר",
+      "link": "https://www.ynet.co.il/news/article/yokra14947822",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T05:12:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948060",
+      "title": "גם האמת היא אופציה",
+      "summary": "למרות אי-הנוחות והבזבוז שבניהול מערכת בחירות נוספת, זהו המעשה ההגון כעת לעשותו",
+      "link": "https://www.ynet.co.il/news/article/yokra14948060",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T05:09:59.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947840",
+      "title": "10 עקרונות לממשלה יציבה",
+      "summary": "על אף שלא ניתן בשלב זה לחזות איזו ממשלה תיכון בסוף המסע שהמערכת הפוליטית צועדת בו, אני מציע לכל ממשלה עתידית לאמץ 10 עקרונות יסוד, שמשקפים את המאוויים של רוב אזרחי ישראל",
+      "link": "https://www.ynet.co.il/news/article/yokra14947840",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T05:08:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1384617",
+      "title": "על סף מלחמה מחודשת: באיראן קוראים לפיתוח נשק גרעיני",
+      "summary": "על רקע החשש ממלחמה נוספת עם ישראל וארה\"ב, גוברים באיראן הקולות הקוראים לפתח נשק גרעיני ולשנות את הדוקטרינה של חמינאי. הדיון כבר הגיע לצמרת ההנהגה, בעוד טהרן מנסה למנוע הסלמה באמצעות קטאר",
+      "link": "https://www.maariv.co.il/news/world/article-1384617",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-04T05:07:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/fire-hof-hacarmel-central-station-haifa",
+      "title": "שריפה פרצה בתחנה מרכזית חוף הכרמל: האזרחים פונו בשל העשן הכבד",
+      "summary": "לוחמי האש פעלו לכיבוי מוקד השריפה במתחם ובמקביל אנשי האבטחה פינו את האזרחים בשל העשן הכבד | לא דווח על נפגעים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/fire-hof-hacarmel-central-station-haifa",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-04T05:04:08.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947857",
+      "title": "ממשלת נתניהו הפכה לנטל",
+      "summary": "העלות הכלכלית הממשית של הסיוע הצבאי לישראל היא אפסית. אם בכל זאת מצא טראמפ לנכון לפוצץ את ההסכם, לא הכסף הניע אותו, אלא האיבה הגוברת לממשלת ישראל הנוכחית ברחבי דעת הקהל האמריקאית",
+      "link": "https://www.ynet.co.il/news/article/yokra14947857",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T05:01:58.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14947911",
       "title": "מ\"ממשלת חירום והצלה לאומית\" אפשר להרוויח",
       "summary": "איזנקוט, בנט, ליברמן, גולן - תגדלו. תבינו: גם אם הוא ראש ממשלה שהיה יותר מכולם, הוא לא אורים ולא תומים, והצהרותיו אינטרסים בשלכת",
@@ -39,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T04:52:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21775014",
+      "title": "מגוגל ועד ChatGPT: כך SO Digital מקדמת עסקים במנועי החיפוש ו- AI",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21775014",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T04:49:33.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/tv/383959776",
@@ -66,6 +138,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T04:45:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21774963",
+      "title": "אחרי הלידה הקשה: היילי ביבר מדברת על ההפרעה",
+      "summary": "שנתיים אחרי לידת בנה ג'ק, הדוגמנית ואשת העסקים חוזרת לדבר על ההפרעה שאובחנה אצלה חודשים לאחר הלידה. אחרי שכבר סיפרה על הדימום המסוכן שחוותה בחדר הלידה, היא מסבירה למה מותג הטיפוח שלה התחייב לתרום חמישה מיליון דולר למחקר בריאות נשים",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21774963",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T04:44:54.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1384614",
@@ -483,6 +564,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21774681",
+      "title": "מתברר שתמונת הממלכתיות הייתה פוטושופ",
+      "summary": "תמונת האחדות של שומרי הסף החזיקה יומיים בלבד • מאחורי החיוכים התנהל ויכוח חריף על הפעלת כלי שב\"כ ומעקבים ללא ראיות • העקיצות הפכו להאשמות הדדיות, והפרטים שנחשפים מחדר הדיונים מבהירים עד כמה המשבר עמוק",
+      "link": "https://www.israelhayom.co.il/opinions/article/21774681",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-04T00:12:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21774681",
       "title": "מסתבר שתמונת הממלכתיות הייתה פוטושופ | דעה",
       "summary": "תמונת האחדות של שומרי הסף החזיקה יומיים בלבד • מאחורי החיוכים התנהל ויכוח חריף על הפעלת כלי שב\"כ ומעקבים ללא ראיות • העקיצות הפכו להאשמות הדדיות, והפרטים שנחשפים מחדר הדיונים מבהירים עד כמה המשבר עמוק",
       "link": "https://www.israelhayom.co.il/opinions/article/21774681",
@@ -626,19 +716,19 @@
       "pubDate": "2026-11-03T22:10:21.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947597",
-      "title": "7/10 סדק את קשר השתיקה סביב פגיעות מיניות כלפי גברים: \"המודעות עלתה\"",
-      "summary": "ב-2025 נרשם זינוק של עשרות אחוזים בפניות לקו הסיוע הארצי לגברים נפגעי תקיפה מינית. הסיבות: השיח על האלימות המינית כלפי חטופים, והעלייה בעיסוק בפוסט-טראומה אצל לוחמים, שנתן לגיטימציה לגברים לעסוק בקשיים נפשיים. המענים לקורבנות חלקיים - ובקרב נפגעים המצב עגום יותר ביחס לנפגעות",
-      "link": "https://www.ynet.co.il/news/article/yokra14947597",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947443",
+      "title": "\"ההתלבטות גדולה, אנשים סובלים\": מה חושבים בבני ברק על החיזור אחר החרדים",
+      "summary": "חלף שבוע מיום הבוחר, ויהדות התורה ניצבת בפני הכרעה: נאמנות למחנה הימין מול הדרישה להסדיר את מעמד בני הישיבות. חלק מהח\"כים ב\"אגודת ישראל\", הפלג החסידי, ממתינים להצעת איזנקוט אך חוששים מהמחיר הפוליטי של נטישת נתניהו. בבני ברק יש גם מי ששמחים על המצב: \"נחמד שפתאום לא שונאים אותנו\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14947443",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-03T22:00:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947443",
-      "title": "\"ההתלבטות גדולה, אנשים סובלים\": מה חושבים בבני ברק על החיזור אחר החרדים",
-      "summary": "חלף שבוע מיום הבוחר, ויהדות התורה ניצבת בפני הכרעה: נאמנות למחנה הימין מול הדרישה להסדיר את מעמד בני הישיבות. חלק מהח\"כים ב\"אגודת ישראל\", הפלג החסידי, ממתינים להצעת איזנקוט אך חוששים מהמחיר הפוליטי של נטישת נתניהו. בבני ברק יש גם מי ששמחים על המצב: \"נחמד שפתאום לא שונאים אותנו\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14947443",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947597",
+      "title": "7/10 סדק את קשר השתיקה סביב פגיעות מיניות כלפי גברים: \"המודעות עלתה\"",
+      "summary": "ב-2025 נרשם זינוק של עשרות אחוזים בפניות לקו הסיוע הארצי לגברים נפגעי תקיפה מינית. הסיבות: השיח על האלימות המינית כלפי חטופים, והעלייה בעיסוק בפוסט-טראומה אצל לוחמים, שנתן לגיטימציה לגברים לעסוק בקשיים נפשיים. המענים לקורבנות חלקיים - ובקרב נפגעים המצב עגום יותר ביחס לנפגעות",
+      "link": "https://www.ynet.co.il/news/article/yokra14947597",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-03T22:00:00.000Z"
@@ -29631,87 +29721,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-30T05:19:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21740356",
-      "title": "חשד להתערבות קטארית בבחירות: השבכ ביקש את סיוע המוסד",
-      "summary": "מ\"מ מנכ\"ל הוועדה הבהיר כי החקירה לא תשפיע על התוצאות שיוגשו לנשיא ב-4 בנובמבר • במקביל, הוא פרסם את תוצאות ההצבעות לאחר השלמת ספירת הקולות על ידי הוועדה • בימים הקרובים תיבחן הבקרה על התוצאות, לרבות בדיקה חוזרת של קלפיות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21740356",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:13:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21740356",
-      "title": "ועדת הבחירות על חקירת השב\"כ: \"הדיווחים אינם מבוססים כלל\"",
-      "summary": "מ\"מ מנכ\"ל הוועדה הבהיר כי החקירה לא תשפיע על התוצאות שיוגשו לנשיא ב-4 בנובמבר • במקביל, הוא פרסם את תוצאות ההצבעות לאחר השלמת ספירת הקולות על ידי הוועדה • בימים הקרובים תיבחן הבקרה על התוצאות, לרבות בדיקה חוזרת של קלפיות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21740356",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:13:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21740356",
-      "title": "דין ליבנה על חקירת השב\"כ: \"הדיווחים אינם מבוססים כלל\"",
-      "summary": "ליבנה הבהיר כי החקירה לא תשפיע על התוצאות שיוגשו לנשיא ב-4 בנובמבר • במקביל, הוא פרסם את תוצאות ההצבעות לאחר השלמת ספירת הקולות על ידי הוועדה • בימים הקרובים תיבחן הבקרה על התוצאות, לרבות בדיקה חוזרת של קלפיות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21740356",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:13:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21739160",
-      "title": "ושוב זה קרה: איך התקשורת פספסה את הליכודניקים?",
-      "summary": "27 מנדטים, כמעט 1.2 מיליון פתקי מחל, ושוב, בפעם המי יודע כמה, כמעט כל הסוקרים והתקשורת פספסו אותם • איך יכול להיות שהקבוצה הפוליטית־חברתית המשמעותית והגדולה בישראל חומקת מתחת לרדאר?",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21739160",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:12:33.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3874275",
-      "title": "פרסום ראשון: רוסלנה רודינה ובן זוגה במשבר",
-      "summary": "ארבעה חודשים אחרי שהחלו את מערכת היחסים, רוסלנה רודינה ובן זוגה עמי ברדה נמצאים במשבר ביחסים | כל הפרטים",
-      "link": "https://celebs.walla.co.il/item/3874275",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-30T05:11:00.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3874275",
-      "title": "רוסלנה רודינה ועמי ברדה במשבר ביחסים | פרסום ראשון",
-      "summary": "ארבעה חודשים אחרי שהחלו את מערכת היחסים, רוסלנה רודינה ובן זוגה עמי ברדה נמצאים במשבר ביחסים | כל הפרטים",
-      "link": "https://celebs.walla.co.il/item/3874275",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-30T05:11:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21735152",
-      "title": "מצאתי המבורגר כשר מצוין, במחיר שהפתיע אותי",
-      "summary": "רשת Smash It פתחה סניף שני בכפר סבא, והגעתי לבדוק אם ההמבורגרים הכשרים שלה עומדים בציפיות • מצאתי קציצות עסיסיות, טבעות בצל נהדרות ותחליף גבינה שעדיין לא לגמרי משכנע",
-      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21735152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:06:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21740347",
-      "title": "מכבי תל אביב בדרך לחיזוק, ופספסה שם מוכר לישראלים",
-      "summary": "הצהובים קרובים לסיכום עם קיליאן הייז, שנבחר שביעי בדראפט 2020 ולא מצא קבוצה בליגה הטובה בעולם • במועדון בחנו את מצבו של חברו לשעבר של דני אבדיה, אך פספסו את ההזדמנות להחתימו • לא ברור אם גם נמניה נדוביץ' יצטרף",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21740347",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:02:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21740347",
-      "title": "אחרי שמועמד נוסף חתם ב-NBA: מכבי תל אביב מתקרבת לחיזוק",
-      "summary": "הצהובים קרובים לסיכום עם קיליאן הייז, שנבחר שביעי בדראפט 2020 ולא מצא קבוצה בליגה הטובה בעולם • במועדון בחנו את מצבו של חברו לשעבר של דני אבדיה, אך פספסו את ההזדמנות להחתימו • לא ברור אם גם נמניה נדוביץ' יצטרף",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21740347",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-30T05:02:36.000Z"
     }
   ]
 }
