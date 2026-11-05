@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:00:59.416Z",
+  "updatedAt": "2026-11-05T12:16:06.393Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b13w3yctzl",
+      "title": "פיגוע דקירה קטלני בירדן: \"מחבל ניסה לחטוף נשק\"",
+      "summary": "ירדן מדווחת על פיגוע דקירה נגד אנשי כוחות הביטחון בעמאן, ליד שגרירות סרי לנקה: אחד נהרג והשני נפצע, התוקף נעצר. במקביל דיווחה טורקיה על תקרית בסוף השבוע שבה נהרג חייל שלה בגבול עם איראן, בחילופי אש חריגים: \"נפתחה חקירה משותפת\"",
+      "link": "https://www.ynet.co.il/news/article/b13w3yctzl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-05T12:12:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385296",
+      "title": "סין עשתה היסטוריה בחלל - אבל זה לא בהכרח חדשות טובות",
+      "summary": "סין הצליחה לראשונה לבצע חיתוך מדויק בלייזר בחלל באמצעות זרוע רובוטית המופעלת מרחוק. הטכנולוגיה עשויה לשנות את תחזוקת הלוויינים, אך בארה\"ב חוששים מהאפשרות שתשמש גם כנשק בחלל",
+      "link": "https://www.maariv.co.il/news/world/article-1385296",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T12:12:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1385288",
+      "title": "\"עלבון לתרבות האיטלקית\": סירב לשים אננס על פיצה - ופוטר",
+      "summary": "הוויכוח במסעדה באוסטרליה התגלגל לסכסוך משפטי, אבל המחיר האמיתי התברר רק בהמשך: גם תוכניותיו לקבל תושבות קבע במדינה נפגעו. בית הדין דחה את בקשתו, ובמקום עבודתו החדש חיכתה לו הפתעה",
+      "link": "https://www.maariv.co.il/news/viral/article-1385288",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T12:00:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk9q50y6fx",
+      "title": "בלי בן גביר: זקן מועצת חכמי התורה של ש\"ס קורא לרוטציה בין נתניהו לאינזקוט",
+      "summary": "מפלגתו של דרעי המליצה לנשיא להטיל על נתניהו את הרכבת הממשלה, אבל הרב משה מאיה (88) שרטט בריאיון לעיתון \"משפחה\" תוכנית לאחדות: \"כדי להשלים לרוב, נתניהו ואיזנקוט יכולים לקחת את המפלגות החרדיות ואת הציונות הדתית. זו ממשלה שיכולה להיות מצוינת\". הוא האשים את התקשורת בקריסת ש\"ס",
+      "link": "https://www.ynet.co.il/news/article/rk9q50y6fx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-05T11:59:56.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1385283",
       "title": "עלייה בהשכלה, פערים בגירושין: תמונת מצב יוצאי אתיופיה",
       "summary": "לקראת חג הסיגד, הלמ\"ס חושפת את תמונת המצב של יוצאי אתיופיה בישראל: כמעט 180 אלף תושבים, עלייה במספר מקבלי התארים האקדמיים ופערים בולטים בתחומי הרווחה, המשפט והמשפחה",
@@ -39,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-05T11:57:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21787758",
+      "title": "פיגוע דקירה בעמאן: איש ביטחון ירדני נהרג, החשוד נעצר",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21787758",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T11:56:14.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/to11pf",
@@ -50,13 +95,22 @@
       "pubDate": "2026-11-05T11:52:47.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/real-estate/to1259",
+      "id": "kikar:https://www.kikar.co.il/real-estate/investor-advisors-real-estate-brokers",
       "title": "מלווה משקיעים או מתווך במסווה? // יעקב רייניץ",
       "summary": "אין פסול בתיווך, ואין פסול בשיווק פרויקטים. אבל יש הבדל מהותי בין מתווך שמנסה לחבר אתכם לעסקה לבין מלווה שאמור לבחון את התמונה כולה, לנתח את הצרכים שלכם, להשוות בין חלופות ולעיתים אפילו לומר לכם שלא כדאי לקנות כרגע (נדל\"ן)",
-      "link": "https://www.kikar.co.il/real-estate/to1259",
+      "link": "https://www.kikar.co.il/real-estate/investor-advisors-real-estate-brokers",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T11:52:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21787926",
+      "title": "שובו של האתרוג: מי אמר שלעודד קטש אין הגנה",
+      "summary": "שרשרת הנפילות ביורוליג ובדרבי שבה והמחישה את הנחות הענק שמקבל מאמן מכבי תל אביב מחסידיו בתקשורת • וגם: למה בכה עמוס פרישמן, בערוץ הספורט לא שמעו על מחאת רקנאטי, ואיגוד השופטים מפקיר את דקל צינו בסיוע פרשנים חנפנים",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21787926",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T11:52:13.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91002",
@@ -66,6 +120,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T11:50:41.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875113",
+      "title": "מיליארדים נמחקו מאז הבחירות - והנפילות רק נמשכות",
+      "summary": "המסחר בתל אביב ממשיך להתנהל בירידות חדות, והמסכים שוב נצבעים באדום. מדד ת\"א 35 מאבד 2.9%, ת\"א 125 יורד ב-2.77% ות\"א 90 נחלש ב-2.34%. מדד הבנקים סופג מכה קשה עוד יותר, עם ירידה של כ-3.4%",
+      "link": "https://finance.walla.co.il/item/3875113",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T11:50:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21777123",
+      "title": "מבעד לציוץ הציפורים, אגי משעול אינה שומעת את קולות המלחמה",
+      "summary": "טילים מאיראן? מטוסי קרב? גם המלחמה הארוכה ביותר בתולדות מדינת ישראל לא מניעה את שירתה של אגי משעול מחיי הכפר ומראות הטבע",
+      "link": "https://www.israelhayom.co.il/culture/books/article/21777123",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T11:47:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21787956",
+      "title": "עמנואל הורי לא באה לשחק: החיים שמאחורי הדמות שמסעירה את \"הישרדות\"",
+      "summary": "היא פספסה את הוליווד כי לא התחשק לה, הפכה את הניתוחים הפלסטיים לסיפור בפני עצמו, הסתבכה בסערות ציבוריות ומנהלת חשבונות משפחתיים שלא נסגרו • עכשיו, על האי, עמנואל הורי שוב מוכיחה שהדרמה האמיתית התחילה הרבה לפני שהמצלמות נדלקו",
+      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21787956",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T11:47:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21787467",
+      "title": "אזהרה למשתמשי אייר פרייר: המאכלים שלא כדאי להכניס אליו",
+      "summary": "מטגן האוויר הפך לאחד המכשירים הפופולריים במטבח, אבל לא כל מאכל מתאים להכנה בו • מבלילות רטובות ועד רכיבים קלי משקל: מה עלול לגרום לעשן, אילו טעויות עשויות לפגוע במכשיר ואיך משתמשים בו בצורה בטוחה יותר?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21787467",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T11:42:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-white-house-deadlock",
@@ -1938,6 +2028,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T08:14:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21785591",
+      "title": "מיסטר יוניברס 2026: הכירו את הנציג הישראלי - הראשון אי פעם",
+      "summary": "מאמן הכושר והדוגמן עומר חלבי נבחר לייצג את ישראל • בן ה-23 יעשה היסטוריה כנציג הכחול-לבן הראשון בתחרות הגברים העולמית לאחר שעבר סדרת מיונים מול ההנהלה בארה\"ב",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21785591",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T08:10:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21785591",
@@ -36111,15 +36210,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T12:30:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21744542",
-      "title": "ליהי טולדנו: \"אני שונאת בנים\"",
-      "summary": "ליהי טולדנו מציגה צד שלא הכרנו, כשהיא מתעדת את עצמה באמצע הרחוב, כועסת ונסערת מהיחס שהיא מקבלת מהסביבה הגברית, ושולחת מסר ברור לכל מי שמנסה להתחיל איתה",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21744542",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T12:04:12.000Z"
     }
   ]
 }
