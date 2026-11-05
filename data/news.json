@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:16:02.647Z",
+  "updatedAt": "2026-11-05T10:31:00.088Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1385238",
+      "title": "אירוע חריג במוסד לימודי בירושלים: 13 ילדים ואשת צוות פונו",
+      "summary": "אירוע חשיפה לחומרים מסוכנים התרחש במוסד לימודי בירושלים. 13 ילדים כבני 12 ואשת צוות פונו לבתי החולים הדסה עין כרם והר הצופים, כולם בהכרה ובמצב קל",
+      "link": "https://www.maariv.co.il/news/health/article-1385238",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T10:27:10.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960205",
+      "title": "סגן ראש ממשלת בוואריה נמצא מת בחדרו במלון בברלין",
+      "summary": "הוברט איוונגר, בן 55, הגיע לברלין לרגל פתיחת משרד חדש של מפלגתו, אך ביטל את השתתפותו באירוע לאחר שחש ברע. בהמשך נמצא ללא רוח חיים בחדרו במלון. המשטרה פתחה בחקירה, וההערכה הראשונית היא שמת מסיבות טבעיו",
+      "link": "https://www.walla.co.il/news/world/383960205",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T10:23:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960203",
+      "title": "25 נפגעים משאיפת חומרים רעילים בירושלים",
+      "summary": "לפי איחוד הצלה, ערבוב של חומצה וכלור במוסד חינוכי בשועפאט גרם לקשיי נשימה בקרב הנוכחים. ילד כבן 10 נפגע באורח בינוני ו-24 נוספים באורח קל. צוותי מד\"א פינו את הנפגעים לשני בתי חולים בירושלים",
+      "link": "https://www.walla.co.il/news/israel/383960203",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T10:22:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21786843",
+      "title": "נינט טייב משתפת: \"בעל כורחי למדתי\"",
+      "summary": "הזמרת שהתגרשה מאבי שתי בנותיה המוזיקאי יוסי מזרחי משתפת טקסט כואב על התמודדות עם התפרקות. \"האחזי בפעולות פשוטות, שחררי\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21786843",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:14:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21787098",
+      "title": "פוטר, גויס למילואים והמציא מחזיק כדור לכדורעף חופים",
+      "summary": "שבעה עסקים קטנים, מלא הנחות, ועוד כמה שעות לנצל אותן כדי לתמוך בכלכלה המקומית",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21787098",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:12:25.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/jerusalem-shoafat-school-chemical-incident-childre",
       "title": "אירוע חומרים מסוכנים בירושלים: מעל 20 ילדים ועובדת חשים ברע",
       "summary": "עובדת ערבבה בטעות חומרי ניקוי במוסד חינוכי בשועפאט • מעל 20 ילדים חשו ברע וסבלו מקשיי נשימה | העובדת פונתה במצב בינוני (חדשות בארץ)",
@@ -39,6 +84,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T10:11:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21787102",
+      "title": "אירוע חומרים מסוכנים בירושלים: ילד במצב בינוני ו-24 נפגעו קל",
+      "summary": "אירוע חריג התרחש במוסד חינוכי בירושלים לאחר שמספר אנשים שאפו חומרי ניקוי וחשו ברע • צוותי הרפואה של מגן דוד אדום שהוזעקו למקום העניקו טיפול רפואי ראשוני והחלו בפינוי הנפגעים לבתי החולים בבירה",
+      "link": "https://www.israelhayom.co.il/news/municipal/article/21787102",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:08:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21786477",
+      "title": "הדרך הכי טובה לחמם פיצה מאתמול, בלי להרוס אותה",
+      "summary": "בצק ספוגי, גבינה שהתייבשה ותחתית שאיבדה את הפריכות? פיצה מאתמול לא חייבת להיראות ככה • מטוסטר אובן ומחבת ועד שילוב מפתיע עם המיקרוגל: השיטות שיעזרו לכם להחזיר למשולש את הקראנץ', וגם הטעות שכדאי להימנע ממנה באחסון",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21786477",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:06:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21787051",
+      "title": "\"בשום שלב לא שמעתי מאוריין גורן שהוא לא ישחק בנבחרת ישראל\"",
+      "summary": "רן בן שמעון התייחס לזימון הבכורה של בן ה-17 מברצלונה, על רקע החיזורים מצ'כיה: \"זה לא יצא ממנו. אנחנו בקשר הרבה שנים והוא אמר לי שישחק בנבחרת הבוגרת\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21787051",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:06:06.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385220",
@@ -68,6 +140,15 @@
       "pubDate": "2026-11-05T10:02:51.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21786887",
+      "title": "לא להשתמש: ריקול לאחד ממותגי הסלמון הטרי ברשתות השיווק",
+      "summary": "משרד הבריאות הורה לצרכנים שרכשו סלמון טרי אטלנטי שמיובא על ידי \"אחים זנו דגים\" שלא לצרוך אותו • הסיבה: תאריך תפוגה שגוי על האריזה שנותן למוצר תוקף עד אוקטובר 2027",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21786887",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:02:27.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to0x26",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 12:00 | האזינו",
       "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 12:00",
@@ -75,6 +156,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T10:02:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21786779",
+      "title": "בגלל התפרעות בשער: ריינאייר מנעה מחבר פרלמנט לעלות על טיסה",
+      "summary": "תקרית חריגה בגרמניה: חבר פרלמנט ממפלגת הימין הקיצוני סורב לעלות לטיסת ריינאייר למיורקה בעקבות עימות עם צוות הקרקע • הדיווחים מצביעים על גזענות, בעוד בחברה מבהירים: אפס סובלנות למפריעים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21786779",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T10:00:38.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21786751",
@@ -97,7 +187,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21786818",
       "title": "גל נחיתות חירום באירופה בעקבות התרעה על פצצות",
-      "summary": "שלושה מטוסים לפחות נקלעו לאירועי חירום בעקבות התרעות על פצצות או דיווחים חשודים במהלך טיסות באירופה • בבולגריה דווח על נחיתות חירום של שלושה מטוסים, מטוס מוורשה נחת בבריסל בעקבות דיווח חשוד, ומטוס מדבלין לרומא הוסט לבסיס צבאי בצרפת",
+      "summary": "שלושה מטוסים ביצעו נחיתות חירום בבולגריה, מטוס מדבלין לרומא הוסט לבסיס צבאי בצרפת, ושתי טיסות נוספות של Finnair נקלעו לאירועי התרעה • גם מטוס פולני שהמריא מוורשה נחת בבריסל",
       "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21786818",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -219,6 +309,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-05T09:43:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/moviesreview/383960188",
+      "title": "נועה קולר: \"חשבתי שזה ייפול. ואז מה אכפת לי להסכים?\"",
+      "summary": "הקרנות סירבו, נועה קולר הייתה סקפטית והבמאית בכלל הייתה בניו יורק. אבל טליה ברטפלד לא נתנה לכל אלה לעצור אותה. הגענו לפרמיירה של \"אף פעם, לשום מקום\", ויצאנו עם תקווה אחת: רק לא לחטוף התקף לב בפורים",
+      "link": "https://www.walla.co.il/entertainment/moviesreview/383960188",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T09:43:29.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90960",
@@ -516,6 +615,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T09:16:43.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875095",
+      "title": "30 אגורות לליטר, מיליונים לכיס: העונשים בפרשת הונאת הדלק",
+      "summary": "לפי התביעה, בני הזוג גרפו כ-40 מיליון שקל ממפעל החשבוניות המזויפות, שגרם לנזק של יותר מ-156 מיליון שקל לקופת המדינה. הבעל לשעבר נידון למאסר ולקנס כבד, ואילו האישה נמלטה מהארץ לפני גזר דינה",
+      "link": "https://finance.walla.co.il/item/3875095",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T09:16:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/to0uje",
@@ -2507,6 +2615,15 @@
       "pubDate": "2026-11-04T22:04:00.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948603",
+      "title": "מתחת למאבק המעמדי מבעבעת גם טינה ושנאה לישראל",
+      "summary": "מערכות בחירות אמצע כמעט אינן מוכרעות על מדיניות חוץ אלא על הכלכלה מבית. הפעם, הסיבה והתוצאה נקשרו לישראל. כשהכלכלה האמריקאית נפגעת ממחירי הדלק בגלל מלחמה במזרח התיכון הבוחר אינו סולח",
+      "link": "https://www.ynet.co.il/news/article/yokra14948603",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-04T22:03:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14948724",
       "title": "תגידו לי, אתם באתם לשנות?",
       "summary": "ראשי גוש השינוי עדיין מתרגלים את התמרונים הפוליטיים של האתמול והמומנטום בורח להם. יותר מדי שנים של אופוזיציה הביאו אותם לרגע הזה רפוסים וחסרי-אונים. עליהם להתאפס, יש בחירה אחת חשובה מעבר לפינה",
@@ -2529,15 +2646,6 @@
       "title": "זמן להכרעה",
       "summary": "כל עוד ישראל מזוהה עם נתניהו נתקשה לשפר את מעמדנו. ואם מישהו נזקק לסיבה נוספת לכך שאסור לו להמשיך כראש ממשלה, הרי זה הצורך הדחוף בשיקום דימויה של ישראל בארה\"ב",
       "link": "https://www.ynet.co.il/news/article/yokra14948561",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T22:03:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948603",
-      "title": "מתחת למאבק המעמדי מבעבעת גם טינה ושנאה לישראל",
-      "summary": "מערכות בחירות אמצע כמעט אינן מוכרעות על מדיניות חוץ אלא על הכלכלה מבית. הפעם, הסיבה והתוצאה נקשרו לישראל. כשהכלכלה האמריקאית נפגעת ממחירי הדלק בגלל מלחמה במזרח התיכון הבוחר אינו סולח",
-      "link": "https://www.ynet.co.il/news/article/yokra14948603",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T22:03:00.000Z"
@@ -35346,42 +35454,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T10:39:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21744323",
-      "title": "דיווח באיראן: ארה\"ב תקפה סירות דיג, חמינאי מאיים; \"אם נותקף - התגובה תהיה מיידית\"",
-      "summary": "המנהיג העליון של איראן נועד עם בכירי הכוחות המזוינים והנחה אותם להיערך לתגובה מיידית ויעילה לכל איום ללא הגבלה גיאוגרפית • בהנחייתו דרש לעדכן את בנק המטרות כך שכל נכסי \"האויב האמריקני-ציוני\" יהיו בטווח פגיעה • רשת השידור הממלכתית של איראן (IRIB) מדווחת מפי גורם רשמי במחוז הורמוזגן כי ארצות הברית תקפה שתי סירות דיג באזור האי קשם • על פי הדיווח, כתוצאה מהתקיפה שני דייגים נעדרים ודייג נוסף נפצע • בשלב זה אין אישור אמריקני רשמי לטענות האיראניות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21744323",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T10:22:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21744323",
-      "title": "דיווח באיראן: ארה\"ב תקפה סירות דיג, שני דייגים נעדרים",
-      "summary": "רשת השידור הממלכתית של איראן (IRIB) מדווחת מפי גורם רשמי במחוז הורמוזגן כי ארצות הברית תקפה שתי סירות דיג באזור האי קשם • על פי הדיווח, כתוצאה מהתקיפה שני דייגים נעדרים ודייג נוסף נפצע • בשלב זה אין אישור אמריקני רשמי לטענות האיראניות",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21744323",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T10:22:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383087",
-      "title": "\"דוקטורינת הדאחייה\" בדרך לבלפור? בטורקיה לומדים את איזנקוט - ונחרדים",
-      "summary": "דוח של גוף המודיעין הטורקי מציג את ישראל כיריבה אסטרטגית ארוכת טווח. ניתוח שפורסם לאחר הבחירות מעריך כי גם החלפת נתניהו לא תביא לשיפור ביחסים, ומסמן את סוריה כזירה המסוכנת ביותר לעימות",
-      "link": "https://www.maariv.co.il/news/world/article-1383087",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T10:22:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383087",
-      "title": "בטורקיה חיכו לסיום כהונת נתניהו - ואז הגיעה התגלית המודיעינית שטרפה את הקלפים",
-      "summary": "דוח של גוף המודיעין הטורקי מציג את ישראל כיריבה אסטרטגית ארוכת טווח. ניתוח שפורסם לאחר הבחירות מעריך כי גם החלפת נתניהו לא תביא לשיפור ביחסים, ומסמן את סוריה כזירה המסוכנת ביותר לעימות",
-      "link": "https://www.maariv.co.il/news/world/article-1383087",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T10:22:25.000Z"
     }
   ]
 }
