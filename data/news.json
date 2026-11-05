@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T08:15:57.345Z",
+  "updatedAt": "2026-11-05T08:30:58.798Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/otzma-yehudit-netanyahu-recommendation-wasserlauff",
+      "title": "עוצמה יהודית אצל הנשיא: \"גנבו פה בחירות ב-100 מיליון ש״ח, אנו היחידים שנלחמים\"",
+      "summary": "סיעת עוצמה יהודית המליצה על נתניהו להרכבת הממשלה • השר וסרלאוף דרש מהנשיא להצהיר שחמאס ארגון טרור | \"גנבו פה בחירות ב-100 מיליון ש״ח\" (חרדים)",
+      "link": "https://www.kikar.co.il/israel-news/otzma-yehudit-netanyahu-recommendation-wasserlauff",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T08:24:40.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/yahadut-hatorah-no-recommendation-netanyahu-consul",
+      "title": "יהדות התורה לא המליצה על נתניהו ולא נשללה ישיבה עם ליברמן; \"רק מי שיביא הסדר למעמד בן ישיבה\"",
+      "summary": "סיעת יהדות התורה הגיעה הבוקר להתייעצויות בבית הנשיא והודיעה שלא תמליץ על אף מועמד • פינדרוס: 'מי שיביא פתרון לבחורי הישיבות - נשמח שיצליח להרכיב ממשלה' | בהצהרות שקיימו חברי הכנסת לתקשורת אחרי היציאה מההתייעצות, אמר חבר הכנסת יצחק גולדקנופף, כי הוא לא שולל ישיבה בממשלה עם אביגדור ליברמן: ״יש כאלו שידברו ויש כאלו שעשו״ (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/yahadut-hatorah-no-recommendation-netanyahu-consul",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T08:23:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21785413",
+      "title": "בני משפחתה נחטפו ונרצחו - כעת היא מככבת בהצגה חדשה",
+      "summary": "רותם שי שרעבי, אחייניתם של החטופים יוסי ואלי שרעבי, תשתתף בהצגה על בריגדת הנייר בגטו וילנה • \"מרגישה הזדהות עם הטקסטים שנכתבו אז וכל כך קשורים להיום\"",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21785413",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T08:15:10.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/90940",
       "title": "קריאה להחזרת פילה סלמון של \"אחים זנו דגים\" בגלל טעות בתאריך",
@@ -68,6 +95,15 @@
       "pubDate": "2026-11-05T08:14:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21785591",
+      "title": "לראשונה אי פעם: הכירו את הנציג הישראלי במיסטר יוניברס",
+      "summary": "מאמן הכושר והדוגמן עומר חלבי נבחר לייצג את ישראל • בן ה-23 יעשה היסטוריה כנציג הכחול-לבן הראשון בתחרות הגברים העולמית לאחר שעבר סדרת מיונים מול ההנהלה בארה\"ב",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21785591",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T08:10:39.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/synagogues-under-attack-worldwide-report-kristalln",
       "title": "דוח מזעזע: בתי כנסת בעולם תחת איום חסר תקדים - ירי, הצתות ותקיפות",
       "summary": "227 תקריות בבריטניה בשנה אחת, 50 מהן נגד מתפללים בדרכם לתפילה • משרד התפוצות מפרסם דוח מזעזע על מתקפות נגד קהילות יהודיות | לקראת ציון 88 שנים לליל הבדולח (בעולם)",
@@ -84,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T08:08:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21785446",
+      "title": "אלירז שדה על אילנית: \"מורכב\"",
+      "summary": "מגיש הטלוויזיה פתח מצלמה וסיפר על החשש שלו מאישתו ואם בתו אריאה, מלכת היופי במיל' אילנית לוי. \"איך אני אעביר לה את המסר\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21785446",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T08:07:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21785507",
+      "title": "כוכב פנאתינייקוס שבר שיא יורוליג - וגם ז'ליקו אוברדוביץ' נדהם",
+      "summary": "קנדריק נאן הוביל את פאו ל-112:115 על ריאל מדריד בהארכה, עם 23 נקודות ברבע הרביעי • מאמנו: \"מעולם לא היה לי שחקן עם יותר משחקים מאימונים\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21785507",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T08:05:34.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/to0rdi",
@@ -120,6 +174,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-05T07:59:02.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960181",
+      "title": "דקר את אשתו, שטף את גופתה - וניסה להציג את מותה כהתאבדות",
+      "summary": "עלי מסוודא, בן 28, נאשם ברצח אשתו בדירתם בחיפה לאחר שחשד כי בגדה בו ותכננה לעזוב אותו עם בנם התינוק. לפי חומרי החקירה, הוא הודה במעשה בפני מדובב, אך בהמשך התנער מדבריו",
+      "link": "https://www.walla.co.il/news/israel/383960181",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T07:57:18.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385123",
@@ -204,6 +267,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383960180",
+      "title": "מדינה שלמה בסחרור: מיליונים בפרגוואי ללא גישה לכספם",
+      "summary": "משבר הבנקים בפרגוואי מעורר זעם ציבורי ומחריף את הלחץ על הנשיא, לאחר שאזרחים רבים נותרו ללא גישה לכספם. באופוזיציה דורשים לפתוח בהליך הדחה, בעוד החשש מקריסת המערכת הפיננסית גובר",
+      "link": "https://www.walla.co.il/news/world/383960180",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T07:43:50.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960180",
       "title": "בדרך לקריסה כלכלית? המשבר בפרגוואי שמאיים על הנשיא",
       "summary": "משבר הבנקים בפרגוואי מעורר זעם ציבורי ומחריף את הלחץ על הנשיא, לאחר שאזרחים רבים נותרו ללא גישה לכספם. באופוזיציה דורשים לפתוח בהליך הדחה, בעוד החשש מקריסת המערכת הפיננסית גובר",
       "link": "https://www.walla.co.il/news/world/383960180",
@@ -214,7 +286,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1385114",
       "title": "\"אני מהבוקר נחנקת\": תושבים הונחו לסגור חלונות בשל ריח שריפה חריף",
-      "summary": "ריח שריפה חריף התפשט בשעות הלילה והבוקר בחדרה ובעמק חפר ועורר גל תלונות. לאחר בדיקות התברר כי מקורו ככל הנראה בשריפות מעבר לקו התפר. התושבים הונחו לסגור חלונות ודלתות, והחשש גובר גם במוסדות החינוך",
+      "summary": "ריח שריפה חריף התפשט בשעות הלילה והבוקר בחדרה ובעמק חפר ועורר גל תלונות. יתכן שמקורו בשריפות מעבר לקו התפר, אבל בכבאות עדיין בודקים. התושבים הונחו לסגור חלונות ודלתות, והחשש גובר גם במוסדות החינוך",
       "link": "https://www.maariv.co.il/news/israel/article-1385114",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -264,6 +336,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T07:32:04.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875071",
+      "title": "מודה בכישלון? מכבי תל אביב בוחנת לשחרר את אחד מכוכביה",
+      "summary": "הסנטר הגרמני שותף עד כה בשבעה משחקים בלבד, לא שיחק כלל במשחק הקודם ביורוליג, וקבוצות החלו לגשש לגבי האפשרות לצרפו. בסביבת המועדון מודים: \"לאורך זמן נראה כי הצדדים ירוויחו מפרידה מוקדמת\"",
+      "link": "https://sports.walla.co.il/item/3875071",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T07:31:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385107",
@@ -318,6 +399,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-05T07:25:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385106",
+      "title": "האמריקאים חושפים: זה מה שמסבך את ישראל עם טראמפ",
+      "summary": "טראמפ הצהיר כי בכוונתו להפסיק את הסיוע הביטחוני לישראל, אך חשיפה חדשה מגלה כי הזמנות נשק במיליארדי דולרים כבר בוצעו. כעת נותרה שאלה אחת שעלולה לעלות לישראל ביוקר: מי ישלם את החשבון?",
+      "link": "https://www.maariv.co.il/news/world/article-1385106",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T07:24:23.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385106",
@@ -546,6 +636,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960164",
+      "title": "גוש נתניהו? יהדות התורה: לא נמליץ על שום מועמד",
+      "summary": "גולדקנופף: ״לא מחויבים לאף גוש\"; עוצמה יהודית טענו: \"חלק גדול מהעם לא מאמין לתוצאות\", הנשיא הרצוג השיב: \"מכבד את זיני; תפסיקו לתקוף את היוע\"משית\"",
+      "link": "https://www.walla.co.il/news/politics/383960164",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T06:31:08.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960164",
       "title": "יהדות התורה: לא נמליץ על שום מועמד להרכבת הממשלה",
       "summary": "סבב ההמלצות נמשך. הנשיא לחברי עוצמה יהודית: \"תפסיקו לתקוף את היועמ\"שית - היא עושה עבודה מצויינת\". גולדקנופף: \"לא מחוייבים לאף גוש\"",
       "link": "https://www.walla.co.il/news/politics/383960164",
@@ -642,6 +741,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T06:13:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hj00k0yf6gg",
+      "title": "הטענות לגניבת הבחירות הגיעו לבית הנשיא, הרצוג השיב: \"אולי בן גביר גרם לערבים להצביע?\"",
+      "summary": "מבלי להציג ראיות, נציגי עוצמה יהודית טענו בפני הנשיא שהבחירות נגנבו. הרצוג התנער: \"אלה השערות, צריך להיזהר. יכול להיות שהקמפיין שלכם נועד להסתיר שהתנהלותכם הוציאה ערבים להצביע?\". יהדות התורה לא המליצה על נתניהו: \"לא מחויבים לאף גוש\". רע\"מ תמליץ על איזנקוט, ומה תעשה הרשימה המשותפת?",
+      "link": "https://www.ynet.co.il/news/article/hj00k0yf6gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-05T06:10:55.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hj00k0yf6gg",
@@ -905,21 +1013,21 @@
       "pubDate": "2026-11-05T05:01:00.000Z"
     },
     {
-      "id": "walla:https://celebs.walla.co.il/item/3874054",
-      "title": "כוכבת הישרדות: \"לפעמים אני הביץ', לפעמים המאמי הלאומית\"",
-      "summary": "כוכבת הישרדות: \"לפעמים אני הביץ', לפעמים המאמי הלאומית\"",
-      "link": "https://celebs.walla.co.il/item/3874054",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T05:00:00.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21779666",
       "title": "ציון 100 מהמבקרים, ציון 95 מהצופים: הסדרה הזו היא קסם קטן",
       "summary": "אחרי שזכתה לשבחים מקיר לקיר בבריטניה, \"נביאים קטנים\" הגיעה לאפל טיוי ומוכיחה שההתלהבות מוצדקת • יוצר הסדרה, מקנזי קרוק מ\"המשרד\", טווה אגדה פרברית קטנה על אובדן, בדידות וחברות בלתי צפויה • התוצאה מצחיקה, נוגעת ללב ומלאה באנושיות וקסם",
       "link": "https://www.israelhayom.co.il/culture/tv/article/21779666",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3874054",
+      "title": "כוכבת הישרדות: \"לפעמים אני הביץ', לפעמים המאמי הלאומית\"",
+      "summary": "כוכבת הישרדות: \"לפעמים אני הביץ', לפעמים המאמי הלאומית\"",
+      "link": "https://celebs.walla.co.il/item/3874054",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-05T05:00:00.000Z"
     },
     {
@@ -1445,19 +1553,19 @@
       "pubDate": "2026-11-04T22:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948561",
-      "title": "זמן להכרעה",
-      "summary": "כל עוד ישראל מזוהה עם נתניהו נתקשה לשפר את מעמדנו. ואם מישהו נזקק לסיבה נוספת לכך שאסור לו להמשיך כראש ממשלה, הרי זה הצורך הדחוף בשיקום דימויה של ישראל בארה\"ב",
-      "link": "https://www.ynet.co.il/news/article/yokra14948561",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948603",
+      "title": "מתחת למאבק המעמדי מבעבעת גם טינה ושנאה לישראל",
+      "summary": "מערכות בחירות אמצע כמעט אינן מוכרעות על מדיניות חוץ אלא על הכלכלה מבית. הפעם, הסיבה והתוצאה נקשרו לישראל. כשהכלכלה האמריקאית נפגעת ממחירי הדלק בגלל מלחמה במזרח התיכון הבוחר אינו סולח",
+      "link": "https://www.ynet.co.il/news/article/yokra14948603",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T22:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948603",
-      "title": "מתחת למאבק המעמדי מבעבעת גם טינה ושנאה לישראל",
-      "summary": "מערכות בחירות אמצע כמעט אינן מוכרעות על מדיניות חוץ אלא על הכלכלה מבית. הפעם, הסיבה והתוצאה נקשרו לישראל. כשהכלכלה האמריקאית נפגעת ממחירי הדלק בגלל מלחמה במזרח התיכון הבוחר אינו סולח",
-      "link": "https://www.ynet.co.il/news/article/yokra14948603",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14948561",
+      "title": "זמן להכרעה",
+      "summary": "כל עוד ישראל מזוהה עם נתניהו נתקשה לשפר את מעמדנו. ואם מישהו נזקק לסיבה נוספת לכך שאסור לו להמשיך כראש ממשלה, הרי זה הצורך הדחוף בשיקום דימויה של ישראל בארה\"ב",
+      "link": "https://www.ynet.co.il/news/article/yokra14948561",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T22:03:00.000Z"
@@ -34617,24 +34725,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-31T08:31:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383137",
-      "title": "נשיא פולין לא קיבל את המהלך בבית הדין - ובא בעצמו באמצע הלילה",
-      "summary": "נשיא פולין קרול נברוצקי הגיע באמצע הלילה לבית הדין החוקתי והתעמת עם שופטים בכניסה. בעקבות האירוע הודיע על התייעצויות דחופות עם המפלגות, על רקע המאבק עם ממשלת דונלד טוסק על מערכת המשפט",
-      "link": "https://www.maariv.co.il/news/world/article-1383137",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T08:21:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383137",
-      "title": "באמצע הלילה, מול המצלמות: נשיא פולין נקלע לעימות פיזי עם שופטים",
-      "summary": "נשיא פולין קרול נברוצקי הגיע באמצע הלילה לבית הדין החוקתי והתעמת עם שופטים בכניסה. בעקבות האירוע הודיע על התייעצויות דחופות עם המפלגות, על רקע המאבק עם ממשלת דונלד טוסק על מערכת המשפט",
-      "link": "https://www.maariv.co.il/news/world/article-1383137",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T08:21:11.000Z"
     }
   ]
 }
