@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:00:59.659Z",
+  "updatedAt": "2026-11-05T23:15:47.663Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1385512",
+      "title": "מסוק הועלה בבאקה אל גרבייה: בן 25 נרצח, שלושה נפצעו קשה",
+      "summary": "צעיר בן 25 נרצח הלילה לאחר שירי נשמע סביב השעה 21:30 בבאקה אל גרבייה, וארבעה נוספים נפצעו - שלושה במצב קשה. המשטרה פתחה בסריקות במטרה לאתר את החשודים, והעלתה מסוק לאוויר",
+      "link": "https://www.maariv.co.il/news/law/article-1385512",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T23:06:21.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skolpn00tfl",
       "title": "3 פעמים היא תיארה בדיוק מה הוא עשה לה. בפעם הרביעית היא נשבעה ששיקרה",
@@ -37119,24 +37128,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-10-31T23:18:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
-      "title": "דיווח: טראמפ ונתניהו שוחחו בצל האפשרות לתקיפה מחודשת באיראן",
-      "summary": "נשיא ארצות הברית וראש הממשלה שוחחו על רקע המתיחות עם איראן, כך דווח ב\"עיתון וול סטריט ג'ורנל\" • על פי גורמים המעורים בפרטי השיחה, טראמפ דן עמו בהיערכות האמריקנית לחידוש המתקפות",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T23:09:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
-      "title": "דיווח בארה\"ב: טראמפ ונתניהו שוחחו על רקע המתיחות עם איראן",
-      "summary": "נשיא ארצות הברית וראש הממשלה שוחחו על רקע המתיחות עם איראן, כך דווח ב\"עיתון וול סטריט ג'ורנל\" • על פי גורמים המעורים בפרטי השיחה, טראמפ דן עמו בהיערכות האמריקנית לחידוש המתקפות",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T23:09:29.000Z"
     }
   ]
 }
