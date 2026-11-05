@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:46:04.005Z",
+  "updatedAt": "2026-11-05T13:01:08.024Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/to14w3",
+      "title": "\"תשכרו עורכי דין\": הדמוקרטים מסתערים על הקונגרס - ופותחים במלחמה",
+      "summary": "אחרי הניצחון הדרמטי, הדמוקרטים הודיעו כי יפתחו בשורת חקירות נגד נשיא ארה\"ב דונלד טראמפ וממשלו בחשד לשחיתויות | \"תשכרו עורכי דין\", \"אנחנו מכינים לכם זימונים\", אמרו הדמוקרטים (חדשות)",
+      "link": "https://www.kikar.co.il/world-news/to14w3",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T12:58:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385325",
+      "title": "המסמכים הסודיים נחשפו: זה מה שרוסיה הבטיחה לאיראן",
+      "summary": "מסמכים רוסיים שנחשפו ב\"פייננשל טיימס\" מצביעים על עסקה לאספקת 90 משגרי טילים מתקדמים לאיראן, שיאפשרו למסוקי הקרב שלה לפגוע במטרות ממרחק של 14 ק\"מ. עם זאת, טרם אומת שהמשגרים יוצרו או נשלחו לטהרן",
+      "link": "https://www.maariv.co.il/news/world/article-1385325",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T12:55:16.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1385320",
       "title": "מנווטים את דרכם לצבא: כ-100 חניכי מכינות חרדיות סיימו שבוע שטח",
       "summary": "צעדה של כ-30 קילומטר ביום, קריאת מפות ועבודה בחוליות: עבור עשרות צעירים מהחברה החרדית המשתלבים במכינות הקדם-צבאיות, שבוע הניווטים בגבעות גורל היווה מפגש ראשון מסוגו עם אתגרי השטח הקשוחים של צה\"ל",
@@ -39,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-05T12:44:40.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383960227",
+      "title": "אישום חמור: קצין המודיעין אזק תיירת - ודרש מין תמורת סיוע",
+      "summary": "קצין מודיעין בתל אביב מואשם שעצר תיירת מקזחסטן ללא הצדקה, החזיק אותה שעות בתחנה ועקב אחריה לביתה. בהמשך קיים עמה יחסי מין והתנה סיוע בגביית חוב בקיום יחסי מין נוספים",
+      "link": "https://www.walla.co.il/news/law/383960227",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T12:40:56.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385317",
@@ -363,6 +390,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-05T11:36:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1385279",
+      "title": "המהנדס הטנזני שמע אזהרות על ישראל - ואז הוא נחת בנתב\"ג",
+      "summary": "משלחת מטנזניה הגיעה למטה אשר לחתימה על ברית ערים תאומות, במטרה לקדם שיתופי פעולה בחקלאות, בחינוך ובתיירות. דווקא אחרי שנות המלחמה, החיבור בין יישובי הגבול למחוז \"חי\" שבאפריקה מקבל משמעות סמלית",
+      "link": "https://www.maariv.co.il/news/israel/article-1385279",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T11:33:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1385279",
@@ -36300,78 +36336,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-10-31T13:03:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959465",
-      "title": "כך נערך צה\"ל לבלום פשיטה המונית מגבול ירדן",
-      "summary": "בזמן שאיראן לוטשת עיניים לממלכה, אוגדה 96 נערכת לסגור את הפירצה: כך משנים בצה״ל את כללי המשחק מול האיום בגבול ירדן",
-      "link": "https://www.walla.co.il/news/military/383959465",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-31T12:59:31.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383959465",
-      "title": "המבצר האחרון: כך נערך צה\"ל לבלום פשיטה המונית מגבול ירדן",
-      "summary": "בזמן שאיראן לוטשת עיניים לממלכה, אוגדה 96 נערכת לסגור את הפירצה: 15 אלף מילואימניקים חדשים בחטיבות בזק ומוצבי קו המים שקמים לתחייה. כך משנים בצה״ל את כללי המשחק מול האיום בגבול ירדן",
-      "link": "https://www.walla.co.il/news/military/383959465",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-10-31T12:59:31.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14941657",
-      "title": "אחדות של טועים",
-      "summary": "ממשלת אחדות לא חייבת להיות פשרה שנכפית על שני גושים שלא הצליחו להכריע זה את זה: היא יכולה לבטא נכונות של המחנה הלאומי להשתחרר מתלותו בחרדים ושל מחנה השינוי להכיר בצורך ברפורמה יסודית",
-      "link": "https://www.ynet.co.il/news/article/yokra14941657",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-31T12:54:09.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r19nzpqpge",
-      "title": "ימין על מלא",
-      "summary": "ב-1947 בהחלטת החלוקה וב-1979 בפינוי סיני המתנגדים היו מחנה הימין על מלא. כעת לגדי איזנקוט קיימת אפשרות להיכנס לספרי ההיסטוריה לצד בן גוריון ובגים",
-      "link": "https://www.ynet.co.il/news/article/r19nzpqpge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-31T12:51:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "title": "אחרי שערוריית שיפוט: 1:1 בין בית\"ר ירושלים לעירוני קריית שמונה",
-      "summary": "אלמוג כהן ראה את הניצחון הראשון בטדי העונה מתקרב משער של עדי יונה (42), אבל השופט הראשי דקל צינו החליט להעניק פנדל גבולי במיוחד בטענה לעבירה לאמאדו סנייה, שגם כבש מהנקודה הלבנה (90+5) • טימוטי מוזי ואלמוג כהן הורחקו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T12:50:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "title": "חי מליגת העל: בית\"ר ירושלים - עירוני קריית שמונה 0:1",
-      "summary": "מחזור 9: משחק קצבי בצהרי היום בטדי • עדי יונה ניצל הגבהה מדויקת של עומר אצילי כדי לנגוח מקרוב את היתרון של המארחת • האורחת, שנמצאת במשבר, מנסה לעקוץ במתפרצות • אלמוג כהן ינצח לראשונה העונה בטדי?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T12:50:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "title": "חי מליגת העל: בית\"ר ירושלים - עירוני קריית שמונה 0:0",
-      "summary": "אלמוג כהן רוצה ניצחון ראשון העונה בטדי ולעקוף זמנית את מכבי חיפה בטבלה • עדי יונה וירדן שועה בהרכב",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21744522",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T12:50:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21744635",
-      "title": "על הכתפיים: כתבת חדשות 12 כמו שלא ראיתם",
-      "summary": "כתבת הרווחה של חדשות 12 החליפה את הלבוש המחויט • יעל אודם תיעדה אותה רוקדת ונישאת על כתפיים • גם אדוה דדון וסולן התקווה 6 היו בחגיגה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21744635",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T12:48:14.000Z"
     }
   ]
 }
