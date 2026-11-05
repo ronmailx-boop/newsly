@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:46:04.117Z",
+  "updatedAt": "2026-11-05T12:00:59.416Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1385283",
+      "title": "עלייה בהשכלה, פערים בגירושין: תמונת מצב יוצאי אתיופיה",
+      "summary": "לקראת חג הסיגד, הלמ\"ס חושפת את תמונת המצב של יוצאי אתיופיה בישראל: כמעט 180 אלף תושבים, עלייה במספר מקבלי התארים האקדמיים ופערים בולטים בתחומי הרווחה, המשפט והמשפחה",
+      "link": "https://www.maariv.co.il/news/israel/article-1385283",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T11:57:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/to11pf",
+      "title": "מערכת חריגה עושה את דרכה לישראל: אלו האזורים שיקבלו הכי הרבה גשם",
+      "summary": "מזג אוויר חריג עושה בשעות אלו את דרכו לישראל ובמשטרה כבר מפרסמים הנחיות לקראת ההצפות והשיטפונות הצפויים | מה עושים כאשר כביש מוצף ולאן לא כדאי לנסוע | כל ההנחיות לסערה שבדרך (חדשות)",
+      "link": "https://www.kikar.co.il/news/to11pf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T11:52:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/real-estate/to1259",
+      "title": "מלווה משקיעים או מתווך במסווה? // יעקב רייניץ",
+      "summary": "אין פסול בתיווך, ואין פסול בשיווק פרויקטים. אבל יש הבדל מהותי בין מתווך שמנסה לחבר אתכם לעסקה לבין מלווה שאמור לבחון את התמונה כולה, לנתח את הצרכים שלכם, להשוות בין חלופות ולעיתים אפילו לומר לכם שלא כדאי לקנות כרגע (נדל\"ן)",
+      "link": "https://www.kikar.co.il/real-estate/to1259",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T11:52:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91002",
+      "title": "פועל נפגע ממלגזה באשקלון - מצבו בינוני",
+      "summary": "פועל כבן 30 נחבל בראשו ובגפיו כתוצאה מפגיעת מלגזה במהלך עבודתו במפעל ברחוב חוצות היוצר באשקלון. חובשי איחוד הצלה ברני דב מלאכי ובטי עמר העניקו לו טיפול רפואי ראשוני בזירה, ולאחר מכן פונה לבית החולים סורוקה במצב בינוני ויציב.",
+      "link": "https://www.kikar.co.il/scoop-news/91002",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-05T11:50:41.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-white-house-deadlock",
       "title": "מכה בכנף: המבוך בבית הלבן בדרך להכרעת משמרות המהפכה",
@@ -282,6 +318,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-05T11:16:32.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960214",
+      "title": "בלתי ניתנת להחלפה: מי תגלם את שרה? השם המפתיע שעל הפרק",
+      "summary": "ההצגה על חיי נתניהו עוד רחוקה מהבמה, אבל הסערה כבר החלה. המפיק אסי סתיו חושף מי רוצה לגלם את רה\"מ, השם המפתיע לתפקיד שרה והתגובות: \"מצד אחד נשיקות, מצד שני סכינים\"",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960214",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-05T11:15:49.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/to10g7",
@@ -36075,15 +36120,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-31T12:04:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21744559",
-      "title": "גארד מהליגה האיטלקית מועמד למכבי תל אביב | פרסום ראשון",
-      "summary": "בצל הסכנה שעסקת קיליאן הייז תיפול, הצהובים סימנו שם נוסף לחיזוק הקו האחורי • דריוס בראון, שעבר הקיץ מליגת הפיתוח לטרנטו מארץ המגף, רושם 15.4 נקודות למשחק ביורוקאפ",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21744559",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T11:59:42.000Z"
     }
   ]
 }
