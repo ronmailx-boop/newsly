@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:31:03.630Z",
+  "updatedAt": "2026-11-05T20:45:58.455Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1csjv5afg",
+      "title": "בריכות בחצר ושלטים בעברית: היהודים שעברו לפאתי יריחו - והביקורת בצה\"ל",
+      "summary": "הילדים עדיין ללא מסגרות (\"מעסיקים את עצמם\"), הדרכים משובשות, וההגעה רק בליווי חיילים - אבל המשפחות שנכנסו לגור ב-8 בתים בשטח C \"לא חוששות\". \"מרגישים חלק מההיסטוריה\", סיפרה תחיה. בצבא מתחו ביקורת על חוסר התיאום והצורך בהסטת הכוחות, אך ממשיכים ללוות את המתיישבים: \"צה\"ל שומר עלינו\"",
+      "link": "https://www.ynet.co.il/news/article/b1csjv5afg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-05T20:39:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1385492",
+      "title": "הברית הים תיכונית מתהדקת - ושולחת מסר לטורקיה: \"ההסכם לא מחייב\"",
+      "summary": "הברית הים תיכונית בין ישראל, יוון וקפריסין מתהדקת: נציגי משרדי הביטחון נפגשו באתונה לדון בהרחבת שיתוף הפעולה הביטחוני, ובמקביל שיגרו מסר חד לטורקיה בנוגע לזכויות הימיות באזור",
+      "link": "https://www.maariv.co.il/news/military/article-1385492",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T20:33:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21791971",
+      "title": "\"לנתניהו אין מנדט\": הביקורת המרומזת של איזנקוט על הרצוג",
+      "summary": "בתום סבב ההתייעצויות בבית הנשיא, יו\"ר המפלגה זכה לתמיכת 67 ממליצים - המספר הגבוה ביותר למועמד מאז 2015 • בתנועה קוראים להטיל עליו את מלאכת הרכבת הקואליציה בהקדם ולהקים ממשלת חירום לאומית • במקביל תקפו את נתניהו: \"אין לו רוב ואין לו את אמון העם\", והזהירו מפני הידרדרות לבחירות נוספות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21791971",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T20:15:51.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1385480",
       "title": "לקראת מלחמה אפשרית מול איראן: בפיקוד העורף נערכים",
       "summary": "בפיקוד העורף ערכו לאחרונה דיון כיצד לדרוך את הציבור הישראלי בתרחיש של תחילת מלחמה באיראן. בכל אחד מהמקרים, בוצעה הדריכה באופן שונה בהתאם למהלך שנוצר",
@@ -43,7 +70,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjoowp9azg",
       "title": "שני נרצחים ולפחות 6 פצועים קשה בערב של ירי ודקירות ברחבי ישראל",
-      "summary": "",
+      "summary": "דקה אחר דקה מערב של אלימות: שתי זירות ירי בבאקה אל גרבייה, שם נרצח גבר ושלושה נפצעו קשה. יוסף חמאד בן ה-22 נרצח בטמרה. פצועים קשה ובינוני גם בקלנסווה, כפר קאסם, חדרה וחולון",
       "link": "https://www.ynet.co.il/news/article/rjoowp9azg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +84,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T20:08:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1385481",
+      "title": "במפלגת \"ישר!\" מגיבים לרגב: \"לא יפה לשקר לנשיא בפנים\"",
+      "summary": "במהלך סבב ההתייעצויות של הנשיא עם המפלגות, הגיעה סיעת הליכוד והשרה רגב שוחחה עם הרצוג. במהלך דבריה, טענה כי מפלגתו של איזנקוט השמיטה את ארבעת התנאים להקמת ממשלה - ובמפלגת \"ישר!\" מיהרו להגיב",
+      "link": "https://www.maariv.co.il/news/politics/article-1385481",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-05T20:08:15.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385481",
@@ -300,6 +336,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-05T18:37:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21791405",
+      "title": "חי מהיורוליג: הפועל תל אביב - ברצלונה 73:64",
+      "summary": "האדומים כבר הובילו בפער דו ספרתי ברבע הראשון, אלא שהספרדים השלימו ריצת 6:24 מטורפת וברחו ליתרון משלהם • אלייז'ה בראיינט מוביל, ג'סטין רובינסון ודריו בריזואלה מככבים בצד השני",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21791405",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-05T18:35:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21791405",
@@ -37029,42 +37074,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-10-31T20:48:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383304",
-      "title": "דיווח: איש מוסד לשעבר סייע לבנו של בולסונארו להימלט מברזיל - הפרטים שנחשפו",
-      "summary": "איש מוסד לשעבר שהתאזרח בארה\"ב הגיע לברזיל שישה ימים לפני הבחירות וליווה את בנו של הנשיא לשעבר עד לגבול. לפי ממצאי החקירה, הוא שהה עמו ברכב בעת חציית הגבול לארגנטינה. כך דיווחה רשת CNN ברזיל",
-      "link": "https://www.maariv.co.il/news/world/article-1383304",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T20:42:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383307",
-      "title": "ארה\"ב שוב מזהירה את רוסיה - בפעם הקודמת נרצחו 145 בני אדם",
-      "summary": "ארה\"ב מזהירה מפני פיגוע רב-נפגעים אפשרי באתר מוכר במוסקבה, ורוסיה מאשרת שקיבלה את המידע ונערכת בהתאם. המתחם נסגר זמנית, וברקע מרחפת האזהרה האמריקנית שקדמה לטבח ב־2024",
-      "link": "https://www.maariv.co.il/news/world/article-1383307",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-10-31T20:41:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21747276",
-      "title": "זָרוּת: האם אפשר לכתוב מחדש את הסיפור",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/opinions/article/21747276",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-10-31T20:41:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b10udhqtfl",
-      "title": "איזנקוט \"הולך בכל הכוח\" על החרדים - בזמן שבליכוד מחפשים עריקים",
-      "summary": "הקרב הראשון בכנסת: בגוש השינוי מתכננים את החלפת אוחנה בישיבה הראשונה שאחרי ההשבעה, ובליכוד מנהלים קרב בלימה. בתוכנית: דה-לגיטימציה למפלגות הערביות ואיתור מתנדנדים. בינתיים נמשכים מאמצי הרכבת הממשלה, ועל הכוונת של איזנקוט - החרדים. \"מכבש הלחצים\" על ליברמן - והמועמדים לתפקיד החשוב",
-      "link": "https://www.ynet.co.il/news/article/b10udhqtfl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-10-31T20:37:52.000Z"
     }
   ]
 }
