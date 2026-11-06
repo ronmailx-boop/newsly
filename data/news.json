@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:00:58.499Z",
+  "updatedAt": "2026-11-06T21:15:51.519Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960375",
+      "title": "טוב מאוחר מאף פעם: הגשם מגיע - ואיתו ההצפות",
+      "summary": "מיני חורף צפוי לפקוד את ישראל בסוף השבוע, עם גשמים, סופות רעמים, רוחות ערות וירידה בטמפרטורות. קיים חשש להצפות לאורך מישור החוף ולשיטפונות בנחלי מדבר יהודה וים המלח. הגשמים צפויים להימשך עד יום ראשון",
+      "link": "https://www.walla.co.il/news/israel/383960375",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T21:06:22.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hkxeg3stge",
       "title": "הבכיר היהודי שהוביל את המאבק בהגירה: זה סטיבן מילר - האיש החזק החדש בבית הלבן",
@@ -93,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T19:43:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 35:50",
+      "summary": "מחזור 10: עודד קטש פתח עם טי ג'יי ליף וארמנדו בייקוט בחמישייה, המארחת ניצלה זאת וצלפה לשלוש בדרך ליתרון דו ספרתי • ים מדר עלה מהספסל וצמצם את הפער, אך למאר סטיבנס הוביל אותה בחזרה ל-15 הפרש במחצית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T19:38:04.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
@@ -1632,6 +1650,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-06T09:47:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21793464",
+      "title": "עדי ואסי בוזגלו במחלוקת: \"הוא מתלונן הרבה\"",
+      "summary": "אחרי הפסקה, אסי בוזגלו גילה מחדש את הסטורי של אשתו עדי, אבל דווקא אז התחילו הבעיות, עם הערות שלו לגבי התכנים שהיא מעלה: \"זה לא טוב\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21793464",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T09:45:11.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21793464",
@@ -33195,105 +33222,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T21:25:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21756303",
-      "title": "ישראל תקרין סרט תחקירי נוקב באו\"ם: \"אונר\"א - זרוע ארוכה של חמאס\"",
-      "summary": "משלחת ישראלית תקרין באו\"ם סרט תיעודי הבוחן את השחיתות והקשרים של הארגון לטרור, בסוכנות הפליטים הפלסטינים • דנון: \"האמת יוצאת לאור\" • במקביל, מקורות מסרו ל\"היום\" כי מתגבשת תכנית לסגירה הדרגתית של אונר\"א - והעברת סמכויותיה למועצת השלום בעזה וביו\"ש",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21756303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T21:14:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21756303",
-      "title": "ישראל תקרין סרט תחקיר נוקב באו\"ם: \"אונר\"א - זרוע ארוכה של חמאס\"",
-      "summary": "משלחת ישראל תקרין באו\"ם סרט תחקיר תיעודי הבוחן את השחיתות והקשרים של הארגון לטרור, בסוכנות הפליטים הפלסטינים • דנון: \"האמת יוצאת לאור\" • במקביל, מקורות מסרו ל\"היום\" כי מתגבשת תכנית לסגירה הדרגתית של אונר\"א - והעברת סמכויותיה למועצת השלום",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21756303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T21:14:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21756369",
-      "title": "אחרי ההצגה בדרבי: הפרס של איטודיס לשחקני הפועל תל אביב",
-      "summary": "מאמן האדומים הודיע כי השחקנים יקבלו יום חופש: \"אני מרוצה מהרבה דברים, ובעיקר מכך שנתנו את הטון מההתחלה\" • וסיליה מיציץ' שקלע 9 שלשות: \"אני מאחל לים מדר רק טוב\" • עודד קטש לא התראיין",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21756369",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T21:13:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21756369",
-      "title": "אחרי ההצגה בדרבי: הפרס של דימיטריס איטודיס לשחקני הפועל תל אביב",
-      "summary": "מאמן האדומים הודיע כי השחקנים יקבלו יום חופש: \"אני מרוצה מהרבה דברים, ובעיקר מכך שנתנו את הטון מההתחלה\" • וסיליה מיציץ' שקלע 9 שלשות: \"אני מאחל לים מדר רק טוב\" • עודד קטש לא התראיין",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21756369",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T21:13:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tnucd5",
-      "title": "פסק דין חריג: נוסעות ארקיע קיבלו פיצוי שבכלל לא ביקשו",
-      "summary": "אם ובתה שתבעו את ארקיע בעקבות ביטול טיסה זכו לפיצוי בבית המשפט לתביעות קטנות, אלא שהחברה ערערה והמחוזי קבע כי הפיצוי נפסק על עילה שלא הופיעה בתביעה (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tnucd5",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:06:51.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjv31bs6gg",
-      "title": "המניע של סולברג להצהרה המאוחרת, התמיכה של זיני - ו\"המחלוקת בשב\"כ\"",
-      "summary": "חלפו 3 ימים מחשיפת החשדות להשפעה זרה על הבחירות, עד שסולברג פנה לציבור לראשונה בקולו. מדובר ביוזמה שלו, בין היתר על רקע קמפיין \"גניבת הבחירות\" של הליכוד, שם מתכוננים לערער רשמית על התוצאות אחרי שיוגשו. תוכן ההצהרה מקובל על ראש השב\"כ, שלפי דיווח ב\"כאן חדשות\" ביקש להפעיל אמצעים נוספים לבדיקת החשדות - אך נתקל בהתנגדות של בכירים בשירות",
-      "link": "https://www.ynet.co.il/news/article/rjv31bs6gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T21:06:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnucid",
-      "title": "הערכה על עמידתו האיתנה; גדולי ישראל הגיעו לחזק את ראש הישיבה הגר\"מ צדקה",
-      "summary": "בשמחת שבע ברכות שנערכה לרגל נישואי נכד ראש הישיבה, הגאון רבי משה צדקה, השתתפה שורה מכובדת של רבנים וגדולי תורה | בלטה בהשתתפותם של הגה\"צ רבי יעקב מאיר שכטר, זקן רבני ברסלב, והאדמו\"ר ממשכנות הרועים, שהגיעו להביע הערכה עמוקה לראש הישיבה על עמידתו האיתנה במערכה על משמרת הדת וגזירת הגיוס (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tnucid",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:05:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90310",
-      "title": "6 נפגעים בתאונה בין שני רכבים בפתח תקווה",
-      "summary": "גבר כבן 50 נפצע באורח בינוני וחמישה נוספים נפצעו קל בתאונה בין שני כלי רכב ברחוב היצירה בפתח תקווה. צוותי איחוד הצלה העניקו טיפול רפואי ראשוני בזירה לנפגעים.",
-      "link": "https://www.kikar.co.il/scoop-news/90310",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:05:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90309",
-      "title": "שיא היסטורי: יותר ח\"כים ערבים מח\"כים חרדים בכנסת ה-26",
-      "summary": "לראשונה בתולדות המדינה יש בכנסת יותר חברי כנסת ערבים מהמפלגות הערביות מאשר חברי כנסת חרדיים במפלגות החרדיות. ההרכב הנוכחי: 17 ח\"כים ערבים לעומת 13 ח\"כים חרדיים. בעבר היו כנסות עם שוויון בין שתי הקבוצות, אך מעולם לא נרשם פער כזה.",
-      "link": "https://www.kikar.co.il/scoop-news/90309",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:05:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnucs5",
-      "title": "\"דיברנו על איראן\": הלחץ שהפעיל נתניהו על טראמפ מאחורי הקלעים",
-      "summary": "בשיחה \"קשה וישירה\" בין השניים, נתניהו הפציר בנשיא האמריקני לשוב לתקיפות באיראן לאחר בחירות האמצע, בעוד טראמפ מעדיף להמשיך במגעים הדיפלומטיים עם טהרן ולבחון את האפשרות להסכם (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tnucs5",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:03:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/secret-base-mystery-iran-air-force-underground",
-      "title": "תעלומת הבסיס הסודי באיראן: כך חיל האוויר שורד מתחת לאדמה",
-      "summary": "בסיס עיט 44 חצוב בהרי הזגרוס ומאכסן מטוסי קרב בתוך מנהרות • ספג תקיפות חוזרות אך איראן ממשיכה לשקם | האסטרטגיה התת-קרקעית (גיאופוליטיקה)",
-      "link": "https://www.kikar.co.il/world-news/secret-base-mystery-iran-air-force-underground",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T21:03:51.000Z"
     }
   ]
 }
