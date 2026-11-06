@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:31:04.320Z",
+  "updatedAt": "2026-11-06T12:45:57.987Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/opinions/383960292",
+      "title": "קודם תיקחו את הכנסת. אחר כך נישא כולנו בתוצאות",
+      "summary": "לשבת ערבים, עם חרדים, גם וגם - ואפילו ממשלת אחדות היא אפשרות. הגיע הזמן לפעול",
+      "link": "https://www.walla.co.il/news/opinions/383960292",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T12:36:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sklb9njpgg",
+      "title": "מס' 10 בישראל ביתנו נגד ‏התקפלות ליברמן: \"אאבק נגד פטור מגיוס - גם כאזרח\"",
+      "summary": "דן אילוז תקף את יו\"ר מפלגתו החדשה בעקבות נכונותו להתפשר עם החרדים. גם הנדל יצא נגד ליברמן: \"אם אתם מוכנים לקדם השתמטות המונית בשביל שלטון - במה אתם שונים מסמוטריץ' ונתניהו?\". יעקב אשר בירך על הגמישות בגוש השינוי",
+      "link": "https://www.ynet.co.il/news/article/sklb9njpgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T12:29:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21794374",
+      "title": "עדן פינס אחרי החתונה: \"אנשים באים ונוגעים לי בבטן\"",
+      "summary": "חודשים ספורים אחרי החתונה המתוקשרת, פינס מגלה שהסביבה כבר מצפה ממנה לצעד הבא • גם אנשים שאינה מכירה באופן אישי מרגישים בנוח להעיר לה • \"בת כמה את, תתקדמי\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21794374",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T12:25:57.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21794351",
       "title": "גשמים, רוחות ושלג בחרמון: מתי הסערה תגיע לשיאה?",
       "summary": "המשקעים יתחזקו במהלך השבת במישור החוף ובשפלה, ובחרמון צפוי לרדת שלג • קיים חשש להצפות בערים ולשיטפונות בנחלי המזרח והדרום",
@@ -39,6 +66,24 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T12:13:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960234",
+      "title": "עשרות התרעות על מטעני חבלה: מי משבש את השמיים באירופה?",
+      "summary": "מרומא וסופיה ועד ורשה ופראג: עשרות קווי תעופה נכללו בגל התרעות אנונימיות על הטמנת מטעני חבלה, שהביא להסטות ולהזנקת מטוסי קרב. מי עומד מאחורי האיומים - והאם יש קשר ביניהם?",
+      "link": "https://www.walla.co.il/news/world/383960234",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T12:13:23.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383960302",
+      "title": "20,000 יהודים ייכנסו לחברון, מערכת הביטחון בכוננות שיא",
+      "summary": "מערכת הביטחון נערכת לשבת \"חיי שרה\" בכוחות מתוגברים, מחשש לפיגועי בודדים, פעילות תשתיות טרור וחיכוך בין ישראלים לפלסטינים. צה\"ל השלים תרגיל רחב היקף המדמה אירועי קיצון",
+      "link": "https://www.walla.co.il/news/military/383960302",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T12:08:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/dan-illouz-against-draft-law-compromise",
@@ -93,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-06T11:40:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21794151",
+      "title": "חי מליגת העל: מכבי תל אביב - מכבי פתח תקווה 0:1",
+      "summary": "הצהובים רוצים להבטיח את הפסגה לפני המפגש בין הפועל באר שבע להפועל תל אביב • סיסוקו חזר להרכב וסיפק בישול נהדר ליחזקאל (19)",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21794151",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T11:38:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21794151",
@@ -606,6 +660,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-06T09:28:38.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960322",
+      "title": "ליברמן הפר את הבטחת הבחירות, נתניהו פתח בסבב שיחות",
+      "summary": "ליברמן הפר את הבטחת הבחירות, נתניהו פתח בסבב שיחות",
+      "link": "https://www.walla.co.il/news/politics/383960322",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T09:24:36.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960322",
@@ -35319,87 +35382,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T12:46:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21751643",
-      "title": "חודשיים וחצי אחרי החתונה: ההחלטה של ענבל ביבי",
-      "summary": "זמן קצר לאחר שנישאה לרועי קורנבלום, הזמרת משתפת בהתפתחות חדשה בחייה • שאלה תמימה שהופנתה אליה באינסטגרם הובילה לגילוי על צעד משמעותי שקיבלה לאחרונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21751643",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:45:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tntpmf",
-      "title": "שמחת בית עטרת ישראל - חברון | המונים השתתפו בשמחת נישואי צאצאי ראשי הישיבות",
-      "summary": "קהל רב נטל חלק בשמחת נישואי החתן, נכדו של הגאון רבי בן ציון אזרחי ראש ישיבת 'עטרת ישראל', בן לבנו רבי חיים לייב אזרחי, עם הכלה נכדת הגאון רבי דוד כהן ראש ישיבת חברון וחבר מועצת גדולי התורה, בת לבנו רבי משה כהן | צפו בגלריה של הצלם שוקי לרר (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tntpmf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T12:43:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21751666",
-      "title": "הגיע הרגע: ולארי חמאתי נשואה",
-      "summary": "היום היא תינשא לבשארה נג'אר, אבל עוד לפני הכנסייה ואלרי חמאתי מספקת את הרגע שחיכה לו מדור הסלבס: שמלת הכלה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21751666",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:37:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21751666",
-      "title": "שעות בודדות לפני החתונה: ואלרי חמאתי בלבן",
-      "summary": "היום היא תינשא לבשארה נג'אר, אבל עוד לפני הכנסייה ואלרי חמאתי מספקת את הרגע שחיכה לו מדור הסלבס: שמלת הכלה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21751666",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:37:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tntn04",
-      "title": "סערת הבובות: הפוסק מ'מנחת יצחק' יוצא נגד צעצועי הילדים והוויטרינות",
-      "summary": "פסק הלכה מעניין מעורר דיון נרחב בבתי ההוראה: הגאון רבי חיים אהרן בלייער יוצא באזהרה חריגה סביב איסור עשיית צורת אדם וצעצועי ילדים • אילו בובות אסורות בהחלט בשהייה בבית, מה דינן של בובות הכסף בויטרינה, ומה הפתרון המהודר? (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tntn04",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T12:36:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21751407",
-      "title": "כדי למנוע עליית מחירים: רשות התחרות התערבה בעסקת הענק",
-      "summary": "המיזוג בין קימברלי־קלארק לקנביו אושר רק בתנאי שהפעילות בישראל בתחום ההיגיינה הנשית תימכר לגורם עצמאי • הבדיקה העלתה כי ללא המהלך היו נותרות בשוק שתי שחקניות מרכזיות בלבד, עם חשש לפגיעה בצרכניות",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21751407",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:33:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21751520",
-      "title": "עם מצעים ביד: אורלי ויינרמן ברחובות תל אביב",
-      "summary": "מי שהייתה מהכוכבות הבולטות של תחילת שנות האלפיים תועדה הבוקר במרכז העיר, כשהיא אוחזת בתיק, שקיות ומצעים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21751520",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:32:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21751140",
-      "title": "\"הייתי צריך לקבל יותר דקות במכבי תל אביב\"",
-      "summary": "אורן סהר מסביר את המעבר הקיץ מהאלופה למכללת פפרדיין, במדיה יתחיל מחר את העונה • על התקופה בבוגרים של מכבי: \"זו הייתה אחת השנים הכי כיפיות שהיו לי\" • על השאיפות האישיות: \"לא רוצה לסיים את הקריירה ולומר 'יכולתי להגיע יותר רחוק'\" • ועל הבית החדש: \"מקום שכיף להיות בו. אני יודע שאני מסוגל להיות שחקן מרכזי בקבוצה\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21751140",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:32:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21751603",
-      "title": "ביונד אויל מרחיבה פעילות בארה\"ב: תטמיע טכנולוגיית ברשת מסעדות",
-      "summary": "חברת הפודטק הישראלית חתמה על הסכם עם רשת Duchess האמריקאית, המפעילה 11 מסעדות בקונטיקט, לאחר פיילוט שהחל ב-2025 • ההסכם מצטרף לשיתוף פעולה עם רשת נוספת המונה כ-200 מסעדות • החברה צופה גידול של 32% בהכנסות ב-2026",
-      "link": "https://www.israelhayom.co.il/business/article/21751603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T12:31:57.000Z"
     }
   ]
 }
