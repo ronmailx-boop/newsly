@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:30:55.941Z",
+  "updatedAt": "2026-11-06T19:45:46.583Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjffncoagl",
+      "title": "דיפלומט ישראלי ראשון בוועדה לביקורת האו\"ם: \"הישג חשוב\"",
+      "summary": "שי מזרחי, ראש החטיבה לביקורת השלטון המקומי במשרד מבקר המדינה, מונה לכהונה של שלוש שנים בגוף המשנה לעצרת הכללית של האו\"ם. השגריר דנון: \"דווקא בתקופה שבה ישראל מתמודדת עם ניסיונות להדרה ולדה-לגיטימציה\"",
+      "link": "https://www.ynet.co.il/news/article/bjffncoagl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T19:34:30.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385705",
       "title": "טלטלה בממשל: טראמפ מחליף את האישה החזקה בבית הלבן",
@@ -93,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T18:57:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21795755",
+      "title": "דני קושמרו מתנצל בפני תושבי אופקים: \"לא הייתה כוונה\"",
+      "summary": "אחרי הסערה שפרצה בעקבות דבריו על תושבי אופקים, מגיש החדשות פנה אליהם בשידור • \"הדרום הוא חלק ממני, הוא המשפחה שלי, הוא הלב שלי\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21795755",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T18:51:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21795755",
@@ -33474,60 +33492,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-01T19:46:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21755905",
-      "title": "אחרי ביג גלילות: הרשת הענקית מצטרפת למועדון היוקרתי",
-      "summary": "חנות הדגל החדשה של מותג מוצרי החשמל מצטרפת למועדון הלקוחות של קבוצת האופנה הגדולה, וכעת אפשר לצבור בה נקודות ולממש אותן • כמה אחוזים אפשר לקבל בחזרה, ומי זכאי לצבירה הגבוהה",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21755905",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T19:41:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90298",
-      "title": "גבר בן 36 נפצע בינוני באירוע אלימות באור עקיבא",
-      "summary": "גבר בן 36 נפצע באורח בינוני באירוע אלימות ברחוב עליזה יאנסן באור עקיבא. צוותי איחוד הצלה העניקו לו טיפול רפואי ראשוני בזירה, והוא פונה לבית החולים הלל יפה בחדרה להמשך טיפול במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90298",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T19:40:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tnu8w6",
-      "title": "בעקבות מעצר החתן הטרי: עשרות מפגינים חוסמים את הרכבת הקלה",
-      "summary": "עשרות מפגינים חסמו את הרכבת הקלה בירושלים בעקבות מעצרו של חתן טרי בעיצומם של ימי השבע ברכות (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tnu8w6",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T19:38:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21755644",
-      "title": "הבית הלבן קרוב להכרעה: הסיכויים לתקיפה באיראן גדלים",
-      "summary": "גורם מדיני בכיר אמר ל\"היום\" כי ההיערכות בוושינגטון הושלמה, לרבות תיאום מול ישראל • בבית הלבן בוחנים במקביל מו\"מ להפסקת אש בתיווך קטאר, טורקיה ופקיסטן • במפרץ מבהירים: \"נשלם מחיר - רק אם היעד הוא הפלת המשטר\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21755644",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T19:37:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21755144",
-      "title": "צה”ל השתמש באיכון טלפוני כדי לעצור את העריק החתן",
-      "summary": "לאחר שניסיון מעצר בביתו נכשל, הצבא נקט בצעד חריג וביצע מעקב סלולרי כדי לאתר את הצעיר • גורמים צבאיים אישרו את פרטי הפעולה, אך המשטרה מתנערת: \"הצעד לא בוצע על ידינו\" • מדוע בחרו בצבא להפעיל כלי טכנולוגי כזה ולשתוק",
-      "link": "https://www.israelhayom.co.il/news/local/article/21755144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T19:34:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21755751",
-      "title": "אוהד בוזגלו הכריז מלחמה על אדוה דדון: \"תמתיני\"",
-      "summary": "העיתונאית החלה לבדוק פרסומים על כוכב הריאליטי במסגרת תחקיר שהיא מכינה, והתגובה שקיבלה ממנו לא איחרה להגיע • היא חשפה חלק מההתכתבות ביניהם והגיבה בעקיצה • ומה היא עונה לו על הבדיקה שהיא לא מתכוונת לעצור",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21755751",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T19:34:11.000Z"
     }
   ]
 }
