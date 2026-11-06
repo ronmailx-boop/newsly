@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:45:47.251Z",
+  "updatedAt": "2026-11-06T09:00:59.234Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/police-shabak-election-investigation-coordination",
+      "title": "ראש אח\"מ הורה לשוטרים: אין לסייע לשב\"כ בפרשת הבחירות ללא אישורי",
+      "summary": "ראש אגף החקירות הנחה שוטרים להפנות אליו כל בקשת סיוע של שב\"כ בפרשת הבחירות • ברקע: מחלוקת בין הגופים סביב העברת מידע ודרישת ראש שב\"כ לחקור ראשי מפלגות ערביות | \"כל בקשה באשר היא - יש להפנות אליי\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/police-shabak-election-investigation-coordination",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-06T08:59:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1385592",
+      "title": "ליברמן מוותר על הבטחת הבחירות: גוש השינוי בדרך להרכבת ממשלה",
+      "summary": "יו\"ר מפלגת \"ישראל ביתנו\" פרסם ציוץ ברשת X שבו הוא מצהיר ש\"מותר ורצוי להתגמש ולהתפשר\" - כדי להשיג את הרכבתה של ממשלה בלי נתניהו",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1385592",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T08:58:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385588",
+      "title": "השגריר לשעבר על נתניהו: \"אם יישאר בתפקיד, הסיכוי לשפר את היחסים עם ארה\"ב אפסי\"",
+      "summary": "שגריר ישראל לשעבר בארצות הברית, מייקל אורן, מתח ביקורת חריפה על ראש הממשלה בנימין נתניהו, אך הבהיר כי גם החלפתו לא תספיק בהכרח לשיקום היחסים עם וושינגטון",
+      "link": "https://www.maariv.co.il/news/world/article-1385588",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T08:54:04.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385590",
+      "title": "טלטלה בטורקיה: שרה לשעבר בממשלת ארדואן נעצרה בחשד להונאת מניות בהיקף עשרות מיליוני דולרים",
+      "summary": "פאטמה בטול סאיאן קאיה נעצרה במסגרת חקירה נרחבת של חשדות למניפולציות בשוק ההון ולשימוש במידע פנים. על פי החשד, היא מכרה מניות של חברת ספנות טורקית - יום אחד בלבד לפני פירוק קרנות השקעה בפרשה",
+      "link": "https://www.maariv.co.il/news/world/article-1385590",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T08:45:40.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/politics/383960319",
       "title": "ליברמן מוותר על הבטחת הבחירות: \"נתפשר על חוק הגיוס\"",
       "summary": "יו\"ר ישראל ביתנו מוכן להתגמש גם בסוגיה המרכזיות בקמפיין שלו, ואמר כי יקים ממשלה עם החרדים",
@@ -48,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-06T08:39:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383960318",
+      "title": "מי שולט בחקירת שוחד הבחירות? הניצב שמציב גבולות לשב\"כ",
+      "summary": "יממה בלבד לאחר שהצוות המשותף לשב”כ ולמשטרה התכנס לראשונה, ניצב בועז בלט הורה לאנשיו שלא להיענות לבקשות סיוע של שירות הביטחון ללא אישורו. ברקע: המחלוקת בין ראש השב”כ ליועמ”שית על סמכויות החקירה",
+      "link": "https://www.walla.co.il/news/law/383960318",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T08:36:11.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/cyclist-killed-police-vehicle-route-3-bakua-latrun",
@@ -165,6 +210,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T08:14:22.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875206",
+      "title": "באנגליה מאשימים את סולומון: \"אחת הסיבות לפיטורי המאמן\"",
+      "summary": "בטור ביקורתי באתר אוהדי ווסטהאם נטען שההתעקשות של נונו אספיריטו סנטו על הקשר הביאה לעזיבתו: \"הוא פלופ, חסר מהירות ועוצמה\"",
+      "link": "https://sports.walla.co.il/item/3875206",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T08:14:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21793189",
@@ -36408,132 +36462,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-01T09:03:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tntfc6",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/tntfc6",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T09:00:29.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383959631",
-      "title": "בנס נמנעה שפיכות דמים: כשאבי שושן שבר את השיא הכי מסריח",
-      "summary": "\"הישרדות\" של אמש הבהירה: שבטים יש שניים, מתמודדים יש עשרים, אבל התכנסנו כאן אך ורק ורק ואך בשביל אחד שושן, שפשוט אין בלתו",
-      "link": "https://www.walla.co.il/entertainment/tv/383959631",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T08:58:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383419",
-      "title": "20 מטוסי קרב מחכים ברוסיה: ההודאה הדרמטית של איראן",
-      "summary": "צבא איראן מאשר לראשונה כי עסקת מטוסי הסוחוי 35 עם רוסיה הושלמה, אך מסירתם נדחתה עד לאחר המלחמה. ברקע האפשרות לחידוש התקיפות האמריקאיות, בטהרן מצפים לשדרוג משמעותי של חיל האוויר",
-      "link": "https://www.maariv.co.il/news/world/article-1383419",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T08:57:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383419",
-      "title": "איראן מחכה לחבל הצלה מרוסיה: \"אחרי המלחמה, אם ירצה השם\"",
-      "summary": "צבא איראן מאשר לראשונה כי עסקת מטוסי הסוחוי 35 עם רוסיה הושלמה, אך מסירתם נדחתה עד לאחר המלחמה. ברקע האפשרות לחידוש התקיפות האמריקאיות, בטהרן מצפים לשדרוג משמעותי של חיל האוויר",
-      "link": "https://www.maariv.co.il/news/world/article-1383419",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T08:57:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21749610",
-      "title": "יום אחרי שחגג 56: תפסנו את איציק זוהר",
-      "summary": "אחרי יום ההולדת הגיע תורו של צלם ForReal. זוהר נתפס יוצא מחנות למוצרי שיער, ובהמשך הערב צפויה לו חגיגה נוספת עם חברים",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21749610",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T08:57:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1383418",
-      "title": "טראמפ יכפה ממשלת אחדות? גיא בוסי בהצהרה דרמטית: \"אומר את זה מידיעה\"",
-      "summary": "גיא בוסי טען ב-103fm כי אנשי טראמפ פועלים להקמת ממשלת אחדות בישראל ואף הציג מתווה לרוטציה. רונן צור הזהיר כי מלחמה נוספת עשויה להקפיא את המגעים הפוליטיים ולשנות את התמונה",
-      "link": "https://www.maariv.co.il/news/politics/article-1383418",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T08:56:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21749349",
-      "title": "לירז צ'רכי שלחה מסר חד משמעי לאבי שושן",
-      "summary": "רייטינג: חשיפת הבצל ב\"הזמר במסכה\" העניקה לקשת 12 ניצחון בפריים טיים עם 15.3% מול 12.9% ל\"הישרדות\" • חדשות 12 דרסה בחדשות בעוד ערוץ 14 נדחק למקום השלישי",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21749349",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T08:55:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21749390",
-      "title": "אוכלים חופן בוטנים ביום? זה מה שקורה למוח שלכם",
-      "summary": "מחקר חדש בדק מה מחוללת צריכה יומיומית של הפיצוח הפופולרי במשך 16 שבועות • המדענים גילו שיפור בזיכרון המילולי, ביכולת הלמידה ובזרימת הדם למוח בקרב מבוגרים • כך עשוי להשפיע עלינו הנשנוש היומי",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21749390",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T08:53:57.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3874473",
-      "title": "מאבק סוער בתאילנד: לסגור בתי חב\"ד ולהגביל את הישראלים",
-      "summary": "מאבק סוער בתאילנד: לסגור בתי חב\"ד ולהגביל את הישראלים",
-      "link": "https://travel.walla.co.il/item/3874473",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T08:52:00.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3874473",
-      "title": "\"הישראלים מבריחים תיירים אירופאים; יש להגביל שהותם ל-15 יום\"",
-      "summary": "\"הישראלים מבריחים תיירים אירופאים; יש להגביל שהותם ל-15 יום\"",
-      "link": "https://travel.walla.co.il/item/3874473",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T08:52:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1383417",
-      "title": "בלי חוק גיוס: איזנקוט מקבל מהחרדים פתח להקמת ממשלה",
-      "summary": "בכירים ביהדות התורה מאותתים על נכונות לתמוך מבחוץ בממשלת איזנקוט, גם בלי חוק גיוס מראש. בתמורה הם דורשים תקציבים וחוקים לציבור החרדי, כשהקמת הממשלה תלויה גם במפלגות הערביות",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1383417",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T08:48:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21749315",
-      "title": "עדי בוזגלו משחררת: \"לא תמיד אפשר להילחם\"",
-      "summary": "כוכבת הריאליטי ואישתו של כדורגלן העבר וזוכה הריאליטי אסי בוזגלו דיברה על ההחלטה להפסיק להיאבק ולשחרר. \"יש רגעים שהראש רוצה משהו, אבל הנפש כבר לא שם\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21749315",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T08:48:23.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjvdfdntmx",
-      "title": "\"חששתי לחיי\": אח בבית חולים נעל סטודנטית בחדר הרופא התורן - ואנס אותה",
-      "summary": "אחמד סעיד, אח מוסמך, הורשע באונס עובדת בבית החולים ובביצוע מעשה מגונה - תוך ניצול סמכותו כאחראי משמרת. הוא ביקש מהמתלוננת להתלוות אליו כדי להביא ציוד, אך הוביל אותה לחדר שבו אנס אותה חרף בקשותיה: \"די, תשחרר אותי, אני לא רוצה\". השופטים דחו פה אחד את טענתו כי היחסים היו בהסכמה",
-      "link": "https://www.ynet.co.il/news/article/bjvdfdntmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T08:48:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21749416",
-      "title": "מישל גרציג על ההצעה מנטפליקס: \"עדיין שוקלת\"",
-      "summary": "במהלך צילומי הקמפיין החדש של דלתא, מישל גרציג חשפה שקיבלה הצעה מנטפליקס לסדרת דוקו על חייה • לצדה הצטלמו לראשונה סאן מזרחי ואליאנה תדהר",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21749416",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T08:47:07.000Z"
     }
   ]
 }
