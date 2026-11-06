@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:15:55.199Z",
+  "updatedAt": "2026-11-06T11:31:06.048Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-parties-government-coalition",
+      "title": "ליברמן הסיר את הווטו: החרדים בפני דילמה - ממשלה איזנקוט או נתניהו? | הצביעו",
+      "summary": "ליברמן הסיר את הווטו על המפלגות החרדיות, ועל הפרק עלתה האפשרות להצטרפותן לממשלה בראשות איזנקוט בתמורה לחוק הגיוס - אל מול האפשרות להישאר בגוש הימין ולהמתין לממשלה בראשות נתניהו | מה דעתכם? הצביעו עכשיו בסקר (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/haredi-parties-government-coalition",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-06T11:22:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/illegal-residents-disguised-haredi-checkpoint-arre",
+      "title": "התחזה לחרדי: שב\"ח נתפס מסיע שישה שוהים בלתי חוקיים נוספים",
+      "summary": "נהג ברכב משוכפל והסיע שישה שוהים בלתי חוקיים • גידל פאות וחבש כיפה בניסיון להסוות זהותו | לוחמי מג\"ב עצרו את כולם במעבר א-זעיים (משטרה)",
+      "link": "https://www.kikar.co.il/police/illegal-residents-disguised-haredi-checkpoint-arre",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-06T11:19:57.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/to2v57",
+      "title": "אור החיים אקטואלי עם יוסי אליטוב: לתת חיים לימים | צפו",
+      "summary": "פינתו של עורך עיתון 'משפחה', יוסי אליטוב, ב'כיכר השבת': אנחנו מבקשים מהקב״ה עוד שנות חיים, אבל אברהם אבינו מלמד מה לעשות בשנים שניתנו לנו | כל יום שמתמלא בתורה, בתפילה ובחסד נעשה חלק מאיתנו ונשאר עמנו גם כשהוא חולף. הקב״ה נותן לנו ימים, ובידינו להעניק לימים האלה תוכן, קדושה וחיים (יהדות)",
+      "link": "https://www.kikar.co.il/haredim-news/to2v57",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-06T11:18:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960336",
+      "title": "אברי גלעד חושף: \"קמתי בבוקר משותק בחצי פנים\"",
+      "summary": "מגיש הטלוויזיה שיתף כי לקה בשיתוק פתאומי במחצית מפניו, החל בטיפול תרופתי וסיפר על הקשיים בפעולות יומיומיות. למרות המצב, הוא שומר על הומור: \"אני שמח שאני עקום. מה יש לי להיות ישר?\"",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960336",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T11:16:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21794027",
+      "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן - זה התאריך האפשרי",
+      "summary": "נשיא ארה\"ב כינס את צוות הביטחון הלאומי לדיונים על חידוש הפעילות הצבאית נגד טהרן, כך אישרו בכירים ל\"פוקס ניוז\" • בפיקוד המרכז האמריקני משלימים היערכות לחידוש מבצע רחב היקף, אך טרם התקבלה הנחיה חדשה מוושינגטון • טראמפ: \"נקבל החלטה בקרוב\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21794027",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T11:09:14.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-jr-iran-war-midterm-defeat-fuel-prices",
       "title": "טראמפ ג'וניור מאשים: המלחמה באיראן שינתה את דעת המצביעים",
@@ -35580,195 +35625,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-01T11:31:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383503",
-      "title": "איראן עשויה לתקוף ראשונה לפני ה-3 בנובמבר: \"בהחלט אפשרות\"",
-      "summary": "חוקר איראן דני סיטרינוביץ' מזהיר ב-103fm מפני אפשרות שאיראן תתקוף ראשונה ומשרטט מתווה לסבב נוסף: פגיעה במרכזי נתונים, ניתוק קווי אינטרנט ואף פלישה למדינות המפרץ",
-      "link": "https://www.maariv.co.il/news/military/article-1383503",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:29:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383503",
-      "title": "טהרן תתקוף ראשונה? האזהרה של מומחה איראן: \"בהחלט אפשרות\"",
-      "summary": "חוקר איראן דני סיטרינוביץ' מזהיר ב-103fm מפני אפשרות שאיראן תתקוף ראשונה ומשרטט מתווה לסבב נוסף: פגיעה במרכזי נתונים, ניתוק קווי אינטרנט ואף פלישה למדינות המפרץ",
-      "link": "https://www.maariv.co.il/news/military/article-1383503",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:29:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383503",
-      "title": "איראן תתקוף ראשונה? האזהרה של מומחה איראן: \"בהחלט אפשרות\"",
-      "summary": "חוקר איראן דני סיטרינוביץ' מזהיר ב-103fm מפני אפשרות שאיראן תתקוף ראשונה ומשרטט מתווה לסבב נוסף: פגיעה במרכזי נתונים, ניתוק קווי אינטרנט ואף פלישה למדינות המפרץ",
-      "link": "https://www.maariv.co.il/news/military/article-1383503",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:29:36.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r17edcntgx",
-      "title": "בן 49 שהגיב לנתניהו כי דינו מוות נאשם בהסתה לטרור: \"עד לאחרונה היה לו נשק\"",
-      "summary": "רז ויינברגר (49) נאשם ב-10 עבירות של הסתה לטרור ו-18 עבירות של הסתה לאלימות. בין היתר, הוא הגיב בחשבון ה-X של רה\"מ כי \"דינו מוות\" ואיים על ח\"כ אלמוג כהן. הפרקליטות, שציינה כי עד לאחרונה החזיק בנשק, טוענת: \"לא מדובר באמירות שנאמרו בלהט הרגע\"",
-      "link": "https://www.ynet.co.il/news/article/r17edcntgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T11:29:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1383501",
-      "title": "רק 28% מאמינים שחייהם ישתפרו: נתון מדאיג שנחשף בדו\"ח הלמ\"ס",
-      "summary": "נתונים חדשים של הלמ\"ס חושפים את המציאות המורכבת של תושבים רבים בישראל. מאות אלפים חיים לבד, רבים חוששים לצאת מהבית בחשכה, וגם בכבישים מתגלה תמונה מדאיגה. לצד זאת, יש גם סיבות לאופטימיות",
-      "link": "https://www.maariv.co.il/news/israel/article-1383501",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:29:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1383505",
-      "title": "השוטרים רדפו אחריו שעה - ואז הגיע הכלב",
-      "summary": "אלן סטיילס מבריטניה ניסה להתחמק ממעצר בדרך מקורית במיוחד, והוביל את השוטרים למרדף שנמשך כשעה. בדרך הם נאלצו להחליף אמצעי תחבורה, לגייס סירה ולהיעזר בכלב משטרתי נמרץ",
-      "link": "https://www.maariv.co.il/news/viral/article-1383505",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:28:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21750810",
-      "title": "השינוי של קרן פלס: \"לופ שלא נגמר\"",
-      "summary": "הזמרת, היוצרת והאקסית של נועם טור מדברת על הפער הגדול הקיים בין איך שהיא נראית לפני ואחרי הטיפוח. \"מבהילה את הילדים\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21750810",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:28:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/moscow-aerial-threats-balloons",
-      "title": "בהלה ברוסיה: כלי טיס מסתוריים צנחו לפתע בשדה התעופה",
-      "summary": "לא רק כטב\"מים: מוסקבה מתמודדת עם תופעה אווירית חריגה, כאשר בלונים הנושאים עצמים תלויים נצפו מעל הבירה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/moscow-aerial-threats-balloons",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T11:28:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/police-drone-arrest-tel-sheva",
-      "title": "תיעוד דרמטי מהאוויר: רחפן משטרתי הפיל קטין בן 15 חמוש שניסה לברוח",
-      "summary": "תיעוד חריג מעיני הרחפן המשטרתי בתל שבע חושף את רגע המרדף והבריחה הרגלית של קטין בן 15 החשוד בתקיפת בני משפחתו, ואת סגירת המעגל המהירה של כוחות הביטחון שהביאה ללכידתו יחד עם נשק מאולתר ותחמושת (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/police-drone-arrest-tel-sheva",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T11:27:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21750384",
-      "title": "שנים הזהירו אותנו מביצים. עכשיו התמונה נראית אחרת",
-      "summary": "במשך שנים נקשרו ביצים לכולסטרול ולחשש מפני מחלות לב • כיום מומחי תזונה מציגים תמונה מורכבת יותר ומסבירים כמה ביצים אפשר לשלב בתפריט, מה חשיבות שיטת ההכנה ומתי נדרשת זהירות • ויש גם מדריך להכנת ביצה עלומה בבית",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21750384",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:26:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21750071",
-      "title": "\"כולנו צריכים לפחד\": השופט תקף את המשטרה בפרשת רע\"מ",
-      "summary": "בית המשפט הורה לשחרר את הרופא לאחר חמישה ימים במעצר, והשופט מתח ביקורת חריפה: \"מעצר שערורייתי, עשו לו עוול\" • חשוד נוסף שוחרר למעצר בית לאחר שנקבע כי עוצמת החשד נגדו פחתה • מנגד, מעצרו של החשוד השלישי, שברכבו נמצאו פתקי רע\"מ וכרטיסי דלק, הוארך ביומיים בלבד, לעומת שמונה שביקשה המשטרה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21750071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:24:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21750071",
-      "title": "השופט נזף במשטרה: שוחרר אחד העצורים בפרשת החשד לשוחד בחירות ברע\"מ",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21750071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:24:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/art/article/21750447",
-      "title": "דווקא עכשיו בפריז: לא נותנים לעולם לשכוח את 7 באוקטובר",
-      "summary": "שתי מעצבות ישראליות מבית הספר לעיצוב של המכללה למינהל זכו במקום השלישי בתחרות פוסטרים בינלאומית • עבודתן, המוקדשת לזיכרון אירועי 7 באוקטובר, תוצג במשך חודש בגלריית אמנות בפריז לצד יצירות של אמנים מרחבי העולם",
-      "link": "https://www.israelhayom.co.il/culture/art/article/21750447",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:24:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21750348",
-      "title": "אחרי 28 שנה: השיא המיתולוגי של צביקה שרף עלול להישבר",
-      "summary": "המאמן הישראלי הוביל את פאוק סלוניקי לחמישה ניצחונות רצופים בפתיחת עונת 1998/99 • תחת אנדראה טרינקיירי הקבוצה רחוקה ניצחון ממאזן 0:6, לראשונה בתולדותיה בעידן המקצועני",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21750348",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:24:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21750486",
-      "title": "רק 50 טייסים מורשים לנחות כאן: היעד המרהיב שמסקרן את הישראלים",
-      "summary": "בין פסגות הרים בגובה אלפי מטרים, המטוסים מבצעים פניות חדות והטייסים נדרשים למיומנות יוצאת דופן • הנחיתה מתבצעת רק בתנאים מיוחדים, והמסלול מתגלה לעיני הנוסעים ברגעים האחרונים • הכירו את אחד היעדים המסתוריים והמרהיבים באסיה, שההגעה אליו היא חוויה בפני עצמה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21750486",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:24:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1383507",
-      "title": "בלי רוטציה: אייל ברקוביץ' מציע לנתניהו עוד ארבע שנים בשלטון",
-      "summary": "אייל ברקוביץ' הציע ממשלת אחדות בראשות נתניהו, אף שכינה אותו \"המחריב הכי גדול של מדינת ישראל\". ההסכמה המפתיעה עם אראל סג\"ל לוותה במתקפה על גוש השינוי ובהתנגדות לצירוף החרדים",
-      "link": "https://www.maariv.co.il/news/politics/article-1383507",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:20:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1383507",
-      "title": "אייל ברקוביץ' ואראל סג\"ל מסכימים על דבר אחד - וזה לא מובן מאליו",
-      "summary": "אייל ברקוביץ' הציע ממשלת אחדות בראשות נתניהו, אף שכינה אותו \"המחריב הכי גדול של מדינת ישראל\". ההסכמה המפתיעה עם אראל סג\"ל לוותה במתקפה על גוש השינוי ובהתנגדות לצירוף החרדים",
-      "link": "https://www.maariv.co.il/news/politics/article-1383507",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:20:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21750797",
-      "title": "\"אני דוקר אותך\": דרש מהאישה את הטלפון באיומי סכין - ונמלט עם אלפי שקלים",
-      "summary": "לפי כתב האישום, הנאשם אחז בזרועה של המתלוננת בחניון הסמוך לתחנת הרכבת בנתניה והדף אותה מספר פעמים • לאחר שסירבה להיענות לדרישתו, הציעה למסור כסף מזומן מתוך תיקה • לנאשם שבע הרשעות קודמות, ובעבר אף ריצה עונשי מאסר",
-      "link": "https://www.israelhayom.co.il/news/law/article/21750797",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:20:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21750803",
-      "title": "הנתיב החדש בכביש בגין: פתרון לפקקים או יותר עומסים?",
-      "summary": "הכביש הורחב לארבעה נתיבים, ואחד מהם הוקצה לאוטובוסים • בינואר צפוי להיפתח מקטע נוסף בכיוון הנגדי, כחלק מהרחבת מערך התחבורה הציבורית בירושלים • אלא שהביקורת על פרויקטים דומים בעיר והשיבושים בפעילות הרכבת הקלה מעוררים ספקות בנוגע ליכולת של המהלך להקל על עומסי התנועה בבירה",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21750803",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T11:17:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1383502",
-      "title": "מיכאל שמש בקולו: \"בכיר בליכוד אמר לי - זאת ממשלה של ארבע שנים'\"",
-      "summary": "למרות הפלונטר הפוליטי, מיכאל שמש מזהה אפשרות לממשלה יציבה ללא נתניהו, ומעריך שבנט וליברמן יוכלו להצדיק ויתור על הבטחות הבחירות. במקביל הוא מותח ביקורת על ראשי גוש השינוי: \"בושה וחרפה\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1383502",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:17:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1383502",
-      "title": "פרשן כאן 11 חושף את התרחיש: כך תקום ממשלה שתחזיק עד 2030",
-      "summary": "למרות הפלונטר הפוליטי, מיכאל שמש מזהה אפשרות לממשלה יציבה ללא נתניהו, ומעריך שבנט וליברמן יוכלו להצדיק ויתור על הבטחות הבחירות. במקביל הוא מותח ביקורת על ראשי גוש השינוי: \"בושה וחרפה\"",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1383502",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T11:17:02.000Z"
     }
   ]
 }
