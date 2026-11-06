@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:30:59.811Z",
+  "updatedAt": "2026-11-06T06:45:52.044Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385541",
+      "title": "מטוסים עמוסי זהב לטהרן וברית חשאית: תחזית הבלהות של הבכיר האמריקאי לשעבר על עתיד ישראל",
+      "summary": "קולונל צבא ארצות הברית בדימוס, דאגלס מקגרגור, טען בפודקאסט כי באיראן משוכנעים שישראל לא תוכל לשרוד אחרי שארה\"ב תעזוב את האזור. הוא גם דיבר על הבהלה של מדינות ערב לנוכח התעצמות איראן",
+      "link": "https://www.maariv.co.il/news/world/article-1385541",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T06:31:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21790325",
+      "title": "לא רק אילה חסון ואייל ברקוביץ': הכוכבים שלא מבקשים סליחה",
+      "summary": "לא מעט דמויות מפתח ציבוריות בישראל נקלעו לסערות בעקבות התבטאויות חריפות, אך סירבו לחזור בהן • לפעמים זה נגמר בעימות, לפעמים במחיר מקצועי או בתביעה משפטית, אבל התנצלות? לא בבית ספרם",
+      "link": "https://www.israelhayom.co.il/culture/clique/article/21790325",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T06:30:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385540",
       "title": "\"הטוסט נשרף? נתניהו אישר את זה אישית\" - הפרשן האמירתי פותח פה על כל העולם",
       "summary": "הפרשן האמירתי אמג'אד טאה פרסם פוסט סאטירי שבו לעג לנטייה להאשים את ישראל בכל צרות העולם, מבחירות ועד מזג האוויר. גם הישראלים עצמם לא יצאו נקיים, ואפילו החייזרים והמוסד נכנסו לתמונה",
@@ -39,6 +57,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-06T06:28:05.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875189",
+      "title": "\"קרוב למושלם\": כך מכניס אבדיה את היריבות לפאניקה",
+      "summary": "הפרשנים הבכירים מאושרים מכך שמעמדו של כוכב פורטלנד לא נפגע, ויש מחמאות גדולות עוד יותר: \"זה מטורף, הופך לשחקן ברמת סופרסטאר\"",
+      "link": "https://sports.walla.co.il/item/3875189",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T06:24:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21792662",
+      "title": "\"חפצים התחילו לזוז\": ההפתעה המצמררת שנתפסה בגרבי הנוסע",
+      "summary": "בנמל התעופה בפרו נדהמו לגלות תנועות חשודות בתוך שלוש מזוודות, שבהן הוסלקו יותר מ-3,000 עכבישי טרנטולה חיים בתוך גרביים משומשות • העכבישים, שנאספו מאזורים שונים בפרו מביצים ועד בוגרים, יועדו להברחה לגרמניה בשווי שוק מוערך של כ-1.5 מיליון אירו",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21792662",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T06:20:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21792882",
+      "title": "אותו כרטיס, יותר הטבות: 6 דברים שכדאי לדעת לפני שמתקדמים ל- FlyAll",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21792882",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T06:11:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21792885",
+      "title": "כמה אוכל באמת צריך הכלב שלכם? הטבלה על השק היא רק נקודת התחלה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21792885",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T06:09:10.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/israeli-suspects-ai-fraud-new-york-indictment",
@@ -138,6 +192,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T05:32:38.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%9E%D7%A8%D7%99%D7%9E%D7%99%D7%9D_%D7%A8%D7%90%D7%A9__%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA_%D7%94%D7%94%D7%A6%D7%9C%D7%97%D7%94_%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%E2%80%93_%D7%95%D7%A2%D7%93%D7%AA_%D7%94%D7%9E%D7%A2%D7%A7%D7%91_%D7%94%D7%A2%D7%A8%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A8%D7%99%D7%96%D7%94_%D7%A2%D7%9C_%D7%A9%D7%95%D7%A8%D7%AA_%D7%9E%D7%90%D7%91%D7%A7%D7%99%D7%9D_%D7%A0%D7%92%D7%93_%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%95%D7%AA_%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94",
+      "title": "מרימים ראש: בעקבות ההצלחה בבחירות – ועדת המעקב הערבית הכריזה על שורת מאבקים נגד מדיניות הממשלה",
+      "summary": "אחרי הזינוק הדרמטי בשיעורי ההצבעה של הערבים אזרחי ישראל וההישגים של המפלגות הלאומניות של ערביי ישראל, ועדת המעקב העליונה בראשות ג'מאל זחאלקה הכריזה על קמפיין מחאה נרחב. בתוכנית: הפגנות וצעדות, סיכול תוכניות פיתוח באזור טייבה, הרחבת המאבק על קרקעות הנגב, הפעלת הוועדים העממיים נגד ההתיישבות היהודית בגליל וגיוס הציבור הערבי לפעילות בהר הבית.",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%9E%D7%A8%D7%99%D7%9E%D7%99%D7%9D_%D7%A8%D7%90%D7%A9__%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA_%D7%94%D7%94%D7%A6%D7%9C%D7%97%D7%94_%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%E2%80%93_%D7%95%D7%A2%D7%93%D7%AA_%D7%94%D7%9E%D7%A2%D7%A7%D7%91_%D7%94%D7%A2%D7%A8%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A8%D7%99%D7%96%D7%94_%D7%A2%D7%9C_%D7%A9%D7%95%D7%A8%D7%AA_%D7%9E%D7%90%D7%91%D7%A7%D7%99%D7%9D_%D7%A0%D7%92%D7%93_%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%95%D7%AA_%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-06T05:32:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875193",
+      "title": "הפועל ת\"א חוששת: \"בדרך הזו גם מכבי תתפוצץ עלינו\"קריאת השכמה",
+      "summary": "הפועל ת\"א חוששת: \"בדרך הזו גם מכבי תתפוצץ עלינו\"קריאת השכמה",
+      "link": "https://sports.walla.co.il/item/3875193",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T05:30:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/defamation-lawsuit-mordechai-david-uri-shaham",
@@ -740,6 +812,15 @@
       "link": "https://www.ynet.co.il/news/article/yokra14946105",
       "source": "ynet",
       "sourceKey": "ynet",
+      "pubDate": "2026-11-05T22:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383960191",
+      "title": "15 מיליון הרוגים בחצי שנה: המלחמה שאיש לא שמע עליה",
+      "summary": "במשך חודשים ניהלו צבאות זעירים קרבות אכזריים שהותירו מיליוני מתים, בלי שאף צד הצליח לכבוש שטח משמעותי. המדענים שחקרו את התופעה גילו דמיון מצמרר לאחת המלחמות הקטלניות בהיסטוריה",
+      "link": "https://www.walla.co.il/news/donotmiss/383960191",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-05T22:00:00.000Z"
     },
     {
@@ -2577,6 +2658,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T15:13:48.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/%D7%A8%D7%99%D7%9B%D7%95%D7%96_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%99%D7%95%D7%9D/%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2zbd8lsjyy6",
+      "title": "פרשת חיי שרה - סיכום חדשות השבוע",
+      "summary": "חקירת ההשפעה הזרה בבחירות, הח\"עים הערבים החדשים, והתיישבות חדשה ביריחו - סיכום חדשות השבוע בקול היהודי",
+      "link": "https://www.hakolhayehudi.co.il/item/%D7%A8%D7%99%D7%9B%D7%95%D7%96_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%99%D7%95%D7%9D/%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2zbd8lsjyy6",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-05T15:11:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21789804",
@@ -36840,87 +36930,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-01T06:52:03.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874442",
-      "title": "ברקע רווחי השיא: הבנק מחזיר 1,000 ש\"ח להורים",
-      "summary": "בנק מזרחי טפחות יוצא במהלך חדש ומעניק מענק של 1,000 שקלים ללקוחותיו עבור מימון חוגים לילדים",
-      "link": "https://finance.walla.co.il/item/3874442",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T06:44:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874442",
-      "title": "בנק מזרחי-טפחות מחלק 1,000 ש\"ח להורים - אבל יש קאץ'",
-      "summary": "בנק מזרחי טפחות יוצא במהלך חדש ומעניק מענק של 1,000 שקלים ללקוחותיו עבור מימון חוגים לילדים",
-      "link": "https://finance.walla.co.il/item/3874442",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T06:44:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21748627",
-      "title": "המשטרה השיבה למשפחת הגיבור מהשב\"כ שנפל ב-7.10 את הציוד שנגנב",
-      "summary": "טרקטורון הילדים שנגנב בסוף השבוע מחצר ביתה של משפחת טהר-שור במושב בצרון אותר בלילה ברהט, וחשוד נעצר • זו הפעם השנייה שהמשפחה השכולה מתמודדת עם גניבה, ובשתי הפעמים הצליחה המשטרה להשיב את הציוד • האלמנה ליאת שור: \"עבורנו זה לא רק ציוד, זה הקשר וההנצחה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21748627",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:40:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21748655",
-      "title": "אהבת השם גורדון נקלע לתקרית אנטישמית בתאילנד - ותיעד",
-      "summary": "מה שהתחיל כסרטון לילי ברחוב קיבל תפנית כשברקע נשמעה קללה אנטישמית • גורדון שיתף את התיעוד והסביר כיצד הסתיים המקרה",
-      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21748655",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:40:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21748655",
-      "title": "אהבת השם גורדון נקלע לתקרית אנטישמית בתאילנד",
-      "summary": "מה שהתחיל כסרטון לילי ברחוב קיבל תפנית כשברקע נשמעה קללה אנטישמית • גורדון שיתף את התיעוד והסביר כיצד הסתיים המקרה",
-      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21748655",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:40:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90138",
-      "title": "איראן מכריזה על MI6 כארגון עוין ועל חיל הים והאוויר הבריטי כארגוני טרור",
-      "summary": "משרד החוץ האיראני הכריז על צעדי תגמול נגד בריטניה: ארגון הביון הבריטי (MI6) יוכרז כארגון עוין, וחיל הים וחיל האוויר הבריטיים יוכרזו כארגוני טרור. הצעדים באים בתגובה להכרזה הבריטית על משמרות המהפכה האיראניים כארגון טרור ולסיוע שהעניקה בריטניה לישראל ולארה\"ב במלחמה נגד איראן.",
-      "link": "https://www.kikar.co.il/scoop-news/90138",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T06:40:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90137",
-      "title": "14 אזרחים זרים נחקרו בחשד להפרת סדר ביהודה ושומרון והועברו לשימוע לקראת גירוש",
-      "summary": "בעקבות דיווח על אירוע חיכוך בסמוך לחווה באזור לובאן א-שרקיה במהלך סוף השבוע, עצרו כוחות צה\"ל 14 אזרחים זרים בחשד למעורבות באירוע. החשודים נחקרו בתחנת מודיעין עילית בחשד להפרת הוראה חוקית ולשהייה בשטח צבאי סגור. עם סיום החקירה הועברו חומרי התיק לרשות האוכלוסין וההגירה לשימוע והחלטה בדבר גירושם מישראל, כחלק ממאמץ לסכל פעילות פרובוקטיבית הכוללת חיכוכים והפרות סדר ביהודה ושומרון.",
-      "link": "https://www.kikar.co.il/scoop-news/90137",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T06:40:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1383321",
-      "title": "סעודיה שוב תוקעת לטראמפ מקלות בגלגלים, אבל הפעם הסיפור שונה | סא\"ל במיל' עמית יגור",
-      "summary": "המשחק הכפול והניסיון האחרון לתקוע מקלות בגלגליה של ארה\"ב: גוש \"הסדר הישן\" שוב רוצה לבלום את המערב, וסעודיה שוב מאכזבת",
-      "link": "https://www.maariv.co.il/news/opinions/article-1383321",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T06:38:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21748554",
-      "title": "יעקב ברדוגו הגיע לתת מונולוג - אבל מאיה ראכלין לא שיתפה פעולה",
-      "summary": "חבר הכנסת הגיע לאולפן עם הספין על קטאר • ראכלין הציבה מולו שאלות שלא ציפה להן",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21748554",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:33:04.000Z"
     }
   ]
 }
