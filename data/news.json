@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:01:01.392Z",
+  "updatedAt": "2026-11-06T22:10:04.601Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyhzpaitmg",
+      "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/hyhzpaitmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T22:04:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795913",
+      "title": "מכבי תל אביב נגד פרטיזן בלגרד: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
+      "summary": "פרק 10: מאמן העבר והפרשן סיכמו את המחזור ביורוליג אחרי ההפסד של הצהובים בבלגרד ודנו גם על ההפסד של הפועל תל אביב בברצלונה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795913",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T21:31:13.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sych8djpfg",
       "title": "גשמים עזים בצפון, השיא במרכז - בבוקר שבת: צפו במכ\"ם",
@@ -120,6 +138,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T19:43:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "title": "השישי ברציפות: מכבי תל אביב הפסידה 88:67 לפרטיזן בלגרד",
+      "summary": "החבורה בצהוב שוב לא הצליחה לייצר עצירות וירדה למאזן 8:2 ביורוליג • ים מדר ודניאל תייס היחידים שבלטו עבור עודד קטש, שסופר הפסד רביעי ברצף במפעל הבכיר ונותר במקום ה-18 • בשני: גמר גביע ווינר",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T19:38:04.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
@@ -32943,24 +32970,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-01T22:20:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383746",
-      "title": "9 הרוגים בעקבות התרסקות מטוס בפלורידה - \"זה פשוט טירוף\"",
-      "summary": "מטוס מנהלים פרטי ועליו תשעה בני אדם צלל בפתאומיות לתוך פארק קרוואנים בפלורידה, גרם לפיצוץ עז ולשרפת ענק והותיר אחריו הרס כבד. עדי ראייה תיארו את רגעי האימה: \"נשמע פיצוץ אדיר שהרעיד את הקרקע\"",
-      "link": "https://www.maariv.co.il/news/world/article-1383746",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T22:08:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383959663",
-      "title": "\"נביא הזעם\" מזהיר: המהומות באירופה הן רק ההתחלה",
-      "summary": "בזמן שגל המחאות באירופה הולך ומחריף, המדיום הבריטי קרייג המילטון-פרקר צופה משבר חמור ב-2027: קריסה כלכלית, מתקפה על סמל דתי - וטענה מדאיגה על מעורבות איראן",
-      "link": "https://www.walla.co.il/news/donotmiss/383959663",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T22:02:52.000Z"
     }
   ]
 }
