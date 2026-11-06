@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:45:48.665Z",
+  "updatedAt": "2026-11-06T06:00:53.090Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-decision-destroy-warning",
+      "title": "אחרי ההפסד בבחירות האמצע, טראמפ מאיים שוב: \"אולי אצטרך להרוס את מה שנותר מאיראן\"",
+      "summary": "הנשיא האמריקני הבהיר כי החלטה על חידוש התקיפות תתקבל בקרוב • \"הייתי מעדיף שלא, אבל אולי אצטרך\" | דבריו נאמרו יומיים לאחר התבוסה הרפובליקנית בבחירות | \"לאיראן לעולם לא יהיה נשק גרעיני\", הדגיש דונלד טראמפ בשיחה עם כתבים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-iran-decision-destroy-warning",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-06T05:53:20.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/ramla-fire-death-electric-device-explosion",
       "title": "פיצוץ מכשיר חשמלי גרם לשריפה קטלנית: גבר בן 70 נספה בלהבות",
@@ -120,6 +129,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T05:20:08.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byp7lystgl",
+      "title": "ירי באמצע הכביש: גבר נרצח בתחנת אוטובוס, השלישי מאז אתמול",
+      "summary": "צוותי מד\"א שהגיעו לזירה נאלצו לקבוע את מותו של הפצוע במקום. אמש נרצחו שני בני אדם ונפצעו עוד שישה באירועי אלימות ברחבי הארץ",
+      "link": "https://www.ynet.co.il/news/article/byp7lystgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T05:12:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byp7lystgl",
@@ -267,7 +285,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1385449",
-      "title": "הטעות הגדולה של טראמפ ונתניהו באיראן – והמהלך שעשוי לשנות את התמונה | אבי אשכנזי",
+      "title": "הבלוף של נתניהו וטראמפ נחשף: האמת המטרידה על מצבה הנוכחי של איראן | אבי אשכנזי",
       "summary": "בזמן שכל העיניים נשואות לבית הלבן, המערכה מול איראן נכשלה פעמיים. רק קואליציה בינלאומית רחבה, כמו ב-1991, יכולה לבלום את הלחץ הכלכלי על העולם | דעה",
       "link": "https://www.maariv.co.il/news/opinions/article-1385449",
       "source": "מעריב",
@@ -279,6 +297,15 @@
       "title": "מהקונגרס ועד הקמפוסים: המשבר שמאיים על הנכס האסטרטגי של ישראל | רוני הרש",
       "summary": "תוצאות בחירות האמצע בארה\"ב צריכות להדליק נורה אדומה בירושלים. ישראל, שנהנתה במשך עשורים מתמיכה אמריקאית כמעט מובנת מאליה, מגלה שהדור הצעיר בארה\"ב כבר רואה אותה אחרת לחלוטין",
       "link": "https://www.maariv.co.il/news/opinions/article-1385440",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T04:00:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1385449",
+      "title": "הטעות הגדולה של טראמפ ונתניהו באיראן – והמהלך שעשוי לשנות את התמונה | אבי אשכנזי",
+      "summary": "בזמן שכל העיניים נשואות לבית הלבן, המערכה מול איראן נכשלה פעמיים. רק קואליציה בינלאומית רחבה, כמו ב-1991, יכולה לבלום את הלחץ הכלכלי על העולם | דעה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1385449",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-06T04:00:44.000Z"
@@ -37038,60 +37065,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-01T06:02:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21734861",
-      "title": "אף מלחמה לא תעצור את זה: מפגש מוזיקלי בין תל אביב לטהרן",
-      "summary": "לירז צ'רכי, מרגיעה ואורחים מחו\"ל ישתתפו בפסטיבל שיתקיים בתדר - בבית רומנו בין 19 ל-21 בנובמבר בתל אביב • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21734861",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21734861",
-      "title": "מפגש מוזיקלי בין תל אביב לטהרן: פסטיבל הג'אז חוזר",
-      "summary": "לירז צ'רכי, מרגיעה ואורחים מחו\"ל ישתתפו בפסטיבל שיתקיים בתדר - בבית רומנו בין 19 ל-21 בנובמבר בתל אביב • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21734861",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T06:00:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1lbmlvtme",
-      "title": "יאיר גולן: \"לנתניהו אין אמון ציבורי למערכה באיראן, להקים ממשלה חלופית מהר\"",
-      "summary": "יו\"ר הדמוקרטים אמר כי לנתניהו \"אין לגיטימציה מוסרית או יכולת בסיסית\" לניהול מערכה נוספת מול איראן. \"הגענו למצב של סבבים חוזרים, זה כמה גדול הכישלון שלו. בינתיים הוא, כ\"ץ ובן גביר בעמדות המפתח - וזו סכנה לישראל\"",
-      "link": "https://www.ynet.co.il/news/article/r1lbmlvtme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T05:55:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383345",
-      "title": "בזמן שארה\"ב צוברת כוחות מול איראן: ישראל נערכת לתרחיש הקיצון",
-      "summary": "חמשת גדודי החילוץ הסדירים יתרגלו לאורך השבוע תרחישי חירום במספר מוקדים ברחבי הארץ. ברקע המתיחות מול איראן והתגבור האמריקאי באזור, בצה\"ל מבהירים כי התרגיל תוכנן מראש ואין חשש לאירוע ביטחוני",
-      "link": "https://www.maariv.co.il/news/military/article-1383345",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T05:48:32.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959612",
-      "title": "מכה לתומכי \"פלסטיין אקשן\": 139 עצורים בהפגנה בלונדון",
-      "summary": "המפגינים נעצרו מול שגרירות ארה\"ב לאחר שהביעו תמיכה בארגון פלסטיין אקשן, שהוצא מחוץ לחוק בבריטניה. המארגנים טוענים לפגיעה בחופש הביטוי, לקראת דיון משפטי על האיסור",
-      "link": "https://www.walla.co.il/news/world/383959612",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T05:47:45.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959612",
-      "title": "מכה לתומכי \"פלסטיין אקשן\": 139 עצורים הפגנה בלונדון",
-      "summary": "המפגינים נעצרו מול שגרירות ארה\"ב לאחר שהביעו תמיכה בארגון פלסטיין אקשן, שהוצא מחוץ לחוק בבריטניה. המארגנים טוענים לפגיעה בחופש הביטוי, לקראת דיון משפטי על האיסור",
-      "link": "https://www.walla.co.il/news/world/383959612",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T05:47:45.000Z"
     }
   ]
 }
