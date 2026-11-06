@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:46:02.469Z",
+  "updatedAt": "2026-11-06T18:00:52.192Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk70aostze",
+      "title": "רודינה אותרה מתה - ואז אחיה נהרג בתאונה: \"אישה נרצחה ובבית לא שמעו?\"",
+      "summary": "רודינה אבו רביעה, שגופתה נמצאה בביתה בנגב עם סימני אלימות, התלוננה שמאיימים עליה בבית - ולא בפעם הראשונה. החשודים במעורבות ברצח: האב, האם ואחד מהאחים. אמיר, אח נוסף של רודינה, נהרג בהתנגשות עם אוטובוס זמן קצר אחרי מותה. נציג המשטרה תהה: \"איש לא ראה?\"",
+      "link": "https://www.ynet.co.il/news/article/rk70aostze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T17:51:51.000Z"
+    },
     {
       "id": "walla:https://www.walla.co.il/news/world/383960327",
       "title": "“הגידול הסרטני של העולם”: בריטניה חסמה את כניסתו של פלסטיני",
@@ -588,6 +597,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T13:15:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1385648",
+      "title": "48 מול 46: המלכודת שאיזנקוט מכין לגוש השינוי ויכולה להשאיר את נתניהו בשלטון",
+      "summary": "67 המלצות לא מבטיחות לאיזנקוט ממשלה: ליברמן מתנגד לממשלת מיעוט, בנט ניצב בפני הכרעה והחרדים עשויים להפוך ללשון המאזניים • האם איזנקוט יצליח לגשר על הפערים, או ששותפיו ירוויחו מכישלונו?",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1385648",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-06T13:14:14.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1385648",
@@ -33924,51 +33942,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T18:04:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1boolrtme",
-      "title": "בנט הודיע רשמית: נמליץ על איזנקוט בפני הנשיא",
-      "summary": "לאחר שבמהלך מערכת הבחירות סירב להתייצב מאחוריו, הודיע יו\"ר ביחד כי סיעתו תמליץ בבית הנשיא על גדי איזנקוט כמועמד להרכבת הממשלה",
-      "link": "https://www.ynet.co.il/news/article/h1boolrtme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T17:57:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21755007",
-      "title": "העימות של ינון מגל באמצע הרחוב: ''בן אדם מגעיל ודוחה''",
-      "summary": "מפגש אקראי ברחוב בין מגיש \"הפטריוטים\" לאדם זר הפך לחילופי עלבונות חריפים, שתועדו בסרטון והופצו ברשתות • ברקע: הכינוי שהדביק המגיש לפוליטיקאי בכיר • ומה השיב מגל כשהמצלמה לא הפסיקה לרוץ",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21755007",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T17:55:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21754798",
-      "title": "\"גיבור זו מילה קטנה\": לוחם היס\"מ שנפצע אנוש ב-7.10 - וחזר למדים",
-      "summary": "שליו בסט נפצע במהלך הקרבות באופקים בבוקר הטבח, עבר ניתוחים רבים ושיקום ארוך במהלכו השלים תואר ראשון - וכעת חזר לשירות בחטיבת סה\"ר • ראש עיריית באר שבע רוביק דנילוביץ' אירח אותו בלשכתו: \"תבינו למה אנחנו נמצאים כאן, אשרינו שזכינו לגיבורים כמוכם\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21754798",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-01T17:53:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90281",
-      "title": "בנט מודיע: \"נמליץ על אייזנקוט בפני הנשיא\"",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/90281",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T17:47:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1omvestme",
-      "title": "ליברמן לאיזנקוט: הקמפיין שלך פגע בסיכויי גוש השינוי בבחירות",
-      "summary": "פרסום ראשון: לפי מקורות שעודכנו בפרטים, השיחה בין השניים הייתה מתוחה וליברמן אף ביקר בחריפות את איזנקוט שהעיסוק בהקמת ממשלת מיעוט פגע בגוש השינוי. בפגישה עלתה גם סוגיית החלפת יו\"ר הכנסת, וליברמן הביע ספק ביכולתו של איזנקוט להציג מועמד מנוסה ומתאים לתפקיד מתוך מפלגתו",
-      "link": "https://www.ynet.co.il/news/article/b1omvestme",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-01T17:46:34.000Z"
     }
   ]
 }
