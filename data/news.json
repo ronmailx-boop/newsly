@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:30:58.339Z",
+  "updatedAt": "2026-11-06T20:45:52.808Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1gimostge",
+      "title": "אותרה הנעדרת אליה קדוש",
+      "summary": "אליה קדוש, תושבת ת\"א בת 28, אותרה לאחר שלא נראתה במשך יותר מיממה",
+      "link": "https://www.ynet.co.il/news/article/h1gimostge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T20:40:01.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383960307",
+      "title": "תעלול או ממתק - גרסת ההאלווין החרדית",
+      "summary": "יהדות התורה נמנעה מלהמליץ על נתניהו, ובמערכת הפוליטית תוהים: האם החרדים מנהלים תרגיל כדי להשיג חוק גיוס - או שהם באמת שוקלים לחבור לאיזנקוט?",
+      "link": "https://www.walla.co.il/news/opinions/383960307",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-06T20:24:48.000Z"
+    },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960374",
       "title": "מנו גבע הודיע שיקח ״פסק זמן״ מעריכת סקרים פוליטיים",
@@ -66,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T19:43:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 29:46",
+      "summary": "מחזור 10: עודד קטש פתח עם טי ג'יי ליף וארמנדו בייקוט בחמישייה, המארחת ניצלה זאת וצלפה לשלוש בדרך ליתרון דו ספרתי • ים מדר עלה מהספסל וצמצם את הפער",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-06T19:38:04.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
@@ -33330,42 +33357,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-01T20:47:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383729",
-      "title": "עשרה האמרים נגנבו מתחילת המלחמה - ובצה\"ל מקווים: המבצע החדש יחיזר אותם",
-      "summary": "צה\"ל פתח במבצע החזרת ציוד צבאי שיימשך 12 ימים, ללא הזדהות או העמדה לדין. ברקע: גניבת האמר מבסיס ג'וליס והערכות של גורמים בצבא על כעשרה רכבים שנעלמו מתחילת המלחמה",
-      "link": "https://www.maariv.co.il/news/military/article-1383729",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T20:44:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1383726",
-      "title": "\"בגן החדש מותר לבכות\": זעקת ההורים בפרשת החשד להתעללות ברעננה",
-      "summary": "הורי הפעוטות ממעון \"זמן איכות\" ברעננה, שבו נחשפו חשדות למעשי אלימות חמורים עוד לפני פרשת המעון באריאל, הפגינו הערב במתחם יד לבנים ודרשו מהעירייה לקחת אחריות. עובדות המעון שנעצרו שוחררו בתום ימי מעצר",
-      "link": "https://www.maariv.co.il/news/law/article-1383726",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-01T20:42:35.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnubyk",
-      "title": "המטוס צולל - ומתרסק כמו טיל בליסטי: תאונה מחרידה תועדה בארה\"ב",
-      "summary": "מטוס מנהלים שהיה בדרכו לאיי בהאמה התרסק לתוך מתחם בתים ניידים בפלורידה והצית שריפה גדולה | הרשויות דיווחו על מספר הרוגים, בעוד נסיבות ההתרסקות נבדקות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tnubyk",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-01T20:41:08.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959730",
-      "title": "הרוגים בהתרסקות מטוס מנהלים על מתחם קראוונים בפלורידה",
-      "summary": "מטוס מנהלים התרסק במתחם קרוואנים בפלורידה וגרם לשריפה. לפי דיווחים בארה\"ב, כמה בני אדם נהרגו, אך מספרם טרם נמסר. המטוס המריא מטקסס והיה בדרכו לאיי בהאמה",
-      "link": "https://www.walla.co.il/news/world/383959730",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-01T20:38:17.000Z"
     }
   ]
 }
