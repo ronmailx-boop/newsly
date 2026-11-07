@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:15:53.994Z",
+  "updatedAt": "2026-11-07T20:30:46.951Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385958",
+      "title": "לילה שני ברצף: באיראן מדווחים על תקיפות ברחבי המדינה",
+      "summary": "מקורות איראניים מדווחים על הפעלת מערכות הגנה אווירית בנמל ח'מיר, בצפון האי קשם. הטלוויזיה האיראנית דיווחה כי נשמעו רעשי פיצוצים נשמעו גם בג'אסק, סירייק ובנדר עבאס",
+      "link": "https://www.maariv.co.il/news/world/article-1385958",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T20:27:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/to5ezf",
+      "title": "תוצאות ההסתה: אישה נכנסה לבית כנסת - השחיתה ושפכה קפה | תיעוד",
+      "summary": "אישה אלמונית נכנסה לבית כנסת בקריית מוצקין וזרעה הרס במקום | בתיעוד ממצלמות האבטחה של המקלט המשמש כבית כנסת נראית האישה לוקחת כוס קפה מאחד הספסלים ושופכת את תכולתו על הספסלים | תיעוד (חדשות)",
+      "link": "https://www.kikar.co.il/news/to5ezf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-07T20:25:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21799806",
+      "title": "אבל בכדורסל הישראלי: מייק קרטר הלך לעולמו בגיל 71",
+      "summary": "כוכב העבר המזוהה עם הפועל חולון, שכונה בפי אוהדיה ״המשוגע״, נפטר • שיחק 11 עונות בליגה הבכירה, וב־1996 הועלתה גופייתו לתקרת אולם הפחים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21799806",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T20:11:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21799736",
+      "title": "מתגעגע למשפחה: כוכב הפועל תל אביב משתף במחיר האישי",
+      "summary": "אלייז'ה בראיינט שיתף בקשיים של 20 ימים בדרכים: האוכל הביתי שחסר לו, התא ההיפרברי שהיה רוצה לקחת לנסיעות והגעגוע למשפחה: \"זה הכי קשה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21799736",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T20:09:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21799721",
+      "title": "ארה\"ב שוב תקפה באי קאשם; בכיר איראני: לעימות צבאי יהיו השלכות חמורות",
+      "summary": "יממה לאחר שצבא ארה\"ב תקף מערכת נ\"מ באי קשם שבאיראן, לאחר שזו שיגרה טיל לעבר מטוס קרב אמריקני, שוב נשמעו שם פיצוצים • במקביל, ואנס מוביל מאחורי הקלעים מאמצים לחידוש המגעים עם טהרן, קטאר מקדמת מתווה להפסקת ההסלמה ומשמרות המהפכה מאיימים להסיר את המגבלה על טווח הטילים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21799721",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T20:06:08.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/to5cif",
       "title": "יהודי ותומך נלהב בישראל ובמלחמה באיראן: סטיבן מילר, האיש החזק החדש בבית הלבן",
@@ -1506,6 +1551,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T14:29:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21797441",
+      "title": "לשרוד את הקונגרס \"הכחול\": כך תתמודד ישראל עם הרוב הדמוקרטי החדש",
+      "summary": "בחירות האמצע יובילו לכך שישראל תתמודד החל מינואר עם סנאט ובית נבחרים ביקורתיים • אלא שדווקא עוצמתו של \"הגל הכחול\" מחלישה את כוחו של המחנה האנטי-ישראלי • קברניטי המפלגה עדיין מעריכים את הברית עם ירושלים, אבל המציאות ברורה: \"דברים לא יחזרו להיות כמו שהם היו קודם\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21797441",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T14:29:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21797441",
@@ -28569,87 +28623,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T20:34:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tnw5uw",
-      "title": "ילדים מקיאים, התושבים חוששים לצאת מהבתים: \"יש פה סרחון אימים\"",
-      "summary": "תושבים במערב ראשון לציון מדווחים מאז אתמול על ריח חריף המזכיר גז | תושבים מודאגים מספרים כי הם חוששים לצאת מבתיהם: ״יש פה סירחון אימים\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tnw5uw",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:27:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21764014",
-      "title": "בסכום דמיוני: מותג ההנעלה הישראלי בדרך לאקזיט ענק",
-      "summary": "ניסיון שני למיזוג הענק בענף הטיולים: קבוצת תמוז סחר, המחזיקה ברשת WeShoes וביבואנית קרוקס ובלנדסטון, חתמה על רכישת חברת \"שורש\" מטירת כרמל בעשרות מיליוני שקלים • כעת תמתין העסקה לאישור רשות התחרות - שבלמה מהלך דומה לפני שלוש שנים",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21764014",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T20:25:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21764014",
-      "title": "מותג ההנעלה הישראלי בדרך לאקזיט ענק - בסכום עתק",
-      "summary": "ניסיון שני למיזוג הענק בענף הטיולים: קבוצת תמוז סחר, המחזיקה ברשת WeShoes וביבואנית קרוקס ובלנדסטון, חתמה על רכישת חברת \"שורש\" מטירת כרמל בעשרות מיליוני שקלים • כעת תמתין העסקה לאישור רשות התחרות - שבלמה מהלך דומה לפני שלוש שנים",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21764014",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T20:25:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90513",
-      "title": "רוכב אופנוע נפצע בינוני בתאונה בנצרת",
-      "summary": "רוכב אופנוע בן 33 נפצע באורח בינוני בתאונת דרכים ברחוב עומר אבן אל ח'טאב בנצרת. התאונה אירעה עם מעורבות רכב ואופנוע. צוותי איחוד הצלה העניקו לרוכב טיפול רפואי ראשוני בזירה והוא פונה לבית החולים במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90513",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:22:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90512",
-      "title": "תאונה בין רכב לאופנוע ברחוב ירמיהו בירושלים — רוכב נפצע קל",
-      "summary": "צוותי איחוד הצלה הוזעקו לתאונת דרכים ברחוב ירמיהו בירושלים בין רכב לרוכב אופנוע. צוותי יחידת החוד העניקו טיפול ראשוני לרוכב האופנוע, כבן 40, שנפצע באורח קל.",
-      "link": "https://www.kikar.co.il/scoop-news/90512",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:22:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90511",
-      "title": "נער בן 16 נפצע בינוני בתאונת קורקינט חשמלי בבני ברק",
-      "summary": "נער בן 16 שרכב על קורקינט חשמלי נפצע באורח בינוני לאחר שהתנגש באוטובוס חונה ברחוב אהרונוביץ' בבני ברק. הנער נחבל בראשו וקיבל טיפול רפואי בזירה מצוותי איחוד הצלה. הוא פונה באמבולנס לבית החולים שניידר בפתח תקווה במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90511",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:22:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90510",
-      "title": "טראמפ: איראן ביקשה שנפסיק להרוג את מנהיגיה",
-      "summary": "נשיא ארה\"ב דונלד טראמפ מסר כי איראן פנתה לארצות הברית בבקשה: \"בבקשה, תפסיקו להרוג את המנהיגים שלנו\". לדבריו, \"ואנחנו נפסיק\".",
-      "link": "https://www.kikar.co.il/scoop-news/90510",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:22:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90509",
-      "title": "כ-60 אלף נוצרים אוונגליסטים התכנסו לעצרת תמיכה בישראל בפרו",
-      "summary": "כ-60 אלף נוצרים אוונגליסטים התכנסו ביום שישי לעצרת תמיכה בישראל בלימה, בירת פרו.",
-      "link": "https://www.kikar.co.il/scoop-news/90509",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T20:22:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21763899",
-      "title": "לא עוצרת: מכבי ראשון לציון גברה 70:78 על הפועל חולון",
-      "summary": "אחרי הניצחון על מכבי תל אביב, החבורה של גיא קפלן המשיכה לניצחון על עוד קבוצה ששואפת למעלה • יפתח זיו ערך בכורה מוצלחת עם 14 נקודות נגד האקסית, הופעה נהדרת של אדאמה סאנוגו לא עזרה • ניצחון ראשון לב\"ש העונה, נס ציונה גברה על הגליל",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21763899",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T20:17:46.000Z"
     }
   ]
 }
