@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:15:42.409Z",
+  "updatedAt": "2026-11-07T15:30:48.623Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bk6akhhpfg",
+      "title": "ההצפות במערכה החורפית, הטלטלה בבית הלבן - והנשיא הפרו-ישראלי שהודח | כותרות השבת",
+      "summary": "הגשם הביא להצפות בשרון: מכוניות שקעו באבן יהודה, תושבים הונחו להסתגר בקדימה צורן | אחרי התבוסה בבחירות האמצע, טראמפ הדיח את ראש הסגל בבית הלבן סוזי וויילס - ומינה במקומה את יועצו הבכיר והיהודי סטיבן מילר | דיווחים על פריצת דרך אפשרית במו\"מ מול איראן | פרגוואי: בנק ממשלתי קרס, הנשיא פניה הודח ונעצר",
+      "link": "https://www.ynet.co.il/news/article/bk6akhhpfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T15:23:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385855",
+      "title": "ירי ממכונית נוסעת בפולין: מספר ההרוגים עלה ל-5, יותר מ-10 נפצעו",
+      "summary": "חמישה בני אדם נהרגו ויותר מעשרה נפצעו בירי בעיר קרקוב שבפולין. ראש הממשלה דונלד טוסק כתב ברשת ה-X כי המשטרה חוקרת את האירוע. בדיווחים בתקשורת הפולנית צוין כי המשטרה מחפשת אחר המפגע",
+      "link": "https://www.maariv.co.il/news/world/article-1385855",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T15:20:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21797796",
+      "title": "חי מליגת העל: מכבי חיפה - מכבי נתניה 0:0",
+      "summary": "החיפאים רשמו הפסד שני ברציפות מול הפועל ת\"א ביחס שערים של 7:3, מולם ישחקו היהלומים שלזכותם רצף של ארבעה משחקים ללא הפסד • נבות רטנר וירין לוי בהרכב של ברק בכר",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21797796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T15:15:10.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/weather/article-1385851",
       "title": "הגשמים הציפו מספר מוקדים בשרון: \"להימנע מיציאות שאינן חיוניות\"",
       "summary": "גשמים עזים נרשמו היום באזור השרון וגרמו להצפות במספר מוקדים בקדימה צורן, והמועצה קראה לתושבים להימנע מיציאות שאינן חיוניות. באשדוד נמדדו כ-90 מ\"מ ביממה, ובנחלי השרון נרשמו זרימות משמעותיות",
@@ -42,12 +69,39 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1bjah2azg",
+      "title": "5 הרוגים מירי בפולין: \"היורה פתח באש ממכונית בכיכר הראשית בקרקוב\"",
+      "summary": "לפחות 5 נהרגו ועוד 12 נפצעו מירי בכיכר המרכזית של העיר השנייה בגודלה בפולין: \"גם שוטרים נפצעו, היורה פתח באש ממכונית - ונעצר כשניסה להימלט\"",
+      "link": "https://www.ynet.co.il/news/article/h1bjah2azg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T15:10:04.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1bjah2azg",
       "title": "פולין: הרוגים ופצועים מירי בכיכר המרכזית בקרקוב",
       "summary": "",
       "link": "https://www.ynet.co.il/news/article/h1bjah2azg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-07T15:10:04.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960416",
+      "title": "ירי בכיכר המרכזית בקרקוב: דיווחים על הרוגים ופצועים",
+      "summary": "לפי דיווחים בתקשורת הפולנית, יריות נורו מתוך רכב שחור סמוך לכיכר המרכזית בעיר. הרשויות אישרו כי ישנם הרוגים ופצועים. המשטרה מחפשת אחר היורה",
+      "link": "https://www.walla.co.il/news/world/383960416",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T15:09:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21797456",
+      "title": "חמישה הרוגים בקרקוב: \"רעול פנים פתח בירי מרכב\" | תיעוד מהזירה",
+      "summary": "חשוד פתח באש בלב המרכז התיירותי העתיק של העיר הפולנית • זהות הקורבנות טרם ידועה וכוחות גדולים של משטרה באזור",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21797456",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T15:07:33.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385843",
@@ -28884,141 +28938,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T15:31:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21762132",
-      "title": "בזכות פרט טכני: אוריין גורן ייכנס לסגל ברצלונה בליגת האלופות",
-      "summary": "לפי סרג'י קאפדווילה מ\"ספורט\" הקטאלני, הקשר הישראלי הצעיר צפוי להיות חלק מהסגל של האנזי פליק למפגש עם אסטון וילה והתאמן עם הקבוצה הבוגרת • זה השחקן שיחליף - והסיבה לכך",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21762132",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:30:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/peoples/boy-george-president-herzog-meeting-israel-support",
-      "title": "נשיא המדינה אירח את בוי ג'ורג': \"עמדת בבהירות מוסרית לצד ישראל\"",
-      "summary": "כוכב הפופ הבריטי התארח בבית הנשיא בירושלים • הרצוג העניק לו דגם פרחי כלנית מרעים | \"השיר שלך נגע בלבם של אנשים בכל העולם\" (אנשים)",
-      "link": "https://www.kikar.co.il/peoples/boy-george-president-herzog-meeting-israel-support",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T15:29:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384075",
-      "title": "כלבים מגזע מסוכן בתנאי הזנחה: 16 בעלי חיים הוחרמו במסעדה",
-      "summary": "ארבעה כלבים בוגרים ו-12 גורים מגזע המוגדר כמסוכן הוחרמו במבצע אכיפה במסעדה. על פי החשד, הכלבים הוחזקו בתנאי הזנחה קשים, ללא רישיונות וחיסונים כנדרש",
-      "link": "https://www.maariv.co.il/news/law/article-1384075",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T15:27:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384075",
-      "title": "מבצע אכיפה בצפון: 16 כלבים מגזע מסוכן הוחרמו בעקבות חשד להזנחה",
-      "summary": "ארבעה כלבים בוגרים ו-12 גורים מגזע המוגדר כמסוכן הוחרמו במבצע אכיפה במסעדה. על פי החשד, הכלבים הוחזקו בתנאי הזנחה קשים, ללא רישיונות וחיסונים כנדרש",
-      "link": "https://www.maariv.co.il/news/law/article-1384075",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T15:27:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21762072",
-      "title": "בוי ג'ורג' נפגש עם הרצוג - וקיבל מתנה יוצאת דופן",
-      "summary": "כוכב הפופ הבריטי ממשיך את ביקורו בישראל, והיום התקבל בלשכת הנשיא למפגש יוצא דופן • לצד הדברים שסיפר על הקשר שלו לעם היהודי, הוענקה לו מחווה אישית ומרגשת • מוקדם יותר נחשף לעדויות קשות מאירועי 7 באוקטובר",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21762072",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:27:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762268",
-      "title": "שתי סוכריות ביום: הכירו את Gema, המותג שמביא חוויה אחרת לקריאטין",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21762268",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:24:31.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/healthy/myhealth/383959553",
-      "title": "יותר כבד לא תמיד אומר יותר שריר: איך לנהל משקלים בחדר הכושר?",
-      "summary": "גם משקל קל יכול לייצר סט קשה, וגם אימון כבד לא מחייב להגיע לכשל. מאמן הכושר יוסי זאבי על ההבדלים בין כוח לגדילת שריר, והסיבה שאין טווח חזרות שמתאים לכולם",
-      "link": "https://www.walla.co.il/healthy/myhealth/383959553",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T15:23:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762271",
-      "title": "אקווריום קטן לבית: איך בוחרים את הדגם המתאים ומה חשוב לדעת לפני הקנייה?",
-      "summary": "לא צריך בית גדול או חדר מיוחד כדי ליהנות מהיופי של עולם המים. אקווריום ביתי יכול להפוך גם פינה קטנה בסלון, שולחן עבודה או מדף במשרד לאזור מעוצב ומלא חיים. תנועת הדגים, הצמחייה והמים יוצרים מראה טבעי ומרגיע, ולכן יותר ויותר אנשים בוחרים לשלב אקווריומים קטנים כחלק מעיצוב הבית",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21762271",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:22:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21761401",
-      "title": "3 כוסות קפה ביום? חכו שתשמעו כמה שותה מנכ\"ל נסטלה",
-      "summary": "מנכ\"ל ענקית המזון והמשקאות נסטלה, פיליפ נברטיל, חושף שגרת קפאין קיצונית • כיצד המשקה עוזר לו להיות בשיא התפקוד בבוקר, ואיך זה משפיע על שעות השינה שלו?",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21761401",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:20:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762287",
-      "title": "יוקרה בלי דרמה: ענקית הרהיטים מצפון הארץ הגיעה למרכז",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21762287",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:20:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/change-bloc-leaders-meeting-lieberman-eisenkot-ben",
-      "title": "לראשונה מאז הבחירות: ראשי גוש השינוי - כולל ליברמן יתכנסו מחר",
-      "summary": "מחר ב-11:30 יתכנסו ראשי גוש השינוי במלון דן אכדיה הרצליה • המפגש הראשון מאז תוצאות הבחירות יעסוק בתיאום מהלכי הגוש | האם יצליחו לגשר על המחלוקות? (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/change-bloc-leaders-meeting-lieberman-eisenkot-ben",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T15:19:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762290",
-      "title": "קופת גמל להשקעה כקצבה מגיל 60: איך ניתן ליהנות מפטור ממס?",
-      "summary": "קופת גמל להשקעה היא אפיק חיסכון והשקעה המאפשר לצבור כספים לאורך זמן ולשמור על האפשרות למשוך1 אותם גם לפני גיל הפרישה",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21762290",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:18:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21762290",
-      "title": "במימון עו”ד דוד אנג’ל? ביקשתי שיהיה בשיתוף פורטל האזרחות וההגירה איפה הקישור?",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21762290",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:18:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21757671",
-      "title": "הייתם עוצרים דייט על רקע הצבעה למפלגה שונה?",
-      "summary": "האם ההצבעה של בן או בת הזוג הפוטנציאליים היא נושא חשוב מספיק לפסול את הקשר איתם רק בגללה? צפו בדיון הסוער",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21757671",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T15:16:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/fire-electric-bikes-shop-agrippas-jerusalem",
-      "title": "שריפה עזה בחנות אופניים חשמליים בירושלים: לוחמי האש VS סוללות ליתיום",
-      "summary": "צוותי כיבוי והצלה מתחנת מרחב האומה פועלים בזירה • סוללות ליתיום מייצרות מטען אש כבד ופיצוצי משנה | לוחמי האש מבצעים סריקות לשלילת לכודים (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/fire-electric-bikes-shop-agrippas-jerusalem",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T15:16:24.000Z"
     }
   ]
 }
