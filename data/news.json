@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:15:47.749Z",
+  "updatedAt": "2026-11-07T21:30:48.223Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,63 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/sj8z11ptfe",
+      "title": "מהמנדט לאיזנקוט ועד ביטול חוקי המהפכה המשפטית: הלו\"ז הפוליטי וכל האתגרים",
+      "summary": "מיד לאחר שהנשיא יאפשר ליו\"ר ישר! להקים ממשלה ב-28 ימים, יפעלו אנשי איזנקוט והגוש להחליף את יו\"ר הכנסת ולהשתלט על סדר היום במשכן. על הפרק: הקמת ועדת חקירה ממלכתית ל-7/10 וביטול חוקים שאושרו בכנסת הקודמת. מתי תיתכן הטלת המנדט על נתניהו, ובאיזה שלב המהלך יוכל להגיע לכנסת?",
+      "link": "https://www.ynet.co.il/news/article/sj8z11ptfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T21:22:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1385976",
+      "title": "לא רק מעורר: מחקר של 43 שנים חושף יתרון נוסף של הקפה",
+      "summary": "מחקר שעקב אחר מבוגרים בארה\"ב במשך עד 43 שנים מצא קשר בין שתיית קפה המכיל קפאין לסיכון נמוך יותר לדמנציה. החוקרים זיהו את הכמות היומית שנקשרה לתוצאות הטובות ביותר, אך מדגישים שלא הוכח קשר סיבתי",
+      "link": "https://www.maariv.co.il/news/health/article-1385976",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T21:17:02.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1lf00wtpfl",
+      "title": "איזנקוט יקבל את המנדט, אבל ליברמן כבר עובד בנתיב מקביל",
+      "summary": "יו\"ר ישר! יקבל את המנדט להרכבת הממשלה, אבל בעודו חותר לממשלת חירום של 48 מנדטים, ליברמן כבר מקדם מהלך עצמאי לצירוף החרדים - תחילה יהדות התורה, ובהמשך הוא מקווה גם את ש\"ס. מבחינתו, האפשרויות הן ממשלה של 61 עם החרדים, או בחירות. נתניהו, שזיהה את הסדקים בגוש, יצא לקרב בלימה",
+      "link": "https://www.ynet.co.il/news/article/b1lf00wtpfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T21:16:31.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383960451",
+      "title": "תביעת נתניהו נגד וואלה תימחק: \"לא טענו כי קיבל כספים מקטר\"",
+      "summary": "בית משפט השלום בירושלים נתן תוקף של פסק דין להסדר פשרה בין הצדדים, שלפיו התביעה תימחק ללא צו להוצאות. וואלה הבהירה כי לא טענה שנתניהו קיבל כספים מקטר",
+      "link": "https://www.walla.co.il/news/law/383960451",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T21:14:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1vxzzt6fg",
+      "title": "מסע הירי בפולין: \"הרוצח היה לאומני קיצוני, 3 גופות אותרו בביתו\"",
+      "summary": "לפי הרשויות הצעיר בן ה-25 שפתח באש ממכונית נוסעת לכל עבר בכיכר הראשית של קרקוב, ורצח שישה בני אדם לפני שנפצע ונעצר בקרב יריות עם השוטרים, החזיק בעמדות \"קיצוניות מאוד\" וברכבו נמצאו \"כלי נשק רבים\". ראש הממשלה חשף בהמשך כי בחיפוש בביתו אותרו שלוש גופות, ככל הנראה של בני משפחתו",
+      "link": "https://www.ynet.co.il/news/article/r1vxzzt6fg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T21:13:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21799671",
+      "title": "\"לוחם אלים\": טראמפ הציע למנות ראש ארגון היאבקות לדובר הבית הלבן",
+      "summary": "הנשיא הבטיח את התפקיד למנכ\"ל ארגון הקרבות UFC דיינה וייט ואמר כי \"הוא יגן עלינו מהשמאל המטורף\" • בתקרית קודמת, כתב שאל את טראמפ \"איך זה מרגיש להיות לוזר?\" והנשיא נטש את המקום",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21799671",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T21:05:07.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/to5gxi",
       "title": "האברך שנחטף במהלך ה'שבע ברכות' נכנס לגדול הדור: \"אם יראו שנכנעת - זה ישבור את כולם\"",
-      "summary": "האברך הטרי, החתן הרב יערי ליברמן – שמעצרו הברוטלי בעיצומם של שבעת ימי המשתה לנגד עיני כלתו עורר זעם עצום והפגנות סוערות – עלה מיד עם שחרורו ממתקן הכליאה הצבאי אל מעונו של מנהיג עולם התורה הגרמ\"ה הירש כדי להכריע על המשך דרכו: \"באתי מתוך התבטלות גמורה לרב, מה שהרב יגיד לי לעשות – אני אעשה!\" | צפו בתשובתו של הרב (חרדים)",
+      "summary": "האברך הטרי, החתן הרב יערי ליברמן – שמעצרו הברוטלי בעיצומם של שבעת ימי המשתה לנגד עיני כלתו עורר זעם עצום והפגנות סוערות – עלה מיד עם שחרורו ממתקן הכליאה הצבאי אל מעונו של הגרמ\"ה הירש כדי להכריע על המשך דרכו: \"באתי מתוך התבטלות גמורה לרב, מה שהרב יגיד לי לעשות – אני אעשה!\" | צפו בתשובתו של הרב (חרדים)",
       "link": "https://www.kikar.co.il/haredim/to5gxi",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -543,6 +597,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-07T18:10:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21798842",
+      "title": "\"יחזור כמו בומרנג\": תוכנית הפעולה בליכוד אחרי הענקת המנדט לאיזנקוט",
+      "summary": "במפלגת השלטון מגיבים על הענקת המנדט ליו\"ר ישר!, ומזהים שורה של מכשולים פוליטיים בדרך לקואליציה: ההתנגדות החרדית לשותפות עם גלעד קריב ויאיר גולן, המחלוקת סביב הסיעות הערביות והסוגיה הנפיצה של חוק הגיוס • במקביל, בליכוד ממשיכים להצהיר על נכונות לממשלת אחדות, אך מבהירים: \"שיבואו לדבר על הכל\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21798842",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T18:08:10.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21798842",
@@ -1438,7 +1501,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385855",
       "title": "ירי ממכונית נוסעת בפולין: מספר ההרוגים עלה ל-5, יותר מ-10 נפצעו",
-      "summary": "חמישה בני אדם נהרגו ויותר מעשרה נפצעו בירי בעיר קרקוב שבפולין. ראש הממשלה דונלד טוסק כתב ברשת ה-X כי המשטרה חוקרת את האירוע. אדם אחד נורה על ידי השוטרים - כך דיווחה המשטרה הפולנית",
+      "summary": "שישה בני אדם נהרגו ויותר מעשרה נפצעו בירי בעיר קרקוב שבפולין. ראש הממשלה דונלד טוסק כתב ברשת ה-X כי המשטרה חוקרת את האירוע. אדם אחד נורה על ידי השוטרים - כך דיווחה המשטרה הפולנית",
       "link": "https://www.maariv.co.il/news/world/article-1385855",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -1578,6 +1641,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T15:09:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21797456",
+      "title": "אירוע הירי בפולין: החשוד רצח את בני משפחתו לפני שיצא למסע הירי",
+      "summary": "חשוד פתח באש בלב המרכז התיירותי העתיק של העיר הפולנית • זהות הקורבנות טרם ידועה וכוחות גדולים של משטרה באזור • החשוד נוטרל ונתפס על ידי כוח משטרתי לא רחוק מזירת האירוע • ר\"מ פולין: שוטרים שפשטו על ביתו של היורה איתרו במקום גופות של שתי נשים וגבר • על פי הערכת הרשויות, ההרוגים שנמצאו בדירה הם ככל הנראה בני משפחתו של החשוד",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21797456",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T15:07:33.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21797456",
@@ -28542,150 +28614,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T21:52:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21740196",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "כוכב אוראנוס השולט במזל דלי, מקיים עתה קשרים ענפים עם כוכב פלוטו. מן ההיבט הנומרולוגי יש בתופעה כדי לחבר אתכם עם אנשים ומקומות המושפעים מן המספר 8",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21740196",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21740197",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "כוכב נפטון השולט במזל דגים, מקיים עתה קשרים ענפים עם הכוכבים סטורן ויופיטר. מן ההיבט הנומרולוגי יש בתופעה כדי לחבר אתכם עם אנשים ומקומות המושפעים מן המספרים 4 ו-3",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21740197",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21740150",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "אתם מושפעים היום מכוכב וונוס האחראי על היופי ועל האהבה. לא פלא כי הרפתקה בתחום הזוגי עשויה להתחיל היום",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21740150",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21740151",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "צריכים להאט את הקצב ולא למהר לשום מקום. זהו יום שמתאים לתכנון ופחות לביצוע",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21740151",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21740152",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "גזרת מזל בתולה מארחת עתה את כוכב מארס המקיים קשרים ענפים עם הכוכבים פלוטו, ונוס ומרקורי. מן ההיבט הנומרולוגי יש בתופעה כדי לחבר אתכם עם אנשים ומקומות המושפעים מן המספרים 8, 6 ו-5",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21740152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21740174",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "מי שנמצא בזוגיות קבועה, צריך לעמוד על המשמר. יום בעל פוטנציאל להתלקחות",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21740174",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21740175",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "יום מלא וגדוש צפוי לכם בעקבות השפעה של הכוכבים ונוס, מארס ויופיטר. אתם במצב רוח מרומם וצפויים הספקים טובים בעבודה",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21740175",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740176",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "מצבה של האנרגיה הקוסמית מוביל אל יום מתאים לתכנון או לביצוע נסיעה ספונטאנית. הפתעה צפויה לכם בדרכים או במקום בו תתאכסנו",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740176",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21740195",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "קשרים ממוזלים של כוכבכם סטורן מולידים יום מוצלח בו כמעט כל מה שאתם עושים, מצליח. אתם מצליחים להשיג את מבוקשכם בקלות יחסית",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21740195",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "בגלל השפעה מעכבת של כוכב מארס אתם מרגישים עייפות ואפילו חוסר אונים מסוים מול מה שקורה סביבכם. נראה כי האווירה התוקפנית אינה פוסחת על אף אחד",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21740137",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
-      "title": "מזל שור, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "כוכב יופיטר מעורר אתכם לפעילות ובמהלך היום צפויות אנרגיות פיסיות תוססות. אהבה חדשה עומדת על הפרק עבור הפנויים שביניכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21740138",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 03.11.2026",
-      "summary": "אנרגיות חלומיות זורמות אליכם מכיוונו של כוכב מרקורי, אך היקום מעדיף לרסן קמעה את הרפתקנותכם. יש לכם צורך בזמן ובמעט יותר פרטיות מכפי שאתם רגילים",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21740139",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:30:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90517",
-      "title": "חברי הכנסת של ש״ס נכנסו הערב למעונו של הגר״א סאלים להתייעצות",
-      "summary": "חברי הכנסת של ש״ס, מיכאל מלכיאלי וינון אזולאי, נכנסו הערב למעונו של הגר״א סאלים להתייעצות ולקבלת הנחייתו בעניין המלצת סיעת ש״ס לנשיא המדינה.",
-      "link": "https://www.kikar.co.il/scoop-news/90517",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T21:29:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90516",
-      "title": "טראמפ: מחירי הנפט צונחים כי איראן רוצה הסדר מוקדם ככל האפשר",
-      "summary": "דונלד טראמפ כתב ברשת החברתית שלו כי מחירי הנפט צונחים מכיוון שאנשים מרגישים שלא תהיה מלחמה עם איראן. לדבריו, איראן רוצה להגיע להסדר מוקדם ככל האפשר. \"זה בהחלט עשוי לקרות!\" הוסיף.",
-      "link": "https://www.kikar.co.il/scoop-news/90516",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T21:27:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21764240",
-      "title": "דיווח: ארה\"ב תקפה את האי קשם שבאיראן",
-      "summary": "לפי ה\"וול סטריט ג'ורנל\", הכוחות האמריקניים תקפו מטרות באי האסטרטגי הסמוך לכניסה למצרי הורמוז, כחלק מסדרת פעולות צבאיות מוגבלות שבוצעו בשבועות האחרונים • קודם לכן, טראמפ טען כי האיראנים מעוניינים בעסקה בהקדם",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21764240",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:20:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21764240",
-      "title": "ארה\"ב לא ממהרת לתקוף: \"יש נתיב להסכם עם איראן\"",
-      "summary": "סגן נשיא ארה\"ב ג'יי די ואנס חשף כי חלה התקדמות במגעים עם טהרן, והבהיר כי לא הוצב מועד אחרון להשגת הסדר • טראמפ טען כי האיראנים מעוניינים בעסקה בהקדם • ברקע: מדינות המפרץ נערכות להסלמה, והאפשרות הצבאית נותרת על השולחן",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21764240",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T21:20:19.000Z"
     }
   ]
 }
