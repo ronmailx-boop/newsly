@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:31:00.761Z",
+  "updatedAt": "2026-11-07T22:46:01.034Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21800281",
+      "title": "ההתחממות בדרך: אחרי הסערה - זה השבוע שמחכה לנו",
+      "summary": "המערכת החורפית תדעך במהלך יום ראשון, אך עד הצהריים עדיין קיים חשש להצפות בערי מישור החוף • מיום שני השמיים יתבהרו, והטמפרטורות יעלו ברציפות עד לשיא ביום חמישי • סוף השבוע צפוי להיות שמשי ונעים במיוחד לעונה",
+      "link": "https://www.israelhayom.co.il/weather/article/21800281",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T22:29:07.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14951537",
       "title": "המקום שבו אנו צודקים",
@@ -255,6 +264,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T21:18:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1385976",
+      "title": "שותים קפה בכל בוקר? מחקר ענק מצא קשר מפתיע לבריאות המוח",
+      "summary": "מחקר שעקב אחר מבוגרים בארה\"ב במשך עד 43 שנים מצא קשר בין שתיית קפה המכיל קפאין לסיכון נמוך יותר לדמנציה. החוקרים זיהו את הכמות היומית שנקשרה לתוצאות הטובות ביותר, אך מדגישים שלא הוכח קשר סיבתי",
+      "link": "https://www.maariv.co.il/news/health/article-1385976",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T21:17:02.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1385976",
@@ -1722,6 +1740,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-07T15:23:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385855",
+      "title": "הטבח בקרקוב מסתעף: שלוש גופות נוספות נמצאו בבית היורה",
+      "summary": "שישה בני אדם נרצחו ולפחות 15 נפצעו במסע הירי במרכז קרקוב. שלוש גופות נוספות, ככל הנראה של בני משפחת היורה, אותרו בביתו • המשטרה אישרה כי אזרח בריטי נמנה עם ההרוגים",
+      "link": "https://www.maariv.co.il/news/world/article-1385855",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T15:20:30.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385855",
