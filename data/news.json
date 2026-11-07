@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:30:48.640Z",
+  "updatedAt": "2026-11-07T19:45:46.526Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bytnvep6zl",
+      "title": "הטסלה נבלמה רגע לפני שהעץ התמוטט: \"כמו בהילוך איטי\" | התיעודים - והתחזית להמשך",
+      "summary": "עץ שקרס בעקבות מזג האוויר הסוער באזור מושב צור משה כמעט פגע ברכב שבו נסעה משפחה מיפו. המערכת האוטונומית בלמה, האב סיפר ל-ynet: \" הגשם היה כל כך כבד, בלמנו יחד\". מכבי אש הוזעקו לחילוץ מחניון תת-קרקעי שהוצף ברמת גן. מחר עדיין צפויים גשמים וסופות רעמים, וכן קיים חשש להצפות ולשיטפונות",
+      "link": "https://www.ynet.co.il/news/article/bytnvep6zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T19:35:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/to5d1c",
+      "title": "כעת זה רשמי: הנשיא הודיע כי יטיל את הרכבת הממשלה על אייזנקוט | ההודעה המלאה",
+      "summary": "נשיא המדינה יצחק הרצוג הודיע הערב כי יטיל את מלאכת הרכבת הממשלה על גדי אייזנקוט לאחר שקיבל 67 ממליצים יחד עם המפלגות הערביות | יהדות התורה לא המליצה על אף מועמד (חדשות)",
+      "link": "https://www.kikar.co.il/news/to5d1c",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-07T19:31:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21799483",
+      "title": "דיא סבע כבש שער אדיר - אבל בטורקיה התעסקו במשהו אחר",
+      "summary": "עוד לפני המשחק מול גלאטסראיי, אתר טורקי הקדיש כתבה למוצאו ולזהותו של קשר אמדספור • על המגרש הוא כבש בבעיטה חופשית וסחט מחמאות: ״השאיר את השוער חסר אונים״ • קבוצתו הפסידה 4:3",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21799483",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:29:57.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1385937",
       "title": "הנשיא הרצוג הטיל על גדי איזנקוט את המנדט להקמת הממשלה - זה מה שיקרה מעכשיו",
       "summary": "מרגע הטלת מלאכת הרכבת הממשלה על חבר הכנסת הנבחר, יעמדו לרשותו, על פי חוק יסוד: הממשלה, 28 ימים להרכיב ממשלה חדשה בישראל. בסמכות נשיא המדינה להעניק ארכה",
@@ -39,6 +66,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-07T19:28:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21799037",
+      "title": "הרכש של בית\"ר ירושלים כיכב מולה - והיא איבדה נקודות יקרות",
+      "summary": "ננה גבמבל חתם בבירה לקראת העונה הבאה, אבל בינתיים הוביל את עירוני טבריה ל-1:1 • אלמוג כהן עם תיקו שלישי בארבעת המשחקים האחרונים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21799037",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:26:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21799473",
+      "title": "הרצוג הודיע כי יטיל את המנדט להרכבת הממשלה על גדי איזנקוט",
+      "summary": "פרטים נוספים מייד",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21799473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:24:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960441",
+      "title": "הנשיא הודיע רשמית: איזנקוט יקבל את המנדט להרכבת הממשלה",
+      "summary": "לאחר סבב שיחות עם ראשי המפלגות, הודיע הנשיא ליו\"ר ישר! כי יטיל עליו את מלאכת הרכבת הממשלה. איזנקוט זכה לתמיכת 67 חברי כנסת, לעומת 46 לנתניהו",
+      "link": "https://www.walla.co.il/news/politics/383960441",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T19:24:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21799399",
+      "title": "עדי שילון נזכרה בנישואים ליוסף סוויד: \"לא יהיה לי עוד פעם?\"",
+      "summary": "בפרק חדש של הפודקאסט שלה \"אהבתי\", עדי שילון אירחה את דפנה ארמוני לשיחה חשופה על אהבה, פרידות והורות • באמצע השיחה היא שיתפה במחשבה שליוותה אותה עוד בתקופת הנישואים • ועל הבדידות שאפשר להרגיש גם בתוך זוגיות",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21799399",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:21:58.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/to5bmn",
@@ -61,7 +124,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21799301",
       "title": "ישראלי נחת ביוון ונעצר: \"פגע בבטיחות הטיסה\"",
-      "summary": "נוסע ישראלי בן 39 התעלם שוב ושוב מהוראות הצוות בטיסה מבודפשט לסלוניקי, קם ממושבו ופתח את תאי האחסון לקראת הנחיתה • שוטרים המתינו לו בנמל התעופה ועצרו אותו • הוא חשוד בסיכון בטיחות כלי טיס ובהפרת הסדר הציבורי",
+      "summary": "נוסע ישראלי בן 39 התעלם שוב ושוב מהוראות הצוות בטיסה מבודפשט לסלוניקי, קם ממושבו ועישן סיגריה אלקטרונית • שוטרים המתינו לו בנמל התעופה ועצרו אותו • הוא חשוד בסיכון בטיחות כלי טיס ובהפרת הסדר הציבורי",
       "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21799301",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -120,6 +183,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T18:54:52.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960437",
+      "title": "\"תשביע ממשלה עכשיו\": המסר המפתיע של טראמפ לאיזנקוט",
+      "summary": "לפי דיווח של בן כספית במהלך שידור \"פגוש את העיתונות\" בערוץ 12, גורמים בסביבת נשיא ארה\"ב העבירו מסר לאנשי יו\"ר ישר! לפעול להקמת ממשלה ללא דיחוי. \"תשביע ממשלה עכשיו\", מסרו מסביבת טראמפ",
+      "link": "https://www.walla.co.il/news/politics/383960437",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T18:39:56.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960437",
@@ -834,6 +906,15 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3875245",
+      "title": "ממשיכה לאבד נקודות: רק 1:1 לבית\"ר ירושלים מול טבריה",
+      "summary": "הצהובים-שחורים שולטים, אבל עדיין לא מצאו את הרשת מול נועלת הטבלה. קרבאלי הפציץ למשקוף, אצילי צלל ולא קיבל פנדל",
+      "link": "https://sports.walla.co.il/item/3875245",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T16:14:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875245",
       "title": "חי: אצילי פישל, טבריה הדהימה, אבל בית\"ר ירושלים חזרה",
       "summary": "הצהובים-שחורים שולטים, אבל עדיין לא מצאו את הרשת מול נועלת הטבלה. קרבאלי הפציץ למשקוף, אצילי צלל ולא קיבל פנדל",
       "link": "https://sports.walla.co.il/item/3875245",
@@ -1146,6 +1227,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-07T15:12:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1bjah2azg",
+      "title": "6 נרצחו במסע ירי בפולין: \"יורה פתח באש ממכונית בקרקוב, הושפע מהימין הקיצוני\"",
+      "summary": "עוד 15 נפצעו במתקפת ירי בכיכר המרכזית של קרקוב, מוקד תיירותי מרכזי. היורה, שהיה לבוש במדי צבא וחבש קסדה, פתח באש עם רובה מ\"דגם צבאי\" מתוך מכונית נוסעת - ופגע בקורבנותיו באקראי: \"ירה גם לעבר חנות זארה ורכבת חשמלית\". הוא נלכד ונפצע בקרב יריות עם שוטרים, שאחד מהם במצב אנוש. עוברי אורח התבצרו בחנויות, עד ראייה על רגעי הבהלה: \"שמענו 20 יריות, תיירים לא הבינו מה קורה\"",
+      "link": "https://www.ynet.co.il/news/article/h1bjah2azg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T15:10:04.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1bjah2azg",
@@ -28551,60 +28641,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-02T19:46:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21763857",
-      "title": "אחדות. לשם מה?",
-      "summary": "לו רצה נתניהו אחדות, היה אומר זאת • הדבר היחיד שהוא ושופריו הנאמנים עושים, המשך קמפיין ההפחדה נגד 20 אחוזים מהאוכלוסייה ונגד ראשי גוש השינוי",
-      "link": "https://www.israelhayom.co.il/opinions/article/21763857",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T19:43:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/india-refinery-fire-visakhapatnam",
-      "title": "פיצוץ בבית זיקוק בהודו: להבות ענק ועשן עד לב השמים – כך זה נראה",
-      "summary": "שריפה פרצה במתקן של חברת HPCL בעיר וישאקפאטנם • כוחות הכיבוי השתלטו על האש, לא דווח על נפגעים | התיעודים עוררו בהלה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/india-refinery-fire-visakhapatnam",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T19:42:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21763823",
-      "title": "\"העמיד אותו במקום\": בן גביר תקף מגיאורגיה, המפכ\"ל הופתע במרוקו",
-      "summary": "בעקבות עתירה לבג\"ץ שבה האשים בן גביר את המפכ\"ל באלימות קשה וב\"רצון לראות דם\" בהפגנות החרדים, נחשף נתק מוחלט בין השניים – בזמן ששניהם שוהים בחו\"ל • בסביבת המפכ״ל לוי מבהירים: \"הכול שקר וכזב\". המפכ\"ל לשעבר קראדי: \"בן גביר ממשיך במסעו להשמדת המשטרה\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21763823",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T19:41:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ukraine-military-facility-soldiers-detained",
-      "title": "אירוע חריג בקייב: עשרות חיילים אותרו בדירת מסתור אחרי התעללות של הצבא",
-      "summary": "עשרות אנשים התקהלו מחוץ למתחם צבאי סמוך לקייב | ארבעה חיילים פונו לטיפול רפואי | פרשה מסתורית שמעוררת שאלות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ukraine-military-facility-soldiers-detained",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T19:40:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/education/article-1384156",
-      "title": "האלימות נמשכת: תלמיד תקף מורה באלימות קשה - הלימודים יתחילו באיחור",
-      "summary": "צוות ההוראה בבית הספר בגולן נותר בטלטלה לאחר שתלמיד תקף מורה ופגע בעובדת הוראה נוספת. הסתדרות המורים הודיעה על דחיית פתיחת הלימודים לשעה 9:00 ועל קיום שיחת הסברה לצוות",
-      "link": "https://www.maariv.co.il/news/education/article-1384156",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T19:35:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/mayriv/haredi-coalition-politics-idf-draft",
-      "title": "מ'חוק השתמטות' ל'חוק גיוס': החרדים עשויים ליפול למלכודת | מעייריב",
-      "summary": "ערפול סביב עמדת יהדות התורה - חיבוק דב של נתניהו לדרעי והכחשת הגר\"מ מאיה | תעלומה: לאן נעלמה ההסתה התקשורתית נגד החרדים? | מעצר החתן יערי ליברמן: אלימות משטרתית מזעזעת ושחרור מוקדם | בפעם הראשונה: ראשי הישיבות נכנסים לעובי הקורה של מחירי הדיור | התיעודים הנדירים של מרן החזון אי\"ש זצוק\"ל",
-      "link": "https://www.kikar.co.il/mayriv/haredi-coalition-politics-idf-draft",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T19:33:59.000Z"
     }
   ]
 }
