@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:01:04.093Z",
+  "updatedAt": "2026-11-07T20:15:53.994Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/to5cif",
+      "title": "יהודי ותומך נלהב בישראל ובמלחמה באיראן: סטיבן מילר, האיש החזק החדש בבית הלבן",
+      "summary": "סטיבן מילר, יועצו של הנשיא טראמפ לענייני הגירה הפך ביום שישי לאיש החזק בבית הלבן במקומה של סוזי ווילס שפוטרה מתפקידה לאחר התבוסה בבחירות האמצע | סטיבן מילר הוא אחד הקולות הניציים ביותר בבית הלבן, תומך נלהב בישראל ובמלחמה באיראן, ומינויו אומר הרבה על כוונותיו של טראמפ לאחר בחירות האמצע (כתבת פרופיל)",
+      "link": "https://www.kikar.co.il/world-news/to5cif",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-07T20:00:23.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960444",
+      "title": "מחאה נגד עסקים יהודיים בפילדלפיה: \"אנטישמיות שנועדה להפחיד\"",
+      "summary": "פעילים פרו-פלסטינים מתכננים לקיים מחר רכיבת אופניים נגד שישה עסקים בבעלות יהודית וישראלית, סמוך ליום השנה לליל הבדולח. הרשויות גינו את היוזמה, והקהילה היהודית נערכת למפגן תמיכה בעסקים",
+      "link": "https://www.walla.co.il/news/world/383960444",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T19:58:43.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91126",
       "title": "דיווח ראשוני: פיצוצים באי קאשם שבאיראן",
       "summary": "",
@@ -39,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-07T19:49:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21799351",
+      "title": "עמי אילון אישר כי נפגש עם זיני: \"על שירות הביטחון להגן על המשטר הדמוקרטי\"",
+      "summary": "תחת הסיסמה \"נתניהו וזיני, אתם משחקים באש\", הפגנה התקיימה הערב בכיכר הבימה נגד הניסיונות לערער על תוצאות הבחירות לכנסת ה-26 • ראש השב\"כ לשעבר אישר כי נפגש עם זיני והזהיר מפני פגיעה באמון הציבור • שר המשפטים לשעבר הצהיר כי \"הציבור הכריע להחליף את ממשלת האסון\", ואלי בכר קרא לפטר את זיני - אם יתברר כי החקירות נעשו ללא בסיס ראייתי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21799351",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:47:22.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ryxt5lptgg",
@@ -57,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-07T19:35:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21799471",
+      "title": "מור ממן ודוד אזולאי שוברים שתיקה: \"זה לא הסיפור\"",
+      "summary": "אחרי הריאיון של שיר הלל ב\"סויסה + 1\", מור ממן ודוד אזולאי מעלים סדרת סטוריז, משמיעים שיחה עם הוריה ומציגים את הגרסה שלהם למה שקרה. ממן דוחה את הנרטיב שנוצר סביבה, ואזולאי כבר שוקל להמשיך לפודקאסט תגובה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21799471",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:34:43.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/to5d1c",
@@ -93,6 +129,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T19:26:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21799473",
+      "title": "הרצוג הודיע: המנדט להרכבת הממשלה מוענק לאיזנקוט",
+      "summary": "בתום סבב ההתייעצויות בבית הנשיא ואחרי שנפגש בנפרד עם יו\"ר ישר! ויו\"ר הליכוד נתניהו, הרצוג החליט להטיל את המנדט להרכבת הממשלה על איזנקוט • זאת, לאחר שזכה לתמיכת 67 חברי כנסת לעומת 46 שהמליצו על נתניהו • מעמד ההטלה הרשמי יתקיים מחר בשעה 17:00",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21799473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T19:24:42.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21799473",
@@ -915,6 +960,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21798100",
+      "title": "קרן פלס: \"בלי אף אחד\"",
+      "summary": "הזמרת, היוצרת והאקסית של נועם טור פתחה את המצלמה שלה ופצחה בווידוי בשעת לילה מאוחרת למדי בנוגע לאמת על חייה הפרטיים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21798100",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T16:16:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21798100",
       "title": "קרן פלס מודה: זאת האמת על חיי הפרטיים",
       "summary": "הזמרת, היוצרת והאקסית של נועם טור פתחה את המצלמה שלה ופצחה בווידוי בשעת לילה מאוחרת למדי בנוגע לאמת על חייה הפרטיים",
       "link": "https://www.israelhayom.co.il/forreal/localy/article/21798100",
@@ -1563,6 +1617,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21797308",
+      "title": "אנה ארונוב: \"יש משהו שאני באמת מנסה להבין\"",
+      "summary": "לאחר שעוקבת תקפה אותה בחריפות על המבטא הכבד שלה, הרקדנית החליטה לא לשתוק יותר • בסטורי נוקב שהעלתה לחשבונה, היא משיבה אש לביקורת המרושעת ומעלה תהייה קשה על הצורך של אנשים לפגוע",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21797308",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T13:52:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21797308",
       "title": "אנה ארונוב נגד העוקבת: \"מה הצורך להגיד בקול?\"",
       "summary": "לאחר שעוקבת תקפה אותה בחריפות על המבטא הכבד שלה, הרקדנית החליטה לא לשתוק יותר • בסטורי נוקב שהעלתה לחשבונה, היא משיבה אש לביקורת המרושעת ומעלה תהייה קשה על הצורך של אנשים לפגוע",
       "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21797308",
@@ -1785,6 +1848,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T12:45:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21797174",
+      "title": "האגוז שמאוד בריא - עד שהופך לרעיל",
+      "summary": "צריכת אגוזי ברזיל נחשבת לבריאה, אך כמות גדולה תוביל להרעלת סלניום בגוף • מומחה מזהיר מנזק מצטבר לרקמות עקב חריגה מהכמות היומית המומלצת • כל מה שצריך לדעת",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21797174",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T12:44:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21797174",
@@ -2112,6 +2184,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21796927",
+      "title": "\"הנכד\" החדש של רמי קלינשטיין וריטה: ״ברוך הבא״",
+      "summary": "השחקנית והזמרת המוכרת הפתיעה את עוקביה כששיתפה תמונה מתוקה במיוחד עם תוספת טרייה ופרוותית לבית • בסטורי מרגש היא חשפה את ההחלטה הספונטנית שקיבלה והכריזה: \"ברוך הבא למשפחה האימפולסיבית\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21796927",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T09:37:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21796927",
       "title": "״ברוך הבא למשפחה״: \"הנכד\" החדש של רמי קלינשטיין וריטה",
       "summary": "השחקנית והזמרת המוכרת הפתיעה את עוקביה כששיתפה תמונה מתוקה במיוחד עם תוספת טרייה ופרוותית לבית • בסטורי מרגש היא חשפה את ההחלטה הספונטנית שקיבלה והכריזה: \"ברוך הבא למשפחה האימפולסיבית\"",
       "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21796927",
@@ -2163,6 +2244,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T09:07:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21796871",
+      "title": "אמיר בנאי על הילדות ללא אהרל׳ה ברנע: ״הייתי מאוד הורי״",
+      "summary": "השחקן הצעיר התארח בתוכנית הטלוויזיה \"גלית ואילנית\" ופתח את הלב על ההתבגרות המוקדמת בצל ההיעדרות של אביו • על ההתמודדות המורכבת במשפחה המפורסמת והקשר המיוחד עם אמו, שיתף בגילוי לב: \"זה המון משקל על הכתפיים\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21796871",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T09:01:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21796871",
@@ -2226,6 +2316,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-07T08:43:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21796840",
+      "title": "אופירה אסייג על יהודית רביץ: ״שכחתם מי זאת״",
+      "summary": "מגישת הטלוויזיה יוצאת להגנתה של הזמרת במונולוג נוקב מתוך תוכניתה, ותוקפת את מבקריה החריפים של הזמרת • במקביל למסר הפיוס שהיא שולחת לה, היא מבקשת להרגיע את הרוחות ומבהירה: \"איבדנו את זה לגמרי\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21796840",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T08:34:01.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21796840",
@@ -28551,33 +28650,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T20:17:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21763993",
-      "title": "נתפס עם סמים ב-20 אלף דולר וטלה שאכל צ'יפס: העונש המפתיע",
-      "summary": "שוטרים שעצרו רכב בסקוטלנד גילו במושב האחורי טלה בשם פבלו, ובחיפוש שערכו נמצאו הרואין וקוקאין • כשנשאל על החיה, טען הנוסע שבת זוגו היא \"רועת צאן מתלמדת\" • השופט קבע שהעבירות מצדיקות מאסר, אך הסתפק בעבודות שירות ובאיזוק אלקטרוני",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21763993",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T20:12:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384166",
-      "title": "מספר טלפון בלבד: כך נפרצו האייפונים של בכירי גרמניה - אולי",
-      "summary": "הרשות הפדרלית לאבטחת מידע בגרמניה קראה לבכירים ולחברי פרלמנט שקיבלו התראה מאפל להניח שהאייפון שלהם נפרץ. התוקפים לא היו זקוקים ללחיצה או לקובץ, רק למספר טלפון",
-      "link": "https://www.maariv.co.il/news/world/article-1384166",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T20:02:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21763949",
-      "title": "אחרי סידני סוויני: \"עוזרת הבית\" מגיע לבמה",
-      "summary": "אחרי שהפך ללהיט קולנועי עם הכנסות של מאות מיליוני דולרים, המותחן הפסיכולוגי מקבל חיים חדשים • וכבר יש תאריך לפרויקט הבא",
-      "link": "https://www.israelhayom.co.il/culture/stage/article/21763949",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T20:02:09.000Z"
     }
   ]
 }
