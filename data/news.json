@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:30:58.979Z",
+  "updatedAt": "2026-11-07T09:45:52.219Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385794",
+      "title": "הבחירות בניו זילנד: ספירת 35.3% מהקולות - לקואליציה המכהנת רוב דחוק",
+      "summary": "קולם של אזרחי ניו זילנד החיים בחו\"ל עשוי להיות המכריעים. מתוך אוכלוסייה של קצת יותר מחמישה מיליון תושבים, כמיליון חיים מחוץ למדינה, ומספר חסר תקדים מהם נרשמו להצביע. התוצאות יתפרסמו ב-27 בנובמבר",
+      "link": "https://www.maariv.co.il/news/world/article-1385794",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T09:38:40.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1ylbd3tge",
+      "title": "בדואים נטשו את בתיהם ליד ההתנחלות החדשה ביריחו. צה\"ל: נמנע פלישת יהודים",
+      "summary": "ברקע ההתיישבות בשמונה בתים שנרכשו בפאתי העיר, עזבו שתי משפחות פלסטיניות את האזור. הצבא יידרש למנוע השתלטות על בתיהן. צה\"ל מתעקש שהמהלך לא היה תואם, והסיט כוחות ממשימות אחרות כדי לשמור על המתנחלים",
+      "link": "https://www.ynet.co.il/news/article/b1ylbd3tge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T09:35:32.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bylamd3tzx",
+      "title": "הפרומו ל\"תקופת המנדט\" של איזנקוט: ההבדלים בין ראשי הגוש, וזה שבוחר לשתוק",
+      "summary": "יו\"ר ישר! צפוי לקבל את המנדט מהרצוג, אך ב-11 הימים שחלפו מאז הבחירות הוא הבין שהתקופה הקרובה תהיה מאתגרת - גם ואולי במיוחד בתוך הגוש. ליברמן לא מסתיר את \"הבטן המלאה\", גולן אופטימי וטען שאסור להחמיץ את ההזדמנות - ובנט נמנע מהצהרות בומבסטיות וסופג ביקורת: \"אין לפרש שתיקה כהסכמה\"",
+      "link": "https://www.ynet.co.il/news/article/bylamd3tzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T09:33:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21796907",
+      "title": "בין בחירות למלחמה: כך מתייחסות סוכנויות הדירוג לכלכלת ישראל",
+      "summary": "שלוש חברות הדירוג מציגות תמונות שונות של המשק, מהסיכונים הביטחוניים והפיסקליים ועד לחוסן המוסדי • התנאים להעלאת הדירוג או להורדתו נותרו בעינם, והיעדר ממשלה ותקציב מקשה על שינוי ההערכה",
+      "link": "https://www.israelhayom.co.il/business/article/21796907",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T09:22:15.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21796881",
       "title": "בהיבט אחד, זה היה המשחק השני הכי גרוע של דני אבדיה ב-NBA",
@@ -129,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T08:08:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385778",
+      "title": "כולם מדברים על ואנס - אבל בוושינגטון מסתכלים על היריב של טראמפ",
+      "summary": "לפי הוושינגטון פוסט, מושל פלורידה רון דה סנטיס נערך למרוץ לנשיאות ב-2028, בעקבות מפלת הרפובליקנים בבחירות האמצע. אלא שזמן קצר לאחר פרסום הדיווח, הוא הכחיש את הדברים נחרצות",
+      "link": "https://www.maariv.co.il/news/world/article-1385778",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T08:01:19.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385778",
@@ -31062,105 +31107,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-02T09:49:35.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383891",
-      "title": "התעלומה שלא נפתרה מאז טבח ה-7.10: \"ידעתי שלא הייתה חקירה\" | קשה לקריאה",
-      "summary": "אמיר זיני, אביו של רס\"ן (מיל') ניראל זיני, סיפר במהלך ריאיון ב-103FM על הכאב שכרוך בחקירה, שמנסה להגיע אל ראש בנו שנכרת ביום הטבח בעוטף ב-10.7",
-      "link": "https://www.maariv.co.il/news/military/article-1383891",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T09:45:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/tnvbgp",
-      "title": "מנדלבליט מודה בעדות במשפט נתניהו: \"לא אישרתי לחקור את זה\"",
-      "summary": "היועץ המשפטי לממשלה לשעבר נחקר בידי עורך הדין עמית חדד על היקף האישורים שנתן לחקירות תיק 2000, והבהיר כי למיטב זכרונו לא אישר לחקור את קשרי נתניהו עם \"ישראל היום\" (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/tnvbgp",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T09:45:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21758546",
-      "title": "לגל רובין חסר טוויסט, לענבל אלדן חסר תיאום",
-      "summary": "ערב נוצץ לקראת שבוע האופנה קנדה ישראל תל אביב סיפק לא מעט רגעים אופנתיים, אבל לא כל הכוכבות הצליחו לקלוע בול • מי הבריקה, מי העמיסה ומי שכחה את הטוויסט? זהירות, ביקורת האופנה לפניכם",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21758546",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:44:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1383892",
-      "title": "\"פגע בתושבי אופקים בצורה אנושה\": אלמוג כהן במתקפה על דני קושמרו",
-      "summary": "סגן השר אלמוג כהן תקף ברדיו צפון את האפשרות להקמת ממשלה בתמיכת רע\"ם, הטיל ספק בטוהר הבחירות והאשים את היועמ\"שית במניעת בירור החשדות. בהמשך תקף גם את דני קושמרו בעקבות דבריו על תושבי אופקים",
-      "link": "https://www.maariv.co.il/news/politics/article-1383892",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T09:44:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21758301",
-      "title": "פערים של אלפי שקלים: זה המחיר שישלמו ישראלים להופעה של U2",
-      "summary": "הלהקה הכריזה על סיבוב הופעות עולמי חדש ב-2027, והמחירים באירופה כבר נחשפים • בפריז תוכלו למצוא כרטיסים במחיר סביר, אבל במילאנו תשלמו כמעט פי חמישה • כל הנתונים בפנים",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21758301",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:43:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21758558",
-      "title": "שולפים את הקלף הביטחוני: כך הדמוקרטים נערכים להחלפת הממשלה",
-      "summary": "לקראת פגישת ראשי גוש השינוי ולקראת המפגש עם ליברמן, במפלגתו של יאיר גולן מבקשים לרתום את האתגרים הביטחוניים לקידום החלפת הממשלה • לצד המאבק על יו\"ר הכנסת, בדמוקרטים מסמנים שורה של תפקידים ווועדות שיאפשרו להם לקדם ביטול חוקים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21758558",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:42:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/florida-plane-crash-recording",
-      "title": "מצמרר: ההקלטה האחרונה של טייסת המטוס שהתרסק בפלורידה | \"אלוקים! אנחנו מתרסקים\"",
-      "summary": "הרשויות פרסמו את ההקלטה האחרונה מהקופסה השחורה של המטוס שהתרסק בפלורידה וכל תשעת נוסעיו מתו | בהקלטה, הקשה להאזנה, ניתן לשמוע את הטייסת כשהיא מבינה שאין לה דרך למנוע את ההתרסקות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/florida-plane-crash-recording",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T09:42:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21758434",
-      "title": "ליר עוז אחרי העימות ב\"הישרדות\": \"יומיים לא פשוטים\"",
-      "summary": "אחרי העימות הקשה עם אבי שושן, שבמהלכו כינה אותה \"הכלבה של המדינה\", כוכבת \"הישרדות\" פרסמה סטורי אישי והודתה לעוקבים על האהבה שקיבלה: \"אתם מרגשים לי את הלב\"",
-      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21758434",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:39:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21758179",
-      "title": "אדוה דדון וחדשות 12 מסתבכים? יעקב בוזגלו רומז לתביעה",
-      "summary": "כדורגלן העבר ואביו של אוהד בוזגלו יצא להגנת בנו בעקבות העימות המתוקשר עם כתבת חדשות 12: \"זה מכעיס אותי מאוד\" • המסר החריף לערוץ והתזכורת לניסיון העבר: \"כבר טעה איתי בעבר ושילם לא מעט\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21758179",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:34:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21758353",
-      "title": "מלכודת המוות: פותה בהצעת עבודה - ונרצח לעיני אשתו ובתה",
-      "summary": "זיאד בשארה מטירה הגיע עם אשתו ובתו בת הארבע לחניית עפר בטייבה בעקבות לקוח שהזמין עבודת בנייה • במשך שעות התכתב איתו הלקוח והבטיח ש\"הוא קונה קפה ומגיע\", עד ששני מתנקשים הגיחו וירו בו 7 כדורים מטווח קצר • כעת, נחשפת השיטה שבה הובל הקורבן אל מותו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21758353",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:33:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21758357",
-      "title": "פרשת שוחד הבחירות ברע\"ם: בית המשפט הסיר את כל המגבלות מעל אחד החשודים",
-      "summary": "בית משפט השלום בבאר שבע נענה לבקשת עורכי דינו של פעיל רע\"ם והסיר את המגבלות שהוטלו עליו לאחר שחרורו למעצר בית • חשוד נוסף בפרשה נותר מאחורי סורג ובריח וצפוי להשתחרר עד מחר בצהריים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21758357",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T09:31:01.000Z"
     }
   ]
 }
