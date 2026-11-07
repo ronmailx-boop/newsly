@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:30:52.887Z",
+  "updatedAt": "2026-11-07T10:45:47.742Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk0jlo2pml",
+      "title": "הרטוריקה המשתנה של טראמפ - ו\"כרטיס היציאה\" מאיראן: \"פרס של 20 מיליון דולר\"",
+      "summary": "בין \"השמדה\" ל\"סיום המלחמה\": מאז המפלה בבחירות האמצע וההאשמות שהיא התרחשה בגלל המלחמה באיראן טראמפ משמיע הצהרות סותרות בנוגע להמשך הדרך. הלילה אישר: \"תקפנו מתקן נ\"מ קטן, חיסלנו אותו תוך דקות\". פיקוד המרכז של צבא ארה\"ב הציע כסף והעתקת מגורים עבור \"מידע על תוכנית הגרעין\"",
+      "link": "https://www.ynet.co.il/news/article/rk0jlo2pml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T10:27:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21796985",
+      "title": "תשכחו מכל מה שידעתם: מתכון לחביתה מושלמת - לפי השף עומר מילר",
+      "summary": "כריכי הבוקר סובלים פעמים רבות מחביתות יבשות ודקות שמאבדות ממרקמן זמן קצר לאחר ההכנה • אפיית תערובת הביצים בתנור בשיטה ייעודית מבטיחה תוצאה עבה, יציבה ונוחה לשמירה לאורך זמן, ללא צורך בעמידה ממושכת מעל הכיריים.",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21796985",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T10:16:44.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1385802",
       "title": "11 ניסיונות עד שהשיג את מבוקשו: בן 26 סחט אנשים ברשת וייכלא לחמש שנים",
       "summary": "יצחק בן חמו בן ה-26 הורשע בסחיטת אלפי שקלים מלפחות 14 אנשים, לאחר שהתחזה לקטינות ברשת ושוחח עם עשרות גברים. נדרשו 11 ניסיונות עד שהשיג את מבוקשו, לאחר שאיים על הגברים כי ידווח למשפחה שלהם",
@@ -39,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-07T10:08:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385799",
+      "title": "אחרי המתקפות על ישראל: ארדואן מצא יעד חדש להתנגח בו",
+      "summary": "נשיא טורקיה רג'פ טאיפ ארדואן תקף בחריפות את ישראל בעקבות האירועים ביהודה ושומרון, וטען להסלמה באלימות המתנחלים נגד פלסטינים. בנאומו האשים את הקהילה הבינלאומית באדישות ובכישלון בטיפול במשברים",
+      "link": "https://www.maariv.co.il/news/world/article-1385799",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T09:50:19.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385799",
@@ -147,6 +174,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T09:01:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385791",
+      "title": "הכאוס שהפך לשגרה: צרפת נערכת להפגנות ענק זה השבוע הרביעי ברציפות",
+      "summary": "כ-70 אלף שוטרים ערוכים בפריז לקראת הפגנות השבת. ברקע לכך, משרד החוץ הצרפתי הודיע ביום חמישי כי יעביר את פגישת שרי החוץ של ה-G7 ממרסיי לפריז בשבוע הבא, מסיבות \"לוגיסטיות ותפעוליות\"",
+      "link": "https://www.maariv.co.il/news/world/article-1385791",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T09:00:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385791",
@@ -30639,96 +30675,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T10:46:57.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874598",
-      "title": "כך עובדים עלינו: מי באמת הרשת הזולה בישראל?",
-      "summary": "כך עובדים עלינו: מי באמת הרשת הזולה בישראל?",
-      "link": "https://finance.walla.co.il/item/3874598",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T10:44:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21759209",
-      "title": "הדוחות מאכזבים, המשקיעים נוטשים: צניחה של 12% לצ'ק פוינט",
-      "summary": "ענקית הסייבר הישראלית מפספסת את תחזיות האנליסטים לרבעון השלישי ונענשת בטרום המסחר בניו יורק • המנכ\"ל נדב צפריר מרגיע: \"צופים שיפור הדרגתי החל ברבעון הרביעי\" • בינתיים בתל אביב המסחר תנודתי על רקע המתיחות מול איראן",
-      "link": "https://www.israelhayom.co.il/business/article/21759209",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T10:43:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ukraine-drone-russian-helicopter-destruction",
-      "title": "צבא רוסיה בהלם: שני רחפנים קטנים השמידו מסוק במרדף אווירי",
-      "summary": "תיעוד שפרסם הצבא האוקראיני מציג מבצע נגד מסוק תובלה רוסי מדגם מי-8 במחוז לוהנסק הכבוש | שני כטב\"מי תקיפה מסוג הורנט השתתפו במרדף באוויר וביבשה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ukraine-drone-russian-helicopter-destruction",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T10:41:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ukraine-drone-russian-helicopter-destruction",
-      "title": "מי חוסל בלייב? המרדף הדרמטי של הרחפנים מול המסוק הרוסי",
-      "summary": "תיעוד שפרסם הצבא האוקראיני מציג מבצע נגד מסוק תובלה רוסי מדגם מי-8 במחוז לוהנסק הכבוש | שני כטב\"מי תקיפה מסוג הורנט השתתפו במרדף באוויר וביבשה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ukraine-drone-russian-helicopter-destruction",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T10:41:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21759191",
-      "title": "אדל מ\"ווארט\" נעלמה - וזו הסיבה",
-      "summary": "למה היא כבר לא משתפת כמו פעם, מה גורם לבני המשפחה לקבל טלפונים מודאגים ואיך כל זה קשור לתקשורת? אדל פיש, שהפכה לאחת הדמויות הבולטות של \"ווארט\", מסבירה למה החליטה להוריד הילוך",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21759191",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T10:37:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959774",
-      "title": "\"קרבות פיצוצים\" בפגישה שקדמה להצהרת סולברג",
-      "summary": "השעות שקדמו לקביעת סולברג אמש על בחירות תקינות, לוו בויכוח סוער בין הבכירים. בדיקת וואלה: גם אם קולות המחלוקת של רע\"מ יפסלו – הגושים לא ישתנו",
-      "link": "https://www.walla.co.il/news/politics/383959774",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T10:36:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/bondi-attack-fraud-arrest-australia-deportation",
-      "title": "טען שנפצע בטבח הנורא בחנוכה וביקש פיצויים - ואז נחשפה האמת",
-      "summary": "אזרח הודי בן 46 נעצר בחשד שזייף פציעה בטבח החנוכה בסידני • ביקש פיצויים ממסלול הסיוע לנפגעים | נעצר פעמיים ועומד בפני גירוש (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/bondi-attack-fraud-arrest-australia-deportation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T10:36:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21759133",
-      "title": "טוני, ופפר לצידו: הפתעה מול חופי אשקלון - צמד דולפינים בסכנת הכחדה תועד",
-      "summary": "השניים זוהו בעזרת מאגר תצלומים המתעד דולפינים מאז שנת 2000 • טוני נושא צלקות מחתכים עמוקים שהחלימו, ופפר קיבל כעת שם בהשראת \"איירון מן\" • החוקרים מקווים לגורים בעתיד, אך מינו של פפר עדיין אינו ידוע ואין ראיות שהשניים בני זוג",
-      "link": "https://www.israelhayom.co.il/news/local/article/21759133",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T10:35:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21758937",
-      "title": "מרגש: אוניברסיטת תל אביב העניקה תואר מיוחד לכוכב הענק הצרפתי",
-      "summary": "אנריקו מסיאס זכה בתואר על תרומתו לתרבות העולמית ולקידום השלום • גם רחל שפירא זכתה להוקרה על תרומתה לתרבות הישראלית",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21758937",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T10:34:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21758937",
-      "title": "מרגש: ישראל העניקה תואר מיוחד לכוכב הענק הצרפתי - ולא רק לו",
-      "summary": "רחל שפירא זכתה להוקרה על תרומתה לתרבות הישראלית • אנריקו מסיאס זכה בתואר על תרומתו לתרבות העולמית ולקידום השלום",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21758937",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T10:34:48.000Z"
     }
   ]
 }
