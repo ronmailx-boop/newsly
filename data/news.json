@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T06:15:48.806Z",
+  "updatedAt": "2026-11-07T06:30:54.967Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-07T06:06:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21796519",
+      "title": "דני אבדיה נגע בטריפל דאבל, פורטלנד נכנעה ל-53 נקודות של דונצ'יץ'",
+      "summary": "הישראלי רשם 22 נקודות, 9 ריבאונדים ו-11 אסיסטים • זה לא הספיק לבלייזרס, שהפסידו במשחקם הראשון בגביע 124:118 ללוס אנג'לס לייקרס ואיבדו את פסגת המערב • הסלובני קבע שיא קליעה עונתי ב-NBA",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21796519",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T05:59:36.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21796519",
@@ -192,6 +201,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T04:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960375",
+      "title": "משקעים גבוהים ברחבי הארץ וחשש מהצפות במרכז | התחזית",
+      "summary": "מיני חורף צפוי לפקוד את ישראל בסוף השבוע, עם גשמים, סופות רעמים, רוחות ערות וירידה בטמפרטורות. קיים חשש להצפות לאורך מישור החוף ולשיטפונות בנחלי מדבר יהודה וים המלח. הגשמים צפויים להימשך עד יום ראשון",
+      "link": "https://www.walla.co.il/news/israel/383960375",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T03:40:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21796377",
@@ -32313,105 +32331,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T06:35:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1383800",
-      "title": "מאחז נהרס ביהודה ושומרון - תושבי האזור יצאו להפגין",
-      "summary": "כוחות משטרה וצה\"ל הגיעו הבוקר ליהודה ושומרון, על מנת להרוס מאחז לא חוקי בגבעת \"עורה ישראל\". בתגובה, החלה מחאה נרחבת באזור: \"הרס נפשע, אסור לעבור לסדר היום\"",
-      "link": "https://www.maariv.co.il/news/military/article-1383800",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T06:25:37.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959753",
-      "title": "בהלה באוקראינה: מיליונים קיבלו התרעה על מתקפה גרעינית רוסית",
-      "summary": "ההודעות באפליקציית ההתרעות הרשמית הזהירו מפני טיל מתקדם, קרינה ומתקפה כימית. כעבור דקות פרסמו הרשויות הודעת הרגעה והבהירו כי אין סכנה. בקייב מאשימים את רוסיה, אך טרם הוצגו ראיות",
-      "link": "https://www.walla.co.il/news/world/383959753",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T06:24:59.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383959753",
-      "title": "מיליונים קיבלו התרעה על מתקפה גרעינית רוסית",
-      "summary": "ההודעות באפליקציית ההתרעות הרשמית הזהירו מפני טיל מתקדם, קרינה ומתקפה כימית. כעבור דקות פרסמו הרשויות הודעת הרגעה והבהירו כי אין סכנה. בקייב מאשימים את רוסיה, אך טרם הוצגו ראיות",
-      "link": "https://www.walla.co.il/news/world/383959753",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T06:24:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21756964",
-      "title": "רן קוז'וך כבר העביר מסר: בעיה רצינית חדשה להפועל באר שבע",
-      "summary": "מצבם של שני שחקנים בכירים לא ברור לקראת המשחק בליגה האירופית • העומס והעייפות מתגברים ובמועדון מספרים כי יש כאלה שמשחקים תחת פציעות • המאמן הבהיר בחדר ההלבשה: \"יש עומס, אבל אין תירוצים\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21756964",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T06:20:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90332",
-      "title": "צה\"ל חיסל שני מחבלי נוח'בה — אחד מהם פשט על ניר עוז ב-7 באוקטובר",
-      "summary": "צה\"ל תקף שלשום במרחב חאן יונס וחיסל את המחבל מחמד כאמל מצליח קדיח, שפשט על קיבוץ ניר עוז בטבח 7 באוקטובר והיה אחראי על כשירות מבצעית של מחבלי נוח'בה. בתקיפה נוספת במרחב נוציראת חוסל דיאא עבד אלמחסן מחמד אבו אלרוס, מחבל נוח'בה בזרוע הצבאית של חמאס. לפי דובר צה\"ל, המחבלים קידמו מתווי טרור נגד כוחות צה\"ל ואזרחי ישראל ופעלו לשיקום יכולות חמאס תוך הפרה שיטתית של הפסקת האש. השניים חוסלו מהאוויר להסרת האיום שהיוו.",
-      "link": "https://www.kikar.co.il/scoop-news/90332",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T06:20:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90331",
-      "title": "פיצוץ רימון רסס ברמת גן על רקע פלילי",
-      "summary": "הבוקר סמוך לשעה 05:30 התקבל דיווח על פיצוץ ברחוב ביאליק ברמת גן. שוטרי תחנת רמת גן-בני ברק וחבלני מחוז תל אביב הגיעו למקום, אספו ממצאים ופתחו בחקירה. החשד הוא שהושלך רימון רסס במקום על רקע פלילי. לא דווח על נפגעים.",
-      "link": "https://www.kikar.co.il/scoop-news/90331",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T06:20:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/florida-man-arrested-threats-haredi-community-lake",
-      "title": "חשש מפיגוע ירי בקהילה החרדית: התמונות המחרידות שנחשפו ברשת",
-      "summary": "ג'רי סניד פרסם תמונות נשק ואיומי רצח נגד תושבי 'לייקפרונט אסטייטס' • נעצר בסוף השבוע על ידי רשויות האכיפה | \"מסר נחוש למי שמנסה להלך אימים על יהודים\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/florida-man-arrested-threats-haredi-community-lake",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T06:18:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1383795",
-      "title": "\"נשבר לו מהאיראנים\" - טראמפ רוצה לסיים בתוך ארבעה ימים",
-      "summary": "בזמן שטראמפ שוקל כיצד להכריע את המערכה מול איראן במהירות, בישראל חוששים מפערים במטרות התקיפה. עמיחי שטיין מסביר מדוע הנשיא האמריקני עשוי להכריז על ניצחון עוד לפני שהאיומים יוסרו",
-      "link": "https://www.maariv.co.il/news/world/article-1383795",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T06:18:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1383797",
-      "title": "שקמה ברסלר נותרה המומה: \"אני אומרת 'אלוהים אדירים'\"",
-      "summary": "פרופ' שקמה ברסלר מזהירה מפני מהלך צבאי של נתניהו משיקולים פוליטיים, תקפה את התנהלותו מול צמרת צה\"ל והביעה חשש מהמשך שלטונו: \"הוא שולח את הילדים שלנו לקרב\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1383797",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T06:17:36.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1383797",
-      "title": "שקמה ברסלר על נתניהו: \"מוכן להקריב את החיים שלנו\"",
-      "summary": "פרופ' שקמה ברסלר מזהירה מפני מהלך צבאי של נתניהו משיקולים פוליטיים, תקפה את התנהלותו מול צמרת צה\"ל והביעה חשש מהמשך שלטונו: \"הוא שולח את הילדים שלנו לקרב\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1383797",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T06:17:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21756962",
-      "title": "הרצח וההתאבדות בפתח תקווה: הילדה מצאה את אימה - והזעיקה את המשטרה",
-      "summary": "שעות לאחר שבעל רצח את אשתו ושם קץ לחייו נחשפים הפרטים המזעזעים • אחת מארבעת ילדיהם היא זו שמצאה את האם במצב אנוש והתקשרה למשטרה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21756962",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T06:16:10.000Z"
     }
   ]
 }
