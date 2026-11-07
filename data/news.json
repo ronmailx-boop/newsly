@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:45:59.683Z",
+  "updatedAt": "2026-11-07T19:01:12.706Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960437",
+      "title": "\"מקורבי טראמפ פנו לאנשי איזנקוט - 'תחליפו את נתניהו עכשיו'\"",
+      "summary": "לפי דיווח של בן כספית במהלך שידור \"פגוש את העיתונות\" בערוץ 12, גורמים בסביבת נשיא ארה\"ב העבירו מסר לאנשי יו\"ר ישר! לפעול להקמת ממשלה ללא דיחוי. \"תשביע ממשלה עכשיו\", מסרו מסביבת טראמפ",
+      "link": "https://www.walla.co.il/news/politics/383960437",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T18:39:56.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/news/to59ez",
       "title": "'כאן' יצא בעוצמה נגד איילה חסון - שלא נותרה חייבת וחשפה התכתבות",
@@ -354,6 +363,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T17:25:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385884",
+      "title": "\"ישראל הייתה תמיד רק המתאבן\": האזהרה החריגה - והמסר לאירופה",
+      "summary": "בריאיון לפודקאסט של אמיר צרפתי טען שגריר ארה\"ב בישראל מייק האקבי כי טווח הטילים האיראניים גדל מ-2,000 ל-4,100 ק\"מ בתוך שנה, וכעת הוא מאפשר פגיעה בבירות המרכזיות באירופה",
+      "link": "https://www.maariv.co.il/news/world/article-1385884",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T17:25:05.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1385884",
@@ -687,6 +705,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T16:14:47.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875245",
+      "title": "חי: אצילי פישל, טבריה הדהימה, אבל בית\"ר ירושלים חזרה",
+      "summary": "הצהובים-שחורים שולטים, אבל עדיין לא מצאו את הרשת מול נועלת הטבלה. קרבאלי הפציץ למשקוף, אצילי צלל ולא קיבל פנדל",
+      "link": "https://sports.walla.co.il/item/3875245",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T16:14:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21798119",
@@ -28560,87 +28587,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-02T19:04:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90500",
-      "title": "נעצרו שני חשודים בגניבת אופנוע במחסום צופים",
-      "summary": "יחידת אתג\"ר עצרה במחסום צופים שני חשודים בגניבת אופנוע ממחוז תל אביב. החשודים הועברו לתחנת המשטרה להמשך טיפול.",
-      "link": "https://www.kikar.co.il/scoop-news/90500",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T18:56:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21763574",
-      "title": "דליה מזור: ״עצוב לי שיש צופים לערוץ 14״",
-      "summary": "מגישת החדשות הוותיקה נשאלה על הרגלי הצפייה שלה, ובתשובתה לא חסכה ביקורת • בהמשך היא הסבירה מדוע הדברים מטרידים אותה הרבה מעבר למסך הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21763574",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T18:55:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384144",
-      "title": "הרמטכ\"ל חושף את השינוי בצה\"ל: חיילים ורובוטים יילחמו יחד",
-      "summary": "הרמטכ\"ל אייל זמיר מציג את מהפכת הבינה המלאכותית והרובוטיקה בצה\"ל. במסגרת התוכנית הרב-שנתית \"חושן\", יחידות מאוישות יפעלו לצד כלים בלתי מאוישים והטכנולוגיה תשולב בהגנה, במודיעין ובתקיפה",
-      "link": "https://www.maariv.co.il/news/military/article-1384144",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T18:55:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384144",
-      "title": "זה כבר לא מדע בדיוני: כך ייראה שדה הקרב הבא של ישראל",
-      "summary": "הרמטכ\"ל אייל זמיר מציג את מהפכת הבינה המלאכותית והרובוטיקה בצה\"ל. במסגרת התוכנית הרב-שנתית \"חושן\", יחידות מאוישות יפעלו לצד כלים בלתי מאוישים והטכנולוגיה תשולב בהגנה, במודיעין ובתקיפה",
-      "link": "https://www.maariv.co.il/news/military/article-1384144",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T18:55:26.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skh1wuuafg",
-      "title": "שרידי צעירה נמצאו בנגב, 6 שנים לאחר שנרצחה ע\"י אחיה והועלמה",
-      "summary": "במשך 6 שנים לא ידע אף אחד היכן גופתה של ניבין אלעמרני, שנרצחה בידי אחיה. היום זוהו שרידיה. כתב האישום נגד אחיה, שנשלח ל-28 שנים בכלא, הוגש אחרי שהמטפלת של אמה העידה על מה שהתרחש בבית, כולל הבטון שיצקו על הדם שלא הצליחו לנקות. אח אחר היה זה שהזעיק את המשטרה: \"יהרגו אותי אם ידעו\"",
-      "link": "https://www.ynet.co.il/news/article/skh1wuuafg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T18:52:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skh1wuuafg",
-      "title": "גופת צעירה נמצאה בנגב, שנים לאחר שנרצחה ע\"י אחיה והועלמה",
-      "summary": "במשך 6 שנים לא ידע אף אחד איפה נמצאת גופתה של ניבין אלעמרני, שנרצחה בידי אחיה. היום זוהו שרידיה. כתב האישום נגד אחיה, שנשלח ל-28 שנים בכלא, הוגש אחרי שהמטפלת של אמה העידה על מה שהתרחש בבית. אח אחר היה זה שהזעיק את המשטרה חודש לאחר מכן: \"יהרגו אותי אם ידעו\"",
-      "link": "https://www.ynet.co.il/news/article/skh1wuuafg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T18:52:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959861",
-      "title": "\"הציבור בחר בי\": המסר של נתניהו לאיזנקוט",
-      "summary": "ראש הממשלה הביע נכונות לשיחות עם מפלגות נוספות והבהיר כי הוא מתנגד לממשלה שתישען על רע\"ם והמשותפת. במקביל, ליברמן וגולן הודיעו שימליצו על איזנקוט, וראשי גוש השינוי צפויים להיפגש מחר",
-      "link": "https://www.walla.co.il/news/politics/383959861",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T18:52:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/attorney-general-blocks-shabak-parliamentary-aides",
-      "title": "היועמ\"שית חסמה את השב\"כ? התערבה בעניין חקירת עוזרים פרלמנטריים ערבים",
-      "summary": "השב\"כ ביקש לחקור עוזרים פרלמנטריים במסגרת פרשת ההשפעה הזרה • היועמ\"שית הבהירה: חלים כללי חסינות כמו על חבר הכנסת | על השב\"כ לבסס תחילה את החשדות (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/attorney-general-blocks-shabak-parliamentary-aides",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T18:50:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21763364",
-      "title": "אחרי הסערה עם אבי שושן: ליר עוז זוכה לאהבה",
-      "summary": "עדה לזורגן השיקה סניף חדש של מותג האיפור והטיפוח שלה ADAH בקניון אילון. בין המפרגנים: ליר עוז אחרי סערת \"הישרדות\", השגרירה הטרייה שלי סרבריאניקוב, ועדי ואייר בוזגלו שנראו כמו אחיות",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21763364",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T18:49:54.000Z"
     }
   ]
 }
