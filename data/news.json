@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T13:45:45.905Z",
+  "updatedAt": "2026-11-07T14:01:04.196Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960408",
+      "title": "הסערה כאן עד מחר: שיא גשם היסטורי נשבר בישראל",
+      "summary": "כמויות גשם חריגות נמדדו ברחבי הארץ, עם כ-90 מ\"מ באשדוד ביממה האחרונה. הגשמים יימשכו עד מחר, לצד חשש להצפות ושיטפונות. משרד הבריאות מזהיר מרחצה בים התיכון",
+      "link": "https://www.walla.co.il/news/israel/383960408",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T13:54:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1385836",
+      "title": "פאניקה בשחקים: עשרות טיסות שובשו - האצבעות מופנות למוסקבה",
+      "summary": "עשרות טיסות באירופה שובשו בעקבות הודעות אנונימיות שהתריעו על פצצות במטוסים. גורמי המודיעין ביבשת בוחנים חשד למעורבות רוסית, אך עד כה לא נמצאו חומרי נפץ",
+      "link": "https://www.maariv.co.il/news/world/article-1385836",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-07T13:45:39.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkgxuo3azl",
+      "title": "התקדמות במו\"מ? המבצע החדש ל\"הרחבת המצור\" על איראן",
+      "summary": "רויטרס: במקביל לדיווחים על סיכוי להתקדמות במגעים בין וושינגטון לטהרן בתיווך קטאר, ועל מאמצים לגבש מתווה שימנע הסלמה מחודשת - צבא ארה\"ב נערך להרחיב את המצור על איראן גם לסחר היבשתי. המטרה: להגביל העברת מערכות נשק מתקדמות דרך גבולות יבשתיים ודרך הים הכספי",
+      "link": "https://www.ynet.co.il/news/article/rkgxuo3azl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T13:38:11.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkgxuo3azl",
       "title": "התקדמות במו\"מ? ארה\"ב נערכת למצור יבשתי על איראן",
@@ -174,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T12:23:30.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875299",
+      "title": "גוש השינוי צריך לזכור איפה הוא חי: להחליף את אוחנה מיד",
+      "summary": "המערכת הפוליטית אינה סובלנית לנימוסים והליכות של גוש השינוי. יש לנצל את הרוב הפרלמנטרי להקמת ועדת חקירה ולמינוי מבקר מדינה",
+      "link": "https://finance.walla.co.il/item/3875299",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T12:20:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21797127",
@@ -29397,168 +29433,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-02T14:04:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90433",
-      "title": "אישה בת 70 נפצעה בינוני בנפילה באוטובוס באשדוד",
-      "summary": "אישה כבת 70 נפצעה באורח בינוני לאחר שנפלה באוטובוס ברחוב יצחק הנשיא באשדוד. צוותי איחוד הצלה העניקו לה טיפול רפואי במקום, שכלל חבישה ועצירת דימום לאחר שנפגעה בראשה. האישה פונתה לבית החולים להמשך טיפול במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90433",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T14:00:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/openai-chatgpt-lawsuit-death-epilepsy-medication",
-      "title": "\"אל תספרי לרופא\" | תביעה מזעזעת: צעירה מתה לאחר שהפסיקה תרופות לפי הנחיות ChatGPT",
-      "summary": "מהנדסת תוכנה בת 31 הפסיקה תרופות נגד אפילפסיה לפי הנחיות הצ'אטבוט | הצ'אטבוט המליץ לה שלא לשתף את הרופא בתהליך | התביעה: ניתן היה למנוע את מותה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/openai-chatgpt-lawsuit-death-epilepsy-medication",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T13:59:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21761258",
-      "title": "האם רבני העתיד יהיו רובוטים? הפרויקט שמעורר סערה בעולם ההלכה והטכנולוגיה",
-      "summary": "מיזם HalachaBench הציג למודלים המתקדמים שאלות אמיתיות ממבחני ההסמכה של הרבנות הראשית, בתנאי \"ספרים סגורים\" וללא גישה לאינטרנט • המודל המוביל קיבל ציון של 79.7, אך גם הוא החמיץ כחמישית מהדרישות לתשובה הלכתית מלאה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21761258",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:59:39.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383959819",
-      "title": "\"שאחרים יטפלו במזה\"ת\": דרישת הבדואים מהמפלגות הערביות",
-      "summary": "לאחר הבחירות, ראשי ציבור בדואים קוראים לרע\"ם ולרשימה המשותפת להצטרף לממשלה הבאה ולהתמקד בבעיות הדיור, הפשיעה והתעסוקה בנגב. ראש עיריית רהט: \"הצבענו כדי להשפיע ולהיות חלק מהותי מהשינוי\"",
-      "link": "https://www.walla.co.il/news/israel/383959819",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T13:59:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1384035",
-      "title": "אי אפשר לבקש מנשים לצאת מאלימות בלי לתת להן דרך לחיות | אופירה בן שלמה",
-      "summary": "הרצח בפתח תקווה, עם פתיחת חודש המאבק באלימות נגד נשים, מחייב אותנו להסתכל גם על היום שאחרי. לא די להגן על נשים מפני אלימות: צריך להבטיח להן ליווי מתמשך, ביטחון ועצמאות כלכלית",
-      "link": "https://www.maariv.co.il/news/opinions/article-1384035",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T13:59:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rk3qfg86fx",
-      "title": "ראש המוסד לשעבר בהתבטאות חריגה על מנהיג סעודיה: \"כנראה לא בוגר מספיק\"",
-      "summary": "יוסי כהן נשאל על מוחמד בן סלמאן, והתבקש לשתף משהו שלא יודעים עליו. \"כנראה, הוא לא אדם בוגר מספיק. אל תצטטו אותי\", אמר. על איראן: \"לא מנהלת משא ומתן בתום לב\"",
-      "link": "https://www.ynet.co.il/news/article/rk3qfg86fx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T13:59:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21760917",
-      "title": "מכבי והפועל תל אביב כבר עוקבות: השחקן המבוקש בליגת העל",
-      "summary": "כל הקבוצות הגדולות בישראל, למעט בית\"ר ירושלים, הביעו עניין בדוד אסנקה מהפועל רמת גן • השחקן חתום על חוזה ארוך טווח אצל העולה החדשה, כשההערכה היא ששחרורו יעלה למעלה ממיליון שקלים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21760917",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:57:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384032",
-      "title": "\"זאב בעור כבש\": הבישוף הבכיר בגרמניה תוקף את מפלגת הימין הקיצוני",
-      "summary": "נשיא ועידת הבישופים בגרמניה יצא נגד מפלגת הימין הקיצוני שעשויה להקים בקרוב את הממשלה בזקסן-אנהלט, ובראיון בוותיקן הכריז על קווים אדומים: האפיפיור תומך, אך גם בתוך הכנסייה יש מי שמזהיר מפני ניצול",
-      "link": "https://www.maariv.co.il/news/world/article-1384032",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T13:54:37.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959818",
-      "title": "ביהדות התורה לא פוסלים את ליברמן: \"אפשר לעשות איתו עסקים\"",
-      "summary": "לאחר שליברמן לא שלל ישיבה עם המפלגות החרדיות, בכיר ביהדות התורה הבהיר כי שיתוף פעולה אפשרי: \"בעבר עשינו עסקים בלי סוף\". עם זאת, הדגיש כי חוק הגיוס הוא תנאי מרכזי: \"אם לא, אין בכלל מה לדבר\"",
-      "link": "https://www.walla.co.il/news/politics/383959818",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T13:53:46.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syxs1f8tzl",
-      "title": "גבר נהרג בתאונה בין רכב למשאית בנגב",
-      "summary": "ההרוג נלכד ברכב הפרטי ומותו נקבע בזירה. גבר נוסף נפצע בינוני ופונה במסוק לבית החולים סורוקה. \"הרכב היה עם פגיעות קשות, ובתוכו כבן 50 ללא סימני חיים\", תיארו הפרמדיקים של מד\"א את הזירה הקשה",
-      "link": "https://www.ynet.co.il/news/article/syxs1f8tzl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T13:50:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21761150",
-      "title": "פרץ לרכבים בלב תל אביב, גנב כרטיסי אשראי - ויצא למסע קניות",
-      "summary": "תושב העיר בשנות ה-30 לחייו נאשם בשתי פריצות ובארבע עסקאות בכרטיסים הגנובים, בסכום כולל של כ-1,045 שקלים • הוא נעצר סמוך לחצות בחניון, לאחר שלפי החשד גנב טלפון ומשקפי שמש • המשטרה מבקשת לעצור אותו עד תום ההליכים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21761150",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:50:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384031",
-      "title": "חודש המאבק נפתח ברצח: \"מילים והבטחות לא יעצרו את הרצח הבא\"",
-      "summary": "קהילת הארגונים הנאבקים באלימות כלפי נשים מזועזעת מהרצח הלילה בפתח תקווה של אישה על ידי בן זוגה, ה-17 השנה והרביעי בתוך חודש של אם לעיני ילדיה, וקוראת לכנסת הנבחרת לפעול במהירות",
-      "link": "https://www.maariv.co.il/news/law/article-1384031",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-02T13:50:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21761148",
-      "title": "כל הדרך למאדים: הפרויקט המהפכני של גוגל ונאס״א",
-      "summary": "עיכוב של 44 דקות בתקשורת עם כדור הארץ הופך כל מקרה חירום במאדים לסיוט • כעת, גוגל ונאס״א חושפות פיתוח משותף של ״רופא רובוטי״ מבוסס בינה מלאכותית • הרופא יוכל להגיב לפקודות קוליות, לתפעל ציוד אולטרסאונד מתקדם ולהעניק סיוע קריטי לאסטרונאוטים, כשהרופאים ביוסטון רחוקים מדי",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21761148",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:48:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/police-crisis-ben-gvir-danny-levy-haredi-protests",
-      "title": "סערה במשטרה: \"המפכ\"ל איבד שליטה לחלוטין\"",
-      "summary": "גורמים במשטרה מתחו ביקורת חריפה על המפכ\"ל דני לוי • בסביבת בן גביר: \"נעצור את ההפקרות\" | התגובה החריגה של דוברות המשטרה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/police-crisis-ben-gvir-danny-levy-haredi-protests",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T13:48:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21761187",
-      "title": "גיל גורביץ' מונה לסמנכ\"ל השיווק של חברת הנדל\"ן ICR ישראל קנדה ראם מגורים",
-      "summary": "גורביץ', שכיהן בעבר בתפקידים בכירים באזורים ובאקרו נדל\"ן, מונה לתפקיד לאחר כ־20 שנה בענף",
-      "link": "https://www.israelhayom.co.il/business/article/21761187",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:47:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21761105",
-      "title": "ליברמן חשף: בשב\"כ חוקרים העברת כספים מהרשות הפלסטינית לרשימה המשותפת",
-      "summary": "יו\"ר ישראל ביתנו אמר בתדרוך לכתבים כי נבדקת העברת כספים מהרשות הפלסטינית לרשימה המשותפת, במטרה לעודד הצבעה בחברה הערבית • גורם הבקיא בחקירה הבהיר כי גם אם החשדות החמורים ביותר יתבררו כנכונים, לא יהיה בכך כדי לשנות את תוצאות הבחירות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21761105",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:46:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21761105",
-      "title": "ליברמן חושף: הרשות הפלסטינית חשודה במעורבות בהטיית הבחירות",
-      "summary": "יו\"ר ישראל ביתנו אמר בתדרוך לכתבים כי נבדקת העברת כספים מהרשות הפלסטינית לרשימה המשותפת, במטרה לעודד הצבעה בחברה הערבית • גורם הבקיא בחקירה הבהיר כי גם אם החשדות החמורים ביותר יתבררו כנכונים, לא יהיה בכך כדי לשנות את תוצאות הבחירות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21761105",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T13:46:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnvmwl",
-      "title": "הסקרים העדכניים ביותר: כמה מושבים יקבלו הדמוקרטים וכמה הרפובליקנים - והסיכויים לניצחון",
-      "summary": "מי יזכה בשליטה בקונגרס האמריקני? נייט סילבר ומכוני המחקר מפרסמים תחזיות עדכניות למספר המושבים של כל מפלגה | הפערים בין המודלים חושפים עד כמה דרמטית עשויה להיות ההכרעה מחר (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/tnvmwl",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T13:46:09.000Z"
     }
   ]
 }
