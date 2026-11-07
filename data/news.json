@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:30:54.521Z",
+  "updatedAt": "2026-11-07T16:45:58.582Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/davar-rishon/haredi-politics-financial-planning",
+      "title": "\"גוש התורה\" ה\"חרדי המקולקל\" ומי מרוויח על חשבון מי? פותחים שבוע עם 'דבר השבוע'",
+      "summary": "ישי כהן על המהפך ההסטורי של יהדות התורה ומה קורה עם ש\"ס | אריאל שרפר על \"החרדי המקולקל\" | תמיר מנדובסקי על הספר שצנזר נשים כדי להציל את הכסף שלכם | יוסי מימון עם חדשות ציניות מצחיקות | יוסי עבדו עם תחקיר שקרי הקוראן והווקאף | שמעון צובלי עם אימון כושר ביתי לחזה והכתפיים (דבר השבוע)",
+      "link": "https://www.kikar.co.il/davar-rishon/haredi-politics-financial-planning",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-07T16:34:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1fz5a26gl",
+      "title": "איראן וישראל היו חלק מהצונאמי הכחול בארה\"ב, אבל זה ממש לא כל הסיפור",
+      "summary": "הסיפור של המנצח בטקסס ג'יימס טלריקו מסביר את המסר של האמריקאים לנשיא ולשיטה כולה. ובכל זאת, אחרי שלושה דורות, יש אצל דמוקרטים ורפובליקנים מרכיב יסודי של התנגדות לישראל. השעה מאוחרת מאוד, אבל עוד אפשר לשנות כיוון | קטע מתוך הטור של נדב איל במוסף לשבת וב\"ידיעות+\"",
+      "link": "https://www.ynet.co.il/news/article/h1fz5a26gl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-07T16:34:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/us-offers-20-million-iran-nuclear-program-informat",
+      "title": "ארה\"ב מציעה: 20 מיליון דולר למי שיחשוף את סודות הגרעין של איראן",
+      "summary": "משרד החוץ האמריקני מבקש מידע על מתקנים, ציוד ואנשי מקצוע | ההצעה כוללת גם אפשרות למעבר למקום מגורים אחר | המהלך על רקע הקושי לעקוב אחר התוכנית (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/us-offers-20-million-iran-nuclear-program-informat",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-07T16:32:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21787704",
+      "title": "מוצרלה או גבינת פיצה? ההבדל שחשוב להכיר",
+      "summary": "שתיהן נמסות, נמתחות ומככבות בפיצות ובטוסטים, אבל ההבדלים בהרכב ובלחות עשויים לשנות לגמרי את התוצאה • מתי כדאי לבחור במוצרלה טרייה, מה היתרון של גבינה דלת-לחות ואיך משיגים שכבה זהובה בלי להרטיב את הבצק?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21787704",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T16:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21798154",
+      "title": "דיווח: כוחות סורים נשלחו לסייע לסעודיה במלחמה בחות'ים",
+      "summary": "סוכנות הידיעות AFP טענה מפי כמה מקורות בתימן כי לוחמים מצבאו של א-שרע כבר הגיעו לשטחה של תימן כחלק במלחמה במורדים הפרו איראניים • גורם בדמשק הכחיש את הדיווח וטען כי בשעה זו אין חיילים סורים על אדמת תימן",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21798154",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T16:26:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21798134",
+      "title": "פיני גרשון ביקש סליחה מג'ון דיברתולומיאו: \"לא ידעתי\"",
+      "summary": "אחרי שביקר את היעדרותו של קפטן מכבי תל אביב ממשחק בעקבות לידת בתו, המאמן לשעבר חזר בו ב״על הבאזר״: ״אני אוהב אותך כמו לפני כן, ומצטער על זה שכיסחתי לך את הצורה״",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21798134",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T16:21:05.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/poland-krakow-shooting-constitutional-crisis-no-co",
       "title": "תיעוד דרמטי מפולין: שוטר מנטרל מחבל לבוש מדים | חמישה בני אדם נרצחו",
       "summary": "חמישה בני אדם נהרגו ולפחות 12 נפצעו באירוע ירי במרכז קרקוב | החמוש היה לבוש במדים צבאיים וביצע את הירי מתוך רכב (בעולם)",
@@ -39,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-07T16:18:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21798100",
+      "title": "קרן פלס מודה: זאת האמת על חיי הפרטיים",
+      "summary": "הזמרת, היוצרת והאקסית של נועם טור פתחה את המצלמה שלה ופצחה בווידוי בשעת לילה מאוחרת למדי בנוגע לאמת על חייה הפרטיים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21798100",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-07T16:16:32.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21789178",
@@ -165,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T15:46:29.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3875249",
+      "title": "טל גלבוע חושפת: אלו הניתוחים שבחרתי לעשות",
+      "summary": "זוכת \"האח הגדול\" והמקורבת לראש הממשלה, שחשפה לאחרונה את ההליכים הקוסמטיים שעברה, ממשיכה במהפך החיצוני ומשתפת על הניתוח המורכב שעברה: \"הרגעים הכי לא סקסיים בחיים\"",
+      "link": "https://celebs.walla.co.il/item/3875249",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T15:45:00.000Z"
     },
     {
       "id": "walla:https://celebs.walla.co.il/item/3875249",
@@ -493,7 +565,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21797366",
       "title": "גשמים עזים בשרון: תושבי קדימה הונחו להישאר בבתים, בית ספר הוצף בצפון",
-      "summary": "גשמים חזקים ירדו מצפון ועד דרום, פערים חריגים בכמויות המשקעים נרשמו בין האזורים השונים • תושבי קדימה צורן התבקשו להישאר בבתיהם • לכל התיעודים - וכמויות הגשם שנמדדו באזורי הארץ",
+      "summary": "גשמים חזקים ירדו מצפון ועד דרום, הצפות נרשמו בקדימה, אבן יהודה, רמת גן, ירושלים, נצרת ואשדוד • תושבי קדימה צורן התבקשו להישאר בבתיהם • לכל התיעודים - וכמויות הגשם שנמדדו באזורי הארץ",
       "link": "https://www.israelhayom.co.il/news/local/article/21797366",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -2064,6 +2136,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T19:38:04.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjffncoagl",
+      "title": "ישראלי ראשון בוועדה לביקורת האו\"ם: \"הישג חשוב\"",
+      "summary": "שי מזרחי, ראש החטיבה לביקורת השלטון המקומי במשרד מבקר המדינה, מונה לכהונה של שלוש שנים בגוף המשנה לעצרת הכללית של האו\"ם. השגריר דנון: \"דווקא בתקופה שבה ישראל מתמודדת עם ניסיונות להדרה ולדה-לגיטימציה\"",
+      "link": "https://www.ynet.co.il/news/article/bjffncoagl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-06T19:34:30.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjffncoagl",
@@ -28614,159 +28695,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-02T16:47:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1zgavi6gx",
-      "title": "הליכוד ביקש מידע על החשדות לפני אישור התוצאות; סולברג: הן יפורסמו במועדן",
-      "summary": "יו\"ר ועדת הבחירות דחה את בקשת הליכוד לדון בחשדות לפני אשרור תוצאות הבחירות. \"התוצאות לא תלויות בהסכמת קבוצת הרוב בכנסת היוצאת\", הוא קבע. בליכוד טענו: \"חומרת החשדות וחוסר הבהירות לא מאפשרים לאשר את פרסום התוצאות כאילו לא אירע דבר\". איזנקוט: זו מתקפה ישירה על הדמוקרטיה",
-      "link": "https://www.ynet.co.il/news/article/h1zgavi6gx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T16:45:43.000Z"
-    },
-    {
-      "id": "walla:https://tech.walla.co.il/item/3874699",
-      "title": "בקצה העולם נרקמת מהפכת AI – והתושבים חוששים",
-      "summary": "בקצה העולם נרקמת מהפכת AI – והתושבים חוששים",
-      "link": "https://tech.walla.co.il/item/3874699",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T16:42:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21762621",
-      "title": "הכי קרובים מזה עשור: החות'ים במרחק 80 ק\"מ מבירת הממשלה | דיווח",
-      "summary": "לפי רויטרס, החות'ים השתלטו על מחוז הררי בדרך לעדן ונלחמים על אחד מצירי הגישה המרכזיים לעיר • ההתקדמות מאיימת על הדרך לתעז, העיר השלישית בגודלה בתימן, הנתונה במצור מאז תחילת אוקטובר • במקביל נמשכת ההסלמה מול סעודיה: שני כטב\"מים יורטו באזור ריאד, והחות'ים מאיימים בתקיפת מתקני הנפט של ענקית האנרגיה ארמקו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21762621",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:40:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21762511",
-      "title": "נועה קירל ואיתי בצלאלי בנתק: \"מתגעגע לבן אדם\"",
-      "summary": "הסטייליסט מתחבר למכונת האמת של ForReal, ומספר על הנתק מנועה קירל והגעגועים שלא נעלמו. וגם: הסכסוך עם קורין גדעון, שלדבריו חסמה אותו, והסלבית שלקחה ג'ינס מחדר ההלבשה בלי לשלם",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21762511",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:39:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/technology-news/cyber-attack-warning-supermarket-refrigeration-sys",
-      "title": "מערך הסייבר מזהיר: מתקפות על מערכות קירור ברשתות השיווק",
-      "summary": "מערך הסייבר הלאומי מתריע בפני רשתות השיווק בישראל מפני מתקפות על מערכות קירור • בעקבות גל מתקפות באירופה שגרם לנזקים כבדים | ההמלצות לרשתות ממערך הסייבר (חדשות)",
-      "link": "https://www.kikar.co.il/technology-news/cyber-attack-warning-supermarket-refrigeration-sys",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T16:39:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90468",
-      "title": "גבר נהרג ושניים נפצעו בירי ברהט",
-      "summary": "משטרת ישראל פתחה בחקירת אירוע ירי בעיר רהט שבו נפצעו שלושה גברים - אחד באורח קשה ושניים באורח בינוני. הפצועים פונו לבית חולים, אך מאוחר יותר נקבע מותו של הפצוע הקשה. שוטרי תחנת רהט החלו באיסוף ראיות בזירה ובסריקות נרחבות לאיתור החשודים. לפי החשד, הרקע לאירוע הוא סכסוך בין משפחות.",
-      "link": "https://www.kikar.co.il/scoop-news/90468",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T16:39:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90467",
-      "title": "איזנקוט: הליכוד ונתניהו במתקפת דה-לגיטימציה על תוצאות הבחירות",
-      "summary": "גדי איזנקוט טען כי הליכוד ונתניהו ממשיכים במתקפת דה-לגיטימציה \"הרסנית ואלימה\" על תוצאות הבחירות ועל ועדת הבחירות המרכזית. לדבריו, מדובר במתקפה ישירה על הדמוקרטיה הישראלית שמחדדת את הסכנה בהמשך שליטת הליכוד ונתניהו במוקדי הכוח. איזנקוט הוסיף: \"המתקפה הנוכחית היא מפלטם של מי שמבינים את גודל ההפסד שהם נחלו. הם התרגלו לעשות כרצונם, ללא גבולות וללא מעצורים. הימים הללו נגמרו\". הוא הדגיש כי מי שחושב שיכול להטיל אימה על השינוי \"לא מעריך נכונה את הנחישות ואת המחויבות שלי ושל שותפיי לאזרחי ישראל\".",
-      "link": "https://www.kikar.co.il/scoop-news/90467",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-02T16:39:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21762664",
-      "title": "טראמפ לא יהיה שם לנצח: אסור לישראל להמר רק על הרפובליקנים",
-      "summary": "על ישראל לפעול לשיקום הקשרים עם הזרם המרכזי במפלגה הדמוקרטית, שממנו התנתקה כמעט לחלוטין בהחלטתה להישען בלעדית על ממשלו התומך של טראמפ מאז כהונתו הראשונה • לשם כך נדרש לגבש מתווה מדיני־אסטרטגי מקיף להסדר, שיוכל להתבסס על רוח תוכניותיו של טראמפ, אך גם לחרוג מהן",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21762664",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:36:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21762450",
-      "title": "בצל השמועות על פרידה: כוכב הריאליטי עוזב את הארץ",
-      "summary": "רק הבוקר אשתו של כוכב הריאליטי העלתה סטורי מסתורי בו כתבה כי היא \"מנסה לעכל את מה שגיליתי\", וכעת נודע ל-ForReal כי הוא טס ליעד רחוק בחו\"ל",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21762450",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:36:03.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3874700",
-      "title": "מיזם \"שבת ישראלית\" חוזר אבל רק בימי שישי, ויש מי שמוחים",
-      "summary": "מיזם \"שבת ישראלית\" חוזר אבל רק בימי שישי, ויש מי שמוחים",
-      "link": "https://travel.walla.co.il/item/3874700",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T16:36:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21762667",
-      "title": "מוהנד קמאלאת, בן 23, נורה ברהט ומת מפצעיו בבית החולים סורוקה",
-      "summary": "שלושה גברים הובאו לקבלת טיפול במרפאה מקומית ופונו על ידי מד\"א לבית החולים • שניים מהם, בני 23 ו-26, נפצעו באורח בינוני • במשטרה פתחו בחקירה ובודקים חשד שלפיו הרקע לאירוע הוא סכסוך פלילי בין משפחות",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21762667",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:35:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21762577",
-      "title": "המיילים שסיבכו את אחד הרופאים המנתחים הבכירים בישראל",
-      "summary": "פרופ' משה הדני כתב לעורכי דינו של מטופל כי אי ניתוחו בזמן מהווה רשלנות • לאחר מכן הגיש לבית המשפט חוות דעת מטעם בית החולים שקובעת כי לא נפל פגם בטיפול • בית המשפט התיר את פרסום הפרשה • משפחת המטופל: \"למי אפשר להאמין?\"",
-      "link": "https://www.israelhayom.co.il/health/article/21762577",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:35:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21762577",
-      "title": "המומחה הבטיח להעיד על רשלנות - והגיש חוות דעת הפוכה",
-      "summary": "פרופ' משה הדני כתב לעורכי דינו של מטופל כי אי ניתוחו בזמן מהווה רשלנות • לאחר מכן הגיש לבית המשפט חוות דעת מטעם בית החולים שקובעת כי לא נפל פגם בטיפול • בית המשפט התיר את פרסום הפרשה • משפחת המטופל: \"למי אפשר להאמין?\"",
-      "link": "https://www.israelhayom.co.il/health/article/21762577",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:35:42.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjv8squtmx",
-      "title": "חמינאי נתן סמכויות לשיחות, \"מדינות ערב לאיראן: עשויים לתקוף יחד אם תפגעו בתשתיות\"",
-      "summary": "נשיא איראן אמר כי הממשלה קיבלה \"כמה סמכויות\" מהמנהיג העליון לשיחות עם ארה\"ב: \"חותרים לפתרון באמצעות דיאלוג\". ב\"וול סטריט ג'ורנל\" דווח כי המשא ומתן תקוע, ועוסק בשאלה מי מהצדדים צריך להיות הראשון לבצע ויתורים לקידום השיחות. הבכיר מוחסן רזאי דיבר עם פוטין",
-      "link": "https://www.ynet.co.il/news/article/rjv8squtmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-02T16:33:20.000Z"
-    },
-    {
-      "id": "walla:https://tech.walla.co.il/item/3874697",
-      "title": "הצ'ט שחסם אותי: אסור יותר להתעלל ב-AI הפופולארי בישראל",
-      "summary": "הצ'ט שחסם אותי: אסור יותר להתעלל ב-AI הפופולארי בישראל",
-      "link": "https://tech.walla.co.il/item/3874697",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-02T16:33:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21762584",
-      "title": "כ־55,000 שקלים: הפריט היוקרתי שהציג אופק אדנק",
-      "summary": "אחרי תקופה סוערת בחייו האישיים, הראפר משתף תמונה חדשה מתוך הרכב • הפעם לא שיר חדש או עקיצה מושכים תשומת לב, אלא פרט אחד על פרק ידו",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21762584",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:32:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21762591",
-      "title": "אחרי עשור של מגעים: הסכם כלכלי חדש עם קזחסטן",
-      "summary": "המהלך צפוי להקל על פעילות חברות ומשקיעים בשתי המדינות • במסגרת ביקור משלחת בכירה מקזחסטן נחתמו גם מזכרי הבנה בתחומי הבינה המלאכותית, הסייבר והעבודה • השר זאב אלקין: \"יפתח הזדמנויות כלכליות חדשות\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21762591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-02T16:32:37.000Z"
     }
   ]
 }
