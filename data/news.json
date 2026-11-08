@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:45:52.761Z",
+  "updatedAt": "2026-11-08T07:01:13.447Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/russian-spy-austria-chancellor-kurz",
+      "title": "דרמה באירופה | מרגל רוסי חשף: 'אני חיסלתי את קנצלר אוסטריה'",
+      "summary": "בהודעות סודיות שנחשפו בחקירה, התפאר איש העסקים הנמלט כי הרשת שהפעיל הצליחה להפיל את מנהיג אוסטריה באמצעות השגת הטלפון של אחד האנשים הקרובים אליו | כעת נבדק החשד למעורבות רוסית בפרשה שטלטלה את המדינה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/russian-spy-austria-chancellor-kurz",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:57:34.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjauoqttmg",
+      "title": "\"שיטת החניקות והקשירות\": כתב אישום מחריד בפרשת ההתעללות בתינוקות במעון באריאל",
+      "summary": "קשה לקריאה: נטליה קיסלבסקי, דרינה (דשה) חלופה ואנה פגלסקי הואשמו ביותר מ-400 מקרי התעללות ב-17 חסרי ישע, חלקם בני כמה חודשים בלבד",
+      "link": "https://www.ynet.co.il/news/article/sjauoqttmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T06:54:57.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875348",
+      "title": "החגיגה נגמרה? הקונגרס יחקור את \"רווחי הקריפטו\" של טראמפ",
+      "summary": "אחרי נצחון בבחירות האמצע והשתלטות על שני הבתים, בוושינגטון נערכים לגל חקירות וצווי זימון נגד הנשיא ומשפחתו. במוקד: רווחי עתק של 1.16 מיליארד דולר, חנינות מפוקפקות ומיזמים בעלי זיקה זרה",
+      "link": "https://finance.walla.co.il/item/3875348",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:44:00.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
       "title": "האם השופטים ינהלו שיח ישיר עם גלי בהרב-מיארה? | מה צפוי במשפט נתניהו",
@@ -417,6 +444,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T05:02:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960456",
+      "title": "אחרי ניצחון הדמוקרטים: יוסטון מסרבת לשתף פעולה עם ICE",
+      "summary": "בעקבות המהפך הפוליטי בטקסס, הוחלט לצמצם את העברת המידע על מהגרים לרשויות הפדרליות. המהלך נועד להפחית את החשש בקרב התושבים, אך עלול לעורר מחלוקת משפטית",
+      "link": "https://www.walla.co.il/news/world/383960456",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T05:00:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/yahadut-hatorah-change-bloc-draft-law-test",
@@ -939,6 +975,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-07T22:02:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383960320",
+      "title": "כוננות גרעינית? מטוס 'יום הדין' של טראמפ המריא ללא סיבה",
+      "summary": "מטוס הפיקוד האמריקאי שנועד לפעול גם במקרה של מתקפה גרעינית תועד חוצה את ארה\"ב. המסלול נחשף במערכות המעקב, אבל מטרת הטיסה וזהות הנוסעים לא פורסמו",
+      "link": "https://www.walla.co.il/news/donotmiss/383960320",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-07T22:01:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14950629",
@@ -28605,105 +28650,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-03T07:05:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21764945",
-      "title": "כוכב הפועל תל אביב סימן יעד - וזו עמדת המועדון לגביו",
-      "summary": "האדומים מרוצים מההתפתחות של רועי אלקוקין והתמקדו בהשארתו במועדון: \"התקרה שלו גבוהה\" • הקשר החזיר על החמצת הפנדל בדרבי (\"חלמתי על זה בלילה\") ומכוון לנבחרת ישראל: \"אגיע לשם\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21764945",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:00:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384232",
-      "title": "מפקד מערך הגנה אווירית לשעבר מזהיר: \"החברה הישראלית לא תתמודד עם עוד סבב\"",
-      "summary": "תא\"ל (מיל') צביקה חיימוביץ' מותח ביקורת על העיסוק במועד התקיפה האפשרית באיראן, מזהיר מפני סבבים חוזרים ודורש להגדיר מטרה אסטרטגית ברורה לפני יציאה למערכה נוספת",
-      "link": "https://www.maariv.co.il/news/military/article-1384232",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:00:01.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384232",
-      "title": "\"הסרנו את האיום - והנה הוא חזר\", האזהרה לקראת תקיפה באיראן",
-      "summary": "תא\"ל (מיל') צביקה חיימוביץ' מותח ביקורת על העיסוק במועד התקיפה האפשרית באיראן, מזהיר מפני סבבים חוזרים ודורש להגדיר מטרה אסטרטגית ברורה לפני יציאה למערכה נוספת",
-      "link": "https://www.maariv.co.il/news/military/article-1384232",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:00:01.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874742",
-      "title": "\"הצמד החדש של הליגה\": בארה\"ב לא נרגעים מהשותף שמצא אבדיה",
-      "summary": "\"הצמד החדש של הליגה\": בארה\"ב לא נרגעים מהשותף שמצא אבדיה",
-      "link": "https://sports.walla.co.il/item/3874742",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T07:00:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384233",
-      "title": "קטטה אכזרית במספרה בעפולה: דקירה קשה בעימות הקולני",
-      "summary": "כתב אישום הוגש נגד נער בן 17 מעפולה, בגין אירוע דקירה שהתרחש מחוץ למספרה בעיר בחודש שעבר. הקורבן נפצע באורח קשה",
-      "link": "https://www.maariv.co.il/news/law/article-1384233",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T06:55:22.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/opinions/383959886",
-      "title": "השותפים של איזנקוט הבינו שהוא עדיין לא יודע לשחק",
-      "summary": "מי שהוצג כמועמד הטבעי להנהגת הגוש מוצא את עצמו מתגונן, מגיב ונגרר. השותפים המנוסים שלו כבר הבינו את כללי המשחק",
-      "link": "https://www.walla.co.il/news/opinions/383959886",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T06:55:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21765442",
-      "title": "איראן ותוצאות הבחירות ברקע: הדולר מזנק לשיא של יותר מחצי שנה",
-      "summary": "חוסר הוודאות הפוליטי והמתיחות מול איראן מטלטלים את שוק המט\"ח, כשהדולר מזנק לרמה של 3.15 שקלים • המסחר בבורסה בתל אביב ייפתח עם פערי ארביטראז' שליליים של 1%, שצפויים להכביד על השוק ולהוביל לפתיחה שלילית",
-      "link": "https://www.israelhayom.co.il/business/article/21765442",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:54:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnwylq",
-      "title": "יום חג בארה\"ב: האמריקאים יוצאים לקלפיות | הסקרים האחרונים - וזה המועד בו נדע את התוצאות",
-      "summary": "הבחירות שיקבעו את עתיד הקונגרס האמריקני יוצאות לדרך: כל 435 המושבים בבית הנבחרים ושליש ממושבי הסנאט עומדים להכרעה | התחזיות האחרונות מעניקות לדמוקרטים יתרון, אך המרוצים הצמודים עשויים להכריע את מאזן הכוחות בוושינגטון (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tnwylq",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T06:54:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765437",
-      "title": "יו\"ר הרשימה המשותפת: \"לא ניכנס לקואליציה כל עוד לא הממשלה לא תכיר בזכות הפלסטינים למדינה\"",
-      "summary": "מנהיג הרשימה המשותפת הציב תנאי ברור לכניסה לממשלה בראיון לרשת החדשות האמריקנית CNN • אם זאת, במפלגתו ממילאהצהירו בעבר כי לא ייכנסו לקואליציה ויתמכו בממשלה מבחוץ",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765437",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:54:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21765284",
-      "title": "אחרי קפה גן סיפור ו-GDB: הרשת הנוספת שנמכרה - ועשתה אקזיט",
-      "summary": "אחרי שנים שבהן ביססה את מעמדה בתחום ההמבורגרים, הרשת יוצאת לדרך חדשה • תוכנית הרכישה כוללת מהלך נוסף שעשוי לשנות את היקף פעילותה",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21765284",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:46:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21765284",
-      "title": "אחרי קפה גן סיפור ו-GDB: הרשת החדשה שנמכרה - ועשתה אקזיט",
-      "summary": "אחרי שנים שבהן ביססה את מעמדה בתחום ההמבורגרים, הרשת יוצאת לדרך חדשה • תוכנית הרכישה כוללת מהלך נוסף שעשוי לשנות את היקף פעילותה",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21765284",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:46:23.000Z"
     }
   ]
 }
