@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:15:58.984Z",
+  "updatedAt": "2026-11-08T08:31:01.270Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkprk3tpfx",
+      "title": "\"המפכ\"ל נסחט\": המתקפה של בן גביר נגד צמרת המשטרה - והניצב שכונה \"רמאי ושקרן\"",
+      "summary": "בצל הפלונטר הפוליטי, העימות בין השר לביטחון לאומי לבכירי המשטרה עולה מדרגה. במתקפה יוצאת דופן כינה בן גביר את ראש אח\"מ, ניצב בועז בלט, \"שליח של היועמ\"שית\" - וטען כי בהרב-מיארה סוחטת את המפכ\"ל דני לוי: \"היא צורחת עליו בישיבות. הוא שינה את עורו ב-180 מעלות\". במשטרה סירבו להגיב",
+      "link": "https://www.ynet.co.il/news/article/rkprk3tpfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T08:27:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/ben-gvir-police-chief-pressure-accusations",
+      "title": "בן גביר חושף: המפכ\"ל שינה את עורו ב-180 מעלות, כי היועמ\"שית סוחטת אותו",
+      "summary": "השר לביטחון לאומי טען בריאיון ל-103FM כי המפכ\"ל דני לוי פועל תחת איומים מצד היועמ\"שית • \"תבדקו עבירות בנייה של המפכ\"ל ומי היו מפקחי הבנייה\" | המתקפה החריפה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/ben-gvir-police-chief-pressure-accusations",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:23:15.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1386087",
+      "title": "מחירון הציוצים של מקורבת טראמפ נחשף: \"היא כמו פצצת אטום\"",
+      "summary": "תחקיר הוושינגטון פוסט מעלה טענות שלפיהן לורה לומר, המקורבת לטראמפ, קיבלה אלפי דולרים עבור פרסום ציוצים פוליטיים ללא גילוי התשלום. היא מכחישה: \"אני לא איזו משפיענית שמרוויחה כסף מציוצים\"",
+      "link": "https://www.maariv.co.il/news/world/article-1386087",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T08:20:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386085",
+      "title": "אחרי פרשת אריאל: התעללות בפעוטון ברעננה - \"העיפו אותו באוויר\" | קשה לקריאה",
+      "summary": "הורים לפעוטות בגן \"יונה\" ברעננה טוענים כי למרות תלונות שהוגשו למשטרה בחשד להתעללות בחסרי ישע, החקירה לא קודמה בתחילה. שתי נשות צוות הודו והורשעו במעשים וממתינות לגזר דינן",
+      "link": "https://www.maariv.co.il/news/law/article-1386085",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T08:19:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-executions-protesters-1",
+      "title": "המפלצת מטהראן לא שבעה: עוד 3 מפגינים נתלו בבוקר דמים אכזרי",
+      "summary": "שלושת האיראנים הוצאו להורג בעקבות הרשעתם במעורבות במהומות נגד המשטר בחודש ינואר. בטהרן טענו כי פעלו במסגרת פעילות עבור ישראל וארצות הברית (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-executions-protesters-1",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:17:13.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/police/police-nationwide-drill-november-2026",
       "title": "שמתם לב לתנועה ערה של כוחות המשטרה ברחבי הארץ? זו הסיבה",
       "summary": "תרגיל ארצי נרחב החל הבוקר במספר מוקדים • יימשך גם מחר כחלק מהעלאת הכשירות המבצעית | מדובר בתרגיל מתוכנן, אין חשש לאירוע אמת (משטרה)",
@@ -39,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T08:12:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21801389",
+      "title": "הקונסול הלבנוני בדטרויט כינה את הפיגוע \"התנגדות הירואית\" – וגורש מארה\"ב",
+      "summary": "מחלקת המדינה האמריקנית הכריזה על איברהים שרארה, כפרסונה נון גרטה והורתה לו לעזוב את המדינה בתוך 48 שעות • הסיבה: פוסטים שבהם הביע תמיכה בפיגוע הקטלני נגד בסיס הנחתים בביירות ב-1983, שבו נהרגו 241 חיילים אמריקנים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21801389",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T08:10:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1386072",
@@ -75,6 +129,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T08:02:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21801051",
+      "title": "ח\"כ מגוש השינוי: \"רע\"מ תוספת נחמדה - קודם כל נביא את החרדים\"",
+      "summary": "ספירת 28 הימים של גדי איזנקוט להרכבת הממשלה יוצאת לדרך, ובגוש השינוי כבר חלוקים על המחיר שיידרש עבור שילוב הסיעות החרדיות • בעוד ליברמן קורא להתגמש גם בחוק הגיוס, איזנקוט וגולן מתעקשים על שוויון בנטל • וגם: לאן נעלם נתניהו?",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21801051",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T08:00:32.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6ae4",
@@ -231,6 +294,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21801108",
+      "title": "נהג המיניבוס חתך חמישה נתיבים עד שאוטובוס פגע בו: 17 פצועים בתאונה באיילון, אחד מהם קשה",
+      "summary": "17 בני אדם נפצעו בתאונה שאירעה סמוך למחלף ההלכה, בהם נהג מיניבוס כבן 50 שנפגע בראשו ובגפיו • צוותי מד\"א פינו את הפצועים לבית החולים איכילוב • בעקבות התאונה נרשמים עומסי תנועה באזור",
+      "link": "https://www.israelhayom.co.il/news/local/article/21801108",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T07:29:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21801108",
       "title": "האוטובוס התנגש חזיתית במיניבוס: 17 פצועים בתאונה באיילון, אחד מהם קשה",
       "summary": "17 בני אדם נפצעו בתאונה שאירעה סמוך למחלף ההלכה, בהם נהג מיניבוס כבן 50 שנפגע בראשו ובגפיו • צוותי מד\"א פינו את הפצועים לבית החולים איכילוב • בעקבות התאונה נרשמים עומסי תנועה באזור",
       "link": "https://www.israelhayom.co.il/news/local/article/21801108",
@@ -291,6 +363,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-08T07:25:54.000Z"
+    },
+    {
+      "id": "walla:https://fashion.walla.co.il/item/3875296",
+      "title": "מה לובשים למסיבת אקזיט של אסף רפפורט? שמלה מוגזמת במחיר שפוי",
+      "summary": "עובדי חברת הסייבר הישראלית Wiz חגגו את עסקת הענק עם גוגל במסיבת חברה בתאילנד, שכללה הופעה פרטית של קייטי פרי. הזמרת הפציעה בשמלת פאייטים מנצנצת של מותג לונדוני מסקרן, והמחיר? צנוע למדי עבור כוכב",
+      "link": "https://fashion.walla.co.il/item/3875296",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T07:25:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21800785",
@@ -759,6 +840,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-08T05:52:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386017",
+      "title": "נתניהו חוזר על אותו תכסיס - איזנקוט חייב לפעול לפני שיהיה מאוחר | בן כספית",
+      "summary": "כשנתניהו טוען, בלי בושה, שהוא קרא לממשלת אחדות במהלך מערכת הבחירות, הוא כנראה חושב ששכחנו שהוא שלל אותה לאורך כל הדרך, ושגם שכחנו איך זה נגמר כשהוא הבטיח לגנץ ממשלה כזו איתו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1386017",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T05:51:55.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386017",
@@ -28479,69 +28569,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T08:31:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21766208",
-      "title": "אלן דג'נרס נפרדת: \"אני אהבתי אותו\"",
-      "summary": "מגישת הטלוויזיה נפרדת מהאיש שהיה חלק בלתי נפרד מצוות התוכנית שלה • היא סיפרה על האיש שחיבר בין עובדי התוכנית והתקשתה להסתיר את הכאב: \"הוא יחסר לנו\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21766208",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:30:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1ftrzwage",
-      "title": "כולם אומרים אחרת - אבל מי רוצה בחירות חוזרות? מפת האינטרסים",
-      "summary": "האופציה היחידה של נתניהו היא ממשלת אחדות, והוא חושש מכך. ליברמן אמר כי \"חייבים למנוע עוד בחירות\", אבל במעשיו הוא דוחף לכך. בנט עשוי להיות המועמד המוביל הבא של הגוש, לש\"ס שהתרסקה יש גם אינטרס. ולמי זה ממש לא כדאי?",
-      "link": "https://www.ynet.co.il/news/article/s1ftrzwage",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T08:29:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/jenin-terror-cell-rockets-explosives-arrest",
-      "title": "תשתית טרור נחשפה: שישה חשודים נעצרו בחשד לייצור רקטות ומטענים",
-      "summary": "שישה חשודים נעצרו בחשד לייצור רקטות ומטענים • ביצעו שלושה שיגורי ניסוי וקיבלו הנחיות מגורם חוץ | הצהרת תובע הוגשה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/police/jenin-terror-cell-rockets-explosives-arrest",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T08:25:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21766049",
-      "title": "אחרי כל הרמזים: אריאנה גרנדה עושה את זה רשמי",
-      "summary": "אחרי חודשים שבהם השניים השאירו לא מעט מקום לניחושים, גרנדה משתפת הפעם תיעוד שקשה לפרש ביותר מדי דרכים",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21766049",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:22:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21765991",
-      "title": "אייל ברקוביץ' יעזוב את רשת 13? אופירה אסייג באמירה מפתיעה",
-      "summary": "העימות הסוער בין כדורגלן העבר ללוסי אהריש ממשיך לטלטל את הערוץ • שותפתו לשעבר של ברקוביץ׳ התייחסה למשבר, תהתה מי יישבר ראשון על רקע סירובו להתנצל ורמזה כי היא יודעת כיצד הסיפור יסתיים: \"אני מכירה אותו אולי הכי טוב!\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21765991",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:22:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21766176",
-      "title": "לירז צ'רכי לוהטת באדום - ואנחנו יודעים מאיפה השמלה",
-      "summary": "הזמרת והשחקנית בחרה בשמלת סאטן אדומה, עם רצועות דקות ושסע בצד • גילינו כמה היא עולה ומי עומד מאחוריה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21766176",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:18:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21766160",
-      "title": "אל תסמכו על ג'מיני: הסכנה הנסתרת בחיפוש החדש של גוגל",
-      "summary": "בוטים כמו קלוד, ג'מיני ו-ChatGPT שינו את הדרך שבה אנחנו מחפשים מידע, והם מצוינים בשליפת טריוויה ובתכנון חופשות • אבל מחקרים מראים שכאשר מדובר בציטוטים מדויקים, חדשות מתפרצות או שאלות בתחומי הבריאות והפיננסים - הבינה המלאכותית נוטה להעדיף רלוונטיות על פני סמכות • מתי כדאי לחזור לגוגל הקלאסי?",
-      "link": "https://www.israelhayom.co.il/tech/how-to/article/21766160",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:17:39.000Z"
     }
   ]
 }
