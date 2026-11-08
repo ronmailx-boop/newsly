@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:46:01.266Z",
+  "updatedAt": "2026-11-08T08:00:59.945Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6ae4",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 10:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 10:00 (רדיו כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/to6ae4",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:00:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386075",
+      "title": "מלימודים למדים: צה\"ל חושף את מצב גיוס החרדים",
+      "summary": "צה\"ל פרסם את נתוני פתיחת מחזור הגיוס החרדי לנובמבר־דצמבר, שבמסגרתו הצטרפו עד כה 285 חיילים למסלולי תומכי לחימה • בחודשים הקרובים צפויים גיוסים נוספים, לצד הרחבת אפשרויות השירות",
+      "link": "https://www.maariv.co.il/news/military/article-1386075",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T07:58:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/northern-waterfalls-flowing-rain",
+      "title": "אחרי הגשמים הרבים: צפו בזרימה המרהיבה במפלים ובנחלים בצפון",
+      "summary": "אחרי הגשמים הרבים שפקדו בשעה טובה את ארצנו בסוף השבוע, הבוקר (ראשון) כבר נראתה זרימה ראשונה במפלים בצפון הארץ | צפו בזרימה במפל הבניאס, במפל סער ובנחל גובתה שמשתלב עם נחל הבניאס (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/northern-waterfalls-flowing-rain",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:56:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/bus-minibus-collision-ayalon-17-injured",
+      "title": "תאונה קשה באיילון: אוטובוס התנגש במיניבוס; 17 פצועים פונו לבית החולים",
+      "summary": "נהג מיניבוס במצב קשה ונערה במצב בינוני • 17 פצועים רובם באורח קל פונו לבתי החולים | זירת התאונה באיילון דרום - סמוך למחלף רוקח | החשד: נהג המיניבוס ניסה להיכנס לנתיב המהיר והתנגש באוטובוס (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/bus-minibus-collision-ayalon-17-injured",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:55:52.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/russian-red-carpet-chemical-toilets",
       "title": "זעם ברוסיה: השטיח האדום לכבוד המושל הוביל לשירותים כימיים",
@@ -97,7 +133,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1tsqiptgx",
       "title": "\"עומסים באיילון\": 17 פצועים בתאונה סמוך למחלף ההלכה, נהג מיניבוס נפגע קשה",
-      "summary": "בשעות העומס: 17 בני אדם נפצעו בתאונה בין מיניבוס לאוטובוס באיילון דרום, אחד מהם במצב קשה, צעירה במצב בינוני והיתר קל. המשטרה עדכנה על עומסי תנועה באזור",
+      "summary": "17 בני אדם נפצעו בתאונה בין מיניבוס לאוטובוס באיילון דרום בשעות העומס. נהג המיניבוס נפצע באורח קשה: לפי החשד, הוא ניסה להיכנס לנתיב המהיר - ונפגע מאוטובוס. צעירה נפצעה בינוני והיתר במצב קל. המשטרה עדכנה על עומסי תנועה באזור",
       "link": "https://www.ynet.co.il/news/article/r1tsqiptgx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -120,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T07:16:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386053",
+      "title": "יותר מ-400 מקרי התעללות: כתב האישום המזעזע בפרשת המעון באריאל | לאחר חשיפת מעריב",
+      "summary": "כתב אישום חמור הוגש נגד מנהלת מעון ושתי מטפלות באריאל, בגין מאות מקרי התעללות לכאורה ב־17 פעוטות • הפרקליטות מתארת שיטות ענישה אכזריות, ובהן חסימת נשימה, קשירות וכליאה בחושך",
+      "link": "https://www.maariv.co.il/news/law/article-1386053",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T07:15:35.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386053",
@@ -165,6 +210,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T07:10:09.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875352",
+      "title": "\"הכרה בינלאומית\": התחום המפתיע בו החמיא דוח ה-OECD לישראל",
+      "summary": "דוח הפנסיה העולמי לשנת 2026 מציג: החוסכים הישראלים במקום השני בתשואות בעשור האחרון. המודל הישראלי מתאפיין בהשתתפות נרחבת של הציבור ובתלות נמוכה בתקציב המדינה: \"הכרה בינלאומית בחוסן המערכת\"",
+      "link": "https://finance.walla.co.il/item/3875352",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T07:08:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960481",
@@ -408,6 +462,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T06:29:26.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875347",
+      "title": "סטף קרי שבר שיא של לברון וג'ורדן: \"אין בעולם עוד מישהו כזה\"",
+      "summary": "כוכב גולדן סטייט קלע 41 נקודות ב-119:126 על אורלנדו וניפץ שיא NBA, כולל זריקה מרהיבה. סטיב קר התמוגג: \"אני לא יודע אם יש עוד מישהו בעולם שמסוגל לקלוע ככה\"",
+      "link": "https://sports.walla.co.il/item/3875347",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:29:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21800792",
@@ -28515,114 +28578,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-03T08:03:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/lieberman-prevent-elections-haredi-coalition-optio",
-      "title": "אביגדור ליברמן רומז שוב לאפשרות של ממשלה עם הסיעות החרדיות",
-      "summary": "יו״ר ישראל ביתנו קורא למנוע בחירות נוספות • פסל ממשלת מיעוט ותמיכה ערבית אך לא הזכיר את הסיעות החרדיות| האם נסללת הדרך לשיתוף פעולה עם הסיעות החרדיות? (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/lieberman-prevent-elections-haredi-coalition-optio",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:56:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21765823",
-      "title": "\"מופע הסתה\": הביקורת מתוך רשת 13 מחריפה, העיתונאי הבכיר תוקף את הבעלים",
-      "summary": "המשבר בעקבות העימות בין לוסי אהריש לאייל ברקוביץ' מסלים: עיתונאי חדשות 12 ברק רביד האשים את אסף רפפורט ב\"נרמול גזענות\" וציטט בכיר בערוץ שתקף את תוכניתם של ברקוביץ' ומוריה אסרף • אהריש עדיין מסרבת לחזור לשדר, וברקוביץ' טרם התנצל",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21765823",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:54:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21765681",
-      "title": "אלי פיניש נפרד: \"אני חברת קדישא של הדמויות של ארץ נהדרת\"",
-      "summary": "כוכב \"ארץ נהדרת\" עושה סדר בבחירות דרך מופע הסטנדאפ שלו • אחרי שצחק על המפלגות והדמויות השונות, הוא מסכם את התסכול שלו כבדרן שאיבד חומר גלם",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21765681",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:53:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21765681",
-      "title": "אלי פיניש נפרד: \"עוזב את ישראל\"",
-      "summary": "כוכב \"ארץ נהדרת\" עושה סדר בבחירות דרך מופע הסטנדאפ שלו • אחרי שצחק על המפלגות והדמויות השונות, הוא מסכם את התסכול שלו כבדרן שאיבד חומר גלם",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21765681",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:53:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21765577",
-      "title": "נמלט מהמשטרה - והתגלה שנהג ללא רישיון מאז 1998",
-      "summary": "שוטרי המחוז הצפוני עצרו תושב ראמה בן 49 שנסע על טרקטורון ללא קסדה, עקף כלי רכב על קו הפרדה רצוף וניסה להימלט מהכוחות לתוך שטח פתוח • בבדיקת פרטיו של החשוד התברר כי רישיון הנהיגה שלו אינו בתוקף עוד משנת 1998 וכי לחובתו עומדת פסילה של בית המשפט, בעוד כלי הרכב הושבת והוגש נגדו כתב אישום בבית המשפט לתעבורה בעכו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21765577",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:51:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90538",
-      "title": "ג'בארין הסביר ב-CNN מדוע לא הצטרף לקואליציה",
-      "summary": "יו\"ר הרשימה המשותפת יוסף ג'בארין אמר בראיון לרשת CNN כי אינו יכול להצטרף לקואליציה ולקחת אחריות על פעולות צבאיות נגד העם הפלסטיני.",
-      "link": "https://www.kikar.co.il/scoop-news/90538",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:51:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21765787",
-      "title": "אקס מכבי תל אביב תמך מהיציע: דני אבדיה שבר בצורת של 16 שנה",
-      "summary": "סייד אבו פרחי, חלוץ קולורדו ראפידס, ניצל את הגעתה של פורטלנד טרייל בלייזרס כדי לצפות בכוכב הישראלי • הפורוורד וחבריו רשמו ניצחון חוץ בדנבר במסגרת העונה הסדירה לראשונה מאז 2010",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21765787",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:51:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
-      "title": "ההסכמות שהושגו בפגישת ראשי גוש השינוי - והמחלוקת הגדולה שנותרה",
-      "summary": "ראשי המפלגות סיכמו להמליץ לנשיא להטיל על איזנקוט את הרכבת הממשלה ולקדם מהלכים בכנסת כבר בימיה הראשונים • המאבק על ראשות הכנסת נמשך, כשברקע הדרישה למנות את לפיד לתפקיד • גולן דרש לבטל את חוקי הרפורמה המשפטית ולהקים ועדת חקירה ממלכתית, ובנט הבטיח: \"נתייצב בכל הכוח לעזור לאיזנקוט\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:50:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
-      "title": "בתום פגישה של שעה: מחלוקת על זהות יו\"ר הכנסת בגוש השינוי",
-      "summary": "ראשי המפלגות סיכמו לפעול להשתלטות על הכנסת, אך נותרו חלוקים סביב הדרישה למנות את יאיר לפיד ליו\"ר הזמני • לפיד הזהיר מפני ניסיונות לערער על תוצאות הבחירות: \"הם פשוט לא מוכנים להודות שהם הפסידו\" • במקביל, יאיר גולן נפגש עם ראשי הרשימה המשותפת לתיאום המהלכים הפוליטיים הבאים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:50:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
-      "title": "ראשי גוש השינוי סיכמו: תוכנית ההשתלטות על הכנסת יוצאת לדרך",
-      "summary": "ראשי גוש השינוי סיכמו לפעול להשתלטות על הכנסת, אך לא הגיעו להסכמה על זהות היו\"ר, כשברקע הדרישה למנות את לפיד לתפקיד • לפיד הזהיר מפני ניסיונות לערער על תוצאות הבחירות: \"הם פשוט לא מוכנים להודות שהם הפסידו\" • במקביל, יאיר גולן נפגש עם ראשי הרשימה המשותפת לקראת המהלכים הפוליטיים הבאים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:50:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
-      "title": "פגישת ראשי גוש השינוי: איזנקוט מקבל מסר מחבר המפלגה",
-      "summary": "לפיד אמר לפני הפגישה כי: \"אנחנו ניצבים מול סיכון משמעותי נגד הבחירות, נחשפתי לכל חומרי המודיעין - הם פשוט לא מוכנים להודות שהם הפסידו\" • גולן נפגש עם ראשי המשותפת טיבי וג'בארין - ואיזנקוט קיבל מסר עבה מחבר מפלגתו שלא לתת יד לכניסת המשותפת",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:50:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21765844",
-      "title": "פגישת ראשי גוש השינוי: התפקיד \"החם\" שבמוקד - והחוקים שעל הפרק",
-      "summary": "לפיד אמר לפני הפגישה כי: \"אנחנו ניצבים מול סיכון משמעותי נגד הבחירות, נחשפתי לכל חומרי המודיעין - הם פשוט לא מוכנים להודות שהם הפסידו\" • ליברמן תקף את \"הקמפיין האגואיסטי\" של איזנקוט והצהיר: \"חייבים למנוע בחירות נוספות\" • בשאר המפלגות דורשים את תפקיד יו\"ר הכנסת ללפיד - ומאבק עיקש מתנהל על חלוקת הוועדות והשליטה במשכן",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21765844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:50:15.000Z"
     }
   ]
 }
