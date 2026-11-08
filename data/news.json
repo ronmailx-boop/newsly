@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:01:13.447Z",
+  "updatedAt": "2026-11-08T07:16:01.841Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,8 +32,35 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/georgia-meloni-horse-riding-verona",
+      "title": "סוס מנצח: הצעד החריג של ראש ממשלת איטליה בתערוכה",
+      "summary": "ג'ורג'ה מלוני הגיעה לתערוכה בינלאומית בוורונה, פגשה עיתונאים וסיירה בין המוצגים, אך אז הגיע הרגע שגנב את ההצגה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/georgia-meloni-horse-riding-verona",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:13:52.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/ariel-daycare-indictment-400-abuse-cases",
+      "title": "כתב אישום מזעזע: מעל 400 מקרי התעללות בתינוקות | קשה לקריאה",
+      "summary": "פרקליטות המדינה הגישה כתב אישום נגד מנהלת המעון באריאל ושתי מטפלות • 17 תינוקות ופעוטות נפגעו מ'שיטות ענישה' אכזריות | כל הפרטים המזעזעים מכתב האישום (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/ariel-daycare-indictment-400-abuse-cases",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:12:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/gila-disguised-haredi-burglary-arrest",
+      "title": "התחפש לחרדי כדי לפרוץ לבתים: כך נתפס השב\"ח בגילה",
+      "summary": "שוהה בלתי חוקי התחפש לחרדי ופרץ לבית בשכונת גילה • נתפס עם כלי פריצה ורכוש חשוד כגנוב | מעצרו הוארך (משטרה)",
+      "link": "https://www.kikar.co.il/police/gila-disguised-haredi-burglary-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:02:43.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/russian-spy-austria-chancellor-kurz",
-      "title": "דרמה באירופה | מרגל רוסי חשף: 'אני חיסלתי את קנצלר אוסטריה'",
+      "title": "דרמה באירופה | מרגל רוסי חשף: 'אני \"חיסלתי\" את קנצלר אוסטריה'",
       "summary": "בהודעות סודיות שנחשפו בחקירה, התפאר איש העסקים הנמלט כי הרשת שהפעיל הצליחה להפיל את מנהיג אוסטריה באמצעות השגת הטלפון של אחד האנשים הקרובים אליו | כעת נבדק החשד למעורבות רוסית בפרשה שטלטלה את המדינה (חדשות בעולם)",
       "link": "https://www.kikar.co.il/world-news/russian-spy-austria-chancellor-kurz",
       "source": "כיכר השבת",
@@ -41,13 +68,76 @@
       "pubDate": "2026-11-08T06:57:34.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21800890",
+      "title": "טל גלבוע: \"הבטן שלי נהייתה ספוג\"",
+      "summary": "יועצת ראש הממשלה מעלה הילוך בהליך השיקום וחושפת את הסיבות הפיזיות שהובילו אותה אל שולחן הניתוחים • בסרטון חדש היא מציגה את המציאות הלא פוטוגנית של ההחלמה, ומסבירה כיצד ירידה דרסטית במשקל השפיעה על גופה",
+      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21800890",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:56:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383960479",
+      "title": "יותר מ-400 מקרי התעללות: כתב אישום הוגש בפרשת המעון באריאל",
+      "summary": "מנהלת מעון “לוצ’יק” ושתי מטפלות נאשמות במסכת התעללות מתמשכת בילדים בני חצי שנה עד שלוש. לפי האישום, הן נהגו לקשור פעוטות, לחסום את נשימתם ולהאכילם בכוח. הפרקליטות דורשת את מעצרן עד תום ההליכים",
+      "link": "https://www.walla.co.il/news/law/383960479",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:55:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21800881",
+      "title": "המרוץ להרכבת הממשלה מתחיל: 28 ימים של מגעים – והאתגר של איזנקוט לשותפים",
+      "summary": "אחרי שקיבל את המנדט מהנשיא, יו\"ר ישר! מתחיל היום את ספירת הימים שהוקצבו לו להרכבת ממשלה, אך למרות 67 הממליצים שקיבל, הדרך לקואליציה רצופה מכשולים • האפשרות להעמיד את ליברמן במבחן, התרחיש שבו המנדט יעבור לנתניהו ומה יקרה אם גם הניסיון השני ייכשל",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21800881",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:55:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21800888",
+      "title": "החגיגה של ליאור נרקיס: מירן בוזגלו בלי מכנסיים - איתי לוי בלי סטייל",
+      "summary": "ליאור נרקיס חגג 50 במסיבה נוצצת ביפו, עם שלל כוכבים, הופעות ומותגי יוקרה • רינת בר ומיכל הקטנה סיפקו רגעים אופנתיים מוצלחים, מירן בוזגלו אימצה את טרנד הלוק נטול המכנסיים, ולא כולם הצליחו להרשים • זהירות, ביקורת אופנה לפניכם",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21800888",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:55:32.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjauoqttmg",
       "title": "\"שיטת החניקות והקשירות\": כתב אישום מחריד בפרשת ההתעללות בתינוקות במעון באריאל",
-      "summary": "קשה לקריאה: נטליה קיסלבסקי, דרינה (דשה) חלופה ואנה פגלסקי הואשמו ביותר מ-400 מקרי התעללות ב-17 חסרי ישע, חלקם בני כמה חודשים בלבד",
+      "summary": "קשה לקריאה: האישום נגד נטליה קיסלבסקי, דרינה (דשה) חלופה ואנה פגלסקי מגולל מסכת יוצאת דופן של אלימות מתמשכת נגד 17 תינוקות ופעוטות. לשלוש מיוחסים יותר מ-400 מקרי התעללות: \"הפעוטות האדימו ונאבקו על נשימתם, עד כדי ערפול חושים\". שלוש ה\"שיטות\" המזעזעות - ואזהרת הפרקליטות: \"מסוכנות גבוהה\"",
       "link": "https://www.ynet.co.il/news/article/sjauoqttmg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-08T06:54:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21800810",
+      "title": "חניקות, קשירות וכליאה בחדר חשוך: כתב אישום חמור נגד צוות המעון באריאל",
+      "summary": "הפרקליטות הגישה כתב אישום חמור נגד נטליה קסילבסקי, מנהלת מעון \"לוצ'יק\", ושתי מטפלות • האישום מתאר כ-400 אירועי אלימות קשים, חניקות, קשירות והאכלה בכוח של 17 תינוקות ופעוטות בני חצי שנה עד שלוש",
+      "link": "https://www.israelhayom.co.il/news/law/article/21800810",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:52:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21800812",
+      "title": "״מי בעד לינץ׳?״: איים על חיי רה״מ - וזוכה בגלל מצבו הנפשי",
+      "summary": "תושב המרכז פרסם פוסט בפייסבוק, וכשנשאל אם הוא קורא לרצח ראש הממשלה בנימין נתניהו - השיב בחיוב • ביהמ\"ש קבע כי מצבו המעורער בעת הפרסום מעורר ספק באשר לאחריותו למעשיו • לצד ההחלטה לזכות את הנאשם, הושפט הורה על טיפול מרפאתי כפוי לתקופה של עד שלוש שנים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21800812",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:49:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21800808",
+      "title": "לא שותקת: הצעד הראשון של נבחרת ארגנטינה אחרי עידן ליונל מסי",
+      "summary": "התאחדות הכדורגל הארגנטינאית הודיעה כי תפנה ל-CAS, זאת אחרי שערעורה על העונשים הכבדים שפיפ\"א הטילה עליה נדחו • חלק משחקניה הורחקו לתקופה ארוכה לאחר הקטטה ההמונית בסיום גמר המונדיאל בו הפסידה לספרד • תבקש לבטל גם את הקנס בגבוה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21800808",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:44:37.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3875348",
@@ -57,6 +147,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-08T06:44:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
+      "title": "אחרי עדות מנדלבליט: ההחלטות שעשויות לשנות את המשך משפט נתניהו",
+      "summary": "השבוע במשפט נתניהו יתקיימו שני דיונים בימי רביעי וחמישי בלבד: האם היועצת המשפטית לממשלה תשיב לבקשת השופטים להגיע לשיחה?",
+      "link": "https://www.maariv.co.il/news/law/article-1386031",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T06:42:51.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
@@ -95,6 +194,15 @@
       "pubDate": "2026-11-08T06:34:39.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21800829",
+      "title": "אלאניס מוריסט: \"אני פאנסקסואלית\"",
+      "summary": "הזמרת הקנדית חושפת פרט מפתח על חייה האישיים במסגרת התארחות בפודקאסט אמריקאי • כוכבת שנות התשעים המצליחה אישרה באופן רשמי ופומבי כי היא נמשכת לאנשים ללא שום קשר לזהותם המגדרית",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21800829",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:34:17.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/dana-white-trump-press-secretary",
       "title": "אגרוף לפנים: המועמד השרירן של טראמפ לדוברות הבית הלבן מעורר סערה",
       "summary": "אחרי טלטלה נוספת בצוות הנשיאותי, הנשיא האמריקני הציע את התפקיד לאדם שמגיע מעולם שונה לחלוטין מפוליטיקה ותקשורת (חדשות בעולם)",
@@ -111,6 +219,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T06:32:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21800795",
+      "title": "שחקני סן אנטוניו \"נהנו להביס את דני אבדיה\" - ובפורטלנד ענו",
+      "summary": "הספרס הביסו את הבלייזרס, ועיתונאי מטקסס זיהה סיפוק מיוחד מהמפגש עם הישראלי: ״יש שמחה טהורה וכנה שבולטת לעין״ • בתקשורת המקומית תקפו את ויקטור ומבניאמה: \"תמיד על הרצפה\" • מייקה נורי כעס: \"בעטו לנו בתחת\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21800795",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:31:46.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383960474",
@@ -28587,69 +28704,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T07:17:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skc6x11pafl",
-      "title": "התקיפות האמריקניות החשאיות, וחמשת העקרונות של איראן: \"הסכם? עוד רחוק\"",
-      "summary": "האמריקנים תקפו הלילה באי קשם בתגובה לירי לכלי טיס, ב\"וול סטריט ג'ורנל\" נחשף כי זה שבועות הם תוקפים באיראן \"בהיקף מוגבל ובאופן הגנתי\". בכיר איראני על המגעים בתיווך קטארי: \"דרישות ארה\"ב לא מקובלות, אנחנו רחוקים מהסכם לסיום המלחמה\". יו\"ר הפרלמנט קאליבאף: \"הכדור בידיים של ארה\"ב\"",
-      "link": "https://www.ynet.co.il/news/article/skc6x11pafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T07:13:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/skc6x11pafl",
-      "title": "התקיפות האמריקניות החשאיות, ואיומי איראן: \"היד על ההדק. הסכם? עוד רחוק\"",
-      "summary": "האמריקנים תקפו הלילה באי קשם בתגובה לירי לכלי טיס, ב\"וול סטריט ג'ורנל\" נחשף כי זה שבועות הם תוקפים באיראן \"בהיקף מוגבל ובאופן הגנתי\". בכיר איראני על המגעים בתיווך קטארי: \"דרישות ארה\"ב לא מקובלות, אנחנו רחוקים מהסכם לסיום המלחמה\". יו\"ר הפרלמנט קאליבאף: \"הכדור בידיים של ארה\"ב\"",
-      "link": "https://www.ynet.co.il/news/article/skc6x11pafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T07:13:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnwzye",
-      "title": "סוער בשכונה החרדית: כוחות הביטחון פינו מבנים בלתי חוקיים שהוקמו בנווה יעקב",
-      "summary": "פעילות אכיפה ממוקדת של שוטרי מחוז ירושלים, לוחמי מג\"ב והמנהל האזרחי הובילה לפינוי מבנים שהוקמו תוך השתלטות על קרקעות וגרמו לחיכוכים עם התושבים | מפקד תחנת שפט: \"נמשיך לפעול בנחישות לשמירה על החוק והסדר\"",
-      "link": "https://www.kikar.co.il/haredim-news/tnwzye",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:13:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/private-jet-crash-florida",
-      "title": "משפחה שלמה נמחקה: המיליונר, אשתו ושני ילדיהם נהרגו בהתרסקות",
-      "summary": "הם יצאו לחופשה משפחתית באיי בהאמה, אך המטוס צלל במהירות אדירה והתרסק באזור מגורים בפלורידה | תשעה בני אדם, בהם שני ילדים קטנים ואומנת המשפחה, נספו באסון (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/private-jet-crash-florida",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:08:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
-      "title": "גרושתו של חנן בן ארי במסר חד משמעי לבתה: \"לא הכל אפשר לתקן\"",
-      "summary": "שיחה יומיומית בין אם לבתה על דברים שנשברים קיבלה משמעות עמוקה הרבה יותר • בסטורי אישי הסבירה בן ארי מדוע דווקא הניסיון של אורי להרגיע אותה כל כך מכאיב לה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:07:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
-      "title": "גרושתו של חנן בן ארי: \"לא הכל אפשר לתקן\"",
-      "summary": "שיחה יומיומית בין אם לבתה על דברים שנשברים קיבלה משמעות עמוקה הרבה יותר • בסטורי אישי הסבירה בן ארי מדוע דווקא הניסיון של אורי להרגיע אותה כל כך מכאיב לה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21765429",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:07:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383959905",
-      "title": "תעלומת הסירחון ששטף את ראשון לציון נפתרה",
-      "summary": "תעלומת הסירחון ששטף את ראשון לציון נפתרה",
-      "link": "https://www.walla.co.il/news/israel/383959905",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T07:05:25.000Z"
     }
   ]
 }
