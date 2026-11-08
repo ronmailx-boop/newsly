@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:30:53.164Z",
+  "updatedAt": "2026-11-08T06:45:52.761Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
+      "title": "האם השופטים ינהלו שיח ישיר עם גלי בהרב-מיארה? | מה צפוי במשפט נתניהו",
+      "summary": "השבוע במשפט נתניהו יתקיימו שני דיונים בימי רביעי וחמישי בלבד: האם היועצת המשפטית לממשלה תשיב לבקשת השופטים להגיע לשיחה?",
+      "link": "https://www.maariv.co.il/news/law/article-1386031",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T06:42:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/lots-wife-salt-pillar-munkacs",
+      "title": "\"ציוני אפיקורס!\" - זעק בעל ה\"מנחת אלעזר\" זי\"ע על הבחור, ואחרי רגע התנצל בדמעות שליש",
+      "summary": "הסערה במונקאטש, הזעקה על האפיקורסות והמקור המפתיע ברבנו בחיי • מיהי באמת \"אשת לוט\", איזה פירוש נעלם מכתבי האבן עזרא, ומה כתב הרע\"ב מברטנורא כשחיפש את עמוד המלח בים המלח? (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/lots-wife-salt-pillar-munkacs",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:40:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/woman-rescued-karmiel-fall-roof",
+      "title": "חילוץ מורכב בכרמיאל: אישה נפלה מגובה על גג רעפים | תיעוד",
+      "summary": "לוחמי האש חילצו אישה שנפלה מגובה על גג רעפים • היחידה לחילוצים מיוחדים פעלה במקום | האישה רותמה לאלונקת חילוץ ופונתה לטיפול רפואי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/woman-rescued-karmiel-fall-roof",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:36:40.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960476",
+      "title": "מקאלמור טוען לחרם, ומדיסון סקוור גארדן עוקץ: \"לא אמן ברמה\"",
+      "summary": "הראפר טוען שתשעה אולמות בארה”ב סירבו לארח את מופעי ההתרמה שלו למען הפלסטינים. במדיסון סקוור גארדן דוחים את הטענות ומשיבים בעקיצה: “הוא לא אמן ברמה של ארנה”",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960476",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:34:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/dana-white-trump-press-secretary",
+      "title": "אגרוף לפנים: המועמד השרירן של טראמפ לדוברות הבית הלבן מעורר סערה",
+      "summary": "אחרי טלטלה נוספת בצוות הנשיאותי, הנשיא האמריקני הציע את התפקיד לאדם שמגיע מעולם שונה לחלוטין מפוליטיקה ותקשורת (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/dana-white-trump-press-secretary",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:32:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386037",
+      "title": "\"הוא מאשים את ישראל בהפסד המפלגה הרפובליקנית\": האזהרה של ראש המל\"ל לשעבר",
+      "summary": "ראש המל\"ל לשעבר איל חולתא מזהיר מפני תקיפה שלא תעצור את הגרעין האיראני, מעריך שטראמפ מתרחק מהחלטה צבאית וחושף את הקולות בממשל האמריקאי שמאשימים את ישראל בהפסד הרפובליקנים",
+      "link": "https://www.maariv.co.il/news/military/article-1386037",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T06:32:19.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960474",
+      "title": "הבכיר לשעבר: טראמפ יודע שתקיפה באיראן לא בטוח תפתור את הבעיה",
+      "summary": "בראיון ל-103fm הזהיר ראש המל\"ל לשעבר איל חולתא מפני תקיפה שלא תפגע במתקני הגרעין המבוצרים באיראן, והעריך כי טראמפ רחוק מהחלטה לתקוף. לדבריו, תוצאות בחירות האמצע מחזקות את הקולות הביקורתיים כלפי ישראל",
+      "link": "https://www.walla.co.il/news/israel/383960474",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:30:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1386035",
       "title": "הטעות שרבים עושים בחיטוב: הרכיב התזונתי ששוכחים לבדוק | ד\"ר מאיה רוזמן",
       "summary": "כשמדברים על ירידה במשקל, בדרך כלל מדברים על חלבון, סיבים וקלוריות. אבל מתברר שיש מינרל אחד די חשוב שחוסר שלו פוגע בתפקוד היום-יומי - וגם ביכולת לרדת במשקל",
@@ -39,6 +102,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T06:29:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21800792",
+      "title": "בלי לימודים בשישי, פחות חופשות: התוכניות שעלולות להיתקע בשל הפלונטר הפוליטי",
+      "summary": "המבוי הסתום בהקמת הממשלה מאיים להקפיא שורה של רפורמות במערכת החינוך: מעבר לחמישה ימי לימוד, צמצום מספר התלמידים בכיתות והעברת סמכויות ממשרד החינוך לרשויות המקומיות • דווקא כשהסכמי השכר עומדים להתחדש, אי-הוודאות הפוליטית עלולה לטרפד את השינויים",
+      "link": "https://www.israelhayom.co.il/news/education/article/21800792",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T06:28:55.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/danon-iran-un-confrontation",
@@ -57,6 +129,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T06:21:31.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960401",
+      "title": "דאגה מהמסר: בירושלים מנתחים את הדרמה סביב הודעת טראמפ",
+      "summary": "ההודעה המפתיעה של הנשיא תפסה את הפקידות הבכירה בארה\"ב ובישראל ללא לוחות זמנים ברורים, ובעיתוי רגיש במיוחד בזירות הלחימה",
+      "link": "https://www.walla.co.il/news/world/383960401",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:20:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383960401",
@@ -88,7 +169,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h19sutt6fe",
       "title": "ראש השב\"כ לשעבר מסביר: מדוע נפגש עם דוד זיני - ומה אמר לו?",
-      "summary": "עמי אילון סיפר בהפגנה בהבימה שראש השב\"כ לשעבר הזמין אותו לפגישה ודן איתו על החשד להשפעה זרה בבחירות. \"לא העליתי בדעתי לסרב לו\", אמר. הוא כינה את זיני \"אמיץ\" - והסביר: \"הוא יודע את דעתי עליו\". לדבריו, העביר לו מסר: \"שירות ביטחון שפועל בדרך המערערת את אמון הציבור נכשל בתפקידו\"",
+      "summary": "עמי אילון סיפר בהפגנה בהבימה שראש השב\"כ הזמין אותו לפגישה ודן איתו על החשד להשפעה זרה בבחירות. \"לא העליתי בדעתי לסרב לו\", אמר. הוא כינה את זיני \"אמיץ\" - והסביר: \"הוא יודע את דעתי עליו\". לדבריו, העביר לו מסר: \"שירות ביטחון שפועל בדרך המערערת את אמון הציבור נכשל בתפקידו\"",
       "link": "https://www.ynet.co.il/news/article/h19sutt6fe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -28623,60 +28704,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T06:46:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21765342",
-      "title": "איטליה מתאבלת: \"השפית הטובה בעולם\" מתה ממחלה",
-      "summary": "נדיה סנטיני הפכה לאיטלקייה הראשונה שזוכה בשלושה כוכבי מישלן - על אף העובדה שמעולם לא למדה בישול בצורה מקצועית • בגיל 73, אחרי מאבק ממושך בסרטן, היא מתה מוקפת בבני משפחה",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21765342",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:43:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21765159",
-      "title": "אלמז מנגיסטו: \"לא אכלתי ולא ישנתי שבוע וחצי\"",
-      "summary": "מגישת חדשות 12 נזכרה ברגעי הלחץ לקראת הריאיון עם בכיר ביטחוני לשעבר, ובמרתון הלימודים שהביא אותה מוכנה לשידור: \"אין מצב שאני יוצאת לא מושלמת\" • מנגיסטו התגאתה בתוצאה: \"קברתי אותו\"",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21765159",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:42:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21765303",
-      "title": "מצרים העתיקה פינת לטרון: תלמיד מצא קמע בן 3,000 שנה",
-      "summary": "שילה עטון בן ה-17, תלמיד התיכון \"מאס בישראל\" של ארגון ג'ואיש נשיונל פאנד ארה\"ב (JNF-USA), גילה קמע עתיק בן כ-3,300 שנה מסוג \"חרפושית\" מעוטר בנחשי קוברה במהלך סיור לימודי בגן הלאומי תל גזר • בעקבות הדיווח המיידי לרשות העתיקות, הגיע מפקח המרחב לבית הספר, אסף את הממצא המיוחד לאוצרות המדינה והעניק לתלמיד תעודת הוקרה על גילוי אזרחות טובה",
-      "link": "https://www.israelhayom.co.il/news/local/article/21765303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:40:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21765238",
-      "title": "נקמה שהסתבכה: הצית את רכב שכנו - ונלכד בגלל הכוויות | צפו",
-      "summary": "תושב עין יעקב בן ה-35 נאשם בהצתת הרכב של שכנו • לאחר שנמלט מהמקום, הוא דיווח למד\"א כי נפצע ונכווה בידיו במהלך ההצתה - מה שהוביל לגילוי מיקומו ומעצרו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21765238",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:39:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/walking-around-the-world-28-years",
-      "title": "28 שנה בלי לחזור הביתה: האיש המטורף שהלך ברגל מסביב לעולם חזר",
-      "summary": "מסביב לעולם: 28 שנים של הישרדות בג'ונגלים, ים קפוא וכלא זר: הרגע שבו קארל בושבי סוף סוף הגיע הביתה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/walking-around-the-world-28-years",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T06:34:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384228",
-      "title": "כבר בימים הקרובים: היערכות לתרחיש ההרס במלחמה מול איראן",
-      "summary": "פיקוד העורף נערך לתרחיש של פתיחה מלחמה מול איראן, כבר במהלך הימים הקרובים. במסגרת התרגיל שהוא מקיים הבוקר, יופקו הלקחים מהאסון שאירע בחיפה במלחמה האחרונה",
-      "link": "https://www.maariv.co.il/news/military/article-1384228",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T06:34:31.000Z"
     }
   ]
 }
