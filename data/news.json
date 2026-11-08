@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:16:00.135Z",
+  "updatedAt": "2026-11-08T19:30:53.064Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,45 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386387",
+      "title": "\"הפעם באנו מוכנים\": בישראל בולמים את המהלך התקשורתי של חמאס בעזה",
+      "summary": "בישראל נערכים לקמפיין חורף בינלאומי של חמאס שיתרכז בתנאי המחיה בעזה. גורם ביטחוני טוען כי הארגון מנסה ללחוץ לקידום השיקום טרם פירוקו מנשק, וחושף את היקף ציוד החורף שהוכנס לרצועה",
+      "link": "https://www.maariv.co.il/news/military/article-1386387",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T19:17:30.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk0jbbaafx",
+      "title": "דיווח: העיתונאי ופעיל בל\"ד שנחשד במגע עם סוכן זר נשאל בשב\"כ על פוליטיקה",
+      "summary": "עבד אבו שחאדה ששוחרר ממעצר בחשד למגע עם סוכן זר נחקר, לפי דיווחים, על פרשת ההתערבות הזרה בבחירות - ונשאל בשב\"כ למה שיעור ההצבעה בחברה הערבית היה גבוה. בשירות מעריכים כי היקף הכספים שהועברו לטובת ההתערבות נאמד במיליונים ולא ב-100 מיליון. זיני ביקש לחקור גם את ג'בארין",
+      "link": "https://www.ynet.co.il/news/article/rk0jbbaafx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T19:16:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960599",
+      "title": "ליברמן: \"התנאי המוקדם לכל חוק גיוס הוא שיעבור את מבחן בג\"ץ\"",
+      "summary": "\"הפרסומים על שיחות בנוגע להקפאת חוק המעצריםהם שקר וכזב - מעולם לא התקיים שום שיח מהסוג הזה\", הטיח יו\"ר מפלגת ישראל ביתנו במי שמייחסים לו מניעים פוליטיים נסתרים בנכונותו להגיע להסכמות עם החרדים",
+      "link": "https://www.walla.co.il/news/politics/383960599",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T19:14:38.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hymryvcpmx",
+      "title": "חוק הבסיס של ליברמן, והתנאי החדש: \"לא נבזבז דקה, רק אם יעבור את בג\"ץ\"",
+      "summary": "במהלך הקדנציה האחרונה, יו\"ר ישראל ביתנו הרבה למתוח ביקורת על המדיניות המקלה של הממשלה לדבריו בנושא גיוס החרדים. אלא שהחוק שהוא עצמו קידם ב-2018 לפני הטבח, ואותו הגדיר היום \"בסיס ראוי להסכמות\", מקל הרבה יותר. הסעיפים, היסטוריית החוקים - והתנאי החדש של ליברמן",
+      "link": "https://www.ynet.co.il/news/article/hymryvcpmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T19:14:34.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91233",
       "title": "אף מפלגה לא דורשת רוטציה, ב'ישר' מבהירים: אין מגעים עם החרדים",
-      "summary": "מהמו״מ בגוש השינוי: אף מפלגה בגוש לא דורשת רוטציה במסגרת המשא ומתן מול מפלגת ישר. בכיר במפלגת ישר מבהיר כי בשלב זה אין מגעים עם המפלגות החרדיות או הערביות: ״כרגע השיחות הן בין ארבע המפלגות המרכיבות את גוש השינוי״",
+      "summary": "מהמו״מ בגוש השינוי: אף מפלגה בגוש לא דורשת רוטציה במסגרת המשא ומתן מול מפלגת ישר. בכיר במפלגת ישר מבהיר ל'כיכר' כי בשלב זה אין מגעים עם המפלגות החרדיות או הערביות: ״כרגע השיחות הן בין ארבע המפלגות המרכיבות את גוש השינוי״",
       "link": "https://www.kikar.co.il/scoop-news/91233",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -642,6 +678,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-08T16:42:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386348",
+      "title": "מפכ\"ל המשטרה לשעבר במתקפה על בן גביר: \"הוא כנראה מבטא את התסכול שלו\"",
+      "summary": "המפכ\"ל לשעבר משה קראדי תקף ב-103fm את השר איתמר בן גביר וטען כי הוא מפעיל לחץ על המפכ\"ל דני לוי. לדבריו, העימות בין השניים החריף לאחר שהמפכ\"ל החליט להציב גבולות לשר",
+      "link": "https://www.maariv.co.il/news/israel/article-1386348",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T16:40:51.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1386348",
@@ -28722,69 +28767,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T19:31:07.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjm2mhvagx",
-      "title": "לשם הגענו: המצב המטריד של הברית עם אמריקה",
-      "summary": "ההודעה של טראמפ על הפסקת הסיוע לישראל היא התפתחות מדאיגה מאוד, שממחישה עד כמה מצבה של ישראל הידרדר. הנזק גם גבוה מהרבה מ-12 מיליארד שקל בשנה - מה שנמצא על הכף הוא מערכת היחסים ההדוקה עם הממסד הבטחוני-תעשייתי של ארה\"ב. ועדיין, ישראלים רבים לא מבינים עד כמה רעילה נחשבת דמותו של נתניהו בעיני האמריקנים",
-      "link": "https://www.ynet.co.il/news/article/hjm2mhvagx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T19:30:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21773623",
-      "title": "אין לנו שנתיים: הצהרת טראמפ היא ניצחון לאל-סייד",
-      "summary": "הודעת טראמפ על הפסקת הסיוע לא חידשה הרבה, אבל העיתוי שלה, ביום הבחירות ובהקשר הישיר של המרוץ במישיגן, מלמדת עד כמה הפכה ישראל לנטל אלקטוראלי • ניצחון של אל-סייד, שסירב לרכך את עמדותיו במדינה מתנדנדת, יוכיח למפלגה לקראת 2028 שאפשר לנצח גם כך",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21773623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T19:25:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/shabak-chief-embarrassing-moment-mansour-abbas",
-      "title": "\"איך קוראים לו, איך קוראים לו\": הרגע המביך של ראש השב\"כ בישיבה",
-      "summary": "ראש השב\"כ דוד זיני ביקש לפתוח חקירה נגד ארבעה פוליטיקאים בכירים • רגע מביך כשלא זכר את שמו של יו\"ר רע\"ם | הפרשייה שמטלטלת את המערכת (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/shabak-chief-embarrassing-moment-mansour-abbas",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T19:23:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/karmiel-opens-public-shelters-security-tensions",
-      "title": "נערכים להסלמה: עיר ראשונה הודיעה על פתיחת מקלטים ציבוריים",
-      "summary": "ראש העיר משה קונינסקי הורה על פתיחת המקלטים לפני כשבועיים • המערכות העירוניות בדריכות מלאה | \"היערכות מוקדמת היא המפתח\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/karmiel-opens-public-shelters-security-tensions",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T19:21:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/sara-netanyahu-coalition-meeting-election-fraud-cl",
-      "title": "\"שודדים את המדינה\": שרה נתניהו הייתה נסערת בפגישה עם חברי גוש הימין",
-      "summary": "רעיית ראש הממשלה השתתפה באופן דומיננטי בישיבה עם נציגי הליכוד, הציונות הדתית וש\"ס | \"מדינות זרות חדרו וגונבות לנו את הריבונות\", התבטאה בין היתר באופן חריג (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/sara-netanyahu-coalition-meeting-election-fraud-cl",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T19:18:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21773454",
-      "title": "*.*",
-      "summary": "*.*",
-      "link": "https://www.israelhayom.co.il/opinions/article/21773454",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T19:16:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21773454",
-      "title": "כולם קוראים לאחדות, אבל מי אמר שהיא חייבת לכלול את נתניהו?",
-      "summary": "שבוע אחרי הבחירות, הקריאות לממשלת אחדות מתגברות, אך איש אינו מסביר כיצד תקום ומי יעמוד בראשה • נתניהו ממשיך לתקוף את גוש השינוי, בעוד הלחצים על איזנקוט גוברים • ואולי הגיע הזמן לשקול אפשרות אחרת: ממשלה שתחבר בין מפלגות השינוי, החרדים והערבים, ללא הליכוד?",
-      "link": "https://www.israelhayom.co.il/opinions/article/21773454",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T19:16:05.000Z"
     }
   ]
 }
