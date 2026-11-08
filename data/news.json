@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T21:15:52.963Z",
+  "updatedAt": "2026-11-08T21:30:51.779Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/to7c0f",
+      "title": "ה'אמבוש' של דני דנון למועמד הטורקי באו\"ם: השאלה - והתשובה המביכה",
+      "summary": "השגריר הישראלי לאו\"ם דני דנון התקיל את המועמד לתפקיד מזכ\"ל האו\"ם הטורקי כאשר שאל אותו אם הוא מוכן סוף סוף לגנות את חמאס | כך הוא ענה (חדשות)",
+      "link": "https://www.kikar.co.il/news/to7c0f",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T21:14:57.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/r1hbml06zg",
       "title": "הפגנת ענק נגד ישראל באמסטרדם: \"להטיל עוד סנקציות\"",
       "summary": "רבבות יצאו לרחובות אמסטרדם בקריאה לפעול בתקיפות רבה יותר נגד ישראל. חלקם בכאפיות, אחרים עם שלטי \"לעצור את רצח העם\". ראש ממשלת הולנד: \"עושים ככל יכולתנו להקל על המצב הנורא בעזה\"",
@@ -48,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T21:00:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21809172",
+      "title": "\"בגדתי באשתי\": מנכ''ל אנבידיה מודה ברומן עם החשודה בריגול",
+      "summary": "אנבידיה הודיעה כי תפתח בחקירה עצמאית בעקבות דיווחים לפיהם המנכ\"ל ג'נסן הואנג היה יעד של מודיעין זר • על פי טיוטת מייל לעובדים שפורסמה באקסיוס, הואנג הודה ברומן עם אשת עסקים סינית החשודה בריגול • \"אין תירוץ למעשיי\"",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21809172",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T20:52:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21809172",
@@ -28407,141 +28425,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T21:31:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21739973",
-      "title": "מזל שור, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "היום אתם זקוקים לפינוק ומנוחה, אך תצטרכו להתאזר בסבלנות ולחכות לסוף השבוע. עייפות מצטברת נותנת את אותותיה",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21739973",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21739976",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "צפויות אנרגיות מבזיקות ומחשמלות. אתם מתגעגעים למישהו ששוהה עתה במרחקים וזה גורם לכם להרגיש לא-מי-יודע-מה",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21739976",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21740022",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "למרות שאתם נמנים עם יסוד המים, צפויות לכם אנרגיות מבריאות של יסוד האש. מתחילה התחזקות והתאוששות דרמטית בתחושה הפנימית",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21740022",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21740023",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "זה יום בו מסתמן שיפור בתחום העבודה והקריירה. פניות של גורמים חיצוניים מאפשרות לכם לראות עד כמה הדרך פתוחה בפניכם ועד כמה יש לכם אפשרויות רבות",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21740023",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21740024",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "אתם נמצאים במצב רוח מוזר וקופצני ומרגישים צורך לפצות את עצמכם. כך אתם עלולים לגרום לעצמכם בזבוז כספים לא מבוקר ולשלם מאוחר יותר- מחיר גבוה, תרתי משמע",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21740024",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21740060",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "יש משהו באוויר שגורם לכם להרגיש אופטימיות. האמונה בכוחותיכם הפנימיים מתחזקת לנוכח פידבקים חיוביים בעבודה",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21740060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21740061",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "נראה שמצב ה'תקיעות' המעיק שאתם חווים קורה בגלל העומס הרב. עליכם לנסות לשנות נקודת ההשקפה שלכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21740061",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740063",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "אתם מקבלים תמיכה לא צפויה מבני הזוג. מנגד, אתם עלולים למצוא את עצמכם בויכוח עמוק מול מישהו מהמשפחה הקרובה",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740063",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21740105",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "מערך הכוכבים בולם מצבים שלכאורה יצאו לדרך. שינוי מקום העבודה נדחה לעת עתה ואתם מרגישים הקלה",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21740105",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21740106",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "מערך הכוכבים יוצר מצבים לפיהם מה שנראה לכם היום ככישלון – יכול להתפתח להצלחה גדולה, בעיקר אם תשנו במקצת את הגישה שלכם. מדובר בתחום העבודה אך יש גם רמיזה לכיוון האישי",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21740106",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21740107",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "את הניסיון לדבר עם הבוס על העלאה, כדאי לעשות עוד היום. ההכנות המיותרות מורידות את מפלס האדרנלין ואינן תורמות מאומה",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21740107",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21739970",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 04.11.2026",
-      "summary": "יום עמוס. אתם מרבים לנסוע ולהשקיע בענייני עבודה",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21739970",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21774193",
-      "title": "סערת הפוליטיקאים סביב דרישת זיני: \"הפך את השב\"כ לכלי פוליטי\"",
-      "summary": "במערכת הפוליטית הגיבו בחריפות לדיווחים שלפיהם ראש השב\"כ ביקש לחקור אישים מהמפלגות הערביות במסגרת חקירת החשד להשפעה זרה על הבחירות • יאיר גולן אמר כי \"ראשי גוש השינוי חייבים להבין את גודל השעה\", הרשימה המשותפת האשימה בניסיון לפגוע בלגיטימיות של הציבור הערבי ומנסור עבאס הבהיר: \"לא חוששים מאף חקירה\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21774193",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:21:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/supreme-court-delays-prison-sentence-stone-throwin",
-      "title": "בית המשפט העליון עיכב את כניסתו לכלא של הצעיר מבנימין שהרג אם פלסטינית",
-      "summary": "השופטת רות רונן קבעה כי המקרה חריג ומצדיק עיכוב ביצוע • הצעיר הורשע בהריגה ב-2018 בפסק דין חלקי • \"יריית הפתיחה לזיכוי המוחלט\" (משפט)",
-      "link": "https://www.kikar.co.il/law-and-order/supreme-court-delays-prison-sentence-stone-throwin",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T21:21:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21774282",
-      "title": "הפסקת הסיוע תאפשר עצמאות",
-      "summary": "להפסקת הסיוע יש פנים לכאן ולכאן: היא תחייב את ישראל לממן את הרכש בכסף שלה, אבל תשיב הביתה את קווי הייצור • ובינתיים, מול איראן, אין \"אקדח מעשן\" שמחייב תקיפה מיידית, וישראל צריכה להיות מתואמת לחלוטין עם ארה\"ב",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21774282",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T21:20:13.000Z"
     }
   ]
 }
