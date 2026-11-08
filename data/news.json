@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:51:33.332Z",
+  "updatedAt": "2026-11-08T09:02:07.325Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
+      "title": "החות'ים מכים חזק: מתקפת טילים קשה על המרכז הפיננסי בסעודיה",
+      "summary": "שיגורים מתימן פגעו בשני יעדים מרכזיים בבירת סעודיה, בהם המרכז הפיננסי היוקרתי ומבנה של ענקית הנפט אראמקו (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:56:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/mayanei-hayeshua-12th-cesarean-world-record",
+      "title": "שיא עולמי בישראל: יולדת עברה ניתוח קיסרי בפעם ה-12 בהצלחה מלאה",
+      "summary": "יולדת שעברה 11 ניתוחים קיסריים בעברה עברה השבוע את הניתוח ה-12 במעייני הישועה • הליך כירורגי מורכב שקבע שיא גינס עולמי חדש (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/mayanei-hayeshua-12th-cesarean-world-record",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:55:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/court-orders-council-pay-fire-evacuees",
+      "title": "המועצה ניסתה להתחמק – ותשלם מאות אלפים למפוני השריפה",
+      "summary": "המועצה האזורית חבל מודיעין ניסתה להימנע מתשלום חוב עבור אירוח משפחות שבתיהן נשרפו • בית המשפט דחה את הערעור והותיר את החיוב הכספי על כנו | פסק דין סופי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/court-orders-council-pay-fire-evacuees",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:54:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1386102",
+      "title": "בן גביר רומז לפרשה סביב המפכ\"ל - וטוען לסחיטה: \"תעשו גוגל\"",
+      "summary": "בריאיון לרדיו 103fm טען בן גביר כי היועמ\"שית סוחטת את המפכ\"ל, רמז לפרטים הקשורים לביתו ותקף בחריפות את ראש אגף החקירות • השר התייחס גם לחשדות להתערבות בבחירות ולהצבעה במגזר הערבי",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1386102",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T08:52:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/peoples/elchanan-mishmartei-diary-laptop-stolen",
       "title": "לא נעים: היומן והמחשב של הפייטן אלחנן משמרתי נגנבו; \"כל האירועים היו שם\"",
       "summary": "הפייטן אלחנן משמרתי סיפר כי ביומן ובמחשב הנייד שנגנבו היו שמורים כל פרטי האירועים שלו • כעת הוא מבקש ממי שסגר איתו הופעה בתקופה הקרובה לשלוח לו שוב את הפרטים | הפרטים המלאים (אנשים)",
@@ -48,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T08:48:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960477",
+      "title": "שבוע דרמטי: הפלונטר בדרך לממשלת איזנקוט רק הולך ומסתבך",
+      "summary": "איזנקוט צפוי לקבל היום את המנדט להרכבת הממשלה, אך למרות שינוי העמדה של ליברמן בסוגיית החרדים, הדרך להקמת ממשלה עדיין ארוכה ומלאת מכשולים",
+      "link": "https://www.walla.co.il/news/politics/383960477",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T08:47:04.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/driver-flees-sobriety-check-hits-officer-disguises",
@@ -75,6 +120,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T08:38:30.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875361",
+      "title": "ברק בכר עשה את מה שנתניהו לא מסוגל לעשות כבר שלוש שנים",
+      "summary": "המאמן היוצא של מכבי חיפה לימד אותנו שיעור חשוב שחורג הרבה מחוץ לתחומי הכדורגל: הודאה בכישלון ולקיחת אחריות, בלי להפיל את התיק על אחרים",
+      "link": "https://sports.walla.co.il/item/3875361",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T08:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21801536",
@@ -147,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T08:25:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383960489",
+      "title": "אחרי השיטפונות: בצה\"ל דוחים את טענות חמאס על עזה",
+      "summary": "לאחר שהגשמים הכבדים גרמו להצפות ולסחיפת אוהלים בעזה, חמאס האשים את ישראל במצב. במערכת הביטחון דחו את הטענות והבהירו: לא יוכנס ציוד לשיקום הרצועה ללא פירוק חמאס מנשקו",
+      "link": "https://www.walla.co.il/news/military/383960489",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T08:23:52.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383960489",
@@ -28425,78 +28488,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T09:02:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384299",
-      "title": "אחרי 90 יום בכלא - הפורץ לשעבר לקפיטול משגר אזהרה חמורה לאמריקה",
-      "summary": "זכוכיות חסינות כדורים הותקנו בקלפיות בארה\"ב, ועובדי בחירות מתמודדים עם איומים. ברקע, טראמפ מציב תנאי לקבלת התוצאות, וגורמי פיקוח חוששים מגל תביעות ומחזרה על אירועי הקפיטול",
-      "link": "https://www.maariv.co.il/news/world/article-1384299",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T09:01:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384299",
-      "title": "בארה\"ב חוששים מתרחיש הקפיטול 2: \"יש סכנה שההיסטוריה תחזור על עצמה\"",
-      "summary": "זכוכיות חסינות כדורים הותקנו בקלפיות בארה\"ב, ועובדי בחירות מתמודדים עם איומים. ברקע, טראמפ מציב תנאי לקבלת התוצאות, וגורמי פיקוח חוששים מגל תביעות ומחזרה על אירועי הקפיטול",
-      "link": "https://www.maariv.co.il/news/world/article-1384299",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T09:01:25.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjbummptfx",
-      "title": "נתוני העריקים יועברו לעיריות, וסגן ראש העיר ירושלים דורש: לשלול מהם הטבות",
-      "summary": "יוסי חביליו דרש לקבל את נתוני העריקים מצה\"ל, ול-ynet נודע כי בכוונתו לשלול מהם סבסוד צהרונים, מלגות והנחות באירועי תרבות וספורט בירושלים. \"נטל השירות והמסים נופל רובו ככולו על הציבור המשרת\", כתב לראש העיר ליאון",
-      "link": "https://www.ynet.co.il/news/article/sjbummptfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T08:56:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21766632",
-      "title": "\"אני מפחדת\": בן זוגה איים עליה בסכין - בגלל שהצביעה ש\"ס",
-      "summary": "האישה נמלטה למקלט לנשים נפגעות אלימות, לאחר שבן זוגה ב-13 השנים האחרונות איים עליה בסכין ביום הבחירות • לפי דיווח של ארגון \"יד לאחים\", הגבר נמלט לשטחי יו\"ש והמשטרה מחפשת אחריו • אחותה פנתה בדחיפות לסיוע: \"אנחנו בסכנה\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21766632",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:54:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/internal-divisions-arab-parties-cooperation",
-      "title": "הזמנו את האויב פנימה // הרב יצחק ידידיה שינפלד",
-      "summary": "אנחנו מתווכחים איך ייראה החלום הציוני. יש מי שכלל לא רוצה שהוא יתגשם | הרב יצחק ידידיה שינפלד על השת\"פ עם המפלגות הערביות (דעות)",
-      "link": "https://www.kikar.co.il/haredim-news/internal-divisions-arab-parties-cooperation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T08:54:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21766284",
-      "title": "רון דרמר: \"נוכל להתמודד עם נשיא אנטי-ישראלי, לא אנטי-אמריקני\"",
-      "summary": "השר לעניינים אסטרטגים לשעבר דיבר על עתיד היחסים בין ישראל וארה\"ב • לדבריו של דרמר, הדרך להתמודד עם נשיא עוין תהיה להראות את החשיבות בברית בין ירושלים לוושינגטון, בביטחון ובכלכלה • המסר שלו לאמריקאים: \"אם ייבחר נשיא אנטי-אמריקני - תהיו בבעיה קיומית\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21766284",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:52:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21766284",
-      "title": "רון דרמר: \"נוכל להתמודד עם נשיא אנטי-ישראלי, לא אנטי-אמריקאי\"",
-      "summary": "השר לעניינים אסטרטגים לשעבר דיבר על עתיד היחסים בין ישראל וארה\"ב • לדבריו של דרמר, הדרך להתמודד עם נשיא עוין תהיה להראות את החשיבות בברית בין ירושלים לוושינגטון, בביטחון ובכלכלה • המסר שלו לאמריקאים: \"אם ייבחר נשיא אנטי-אמריקאי - תהיו בבעיה קיומית\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21766284",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T08:52:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384287",
-      "title": "בלי מלצרים ובלי שולחנות: הסטייק שהפך ללהיט ברשת",
-      "summary": "מקום חדש בברוקלין מושך אליו סועדים בזכות שיטת הגשה יוצאת דופן: תמורת 25 דולר מקבלים ארוחה שמגיעה מהדירה שמעל הרחוב - רק כדאי להזמין מראש!",
-      "link": "https://www.maariv.co.il/news/viral/article-1384287",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T08:51:44.000Z"
     }
   ]
 }
