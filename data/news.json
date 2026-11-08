@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:30:52.837Z",
+  "updatedAt": "2026-11-08T07:46:01.266Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/russian-red-carpet-chemical-toilets",
+      "title": "זעם ברוסיה: השטיח האדום לכבוד המושל הוביל לשירותים כימיים",
+      "summary": "לקראת ביקורו של מושל מחוז התושבים בכפר קטן ברוסיה נדהמו לגלות שטיח אדום שנפרס עד לשירותים הכימיים - אלא שלרשויות המקומיות יש הסבר מפתיע (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/russian-red-carpet-chemical-toilets",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T07:39:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386064",
+      "title": "ש\"ס רוצה להתקרב לאיזנקוט - אבל שמישהו אחר יתחיל: \"נגררנו לאירוע\"",
+      "summary": "כתב \"כיכר השבת\" ישי כהן הסביר ב-103fm מדוע ש\"ס, שהמליצה על נתניהו, נזהרת כעת מחבירה לאיזנקוט, ומדוע יהדות התורה, שנמנעה בהמלצה לנשיא, עשויה לעשות את הצעד הראשון",
+      "link": "https://www.maariv.co.il/news/politics/article-1386064",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T07:39:11.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386063",
+      "title": "עומסים כבדים באיילון: שמונה בני אדם נפצעו בתאונה חריגה, אחד מהם במצב קשה",
+      "summary": "בעקבות תאונת דרכים חריגה בין אוטובוס למיניבוס בכביש איילון בתל אביב, ישנם מספר פצועים ביניהם נהג המיניבוס במצב קשה והכביש לכיוון דרום נחסם לתנועה",
+      "link": "https://www.maariv.co.il/news/israel/article-1386063",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T07:37:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386056",
+      "title": "\"אפילו המאפיה לא עושה דברים כאלה\": המתקפה החריפה על גוש השינוי",
+      "summary": "האפשרות שאיזנקוט יגיע להסכמות עם המפלגות החרדיות הציתה עימות בין רונן צור לגיא בוסי ב-103fm. בוסי טען להצעות שכבר הוצעו לחרדים, בעוד צור הגדיר את הדברים לוחמה פסיכולוגית שנועדה להרתיע את גוש השינוי",
+      "link": "https://www.maariv.co.il/news/politics/article-1386056",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T07:37:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21801108",
+      "title": "10 פצועים, אחד מהם קשה בתאונה בין אוטובוס למיניבוס בנתיבי איילון",
+      "summary": "עשרה בני אדם נפצעו בתאונה שאירעה סמוך למחלף ההלכה, בהם נהג מיניבוס כבן 50 שנפגע בראשו ובגפיו • צוותי מד\"א פינו את הפצועים לבית החולים איכילוב • בעקבות התאונה נרשמים עומסי תנועה באזור",
+      "link": "https://www.israelhayom.co.il/news/local/article/21801108",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T07:29:43.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1386058",
       "title": "בתוך גרביים מלוכלכים: התגלית המפחידה בשדה התעופה",
       "summary": "בדיקה בנמל התעופה בפרו חשפה מטען יוצא דופן שהוסתר בשלוש מזוודות של נוסעים בדרכם לגרמניה. בין אלפי היצורים שהתגלו היו גם כאלה שטרם תוארו למדע, והשווי האפשרי של המשלוח הגיע לסכום עתק",
@@ -39,6 +84,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T07:28:24.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960484",
+      "title": "תאונה בין אוטובוס למיניבוס באיילון: 10 פצועים, אחד במצב קשה",
+      "summary": "נהג המיניבוס, כבן 50, נפצע קשה וסובל מחבלות בראש ובגפיים. צעירה בת 17 נפצעה בינוני ושמונה נוספים נפצעו קל. הפצועים פונו לאיכילוב, עומסי תנועה נרשמים באזור התאונה",
+      "link": "https://www.walla.co.il/news/israel/383960484",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T07:26:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1tsqiptgx",
+      "title": "\"עומסים באיילון\": 17 פצועים בתאונה סמוך למחלף ההלכה, נהג מיניבוס נפגע קשה",
+      "summary": "בשעות העומס: 17 בני אדם נפצעו בתאונה בין מיניבוס לאוטובוס באיילון דרום, אחד מהם במצב קשה, צעירה במצב בינוני והיתר קל. המשטרה עדכנה על עומסי תנועה באזור",
+      "link": "https://www.ynet.co.il/news/article/r1tsqiptgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T07:25:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21800785",
+      "title": "\"סוף עידן נתניהו?\": כך מסקרים בעולם את הדרמה הפוליטית בישראל",
+      "summary": "בארה\"ב מנסים להבין את הפלונטר הפוליטי • בגרמניה כבר טוענים: \"זה סוף עידן נתניהו\" • בצרפת טוענים: \"האיש הזה לא יכול היה לברוח מהבשורה\" • כך התהפוכות הפוליטיות בישראל מסוקרות בעולם",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21800785",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T07:23:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21800982",
+      "title": "עדי בוזגלו על בעלה אסי: \"לא הצלחתי\"",
+      "summary": "כוכבת הריאליטי חוזרת אחורה ומודה בטעות שעשתה עם בעלה ואבי ילדיה אסי בוזגלו בסיטואציה מכרעת. \"לא הייתי מוכנה לוותר\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21800982",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T07:16:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386053",
@@ -28542,150 +28623,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T07:50:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21765666",
-      "title": "לאנס סטרול קיבל הוראה לעצור: עכשיו מתגלה הסיבה",
-      "summary": "הונדה הסבירה כי עומס גבוה מהצפוי על מערכת הקירור הוביל לפרישה המוקדמת של שני נהגי אסטון מרטין בגרנד פרי מקסיקו • בן זוגה של יעל שלביה נאלץ לעצור בהקפה השישית כדי למנוע נזק לסוללה",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21765666",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:45:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/black-hawk-fireworks-stadium-incident",
-      "title": "שניות מאסון: זיקוקי האצטדיון פגעו במסוק קרב מעל רבבות צופים",
-      "summary": "סוק בלאק הוק חלף מעל משחק הפוטבול בין סיאטל סיהוקס לשיקגו ברס, בדיוק כשמופע הזיקוקים יצא לדרך (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/black-hawk-fireworks-stadium-incident",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:45:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21765704",
-      "title": "רמי קלינשטיין מתחבר מחדש: \"אין מה לעשות, היא מיוחדת\"",
-      "summary": "הזמר , היוצר והגרוש של ריטה חוזר לא פחות מארבע עשרה שנים אחורה ומרעיף מחמאות באהבה גדולה. מי זכתה לסופרלטיבים?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21765704",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:45:01.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byengzwagl",
-      "title": "תיעוד דרמטי מ\"גג העולם\": שני מסוקים התנגשו בנחיתה ליד האוורסט",
-      "summary": "להבי המסוקים פגעו זה בזה במהלך נחיתה, ושניהם התרסקו על הקרקע המושלגת בנפאל. אזרח הודי בן 47 נהרג, ואדם נוסף נפצע ופונה לבית החולים",
-      "link": "https://www.ynet.co.il/news/article/byengzwagl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T07:44:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnwysq",
-      "title": "ביזוי כבוד המת מחפיר; 54 ימים שגופתו של הנרצח כלואה במקפיא באוקראינה בשל מלחמת אגו",
-      "summary": "למעלה מחודש וחצי שגופתו של ר' יצחק אלמקייס ז\"ל, אב לשבעה מאנגליה, שנרצח באומן בראש השנה, מוחזקת במקפיא באוקראינה בשל מאבקי שליטה, ביורוקרטיה וחשדות כבדים לטיוח משטרתי | \"ביזוי המת מהזוועתיים שידעה היהדות\" | הסיפור המלא (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tnwysq",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:41:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tnx0qn",
-      "title": "האדמו\"ר מויז'ניץ אירח בחצרו את האברכים שתרמו 100 אלף ש\"ח והעניק להם טלית",
-      "summary": "במעון הקודש של האדמו\"ר מויז'ניץ במושב אורה נערך מעמד הנחת אבן הפינה לבית המדרש 'ישועות משה' באשדוד | במעמד השתתפו קבוצת אברכים שתרמו 100 אלף ש\"ח לבניין, המה זכו לשמוע דברות קודש ולקבל טלית מפוארת מידי האדמו\"ר | תיעוד וסיקור (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tnx0qn",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:39:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-closed-talks-netanyahu-government",
-      "title": "איזנקוט מתחייב: \"לא אשב בממשלה תחת נתניהו, גם אם טראמפ יבקש\"",
-      "summary": "יו\"ר ישר! הבהיר בשיחות פרטיות כי לא ישב בממשלה בראשות נתניהו • הבהיר: אם טראמפ יקרא אגיע אך אעמוד על כך שמדובר בעניין פנים-ישראלי | איזנקוט הכחיש: \"ספינים שקריים\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-closed-talks-netanyahu-government",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T07:39:04.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874750",
-      "title": "מי עומד מאחורי שוד הקריפטו של 6.3 מיליארד דולר?",
-      "summary": "מי עומד מאחורי שוד הקריפטו של 6.3 מיליארד דולר?",
-      "link": "https://finance.walla.co.il/item/3874750",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T07:39:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21765537",
-      "title": "בלי מקדחה וזריקה: הנוזל שיכול לעצור חורים בשיניים",
-      "summary": "מחקר גדול בארה\"ב הראה כי התכשיר הוותיק SDF מצליח לבלום עששת ביותר מחצי ממקרי שיני החלב • לדברי החוקרים, מדובר בפתרון זול, מהיר וללא כאב שעשוי לשנות את עולם רפואת השיניים",
-      "link": "https://www.israelhayom.co.il/health/article/21765537",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:37:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byesr11pafl",
-      "title": "ניבין אותרה 6 שנים אחרי שנרצחה: \"המשכתי להתקשר אליה, קיוויתי שתענה\"",
-      "summary": "\"סיפורה חייב להזכיר את חובת האחראים למאבק באלימות\", אמרה קרובת משפחתה של ניבין אלעמרני, ששרידיה זוהו בנגב שש שנים אחרי שנרצחה והועלמה - והדליקו נורה אדומה על מצב הנשים בחברה הערבית. חברותיה קיוו שתימצא בחיים: \"היא הייתה אהובה, קשה להאמין שזה מה שקרה לה\"",
-      "link": "https://www.ynet.co.il/news/article/byesr11pafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T07:33:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384238",
-      "title": "הצית רכב בגלל סכסוך שכנים - ועשה טעות שעלתה לו ביוקר",
-      "summary": "סכסוך שכנים בעין יעקב הוביל להצתת רכב, אך דקות לאחר השריפה הגיע דיווח מפתיע למד\"א שהוביל את השוטרים היישר אל החשוד. כעת מתברר מה עשה זמן קצר לפני ההצתה",
-      "link": "https://www.maariv.co.il/news/law/article-1384238",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:33:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21765569",
-      "title": "מה באמת שווה לקנות בשופינג IL - ומה לא",
-      "summary": "עונת הקניות של נובמבר בעיצומה, ואתרי האופנה מציעים הנחות שמפתות אותנו להוסיף עוד ועוד פריטים לעגלה, אבל לא כל מבצע הוא מציאה, ולא כל טרנד שווה את הכסף • מפריטי הבייסיק שכדאי לנצל את ההזדמנות כדי לקנות ועד לפריטים שאפשר בהחלט להשאיר באתר - כך תעשו שופינג IL חכם יותר",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21765569",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:33:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21765714",
-      "title": "הפצ\"ר בנאום תקיף: \"צה\"ל מחויב לחוק, ככה לא נראה ג'נוסייד\"",
-      "summary": "בנאום נדיר, בכנס משפטנים, אלוף איתי אופיר התייחס בהרחבה ללחימה בשבע הזירות • הוא הדגיש כי המחויבות לחוק לא השתנתה מאז 7.10, יצא נגד האשמות רצח העם והסרט 'נז\"א' - והבהיר: \"הצבא בודק את עצמו כל הזמן\" • \"אנחנו שולחים לוחמים לעזה כדי להילחם בארגוני טרור ולא באזרחים\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21765714",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T07:33:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384249",
-      "title": "עמית חדד המשיך ללחוץ על מנדלבליט - והסבלנות של יהודית תירוש פקעה",
-      "summary": "סנגורו של ראש הממשלה ממשיך לחקור את היועץ המשפטי לממשלה לשעבר, אביחי מנדלבליט. חדד טוען שאתמול קיבל מהתביעה חורים חדשים ושלא היה זמן להתגנה להתכונן לכך",
-      "link": "https://www.maariv.co.il/news/law/article-1384249",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:32:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384249",
-      "title": "גם היום מנדלבליט על הדוכן - ועמית חדד לוחץ: \"אני זוכר שחתמתי\"",
-      "summary": "סנגורו של ראש הממשלה ממשיך לחקור את היועץ המשפטי לממשלה לשעבר, אביחי מנדלבליט. חדד טוען שאתמול קיבל מהתביעה חורים חדשים ושלא היה זמן להתגנה להתכונן לכך",
-      "link": "https://www.maariv.co.il/news/law/article-1384249",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:32:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384249",
-      "title": "מה הוא ישלוף היום? עדותו של אביחי מנדלבליט במשפט נתניהו נמשכת",
-      "summary": "הבוקר במשפט נתניהו: סנגורו של ראש הממשלה ימשיך לחקור את היועץ המשפטי לממשלה לשעבר, אביחי מנדלבליט. לאחר מכן הוא ייחקר בידי הסנגורית של נוני מוזס, ולאחר מכן על ידי הפרקליטות",
-      "link": "https://www.maariv.co.il/news/law/article-1384249",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T07:32:00.000Z"
     }
   ]
 }
