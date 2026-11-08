@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:46:05.036Z",
+  "updatedAt": "2026-11-08T18:01:05.023Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-war-unlikely-military-ready",
+      "title": "אחרי התבוסה: טראמפ העניק ראיון ל-CNN ודיבר איך לא - על איראן",
+      "summary": "הנשיא האמריקני חוזר על הערכתו חמש פעמים בריאיון • שלוש נושאות מטוסים באזור ורשימת יעדים מוכנה | \"הם רוצים הסכם כל כך מאוד\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/trump-iran-war-unlikely-military-ready",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T17:55:54.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sj0upqr6ge",
+      "title": "בגוש איזנקוט מפנים חיצים לליברמן, שעונה: \"אתם נותנים פרס לנתניהו\"",
+      "summary": "המנדט אצל איזנקוט, המפתח אצל יו\"ר ישראל ביתנו: בכירים בגוש שמוביל יו\"ר ישר! חושדים שליברמן מתכנן את \"היום שאחרי\" - אם ייכשלו הניסיונות להרכבת ממשלה, והמנדט יעבור לכנסת. \"מדובר על ממשלה להחלפת נתניהו - שתפעל בהמשך לגדול עם רוב ברור\", אמר גורם בגוש. ליברמן: \"ממשלת מיעוט תחזיק פחות משנה\"",
+      "link": "https://www.ynet.co.il/news/article/sj0upqr6ge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T17:49:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hyrsmn0pzg",
+      "title": "ארה\"ב סימנה גשרים באיראן, טראמפ: \"סיכוי נמוך שאורה לחזור למלחמה\"",
+      "summary": "נשיא ארה\"ב אמר ל-CNN כי אם בשיחות עם טהרן תהיה התקדמות, ארה\"ב לא תחזור ללחימה. הוא ציין כי ארה\"ב הכינה רשימה של 38 גשרים \"שיופלו בתוך שעה\" - ואז הסתייג: \"אני לא אוהב להרוס, הכי קשה לבנות אותם - זה לוקח שנים\". שר החוץ האיראני: \"עמדו בדרישות שלנו - ותראו תוצאות\"",
+      "link": "https://www.ynet.co.il/news/article/hyrsmn0pzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T17:47:13.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91225",
       "title": "טראמפ: \"מאוד לא סביר שאשוב כעת למלחמה עם איראן\"",
       "summary": "",
@@ -42,12 +69,30 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/helicopter-crash-indonesia-firefighting-mission",
+      "title": "תיעוד קשה: המסוק ניסה לשאוב מים מהנהר - ואיבד שליטה ברגע האחרון",
+      "summary": "מסוק כיבוי אש התרסק לנהר בריטו במהלך משימת כיבוי שריפות יער | איש צוות אינדונזי נהרג, שני טייסים ניצלו | תאונה שנייה בתוך ימים | דייג תיעד את רגע ההתרסקות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/helicopter-crash-indonesia-firefighting-mission",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T17:43:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/helicopter-crash-indonesia-firefighting-mission",
       "title": "תועד מסירה סמוכה: המסוק ניסה לשאוב מים מהנהר - ואיבד שליטה ברגע האחרון",
       "summary": "מסוק כיבוי אש התרסק לנהר בריטו במהלך משימת כיבוי שריפות יער | איש צוות אינדונזי נהרג, שני טייסים ניצלו | תאונה שנייה בתוך ימים | דייג תיעד את רגע ההתרסקות (בעולם)",
       "link": "https://www.kikar.co.il/world-news/helicopter-crash-indonesia-firefighting-mission",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T17:43:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/myhealth/383960579",
+      "title": "מותה הטראגי של בר בלפר: 5 דקות פרכוס שמובילות למוות",
+      "summary": "בעקבות מותה של השחקנית ואשת התקשורת בר בלפר אחרי התקף אפילפטי, מומחים מסבירים מתי פרכוס מחייב להזעיק עזרה, איך מפחיתים את הסיכון למוות פתאומי באפילפסיה, ולמה לא כדאי להשלים עם התקפים חוזרים",
+      "link": "https://www.walla.co.il/healthy/myhealth/383960579",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T17:42:04.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b100zhm0tml",
@@ -167,6 +212,15 @@
       "pubDate": "2026-11-08T17:04:55.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/law/383960582",
+      "title": "חשד להמתה בפתח תקווה: מת מפצעיו גבר שנפצע בקטטה",
+      "summary": "קטטה בין שני גברים שהיו תחת השפעת אלכוהול ברחוב מרכזי בעיר לא דווחה למשטרה או לכוחות ההצלה. רק לאחר שאישה פנתה במקרה לשני קציני משטרה בביה\"ח נפתחה חקירה. הקורבן מת מפצעיו, והחשוד מכחיש קשר לתקיפה",
+      "link": "https://www.walla.co.il/news/law/383960582",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T17:02:16.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21807479",
       "title": "חצה חמישה נתיבים והתנגש באוטובוס: תיעוד התאונה הקשה באיילון | צפו",
       "summary": "17 בני אדם נפצעו בתאונה בין מיניבוס שבו נסעו ילדות לאוטובוס בנתיבי איילון לכיוון דרום, בהם נהג המיניבוס כבן 50 שנפצע קשה ונלכד ברכבו, ונערה בת 17 שנפצעה בינוני • צוותי מד\"א חילצו את הנהג, העניקו טיפול רפואי לפצועים ופינו אותם לבית החולים איכילוב • בעקבות התאונה נוצרו עומסי תנועה כבדים באזור",
@@ -210,6 +264,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T16:54:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383960551",
+      "title": "השושבינה חושפת: הכלה דרשה שאעלה 54 קילו כדי שתיראה רזה",
+      "summary": "עירה שהוזמנה להיות שושבינה בחתונה מספרת שהכלה הציבה לה רשימת תנאים בלתי נתפסת: טיפולי פנים, שינוי קיצוני במשקל ואפילו הוראות איך לעמוד בטקס. כשהיא סירבה, ארוחת הערב הסתיימה בפיצוץ",
+      "link": "https://www.walla.co.il/news/donotmiss/383960551",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T16:52:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21807347",
@@ -28632,96 +28695,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T18:01:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21772986",
-      "title": "סכנה לבריאות הציבור: 33 אלף ביצים מזויפות נתפסו ביו\"ש",
-      "summary": "בפשיטה על מחסן בבית ג'אלה אותרה מכונה ששימשה להטבעת חותמות מזויפות של משווקים מורשים על ביצי מאכל • כל הסחורה הושמדה והמכונה הוחרמה • רק בחודשים האחרונים נתפסו עשרות אלפי ביצים שהוברחו מהרשות הפלסטינית • במועצה לענף הלול מזהירים מפני הסכנה לבריאות הציבור",
-      "link": "https://www.israelhayom.co.il/news/local/article/21772986",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T18:00:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21772924",
-      "title": "דניאל גרינברג: \"אני אדאג לך כל החיים\"",
-      "summary": "בזמן שאמה נהנית מחופשה בחו\"ל עם חברות, גרינברג תיעדה רגע ביתי ושקט במיוחד מהימים האחרונים ושיתפה אותו עם העוקבים • מי לא זזה מהצד של סבא כשהוא לא מרגיש טוב",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21772924",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T17:55:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21772963",
-      "title": "הגיע ממכבי: הכישרון הצעיר שמככב בהפועל תל אביב",
-      "summary": "איתמר בן מאיר, יליד 2011, חצה את הכביש הקיץ מהצד הצהוב לאדום של העיר • הוא משחק עם שחקנים משנתון מעליו, ומחזיק בדרכון צרפתי שיכול להזניק אותו לאירופה: \"פוטנציאל שיכול להגיע רחוק\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21772963",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T17:52:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21772963",
-      "title": "הגיע ממכבי תל אביב: הכישרון הצעיר שמככב בהפועל תל אביב",
-      "summary": "איתמר בן מאיר, יליד 2011, חצה את הכביש הקיץ מהצד הצהוב לאדום של העיר • הוא משחק עם שחקנים משנתון מעליו, ומחזיק בדרכון צרפתי שיכול להזניק אותו לאירופה: \"פוטנציאל שיכול להגיע רחוק\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21772963",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T17:52:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384530",
-      "title": "הכסף האמריקאי ייעלם, אבל לישראל יש קלף אחד משמעותי",
-      "summary": "הצהרת טראמפ על הפסקת הסיוע הצבאי לישראל מעוררת חששות, אך עשויה גם לחזק את התעשיות הביטחוניות המקומיות. תוכנית הצטיידות של 350 מיליארד שקל בעשור נועדה לצמצם את התלות בארה\"ב ולחזק את עצמאות הייצור",
-      "link": "https://www.maariv.co.il/news/military/article-1384530",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T17:52:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384530",
-      "title": "טורקיה, איראן והחלל: התשובה של ישראל לטראמפ לגבי הפסקת הסיוע",
-      "summary": "הצהרת טראמפ על הפסקת הסיוע הצבאי לישראל מעוררת חששות, אך עשויה גם לחזק את התעשיות הביטחוניות המקומיות. תוכנית הצטיידות של 350 מיליארד שקל בעשור נועדה לצמצם את התלות בארה\"ב ולחזק את עצמאות הייצור",
-      "link": "https://www.maariv.co.il/news/military/article-1384530",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T17:52:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tnxt7n",
-      "title": "אתה האיש הכי מאושר בעולם\": כך התבטא הפוסק בפני אסיר עולם התורה",
-      "summary": "בעיצומה של שמחת הברית לנינו, הורה הפוסק הגאון רבי משה שטרנבוך לומר י\"ג מידות וכן לתקוע בשופר בשל המצב הקשה השורר בארה\"ק בגיוס בני הישיבות • במסיבת הלחיים ניגש את הקודש, אסיר עולם התורה, בחור ישיבה שריצה עונש מאסר בכלא, וזכה לשמוע דברי חיזוק נדירים: \"אפילו המלאכים מבקשים ללמוד כמוך במסירות נפש, אבל הקב\"ה אומר 'את הבחור הזה אני אוהב'\"| צפו (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tnxt7n",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T17:50:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21772824",
-      "title": "טראמפ הקדים את המאוחר: ההסכמות על הפסקת הסיוע - והתמורה לישראל",
-      "summary": "המעבר מסיוע כספי ישיר לשותפות ביטחונית נרחבת סוכם עקרונית בין נתניהו לטראמפ כבר בראשית השנה, אך הנשיא הכריז על הפסקת המענקים מוקדם מהמתוכנן • ההודעה בעיצומן של בחירות האמצע בארה\"ב מיוחסת לשיקולים פוליטיים • גורם ביטחוני מעריך כי במסגרת ההסכם החדש עשויה ארה\"ב להעביר חלק מבסיסיה במפרץ לישראל",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21772824",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T17:50:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-courts/bagatz-ohana-violated-ruling-state-comptroller",
-      "title": "בג\"ץ קובע בפסק דין חריף: יו\"ר הכנסת אוחנה הפר פסק דין קודם",
-      "summary": "בית המשפט קבע כי יו\"ר הכנסת הפר פסק דין קודם בעניין מבקר המדינה | העתירה נדחתה בשל פיזור הכנסת | אוחנה חויב ב-10,000 שקלים הוצאות (בית המשפט)",
-      "link": "https://www.kikar.co.il/law-and-courts/bagatz-ohana-violated-ruling-state-comptroller",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T17:49:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21772849",
-      "title": "הרמטכ\"ל לתלמידי ישיבת ההסדר: \"תיכנסו לצבא חרדים ותצאו חרדים\"",
-      "summary": "רא\"ל אייל זמיר נפגש עם תלמידי הישיבה בגן יבנה והדגיש כי צה\"ל מחויב להתאים את השירות לאורח חייהם ולאמונתם • לדבריו, לקחי 7 באוקטובר מחייבים להגדיל את הצבא ולהרחיב את בסיס המשרתים • על התוכנית הרב־שנתית \"חושן\" אמר: \"במיוחד בימים האלה, אנחנו מבינים יותר מתמיד שרק ביחד ננצח\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21772849",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T17:47:21.000Z"
     }
   ]
 }
