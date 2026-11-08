@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:02:07.325Z",
+  "updatedAt": "2026-11-08T09:17:10.950Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,78 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/law-and-courts/influencer-fined-for-calling-cop-traitor",
+      "title": "כינתה שוטר 'בוגד' בגלל דוח: אושיית הרשת תשלם 21 אלף ש\"ח",
+      "summary": "מאריא גדעון פרסמה סרטונים פוגעניים נגד השוטר שרשם לה דוח • בית המשפט קבע: לשון הרע מובהקת | פסק דין בנוף הגליל (בית המשפט)",
+      "link": "https://www.kikar.co.il/law-and-courts/influencer-fined-for-calling-cop-traitor",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T09:15:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/gaza-floods-winter-storm",
+      "title": "עזה טובעת: עשרות אלפי אוהלים הוצפו, משפחות נותרו ללא קורת גג",
+      "summary": "הסערה הראשונה של החורף הכתה במחנות העקורים, המים חדרו לאוהלים והרסו מזרנים, שמיכות ובגדים. כוחות החילוץ מתקשים להתמודד עם ממדי ההצפות (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/gaza-floods-winter-storm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T09:14:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1386109",
+      "title": "המרגל הרוסי שחשף: כך הפלתי את קנצלר אוסטריה",
+      "summary": "מסמכי חקירה שחשף \"הטלגרף\" מעלים טענה חריגה: איש המודיעין שפעל למען רוסיה התרברב כי סייע להפיל את קנצלר אוסטריה סבסטיאן קורץ ב-2021. במרכז הפרשה: טלפון נייד והתכתבויות סודיות",
+      "link": "https://www.maariv.co.il/news/world/article-1386109",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T09:04:44.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960495",
+      "title": "טרגדיה בשיבא: אם בשבוע ה-29 להריונה ובתה נפטרו במהלך לידה",
+      "summary": "צוותי מד\"א שהוזעקו לביתה החלו בפעולות החייאה מתקדמות ופינו אותה במצב אנוש למרכז הרפואי. בחדר הניתוח חוברה לאקמו, אך הרופאים נאלצו לקבוע את מות השתיים. המקרה דווח למשרד הבריאות",
+      "link": "https://www.walla.co.il/news/israel/383960495",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T09:03:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6dyd",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00 (רדיו כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/to6dyd",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T09:01:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/pregnant-woman-baby-die-shiba-hospital-tragedy",
+      "title": "טרגדיה בבית החולים: יולדת בת 30 והעובר נפטרו במהלך הלידה",
+      "summary": "אוראל ז\"ל הובהלה במצב אנוש לאחר שאיבדה הכרה בביתה • הצוותים חיברו אותה למכשיר אקמו אך נאלצו לקבוע את מות שניהם | הטרגדיה בשבוע ה-29 להריון (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/israel-news/pregnant-woman-baby-die-shiba-hospital-tragedy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T09:00:57.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byjorottzx",
+      "title": "\"הירי - מסר לאחד הדיירים\": הבניין שעל הכוונת, בפעם השנייה תוך חודשים",
+      "summary": "לפני ארבעה חודשים הושלך רימון רסס לעבר הבניין ברחוב ירושלים 131 בעיר וניפץ את דלתות הלובי. אמש זה קרה שוב, הפעם מירי אקדח. הדיירים חוששים שבפעם הבאה מישהו ייפגע: \"בנס ילד לא חטף כדור. כאילו אין חוק\". המשטרה: \"הירי נועד להעביר מסר לאחד מדיירי הבניין\"",
+      "link": "https://www.ynet.co.il/news/article/byjorottzx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T08:58:20.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
+      "title": "בלי רחמים: מתקפת טילים חותי'ת על המרכז הפיננסי בסעודיה",
+      "summary": "תקדים היסטורי בריאד: לראשונה מאז ההסלמה, המתחם הפיננסי היוקרתי הפך למטרה חיה וישירה. סעודיה מדווחת על יירוטים, אך עדי ראייה מאשרים את הנזק הכבד במבנה אראמקו (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T08:56:44.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
       "title": "החות'ים מכים חזק: מתקפת טילים קשה על המרכז הפיננסי בסעודיה",
       "summary": "שיגורים מתימן פגעו בשני יעדים מרכזיים בבירת סעודיה, בהם המרכז הפיננסי היוקרתי ומבנה של ענקית הנפט אראמקו (חדשות בעולם)",
@@ -48,6 +120,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T08:55:44.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383960493",
+      "title": "על הדבש ועל העוקם: למה באמת אברי גלעד היה צריך לשדר?",
+      "summary": "זה נכון לעלות לשידור בסיטואציה בה המגיש הוותיק שידר אמש? הרייטינג הוא חזות הכל? ומה כל זה אומר על הטלוויזיה שלנו? ירון פריד עושה קצת סדר",
+      "link": "https://www.walla.co.il/entertainment/tv/383960493",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T08:54:46.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/court-orders-council-pay-fire-evacuees",
@@ -177,6 +258,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960490",
+      "title": "\"המפכ\"ל שינה את עורו ב-180 מעלות כי הוא נסחט\"",
+      "summary": "השר לביטחון לאומי טען בראיון ל-103FM כי היועצת המשפטית מהלכת אימים על המפכ\"ל ורמז לעבירות בנייה מצידו. בנוסף, תקף בחריפות את ניצב בועז בלט: \"שליח לסגירת תיקים וחיפוי\"",
+      "link": "https://www.walla.co.il/news/politics/383960490",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T08:27:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960490",
       "title": "בן גביר טוען: \"היועמ\"שית סוחטת את המפכ\"ל\"",
       "summary": "השר לביטחון לאומי טען בראיון ל-103FM כי היועצת המשפטית מהלכת אימים על המפכ\"ל ורמז לעבירות בנייה מצידו. בנוסף, תקף בחריפות את ניצב בועז בלט: \"שליח לסגירת תיקים וחיפוי\"",
       "link": "https://www.walla.co.il/news/politics/383960490",
@@ -246,6 +336,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T08:20:49.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-c1a58aa2d18b1a1026.htm",
+      "title": "\"הרגשתי אזרח סוג ב'\": חייל מילואים יפוצה לאחר שהורד מקו של אגד",
+      "summary": "א' הורד מאוטובוס בטענה שהוא מיועד לבנות חרדיות בלבד •\"איך שעליתי אני רואה שהנהג עושה לי תנועה של איקס עם הידיים\" • אגד תפצה אותו ב-30 אלף שקלים ותחדד נהלים נגד אפליה מגדרית • מהחברה נמסר: \"אירוע חמור שאינו תואם את ערכי החברה\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-c1a58aa2d18b1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-08T08:20:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386085",
@@ -28389,105 +28488,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T09:17:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1ockfd6fx",
-      "title": "ערביי ישראל כבר עברו את מבחן הנאמנות",
-      "summary": "אם ממשלת ישראל הבאה תודיע ל-21% אחוז מאזרחיה שהם לא רצויים פוליטית, הדבר עלול לגרור תגובות חריפות של ניכור ואפילו אלימות, מה שיספק כמובן הצדקה לפגיעה נוספת, בלתי מידתית, באזרחים הערבים, ובמדינת ישראל כולה",
-      "link": "https://www.ynet.co.il/news/article/b1ockfd6fx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T09:11:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21766826",
-      "title": "המסר מאחורי שמלות הקוטור: \"אני רוצה שיהודים ירגישו שיש להם בית\"",
-      "summary": "הוא התחיל לתפור בחדר בבית הוריו, חלם על בתי האופנה הגדולים בפריז וכיום מחזיק שואורום בבירה הצרפתית • עכשיו, עם קולקציה חדשה ומסר טעון, דילן פריאנטי חוזר למסלול בישראל",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21766826",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T09:11:45.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1384302",
-      "title": "החוליה מג'נין תכננה לשגר רקטות לעבר ישראל: \"הניסויים הצליחו מבחינת העוצמה והטווח\"",
-      "summary": "פרטים חדשים מחקירת תשתית הרקטות שנחשפה בימ\"ר ש\"י ובשב\"כ: אחד החשודים הודה בהקמת התשתית וביעדיה | במערכת הביטחון מוטרדים מהעובדה כי לתוך השומרון החל לזלוג נשק כבד ותקני",
-      "link": "https://www.maariv.co.il/news/military/article-1384302",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T09:11:22.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3874773",
-      "title": "הלוק החדש (והמפתיע) של ראש עיריית ניו יורק ממדאני",
-      "summary": "ראש עיריית ניו-יורק הציג בסוף השבוע האחרון את הלוק החדש והמסעיר שלו - לאחר שגילח את הזקן והשאיר שפם בולט במיוחד. אז מה עומד מאחורי הבחירה האופנתית המשונה? יש לכך סיבה טובה במיוחד",
-      "link": "https://celebs.walla.co.il/item/3874773",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T09:07:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21766280",
-      "title": "טרגדיה בספרד: כדורגלן מת אחרי שהתנגש בשוער היריבה",
-      "summary": "חסוס דה מיגל מטנריפה הלך לעולמו בגיל 30 לאחר סבל מדום לב כתוצאה מהתנגשות חזקה בשוער אנדורה • החלוץ שהפך למקצוען רק לפני שלוש שנים שיחק בליגה השנייה מאז העונה שעברה: \"לא מאמינים שזה אמיתי\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21766280",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T09:06:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byucrfv6mx",
-      "title": "חוליה מג'נין נעצרה: \"ייצרו גוף רקטה ומטענים, וביצעו 3 שיגורי ניסוי ביו\"ש\"",
-      "summary": "המשטרה ושב\"כ חשפו תשתית לייצור רקטות ומטענים, בחקירה עלה כי חברי החוליה ייצרו גוף רקטה וביצעו שיגורי ניסוי, שבמהלכם בחנו את העוצמה והטווח ושיפרו את התוצרים. 6 תושבי אזור ג'נין נעצרו, ויוגשו נגדם כתבי אישום",
-      "link": "https://www.ynet.co.il/news/article/byucrfv6mx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T09:05:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21766783",
-      "title": "עשרות שופטים חדשים, בלי תגבור כוח אדם: עובדי בתי המשפט בדרך לשביתה?",
-      "summary": "סכסוך עבודה הוכרז בעקבות מחלוקת בין נציגות עובדי בתי המשפט להנהלה • במוקד: עומס גובר על הקלדניות והמזכירות על רקע סבב מינויים של שופטים, וטענות מצד ועד העובדים על איומים על עובדים שמחו",
-      "link": "https://www.israelhayom.co.il/news/law/article/21766783",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T09:05:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/technology-news/cyber-directorate-november-shopping-safety-tips",
-      "title": "הבינה המלאכותית בשירות הנוכלים: כך לא תיפלו בפח בחודש הקניות בנובמבר",
-      "summary": "יכולות AI חדשות מקלות על האקרים ליצור אתרים מתחזים • מערך הסייבר מפרסם המלצות לקניה בטוחה ברשת | \"לא משתפים פרטי תשלום בצ'אט ולא רוכשים אוטומטית\" | המדריך המלא (חדשות הטכנולוגיה)",
-      "link": "https://www.kikar.co.il/technology-news/cyber-directorate-november-shopping-safety-tips",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T09:03:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/technology-news/cyber-directorate-november-shopping-safety-tips",
-      "title": "הבינה המלאכותית בשירות הנוכלים: כך לא תפלו בפח בחודש הקניות בנובמבר",
-      "summary": "יכולות AI חדשות מקלות על האקרים ליצור אתרים מתחזים • מערך הסייבר מפרסם המלצות לקניה בטוחה ברשת | \"לא משתפים פרטי תשלום בצ'אט ולא רוכשים אוטומטית\" | המדריך המלא (חדשות הטכנולוגיה)",
-      "link": "https://www.kikar.co.il/technology-news/cyber-directorate-november-shopping-safety-tips",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T09:03:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-vehicle/tnx51f",
-      "title": "הישראלים שמקבלים טעינה חינם לרכב החשמלי",
-      "summary": "לראשונה בישראלה: החשמל עלינו - קונים GEELY חשמלית ונהנים מטעינה ביתית ללא עלות ל-3 שנים (רכב)",
-      "link": "https://www.kikar.co.il/economy-vehicle/tnx51f",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T09:03:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21766743",
-      "title": "אברי גלעד משנה כיוון: \"נרשמתי לזה היום\"",
-      "summary": "כוכב הטלוויזיה חשף את הצעד החדש שלו בפני יאיר שרקי • לא מדובר בהסבה מקצועית רגילה, אלא ברצון לתרום בשעת חירום: \"אם תהיה מלחמה, מה צריך?\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21766743",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T09:02:27.000Z"
     }
   ]
 }
