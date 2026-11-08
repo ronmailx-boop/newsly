@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:46:09.381Z",
+  "updatedAt": "2026-11-08T11:01:05.640Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960516",
+      "title": "בגיל 37 בלבד: השחקנית בר בלפר הלכה לעולמה",
+      "summary": "בלפר היתה הבטחה גדולה בתחום המשחק, וכיכבה ב\"מישהו לרוץ איתו\" כשהיתה בת 17",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960516",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T10:55:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386185",
+      "title": "הכלב רחרח - והסליק של הנשק נמצא: פשיטה חריגה של השב\"ס",
+      "summary": "מידע מודיעיני של שב\"ס הוביל לפשיטה משותפת עם צה\"ל ושב\"כ על בית בשכם, שבו נתפסו אמצעי לחימה וכסף מזומן. שני חשודים הועברו לחקירה בחשד להחזקת נשק בלתי חוקי ולסחר בו",
+      "link": "https://www.maariv.co.il/news/law/article-1386185",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T10:53:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-courts/nova-party-sound-theft-7-years-prison",
+      "title": "ביזה בזירת הקטל: 7 שנות מאסר לגנב ממסיבת הנובה",
+      "summary": "בית משפט בבאר שבע גזר עונש חריג על מי שגנב מערכות הגברה מזירת מסיבת נובה • השופט: 'במקום חמלה – בחרו ברווח' | פסק דין נוקב (בית המשפט)",
+      "link": "https://www.kikar.co.il/law-and-courts/nova-party-sound-theft-7-years-prison",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T10:51:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/bat-hanging-mechanism-gravity",
+      "title": "באפס מאמץ: המנגנון המדהים שמאפשר לעטלפים לישון הפוך",
+      "summary": "הם תלויים מהתקרה במשך שעות, ישנים בראש למטה ואפילו לא צריכים להפעיל כוח כדי להיאחז בענף | המנגנון המיוחד בכפות הרגליים של העטלפים הופך את כוח הכבידה ליתרון ומאפשר להם להישאר תלויים בלי להתעייף (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/bat-hanging-mechanism-gravity",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T10:50:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/shabas-idf-weapons-seizure-shechem-nablus",
+      "title": "מבצע דרמטי בשכם: נשק, רימון ואקדח נתפסו בפשיטה משותפת של שב\"ס וצה\"ל",
+      "summary": "לוחמי ימ\"ר בתי הסוהר וכוחות צה\"ל פשטו על בית חשוד בשכם • נשק מסוג M16, אקדח ורימון הלם צה\"לי נתפסו במקום | שני חשודים הועברו לחקירה (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/shabas-idf-weapons-seizure-shechem-nablus",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T10:46:43.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/gaza-resident-no-regret-october-seventh-floods",
       "title": "תושב עזה מספר על הלילה הקשוח שעברו והצהיר: \"אנחנו לא מתחרטים על שום דבר\"",
       "summary": "תושב הרצועה מתאר את הלילה שעבר בניסיון להקים מחדש את האוהל • \"כל האוהל עף, מאתמול בלילה ועד הבוקר אני רק מרכיב אותו\" | כשנשאל על חרטה בעקבות 7 באוקטובר, השיב בנחישות (חדשות בארץ)",
@@ -48,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T10:42:29.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjkgjna6gg",
+      "title": "\"השארתי ילדה במשכנו של השטן\": ההתעללות במעון באריאל, וסעיפי האישום המחרידים",
+      "summary": "האישום החמור מתפרש על כמעט 100 עמודים, ומגולל את מסכת האלימות הקשה שחוו הפעוטות במעון הפרטי. לפי האישום, המנהלת נטליה הסתירה מההורים את המתרחש - ואף התעללה בתינוקות ובפעוטות בעצמה. אב לפעוטה: \"אני הולך כמו מת כבר שבועות. היא בוכה בלילה כי קשרו אותה וחנקו אותה? היא תזכור?\". אחת האימהות סיפרה: \"חשבנו שזה גן עדן, והילדים עברו גיהינום\"",
+      "link": "https://www.ynet.co.il/news/article/sjkgjna6gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T10:41:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1386175",
@@ -131,6 +185,15 @@
       "pubDate": "2026-11-08T10:21:08.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383960511",
+      "title": "איש ביטחון כוון נשק לעבר מתיישבים ביריחו - צה״ל: ״לא מטעמנו״",
+      "summary": "סגן רבש״צ מנערן תועד מכוון נשק לעבר מתיישבים באזור יריחו, יממה לאחר כניסת משפחות יהודיות לבתים במקום. במשטרה חוקרים גם דיווח על ירי. בצה״ל מבהירים: ״החשוד לא הגיע למרחב מטעם צה״ל״",
+      "link": "https://www.walla.co.il/news/israel/383960511",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T10:19:41.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21801853",
       "title": "הונאת הענק, המבצע להפלת קנצלר אוסטריה ואיך זה קשור למרגלים של פוטין?",
       "summary": "יאן מרסלק, בכיר לשעבר בחברת הפינטק הגרמנית וויירקארד שקרסה והותירה חור של 1.6 מיליארד ליש\"ט בספרי החשבונות שלה, הפך לאחד הנמלטים המבוקשים בעולם • מסמכים שהגיעו לידי ה\"טלגרף\" נרסלק טען כי היה מעורב במבצע שהוביל להתפטרותו של קנצלר אוסטריה לשעבר סבסטיאן קורץ • רשת הריגול הרוסית, התכתבויות מפלילות, קשרים עם אנשי מודיעין וחשדות להתערבות הקרמלין בפוליטיקה האירופית",
@@ -138,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T10:18:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1386165",
+      "title": "אחרי חודשים של איפול: המכה המפתיעה שהנחיתה אוקראינה על רוסיה",
+      "summary": "אחרי חודשים של איפול, מפקדים אוקראינים חושפים את פרטי מבצע ויוואלדי, שהפך קרב הגנה למתקפה. רחפנים, רובוטים ושיטות לחימה חדשות הובילו לפגיעה קשה בכוחות הרוסיים, שנותרו גם ללא אספקה",
+      "link": "https://www.maariv.co.il/news/world/article-1386165",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T10:18:42.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1386165",
@@ -165,6 +237,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T10:17:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386153",
+      "title": "בן 8 פתח את הפה בשידור חי - הערוץ הצרפתי הסתבך",
+      "summary": "כתבת חדשות בצרפת פנתה לילד שהשתתף בהפגנה ושאלה מדוע הגיע למקום. התשובה הבוטה שלו נגד הנשיא והמשטרה הפתיעה את הצופים, עוררה סערה ברשת ואילצה את הערוץ להגיב",
+      "link": "https://www.maariv.co.il/news/viral/article-1386153",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T10:17:09.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1386153",
@@ -28596,114 +28677,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-03T11:01:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21758921",
-      "title": "לא רק חמאה וחלב: המרכיב המפתיע שהופך את הפירה לאוורירי במיוחד",
-      "summary": "כדי להכין פירה רך ואוורירי לא חייבים להסתפק בחמאה ובחלב • שף ושופט \"מאסטר שף\" בארגנטינה מציע להוסיף בסוף ההכנה מרכיב מפתיע שנמצא כמעט בכל מטבח • כך משתמשים בו נכון, ולמה ממש חשוב לא להגזים בכמות",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21758921",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T11:00:50.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874764",
-      "title": "שינוי מגמה בהייטק: איפה ההייטקיסטים הכי רוצים לעבוד?",
-      "summary": "דוח דן אנד ברדסטריט לשנת 2026 מצביע על שינוי דרמטי בסנטימנט העובדים בענף: החיפוש אחר יציבות ושקיפות תופס את מקומם של הפינוקים וההבטחות הנוצצות",
-      "link": "https://finance.walla.co.il/item/3874764",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T11:00:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384363",
-      "title": "8 כורים גרעיניים: המהלך הבא של טורקיה וקוריאה הדרומית",
-      "summary": "ארדואן ונשיא קוריאה הדרומית הסכימו על הרחבת שיתוף הפעולה המסחרי והגרעיני בין המדינות. בין הפרויקטים: 8 כורים גרעיניים. השניים הסכימו גם על תיאום אסטרטגי בנוגע לשלום בחצי האי הקוריאני",
-      "link": "https://www.maariv.co.il/news/world/article-1384363",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T10:59:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21767313",
-      "title": "האיחוד האירופי: שימוש בג'מיני עשוי להפר זכויות יוצרים",
-      "summary": "ביהמ\"ש באירופה נגד מנוע ה-AI של גוגל: יועץ בכיר לבית המשפט העליון של האיחוד האירופי קבע כי שליפת כתבות עיתונאיות בידי הצ'אטבוט לצורך ניסוח תשובות מהווה הפרת זכויות יוצרים בנסיבות מסוימות • הפסיקה מציבה גבול ברור בין אימון אלגוריתמים לבין \"גניבת תכנים\" בזמן אמת",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21767313",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T10:57:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21767640",
-      "title": "מצאנו 5 דרכים לשמור על הבית נעים בחורף - ללא מזגן",
-      "summary": "איך שומרים על חום הבית בלי לקבל שוק מחשבון החשמל? • מניצול חכם של קרני השמש ועד הגברת הלחות בחלל: 5 שיטות ביתיות ויעילות שימנעו מהקור לחדור פנימה - בלי להסתמך על המזגן",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21767640",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T10:52:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21767906",
-      "title": "בריטני ספירס: \"הם גרמו לי להרגיש כמו שפחה\"",
-      "summary": "אחרי ההתקרבות המחודשת למשפחה, בריטני ספירס משנה כיוון ומפרסמת מסר חריף שמבהיר שהמתחים הישנים עדיין רחוקים מלהיעלם",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21767906",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T10:52:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21767869",
-      "title": "לינור אברג'יל מודה: אני לא מה שחושבים",
-      "summary": "מיס עולם במיל' והדוגמנית פרסמה סרטון בחשבונה ברשת החברתית שבו הציגה את האמת העומדת בניגוד מוחלט לתדמית",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21767869",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T10:52:42.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjkuovvagg",
-      "title": "הבית מתפרק אבל לבייבי ליברמן יש זמן להתבכיין",
-      "summary": "אם אביגדור ליברמן באמת חושב שנתניהו \"לא כשיר פיזית, בלשון המעטה\", למה הוא ממשיך להתנהג כמו תינוק מפונק?",
-      "link": "https://www.ynet.co.il/news/article/bjkuovvagg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T10:52:38.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384361",
-      "title": "\"מה יש בקופסה?\": הניסוי שינסה למחוק את הטוויסט של בראד פיט",
-      "summary": "רשת בתי קולנוע בהולנד מציעה ל-30 משתתפים לעבור היפנוזה כדי לצפות מחדש בסרט שכבר ראו, בלי לזכור את העלילה. בין המועמדים: \"שבעה חטאים\", \"מטריקס\" ו\"בין כוכבים\". רק בעיה קטנה: לא בטוח שזה בכלל אפשרי",
-      "link": "https://www.maariv.co.il/news/viral/article-1384361",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T10:52:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90568",
-      "title": "רוכב קורקינט בן 16 נפצע בינוני בתאונת דרכים ברחובות",
-      "summary": "נער בן 16 שרכב על קורקינט חשמלי נפצע בינוני בתאונת דרכים עם מעורבות רכב ברחוב קיבוביץ ברחובות. הנער סבל מפציעות בגפיים התחתונות, קיבל טיפול רפואי ראשוני בזירה מצוותי איחוד הצלה ופונה לבית החולים.",
-      "link": "https://www.kikar.co.il/scoop-news/90568",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T10:51:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21767565",
-      "title": "\"יש פה משפחות נורמטיביות לגמרי\": דרום תל אביב משתנה, הפחד נשאר",
-      "summary": "החשש ברחובות נמשך, בעלי העסקים מדווחים על פגיעה בפרנסה - אך הנתונים מראים כי המציאות בשכונות העגומות בת\"א משתנה • עיריית תל אביב-יפו חושפת צניחה במעוזי הפשיעה בדרום העיר • במשטרה מבהירים כי הפעילות נמשכת מסביב לשעון: \"דרום תל אביב היא לא שטח הפקר\"",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21767565",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T10:49:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/ben-gurion-government-arab-mks",
-      "title": "48 מול 46: כך ארבעה חברי כנסת ערבים הקימו את ממשלת בן גוריון",
-      "summary": "הליברלים, המפד\"ל ופועלי אגודת ישראל בקרב בלימה מול שלטון מפא\"י • כיצד הפכו רשימות הלוויין הערביות ללשון המאזניים של הממשלה העשירית, ומה אפשר ללמוד מזה על מפת הגושים במערכת הפוליטית כיום? (היסטוריה)",
-      "link": "https://www.kikar.co.il/political-news/ben-gurion-government-arab-mks",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T10:47:20.000Z"
     }
   ]
 }
