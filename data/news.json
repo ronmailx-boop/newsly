@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:45:56.210Z",
+  "updatedAt": "2026-11-08T14:01:02.823Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-liberman-meeting-before-knesset-swearing",
+      "title": "המנדט אצלו: הפגישות הצפויות של גדי איזנקוט עם נפתלי בנט, יאיר גולן - ומחר עם אביגדור ליברמן",
+      "summary": "יו\"ר מפלגת \"ישר\", גדי איזנקוט, מאיץ את המגעים הפוליטיים וצפוי להיפגש מחר עם יו\"ר \"ישראל ביתנו\", אביגדור ליברמן, בפגישתם השנייה מאז הבחירות, במטרה לגבש הסכמות סביב המהלכים הפרלמנטריים של גוש השינוי וסוגיית הרכבת הקואליציה | כבר הערב צפוי איזנקוט להיפגש עם נפתלי בנט, וביום שלישי ייפגש עם יו\"ר \"הדמוקרטים\", יאיר גולן | העדכונים (אקטואליה, פוליטיקה)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-liberman-meeting-before-knesset-swearing",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T13:53:29.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/police/israeli-family-baby-rescued-bethlehem-area-a",
       "title": "משפחה עם תינוק בן שנה נכנסה בטעות לעיר הפלסטינית | כך זה הסתיים",
@@ -122,6 +131,15 @@
       "pubDate": "2026-11-08T13:22:20.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383960547",
+      "title": "העיר על נהיגה פרועה בתחנת דלק - ונדרס באורח קשה | צפו בתיעוד",
+      "summary": "ויכוח שהחל בעקבות הערה על נהיגה פרועה בתחנת דלק סמוך לכפר קאסם הסתיים בדריסת מנהל המקום, שנפצע קשה ופונה לבית החולים בילינסון. הנהג החשוד נמלט מהזירה, והמשטרה פתחה במצוד אחריו. הרקע ככל הנראה פלילי",
+      "link": "https://www.walla.co.il/news/israel/383960547",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T13:20:29.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21804635",
       "title": "70 תלונות בשלושה שבועות: 333 יורו על נסיעה של 3.2 ק\"מ בבירה האירופית",
       "summary": "לשכת מפעילי המוניות בצ'כיה חושפת חיובים חריגים לתיירים בתקופה שבה בוטלה זמנית תקרת המחירים בפראג • נוסע אחד שילם כ-333 יורו על נסיעה ממועדון לילה לבית חולים, ואחר חויב ב-409 יורו • יותר מ-60% מהתלונות עסקו בנסיעות לנמל התעופה או ממנו • בעקבות התלונות החזירה העירייה את הפיקוח על התעריפים",
@@ -183,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T13:10:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
+      "title": "רכבת ירדה מהפסים, רכבת נוספת פגעה בה בעוצמה; לפחות 150 פצועים",
+      "summary": "ארבעה קרונות יצאו מהפסים והתהפכו באזור גיזה • משרד הבריאות דיווח על 64 פצועים, אך דיווחים פנימיים מדברים על 140-150 נפגעים | הקו קהיר-אסואן נסגר בשני הכיוונים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T13:10:02.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
@@ -768,6 +795,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T11:49:28.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386223",
+      "title": "אחרי המעצר הדרמטי: איתן חייא שוחרר ללא תנאים מגבילים",
+      "summary": "איתן חייא, ראש ארגון פשיעה לשעבר, שוחרר ללא תנאים מגבילים שלושה ימים לאחר מעצרו המתוקשר בתל אביב • ברקע, טענות לאלימות שוטרים ותיעוד שהועבר לבחינת מח\"ש בהוראת בית המשפט",
+      "link": "https://www.maariv.co.il/news/law/article-1386223",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T11:47:26.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1386223",
@@ -28524,132 +28560,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-03T14:01:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21767459",
-      "title": "למה הטלוויזיה שלכם נראית רע? 3 הגדרות שחובה לכבות מיד",
-      "summary": "רבים מאיתנו בטוחים שהטלוויזיה בסלון כבר התיישנה או שהסטרימינג מקרטע, אך הבעיה הטמונה לרוב היא בהגדרות התצוגה המקוריות • שינוי של שלוש הגדרות בסיסיות במסך יחזיר לכם את הבהירות, הצבעים הטבעיים והאיכות שהבטיחו לכם בחנות",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21767459",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:59:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21769894",
-      "title": "המרוץ לגלימה: משרדי עורכי הדין נערכים לגיוס המתמחים של 2027",
-      "summary": "לקראת עונת הגיוס, משרדי עורכי הדין המתמחים בנדל\"ן ובהתחדשות עירונית נערכים לקליטת דור העתיד של המקצוע • כמה מתמחים הם מגייסים, מה נדרש מהמועמדים כדי להתקבל ואילו אפשרויות קידום מחכות? • וגם: השינויים בהסדרת ההתמחות",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21769894",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:58:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21770057",
-      "title": "רצה חשופת חזה במרתון ניו יורק: \"זה לא פרובוקציה, זה חוסן\"",
-      "summary": "אחרי שהתמודדה עם סרטן השד ועברה כריתת שד דו-צדדית, לורן ספיציה בחרה לחשוף את צלקותיה לעיני אלפי רצים • על גבה נשאה קוד QR שהוביל לכלי להערכת הסיכון למחלה, בתקווה לעודד נשים להכיר את גורמי הסיכון שלהן: \"הצלקות הן סמל לניצחון\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21770057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:58:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-coalition-negotiation-team-change-bloc",
-      "title": "איזנקוט מקים צוות מקצועי: \"נרכיב ממשלה במהירות\"",
-      "summary": "מינוי צוות משא ומתן בראשות יואב הורוביץ • צוות פרלמנטרי מסייע עם כהנא וטרופר | מפגשי עבודה מול גוש השינוי כבר היום (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-coalition-negotiation-team-change-bloc",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T13:57:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384445",
-      "title": "החשד למעורבות זרה בבחירות: \"יש דרך אחת לוודא כדי שלא נדע - לא לחקור\"",
-      "summary": "ח\"כ שמחה רוטמן טוען ב-103fm כי החשד למעורבות זרה בבחירות כבר אינו מוטל בספק, ודורש לברר את היקפה ואת השפעתה על התוצאות. לדבריו, אם אכן הייתה השפעה כזו, \"כנראה שמישהו בשב\"כ כשל\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1384445",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T13:54:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21770228",
-      "title": "לא רק טלוויזיה: מערכת yes עם צעד ראשון מסוגו",
-      "summary": "השירות החדש של yes עובד ישירות ממערכת המולטימדיה ברכב, בלי להתקין אפליקציה נוספת • עשרות תחנות רדיו, ערוצי מוזיקה ופלייליסטים לפי ז'אנר • ומה זה אומר על תחנת הרדיו האזורית שנעלמת לכם שוב ושוב באמצע הנסיעה",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21770228",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:54:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21770373",
-      "title": "\"מי שלא יבחר ביבי, אני אז..ן אותו\": תקף פעילי דמוקרטים",
-      "summary": "מה שהחל כאירוע תמיכה במפלגה בשוהם הפך, לפי כתב האישום, למתקפה אלימה • צעיר בן 19 נאשם כי חטף שלט, שבר אותו והיכה באמצעות המקל שלושה פעילים, ירק לעברם והטיח קסדה באחת מהם • כשדרשו ממנו לעזוב, איים: \"שמאלנים, אינשאללה ירצחו את כל המשפחה שלכם\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21770373",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:53:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384453",
-      "title": "מיליון שקל במזומן ורכבי יוקרה: השוטרים יצאו למבצע ענק בצפון הארץ",
-      "summary": "מאות שוטרים ולוחמי מג\"ב פעלו באום אל פחם והסביבה במסגרת מבצע לאומי נגד הפשיעה. במהלך הפעילות נתפסו סכומי כסף גדולים ורכבי יוקרה בשווי מיליונים, חלקם של בעלי חובות לרשויות",
-      "link": "https://www.maariv.co.il/news/law/article-1384453",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T13:53:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21770177",
-      "title": "\"איזה צער בעלי חיים?!\": תועד מכה את כלבתו - ושוחרר ע\"י בית המשפט",
-      "summary": "תושב חולון בן 55, המגדל את כלבתו במשך כ-18 שנים, נעצר בידי המשטרה בעקבות עימות לילי חריף עם עשרות מתנדבי עמותה למען בעלי חיים שהגיעו להפגין מתחת לביתו בעקבות סרטונים שהעבירו השכנים • בית משפט השלום בתל אביב דחה את בקשת המשטרה להאריך את מעצרו בחמישה ימים, וקבע כי אין חשד סביר לביצוע עבירה של התעללות בבעלי חיים",
-      "link": "https://www.israelhayom.co.il/news/law/article/21770177",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:51:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21770251",
-      "title": "\"הוצע לי להזרים כסף לגולדן סטייט ווריורס\"",
-      "summary": "עופר ינאי סיפק שלל כותרות בראיון ביוון: \"הערך של קבוצות ה-NBA עלה בצורה מטורפת, היורוליג צדקה כשסירבה להם\" • וגם: דיאנג'לו ראסל, נייג'ל הייז דיוויס, והסיכוי שטיילר דורסי ינחת בהפועל תל אביב",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21770251",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:49:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/shas-recommends-netanyahu-yeshiva-students-status",
-      "title": "ש\"ס תמליץ על נתניהו: \"התחייב להסדיר את מעמד לומדי התורה\"",
-      "summary": "מועצת חכמי התורה החליטה להמליץ על נתניהו לנשיא המדינה • ההחלטה התקבלה לאחר התחייבותו המפורשת להסדרת מעמד תלמידי הישיבות | מתקפה חריפה על האופוזיציה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/shas-recommends-netanyahu-yeshiva-students-status",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T13:49:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21770113",
-      "title": "עדי בוזגלו סיפרה על גוש בגופה",
-      "summary": "כוכבת הריאליטי ואישתו של אסי בוזגלו פתחה לפני זמן קצר מצלמה מרכבה הפרטי אחרי ביקור אצל רופאת הנשים שלה, וסיפרה על ממצא שמצריך בדיקות",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21770113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:49:21.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1qrevwpfl",
-      "title": "ש\"ס: נמליץ על נתניהו להרכבת ממשלה אחרי שהתחייב להסדרת מעמד לומדי התורה",
-      "summary": "חברי הכנסת של ש\"ס נועדו עם הרבנים וסיכמו שהמפלגה תמליץ על נתניהו בפני הנשיא עקב \"הודעתו הברורה והבלתי מתפשרת\". גם עוצמה יהודית והציונות הדתית ימליצו על נתניהו, ששוחח עם יו\"ר יהדות התורה - שכרגע לא צפויה להמליץ על איש",
-      "link": "https://www.ynet.co.il/news/article/s1qrevwpfl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T13:47:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21769724",
-      "title": "מור ממן אחרי האירוסים: \"זוגיות לא צריכה להיות פרפרים\"",
-      "summary": "שבועיים וחצי אחרי שהתארסה לגרוש שלה דוד אזולאי, מלכת היופי לשעבר משתפת בתובנות החדשות שלה לגבי זוגיות: \"הבנתי\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21769724",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T13:47:43.000Z"
     }
   ]
 }
