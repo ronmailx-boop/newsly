@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:15:58.375Z",
+  "updatedAt": "2026-11-08T06:30:53.164Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1386035",
+      "title": "הטעות שרבים עושים בחיטוב: הרכיב התזונתי ששוכחים לבדוק | ד\"ר מאיה רוזמן",
+      "summary": "כשמדברים על ירידה במשקל, בדרך כלל מדברים על חלבון, סיבים וקלוריות. אבל מתברר שיש מינרל אחד די חשוב שחוסר שלו פוגע בתפקוד היום-יומי - וגם ביכולת לרדת במשקל",
+      "link": "https://www.maariv.co.il/news/health/article-1386035",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-08T06:29:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/danon-iran-un-confrontation",
+      "title": "השגריר דנון לנציג איראן באו\"ם: \"תשב בשקט עם הראש למטה\" | צפו",
+      "summary": "איראן ניסתה למנוע מישראל לרכז הצעת החלטה בוועדה השישית של האו\"ם | שגריר ישראל לאו\"ם, דני דנון, תקף בחריפות את הנציג האיראני | \"אתה פחדן והמנהיגים שלך פחדנים שמסתתרים מתחת לאדמה\" | צפו (בעולם)",
+      "link": "https://www.kikar.co.il/political-news/danon-iran-un-confrontation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:25:15.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-maritime-attacks-oman-gulf",
+      "title": "מתקפה איראנית קטלנית: 22 אנשי צוות חולצו מאוניית מטען בוערת",
+      "summary": "כוחות משמר החופים של איחוד האמירויות הוזעקו בעקבות קריאת מצוקה מהאונייה, איתרו אותה בלב הים והצליחו לחלץ את כל אנשי הצוות | ברקע: ההסלמה הביטחונית והפגיעה בכלי שיט באזור (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-maritime-attacks-oman-gulf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T06:21:31.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960401",
+      "title": "דאגה מהמסר: כך מנתחים בירושלים את הדרמה סביב הודעת טראמפ",
+      "summary": "ההודעה המפתיעה של הנשיא תפסה את הפקידות הבכירה בארה\"ב ובישראל ללא לוחות זמנים ברורים, ובעיתוי רגיש במיוחד בזירות הלחימה",
+      "link": "https://www.walla.co.il/news/world/383960401",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T06:16:54.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386023",
       "title": "לא שלום, לא שגשוג ולא נעליים: טראמפ נכשל בהבטחותיו - והאזור בדרך לאסון | יצחק בריק",
@@ -78,6 +114,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21800657",
+      "title": "ליאל עבדה להט מול ליונל מסי העצבני - וקיבל מסר מהמאמן",
+      "summary": "שארלוט חזרה מפיגור 3:0 כדי לקחת נקודה מהקבוצה של הפרעוש, שירד מהמגרש כועס • החלוץ הישראלי, שכבש פעמיים תוך חמש, זכה לשבחים, אבל גם לביקורת על כך שלא נשמע להוראות מהקווים",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21800657",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-08T05:53:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21800657",
       "title": "ליונל מסי עצבני: צמד לליאל עבדה בקאמבק המשוגע מול אינטר מיאמי",
       "summary": "שארלוט חזרה מפיגור 3:0 כדי לקחת נקודות מהקבוצה של הפרעוש, שירד מהמגרש כועס • החלוץ הישראלי כבש פעמיים תוך חמש דקות בדרך ל-3:3 מפתיע • עידן טוקלומטי הוחלף במחצית",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21800657",
@@ -111,6 +156,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-08T05:45:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383960469",
+      "title": "זעקת המילואימניקים: \"צה\"ל עוקף ביקורת בצווי 8\"",
+      "summary": "צה\"ל מתמודד עם מחסור של כ-15 אלף חיילים, אך ממשיך לגייס לוחמים שהשתחררו רק לפני חודשים ומילואימניקים שחוקים. בצמרת הצבא מתלבטים אם להתריע בפומבי, ובשטח תוקפים: \"הנטל על מיעוט בחברה הישראלית לא הצטמצם\"",
+      "link": "https://www.walla.co.il/news/military/383960469",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T05:40:18.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383960469",
@@ -28623,60 +28677,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T06:34:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1384229",
-      "title": "מינה צמח מטילה פצצה וחושפת: \"זה היה מאורגן על ידי אנשי הליכוד - הם צלצלו להתנצל\"",
-      "summary": "מינה צמח חושפת בריאיון לרדיו 103fm כיצד נסקרים הטעו אותה בכוונה, מי לטענתה עמד מאחורי המהלך ומה קרה כשהתקשרו להתנצל. הסוקרת הוותיקה מסבירה גם איך טעות קטנה הופכת לפער של חמישה מנדטים",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1384229",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T06:28:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21765227",
-      "title": "תיעוד מצמרר: שני מסוקים התנגשו והתרסקו למרגלות האוורסט",
-      "summary": "תאונה קטלנית באחד מאזורי הטרקים הפופולריים בעולם: שני מסוקים התנגשו במהלך נחיתה בגובה של יותר מ־4,000 מטרים • תייר הודי נהרג ושלושה בני אדם נפצעו • רגעי ההתנגשות תועדו במצלמה והופצו ברשתות החברתיות • הרשויות פתחו בחקירה",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21765227",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:27:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/21-under-21/article/21765225",
-      "title": "״לא לחכות למשבר״: בן ה-18 שנלחם על ישראל מפציר",
-      "summary": "בעידן שבו הרשתות החברתיות שולטות וכל סטורי עלול לשנות את דעת הקהל הבינלאומית - האם הקרב שישראל מנהלת בחזית ההסברה אבוד מראש?",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/21-under-21/article/21765225",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:26:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21764960",
-      "title": "מאמן פורטלנד חשף: התוכנית המיוחדת שבנה לדני אבדיה",
-      "summary": "הטרייל בלייזרס שברו בצורת של 16 שנה ללא ניצחון חוץ בדנבר במסגרת העונה הסדירה • מייקה נורי פרגן לכוכב הישראלי והבהיר: \"הוא 'מנהל המשחק המשני', הוא מצוין בזה\" • בארצות הברית מודאגים מנתון אחד בעייתי של הישראלי",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21764960",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:25:46.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3874687",
-      "title": "צעיר יהודי הגיע לראשונה לישראל, ומצא קמע בן 3,300 שנה",
-      "summary": "צעיר יהודי הגיע לראשונה לישראל, ומצא קמע בן 3,300 שנה",
-      "link": "https://travel.walla.co.il/item/3874687",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T06:25:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21765132",
-      "title": "מאיה בוסקילה: ״רואה את הרוע הזה ופשוט בוכה״",
-      "summary": "הזמרת נחשפה לתיעוד הקשה מבית הספר ולא הצליחה להישאר אדישה • בסטורי חריף היא פנתה ישירות לתלמידות המעורבות והציבה שאלות קשות גם למבוגרים שסביבן",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21765132",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T06:18:24.000Z"
     }
   ]
 }
