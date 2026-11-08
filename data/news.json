@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:46:02.823Z",
+  "updatedAt": "2026-11-08T17:00:56.961Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91221",
+      "title": "אזעקת צבע אדום בניר עוז",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/91221",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T16:55:24.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91220",
+      "title": "אזעקות בניר עוז שבעוטף עזה",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/91220",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-08T16:54:48.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1386348",
       "title": "\"הוא סוחט את המפכ\"ל\": המתקפה החריפה של משה קראדי על בן גביר",
@@ -246,6 +264,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T15:40:46.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383960570",
+      "title": "היועמ\"שית: \"יהודי או ערבי, מי שצריך להיחקר ייחקר\"",
+      "summary": "בהרב-מיארה הבהירה כי המידע שהוצג לה נוגע לאירועים בודדים בלבד, וכי אין בו כדי להשפיע על תוצאות הבחירות. עם זאת, הדגישה כי כבר אושרו פעולות חקירה משמעותיות וכי כל מידע חדש ייבחן",
+      "link": "https://www.walla.co.il/news/law/383960570",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T15:39:31.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383960570",
@@ -597,6 +624,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T14:49:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960564",
+      "title": "יעשה לביתו? דרעי לא יכהן בכנסת הבאה",
+      "summary": "ימים לאחר שמועצת חכמי התורה דחתה את בקשתו לפרוש מהנהגת ש\"ס, דרעי פרש מרשימת המפלגה לכנסת. גם משה אבוטבול ודרור עמוס פרשו מהרשימה, ובמקומם ייכנסו לכנסת אוריאל בוסו ויוסי טייב",
+      "link": "https://www.walla.co.il/news/politics/383960564",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T14:48:49.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960564",
@@ -1164,6 +1200,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T13:39:13.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3875448",
+      "title": "צ'אט שלום, איך כדאי לרצוח את בעלי?",
+      "summary": "צ'אט שלום, איך כדאי לרצוח את בעלי?",
+      "link": "https://tech.walla.co.il/item/3875448",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-08T13:39:00.000Z"
     },
     {
       "id": "walla:https://tech.walla.co.il/item/3875448",
@@ -4305,6 +4350,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-08T07:26:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1tsqiptgx",
+      "title": "17 פצועים בתאונה סמוך למחלף ההלכה, נהג מיניבוס נפגע קשה",
+      "summary": "17 בני אדם נפצעו בתאונה בין מיניבוס לאוטובוס באיילון דרום בשעות העומס. נהג המיניבוס נפצע באורח קשה: לפי החשד, הוא ניסה להיכנס לנתיב המהיר - ונפגע מאוטובוס. צעירה נפצעה בינוני והיתר במצב קל. המשטרה עדכנה על עומסי תנועה באזור",
+      "link": "https://www.ynet.co.il/news/article/r1tsqiptgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-08T07:25:54.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1tsqiptgx",
@@ -28668,87 +28722,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-03T17:04:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384519",
-      "title": "המומחה לארה\"ב מזהיר: \"אנחנו עלולים לעמוד בפני שוקת שבורה\" | האזינו",
-      "summary": "פרופ' יוסי שיין, מומחה ליחסים בינלאומיים, מזהיר מפני השינוי ביחסי ישראל וארה\"ב, הקולות נגד ישראל במחנה טראמפ והפוליטיזציה של הסיוע האמריקאי: \"זו מלחמה עצומה על מעמדה ושמה של ישראל\"",
-      "link": "https://www.maariv.co.il/news/world/article-1384519",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T16:59:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21772288",
-      "title": "רגע לפני גמר \"דה וייס\": שורטי במפגש מפתיע",
-      "summary": "מנחה שעוררה לאחרונה סערה, זמרת לפני גמר, ויוצאות \"האח הגדול\" - היה מעניין בהשקת \"הדרך של נועה\" שתשודר בקרוב בערוץ 16 בכיכובה של נועה קירל. צפו בתמונות",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21772288",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T16:59:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnxpp6",
-      "title": "איראן בסרטון איומים צבעוני: מתקפת טילים בפריז ולונדון | \"נגיע לאירופה\"",
-      "summary": "בסרטון חריג המופץ בימים אלה, משגרים גורמים המזוהים עם איראן איומים ישירים לעבר בסיסים צבאיים בבריטניה, גרמניה וצרפת, לצד קריאה לציבור באירופה להתקומם נגד ממשלותיהם | סרטון AI ואיומים מפורשים לפגוע באירופה (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tnxpp6",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-03T16:56:47.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959993",
-      "title": "איזנקוט: \"צפו לספינים רבים בקרוב, נתניהו יודע שאנחנו נחושים\"",
-      "summary": "בהצהרה שפרסם יו\"ר מפלגת ישר הוא אמר כי המטרה העיקרית של הגוש בהובלתו היא הקמת ממשלה המבוססת על העקרונות שהגדיר. \"נתניהו הוא ראש ממשלת מעבר בתמיכת מיעוט; מפלטו האחרון הוא הטלת דופי בתוצאות האמת\", הטיח",
-      "link": "https://www.walla.co.il/news/politics/383959993",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T16:55:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bypkzww6gl",
-      "title": "\"זה יהיה ההישג הגדול אי פעם של ה-BDS\": ישראל בסכנת הדחה מתוכנית המחקר הגדולה בעולם",
-      "summary": "הפרלמנט האירופי צפוי להצביע על הוספת תנאי סף להשתתפות בתוכנית הורייזן, בהם עמידה באמנת האו\"ם למניעת רצח עם. בישראל מעריכים שגורמים עוינים אחראים לכך, כחלק מהניסיון להדיח אותה מהתוכנית. בכירים מזהירים: \"מדענים ישראלים לא יוכלו להתקדם בלי מענקים\". כך מתנהל קרב הבלימה",
-      "link": "https://www.ynet.co.il/news/article/bypkzww6gl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T16:55:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384517",
-      "title": "יועז הנדל מודאג מהממשלה הבאה: \"זה בדיוק מה שהזהרתי מפניו\"",
-      "summary": "יועז הנדל מזהיר מפני ממשלה שתישען על החרדים או על המפלגות הערביות ותוקף את גוש השינוי על שתיקתו בסוגיית הגיוס. בריאיון ל-103fm הבהיר כי ימשיך במאבק והבטיח לפעול לכל חיבור פוליטי אפשרי",
-      "link": "https://www.maariv.co.il/news/politics/article-1384517",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-03T16:48:41.000Z"
-    },
-    {
-      "id": "walla:https://tech.walla.co.il/item/3874843",
-      "title": "הספירה לאחור החלה: טלסקופ ענק של נאס\"א ייפול מחר לכדור הארץ",
-      "summary": "אחרי כמעט 22 שנה בחלל, טלסקופ של נאס\"א במשקל 1.5 טון עומד ליפול לכדור הארץ ללא שליטה. חלקים ממנו צפויים להגיע לקרקע, והסיכוי לפגיעה באדם גבוה מכפי שאולי נדמה. אז איפה השברים עלולים לנחות?",
-      "link": "https://tech.walla.co.il/item/3874843",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-03T16:48:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjn8audamg",
-      "title": "איזנקוט צפוי לקבל את המנדט להרכבת הממשלה | זה הלו\"ז אצל הנשיא",
-      "summary": "ברביעי וחמישי ינהל הרצוג התייעצויות עם נציגי המפלגות שנבחרו לכנסת, שיקבלו הזדמנות להמליץ על המועמד שעליו תוטל מלאכת הרכבת הממשלה. יו\"ר ישר! צפוי לקבל את מספר הממליצים הגבוה ביותר. אלה הימים שבהם יוטל המנדט",
-      "link": "https://www.ynet.co.il/news/article/rjn8audamg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-03T16:47:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21772416",
-      "title": "זיו ברמן בצעד מרגש: ''מחפשים מקום''",
-      "summary": "שנה אחרי ששב משבי חמאס, שורד השבי מכפר עזה פרסם סטורי אישי עם בת זוגו ופנה ישירות לעוקבים • מה גרם לשניים לוותר על ההחלטה שלא לבקש עזרה ברשתות החברתיות • ובאיזה אזור בדיוק הם מקווים להקים את הבית הראשון שלהם",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21772416",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-03T16:46:25.000Z"
     }
   ]
 }
