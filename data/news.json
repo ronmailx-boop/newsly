@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T12:31:00.226Z",
+  "updatedAt": "2026-11-09T12:46:05.886Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/explosion-eilat-car-fire-tel-aviv-emergency",
+      "title": "שעה מתוחה: פיצוץ גז באילת ורכב בוער בתל אביב",
+      "summary": "דליפת גז מצובר גרמה לפיצוץ בחנות באילת • נהג חולץ ברגע האחרון מרכב שעלה באש בתל אביב | שני אירועים חריגים בשעה אחת (חדשות)",
+      "link": "https://www.kikar.co.il/news/explosion-eilat-car-fire-tel-aviv-emergency",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T12:40:09.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960677",
+      "title": "נקבע עונשו של פרופסור מאוניברסיטת ת\"א שהורשע בהטרדה מינית",
+      "summary": "בית הדין המשמעתי קבע כי הפרופסור הטריד מינית שתי נשים והתנהג באופן בלתי הולם כלפי ארבעה עובדים. אחת המתלוננות העידה כי דבריו הותירו אותה \"קפואה, משותקת ומבוישת\". שמו לא הותר לפרסום",
+      "link": "https://www.walla.co.il/news/israel/383960677",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T12:27:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21807129",
+      "title": "הילד שהפך לשף של רותי ברודו: \"לא יצא ממך כלום\"",
+      "summary": "אוהד סולומון התחיל את דרכו בבית קפה ביוקנעם, עבר במטבחים של מסעדות נחשבות בארץ ובעולם, והיום מוביל את שתי המסעדות של R48 • בריאיון אינטימי הוא מספר על הרצון להוכיח את עצמו (\"כל הזמן היה את הדרייב הזה להוכיח\"), וגם רותי ברודו מספרת על האמון יוצא הדופן שלה בו (\"האדם הראשון שגרם לי להרגיש שאני יכולה לשחרר\")",
+      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21807129",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T12:23:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386628",
+      "title": "אחרי 44 שנה: צה\"ל עשוי להטביע את \"נסיכת השייטת\"",
+      "summary": "אחרי 44 שנות שירות ופעילות מבצעית בזירות רבות, אח\"י קשת נפרדה מחיל הים במשט הצדעה בחיפה. כעת נבחן גורלה של \"נסיכת השייטת\", שעשויה למצוא את עצמה במעמקי הים - או להפוך למוצג מוזיאוני",
+      "link": "https://www.maariv.co.il/news/military/article-1386628",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T12:22:53.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1386628",
       "title": "אחרי יותר מארבעה עשורים: \"נסיכת השייטת\" בדרך למצולות",
       "summary": "אחרי 44 שנות שירות ופעילות מבצעית בזירות רבות, אח\"י קשת נפרדה מחיל הים במשט הצדעה בחיפה. כעת נבחן גורלה של \"נסיכת השייטת\", שעשויה למצוא את עצמה במעמקי הים - או להפוך למוצג מוזיאוני",
@@ -41,6 +77,15 @@
       "pubDate": "2026-11-09T12:22:53.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21812714",
+      "title": "המסר שקיבלה מכבי חיפה: \"זה יעלה הרבה מאוד כסף\"",
+      "summary": "שמו של עומר פרץ עלה כמועמד לקבוצה, ובהפועל פתח תקווה לא אוהבים זאת ומבהירים: \"אף אחד לא פנה אלינו\" • ליאור רפאלוב מעריך את המאמן מאוד ומעוניין בו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21812714",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T12:22:40.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/consumer-news/to8hu6",
       "title": "הסתערות בסופר: רשת המזון שחותכת מחירים בחצי ל-6 ימים בלבד",
       "summary": "המחירים נחתכים בחצי, והספירה לאחור כבר החלה: רשת המזון יוצאת במבצע חריג של 50% הנחה על מגוון מוצרים מבוקשים, במחירים שקשה להתעלם מהם. אבל יש לכם רק שישה ימים לנצל את ההזדמנות. אילו מוצרים נכנסו למבצע וכמה באמת תחסכו בקנייה הקרובה? כל הפרטים והמחירים (צרכנות)",
@@ -48,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T12:19:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21812672",
+      "title": "\"אני לא רוצה את הזבלים האלה\": כך פעל לכאורה מנגנון הפרוטקשן שסחט קבלנים",
+      "summary": "52 חשודים נעצרו בפשיטה רחבת היקף על עשרות יעדים ברחבי הארץ במסגרת מבצע \"שומרי הצל\" • על פי החשד, הם כפו על קבלנים שירותי שמירה פיקטיביים וגבו עשרות אלפי שקלים מכל אתר בנייה • אחד הנסחטים: \"אם אני לא אשלם אני יודע שיעשו נזק",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21812672",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T12:19:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1386623",
@@ -66,6 +120,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T12:16:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21812705",
+      "title": "על המסלול בגיל 55: סיגל שחמון לוהטת",
+      "summary": "השחקנית, דוגמנית העבר ונערת הגלגל לשעבר חזרה למסלול בתצוגה של MOTHER OF ALL במסגרת שבוע האופנה תל אביב, לצד טיטי איינאו, טיילור מלכוב וג'ני צ'רוואני • וגם: הפתיחה נטולת האיפור של שבוע האופנה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21812705",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T12:15:58.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-parties-coalition-draft-law-survey",
@@ -156,6 +219,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T11:53:56.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3875580",
+      "title": "פרסום ראשון: הפרידה המפתיעה של אבי שושן ושי חי",
+      "summary": "שני כוכבי העונה הנוכחית של \"הישרדות\" ממשיכים לעורר עניין גם מחוץ למסך, וכעת נודע לוואלה סלבס כי השניים החליטו להיפרד מסוכנות הטאלנטים של רוברטו בן שושן וליאת לוסקי",
+      "link": "https://celebs.walla.co.il/item/3875580",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T11:50:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/dayan-haamet/to8gcd",
@@ -258,6 +330,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383960670",
+      "title": "נאבק על חייו: החרדי שהחזיר מכות לתוקף בניו יורק",
+      "summary": "גבר חרדי בן 52 הותקף בשבת בבוקר בשכונת ויליאמסבורג, לאחר שאדם שפך עליו נוזל לא מזוהה ותקף אותו. המותקף התגונן עד שעוברי אורח נחלצו לעזרתו. החשוד נעצר, ומשטרת ניו יורק בודקת חשד לפשע שנאה",
+      "link": "https://www.walla.co.il/news/world/383960670",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T11:29:47.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960670",
       "title": "חרדי הותקף בדרך לבית הכנסת בברוקלין - והשיב במכות ובעיטות",
       "summary": "גבר חרדי בן 52 הותקף בשבת בבוקר בשכונת ויליאמסבורג, לאחר שאדם שפך עליו נוזל לא מזוהה ותקף אותו. המותקף התגונן עד שעוברי אורח נחלצו לעזרתו. החשוד נעצר, ומשטרת ניו יורק בודקת חשד לפשע שנאה",
       "link": "https://www.walla.co.il/news/world/383960670",
@@ -291,6 +372,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T11:27:16.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875567",
+      "title": "רעידת אדמה בצרפת: הספורטאי האגדי יתמודד לנשיאות ב-2027",
+      "summary": "הג'ודוקא האגדי, שזכה בשלל תארים ושלט בענף ביד רמה: \"אני רואה את השסע החברתי שחוצה את המדינה, התקווה נעלמה\"",
+      "link": "https://sports.walla.co.il/item/3875567",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T11:27:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3875567",
@@ -840,6 +930,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T10:01:36.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875531",
+      "title": "\"מכבי חיפה בדרך לחזור לימים אפלים וחשוכים\"",
+      "summary": "בכר הוציא את הערמונים מהאש עבור מכבי חיפה, אבל הוא לא היה צריך ללכת לבד. האש עדיין משתוללת ועלולה להחזיר את המועדון לימים אפלים. וגם: מפגן העוצמה של הפועל תל אביב, נורת האזהרה של מכבי",
+      "link": "https://sports.walla.co.il/item/3875531",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T10:00:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3875531",
@@ -27588,123 +27687,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T12:46:10.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874935",
-      "title": "המשחקים לא חוזרים לישראל: המהלך המפתיע של מכבי ת\"א - וההסבר",
-      "summary": "הצהובים נפרדים מבלגרד, שם אירחו את רוב משחקי היורוליג שלהם מאז ה-7 באוקטובר. הופעת הבכורה שלהם באי השכן תהיה בשבוע הבא, בדרבי הגדול מול הפועל תל אביב",
-      "link": "https://sports.walla.co.il/item/3874935",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T12:45:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874935",
-      "title": "קרוב לישראל, אבל עדיין לא בהיכל: הבית החדש של מכבי ת\"א",
-      "summary": "הצהובים נפרדים מבלגרד, שם אירחו את רוב משחקי היורוליג שלהם מאז ה-7 באוקטובר. הופעת הבכורה שלהם באי השכן תהיה בשבוע הבא, בדרבי הגדול מול הפועל תל אביב",
-      "link": "https://sports.walla.co.il/item/3874935",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T12:45:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21779317",
-      "title": "עדן חסון: \"לא מעניין אותי\"",
-      "summary": "הזמר משחרר סינגל קצבי חדש שמציג צד אישי ובוגר יותר בחייו • הפעם הוא שר על ההתרחקות מחיי הלילה ועל החיפוש אחר שקט, יציבות ואהבה",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21779317",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T12:44:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21778526",
-      "title": "12 שנה אחרי: איפה כוכבי מכבי והפועל תל אביב מ\"דרבי פואד\"",
-      "summary": "ערן זהבי המשיך לחגוג בדרבים, אלרואי ידעי ריצה עונש מאסר, רועי ריינשרייבר עזב את השיפוט לטובת תפקיד מפתיע וגם ג'ורדי קרויף ואייל ברקוביץ' היו חלק מרכזי • אחד האירועים הזכורים בתולדות הכדורגל הישראלי, היכן הם היום?",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21778526",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T12:43:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/ebola-test-results-negative-congo-returnees",
-      "title": "תוצאות הבדיקות הגיעו: שני החשודים באבולה שהגיעו מאפריקה - שליליים",
-      "summary": "שני אנשים ששבו מקונגו אושפזו אתמול בחשד לאבולה • הבדיקות הושלמו והתוצאות שליליות | משרד הבריאות: אין מקרה מאומת בישראל (חדשות בריאות)",
-      "link": "https://www.kikar.co.il/israel-news/ebola-test-results-negative-congo-returnees",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T12:42:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/gas-leak-galil-elyon-mall-hatzor-haglilit",
-      "title": "דליפת גז משמעותית במרכז המסחרי בחצור הגלילית: מבקרים פונו ואדם אחד נפגע",
-      "summary": "צוותי כיבוי פועלים לאיתור מקור הדליפה בקניון הגליל העליון שבחצור הגלילית • על פי הדיווחים של מוקדי החירום, אדם נפגע ומטופל במקום | מבקרי הקניון פונו מחשש לסכנה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/gas-leak-galil-elyon-mall-hatzor-haglilit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T12:40:21.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960077",
-      "title": "פעוטון הזוועות באריאל: \"צפיתי בסרטונים וירדו לי דמעות\"",
-      "summary": "לאחר צפייה ב-2,400 שעות תיעוד, הוגשה הצהרת תובע נגד מנהלת מעון ושתי מטפלות באריאל. יותר מעשרה פעוטות נפגעו לכאורה מאלימות קשה: \"תיעודים אכזריים שלא ראיתי בכל שנותיי\" חשד ל-600 מקרי אלימות",
-      "link": "https://www.walla.co.il/news/law/383960077",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T12:38:02.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384808",
-      "title": "אריה דרעי בדרך לפרישה מהכנסת: ביהדות התורה מזהים פתח לשינוי",
-      "summary": "אריה דרעי הגיש מכתב התפטרות, אך צפוי להישאר יו\"ר ש\"ס גם אם יפרוש מהכנסת. למהלך עשויה להיות השפעה דרמטית על המגעים להקמת הממשלה. בש\"ס מכחישים את הדיווחים",
-      "link": "https://www.maariv.co.il/news/politics/article-1384808",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T12:37:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384808",
-      "title": "רעידת אדמה בש\"ס: אריה דרעי בדרך לפרישה מהכנסת",
-      "summary": "אריה דרעי הגיש מכתב התפטרות, אך צפוי להישאר יו\"ר ש\"ס גם אם יפרוש מהכנסת. למהלך עשויה להיות השפעה דרמטית על המגעים להקמת הממשלה. בש\"ס מכחישים את הדיווחים",
-      "link": "https://www.maariv.co.il/news/politics/article-1384808",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T12:37:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21779140",
-      "title": "עידן עמדי מול ליאור רז: \"יאללה מלחמה\"",
-      "summary": "שיתוף פעולה חדש של רז הצליח למשוך את עמדי לתגובות, ומשם זה כבר התגלגל לעקיצה, הזמנה הביתה וכוס קפה אחת עם העדפה מאוד ברורה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21779140",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T12:36:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21779319",
-      "title": "אחרי ארבעה חודשים בלבד: רוסלנה רודינה ובן הזוג נפרדו",
-      "summary": "ארבעה חודשים אחרי שהחלו בזוגיות, ואחרי משבר ביחסים, רוסלנה רודינה ועמי ברדה החליטו להיפרד",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21779319",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T12:35:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/shas-council-deri-resignation",
-      "title": "יו\"ר המפלגה דרעי ביקש לסיים את תפקידו ו'לפרוש מהחיים הציבוריים' | בינתיים ישיבת 'המועצת' נדחתה",
-      "summary": "חברי מועצת חכמי התורה היו אמורים להתכנס היום לכינוס חירום במיקום דיסקרטי בירושלים, בכדי לדון בבקשתו של יו\"ר המפלגה חבר הכנסת אריה דרעי לסיים את תפקידו ולפרוש מהחיים הציבוריים אחרי תוצאות הבחירות המאכזבות בהן המפלגה רשמה התרסקות לשישה מנדטים - ירידה של חמישה מנדטים (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/shas-council-deri-resignation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T12:34:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21778332",
-      "title": "סושי בזל, צ'וקה ולאקי צ'יקן משיקות 7 סניפים חדשים: אלו המיקומים",
-      "summary": "בהשקעה של כ-15 מיליון שקלים, קבוצת ניראור יוצאת למהלך התרחבות של שלוש רשתות האוכל שלה • סניפים חדשים של סושי בזל, צ'וקה ולאקי צ'יקן ייפתחו בין היתר במודיעין, באילת ובאשדוד • אחד הסניפים כבר נפתח, ושישה נוספים בדרך",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21778332",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T12:32:39.000Z"
     }
   ]
 }
