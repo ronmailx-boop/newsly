@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T17:01:13.611Z",
+  "updatedAt": "2026-11-09T17:15:55.734Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1386729",
+      "title": "חיים כץ החליט מי ינהל את משרד הבריאות: \"אנומליה לא בריאה\"",
+      "summary": "פרופ' יצחק קרייס, מנכ\"ל שיבא, ימונה לממלא מקום מנכ\"ל משרד הבריאות לאחר עזיבת משה בר סימן טוב, וימשיך לנהל את בית החולים במקביל. המינוי זכה לברכות, אך גם עורר ביקורת חריפה מצד בכיר במערכת הבריאות",
+      "link": "https://www.maariv.co.il/news/health/article-1386729",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T17:13:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383960695",
+      "title": "ליברמן ואיזנקוט סיכמו: תפקיד יו\"ר הכנסת יהיה ממפלגת \"ישר\"",
+      "summary": "השניים נפגשו ברקע המאמצים להקמת ממשלה והלחץ לפשרה מצד גוש השינוי. נתניהו קרא: \"מוכן להכנס למו\"מ עם כולם\". זה התרחיש שמתגבש",
+      "link": "https://www.walla.co.il/news/politics/383960695",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T17:01:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-liberman-knesset-speaker-agreement",
+      "title": "ההדחה תצא לפועל: איזנקוט וליברמן הסכימו על יו\"ר הכנסת הבא | הפרטים",
+      "summary": "יו\"ר ישר ויו\"ר ישראל ביתנו נפגשו והגיעו להסכמה | עם תמיכת המפלגות הערביות - הדרך פתוחה, אך למרות ההתעקשות שמי שימונה להיות יהיה יו\"ר מפלגה טרם ברור במי יבחרו במפלגת ישר (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-liberman-knesset-speaker-agreement",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T17:00:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rk7h0000jcfg",
+      "title": "ליברמן ואיזנקוט סיכמו: יו\"ר הכנסת - ממפלגת ישר!",
+      "summary": "בנט וגולן השאירו את ההכרעה בידיים של השניים, ובפגישה ביניהם סיכמו ליברמן ואיזנקוט על זהות מחליפו של אמיר אוחנה. מסתמן: זה יהיה נציג ממפלגת ישר! - ואם לא יהיה שינוי של הרגע האחרון, כנראה איזנקוט עצמו",
+      "link": "https://www.ynet.co.il/news/article/rk7h0000jcfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-09T16:59:33.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960721",
+      "title": "פריצה אחת חשפה את ממדי האסון שרוסיה ניסתה להסתיר",
+      "summary": "מחיר הדמים של פוטין נחפש:",
+      "link": "https://www.walla.co.il/news/world/383960721",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T16:55:22.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875621",
+      "title": "הפעם הבשורה מגיעה מאיטליה, החזון של עופר ינאי מתגשם",
+      "summary": "הפעם הבשורה מגיעה מאיטליה, החזון של עופר ינאי מתגשם",
+      "link": "https://sports.walla.co.il/item/3875621",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T16:52:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21815553",
+      "title": "התקיפות בים השחור, הפגיעה בכיס: המהלך שעלול לייקר את סל הקניות של כולנו",
+      "summary": "אחרי הראל, גם הפניקס הודיעה על ביטול הכיסוי הביטוחי לסיכוני מלחמה במשלוחי מטענים בים השחור • שתי החברות מחזיקות יחד בכ-50% משוק ביטוח המטענים הימיים בישראל, והיבואנים עלולים להידרש לפתרונות יקרים יותר • הכיסוי הממשלתי המשלים צפוי להסתיים בסוף החודש, והמומחים מזהירים מפני התייקרות הלחם, הפסטה והבשר",
+      "link": "https://www.israelhayom.co.il/business/article/21815553",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T16:47:36.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/laws/eliyasi-drucker-defamation-lawsuit",
       "title": "הפסד כואב ליואב אליאסי \"הצל\" בבית המשפט: ישלם לרביב דרוקר 25 אלף שקל",
       "summary": "בית משפט השלום בהרצליה דחה את תביעת לשון הרע שהגיש יואב אליאסי נגד העיתונאי רביב דרוקר ורשת 13. השופט קבע כי לפרסומים עומדות הגנות בחוק וחייב את אליאסי בהוצאות משפט (משפט)",
@@ -41,6 +104,24 @@
       "pubDate": "2026-11-09T16:41:32.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21815717",
+      "title": "\"בעלי אינטרסים מפלגים את אוהדי מכבי תל אביב\"",
+      "summary": "רגע לפני הדרבי מול הפועל תל אביב בגביע ווינר, ארגון האוהדים \"הגייט\" פרסם הודעה נוקבת בעקבות המשבר במועדון, תקף את התנהלות הבעלים ודרש פגישה דחופה: \"לא ייתכן שהבעלים עסוקים בבוררויות, הדלפות וריבים\" • גם השחקנים והצוות המקצועי ספגו ביקורת: \"אתם לא נקיים, חלק גדול מהאשמה גם עליכם\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21815717",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T16:39:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21815602",
+      "title": "10 שנים וחצי בכלא: הכוכב ההוליוודי קיבל את עונשו",
+      "summary": "הקומיקאי והשחקן ראסל ברנד הגיע לבית המשפט בלונדון לשמוע את גזר דינו לאחר שהורשע באונס ותקיפה מינית. הנשים שנפגעו ממנו תיארו כיצד הצלחתו הציבורית פגעה בהן",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21815602",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T16:39:23.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sy011bokcge",
       "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
       "summary": "חודש אחרי שהאקרים פרצו למערכות ההפעלה של מקררים במאות מרכולים ברחבי צרפת מודיע משרד החוץ בפריז כי משמרות המהפכה הם שביצעו את מתקפת הסייבר: התוקפים השתמשו בפרסית, כתובות IP הובילו למכשירים בתוך איראן. השגריר האיראני זומן לשיחת נזיפה, התביעה מבקשת צווי מעצר בינלאומיים נגד בכירי \"שהיד קאווה\", יחידת סייבר התקפית המשמשת את טהרן",
@@ -48,6 +129,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T16:39:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21815595",
+      "title": "עדן הראל מבקשת עזרה: \"אני משתגעת\"",
+      "summary": "אשת התקשורת שיתפה על ההתמודדות המטלטלת והדאגה האינסופית לבנה הלוחם, וחשפה את הקושי המרכזי שבו היא נתקלת בניסיון לשמור על שגרה לצד החרדה: \"איך כאילו מתפקדים?\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21815595",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T16:38:32.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/to8tur",
@@ -93,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T16:29:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21815519",
+      "title": "עלתה באש: האלופה האולימפית בטיפול נמרץ אחרי תאונה חריגה",
+      "summary": "מריה שורוצ'קינה, שזכתה בשתי מדליות זהב אולימפיות וב-11 אליפויות עולם, סובלת מכוויות קשות לאחר שבגדיה עלו באש בזמן שניסתה למלא דלק בקמין בדירתה במוסקבה • היא עברה ניתוח ואושפזה בטיפול נמרץ • אחותה, הזמרת המפורסמת ניושה, מסרה עדכון על מצבה: \"הראש והפנים לא נפגעו, מצבה יציב\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21815519",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T16:28:18.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21815519",
@@ -27426,96 +27525,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-04T17:18:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21782609",
-      "title": "ראיין את עזמי בשארה ונעצר בחשד למגע עם סוכן חוץ",
-      "summary": "עבד אלקדר אבו שחאדה נעצר בחקירה משותפת של המשטרה והשב\"כ, שלטענת סנגוריו מתמקדת בריאיון פומבי שערך עם חבר הכנסת לשעבר במסגרת פודקאסט על הבחירות • בהגנה טוענים ל\"מעצר פוליטי\" ומזהירים מפגיעה בחופש העיתונות • בית המשפט קבע כי קיים חשד סביר והאריך את מעצרו עד יום ראשון והתיר לפרסם את פרטי הפרשה",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21782609",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T17:14:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21782211",
-      "title": "תעשו הכל, רק אל תחזירו את שיטת הבחירות הזו",
-      "summary": "הבחירה הישירה, שנועדה לחזק את ראש הממשלה, החלישה דווקא את המפלגות הגדולות והפכה את ניהול הממשלה לסיוט קואליציוני • מי שחשבו שהשיטה תשרת אותם גילו שהיא עלולה להפוך לבומרנג • כמי שהיה שם בזמן אמת בניסיון הקודם, אני קורא: אל תחיו את הרעיון הזה",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21782211",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T17:13:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-jr-backs-vance-midterm-defeat-iran",
-      "title": "בנו של טראמפ שיתף את הפוסט נגד ישראל: \"צודק ב-100%\"",
-      "summary": "דונלד טראמפ ג'וניור פרסם ברשת X תמיכה מלאה בסגן הנשיא לאחר שזה הודה בהפסד הרפובליקנים • ואנס ציין את המלחמה באיראן כגורם מרכזי לתבוסה | התגובה המלאה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-jr-backs-vance-midterm-defeat-iran",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T17:10:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21782062",
-      "title": "\"הדמוקרטים מחצו את טראמפ\": הכותרות בעולם לאחר התבוסה בבחירות האמצע",
-      "summary": "כותרת ה\"ניו יורק פוסט\" השמרני לקחה השראה מהאומנות היפנית והדגימה צונאמי שוטף את הנשיא טראמפ • באירופה חגגו את המכה הכואבת לנשיא שצינן את יחסיו עם היבשת • בעולם הערבי הריעו לאל סייד",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21782062",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T17:10:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960090",
-      "title": "היום הראשון של המפלגות בבית הנשיא הסתיים. מחר תור הליכוד",
-      "summary": "הציונות הדתית וש\"ס המליצו כצפוי בפני הרצוג על נתניהו. בצל השמועות על עתידו הפוליט אריה דרעי נעדר מהפגישה",
-      "link": "https://www.walla.co.il/news/politics/383960090",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T17:10:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960090",
-      "title": "פייגלין: \"ממליץ על נתניהו למרות שעננה מרחפת מעל הבחירות\"",
-      "summary": "הציונות הדתית וש\"ס המליצו כצפוי בפני הרצוג על נתניהו. בצל השמועות על עתידו הפוליט אריה דרעי נעדר מהפגישה",
-      "link": "https://www.walla.co.il/news/politics/383960090",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T17:10:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960090",
-      "title": "פייגלין נכנס לבדו לנשיא; ברע\"מ הודיעו: נמליץ על איזנקוט",
-      "summary": "הציונות הדתית וש\"ס המליצו כצפוי בפני הרצוג על נתניהו. בצל השמועות על עתידו הפוליט אריה דרעי נעדר מהפגישה",
-      "link": "https://www.walla.co.il/news/politics/383960090",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T17:10:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21782468",
-      "title": "לקראת סיום חוזה: הפועל תל אביב מתכננת מהלך על שני שחקנים",
-      "summary": "האדומים יפעלו להארכת החוזים של אל ים קנצפולסקי ומרכוס קוקו - שהחוזים הנוכחים שלהם נגמרים בקיץ הקרוב • כוונה להאריך את חוזהו גם של פרנאן מאיימבו: \"הוא יהיה הקפטן לעוד שנים רבות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21782468",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T17:09:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/christa-pike-execution-medical-warning-ignored",
-      "title": "התריעו 9 חודשים מראש: הסוד שהוסתר לפני ההוצאה להורג הכושלת",
-      "summary": "עורכי דין הגישו אזהרות רפואיות חמורות תשעה חודשים לפני הניסיון • מצבה הרפואי הייחודי עלול היה להפוך את ההליך לטראומטי | הפרשה שמזעזעת את ארה\"ב (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/christa-pike-execution-medical-warning-ignored",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T17:02:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21782331",
-      "title": "\"רק מכות קיבלתי\": איתן חייא טען לאלימות שוטרים במעצרו",
-      "summary": "העבריין הבכיר, ששוחרר לפני חודשים ספורים לאחר כ-12 שנות מאסר, טען בבית המשפט כי הוכה במהלך מעצרו וכי הוא סובל מכאבים בצלעות • במשטרה טוענים כי הסרטון שהופץ ברשתות החברתיות אינו מתעד את חייא, אלא חשוד אחר שנעצר עמו • השופטת הורתה להעביר את פרוטוקול הדיון למח\"ש והאריכה את מעצרו עד יום ראשון",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21782331",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T17:01:36.000Z"
     }
   ]
 }
