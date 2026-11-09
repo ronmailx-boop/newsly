@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:16:02.875Z",
+  "updatedAt": "2026-11-09T19:31:13.304Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21816828",
+      "title": "צו השעה: לשמור על התקווה ועל השותפות בין ישראל לארה\"ב",
+      "summary": "הברית הייחודית בין המדינות שזורה לא רק בערבות הדדית עמוקה, אלא גם במבחנים נוקשים, במשברים מדיניים נוקבים ובחיכוך גלוי וישיר בין מנהיגים • בניו יורק, בלב הפועם של הקהילה היהודית הגדולה והמשפיעה ביותר בעולם מחוץ לגבולות ישראל, נמתח הקו שבין העבר המשותף לעתיד האסטרטגי של כולנו • בעת הזו, מדובר בנכס צאן ברזל של הביטחון הלאומי ושל החוסן הישראלי",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21816828",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T19:14:26.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1386765",
       "title": "שני בתי כנסת הציתו מחאה בערד - ואז רשות הטבע התערבה",
       "summary": "תושבים בערד חסמו עבודות להקמת שני בתי כנסת בגבעת כידוד, במחאה על שינוי צביון העיר ופגיעה בערכי טבע. רשות הטבע והגנים התערבה והורתה לעצור את העבודות במגרשים שבהם נדרש תיאום מוקדם",
@@ -39,6 +48,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T19:08:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21816661",
+      "title": "ליברמן: \"אני יודע להביא את החרדים\"; בנט: \"מהפכת המשרתים\" לפני הכל",
+      "summary": "ליברמן הבטיח לא לערער על מועמדותו של איזנקוט לראשות הממשלה, והזהיר מפני בחירות שבהן הימין יזכה ב-70 מנדטים • מנגד, רבנים בכירים מבהירים כי הפערים בסוגיית הגיוס עדיין גדולים • במקביל, בנט מגבה את איזנקוט, אך מתקשה לראות עצמו מצטרף לממשלה שתאפשר השתמטות בפועל",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21816661",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T18:58:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21816661",
@@ -84,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T18:45:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21816690",
+      "title": "חי מגמר גביע ווינר: מכבי תל אביב - הפועל תל אביב 12:17",
+      "summary": "הצהובים מגיעים בצל המשבר הכבד שפוקד אותם, ופוגשים את החבורה של דימיטריס איטודיס שנכנעה לברצלונה ביורוליג • מי תניף את התואר השני של העונה?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21816690",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T18:40:09.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21816690",
@@ -498,6 +525,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T17:00:44.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875622",
+      "title": "אחרי התפטרות ברק בכר: הבעיה הגדולה של מכבי חיפה",
+      "summary": "הפועל ת\"א במקום הראשון, מכבי ת\"א ובית\"ר ירושלים מקרטעות, אבל ציון 3 עסקו קודם כל בהתפטרותו של מאמן מכבי חיפה. צפו בפרק",
+      "link": "https://sports.walla.co.il/item/3875622",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T17:00:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk7h0000jcfg",
@@ -1641,6 +1677,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-09T14:25:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383960692",
+      "title": "כולם אהבו את צ'נדלר. איש לא הצליח להציל את מת'יו פרי",
+      "summary": "הסדרה המרתקת על כוכב \"חברים\" מהדהדת את סיפור האי-הישרדות של מי שהצליח לבזבז 7 מיליון דולר כמו כלום, ומעלה מסקנה עצובה ממש על החיים",
+      "link": "https://www.walla.co.il/entertainment/tv/383960692",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T14:25:16.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/truck-overturns-lakewood-james-street-miracle",
@@ -27309,141 +27354,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-04T19:32:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383959948",
-      "title": "החרדים בוחנים ממשלה עם איזנקוט: \"פירורים במקום חלה שמנה\"",
-      "summary": "גורמים חרדים מעלים אפשרות לחבור לאיזנקוט בתמורה להישגים מיידיים בגיוס ובתקציבים, בגוש האופוזיציה חוששים שמדובר בתרגיל פוליטי",
-      "link": "https://www.walla.co.il/news/politics/383959948",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T19:30:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21783725",
-      "title": "בניתם בית על הקרקע של ההורים? לא בטוח שהוא באמת שלכם",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21783725",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:29:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkmly0utml",
-      "title": "\"קורות חיים מטרידים\": השופטים החדשים בבית הדין בהאג - והקשר שלהם לישראל",
-      "summary": "העצרת הכללית ומועצת הביטחון של האו\"ם בחרו חמישה שופטים לבית הדין הבינלאומי לצדק לכהונה של 8 שנים. ביניהם, שופט ירדני שב-30 באוקטובר 2023 האשים את ישראל ב\"טיהור אתני\" ו\"פשעי מלחמה\", ושופטת שייעצה לנמיביה בהליך נגדה. השגריר דנון: \"דוגמה נוספת להטיה המובנית של האו\"ם נגד ישראל\"",
-      "link": "https://www.ynet.co.il/news/article/hkmly0utml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T19:29:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21783501",
-      "title": "ערב צפייה נפרד: כוכבת הישרדות הזמינה את כל חברי השבט - פרט לשלושה",
-      "summary": "שילה דורפמן יזמה מפגש בביתה לצפייה בפרק עבור חברי שבט טאלה • אל האירוע הגיעו מרבית חברי הקבוצה, למעט שלושה משתתפים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21783501",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:27:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21783728",
-      "title": "הסכם ממון למשפחות עם הון: מניות, אופציות, ביטקוין ועסק משפחתי, ומה חייב להיכנס להסכם לפני שחותמים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21783728",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:27:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/welfare/article/21782758",
-      "title": "\"גברים מעדיפים לשתוק\": זינוק של 81% בפניות נפגעי תקיפה מינית בתוך שנתיים",
-      "summary": "3,364 פניות התקבלו בקו הסיוע לגברים בשנת 2025, עלייה של 54% לעומת השנה הקודמת, והמגמה נמשכת גם ב-2026 • במרכזי הסיוע קושרים את העלייה לחשיפת הפגיעות המיניות ב-7 באוקטובר ובשבי • אלעד, שנפגע מינית שבע פעמים בחייו: \"בתור גבר, זו סוג של יציאה מהארון הפוסט-טראומטי\"",
-      "link": "https://www.israelhayom.co.il/news/welfare/article/21782758",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:26:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21783731",
-      "title": "מחלת חניכיים עלולה להתקדם בשקט: כך מזהים אותה בזמן",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21783731",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:24:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90901",
-      "title": "אישה בת 40 נהרגה מפגיעת רכב בחולון",
-      "summary": "אישה כבת 40 נהרגה הערב (19:56) בתאונת דרכים ברחוב המלאכה בחולון. הולכת הרגל נפגעה מרכב, וצוותי מד\"א ביצעו פעולות החייאה שבסופן נקבע מותה עם חבלה רב מערכתית.",
-      "link": "https://www.kikar.co.il/scoop-news/90901",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:19:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90900",
-      "title": "גבר בן 57 נפצע באירוע אלימות בג'דיידה-מכר ופונה במצב בינוני",
-      "summary": "גבר בן 57 נפצע הערב (19:45) באירוע אלימות בג'דיידה-מכר. צוותי מד\"א פינו אותו למרכז הרפואי לגליל בנהריה במצב בינוני עם פציעות חודרות.",
-      "link": "https://www.kikar.co.il/scoop-news/90900",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:18:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21783349",
-      "title": "על אופנוע שטח ובחשאיות: כך נכנסו משפחות יהודיות לבתים ביריחו",
-      "summary": "ראש מועצת בנימין ישראל גנץ הגיע לסיור מקדים על אופנוע שטח, כדי שלא יזוהה ויחשוף את ההכנות לכניסת המשפחות לשמונה בתים שנרכשו באזור יריחו • בתנועת נחלה מדגישים כי הבתים נרכשו בכסף מלא, והעסקאות מגובות במסמכי בעלות • עבור גנץ, שצעד ליריחו בגיל 16 במחאה על הסכמי אוסלו, מדובר בסגירת מעגל: \"מפרקים את הסכמי אוסלו במעשים, בית אחר בית\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21783349",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T19:17:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90899",
-      "title": "3 פועלים נפלו מגובה 8 מטרים בנתיבות - אחד במצב קשה",
-      "summary": "שלושה פועלים נפלו הערב (20:25) מגובה של כ-8 מטרים במהלך עבודתם ברחוב יהדות מרוקו בנתיבות. צוותי מד\"א פינו לבית החולים סורוקה צעיר כבן 20 במצב קשה עם חבלות בראש ובגפיים, וגבר כבן 40 במצב בינוני עם חבלת ראש וגפיים. פצוע שלישי פונה אף הוא במצב בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90899",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:17:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90898",
-      "title": "רוכב קורקינט נפצע בינוני בתאונה עצמית בנתניה",
-      "summary": "צעיר בן 21 נפצע באורח בינוני בתאונה עצמית בעת רכיבה על קורקינט חשמלי ברחוב ארלוזרוב בנתניה. צוותי איחוד הצלה העניקו לו טיפול רפואי בזירה, והוא פונה לבית החולים כשמצבו מוגדר בינוני.",
-      "link": "https://www.kikar.co.il/scoop-news/90898",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:16:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90897",
-      "title": "נער בן 13 נפצע בתאונת אופניים בבאקה אל גרבייה",
-      "summary": "נער בן 13 נפצע הערב (20:29) בתאונת דרכים בבאקה אל גרבייה. הנער, שרכב על אופניים, נפגע מרכב ופונה על ידי צוותי מד\"א לבית החולים הלל יפה במצב בינוני עם חבלות בפנים ובגפיים.",
-      "link": "https://www.kikar.co.il/scoop-news/90897",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:16:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90896",
-      "title": "3 פועלים נפצעו בנתיבות לאחר שנפלו מסל מנוף",
-      "summary": "שלושה פועלים כבני 30 נפצעו בתאונת עבודה ברחוב יהדות מרוקו בנתיבות, לאחר שנפלו מסל מנוף מגובה של כ-5 מטרים במהלך עבודתם. צוותי איחוד הצלה העניקו להם טיפול רפואי במקום, והם פונו לבית החולים כשמצבם מוגדר בינוני ובינוני עד קשה.",
-      "link": "https://www.kikar.co.il/scoop-news/90896",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:16:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90895",
-      "title": "טראמפ: המלחמה באיראן תרמה להפסד הרפובליקנים, אך הייתי עושה זאת שוב",
-      "summary": "סגן הנשיא ג'יי די ואנס פרסם ציוץ ארוך בו הוא מונה את 4 הסיבות להפסד של הרפובליקנים בבחירות האמצע, כאשר המלחמה באיראן מופיעה ביניהן. הנשיא טראמפ הסכים לניתוח של ואנס לפיו למלחמה באיראן היה חלק בהפסד הרפובליקנים, אך הדגיש: \"הייתי עושה את זה שוב. אין ברירה. אי אפשר שלאיראן יהיה גרעין\".",
-      "link": "https://www.kikar.co.il/scoop-news/90895",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T19:16:12.000Z"
     }
   ]
 }
