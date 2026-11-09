@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:00:56.277Z",
+  "updatedAt": "2026-11-09T07:15:46.359Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/hormuz-strait-iran-attack-tanker",
+      "title": "להבות בלב הים: התיעוד הדרמטי ממתקפת המחץ האיראנית בהורמוז",
+      "summary": "אחרי הדיווחים מאתמול על פגיעה במכלית, היום נחשפים ממדי האירוע: הספינה עולה באש, גוררות נשלחות לזירה ואנשי הצוות מפונים (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/hormuz-strait-iran-attack-tanker",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T07:07:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1386475",
+      "title": "שקרים בדרך לקרמלין: הסרטונים המזויפים שעלולים לעלות לרוסיה ביוקר",
+      "summary": "מפקדי הצבא דיווחו לפוטין על כיבוש עיירה אוקראינית, אך הכוחות האוקראיניים עדיין החזיקו בה. עשרות סרטונים החשודים כזיופים חושפים את הפער בין ההצהרות הרוסיות למציאות בחזית",
+      "link": "https://www.maariv.co.il/news/world/article-1386475",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T07:07:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1386474",
+      "title": "טראמפ מצביע על האשמה בהפסד: \"יש סלידה עצומה מישראל\"",
+      "summary": "בריאיון ל\"60 דקות\" קשר טראמפ בין ההפסד הרפובליקני לסלידה מישראל ולמלחמה באיראן, אך התעקש כי היה תוקף שוב. הוא טען שישראל לא הייתה קיימת בלעדיו, חשף מה עיכב את ההסכם והבהיר שאינו מתכוון להסלים כעת",
+      "link": "https://www.maariv.co.il/news/world/article-1386474",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T07:04:51.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960638",
+      "title": "אברי גלעד על מצבו הרפואי: \"לקבל את עצמך זה הדבר הכי חשוב\"",
+      "summary": "בריאיון שערך גלעד עם גדעון אוקו ועמיחי אתאלי ב־103fm שיתף בהתמודדות עם מצבו הרפואי וחשיפתו לציבור",
+      "link": "https://www.walla.co.il/news/israel/383960638",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T07:01:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1386451",
+      "title": "אורז אדום מול אורז לבן: מה באמת קורה לסוכר בדם אחרי הארוחה? | ד\"ר מאיה רוזמן",
+      "summary": "האם הוא באמת בריא יותר, והאם הוא מפחית את רמות הסוכר בדם? אורז אדום יכול להיות בחירה תזונתית טובה - אבל חשוב לזכור שעדיין מדובר בפחמימה, ולהפריד בין שתי טענות שונות",
+      "link": "https://www.maariv.co.il/news/health/article-1386451",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T07:00:44.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21809294",
       "title": "ישרת 5 מיליון מטופלים: גוגל וקופת חולים כללית בצעד ראשון מסוגו",
@@ -115,7 +160,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1386467",
       "title": "פגישה דרמטית בבית הלבן: ראש ממשלת קטאר ייפגש היום עם טראמפ",
-      "summary": "טראמפ ייפגש היום בבית הלבן עם ראש ממשלת קטר בניסיון לפרוץ את המבוי הסתום מול איראן. ברקע: שבע הדרישות של טהרן, האזהרה החריפה של רוביו והיעדים החדשים שוושינגטון כבר סימנה לתקיפה",
+      "summary": "טראמפ ייפגש היום בבית הלבן עם ראש ממשלת קטאר בניסיון לפרוץ את המבוי הסתום מול איראן. ברקע: שבע הדרישות של טהרן, האזהרה החריפה של רוביו והיעדים החדשים שוושינגטון כבר סימנה לתקיפה",
       "link": "https://www.maariv.co.il/news/world/article-1386467",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -372,6 +417,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T05:03:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/cinema/383960491",
+      "title": "האודישן המכריע: מי יגלם את הסוכן 007 הבא?",
+      "summary": "דו קרב צמוד מתנהל על אחד התפקידים המפורסמים בקולנוע, כשכוכב השנה רוברט פטינסון והשחקן הבריטי ניקולס הולט הגיעו לאודישנים האחרונים לתפקיד. רק לפני 7 שנים, השניים היו בעימות דומה - ופטינסון יצא כמנצח",
+      "link": "https://www.walla.co.il/entertainment/cinema/383960491",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T05:01:23.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/cinema/383960491",
@@ -27939,168 +27993,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-04T07:18:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21775660",
-      "title": "איזנקוט בדרך למנדט - בנט וליברמן מחכים לכישלון",
-      "summary": "למרות הרוב הצפוי בהמלצות לנשיא, עוד לפני תחילת המשא ומתן, השותפים בגוש השינוי מציבים ליו\"ר ישר! תנאים ומצמצמים את מרחב התמרון שלו • בין המחלוקת על צירוף החרדים, הדרישות של המפלגות הערביות והמאבק על השליטה בכנסת – הדרך רצופה במכשולים רבים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21775660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:13:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21775660",
-      "title": "איזנקוט בדרך למנדט - בלי החלקים הנדרשים להרכבת ממשלה",
-      "summary": "למרות הרוב הצפוי בהמלצות לנשיא, עוד לפני תחילת המשא ומתן, השותפים בגוש השינוי מציבים ליו\"ר ישר! תנאים ומצמצמים את מרחב התמרון שלו • בין המחלוקת על צירוף החרדים, הדרישות של המפלגות הערביות והמאבק על השליטה בכנסת – הדרך רצופה במכשולים רבים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21775660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:13:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/tnyucs",
-      "title": "ח\"כ עמית הלוי התפטר מחברותו בוועדת הבחירות המרכזית; עוצמה יהודית תצביע נגד",
-      "summary": "ח\"כ עמית הלוי מהליכוד הגיש הבוקר מכתב התפטרות חריף מכהונתו כנציג התנועה בוועדת הבחירות המרכזית | במכתבו מאשים הלוי: \"מערכת אכיפת החוק עושה הכל כדי לסכל את החקירה\" | עוצמה יהודית הודיעה כי תצביע נגד אישור תוצאות הבחירות | נשיאות ועדת הבחירות המרכזית הצביעה בעד אישור תוצאות הבחירות (חדשות)",
-      "link": "https://www.kikar.co.il/political-news/tnyucs",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:11:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90740",
-      "title": "לפיד: האירועים האחרונים מחסלים אפשרות לממשלת אחדות עם נתניהו",
-      "summary": "יאיר לפיד, יו\"ר האופוזיציה, הצהיר כי האירועים האחרונים מחסלים כל אפשרות לממשלת אחדות עם בנימין נתניהו.",
-      "link": "https://www.kikar.co.il/scoop-news/90740",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:10:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "title": "סיוט בוושינגטון: הדמויות הקיצוניות שכבשו את ארה\"ב - ומה זה אומר עלינו?",
-      "summary": "מיליוני אמריקנים יצאו לקלפיות בבחירות אמצע הקדנציה, והתוצאות הראשונות כבר מסמנות שינוי משמעותי במאזן הכוחות • מועמדים המזוהים עם השמאל הרדיקלי, שקראו להפסיק את הסיוע הצבאי לישראל, רשמו הישגים משמעותיים (חדות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:10:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "title": "סכנה ברורה: אויבי ישראל כבשו את הקונגרס בסערה",
-      "summary": "מיליוני אמריקנים יצאו לקלפיות בבחירות אמצע הקדנציה, והתוצאות הראשונות כבר מסמנות שינוי משמעותי במאזן הכוחות • מועמדים המזוהים עם השמאל הרדיקלי, שקראו להפסיק את הסיוע הצבאי לישראל, רשמו הישגים משמעותיים (חדות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:10:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "title": "הכה בישראל והיכנס לקונגרס: השמאל הקיצוני כובש את ארה\"ב",
-      "summary": "מיליוני אמריקנים יצאו לקלפיות בבחירות אמצע הקדנציה, והתוצאות הראשונות כבר מסמנות שינוי משמעותי במאזן הכוחות • מועמדים המזוהים עם השמאל הרדיקלי, שקראו להפסיק את הסיוע הצבאי לישראל, רשמו הישגים משמעותיים (חדות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-congress-elections-israel-relations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:10:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21775655",
-      "title": "דיילת שעברה יותר מ-800 טיסות משתפת: למה כדאי להשאיר את תריס החלון פתוח",
-      "summary": "האם במהלך טיסה צריך להשאיר את התריסים בחלונות פתוחים או לסגור אותם? • ליאנה קוי, דיילת אמריקנית, מסבירה מדוע היא מעדיפה שהנוסעים ישאירו את החלונות פתוחים, גם כאשר המטוס כבר נמצא באוויר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21775655",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:09:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1384646",
-      "title": "השוטר הגיע לחניון, תפס את ה\"חשוד\" - והעלה אותו לניידת",
-      "summary": "שוטר בפלורידה הוזעק לחניון בעקבות דיווח על אורח לא רצוי, אבל שום דבר לא הכין את העוברים והשבים למה שקרה בהמשך. מצלמת הגוף תיעדה את התפיסה החריגה, שהסתיימה בנסיעה משותפת בניידת",
-      "link": "https://www.maariv.co.il/news/viral/article-1384646",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T07:09:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21775720",
-      "title": "לא מתמידים: מה קורה לרוב המטופלים בזריקות ההרזיה בשנה הראשונה?",
-      "summary": "מחקר חדש שנערך בשירותי בריאות כללית בקרב יותר מ-34 אלף מבוטחים שהחלו להשתמש בזריקת ההרזיה וויגובי מצא כי 67.6% מהם הפסיקו את הטיפול במהלך השנה הראשונה • הבדיקה מעלה כי הסיכון להפסקת השימוש גבוה במיוחד בקרב מטופלים מהחברה הערבית, בעלי מעמד סוציו-אקונומי נמוך, צעירים ומעשנים, בעוד שנשים ומטופלים ממעמד גבוה התמידו יותר",
-      "link": "https://www.israelhayom.co.il/health/article/21775720",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:09:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21775591",
-      "title": "יעל בר זוהר: \"חצי שנה לא פשוטה\"",
-      "summary": "מגישת הטלוויזיה ואישתו של גיא זו ארץ פתחה מצלמה ותיעדה רגע של שמחה וגאווה וסיום מרגש במיוחד. \"הגיע הרגע של הניצחון\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21775591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:09:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21775591",
-      "title": "\"חצי שנה של טיפולי כימו\": יעל בר זוהר חוגגת",
-      "summary": "מגישת הטלוויזיה ואישתו של גיא זו ארץ פתחה מצלמה ותיעדה רגע של שמחה וגאווה וסיום מרגש במיוחד. \"הגיע הרגע של הניצחון\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21775591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:09:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21775618",
-      "title": "מגיש ערוץ 14 על מתנגדי נתניהו: \"גוש סרטני\"",
-      "summary": "בועז גולן, מגיש התכנית \"האולפן הפתוח\", בחר בשפה נמוכה במיוחד כדי לתאר את גוש השינוי • הפאנליסטים לצידו לא הזדעזעו מהאמירה והתגובות ברשת כבר קוראות לסגירת הערוץ",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21775618",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:07:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21775626",
-      "title": "מול אלפי צופים: שורדי השבי על הבמה עם עומר אדם",
-      "summary": "אחרי חודשים ארוכים בשבי חמאס, השניים זכו לקבלת פנים מיוחדת על הבמה בניו יורק • אדם חיבק אותם ופנה אליהם במילים נרגשות • \"אני רוצה להגיד לכם תודה רבה רבה\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21775626",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:05:01.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874897",
-      "title": "אדלסון מכרה את חלקה, אך משפחתה מסתערת על קבוצת ה-NBA",
-      "summary": "המיליארדרית הישראלית העבירה את מניותיה בקבוצת ה-NBA לבתה סיון ולחתנה פטריק דומונט, שמחזיקים כעת ב-69% מהמועדון. הבעלים החדשים מתכננים לרכוש מניות נוספות ממארק קיובן ולהקים אולם חדש",
-      "link": "https://sports.walla.co.il/item/3874897",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T07:04:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21775595",
-      "title": "הרוקר הענק משנות ה-80 כמעט מת כמה פעמים - וזה רק חלק מהסיפור",
-      "summary": "בדוקו חדש בילי איידול חושף את בעיות הסמים, תאונות האופנוע, הנשים והיחסים המורכבים עם אביו • זהו מסע פרוע ומפתיע אל מאחורי הקלעים של אגדת הרוק",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21775595",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T07:03:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-israel/tnyu6a",
-      "title": "בשורה של ממש: פותחים חשבון ומקבלים עד 1,200 ש\"ח!",
-      "summary": "מי שמייבין, מייבין! פותחים חשבון ומקבלים מענק של עד 1,200 ₪ | מגוון הטבות בבנק הפועלים (כלכלה)",
-      "link": "https://www.kikar.co.il/economy-israel/tnyu6a",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T07:03:35.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874894",
-      "title": "דרמה באמדוקס: המניה התרסקה ב-45%",
-      "summary": "דרמה באמדוקס: המניה התרסקה ב-45%",
-      "link": "https://finance.walla.co.il/item/3874894",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T07:01:00.000Z"
     }
   ]
 }
