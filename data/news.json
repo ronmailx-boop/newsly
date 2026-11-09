@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:45:55.558Z",
+  "updatedAt": "2026-11-09T14:01:12.536Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91309",
+      "title": "רשמית: ניסיון הפיגוע בטיסת פליי דובאי יוכר כאירוע איבה",
+      "summary": "בעקבות אישור רשמי מגורמי החקירה בישראל, משרד הביטחון הודיע רשמית כי ניסיון הפיגוע בטיסת 'פליי דובאי' יוכר באופן רשמי כאירוע איבה. ההחלטה תאפשר לנפגעים ולמשפחותיהם לקבל את מלוא הזכויות והסיוע הממשלתי המגיעים להם על פי חוק.",
+      "link": "https://www.kikar.co.il/scoop-news/91309",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T13:48:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386653",
+      "title": "השב\"כ נכנס לתמונה: האיום האיראני שהגיע עד לתיבות הדואר בתל אביב",
+      "summary": "תושבים בצפון תל אביב מצאו בתיבות הדואר עלונים עם קוד QR שהוביל למסרים מאיימים, קבוצת האקרים איראנית קיבלה אחריות. המשטרה פתחה בחקירה. בנוסף, השב\"כ מעורב בחקירה",
+      "link": "https://www.maariv.co.il/news/law/article-1386653",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T13:46:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386656",
+      "title": "שדדו חנות תכשיטים עם דחפור - והעליון שלח אותם לעוד שנה בכלא",
+      "summary": "השודדים הגיעו עם דחפור, רעלות פנים ושקים לאיסוף השלל, הרסו קיר בחנות התכשיטים וגנבו רכוש בשווי עצום. למרות שהתכשיטים הוחזרו, העליון החליט להחמיר בעונשם ולחייב אותם בפיצויים",
+      "link": "https://www.maariv.co.il/news/law/article-1386656",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T13:45:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/fire-yeshiva-ramot-jerusalem-evacuation",
+      "title": "נס ברמות: בחורים מנעו אסון ענק בשריפה בישיבת קרלין",
+      "summary": "עשן כבד מיתמר ממבנה הישיבה ברחוב רובין • כוחות הכיבוי פינו את התלמידים וסרקו את המבנה | בחסדי שמיים לא נפגעו (חדשות)",
+      "link": "https://www.kikar.co.il/news/fire-yeshiva-ramot-jerusalem-evacuation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T13:37:26.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/news/fire-yeshiva-ramot-jerusalem-evacuation",
       "title": "נס ברמות: בחורים מנעו אסון ענק בשריפה בחיידר קרלין",
@@ -273,6 +309,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T12:55:26.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjt0ink0mg",
+      "title": "איזנקוט וליברמן נועדים בצל המתיחות, בנט עדיין שותק. יונתן שלו: \"לא נתפשר בנושא הגיוס\"",
+      "summary": "יו\"ר ביחד לא הופיע פומבית מאז ליל הבחירות, ובינתיים טוענים הח\"כים המיועדים שלו כי \"שתיקה לא פירושה כהסכמה\". על רקע החשש להפרת הבטחות הבחירות של בנט בנושא הגיוס, קרן טרנר אמרה: \"רוצים להקים ממשלה מעולה, המשרתים צריכים להיות בראש\". במקביל: אחרי עימותים פומביים, איזנקוט נפגש עם ליברמן",
+      "link": "https://www.ynet.co.il/news/article/hjt0ink0mg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-09T12:55:11.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjt0ink0mg",
@@ -27480,159 +27525,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T14:01:15.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874991",
-      "title": "האזהרה שמטלטלת את המשק: המחיר הכלכלי של הדרת הערבים",
-      "summary": "ניתוח מוסד שורש מזהיר: דחיקת המפלגות הערביות מקואליציה פוגעת בצמיחת המשק, דווקא כשהחברה הערבית משקיעה בחינוך ובהשכלה אקדמית: \"זה לא רק עיוורון פוליטי - זה קוצר ראייה כלכלי\"",
-      "link": "https://finance.walla.co.il/item/3874991",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3874991",
-      "title": "\"הדרת הערבים עלולה לעלות למשק הישראלי ביוקר\"",
-      "summary": "ניתוח מוסד שורש מזהיר: דחיקת המפלגות הערביות מקואליציה פוגעת בצמיחת המשק, דווקא כשהחברה הערבית משקיעה בחינוך ובהשכלה אקדמית: \"זה לא רק עיוורון פוליטי - זה קוצר ראייה כלכלי\"",
-      "link": "https://finance.walla.co.il/item/3874991",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T14:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21779607",
-      "title": "\"הוא ליכד אותנו\": הגענו לאזור שמסביר את סנסציית הבחירות",
-      "summary": "יומיים אחרי הבחירות נסענו לסיבוב בוואדי עארה, הלב הפועם של ערביי ישראל, כדי להקשיב לרחשים, להצמיד סטטוסקופ, לפרום מרקמים אנושיים • נראה שערביי הוואדי בשלים להשתלב במדינה היהודית - השאלה היא אם, ועד כמה, המדינה היהודית בשלה לשלב אותם בחזרה",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21779607",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:55:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21779607",
-      "title": "\"בן גביר ליכד אותנו\": המסע בעקבות אחוזי ההצבעה ששינו את המשחק",
-      "summary": "יומיים אחרי הבחירות נסענו לסיבוב בוואדי עארה, הלב הפועם של ערביי ישראל, כדי להקשיב לרחשים, להצמיד סטטוסקופ, לפרום מרקמים אנושיים • נראה שערביי הוואדי בשלים להשתלב במדינה היהודית - השאלה היא אם, ועד כמה, המדינה היהודית בשלה לשלב אותם בחזרה",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21779607",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:55:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
-      "title": "עם פתיחת הכינוס של חב\"ד: שיא חדש של שלוחים בישראל | כל הפרטים",
-      "summary": "נתונים חדשים נחשפו: בארץ הקודש ישנם 984 סניפים פעילים של חב\"ד, 68 משפחות שלוחים חדשים ו־40 סניפי בתי חב\"ד חדשים | הרב אהרונוב: \"עם יותר מ-1,400 משפחות שלוחי הרבי בארץ הקודש, אנחנו מגבירים את פעילות השלוחים להביא לקבלת פני משיח צדקנו\" | הנתונים המלאים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T13:55:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
-      "title": "עם פתיחת כינוס השלוחים העולמי: שיא חדש של שלוחי חב\"ד בישראל",
-      "summary": "נתונים חדשים נחשפו: בארץ הקודש ישנם 984 סניפים פעילים של חב\"ד, 68 משפחות שלוחים חדשים ו־40 סניפי בתי חב\"ד חדשים | הרב אהרונוב: \"עם יותר מ-1,400 משפחות שלוחי הרבי בארץ הקודש, אנחנו מגבירים את פעילות השלוחים להביא לקבלת פני משיח צדקנו\" | הנתונים המלאים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/chabad-shluchim-israel-growth",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T13:55:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384848",
-      "title": "\"כולם צריכים להתיישר בסופו של דבר עם ההחלטה של ראש השירות\": עמית אסא על זיני",
-      "summary": "עמית אסא - לשעבר בכיר בשב\"כ - התראיין ברדיו 103fm והציג את השאלות שצריך לשאול לאור החשד בשוחד בבחירות. על זיני הוא אומר \"כולם צריכים להתיישר בסופו של דבר עם ההחלטה של ראש השירות\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1384848",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T13:53:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1384848",
-      "title": "לאור החשד לשוחד בבחירות - בכיר שב\"כ לשעבר: \"למי היה אינטרס להשפיע\"",
-      "summary": "עמית אסא - לשעבר בכיר בשב\"כ - התראיין ברדיו 103fm והציג את השאלות שצריך לשאול לאור החשד בשוחד בבחירות. על זיני הוא אומר \"כולם צריכים להתיישר בסופו של דבר עם ההחלטה של ראש השירות\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1384848",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T13:53:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21779952",
-      "title": "גשם החזקות: היתרי בנייה ל-75 דירות ב-7 בנייני בוטיק בשדרות",
-      "summary": "החברה השלימה את קבלת ההיתרים לכל המגרשים בפרויקט \"מול השמורה\" בשכונת צמרות • כ-50 מהדירות בפרויקט מיועדות לזכאי תוכנית מחיר מטרה • הדירות לשוק החופשי בנות 5-6 חדרים, עם מרפסות וגינות ענקיות",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21779952",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:53:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21780066",
-      "title": "הקשר שלכם עם הבנק הולך להשתנות | כל הפרטים",
-      "summary": "בנק ישראל פרסם הוראה ראשונה לבנקים - להפוך את ההודעות הדיגיטליות ללקוחות לברירת המחדל • איך הבנק שלכם עומד ליצור איתכם קשר מהיום, ומה תצטרכו לעשות אם אתם עדיין מעדיפים לקבל מעטפה הביתה?",
-      "link": "https://www.israelhayom.co.il/business/article/21780066",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:51:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21780066",
-      "title": "שלא תפספסו: כך הבנק שלכם יתחיל לתקשר אתכם בקרוב",
-      "summary": "בנק ישראל פרסם הוראה ראשונה לבנקים - להפוך את ההודעות הדיגיטליות ללקוחות לברירת המחדל • איך הבנק שלכם עומד ליצור איתכם קשר מהיום, ומה תצטרכו לעשות אם אתם עדיין מעדיפים לקבל מעטפה הביתה?",
-      "link": "https://www.israelhayom.co.il/business/article/21780066",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:51:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1384844",
-      "title": "\"מהנדס הקריסה\": בכירים במפלגה הרפובליקנית מצאו את האשם בתבוסה",
-      "summary": "אחרי שאיבדו את השליטה בשני בתי הקונגרס, הרפובליקנים מפנים אצבע מאשימה לנשיא. טראמפ מתנער מאחריות, אך בכירים במפלגה טוענים שלולא מדיניות המכסים והמלחמה באיראן, התוצאה הייתה אחרת",
-      "link": "https://www.maariv.co.il/news/world/article-1384844",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T13:50:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21780093",
-      "title": "אחרי שבעה חודשים בלבד: לירז צ'רכי נפרדת",
-      "summary": "רק בחודש שעבר נודע כי השחקנית והזמרת פתחה פרק רומנטי חדש אחרי הגירושים מתום אבני • אלא שמאחורי הזוגיות, שנמשכה כחצי שנה, היו גם עליות ומורדות • כעת מגיע עדכון שמשנה את התמונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21780093",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:48:19.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjzg8n006fe",
-      "title": "לראשונה זה שבועות: צה\"ל תקף חשודים שהתקרבו לכוחות בלבנון",
-      "summary": "זיק של צה\"ל תקף שני חשודים על אופנוע בכפר קרביחא שבדרום לבנון, שהיוו איום מיידי על הכוחות. לפחות אחד מהם נהרג: \"איש צוות רפואי מתנועת אמל\". צה\"ל: השניים תצפתו על הכוחות מחות למרחב הביטחוני",
-      "link": "https://www.ynet.co.il/news/article/rjzg8n006fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T13:47:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjzg8n006fe",
-      "title": "לראשונה זה שבועות: צה\"ל תקף מחבלים בלבנון",
-      "summary": "",
-      "link": "https://www.ynet.co.il/news/article/rjzg8n006fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T13:47:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-courts/bribe-checkpoint-ras-biddu-border-police-prison-sentence",
-      "title": "שוחד במחסום בזמן מלחמה: 17 חודשי מאסר למבריחי השב\"חים",
-      "summary": "שוטרי מג\"ב קיבלו אלפי שקלים תמורת אי-ביצוע בדיקות • הוברחו לפחות 100 שוהים בלתי חוקיים | השופט: 'פגיעה במנגנון ההגנה' (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/law-and-courts/bribe-checkpoint-ras-biddu-border-police-prison-sentence",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T13:46:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21780261",
-      "title": "איימן עודה מגיב לבדיקת השב\"כ: \"רדיפה פוליטית\"",
-      "summary": "השב\"כ דורש לחקור את חבר הכנסת מהרשימה המשותפת, במסגרת פרשת החשד להתערבות זרה בבחירות ולקבלת כספים מגורמים חיצוניים • עודה תקף בתגובה את נתניהו ואת הימין: \"החשש מאובדן השלטון גורם להם לירות לכל הכיוונים\" • לדבריו, ככל שיתקרב מועד השבעת הכנסת \"נראה עוד ועוד ספינים ושקרים\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21780261",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:46:08.000Z"
     }
   ]
 }
