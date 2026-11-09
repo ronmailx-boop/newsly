@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T09:30:52.523Z",
+  "updatedAt": "2026-11-09T09:46:04.824Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/to8axf",
+      "title": "ינון מגל נגד דוד שפירא: \"הוא יודע היטב למה הוא לא רוצה שאפגוש את הרב לנדו\"",
+      "summary": "במהלך שיחה בפינתו בתוכנית עם בן כספית ב-103FM, חשף מגל כי כבר כשבוע וחצי הוא אינו מצליח לקבל אישור להיכנס לביתו של מנהיג הציבור הליטאי | לדבריו, הוסבר לו כי יש מי שחושש שהמפגש יתפרש באופן מסוים (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/to8axf",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T09:45:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386552",
+      "title": "\"נושמים מחדש, חיים מחדש\": הקמפיין לסיוע לנפגעי פוסט-טראומה באמצעות יוגה",
+      "summary": "עמותת לב אל לב ישראל מלווה לוחמים ותומכי לחימה, שאובחנו עם פוסט־טראומה בעקבות אירוע מבצעי - וגם את משפחותיהם",
+      "link": "https://www.maariv.co.il/news/military/article-1386552",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T09:40:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/hidden-piyutim-censored-prayers",
+      "title": "הסוד שנמחק מהמחזורים: הפיוטים שהעלו את חמתם של גדולי הדורות",
+      "summary": "מה היה כתוב בחרוזים הנסתרים של רבי אלעזר הקליר, מדוע הורו הפוסקים להשמיטם עקב \"זלזול באבות\", ואיך קשור לכך מחזור כתב היד של הגר\"א? (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/hidden-piyutim-censored-prayers",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T09:38:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386549",
+      "title": "העיתונאי ששוחרר ממעצר שב\"כ: \"הרבה אנשים צריכים לדאוג\"",
+      "summary": "לאחר חמישה ימים במעצר שב\"כ, העיתונאי עבד אבו שחאדה משחזר בריאיון ל-103fm את הרגע שבו דפקו על דלתו, דוחה את הטענות נגד עבודתו העיתונאית ומזהיר מפני מה שעלול לקרות לעיתונאים נוספים",
+      "link": "https://www.maariv.co.il/news/politics/article-1386549",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T09:37:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386545",
+      "title": "מכפילי הכוח החדשים: צה\"ל מרחיב את חטיבות החי\"ר אחרי המלחמה",
+      "summary": "בעקבות מלחמת \"חרבות ברזל\", צה\"ל מרחיב את חטיבות החי\"ר - ומצרף להן גדודי הנדסה וגדודי חשיפה. במקביל, צה\"ל פרסם כי בחטיבות גולני והנח\"ל יוקמו גדודי חי\"ר ייעודיים שיהיו גדודי חשיפה ותקיפה",
+      "link": "https://www.maariv.co.il/news/military/article-1386545",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T09:31:24.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1386543",
       "title": "ביידן חושף את מצבו הבריאותי: \"יש ימים טובים יותר מאחרים\"",
       "summary": "ג'ו ביידן בן ה-83 חושף כיצד המאבק בסרטן משפיע על חייו ועל תוכניותיו לקידום ספר הזיכרונות. למרות הכאבים והקשיים, הנשיא לשעבר מספר כי רופאיו מעודדים מתגובתו לטיפולים",
@@ -41,6 +86,24 @@
       "pubDate": "2026-11-09T09:30:20.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383960651",
+      "title": "המפכ\"ל נגד בן גביר: מבקש למנות קצינים ללא אישור השר",
+      "summary": "דני לוי פנה ליועמ\"שית בבקשה לעקוף את אישור בן גביר למינויים במשטרה. במקביל, הגיב להקלטות בלט שבהן תקף את הפרקליטות: \"יש לנו קשרים מצוינים, כך היה וכך יהיה\"",
+      "link": "https://www.walla.co.il/news/politics/383960651",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T09:30:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21809990",
+      "title": "יעקב בוזגלו קיבל החלטה לעצור: \"לוקח פסק זמן\"",
+      "summary": "כוכב \"הבוזגלוס\" ואביהם של מאור, אסי, אוהד ואלמוג בוזגלו הודיע כי החליט לקחת פסק זמן מהעיסוק בפוליטיקה, אך לא ויתר על ההזדמנות להעביר ביקורת נוקבת על מנהיגי גוש השינוי • \"האגו כנראה גדול יותר מהאחריות הלאומית\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21809990",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:29:20.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/sheikh-giant-hummer-collection",
       "title": "הגזים בהגזמה: האמר המפלצתי של השייח' שהופך מכוניות לצעצועים",
       "summary": "מתנשא לגובה של כמעט שישה מטרים, עולה על כל דמיון ומסתיר בתוכו מותרות שאפילו דמיינתם בקושי. תיעוד מטריף ששבר את הרשת הצצה לרכב של שייח' הקשת בענן (חדשות בעולם)",
@@ -48,6 +111,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T09:27:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21811316",
+      "title": "\"ללא קווים אדומים\": החות'ים מאיימים בשלב חדש בהסלמה נגד סעודיה",
+      "summary": "ארגון הטרור שנתמך על ידי איראן מסמן אתרי תיירות ואתרים פיננסיים כיעדים הבאים של תקיפותיו * אתמול ניזוק המרכז הפיננסי בריאד משיגורי טילים של החות'ים * במקביל, משקיעים בסעודיה מקבלים איומים שעליהם למשוך את כספם",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21811316",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:25:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21811294",
+      "title": "אוהד הוריד לשחקן את המכנסיים - והשופט עצר את המשחק",
+      "summary": "תקרית ביזארית בליגה השנייה באנגליה: אוהד פורטסמות' משך את מכנסיו של שחקן סטוק סיטי שהתכונן להוציא כדור חוץ • השופט עצר את ההתמודדות ופנה לאנשי האבטחה, שהרחיקו את האוהד מהאצטדיון",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21811294",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:21:41.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/to89ue",
@@ -86,6 +167,33 @@
       "pubDate": "2026-11-09T09:18:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21811275",
+      "title": "למ\"ס: עלייה של 15% במכירת דירות חדשות בשוק החופשי בנוף הגליל ברבעון הראשון",
+      "summary": "לפי נתוני הלמ\"ס, ברבעון הראשון של 2026 נמכרו בעיר 60 דירות חדשות בשוק החופשי, לעומת 52 ברבעון המקביל אשתקד ועלייה של 11% לעומת 54 דירות ברבעון האחרון של 2025 • קבוצת בראל מדווחת על מכירת 140 דירות בארבעה חודשים בהיקף של כ-278 מיליון שקל",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21811275",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:18:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21811212",
+      "title": "הפועל חולון צפויה לשחרר את אחד הזרים | פרסום ראשון",
+      "summary": "אחרי עזיבת המאמן והמנהל המקצועי, הסערה נמשכת • המועדון נוטה להיפרד מריבאלדו סוארס, שהושעה בשבוע שעבר בשל עימות עם האוהדים • זר אחר צפוי להיעדר בין חודשיים לשלושה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21811212",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:17:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21810998",
+      "title": "הבקשה החריגה שקיבלה עדן גולן: \"נלחצתי מזה\"",
+      "summary": "אחרי מופע הבכורה המרגש במועדון הבארבי, הזמרת התארחה בתוכנית הבוקר של ניב רסקין בקשת 12 וחשפה את הפנייה המפתיעה שקיבלה ממעריצה שהגיעה במיוחד מאנגליה: \"לא קולטת\"",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21810998",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:17:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1386533",
       "title": "המלך הוא עירום: התגלית שמשנה את ההיסטוריה הבריטית",
       "summary": "מחקר ארכאולוגי חדש בבריטניה מציע כי אחת הדמויות המשפיעות בהיסטוריה של האי הייתה בכלל אישה. הרמזים נמצאו במטבעות עתיקים, בשם השליטה ובתואר שהטעה חוקרים במשך דורות",
@@ -102,6 +210,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T09:16:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21811075",
+      "title": "יו\"ר הכנסת וחוקי הרפורמה: הפגישה הקריטית בין איזנקוט לליברמן",
+      "summary": "יממה אחרי קבלת המנדט ולפני השבעת הכנסת, ראשי ישר! וישראל ביתנו יוועדו • במוקד כיסא היו\"ר וביטול חוקי הרפורמה • מו\"מ קואליציוני עוד אין, ארבע מפלגות הגוש דנות בקווי היסוד ובשאלה איך מבצעים את כל המהלך",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21811075",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T09:15:31.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386534",
@@ -228,6 +345,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T09:01:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/nutritionanddiet/383960645",
+      "title": "מסתבר: זה מה שקורה לגוף כששותים קפה כל בוקר",
+      "summary": "מחקרים חדשים קושרים שתייה מתונה של קפה לסיכון נמוך יותר לסוכרת, למחלות לב ולדמנציה. גם השעה בה שותים אותו, מה שמוסיפים לכוס ואופן ההכנה עשויים לשנות את התמונה. אז כמה קפה אפשר לשתות, ומתי כדאי להפחית?",
+      "link": "https://www.walla.co.il/healthy/nutritionanddiet/383960645",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T09:01:17.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21810931",
@@ -492,6 +618,15 @@
     },
     {
       "id": "walla:https://celebs.walla.co.il/item/3875545",
+      "title": "ההתעללות באריאל: דנה זרמון התפרקה מול אורן חזן",
+      "summary": "על רקע פרשת ההתעללות הקשה בפעוטות במעון באריאל, אושיית הרשת התפרקה בדמעות בשידור חי: \"הן מחבלות לכל דבר\"",
+      "link": "https://celebs.walla.co.il/item/3875545",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T08:20:00.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3875545",
       "title": "דנה זרמון בדמעות: \"מה צריך לקרות? שילד יירצח?\"",
       "summary": "על רקע פרשת ההתעללות הקשה בפעוטות במעון באריאל, אושיית הרשת התפרקה בדמעות בשידור חי: \"הן מחבלות לכל דבר\"",
       "link": "https://celebs.walla.co.il/item/3875545",
@@ -705,6 +840,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T07:53:25.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjumegkcgg",
+      "title": "\"4 שנים הוליכו אותנו באף\": הטורים והמסר - אגודת ישראל בדרך לשת\"פ עם איזנקוט",
+      "summary": "אחרי שיו\"ר ישר! קיבל את המנדט להרכבת ממשלה, פורסם בעיתון \"המודיע\" שמזוהה עם חסידות גור של גולדקנופף מאמר מערכת עם ביקורת גלויה על נתניהו: \"אנחנו נרדפים, בפעם הזו לא ניתן להסתפק רק בהתחייבות כתובה וחתומה\". בביטאון \"המבשר\" שמזוהה עם פרוש אף היו חריפים יותר",
+      "link": "https://www.ynet.co.il/news/article/bjumegkcgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-09T07:50:16.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjumegkcgg",
@@ -1032,6 +1176,15 @@
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3875513",
+      "title": "גזירות המס בדרך: הצעדים שיכניסו 10 מיליארד שקל",
+      "summary": "רשות המיסים מכינה לממשלה הבאה שורת צעדים שצפויים להכניס מיליארדים לקופת המדינה: מס על קרקעות פנויות, גביית מע\"מ בזמן אמת ומס נסיעות חדש. בתוך כך, מנהל הרשות מזהיר מפני בחירות נוספות",
+      "link": "https://finance.walla.co.il/item/3875513",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-09T07:07:00.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875513",
       "title": "גזירות המס בדרך: הצעדים שיכניסו 10 מיליארד שקל לקופת המדינה",
       "summary": "רשות המיסים מכינה לממשלה הבאה שורת צעדים שצפויים להכניס מיליארדים לקופת המדינה: מס על קרקעות פנויות, גביית מע\"מ בזמן אמת ומס נסיעות חדש. בתוך כך, מנהל הרשות מזהיר מפני בחירות נוספות",
       "link": "https://finance.walla.co.il/item/3875513",
@@ -1308,6 +1461,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T05:40:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21809796",
+      "title": "כפי שפורסם ב\"היום\": הקבוצה החדשה של גיא גודס בליגת העל",
+      "summary": "אחרי פיטוריו של שרון אברהמי, הפועל העמק מינתה את המאמן המנוסה • 10 נקודות ב-36 דקות לדני וולף בהפסד 130:93 של ברוקלין לדאלאס",
+      "link": "https://www.israelhayom.co.il/sport/article/21809796",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T05:32:05.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21809796",
@@ -27768,168 +27930,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-04T09:46:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/tnz17m",
-      "title": "דרמה במיסיסיפי: הדמוקרט עקף את הסנאטורית הרפובליקנית – בפער של 43 קולות בלבד",
-      "summary": "מרוץ שנחשב למעוז רפובליקני בטוח הפך לקרב צמוד במיוחד, כאשר סקוט קולום מוביל בפער של עשרות קולות בלבד על סינדי הייד-סמית' לאחר ספירת רוב הקולות | אם ינצח, יהיה זה הסנאטור הדמוקרטי הראשון ממיסיסיפי מזה יותר מארבעה עשורים והסנאטור השחור הראשון מטעם המדינה מאז 1874 (חדשות)",
-      "link": "https://www.kikar.co.il/world-news/tnz17m",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T09:46:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874859",
-      "title": "\"זה לא ייאמן\": הקלף הסודי של הפועל תל אביב",
-      "summary": "ב\"ציון 3\" התלהבו מהאדומים למרות היכולת הלא מרשימה, וסימנו את כוכבי השעה של ברדה: \"עושים דברים של קבוצה שהכול נדבק לה\"",
-      "link": "https://sports.walla.co.il/item/3874859",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T09:45:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874859",
-      "title": "\"הקארמה איתה\": מה עומד מאחורי הניצחונות של הפועל תל אביב?",
-      "summary": "ב\"ציון 3\" התלהבו מהאדומים למרות היכולת הלא מרשימה, וסימנו את כוכבי השעה של ברדה: \"עושים דברים של קבוצה שהכול נדבק לה\"",
-      "link": "https://sports.walla.co.il/item/3874859",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T09:45:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21777439",
-      "title": "החל מחצות: מחיר הדלק יעמוד על 7.85 שקלים לליטר לאחר הפחתת מס הבלו",
-      "summary": "שר האוצר בצלאל סמוטריץ' חתם על צו להפחתת מס הבלו על הבנזין בשיעור של 50 אגורות לליטר במטרה לבלום את התייקרות הדלק הצפויה • בעקבות המהלך יעמוד מחיר ליטר בנזין בשירות עצמי על 7.85 שקלים, כאשר ההוזלה תיכנס לתוקפה בחצות ותעמוד בתוקף עד לסוף החודש",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21777439",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:44:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1384726",
-      "title": "המגפון מול בית אייזנקוט כוון לכולנו - והילדים שלנו משלמים את המחיר | חגית גניש גיל",
-      "summary": "הדברים שהוטחו השבוע בגדי אייזנקוט ובמשפחתו על האחריות, כביכול, לנפילת בנם, גל, חותרים תחת הקיום של כולנו כחברה",
-      "link": "https://www.maariv.co.il/news/opinions/article-1384726",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T09:43:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21777023",
-      "title": "שמתם לב? הסיבה האמיתית שכל השעונים מכוונים ל-10:10",
-      "summary": "אם הסתכלתם היטב בפרסומות של רולקס או אומגה, בטח שמתם לב שיצרניות השעונים המובילות בעולם מכוונות את הפרסומות שלהן בדיוק לאותה הדקה • לא מדובר במקריות, אלא בטריק שיווקי • בדקנו: מה הסיבה מאחוריו? ואיזה מותג ענק החליט \"לשבור את החוקים\"?",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21777023",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:40:28.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3874942",
-      "title": "ראינו את זה באינסטגרם והיינו סקפטיים, עד שלקחנו ביס ראשון",
-      "summary": "מתכון פטנט מבריק, קל ובריא לניוקי גזר בצורת כפתורים, שעטופים בשמן מתובל אסייתי משגע, וההכנה שלהם היא כיף גדול לילדים ולמבוגרים. ארוחה מנחמת ללא גלוטן, שהיא הברקת המאה",
-      "link": "https://food.walla.co.il/item/3874942",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T09:40:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21777113",
-      "title": "אפילו סטטיק בכה: הפאדיחה של רשת 13",
-      "summary": "צופים חדי עין שמו לב שהקהל בגמר \"דה וויס אולסטארס\" לא נראה מאוד אנושי, בלשון המעטה • שורה שלמה שנעלמה ושינויים בצבעי הבגדים הובילו למסקנה בלתי נמנעת - ומביכה במיוחד",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21777113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:39:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/elon-musk-republican-donations-disappointment",
-      "title": "שרף חצי מיליארד דולר? מאסק מאוכזב ועוקץ את הרפובליקנים",
-      "summary": "אחרי שהוציא מאות מיליוני דולרים כדי לסייע למועמדים הרפובליקנים בבחירות בארה\"ב, אילון מאסק הגיב בהומור סרקסטי לתוצאות והעלה לרשת עקיצה על \"לייזרי החלל\" שלו (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/elon-musk-republican-donations-disappointment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T09:38:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21776863",
-      "title": "חברו הקרוב של מיכאל שומאכר מודה בכאב: \"כבר לא שואל מה שלומו\"",
-      "summary": "13 שנים אחרי תאונת הסקי, ומשפחתו של נהג הפורמולה 1 האגדי שומרת על מצבו בסוד מוחלט • העיתונאי פלוריאן קוניג מבהיר: \"הם קיבלו החלטה וזה בסדר גמור, אנחנו צריכים לקבל אותה\"",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21776863",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:38:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21777130",
-      "title": "פוטין, מאחוריך: זה כנראה מנהיג המדינה הכי חזק בעולם",
-      "summary": "נשיא מונגוליה, שאת שמו כנראה לא תצליחו לבטא בחיים, ביקר בבסיס צבאי והראה לחיילים שהוא לא פחות בכושר מהם • הוא גם אוהב אופנועים ומנגן בלהקת רוק • אבל הפרויקט העיקרי שלו לא קשור לאף אחד מהדברים האלה",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21777130",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:38:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21777167",
-      "title": "חשש מירי טילים וכטב\"מים: וילאם וקייט מידלטון מוותרים על ירדן",
-      "summary": "הנסיך והנסיכה מוויילס נהגו לבלות את חופשותיהם בארמון הקיץ הפרטי של מלך ירדן, אבל השנה העדיפו להישאר בבית עם שלושת ילדיהם • לפי דיווחים מעבר לים האיומים הביטחוניים באזור היו בין השיקולים שהשאירו אותם בבריטניה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21777167",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:37:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21776634",
-      "title": "גדלנו עליה: כך נראית היום התינוקת מהשמש של \"טלטאביז\"",
-      "summary": "מיליוני ילדים הכירו את הצחוק שלה, אבל מעטים יודעים מה עלה בגורלה של התינוקת המפורסמת • היום, הרחק מאור הזרקורים, חייה נראים אחרת לגמרי • כך נראים חייה היום",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21776634",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:35:44.000Z"
-    },
-    {
-      "id": "walla:https://tech.walla.co.il/item/3874943",
-      "title": "90,000,000 דולר: העסקה שעשויה לשבור שיא עולמי",
-      "summary": "כמה רחוק תלך ענקית מסחר בשביל כתובת אינטרנט מושלמת? שופיפיי רכשה את Shop.com, ולפי הערכות שילמה עליו סכום דמיוני. כעת נחשפים פרטים חדשים על העסקה שעשויה להפוך ליקרה מסוגה בהיסטוריה",
-      "link": "https://tech.walla.co.il/item/3874943",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T09:34:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1c9bdd6me",
-      "title": "\"אין היגיון\": שוחרר החשוד האחרון בפרשת רע\"מ, השופט מתח ביקורת על המשטרה",
-      "summary": "בית המשפט דחה את בקשת המשטרה להאריך את מעצרו של איברהים אלגריבי והוא ישוחרר לביתו לאחר 8 ימים. השופט מתח ביקורת על המשטרה: היחידה החוקרת לא התקדמה בתיק. לא מצאתי כל היגיון בהשארת החשוד במעצר בית",
-      "link": "https://www.ynet.co.il/news/article/b1c9bdd6me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T09:33:43.000Z"
-    },
-    {
-      "id": "walla:https://travel.walla.co.il/item/3874937",
-      "title": "המורה שנופש במקומות המסוכנים בעולם: \"זה היעד שהסתרתי מאמא\"",
-      "summary": "ביום הוא מלמד אנגלית, ובחופשות הוא טס למדינות שרוב המטיילים נמנעים מהן. הוא שרד הפגנות מדממות, נעצר במטה מודיעין סורי וראה ירי לעבר מסוקים - אבל רק על נסיעה אחת לא העז לספר לאמו",
-      "link": "https://travel.walla.co.il/item/3874937",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T09:33:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21776860",
-      "title": "אל תיפלו בפח: כך אתרי הקניות מנסים לגרום לכם לקנות יותר",
-      "summary": "רגע לפני ימי הקניות של נובמבר, הרשות להגנת הצרכן מזהירה מפני שיטות מתוחכמות שנועדו לגרום לכם למהר לרכוש, להוסיף מוצרים לסל ולשלם יותר ממה שתכננתם • איך מזהים שעוני ספירה לאחור מטעים, תוספות בתשלום שמסתתרות בהזמנה ועלויות שמתגלות רק ברגע האחרון?",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21776860",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:32:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21777008",
-      "title": "אחרי האבחנה השגויה: מאיזו מחלה כריסטינה אפלגייט עשויה באמת לסבול",
-      "summary": "לאחר כמעט שש שנים שבהן התמודדה עם מה שחשבה כטרשת נפוצה, גילתה לאחרונה הכוכבת שהאבחנה לא הייתה נכונה • כעת השחקנית עוברת בדיקות בניסיון לגלות מה באמת גורם לתסמינים שמהם היא סובלת",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21777008",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T09:32:21.000Z"
     }
   ]
 }
