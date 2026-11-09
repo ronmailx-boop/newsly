@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:45:39.543Z",
+  "updatedAt": "2026-11-09T05:01:06.491Z",
   "sources": [
     {
       "key": "ynet",
@@ -96,7 +96,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1386392",
-      "title": "התשובה החריגה של הבכירים החרדים לנתניהו: \"את החוק של איזנקוט בג\"ץ לא יפסול\"",
+      "title": "בליכוד חוששים שנתניהו יאבד את הכול - ומחכים לנס",
       "summary": "נתניהו מנסה למנוע את הקמת ממשלת איזנקוט באמצעות מגעים עם החרדים וניסיונות להחזיר את ליברמן לגוש הימין. בליכוד חוששים שיהדות התורה וש\"ס יצטרפו לממשלה החדשה, ואף עולה האפשרות שח\"כים מהליכוד יערקו אליה",
       "link": "https://www.maariv.co.il/news/politics/article-1386392",
       "source": "מעריב",
@@ -171,6 +171,15 @@
       "title": "11 שנים אחרי חטיפת הדר גולדין: צה\"ל חושף את סודות המנהרה ברפיח",
       "summary": "שנה לאחר השבתו של הדר גולדין ז\"ל, צה\"ל חושף פרטים חדשים על המבצעים החשאיים והמנהרה שבה הוחזק. התוואי התת-קרקעי שנחשף ברפיח הסתיר ממצאים יוצאי דופן",
       "link": "https://www.maariv.co.il/news/israel/article-1386355",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T04:00:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386392",
+      "title": "התשובה החריגה של הבכירים החרדים לנתניהו: \"את החוק של איזנקוט בג\"ץ לא יפסול\"",
+      "summary": "נתניהו מנסה למנוע את הקמת ממשלת איזנקוט באמצעות מגעים עם החרדים וניסיונות להחזיר את ליברמן לגוש הימין. בליכוד חוששים שיהדות התורה וש\"ס יצטרפו לממשלה החדשה, ואף עולה האפשרות שח\"כים מהליכוד יערקו אליה",
+      "link": "https://www.maariv.co.il/news/politics/article-1386392",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T04:00:44.000Z"
@@ -28317,69 +28326,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-04T05:01:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21758896",
-      "title": "בלי מקרר ובלי חשמל: השיטות העתיקות לאחסון מזון",
-      "summary": "הרבה לפני שהמקרר הפך למכשיר חיוני בכל בית, קהילות בניגריה פיתחו ושימרו מסורות של ייבוש, עישון, המלחה ותסיסה • איך השיטות האלה עובדות, אילו מהן אפשר לאמץ במטבח הישראלי ומה חשוב לדעת כדי לא לסכן את הבריאות",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21758896",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T05:01:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3874884",
-      "title": "הקסמים של תיאטרון החלומות: כך התעוררו השדים של אולד טראפורד",
-      "summary": "הקסמים של תיאטרון החלומות: כך התעוררו השדים של אולד טראפורד",
-      "link": "https://sports.walla.co.il/item/3874884",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T04:57:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14947911",
-      "title": "מ\"ממשלת חירום והצלה לאומית\" אפשר להרוויח",
-      "summary": "איזנקוט, בנט, ליברמן, גולן - תגדלו. תבינו: גם אם הוא ראש ממשלה שהיה יותר מכולם, הוא לא אורים ולא תומים, והצהרותיו אינטרסים בשלכת",
-      "link": "https://www.ynet.co.il/news/article/yokra14947911",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-04T04:52:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21775014",
-      "title": "מגוגל ועד ChatGPT: כך SO Digital מקדמת עסקים במנועי החיפוש ו- AI",
-      "summary": "מנועי בינה מלאכותית כמו ChatGPT, Gemini ו-Perplexity משנים את האופן שבו אנשים מחפשים מידע, בוחנים מוצרים ומקבלים המלצות על עסקים. במקום להסתפק ברשימת אתרים, המשתמשים יכולים לקבל תשובות מפורטות הכוללות הסברים, שמות של חברות וקישורים למקורות מידע",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21775014",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T04:49:33.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383959776",
-      "title": "ברנדון או דילן? כוכבי 90210 עושים סוף לוויכוח",
-      "summary": "מעריצי סדרת הנוער האייקונית נותרו עם ויכוח אחד, במי הייתה צריכה קלי לבחור. מתברר שיש תשובה - וחלקכם לא תאהבו אותה",
-      "link": "https://www.walla.co.il/entertainment/tv/383959776",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T04:49:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21775020",
-      "title": "BAZAAR Gallery גלריית בזאר – אירועים אינטימיים בלב יפו, עם מלון צמוד",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21775020",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T04:48:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/democrats-blue-wave-congress-trump-defeat",
-      "title": "גל כחול סוחף בארה\"ב: הדמוקרטים השתלטו על בית הנבחרים והסנאט - ומנחילים מפלה קשה לטראמפ",
-      "summary": "בחירות האמצע בארצות-הברית מנחילות מכה קשה לנשיא טראמפ | הדמוקרטים הבטיחו רוב בבית הנבחרים - שם הם עשויים לזכות בפער ענק, ורשמו שורה של ניצחונות היסטוריים בסנאט - שם הם גם צפויים לרוב | טראמפ הכיר בתוצאות וטען: \"לא הייתי על הפתק, אם הייתי - היינו מנצחים\" | כל הפרטים (חדשות, בעולם)",
-      "link": "https://www.kikar.co.il/world-news/democrats-blue-wave-congress-trump-defeat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T04:46:50.000Z"
     }
   ]
 }
