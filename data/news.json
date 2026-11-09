@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:31:03.289Z",
+  "updatedAt": "2026-11-09T13:45:55.558Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/fire-yeshiva-ramot-jerusalem-evacuation",
+      "title": "נס ברמות: בחורים מנעו אסון ענק בשריפה בחיידר קרלין",
+      "summary": "עשן כבד מיתמר ממבנה הישיבה ברחוב רובין • כוחות הכיבוי פינו את התלמידים וסרקו את המבנה | בחסדי שמיים לא נפגעו (חדשות)",
+      "link": "https://www.kikar.co.il/news/fire-yeshiva-ramot-jerusalem-evacuation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T13:37:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91307",
+      "title": "מטרים ממוצבי האו\"ם: אמצעי לחימה של חיזבאללה ואמל נחשפו בדרום לבנון",
+      "summary": "דובר צה\"ל מתיר לפרסום כי כוחות אוגדה 91 וחטיבת כפיר, הפועלים בדרום לבנון, איתרו בימים האחרונים מצבורי אמצעי לחימה עצומים ותשתיות טרור הממוקמים בלב אוכלוסייה אזרחית ובסמוך ממש למוצבי יוניפי\"ל. מחסני נשק לצד סיוע הומניטרי במיס אל-ג'בל במהלך פעילות קרקעית ממוקדת בכפר מיס אל-ג'בל, איתרו לוחמי אוגדה 91 שני מצבורי אמצעי לחימה מרכזיים – האחד בתוך בית אזרחי והשני במחסן. להפתעת הכוחות, המחסנים המושחתים מוקמו במרחק של כ-100 ו-200 מטרים בלבד ממוצב של כוח האו\"ם.",
+      "link": "https://www.kikar.co.il/scoop-news/91307",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T13:34:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386648",
+      "title": "בגיל 18 עזבה את צרפת לבדה - והפתיעה את כולם בישראל",
+      "summary": "שנה קינר הגיעה לישראל לבדה לפני שנה, בלי משפחתה, והתמודדה עם קשיי שפה והכשרה אינטנסיבית בדרך לשירות בכבאות. בטקס הסיום חיכתה לה הפתעה מרגשת במיוחד, שלא הייתה חלק מהתוכנית",
+      "link": "https://www.maariv.co.il/news/israel/article-1386648",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-09T13:30:54.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/to8jk5",
       "title": "הרב האזורי השיא את בתו, הרבנים עלו לברך | גלריה",
       "summary": "ראש המכון למצוות התלויות בארץ ומרבני אלעד הרה\"ג ר' שניאור זלמן רווח השיא את ביתו | גדולי ישראל, ראשי ישיבות, דיינים ואישי ציבור הגיעו לאחל מזל טוב | בסידור קידושין כובד הראשל\"צ הגאון רבי שלמה משה עמאר (חרדים)",
@@ -48,6 +75,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T13:26:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21813258",
+      "title": "הזעם בעזה גובר: כך חמאס מרוויח ממצוקת העקורים בעונת החורף",
+      "summary": "תושבים ברצועה מאשימים את ארגון הטרור בהפקעת מחירי האוהלים, השתלטות על ציוד חורף ומניעת חלוקת סיוע באופן עצמאי • פעיל רשת פלסטיני דורש שקיפות בחלוקת האוהלים: \"משפחות נזקקות דופקות על דלתות ולא מוצאות אפילו אוהל אחד\" • בחמאס, מנגד, מפנים את האחריות לישראל ולקהילה הבינלאומית",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21813258",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T13:22:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21813407",
+      "title": "ינון מגל יוצא להגנת אייל ברקוביץ': \"חבורה של צבועים\"",
+      "summary": "סערת השעייתו של כדורגלן העבר מרשת 13 הגיעה גם לאולפן 103FM • ינון מגל התנגד להחלטה ותקף את מבקריו של ברקוביץ': \"ברור שלא צריך להשעות אותו\" • בן כספית הבהיר: \"זו הייתה גזענות נטו\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21813407",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T13:22:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21813275",
+      "title": "לא, לא, לא! הפירות והירקות התמימים - שרעילים לכלבים",
+      "summary": "חושבים שלפנק אותם בחתיכת פרי מהסלט זה בריא? תחשבו שוב • מענב בודד שעלול לגרום לקריסת מערכות ועד הרעלן שמסתתר בקליפת האבוקדו: מומחים מזהירים מהמאכלים שחובה להעיף מטווח הראייה שלהם",
+      "link": "https://www.israelhayom.co.il/tech/animals/article/21813275",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T13:21:30.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/to8k1z",
@@ -69,12 +123,39 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/police-warning-iranian-qr-flyers-tel-aviv",
+      "title": "חקירת שב\"כ: עלוני איום איראניים עם קודי QR בת\"א",
+      "summary": "תושבים בצפון תל אביב מצאו עלונים מאיימים בתיבות הדואר • קבוצת האקרים איראנית לקחה אחריות ואיימה על תשתיות | המשטרה פתחה בחקירה (חדשות)",
+      "link": "https://www.kikar.co.il/news/police-warning-iranian-qr-flyers-tel-aviv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-09T13:18:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/police-warning-iranian-qr-flyers-tel-aviv",
       "title": "אזהרת משטרה: עלוני איום איראניים עם קודי QR בת\"א",
       "summary": "תושבים בצפון תל אביב מצאו עלונים מאיימים בתיבות הדואר • קבוצת האקרים איראנית לקחה אחריות ואיימה על תשתיות | המשטרה פתחה בחקירה (חדשות)",
       "link": "https://www.kikar.co.il/news/police-warning-iranian-qr-flyers-tel-aviv",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T13:18:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21813243",
+      "title": "הכוכבת שכמעט הגיעה ל\"אהבה חדשה\" - ומצאה מיליונר רגע לפני",
+      "summary": "יוצרת התוכן ואשת ההייטק ניקול עומרי הייתה בדרך לעונה הקרובה של \"אהבה חדשה\" ברשת 13 ואף עברה תהליך מיונים שנמשך כחודש • אלא שאז נכנס לחייה מישהו שגרם לה לוותר על הריאליטי • מי הוא, ואיפה בדיוק הכירו השניים",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21813243",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T13:17:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21813272",
+      "title": "שלי סרבריאניקוב חותמת פרק: \"קשה לעזוב\"",
+      "summary": "כוכבת \"האח הגדול\" ובת זוגו של עומר ציפורי הודיעה על החלטה שקיבלה בנוגע למראה שלה. \"מרגישה הרבה יותר נקייה\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21813272",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T13:16:30.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21813335",
@@ -27552,87 +27633,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-04T13:46:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21780154",
-      "title": "לאחר חודשים: מחבל חיזבאללה חוסל בדרום לבנון",
-      "summary": "אדם אחד נהרג ואחר נפצע במה שתואר בכלי ת קשורת בלבנון כתקיפת רחפן סמוך לעיירה כבריקהלא רחוק מגבול ישראל • מדובר בתקיפה ראשונה מסוגה מזה לפחות חודשיים",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21780154",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:45:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21779880",
-      "title": "\"נתתי להפועל תל אביב את הגוף והנשמה, יכולתי להיות יותר עשיר\"",
-      "summary": "אריה בז'רנו, השוער האגדי של האדומים, נזכר ומודה: \"בתקופתי, לא ממש קיבלנו כסף לעומת היום\" • הוא מספר על הטלפון שקיבל מאריק איינשטיין אחרי הניצחון בדרבי • על משה סיני: \"עזרתי להחזיר אותו ממכבי יפו\" • ועל התוכי שנשאר איתו מאז האליפות ב-1981 ועד היום: \"כל הזמן קורא 'אריה בוא'\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21779880",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:43:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960083",
-      "title": "איימן עודה הוא הח\"כ שנבדק אם קיבל מאות אלפי שקלים מגורם זר",
-      "summary": "יו\"ר חד\"ש נבדק בחשד לקבלת מאות אלפי שקלים במזומן מגורם זר, ברקע חקירת החשדות להתערבות זרה בבחירות. עודה דחה את החשדות וטען: \"מדובר ברדיפה פוליטית שתהפוך לבלון נפוח שיתפוצץ להם בפרצוף\"",
-      "link": "https://www.walla.co.il/news/politics/383960083",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-04T13:42:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21779411",
-      "title": "התקשרו מבחירות 1949, הן רוצות את הפוליטיקה שלהן בחזרה",
-      "summary": "קווי הדמיון בין בחירות 1949 ובחירות 2026 כה רבים, עד שהמסקנה היא שבעתיד הרחוק הן תיספרנה באותה באותה שורה: \"במאה שנותיה הראשונות ישראל נלחמה על קיומה ועסקה במאמצים לקביעת צביונה ודרכה האידיאולוגיים והחברתיים\" • זהו • אף מילה על בנט, על התרגיל המסריח ועל ערוץ 14",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21779411",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:40:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/90825",
-      "title": "שוטרת שלא בתפקיד עצרה חשוד בפריצה לרכב בחולון",
-      "summary": "שוטרת שלא במסגרת תפקידה זיהתה לפנות בוקר ברחוב סוקולוב בחולון אדם שהלך באופן חשוד והשליך כרטיסים לרצפה. בבדיקה התברר כי מדובר במספר כרטיסי אשראי, מה שעורר חשד שהם גנובים. השוטרת יצאה במרדף רגלי אחר החשוד ועיכבה אותו במקום. כוחות שיטור מתחנת חולון שהוזעקו עצרו את החשוד, בשנות ה-30 לחייו. החשד הוא שפרץ לרכב בחולון וגנב ממנו את כרטיסי האשראי. החשוד הועבר לחקירה ומעצרו הוארך.",
-      "link": "https://www.kikar.co.il/scoop-news/90825",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T13:40:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1384836",
-      "title": "הילדים נשלחו לאסוף ראיות מהזירה: מעצרים בסכסוך הדמים ברהט",
-      "summary": "בעקבות סכסוך בין משפחות יריבות ברהט, המשטרה עצרה ארבעה חשודים ותפסה שלושה רובי M16, שני אקדחים ותחמושת. מצלמות האבטחה חשפו כיצד ילדים נשלחו לאסוף תרמילים מזירות הירי, לכאורה כדי לשבש את החקירה",
-      "link": "https://www.maariv.co.il/news/law/article-1384836",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-04T13:36:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21779932",
-      "title": "מארגנטינה לישראל: הסדרה החדשה של נועה קירל מגיעה לישראל!",
-      "summary": "הסדרה החדשה ״הדרך של נועה״ מגיעה לישראל, ואנחנו פגשנו את כוכבי הסדרה באירוע ההשקה החגיגי לשיחה על האתגרים מאחורי הקלעים, ההתרגשות והדרך להפקה בינלאומית",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21779932",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:34:27.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/nachala-jericho-settlement-houses-purchase",
-      "title": "במבצע חשאי: שמונה משפחות יהודיות נכנסו לבתים שנרכשו בעיר יריחו | תיעוד",
-      "summary": "תנועת נחלה רכשה 8 בתים על אדמות מדינה ביריחו במבצע חשאי • משפחות יהודיות נכנסו היום לבתיהן בליווי מועצת בנימין | \"מפרקים את הסכמי אוסלו במעשים\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/nachala-jericho-settlement-houses-purchase",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-04T13:33:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21779998",
-      "title": "צפו בתיעוד: \"הסנדק של העולם התחתון\" נעצר בלב תל אביב",
-      "summary": "העבריין הוותיק, איתן חייא בן ה-73, ששוחרר רק לפני חודשים לאחר כ־12 שנות מאסר, נעצר בתל אביב בחשד למעורבות באירוע אלימות על רקע סכסוך בין עבריינים • בתיעוד מהמעצר נראים כמה שוטרים מקיפים את רכבו ומסתערים לעברו • המשטרה צפויה לבקש להאריך את מעצרו",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21779998",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-04T13:32:48.000Z"
     }
   ]
 }
