@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:01:09.833Z",
+  "updatedAt": "2026-11-10T07:15:47.967Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1386852",
+      "title": "ה-AI הפך לחבר של בני הנוער: הנתונים המדאיגים שנחשפים בסקר חדש",
+      "summary": "סקר של המשרד לביטחון לאומי חושף כי 90% מבני הנוער משתמשים בבינה מלאכותית, 39% נעזרים בה להתייעצות אישית ו-60% אינם בודקים את אמינות התשובות. 69% נחשפו לתכנים מטרידים שנוצרו באמצעות AI",
+      "link": "https://www.maariv.co.il/news/law/article-1386852",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-10T07:09:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/to9xwd",
+      "title": "האברכים מבית שמש הגישו את דו\"ח סדר יומם לאדמו\"ר הנערץ",
+      "summary": "האדמו''ר מפינסק קרלין ערך אמש (שני) סעודת ראש חודש בעיר בית שמש, במיוחד לקבוצת אברכים שמוסרים מדי חודש בחודשו דו\"ח מלא מסדר יומם | צפו בגלריה (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/to9xwd",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T07:07:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21818595",
+      "title": "השדכן של \"ווארט\" מחפש אהבה: \"לא לימדו אותנו בישיבה\"",
+      "summary": "כוכב \"ווארט\" שוחח עם יוצרת התוכן עמית חן על האפשרות למצוא אהבה מחדש • היא ניסתה לדחוף אותו לעשות את הצעד הראשון, והוא הסביר מדוע זה לא פשוט עבורו",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21818595",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:58:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21818429",
+      "title": "ארה\"ב רוצה לסיים את המלחמה באוקראינה: שיחות משולשות נפתחות באבו דאבי",
+      "summary": "בממשל טראמפ מבקשים להגיע ל\"סיום סופי\" של המלחמה בין רוסיה לאוקראינה, במסגרת מגעים שיכללו גם דיון במבנה ביטחוני חדש בין רוסיה לאירופה • במקביל, בוושינגטון דנים באפשרות להעניק לקייב ערבויות ביטחוניות בדומה לסעיף 5 של נאט\"ו • באירופה חוששים כי המחיר יהיה ויתורים משמעותיים למוסקבה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21818429",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:56:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21818433",
+      "title": "ערב ההנפקה: המודל החדש של קלוד עושה הכל לבד - מאפס",
+      "summary": "חברת אנתרופיק השיקה את Claude Fable 5.2 ו-Mythos 5.2, המסוגלים לתאם צבאות של יותר מ-1,000 סוכנים • כדי להוכיח זאת, המודל בנה מאפס מערכת הפעלה שלמה הפועלת על מחשב נייד, פתר בעיות בפיזיקה ותכנן לוחות אלקטרוניים • הכירו את קפיצת המדרגה ההיסטורית ביכולות האוטונומיות של הבינה המלאכותית",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21818433",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:53:48.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/to9xd2",
       "title": "שטריימיל ללא שפיצים; תיעוד ענק מיריית פתיחת ימי השמחה בבאבוב",
       "summary": "אלפי חסידי באבוב נטלו חלק אמש (שני) בשמחת נישואי נכדת האדמו\"ר מבאבוב, בת לבנו בכורו הרה\"צ רבי חיים שלום הלברשטאם, חתן אב\"ד סאטמר בורו פארק, עב\"ג החתן בן הרה\"ג רבי אשר אנשיל מנחם זלטנרייך | צפו בתיעוד מיוחד מחבישת השטריימיל לפי תקנת האדמו\"ר (ללא שפיצים) בערב שבת, ומשמחת הפארשפיל במוצאי שבת (חסידים)",
@@ -39,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T06:52:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21818524",
+      "title": "אחרי הפיצוץ עם ינון מגל: עמיחי אתאלי שובר שתיקה",
+      "summary": "אחרי שינון מגל הודיע בשידור כי הודח מהתוכנית, העיתונאי עמיחי אתאלי מציג גרסה אחרת: \"גיליתי על כך בשידור\" • הוא מודה כי התבטא בצורה לא ראויה בעימות עם יותם זמרי, אך טוען שבכירי ערוץ 14 ביקשו ממנו לקחת פסק זמן ולא לפרוש • וגם: המתקפה החריפה על חבריו לשעבר לפאנל",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21818524",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:51:32.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/consumer-news/to9wzq",
@@ -50,6 +104,24 @@
       "pubDate": "2026-11-10T06:48:49.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383960774",
+      "title": "בעקבות איום איראני: ארה\"ב פינתה מטוסים מבסיס צבאי בבריטניה",
+      "summary": "לפי דיווח ב\"וול סטריט ג'ורנל\", מטוסי תדלוק אמריקניים הועברו מבסיס מילדנהול לגרמניה וליעדים נוספים, ורמת הכוננות בשני בסיסים הועלתה",
+      "link": "https://www.walla.co.il/news/world/383960774",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T06:48:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1386848",
+      "title": "בן 14 נהרג מאש צה\"ל ליד שכם - שני נערים נוספים נפצעו",
+      "summary": "כוח כפיר ירה לעבר רעולי פנים שיידו אבנים סמוך לכביש 60 ליד בורקא. לפי דיווח פלסטיני, נער בן 14 נהרג, ושני נערים נוספים נפצעו. צה\"ל הסתפק בציוץ",
+      "link": "https://www.maariv.co.il/news/military/article-1386848",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-10T06:47:29.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1386848",
       "title": "צה\"ל הרג בן 14 שיידה אבנים ליד שכם - שני נערים נוספים נפצעו",
       "summary": "כוח כפיר ירה לעבר רעולי פנים שיידו אבנים סמוך לכביש 60 ליד בורקא. לפי דיווח פלסטיני, נער בן 14 נהרג, ושני נערים נוספים נפצעו. צה\"ל הסתפק בציוץ",
@@ -59,6 +131,24 @@
       "pubDate": "2026-11-10T06:47:29.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21818380",
+      "title": "ברוס ויליס \"חי בעולם משלו\": העדות המדאיגה",
+      "summary": "שלוש שנים אחרי חשיפת אבחנת הדמנציה, מקור ששוחח עם \"דיילי מייל\" מתאר מציאות שונה מזו שמעריצי השחקן הכירו",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21818380",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:44:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21818521",
+      "title": "יצא נגד דימיטריס איטודיס? העקיצה הבוטה של יו\"ר הפועל תל אביב",
+      "summary": "סתיו שחם פרסם פוסט לאחר ההפסד למכבי תל אביב בגמר גביע ווינר, ובו מסר שנראה כמכוון למאמן הקבוצה, שהציע להקים קבוצות משניות לליגות המקומיות • \"זו לא קבוצה B, זו לא ליגת פיתוח! הגיע הזמן לזכות באליפות\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21818521",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:44:26.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/to9wax",
       "title": "לקראת הריסת הבניין הישן; בסקווירא נפרדו מ\"חדר פישל\" המיתולוגי",
       "summary": "פרק היסטורי בחסידות סקווירא: רגע לפני הריסת ביהמ\"ד הישן לקראת הקמת היכלי הטישים והתורה המפוארים, התקיים מעמד קביעת מזוזה מרגש בהשתתפות בני האדמו\"ר והנגיד שתרם את ההיכל הזמני והקבוע | צפו בגלריה (חסידים)",
@@ -66,6 +156,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T06:40:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21818427",
+      "title": "באישון לילה: תועד שורף עם מצית דגל ישראל | צפו",
+      "summary": "החשוד, תושב העיר בשנות ה-40 לחייו, תועד מצית דגל ישראל שהוצב סמוך לבית עסק ביום שישי האחרון • לאחר חקירה ואיתורו, מי שהבחין בו ועצר אותו היה שוטר סיור מתחנת מסובים, שבאותה עת כלל לא היה במשמרת",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21818427",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:35:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21818431",
+      "title": "\"חשש לעיוורון פתאומי\": האזהרה החדשה על זריקות ההרזיה",
+      "summary": "רשויות הבריאות בארה\"ב דורשות להוסיף אזהרה לעלונים של אוזמפיק, וויגובי וזפבאונד בעקבות חשש לעלייה בסיכון למחלת עיניים נדירה שעלולה לגרום לאובדן הראייה • היצרניות: הנתונים הקיימים אינם מוכיחים קשר של סיבה ותוצאה בין התרופות למחלת העיניים",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21818431",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:35:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386843",
+      "title": "יועצו לשעבר של נתניהו חושף את הפאניקה: \"אותו מסר מיאיר ומשרה\"",
+      "summary": "יועצו לשעבר של נתניהו טען כי ראש הממשלה מצוי בפאניקה מחשש לאובדן השלטון. לדבריו, איזנקוט הוא יריב שנתניהו מתקשה להתמודד מולו, והקריאה לממשלת אחדות נועדה לבלום את התקדמותו",
+      "link": "https://www.maariv.co.il/news/politics/article-1386843",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-10T06:34:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1386843",
@@ -88,7 +205,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21818468",
       "title": "אלפא רומיאו טונאלה מתעדכן ומגיע אלינו",
-      "summary": "",
+      "summary": "מתיחת הפנים לרכב הפנאי האיטלקי מגיעה לישראל עם חזית מעודכנת, שינויים בתא הנוסעים ומנוע בהספק 175 כ''ס",
       "link": "https://www.israelhayom.co.il/auto/article/21818468",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -129,6 +246,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-10T06:19:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21818483",
+      "title": "מטרו פריסבי מוסיפה להיצע את כלי השטח של לונסין",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/auto/article/21818483",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T06:16:31.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91363",
@@ -1392,6 +1518,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21817020",
+      "title": "נוסע נעצר לאחר שהתקין מצלמה נסתרת בשירותי המטוס",
+      "summary": "נוסע בריטי בן 52 הסתיר את המכשיר בתא השירותים והפעיל אותו מרחוק דרך הטלפון • כשחזר לאסוף אותו, המצלמה כבר נעלמה • עכשיו הוא צפוי לעמוד לדין בסינגפור, ועלול לשבת שנים בכלא",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21817020",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T20:01:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21817020",
       "title": "מחריד: אדם נעצר לאחר שהתקין מצלמה נסתרת בשירותים במטוס",
       "summary": "נוסע בריטי בן 52 הסתיר את המכשיר בתא השירותים והפעיל אותו מרחוק דרך הטלפון • כשחזר לאסוף אותו, המצלמה כבר נעלמה • עכשיו הוא צפוי לעמוד לדין בסינגפור, ועלול לשבת שנים בכלא",
       "link": "https://www.israelhayom.co.il/travel/aviation/article/21817020",
@@ -1479,6 +1614,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-09T19:46:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21816997",
+      "title": "שולי ביקש מצופית לעצור: \"עזבי אותי\"",
+      "summary": "הזמר והיוצר שולי רנד תועד על ידי אישתו מגישת הטלוויזיה צופית גרנט ברגע זוגי לרגל חמש שנות נישואיהם. ממה הוא לא היה מרוצה וביקש להפסיק?",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21816997",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T19:45:28.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21816997",
@@ -27255,42 +27399,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-05T07:18:14.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960174",
-      "title": "מטען חבלה ברכב - ודקירות שני אחים: 4 חשודים נעצרו באור עקיבא",
-      "summary": "מטען חבלה ברכב - ודקירות שני אחים: 4 חשודים נעצרו באור עקיבא",
-      "link": "https://www.walla.co.il/news/law/383960174",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T07:14:06.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960174",
-      "title": "מטען חבלה ודקירות באור עקיבא: ארבעה חשודים נעצרו",
-      "summary": "מטען חבלה ודקירות באור עקיבא: ארבעה חשודים נעצרו",
-      "link": "https://www.walla.co.il/news/law/383960174",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T07:14:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/health-news/to0p7a",
-      "title": "״לא נורא, קח סוכריה״ - כך מייצרים תלות במזון ואכילה רגשית",
-      "summary": "אתם עושים את הכי טוב בשביל הילדים שלכם משתדלים שיאכלו טוב, ישנו מספיק, יהיו פעילים ויפתחו הרגלים בריאים. ועדיין, המצפון עובד שעות נוספות… האם אנחנו בכיוון הנכון? (בריאות)",
-      "link": "https://www.kikar.co.il/health-news/to0p7a",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-05T07:13:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1385097",
-      "title": "המומחה לארה\"ב מזהיר את ליברמן: \"תהיה פה חקיקה על סטרואידים\"",
-      "summary": "ד\"ר קובי ברדה, מומחה להיסטוריה פוליטית של ארה\"ב, מנתח את תבוסת הרפובליקנים בבחירות האמצע ומזהיר את ישראל ובפרט את ההתיישבות. לטענתו, אם ישראל לא תשנה גישה במהירות - הסנקציות יתרחבו באופן חסר תקדים",
-      "link": "https://www.maariv.co.il/news/politics/article-1385097",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-05T07:09:44.000Z"
     }
   ]
 }
