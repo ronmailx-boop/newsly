@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:45:47.081Z",
+  "updatedAt": "2026-11-10T06:00:58.260Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/iraq-us-war-plan-iran-invasion-platform",
+      "title": "תוכנית מלחמה אמריקאית נחשפת: עיראק כפלטפורמה לפלישה לאיראן",
+      "summary": "ראש ממשלת עיראק הציג תרחישי עימות מדאיגים בפגישה סגורה • תוכנית אמריקאית כוללת פלישה קרקעית לדרום איראן דרך שטח עיראק | החשש בבגדד: המדינה תהפך לשדה קרב (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iraq-us-war-plan-iran-invasion-platform",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T05:59:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21818292",
+      "title": "השליך רימון על בית בבית שאן - ונפל למארב של המשטרה",
+      "summary": "תושב העיר בן 30, חשוד כי השליך רימון רסס בחצר בית בשעת לילה ונמלט מהמקום כשהוא רכוב על קורקינט חשמלי • בלשי המשטרה איתרו את הקורקינט, המתינו לו במארב ועצרו אותו כשחזר לאסוף אותו",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21818292",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T05:55:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/welfare/article/21818047",
+      "title": "דוח מטלטל חושף: 88 אימהות נרצחו - ו-241 ילדים נותרו יתומים",
+      "summary": "נתוני פורום מיכל סלה מצביעים על היקף האלימות בתוך המשפחה בין השנים 2020 ל-2026 • בשנת 2025 נרשם שיא של 51 קטינים שאיבדו את אמם, יותר מפי שניים לעומת השנה הקודמת • בחמשת השבועות האחרונים היו ארבעה קטינים עדים לדקירת אמותיהם למוות, בהם תינוק בן חודשיים • מייסדת הפורום, לילי בן עמי: \"עד מתי הילדות והילדים החיים בצל רצח במשפחה ימשיכו להיות שקופים?\"",
+      "link": "https://www.israelhayom.co.il/news/welfare/article/21818047",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T05:55:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21818331",
+      "title": "פריצת דרך במחלה של סלין דיון: חולים חזרו ללכת ולעבוד",
+      "summary": "חוקרים בארה\"ב מדווחים על תוצאות \"מרגשות\" בניסוי בטיפול CAR-T, ששימש עד כה נגד סרטן, עבור חולים בתסמונת האדם הנוקשה (SPS) • התסמונת הנדירה, שבה לוקה גם הזמרת, פוגעת במערכת העצבים וגורמת לנוקשות ולעוויתות שרירים קשות • חולים שהשתתפו בניסוי ושנעזרו בעבר בסיוע יומיומי חזרו לעבוד ולתחביביהם, כשאחת המטופלות חזרה ללכת על הליכון",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21818331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T05:51:46.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383960766",
+      "title": "נער בן 14 נהרג מירי צה\"ל באזור שכם, צה\"ל: ירינו לעבר חשודים",
+      "summary": "מדובר צה\"ל נמסר כי במהלך פעילות מבצעית בכפר בורקא זיהו הכוחות כמה חשודים שהתכוונו ליידות אבנים ופתחו לעברם באש. שניים נוספים נפצעו, נערים בני 16 ו-17",
+      "link": "https://www.walla.co.il/news/military/383960766",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T05:48:47.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/beit-shean-grenade-scooter-police-ambush",
       "title": "שכח את הקורקינט וחזר לקחת: זורק הרימון נתפס במארב",
       "summary": "חשוד זרק רימון רסס לחצר בית בבית שאן והסתיר קורקינט בפארק • בלשים הציבו מארב והמתינו שעות | נעצר כשחזר לאסוף את כלי התחבורה (משטרה)",
@@ -39,6 +84,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T05:43:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21818275",
+      "title": "אחרי שפירקה את פורטלנד ודני אבדיה: סן אנטוניו שוב הביסה",
+      "summary": "הספרס המשיכו להרשים כשניצחו בכל הרבעים בדרך ל-96:122 מול פיניקס, ויקטור וומבניאמה קלע 40 נקודות • גולדן סטייט גברה על ניו אורלינס ב-51 הפרש",
+      "link": "https://www.israelhayom.co.il/sport/article/21818275",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T05:42:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21818265",
+      "title": "שווארמה ביורו אחד: המבצע שיצא משליטה והסתיים במהומות",
+      "summary": "כוחות משטרה גדולים, בהם כ-100 שוטרים ומסוק, הוזעקו ביום ראשון לעיר דורטמונד לאחר שמאות לקוחות הסתערו על חנות \"דונר קבב\" שהציעה מנה ביורו אחד בלבד • ההמון, שהכריע את המאבטחים הפרטיים, תקף את השוטרים בבקבוקים, באבנים, בזיקוקים, בכיסא ואף בקורקינט חשמלי • מפקד המשטרה המקומית גינה את האלימות וכינה את התוקפים \"פושעים\" • מספר חשודים נעצרו, על אחד מהם נתפס אקדח סרק, ובעל החנות הודיע שיתרום את המנות שנותרו לחסרי בית",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21818265",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T05:32:17.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skhwellcmx",
@@ -27399,42 +27462,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T06:01:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21784797",
-      "title": "דיווח: ישראל חרגה במיליארדים מתקציב הסיוע האמריקני - מי ישלים את הפער?",
-      "summary": "מסמך של מחלקת המדינה שנחשף ב\"וול סטריט ג'ורנל\" מציג חריגה של כ-10 מיליאד דולר בהזמנת ציוד צבאי ביחס לסכום שהוקצה לישראל במסגרת הסיוע האמריקני • מדובר בסכומים שכבר שימשו להזמנות עתידיות - והם מעלים בספק את היכולת של ארה\"ב להפסיק עוד השנה את הסיוע לישראל",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21784797",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:56:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21784918",
-      "title": "ליפמוטור B05 בישראל במחיר של 139,900 שקלים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/auto/article/21784918",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:54:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/auto/article/21784923",
-      "title": "BYD זכתה בתואר מותג השנה בתחום הרכב",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/auto/article/21784923",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:51:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1385071",
-      "title": "מהתהום של 95' לשבר של היום: רק מנהיגות מחברת ואחראית תציל אותנו מהתרסקות | משה דוידוביץ",
-      "summary": "ביום השנה לרצח רבין, הקיטוב בחברה הישראלית והחשש מהסלמה בצפון מחייבים חשבון נפש • מנהיגות מפלגת מחלישה את החוסן הלאומי, ורק מנהיגות מחברת תוכל להבטיח את ביטחון התושבים ולמנוע פינוי נוסף",
-      "link": "https://www.maariv.co.il/news/opinions/article-1385071",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-05T05:47:19.000Z"
     }
   ]
 }
