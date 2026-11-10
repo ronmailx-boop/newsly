@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T18:01:12.647Z",
+  "updatedAt": "2026-11-10T18:15:50.007Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/toasff",
+      "title": "אייזנקוט טוען: קבענו מו\"מ עם הליכוד - הוחלט לבטלו בגלל הנאום | והכינוי החדש של נתניהו",
+      "summary": "מפלגת ישר פרסמה הערב הודעה לתקשורת בה נטען כי ישיבת משא ומתן עם הליכוד שנקבעה למחר בוטלה בעקבות נאומו של נתניהו | בהודעה כינתה המפלגה את נתניהו בכינויי חדש (חדשות)",
+      "link": "https://www.kikar.co.il/news/toasff",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T18:05:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21825018",
+      "title": "חנן בן ארי: \"אני בוחר לסיים בשיא\"",
+      "summary": "המוזיקאי האדיר הצליח להדאיג את המעריצים עם הודעה שפרסם בחשבון האינסטגרם שלו • אל חשש, הוא לא מפסיק להופיע - אבל קוטע שיתוף פעולה בן ארבע שנים",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21825018",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:57:45.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/iranian-merchant-netanyahu-lookalike-viral",
       "title": "הכפיל של נתניהו באיראן: הסוחר עם הדמיון המדהים לראש הממשלה הסתבך",
       "summary": "סוחר פירות יבשים בטהראן הפך לשיחה ברשתות החברתיות • גולשים איראנים הבחינו בדמיון יוצא דופן לראש הממשלה | דיווחים על קריאות להחרמת החנות (בעולם)",
@@ -41,13 +59,31 @@
       "pubDate": "2026-11-10T17:56:38.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/law/383960897",
+      "title": "חשד להתערבות זרה בבחירות: המשטרה מתקשה לבסס עבירות ביטחוניות",
+      "summary": "המשטרה העבירה לפרקליטות חוות דעת בפרשת החשד להתערבות זרה בבחירות. בשלב זה מסתמן קושי לבסס עבירות ביטחוניות, והבדיקה מתמקדת בחשד לעבירות בתחום מימון המפלגות. הממצאים יועברו לעיון היועמ\"שית",
+      "link": "https://www.walla.co.il/news/law/383960897",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T17:54:21.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/ry0voalaze",
       "title": "איזנקוט קבע למחר פגישת מו\"מ עם הליכוד - וביטל: \"על רקע נאום הפילוג של רה\"מ\"",
-      "summary": "פגישת המשא ומתן בין צוותי ישר! והליכוד, שנקבעה למחר בעקבות פניית איזנקוט לכל סיעות הבית, בוטלה אחרי נאום נתניהו במליאה. כך חשפה ישר!, שם האשימו את נתניהו בפילוג ובחוסר רצון להגיע לאחדות: \"בבחירה בין גודל השעה וחוסנה של החברה הישראלית ובין שרידותו הפוליטית - יבחר תמיד נתניהו בעצמו\"",
+      "summary": "פגישת המו\"מ בין צוותי ישר! והליכוד, שנקבעה למחר בעקבות פניית איזנקוט לכל סיעות הבית, בוטלה אחרי נאום נתניהו במליאה. כך חשפה ישר!, שם האשימו את נתניהו בפילוג ובחוסר רצון להגיע לאחדות: \"בבחירה בין גודל השעה וחוסנה של החברה הישראלית ובין שרידותו הפוליטית - יבחר תמיד נתניהו בעצמו\"",
       "link": "https://www.ynet.co.il/news/article/ry0voalaze",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-10T17:52:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21824793",
+      "title": "נפלה מהסוס במהלך מרוץ: הרוכבת המבטיחה מתה בגיל 22",
+      "summary": "איזי ניל הלכה לעולמה בנסיבות טרגיות אחרי שנפצעה אנושות בתאונה במסלול באוסטרליה • כ-400 מטרים לפני קו הסיום היא נפלה מגבו של הסוס, יחד עם רוכב נוסף שהיה מעורב בתקרית • היא נחשבה לאחת הספורטאיות הכישרוניות בתחום",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21824793",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:48:01.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/abbas-netanyahu-sinwar-understanding-hamas-funding",
@@ -57,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T17:47:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21825096",
+      "title": "איזנקוט הודיע: בשל נאום נתניהו - בוטלה הפגישה עם צוות המו\"מ של הליכוד",
+      "summary": "הפגישה בין צוותי המשא ומתן נקבעה למחר בעקבות פניית ישר! לכל סיעות הכנסת לדון בהקמת ממשלה על בסיס ארבעת העקרונות שהציב איזנקוט • לאחר נאום ראש הממשלה בטקס השבעת הכנסת, תקפו במפלגה: \"נתניהו לא רוצה אחדות\" • בישר! הבהירו כי ימשיכו לפעול לקידום האחדות והסולידריות בחברה הישראלית",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21825096",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:45:28.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjc1zcx0ml",
@@ -75,6 +120,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-10T17:42:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21824954",
+      "title": "לפני שתתלהבו מ-85% הנחה: כמה באמת עלה המוצר לפני מבצעי נובמבר?",
+      "summary": "מוצר לניקוי מנגל חשמלי הוצע בכ-400 שקל באתר ישראלי, ובאליאקספרס הוא נמצא בכ-50 שקל • בין שעונים שסופרים לאחור להודעות על \"יחידות אחרונות\", מומחי צרכנות מסבירים איך להשוות מחירים ומה להביא בחשבון כשמוסיפים משלוח ומיסים",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21824954",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:42:27.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/by2vanlrgl",
@@ -104,6 +158,15 @@
       "pubDate": "2026-11-10T17:40:13.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21758940",
+      "title": "יותר בשר, פחות טסטוסטרון: הקשר המפתיע שנחשף",
+      "summary": "יותר בשר לא בהכרח אומר יותר טסטוסטרון • מחקר חדש מפינלנד שנערך בקרב אלפי גברים בגילאי 42 עד 60 מצא קשר בין צריכת חלבון מן החי לרמות נמוכות יותר של ההורמון • ומה התגלה אצל מי שאכלו יותר חלבון צמחי?",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21758940",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:39:04.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1387127",
       "title": "\"מול אתגרי השעה, גם הפעם הציונות היא הפתרון\": הקרן למנהיגות ציונית קיימה את הכנס השנתי",
       "summary": "במרכז הכנס התקיים טקס הענקת אות המנהיגות הציונית לשנת תשפ\"ז לשגריר ארצות הברית בישראל, מייק האקבי, ולשגריר ישראל בארצות הברית, יחיאל לייטר",
@@ -120,6 +183,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T17:33:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21824429",
+      "title": "\"שלושת ילדיי נרצחו\": הטרגדיה של לילך - שבחרה בחיים",
+      "summary": "לפני 16 שנים הגרוש של לילך שם טוב רצח את ילדיהם ביום הולדתה ה-38 • בימים אלה היא מוציאה את ספרה הרביעי ומבקשת ללמד נשים איך נראית אלימות סמויה: \"הייתי שבויה בתוך כלוב מזהב\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21824429",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:32:13.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h16f11aerfx",
@@ -156,6 +228,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T17:23:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21824754",
+      "title": "13 המנדטים החרדיים בהמתנה - הפלונטר בדרך להרכבת הממשלה",
+      "summary": "דגל התורה מגששת מול גוש השינוי, ובש\"ס המליצו על נתניהו • איזנקוט זקוק לשתי המפלגות החרדיות כדי להגיע ל-61, אבל תנאי הסף שלו הוא חובת שירות - והן דורשות פטור מלא לתלמידי הישיבות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21824754",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T17:18:59.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21824754",
@@ -421,7 +502,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21812462",
       "title": "\"אמל\"ק: אמא שלי מתה\"",
-      "summary": "אודי שרעבני הוא כדורגלן בדימוס, סופר ומשורר בהווה, וכעת, גם יתום • \"שושנה שושנה שושנה\", ספר השירה החדש שלו, הוא פואמה שאפתנית, כואבת וצפופה, \"הצעה לקינה\".",
+      "summary": "אודי שרבני הוא כדורגלן בדימוס, סופר ומשורר בהווה, וכעת, גם יתום • \"שושנה שושנה שושנה\", ספר השירה החדש שלו, הוא פואמה שאפתנית, כואבת וצפופה, \"הצעה לקינה\".",
       "link": "https://www.israelhayom.co.il/culture/books/article/21812462",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1020,6 +1101,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-10T14:31:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21823040",
+      "title": "רגע לפני השבעת הכנסת: הפגישה הלילית בין נתניהו ליו\"ר יהדות התורה יעקב אשר",
+      "summary": "הפגישה בין רה\"מ לראש המפלגה החרדית נערכת בלשכת ראש הממשלה • מוקדם יותר היום פרסמה ש\"ס הודעה בה נכתב כי בהוראת מועצת חכמי התורה הסיעה ממשיכה לתמוך רק בנתניהו • ההבהרה מגיעה \"בעקבות ראיונות והתבטאויות שונות הנשמעות לאחרונה\", כך נכתב • בגוש השינוי ממשיכים במגעים מול יהדות התורה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21823040",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T14:30:36.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21823040",
@@ -26976,51 +27066,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T18:19:19.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875176",
-      "title": "מהלך אחד המחיש יותר מכל: דני אבדיה הפך לקילר ב-NBA",
-      "summary": "בארה\"ב ממשיכים לפרגן לישראלי אחרי ההצגה מול פיניקס - כולל הרגע בו הבין שדווין בוקר לא יעצור אותו: \"אני הולך לדרוס אותו\"",
-      "link": "https://sports.walla.co.il/item/3875176",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T18:14:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21791407",
-      "title": "אחרי בחירות האמצע: הבכירה הפרו-ישראלית התפטרה",
-      "summary": "הרמיט דילון, ראש מחלקת זכויות האזרח במשרד המשפטים האמריקני שהייתה מהדמויות המרכזיות במאבק באנטישמיות סיימה את תפקידה • בתקופתה קודמו תביעות והסדרים עם אוניברסיטאות • בוועידת ״ישראל היום״ התחייבה להילחם בשנאה כלפי היהודים בכל מקום",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21791407",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T18:12:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjdyqfq6fx",
-      "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
-      "summary": "גורמים בישראל מזהירים מפני הניסיון לפענח את כוונותיו של נשיא ארה\"ב לאחר המפלה בבחירות האמצע, אך צה\"ל נערך בכל זאת למלחמה. בעוד שהפוסט החריף של ואנס הוא תמרור אזהרה לירושלים, בכיר ישראלי אמר: \"טראמפ יכול להתעלם מהם ולתקוף גם כדי להראות שהוא חזק ושלא אכפת לו מתוצאות הבחירות\"",
-      "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-05T18:11:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21791161",
-      "title": "הנוף באילת השתנה השבוע - זו הסיבה",
-      "summary": "המבקרים בטיילת בעקבה הופתעו לגלות כי תורן הענק בגובה 132 מטרים נותר מיותם, באקט סמלי נדיר • צפו",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21791161",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T18:08:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21791091",
-      "title": "רשתות האופנה הישראליות מציגות: כך תוכלו למדוד בגדים ונעליים מהבית",
-      "summary": "טכנולוגיית AI ישראלית חדשה מאפשרת להעלות תמונה אישית, לראות כיצד פריטי לבוש ונעליים נראים על הגוף ולקבל המלצות למידות • אבל האם ההמחשה הווירטואלית באמת מדויקת?",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21791091",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T18:06:09.000Z"
     }
   ]
 }
