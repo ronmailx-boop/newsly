@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:15:53.499Z",
+  "updatedAt": "2026-11-10T20:31:12.505Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1387164",
+      "title": "סקר: 62% שוללים קואליציה עם מפלגות ערביות",
+      "summary": "62% מהמשיבים היהודים מתנגדים לקואליציה עם מפלגות ערביות • החשש הביטחוני ואופייה היהודי של המדינה במוקד ההתנגדות",
+      "link": "https://www.maariv.co.il/news/politics/article-1387164",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-10T20:30:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/kleinerman-missing-idf-police-visit-bureaucracy",
+      "title": "המשטרה הצבאית הגיעה לעצור את מוישי קליינרמן שנעדר כבר יותר מ-4 שנים",
+      "summary": "ארבע שנים אחרי שנעלם, המערכת שלחה קצינים לעצור את הנער • הביטוח הלאומי המשיך לשלוח דרישות חוב על שמו | הפרשה הביורוקרטית הכואבת (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/kleinerman-missing-idf-police-visit-bureaucracy",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T20:28:27.000Z"
+    },
+    {
+      "id": "walla:https://celebs.walla.co.il/item/3875772",
+      "title": "אביה של מייגן מרקל חתך את האזיק האלקטרוני - ונעצר שוב",
+      "summary": "תומאס מרקל, אביה של מייגן מרקל, נעצר שוב לאחר שהפר את תנאי שחרורו. בית המשפט הורה לערוך לו בדיקה פסיכיאטרית בשל ספקות לגבי כשירותו לעמוד לדין",
+      "link": "https://celebs.walla.co.il/item/3875772",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T20:09:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21825297",
+      "title": "לפקוח עין על נתניהו: הסיבה לכך שליברמן ביקש את ועדת חוץ וביטחון",
+      "summary": "ל\"היום\" נודע כי יו\"ר ישראל ביתנו ביקש את ראשות ועדת החוץ והביטחון הזמנית גם כדי לפקח על החלטותיו הביטחוניות של ראש הממשלה • ליברמן מבקש להשפיע גם על חוק הגיוס, וטוען כי אפשר להגיע להסכמות עם החרדים על חוק ש\"עובר את בג\"ץ - וגם את הרב לנדו\" • במקביל, התנגדותו להקמת ממשלה בתמיכת המפלגות הערביות ממשיכה לעורר ביקורת בגוש השינוי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21825297",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T20:05:52.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/shnior-zalman-naiman-released-hospital-crown-heigh",
       "title": "בחור הישיבה שהורדם והונשם בשל פציעה קשה - שוחרר מבית החולים",
       "summary": "כחודש וחצי אחרי הפציעה הקשה בקראון הייטס, בחור הישיבה מרחובות הגיע ל-770 להודות על הניסים, ובקרוב יחזור ארצה | המשפחה: \"אין מילים להודות\" (חסידים)",
@@ -39,6 +75,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T20:05:32.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383960913",
+      "title": "בחשד לריגול למען רוסיה: חייל אמריקני נעצר בבריטניה",
+      "summary": "איש צבא אמריקני בן 41 נעצר בחשד שהעביר מידע מסווג וסייע לשירות מודיעין זר. הרשויות הבריטיות אישרו כי החקירה קשורה לרוסיה, וכי היא מתנהלת בשיתוף ה-FBI והצבא האמריקני. זהותו של החשוד טרם פורסמה",
+      "link": "https://www.walla.co.il/news/world/383960913",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T20:03:41.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21824391",
