@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:45:55.976Z",
+  "updatedAt": "2026-11-10T11:50:16.539Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386990",
+      "title": "יאיר גולן במסר לשותפיו בגוש: \"אל תפסלו את המפלגות הערביות\"",
+      "summary": "בישיבת סיעת הדמוקרטים, לקראת השבעת הכנסת ה-26, קרא יאיר גולן להקים ממשלה במהירות. הוא תקף את נתניהו ושותפיו והזהיר כי כל יום נוסף בשלטונם גורם נזק למדינה: \"יש לנו מדינה להציל\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1386990",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-10T11:49:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjxe1ygcfe",
+      "title": "נתניהו מבקש שנביט באירופה - בוא נביט על ישראל",
+      "summary": "המעבר מפסילת שותפים פוליטיים להפחדה מפני להבות בערי ישראל מטיל חשד בציבור שלם. כך פועל מנגנון הפירוד שבקריאת נתניהו לאחדות: תחילה מציירים חלק מהאזרחים כאיום, ואז מבקשים מכל היתר להתאחד נגדו",
+      "link": "https://www.ynet.co.il/news/article/bjxe1ygcfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-10T11:47:10.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-horin-finance-committee-conflict-of-interest",
+      "title": "זו ההבטחה לממשלה תקינה? ניגוד העניינים של מי שמונתה ליו\"ר ועדת הכספים",
+      "summary": "לירן אבישר בן חורין מונתה ליו\"ר ועדת הכספים • בעלה מחזיק במשרד אסטרטגיה עם לקוחות בבנקאות ושוק ההון | השאלה: איך תטפל בנושאים הנוגעים ללקוחותיו? (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ben-horin-finance-committee-conflict-of-interest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T11:45:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-underground-missile-cities",
+      "title": "1,700 טילים לכיוון ישראל: איראן חושפת עיר טילים חדשה",
+      "summary": "בטהרן הציגו מתקן תת־קרקעי חדש בנוכחות בכירי הצבא ומשמרות המהפכה, ובו טילים בליסטיים, טילי שיוט ומשגרי טילים | החשיפה מגיעה לאחר הצהרות על העברת מערכי הייצור אל מתחת לפני הקרקע (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-underground-missile-cities",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T11:45:13.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/toab5b",
       "title": "2,500 טילים לכיוון ישראל: איראן חושפת עיר טילים חדשה",
       "summary": "בטהרן הציגו מתקן תת־קרקעי חדש בנוכחות בכירי הצבא ומשמרות המהפכה, ובו טילים בליסטיים, טילי שיוט ומשגרי טילים. החשיפה מגיעה לאחר הצהרות על העברת מערכי הייצור אל מתחת לפני הקרקע (חדשות בעולם)",
@@ -48,6 +84,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T11:39:20.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/health-news/383960828",
+      "title": "אובדן ראייה פתאומי: ה־FDA מוסיף אזהרה לזריקות ההרזיה",
+      "summary": "בסקירה של 126 ניסויים זיהה ה־FDA מספר קטן של מקרים של פגיעה בעצב הראייה, בשיעור גבוה יותר בקרב מקבלי התרופות. מה ידוע על הסיכון, ומה טוענים המטופלים שתבעו את היצרניות?",
+      "link": "https://www.walla.co.il/healthy/health-news/383960828",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-10T11:32:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/human-catapult-world-record",
@@ -26913,60 +26958,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T11:50:41.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875113",
-      "title": "הבורסה מתרסקת: מיליארדים נמחקו מאז הבחירות, והנפילות נמשכות",
-      "summary": "המסחר בתל אביב התנהל בירידות חדות, והמסכים שוב נצבעו באדום. מדד ת\"א 35 איבד 3.5%, ת\"א 125 יורד ב-3.13% ות\"א 90 נחלש ב-2%. במקביל הדולר מזנק ב-0.5% נוספים",
-      "link": "https://finance.walla.co.il/item/3875113",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T11:50:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875113",
-      "title": "ת\"א בצניחה חופשית - הדולר מתחזק",
-      "summary": "המסחר בתל אביב ממשיך להתנהל בירידות חדות, והמסכים שוב נצבעים באדום. מדד ת\"א 35 מאבד 2.9%, ת\"א 125 יורד ב-2.77% ות\"א 90 נחלש ב-2.34%. מדד הבנקים סופג מכה קשה עוד יותר, עם ירידה של כ-3.4%",
-      "link": "https://finance.walla.co.il/item/3875113",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T11:50:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875113",
-      "title": "מיליארדים נמחקו מאז הבחירות - והנפילות רק נמשכות",
-      "summary": "המסחר בתל אביב ממשיך להתנהל בירידות חדות, והמסכים שוב נצבעים באדום. מדד ת\"א 35 מאבד 2.9%, ת\"א 125 יורד ב-2.77% ות\"א 90 נחלש ב-2.34%. מדד הבנקים סופג מכה קשה עוד יותר, עם ירידה של כ-3.4%",
-      "link": "https://finance.walla.co.il/item/3875113",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T11:50:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21777123",
-      "title": "מבעד לציוץ הציפורים, אגי משעול מנסה לא לשמוע את קולות המלחמה",
-      "summary": "טילים מאיראן? מטוסי קרב? גם המלחמה הארוכה ביותר בתולדות מדינת ישראל לא מניעה את שירתה של אגי משעול מחיי הכפר ומראות הטבע",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21777123",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T11:47:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21777123",
-      "title": "מבעד לציוץ הציפורים, אגי משעול אינה שומעת את קולות המלחמה",
-      "summary": "טילים מאיראן? מטוסי קרב? גם המלחמה הארוכה ביותר בתולדות מדינת ישראל לא מניעה את שירתה של אגי משעול מחיי הכפר ומראות הטבע",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21777123",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T11:47:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21787956",
-      "title": "עמנואל הורי לא באה לשחק: החיים שמאחורי הדמות שמסעירה את \"הישרדות\"",
-      "summary": "היא פספסה את הוליווד כי לא התחשק לה, הפכה את הניתוחים הפלסטיים לסיפור בפני עצמו, הסתבכה בסערות ציבוריות ומנהלת חשבונות משפחתיים שלא נסגרו • עכשיו, על האי, עמנואל הורי שוב מוכיחה שהדרמה האמיתית התחילה הרבה לפני שהמצלמות נדלקו",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21787956",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T11:47:04.000Z"
     }
   ]
 }
