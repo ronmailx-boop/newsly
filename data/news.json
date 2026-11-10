@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:00:55.199Z",
+  "updatedAt": "2026-11-10T05:15:51.225Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/long-island-antisemitic-threats-mother-daughter-arrest",
+      "title": "אימה בניו יורק: אם ובתה נרדפו בחנות בצעקות 'הייל היטלר'",
+      "summary": "גבר ביצע תנועות של אקדח והשמיע קולות ירי • צעק 'להרוג את כל היהודים' ו'שחררו את פלסטין' | בית המשפט שחרר את החשוד ללא ערבות (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/long-island-antisemitic-threats-mother-daughter-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T05:06:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-rejects-trump-talks-seven-conditions",
+      "title": "איראן נגד טראמפ: \"הפסיקו להמציא שיחות דמיוניות\" | בטהרן מציבים 7 תנאים למניעת הסלמה אזורית",
+      "summary": "מזכיר המועצה העליונה לביטחון לאומי של איראן מכחיש משא ומתן עם ארה\"ב • דרישה לשבעה תנאים כולל פיצויים והסרת סנקציות | המתיחות עולה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-rejects-trump-talks-seven-conditions",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T05:00:54.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/israel-gaza-cement-iron-dual-use-us-pressure",
       "title": "מהלך חריג בלחץ ארה\"ב: ישראל נערכת להכנסת מלט וברזל לעזה",
       "summary": "מערכת הביטחון נערכת להכנסת מלט, ברזל וצינורות לרצועה • הלחץ האמריקני גבר בעקבות הצפות במחנות העקורים | צעד חריג למרות שחמאס לא התפרק (חדשות בארץ)",
@@ -41,6 +59,15 @@
       "pubDate": "2026-11-10T04:50:01.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21818156",
+      "title": "הצל הפסיד לדרוקר: \"זרוע תעמולתית\" של בן גביר",
+      "summary": "בית המשפט דחה את תביעת הדיבה שהגיש יואב אליאסי נגד רביב דרוקר, קבע כי שימש זרוע תעמולתית חיצונית של השר וחייב אותו ב-25 אלף שקל. הצל תוקף את ההכרעה: \"וכן, הפסדתי!\", ומודיע שבכוונתו לערער",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21818156",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T04:43:05.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/weather-today-clear-tomorrow-rain",
       "title": "התחזית להיום: נאה ועלייה מתונה בחום - מחר ייתכן גשם קל",
       "summary": "מזג אוויר נאה צפוי היום בכל הארץ • עלייה קלה בטמפרטורות שישובו להיות קרובות לממוצע העונתי | התחזית המלאה (בארץ)",
@@ -48,6 +75,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T04:39:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21813315",
+      "title": "הקרב חוזר גם למטבח: הסדרה הישראלית המהוללת חוזרת",
+      "summary": "גל תורן וגורי אלפי חוזרים לעונה השלישית של \"הטבח\", עם מסעדה חדשה ושותפות שעומדת שוב למבחן • \"ווארט\" פותחת עונת שידוכים חדשה, \"תוכניתו של השטן\" מחזירה את משחקי האסטרטגיה בנטפליקס, תחקיר מצמרר על שיפור המראה החיצוני ועוד תכנים שעולים היום (שלישי) בטלוויזיה בישראל",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21813315",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T04:37:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21818135",
@@ -312,6 +348,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
+      "title": "טראמפ על איראן: \"המלחמה מבחינה צבאית - הסתיימה\"",
+      "summary": "נשיא ארה\"ב הבהיר כי המצור על טהרן יימשך, לצד המגעים לסיום העימות • לדבריו, נושאת מטוסים שלישית בדרכה למזרח התיכון • לאחר שיחה עם ראש ממשלת קטאר הדגיש כי מדינות המפרץ תומכות בהמשך הלחץ הצבאי • \"לעולם לא יהיה להם נשק גרעיני, זה לא נתון למשא ומתן\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-09T23:13:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
       "title": "טראמפ על איראן: \"אם נצטרך לשוב לפעולה, אנחנו טעונים ומוכנים לצאת לדרך\"",
       "summary": "נשיא ארה\"ב הבהיר כי המצור על טהרן יימשך, לצד המגעים לסיום העימות • לדבריו, נושאת מטוסים שלישית בדרכה למזרח התיכון • לאחר שיחה עם ראש ממשלת קטאר הדגיש כי מדינות המפרץ תומכות בהמשך הלחץ הצבאי • \"לעולם לא יהיה להם נשק גרעיני, זה לא נתון למשא ומתן\"",
       "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
@@ -464,19 +509,19 @@
       "pubDate": "2026-11-09T22:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14953499",
-      "title": "זמן לשתף פעולה",
-      "summary": "העובדה שאימי זכתה בדין בתואר ״הכוהנת הגדולה של הימין״, לאחר שעקפה מימין את מפקדיה במחתרת מנחם בגין ויצחק שמיר, לא הפריעה לה לקיים חברות אישית ופרלמנטרית עם לובה אליאב, אהרן ידלין, עדנה סולודר, שולמית אלוני ואורה נמיר",
-      "link": "https://www.ynet.co.il/news/article/yokra14953499",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14953594",
+      "title": "המערכה שישראל זנחה",
+      "summary": "הבידוד המדיני של ישראל לא נעצר עם הפסקת האש. הוא ממשיך. וכאן חשוב להבין את השנייה: הוא לא נובע מהמשבר עם ארה\"ב. זה תהליך מקביל עם מנוע וקצב משלו. גם אם מחר ישוקמו יחסינו עם הדמוקרטים, אירופה כבר במקום אחר. שני התהליכים לא מחליפים זה את זה. הם מכפילים זה את זה",
+      "link": "https://www.ynet.co.il/news/article/yokra14953594",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T22:03:00.000Z"
     },
     {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14953594",
-      "title": "המערכה שישראל זנחה",
-      "summary": "הבידוד המדיני של ישראל לא נעצר עם הפסקת האש. הוא ממשיך. וכאן חשוב להבין את השנייה: הוא לא נובע מהמשבר עם ארה\"ב. זה תהליך מקביל עם מנוע וקצב משלו. גם אם מחר ישוקמו יחסינו עם הדמוקרטים, אירופה כבר במקום אחר. שני התהליכים לא מחליפים זה את זה. הם מכפילים זה את זה",
-      "link": "https://www.ynet.co.il/news/article/yokra14953594",
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14953499",
+      "title": "זמן לשתף פעולה",
+      "summary": "העובדה שאימי זכתה בדין בתואר ״הכוהנת הגדולה של הימין״, לאחר שעקפה מימין את מפקדיה במחתרת מנחם בגין ויצחק שמיר, לא הפריעה לה לקיים חברות אישית ופרלמנטרית עם לובה אליאב, אהרן ידלין, עדנה סולודר, שולמית אלוני ואורה נמיר",
+      "link": "https://www.ynet.co.il/news/article/yokra14953499",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T22:03:00.000Z"
@@ -27399,60 +27444,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-05T05:18:38.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1385048",
-      "title": "בן 85, עם קפוצ'ון ומתנה מפתיעה: בוב דילן פגש את האפיפיור",
-      "summary": "בגיל 85, בוב דילן הגיע לוותיקן למפגש יוצא דופן עם האפיפיור ליאו ה-14. בין חילופי המתנות, הלבוש שעורר תגובות ברשת והקשר המפתיע לשיר מחאה נשכח, הסתתר גם סיפור על אמונה ומוזיקה",
-      "link": "https://www.maariv.co.il/news/world/article-1385048",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-05T05:11:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/degel-hatorah-senior-netanyahu-izenkot-draft-law",
-      "title": "נתניהו הוכה בהלם: 'דגל התורה' לא תמליץ עליו | \"אם איזנקוט יביא את הגוש שלו לחוק גיוס - נלך איתו\"",
-      "summary": "בכיר ב'דגל התורה' בשיחה עם 'כיכר השבת' בעקבות ההחלטה הדרמטית שלא להמליץ על נתניהו להרכבת הממשלה • \"ראש הישיבה הגר\"ד לנדו הבהיר עוד לפני הבחירות שאנחנו לא חלק מהגוש - ולא לקחו את זה ברצינות\" • הפתח לשיתוף פעולה עם האופוזיציה: \"אם איזנקוט יביא את הגוש שלו לחוק גיוס מוסכם - נלך איתו\" • מאחורי הקלעים של הטלטלה הפוליטית (חדשות)",
-      "link": "https://www.kikar.co.il/haredim/degel-hatorah-senior-netanyahu-izenkot-draft-law",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-05T05:09:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/degel-hatorah-senior-netanyahu-izenkot-draft-law",
-      "title": "נתניהו הוכה בהלם: 'דגל התורה' לא המליצה עליו | \"אם איזנקוט יביא את הגוש שלו לחוק גיוס - נלך איתו\"",
-      "summary": "בכיר ב'דגל התורה' בשיחה עם 'כיכר השבת' בעקבות ההחלטה הדרמטית שלא להמליץ על נתניהו להרכבת הממשלה • \"ראש הישיבה הגר\"ד לנדו הבהיר עוד לפני הבחירות שאנחנו לא חלק מהגוש - ולא לקחו את זה ברצינות\" • הפתח לשיתוף פעולה עם האופוזיציה: \"אם איזנקוט יביא את הגוש שלו לחוק גיוס מוסכם - נלך איתו\" • מאחורי הקלעים של הטלטלה הפוליטית (חדשות)",
-      "link": "https://www.kikar.co.il/haredim/degel-hatorah-senior-netanyahu-izenkot-draft-law",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-05T05:09:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21747137",
-      "title": "הילדים כבר התמכרו: שני מתכונים עם הכוכב החדש במטבח",
-      "summary": "פעם הן היו מוצר מוזר שנמצא רק בחנויות אסיאתיות, והיום אפילו ילדים לוקחים אותן לבית הספר • איך הפכו האצות לחלק מהתפריט הישראלי, ומה אפשר להכין איתן בבית? שני מתכונים צבעוניים, טעימים והרבה פחות מסובכים ממה שנדמה",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21747137",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:07:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21784726",
-      "title": "ואסיליס ספאנוליס בירך את הפועל ירושלים - ואז הגיעה העקיצה",
-      "summary": "המאמן היווני החמיא לאדומים אחרי ניצחון הגדול ביורוקאפ, אך הוסיף אמירה על סלי ההכרעה שלהם והתייחס לפציעות שפגעו בקבוצתו • סשה אוברדוביץ': \"הגיע לנו לנצח, האוהדים היו השחקן השישי שלנו\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21784726",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:04:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/restaurant-reviews/article/21781698",
-      "title": "אכלתי אצל חיים כהן. זאת הייתה אהבה מביס ראשון",
-      "summary": "לקראת יום הולדת 15 למסעדת \"יפו תל אביב\", הגעתי להבין איך חיים כהן מגיע לצלחת • מצאתי טביעת לב, שישברק שמצדיק ביקור חוזר ושירות שיודע מתי לשחרר את העניבה • בין כיסונים מצוינים וקוקטייל בלתי נשכח, גיליתי שגם מסעדת יוקרה יכולה לחבק",
-      "link": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21781698",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T05:01:00.000Z"
     }
   ]
 }
