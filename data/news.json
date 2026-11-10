@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:31:00.725Z",
+  "updatedAt": "2026-11-10T16:46:10.880Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-yaakov-yosef-knesset-shas",
+      "title": "נוסטלגיה: הגאון רבי יעקב יוסף זצ\"ל במסדרונות הכנסת",
+      "summary": "לרגל יום השבעת הכנסת ה-26, חזרנו אחורה בזמן • תמונות נדירות שנחשפות כעת שופכות אור על תחילת דרכו הפרלמנטרית הקצרה של בנו הגדול של מרן פוסק הדור זצוק\"ל (כנסת)",
+      "link": "https://www.kikar.co.il/haredim-news/rabbi-yaakov-yosef-knesset-shas",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-10T16:35:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21824373",
+      "title": "בג\"ץ דורש תשובות: מדוע לא נבדקו כישוריו של מקורב לש\"ס?",
+      "summary": "בג\"ץ הוציא צו על תנאי בעתירה נגד מינויו של חננאל שם טוב ליו\"ר הוועדה הממונה במועצה הדתית בירושלים, והורה למדינה להסביר מדוע לא נבחנו כישוריו המיוחדים לתפקיד • שם טוב, שהתמודד בעבר מטעם ש\"ס ונחשב מקורב לרב אברהם סלים, מונה בידי יריב לוין • המדינה ביקשה לדחות את הדיון לפברואר, אך השופטים קבעו כי יתקיים עד תחילת ינואר • בינתיים, שם טוב ימשיך לכהן בתפקידו",
+      "link": "https://www.israelhayom.co.il/news/law/article/21824373",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T16:24:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21824411",
+      "title": "מכבי תל אביב הביאה את הבולדווין הלא נכון",
+      "summary": "ההגעה של קמר בולדווין לצהובים באמצע העונה היא לא יותר מאשר פלסטר שנועד לעבות את מצבת הגארדים • למעט יורובאסקט 2025, הוא נחשב למניה בירידה ואף ישנן תהיות מדוע עבר לצהוב: \"יש לי ספקות אם הוא שחקן יורוליג, הוא לא שווה יותר מ-10 דקות\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21824411",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T16:22:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/toacfg",
       "title": "יו\"ר הכנסת המיועד מבהיר: \"לא ניסוג מעקרונות השירות לכל\"",
       "summary": "חבר הכנסת מתן כהנא, המועמד מטעם גוש השינוי לתפקיד יו\"ר הכנסת, התייחס בריאיון ליחסים עם המפלגות החרדיות, לאפשרות לשיתוף פעולה פוליטי ולהמשך המגעים סביב מתווה הגיוס (בארץ)",
@@ -57,6 +84,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-10T16:21:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21824283",
+      "title": "כשהגבורה של שבעה באוקטובר הגיעה למליאת הכנסת",
+      "summary": "שירה שפירא וצביקה מור היו בין 46 חברי הכנסת החדשים שנשבעו אמונים • מרים פרץ הגיעה מהר הרצל להשבעת בנה אליסף, אחרי שביקרה בקברי שני בניו האחרים של המשפחה, אוריאל ואלירז • ובזמן שירת ״התקווה״ נותרו כיסאותיהם של חברי הרשימה המשותפת ורע״ם ריקים, למעט זה של מנסור עבאס",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21824283",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T16:21:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21824238",
+      "title": "בן הזוג של קים קרדשיאן ברפיח: \"לשחרר את פלסטין\"",
+      "summary": "לואיס המילטון, בן זוגה של קים קרדשיאן, הגיע לצד המצרי של מעבר רפיח וסייר במחסני הסיוע לעזה, אחרי שורה של התבטאויות בעד הפסקת אש ותמיכה בפלסטינים",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21824238",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-10T16:19:11.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383960872",
@@ -27003,105 +27048,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-05T16:53:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21789267",
-      "title": "מוות לערכים: פתאום כולם נהיו \"סילמנים\"",
-      "summary": "ממצב של \"מי יפר מילה\", כל המדינה עוקבת כבר שבוע באדיקות אחרי השאלה המכשילה: מי יעז לעמוד במילתו • דילמת האסיר: בממשלת מיעוט נתניהו יישאר, בממשלת אחדות נתניהו יילך • הפוך, גדי וביבי, הפוך",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21789267",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:46:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21790797",
-      "title": "נטפליקס מחזירה את אחד הקומיקאים המצליחים בעולם",
-      "summary": "נייט ברגצה, שיאן מכירות הכרטיסים לסיבוב הופעות סטנד-אפ, ישיק את המופע הרביעי שלו בפלטפורמת הסטרימינג בקרוב • מה בתפריט?",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21790797",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:44:40.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960261",
-      "title": "לא רק מתלוננת האונס: פריצה לתיקים רפואיים של עוד נשים",
-      "summary": "אחרי החשד לחדירה לתיקה הרפואי של אופל מלול, כללית פנתה למשטרה. בעקבות הפרסום בוואלה, שתי מתלוננות בעבירות מין מספרות על ניסיונות חוזרים להשיג את המידע הרפואי שלהן",
-      "link": "https://www.walla.co.il/news/law/383960261",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-05T16:43:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjwz0qc6fl",
-      "title": "נבדק חשד לרצח: אותרה מתה בביתה - ואחיה נהרג בהתנגשות באוטובוס",
-      "summary": "גבר כבן 30 נהרג בהתנגשות עם אוטובוס בנגב: \"האוטו עף והתהפך באוויר\". זמן קצר לפני כן אותרה צעירה ללא רוח חיים בביתה בפזורה - ואז התברר כי מדובר באחותו. 10 מקרובי משפחתה עוכבו לחקירה, גופתה תועבר לאבו כביר",
-      "link": "https://www.ynet.co.il/news/article/bjwz0qc6fl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-05T16:42:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjwz0qc6fl",
-      "title": "נהרג בהתנגשות עם אוטובוס - ואחותו אותרה מתה בביתה",
-      "summary": "גבר כבן 30 נהרג בהתנגשות עם אוטובוס בנגב. מעט לאחר מכן אותרה צעירה ללא רוח חיים בביתה בפזורה - ואז התברר כי מדובר באחותו. גופתה תועבר לאבו כביר, כלל כיווני החקירה נבדקים",
-      "link": "https://www.ynet.co.il/news/article/bjwz0qc6fl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-05T16:42:48.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/choking-emergency-synagogue-tel-aviv",
-      "title": "באמצע אזכרה: אכל לחם בבית הכנסת והתמוטט לעיני הנוכחים",
-      "summary": "גבר כבן 80 איבד את הכרתו ונחנק כשאכל לחם במהלך אזכרה בבית כנסת בתל אביב. חובשים של איחוד הצלה שהוזעקו למקום ביצעו בו פעולות החייאה מתקדמות, ובחסדי שמיים הצליחו להחזיר את הדופק. פונה במצב קשה (בריאות, אנשים)",
-      "link": "https://www.kikar.co.il/israel-news/choking-emergency-synagogue-tel-aviv",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-05T16:40:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21788622",
-      "title": "\"היהירות שלו פוגעת בכולם, מכבי תל אביב תשלם על זה\"",
-      "summary": "היכולת של עלי קמארה מטרידה את אייל גולסה והוא טען בפודקאסט \"הדקה ה-99\" כי איתי בן חמו ראוי ליותר דקות: \"הוא בשל\" • כדורגלן העבר התייחס גם לעמדת המגן השמאלי: \"שחר רוזן יכול למלא את התפקיד בצורה מצוינת, הוא צריך להיות שם כשיקבל את הצ'אנס\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21788622",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:39:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21790882",
-      "title": "עדיין לא ראינו אותם ככה: עומר אדם וסשה ישראלוביץ' בתיעוד אינטימי",
-      "summary": "בפוסט מיוחד שפרסם לאחר המופע השני בברקליס סנטר חשף הזמר תיעודים מהסיבוב בארצות הברית, פנה לשותפיו לבמה ולקהל המקומי, ולא שכח לחתום בנשיקה צמודה לאשתו הטרייה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21790882",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:38:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21790668",
-      "title": "\"תרגלנו את היידיש שלנו\": גוש השינוי בדרך ל-61?",
-      "summary": "במקום לדמיין פתרונות מאולצים וקצרי טווח, צריכים שני הצדדים לנחות על קרקע המציאות ולשתף פעולה • וכשזה יקרה, ישנן חמש סוגיות־על שיחייבו פתרון: מוועדת חקירה ועד הרפורמה המשפטית, מהגיוס ועד בן גביר, וגם השאלה הקטנטנה - מי ראש הממשלה? • ואיך אומרים \"ברית המשרתים\" ביידיש?",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21790668",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:37:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21790854",
-      "title": "תשכחו ממה שהכרתם: קונספט המט גאלה 2027 נחשף",
-      "summary": "אחרי שהתערוכה שתוכננה לג'ון גליאנו ירדה מהפרק, המטרופוליטן משנה כיוון. ב-2027 דווקא ג'ינס, טי שירט והבגדים הכי יומיומיים בארון מקבלים את הבמה",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21790854",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:35:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21790819",
-      "title": "נסע למקום מבודד ותקף: שוטר נאשם בהטרדה מינית של שתי שוטרות",
-      "summary": "המחלקה לחקירות שוטרים הגישה כתב אישום נגד שוטר מתחנת בית שאן באשמת מעשים מגונים והטרדות מיניות • בשני מקרים שונים הוא לכפות את עצמו עליהן",
-      "link": "https://www.israelhayom.co.il/news/law/article/21790819",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-05T16:32:27.000Z"
     }
   ]
 }
