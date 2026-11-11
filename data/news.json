@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:45:55.270Z",
+  "updatedAt": "2026-11-11T12:01:08.767Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-unity-government-call-knesset",
+      "title": "נתניהו בדרכו למליאה: \"ממשלת אחדות היא צו השעה ורצון העם\" | צפו",
+      "summary": "ראש הממשלה בהצהרה לפני מליאת הכנסת: 'ממשלת אחדות לאומית היא הכרחית ואפשרית' • 'אמשיך להושיט יד עד שלב יפגוש לב' | הקריאה המרגשת (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-unity-government-call-knesset",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T11:52:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/lawyer-arrested-armored-jeep-cash-northern-israel",
+      "title": "עורך דין מהצפון נעצר עם ג'יפ ממוגן, אמצעי תצפית צה\"ליים וסכום כסף ענק במזומן",
+      "summary": "שוטרי המחוז הצפוני ערכו פשיטה ביישובים נחף ומג'ד אל כרום • אותרו ג'יפ ממוגן ירי, מעל 380 אלף שקל במזומן ואמצעי תצפית צה\"ליים | ארבעה חשודים עוכבו לחקירה (משטרה)",
+      "link": "https://www.kikar.co.il/police/lawyer-arrested-armored-jeep-cash-northern-israel",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T11:49:48.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387376",
       "title": "בהלה באיטליה: מאות בתי ספר פונו בעקבות איומי פצצה",
@@ -1218,6 +1236,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T08:33:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1387285",
+      "title": "בנו של זמר ובמאי מפורסם: מורה חשוד בביצוע מעשה מגונה בתלמידה",
+      "summary": "בדיון בבית המשפט נחשף כי מורה בבית ספר יסודי בכפר סבא חשוד בביצוע מעשה מגונה בתלמידת כיתה ב' | המשטרה ביקשה להאריך את מעצרו בשישה ימים, אך השופט הסתפק ביום אחד | החשוד הוא בנו של זמר ובמאי מפורסם",
+      "link": "https://www.maariv.co.il/news/law/article-1387285",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T08:33:28.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387285",
@@ -28200,33 +28227,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-06T12:06:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21794315",
-      "title": "כמעט שנה לאחר הטבח בחוף בונדי: ניצולת השואה שנפצעה בפיגוע מתה מפצעיה",
-      "summary": "אווה גלר, שנפצעה מירי המחבלים במהלך חגיגת חנוכה בסידני בדצמבר האחרון, הלכה לעולמה בבית החולים בעקבות סיבוכים רפואיים שנגרמו מפציעתה • עם מותה עלה מניין הנרצחים בטבח ל-16 • \"היא הייתה אדם חיובי ויפה, ושמרה על האופטימיות גם בחודשים הקשים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21794315",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T11:59:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21794209",
-      "title": "חודש אחרי החתונה: אלעד צפני חושף את החשש שליווה אותו",
-      "summary": "זמן קצר אחרי שנישא לרומי גרוסמן, יוצא \"האח הגדול\" חוזר לתקופה שבה התקשה למצוא אהבה • בריאיון אישי הוא משתף במחשבות שליוו אותו ובתובנה שהגיע אליה בהמשך הדרך",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21794209",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T11:50:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21794223",
-      "title": "מנכ\"ל ארקיע מאשר: \"בעלי השליטה מבקשים למכור את אחזקותיהם\"",
-      "summary": "במכתב ששיגר לעובדים, מנכ\"ל ארקיע עוז ברלוביץ' מאשר לראשונה את הדיווחים ומעדכן כי בעלי השליטה מנהלים מגעים מול משקיעים פוטנציאליים למכירת מניותיהם בחברת התעופה • ברלוביץ' ציין המנכ\"ל את האתגרים הכבדים הניצבים בפני החברה, ובראשם המצב הגיאופוליטי והזינוק החד במחירי הדלק הסילוני",
-      "link": "https://www.israelhayom.co.il/business/article/21794223",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T11:47:08.000Z"
     }
   ]
 }
