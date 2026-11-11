@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:15:53.671Z",
+  "updatedAt": "2026-11-11T06:31:08.516Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/india-train-derailment-brake-failure",
+      "title": "\"כלום לא עובד\": תיעוד מצמרר מתוך הקטר שניות לפני התרסקות",
+      "summary": "הנהג תועד כשהוא נאבק בפקדים, שניות לפני שהקטר וקרונות הנוסעים סטו מהמסילה. אלא שההקלטה מתוך תא הנהג חושפת פרט מטריד במיוחד (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/india-train-derailment-brake-failure",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T06:29:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1387216",
+      "title": "שריטות, קללות ומשיכות בשיער: סכסוך על 100 שקל בקניון יצא משליטה",
+      "summary": "ויכוח בין שתי נשים באילת בעקבות בקשה ל-100 שקלים הידרדר לתגרה אלימה ולדקירות במספריים. בית המשפט גזר על התוקפת 32 חודשי מאסר וקנס ופיצויים בסך 6,500 שקל, אך תגובתה לעונש הייתה חריגה",
+      "link": "https://www.maariv.co.il/news/law/article-1387216",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T06:22:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/parush-draft-law-yeshiva-students-arrest-freeze",
+      "title": "ח\"כ פרוש הגיש הצעת חוק דחופה: הפסקת מעצרים מיידית ודיחוי קבוע לבני ישיבות",
+      "summary": "ח\"כ פרוש הגיש שתי הצעות חוק מרכזיות להסדרת מעמד בני הישיבות • הצעה אחת קובעת דיחוי קבוע עד גיל 26, השנייה מקפיאה מעצרים לשנה | צעד ראשון בכנסת ה-26 (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim/parush-draft-law-yeshiva-students-arrest-freeze",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T06:20:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21826407",
+      "title": "\"מכבי תל אביב מועדון גדול מדי בשביל להתעסק עם הדבר הזה\"",
+      "summary": "מאמן הצהובים לשעבר ביקר ב\"על הבאזר\" את ההחלטה להביא את פייריה הנרי להתרשמות אחרי שנים מחוץ למגרשים בעקבות השעיה • גרשון הטיל ספק ביכולתו לחזור לרמת יורוליג והסביר איזה רכש הוא מצפה לראות במכבי",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21826407",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T06:12:49.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387215",
       "title": "נשיא איראן קושר בין המלחמה לבחירות - ומכוון לישראל",
@@ -159,12 +195,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387197",
+      "title": "האיום האיראני הגיע לשלב מסוכן - והאמריקאים פעלו מיד",
+      "summary": "על פי דיווח ב\"פוקס ניוז\", איומים איראניים שהגיעו ל\"שלב מתקדם\" אילצו את שר האוצר האמריקאי סקוט בסנט ומשפחתו לעבור לבסיס צבאי מאובטח. בממשל מבהירים כי האיומים לא יעצרו את המערכה הכלכלית נגד טהרן",
+      "link": "https://www.maariv.co.il/news/world/article-1387197",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T05:29:13.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387197",
       "title": "בגלל איומים מאיראן: הבכיר האמריקאי עבר להתגורר בבסיס צבאי",
       "summary": "על פי דיווח ב\"פוקס ניוז\", איומים איראניים שהגיעו ל\"שלב מתקדם\" אילצו את שר האוצר האמריקאי סקוט בסנט ומשפחתו לעבור לבסיס צבאי מאובטח. בממשל מבהירים כי האיומים לא יעצרו את המערכה הכלכלית נגד טהרן",
       "link": "https://www.maariv.co.il/news/world/article-1387197",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-11T05:29:13.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875770",
+      "title": "קבוצה בלי זהות: הפועל ת\"א קברה את הישראלים בספסל",
+      "summary": "מוטי ארואסטי דיבר על הפערים בין הפועל ומכבי תל אביב, ונדרש למאבקי הבעלות בצהוב: \"להזיז את שמעון מזרחי? זה הסיפור של המדינה, אין כבוד לשום דבר\". האזינו לריאיון מ-103FM",
+      "link": "https://sports.walla.co.il/item/3875770",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T05:29:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-missile-production-recovery-1700-missiles",
@@ -309,6 +363,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T04:34:58.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-bb4dc73c3d6c1a1026.htm",
+      "title": "הבנייה במתחם היוקרתי בסימן שאלה: כך נקלע שדה דב לבעיית \"כימיקלי נצח\"",
+      "summary": "הם זכו לכינוי המפוקפק PFAS, כימיקלים שלא מתכלים לעולם וקשורים למחלות קשות. בעוד אלפי ישראלים רוכשים דירות בשווי של 8 מיליון שקלים באתר שדה התעופה הישן בתל אביב, מתברר כי מתחת לקרקע היקרה מסתתר זיהום שמעורר סערה",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-bb4dc73c3d6c1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-11T04:30:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1387182",
@@ -26976,42 +27039,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-06T06:31:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21790325",
-      "title": "לא רק אילה חסון ואייל ברקוביץ': הכוכבים שלא מבקשים סליחה",
-      "summary": "לא מעט דמויות מפתח ציבוריות בישראל נקלעו לסערות בעקבות התבטאויות חריפות, אך סירבו לחזור בהן • לפעמים זה נגמר בעימות, לפעמים במחיר מקצועי או בתביעה משפטית, אבל התנצלות? לא בבית ספרם",
-      "link": "https://www.israelhayom.co.il/culture/clique/article/21790325",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:30:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1385540",
-      "title": "\"הטוסט נשרף? נתניהו אישר את זה אישית\" - הפרשן האמירתי פותח פה על כל העולם",
-      "summary": "הפרשן האמירתי אמג'אד טהא פרסם פוסט סאטירי שבו לעג לנטייה להאשים את ישראל בכל צרות העולם, מבחירות ועד מזג האוויר. גם הישראלים עצמם לא יצאו נקיים, ואפילו החייזרים והמוסד נכנסו לתמונה",
-      "link": "https://www.maariv.co.il/news/world/article-1385540",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-06T06:28:05.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875189",
-      "title": "\"קרוב למושלם\": כך מכניס אבדיה את היריבות לפאניקה",
-      "summary": "הפרשנים הבכירים מאושרים מכך שמעמדו של כוכב פורטלנד לא נפגע, ויש מחמאות גדולות עוד יותר: \"זה מטורף, הופך לשחקן ברמת סופרסטאר\"",
-      "link": "https://sports.walla.co.il/item/3875189",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T06:24:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21792662",
-      "title": "\"חפצים התחילו לזוז\": ההפתעה המצמררת שנתפסה בגרבי הנוסע",
-      "summary": "בנמל התעופה בפרו נדהמו לגלות תנועות חשודות בתוך שלוש מזוודות, שבהן הוסלקו יותר מ-3,000 עכבישי טרנטולה חיים בתוך גרביים משומשות • העכבישים, שנאספו מאזורים שונים בפרו מביצים ועד בוגרים, יועדו להברחה לגרמניה בשווי שוק מוערך של כ-1.5 מיליון אירו",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21792662",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:20:36.000Z"
     }
   ]
 }
