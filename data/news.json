@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:03:20.507Z",
+  "updatedAt": "2026-11-11T15:16:01.129Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/neriah-leiter-recovery-update",
+      "title": "\"הדרך ארוכה וסבוכה\": יחיאל לייטר מעדכן במצבו של בנו - אחרי השחרור",
+      "summary": "שגריר ישראל בארה\"ב מודה לצוותים הרפואיים שנלחמו על חיי בנו • נריה הועבר לשיקום נוירולוגי אך עדיין מחוסר הכרה • \"הדרך לשיקום עוד ארוכה וסבוכה, ונריה יצטרך לעבור עוד מספר ניתוחים\" • המשפחה מבקשת להמשיך בתפילות לנס שיחזיר את נריה לחיק משפחתו (אנשים)",
+      "link": "https://www.kikar.co.il/israel-news/neriah-leiter-recovery-update",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T15:03:59.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21831060",
       "title": "פרסום ראשון: ההערכה בליכוד - נתניהו ימנה את אוחנה לשר לאחר הדחתו",
@@ -264,6 +273,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T14:01:02.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961018",
+      "title": "לאחר המהומה בכנסת: ליברמן נבחר ליו\"ר ועדת החוץ והביטחון",
+      "summary": "הצעת גוש השינוי אושרה בתמיכת המפלגות הערביות. תדמור כינה את לזימי \"תרנגולת\", וטיבי איים בעזיבה. גוטליב ואלמוג כהן הוצאו מהדיון בעקבות המהומה",
+      "link": "https://www.walla.co.il/news/politics/383961018",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T14:00:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961018",
@@ -29010,24 +29028,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T15:19:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/opinions/383960316",
-      "title": "מה אנחנו עוד רוצים מהם? קואליציה עם הערבים היא הכרח",
-      "summary": "הם מצילים חיים בבתי החולים, הצביעו בהמוניהם ומוכנים לשאת בנטל. שילובם בקואליציה אינו עוד פוליטיקה, אלא תיקון חברתי הכרחי. דלת סגורה בפניהם תעלה לישראל באובדן השותפות לתמיד",
-      "link": "https://www.walla.co.il/news/opinions/383960316",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T15:14:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sych8djpfg",
-      "title": "מאוכזבים שהגשם עוד לא פה? השירות המטאורולוגי מעדכן: המהפך - בלילה",
-      "summary": "בירושלים ובחיפה נמדדו 4 מ\"מ, בתל אביב כלל לא ירד גשם - אבל כל זה צפוי להשתנות בשעות הלילה המאוחרות. בשבת כבר צפויות כמויות משקעים גדולות באזור החוף, ויש חשש להצפות. התחזית המלאה, והמכ\"ם",
-      "link": "https://www.ynet.co.il/news/article/sych8djpfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-06T15:09:49.000Z"
     }
   ]
 }
