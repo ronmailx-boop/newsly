@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:01:05.275Z",
+  "updatedAt": "2026-11-11T06:15:53.671Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387215",
+      "title": "נשיא איראן קושר בין המלחמה לבחירות - ומכוון לישראל",
+      "summary": "נשיא איראן טען כי תוצאות הבחירות בישראל, בארה\"ב ובאירופה היו מכה ל\"מחרחרי המלחמה\", אך לא הציג נתונים לביסוס דבריו. לקראת ביקורו בטורקיה, הצהיר כי יציג למנהיגי העולם את נזקי המלחמה",
+      "link": "https://www.maariv.co.il/news/world/article-1387215",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T06:11:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387213",
+      "title": "כיפת ברזל, AI וריגול: האמריקאים שרוצים לחסל את היחסים עם ישראל",
+      "summary": "במכתב שנשלח למנהיגי שני הבתים בקונגרס, 12 סנאטורים אמריקאים פנו להנהגת הקונגרס בדרישה חריגה להסיר סעיפים המרחיבים את שיתוף הפעולה הביטחוני והמודיעיני עם ישראל",
+      "link": "https://www.maariv.co.il/news/world/article-1387213",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T06:04:09.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21826354",
       "title": "ברק יצחקי מתרחק ממכבי חיפה; זה הכיוון של ליאור רפאלוב",
@@ -26994,69 +27012,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-06T06:20:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21792882",
-      "title": "אותו כרטיס, יותר הטבות: 6 דברים שכדאי לדעת לפני שמתקדמים ל- FlyAll",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21792882",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:11:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21792885",
-      "title": "כמה אוכל באמת צריך הכלב שלכם? הטבלה על השק היא רק נקודת התחלה",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21792885",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:09:10.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/israeli-suspects-ai-fraud-new-york-indictment",
-      "title": "התחזו למנכ\"לים בבינה מלאכותית: שני ישראלים חשודים בגניבת 129 מיליון דולר",
-      "summary": "גיא שטרית ושרון חזן מואשמים בהונאת חברות בעולם באמצעות התחזות למנכ״לים • השימוש בבינה מלאכותית לחיקוי קול ודמות | כתב אישום בניו יורק (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/israeli-suspects-ai-fraud-new-york-indictment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-06T06:08:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/israeli-suspects-ai-fraud-new-york-indictment",
-      "title": "התחזו למנכ״לים בבינה מלאכותית: שני ישראלים חשודים בגניבת 129 מיליון דולר",
-      "summary": "גיא שטרית ושרון חזן מואשמים בהונאת חברות בעולם באמצעות התחזות למנכ״לים • השימוש בבינה מלאכותית לחיקוי קול ודמות | כתב אישום בניו יורק (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/israeli-suspects-ai-fraud-new-york-indictment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-06T06:08:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21792782",
-      "title": "אקס הפועל תל אביב וירושלים הודיע על פרישה: \"אשאר עם הזיכרונות\"",
-      "summary": "ג'יימס פלדין, ששיחק בארץ גם בהפועל גליל עליון, תלה את הנעליים • בני יהודה צימקה את הפער בפסגת הלאומית ממ.ס אשדוד, שהובסה מול קריית ים",
-      "link": "https://www.israelhayom.co.il/sport/article/21792782",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:03:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21792782",
-      "title": "הניצחון השישי ברציפות: גולדן סטייט הביסה את מיאמי",
-      "summary": "הווריורס גברו 100:120 על ההיט, סטף קרי קלע 29 נקודות ושש שלשות מול יאניס אנטטוקומפו והאקס המיתולוגי קליי תומפסון",
-      "link": "https://www.israelhayom.co.il/sport/article/21792782",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:03:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21792780",
-      "title": "עוד לפני המנדט: הקרב הפנימי בגוש השינוי על התפקיד הנכסף",
-      "summary": "ראשי ארבע המפלגות מתאמים מהלכים בכנסת, אך המחלוקת על מינוי היו\"ר חושפת את הפערים בין איזנקוט ללפיד • רע\"ם ויהדות התורה עשויות להפוך לשותפות מפתיעות במהלכים פרלמנטריים נכונים, בעוד ליברמן נותר הבלם היחיד מול שילוב רע\"ם בהנהגת המדינה • איזנקוט, שיקבל את מלאכת הרכבת הממשלה, ניצב בפני משימה מורכבת במיוחד",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21792780",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T06:03:20.000Z"
     }
   ]
 }
