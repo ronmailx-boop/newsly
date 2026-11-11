@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:31:13.931Z",
+  "updatedAt": "2026-11-11T09:45:59.684Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/earthquake-alert-eilat-arava",
+      "title": "המכון הגאולוגי: רעידת אדמה הורגשה באזור אילת בעוצמה של 4.5",
+      "summary": "פיקוד העורף הפעיל התרעה על רעידת אדמה בעיר אילת ובאיזור הערבה והתושבים התבקשו לצאת מחוץ למבנים | המכון הגאולוגי עדכן כי התרחשה רעידת אדמה באזור מפרץ אילת בעוצמה של 4.5 | בחסדי שמים בשלב הזה לא דווח על נזק או נפגעים (חדשות)",
+      "link": "https://www.kikar.co.il/israel-news/earthquake-alert-eilat-arava",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:43:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/toao4j",
+      "title": "את שרה נתניהו מכירים, מי הן נשותיהם של המנהיגים החדשים בפוליטיקה? הצצה",
+      "summary": "בזה אחר זה צעדו אמש בסך חברי הכנסת החדשים לצד הוותיקים, כשהם מלווים בבני משפחותיהם הנרגשים | הטקס החגיגי של השבעת הכנסת הוא הזמן של העם להכיר את האנשים האנונמיים אך הקרובים ביותר למנהיגים הפולטיים המפורסמים | הצצה (בארץ)",
+      "link": "https://www.kikar.co.il/political-news/toao4j",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:38:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1387313",
+      "title": "רעידת אדמה חריגה באזור אילת: \"פחד אימים\"",
+      "summary": "התרעות על רעידת אדמה התקבלו באילת וביישובי הערבה. לפי נתונים ראשוניים של המכון הגיאולוגי, הרעידה התרחשה באזור טאבה שבדרום סיני בעוצמה משוערת של 4.5 בסולם ריכטר",
+      "link": "https://www.maariv.co.il/news/israel/article-1387313",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T09:35:07.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383960986",
+      "title": "ראשוני: התרעה על רעידת אדמה באזור אילת",
+      "summary": "התרעה על רעידת אדמה הופצה באזור אילת על ידי פיקוד העורף. עד ראייה: \"הרגשנו רעידה, ואז שמענו האזעקה\". העוצמה המשוערת: 4.4 בסולם ריכטר",
+      "link": "https://www.walla.co.il/news/israel/383960986",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T09:31:33.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r13irhzrgl",
+      "title": "רעידת אדמה בעוצמה 4.5 הורגשה במפרץ אילת, התרעה הופעלה באזור",
+      "summary": "רעידה חזקה מהרגיל הורגשה בעיר הדרומית. פיקוד העורף הפעיל התרעה גם ביישובים נוספים בערבה - בגלל העוצמה. המונים יצאו מהקניון ומהטרמינל בנמל התעופה רמון",
+      "link": "https://www.ynet.co.il/news/article/r13irhzrgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-11T09:30:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21827648",
+      "title": "\"להיות מול דני אבדיה במצב כזה, זה נורא\"",
+      "summary": "דמיאן לילארד פרגן לישראלי לאחר ה-103:123 על אוקלהומה סיטי ת'אנדר וסיפר על שיתוף הפעולה ביניהם: \"סגנונות המשחק שלנו משלימים זה את זה כל כך טוב\" • האולסטאר גם פרגן לחברו: \"הוא עושה את כולם טובים יותר, אני מרוויח מזה\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21827648",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:30:07.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1387309",
       "title": "חברי גוש השינוי הסתערו על הכנסת - ויש להם מטרה נסתרת",
       "summary": "בנט מציע הטבות למשרתים, יהדות התורה מבקשת להקפיא את האכיפה נגד תלמידי ישיבות, ולפיד והדמוקרטים מקדמים שינויי דת ומדינה. ההצעות כבר על השולחן, והמגעים עם החרדים עשויים לקבוע מה יישאר שם",
@@ -41,6 +95,15 @@
       "pubDate": "2026-11-11T09:29:41.000Z"
     },
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/earthquake-alert-eilat-arava",
+      "title": "רעידת אדמה הורגשה באזור אילת בעוצמה של 4.5",
+      "summary": "פיקוד העורף הפעיל התרעה על רעידת אדמה בעיר אילת ובאיזור הערבה והתושבים התבקשו לצאת מחוץ למבנים | המכון הגאולוגי עדכן כי התרחשה רעידת אדמה באזור מפרץ אילת בעוצמה של 4.5 | בחסדי שמים בשלב הזה לא דווח על נזק או נפגעים (חדשות)",
+      "link": "https://www.kikar.co.il/israel-news/earthquake-alert-eilat-arava",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:26:29.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/tobzku",
       "title": "התרעה על רעידת אדמה הופעלה באזור אילת והערבה",
       "summary": "התרעה על רעידת אדמה הופעלה בעיר אילת ובאזורים הסמוכים לה אילות ואזור תעשייה שחורת | בנוסף, הופעלה ההתרעה גם באיזור הערבה ביישובים באר אורה, אליפז ומכרות תמנע | האזרחים מתבקשים לצאת מחוץ למבנים (בארץ)",
@@ -48,6 +111,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T09:26:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21827520",
+      "title": "אחרי בוי ג'ורג': זוכה הגראמי שמגיע לישראל",
+      "summary": "פקיטו דה ריברה, נגן סקסופון וקלרינט המזוהה עם הג'אז הלטיני, יגיע לישראל עם החמישייה של • לצדו יופיעו מוזיקאים בינלאומיים וישראלים בשלושה ימים של הופעות",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21827520",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:25:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21827721",
+      "title": "הודיה כהן אחרי התצוגה: \"ההיא יותר רזה ממך\"",
+      "summary": "אחרי שצעדה בתצוגה, הודיה כהן שיתפה בסטורי על תחושת ההשוואה מאחורי הקלעים, על הלחץ והתחרות, ועל הרגע שבו כל אחת מתחילה להרגיש שמישהי אחרת גבוהה יותר, רזה יותר או טובה יותר",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21827721",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:23:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/charlie-kirk-murder-trial-date-set-june-2028",
@@ -75,6 +156,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T09:20:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21827547",
+      "title": "כשהלייקים חשובים יותר מהבגדים: מה קרה לשבוע האופנה הישראלי?",
+      "summary": "כוכבי הריאליטי והמשפיענים השתלטו על המסלול והקולקציות הפכו לתפאורה • כשמספר העוקבים חשוב יותר מהגזרה והלייקים חשובים יותר מהיצירה אולי הגיע הזמן להודות: זה כבר לא ממש שבוע אופנה אלא קמפיין יחסי ציבור עם תלבושות",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21827547",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:18:00.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3875825",
@@ -528,6 +618,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21825437",
+      "title": "מחריד: אביו של כדורגלן מוכר נרצח - כי לא שילם עבור מפגש מיני",
+      "summary": "אישה הודתה בפני המשטרה שדקרה למוות את אביו של שחקן סנטוס, בטענה שלא שילם לה עבור מפגש מיני • החלוץ, שלבש גם את מדי הסלסאו, מתקשה לעכל את הבשורה, ניימאר סיפק את מטוסו הפרטי כדי שיספיק להלוויה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21825437",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T08:13:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21825437",
       "title": "לא שילם עבור שירותי מין: אביו של חלוץ נבחרת ברזיל נרצח",
       "summary": "אישה הודתה בפני המשטרה שדקרה למוות את אביו של שחקן סנטוס, בטענה שלא שילם לה עבור מפגש מיני • החלוץ, שלבש גם את מדי הסלסאו, מתקשה לעכל את הבשורה, ניימאר סיפק את מטוסו הפרטי כדי שיספיק להלוויה",
       "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21825437",
@@ -732,6 +831,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T07:50:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21827017",
+      "title": "ווארט ויקי רייסנר שלחו מסר חד משמעי לינון מגל ו\"הפטריוטים\"",
+      "summary": "יממה אחרי שהודיע על הדחת עמיחי אתאלי, וביום שבו השניים התעמתו ברדיו, תוכניתו של מגל השיגה 8.2% - נתון נמוך בפער זעיר על ידי בכורת העונה השלישית של \"ווארט\" • אלא שגם ברשת 13 לא יכולים לחגוג: הבכורה נחלשה משמעותית לעומת העונה הקודמת • \"הזמר במסכה\" ממשיכה לשלוט עם 18.1%",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21827017",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T07:50:12.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21827017",
@@ -987,6 +1095,15 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3875810",
+      "title": "פורטלנד חוגגת, אבדיה הצטיין: \"אני מרוויח מזה\"",
+      "summary": "פורטלנד חוגגת, אבדיה הצטיין: \"אני מרוויח מזה\"",
+      "link": "https://sports.walla.co.il/item/3875810",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T07:19:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3875810",
       "title": "\"אבדיה הכתיב את הקצב\": ניצחון ענק לפורטלנד על המועמדת לתואר",
       "summary": "\"אבדיה הכתיב את הקצב\": ניצחון ענק לפורטלנד על המועמדת לתואר",
       "link": "https://sports.walla.co.il/item/3875810",
@@ -1006,7 +1123,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byiqrcbamx",
       "title": "מורה במרכז חשוד בעבירות מין בתלמידה בת פחות מ-10",
-      "summary": "החקירה נפתחה בימים האחרונים בתחנת כפר סבא. המורה, בשנות ה-30 לחייו מראש העין, נעצר. בהמשך הוא צפוי להגיע לבית המשפט לדיון בהארכת מעצרו",
+      "summary": "החקירה נפתחה בימים האחרונים בתחנת כפר סבא. המורה, בשנות ה-30 לחייו מראש העין, צפוי להגיע לבית המשפט לדיון בהארכת מעצרו. עיריית כפר סבא: \"רואים בחומרה את החשדות\"",
       "link": "https://www.ynet.co.il/news/article/byiqrcbamx",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -27768,60 +27885,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-06T09:47:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21793464",
-      "title": "עדי ואסי בוזגלו במחלוקת: \"הוא מתלונן הרבה\"",
-      "summary": "אחרי הפסקה, אסי בוזגלו גילה מחדש את הסטורי של אשתו עדי, אבל דווקא אז התחילו הבעיות, עם הערות שלו לגבי התכנים שהיא מעלה: \"זה לא טוב\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21793464",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T09:45:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21793464",
-      "title": "עדי ואסי בוזגלו במחלוקת: \"יש הרבה תלונות\"",
-      "summary": "אחרי הפסקה, אסי בוזגלו גילה מחדש את הסטורי של אשתו עדי, אבל דווקא אז התחילו הבעיות, עם הערות שלו לגבי התכנים שהיא מעלה: \"זה לא טוב\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21793464",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T09:45:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/chabad-shluchim-israel-challenges",
-      "title": "הרב אהרונוב: \"שליח בישראל מתמודד עם תנאים קשים משליח חב\"ד בעולם\"",
-      "summary": "יש הטועים לחשוב כי השלוחים היוצאים לפתוח בתי חב\"ד בארה\"ק, נהנים מתנאי עבודה קלים ונוחים יותר מהשלוחים בעולם, אך האמת שונה / הרב יוסף יצחק אהרונוב מסביר (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/chabad-shluchim-israel-challenges",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-06T09:42:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/radio/article/21793613",
-      "title": "אברי גלעד נגד אתגר קרת: ״לא יאומן״",
-      "summary": "אחרי שקרא על החלטה שקיבל הסופר לקראת הבחירות, איש התקשורת לא הצליח להסתיר את זעמו • הביקורת התרחבה גם למצביעים יהודים נוספים • \"אין גבול לתמימות, אין גבול לסכלות\"",
-      "link": "https://www.israelhayom.co.il/culture/radio/article/21793613",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T09:38:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/peoples/ari-gelhar-spiritual-journey-interview",
-      "title": "\"געגועים לקדוש ברוך הוא\": ארי גלהר על השינוי הדרמטי במראהו",
-      "summary": "איש התקשורת לשעבר חזר לגדל פאות ושיתף בתהליכים הפנימיים • \"אני מניח שזה ביטוי לתהליכים שעברתי\" | הריאיון המלא (אנשים)",
-      "link": "https://www.kikar.co.il/peoples/ari-gelhar-spiritual-journey-interview",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-06T09:35:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hyu5pfo6zx",
-      "title": "נתניהו לא מכחיש שיופסק הסיוע מארה\"ב כבר משנה הבאה: \"עוברים לשותפות\"",
-      "summary": "משרד ראש הממשלה לא מכחיש שטראמפ סיכם עם נתניהו שהסיוע הצבאי יופסק כבר משנה הבאה - ללא ידיעת מערכת הביטחון ומשרד האוצר - ומסר: \"הכלכלה חזקה ויציבה\". גורמים מדיניים: \"יש עדיין דיונים, המטרה להגיע להסכם לפני השבעת הקונגרס החדש\"",
-      "link": "https://www.ynet.co.il/news/article/hyu5pfo6zx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-06T09:33:22.000Z"
     }
   ]
 }
