@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:15:56.759Z",
+  "updatedAt": "2026-11-11T09:31:13.931Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1387309",
+      "title": "חברי גוש השינוי הסתערו על הכנסת - ויש להם מטרה נסתרת",
+      "summary": "בנט מציע הטבות למשרתים, יהדות התורה מבקשת להקפיא את האכיפה נגד תלמידי ישיבות, ולפיד והדמוקרטים מקדמים שינויי דת ומדינה. ההצעות כבר על השולחן, והמגעים עם החרדים עשויים לקבוע מה יישאר שם",
+      "link": "https://www.maariv.co.il/news/politics/article-1387309",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T09:29:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tobzku",
+      "title": "התרעה על רעידת אדמה הופעלה באזור אילת והערבה",
+      "summary": "התרעה על רעידת אדמה הופעלה בעיר אילת ובאזורים הסמוכים לה אילות ואזור תעשייה שחורת | בנוסף, הופעלה ההתרעה גם באיזור הערבה ביישובים באר אורה, אליפז ומכרות תמנע | האזרחים מתבקשים לצאת מחוץ למבנים (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tobzku",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:26:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/charlie-kirk-murder-trial-date-set-june-2028",
+      "title": "שלוש שנים אחרי הרצח: בית המשפט קבע את מועד המשפט - ויכריע אם להוציאו להורג",
+      "summary": "השופט קבע את מועד המשפט לרוצח הפעיל הפרו-ישראלי | 105 ימי דיונים צפויים בבית המשפט ביוטה | משפחת קירק: 'המתנו מספיק זמן' (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/charlie-kirk-murder-trial-date-set-june-2028",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:22:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1b7pizrge",
+      "title": "קונספירציית \"בריז'יט היא גבר\": הזוג מקרון תובע את קנדיס אוונס על \"בובת החייזר\"",
+      "summary": "נשיא צרפת ורעייתו הגישו תביעה חדשה נגד מנחת הפודקאסטים האנטישמית מארה\"ב, שממשיכה לקדם למיליוני צופיה את התאוריה שבריז'יט מקרון כלל לא נולדה אישה, אלא מדובר באחיה ז'אן-מישל, שאימץ לו זהות חדשה כטרנסג'נדרית. בתביעה בטנסי, אחרי ששופט מנע תביעה אישית נגד אוונס בדלאוור, הם טוענים כי העבירה אותם \"מסע השפלה עולמי\", בין השאר על-ידי מכירת מרצ'נדייז מבזים והצגת \"בובת בריז'יט\" דמוית E.T הלועגת למראה החיצוני של הגברת הראשונה",
+      "link": "https://www.ynet.co.il/news/article/s1b7pizrge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-11T09:21:01.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/david-shapira-rabbi-lando-not-against-bibi",
+      "title": "דוד שפירא בשיחות סגורות: \"הגר\"ד לנדו לא חבר בכת 'רק לא ביבי'\"",
+      "summary": "דוד שפירא, מקורבו של ראש הישיבה הגאון רבי דב לנדו, מבהיר בשיחות פנימיות את עמדת הרב באשר לממשלה הבאה • \"אין לו עניין להזיז את ביבי\", אמר שפירא, \"יש לו עניין לדאוג לעולם התורה\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/david-shapira-rabbi-lando-not-against-bibi",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T09:20:14.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875825",
+      "title": "הזדמנות או סיכון? משבר הריגול מטלטל את מניית אנבידיה",
+      "summary": "הזדמנות או סיכון? משבר הריגול מטלטל את מניית אנבידיה",
+      "link": "https://finance.walla.co.il/item/3875825",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T09:16:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21827434",
+      "title": "מיכל הקטנה חוגגת: \"זכיתי\"",
+      "summary": "בסטורי חשוף ומרגש שהעלתה כוכבת הילדים, היא מתועדת בחיבוק חם עם מנהליה האישיים וחולקת איתם רגע אינטימי של הכרת תודה על הדרך המשותפת: \"אוהבת אתכם אהבת נפש\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21827434",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:08:15.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387301",
       "title": "\"סרט אימה\": עבריין מין חשוד שאנס צעירה בתל אביב - שבועיים אחר כך חזר לביתה",
       "summary": "רפ\"ק ברק סיטון ממשטרת יפו הסביר ברדיו 103fm מי היה אמור לפקח על עבריין המין המורשע: \"המשטרה לא עוסקת בפיקוח\", אמר, וחשף כי החשוד חזר לביתה של הצעירה שבועיים אחרי האונס, כשהיא ישנה.",
@@ -50,6 +113,24 @@
       "pubDate": "2026-11-11T09:07:45.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21827388",
+      "title": "נינט טייב: \"מזל שיש אותך\"",
+      "summary": "הזמרת וגרושתו של אבי שתי בנותיה המוזיקאי יוסי מזרחי מוצאת נחמה בימים מאתגרים. וגם: מה קרה בביתה כשעמלה על ארוחה ליורשות העצר?",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21827388",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:05:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21827527",
+      "title": "15 חנויות ושני מוקדי אוכל חדשים: המהפכה של קניון TLV",
+      "summary": "שיעור התפוסה במתחם טיפס ל-86%, לצד שורת השקות ומעברים מסקרנים • ממתחם פופ-אפ פריזאי בעיצוב STUDIO365, דרך פריצה פיזית ראשונה למותגי רשת מובילים ועד שדרוג קולינרי מקיף • הפרטים המלאים",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21827527",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:04:12.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/humanitarian-aid-gaza-winter",
       "title": "למעלה מ-91 אלף אוהלים ויותר מ-8,200 משאיות עם ציוד חורף הוכנסו לרצועה",
       "summary": "דובר צה\"ל מציג את היקף הציוד שנכנס לרצועת עזה במסגרת ההיערכות לחורף הכולל למעלה מ-91 אלף אוהלים ויותר מ-8,200 משאיות - וזאת למרות שארגון הטרור חמאס מסרב להתפרק מנשקו וממשיך לנצל את המרחב האזרחי והסיוע ההומניטרי לצורכי טרור\" (צבא)",
@@ -57,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T09:04:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21827627",
+      "title": "נתפס בתוך העסק: פריצה למסעדה מוכרת בתל אביב סמוך להבימה",
+      "summary": "שוטרי תחנת לב תל אביב הגיעו לבית העסק ברחוב מרמורק בעקבות דיווח על פריצה למסעדת לחמנינה • השוטרים הבחינו בדלת שבורה ושמעו רעשים מתוך המסעדה הסגורה • החשוד, תושב ראשון לציון בן 41, נעצר כשיצא דרך הדלת",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21827627",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T09:03:24.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387279",
@@ -84,6 +174,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-11T08:53:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/paraglider-power-lines-rescue",
+      "title": "נגע במוות: צנחן רחיפה נלכד קשות בכבלי מתח בגובה 150 מטרים",
+      "summary": "מה שהיה אמור להיות רגע של ריגוש בשמי הודו הפך לאירוע חילוץ מורכב במיוחד, כאשר המצנח הסתבך בקווי מתח והצעיר נותר תלוי בגובה רב (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/israel-news/paraglider-power-lines-rescue",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T08:53:03.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/paraglider-power-lines-rescue",
@@ -201,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T08:39:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1387286",
+      "title": "מאחורי גבו של איזנקוט? המהלך של הדמוקרטים שעלול לפוצץ את המשא ומתן",
+      "summary": "עבאס מאותת על שיתוף פעולה בין רע\"ם לחרדים בתמיכת המשותפת • יעקב אשר שולל ממשלה בהימנעות שתי הסיעות • גלעד קריב מבהיר: \"לא נוותר על שותפות יהודית-ערבית\"",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1387286",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T08:38:47.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1387286",
@@ -399,6 +507,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T08:14:12.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383960953",
+      "title": "בא לי אותה בבינג': מה סוד הקסם של ווארט?",
+      "summary": "\"ווארט\", תכנית השידוכים למגזר החרדי, משיקה עונה חדשה. איך קרה שאפילו חילוני גמור לא יכול שלא לפרגן למשתתפים שמחפשים אהבה ולהתחזק באמונה",
+      "link": "https://www.walla.co.il/entertainment/tv/383960953",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T08:13:46.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/tv/383960953",
@@ -651,6 +768,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T07:49:26.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-c21bede5499c1a1026.htm",
+      "title": "כחודשיים אחרי הפיגוע: הלוחם נריה לייטר הועבר לשיקום",
+      "summary": "בנו של שגריר ישראל בארה\"ב יחיאל לייטר, שהמשיך לשרת במילואים גם לאחר נפילת אחיו בעזה, הועבר לשיקום לנפגעי חבלות ראש • במהלך אשפוזו עבר ניתוחים ואושפז במשך שבועות בטיפול נמרץ • הוא עדיין מחוסר הכרה, אך נושם עצמאית • המשפחה הודתה לצוותים הרפואיים על \"הטיפול המסור והמקצועי מעל ומעבר\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-c21bede5499c1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-11T07:48:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-c21bede5499c1a1026.htm",
@@ -1182,6 +1308,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T06:23:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21826415",
+      "title": "עבאס: \"עובדים על שת\"פ בין המפלגות החרדיות ורע\"ם על רשת ביטחון מהמשותפת\"",
+      "summary": "יו\"ר הדמוקרטים קורא לחבריו בגוש השינוי שלא להתמהמה בהרכבת הממשלה, ומצהיר כי בכוונתו לבטל את חוקי ההפיכה המשטרית • יו\"ר רע\"ם מנסור עבאס טען כי נאומו של נתניהו בכנסת היה מסוכן, והתייחס לקשריו עם ראש הממשלה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21826415",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T06:23:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21826415",
@@ -27687,60 +27822,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T09:33:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1385602",
-      "title": "טנגו עם האקס: דרעי עשוי לקבל את ההחלטה הקשה בחייו",
-      "summary": "ליברמן מוכן לפשרות גם בחוק הגיוס, יהדות התורה בוחנת שיתוף פעולה עם איזנקוט, ובש\"ס מתחדדת הדילמה בין נאמנות דרעי לנתניהו לבין דרישות ההנהגה הרבנית. האם המהלך יבשיל לממשלה?",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1385602",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-06T09:29:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/asher-flexibility-draft-law-hatred-avoided",
-      "title": "יעקב אשר: \"משמח לגלות את הגמישות בגיוס - טרם קיבלנו הצעה\"",
-      "summary": "יו\"ר יהדות התורה מברך על הגמישות הפוליטית החדשה בנושא הגיוס • \"כואב לחשוב כמה הסתה אפשר היה לחסוך\" | אשר: כל הצעה תובא להכרעת מרנן גדולי הדור שליט\"א (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/asher-flexibility-draft-law-hatred-avoided",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-06T09:28:38.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960322",
-      "title": "ליברמן הפר את הבטחת הבחירות, נתניהו פתח בסבב שיחות",
-      "summary": "ליברמן הפר את הבטחת הבחירות, נתניהו פתח בסבב שיחות",
-      "link": "https://www.walla.co.il/news/politics/383960322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T09:24:36.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960322",
-      "title": "אחרי הודעת ליברמן: נתניהו בבליץ טלפונים לחרדים",
-      "summary": "גורם ביהדות התורה אישר לוואלה כי מתקיימות שיחות עם אנשי גוש השינוי, והבהיר: \"אם הם ייתנו חוק גיוס נלך איתם\". יו\"ר המפלגה יעקב אשר עקץ את ליברמן על נכונותו להתפשר בסוגיה",
-      "link": "https://www.walla.co.il/news/politics/383960322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T09:24:36.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960322",
-      "title": "נתניהו בבליץ טלפונים לחרדים: \"53 מנדטים לא יספיקו\"",
-      "summary": "גורם ביהדות התורה אישר לוואלה כי מתקיימות שיחות עם אנשי גוש השינוי, והבהיר: \"אם הם ייתנו חוק גיוס נלך איתם\". יו\"ר המפלגה יעקב אשר עקץ את ליברמן על נכונותו להתפשר בסוגיה",
-      "link": "https://www.walla.co.il/news/politics/383960322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T09:24:36.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960322",
-      "title": "גורם ביהדות התורה לוואלה: \"נלך עם האופוזיציה עם חוק גיוס\"",
-      "summary": "גורם ביהדות התורה אישר לוואלה כי מתקיימות שיחות עם אנשי גוש השינוי, והבהיר: \"אם הם ייתנו חוק גיוס נלך איתם\". יו\"ר המפלגה יעקב אשר עקץ את ליברמן על נכונותו להתפשר בסוגיה",
-      "link": "https://www.walla.co.il/news/politics/383960322",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-06T09:24:36.000Z"
     }
   ]
 }
