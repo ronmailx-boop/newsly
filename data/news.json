@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:00:56.520Z",
+  "updatedAt": "2026-11-11T02:15:41.527Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21826056",
+      "title": "תאונה קשה בכביש 44: שתי משאיות פגעו בהולך רגל שנפצע אנוש",
+      "summary": "גבר כבן 40 פונה הלילה לבית החולים ללא דופק ותוך כדי החייאה • צוותי ההצלה מדווחים על זירה מורכבת במיוחד שבה נפגעו גם הנהגים • נסיבות המקרה החריג עדיין מתבררות",
+      "link": "https://www.israelhayom.co.il/news/local/article/21826056",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T01:45:21.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21826048",
       "title": "דיווח בארה\"ב: שווי אנתרופיק בהנפקה יחצה את 1,500,000,000,000 דולר",
@@ -27003,15 +27012,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-06T02:29:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21792584",
-      "title": "סכנת הצפות ושיטפונות: סוף שבוע חורפי וקר מהרגיל לעונה",
-      "summary": "מזג האוויר מתקרר עם גשמים וסופות רעמים מהצפון ועד לנגב • בשירות המטראולוגי מזהירים כי \"תיתכן סכנת חיים בנחלים בעקבות זרימות עזות\" • מגמת הקירור תימשך אל תוך הלילה עם טמפרטורות נמוכות מהממוצע • מתי המערכת צפויה לחלוף ולהחזיר את השמש",
-      "link": "https://www.israelhayom.co.il/weather/article/21792584",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T02:08:52.000Z"
     }
   ]
 }
