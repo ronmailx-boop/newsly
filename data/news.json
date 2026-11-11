@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T19:31:12.718Z",
+  "updatedAt": "2026-11-11T19:46:06.109Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961082",
+      "title": "שמעו בכי מתחת לאדמה - וגילו תינוק קבור בתוך כלוב",
+      "summary": "קואה שארפ בן 11 חודשים נעלם כשהיה בהשגחת אביו. למחרת הבחינו המחפשים באדמה שנחפרה ביער ומצאו אותו בחיים. \"זה היה בכי התינוק הכי משמח ששמענו\", סיפר השריף",
+      "link": "https://www.walla.co.il/news/world/383961082",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T19:37:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1387521",
+      "title": "צרפת אסרה את כניסת ראש המועצה - ישראל דורשת הסברים: \"רואים בחומרה\"",
+      "summary": "םראש המועצה האזורית שומרון יוסי דגן הגיע לצרפת לפגישות מדיניות, אך נעצר בביקורת הדרכונים ונאסרה כניסתו למדינה. לדבריו, הרשויות הציגו בפניו מסמכים הקושרים את ההחלטה לפעילותו ביהודה ושומרון",
+      "link": "https://www.maariv.co.il/news/politics/article-1387521",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-11T19:34:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tocr7v",
+      "title": "\"בריונים וטרוריסטים יהודיים\": השגריר הישראלי נגד המתנחלים ושרי הממשלה",
+      "summary": "השגריר צבי אבינר ופני כינה את התבטאויות בן גביר וסמוטריץ' \"מזעזעות ובלתי מתקבלות על הדעת\", וזומן לבירור דחוף במשרד החוץ (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/tocr7v",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-11T19:32:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21833684",
+      "title": "האיש שמכשיל ממשלה עם החרדים - ובכלל יושב מחוץ לכנסת",
+      "summary": "במפלגות החרדיות מביטים בנווה המדבר של ליברמן ושואלים: הייתכן? האם הפוליטיקאי האכזר מכולם באמת מציע לנו את כל הטוב הזה? • הם היו שמחים לממשלת אחדות, אבל ממקדים מאמצים בכיוון הלא נכון - ובינתיים גורם מפתיע עלול לטרפד את החלום שלהם",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21833684",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T19:28:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21834116",
+      "title": "מנכ\"ל מנרב נדל\"ן: \"האם הילדים שלי יוכלו להרשות לעצמם לגור בתל אביב?\"",
+      "summary": "אורי אריסון בהרצאה בוועידת ישראל היום בניו יורק: \"הפרדוקס הישראלי\", שלושה דברים שלא אמורים לעבוד ובכל זאת עובדים • לדבריו, 73% מהמבנים בקיבוץ מנרה נהרסו במלחמה, והקבוצה שותפה לשיקומו • \"חוסן הוא לא אסטרטגיה לשגשוג. הוא היסוד שעליו השגשוג נבנה\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21834116",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T19:26:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21833056",
+      "title": "ערב קטלני בכבישים: בן 28 נהרג בכביש 6; בת 80 נפצעה אנוש בכביש 7",
+      "summary": "גבר נהרג בהתהפכות רכב סמוך לקריית גת • בתאונה בין שני כלי רכב סמוך לכנות נפצעה אישה באורח אנוש, ואדם נוסף באורח בינוני",
+      "link": "https://www.israelhayom.co.il/news/local/article/21833056",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T19:26:04.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/parenting-boundaries-love",
       "title": "המגיד מזהיר: מה הילדים שלנו צריכים להרגיש כשאנו אומרים להם לא",
@@ -66,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T19:08:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21833454",
+      "title": "\"ישראל לא תספק את כל המזון לאזרחיה גם ב-20 השנים הקרובות - נדרשת מדיניות יבוא אחראית\"",
+      "summary": "מנהל איגוד תעשיות המזון אביב חצבני השתתף בוועידת ישראל היום בניו יורק וסיפר כי יוקר המזון נובע בעיקרו מעלויות הממשלה, והרפורמות בייבוא לא שינו את הסביבה העסקית • לדבריו, החקלאים באירופה מקבלים סובסידיות של 35%-50%, ובישראל קרוב לאפס • על מפעלי הדרום והצפון ב-7 באוקטובר: \"פתחו את השערים, הכניסו את העובדים עם חיילים והמשיכו לייצר ולשווק את מלוא מוצרי המזון לאזרחי ישראל, זה כמעט נס\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21833454",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T19:06:42.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21833454",
@@ -165,6 +228,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T18:53:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21832648",
+      "title": "פרופ' רייכמן: \"נקים פארק מדע חדש, מוקד משיכה לחוקרים ולסטודנטים מכל העולם היהודי\"",
+      "summary": "נשיא ומייסד אוניברסיטת רייכמן סיפר בוועידת ישראל היום בניו יורק: \"האוניברסיטה בונה את ההון האנושי של האומה, לא רק עוסקת במחקר\" • רייכמן חשף את הקמת פארק המדע החדש, התגאה ב-23 יוניקורנס שהצמיח המוסד, והתרגש מול הלוחמים הפצועים באולם • \"הלפיד הבוער שלנו הוא מגילת העצמאות\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21832648",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T18:52:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21832648",
@@ -1056,6 +1128,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-11T16:34:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21831793",
+      "title": "\"עברי מביט בי בעיניים שמזכירות את שחר - ומחייך\"",
+      "summary": "עדי בוזגלו, אלמנתו של רס\"ן שחר נתנאל בוזגלו ז''ל שנפל בקרב בעזה כשהיתה בהיריון, סיפרה בוועידת \"ישראל היום\" בניו יורק על החיים לצד האובדן: \"הזמן עצר מלכת, אבל בתוכי המשיכו לצמוח חיים\" • על לידת בנם עברי, חמישה חודשים לאחר נפילת בעלה: \"הכאב חזר בכל עוצמתו, פרצה ממני זעקה. אני רוצה שעברי יגדל בבית שיש בו מקום לגעגוע וגם לשמחה\" • מנכ\"ל ארגון אלמנות ויתומי צה\"ל, שלומי נחומסון: \"המלחמות נמדדות בשנים, אבל ההשלכות האנושיות שלהן נמדדות בדורות\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21831793",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T16:34:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21831793",
@@ -30027,96 +30108,6 @@
       "source": "N12",
       "sourceKey": "n12",
       "pubDate": "2026-11-06T20:05:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1syvosamg",
-      "title": "200 שנות מאסר למנהיג \"כת ההרעבה\" שרצח 190 ילדים בקניה",
-      "summary": "הכומר פול מקנזי, נהג מונית לשעבר ששכנע את חסידיו שסוף העולם מגיע, יישלח ל-100 שנות מאסר לאחר שהורה על התאבדות המונית ביער שקהולה בקניה. 100 שנים נוספות נגזרו עליו באשמת הריגה, והוא צפוי לעמוד לדין גם באשמת טרור וגרימת מוות של 52 בני אדם נוספים",
-      "link": "https://www.ynet.co.il/news/article/r1syvosamg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-06T19:43:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "השישי ברציפות: מכבי תל אביב הפסידה 88:67 לפרטיזן בלגרד",
-      "summary": "החבורה בצהוב שוב לא הצליחה לייצר עצירות וירדה למאזן 8:2 ביורוליג • ים מדר ודניאל תייס היחידים שבלטו עבור עודד קטש, שסופר הפסד רביעי ברצף במפעל הבכיר ונותר במקום ה-18 • בשני: גמר גביע ווינר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 60:76",
-      "summary": "מחזור 10: עודד קטש בדרך להפסד שישי ברציפות • המארחת עושה כרצונה בהתקפה, הצהובים לא מצליחים לצמצם את הפער • ים מדר ודניאל תייס היחידים שבולטים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 52:72",
-      "summary": "מחזור 10: עודד קטש בדרך להפסד שישי ברציפות • המארחת עושה כרצונה בהתקפה, הצהובים לא מצליחים לצמצם את הפער • ים מדר נקודת האור הבודדת",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 35:50",
-      "summary": "מחזור 10: עודד קטש פתח עם טי ג'יי ליף וארמנדו בייקוט בחמישייה, המארחת ניצלה זאת וצלפה לשלוש בדרך ליתרון דו ספרתי • ים מדר עלה מהספסל וצמצם את הפער, אך למאר סטיבנס הוביל אותה בחזרה ל-15 הפרש במחצית",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 29:46",
-      "summary": "מחזור 10: עודד קטש פתח עם טי ג'יי ליף וארמנדו בייקוט בחמישייה, המארחת ניצלה זאת וצלפה לשלוש בדרך ליתרון דו ספרתי • ים מדר עלה מהספסל וצמצם את הפער",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 26:36",
-      "summary": "מחזור 10: עודד קטש פתח עם טי ג'יי ליף וארמנדו בייקוט בחמישייה, המארחת ניצלה זאת וצלפה לשלוש בדרך ליתרון דו ספרתי • ים מדר עלה מהספסל וצמצם את הפער",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "title": "חי מהיורוליג: פרטיזן בלגרד - מכבי תל אביב 7:18",
-      "summary": "מחזור 10: עם רצף של חמישה הפסדים רצופים, אלופת המדינה תנסה לצאת לדרך חדשה במשחקה האחרון בסרביה בתקופה הקרובה • היריבה סובלת ממכת פציעות בחלק הקדמי, אך תזכה לאווירה ביתית לוהטת • דניאל תייס בסגל",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21795836",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-06T19:38:04.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjffncoagl",
-      "title": "ישראלי ראשון בוועדה לביקורת האו\"ם: \"הישג חשוב\"",
-      "summary": "שי מזרחי, ראש החטיבה לביקורת השלטון המקומי במשרד מבקר המדינה, מונה לכהונה של שלוש שנים בגוף המשנה לעצרת הכללית של האו\"ם. השגריר דנון: \"דווקא בתקופה שבה ישראל מתמודדת עם ניסיונות להדרה ולדה-לגיטימציה\"",
-      "link": "https://www.ynet.co.il/news/article/bjffncoagl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-06T19:34:30.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjffncoagl",
-      "title": "דיפלומט ישראלי ראשון בוועדה לביקורת האו\"ם: \"הישג חשוב\"",
-      "summary": "שי מזרחי, ראש החטיבה לביקורת השלטון המקומי במשרד מבקר המדינה, מונה לכהונה של שלוש שנים בגוף המשנה לעצרת הכללית של האו\"ם. השגריר דנון: \"דווקא בתקופה שבה ישראל מתמודדת עם ניסיונות להדרה ולדה-לגיטימציה\"",
-      "link": "https://www.ynet.co.il/news/article/bjffncoagl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-06T19:34:30.000Z"
     }
   ]
 }
