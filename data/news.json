@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:45:52.150Z",
+  "updatedAt": "2026-11-12T19:01:17.055Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/herzog-mediated-netanyahu-eisenkot-meeting",
+      "title": "האיש שתיווך בין נתניהו לאיזנקוט והעביר מסר לפני הפגישה הערב",
+      "summary": "נשיא המדינה יצחק הרצוג תיווך במגעים לקיום הפגישה הביטחונית • בבית הנשיא מכחישים בתוקף כל מעורבות | הפגישה שנמשכה למעלה משעתיים (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/herzog-mediated-netanyahu-eisenkot-meeting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T18:58:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1387917",
+      "title": "שבועות של כוננות, שני טילים וקומה אחת: מאחורי החיסול החולים נאצר בעזה",
+      "summary": "שבועות של כוננות, שני טילים מדויקים ועשר דקות מהאות של השב״כ: חיל האוויר תקף את המפקדה בקומה השלישית של בית החולים נאצר, בניסיון להימנע מפגיעה בקומות שמתחתיה. בצה״ל לא יודעים אם המטרה חוסלה",
+      "link": "https://www.maariv.co.il/news/military/article-1387917",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T18:58:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkmkifxagg",
+      "title": "למשך כשעה: תקלה עולמית השביתה את אאוטלוק של מיקרוסופט",
+      "summary": "יותר מ-130 אלף דיווחים על בעיות התקבלו ממשתמשים. מוקדם יותר הודיעה מיקרוסופט על תקלה בצפון אמריקה, אך ציינה כי היא עשויה להשפיע גם על משתמשים באזורים אחרים",
+      "link": "https://www.ynet.co.il/news/article/bkmkifxagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T18:35:01.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkmkifxagg",
       "title": "לא רק לכם המייל לא עובד: תקלה עולמית באאוטלוק של מיקרוסופט",
@@ -33645,51 +33672,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T19:06:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21799263",
-      "title": "המאמן החדש הכריע: מנור סולומון קיבל בשורה מטרידה בווסטהאם",
-      "summary": "סקוט פארקר העדיף את אדווין אוסטבו במשחקו השני בתפקיד, ובאנגליה החמיאו למתחרה של הישראלי • סולומון נכנס בדקה ה־59 בהפסד 2:1 לבלקבורן • הקפטן ג׳רוד בואן: ״אנחנו חייבים לעשות הרבה יותר כסגל שחקנים״",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21799263",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T19:00:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21798981",
-      "title": "הרכב או הבית נפגעו בהצפות? מדריך הפיצויים המלא - שיגן על הכיס שלכם",
-      "summary": "הסערה שהפתיעה אותנו בסוף השבוע הותירה רכבים ש\"טבעו\", עצים שקרסו ונזקים כבדים לרכוש • עו\"ד אסף ורשה, מומחה בדיני ביטוח ונזיקין, מסביר - מי אחראי לנזקים, מתי הרשות המקומית חייבת לפצות, מה מכסות הפוליסות השונות ומהן הבעיות שחשוב לעשות מיד לאחר גילוי הנזק?",
-      "link": "https://www.israelhayom.co.il/news/local/article/21798981",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T18:58:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21799115",
-      "title": "לקראת ינואר: מכבי תל אביב עוקבת אחרי שני שחקנים מליגת העל",
-      "summary": "הצהובים עשויים להקפיא את טייריס אסאנטה ובוחנים מועמדים לעמדות הבלם והכנף • במקביל, שני כישרונות נמצאים תחת מעקב של המועדון • לא נפסלת האפשרות שאיסוף סיסוקו יימכר בעקבות העומס המסתמן בקישור",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21799115",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T18:57:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21799115",
-      "title": "לקראת ינואר: מכבי תל אביב סימנה שני שחקנים מליגת העל",
-      "summary": "הצהובים עשויים להקפיא את טייריס אסאנטה ובוחנים מועמדים לעמדות הבלם והכנף • במקביל, שני כישרונות סומנו והמועדון עשוי להגיש הצעות • לא נפסלת האפשרות שאיסוף סיסוקו יימכר אחרי חזרתו של כריסטיאן בליץ'",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21799115",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T18:57:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960438",
-      "title": "אישום בבלגיה: איים לשסף את גרונם של בני משפחה יהודית",
-      "summary": "תושב העיר נאמור נאשם באיומים על משפחת בעל הדירה היהודי שלו, לאחר שהגיע לגבות תשלומים שלא שולמו. בנוסף, הוא מואשם בהכחשת שואה ובהטרדת שכנה ממוצא זר. גזר הדין צפוי בדצמבר",
-      "link": "https://www.walla.co.il/news/world/383960438",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T18:54:52.000Z"
     }
   ]
 }
