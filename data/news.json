@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:01:13.693Z",
+  "updatedAt": "2026-11-12T06:15:55.462Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387602",
+      "title": "השכנה של ישראל שמתפרקת מבפנים: המשבר שמאיים למוטט את המדינה",
+      "summary": "הבנק העולמי צופה שכלכלת לבנון תתכווץ השנה ב־6.4%. בבקעת הלבנון עלויות העבודה של מגדל ענבים זינקו פי חמישה, ובביירות בעלת עסק משלמת יותר מ־1,600 דולר בחודש על גנרטור",
+      "link": "https://www.maariv.co.il/news/world/article-1387602",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T06:06:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21835985",
+      "title": "זה מתקרב: הפועל תל אביב בדרך לחיזוק ישראלי משמעותי",
+      "summary": "שחקן משמעותי בסגל של האדומים אמור לקבל את האזרחות הישראלית שלו בקרוב: \"עשינו תהליך ארוך ואקבל את הדרכון בקרוב\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21835985",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T05:56:34.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387599",
       "title": "פרצו את המבצר השמרני: המועמד הדמוקרטי הפך לסנאטור של מיסיסיפי",
@@ -93,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-12T05:30:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21835900",
+      "title": "סל ענק לדני אבדיה ושיא עונתי, פורטלנד ניצחה את אוקלהומה סיטי",
+      "summary": "ניצחון גדול לישראלי וקבוצתו על האלופה לשעבר 108:118, בפעם השנייה תוך יומיים • הוא סיים עם 28 נקודות, החטיא 9 שלשות - אך קלע אחת גדולה ברבע האחרון • דמיאן לילארד התעלה במאני טיים • הבלייזרס במאזן 3:8",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21835900",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T05:26:43.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21835900",
@@ -266,6 +293,15 @@
       "pubDate": "2026-11-12T04:35:38.000Z"
     },
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14955821",
+      "title": "הפערים העמוקים בין דרישות החרדים לגוש השינוי | אלה הרבנים שיכריעו במו\"מ",
+      "summary": "המנהיגים של החברה החרדית מאוכזבים מאוד מנתניהו ומאושרים מהנכונות של גוש השינוי להתפשר. אבל כבר עכשיו ברור לנציגים של איזנקוט ויהדות התורה, שבין הצדדים פער עצום בנושאים הבוערים של דת ומדינה, ובמיוחד בסוגיית הגיוס. וגם: אלה \"ארבעת גדולי הדור\" - שיקבעו את זהות ראש הממשלה הבא",
+      "link": "https://www.ynet.co.il/news/article/yokra14955821",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T04:27:53.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/axtemgh3l",
       "title": "סיכוי לגשם במישור החוף הצפוני, לקראת התחממות בסופ\"ש | התחזית",
       "summary": "העלייה בטמפרטורות תחל כבר היום ותימשך לאורך הימים הקרובים. מלבד גשמים מקומיים בחוף שעשויים לרדת הבוקר, אין צפי למשקעים במהלך סוף השבוע. בראשון - שוב ירידה בטמפרטורות",
@@ -273,6 +309,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-12T04:19:30.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961093",
+      "title": "\"לשמור על שקט\": הנזיפה שקיבל שר ההגנה האמריקני",
+      "summary": "תקרית חריגה בבית העלמין הלאומי ארלינגטון: חייל ששמר על קבר החייל האלמוני עצר את סיורו וקרא לעבר קבוצת מבקרים שכללה את פיט הגסת', לאחר שחבריה נשמעו משוחחים וצוחקים בתום טקס יום הווטרנים",
+      "link": "https://www.walla.co.il/news/world/383961093",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T04:04:16.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383961093",
@@ -624,6 +669,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T00:02:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21835555",
+      "title": "צה\"ל: הותקפו בכירי חמאס שהסתתרו בבית החולים נאסר - היעד מח\"ט חאן יונס",
+      "summary": "מחבל בכיר ומחבלים נוספים מארגון הטרור חמאס הותקפו מהאוויר בחאן יונס לאחר שקידמו מתווי טרור נגד ישראל וכוחות צה\"ל • בצה\"ל טוענים כי הארגון הפך את המתחם הרפואי למפקדה צבאית • על פי דיווחים פלסטיניים, שישה בני אדם נהרגו ועוד 20 נפצעו ובצה\"ל טוענים כי ננקטו צעדים לצמצום הפגיעה באזרחים",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21835555",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T23:31:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21835555",
@@ -1182,6 +1236,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-11T20:07:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21834238",
+      "title": "\"העתיד של מכבי תל אביב יהיה מדהים יותר מהעבר שלה\"",
+      "summary": "ג'ייסון לוין, בעל המניות החדש במועדון, סיפר בוועידת \"ישראל היום\" בניו יורק כי הביא את מנכ\"ל היורוליג לארץ כדי לקדם את חזרת המשחקים: \"בדובאי הם אומרים שזה בטוח\" • לוין הבטיח לממש את ניסיונו בבניית אצטדיונים ומרכזי אימון באימון: \"מכבי זו לא הצעה שאפשר לסרב לה\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21834238",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-11T20:07:43.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21834238",
@@ -31035,33 +31098,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T06:16:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1385762",
-      "title": "היהודי הליברל שהפך ליועץ הכי קיצוני של טראמפ: הכירו את האיש החזק החדש של ארצות הברית",
-      "summary": "אחרי המפלה הרפובליקנית בבחירות, טראמפ מינה את סטיבן מילר לראש הסגל בבית הלבן • היועץ היהודי שגדל במשפחה ליברלית הפך לאדריכל מדיניות ההגירה הנוקשה",
-      "link": "https://www.maariv.co.il/news/world/article-1385762",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-07T06:06:04.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1385762",
-      "title": "מאוניברסיטת השמאל ועד להפרדת ילדים מהוריהם: האדריכל החדש של הבית הלבן",
-      "summary": "אחרי המפלה הרפובליקנית בבחירות, טראמפ מינה את סטיבן מילר לראש הסגל בבית הלבן • היועץ היהודי שגדל במשפחה ליברלית הפך לאדריכל מדיניות ההגירה הנוקשה",
-      "link": "https://www.maariv.co.il/news/world/article-1385762",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-07T06:06:04.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875270",
-      "title": "אבדיה ופורטלנד שמטו יתרון 16 ונכנעו לעוד מופע של דונצ'יץ'",
-      "summary": "הישראלי (22 נקודות, 9 ריבאונדים, 11 אסיסטים ו-8 איבודים) סיפק מחצית ראשונה מצוינת והיה קרוב לטריפל דאבל, אך ריצת 0:17 ברבע השלישי הטיסה את הלייקרס ל-118:124 בסיום. הסלובני הדהים עם 53",
-      "link": "https://sports.walla.co.il/item/3875270",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T06:05:00.000Z"
     }
   ]
 }
