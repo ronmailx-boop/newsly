@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:31:06.689Z",
+  "updatedAt": "2026-11-12T18:45:52.150Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkmkifxagg",
+      "title": "לא רק לכם המייל לא עובד: תקלה עולמית באאוטלוק של מיקרוסופט",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/bkmkifxagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T18:35:01.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/change-bloc-haredim-draft-freeze-proposal",
       "title": "הדיל שגוש השינוי שוקל לחרדים: שנת הקפאה על מעצרים ואכיפת הגיוס",
       "summary": "הצעה להקפאת אכיפת גיוס לשנה מיד לאחר הקמת הממשלה • מתווה מבוסס על חוק ליברמן משנת 2018 | המוקשים בדרך: בג\"ץ, צה\"ל ודילמת רע\"ם (פוליטי מדיני)",
@@ -39,6 +48,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T18:27:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21840654",
+      "title": "\"רצח\": הכדורגלן הבכיר דורש צדק לספורטאי שנהרג בצורה מחרידה",
+      "summary": "תיעודי המוות של האתלט כריסטיאן יוסיפ פרישה זעזעו את קרואטיה, ובלם הנבחרת דיאן לוברן התערב • \"זו לא תאונה או 'סיבוך', האחריות לא יכולה להסתיים בארבעת העצורים, הצדק חייב להיעשות עד הסוף\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21840654",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T18:21:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21842048",
+      "title": "כשאם הבנים התחננה: \"באתי ממרוקו לציון, אני רוצה ממשלה ציונית\"",
+      "summary": "אם חשבנו שאין יותר נמוך מקמפיין הבחירות, הגיע תקופת המשא ומתן הקואליציוני ונקשה מלמטה • לכנסת הגיעו אנשים הנושאים בגופם ונפשם את תלאות עמנו, והעניקו לנו הזדמנות האחרונה לתקן • מרים פרץ, אמא לשני חללי צה\"ל וחבר כנסת אחד, הוציאה לנו את המילים מהפה כשזעקה: דיי",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21842048",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T18:19:02.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjr8tdmcfx",
@@ -255,6 +282,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T17:33:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387894",
+      "title": "צרפת פתחה חזית עם ישראל - ואז הגיעה התגובה מירושלים",
+      "summary": "שר החוץ גדעון סער החליט לאסור את כניסתם לישראל של שני בכירי מפלגת השמאל הצרפתית, בעקבות התבטאויותיהם נגד ישראל והתמיכה במשטים לעזה. ההחלטה מגיעה שבוע לאחר שצרפת מנעה את כניסתו של יוסי דגן",
+      "link": "https://www.maariv.co.il/news/world/article-1387894",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T17:30:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387894",
@@ -480,6 +516,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T16:57:47.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1387885",
+      "title": "\"איזו מן צורה זו?\": המומחה למשפט חוקתי בביקורת חריפה על השופטים בתיקי נתניהו",
+      "summary": "משפט נתניהו שוב מעורר סערה בעקבות הודעת היועמ\"שית שלא תתייצב לדיון שאליו זומנה. עו\"ד אייל רוזובסקי מפנה ביקורת חריפה דווקא לשופטים: \"המשפט מתנהל כמשפט שלא ייגמר אף פעם\"",
+      "link": "https://www.maariv.co.il/news/law/article-1387885",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T16:57:44.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387885",
@@ -33645,42 +33690,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-07T18:54:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960437",
-      "title": "\"תשביע ממשלה עכשיו\": המסר המפתיע של טראמפ לאיזנקוט",
-      "summary": "לפי דיווח של בן כספית במהלך שידור \"פגוש את העיתונות\" בערוץ 12, גורמים בסביבת נשיא ארה\"ב העבירו מסר לאנשי יו\"ר ישר! לפעול להקמת ממשלה ללא דיחוי. \"תשביע ממשלה עכשיו\", מסרו מסביבת טראמפ",
-      "link": "https://www.walla.co.il/news/politics/383960437",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T18:39:56.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960437",
-      "title": "\"מקורבי טראמפ פנו לאנשי איזנקוט - 'תחליפו את נתניהו עכשיו'\"",
-      "summary": "לפי דיווח של בן כספית במהלך שידור \"פגוש את העיתונות\" בערוץ 12, גורמים בסביבת נשיא ארה\"ב העבירו מסר לאנשי יו\"ר ישר! לפעול להקמת ממשלה ללא דיחוי. \"תשביע ממשלה עכשיו\", מסרו מסביבת טראמפ",
-      "link": "https://www.walla.co.il/news/politics/383960437",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T18:39:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/to59ez",
-      "title": "'כאן' יצא בעוצמה נגד איילה חסון - שלא נותרה חייבת וחשפה התכתבות",
-      "summary": "המתח בין המגישה איילה חסון שפוטרה מתוכניתה לבין תאגיד 'כאן 11' מגיע לשיא | הערב פרסם התאגיד הודעה נגד איילה חסון - שלא נותרה חייבת (חדשות)",
-      "link": "https://www.kikar.co.il/news/to59ez",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-07T18:39:52.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkrub16tml",
-      "title": "אחרי שליברמן התקפל, בצה\"ל מבהירים: \"הצורך בלוחמים לא השתנה עקב הבחירות\"",
-      "summary": "צביעות בנטל: על-רקע הגמישות שמגלה יו\"ר ישראל ביתנו בנוגע לגיוס חרדים, בצבא מזכירים את המחסור העמוק בכוח אדם ואת הדחיפות לאלפי חיילים נוספים. בכיר במטכ\"ל: \"המדינה חייבת חוק גיוס חדש שיצמצם את מספר מקבלי הפטור\"",
-      "link": "https://www.ynet.co.il/news/article/bkrub16tml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-07T18:38:48.000Z"
     }
   ]
 }
