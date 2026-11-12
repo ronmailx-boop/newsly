@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:16:06.451Z",
+  "updatedAt": "2026-11-12T12:30:59.287Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjouamx0fg",
+      "title": "מרים פרץ: אם תוקם ממשלה עם ערבים אליסף יעזוב את הכנסת. יערוק? יש לחצים",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/rjouamx0fg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T12:26:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/91637",
+      "title": "\"אם המפלגה של בני תשב עם מפלגה ערבית - הוא יעזוב את הכנסת\"",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/91637",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T12:21:56.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/health-news/two-year-old-girl-critical-flu-complication-shaare",
       "title": "פיתחה הרעלת מים: ילדה בת שנתיים במצב קשה בשערי צדק - והסיבה תזעזע אתכם",
       "summary": "ילדה בריאה ללא מחלות רקע אושפזה בטיפול נמרץ | סבלה מפרכוסים עקב תסמונת SIADH נדירה | הרופאים: 'לא התחסנה נגד שפעת - והמחיר כמעט היה חייה' (חדשות בריאות)",
@@ -41,6 +59,42 @@
       "pubDate": "2026-11-12T12:15:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21839155",
+      "title": "בגלל מה שקרה מול מכבי תל אביב: קבוצת היורוליג נענשה",
+      "summary": "פרטיזן בלגרד ספגה קנס כספי בסך 8,000 יורו אחרי שאוהדיה הדליקו אבוקות ביציעים במהלך הניצחון מול הצהובים • בשיקטאש נענשה בגין פריצת אוהד למגרש במשחק מול אולימפיאקוס",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21839155",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T12:14:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21839179",
+      "title": "רשת סודוך פותחת סניף חדש - באחת הערים הגדולות בישראל",
+      "summary": "מותג הטוסט נקניק הוותיק ממשיך להתרחב ומשיק מקום חדש באשדוד - שיהיה ה-20 שלו ברחבי הארץ • מתי ייפתח? כל הפרטים",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21839179",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T12:14:05.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961181",
+      "title": "מרים פרץ: \"אם איזנקוט יישב עם הערבים - בני יתפטר מהכנסת\"",
+      "summary": "אמו של ח\"כ אליסף פרץ ממפלגתו של גדי איזנקוט הציבה בריאיון לרדיו קול ברמה קו אדום בנוגע לשותפות עם מפלגות ערביות. הדברים נאמרו על רקע הדיון על הרכב הממשלה הבאה",
+      "link": "https://www.walla.co.il/news/israel/383961181",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T12:12:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21839133",
+      "title": "השקעת הענק של עומרי כספי: המספרים מאחורי העסקה",
+      "summary": "בתוך כשנה מהקמתה הגיעה Edelbyte לשווי של חצי מיליארד דולר, לאחר שגייסה 70 מיליון דולר • כדורסלן העבר היה שם כבר מההתחלה, באמצעות קרן Swish Ventures, לצד כמה מהשמות הבולטים בעולם ההון סיכון",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21839133",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T12:08:40.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1387790",
       "title": "נקמה עם שופל: האיש שהחליט להרוס בניין ממשלתי",
       "summary": "גבר בן 47 הגיע עם מחפר כבד למרכז שירות ממשלתי בסין וגרם נזק לחזית המבנה, למדרגות ולחלקים נוספים. עובדי המקום והמבקרים פונו, והמשטרה השתלטה על הנהג ועצרה אותו. הסיבה: סכסוך על פיצויים",
@@ -48,6 +102,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-12T12:07:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21839022",
+      "title": "הקהל אמר את דברו: 10 הסדרות המובילות היום בנטפליקס",
+      "summary": "טבלת הצפיות הרשמית של נטפליקס בישראל ממשיכה להציג תמהיל מסקרן של דוקו, מתח וקומדיה • השבוע אנו מקבלים פנימה להיטי פשע בינלאומיים, כשהמקום הראשון שייך לתעלומה לא פתורה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21839022",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T12:01:57.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3876007",
@@ -84,6 +147,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T11:53:39.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961176",
+      "title": "מקלענית ולוחמת סנפלינג מתאמנות במדינה השמרנית, וזו המטרה",
+      "summary": "משמרות המהפכה הדריכו מתנדבות בשימוש בנשק ובגלישה בחבלים במתקן ראשון לנשים בכיכר אזאדי. לפי הרשויות, תוכנית \"ג'אן-פדא\" נועדה להכין אזרחים למתקפה קרקעית אמריקנית אפשרית",
+      "link": "https://www.walla.co.il/news/world/383961176",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T11:50:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21838824",
@@ -266,6 +338,15 @@
       "pubDate": "2026-11-12T11:20:24.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/entertainment/music/383961085",
+      "title": "בגיל 68, מלכת הפופ חוזרת לפסטיבל המוסיקה הגדול בעולם",
+      "summary": "מפיקי קואצ'ילה חשפו את רשימת האמנים שיופיעו בו עם שלושה שמות גדולים בראש הרשימה, קאמבק של אגדה ואורח מפתיע במיוחד",
+      "link": "https://www.walla.co.il/entertainment/music/383961085",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T11:19:47.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21838511",
       "title": "לא רק מטרד לבן הזוג: כך תזהו אם הנחירות שלכם מסכנות את הבריאות",
       "summary": "הקטע של שלו לביא ב\"הישרדות\" מעלה לדיון תופעה מוכרת בחדרי השינה • מתי נחירות הן רק מטרד אקוסטי ומתי הן מעידות על דום נשימה מסוכן? • כל הבדיקות והטיפולים שבאמת עובדים",
@@ -402,6 +483,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387748",
+      "title": "כדי לכסות חובות: הרחוב בטהרן שהפך \"לרחוב הכליות\" - אזרחים אפילו מציעים אשכים",
+      "summary": "המשבר הכלכלי באיראן דוחף אזרחים להציע למכירה איברי גוף כדי לכסות חובות. ברחוב בטהרן המכונה \"רחוב הכליות\" נתלו מודעות למכירת איברים, ואחד המוכרים אף הציע כליה, רקמת כבד ואשך",
+      "link": "https://www.maariv.co.il/news/world/article-1387748",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T10:51:58.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387748",
       "title": "כדי לכסות חובות: הרחוב בטהראן שהפך \"לרחוב הכליות\" - אזרחים אפילו מציעים אשכים",
       "summary": "המשבר הכלכלי באיראן דוחף אזרחים להציע למכירה איברי גוף כדי לכסות חובות. ברחוב בטהראן המכונה \"רחוב הכליות\" נתלו מודעות למכירת איברים, ואחד המוכרים אף הציע כליה, רקמת כבד ואשך",
       "link": "https://www.maariv.co.il/news/world/article-1387748",
@@ -453,6 +543,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T10:42:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1387755",
+      "title": "פתחה לשוטר את הדלת - וקיבלה את שוק חייה",
+      "summary": "צעיר בן 26 חשוד שהתחזה לשוטר כדי להיכנס לדירתה של נתינה זרה במרכז תל אביב, איים עליה בשוקר חשמלי ושדד ממנה כסף מזומן. לאחר שנמלט מהזירה, אותר החשוד בדירתו ונעצר כשברשותו כסף וראיות נוספות",
+      "link": "https://www.maariv.co.il/news/law/article-1387755",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T10:42:30.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387755",
@@ -32925,33 +33024,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T12:44:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21797148",
-      "title": "הפגנה בכיכר הבימה הערב: \"נתניהו וזיני, אתם משחקים באש\"",
-      "summary": "על רקע הסערה סביב אישור תוצאות הבחירות, תקיים הערב התנועה לאיכות השלטון עצרת בתל אביב • בתנועה דורשים מראש הממשלה ומראש השב\"כ זיני לכבד את קביעת יו\"ר ועדת הבחירות השופט סולברג, ותוקפים את מה שכינו \"חקירות פוליטיות\" • בין הנואמים בעצרת: ראש השב\"כ לשעבר עמי איילון ושר המשפטים לשעבר דן מרידור",
-      "link": "https://www.israelhayom.co.il/news/local/article/21797148",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T12:23:30.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875299",
-      "title": "גוש השינוי צריך לזכור איפה הוא חי: להחליף את אוחנה מיד",
-      "summary": "המערכת הפוליטית אינה סובלנית לנימוסים והליכות של גוש השינוי. יש לנצל את הרוב הפרלמנטרי להקמת ועדת חקירה ולמינוי מבקר מדינה",
-      "link": "https://finance.walla.co.il/item/3875299",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T12:20:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21797127",
-      "title": "ירושלים משנה את פניה: מאות דירות מוזלות לקציני צה\"ל",
-      "summary": "ההסכם בין העירייה למשרד הביטחון כולל העתקת תשתיות ביטחוניות לבירה, הקמת מגדל בן 30 קומות ומגורים מסובסדים למפקדים בדרגות סרן עד סגן-אלוף • בכיר המעורה בפרויקט: \"המטרה היא להעלות אוכלוסייה איכותית, ציונית ומשרתת לעיר\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21797127",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T12:17:51.000Z"
     }
   ]
 }
