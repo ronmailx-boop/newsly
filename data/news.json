@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:31:13.267Z",
+  "updatedAt": "2026-11-12T17:43:43.386Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkjxbw7cgl",
+      "title": "יותר ממיליון חתמו: אירופה תבחן את השותפות המסחרית והמדינית עם ישראל",
+      "summary": "עצומה של מפלגות אנטי-ישראליות, שחצתה את רף מיליון החתימות, טוענת כי ישראל נכשלה במניעת רצח עם ברצועת עזה. הנציבות האירופית תדון בנושא ותשיב רשמית עד מאי 2027 - אך לפי האתר פוליטיקו, לא צפוי שינוי ממשי. רוב החתימות הגיעו מצרפת, מאיטליה ומספרד",
+      "link": "https://www.ynet.co.il/news/article/bkjxbw7cgl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T17:38:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "title": "עשרות נוסעים נתקעו באוויר ברכבלית בחיפה, נערכים לחילוצים מורכבים",
+      "summary": "תקלה טכנית חמורה עצרה את קו 27 של הרכבלית, ועליה עשרות נוסעים, למשך כשעה וחצי | כוחות כבאות והצלה הגיעו לזירה ונערכו לחילוץ מורכב, אולם בשלב מסוים הרכבלית שבה לעבוד (בארץ)",
+      "link": "https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T17:36:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byaws7xage",
+      "title": "גוש השינוי שוקל הצעה לחרדים: הקפאת אכיפת גיוס ומעצרים עד שנה",
+      "summary": "האתגר: איך להקים ממשלה עם חרדים מבלי אפשרות להעביר קודם מהלך ממשי. הפתרון שנבחן: הבטחה פומבית להקפאת מעצרים ואכיפת גיוס חרדים לתקופה של עד שנה בהחלטת ממשלה כדי לקדם הסדר מקיף לגיוס. המוקשים: החרדים נשארים בסוף רק עם הבטחות, לצד קשיים מול מבחן בג\"ץ והתנגדות צה\"ל להקפאת מעצרים",
+      "link": "https://www.ynet.co.il/news/article/byaws7xage",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T17:35:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "title": "עשרות נוסעים תקועים באוויר ברכבלית בחיפה, נערכים לחילוצים מורכבים",
+      "summary": "תקלה טכנית חמורה עצרה את קו 27 של הרכבלית • נוסעים תלויים בגובה רב מעל הקרקע | כוחות כבאות והצלה נערכים לחילוץ מורכב (בארץ)",
+      "link": "https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T17:33:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387894",
+      "title": "הקרע עם צרפת מעמיק: ישראל הודיעה על צעד חריג",
+      "summary": "שר החוץ גדעון סער החליט לאסור את כניסתם לישראל של שני בכירי מפלגת השמאל הצרפתית, בעקבות התבטאויותיהם נגד ישראל והתמיכה במשטים לעזה. ההחלטה מגיעה שבוע לאחר שצרפת מנעה את כניסתו של יוסי דגן",
+      "link": "https://www.maariv.co.il/news/world/article-1387894",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T17:30:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21839819",
+      "title": "מה יצחק אבינו יכול ללמד אותנו דווקא אחרי הבחירות",
+      "summary": "בזמן שהמציאות אינה עונה על מאוויינו והייאוש עלול לכרסם, אפשר לשאוב מים חיים מדמות האב השני • הוא נראה פסיבי ביחס לאברהם ויעקב אך דווקא הוא טבע בתודעתנו את הדבקות בארץ ישראל, ואת האמונה שמפנים היסטוריים מתרחשים בהיסח הדעת",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21839819",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T17:28:18.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91679",
       "title": "דיווח ראשוני: עשרות תקועים באוויר ברכבלית בחיפה, נערכים לחילוצים מורכבים",
       "summary": "",
@@ -39,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T17:25:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21839438",
+      "title": "להתחבר לשורשים התימניים דווקא מאמריקה: \"בכיתי לא רק בשבילי\"",
+      "summary": "נעמי קהתי ברונר גדלה בבית תימני מסורתי, התרחקה ממנו ובנתה חיים חדשים, אבל את הסיפור המשפחתי לא הצליחה להשאיר מאחור • בספר חדש היא חוזרת אל ילדותה ואל בית אמה, ומגלה שהכאב הפרטי שלה הוא גם זיכרון של קהילה שלמה • ראיון",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21839438",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T17:22:08.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-courts/haredi-neighborhood-court-ruling-165-sqm-apartment",
@@ -51,12 +114,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjmu4o7rfx",
+      "title": "שעה וחצי באוויר: עשרות נתקעו ברכבלית בחיפה",
+      "summary": "יומיים אחרי שחזרה לפעילות, אחרי עבודות תחזוקה, הרכבלית בחיפה נתקעה בעקבות תקלה. בעוד הנוסעים מחכים לחילוץ, במשך שעה וחצי, התקלה סודרה. אחד הנוסעים סיפר: \"זה היה סיוט. עברנו רגעים לא נעימים\"",
+      "link": "https://www.ynet.co.il/news/article/hjmu4o7rfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T17:20:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjmu4o7rfx",
       "title": "עשרות תקועים באוויר ברכבלית בחיפה, היערכות לחילוצים מורכבים",
       "summary": "יומיים אחרי שחזרה לפעילות, אחרי עבודות תחזוקה, הרכבלית בחיפה נתקעה בעקבות תקלה. כבר שעה וחצי שעשרות נוסעים תקועים באוויר - ומחכים לחילוץ",
       "link": "https://www.ynet.co.il/news/article/hjmu4o7rfx",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-12T17:20:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21841876",
+      "title": "הרבה מעבר לתדרוך ביטחוני: מה נתניהו ביקש להשיג בפגישה עם איזנקוט?",
+      "summary": "הפגישה בין ראש הממשלה ליו\"ר ישר! נועדה להפחית את הביקורת על מהלכים צבאיים אפשריים ולהציג את הצורך בממשלה רחבה • למרות העימותים בקמפיין הבחירות, בין השניים קיימת הערכה הדדית ושפה משותפת • גורם ביטחוני בכיר לשעבר: \"הימצאותם בחדר אחד מייצרת שיח מסוג אחר, והרבה פחות רעיל\" • פרשנות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21841876",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T17:18:57.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/friday-night-studio/todz8q",
@@ -66,6 +147,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T17:17:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21841678",
+      "title": "אחרי המשבר והפציעה: השחקן מציג התאוששות",
+      "summary": "דניאל ליטמן דיבר לאחרונה בפתיחות בטלויזיה על המשבר הרפואי מהעבר. היום הוא נצפה ברחוב עם גבס חדש בשל פציעה, אבל דאג להרגיע את מי שהתעניין במצבו. פפראצי",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21841678",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T17:16:34.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961229",
@@ -1065,6 +1155,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T14:05:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387824",
+      "title": "הקוראן מגיע לסנאט: ההחלטה של המוסלמי הראשון בתפקיד",
+      "summary": "עבדול א-סייד, שנבחר לסנאט מטעם מישיגן ויהיה המוסלמי הראשון בתפקיד, הודיע כי יישבע אמונים על הקוראן ושוקל להשתמש בעותק עתיק. בנאום לאחר ניצחונו הכריז: \"מישיגן היא בירת אמריקה הערבית\"",
+      "link": "https://www.maariv.co.il/news/world/article-1387824",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T14:01:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387824",
@@ -33519,87 +33618,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T17:46:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21798412",
-      "title": "כחול לבן: זה הפתרון הישראלי שיעזור לאוקראינה להחליף את מאסק?",
-      "summary": "כלי תקשורת דיווחו כי צבא אוקראינה עושה שימוש במערכות אינטרנט לוייני של חברת hiSky הישראלית עבור כטב\"מים התוקפים מעל שטח רוסי • השירות נחשב אמין פחות מזה של Starlink אך הוא פתוח לגמרי בעוד מאסק הגביל את האוקראינים משימוש מלא במערכת",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21798412",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:42:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21798621",
-      "title": "\"כולרע קטן, אתה צבוע\": אורלי לוי-אבקסיס מאבדת עשתונות באולפן",
-      "summary": "השרה לשעבר הטיחה עלבונות בחברי הפאנל של חדשות 12, האשימה בצביעות וטענה שהם תמכו בהשארת רונן בר בתפקידו • בין \"כולרע קטן\" ל\"אל תקרא לי שקרנית\", הדיון הפך למופע של התלהמות אישית, שבו נדמה שהצעקות חשובות יותר מהעובדות",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21798621",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:41:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1385894",
-      "title": "לכל ממשלה שתקום: לא מוותרים על שוויון בגיוס | רחל עזריה",
-      "summary": "עמותת העוגן למשפחות המילואים, המאגדת 50 אלף משפחות מילואים וקבע, קוראת לכל ממשלה שתקום לפעול לשוויון בגיוס ומזהירה מפני המחיר המשפחתי וההשלכות האפשריות של המחסור בכוח אדם",
-      "link": "https://www.maariv.co.il/news/opinions/article-1385894",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-07T17:35:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21798614",
-      "title": "ברק בכר לא התייצב: מכבי חיפה בהחלטה חריגה אחרי מכבי נתניה",
-      "summary": "הפסד שלישי ברציפות ו־11 שערי חובה בשלושה משחקים: המשבר של הירוקים מעמיק • בשני משחקי הבית האחרונים ספגו תשעה שערים - כולם במחצית השנייה • במועדון הודיעו שאיש לא יתראיין",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21798614",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:34:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21798533",
-      "title": "אייל ברקוביץ' הורס לאקסית: \"זה לא אני\"",
-      "summary": "אחרי שב\"הזמר במסכה\" העלו את האפשרות שהוא מסתתר מאחורי תחפושת הארנב, שהקדיש שיר לשותפתו לשעבר אופירה אסייג, כדורגלן העבר מיהר להכחיש בסטורי שנמחק • ומה הקשר לניחוש קודם של אסייג עצמה?",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21798533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:33:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21798540",
-      "title": "כולנו שמים אותו שם: המקום הכי גרוע לאחסון חלב במקרר",
-      "summary": "חשבתם שדלת המקרר היא המקום האידיאלי לקרטון החלב שלכם? הטעות הנפוצה הזו לא רק תעלה לכם בכסף, אלא גם מעודדת שגשוג חיידקים מסוכן • השיטה הפשוטה שתאריך את חיי המדף ותמנע נזק",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21798540",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:33:12.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960432",
-      "title": "נתניהו קרא לאחדות; איזנקוט בתגובה: \"הצהרה מבוהלת\"",
-      "summary": "רה\"מ הזהיר מ\"אש ברחובות\" וקרא לממשלה ציונית רחבה. איזנקוט הגיב בחריפות: \"מי שפילג ושיסע נזכר להגיד אחדות רק כשהוא מבין שימיו בתפקיד ספורים\"",
-      "link": "https://www.walla.co.il/news/politics/383960432",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T17:33:04.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960432",
-      "title": "נתניהו קרא לממשלת אחדות; איזנקוט בתגובה: \"הצהרה מבוהלת\"",
-      "summary": "ראש הממשלה קרא להקים ממשלה עם מפלגות המחנה הלאומי והמפלגות הציוניות, והזהיר מפני ממשלה הנשענת על המפלגות הערביות: \"ממשלה כזו תפרק את ישראל מבפנים\"",
-      "link": "https://www.walla.co.il/news/politics/383960432",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T17:33:04.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960432",
-      "title": "לראשונה: נתניהו קורא לממשלת אחדות - ומזהיר מ\"התאבדות לאומית\"",
-      "summary": "ראש הממשלה קרא להקים ממשלה עם מפלגות המחנה הלאומי והמפלגות הציוניות, והזהיר מפני ממשלה הנשענת על המפלגות הערביות: \"ממשלה כזו תפרק את ישראל מבפנים\"",
-      "link": "https://www.walla.co.il/news/politics/383960432",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T17:33:04.000Z"
     }
   ]
 }
