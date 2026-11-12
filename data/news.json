@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:46:06.285Z",
+  "updatedAt": "2026-11-12T18:01:03.510Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/h16dmu7azg",
+      "title": "בישראל מעריכים: המו\"מ עם איראן עדיין לא התפוצץ",
+      "summary": "אחרי שטראמפ אמר ש\"לא צריך עסקה\", ולמרות שלפי המידע שיש בירושלים איראן לא התגמשה אפילו מעט בתנאיה, בישראל עוד חושבים שלא מדובר בתום המו\"מ בין הצדדים. עם זאת, בוושינגטון מבינים שאין סיכוי להגיע להסכם, ונשאלת השאלה: האם יבחר טראמפ בהמשך המצור, או בפעולה צבאית?",
+      "link": "https://www.ynet.co.il/news/article/h16dmu7azg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T17:50:48.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjmu4o7rfx",
+      "title": "יותר משעתיים באוויר: נוסעים נתקעו ברכבלית בחיפה",
+      "summary": "יומיים אחרי שחזרה לפעילות, אחרי עבודות תחזוקה, הרכבלית בחיפה נתקעה בעקבות תקלה. לאחר שעה וחצי המקטע התחתון שב לפעול - אך במקטע העליון, כ-20 נוסעים עוד מחכים לחילוץ. אחד הנוסעים סיפר: \"זה היה סיוט. עברנו רגעים לא נעימים\"",
+      "link": "https://www.ynet.co.il/news/article/hjmu4o7rfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T17:50:19.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bkjxbw7cgl",
       "title": "יותר ממיליון חתמו: אירופה תבחן את השותפות המסחרית והמדינית עם ישראל",
       "summary": "עצומה של מפלגות אנטי-ישראליות, שחצתה את רף מיליון החתימות, טוענת כי ישראל נכשלה במניעת רצח עם ברצועת עזה. הנציבות האירופית תדון בנושא ותשיב רשמית עד מאי 2027 - אך לפי האתר פוליטיקו, לא צפוי שינוי ממשי. רוב החתימות הגיעו מצרפת, מאיטליה ומספרד",
@@ -39,6 +57,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-12T17:38:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "title": "עשרות נוסעים נתקעו באוויר ברכבלית בחיפה, נערכו לחילוצים מורכבים",
+      "summary": "תקלה טכנית חמורה עצרה את קו 27 של הרכבלית, ועליה עשרות נוסעים, למשך כשעה וחצי | כוחות כבאות והצלה הגיעו לזירה ונערכו לחילוץ מורכב, אולם בשלב מסוים הרכבלית שבה לעבוד (בארץ)",
+      "link": "https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T17:36:05.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/haifa-cable-car-malfunction-rescue-operation",
@@ -327,6 +354,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-12T16:35:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1387871",
+      "title": "השב\"כ חשד, סולברג בדק - ואז התבררה התמונה האמיתית",
+      "summary": "יו\"ר ועדת הבחירות, השופט נעם סולברג, חשף כי החשדות החמורים הנוגעים לבחירות טרם הבשילו לראיות, מתח ביקורת חריפה על ההדלפות מהחקירה והבהיר כי לא מצא שהייעוץ המשפטי לממשלה בלם בקשות חקירה של השב\"כ",
+      "link": "https://www.maariv.co.il/news/politics/article-1387871",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-12T16:35:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1387871",
@@ -33537,87 +33573,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T18:04:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21798813",
-      "title": "ישראל נכנסה לחמישייה: 5 המדינות הכי פחות שלוות בעולם",
-      "summary": "מדד השלום העולמי חושף את המדינות שהכי רחוקות משקט וביטחון, והמציאות הביטחונית דרדרה גם אותנו לחמישייה הראשונה • בפינת \"טופ 5\" של \"היום פלוס\", יואב אברהמי וצהיי הגוס מנסים לפצח את הדירוג המלא",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21798813",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:58:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21798813",
-      "title": "גם ישראל ברשימה: 5 המדינות הכי פחות שלוות בעולם",
-      "summary": "מדד השלום העולמי חושף את המדינות שהכי רחוקות משקט וביטחון, והמציאות הביטחונית דרדרה גם אותנו לחמישייה הראשונה • בפינת \"טופ 5\" של \"היום פלוס\", יואב אברהמי וצהיי הגוס מנסים לפצח את הדירוג המלא",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21798813",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:58:50.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1385895",
-      "title": "בן כספית חושף: הדרישה שהגיעה מאנשי טראמפ לגדי איזנקוט",
-      "summary": "בן כספית דיווח בחדשות 12 כי גורמים בסביבת נשיא ארה\"ב העבירו לאנשי יו\"ר ישר! מסר להקים ממשלה במהירות ולהחליף את נתניהו. הדברים מגיעים לאחר ש-67 חברי כנסת המליצו על איזנקוט לראשות הממשלה",
-      "link": "https://www.maariv.co.il/news/politics/article-1385895",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-07T17:57:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1385895",
-      "title": "\"תחליף את ביבי עכשיו\": בן כספית חושף - הדרישה בסביבת טראמפ",
-      "summary": "בן כספית דיווח בחדשות 12 כי גורמים בסביבת נשיא ארה\"ב העבירו לאנשי יו\"ר ישר! מסר להקים ממשלה במהירות ולהחליף את נתניהו. הדברים מגיעים לאחר ש-67 חברי כנסת המליצו על איזנקוט לראשות הממשלה",
-      "link": "https://www.maariv.co.il/news/politics/article-1385895",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-07T17:57:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960433",
-      "title": "פתח לשותפות: התנאים של יאיר גולן למפלגות החרדיות",
-      "summary": "יו\"ר הדמוקרטים הבהיר כי הוא מעוניין בשיתוף פעולה עם המפלגות החרדיות להקמת ממשלת שינוי, אך הציב תנאים בנושאי הגיוס, התעסוקה והשבת. \"לא מחפשים להעניש את החרדים, אבל שותפות אמיתית מחייבת אחריות הדדית\"",
-      "link": "https://www.walla.co.il/news/politics/383960433",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T17:51:04.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960433",
-      "title": "יאיר גולן על ממשלה עם החרדים: מושיטים יד - אך לא צ'ק פתוח",
-      "summary": "יו\"ר הדמוקרטים הבהיר כי הוא מעוניין בשיתוף פעולה עם המפלגות החרדיות להקמת ממשלת שינוי, אך הציב תנאים בנושאי הגיוס, התעסוקה והשבת. \"לא מחפשים להעניש את החרדים, אבל שותפות אמיתית מחייבת אחריות הדדית\"",
-      "link": "https://www.walla.co.il/news/politics/383960433",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T17:51:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-parties-government-coalition",
-      "title": "בואו להכריע את הדילמה החרדית: ממשלה עם איזנקוט וליברמן או נתניהו? | כנסו והצביעו",
-      "summary": "ליברמן הסיר את הווטו על המפלגות החרדיות, ועל הפרק עלתה האפשרות להצטרפותן לממשלה בראשות איזנקוט בתמורה לחוק הגיוס - אל מול האפשרות להישאר בגוש הימין ולהמתין לממשלה בראשות נתניהו | מה דעתכם? הצביעו עכשיו בסקר (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/haredi-parties-government-coalition",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-07T17:50:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/to57ls",
-      "title": "\"החרדים כבר ניצחו\": ישי כהן על המהפך הדרמטי של ליברמן בנושא הגיוס",
-      "summary": "כתב ופרשן כיכר השבת ישי כהן מסביר בראיון ל-N12 את המשמעות האמיתית מאחורי המהלך הדרמטי של ליברמן | לאחר עשור בו החרדים היו בגדר \"מוקצה מחמת מיאוס\", בא ליברמן ו\"הכשיר את השרץ\" | החרדים כבר ניצחו (חדשות)",
-      "link": "https://www.kikar.co.il/news/to57ls",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-07T17:46:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21798804",
-      "title": "בדמעות, בשידור חי: ברק בכר התפטר ממכבי חיפה",
-      "summary": "המאמן לקח אחריות אחרי ה-4:0 מול מכבי נתניה: ״רגע מאוד קשה עבורי. אומר את זה עם דמעות - הקבוצה צריכה שינוי״ • ״קיבלתי את כל מה שרציתי. בטוח שהמועדון יצא לדרך חדשה״",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21798804",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T17:46:09.000Z"
     }
   ]
 }
