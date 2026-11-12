@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T15:31:01.755Z",
+  "updatedAt": "2026-11-12T15:46:11.880Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/utj-arab-parties-coordination-channel-change-bloc",
+      "title": "דיווח: מגעים שוטפים בין המפלגות הערביות רע\"מ והמשותפת ליהדות התורה",
+      "summary": "בכירים ביהדות התורה מנהלים שיחות עם ראשי המפלגות הערביות • עבאס הציע לאשר לפתוח במגעים ישירים עם גוש השינוי לקידום חוק גיוס | \"שיחות חולין בלבד\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/utj-arab-parties-coordination-channel-change-bloc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T15:44:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/teen-arrested-police-car-vandalism-tel-aviv",
+      "title": "תיעוד: בן 15 מתקרב לניידת מג\"ב בתל אביב וזה מה שעושה לה עם אבן",
+      "summary": "קטין מרמת גן תועד מנפץ שמשת ניידת משטרה באבן • נעצר בעקבות חקירה מהירה של בלשי תל אביב | הוגש נגדו כתב אישום (משטרה)",
+      "link": "https://www.kikar.co.il/police/teen-arrested-police-car-vandalism-tel-aviv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-12T15:33:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/washington-dc-shooting-logan-circle-five-shot",
       "title": "דרמה בוושינגטון הבירה: חמוש ירה בחמישה בני אדם ומתבצר על גג | כוחות גדולים בזירה",
       "summary": "חמישה נורו בשכונת לוגאן סירקל בבירה • החשוד התבצר בבניין מגורים | מבצע נרחב של כוחות מיוחדים (בעולם)",
@@ -57,6 +75,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T15:21:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21840606",
+      "title": "בגלל ישראל: הכדורגלן האנטישמי נכנס לרשימה השחורה",
+      "summary": "מסוט אוזיל ביקר את פיפ\"א על מדיניות הסנקציות שלה נגד רוסיה, ובאוקראינה הכניסו את שמו למאגר \"אויבי המדינה\" • במשחק ראווה בו השתתף טען: \"מקווה שהסטנדרטים הכפולים יישארו בצד, צריך להתייחס לכולם באופן שווה\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21840606",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T15:17:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21837755",
+      "title": "העיר המעורבת הכי לא מעורבת בישראל הפכה לחבית נפץ",
+      "summary": "5 שנים למבצע שומר החומות, יהודים וערבים בלוד עדיין חולקים מדרגות ומקלטים, אך האמון ביניהם לא קיים • ילדים חוששים לחצות כביש כשנהג ערבי עוצר, ותושבים מזהים כלי נשק לפי קולות הירי • אחרי אירועי השבוע, ההתפרצות נראית בפתח",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21837755",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T15:14:51.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21840820",
@@ -123,12 +159,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21840550",
+      "title": "לא בגוגל ולא דרך מכרים: הדרך החדשה להתכונן לשיחת הקידום בעבודה",
+      "summary": "מחקר במכון הטכנולוגי חולון מצא כי 40% מהעובדים מעולם לא ניהלו משא ומתן על שכר • המערכת החדשה NAO@Work מדמה מנהל קשוח שמערער על טיעונים ומעניק משוב אישי לפני רגע האמת",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21840550",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T14:54:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21840550",
       "title": "פיתוח כחול לבן: הרובוט שיכין אתכם לשיחת הקידום עם הבוס",
       "summary": "מחקר במכון הטכנולוגי חולון מצא כי 40% מהעובדים מעולם לא ניהלו משא ומתן על שכר • המערכת החדשה NAO@Work מדמה מנהל קשוח שמערער על טיעונים ומעניק משוב אישי לפני רגע האמת",
       "link": "https://www.israelhayom.co.il/tech/tech-news/article/21840550",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T14:54:52.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjiccrmrml",
+      "title": "בהלה ליד הבית הלבן: הרוג ופצועים מירי שהחל במכון כושר ב-DC, החמוש התבצר בדירה",
+      "summary": "אדם אחד נרצח וארבעה נוספים נפצעו מירי בשכונת לוגן סירקל שבלב וושינגטון הבירה, לא הרחק ממעונו של נשיא ארה\"ב. לפי הדיווחים היורה פתח באש בתוך מכון כושר יוקרתי: \"ירה למישהו בצוואר\". הוא נמלט החוצה, המשיך בירי - ובהמשך התבצר בתוך דירה, וכשהשוטרים יצרו עמו קשר הוא ירה בעצמו",
+      "link": "https://www.ynet.co.il/news/article/hjiccrmrml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-12T14:53:50.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjiccrmrml",
@@ -33474,69 +33528,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-07T15:46:29.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3875249",
-      "title": "טל גלבוע חושפת: אלו הניתוחים שבחרתי לעשות",
-      "summary": "זוכת \"האח הגדול\" והמקורבת לראש הממשלה, שחשפה לאחרונה את ההליכים הקוסמטיים שעברה, ממשיכה במהפך החיצוני ומשתפת על הניתוח המורכב שעברה: \"הרגעים הכי לא סקסיים בחיים\"",
-      "link": "https://celebs.walla.co.il/item/3875249",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T15:45:00.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3875249",
-      "title": "טל גלבוע חושפת: \"עשיתי ניתוח מתיחת בטן וירכיים\"",
-      "summary": "זוכת \"האח הגדול\" והמקורבת לראש הממשלה, שחשפה לאחרונה את ההליכים הקוסמטיים שעברה, ממשיכה במהפך החיצוני ומשתפת על הניתוח המורכב שעברה: \"הרגעים הכי לא סקסיים בחיים\"",
-      "link": "https://celebs.walla.co.il/item/3875249",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T15:45:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21797954",
-      "title": "אברי גלעד קיבל החלטה בעקבות השיתוק: \"מקווה שהכל יתיישר\"",
-      "summary": "יום אחרי שחשף שהתעורר עם חצי פנים משותקות בעקבות תסמונת בל, המגיש הוותיק פנה לצופים בסרטון חדש במוצאי שבת • עם הומור עקום משלו הוא ענה על השאלה שהעסיקה את הצופים במהלך כל השבת",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21797954",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T15:44:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21797960",
-      "title": "לכוד שעתיים בבור בעומק יותר מ-3 מטר: ילד בן 9 חולץ בשלום בפארק עדולם",
-      "summary": "כוחות חילוץ והצלה הוזעקו לחרבת שוע שבפארק עדולם, לאחר שהילד, תושב תל אביב, נפל לבור במהלך טיול של חוג סיירות • לאחר פעולת חילוץ מורכבת באמצעות מערכת חבלים ואלונקה, הוא פונה לבית החולים איכילוב כשמצבו מוגדר קל",
-      "link": "https://www.israelhayom.co.il/news/local/article/21797960",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T15:42:58.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383960420",
-      "title": "בעקבות איומים על חייו: תוגברה האבטחה סביב סגן השר ומשפחתו",
-      "summary": "בעקבות הודעות שכללו איומים מפורשים ברצח, הוצב מאבטח בסמוך לביתו של סגן השר ובני משפחתו זוכים לליווי משטרתי צמוד. התגבור נעשה באמצעות שב\"כ ומשטרת ישראל",
-      "link": "https://www.walla.co.il/news/israel/383960420",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-07T15:42:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/to51wf",
-      "title": "חדשות השבת: העיר ששברה את שיאי הגשם | דרמה בבית הלבן | ארה\"ב במהלך חדש נגד איראן",
-      "summary": "עשרות מילימטרים של גשמי ברכה ירדו ברחבי הארץ במהלך השבת, אלו הערים המובילות | נשיא ארה\"ב במהלך הדחה דרמטי לאחר הכישלון בבחירות האמצע | ארה\"ב יוזמת מהלך חדש נגד איראן | הרוגים בפולין ברקע המשבר החוקתי (חדשות השבת)",
-      "link": "https://www.kikar.co.il/news/to51wf",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-07T15:41:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21797918",
-      "title": "\"שמח שבחרתי בהפועל תל אביב, דימיטריס איטודיס נהדר עבורי\"",
-      "summary": "וסיליה מיציץ' הסביר בראיון בחו\"ל מדוע בחר באדומים, החמיא למאמנו וסימן זכייה ביורוליג כמטרה • וגם: המעבר לפנרבחצ׳ה שכמעט התממש ב־2018 והמאמן שהיה ״מושלם״ עבורו",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21797918",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-07T15:38:05.000Z"
     }
   ]
 }
