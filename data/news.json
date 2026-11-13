@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:01:01.537Z",
+  "updatedAt": "2026-11-13T13:15:55.495Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/by5bdtvrfe",
+      "title": "מסלול עוקף בן גביר: המפכ\"ל הציב בחשאי בכירים בתפקידים חדשים, ללא חתימת השר",
+      "summary": "פרסום ראשון: המפכ\"ל דני לוי הציב כ-15 קצינים בכירים במשטרה בתפקידיהם, מבלי לקבל את אישורו של השר לביטחון לאומי. אחד המינויים הוא לראש חטיבת התביעות. כדי לעקוף את בן גביר, שסירב לחתום על שורת המינויים, הם כבר הוצבו במקומות החדשים - תחת ההגדרה של \"סיפוח מבצעי\"",
+      "link": "https://www.ynet.co.il/news/article/by5bdtvrfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T13:06:04.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-b0e95166614d1a1026.htm",
+      "title": "יולדת בשנות ה-40 לחייה מתה מסיבוך נדיר, העובר ניצל",
+      "summary": "האישה חוברה לאקמו והועברה מבית החולים מעייני הישועה לשיבא לאחר שפיתחה אירוע של תסחיף מי שפיר • הצוות הרפואי בשיבא נאלץ לקבוע את מותה",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-b0e95166614d1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-13T12:58:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21846000",
+      "title": "\"גאה בתקופה במכבי תל אביב, עודד קטש המאמן שהכי השפיע עליי\"",
+      "summary": "ג'וש ניבו יפגוש עם ברצלונה את פנאתינייקוס, ונזכר בסדרת הפלייאוף עם הצהובים: \"היינו קרובים מאוד לפיינל פור למרות כל כך הרבה קשיים\" • הוא פרגן למאמן, וסיפר על ג'ו רגלנד: \"אם לא הייתי פוגש אותו בעונה הראשונה שלי, לא הייתי מגיע לאן שהגעתי\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21846000",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T12:54:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/rehovot-kashrut-controversy-rabbi-rubin",
       "title": "דרמה ברחובות | הרב רובין בהקלטה חריגה, בניגוד למכתב הקודם: \"אסור לסמוך על כשרות הרבנות בעיר\"",
       "summary": "רב קהילת בני התורה וחבר בד״ץ שארית ישראל הרב רובין הודיע כי בעקבות שינויים שנעשו במערכת הכשרות, אין לסמוך בשלב זה על כשרות הרבנות רחובות, לרבות כשרות מהדרין • ההודעה מעוררת תמיהה בקרב הציבור החרדי בעיר, בין היתר לנוכח מכתב קודם של הרב שבו התיר לאכול מהכשרות לכתחילה (חרדים)",
@@ -48,6 +75,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T12:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21845142",
+      "title": "כך קרס מלך ה-AI: הסערה שהפילה את מייסד אנבידיה | ציר זמן",
+      "summary": "במשך יותר משלושה עשורים נחשב ג'נסן הואנג למנהל היציב והמוערך ביותר בעמק הסיליקון - עד שהכול התרסק בתוך ימים ספורים • ממזכר מודיעיני סודי בבית הלבן ומעבדים מוברחים במיליארדים ועד שלושה רומנים מחוץ לנישואים והתפטרות דרמטית • ציר הזמן המלא של פרשת אנבידיה",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21845142",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T12:29:53.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383961286",
@@ -147,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T11:54:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388053",
+      "title": "בלבנון רגילים לשמוע איומים על ישראל - לא בקשה כזאת",
+      "summary": "שארל ג'בור, בכיר במפלגת \"הכוחות הלבנוניים\" הנוצרית, התראיין בטלוויזיה הלבנונית והביע רצון להיות שגריר לבנון בישראל. ג'בור, המבקר בחריפות את חיזבאללה, טען שכבר פנה לרשויות והחל ללמוד עברית",
+      "link": "https://www.maariv.co.il/news/world/article-1388053",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T11:53:52.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388053",
@@ -736,7 +781,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21844890",
       "title": "חריג: כך הגיב ששון שאולוב לאורח שהתפרץ (וידאו)",
-      "summary": "במהלך הופעה של הזמר, אורח מהקהל עלה לבמה וניסה לחתור למגע. שאולוב קלט, הגיב במהירות, ולא נשאר חייב. צפו בקטע",
+      "summary": "במהלך הופעה של הזמר, אורח מהקהל עלה לבמה וניסה להדביק עליו שטרות. שאולוב קלט, הגיב במהירות, ולא נשאר חייב. צפו בקטע",
       "link": "https://www.israelhayom.co.il/forreal/localy/article/21844890",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -2543,15 +2588,6 @@
       "pubDate": "2026-11-12T22:00:00.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21834838",
-      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 13.11.2026 - 19.11.2026",
-      "summary": "תבחרו להתרחק במטרה לשמור על חופש ועצמאות. שמרו על קשר עם המציאות",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21834838",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T21:50:37.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21834839",
       "title": "מזל שור, תחזית הורוסקופ שבועית, לשבוע של 13.11.2026 - 19.11.2026",
       "summary": "אתם מנסים ליצור שיתופי פעולה שיעזרו לכם לקדם החלטות שישרתו אתכם בטווח ארוך. שישי ושבת: תמרנו כדי למצוא דרך לצאת ממצב שלא מתאים לכם, בתמיכת בני המשפחה והחברים שאתם בוטחים בהם",
@@ -2646,6 +2682,15 @@
       "title": "מזל קשת, תחזית הורוסקופ שבועית, לשבוע של 13.11.2026 - 19.11.2026",
       "summary": "יש בכם רצון לחוות אירועים או לקבל החלטות שיביאו לשינויים. חלקכם מבינים את הצורך לרענן, מה שיאפשר לכם להתמודד עם אתגרים חדשים",
       "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21835244",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-12T21:50:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21834838",
+      "title": "מזל טלה, תחזית הורוסקופ שבועית, לשבוע של 13.11.2026 - 19.11.2026",
+      "summary": "תבחרו להתרחק במטרה לשמור על חופש ועצמאות. שמרו על קשר עם המציאות",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21834838",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T21:50:37.000Z"
@@ -32097,204 +32142,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T13:17:14.000Z"
-    },
-    {
-      "id": "walla:https://cars.walla.co.il/item/3875445",
-      "title": "צפרתם? שילמתם! תל אביב מתחילה לקנוס נהגים",
-      "summary": "תל אביב מתקינה מערכת אכיפה טכנולוגית לצפירות מיותרות ב-11 מוקדים בעיר, עם קנסות של עד 1,000 שקל לתאגיד. פתח תקווה, קריית אונו ונתניה כבר אוכפות קנסות כאלה",
-      "link": "https://cars.walla.co.il/item/3875445",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T13:15:00.000Z"
-    },
-    {
-      "id": "walla:https://cars.walla.co.il/item/3875445",
-      "title": "תל אביב מתחילה להטיל קנסות על נהגים צופרים. כמה תשלמו?",
-      "summary": "תל אביב מתקינה מערכת אכיפה טכנולוגית לצפירות מיותרות ב-11 מוקדים בעיר, עם קנסות של עד 1,000 שקל לתאגיד. פתח תקווה, קריית אונו ונתניה כבר אוכפות קנסות כאלה",
-      "link": "https://cars.walla.co.il/item/3875445",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T13:15:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21804676",
-      "title": "אחרי ששינתה את דעתה: מיכל הקטנה מעדכנת מבית החולים",
-      "summary": "שנים אחרי שעברה הוצאת שתלים, כוכבת הילדים מצאה זמן לניתוח מחודש שחלמה עליו: \"הרגשתי שאני רוצה להחזיר אותם\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21804676",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:14:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21804679",
-      "title": "גילתה שתכשיטיה נגנבו, בדקה את המצלמות - והופתעה לגלות את זהות הפורץ",
-      "summary": "תושבת יקנעם גילתה כי מביתה נגנבו תכשיטי זהב בשווי כ-60 אלף שקלים, אך ההפתעה הגדולה הגיעה כשזיהתה בתיעוד האבטחה את השכן שלה • על פי כתב האישום, האיש בן ה-54 נכנס לבית בשעה שבני המשפחה נעדרו וגנב תכשיטים מחדר השינה • במהלך חקירתו התפרע, הדף שוטרים וגרם נזק לרכוש",
-      "link": "https://www.israelhayom.co.il/news/law/article/21804679",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:14:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21804913",
-      "title": "הנני כאן: מאות תלמידים השתתפו ביום התנדבות לזכר המנהל שנפל במלחמה",
-      "summary": "תלמידי \"אורט פלך, ירושלים\" התנדבו לזכר מנהלם, רס\"ם יוסי הרשקוביץ ז\"ל, שנפל בעזה • הם יצאו לסייע לחקלאים באזור ירושלים, וחתמו את היום בטקס מרגש בבית העלמין בהר הרצל לצד אלמנתו, הדס הרשקוביץ • \"לחסד של יוסי אין תאריך תפוגה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21804913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:13:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21804913",
-      "title": "מאות תלמידים השתתפו ב\"הנני\" לזכר המנהל רס\"ם יוסי הרשקוביץ שנפל במלחמה",
-      "summary": "תלמידי \"אורט פלך, ירושלים\" התנדבו לזכר מנהלם שנפל בעזה • הם יצאו לסייע לחקלאים באזור ירושלים, וחתמו את היום בטקס מרגש בבית העלמין בהר הרצל לצד אלמנתו, הדס הרשקוביץ • \"לחסד של יוסי אין תאריך תפוגה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21804913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:13:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21804844",
-      "title": "30% ממחיר הדירה בעוד עשור: המבצע שהביא ל-67 הרשמות בחמישה ימים",
-      "summary": "חמישה ימים לאחר שהשיקה מבצע המאפשר לדחות 30% ממחיר הדירה לעשר שנים לאחר האכלוס, ללא ריבית והצמדה, מדווחת גינדי החזקות על 67 הרשמות לרכישת דירות. המבצע חל על כ-300 דירות בארבעה פרויקטים במרכז הארץ",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21804844",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:11:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21804791",
-      "title": "\"שהפועל תל אביב יתנהגו כמו גברים, יפסיקו להתלונן\"",
-      "summary": "לקראת הדרבי בגמר גביע ווינר, פיני גרשון ביקר ב״על הבאזר״ את התלונות של האדומים על זמן ההכנה למשחקים ועל השיפוט: ״אני לא אוהב את הבכי שלהם״ • והזהיר: ״השופטים בסוף ישחילו אתכם״",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21804791",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:10:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "title": "רכבת ירדה מהפסים, רכבת נוספת פגעה בה בעוצמה; לפחות 150 פצועים",
-      "summary": "ארבעה קרונות יצאו מהפסים והתהפכו באזור גיזה • משרד הבריאות דיווח על 64 פצועים, אך דיווחים פנימיים מדברים על 140-150 נפגעים | הקו קהיר-אסואן נסגר בשני הכיוונים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T13:10:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "title": "לפחות 150 פצועים בהתנגשות רכבות חריגה במצרים | קרונות ירדו מהפסים",
-      "summary": "ארבעה קרונות יצאו מהפסים והתהפכו באזור גיזה • משרד הבריאות דיווח על 64 פצועים, אך דיווחים פנימיים מדברים על 140-150 נפגעים | הקו קהיר-אסואן נסגר בשני הכיוונים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T13:10:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "title": "בהלה במצרים: תאונת רכבת קשה ליד קהיר – עשרות פצועים",
-      "summary": "ארבעה קרונות יצאו מהפסים והתהפכו באזור גיזה • משרד הבריאות דיווח על 64 פצועים, אך דיווחים פנימיים מדברים על 140-150 נפגעים | הקו קהיר-אסואן נסגר בשני הכיוונים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/egypt-train-derailment-giza-dozens-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T13:09:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21804559",
-      "title": "צדק לפעוטות שנפגעו בגן הזוועות באריאל - מאבק חיי",
-      "summary": "כתב האישום החמור שהוגש נגד צוות המעון באריאל מציף מחדש את רגשות האשם שליוו אותנו • לא תרגמנו את הסימנים בזמן - הפקדנו את הילדים בידי השטן • וזה תמרור אזהרה לכולם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21804559",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:08:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21804816",
-      "title": "בלב ברלין: \"דגל האחדות\" הגדול של גרמניה הוחלף בדגל פלסטיני",
-      "summary": "צעיר פרו-פלסטיני טיפס על התורן מול הבונדסטאג והוריד את \"דגל האחדות\", שמסמל את איחוד גרמניה • הדגל הפלסטיני התנוסס יותר משעה, עד שהמשטרה ומכבי האש הורידו אותו • בחקירה אמר המטפס שפעל מתוך \"סולידריות עם פלסטין\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21804816",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:07:10.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875442",
-      "title": "המכשול של מכבי חיפה בדרך להשגת ברק יצחקי: תמונת מצב",
-      "summary": "המועמד המוביל מחזיק בסעיף יציאה שתקף רק בקיץ, כך שמכבי חיפה תצטרך לנהל משא ומתן מול אנורתוזיס ולהגיע איתה לסיכום. זו תמונת המצב",
-      "link": "https://sports.walla.co.il/item/3875442",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T13:07:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875442",
-      "title": "המכשול של מכבי חיפה בדרך להשגת מאמן חדש",
-      "summary": "המועמד המוביל מחזיק בסעיף יציאה שתקף רק בקיץ, כך שמכבי חיפה תצטרך לנהל משא ומתן מול אנורתוזיס ולהגיע איתה לסיכום. זו תמונת המצב",
-      "link": "https://sports.walla.co.il/item/3875442",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T13:07:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/police-chase-jerusalem-checkpoint",
-      "title": "\"עצור!\" | תיעוד דרמטי: ירי על רכב חשוד שמתנגש במחסום ליד ירושלים",
-      "summary": "מרדף משטרתי דרמטי הסתיים הלילה במעבר הסמוך לירושלים: לוחמי מג״ב הפעילו ברגע האחרון את מחסום הבולרדים בעת שרכב חשוד כגנוב שעשה דרכו במהירות ניסה להימלט – התנגש בעוצמה במחסום, ונבלם. נהג הרכב, צעיר בן 18 תושב מזרח ירושלים, נעצר לחקירה | צפו בדרמה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/police-chase-jerusalem-checkpoint",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T13:05:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21804331",
-      "title": "השחקנית והמתרגמת לורה סהר הלכה לעולמה",
-      "summary": "סהר שיחקה לאורך השנים בתפקידים ראשיים בשלל הצגות, בהן בתיאטרון הבימה, בצוותא ועוד • חבריה מתיאטרון היידישפיל ספדו לה: \"הביאה עמה מסירות אינסופית ופרפקציוניזם חסר פשרות, הייתה אישה משכמה ומעלה\"",
-      "link": "https://www.israelhayom.co.il/culture/stage/article/21804331",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:03:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21804659",
-      "title": "אסון במצרים: יותר מ-125 נפגעים בתאונת רכבת סמוך לגיזה",
-      "summary": "שתי רכבות התנגשו במהירות גבוהה על מסילה בין הבירה לעיר אסואן • דיווחים סותרים על הרוגים בתאונה, בשעה שחילוץ הנפגעים מהזירה נמשך",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21804659",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:03:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21804557",
-      "title": "אילנית לוי: \"שאלוהים ייקח אתכן\"",
-      "summary": "מלכת היופי במיל' ואישתו של אלירז שדה התקשתה להסתיר את זעמה הרב נוכח הפרסומים הקשים בחדשות. \"לפני שהורה יעשה את טעות חייו\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21804557",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:03:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/to6l1k",
-      "title": "חילופי עונות: אתם אנשים של חורף או קיץ? ומה זה אומר עליכם?",
-      "summary": "בסוף השבוע טעמנו בישראל את טעמו של החורף - ברקים, גשמים, הצפות וצניחת המעלות | כמו בכל נושא, \"העולם מתחלק לשניים\" כמו שאומר הפתגם - אלו שמחכים לבואו של החורף ואלו שמחכים לקיץ | יצאנו לבדוק איזה טיפוסים יש יותר ומה זה אומר על האישיות? (חורף)",
-      "link": "https://www.kikar.co.il/israel-news/to6l1k",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T13:03:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21804116",
-      "title": "סמיילי עצוב ו\"911 בפנים\": השלט שהוביל לזירת הטבח בניו ג'רזי",
-      "summary": "שלושה מבוגרים נמצאו ללא רוח חיים בבית בעיירה מאונט הולי שבניו ג'רזי, לאחר שעובד דואר הבחין בפתק חריג שהודבק לצד דלת הכניסה והורה להזעיק את שירותי החירום • על הפתק הופיע הכיתוב \"911 בפנים\", לצד ציורים מטרידים של שני פרצופים עם איקסים במקום העיניים • נסיבות מותם של השלושה עדיין אינן ידועות",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21804116",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:02:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21804616",
-      "title": "חודש וחצי אחרי פיצוץ המטען בחולון: שני צעירים נעצרו בחשד למעורבות באירוע",
-      "summary": "הפיצוץ התרחש בחצר בית ברחוב סנהדרין בסוף ספטמבר, ונער בן 15 נפצע באורח בינוני • לאחר חקירה סמויה שנמשכה יותר מחודש, עצרו הבוקר בלשי ימ\"ר תל אביב שני חשודים בשנות ה-20 לחייהם, תושבי חולון ובני ברק",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21804616",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T13:01:21.000Z"
     }
   ]
 }
