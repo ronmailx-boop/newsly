@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:30:48.756Z",
+  "updatedAt": "2026-11-13T05:45:44.596Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkmkifxagg",
+      "title": "כבר שעות ארוכות: תקלה עולמית משביתה את Outlook של מיקרוסופט",
+      "summary": "אם אתם לא מצליחים לשלוח או לקבל דואר אלקטרוני ב-Outlook - זו הסיבה: תקלה נרחבת השביתה שירותים רבים של מיקרוסופט, בהם היכולת לשלוח אימייל. בארה\"ב התבדחו: \"אפשר להתחיל את הסופ\"ש מוקדם מהרגיל\"",
+      "link": "https://www.ynet.co.il/news/article/bkmkifxagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T05:41:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/motorcyclist-killed-self-accident-road-471-kiryat-",
+      "title": "תאונה קטלנית בכביש 471: רוכב אופנוע החליק ונהרג במקום",
+      "summary": "רוכב האופנוע החליק במהלך הרכיבה וסבל מפגיעה רב מערכתית • צוותי החירום ביצעו פעולות החייאה ממושכות | למרבה הצער נאלצו לקבוע את מותו בזירה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/motorcyclist-killed-self-accident-road-471-kiryat-",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T05:35:05.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/general/weather-forecast-temperature-changes-3",
+      "title": "התחזית: עליה קלה במידות החום - ואז שוב ירידה בטמפרטורות",
+      "summary": "כצפוי בתקופה זו של השנה, מזג האוויר הפכפך מעט עם עליה במידות החום בשבת קודש, וירידה מחודשת בטמפרטורות מיד בתחילת השבוע הבא (בארץ)",
+      "link": "https://www.kikar.co.il/general/weather-forecast-temperature-changes-3",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T05:31:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21843757",
+      "title": "כזה עדיין לא היה: כוכב ה-NBA קבע שיא מטורף",
+      "summary": "קייד קנינגהם הפך לראשון אי פעם שרושם 50+ נקודות ו-10+ אסיסטים ללא אף איבוד, הוא הוביל את דטרויט פיסטונס לניצחון אחרי שתי הארכות • מאוריסיו פוצ'טינו סיכם על הצטרפותו למנצ'סטר יונייטד בחוזה לשנתיים וחצי",
+      "link": "https://www.israelhayom.co.il/sport/article/21843757",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T05:26:51.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14957610",
       "title": "שאלת הגיבוי האמריקני - וההעדפה בצה\"ל: לא לצאת למערכה בממשלת מעבר",
@@ -33645,87 +33681,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T05:51:55.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875338",
-      "title": "לאחר שברק בכר התפטר: זה המועמד המוביל לאמן את מכבי חיפה",
-      "summary": "לצד הסערה סביב ברק בכר, במועדון תוקפים את ההתנהלות והמנטליות של השחקנים: \"משחקים ברכות, מפסידים כל מאבק על כדור, קל לכבוש נגדנו\". פנייה רשמית תיעשה למועמד המוביל ברק יצחקי, אבל הוא לבד",
-      "link": "https://sports.walla.co.il/item/3875338",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T05:45:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383960469",
-      "title": "זעקת המילואימניקים: \"צה\"ל עוקף ביקורת בצווי 8\"",
-      "summary": "צה\"ל מתמודד עם מחסור של כ-15 אלף חיילים, אך ממשיך לגייס לוחמים שהשתחררו רק לפני חודשים ומילואימניקים שחוקים. בצמרת הצבא מתלבטים אם להתריע בפומבי, ובשטח תוקפים: \"הנטל על מיעוט בחברה הישראלית לא הצטמצם\"",
-      "link": "https://www.walla.co.il/news/military/383960469",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T05:40:18.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383960469",
-      "title": "\"צה\"ל עוקף כל ביקורת\": זעקת המילואימניקים מול משבר כוח האדם",
-      "summary": "צה\"ל מתמודד עם מחסור של כ-15 אלף חיילים, אך ממשיך לגייס לוחמים שהשתחררו רק לפני חודשים ומילואימניקים שחוקים. בצמרת הצבא מתלבטים אם להתריע בפומבי, ובשטח תוקפים: \"הנטל על מיעוט בחברה הישראלית לא הצטמצם\"",
-      "link": "https://www.walla.co.il/news/military/383960469",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T05:40:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386018",
-      "title": "ג'יי. די. ואנס הפסיד בעקיפין את הבחירות - והדרך לנשיאות קשה מתמיד",
-      "summary": "הדרך של ואנס לנשיאות ב-2028 נראית כעת רחוקה מתמיד ומלאה מכשולים - בייחוד בגלל הקשר ההדוק שלו עם ממשל טראמפ והמשפחה עצמה. רבים במפלגה הרפובליקנית כבר ממהרים להתנער ממנו - ולתלות תקווה במועמד החדש",
-      "link": "https://www.maariv.co.il/news/world/article-1386018",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T05:38:17.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875337",
-      "title": "הפסד שני רצוף: סן אנטוניו הביסה את פורטלנד ואבדיה",
-      "summary": "הבלייזרס נכנעו בבית 125:103 לוומבניאמה (29 נקודות ב-24 דקות) וחבריו, דני אבדיה סיים עם 15 נקודות במשחק שבו קבוצתו קרסה וכבר פיגרה ב-35 הפרש. ניצחון שמיני ברציפות לספרס",
-      "link": "https://sports.walla.co.il/item/3875337",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T05:37:00.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-384813930a9b1a1027.htm",
-      "title": "בן 32 נמשה מחוסר הכרה מג'קוזי בתל אביב - מותו נקבע במקום",
-      "summary": "צוותי מד\"א ביצעו פעולות החייאה בגבר, שאותר ללא דופק וללא נשימה - אך נאלצו לקבוע את מותו • נסיבות האירוע טרם ידועות, אין חשד לפלילים",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-384813930a9b1a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-08T05:34:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21800690",
-      "title": "דני אבדיה סופסל חצי משחק, פורטלנד הובסה מול סן אנטוניו",
-      "summary": "הטרייל בלייזרס התרסקו מול סגנית האלופה עם 125:103, והישראלי קיבל מנוחה בגלל הפער הענק • ויקטור ומבניאמה להט עם 29 נקודות ב-24 דקות • הישראלי לקח 4 נקודות וסיים עם -19",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21800690",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T05:32:31.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386013",
-      "title": "הסלמה קטלנית בתימן: עשרות נהרגו, בהם נשים וילדים - החות'ים מאיימים בנקמה",
-      "summary": "לפחות 63 בני אדם נהרגו בשתי תקיפות אוויריות בתימן, לפי החות'ים, ובהם נשים וילדים רבים. החות'ים מאשימים את הקואליציה הסעודית ומאיימים בנקמה, בעוד ריאד הודיעה על יירוט טיל שיוט ששוגר לעברה",
-      "link": "https://www.maariv.co.il/news/world/article-1386013",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T05:32:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21800697",
-      "title": "טרגדיה בתל אביב: בן 32 נמשה ללא רוח חיים מג’קוזי",
-      "summary": "צוותי מד\"א הוזעקו לפנות בוקר לרחוב חיל השריון בדרום העיר, לאחר שהתקבל דיווח על גבר מחוסר הכרה • החובשים ביצעו בו פעולות החייאה ממושכות, אך נאלצו לקבוע את מותו במקום • נסיבות האירוע טרם התבררו",
-      "link": "https://www.israelhayom.co.il/news/local/article/21800697",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T05:32:19.000Z"
     }
   ]
 }
