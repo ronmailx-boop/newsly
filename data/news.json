@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:31:01.487Z",
+  "updatedAt": "2026-11-13T06:45:53.471Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/3vwuf4ha7",
+      "title": "התחזית לסוף השבוע: עלייה בטמפרטורות",
+      "summary": "אחרי מספר ימים קרירים, מזג האוויר יהיה בהיר עם עלייה קלה בטמפרטורות. מגמת ההתחממות תימשך גם בשבת. ומה צפוי בתחילת השבוע הבא?",
+      "link": "https://www.ynet.co.il/news/article/3vwuf4ha7",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T06:40:01.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/%D7%91%D7%90%D7%A8%D7%A5_%D7%95%D7%91%D7%A2%D7%95%D7%9C%D7%9D/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA__%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2",
+      "title": "פרשת תולדות: סיכום חדשות השבוע",
+      "summary": "גוש השמאל-ערבים מתחיל במינויים בכנסת, ראש מועצת אל בטוף נעצר בפרשת פרוטקשן, וביבי בנאום נגד המפלגות הערביות",
+      "link": "https://www.hakolhayehudi.co.il/item/%D7%91%D7%90%D7%A8%D7%A5_%D7%95%D7%91%D7%A2%D7%95%D7%9C%D7%9D/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA__%D7%A1%D7%99%D7%9B%D7%95%D7%9D_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%A9%D7%91%D7%95%D7%A2",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-13T06:36:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/death-notices/mother-of-eight-dies-childbirth-complications-modi",
+      "title": "טרגדיה במודיעין עילית: אם לשמונה נפטרה בגיל 40 בעקבות סיבוך נדיר בלידה",
+      "summary": "מרת מרים בן חמו ע\"ה לקתה בתסחיף מי שפיר במהלך הלידה • צוותים רפואיים במעייני הישועה נאבקו על חייה וחיברו אותה למכשיר אקמו | הלווייתה הבוקר בשעה 9:30 (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/death-notices/mother-of-eight-dies-childbirth-complications-modi",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T06:32:52.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjk2yq4czg",
       "title": "מסתמן: זו התקלה שעצרה את הרכבלית באוויר",
       "summary": "מערכת הבטיחות של הרכבלית בחיפה זיהתה שבר בגלגלת של אחד הקרונות, ובלמה את היתר באופן אוטומטי - כשעליהם עשרות נוסעים - כדי למנוע התנגשות באוויר. הקרונית התקולה פורקה, ובדיקת האירוע נמשכת",
@@ -48,6 +75,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-13T06:27:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21843878",
+      "title": "לקרוא ולמחוק: השדרוג שכולם חיכו לו מגיע לוואטסאפ",
+      "summary": "אחרי התמונות, הסרטונים וההקלטות הקוליות, וואטסאפ מרחיבה את שכבת הפרטיות גם לטקסט • גרסת הבטא החדשה לאנדרואיד מאפשרת לשלוח הודעות כתובות שנמחקות לנצח מיד לאחר הקריאה, תוך חסימה מוחלטת של צילומי מסך, העתקה או העברה הלאה • כך זה עובד - ומתי זה יגיע אליכם?",
+      "link": "https://www.israelhayom.co.il/tech/apps/article/21843878",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T06:27:31.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3876078",
+      "title": "תקלה עולמית במיקרוסופט: שיבושים באאוטלוק ובטימס",
+      "summary": "משתמשים ברחבי העולם דיווחו על קשיים בגישה לדואר האלקטרוני ולשירותי Microsoft 365. החברה מנסה לייצב את השרתים, אך נכון לבוקר שישי טרם הודיעה על חזרה מלאה לפעילות",
+      "link": "https://tech.walla.co.il/item/3876078",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T06:23:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387971",
@@ -33501,123 +33546,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T06:49:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21800808",
-      "title": "לא שותקת: הצעד הראשון של נבחרת ארגנטינה אחרי עידן ליונל מסי",
-      "summary": "התאחדות הכדורגל הארגנטינאית הודיעה כי תפנה ל-CAS, זאת אחרי שערעורה על העונשים הכבדים שפיפ\"א הטילה עליה נדחו • חלק משחקניה הורחקו לתקופה ארוכה לאחר הקטטה ההמונית בסיום גמר המונדיאל בו הפסידה לספרד • תבקש לבטל גם את הקנס בגבוה",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21800808",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T06:44:37.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875348",
-      "title": "1.16 מיליארד דולר בקריפטו: הקונגרס יחקור את טראמפ",
-      "summary": "אחרי נצחון בבחירות האמצע והשתלטות על שני הבתים, בוושינגטון נערכים לגל חקירות וצווי זימון נגד הנשיא ומשפחתו. במוקד: רווחי עתק של 1.16 מיליארד דולר, חנינות מפוקפקות ומיזמים בעלי זיקה זרה",
-      "link": "https://finance.walla.co.il/item/3875348",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T06:44:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875348",
-      "title": "החגיגה נגמרה? הקונגרס יחקור את \"רווחי הקריפטו\" של טראמפ",
-      "summary": "אחרי נצחון בבחירות האמצע והשתלטות על שני הבתים, בוושינגטון נערכים לגל חקירות וצווי זימון נגד הנשיא ומשפחתו. במוקד: רווחי עתק של 1.16 מיליארד דולר, חנינות מפוקפקות ומיזמים בעלי זיקה זרה",
-      "link": "https://finance.walla.co.il/item/3875348",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T06:44:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
-      "title": "אחרי עדות מנדלבליט: ההחלטות שעשויות לשנות את המשך משפט נתניהו",
-      "summary": "השבוע במשפט נתניהו יתקיימו שני דיונים בימי רביעי וחמישי בלבד: האם היועצת המשפטית לממשלה תשיב לבקשת השופטים להגיע לשיחה?",
-      "link": "https://www.maariv.co.il/news/law/article-1386031",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T06:42:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386031",
-      "title": "האם השופטים ינהלו שיח ישיר עם גלי בהרב-מיארה? | מה צפוי במשפט נתניהו",
-      "summary": "השבוע במשפט נתניהו יתקיימו שני דיונים בימי רביעי וחמישי בלבד: האם היועצת המשפטית לממשלה תשיב לבקשת השופטים להגיע לשיחה?",
-      "link": "https://www.maariv.co.il/news/law/article-1386031",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T06:42:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/lots-wife-salt-pillar-munkacs",
-      "title": "\"ציוני אפיקורס!\" - זעק בעל ה\"מנחת אלעזר\" זי\"ע על הבחור, ואחרי רגע התנצל בדמעות שליש",
-      "summary": "הסערה במונקאטש, הזעקה על האפיקורסות והמקור המפתיע ברבנו בחיי • מיהי באמת \"אשת לוט\", איזה פירוש נעלם מכתבי האבן עזרא, ומה כתב הרע\"ב מברטנורא כשחיפש את עמוד המלח בים המלח? (היסטוריה)",
-      "link": "https://www.kikar.co.il/haredim-news/lots-wife-salt-pillar-munkacs",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T06:40:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/woman-rescued-karmiel-fall-roof",
-      "title": "חילוץ מורכב בכרמיאל: אישה נפלה מגובה על גג רעפים | תיעוד",
-      "summary": "לוחמי האש חילצו אישה שנפלה מגובה על גג רעפים • היחידה לחילוצים מיוחדים פעלה במקום | האישה רותמה לאלונקת חילוץ ופונתה לטיפול רפואי (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/woman-rescued-karmiel-fall-roof",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T06:36:40.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960476",
-      "title": "השפלה לראפר: סורב ב-9 אולמות ונאמר לו שהוא \"לא ברמה\"",
-      "summary": "הראפר טוען שתשעה אולמות בארה”ב סירבו לארח את מופעי ההתרמה שלו למען הפלסטינים. במדיסון סקוור גארדן דוחים את הטענות ומשיבים בעקיצה: “הוא לא אמן ברמה של ארנה”",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960476",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T06:34:39.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960476",
-      "title": "מקאלמור טוען לחרם, ומדיסון סקוור גארדן עוקץ: \"לא אמן ברמה\"",
-      "summary": "הראפר טוען שתשעה אולמות בארה”ב סירבו לארח את מופעי ההתרמה שלו למען הפלסטינים. במדיסון סקוור גארדן דוחים את הטענות ומשיבים בעקיצה: “הוא לא אמן ברמה של ארנה”",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960476",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T06:34:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21800829",
-      "title": "אלאניס מוריסט: \"אני פאנסקסואלית\"",
-      "summary": "הזמרת הקנדית חושפת פרט מפתח על חייה האישיים במסגרת התארחות בפודקאסט אמריקאי • כוכבת שנות התשעים המצליחה אישרה באופן רשמי ופומבי כי היא נמשכת לאנשים ללא שום קשר לזהותם המגדרית",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21800829",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T06:34:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/dana-white-trump-press-secretary",
-      "title": "אגרוף לפנים: המועמד השרירן של טראמפ לדוברות הבית הלבן מעורר סערה",
-      "summary": "אחרי טלטלה נוספת בצוות הנשיאותי, הנשיא האמריקני הציע את התפקיד לאדם שמגיע מעולם שונה לחלוטין מפוליטיקה ותקשורת (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/dana-white-trump-press-secretary",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T06:32:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1386037",
-      "title": "\"הוא מאשים את ישראל בהפסד המפלגה הרפובליקנית\": האזהרה של ראש המל\"ל לשעבר",
-      "summary": "ראש המל\"ל לשעבר איל חולתא מזהיר מפני תקיפה שלא תעצור את הגרעין האיראני, מעריך שטראמפ מתרחק מהחלטה צבאית וחושף את הקולות בממשל האמריקאי שמאשימים את ישראל בהפסד הרפובליקנים",
-      "link": "https://www.maariv.co.il/news/military/article-1386037",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T06:32:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21800795",
-      "title": "שחקני סן אנטוניו \"נהנו להביס את דני אבדיה\" - ובפורטלנד ענו",
-      "summary": "הספרס הביסו את הבלייזרס, ועיתונאי מטקסס זיהה סיפוק מיוחד מהמפגש עם הישראלי: ״יש שמחה טהורה וכנה שבולטת לעין״ • בתקשורת המקומית תקפו את ויקטור ומבניאמה: \"תמיד על הרצפה\" • מייקה נורי כעס: \"בעטו לנו בתחת\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21800795",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T06:31:46.000Z"
     }
   ]
 }
