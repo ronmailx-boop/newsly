@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:30:57.033Z",
+  "updatedAt": "2026-11-13T12:45:44.731Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rehovot-kashrut-controversy-rabbi-rubin",
+      "title": "דרמה ברחובות | הרב רובין בהקלטה חריגה, בניגוד למכתב הקודם: \"אסור לסמוך על כשרות הרבנות בעיר\"",
+      "summary": "רב קהילת בני התורה וחבר בד״ץ שארית ישראל הרב רובין הודיע כי בעקבות שינויים שנעשו במערכת הכשרות, אין לסמוך בשלב זה על כשרות הרבנות רחובות, לרבות כשרות מהדרין • ההודעה מעוררת תמיהה בקרב הציבור החרדי בעיר, בין היתר לנוכח מכתב קודם של הרב שבו התיר לאכול מהכשרות לכתחילה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/rehovot-kashrut-controversy-rabbi-rubin",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T12:34:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21838645",
+      "title": "קטפה את הפרס הגדול לשנת 2026: כל הזוכים בטקס הבמה היוקרתי",
+      "summary": "טקס פרסי קיפוד הזהב 2026 נערך בתל אביב • \"האוגרת\" זכתה בפרס הצגת השנה, וארבעה פרסים הוענקו ל\"חי שחור ביער\"",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21838645",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T12:30:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961286",
+      "title": "חידת האורניום באיראן: דוח חסוי של סבא״א מגדיל את התעלומה",
+      "summary": "איראן הודיעה על המתקן ערב התקיפות ביוני 2025, ומאז לא אפשרה לפקחים לבקר בו. לפי דוח שהגיע לרויטרס, סבא\"א אינה יודעת היכן הוא נמצא ואם יש בו חומר גרעיני, ומזהירה מפני \"חשש חמור מהפצה גרעינית\"",
+      "link": "https://www.walla.co.il/news/world/383961286",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T12:28:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/missing-woman-found-dead-tel-aviv-abandoned-buildi",
       "title": "אחרי 10 ימים של חיפושים: האישה נמצאה מתה בחצר בניין נטוש",
       "summary": "אישה בת 44 שנעדרה למעלה מ-10 ימים אותרה בחצר בניין נטוש • מתנדבי זק\"א פעלו לכבוד המת בזירה מורכבת | הגופה הועברה למכון לרפואה משפטית (חדשות)",
@@ -57,6 +84,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T12:14:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961297",
+      "title": "תושב בת ים נעצר בחשד לרצח בן 83 בבולגריה",
+      "summary": "אנדריי אטנסוב, מרצה לשעבר באוניברסיטת סופיה, הוכה למוות במעלית בתחנת מטרו בעיר. בן 32 מבת ים נעצר בחשד למעשה וצפוי להיות מוסגר לבולגריה",
+      "link": "https://www.walla.co.il/news/world/383961297",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T12:13:33.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21845140",
@@ -168,6 +204,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21845606",
+      "title": "גופת ישראלי אותרה במטרו: תושב בת ים נעצר בחשד לרצח בבולגריה",
+      "summary": "תושב בת ים בן 32 נעצר בחשד למעורבות ברצח פרופ' אנדריי אטנסוב, בן 83, בתחנת מטרו בסופיה • המעצר בוצע במסגרת חקירה משותפת של משטרת ישראל והמשטרה בבולגריה, והחשוד צפוי לעמוד בפני הליך הסגרה לבולגריה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21845606",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T11:35:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21845606",
       "title": "תושב בת ים נעצר בחשד למעורבות ברצח אזרח ישראלי בבולגריה",
       "summary": "הרצח אירע ב-14 באוקטובר בבולגריה • החשוד, בן 32, נעצר בהתאם לצו מעצר בינלאומי",
       "link": "https://www.israelhayom.co.il/news/crime/article/21845606",
@@ -192,6 +237,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-13T11:32:08.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876049",
+      "title": "סולומון דועך, חלאיילי בחוץ: זה הזמן שלו להתעורר",
+      "summary": "בזמן שמנור סולומון לא בכושר וענאן חלאילי לא בסגל, אוסקר גלוך מגיע חם מאייאקס אחרי פתיחת עונה מוזרה וצריך להוכיח שהוא הכוכב של הנבחרת הזו. מדור \"אבא של שבת\" על השחקן אליו מופנות כל העיניים",
+      "link": "https://sports.walla.co.il/item/3876049",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T11:30:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1387986",
@@ -327,6 +381,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T11:02:01.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961292",
+      "title": "בלי בושה, ללא חשש: חסמו ניידת, תיעדו קצינה ואיימו עליה ברשת",
+      "summary": "שני נערים בני 16 ו-17 תיעדו את עצמם חוסמים את דרכה של קצינת משטרה ברמת גן, לצד הכיתוב \"עוד נגיע אלייך\". השניים נעצרו בחשד לאיומים ולהעלבת עובד ציבור, ושוחררו למעצר בית בתנאים מגבילים",
+      "link": "https://www.walla.co.il/news/israel/383961292",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T11:01:11.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383961289",
@@ -32277,87 +32340,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-08T12:48:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21804409",
-      "title": "ברח לה: מכבי תל אביב פספסה עוד שחקן זר שרצתה",
-      "summary": "הצהובים קיוו להנחית בישראל את ג'אבון פרימן-ליברטי, אבל הוא העדיף ללכת לליגה הסינית • גם ג'אמיר יאנג סירב בנימוס וחתם בג'י ליג • הפעילות בשוק השחקנים תימשך",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21804409",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:44:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21804540",
-      "title": "נכנסו לשטח A עם פעוט בן שנה: האירוע החריג שהסתיים בנס",
-      "summary": "זוג הורים בני 41 ו-34, נכנסו ביום חמישי האחרון לשטח A יחד עם בנם בן השנה • לאחר שהאב התקשר למוקד 100 ודיווח כי נכנס בטעות לשטח, הופעלו כוחות הביטחון שאיתרו את המשפחה סמוך למלון בבית לחם • ההורים נחקרו ושוחררו בתנאים מגבילים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21804540",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:43:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386249",
-      "title": "נכנסו לשטח A עם בנם בן השנה: כך הסתיים האירוע החריג",
-      "summary": "בני זוג, בני 41 ו-34 מירושלים, נכנסו ביום חמישי לשטח A עם בנם בן השנה ואותרו סמוך למלון בבית לחם. הם חולצו בתיאום עם המשטרה הפלסטינית, ובהמשך נחקרו ושוחררו בתנאים מגבילים",
-      "link": "https://www.maariv.co.il/news/law/article-1386249",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T12:42:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/journalism/barkovitz-channel-13-suspension",
-      "title": "ערוץ 13 משעה את איל ברקוביץ - אחרי שפקפק בתואר של אחמד טיבי",
-      "summary": "המגיש זומן לשיחת הבהרה בעקבות דבריו כלפי חבר הכנסת אחמד טיבי | ההחלטה התקבלה ימים ספורים לאחר עימות עם לוסי אהריש | הנהלת הערוץ: \"אמירות גזעניות\" (עיתונות ומדיה)",
-      "link": "https://www.kikar.co.il/journalism/barkovitz-channel-13-suspension",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T12:35:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21802793",
-      "title": "\"אני לא יכול לעזור להרוג אותך\": הצעצוע שהפעיל נוהל התאבדות",
-      "summary": "הוא משווק לילדים מגיל שלוש ונראה כמו ארנב פרווה ורוד, אבל כשכתבת BBC שאלה אותו מה פירוש המילה \"sexual\" הוא השיב: \"אני לא יכול לעזור לך להרוג אותך\", הורה לה להתקשר לשירותי החירום והזהיר אותה להתרחק מחפצים מסוכנים • תחקיר BBC שבחן שני צעצועי AI המיועדים לילדים חשף לא רק תגובות בלתי צפויות, אלא גם קושי ממשי לזהות מי עומד מאחורי המוצרים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21802793",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:34:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21804072",
-      "title": "ברית עם צ'כיה וסלובניה? המהלך של יוסי דגן לבלימת הסנקציות האירופיות על יו\"ש",
-      "summary": "ראש מועצת שומרון מקיים פגישות עם בכירים באירופה בניסיון לבלום צעדים נוספים נגד ההתיישבות ביהודה ושומרון • ברקע: ההגבלות שהטיל האיחוד על תנועות וארגונים ישראליים • בכיר בפרלמנט האירופי הביע תמיכה בהחלת ריבונות: \"אירופה צריכה לתמוך ולחזק את יהודה ושומרון\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21804072",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:32:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21804421",
-      "title": "חסיד הותקף ברחוב בניו יורק - והשיב במאבק | תיעוד",
-      "summary": "חסיד בן 52 היה בדרכו לקחת את בנו החתן לתפילה בשבת שבע הברכות, כשאדם חלף על פניו ושפך עליו נוזל כלשהו • בתיעוד ממצלמות האבטחה נראה החסיד נאבק בתוקף, עד שעוברי אורח השתלטו עליו • החשוד נעצר, ומשטרת ניו יורק חוקרת את האירוע כחשד לפשע שנאה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21804421",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:31:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21804460",
-      "title": "בשורת ענק להפועל ירושלים: ג'ארד הארפר קרוב לחזרה",
-      "summary": "ההחלמה של כוכב הקבוצה מהפציעה בכף היד מתקדמת מהר מהצפוי - וזו ההערכה החדשה של הקבוצה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21804460",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:31:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21804303",
-      "title": "בצל האיום האיראני: בחריין נערכת למלחמה – ומגבירה את הלחץ על האוכלוסייה השיעית",
-      "summary": "הממלכה מאיצה את ההיערכות הביטחונית לקראת אפשרות של חידוש העימות בין איראן לארה\"ב וישראל, כולל פריסת מערכות נגד כטב\"מים • במקביל, עשרות אנשי דת שיעים עומדים לדין בחשד להקמת ארגון טרור פרו-איראני, שלילת אזרחויות מעוררת ביקורת, ובמנאמה חוששים מהשפעתה של טהרן מבית",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21804303",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:31:19.000Z"
     }
   ]
 }
