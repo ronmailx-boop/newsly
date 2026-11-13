@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:46:12.983Z",
+  "updatedAt": "2026-11-13T19:01:00.685Z",
   "sources": [
     {
       "key": "ynet",
@@ -624,6 +624,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T13:43:58.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961306",
+      "title": "שר האוצר האמריקני נגד איראן: “שמנהיגי המשטר ילכו לעזאזל\"",
+      "summary": "סקוט בסנט אישר כי עבר להתגורר בבסיס צבאי בעקבות איומים על חייו, ותקף בחריפות את הנהגת טהרן. בריאיון ל-CNBC טען כי מבצע הלחץ הכלכלי נגד איראן מצליח: \"אני לא מתכוון להיכנע לפחד\"",
+      "link": "https://www.walla.co.il/news/world/383961306",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T13:34:46.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21846204",
@@ -30729,51 +30738,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T19:02:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21808519",
-      "title": "\"שביתה איטלקית במכבי תל אביב זה כמו למכור משחק\"",
-      "summary": "בפרק החדש של הפודקאסט \"על הבאזר\", פיני גרשון דחה על הסף את הטענות לפיהן יש שביתה איטלקית אצל הצהובים: \"לא קורה ברמה הזאת, הקריירה שלהם על הכף\" • על בונזי קולסון אמר: \"הוא יכול לתרום יותר, אולי הוא לא מרוצה מחלוקת הדקות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21808519",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T18:58:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/police-chief-recordings-prosecution-pressure-tacti",
-      "title": "\"הפרקליטות מחזיקה תיקים במגירה כדי להפעיל לחץ\" • הקלטות דרמטיות של ראש אגף החקירות",
-      "summary": "ראש אגף החקירות במשטרה תקף את הפרקליטות ומח\"ש בהקלטות דרמטיות שנחשפו | האשים כי תיקים נשמרים במגירה כאמצעי לחץ נגד אנשים וקציני משטרה | \"שוטרים מפחדים להתעמת עם משפחות הפשע\" (חדשות)",
-      "link": "https://www.kikar.co.il/news/police-chief-recordings-prosecution-pressure-tacti",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T18:54:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkezzhrtgl",
-      "title": "המינוי הראשון של איזנקוט בכנסת: הח\"כ לשעבר יהפוך לראש הוועדה החזקה במשכן",
-      "summary": "יו\"ר סיעת ישר! רועי פולקמן יעמוד בראש הוועדה המסדרת, שתחזיק בסמכויות משמעותיות עד להקמת ממשלה חדשה. פולקמן, שכיהן בעבר כיו\"ר סיעת כולנו, יופקד על אחד ממוקדי הכוח החשובים בכנסת בתקופת המו\"מ הקואליציוני, שבמהלכה שואף גוש השינוי לקדם גם מהלכים פרלמנטריים",
-      "link": "https://www.ynet.co.il/news/article/hkezzhrtgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T18:54:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21808516",
-      "title": "בגיל 21: הבת של טדי שגיא מסמנת הישג נוצץ במיוחד",
-      "summary": "יולי שגיא, בתו הבכורה של איש העסקים טדי שגיא, תעלה ביום שלישי לראשונה על מסלול שבוע האופנה בתל אביב • היא נבחרה לתצוגת הבכורה של מעצבת צעירה שכבר הלבישה את ריטה ומאיה קיי, ולצדה תצעד גם טופ-מודל בינלאומית",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21808516",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T18:52:43.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875483",
-      "title": "\"טירוף מוחלט. איזו קבוצה משוגעת\": אנגליה לא נרגעת מיונייטד",
-      "summary": "השדים האדומים סיפקו עוד קאמבק ענק, אבל יצאו לפגרה מתחת לקו האדום. קאריק: \"מקשים על עצמנו\". דורגו: \"אנחנו במצב רע\". גם רוי קין מודאג",
-      "link": "https://sports.walla.co.il/item/3875483",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T18:49:00.000Z"
     }
   ]
 }
