@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:01:13.351Z",
+  "updatedAt": "2026-11-13T15:15:52.548Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,8 +32,44 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388096",
+      "title": "החדשנות מתחילה בשטח: כך עובדי חברת החשמל מעצבים את העתיד | הרצל פרידמן",
+      "summary": "מהרובוט שעובד ברשת חשמל חיה ועד לרחפן שמתקין כדורי אזהרה: עובדי חברת החשמל הופכים ניסיון מהשטח לפתרונות טכנולוגיים ומוכיחים כיצד הקשבה, אמון ושותפות מעצבים את עתיד החברה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1388096",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T15:14:24.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876126",
+      "title": "עובדי אנבידיה מורדים - ודורשים את חזרתו של המנכ״ל המודח",
+      "summary": "\"החזירו את הבוס\": למרות התפטרותו על רקע שערוריות וצניחה של טריליון דולר בשווי החברה, פוסט פנימי זוכה לאלפי תגובות הדורשות מהדירקטוריון להשיב את המייסד לתפקידו",
+      "link": "https://finance.walla.co.il/item/3876126",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T15:06:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjooetvrgx",
+      "title": "המהלך הדרמטי ששוקל ואנס אחרי המפלה בבחירות האמצע: \"ה-MAGA מת\"",
+      "summary": "סגן נשיא ארה\"ב, שסומן כיורש אפשרי של טראמפ, שוקל לא להתמודד בבחירות לנשיאות ב-2028. על פי CNN ואנס מתקשה להאמין שמועמד רפובליקני יכול לנצח באקלים שטראמפ יצר. \"הוא רק בן 42 ויכול לחזור בהמשך\", אומרים מקורביו",
+      "link": "https://www.ynet.co.il/news/article/rjooetvrgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T15:03:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21846584",
+      "title": "מיכאל ויינגרטן הוא המורה שחשוד בעבירות מין בתלמידה בת 7",
+      "summary": "בית המשפט הותיר היום לפרסם את שמו של החשוד, תושב ראש העין ובנו של השחקן איציק ויינגרטן • השופטים דחו את ערעור המשטרה על שחרורו למעצר בית",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21846584",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T14:59:11.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/world/383961311",
-      "title": "גורמים מאשרים לוואלה: ראש המוסד בארה”ב וייפגש עם ראש ה-CIA",
+      "title": "בהמשך לנסיונות לחדש את הלחימה באיראן: גופמן נסע לארה״ב",
       "summary": "הביקור מתקיים על רקע מאמציו המתמשכים של נתניהו לקדם חידוש של המערכה הצבאית נגד איראן, בעוד שבממשל האמריקני ובסביבתו של טראמפ קיימת הסתייגות ממעורבותו בניסיונות להשפיע על קבלת ההחלטות בפנטגון",
       "link": "https://www.walla.co.il/news/world/383961311",
       "source": "וואלה",
@@ -50,6 +86,42 @@
       "pubDate": "2026-11-13T14:51:08.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383961311",
+      "title": "גורמים מאשרים לוואלה: ראש המוסד בארה”ב וייפגש עם ראש ה-CIA",
+      "summary": "הביקור מתקיים על רקע מאמציו המתמשכים של נתניהו לקדם חידוש של המערכה הצבאית נגד איראן, בעוד שבממשל האמריקני ובסביבתו של טראמפ קיימת הסתייגות ממעורבותו בניסיונות להשפיע על קבלת ההחלטות בפנטגון",
+      "link": "https://www.walla.co.il/news/world/383961311",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T14:51:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21846433",
+      "title": "\"הייתי לוקח את ים מדר למכבי תל אביב של עונת 2004/5\"",
+      "summary": "פיני גרשון פיאר את רכז מכבי תל אביב לאחר ה-73:80 של הצהובים בדרבי ביורוליג: \"הוא שווה כל שקל שהוא מקבל, זה האובדן הכי גדול של הפועל תל אביב, אין סרט בעולם שבשנה שעברה הוא לא היה יכול להציג את היכולת הזו\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21846433",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T14:49:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21846346",
+      "title": "יותר מ-10 מחבלים חוסלו ברצועה - חלקם פלשו לישראל ב-7.10 | צפו",
+      "summary": "בסדרת תקיפות ברחבי רצועת עזה, חוסלו פעילים שקידמו מתווי טרור ופעלו לשיקום חמאס, בהם שלושה שפשטו לישראל בטבח 7 באוקטובר • בנוסף, הושמדה סדנה של מטה הייצור של חמאס",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21846346",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T14:43:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/article/21846359",
+      "title": "כמעט אחרי יממה: שירותי מיקרוסופט חוזרים בהדרגה לפעילות",
+      "summary": "החברה הודיעה על התקדמות מעודדת בהתאוששות 18 שעות לאחר שהחלה התקלה החריגה, שנפרסה על פני עשרות מדינות ברחבי העולם • משתמשים מדווחים על קבלת הודעות בשירותי הדואר האלקטרוני אאוטלוק • \"חלק מהמשתמשים עדיין עשויים לחוות תקלות לסירוגין\" מזהירה ענקית הטכנולוגיה",
+      "link": "https://www.israelhayom.co.il/tech/article/21846359",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T14:39:57.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/opinions/383961260",
       "title": "לאט אבל בטוח - הקרקע נשמטת מתחת לקואליציית נתניהו",
       "summary": "העסק מתחיל לזוז, ועל ראשי גוש השינוי לדעת שאם הם לא ינצלו את ההזדמנות - הם יוכתמו לצמיתות כמי שחתמו על תעודת הפטירה הגלובלית של כולנו. מרגע זה ואילך חייב כל אחד מהם להתמקד רק בהזזת נתניהו מהשלטון",
@@ -61,11 +133,20 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21846343",
       "title": "מזל טוב: טדי שגיא וקים בחיוכים, רגע לפני היום החגיגי",
-      "summary": "איש העסקים המיליארדר יציין מחר יומולדת 55. רגע לפני, הוא נצפה ביפו עם בת זוגו הדוגמנית קים דאמר, ושניהם נראו במצברוח טוב. אולי לקראת חגיגה מתוכננת? צפו בפפראצי",
+      "summary": "איש העסקים המיליארדר, שיציין מחר יומולדת 55, נצפה ביפו עם בת זוגו הדוגמנית קים דאמר, ושניהם נראו במצברוח טוב. אולי לקראת חגיגה מתוכננת? צפו בפפראצי",
       "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21846343",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T14:29:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1388082",
+      "title": "הותר לפרסום: זה המורה החשוד במעשה מגונה בתלמידתו בת ה-7",
+      "summary": "בית המשפט המחוזי מרכז-לוד הורה על שחרורו של מיכאל וינגרטן למעצר בית בפיקוח חמישה מפקחים • השופט קבע כי ניתן להתמודד עם החשש לשיבוש החקירה באמצעות תנאים מגבילים",
+      "link": "https://www.maariv.co.il/news/law/article-1388082",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T14:27:29.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388082",
@@ -75,6 +156,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T14:27:29.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkmy39vcgx",
+      "title": "מיכאל ויינגרטן הוא המורה שנחקר בחשד לפגיעה מינית בילדה בת 7",
+      "summary": "בית המשפט התיר לפרסם את זהותו של החשוד, בנו של השחקן איציק ויינגרטן, שנעצר בחשד שפגע מינית בילדה במרכז. אתמול הוא שוחרר למעצר בית",
+      "link": "https://www.ynet.co.il/news/article/rkmy39vcgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T14:20:16.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkmy39vcgx",
@@ -31350,114 +31440,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T15:16:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21806355",
-      "title": "אחרי הטרגדיה: המחווה של רוי רביבו למשפחת הכדורגלן שנהרג",
-      "summary": "חולצתו של המגן השמאלי תעמוד למכירה פומבית שכל ההכנסות ממנה יעברו למשפחתו של חסוס דה מיגל • שחקן אלצ'ה זכה לשבחים בספרד: \"מרשים כמה טוב הוא שומר על המיקום שלו וכמה הוא יציב במשחק\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21806355",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:14:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21806494",
-      "title": "נטלי דדון חוזרת למסך: \"לא חשבתי פעמיים\"",
-      "summary": "אחרי שנפרדו בעבר למשך שנה וחזרו זה לזו, אורית ושלומי הררי מנסים כעת להגיע יחד לגמר • למשימה הקרובה הם גייסו עזרה מפתיעה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21806494",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:14:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/article/21806168",
-      "title": "לופי, אייסאפ רוקי והאטסונה מיקו נפגשים: השת\"פ המפתיע של פורטנייט",
-      "summary": "המשחק הפופולרי מפגיש בין עולם הפיראטים של \"וואן פיס\" לכוכבי מוזיקה בינלאומיים • בעונה החדשה השחקנים יכולים להיכנס לנעליהן של דמויות האנימה, לבקר במקומות מהסדרה ואפילו להילחם באמצעות הכוחות שלהן",
-      "link": "https://www.israelhayom.co.il/tech/article/21806168",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:13:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "title": "פרסום ראשון: רשת JUMBO Greece פותחת סניף חדש - במיקום מסקרן",
-      "summary": "רשת ג'מבו יוון פותחת בימים אלה סניף חדש במתחם קניות ענק שיפעל שבעה ימים בשבוע, ובהם גם בשבת • עשרות רשתות אופנה, מזון ופנאי כבר בדרך למתחם, והרשת עצמה מסמנת את היעדים הבאים שלה, כולל סניף ענק במיוחד בשרון",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:12:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "title": "רשת JUMBO Greece פותחת סניף חדש - במיקום מסקרן",
-      "summary": "רשת ג'מבו יוון פותחת בימים אלה סניף חדש במתחם קניות ענק שיפעל שבעה ימים בשבוע, ובהם גם בשבת • עשרות רשתות אופנה, מזון ופנאי כבר בדרך למתחם, והרשת עצמה מסמנת את היעדים הבאים שלה, כולל סניף ענק במיוחד בשרון",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:12:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "title": "רשת הענק מיוון פותחת סניף חדש - במיקום לא צפוי",
-      "summary": "רשת ג'מבו יוון פותחת בימים אלה סניף חדש במתחם קניות ענק שיפעל שבעה ימים בשבוע, ובהם גם בשבת • עשרות רשתות אופנה, מזון ופנאי כבר בדרך למתחם, והרשת עצמה מסמנת את היעדים הבאים שלה, כולל סניף ענק במיוחד בשרון",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:12:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "title": "רשת הענק היוונית JUMBO פותחת סניף חדש - במיקום מיוחד",
-      "summary": "רשת ג'מבו יוון פותחת בימים אלה סניף חדש במתחם קניות ענק שיפעל שבעה ימים בשבוע, ובהם גם בשבת • עשרות רשתות אופנה, מזון ופנאי כבר בדרך למתחם, והרשת עצמה מסמנת את היעדים הבאים שלה, כולל סניף ענק במיוחד בשרון",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21806424",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:12:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21805995",
-      "title": "הסוקר היחיד שחזה את תוצאות הבחירות: \"לנתניהו לא יהיו 61 גם בסבב ב'\"",
-      "summary": "צוריאל שרון, הבעלים של \"דיירקט פולס\" שהיה היחיד שפגע בתוצאות האמת, הסביר מדוע לדבריו כל מי שמבטיח לראש הממשלה נתניהו ניצחון בבחירות נוספות - פשוט מטעה אותו • וגם: מה קרה מאחורי הקלעים של הפרידה משלמה פילבר, ומיהם המצביעים שהצילו את ליברמן?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21805995",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:11:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21802449",
-      "title": "המשבר בארקיע: נצחון זמני לעובדי החברה",
-      "summary": "האחים נקש נסוגים לעת עתה מדילול אחזקת העובדים בחברת התעופה • בכל הקשור לסכסוך עבודה - הוא לא יוכרז בקרוב, אך עובדי ארקיע שומרים על כל האופציות פתוחות • מתחילת השנה החברה הפסידה יותר מ-30 מיליון דולר",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21802449",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:11:06.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-f68ddec1fabb1a1026.htm",
-      "title": "פסק דין תקדימי: בן תבע את אביו על הירושה – בעודו בחיים",
-      "summary": "בית המשפט המחוזי בנוף הגליל קבע כי בן יכול לתבוע את אביו בעודו בחיים • זאת בשל חשש שהעברת הנכסים לאחיותיו תרוקן מתוכן את הצוואה ההדדית • השופט אסף זגורי: חופש הפעולה של היורש הראשון אינו בלתי מוגבל",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-f68ddec1fabb1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-08T15:06:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21803482",
-      "title": "אולי הוא ממש לידך: 5 דרכים להגדיל את הסיכוי להכיר",
-      "summary": "אתן יוצאות, מבלות, הולכות לחדר הכושר, אבל מרגישות שאף אחד כבר לא ניגש? • המאמנת הזוגית הדר זוהר מסבירה למה זה לא רק עניין של מזל, איך האנרגיה שאתן משדרות משפיעה על ההיכרויות שלכן ומה אפשר לעשות כדי לפתוח את הדלת לאהבה חדשה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21803482",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T15:04:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6uun",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 17:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 17:00",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/to6uun",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T15:04:03.000Z"
     }
   ]
 }
