@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:01:04.410Z",
+  "updatedAt": "2026-11-13T10:16:04.154Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/norwegian-professor-holocaust-denial-blog",
+      "title": "פרופסור נורבגי הכחיש את השואה בבלוג: 'לא היו מחנות השמדה ייעודיים'",
+      "summary": "היסטוריון באוניברסיטת ברגן טען כי הנאצים לא הקימו מחנות השמדה • כתב תחת שם בדוי והסכים עם טענה כי מספר הקורבנות נמוך משישה מיליון | האוניברסיטה: 'חופש ביטוי חל על כולם' (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/norwegian-professor-holocaust-denial-blog",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T10:12:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/tofm2v",
+      "title": "שמחת רבם; אלפים נהרו לשמחת בית באבוב | תיעוד ענק ומרומם",
+      "summary": "אלפי חסידי באבוב נטלו חלק השבוע בשמחת נישואי הכלה, נכדת האדמו\"ר, בת לבנו הגדול הגה\"צ רבי חיים שלום הלברשטאם, חתן הגה\"צ רבי בעריש מייזליש, גאב\"ד סאטמר ב\"פ. עב\"ג החתן בן הרה\"ג ר' אשר אנשיל מנחם זלטנרייך, בן אב\"ד טשאקאווא קרעסטיר וחתן האדמו\"ר מספינקא | צפו בתיעוד ענק ומרומם מהשמחה הגדולה (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/tofm2v",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T10:01:31.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sysjqixrzl",
+      "title": "המלחמה עם איראן לא נגמרה, היא כנראה נדחתה",
+      "summary": "ישראל פיתחה תלות בשיתוף הפעולה הצבאי עם ארה\"ב, וחוששת כעת שתישאר לבד במערכה. הסכנה האמיתית כרגע היא לא \"מיסקלקולציה\", אלא דווקא קלקולציה איראנית, בנוסח \"תמות נפשי עם פלישתים\". יוזמה ישראלית עצמאית לא נראית כרגע על הפרק - והמאמץ צפוי להתמקד בהשפעה בבית הלבן",
+      "link": "https://www.ynet.co.il/news/article/sysjqixrzl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T10:00:09.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388032",
       "title": "שלג וגלים אימתניים: קליפורניה עומדת בפני סערה חריגה במיוחד",
       "summary": "מערכת מזג האוויר הצפויה בקליפורניה, מסמנת את תחילתה של התקופה הסוערת והממושכת הראשונה לעונה במדינה. על פי הדיווח ב\"ניו יורק טיימס\", עיקר הגשם צפוי לרדת בצפון המדינה",
@@ -39,6 +66,51 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T09:54:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/archaeology/article/21844339",
+      "title": "מתנה משמיים: מטמון הזהב המפורסם - בכלל עשוי מפלדת מטאוריטים",
+      "summary": "שתי חתיכות ברזל ממטמון שנחשף ב-1963 ליד העיירה וילנה בדרום מזרח ספרד זוהו כברזל מטאוריטי • החוקרים: \"אלה שני הפריטים הראשונים המיוחסים לברזל מטאוריטי בחצי האי האיברי\" • התגלית שופכת אור חדש על יכולות העיבוד הקדומות ומיישבת את התעלומה סביב הופעת המתכת מאות שנים לפני שהתפתחה תעשיית הברזל המקומית",
+      "link": "https://www.israelhayom.co.il/tech/archaeology/article/21844339",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:50:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845063",
+      "title": "הממשלה האנטי-ישראלית בדרך לקריסה? המשבר שמטלטל את הולנד",
+      "summary": "פחות מתשעה חודשים לאחר הקמתה, הקואליציה של ראש הממשלה רוב יטן ניצבת בפני משבר בעקבות אישור תוכנית מס חדשה בתמיכת האופוזיציה • מפלגת הימין VVD, החברה בממשלה, הצביעה נגדה ואיימה לדרוש שינוי יסודי בהסכמים הקואליציוניים • אם הממשלה תתפרק, הולנד עשויה לצאת לבחירות נוספות כבר בשנה הבאה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21845063",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:49:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21840969",
+      "title": "מוזיקה מהסרטים: איך הפסקול משנה את מה שאנחנו מרגישים",
+      "summary": "אותה סצנה בדיוק יכולה להיראות בודדה, מפחידה או ניטרלית לגמרי – תלוי איזו מוזיקה מנוגנת ברקע • מחקרים מראים שהפסקול שולט באמפתיה שלנו, בציפיות שלנו ואפילו בדופמין במוח",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21840969",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:48:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21844990",
+      "title": "אחרי ברק בכר: מכבי חיפה קיבלה החלטה לגבי זעזוע נוסף",
+      "summary": "הירוקים קיבלו החלטה עקרונית להשאיר את הצוות המקצועי, שלא עזב אחרי התפטרותו של המאמן • המחליף צפוי להתמנות עד חזרת הזרים מחופשה, והשאלה שנותרה היא האם יבקש לצרף עוזר משלו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21844990",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:44:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21844890",
+      "title": "חריג: כך הגיב ששון שאולוב לאורח שהתפרץ (וידאו)",
+      "summary": "במהלך הופעה של הזמר, אורח מהקהל עלה לבמה וניסה לחתור למגע. שאולוב קלט, הגיב במהירות, ולא נשאר חייב. צפו בקטע",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21844890",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:43:02.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syiiw8ncge",
@@ -60,12 +132,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21844592",
+      "title": "הנשיא במדינה הפרו-ישראלית: \"אין אופוזיציה - כולם הצטרפו לקואליציה\"",
+      "summary": "נשיא מדינת נאוארו באוקיינוס השקט, דייוויד אדיאנג, הודיע כי כל חברי האופוזיציה הצטרפו לקואליציה, כך שלראשונה מאז עצמאותה ב־1968 אין בפרלמנט ולו חבר אופוזיציה אחד • זה מקובל לעיתים שחברי פרלמנט מחליפים צדדים בין הממשלה לאופוזיציה אך היעדר מוחלט של פוליטיקאים באופוזיציה הוא תופעה נדירה",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21844592",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:29:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21844592",
       "title": "הנשיא שהודיע: \"אין אופוזיציה במדינה - כולם הצטרפו לקואליציה\"",
       "summary": "נשיא מדינת נאוארו באוקיינוס השקט, דייוויד אדיאנג, הודיע כי כל חברי האופוזיציה הצטרפו לקואליציה, כך שלראשונה מאז עצמאותה ב־1968 אין בפרלמנט ולו חבר אופוזיציה אחד • זה מקובל לעיתים שחברי פרלמנט מחליפים צדדים בין הממשלה לאופוזיציה אך היעדר מוחלט של פוליטיקאים באופוזיציה הוא תופעה נדירה",
       "link": "https://www.israelhayom.co.il/news/world-news/other/article/21844592",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T09:29:41.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383961269",
+      "title": "מאז שאגת הארי: קצב שיקום הטילים באיראן",
+      "summary": "חילופי התקיפות ביממה האחרונה בין ארה\"ב לאיראן חושפים את הידרדרות ההרתעה האמריקנית באיזור. אמ\"ן הגביר את מאמץ האיסוף - אלו 3 התרחישים העיקריים",
+      "link": "https://www.walla.co.il/news/military/383961269",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T09:29:24.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383961269",
@@ -114,12 +204,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21844784",
+      "title": "\"התביעה הקלה בהיסטוריה\": בעלה של יו\"ר ועדת הכספים נגד קודמה",
+      "summary": "משרד האסטרטגיה, בן חורין אלכסנדרוביץ' שאחד מבעליו הוא בעלה של יו\"ר ועדת הכספים החדשה לירן אבישר בן חורין, שיגר מכתב התראה ליו\"ר הוועדה היוצא, חנוך מילבצקי לאחר שזה טען ברדיו כי הבנקים הפעילו עליו \"לחץ אדיר\", באמצעות המשרד כשקידם את המס על רווחיהם • הדרישה: התנצלות בתוך 24 שעות ופיצוי שייתרם לעמותה לקידום זכויות נשים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21844784",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:17:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21844784",
       "title": "\"תביעת לשון הרע הקלה בהיסטוריה\": בעלה של יו״ר ועדת הכספים נגד היו״ר לשעבר",
       "summary": "משרד האסטרטגיה, בן חורין אלכסנדרוביץ' שאחד מבעליו הוא בעלה של יו\"ר ועדת הכספים החדשה לירן אבישר בן חורין, שיגר מכתב התראה ליו\"ר הוועדה היוצא, חנוך מילבצקי לאחר שזה טען ברדיו כי הבנקים הפעילו עליו \"לחץ אדיר\", באמצעות המשרד כשקידם את המס על רווחיהם • הדרישה: התנצלות בתוך 24 שעות ופיצוי שייתרם לעמותה לקידום זכויות נשים",
       "link": "https://www.israelhayom.co.il/news/politics/article/21844784",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T09:17:51.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876096",
+      "title": "שינוי מפתיע בגורל החברה שהישראלים אוהבים לשנוא",
+      "summary": "שינוי מפתיע בגורל החברה שהישראלים אוהבים לשנוא",
+      "link": "https://finance.walla.co.il/item/3876096",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T09:14:00.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3876096",
@@ -309,6 +417,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T08:37:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388009",
+      "title": "מחשב מסלול מחדש - חשבון הנפש של טראמפ בבית הלבן: \"בסדר גודל תנ\"כי\"",
+      "summary": "ד\"ר קובי ברדה מזהה סימנים לקרע בין טראמפ לסגנו בעקבות המפלה בבחירות האמצע. לדבריו, ואנס הפך למי שנושא באחריות להפסקת המלחמה באיראן, בעוד הנשיא בוחן מחדש כיצד להמשיך את המערכה",
+      "link": "https://www.maariv.co.il/news/world/article-1388009",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T08:35:57.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388009",
@@ -525,6 +642,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T07:43:48.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-a6cbf0feec3d1a1027.htm",
+      "title": "\"לא דמיינו התעללות בקנה מידה כזה\": עדות נוספת מהמעון באריאל",
+      "summary": "על רקע ההחלטה להגיש כתב אישום נגד שלוש המטפלות ממעון \"לוצ'יק\", עוד ועוד עדויות מהורים לילדים בגן ממשיכות לצאת. קורל חבושה, אמא לפעוטה בת 10 חודשים בלבד, שיתפה הבוקר בהתעללות שעברה בתה במעון, הסימנים הראשונים שרמזו ואיבוד האמון במערכת",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-a6cbf0feec3d1a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-13T07:36:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21844189",
@@ -32745,69 +32871,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T10:16:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tel-aviv-yeshiva-burglary-tefillin-arrest",
-      "title": "פרץ לישיבה בתל אביב וגנב 10 זוגות תפילין וקופת צדקה - תועד במצלמות ונעצר",
-      "summary": "תושב תל אביב בשנות ה-40 פרץ לישיבה בשדרות רוטשילד וגנב תפילין בשווי עשרות אלפי שקלים • נעצר לאחר חקירה מהירה של שוטרי תחנת לב תל אביב | כתב אישום הוגש (משטרה)",
-      "link": "https://www.kikar.co.il/haredim-news/tel-aviv-yeshiva-burglary-tefillin-arrest",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T10:13:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386156",
-      "title": "דיפלומט בכיר לשעבר חושף את ההעדפה של טראמפ לראשות הממשלה: \"יהיה שמח לראות\"",
-      "summary": "הקונסול לשעבר יקי דיין מזהיר מהיחלשות התמיכה בישראל בקונגרס החדש • טראמפ עשוי לבלום יוזמות נגדה, אך לא לאורך זמן • ברקע ביטול הסיוע הביטחוני, הוא קורא לחזק את שיתוף הפעולה הטכנולוגי עם ארה\"ב",
-      "link": "https://www.maariv.co.il/news/politics/article-1386156",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T10:11:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21802367",
-      "title": "הדור הבא של הלוחמים: צה\"ל השיק מכינת חי\"ר ראשונה מסוגה",
-      "summary": "יותר מ-2,600 צעירים כבר השתתפו בתוכנית ההכנה לגיוס של אגף כוח האדם • מכינת \"לביא\", המיועדת למתגייסי חטיבת כפיר, משלבת אימוני כושר, חיזוק החוסן הנפשי והיכרות עם המערכת הצבאית • סא\"ל איתן דנא: \"זהו תהליך של בניית זהות לוחמת והטמעת ערכי הרעות, המנהיגות והמקצועיות\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21802367",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T10:06:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21801147",
-      "title": "הצצה לסוף העולם: התגלית הנדירה בעומק החלל",
-      "summary": "תגלית אסטרונומית נדירה מציגה לראשונה שתי טבעות פסולת נפרדות סביב כוכב שסיים את חייו • ממצא זה מספק הצצה מרתקת לעתידה הרחוק של מערכת השמש שלנו • החוקרים מעריכים כי התגלית פותחת צוהר חדש לחקר שרידיהן של מערכות פלנטריות",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21801147",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T10:06:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21802660",
-      "title": "זו אופציה: התרחיש היחיד שיביא את ברק בכר לבית\"ר ירושלים",
-      "summary": "ברק אברמוב נותן לאלמוג כהן גיבוי מלא למרות התוצאות, אך אם האחרון יחליט לשוב לתפקיד המנהל המקצועי, מאמן מכבי חיפה לשעבר על הפרק",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21802660",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T10:04:49.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1ybltptmg",
-      "title": "נאשם ברצח גרושתו לעיני בנם: \"שטף את הסכין מדם והתקשר למשטרה\"",
-      "summary": "לפי האישום מלדה דקר את אנאניה קלב פעמים רבות באמצעות סכין מטבח גדולה, בזמן שבנם בן ה-5 שהה בדירה. לפי האישום, במהלך נישואיהם נהג לא פעם באלימות כלפיה ואיים לפגוע בה: \"התעללות שיטתית, גופנית ונפשית\"",
-      "link": "https://www.ynet.co.il/news/article/s1ybltptmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T10:03:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21802666",
-      "title": "סחיטה באיומים, תקיפה ועבירות רכוש וסמים: 12 כתבי אישום נגד תושב חיפה",
-      "summary": "גבר בן 37 מואשם כי איים על קורבן, תקף אותו וגנב את תיקו האישי לאחר שנחבל בראשו • במקביל, התנהלה נגדו חקירה בחשד לעבירות התפרצות, גניבה וסמים, שבסיומה צפויים להיות מוגשים נגדו 11 אישומים נוספים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21802666",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T10:01:42.000Z"
     }
   ]
 }
