@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:01:06.801Z",
+  "updatedAt": "2026-11-13T11:13:25.888Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,69 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14956774",
+      "title": "היועמ\"שית מסבירה כשלים, רק לא את שלה",
+      "summary": "זנ אך אירוני שדווקא היועצת המשפטית לממשלה היא זו שמתחמקת מלהתייצב בבית המשפט כדי להגן על כתבי האישום נגד נתניהו",
+      "link": "https://www.ynet.co.il/news/article/yokra14956774",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:11:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/symsxw4cfx",
+      "title": "מוסטפא נעצר באמצע המקלחת: התיעוד יוצא הדופן מבריטניה",
+      "summary": "מוסטפא ספהוונד ופרהאד ג'וואדי מאנש עבדו עבור משמרות המהפכה - ואספו מידע מפורט על עיתונאים איראניים מתנגדי משטר ועורך דין, עד רמת שמות חיות המחמד. הם נעזרו ב-ChatGPT, דבר ששימש נגדם כראיה במשפט. בעת המעצר השוטרים הוציאו את ספהוונד מהמקלחת - כשהשמפו עדיין על ראשו",
+      "link": "https://www.ynet.co.il/news/article/symsxw4cfx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:11:11.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961289",
+      "title": "שלוש שנים אחרי שאיבד את רגלו בעזה: הקצין הפך לאבא",
+      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה ואיבד את רגלו. שנה לאחר מכן כבר זכה לתשואות בקונגרס האמריקני, והשבוע הגיע רגע מרגש במיוחד: בתו הבכורה נולדה בבית החולים שמיר",
+      "link": "https://www.walla.co.il/news/israel/383961289",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T11:01:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21845389",
+      "title": "אגם בוחבוט: \"שתהיה בריא בגוף ובנפש\"",
+      "summary": "לכבוד יום הולדתו ה-29 של בן זוגה בר ברימר, הזמרת פרסמה פוסט מרגש במיוחד שבו חשפה את הציפיות שלה מהעתיד המשותף",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21845389",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:52:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21845392",
+      "title": "שלוש שנים אחרי שאיבד את רגלו בעזה: הפצוע הקשה הפך לאבא",
+      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה בנובמבר 2023, לאחר שטיל RPG פגע בקבינת הדחפור שלו • שמו התפרסם לאחר שהניף את קביו בנאומו של ראש הממשלה בקונגרס האמריקני • השבוע נולדה לו ולאוריה בת במרכז הרפואי שמיר",
+      "link": "https://www.israelhayom.co.il/health/article/21845392",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:52:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21844662",
+      "title": "כוח של 20 כורים גרעיניים: האם GTA 6 יקריס את החשמל ברחבי העולם?",
+      "summary": "130 מיליון קונסולות שמתעוררות בבת אחת מייצרות זינוק ביקוש של 26 גיגה-ואט • למרות שהסיכוי להחשכה עולמית נמוך, הפיזיקה של תדר החשמל ותקריות עבר באוהיו, בטקסס ובהודו חושפות עד כמה דק הקו המפריד בין שגרה לבין קריסת תשתיות • אז האם ההשקה של GTA 6 באמת עלולה להפיל את רשתות החשמל בעולם?",
+      "link": "https://www.israelhayom.co.il/tech/gaming/article/21844662",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:46:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961291",
+      "title": "כיפה אדומה, עם המבורגרים ושריפת הגופות: הרצח האכזרי בשרון",
+      "summary": "לפי כתב האישום, שלושת הצעירים הובאו לדירה בג'ת, אכלו עם חברי החוליה והוסעו לשטח חקלאי, שם נורו למוות והמכונית הוצתה כשגופותיהם בתוכה. שלושה חשודים נוספים טרם נעצרו",
+      "link": "https://www.walla.co.il/news/israel/383961291",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T10:46:12.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388040",
       "title": "סירב לבדיקת דם אחרי תאונה קטלנית: כך הכריע בית המשפט",
       "summary": "יהודה ברדה (37) מנתיבות הורשע בהמתה בקלות דעת לאחר שנהג בשכרות ופגע ברוכב קורקינט בן 29, שמת כעבור חמישה ימים. בית המשפט גזר עליו שש שנות מאסר, לאחר שדחה את טענות ההגנה",
@@ -39,6 +102,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T10:38:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21845364",
+      "title": "בגיל 90: החוקרת וההיסטוריונית פרופ' דבורה הכהן הלכה לעולמה",
+      "summary": "במשך עשרות שנים חקרה פרופ׳ הכהן את גלי העלייה שעיצבו את ישראל • היא כתבה את הביוגרפיה של הנרייטה סאלד לצד ספרים על העלייה ההמונית בשנות ה-50 ועל הצלת ילדי עליית הנוער",
+      "link": "https://www.israelhayom.co.il/news/local/article/21845364",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:38:16.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkohip4rge",
@@ -78,12 +150,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388031",
+      "title": "רק נכנסה לכנסת – וכבר דורשת לבטל את חוק קרן הארנונה: \"לא מקדמת פתרון\"",
+      "summary": "ימים לאחר השבעתה לכנסת, ח\"כ אושרת גני גונן יוצאת למאבק לביטול קרן הארנונה, שלטענתה פוגעת בעצמאות הרשויות. ברקע נתונים המצביעים על העברת מיליונים גם לערים חזקות כמו תל אביב",
+      "link": "https://www.maariv.co.il/news/politics/article-1388031",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T10:32:15.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388031",
       "title": "הח\"כית החדשה של איזנקוט יוצאת למאבק נגד קרן הארנונה: \"מחריף פערים\"",
       "summary": "ימים לאחר השבעתה לכנסת, ח\"כ אושרת גני גונן יוצאת למאבק לביטול קרן הארנונה, שלטענתה פוגעת בעצמאות הרשויות. ברקע נתונים המצביעים על העברת מיליונים גם לערים חזקות כמו תל אביב",
       "link": "https://www.maariv.co.il/news/politics/article-1388031",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T10:32:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21845218",
+      "title": "כבר מגיל 25: המהלך החריג למאבק בסרטן השד בישראל",
+      "summary": "כ-1.2 מיליון מבוטחות כללית בגילי 25–74 יקבלו פנייה דיגיטלית להערכת הסיכון האישי שלהן לחלות בסרטן השד, והמעקב יותאם לכל אחת לפי התוצאות • כרבע מהחולות בסרטן השד הן מתחת לגיל 50, אבל הממוגרפיה ממומנת בסל רק מגיל 50 • מנכ\"לית \"אחת מתשע\": \"זו הפעם הראשונה שארגון בריאות יוזם פנייה רחבת היקף לנשים שאינן חלק מתוכנית הסקר\"",
+      "link": "https://www.israelhayom.co.il/health/article/21845218",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:32:10.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/idf-judea-samaria-weekly-arrests-weapons-seizure",
@@ -93,6 +183,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-13T10:31:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21845209",
+      "title": "סייבר או טעות AI? הסערה סביב התקלה ההיסטורית במיקרוסופט",
+      "summary": "בעוד הרשת סוערת משמועות על מתקפת סייבר מתוחכמת או תקלת בינה מלאכותית שיצאה משליטה, מנכ\"ל מיקרוסופט סאטיה נאדלה שובר שתיקה, לוקח אחריות מלאה ומכחיש קשר לפרשת ג'נסן הואנג • במקביל, החברה מאריכה את חלון ההמתנה של המיילים ל-48 שעות מחשש לאובדן הודעות, והמניה יורדת ב-3%",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21845209",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:31:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21845226",
+      "title": "קיבלתם מכתב פיטורים ונפגעתם נפשית? ייתכן שתוכרו כנפגעי עבודה",
+      "summary": "עובד שפוטר בגיל 64 טען כי בעקבות קבלת מכתב הפיטורים סבל מדיכאון, חרדות ונדודי שינה • בית הדין הארצי קיבל את ערעורו והורה למנות מומחה שיבחן אם קיים קשר בין הפיטורים לפגיעה הנפשית",
+      "link": "https://www.israelhayom.co.il/news/law/article/21845226",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:30:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21845148",
+      "title": "נתן חומרים אסורים לקטינים: אחיו של הספורטאי האגדי נעצר",
+      "summary": "אודיסיאס דימאס, אחיו של אלוף המשקולות היווני לשעבר, חשוד שסיפק חומרים אסורים לספורטאים מאז אפריל 2024 • בחיפוש נתפסו 871 פריטים של תכשירים וחומרים, לצד 15 אלף יורו",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21845148",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T10:30:09.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/erdogan-son-turkish-forces-lebanon-border-proposal",
@@ -201,6 +318,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T09:48:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21844990",
+      "title": "אחרי ברק בכר: מכבי חיפה קיבלה החלטה לגבי הצוות המקצועי",
+      "summary": "הירוקים קיבלו החלטה עקרונית להשאיר את הצוות המקצועי, שלא עזב אחרי התפטרותו של המאמן • המחליף צפוי להתמנות עד חזרת הזרים מחופשה, והשאלה שנותרה היא האם יבקש לצרף עוזר משלו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21844990",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:44:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21844990",
@@ -4152,6 +4278,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T14:10:45.000Z"
+    },
+    {
+      "id": "walla:https://fashion.walla.co.il/item/3876035",
+      "title": "רוב הגברים כאן לא אוהבים להסתכל במראה - מה הפיתרון שלהם?",
+      "summary": "רוב הגברים כאן לא אוהבים להסתכל במראה - מה הפיתרון שלהם?",
+      "link": "https://fashion.walla.co.il/item/3876035",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T14:09:00.000Z"
     },
     {
       "id": "walla:https://fashion.walla.co.il/item/3876035",
@@ -32466,177 +32601,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-08T11:16:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21803278",
-      "title": "הראשונה מאז 7 באוקטובר: הנבחרת שהגיעה למחנה אימונים בישראל",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21803278",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:12:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386202",
-      "title": "\"מי ייקח אחריות על התיק?\": השאלה שמרחפת מעל משפט נתניהו",
-      "summary": "כתב מעריב גלעד מורג הסביר ב-103fm כיצד עלתה האפשרות לדיון סגור עם היועמ\"שית במשפט נתניהו. עו\"ד מיכאל דבורין מתח ביקורת חריפה על הפרקליטות והעריך שהשופטים מבקשים לעסוק בסעיף השוחד",
-      "link": "https://www.maariv.co.il/news/law/article-1386202",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:11:55.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386202",
-      "title": "\"אין מבוגר אחראי\": המתקפה על הפרקליטות במשפט נתניהו גוברת",
-      "summary": "כתב מעריב גלעד מורג הסביר ב-103fm כיצד עלתה האפשרות לדיון סגור עם היועמ\"שית במשפט נתניהו. עו\"ד מיכאל דבורין מתח ביקורת חריפה על הפרקליטות והעריך שהשופטים מבקשים לעסוק בסעיף השוחד",
-      "link": "https://www.maariv.co.il/news/law/article-1386202",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:11:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21803323",
-      "title": "טרגדיה בבוליביה: יוטיובר הטיולים נהרג בגיל 33",
-      "summary": "הוא יצא להקיף את העולם על שני גלגלים ותיעד את הדרך לעשרות אלפי צופים • אלא שבמהלך הרכיבה בדרום אמריקה הכול נקטע, ובני משפחתו חשפו את מה שהותיר אחריו",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21803323",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:11:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21803262",
-      "title": "ננסי ברנדס: \"הלב שלי נשבר\"",
-      "summary": "אחרי שש שנים יחד, המעבד המוזיקלי והקומיקאי נפרד מבת זוגו וחשף וידוי כואב במיוחד: החרדה מהשקט, הנסיעות הקשות, והבדידות שתפסה אותו לא מוכן",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21803262",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:11:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21779929",
-      "title": "אחרי שנים של תיאוריות: ג'סטין ובריטני שוב בכותרות",
-      "summary": "כמעט 20 שנה אחרי שהשיר הפך לאחד הלהיטים הגדולים שלו, ג'סטין טימברלייק חוזר לתיאוריה ותיקה שנקשרה לבריטני ספירס ומבהיר שהסיפור בכלל הגיע מחבר שעבר פרידה",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21779929",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:11:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21767068",
-      "title": "הסוד בבצק: בורק טורקי מושלם בלי להדליק תנור",
-      "summary": "בצק שמרים רך במיוחד, מילוי בשר טחון עם בצל זהוב וציפוי של חמאה מומסת • המאפה הטורקי הזה לא דורש תנור, והסוד למרקם הנימוח שלו מסתתר במרכיב אחד שכבר יש לכם במטבח",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21767068",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:09:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryjyvr6amg",
-      "title": "מנהל תחנת הדלק בשרון העיר לאדם שנהג בפראות - ונדרס. מצבו קשה | תיעוד",
-      "summary": "חשד לפגע וברח בתחנת הדלק: המנהל פונה לבית החולים בילינסון, מצבו מוגדר בינוני. המשטרה: נפתחה חקירה",
-      "link": "https://www.ynet.co.il/news/article/ryjyvr6amg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T11:07:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryjyvr6amg",
-      "title": "מנהל תחנת הדלק בשרון העיר לאדם שנהג בפראות - ונדרס. מצבו קשה",
-      "summary": "חשד לפגע וברח בתחנת הדלק: המנהל פונה לבית החולים בילינסון, מצבו מוגדר קשה. המשטרה: נפתחה חקירה",
-      "link": "https://www.ynet.co.il/news/article/ryjyvr6amg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T11:07:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386200",
-      "title": "למה ישראל חייבת למתג את עצמה מחדש? | ד״ר יניב לויתן",
-      "summary": "ההסברה הישראלית תקועה במאה הקודמת, בזמן שהקרב על דעת הקהל מתנהל ברשתות החברתיות • במקום להתגונן ולהצטדק, ישראל צריכה לשנות גישה, להוביל את השיח ולהציג לעולם את פניה שמעבר למלחמות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1386200",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:07:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960523",
-      "title": "מסע ההרג בקרקוב: פרטים חדשים על הקורבנות של הרוצח",
-      "summary": "משטרת פולין אישרה כי שלוש הגופות שהתגלו בבית משפחתו של החשוד הן של אביו, אמו ואחותו בת ה-21. בדירה נמצאו שבעה כלי נשק. החוקרים בודקים זיקה לאידיאולוגיית ימין קיצוני, ובמדינה החלו יומיים של אבל לאומי",
-      "link": "https://www.walla.co.il/news/world/383960523",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T11:06:34.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960523",
-      "title": "הוריו ואחותו נמצאו מתים בבית: פרטים חדשים על היורה מקרקוב",
-      "summary": "משטרת פולין אישרה כי שלוש הגופות שהתגלו בבית משפחתו של החשוד הן של אביו, אמו ואחותו בת ה-21. בדירה נמצאו שבעה כלי נשק. החוקרים בודקים זיקה לאידיאולוגיית ימין קיצוני, ובמדינה החלו יומיים של אבל לאומי",
-      "link": "https://www.walla.co.il/news/world/383960523",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T11:06:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386199",
-      "title": "הסם שמסתתר בטיפות גת: בדיקות המעבדה והאזהרה חמורה",
-      "summary": "משרד הבריאות והמשטרה מזהירים מפני מוצרים המשווקים כ\"טיפות גת\" לאחר שבבדיקות מעבדה התגלה בהם סם סינתטי מסוכן וממכר • הרשויות קוראות להימנע משימוש ולדווח על חשד להפצתם",
-      "link": "https://www.maariv.co.il/news/law/article-1386199",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:04:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386199",
-      "title": "הסם שמסתתר בטיפות גת: משרד הבריאות מפרסם אזהרה חמורה",
-      "summary": "משרד הבריאות והמשטרה מזהירים מפני מוצרים המשווקים כ\"טיפות גת\" לאחר שבבדיקות מעבדה התגלה בהם סם סינתטי מסוכן וממכר • הרשויות קוראות להימנע משימוש ולדווח על חשד להפצתם",
-      "link": "https://www.maariv.co.il/news/law/article-1386199",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:04:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386199",
-      "title": "אזהרה חמורה לציבור: סמים ממכרים נמצאו ב\"טיפות גת\"",
-      "summary": "משרד הבריאות והמשטרה מזהירים מפני מוצרים המשווקים כ\"טיפות גת\" לאחר שבבדיקות מעבדה התגלה בהם סם סינתטי מסוכן וממכר • הרשויות קוראות להימנע משימוש ולדווח על חשד להפצתם",
-      "link": "https://www.maariv.co.il/news/law/article-1386199",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T11:04:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21803248",
-      "title": "עיר צפה באורך 341 מטר: קרוז הענק מפליג החודש",
-      "summary": "אחרי שנים של תכנון, המספנה בשנגחאי מסרה את הספינה השנייה בסדרה, שנבנתה מהר יותר מקודמתה • ההפלגה הראשונה תצא מגואנגג'ואו, אבל נמל הבית שלה בעונה הבאה כבר יהיה במקום אחר",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21803248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:03:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21803248",
-      "title": "עיר צפה באורך 341 מטר: קרוז הענק מפליג החדש",
-      "summary": "אחרי שנים של תכנון, המספנה בשנגחאי מסרה את הספינה השנייה בסדרה, שנבנתה מהר יותר מקודמתה • ההפלגה הראשונה תצא מגואנגג'ואו, אבל נמל הבית שלה בעונה הבאה כבר יהיה במקום אחר",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21803248",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:03:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6jn1",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 13:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 13:00 (רדיו כיכר FM)",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/to6jn1",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T11:03:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21803158",
-      "title": "עודד מנשה לעדן הראל: \"זה לא מתאים לי\"",
-      "summary": "מגיש הטלוויזיה תועד על ידי אישתו ואם ילדיו מגישת ערוץ 14 ברגע מיוחד שהוציא ממנו וידוי מיוחד לגבי העתיד. \"זה נורא\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21803158",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:02:29.000Z"
     }
   ]
 }
