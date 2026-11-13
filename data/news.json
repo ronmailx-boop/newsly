@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:45:48.524Z",
+  "updatedAt": "2026-11-13T09:01:14.493Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1388015",
+      "title": "תפנית בפרשת האונס בעמק: נחשף כיצד השתלטו על התיק הרפואי של המתלוננת",
+      "summary": "בדיקה שערכה קופת חולים כללית העלתה כי מספר הטלפון בתיקה הרפואי של אופל מלול, שהתלוננה כי נאנסה בקיבוץ בעמק יזרעאל, שונה בעקבות שיחה של אלמונים עם עובדת בית החולים העמק",
+      "link": "https://www.maariv.co.il/news/law/article-1388015",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T08:59:22.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1bwybecme",
+      "title": "ליאור חזרה ממיון פסיכיאטרי לפני יותר משבוע - ונעלמה: \"אנחנו בערפל\"",
+      "summary": "עשרות שוטרים משתתפים בחיפושים אחרי הנעדרת ליאור כץ, בת 44 מתל אביב. ביום רביעי שעבר היא הלכה עם אביה למיון באברבנל בעקבות התקף פסיכוזה, אך בחרה שלא להתאשפז, ולמחרת נעלמו עקבותיה. \"במשטרה אמרו שהם לא זוכרים מקרה כזה של היעלמות בלי שום סימן\", אמר האב, \"אנחנו מודאגים נורא\"",
+      "link": "https://www.ynet.co.il/news/article/s1bwybecme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T08:58:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387941",
+      "title": "\"יוון ספגה גול עצום\": טורקיה חוגגת ניצחון בים התיכון",
+      "summary": "ספינת מחקר צרפתית הפכה למוקד עימות בין אנקרה לאתונה, ובטורקיה כבר חוגגים את מה שהם מכנים \"תבוסה מהדהדת\" ליוון. מאחורי התקרית עומד מאבק רחב על גבולות ימיים, משאבי אנרגיה והשפעה אזורית",
+      "link": "https://www.maariv.co.il/news/world/article-1387941",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T08:56:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1387905",
+      "title": "חלק מיועציו נכנסו ללחץ, אך נתניהו נותר רגוע: \"לא יקרה\", אמר להם | מתי טוכפלד",
+      "summary": "ביום שלישי, יום השבעת הכנסת, התרוצצו שמועות בבניין על כך שההסכם עם יהדות התורה כבר חתום ונעול. הדברים הגיעו גם לראש הממשלה. חלק מיועציו נכנסו ללחץ, אך נתניהו נותר רגוע. לא יקרה, אמר להם",
+      "link": "https://www.maariv.co.il/news/opinions/article-1387905",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T08:49:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/toflha",
+      "title": "שמונים שנה להירצחו; האדמו\"ר מנדבורנה פקד את קברו של דודו הבחור הקדוש הי\"ד",
+      "summary": "במלאות שמונים שנה להירצחו של הבחור הקדוש יצחק אייזיק רוזנבוים הי\"ד, בנו של האדמו\"ר בעל ה'דבר חיים' מנדבורנה זצ\"ל, שנפל על קדושת השם בעת ניסיון ההעפלה על סיפונה של אוניית המעפילים \"כנסת ישראל\". פקד אמש (ליל שישי) אחיינו, האדמו\"ר מנדבורנה, את ציון הקודש בעיר חיפה, שם העתיר לישועת הכלל והפרט (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/toflha",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T08:47:20.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1388011",
       "title": "האב צפה בתיעוד ההתעללות בבנו - וכעת חושש שהתיק ייקבר: \"אסור למסמס\"",
@@ -66,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T08:35:57.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876093",
+      "title": "זה כל האופי: מכבי מוצאת את עצמה, הפועל מתחילה להיסדק",
+      "summary": "זה כל האופי: מכבי מוצאת את עצמה, הפועל מתחילה להיסדק",
+      "link": "https://sports.walla.co.il/item/3876093",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T08:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21831553",
@@ -192,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-13T07:56:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1387998",
+      "title": "דדי ברנע התריע על איראן - ובכיר המוסד לשעבר מסכים: \"התקרבות לכיוון נקודת הסף\"",
+      "summary": "בכיר המוסד לשעבר חיים תומר התראיין ב-103FM, והתייחס לדבריו של ראש המוסד לשעבר דדי בנוגע בנוגע לסכנת הגרעין, תחת המשך השלטון הנוכחי באיראן",
+      "link": "https://www.maariv.co.il/news/military/article-1387998",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T07:54:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1387998",
@@ -3603,6 +3666,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T14:10:45.000Z"
+    },
+    {
+      "id": "walla:https://fashion.walla.co.il/item/3876035",
+      "title": "70% מהגברים בישראל לא מרוצים מהמראה שלהם. מה הם עושים עם זה?",
+      "summary": "70% מהגברים בישראל לא מרוצים מהמראה שלהם. מה הם עושים עם זה?",
+      "link": "https://fashion.walla.co.il/item/3876035",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-12T14:09:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/by9x11jm0fx",
@@ -33150,177 +33222,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T09:01:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/pregnant-woman-baby-die-shiba-hospital-tragedy",
-      "title": "טרגדיה בבית החולים: יולדת בת 30 והעובר נפטרו במהלך הלידה",
-      "summary": "אוראל ז\"ל הובהלה במצב אנוש לאחר שאיבדה הכרה בביתה • הצוותים חיברו אותה למכשיר אקמו אך נאלצו לקבוע את מות שניהם | הטרגדיה בשבוע ה-29 להריון (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/israel-news/pregnant-woman-baby-die-shiba-hospital-tragedy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T09:00:57.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byjorottzx",
-      "title": "\"הירי - מסר לאחד הדיירים\": הבניין שעל הכוונת, בפעם השנייה תוך חודשים",
-      "summary": "לפני ארבעה חודשים הושלך רימון רסס לעבר הבניין ברחוב ירושלים 131 בראשון לציון וניפץ את דלתות הלובי. אמש זה קרה שוב, הפעם מירי אקדח. הדיירים חוששים שבפעם הבאה מישהו ייפגע: \"בנס ילד לא חטף כדור. כאילו אין חוק\". המשטרה: \"הירי נועד להעביר מסר לאחד מדיירי הבניין\"",
-      "link": "https://www.ynet.co.il/news/article/byjorottzx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T08:58:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21801768",
-      "title": "מסכן הכל: הכוכב ההוליוודי תומך ישראל מגיע לארץ לשתף בסיפורו האישי",
-      "summary": "מייקל רפפורט יהיה אורח פסטיבל הקולנוע היהודי • הוא יציג את הסרט התיעודי העוסק במסעו האישי ובמחיר ששילם בעקבות תמיכתו בישראל, וישתתף בשיחה עם הקהל לצד במאית הסרט",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21801768",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:56:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
-      "title": "בלי רחמים: מתקפת טילים חותי'ת על המרכז הפיננסי בסעודיה",
-      "summary": "תקדים היסטורי בריאד: לראשונה מאז ההסלמה, המתחם הפיננסי היוקרתי הפך למטרה חיה וישירה. סעודיה מדווחת על יירוטים, אך עדי ראייה מאשרים את הנזק הכבד במבנה אראמקו (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:56:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
-      "title": "החות'ים מכים חזק: מתקפת טילים קשה על המרכז הפיננסי בסעודיה",
-      "summary": "שיגורים מתימן פגעו בשני יעדים מרכזיים בבירת סעודיה, בהם המרכז הפיננסי היוקרתי ומבנה של ענקית הנפט אראמקו (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/houthi-missiles-saudi-financial-center",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:56:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21801887",
-      "title": "טרגדיה כפולה: אישה בת 30 והעובר נפטרו במהלך הלידה בשיבא",
-      "summary": "האישה פונתה במהלך השבת לביה\"ח לאחר שנמצאה בביתה במצב אנוש • הצוותים הרפואיים חיברו אותה למכשיר אקמו בניסיון להציל את חייה, אך נאלצו לקבוע את מותם של האם והעובר",
-      "link": "https://www.israelhayom.co.il/news/local/article/21801887",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:56:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/mayanei-hayeshua-12th-cesarean-world-record",
-      "title": "שיא עולמי בישראל: יולדת עברה ניתוח קיסרי בפעם ה-12 בהצלחה מלאה",
-      "summary": "יולדת שעברה 11 ניתוחים קיסריים בעברה עברה השבוע את הניתוח ה-12 במעייני הישועה • הליך כירורגי מורכב שקבע שיא גינס עולמי חדש (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/mayanei-hayeshua-12th-cesarean-world-record",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:55:44.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383960493",
-      "title": "על הדבש ועל העוקם: למה באמת אברי גלעד היה צריך לשדר?",
-      "summary": "זה נכון לעלות לשידור בסיטואציה בה המגיש הוותיק שידר אמש? הרייטינג הוא חזות הכל? ומה כל זה אומר על הטלוויזיה שלנו? ירון פריד עושה קצת סדר",
-      "link": "https://www.walla.co.il/entertainment/tv/383960493",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T08:54:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/court-orders-council-pay-fire-evacuees",
-      "title": "המועצה ניסתה להתחמק – ותשלם מאות אלפים למפוני השריפה",
-      "summary": "המועצה האזורית חבל מודיעין ניסתה להימנע מתשלום חוב עבור אירוח משפחות שבתיהן נשרפו • בית המשפט דחה את הערעור והותיר את החיוב הכספי על כנו | פסק דין סופי (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/court-orders-council-pay-fire-evacuees",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:54:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21801141",
-      "title": "השידור הוחשך אחרי 10 דקות: המבצע הסודי של אילון מאסק והצבא",
-      "summary": "SpaceX רשמה את שיגורה ה-125 לשנת 2026 עם המראת טיל פלקון 9 מבסיס ונדנברג בקליפורניה, במשימת הצבא האמריקני USSF-432 • השידור הרשמי נקטע בפתאומיות לאחר הנחיתה המוצלחת של השלב הראשון • על פי הערכות מומחים, המטען המסתורי כולל לווייני ריגול מתקדמים מרשת Starshield",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21801141",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:53:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21801141",
-      "title": "השידור נקטע אחרי 10 דקות: המבצע הסודי של אילון מאסק וצבא ארה\"ב",
-      "summary": "SpaceX רשמה את שיגורה ה-125 לשנת 2026 עם המראת טיל פלקון 9 מבסיס ונדנברג בקליפורניה, במשימת הצבא האמריקני USSF-432 • השידור הרשמי נקטע בפתאומיות לאחר הנחיתה המוצלחת של השלב הראשון • על פי הערכות מומחים, המטען המסתורי כולל לווייני ריגול מתקדמים מרשת Starshield",
-      "link": "https://www.israelhayom.co.il/tech/space/article/21801141",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:53:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1386102",
-      "title": "בן גביר על העלייה בהצבעה הערבית: \"פתאום זה מתפוצץ לך בפרצוף\"",
-      "summary": "בריאיון לרדיו 103fm טען בן גביר כי היועמ\"שית סוחטת את המפכ\"ל, רמז לפרטים הקשורים לביתו ותקף בחריפות את ראש אגף החקירות • השר התייחס גם לחשדות להתערבות בבחירות ולהצבעה במגזר הערבי",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1386102",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T08:52:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1386102",
-      "title": "בן גביר רומז לפרשה סביב המפכ\"ל - וטוען לסחיטה: \"תעשו גוגל\"",
-      "summary": "בריאיון לרדיו 103fm טען בן גביר כי היועמ\"שית סוחטת את המפכ\"ל, רמז לפרטים הקשורים לביתו ותקף בחריפות את ראש אגף החקירות • השר התייחס גם לחשדות להתערבות בבחירות ולהצבעה במגזר הערבי",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1386102",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T08:52:53.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/peoples/elchanan-mishmartei-diary-laptop-stolen",
-      "title": "לא נעים: היומן והמחשב של הפייטן אלחנן משמרתי נגנבו; \"כל האירועים היו שם\"",
-      "summary": "הפייטן אלחנן משמרתי סיפר כי ביומן ובמחשב הנייד שנגנבו היו שמורים כל פרטי האירועים שלו • כעת הוא מבקש ממי שסגר איתו הופעה בתקופה הקרובה לשלוח לו שוב את הפרטים | הפרטים המלאים (אנשים)",
-      "link": "https://www.kikar.co.il/peoples/elchanan-mishmartei-diary-laptop-stolen",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:49:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386099",
-      "title": "האם נאבקה בנחש הענק - אישה שעברה במקום הפכה לגיבורה",
-      "summary": "טיול שגרתי ביער באוסטרליה הפך לרגע דרמטי כשאישה גילתה נחש ענק כרוך סביב גור קואלה, בזמן שאמו ניסתה נואשות לשחרר אותו. היא החליטה להתערב, והחילוץ שתועד במצלמה הפך לוויראלי",
-      "link": "https://www.maariv.co.il/news/viral/article-1386099",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T08:48:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21801781",
-      "title": "\"קצת מטורף\": דני אבדיה טוען - זו הסיבה לקריסה של פורטלנד",
-      "summary": "הישראלי התייחס ללוח הזמנים אחרי ההפסד לסן אנטוניו: ״זה לא אידיאלי, אבל אין תירוצים ב־NBA״ • על ההופעה: ״הפוקוס לא היה שם״ • ועל הקושי מהעונשין: ״זה יותר מנטלי מטכני״",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21801781",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:48:46.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960477",
-      "title": "שבוע דרמטי: הפלונטר בדרך לממשלת איזנקוט רק הולך ומסתבך",
-      "summary": "איזנקוט צפוי לקבל היום את המנדט להרכבת הממשלה, אך למרות שינוי העמדה של ליברמן בסוגיית החרדים, הדרך להקמת ממשלה עדיין ארוכה ומלאת מכשולים",
-      "link": "https://www.walla.co.il/news/politics/383960477",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T08:47:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/driver-flees-sobriety-check-hits-officer-disguises",
-      "title": "הנהג נעצר לבדיקת שכרות ולפתע פתח במנוסה ופגע בשוטר | תיעוד המרדף הדרמטי",
-      "summary": "בדיקת שכרות שגרתית בשער הגיא של משטרת התנועה הפכה לאירוע דרמטי • הנהג שנעצר לבדיקת שכרות החל להימלט ופגע בשוטר, תוך שהוא מנסה להימלט עד שמתפס | צפו בתיעוד (משטרה)",
-      "link": "https://www.kikar.co.il/police/driver-flees-sobriety-check-hits-officer-disguises",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:46:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386095",
-      "title": "ראש עיריית בת ים הגיש לטהרן חשבון של 250 מיליון שקלים - \"עוברים להתקפה\"",
-      "summary": "ראש העיר צביקה ברוט יזם תביעה בסך 250 מיליון שקל בעקבות פגיעת הטיל האיראני בעיר במבצע \"עם כלביא\". במסגרת המבצע המשפטי הגיע לניו יורק כדי למסור את כתב התביעה לנציג איראני. \"כל שקל יחזור\"",
-      "link": "https://www.maariv.co.il/news/law/article-1386095",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T08:46:10.000Z"
     }
   ]
 }
