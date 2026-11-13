@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:20:42.878Z",
+  "updatedAt": "2026-11-13T03:31:15.303Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/symjk0mrze",
+      "title": "המבחן של הממשלה שתקום מתחיל בכיתה",
+      "summary": "הממשלה היוצאת העבירה לצעירים מסר שכוחנות והסתה משתלמות פוליטית. הממשלה הבאה יכולה להציב להם מודל אחר של ישראליות: מנהיגות שמבוססת על שותפות, אחריות, הכלה ויכולת לנהל מחלוקת בלי להפוך את האחר לאויב",
+      "link": "https://www.ynet.co.il/news/article/symjk0mrze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T03:18:00.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21843564",
       "title": "בין המהומות בהשבעת הכנסת, רגע נדיר של פרגון חמק מתחת לרדאר",
@@ -33825,15 +33834,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-08T03:35:41.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383960461",
-      "title": "החורף נמשך: גשם מקומי בצפון ובמרכז, הטמפרטורות יישארו נמוכות",
-      "summary": "גשמים מקומיים צפויים גם בצפון הנגב, עם חשש קל להצפות במישור החוף וסופות רעמים יחידות עד שעות הצהריים. בהמשך היום הגשמים ייחלשו ויתמעטו, אך גם מחר יוסיף להיות קר מהרגיל לעונה",
-      "link": "https://www.walla.co.il/news/israel/383960461",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T03:25:29.000Z"
     }
   ]
 }
