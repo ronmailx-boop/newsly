@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:30:55.238Z",
+  "updatedAt": "2026-11-13T11:45:52.991Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388044",
+      "title": "הדרישה של גרטה מטורקיה: אל תיתנו את המתנה הזאת לישראל",
+      "summary": "גרטה תונברג הגיעה לוועידה באנטליה, וטענה כי יש להפעיל אמברגו אנרגיה טורקי מלא על ישראל. ישראל מייבאת כשליש מצריכת הנפט שלה מאזרבייג'ן",
+      "link": "https://www.maariv.co.il/news/world/article-1388044",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T11:37:39.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14957586",
+      "title": "נתניהו, סוף",
+      "summary": "הנאום שנשא ראש ממשלת המעבר היה מופע של שליט שמסרב להכיר בהכרעת עמו, והזכיר לכולנו, הגיע זמן תיקון",
+      "link": "https://www.ynet.co.il/news/article/yokra14957586",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:35:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14956317",
+      "title": "דגלי התורה האדומים",
+      "summary": "הגבלת כמות הלומדים ופיקוח על מספרם, העברת המפתחות לידי צה\"ל, שירות אזרחי אמיתי ונדרש, ופתרון לבעיית האוטונומיה החינוכית | בזמן שמנסים לרבע את המעגל בדרך להקמת ממשלה, אלו הן הנקודות הבוערות שבלי להתמודד איתן - כל הסכם עם המפלגות החרדיות יהיה בכייה לדורות",
+      "link": "https://www.ynet.co.il/news/article/yokra14956317",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:33:53.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14956767",
+      "title": "בכל זאת אחדות: האינטרס הציוני מעל הכל",
+      "summary": "זאת קלישאה, זה כבר מאוס, אבל אין לנו ברירה אלא להקים ממשלת אחדות | כל ממשלה חלקית, שנשענת או על החרדים או על המפלגות הערביות, עלולה להפקיר את הרוב המשרת והמשלם בחזיתות קריטיות",
+      "link": "https://www.ynet.co.il/news/article/yokra14956767",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:32:08.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1387986",
       "title": "סיפורה של תנועה: כיצד החות'ים בונים את כוחם מחוץ לתימן",
       "summary": "מחקר של מכון עמית חושף כיצד החות'ים מרחיבים את פעילותם באפריקה, מקימים רשתות הברחת נשק ומחזקים קשרים עם ארגוני טרור. החשש: חזית חדשה שתאיים על ישראל ועל נתיבי השיט בים האדום",
@@ -42,8 +78,8 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1ovmd4cgg",
-      "title": "תושב בת ים נעצר, החשד: מעורב ברצח ישראלי בבולגריה",
-      "summary": "",
+      "title": "פרופ' ישראלי נרצח במעלית בתחנת מטרו בסופיה, המשטרה: תושב בת ים נעצר",
+      "summary": "מעצר חריג בצו בינלאומי חשף את הפרשה המזעזעת: לפי דיווחים בבולגריה, פרופ' אנדריי אסטנוב בן ה-83, מרצה מוערך באוניברסיטת סופיה, הוכה באכזריות ונפטר בבית החולים מפצעיו. בן 32 מבת ים נעצר היום - חודש אחרי - וחשוד במעורבות ברצח",
       "link": "https://www.ynet.co.il/news/article/b1ovmd4cgg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +93,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T11:23:29.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1ovmd4cgg",
+      "title": "תושב בת ים נעצר, החשד: מעורב ברצח ישראלי בבולגריה",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/b1ovmd4cgg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T11:23:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
+      "title": "האוניברסיטה החרימה את ישראל, המרצה: \"לא היו מחנות השמדה\"",
+      "summary": "סטפן סנדר-פאס כתב בבלוג בשם בדוי כי תרבות הזיכרון של השואה היא \"תעמולת אימה\" • הרקטורית: \"חופש הביטוי חל על כל העובדים\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T11:13:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
@@ -111,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T11:10:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961293",
+      "title": "לחץ מתגבר לחשוף את שם הבכיר שהורשע בהטרדה מינית",
+      "summary": "אחרי מחאת חברי הסגל, הארגון שמייצג את עוזרי ההוראה והמחקר פנה לבית הדין המשמעתי בדרישה לשקול מחדש את ההחלטה להותיר את שמו של הפרופסור שהורשע בהטרדה מינית בהליך משמעתי",
+      "link": "https://www.walla.co.il/news/israel/383961293",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T11:07:46.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383961293",
@@ -573,6 +636,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388021",
+      "title": "טראמפ מביע דאגה בשידור: \"מעולם לא חשבתי שזה אפשרי\"",
+      "summary": "בראיון לרדיו האמריקאי השווה טראמפ את האנטישמיות בארה\"ב לגרמניה של 1938 והאשים את אובמה בהתפשטותה. בהמשך הצהיר כי יוכל לכהן כראש ממשלת ישראל ואיים בפעולה צבאית נוספת נגד איראן",
+      "link": "https://www.maariv.co.il/news/world/article-1388021",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T09:07:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388021",
       "title": "טראמפ מודאג מהאנטישמיות: \"כמו גרמניה של 1938\"",
       "summary": "בראיון לרדיו האמריקאי השווה טראמפ את האנטישמיות בארה\"ב לגרמניה של 1938 והאשים את אובמה בהתפשטותה. בהמשך הצהיר כי יוכל לכהן כראש ממשלת ישראל ואיים בפעולה צבאית נוספת נגד איראן",
       "link": "https://www.maariv.co.il/news/world/article-1388021",
@@ -714,6 +786,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T08:43:50.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876094",
+      "title": "\"השעיר לעזאזל של אייאקס\": בהולנד יוצאים להגנת גלוך",
+      "summary": "באתר האוהדים תהו מדוע הישראלי ממשיך לספוג ביקורת למרות 5 מעורבויות בשערים בתוך חמישה ימים. המספרים והעקיצה של המבקר הגדול",
+      "link": "https://sports.walla.co.il/item/3876094",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T08:43:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21844576",
@@ -32529,60 +32610,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T11:46:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21803194",
-      "title": "תאילנד מסגירה אויגורים לסין: \"אם תחזירו אותנו - נהיה עבדים\"",
-      "summary": "שני גברים בני המיעוט האויגורי, המוחזקים במתקן כליאה בתאילנד, חוששים כי יגורשו בחזרה לסין - הם טוענים כי הם עלולים להיות חשופים לעוינות מצד הממשל • ארגוני זכויות אדם מזהירים כי בנגקוק עלולה להיכנע ללחץ מצד בייג'ינג, לאחר שבשנה שעברה כבר גירשה 40 אויגורים למדינה חרף התנגדות האו\"ם • אחד מהם כתב לבת זוגו: \"לפעמים חשבתי - מה עשיתי לסין?\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21803194",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:44:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/kiryat-gat-toddler-kidnapping-attempt-father-rescu",
-      "title": "תשוש נפש ניסה לחטוף פעוטה מהעגלה - האבא החל לרדוף אחריו",
-      "summary": "חשוד, תושב קריית גת בן 40, ניסה לחטוף פעוטה בת 3 מעגלתה לאור יום ביום שישי החארון. האב רדף אחריו והציל את בתו | ארבעה ימים קודם הורחק החשוד מהמשפחה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/kiryat-gat-toddler-kidnapping-attempt-father-rescu",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T11:38:29.000Z"
-    },
-    {
-      "id": "walla:https://sheva7.walla.co.il/item/3875425",
-      "title": "התחקיר שמצית עימות בנגב: ירוחם נגד קק\"ל, בערד תומכים ביו\"ר",
-      "summary": "התחקיר שמצית עימות בנגב: ירוחם נגד קק\"ל, בערד תומכים ביו\"ר",
-      "link": "https://sheva7.walla.co.il/item/3875425",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T11:37:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21803156",
-      "title": "אילנית לוי זועמת: \"שאלוהים יקח אתכן\"",
-      "summary": "בסדרת סטורים שהעלתה לחשבון האינסטגרם שלה, יצאה אילנית לוי בחריפות נגד הנאשמות בפרשת ההתעללות בפעוטות במעון באריאל • \"אלו לא נשים, אלו לא בני אדם\", כתבה לוי, וקראה \"להכניס את השטן לכלא לכל החיים\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21803156",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:35:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21803663",
-      "title": "פעיל בל\"ד, שנחשד במגע עם סוכן זר, שוחרר ממעצר: \"לא יצליח לשב\"כ בציד המכשפות\"",
-      "summary": "איש התקשורת עבד אבו שחאדה שנעצר בשבוע שעבר בעקבות ריאיון שערך עם עזמי בשארה בקטאר • הבוקר שוחרר ללא תנאים מגבילים, למעט התחייבות להתייצב לחקירה אם יידרש • עם שחרורו תקף את השב\"כ וטען כי מדובר ברדיפה פוליטית שנועדה להשתיק את החברה הערבית",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21803663",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T11:33:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/bnei-brak-kindergarten-dispute",
-      "title": "העימות בין הפלג לכסא רחמים מחריף: איש תחזוקה עוכב לחקירה",
-      "summary": "העימותים בין אנשי הפלג הירושלמי לבין אנשי מוסדות כסא רחמים סביב מבנה גני הילדים ברחוב אברבנאל נמשכו גם הבוקר. איש תחזוקה במוסדות עוכב לחקירה לאחר שאחד המעורבים נפצע. עורך דינו: ״מרשי לא נקט באלימות, אלא ניסה להרגיע את הרוחות״ (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/bnei-brak-kindergarten-dispute",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T11:32:22.000Z"
     }
   ]
 }
