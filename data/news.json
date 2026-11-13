@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:45:44.731Z",
+  "updatedAt": "2026-11-13T13:01:01.537Z",
   "sources": [
     {
       "key": "ynet",
@@ -435,6 +435,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T10:52:05.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961290",
+      "title": "בגלל הפקקים: 2 הזמרים שמבטלים הופעות - עם קרע שרק מעמיק",
+      "summary": "מה כבר יכול לגרום לשניים מכוכבי האראנדבי הגדולים בעולם להסתכסך עד כדי ביטול הופעות? לפי הדיווחים, הכול התחיל מוויכוח די הזוי מאחורי הקלעים, ומאז היחסים בין אשר לכריס בראון רק הולכים ומידרדרים",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961290",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T10:51:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21844662",
@@ -1443,6 +1452,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-13T07:13:47.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876086",
+      "title": "אוהדי פורטלנד זועמים על השיפוט, בזמן שאבדיה \"מגנט לשריקות\"",
+      "summary": "ב-Blazers Edge הסבירו מדוע דווקא ליריבות יש סיבות להתלונן על השופטים. כוכב הבלייזרס זכה להשוואה: \"כוח משמעותי בדיוק שיי\"",
+      "link": "https://sports.walla.co.il/item/3876086",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T07:10:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387983",
@@ -32277,69 +32295,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T13:01:21.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkdt11ya6fe",
-      "title": "שרה נתניהו: \"אין לי גישה למידע ביטחוני, גם לא על תקיפה באיראן\"",
-      "summary": "רעיית רה\"מ הכחישה שוב את הטענות כי עדכנה את חברתה על חיסולו הצפוי של נסראללה, ובתצהיר לבית המשפט כתבה: \"אינני משתתפת בדיונים ביטחוניים ואין לי שום גישה למידע ביטחוני\". במסגרת הדיון החליטה לוותר על תביעת הדיבה נגד מספר כלי תקשורת, אך תמשיך לנהל הליך נגד בעלי קבוצת הטלגרם הפופולרית",
-      "link": "https://www.ynet.co.il/news/article/bkdt11ya6fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T12:57:27.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875439",
-      "title": "\"תחרות שתלחץ על המחירים\": מכרז חדש להוזלת הגבינה הצהובה",
-      "summary": "מכרז 2027 יביא לארץ 5,900 טונות גבינה פטורה ממכס, אך הבונוס של היבואנים רק הולך וגדל. כל הפרטים על המכרז החדש ומה מתוכנן ברשתות השיווק",
-      "link": "https://finance.walla.co.il/item/3875439",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T12:54:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21804574",
-      "title": "אחרי ניסיון הפריצה: גיא זוארץ חושף מה עשתה יעל בר זוהר",
-      "summary": "אחרי שהתרעה על ניסיון פריצה הקפיצה את בני הזוג בשעת בוקר מוקדמת, זוארץ תיעד את הנזק לרכב וסיפר מה קרה כשאשתו הבחינה בחשוד • \"הוא פשוט התחיל לברוח\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21804574",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T12:53:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386255",
-      "title": "אב השנה: השאיר את בתו בת ה-6 לשמור תור לפוקימון - ונסע הביתה",
-      "summary": "ג'ון-מייקל דולי מדרום קרוליינה רצה להבטיח לעצמו מקום בתור לרכישת קלפי פוקימון חדשים, אך במקום להמתין בעצמו, השאיר את בתו הקטנה עם כרית ושמיכה מחוץ לחנות. כעבור שעה הוזעקה המשטרה",
-      "link": "https://www.maariv.co.il/news/viral/article-1386255",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T12:53:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386255",
-      "title": "בשביל פוקימון: הילדה עמדה בתור, האב ישן בבית",
-      "summary": "ג'ון-מייקל דולי מדרום קרוליינה רצה להבטיח לעצמו מקום בתור לרכישת קלפי פוקימון חדשים, אך במקום להמתין בעצמו, השאיר את בתו הקטנה עם כרית ושמיכה מחוץ לחנות. כעבור שעה הוזעקה המשטרה",
-      "link": "https://www.maariv.co.il/news/viral/article-1386255",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T12:53:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386255",
-      "title": "אב השנה: השאיר את בתו בת ה-6 לשמור תור - ונסע הביתה",
-      "summary": "ג'ון-מייקל דולי מדרום קרוליינה רצה להבטיח לעצמו מקום בתור לרכישת קלפי פוקימון חדשים, אך במקום להמתין בעצמו, השאיר את בתו הקטנה עם כרית ושמיכה מחוץ לחנות. כעבור שעה הוזעקה המשטרה",
-      "link": "https://www.maariv.co.il/news/viral/article-1386255",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T12:53:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386256",
-      "title": "בגלל חיג'אב: ארדואן הסתכסך עם השותפה האסטרטגית של ישראל",
-      "summary": "ארדואן הגיע לאזרבייג'ן בניסיון לאחות את הקרע עם בעלת בריתו הקרובה, לאחר עימות סביב כיסויי ראש והחרמת פסגה באנקרה • ברקע נמצאים גם הקשרים הביטחוניים עם ישראל וההתקרבות הטורקית לארמניה",
-      "link": "https://www.maariv.co.il/news/world/article-1386256",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T12:48:27.000Z"
     }
   ]
 }
