@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:45:48.374Z",
+  "updatedAt": "2026-11-13T08:01:14.619Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-claims-us-radar-bahrain-attack",
+      "title": "איראן טוענת: השמדנו מכ\"ם אמריקני בבחריין בתגובה לתקיפה",
+      "summary": "משמרות המהפכה טוענות להשמדת מכ\"ם להתרעה מוקדמת • הטענה מגיעה לאחר דיווחים על פיצוצים באזור סיריק | הטענות טרם אומתו באופן עצמאי (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-claims-us-radar-bahrain-attack",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T07:56:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1387998",
+      "title": "בישראל מבינים: הדבר המסוכן באמת לא ישתנה באיראן",
+      "summary": "בכיר המוסד לשעבר חיים תומר התראיין ב-103FM, והתייחס לדבריו של ראש המוסד לשעבר דדי בנוגע בנוגע לסכנת הגרעין, תחת המשך השלטון הנוכחי באיראן",
+      "link": "https://www.maariv.co.il/news/military/article-1387998",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T07:54:21.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/haifa-cable-car-malfunction-pulley-break",
+      "title": "מסתמן: זה מה שגרם לתקלה שהותירה את נוסעי הרכבלית באוויר",
+      "summary": "שבר בגלגלת גרם לעצירת חירום של הרכבלית • עשרות נוסעים נותרו תקועים למעלה משעה | האירוע התרחש יומיים בלבד לאחר שהרכבלית חזרה לפעול (בארץ)",
+      "link": "https://www.kikar.co.il/news/haifa-cable-car-malfunction-pulley-break",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-13T07:52:55.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjwpq440me",
+      "title": "טראמפ הפציר במנכ\"ל אנבידיה: \"תיאבק\" | הקשר הקרוב - ותפקיד ה\"מושיע\" שאימץ הואנג",
+      "summary": "כלי תקשורת בארה\"ב דיווחו על שיחות בין הנשיא למנכ\"ל ענקית השבבים, ג'נסן הואנג, לפני שפרש אחרי 33 שנה בצל הסקנדל: \"תילחם על המשרה\". אחרי הפרישה הדרמטית אמר: \"הוא עובר גיהינום\". רק לפני שנתיים, הם כלל לא הכירו: \"מי זה לעזאזל? מה השם שלו?\". האזהרות והאדישות - ומה שהדאיג את טראמפ באמת",
+      "link": "https://www.ynet.co.il/news/article/sjwpq440me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T07:49:23.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21836798",
       "title": "ממלכת יהודה",
@@ -105,6 +141,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1387983",
+      "title": "זמן קצר לפני שהתפטר: שיחת הטלפון החד משמעית של טראמפ למנכ\"ל אנבידיה",
+      "summary": "נשיא ארצות הברית שוחח עם מנכ\"ל אנבידיה ג'נסן הואנג, זמן קצר לפני שהגיש את התפטרותו. טראמפ הפציר בו \"להמשיך להילחם על תפקידו\"",
+      "link": "https://www.maariv.co.il/news/world/article-1387983",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T07:07:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1387983",
       "title": "בתוך הסערה: דונלד טראמפ העניק גיבוי מלא למנכ\"ל אנבידיה - \"תמשיך להילחם\"",
       "summary": "נשיא ארצות הברית שוחח עם מנכ\"ל אנבידיה ג'נסן הואנג, זמן קצר לפני שהגיש את התפטרותו. טראמפ הפציר בו \"להמשיך להילחם על תפקידו\"",
       "link": "https://www.maariv.co.il/news/world/article-1387983",
@@ -147,6 +192,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T07:00:07.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876081",
+      "title": "עם 2 מעודדות, משה סידי - ותוף אדום: הדרבי המוזר בלימאסול",
+      "summary": "מכבי תל אביב פתחה את עידן קפריסין בניצחון בדרבי, אבל הקהל היה רחוק מלמלא את האולם. בשבוע הבא נגד אולימפיאקוס, לימסול כבר אמורה להרגיש אווירת כדורסל, ובמכבי כבר חולמים שוב על חזרה לישראל",
+      "link": "https://sports.walla.co.il/item/3876081",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T07:00:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/hegseth-medal-arlington-cemetery-soldier",
@@ -291,6 +345,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-13T06:23:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1387971",
+      "title": "תוכנית סודית לקראת פשיטה נוספת על העוטף? המפה המדאיגה שנמצאה",
+      "summary": "נעליים צבאיות שעוררו את חשד השוטרים בבקעת הירדן הובילו לחיפוש בביתו של צעיר פלסטיני, שבמהלכו אותרו אקדח איירסופט, סכינים וציוד צבאי נוסף. בין הממצאים: מפה צבאית מסווגת בדרגת \"סודי\" של אזור עוטף עזה",
+      "link": "https://www.maariv.co.il/news/law/article-1387971",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-13T06:17:23.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1387971",
@@ -9507,6 +9570,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T16:34:15.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3875897",
+      "title": "היזם הישראלי שמקים את מגדל טראמפ בגאורגיה מגלה את סוד ההצלחה",
+      "summary": "מילדות ענייה בפוטי וצל הגולאג בסיביר, דרך התרסקות וחובות של מיליונים בישראל - ועד להקמת אימפריית הנדל\"ן Archi השווה מאות מיליוני דולרים: מני בניש מדבר על הכל",
+      "link": "https://finance.walla.co.il/item/3875897",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-11T16:30:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961015",
@@ -33357,78 +33429,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-08T08:02:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21801051",
-      "title": "ח\"כ מגוש השינוי: \"רע\"מ תוספת נחמדה - קודם כל נביא את החרדים\"",
-      "summary": "ספירת 28 הימים של גדי איזנקוט להרכבת הממשלה יוצאת לדרך, ובגוש השינוי כבר חלוקים על המחיר שיידרש עבור שילוב הסיעות החרדיות • בעוד ליברמן קורא להתגמש גם בחוק הגיוס, איזנקוט וגולן מתעקשים על שוויון בנטל • וגם: לאן נעלם נתניהו?",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21801051",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T08:00:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/to6ae4",
-      "title": "מבזק חדשות כיכר FM | מהדורת השעה 10:00",
-      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 10:00 (רדיו כיכר FM)",
-      "link": "https://www.kikar.co.il/kikar-scoop-news/to6ae4",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T08:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21801226",
-      "title": "אבי שושן שלח מסר חד וברור לערוץ 14 ו\"הפטריוטים\"",
-      "summary": "פרק ההדחה של אבי שושן ב\"הישרדות\" הניב 13.9% והביס את \"הפטריוטים\" בערוץ 14 • \"הזמר במסכה\" בקשת 12 הובילה עם 16.6% יחד עם החשיפה של איתי שכטר • חדשות 12 שלטה בפער ענק, ליטל שמש שמרה על הסגנות",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21801226",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T07:59:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21801226",
-      "title": "לאחר ההדחה: אבי שושן שולח מסר חד וברור לערוץ 14 ו\"הפטריוטים\"",
-      "summary": "פרק ההדחה של אבי שושן ב\"הישרדות\" הניב 13.9% והביס את \"הפטריוטים\" בערוץ 14 • \"הזמר במסכה\" בקשת 12 הובילה עם 16.6% יחד עם החשיפה של איתי שכטר • חדשות 12 שלטה בפער ענק, ליטל שמש שמרה על הסגנות",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21801226",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T07:59:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1386075",
-      "title": "מלימודים למדים: צה\"ל חושף את מצב גיוס החרדים",
-      "summary": "צה\"ל פרסם את נתוני פתיחת מחזור הגיוס החרדי לנובמבר־דצמבר, שבמסגרתו הצטרפו עד כה 285 חיילים למסלולי תומכי לחימה • בחודשים הקרובים צפויים גיוסים נוספים, לצד הרחבת אפשרויות השירות",
-      "link": "https://www.maariv.co.il/news/military/article-1386075",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T07:58:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/northern-waterfalls-flowing-rain",
-      "title": "אחרי הגשמים הרבים: צפו בזרימה המרהיבה במפלים ובנחלים בצפון",
-      "summary": "אחרי הגשמים הרבים שפקדו בשעה טובה את ארצנו בסוף השבוע, הבוקר (ראשון) כבר נראתה זרימה ראשונה במפלים בצפון הארץ | צפו בזרימה במפל הבניאס, במפל סער ובנחל גובתה שמשתלב עם נחל הבניאס (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/northern-waterfalls-flowing-rain",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T07:56:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/bus-minibus-collision-ayalon-17-injured",
-      "title": "תאונה קשה באיילון: אוטובוס התנגש במיניבוס; 17 פצועים פונו לבית החולים",
-      "summary": "נהג מיניבוס במצב קשה ונערה במצב בינוני • 17 פצועים רובם באורח קל פונו לבתי החולים | זירת התאונה באיילון דרום - סמוך למחלף רוקח | החשד: נהג המיניבוס ניסה להיכנס לנתיב המהיר והתנגש באוטובוס (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/bus-minibus-collision-ayalon-17-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T07:55:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21801119",
-      "title": "\"מפלצות בדמות אדם\": אורן חזן מגיב לכתב האישום בפרשת המעון - בו היה בנו",
-      "summary": "חזן מתאר ל\"היום\" את הזעזוע מהמעשים הקשים שנחשפו: \"אתה קורא ומתפרק, אלה דברים שרואים רק בסרטי אימה\" • על הפער בין היחס החם להורים למתרחש מאחורי הקלעים: \"כלפינו הן היו הכי מקסימות שיש\" • על אובדן האמון במסגרות החינוכיות: \"גם אני אמרתי 'לי זה לא יקרה'. זה יכול לקרות לכל אחד\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21801119",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T07:50:55.000Z"
     }
   ]
 }
