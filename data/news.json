@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T09:30:55.987Z",
+  "updatedAt": "2026-11-13T09:45:58.476Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/syiiw8ncge",
+      "title": "הקצין שנעצר בבריטניה \"לא הספיק להעביר מידע לרוסיה\" - ויעמוד לדין גם בארה\"ב",
+      "summary": "ברנדון טיינר, קצין ששירת ביחידה של נאט\"ו בבריטניה ונעצר השבוע יועמד לדין תחילה בבריטניה - ואחר כך גם בבית משפט צבאי בארה\"ב. דובר הקרמלין מכחיש: \"אין לזה שום קשר אלינו\". המעצר התבצע שעות אחרי שארה\"ב פינתה מטוסי תדלוק מבסיס אחר באנגליה - בעקבות איום איראני",
+      "link": "https://www.ynet.co.il/news/article/syiiw8ncge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-13T09:34:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21844592",
+      "title": "הנשיא שהודיע: \"אין אופוזיציה במדינה - כולם הצטרפו לקואליציה\"",
+      "summary": "נשיא מדינת נאוארו באוקיינוס השקט, דייוויד אדיאנג, הודיע כי כל חברי האופוזיציה הצטרפו לקואליציה, כך שלראשונה מאז עצמאותה ב־1968 אין בפרלמנט ולו חבר אופוזיציה אחד • זה מקובל לעיתים שחברי פרלמנט מחליפים צדדים בין הממשלה לאופוזיציה אך היעדר מוחלט של פוליטיקאים באופוזיציה הוא תופעה נדירה",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21844592",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:29:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21844814",
+      "title": "המאמן רתח על אקס הפועל תל אביב: \"מעיף ומקלל אותו\"",
+      "summary": "ולאדה ג'ורוביץ' התייחס לעימות בין כריס ג'ונס לאיבון נבארו במהלך התבוסה של הכוכב האדום לריאל מדריד • \"אין לו זכות להתנהג ככה, אני הייתי מעיף אותו לחדר ההלבשה ומקלל אותו\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21844814",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:27:12.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-regime-survival-defeat-interview",
       "title": "טראמפ: \"אם איראן תשרוד עד סוף כהונתי - זו תבוסה שלי\" | \"אני יכול לחסל את איראן תוך שלושה ימים\"",
       "summary": "הנשיא האמריקני הבהיר כי לא יהסס להשתמש בכוח צבאי נוסף • טען שנמנע מתקיפות נרחבות יותר לבקשת מדינות האזור | טראמפ התייחס להתגברות האנטישמיות בארה\"ב ואמר: \"זה כמו גרמניה ב-1938 או משהו כזה. מה שקורה - פשוט מטורף\" (בעולם)",
@@ -41,6 +68,15 @@
       "pubDate": "2026-11-13T09:25:22.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21844341",
+      "title": "נמאס לכם לנחש? האפליקציה הישראלית שתבחר לכם יין מושלם - בעברית",
+      "summary": "צמרת פרנט, יזמית, עיתונאית ויועצת תקשורת לשעבר, עמדה מול מדף היין ולא ידעה להסביר מה היא אוהבת • אז היא נרשמה ללימודי יין והבינה שני דברים • יין הוא קודם כל עניין של טעם אישי • וגם: רוב האנשים לא יעשו את הדרך הזאת כדי לגלות את הטעם שלהם • היא בנתה, בלי לדעת לכתוב שורת קוד, את MindfulGrape",
+      "link": "https://www.israelhayom.co.il/tech/apps/article/21844341",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:21:40.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388025",
       "title": "\"יש עוד דברים שאתה לא יודע\": הציטוט המצמרר בתיק הרצח המשולש בג'לג'וליה",
       "summary": "כתב אישום הוגש נגד עומרי אבו סמק (27) בגין רצח שלושה צעירים מג'לג'וליה. לפי האישום, הרצח תוכנן מראש והסתיים בירי ובהצתת הרכב שבו ישבו הקורבנות. שלושה מעורבים נוספים נמלטו לחו\"ל",
@@ -48,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T09:20:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21844784",
+      "title": "\"תביעת לשון הרע הקלה בהיסטוריה\": בעלה של יו״ר ועדת הכספים נגד היו״ר לשעבר",
+      "summary": "משרד האסטרטגיה, בן חורין אלכסנדרוביץ' שאחד מבעליו הוא בעלה של יו\"ר ועדת הכספים החדשה לירן אבישר בן חורין, שיגר מכתב התראה ליו\"ר הוועדה היוצא, חנוך מילבצקי לאחר שזה טען ברדיו כי הבנקים הפעילו עליו \"לחץ אדיר\", באמצעות המשרד כשקידם את המס על רווחיהם • הדרישה: התנצלות בתוך 24 שעות ופיצוי שייתרם לעמותה לקידום זכויות נשים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21844784",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T09:17:51.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388021",
@@ -132,6 +177,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21844594",
+      "title": "גם אתם זכאים? פיצוי למשתמשי האפליקציה הפופולרית",
+      "summary": "לקוחות גט בעלי ותק של חמש שנים קיבלו הודעה על הטבה בסך 15 שקלים להזמנת נסיעה או משלוח • מדובר בשלב נוסף בהסדר פשרה בתביעה שעסקה באי-הצגת התעריף המפוקח לנסיעות בין-עירוניות",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21844594",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T08:44:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21844594",
       "title": "האם גם אתם זכאים? גט מחלקת פיצוי ללקוחותיה",
       "summary": "לקוחות החברה בעלי ותק של חמש שנים קיבלו הודעה על הטבה בסך 15 שקלים להזמנת נסיעה או משלוח • מדובר בשלב נוסף בהסדר פשרה בתביעה שעסקה באי-הצגת התעריף המפוקח לנסיעות בין-עירוניות",
       "link": "https://www.israelhayom.co.il/business/consumers/article/21844594",
@@ -156,6 +210,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T08:43:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21844576",
+      "title": "2,500 דירות חדשות: המהפך שצפוי בגבעתיים - ברחוב הראשי",
+      "summary": "עיריית גבעתיים מקדמת שלוש תוכניות התחדשות עירונית, שתיים מהן לאורך תוואי המטרו, עם תוספת של שטחים ירוקים, בתי ספר ושטחי מסחר • רק בתוכנית \"כצנלסון מרכז\" יפונו כ-470 דירות, ויוקמו במקומן כ-1,300 דירות וכ-10 אלף מ\"ר למסחר ותעסוקה • ראש העירייה רן קוניק: \"ההיתרים לפרויקטים על ציר המטרו בכצנלסון מותנים בהתחלת הפעלת הקו\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21844576",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-13T08:41:54.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21844576",
@@ -32835,195 +32898,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-08T09:47:38.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386141",
-      "title": "לא ימין ולא שמאל: הסכנה האמיתית שמסתתרת בבועות הפוליטיות בישראל | ארז מתתיהו",
-      "summary": "קללות, איומים והסתה הפכו לחלק מהשיח הציבורי בישראל • הבעיה אינה ימין או שמאל, אלא הבועות שמנרמלות את הקיצוניות ומשתיקות ביקורת • בלי הצבת גבולות מבפנים, השיח הרעיל רק יחריף",
-      "link": "https://www.maariv.co.il/news/opinions/article-1386141",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T09:45:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21802376",
-      "title": "המלך מיליונר, הנסיך מיליארדר: המספרים שמאחורי חיי הפאר של משפחת המלוכה",
-      "summary": "ארמונות, טיסות, מאות עובדים ואחוזות בשווי מיליארדים • בית המלוכה הבריטי יקבל השנה 137.9 מיליון ליש\"ט מכספי הציבור, בזמן שהמלך צ'רלס והנסיך ויליאם נהנים גם מהכנסות פרטיות של מיליונים • אז לאן בדיוק הולך הכסף?",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21802376",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:45:48.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rklqzttazl",
-      "title": "העיתונאי ופעיל בל\"ד שנחשד במגע עם סוכן זר שוחרר ממעצר",
-      "summary": "עבד אבו שחאדה נעצר לאחר שראיין בקטאר את עזמי בשארה. לאחר השחרור אמר: \"ציד מכשפות של שב\"כ בשירות ראש הממשלה\". במשטרה טענו לפני ימים אחדים: \"הוא לא עיתונאי\". יהודים שנבחרו לבית הנבחרים פנו לשגריר הישראלי בוושינגטון: \"המעצר פוגע בחופש העיתונות\"",
-      "link": "https://www.ynet.co.il/news/article/rklqzttazl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T09:45:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rklqzttazl",
-      "title": "העיתונאי ופעיל בל\"ד שנחשד במגע עם סוכן זר צפוי להשתחרר ממעצר",
-      "summary": "עבד אבו שחאדה נעצר לאחר שראיין בקטאר את עזמי בשארה, במשטרה טענו לפני ימים אחדים: \"הוא לא עיתונאי\". כעת הוא צפוי להשתחרר. יהודים שנבחרו לבית הנבחרים פנו לשגריר הישראלי בוושינגטון: \"המעצר פוגע בחופש העיתונות\"",
-      "link": "https://www.ynet.co.il/news/article/rklqzttazl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-08T09:45:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386139",
-      "title": "לראשונה מאז 1876: הדרמה ההיסטורית שמתקרבת לפנטגון",
-      "summary": "לקראת הצבעת ההדחה בקונגרס, פיט הגסת' מבהיר שלא יתפטר ומתכונן לעימות חזיתי עם מתנגדיו • גם הרפובליקנים מתחילים לפקפק בניהול המלחמה באיראן, אך טראמפ ממשיך להעניק לו גיבוי",
-      "link": "https://www.maariv.co.il/news/world/article-1386139",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T09:45:28.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960498",
-      "title": "שר הביטחון כ\"ץ: \"עלינו להתעלות מעל המחלוקות\"",
-      "summary": "שר הביטחון אמר בטקס האזכרה לחללי מבצע קדש כי המשימה מול איראן טרם הושלמה, והבהיר: \"לא נוכל להשלים עם איומים אלה\". הוא קרא לאחדות לקראת המשימות הבאות: \"נזדקק לכל עוצמתו של צה\"ל\"",
-      "link": "https://www.walla.co.il/news/politics/383960498",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T09:45:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960498",
-      "title": "אחרי נתניהו, גם כ\"ץ קורא לאחדות: \"להתעלות מעל המחלוקות\"",
-      "summary": "שר הביטחון אמר בטקס האזכרה לחללי מבצע קדש כי המשימה מול איראן טרם הושלמה, והבהיר: \"לא נוכל להשלים עם איומים אלה\". הוא קרא לאחדות לקראת המשימות הבאות: \"נזדקק לכל עוצמתו של צה\"ל\"",
-      "link": "https://www.walla.co.il/news/politics/383960498",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T09:45:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960504",
-      "title": "שיבושי ענק באירופה: 50 טיסות וערוץ שידור הושבתו",
-      "summary": "באירלנד חושדים כי מוסקבה מנהלת מבצע חבלה מתואם לקראת פסגה אירופית בהשתתפות זלנסקי. לפחות 50 טיסות קיבלו איומי פצצה, מאות בתי ספר הוזהרו ושידורי טלוויזיה הופסקו. הממשלה נערכת למבצע אבטחה",
-      "link": "https://www.walla.co.il/news/world/383960504",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T09:43:44.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960504",
-      "title": "חשד באירלנד: רוסיה עומדת מאחורי גל איומי הפצצות באירופה",
-      "summary": "באירלנד חושדים כי מוסקבה מנהלת מבצע חבלה מתואם לקראת פסגה אירופית בהשתתפות זלנסקי. לפחות 50 טיסות קיבלו איומי פצצה, מאות בתי ספר הוזהרו ושידורי טלוויזיה הופסקו. הממשלה נערכת למבצע אבטחה",
-      "link": "https://www.walla.co.il/news/world/383960504",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-08T09:43:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-israel/economy-ministry-cheese-import-quota-2027",
-      "title": "התחרות על מחיר גבינה צהובה: היבואנים יתחרו על מחירים נמוכים לצרכן | הפרטים",
-      "summary": "משרד הכלכלה פותח הליך תחרותי להקצאת 5,900 טון גבינה צהובה ללא מכס לשנת 2027 • יבואנים יתחרו על מחירים נמוכים לצרכן, והמכסה הגדולה תאפשר גמישות מסחרית | כך תוזיל הגבינה בסופר (כלכלה בארץ)",
-      "link": "https://www.kikar.co.il/economy-israel/economy-ministry-cheese-import-quota-2027",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T09:42:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21802378",
-      "title": "טילי RPG, חומר נפץ ואקדח טעון נתפסו בנצרת: יותר מ-20 חשודים נעצרו",
-      "summary": "על רקע מאבקי הכוחות בין כנופיות וארגוני פשיעה בעיר, פעלו עשרות שוטרים ולוחמי מג\"ב במהלך סוף השבוע • במבצע נתפסו גם מאות כדורי תחמושת מסוגים שונים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21802378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:42:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21802263",
-      "title": "תלמד מבכר: ליאור רפאלוב, עכשיו הגיע תורך",
-      "summary": "המאמן המוערך הפך לזה שהכי קל לשחק נגדו בליגה, אבל ההתפטרות שלו לא תפתור את הבעיות של הקבוצה • המנהל המקצועי חייב להניח גם הוא את המפתחות, לפני שהמועדון ישרוף את הסגל הטוב ביותר שהיה לו מאז ימי מסאי דגו • והמאמן הבא צריך לחשוב קודם כול איך לא לספוג",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21802263",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:38:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/dayan-haamet/rabbi-itamar-schwartz-bilvavi-passed-away",
-      "title": "בדמי ימיו: מחבר 'בלבבי משכן אבנה' הגאון רבי איתמר שוורץ זצ\"ל",
-      "summary": "מחבר סדרת הספרים 'בלבבי משכן אבנה' נפטר בליל שבת • התמוטט בעקבות אירוע מוחי קשה | ההלוויה תתקיים היום בירושלים (דיין האמת)",
-      "link": "https://www.kikar.co.il/dayan-haamet/rabbi-itamar-schwartz-bilvavi-passed-away",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T09:38:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386131",
-      "title": "פגע בשוטר ונמלט: המרדף החריג שהסתיים בבית העלמין בלוד",
-      "summary": "כתב אישום הוגש נגד שב\"ח בן 25, שמעולם לא הוציא רישיון נהיגה, פגע בשוטר במהלך בדיקת שכרות בכביש 1 ונמלט. בהמשך ניסה להסוות את רכבו באמצעות שיוף הצבע ולוחיות מזויפות, אך אותר בבית העלמין בלוד ונעצר",
-      "link": "https://www.maariv.co.il/news/law/article-1386131",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T09:37:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/historical-reenactment-cannon-accident-argentina",
-      "title": "רגעי אימה בשחזור הקרב: התותח העתיק ירה פגז לעבר הקהל",
-      "summary": "חזור היסטורי בארגנטינה, שנועד לציין 170 שנה לקרב מפורסם, הפך בתוך שניות לתקרית מסוכנת מול עיני הצופים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/historical-reenactment-cannon-accident-argentina",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T09:37:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21801145",
-      "title": "שמתם לב לסימון החדש? השדרוג הסודי בוואטסאפ",
-      "summary": "וואטסאפ החלה להפיץ עדכון רשמי לאנדרואיד ול-iOS, שמזהה אוטומטית פרטים שימושיים בטקסט ומסמן אותם בקו מקווקו • לחיצה עליהם פותחת תפריט קיצורים מהיר לחייגן, ליומן או לאפליקציית הניווט - בלי לערב שרתים חיצוניים ובלי לפגוע בהצפנה",
-      "link": "https://www.israelhayom.co.il/tech/apps/article/21801145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:36:15.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1386133",
-      "title": "במשך שנים נשים ברחו מהטיפול הזה - עכשיו הגיעה התפנית",
-      "summary": "מחקר שהזהיר מפני טיפול הורמונלי גרם למיליוני נשים להתרחק ממנו • כעת, נתונים ומחקרים חדשים מעוררים שאלות על הבהלה ההיסטורית ועל היתרונות האפשריים שהוחמצו",
-      "link": "https://www.maariv.co.il/news/health/article-1386133",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-08T09:36:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21801145",
-      "title": "שמתם לב לסימון החדש בהודעות? כל השדרוגים בוואטסאפ",
-      "summary": "וואטסאפ החלה להפיץ עדכון רשמי לאנדרואיד ול-iOS, שמזהה אוטומטית פרטים שימושיים בטקסט ומסמן אותם בקו מקווקו • לחיצה עליהם פותחת תפריט קיצורים מהיר לחייגן, ליומן או לאפליקציית הניווט - בלי לערב שרתים חיצוניים ובלי לפגוע בהצפנה",
-      "link": "https://www.israelhayom.co.il/tech/apps/article/21801145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:36:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21802199",
-      "title": "ב-10 שקלים בלבד: כרטיסים לכל הסרטים בבתי הקולנוע ברחבי הארץ",
-      "summary": "ביום חמישי הקרוב יוכלו הצופים לרכוש כרטיסים במחיר אחיד ומוזל • בתוכנית: סרטים ישראליים, שוברי קופות, סרטים בינלאומיים והקרנות בכורה",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21802199",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:35:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21802154",
-      "title": "שימי תבורי ויהודית באומן מגיבים להיריון של בן אל וזוגתו",
-      "summary": "לאחר שנים של יחסים מורכבים, שימי תבורי ורעייתו יהודית באומן נשאלו על התינוק שבדרך • אלא שדווקא השאלה על בת זוגו של בן אל הובילה למחמאה מפתיעה",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21802154",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-08T09:34:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/teen-arrested-mezuzah-graffiti-silwan",
-      "title": "קטין ממזרח ירושלים נעצר בחשד שתלש מזוזה ורסס גרפיטי על דלת בית בסילוואן",
-      "summary": "תושב דיווח על מזוזה שנתלשה ממשקוף ביתו בשכונה במזרח ירושלים שם מתגוררים גם יהודים • המשטרה איתרה קטין בן 16 ממזרח ירושלים | מעצרו הוארך עד ליום שלישי הקרוב (משטרה)",
-      "link": "https://www.kikar.co.il/police/teen-arrested-mezuzah-graffiti-silwan",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-08T09:34:23.000Z"
     }
   ]
 }
