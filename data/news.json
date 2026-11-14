@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:15:47.370Z",
+  "updatedAt": "2026-11-14T23:31:01.681Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1yyid8czx",
+      "title": "צעיר נהרג בהתנגשות רכב בעמוד בנוף הגליל",
+      "summary": "בן 21 שנהג ברכבו התנגש בעמוד בשדרות מעלה יצחק בעיר. צוות מד\"א סיפר: \"הזירה קשה מאוד. הצעיר נלכד ברכב עם פציעות קשות, ונאלצנו לקבוע את מותו\"",
+      "link": "https://www.ynet.co.il/news/article/b1yyid8czx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T23:22:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21851823",
+      "title": "מזריקים ויגובי או מונג'רו? זה מה שה-FDA הוסיף לעלון התרופה",
+      "summary": "הרשות האמריקנית מחייבת להוסיף לכל תרופות ההרזיה והסוכרת מסוג GLP-1 אזהרה על פגיעה נדירה בעצב הראייה • הסיכון נמוך, אבל יש סימן אחד שמחייב פנייה מיידית לרופא",
+      "link": "https://www.israelhayom.co.il/health/article/21851823",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T23:10:37.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rklsopicgg",
       "title": "לוחם מג\"ב ירה לעבר נהג רכב, שנפצע קשה: \"נסע באופן שסיכן הולכי רגל\"",
