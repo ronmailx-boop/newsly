@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:45:53.432Z",
+  "updatedAt": "2026-11-14T16:56:05.006Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/elections-2026/article-1388301",
+      "title": "נתן אשל מגיב לחשיפה של אחמד טיבי: \"שאלתי בווטסאפ קבוצה גדולה של ערבים\"",
+      "summary": "לאחר שאחמד טיבי הציג בשידור הודעות שלטענתו קיבל מנתן אשל, מקורבו של נתניהו משיב במתקפה חריפה: \"טיבי שקרן\". אשל מכחיש ששוחח איתו ומסביר למי נשלחו ההודעות ומה עמד מאחוריהן",
+      "link": "https://www.maariv.co.il/news/elections-2026/article-1388301",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T16:54:52.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hj7h311lazx",
+      "title": "נכנסה לקנות מאפים בכפר מנדא - ונפצעה מהרימון: \"אלוהים שמר על אמא שלנו\"",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/hj7h311lazx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T16:50:32.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/dating-marriage-preparation-rabbi-asaf-ratzon",
       "title": "הפגישה המוזרה והתהליך לפני החתונה - ראיון עם הרב אסף רצון | צפו",
       "summary": "הרב אסף רצון, חוזר בתשובה ומנחה הורים ותקשורת מקרבת, התארח בפודקאסט 'בודד ליין' של יוסי חיים מימון | על הרב שענה \"נקסט\", המבחנים שבחורות עורכות בפגישות ולמה אי אפשר להישאר בגיהנום בשביל רגעים של גן עדן | צפו בשיחה המלאה (בודד ליין)",
@@ -52,7 +70,7 @@
     {
       "id": "kikar:https://www.kikar.co.il/yeshiva-world/ponevezh-yeshiva-kahaneman-faction-returns-main-ha",
       "title": "לראשונה בגבעת הישיבה מזה שנים: השונאים והמחבלים התפללו יחד",
-      "summary": "יממה לאחר החלטת בית המשפט העליון, תלמידי פלג הרב כהנמן התפללו בהיכל העליון • בחורי פלג הרב מרקוביץ נאלצו לרדת לבית המדרש 'פרלמן' | השבת עברה ללא אלימות (עולם הישיבות)",
+      "summary": "יממה לאחר החלטת בית המשפט העליון, תלמידי פלג הרב כהנמן התפללו בהיכל העליון • בחורי פלג הרב מרקוביץ ויתרו ורבים מהם ירדו להתפלל בבית המדרש 'פרלמן' | השבת כולה עברה ללא אלימות (עולם הישיבות)",
       "link": "https://www.kikar.co.il/yeshiva-world/ponevezh-yeshiva-kahaneman-faction-returns-main-ha",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -27129,42 +27147,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T16:59:33.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960721",
-      "title": "פריצה אחת חשפה את ממדי האסון שרוסיה ניסתה להסתיר",
-      "summary": "מחיר הדמים של פוטין נחפש:",
-      "link": "https://www.walla.co.il/news/world/383960721",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T16:55:22.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875621",
-      "title": "הפעם הבשורה מגיעה מאיטליה, החזון של עופר ינאי מתגשם",
-      "summary": "הפעם הבשורה מגיעה מאיטליה, החזון של עופר ינאי מתגשם",
-      "link": "https://sports.walla.co.il/item/3875621",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T16:52:00.000Z"
-    },
-    {
-      "id": "walla:https://cars.walla.co.il/item/3875623",
-      "title": "שתי מכוניות, אותו סמל: אחת מהן מזכירה למה התאהבנו",
-      "summary": "שתי מכוניות, אותו סמל: אחת מהן מזכירה למה התאהבנו",
-      "link": "https://cars.walla.co.il/item/3875623",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T16:48:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21815553",
-      "title": "התקיפות בים השחור, הפגיעה בכיס: המהלך שעלול לייקר את סל הקניות של כולנו",
-      "summary": "אחרי הראל, גם הפניקס הודיעה על ביטול הכיסוי הביטוחי לסיכוני מלחמה במשלוחי מטענים בים השחור • שתי החברות מחזיקות יחד בכ-50% משוק ביטוח המטענים הימיים בישראל, והיבואנים עלולים להידרש לפתרונות יקרים יותר • הכיסוי הממשלתי המשלים צפוי להסתיים בסוף החודש, והמומחים מזהירים מפני התייקרות הלחם, הפסטה והבשר",
-      "link": "https://www.israelhayom.co.il/business/article/21815553",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T16:47:36.000Z"
     }
   ]
 }
