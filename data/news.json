@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:30:52.612Z",
+  "updatedAt": "2026-11-14T01:45:54.668Z",
   "sources": [
     {
       "key": "ynet",
@@ -84,6 +84,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-13T22:28:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961330",
+      "title": "הוסרה ההוראה להשבתת ההמראות בארה\"ב: העיכובים נמשכים",
+      "summary": "תחילה, רשות התעופה הורתה על עצירה ארצית של המראות מטוסים בכל נמלי התעופה במדינה. “לא נראה שמדובר במתקפת סייבר\", אמר טראמפ",
+      "link": "https://www.walla.co.il/news/world/383961330",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T22:22:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383961330",
@@ -30297,15 +30306,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T02:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21809423",
-      "title": "1,073 חזרות בשעה: אסיר עולם קבע שיא גינס",
-      "summary": "אסיר שווייצרי בן 33 המרצה מאסר עולם בגין רצח באלימות קשה קבע שיא עולם רשמי חדש בספר השיאים של גינס, לאחר שביצע 1,073 חזרות של תרגיל ה\"ברפי\" בשעה אחת בלבד • האירוע התקיים בחדר הכושר של כלא לנצבורג בשווייץ והוכר באופן רשמי, כאשר האסיר שמר על קצב ממוצע מטורף של כמעט 18 חזרות בכל דקה",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21809423",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T01:34:42.000Z"
     }
   ]
 }
