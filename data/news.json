@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:30:52.926Z",
+  "updatedAt": "2026-11-14T10:45:53.348Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "walla:https://finance.walla.co.il/item/3875962",
+      "title": "ממשלה חדשה? השכר שלכם ימשיך להישחק גם ב-2027",
+      "summary": "רשות המיסים שולפת מהאוב הצעות למסים חדשים כדי לסתום את החור בקופה, אבל הבעיה האמיתית היא הממשלה שעדיין לא קמה",
+      "link": "https://finance.walla.co.il/item/3875962",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T10:30:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21848809",
+      "title": "בשביל יורו 2028, נבחרת ישראל צריכה להביט במראה ולא לערבב",
+      "summary": "תוצאות טובות מול קוסובו ואוסטריה בקמפיין הגמור בליגת האומות עוד עלולות לגרום לרן בן שמעון לצאת ממנו עם מסקנות חיוביות • יש גבול עד כמה אפשר להסתמך על אוסקר גלוך ומנור סולומון, ועל אחת כמה וכמה על ההגנה",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21848809",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T10:27:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21848794",
+      "title": "הדגלנית מטקס המשואות: ״מלא שאלו אותי לאן נעלמתי״",
+      "summary": "חודשים אחרי שהפכה לשם מוכר בעקבות טקס המשואות, אורן מצוינים חוזרת עם עדכון אישי • היא מסבירה מדוע הייתה פחות נוכחת ומבטיחה לחשוף בקרוב משהו חדש",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21848794",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T10:22:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21848804",
+      "title": "אופנוע התנגש ברכב פרטי בדליית אל כרמל, אחד הרוכבים נפצע קשה",
+      "summary": "האופנוע, שעליו רכבו שני בני אדם, התנגש ברכב פרטי • צוותי מד\"א פינו את השניים לבית החולים רמב\"ם בחיפה, לאחר שהעניקו להם טיפול רפואי בזירה • נהג הרכב נפצע באורח קל • המשטרה פתחה בחקירת נסיבות התאונה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21848804",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T10:15:18.000Z"
+    },
+    {
       "id": "walla:https://sports.walla.co.il/item/3876179",
       "title": "עדיין קשה לעכל: המספרים המדהימים של דני אבדיה",
       "summary": "יותר נקודות למשחק מיוקיץ', דוראנט ואחרים, יותר אסיסטים למשחק מהארדן וסטטיסטיקות מתקדמות יוצאות דופן: צוללים לנתונים",
@@ -57,6 +93,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T09:49:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388204",
+      "title": "אחרי 11 שנות מאסר: הפוליטיקאי העיראקי נמצא ללא רוח חיים",
+      "summary": "חבר הפרלמנט העיראקי לשעבר, אחמד אל־עלאוני, חוסל בלבנון ב-5 בנובמבר, וגופתו נמצאה בדירה בביירות לאחר שבעל הדירה הבחין בריח חריג. החקירה והחיפוש אחר החשודים נמשכת, כשהחשד - הם ברחו לסוריה",
+      "link": "https://www.maariv.co.il/news/world/article-1388204",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T09:46:21.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388204",
@@ -28560,69 +28605,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T10:47:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21812124",
-      "title": "לבש קפוצ'ון עם הכיתוב \"ציוני\" באמסטרדם - והתעמת באגרופים עם מפגינים",
-      "summary": "אדם שלבש קפוצ'ון עם הכיתוב \"ציוני\" הוקף על ידי עשרות מפגינים פרו-פלסטינים באמסטרדם • לאחר שאחד המפגינים משך בחולצתו, התפתח עימות פיזי שבמהלכו השיב האיש באגרופים • בסיום התקרית הוא נעצר",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21812124",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:45:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21812162",
-      "title": "אחרי זימון הבכורה: אוריין גורן שוחרר מסגל נבחרת ישראל",
-      "summary": "הנבחרת הודיעה כי היהלום מברצלונה משוחרר בעקבות פציעה • גם ענאן חלאילי לא הצטרף לנבחרת, והוחלף בשחקן הפועל באר שבע",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21812162",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:44:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383960664",
-      "title": "ערוץ 14 מציג: \"רוקדים עם אנסים\"",
-      "summary": "אורלי לוי אבקסיס הגיעה מאחדת ויצאה מקללת, טופז לוק ועמית סגל בריקוד הטנגו העדין, אתגר קרת מעדכן כתובת וברהנו טגניה הופך למאפיונר | המבוכה השבועית",
-      "link": "https://www.walla.co.il/entertainment/tv/383960664",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T10:42:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1gklfkrmx",
-      "title": "\"הכי טוב שתבואי עירומה\": נזיפה והשעיה לפרופ' באוניברסיטת ת\"א שהטריד מינית",
-      "summary": "הבכיר, פרופסור אמריטוס בן 80, הורשע בהטרדה מינית של שתי חברות סגל ובהתנהגות בלתי הולמת כלפי שני אנשי צוות. \"המעשים החמורים פגעו קשות בערכים החברתיים המוגנים\", קבע בית הדין המשמעתי של המוסד האקדמי. המתלוננות ביקשו לפרסם את שם הפרופסור, אך הוחלט להותירו חסוי בשל גילו",
-      "link": "https://www.ynet.co.il/news/article/r1gklfkrmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T10:39:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386571",
-      "title": "ערב ליל הבדולח: מחאה נגד עסקים יהודיים הובילה למפגן תמיכה ענק",
-      "summary": "ערב יום השנה לליל הבדולח, מחאה נגד עסקים יהודיים וישראליים בפילדלפיה הובילה לתגובה הפוכה מהמצופה. מאות תושבים מילאו את המסעדות, הניפו דגלי ישראל והביעו סולידריות עם הבעלים",
-      "link": "https://www.maariv.co.il/news/world/article-1386571",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T10:38:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21811995",
-      "title": "אחרי המיליון מ\"האח הגדול\": גל רובין קיבלה החלטה מפתיעה",
-      "summary": "זוכת \"האח הגדול\" גל רובין תעלה ביום רביעי על המסלול בשבוע האופנה בתל אביב, אבל זו לא תהיה עוד הופעת אורח של כוכבת ריאליטי • לצידה יצעדו מי שהמלחמה השאירה עליהם צלקות • והמסר האישי שבחרה לשתף לפני העלייה למסלול",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21811995",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:31:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21811856",
-      "title": "פערי השכר ליוצאי אתיופיה מצטמצמים - אך השיוויון עוד רחוק | מחקר",
-      "summary": "מחקר חדש של משרד העבודה מראה כי שיעור התעסוקה בקרב יוצאי אתיופיה נצמד לכלל האוכלוסייה, אך חושף פערים דרמטיים בשכר, בהשכלה ובאיכות המשרות • בעוד הנשים מהדור השני מציגות התקדמות ניכרת בהשכלה הגבוהה, בקרב הגברים נרשמה נסיגה • מנכ\"ל משרד העבודה: \"שוויון נמדד גם ביכולת להתקדם\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21811856",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:31:31.000Z"
     }
   ]
 }
