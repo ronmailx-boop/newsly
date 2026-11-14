@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:01:06.214Z",
+  "updatedAt": "2026-11-14T20:15:58.193Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
+      "title": "המגפה השקטה מכה שוב: גבר בן 55 נמצא ללא רוח חיים בדירתו בתל אביב",
+      "summary": "מתנדבי זק\"א הוזעקו לרחוב גרציאני עם צאת השבת • גבר כבן 55 אותר ללא רוח חיים לאחר שככה\"נ נפל ונחבל | הגופה הועברה למכון לרפואה משפטית (חדשות)",
+      "link": "https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T20:10:12.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rktpivl0gg",
+      "title": "יותר מ-200 נרצחים ערבים זו השנה הרביעית ברציפות: \"כל יום אני בבית קברות\"",
+      "summary": "שעות אחרי שלינא קאסם נרצחה בפיצוץ רימון בקונדיטוריה בכפר מנדא, גבר כבן 50 נרצח ביריות בטייבה. המתנקשים נמלטו, רכב שלפי החשד שימש אותם אותר בסמוך לזירה כשהוא עולה באש",
+      "link": "https://www.ynet.co.il/news/article/rktpivl0gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T20:04:31.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388365",
       "title": "\"הותקפו בשידור\": צרפת בוערת - 106 אלף מפגינים, 121 עצורים",
       "summary": "גל המחאה נגד יוקר המחיה וממשלתו של עמנואל מקרון נמשך גם הערב, עם עימותים בין מפגינים לשוטרים בפריז, ליון, נאנט וערים נוספות. לפי משרד הפנים הצרפתי, כ-106 אלף בני אדם השתתפו בהפגנות ברחבי המדינה",
@@ -60,12 +78,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1ztvv8cfe",
+      "title": "אירוע חריג בנתב\"ג: הפעוט נעלם - ואותר על מסוע המזוודות",
+      "summary": "הפעוט, כבן שנתיים, טיפס על המסוע בעמדה לא מאוישת. צוות שהבחין בו הוריד אותו אחרי כמה דקות, הוריו נחקרו",
+      "link": "https://www.ynet.co.il/news/article/h1ztvv8cfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T19:49:59.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1ztvv8cfe",
       "title": "פעוט עלה על מסוע המזוודות בנתב\"ג - הוריו אותרו אחרי דקות",
       "summary": "הפעוט, כבן שנתיים, טיפס על המסוע בעמדה לא מאוישת. צוות שהבחין בו הוריד אותו אחרי מטרים ספורים, אך ההורים עצמם אותרו רק לאחר מכן ונחקרו",
       "link": "https://www.ynet.co.il/news/article/h1ztvv8cfe",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T19:49:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21851215",
+      "title": "\"אמרתי לשולי: 'אני חושבת שאני הולכת למות'\"",
+      "summary": "לרגל שבע שנות זוגיות ויציאת סרטם המשותף \"הבדחן\", חושפת גרנט לצד בעלה שולי רנד את הדרמה הרפואית שכמעט עלתה לה בחייה, המחלה הגנטית שמלווה אותה והסולחה המפתיעה עם גרושתו מיכל רנד אחרי שנים של סכסוך: \"פשוט לא יכולתי לסבול יותר, זה לראות אותה סובלת\"",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21851215",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T19:46:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/toddler-found-on-baggage-conveyor-ben-gurion-airpo",
@@ -75,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T19:45:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21851184",
+      "title": "בית חב\"ד במומביי שוב על הכוונת? צעיר נעצר בחשד לתכנון פיגוע נגד יהודים",
+      "summary": "לפי דיווחים בהודו, החשוד בן ה-20 פעל בהנחיית גורמים זרים, צילם מוסדות רגישים ואסף מידע על יהודים, אזרחים זרים ועסקיהם • המשטרה בודקת אם המידע הועבר לגורמי טרור ונועד לסייע לפיגוע • בית חב\"ד במומביי היה אחד מיעדי מתקפת הטרור ב-2008, שבה נרצחו 166 בני אדם, בהם שישה בבית חב\"ד",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21851184",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T19:44:15.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/mossad-chief-washington-iran-strike-pressure-saudi",
@@ -93,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-14T19:37:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21851213",
+      "title": "אחרי הפרידה משניר: שי לי עופרי בזוגיות חדשה",
+      "summary": "אחרי תקופה שבה שמרה את החיים האישיים קרוב אליה, עופרי מספקת הצצה מסקרנת לפרק חדש. ובמקביל, גם ברשימת העוקבים שלה נרשם שינוי קטן אבל לא מקרי",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21851213",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T19:36:39.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bym00xni0gl",
@@ -156,6 +210,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T19:16:21.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-de512f1d46bd1a1026.htm",
+      "title": "פעוט בן שנתיים נשלח במסוע המזוודות בנתב\"ג | פרסום ראשון",
+      "summary": "הפעוט התרחק מהוריו, והתקדם על המסוע במשך דקות ארוכות • בנתב\"ג בוחנים את האירוע, המשטרה צפויה לפתוח בחקירה",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-de512f1d46bd1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-14T19:15:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21850967",
@@ -228,6 +291,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T18:52:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 37:41",
+      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T18:45:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
@@ -26994,87 +27066,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T20:17:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386782",
-      "title": "\"התגובה נותרה בלתי מספקת\": האזהרה של מועצת טראמפ לישראל",
-      "summary": "בעקבות ההצפות הקשות ברצועת עזה, מועצת השלום שהקים טראמפ דורשת מישראל לאפשר הכנסת ציוד הומניטרי ומאשימה כי העיכובים פגעו גם בתהליך פירוק חמאס מנשקו. בצה\"ל מציגים את היקף הסיוע שהוכנס לרצועה",
-      "link": "https://www.maariv.co.il/news/world/article-1386782",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T20:15:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21817221",
-      "title": "״היונים השחורות״ חזרה לנטפליקס: חביבה, סוחפת ותישכח בעוד יומיים",
-      "summary": "קיירה נייטלי ובן ווישו חוזרים לעונה שנייה של סדרת הריגול של נטפליקס • אשת ראש ממשלה שמפילה עשרות חמושים בלי שריטה • אקשן מפוצץ, תסריט מחורר וסדרה שתישכח תוך יומיים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21817221",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:11:42.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960745",
-      "title": "טראמפ מוכן לאפשר לאיראן להעשיר אורניום בשטחה - אלו ההסכמות",
-      "summary": "לפי אל-ערביה, הצעה פקיסטנית-קטרית הובילה לחידוש מגעים משמעותיים בין וושינגטון לטהרן. המתווה כולל העשרת אורניום לרמה של 3.67%, דילול המלאי המועשר ל-60%, שחרור מיליארדי דולרים והסרת המצור הימי",
-      "link": "https://www.walla.co.il/news/world/383960745",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T20:11:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21817247",
-      "title": "מאמנים רבים הוצעו למכבי חיפה; אלו שתי האופציות הסופיות",
-      "summary": "הירוקים יבחנו את הסכומים שתדרוש אנורתוזיס פמגוסטה עבור שחרורו של ברק יצחקי, ובמקביל ייבחנו מספר מועמדים זרים שהוצעו למועדון • הנהלת המועדון קיימה שיחות כדי למפות את תמונת המועמדים, שכאמור אינה רחבה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21817247",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:09:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21817247",
-      "title": "עומר פרץ לא יאמן את מכבי חיפה; אלו שתי האופציות הסופיות",
-      "summary": "הירוקים יבחנו את הסכומים שתדרוש אנורתוזיס פמגוסטה עבור שחרורו של ברק יצחקי, ובמקביל ייבחנו מספר מועמדים זרים שהוצעו למועדון • הנהלת המועדון קיימה שיחות כדי למפות את תמונת המועמדים, שכאמור אינה רחבה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21817247",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:09:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1uo751rze",
-      "title": "תשתיות הטרור שנחשפו בשומרון - והאתגר בהגנה על ההתנחלויות המתרחבות",
-      "summary": "10 חשודים המזוהים עם הג'יהאד האיסלאמי נעצרו ליד ג'נין בחשד שתכננו פיגוע, על רקע הניסיונות שמזהים במערכת הביטחון להקים מחדש תשתיות טרור בצפון השומרון. התרחבות ההתנחלויות והקמת חוות חדשות מציבות בפני צה\"ל אתגר נוסף: הסטת כוחות לטובת הגנה על התושבים, לצד התמודדות עם פורעים יהודים",
-      "link": "https://www.ynet.co.il/news/article/r1uo751rze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T20:09:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21817084",
-      "title": "הטקטיקה של בנט - והסיבה לשתיקה",
-      "summary": "יו\"ר מפלגת ביחד לא מתבטא פומבית כדי להמשיך \"לשבת על הגדר\" • ל\"היום\" נודע כי הוא משוחח עם איזנקוט מספר פעמים ביום • בנט מציב את ציבור המשרתים והמשפחות השכולות בראש סדר העדיפויות - וקשה לראות אותו מצטרף לממשלה עם חרדים שתציע פשרה דרמטית סביב סוגיית הגיוס",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21817084",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:01:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21817020",
-      "title": "נוסע נעצר לאחר שהתקין מצלמה נסתרת בשירותי המטוס",
-      "summary": "נוסע בריטי בן 52 הסתיר את המכשיר בתא השירותים והפעיל אותו מרחוק דרך הטלפון • כשחזר לאסוף אותו, המצלמה כבר נעלמה • עכשיו הוא צפוי לעמוד לדין בסינגפור, ועלול לשבת שנים בכלא",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21817020",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:01:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21817020",
-      "title": "מחריד: אדם נעצר לאחר שהתקין מצלמה נסתרת בשירותים במטוס",
-      "summary": "נוסע בריטי בן 52 הסתיר את המכשיר בתא השירותים והפעיל אותו מרחוק דרך הטלפון • כשחזר לאסוף אותו, המצלמה כבר נעלמה • עכשיו הוא צפוי לעמוד לדין בסינגפור, ועלול לשבת שנים בכלא",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21817020",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:01:20.000Z"
     }
   ]
 }
