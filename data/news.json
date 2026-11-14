@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T09:16:01.440Z",
+  "updatedAt": "2026-11-14T09:30:58.227Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/world/383961354",
+      "title": "דרמה בלב דבלין: מטען חבלה סמוך למקום מפגש מנהיגי העולם",
+      "summary": "בזמן שמנהיגי אירופה התכנסו לפסגה תחת אבטחה כבדה, חבלנים הוזעקו לנטרל מטען שהתגלה בבניין משרדים. רק ערב קודם סעדו מקרון ומנהיגים נוספים מעבר לכיכר",
+      "link": "https://www.walla.co.il/news/world/383961354",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T09:11:54.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21848606",
       "title": "\"אנחנו מרגישים בדרך כלל כספומט - קוראים לשנות את יחס המדינה לעצמאים\"",
       "summary": "בפאנל שנערך במסגרת ועידת הביטוח השנתית של לשכת סוכני הביטוח באילת, בהנחיית מיקי קופל, דרש נשיא הלשכה מושיק בן פורת להחזיר את הסוכנים לוועדה המייעצת לרשות שוק ההון • נשיא להב רועי כהן תקף את העלאת דמי הביטוח הלאומי לעצמאים",
@@ -57,15 +66,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T08:56:31.000Z"
-    },
-    {
-      "id": "walla:https://www.maariv.co.il/economy/israel/article-1387849",
-      "title": "4.5 טריליון דולר בסכנה? כך אירופה תרוויח מהמפלה של טראמפ",
-      "summary": "תוצאות בחירות האמצע והתחזקות הדמוקרטים בקונגרס עלולות להגביל את יכולתו של טראמפ לקדם את מדיניות הביטחון, המסים והקיצוצים שלו. מנגד, שינוי מאזן הכוחות עשוי לעורר את השווקים ואף לחזק את כלכלת אירופה",
-      "link": "https://www.maariv.co.il/economy/israel/article-1387849",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T08:56:13.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21848404",
@@ -1506,6 +1506,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-13T15:27:44.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876128",
+      "title": "4.5 טריליון דולר בסכנה? כך אירופה תרוויח מהמפלה של טראמפ",
+      "summary": "תוצאות בחירות האמצע והתחזקות הדמוקרטים בקונגרס עלולות להגביל את יכולתו של טראמפ לקדם את מדיניות הביטחון, המסים והקיצוצים שלו. מנגד, שינוי מאזן הכוחות עשוי לעורר את השווקים ואף לחזק את כלכלת אירופה",
+      "link": "https://finance.walla.co.il/item/3876128",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-13T15:15:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388096",
@@ -28920,159 +28929,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-09T09:31:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386543",
-      "title": "ביידן חושף את מצבו הבריאותי: \"יש ימים טובים יותר מאחרים\"",
-      "summary": "ג'ו ביידן בן ה-83 חושף כיצד המאבק בסרטן משפיע על חייו ועל תוכניותיו לקידום ספר הזיכרונות. למרות הכאבים והקשיים, הנשיא לשעבר מספר כי רופאיו מעודדים מתגובתו לטיפולים",
-      "link": "https://www.maariv.co.il/news/world/article-1386543",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T09:30:20.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960651",
-      "title": "עוקף את בן גביר: הצעד הדרמטי של מפכ\"ל המשטרה",
-      "summary": "דני לוי פנה ליועמ\"שית בבקשה לעקוף את אישור בן גביר למינויים במשטרה. במקביל, הגיב להקלטות בלט שבהן תקף את הפרקליטות: \"יש לנו קשרים מצוינים, כך היה וכך יהיה\"",
-      "link": "https://www.walla.co.il/news/politics/383960651",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T09:30:07.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960651",
-      "title": "המפכ\"ל נגד בן גביר: מבקש למנות קצינים ללא אישור השר",
-      "summary": "דני לוי פנה ליועמ\"שית בבקשה לעקוף את אישור בן גביר למינויים במשטרה. במקביל, הגיב להקלטות בלט שבהן תקף את הפרקליטות: \"יש לנו קשרים מצוינים, כך היה וכך יהיה\"",
-      "link": "https://www.walla.co.il/news/politics/383960651",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T09:30:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21809990",
-      "title": "יעקב בוזגלו קיבל החלטה לעצור: \"לוקח פסק זמן\"",
-      "summary": "כוכב \"הבוזגלוס\" ואביהם של מאור, אסי, אוהד ואלמוג בוזגלו הודיע כי החליט לקחת פסק זמן מהעיסוק בפוליטיקה, אך לא ויתר על ההזדמנות להעביר ביקורת נוקבת על מנהיגי גוש השינוי • \"האגו כנראה גדול יותר מהאחריות הלאומית\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21809990",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:29:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/sheikh-giant-hummer-collection",
-      "title": "הגזים בהגזמה: האמר המפלצתי של השייח' שהופך מכוניות לצעצועים",
-      "summary": "מתנשא לגובה של כמעט שישה מטרים, עולה על כל דמיון ומסתיר בתוכו מותרות שאפילו דמיינתם בקושי. תיעוד מטריף ששבר את הרשת הצצה לרכב של שייח' הקשת בענן (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/sheikh-giant-hummer-collection",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T09:27:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21811316",
-      "title": "\"ללא קווים אדומים\": החות'ים מאיימים בשלב חדש בהסלמה נגד סעודיה",
-      "summary": "ארגון הטרור שנתמך על ידי איראן מסמן אתרי תיירות ואתרים פיננסיים כיעדים הבאים של תקיפותיו • אתמול ניזוק המרכז הפיננסי בריאד משיגורי טילים של החות'ים • במקביל, משקיעים בסעודיה מקבלים איומים שעליהם למשוך את כספם",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21811316",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:25:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21811294",
-      "title": "אוהד הוריד לשחקן את המכנסיים - והשופט עצר את המשחק",
-      "summary": "תקרית ביזארית בליגה השנייה באנגליה: אוהד פורטסמות' משך את מכנסיו של שחקן סטוק סיטי שהתכונן להוציא כדור חוץ • השופט עצר את ההתמודדות ופנה לאנשי האבטחה, שהרחיקו את האוהד מהאצטדיון",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21811294",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:21:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/to89ue",
-      "title": "טראמפ נשאל אם יסלח לאויביו כדי להיכנס לגן עדן - והתשובה שלו הותירה את המראיין המום",
-      "summary": "\"אני שונא חלק מאויביי, וכך יהיה תמיד\": נשיא ארה\"ב התבקש לדמיין את הרגע שבו יעמוד בפני כס המשפט של אלוקים, ונשאל אם יהיה מוכן לסלוח לג'יימס קומי ולננסי פלוסי כדי לזכות בכניסה לגן עדן | הוא לא ניסה לייפות את התשובה (מעניין)",
-      "link": "https://www.kikar.co.il/world-news/to89ue",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T09:21:39.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960650",
-      "title": "התרחיש שמתגבש בגוש השינוי: הקמת ממשלה עכשיו, אחדות אחר כך",
-      "summary": "אחד התרחישים הנידונים: הקמת ממשלה בהרכב מצומצם בשלב הראשון, ובהמשך פנייה למפלגות מגוש הימין להצטרף לממשלת אחדות מתוך עמדת כוח",
-      "link": "https://www.walla.co.il/news/politics/383960650",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T09:21:12.000Z"
-    },
-    {
-      "id": "walla:https://tech.walla.co.il/item/3875551",
-      "title": "כמו בסרט: הדרך המטורפת בה התחילה פרשת הריגול באנבידיה",
-      "summary": "ערב אחד בבר בטאיפיי, עסקאות שבבים במיליארדי דולרים ומזכר מודיעיני סודי: איך אשת עסקים סינית מחברה סינגפורית קטנה הגיעה לאחד האנשים החזקים בתעשיית הבינה המלאכותית, ולמה המודיעין האמריקאי חושד שזה ל",
-      "link": "https://tech.walla.co.il/item/3875551",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T09:20:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-order/defamation-lawsuit-journalist-glickman",
-      "title": "תביעה של חצי מיליון שקלים נגד העיתונאי אביעד גליקמן, ערוץ 13 וישראל היום",
-      "summary": "אלוף-משנה במילואים רונן כהן הגיש כתב תביעה נגד העיתונאי אביעד גליקמן, ערוץ 13 ועיתון ישראל היום, בעקבות פרסומים על עיכוב לכאורה באבטחת גדי איזנקוט. כהן טוען כי מדובר בפרסומים שקריים שפגעו בשמו הטוב (חוק ומשפט)",
-      "link": "https://www.kikar.co.il/law-and-order/defamation-lawsuit-journalist-glickman",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T09:19:35.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1386538",
-      "title": "מטוסי קרב מילאו את שמי הצפון: מה התרחש הבוקר מעל נהריה",
-      "summary": "מטוסי קרב טסו בגובה נמוך מעל נהריה והגליל המערבי במסגרת תרגיל רחב היקף. בצה\"ל מסבירים כיצד לקחי 7 באוקטובר שינו את הפעלת חיל האוויר, וברקע כבר נערכים לאפשרות של מלחמה נוספת",
-      "link": "https://www.maariv.co.il/news/military/article-1386538",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T09:18:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21811275",
-      "title": "למ\"ס: עלייה של 15% במכירת דירות חדשות בשוק החופשי בנוף הגליל ברבעון הראשון",
-      "summary": "לפי נתוני הלמ\"ס, ברבעון הראשון של 2026 נמכרו בעיר 60 דירות חדשות בשוק החופשי, לעומת 52 ברבעון המקביל אשתקד ועלייה של 11% לעומת 54 דירות ברבעון האחרון של 2025 • קבוצת בראל מדווחת על מכירת 140 דירות בארבעה חודשים בהיקף של כ-278 מיליון שקל",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21811275",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:18:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21811212",
-      "title": "הפועל חולון צפויה לשחרר את אחד הזרים | פרסום ראשון",
-      "summary": "אחרי עזיבת המאמן והמנהל המקצועי, הסערה נמשכת • המועדון נוטה להיפרד מריבאלדו סוארס, שהושעה בשבוע שעבר בשל עימות עם האוהדים • זר אחר צפוי להיעדר בין חודשיים לשלושה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21811212",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:17:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21810998",
-      "title": "הבקשה החריגה שקיבלה עדן גולן: \"נלחצתי מזה\"",
-      "summary": "אחרי מופע הבכורה המרגש במועדון הבארבי, הזמרת התארחה בתוכנית הבוקר של ניב רסקין בקשת 12 וחשפה את הפנייה המפתיעה שקיבלה ממעריצה שהגיעה במיוחד מאנגליה: \"לא קולטת\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21810998",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T09:17:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386533",
-      "title": "המלך הוא עירום: התגלית שמשנה את ההיסטוריה הבריטית",
-      "summary": "מחקר ארכאולוגי חדש בבריטניה מציע כי אחת הדמויות המשפיעות בהיסטוריה של האי הייתה בכלל אישה. הרמזים נמצאו במטבעות עתיקים, בשם השליטה ובתואר שהטעה חוקרים במשך דורות",
-      "link": "https://www.maariv.co.il/news/viral/article-1386533",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T09:16:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-new-battalions-alon-nofech-golani-nahal",
-      "title": "\"אלון\" ו\"נופך\": הרמטכ\"ל הקים שני גדודי חי\"ר חדשים",
-      "summary": "הרמטכ\"ל אישר הקמת גדודי חשיפה ותקיפה בגולני ובנח\"ל • יתמחו ברחפנים, רובוטיקה ואמצעי לחימה מתקדמים | המהלך הדרמטי בבניין הכוח (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-new-battalions-alon-nofech-golani-nahal",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T09:16:33.000Z"
     }
   ]
 }
