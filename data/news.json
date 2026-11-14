@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:15:51.544Z",
+  "updatedAt": "2026-11-14T03:30:59.778Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21847557",
+      "title": "שבת שמשית ונעימה - ומתי יחזור הקור? התחזית המלאה",
+      "summary": "בימים הקרובים צפוי מזג האוויר להיות יציב ונוח, עם תנודות קלות בטמפרטורות • לא צפויים משקעים משמעותיים באופק • היום הקר ביותר השבוע צפוי להיות יום שלישי",
+      "link": "https://www.israelhayom.co.il/weather/article/21847557",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T03:10:00.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21848010",
       "title": "אחרי קריסת המערכות: הוסר עוצר ההמראות בארה\"ב",
@@ -30297,15 +30306,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T03:40:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383960626",
-      "title": "הגשם פסק: הטמפרטורות ימשיכו להיות נמוכות מהרגיל | התחזית",
-      "summary": "מזג האוויר היום יהיה מעונן חלקית עד בהיר, עם טמפרטורות נמוכות מהרגיל לעונה. בשעות אחר הצהריים יתחזקו הרוחות הצפוניות לאורך החוף, ולקראת הבוקר ינשבו רוחות מזרחיות ערות בהרי הצפון",
-      "link": "https://www.walla.co.il/news/israel/383960626",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T03:29:46.000Z"
     }
   ]
 }
