@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:45:53.348Z",
+  "updatedAt": "2026-11-14T10:59:05.359Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1388213",
+      "title": "כמעט 20 אלף עגורים נחתו בצפון: המחזה שמושך אלפי ישראלים",
+      "summary": "ברשות הטבע והגנים דיווחו על עומס מבקרים באגמון החולה, כש-3,300 הגיעו לצפות בנדידת העגורים במקום. ביום שלישי נספרו באגמון 19,600 עגורים, שעצרו להתרעננות בישראל לפני שימשיכו לאפריקה",
+      "link": "https://www.maariv.co.il/news/israel/article-1388213",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T10:50:54.000Z"
+    },
     {
       "id": "walla:https://finance.walla.co.il/item/3875962",
       "title": "ממשלה חדשה? השכר שלכם ימשיך להישחק גם ב-2027",
@@ -291,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T08:10:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388191",
+      "title": "פוטין הרים טלפון לטראמפ - ועכשיו שלושת המנהיגים נפגשים",
+      "summary": "טראמפ, פוטין ושי ג'ינפינג ייפגשו בשבוע הבא בסין לפסגה משולשת חסרת תקדים, שתעסוק בצמצום הנשק הגרעיני ובמלחמה באיראן. בוושינגטון לא מצפים להסכם מיידי, ובאוקראינה חוששים מהענקת מעמד לפוטין",
+      "link": "https://www.maariv.co.il/news/world/article-1388191",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T08:08:03.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388191",
@@ -28479,132 +28497,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T11:00:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-flu-vaccination-campaign-65000-doses",
-      "title": "צה\"ל הזמין 65,000 חיסוני שפעת לחיילים - והמבצע כבר בעיצומו",
-      "summary": "חיל הרפואה מפיץ את החיסונים לכלל יחידות הצבא בשתי פעימות • המבצע יימשך עד פברואר 2027 | ההיערכות השנתית למניעת תחלואה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-flu-vaccination-campaign-65000-doses",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T10:57:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/christa-pike-prison-medical-facility-isolation",
-      "title": "\"חושבת שיודעת טוב מהרופאים\": כך נראים חיי האישה ששרדה את ההוצאה להורג",
-      "summary": "פייק מאושפזת במרפאת הכלא עם פציעות קשות • רשויות טנסי דחו את דרישתה להעברה לאגף מגורים משולב | המדינה השעתה את כל ההוצאות להורג (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/christa-pike-prison-medical-facility-isolation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T10:54:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386585",
-      "title": "אראל סג\"ל יוצא להגנתו של אייל ברקוביץ': \"זה מעשה מכוער\"",
-      "summary": "אראל סג\"ל וחיים לוינסון התווכחו במהלך תוכניתם ב-103FM, בנוגע לסערה שפרצה לאחרונה סביב אייל ברקוביץ' בחדשות 13. לדברי סג\"ל, דבריו של ברקוביץ' נאמרו בהומור",
-      "link": "https://www.maariv.co.il/news/politics/article-1386585",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T10:54:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386585",
-      "title": "אראל סגל על סערת אייל ברקוביץ': \"הוא לא גזען\"",
-      "summary": "אראל סג\"ל וחיים לוינסון התווכחו במהלך תוכניתם ב-103FM, בנוגע לסערה שפרצה לאחרונה סביב אייל ברקוביץ' בחדשות 13. לדברי סג\"ל, דבריו של ברקוביץ' נאמרו בהומור",
-      "link": "https://www.maariv.co.il/news/politics/article-1386585",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T10:54:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21812232",
-      "title": "איזנקוט פנה לחרדים: הצטרפו למהלך להחלפת יו\"ר הכנסת",
-      "summary": "גוש השינוי מנסה לגייס תמיכה למהלך הבזק: יו\"ר סיעת ישר! רועי פולקמן פנה לראשי ש\"ס ויהדות התורה והציע להם להצטרף לאיסוף החתימות • המטרה: להקדים את בחירת יו\"ר הכנסת ה-26 לישיבת הפתיחה, עוד לפני הקמת הממשלה • ביהדות התורה החליטו לסרב ולא יצטרפו לבקשה להחליף את אמיר אוחנה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21812232",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:54:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21812135",
-      "title": "אפילו להרמת כוסית לא הוזמן: הנגר שניצח את משרד הביטחון בבית הדין",
-      "summary": "בית הדין האזורי לעבודה מתח ביקורת חריפה על משרד הביטחון - וקבע כי נגר שעבד 12 שנה בנגריית המשרד בתל אביב יוכר כעובד מדינה רטרואקטיבית משנת 2014 • הנגר הועסק דרך ארבע חברות קבלן שונות, אך בפועל קיבל הוראות מעובדי מדינה ואף בנה מאות ארונות קבורה במלחמה בשל כך • השופט דחה את טענת המדינה למיקור חוץ לגיטימי: \"התחמקות מהסכמים קיבוציים וקיפוח זכויות\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21812135",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:51:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386584",
-      "title": "העסקה הגדולה ביותר של טראמפ עדיין מחכה להיחתם | גרשון בסקין",
-      "summary": "אחרי התבוסה בבחירות האמצע, טראמפ עשוי למצוא דווקא במזרח התיכון הזדמנות להישג היסטורי • שלום ישראלי־פלסטיני, נורמליזציה עם סעודיה וסדר אזורי חדש עשויים לעצב את מורשתו",
-      "link": "https://www.maariv.co.il/news/opinions/article-1386584",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T10:50:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21812171",
-      "title": "תקלה או תחזוקה? בז\"ן הודיעה על עלייה צפויה בערכי ניטור הזיהום",
-      "summary": "אחד ממתקני בתי הזיקוק נכנס לתהליך סגירה, ובמהלכו צפויות פעילות מוגברת בלפידים ועלייה בערכי הפליטה מהארובה • באיגוד ערים מפרץ חיפה להגנת הסביבה אומרים שבלי תוכנית התחזוקה לא ניתן לבחון את נסיבות האירוע • סגן ראש העיר אביהו האן: \"מה שקורה בחודשים האחרונים במפעל הזה זה פשוט מאוד שערורייה\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21812171",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:50:01.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386581",
-      "title": "שפך עליו נוזל ותקף אותו: יהודי חרדי נאבק בתוקף בלב ניו יורק",
-      "summary": "בזמן שמשפחתו חגגה את נישואי בנו, חסיד בן 52 הותקף בדרכו לבית הכנסת בניו יורק. מצלמות האבטחה תיעדו כיצד השיב מלחמה ונאבק בתוקף על הכביש. החשוד נעצר והקורבן נפצע באורח קל",
-      "link": "https://www.maariv.co.il/news/world/article-1386581",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T10:48:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21812027",
-      "title": "הכוכבים הושפעו: ההחלטה הדרמטית של הנהלת הפועל תל אביב",
-      "summary": "אף שחקן בסגל האדום לא מרוויח יותר מ-350 אלף יורו בעונה, ולא במקרה • במועדון מסבירים את המדיניות של העונה הנוכחית שהובילה לחלוקת תקציב השכר: \"אנחנו לא רוצים כוכבים, אנחנו רוצים שתהיה קבוצה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21812027",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:48:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21812027",
-      "title": "הכוכבים יושפעו: ההחלטה הדרמטית של הנהלת הפועל תל אביב",
-      "summary": "אף שחקן בסגל האדום לא מרוויח יותר מ-350 אלף יורו בעונה, ולא במקרה • במועדון מסבירים את המדיניות שהובילה לחלוקת תקציב השכר: \"אנחנו לא רוצים כוכבים, אנחנו רוצים שתהיה קבוצה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21812027",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T10:48:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjumegkcgg",
-      "title": "\"4 שנים הוליכו אותנו באף\": המאמרים נגד נתניהו, והפנייה הראשונה של איזנקוט לחרדיות",
-      "summary": "ישר! הזמינה את המפלגות החרדיות להצטרף להצעה להחלפת יו\"ר הכנסת, ש\"ס תשיב בשלילה. בעיתון המזוהה עם חסידות גור פורסם מאמר מערכת עם ביקורת גלויה על נתניהו, בביטאון שמזוהה עם פרוש היו אף חריפים יותר. זו מפת הישיבה של הכנסת",
-      "link": "https://www.ynet.co.il/news/article/bjumegkcgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T10:47:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjumegkcgg",
-      "title": "המאמרים נגד נתניהו, והפנייה הראשונה של איזנקוט לחרדיות | זו מפת הישיבה בכנסת",
-      "summary": "אחרי שיו\"ר ישר! קיבל את המנדט, פורסם בעיתון \"המודיע\" שמזוהה עם חסידות גור של גולדקנופף מאמר מערכת עם ביקורת גלויה על נתניהו: \"אנחנו נרדפים\". בביטאון \"המבשר\" שמזוהה עם פרוש אף היו חריפים יותר: \"4 שנים הוליכו אותנו באף\". יו\"ר סיעת ישר! פנה לש\"ס ויהדות התורה: הצטרפו להצעה להחלפת אוחנה",
-      "link": "https://www.ynet.co.il/news/article/bjumegkcgg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T10:47:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bkgskx1rzl",
-      "title": "הציר של נפתלי",
-      "summary": "הוא נותן לליברמן לדמם הבטחות במזומן לשותפיו הפוטנציאלים מיהדות התורה ומש\"ס, הוא נותן לאיזנקוט להכיר מקרוב את הפער בין קמפיין בחירות וליטוף באולפנים ובין מו\"מ קואליציוני אכזרי ומתעתע. בנט שותק, מה יועיל לו לדבר? הוא נע על צירו",
-      "link": "https://www.ynet.co.il/news/article/bkgskx1rzl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T10:47:12.000Z"
     }
   ]
 }
