@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:15:48.620Z",
+  "updatedAt": "2026-11-14T17:31:07.095Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/unity-tent-outside-knesset-elisha-medan",
+      "title": "אוהל אחדות מחוץ לכנסת: הצעד החריג של חה\"כ אלישע מדן",
+      "summary": "חבר הכנסת אלישע מדן מהליכוד הודיע על כוונתו להקים אוהל מחוץ למשכן • קורא לאמץ את רוח האחדות שהתגלתה בעם | \"הגעתי לכנסת כדי לעזור לעם הזה להישאר עם אחד\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/unity-tent-outside-knesset-elisha-medan",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T17:28:47.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-government-haredi-draft-issue",
       "title": "נתניהו לאיזנקוט: בוא נקים ממשלת אחדות ונפתור את סוגיית הגיוס",
       "summary": "ראש הממשלה פרסם הצהרה מדינית ופנה ליו\"ר ישר! • קרא לו לזנוח את המגעים להקמת ממשלה חלופית ולהיכנס למשא ומתן ללא תנאים מוקדמים | \"נפתור את סוגיית הגיוס ביחד עם נציגי הציבור החרדי\" (פוליטי מדיני)",
@@ -39,6 +48,51 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T17:13:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21850572",
+      "title": "נתניהו בקריאה לאיזנקוט: \"בוא ניכנס לחדר בלי תנאים מוקדמים - ונגיע להסכמות\"",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21850572",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T17:13:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21850341",
+      "title": "\"הכרח בלתי נמנע\": באיראן כבר מדברים בגלוי על הפצצה",
+      "summary": "מאז חיסולו של חמינאי, שפתווה שיוחסה לו אסרה על פיתוח נשק גרעיני, קוראים חברי פרלמנט, אנשי דת וכלי תקשורת \"לשנות את הדוקטרינה\" • ביום חמישי קבעה גם מועצת המומחים, הבוחרת את המנהיג העליון, כי מדובר ב\"דרישה ציבורית ולאומית\" • במקביל, סבא\"א מודה כי אינה יודעת היכן נמצא אחד ממתקני ההעשרה של איראן, וכי אינה יכולה לקבוע שלא הוסט חומר גרעיני",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21850341",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T17:12:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961393",
+      "title": "נתניהו: הפגישה עם איזנוקט חיזקה את הצורך באחדות",
+      "summary": "ראש הממשלה אמר כי האיום מצד איראן מחייב ממשלת אחדות. הוא קרא לו להיכנס למו\"מ ללא תנאים מוקדמים: \"נשים בצד את כל המחלוקות\"",
+      "link": "https://www.walla.co.il/news/politics/383961393",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T17:08:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21846953",
+      "title": "אל תתעלמו מהסימן הזה: נורת האזהרה שבשעוות האוזניים",
+      "summary": "הגוון והמרקם של שעוות האוזן משמשים כמדד בריאותי מפתיע • מתי מדובר בהפרשה טבעית ותקינה, ואילו צבעים מעידים על זיהום או דלקת? עשינו סדר, לפי אתר הבריאות המוביל Medical News Today",
+      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21846953",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T17:08:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850476",
+      "title": "מעורר קנאה: יעל שלביה חזרה - ונזכרה",
+      "summary": "הדוגמנית שבה לישראל לאחר תקופה ארוכה מעבר לים, ומשתפת מקבץ תמונות מרהיבות מהחופשה האקזוטית",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21850476",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T17:07:44.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388302",
@@ -59,6 +113,15 @@
       "pubDate": "2026-11-14T17:06:07.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21850448",
+      "title": "35 אלף רגל מעל הקרקע: להקות רוק הפתיעו את הנוסעים",
+      "summary": "הנוסעים היו בדרכם לפסטיבל מוזיקה, אבל המופע התחיל עוד באוויר • ארבעה הרכבים ואמנים הופיעו בטיסת סאות'ווסט רגע לפני השבתת ההמראות בארה״ב",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21850448",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T17:05:12.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/b19v4mirfe",
       "title": "נתניהו לאיזנקוט: \"ניכנס לחדר בלי תנאים מוקדמים - ונגיע להסכמות\"",
       "summary": "ראש הממשלה טען כי המשטר האיראני \"לא יהסס להשתמש בנשק גרעיני נגדנו\", ואמר ששיחת העדכון הביטחוני עם איזנקוט הייתה \"חשובה וחיזקה אצלי את ההבנה כמה הכרחי להקים בעת הזו ממשלת אחדות עם כל המפלגות שתומכות בקיומה של מדינת ישראל כמדינת העם היהודי\"",
@@ -75,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T17:02:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21850393",
+      "title": "יממה אחרי הכאוס בארה\"ב: נחשפת הסיבה לשיבושי הענק בנמלי התעופה",
+      "summary": "מזכיר התחבורה האמריקני שון דאפי חשף כי עבודת תחזוקה שגרתית, שבמסגרתה הוחלף קו תקשורת ישן מנחושת לסיב אופטי, הובילה לתקלה חמורה במערכות בקרת התעופה • הרשת הוצפה ביותר מאלף ניסיונות התחברות מדי ארבע עד חמש שניות, והקשר עם המטוסים ונתוני המכ\"ם נפגעו • ההשבתה נמשכה יותר מארבע שעות והובילה לביטול אלפי טיסות • דאפי הבהיר: \"אנחנו לא מאמינים שמדובר במתקפת סייבר\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21850393",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T16:59:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21850393",
@@ -831,6 +903,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T12:44:08.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383961371",
+      "title": "זו האישה שנרצחה מרימון רסס במסעדה בכפר מנדא",
+      "summary": "לינא קסאם זידאן היא הנרצחת ה-200 בחברה הערבית מתחיל השנה. הרימון הושלך למסעדה בכפר והשאיר הרס רב במקום",
+      "link": "https://www.walla.co.il/news/law/383961371",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T12:41:32.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383961371",
@@ -27093,105 +27174,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-09T17:32:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21816060",
-      "title": "טרגדיה בשגב שלום: נקבע מותו של פעוט כבן 3 שנפגע מרכב",
-      "summary": "פעוט כבן שלוש משגב שלום פונה לבית החולים לחדר הטראומה, כשהוא ללא רוח חיים לאחר שנפגע מרכב • הרופאים נאלצו לקבוע את מותו הודעה נמסרה לבני משפחתו",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21816060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T17:27:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/municipal/article/21816060",
-      "title": "טרגדיה בשגב שלום: נקבע מותו של פעוט כבן 3 שנפגע מרכב ביישוב",
-      "summary": "פעוט כבן שלוש משגב שלום פונה לבית החולים לחדר הטראומה, כשהוא ללא רוח חיים לאחר שנפגע מרכב • הרופאים נאלצו לקבוע את מותו הודעה נמסרה לבני משפחתו",
-      "link": "https://www.israelhayom.co.il/news/municipal/article/21816060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T17:27:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21816004",
-      "title": "התובע הכללי בנורבגיה קבע: תמיכה בטבח 7 באוקטובר אינה הסתה",
-      "summary": "הפרופסור בסאם חוסיין מאוניברסיטת NTNU קבע כי הטבח שביצע חמאס הוא \"הדבר היפה ביותר במאה הזו\" • המוסד סירב לנקוט פעולה נגדו והתובע הכללי החליט שהאמירה \"חוסה תחת הגנת חופש הביטוי האקדמי\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21816004",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T17:26:54.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386738",
-      "title": "קדישא מזהירה: בעוד שנה כבר לא יהיה מקום לקבור בבתי העלמין בישראל",
-      "summary": "חברות הקדישא עתרו לבג\"ץ: פרויקטים ל־40 אלף קברים בתל אביב ובחיפה הוקפאו, והמלאי באור יהודה, ירקון ואלעד עלול להיגמר בתוך שנה, בזמן שהמדינה מחייבת אותן להיערך לאסון המוני",
-      "link": "https://www.maariv.co.il/news/israel/article-1386738",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:26:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386738",
-      "title": "\"ביום של אסון יהיה מאוחר מדי\": בעוד שנה כבר לא יהיה מקום לקבור בבתי העלמין בישראל",
-      "summary": "חברות הקדישא עתרו לבג\"ץ: פרויקטים ל־40 אלף קברים בתל אביב ובחיפה הוקפאו, והמלאי באור יהודה, ירקון ואלעד עלול להיגמר בתוך שנה, בזמן שהמדינה מחייבת אותן להיערך לאסון המוני",
-      "link": "https://www.maariv.co.il/news/israel/article-1386738",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:26:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1386734",
-      "title": "\"זו מכת מדינה\": הצרה הלא מדוברת של החקלאים בישראל",
-      "summary": "הפשיעה החקלאית, המחסור בעובדים והדור הצעיר שמתרחק מהמשקים המשפחתיים: ברכיה רוזנברג, ראש ארגון \"חיבורים בחקלאות\", מתריע בשיחה עם \"מעריב\" מפני המשבר בענף ומסביר מדוע גם הגשמים לא בהכרח יספיקו",
-      "link": "https://www.maariv.co.il/news/israel/article-1386734",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:26:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/to8vmr",
-      "title": "אש קודש ברמה ד'; חסידי ברסלב חגגו הכנסת ספר תורה",
-      "summary": "ברוב צהלה ורינה התקיים מעמד הכנסת ספר תורה לבית המדרש של חסידי ברסלב ברמת בית שמש ד' | במעמד פיזזו בעוז בני הקהילה, אשר זכו לפני כן למעמדי סיום כתיבת האותיות בבתי גדולי רבני החסידות | צפו בגלריה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/to8vmr",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T17:24:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1386736",
-      "title": "יצא עשן לבן: אביגדור ליברמן וגדי איזנקוט סיכמו לגבי יו\"ר הכנסת הבא",
-      "summary": "שניים מראשי גוש השינוי נפגשו וסיכמו כי יו\"ר הכנסת הבא יהיה מטעם מפלגת \"ישר!\". הפגישה, שנמשכה כשעה וחצי, הוגדרה על ידי הצדדים כעניינית וטובה",
-      "link": "https://www.maariv.co.il/news/politics/article-1386736",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:23:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386727",
-      "title": "צרפת סוגרת חשבון עם איראן: תשלמו על המתקפה הזו מחיר יקר",
-      "summary": "גורמי מודיעין בצרפת חושדים כי משמרות המהפכה עומדים מאחורי מתקפת סייבר שפגעה במערכות קירור ביותר מ-700 חנויות. המזון הושמד, וכעת נחשפים פרטים על אופן החדירה למערכות. כעת פריז משגרת אזהרה חריפה לטהרן",
-      "link": "https://www.maariv.co.il/news/world/article-1386727",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:21:39.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386727",
-      "title": "\"איראן תישא בהשלכות\": האזהרה החריפה של צרפת למשמרות המהפכה",
-      "summary": "גורמי מודיעין בצרפת חושדים כי משמרות המהפכה עומדים מאחורי מתקפת סייבר שפגעה במערכות קירור ביותר מ-700 חנויות. המזון הושמד, וכעת נחשפים פרטים על אופן החדירה למערכות. כעת פריז משגרת אזהרה חריפה לטהרן",
-      "link": "https://www.maariv.co.il/news/world/article-1386727",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T17:21:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21815796",
-      "title": "\"עם ישראל חי\": הרכש החדש של אל על נחת בישראל",
-      "summary": "המטוס, שנושא את השם \"עם ישראל חי\", הגיע בטיסה ישירה ממפעל בואינג בארה\"ב • המטוס יתגבר את הקווים הארוכים של החברה, לקראת פתיחת שני יעדים חדשים",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21815796",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T17:20:43.000Z"
     }
   ]
 }
