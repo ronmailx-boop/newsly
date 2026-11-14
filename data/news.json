@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:30:59.808Z",
+  "updatedAt": "2026-11-14T20:45:51.502Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,69 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rksmzs8cml",
+      "title": "משלוש תצא אחת? הממשלות שמנסה להקים איזנקוט, ומה צפוי בפגישה עם הליכוד",
+      "summary": "יו\"ר ישר מנהל מו\"מ ב-3 ערוצים מקבילים: עם המפלגות החרדיות, עם המפלגות הערביות - וממחר גם עם נתניהו. בזמן ששתי הממשלות האחרונות נראות כבעלות הסיכוי הנמוך ביותר, בגוש השינוי מרכזים מאמצים מול החרדים - ובמקביל ממשיכים לקדם את המהלכים בכנסת לקראת שבוע פוליטי סוער",
+      "link": "https://www.ynet.co.il/news/article/rksmzs8cml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T20:34:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-machfud-yemenite-children-yeshiva-students-c",
+      "title": "הגר\"ש מחפוד: \"כמו שניסו להעביר ילדי תימן על דתם - כך מנסים היום לפגוע בעולם התורה\"",
+      "summary": "חבר מועצת חכמי התורה סיפר באירוע למען העריקים על חוויותיו בקיבוץ בית השיטה ב-1949 • \"60 ילדים לקחו, רק שלושה ניצלו\" | לאחר מכן ערך הרב מחפוד השוואה למצב הנוכחי (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/rabbi-machfud-yemenite-children-yeshiva-students-c",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T20:34:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/mossad-warned-cia-iran-drone-plot-trump-officials",
+      "title": "דיווח: המוסד התריע ל-CIA על מזימת כטב\"מים איראנית נגד טראמפ",
+      "summary": "המוסד העביר למודיעין האמריקני מידע על תוכנית איראנית לפגוע בנשיא ובבכירי ממשלו • בעקבות ההתרעה הועברו מספר שרים למתקנים צבאיים מאובטחים | הרקע למתיחות הגוברת (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/mossad-warned-cia-iran-drone-plot-trump-officials",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T20:33:52.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961416",
+      "title": "הדס שטייף בפוסט חריג: מבקשת תרומות מהציבור לשלם לאפי נוה",
+      "summary": "לאחר שחויבה בפיצויים של מאות אלפי שקלים לראש לשכת עורכי הדין לשעבר, העיתונאית הדס שטייף יוצאת בקמפיין מימון המונים. בפוסט חריג שפרסמה הזהירה מפני עיקולים והליכי הוצאה לפועל",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961416",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T20:27:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21851256",
+      "title": "ואולי הפעם דווקא איזנקוט הוא שעושה פוליטיקה מהביטחון?",
+      "summary": "קשה להשתחרר מהרושם שהחשש הפומבי של איזנקוט מפעולה צבאית של נתניהו בקרוב נובע דווקא מהחשש שמהלך כזה יסייע לראש הממשלה לדחוק אותו לממשלת אחדות • אלא ששיקולים פוליטיים אינם סיבה להימנע מפעולה ביטחונית חיונית לביטחון ישראל, כפי שממחישים התקדימים של ראשי ממשלות שפעלו צבאית גם ערב בחירות או בתקופת ממשלת מעבר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21851256",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:23:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21851413",
+      "title": "רגע אחרי הפרידה: הדייט של דנית גרינברג - עם השחקן המוכר",
+      "summary": "ימים ספורים אחרי הפרידה האחרונה, גרינברג תועדה בערב משותף עם דמות מוכרת מעולם המשחק והמוזיקה. בתמונות שהגיעו ל-ForReal נרשמו שיחה קרובה, חיוכים והרבה מקום לפרשנות",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21851413",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:22:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21851408",
+      "title": "חשד לרצח בטייבה: גבר כבן 50 נורה למוות",
+      "summary": "אדם נפצע באורח אנוש באירוע ירי בעיר ופונה לבית החולים מאיר תוך כדי פעולות החייאה, אך בהמשך נקבע מותו • צוותי מד\"א מצאו אותו מחוסר הכרה, ללא דופק וללא נשימה • המשטרה פתחה בחקירה ובסריקות אחר המעורבים, הרקע ככל הנראה פלילי",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21851408",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:15:35.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
       "title": "המגפה השקטה מכה שוב - שני גברים בתל אביב וחיפה אותרו ללא רוח חיים",
@@ -174,6 +237,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T19:40:50.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961363",
+      "title": "הבכירים הכירו את מפעל ההשפלות שלו. ביום אחד הכול התפוצץ",
+      "summary": "הבכירים הכירו את מפעל ההשפלות שלו. ביום אחד הכול התפוצץ",
+      "link": "https://www.walla.co.il/news/world/383961363",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T19:40:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388358",
@@ -339,6 +411,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 55:62",
+      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T18:45:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
       "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 48:52",
       "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
       "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
@@ -498,6 +579,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T18:04:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21850141",
+      "title": "ישראל העבירה מודיעין: התוכנית האיראנית נגד בכירי הבית הלבן",
+      "summary": "ל\"היום\" נודע מפי גורמים בכירים ישראלים ואמריקנים כי המוסד העביר ל-CIA מידע ממוקד על כוונות איראניות לפגוע בטראמפ ובבכירי ממשלו, שאומת גם בידי ארגון ביון מערבי נוסף • לפי הגורמים, האיומים היו מהסיבות המרכזיות להתרחקות האפשרות להסדר עם טהרן • בעקבות האיומים הועברו בכירים אמריקנים למתקנים מאובטחים, הופעותיו הפומביות של הנשיא צומצמו וננקטו אמצעי הגנה מיוחדים",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21850141",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T18:03:33.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21850141",
@@ -1047,6 +1137,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T15:53:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850030",
+      "title": "אסי עזר על אלברט: \"לא לוותר\"",
+      "summary": "מגיש הטלוויזיה והתסריטאי פותח על מערכת היחסים עם בעלו האדריכל אלברט אסקולה. \"לקחת את זה לאט, לבדוק בטיפול\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21850030",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T15:48:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850030",
@@ -27012,78 +27111,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-09T20:47:54.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syx3pj1cml",
-      "title": "אישה נעצרה לאחר שתועדה מובילה ברחוב ילדה קשורה ברצועה",
-      "summary": "האישה נעצרה בחשד להתעללות בחסרת ישע, לאחר שנצפתה מובילה ילדה באמצעות רצועה, בזמן שהילדה הולכת על ארבע, בשכונת כרמל צרפתי בחיפה. \"נסיבות האירוע נבדקות והחקירה נמשכת\", נמסר",
-      "link": "https://www.ynet.co.il/news/article/syx3pj1cml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T20:45:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21817450",
-      "title": "הטריק הפוליטי שבין חוק הגיוס למשפט נתניהו",
-      "summary": "מנסח סעיף 26 יג המבטיח עשרות אלפי מגויסים ועד לעדות מנדלבליט בתיק 4000: כיצד הפכו חוק הגיוס ומשפטי נתניהו לכלים פוליטיים שנועדו לשסות ולנשל יריבים? • בעוד גוש השינוי שולף כעת חוקים ישנים שהחרים בעבר, מאזן האמת נחשף ומציב מראה נוקבת מול קמפיין השנאה",
-      "link": "https://www.israelhayom.co.il/opinions/article/21817450",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:44:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21817340",
-      "title": "מתברר שטעיתם: הדרך היחידה שבאמת מעלימה אבק בבית",
-      "summary": "השכבה האפורה שחוזרת למדפים דקות ספורות אחרי שניקיתם אינה גזירת גורל • מנקה מקצועית חשפה את הטעות שיוצרת \"ענן אבק\" בלתי נראה בכל החדר - והפתרון הפשוט שישאיר את הבית מבריק לאורך זמן ולא יעלה לכם שקל",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21817340",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:43:36.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk00xpok0zg",
-      "title": "\"קושר הכתרים\" מניו יורק: זוהראן ממדאני בוחש במרוץ לנשיאות",
-      "summary": "ראש העיר עצמו לא יכול לרוץ לבית הלבן, כי נולד באוגנדה, אבל את מעמדו ככוכב השמאל הפרוגרסיבי הוא מנצל כדי לבנות הנהגה חדשה למפלגה הדמוקרטית, כזו שתובל ע\"י מתנגדי ישראל. כעת הוא פועל להשפיע על זהות המועמד הדמוקרטי ב-2028, וחושש ש-AOC תעדיף לרוץ לסנאט – כך שייבחר איש הממסד המתון. במקביל: השמאל הרדיקלי מנסה לקדם את הדחת שומר וג'פריס מהנהגת המפלגה",
-      "link": "https://www.ynet.co.il/news/article/bk00xpok0zg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T20:43:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21817256",
-      "title": "\"דעות הפוכות לא מונעות מאיתנו לאהוב\": המכתב שכתב הדר גולדין לפני נפילתו",
-      "summary": "שנה לאחר השבתו לישראל, מתפרסם מכתב אישי שכתב גולדין למפקדו חודשים ספורים לפני שנפל בקרב ונחטף בידי חמאס • במכתב סיפר על מאמציו לסייע לחייל עולה מאתיופיה ועל שיחה עם לוחם שביקש לעזוב את המסלול הקרבי • מפקדו לשעבר, אל\"ם (במיל') עידו אסרף: \"אהבת האדם הייתה אצלו ערך עליון\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21817256",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:41:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21817280",
-      "title": "הישראלים מאושרים מהחיים, אבל מתוסכלים מתוצאות הבחירות",
-      "summary": "סקר מדד החברה הישראלית של המכון למדיניות העם היהודי (JPPI) מגלה: 62% מהישראלים אינם מרוצים מתוצאות הבחירות • לעם היושב בציון, יהודים וערבים, נמאס מסחטנות • ומה התרחיש המקובל על רוב בציבור?",
-      "link": "https://www.israelhayom.co.il/opinions/article/21817280",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:39:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/to9502",
-      "title": "תיעוד מחריד: ילדה מובלת ברצועה ברחובות חיפה",
-      "summary": "אישה נעצרה בעקבות תיעוד שבו היא נראית מובילה ילדה באמצעות רצועה ברחוב בחיפה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/to9502",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T20:34:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21816543",
-      "title": "מכבי תל אביב נגד הפועל תל אביב: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
-      "summary": "פרק 11: מאמן העבר והפרשן סיכמו את המהפך המשוגע של הצהובים מפיגור 23 בגמר גביע ווינר, והתכוננו לדרבי בין הקבוצות במסגרת היורוליג",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21816543",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:34:24.000Z"
     }
   ]
 }
