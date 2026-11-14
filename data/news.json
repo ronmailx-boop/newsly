@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:15:58.193Z",
+  "updatedAt": "2026-11-14T20:30:59.808Z",
   "sources": [
     {
       "key": "ynet",
@@ -33,6 +33,15 @@
   "items": [
     {
       "id": "kikar:https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
+      "title": "המגפה השקטה מכה שוב - שני גברים בתל אביב וחיפה אותרו ללא רוח חיים",
+      "summary": "מתנדבי זק\"א הוזעקו לרחוב גרציאני עם צאת השבת • גבר כבן 55 אותר ללא רוח חיים, במקביל אותר גבר בן 71 בצפון - בעיר חיפה ללא רוח חיים בביתו, מספר ימים לאחר מותו (חדשות)",
+      "link": "https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T20:10:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
       "title": "המגפה השקטה מכה שוב: גבר בן 55 נמצא ללא רוח חיים בדירתו בתל אביב",
       "summary": "מתנדבי זק\"א הוזעקו לרחוב גרציאני עם צאת השבת • גבר כבן 55 אותר ללא רוח חיים לאחר שככה\"נ נפל ונחבל | הגופה הועברה למכון לרפואה משפטית (חדשות)",
       "link": "https://www.kikar.co.il/news/man-found-dead-tel-aviv-apartment-fall",
@@ -41,13 +50,49 @@
       "pubDate": "2026-11-14T20:10:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21851243",
+      "title": "\"דני אבדיה עשוי להיכנס לאחת מחמישיות העונה ב-NBA\"",
+      "summary": "באתר \"בליצ'ר ריפורט\" שיבחו את הישראלי על פתיחת העונה שלו ואת פורטלנד טרייל בלייזרס, שהבינה את הטעות שכמעט עשתה בפתיחת העונה: \"יהיה מגוחך לצמצם את תפקידו של השחקן הטוב ביותר שלהם, הם הצליחו להוסיף כישרון מבלי לקחת לו נגיעות בכדור\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21851243",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:07:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21851312",
+      "title": "במקביל לזוגיות החדשה של שי לי: שניר פותח הכול",
+      "summary": "בזמן ששי לי עופרי מציגה זוגיות חדשה, שניר בורגיל חוזר לפרידה המתוקשרת, מסביר למה ביקש פוליגרף ועונה גם על החיים של אלארי בין שני הבתים",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21851312",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:05:44.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rktpivl0gg",
       "title": "יותר מ-200 נרצחים ערבים זו השנה הרביעית ברציפות: \"כל יום אני בבית קברות\"",
-      "summary": "שעות אחרי שלינא קאסם נרצחה בפיצוץ רימון בקונדיטוריה בכפר מנדא, גבר כבן 50 נרצח ביריות בטייבה. המתנקשים נמלטו, רכב שלפי החשד שימש אותם אותר בסמוך לזירה כשהוא עולה באש",
+      "summary": "שעות אחרי שלינא קאסם נרצחה בפיצוץ רימון בקונדיטוריה בכפר מנדא, גבר כבן 50 נרצח ביריות בטייבה. המתנקשים נמלטו, רכב שלפי החשד שימש אותם אותר בסמוך לזירה כשהוא עולה באש. כך נראה הזינוק באלימות בשנים האחרונות - והסיפורים שמאחוריו: \"אבא רצח את אמא. איך אפשר להמשיך לחיות אחרי זה?\"",
       "link": "https://www.ynet.co.il/news/article/rktpivl0gg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T20:04:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21851158",
+      "title": "\"רואה את הפועל תל אביב ועצוב לי, שמישהו יחשוב מה לעשות\"",
+      "summary": "כדורסלן העבר אור גורן שיתף בפוסט בפייסבוק: \"האולם חצי ריק, לא ייאמן, אני כבר לא יודע מה יציל את ליגת העל\" • לפי נתוני המנהלת, מספר הצופים מול בני הרצליה עמד על פחות משליש מהתכולה בהיכל קבוצת שלמה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21851158",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:04:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21851277",
+      "title": "7 חודשים לאחר הגירושים: הזוגיות החדשה של שי לי עופרי",
+      "summary": "חודשים אחרי הגירושים המתוקשרים מאבי בנה, יוצאת \"האח הגדול\" ממשיכה הלאה עם גבר חדש מהצפון • הפעם היא בוחרת לשמור את הקשר הרחק מהמצלמות",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21851277",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:02:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388365",
@@ -291,6 +336,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T18:52:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 48:52",
+      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T18:45:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
@@ -27030,42 +27084,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-09T20:34:24.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rknrksjafe",
-      "title": "אירוע חריג בהרצליה: \"תלמיד זרק כיסא על נערה בחינוך מיוחד - ורדף אחרי מורה ערבי\"",
-      "summary": "תלמיד מחטיבת הביניים הסמוכה זרק כיסא לעבר תלמידה מהחינוך המיוחד בתיכון חדש ע\"ש חנה סנש בעיר. המורה התערב, והתלמיד וחבריו החלו לרדוף אחריו תוך שהם קוראים לעברו קריאות גזעניות. עיריית הרצליה: \"לא נעבור לסדר היום\"",
-      "link": "https://www.ynet.co.il/news/article/rknrksjafe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T20:28:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21817327",
-      "title": "6 מיליארד דולר תמורת 3.67%: המתווה להחייאת הסכם הגרעין",
-      "summary": "מתווכים הציגו מתווה להחייאת המשא ומתן בין וושינגטון לטהרן, הכולל שחרור נכסים והסרת הסגר הימי • הנשיא טראמפ מבהיר כי קטאר וסעודיה מעדיפות פתרון דיפלומטי למתיחות, אך מזהיר: ארה\"ב ערוכה לתקיפות במידת הצורך • איך צפוי להיראות הפיקוח על תוכנית הגרעין",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21817327",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:28:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/to94a2",
-      "title": "דיווח: ארה\"ב מוכנה לאפשר לאיראן להעשיר אורניום בשטחה",
-      "summary": "המתווה כולל העשרה לרמה נמוכה, דילול האורניום המועשר והפשרת מיליארדי דולרים לצד הסרת המצור הימי (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/to94a2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T20:19:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21817299",
-      "title": "אישה נעצרה בחשד להתעללות בקטינה חסרת ישע בחיפה | תיעוד קשה",
-      "summary": "המשטרה פתחה בחקירה בעקבות דיווח ותיעוד שהתקבלו על חשד להתעללות בקטינה בשכונת כרמל צרפתי • שוטרי תחנת חיפה איתרו את החשודה, תושבת העיר, ועצרו אותה לחקירה • מחר צפויה המשטרה לבקש להאריך את מעצרה",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21817299",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T20:17:33.000Z"
     }
   ]
 }
