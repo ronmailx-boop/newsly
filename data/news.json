@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:30:46.408Z",
+  "updatedAt": "2026-11-14T12:46:01.797Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388229",
+      "title": "מעזה לאירופה ומשם לקהיר: הפרשה שמציבה בפני ישראל הזדמנות נדירה | עמית יגור",
+      "summary": "מרצועת עזה, עבור דרך המסגדים של בירמינגהם ועד למצרים - כתב האישום נגד חוליית הרצח של חמאס באירופה ממחיש בדיוק מי הם \"האחים המוסלמים\", ויש הזדמנות נדירה לטפל בזה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1388229",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T12:35:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1388228",
+      "title": "ארבעה נפצעו מזריקת רימון לעבר עסק בכפר מנדא, בת 60 במצב אנוש | תיעוד",
+      "summary": "ארבעה בני אדם נפצעו מפיצוץ רימון שנזרק לעבר עסק בכפר מנדא. אישה כבת 60 נפצעה באורח אנוש, והיא מפונה לבית החולים תוך פעולות החייאה. גבר ואישה נפצעו בינוני, ואדם נוסף נפצע קל. המשטרה פתחה בחקירה",
+      "link": "https://www.maariv.co.il/news/law/article-1388228",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T12:33:42.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rypwmahcfe",
+      "title": "4 פצועים מרימון שהושלך לעסק בכפר מנדא: אישה במצב אנוש",
+      "summary": "לפי הערכות, לאחר שלא מצאו את היעד שחיפשו, אלמונים השליכו את הרימון לעבר בית עסק של קרוב משפחתו. כוחות משטרה גדולים בזירה",
+      "link": "https://www.ynet.co.il/news/article/rypwmahcfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-14T12:26:46.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/world/383961325",
       "title": "הנשק החדש של גרמניה נגד רוסיה לא נמצא בשדה הקרב",
       "summary": "הפרלמנט הגרמני אישר רפורמה היסטורית שתאפשר לשירותי הביון לבצע פעולות חבלה בחו\"ל, לפרוץ למחשבים ולהשבית שרתים של גורמים עוינים. ברקע: התגברות איומי הריגול ומתקפות הסייבר מצד רוסיה, סין ואיראן",
@@ -39,6 +66,24 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T12:21:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21849337",
+      "title": "חשד להשלכת רימון לעבר בית עסק בכפר מנדא: דיווח על מספר נפגעים",
+      "summary": "המשטרה פתחה בחקירה לאחר שרימון הושלך על פי החשד לעבר עסק ביישוב • מספר בני אדם נפגעו בדרגות פציעה שונות, והשוטרים אוספים ממצאים בזירה • הרקע לאירוע נבדק",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21849337",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T12:18:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21848696",
+      "title": "הסוף לחיפושים בגוגל: התוכנית הסודית של אמזון",
+      "summary": "מסמך פנימי שנחשף בסוכנות רויטרס מגלה כי אמזון שוקלת לבנות מאגר מידע ענק שיכלול כל מוצר שנמכר באינטרנט, גם כזה שאינו מופיע בחנות שלה • המטרה: למנוע מגולשים ומסוכני AI לברוח לגוגל ולרדיט, ולתקן את השגיאות העובדתיות של עוזר הקניות שלה",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21848696",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T12:15:30.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21848424",
@@ -195,6 +240,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388215",
+      "title": "המסמך הסודי של רוסיה: פוטין דורש לשנות את פני אירופה",
+      "summary": "נשיא אוקראינה זלנסקי חשף כי נציגי המו\"מ האמריקאים העלו שאלה בנוגע לנסיגה מחבל דונבאס - בתמורה להצטרפות לנאט\"ו. \"אם נקבל חבילת ביטחון מקיפה - אעמיד את השאלה למשאל עם\", אמר. במקביל, פוטין פרסם דרישות",
+      "link": "https://www.maariv.co.il/news/world/article-1388215",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T11:29:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388215",
       "title": "זלנסקי חושף: \"ארה\"ב ביקשה שניסוג מדונבאס - ובתמורה נצורף לנאט\"ו\"",
       "summary": "נשיא אוקראינה זלנסקי חשף כי נציגי המו\"מ האמריקאים העלו שאלה בנוגע לנסיגה מחבל דונבאס - בתמורה להצטרפות לנאט\"ו. \"אם נקבל חבילת ביטחון מקיפה - אעמיד את השאלה למשאל עם\", אמר. במקביל, פוטין פרסם דרישות",
       "link": "https://www.maariv.co.il/news/world/article-1388215",
@@ -204,12 +258,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21849042",
+      "title": "אברי גלעד מסרב לנוח: ״עצה ממש גרועה״",
+      "summary": "אחרי שחשף כי חצי מפניו משותקות, המגיש שוב משתף את עוקביו בהתמודדות • הפעם הוא מרים משקולות עם רטייה על העין ומסביר מה הוא חושב על ההמלצות שקיבל לנוח",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21849042",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T11:24:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21849042",
       "title": "אברי גלעד לא עוצר: \"זו עצה ממש גרועה\"",
       "summary": "אחרי שחשף כי חצי מפניו משותקות, המגיש שוב משתף את עוקביו בהתמודדות • הפעם הוא מרים משקולות עם רטייה על העין ומסביר מה הוא חושב על ההמלצות שקיבל לנוח",
       "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21849042",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T11:24:07.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388214",
+      "title": "איראן בנתה הרבה יותר ממחסן טילים - והפרטים מתחילים להיחשף",
+      "summary": "בכיר בצבא איראן חושף פרטים על ערי הטילים והכטב\"מים התת-קרקעיות ומאיים כי בנק המטרות הורחב גם מעבר למזרח התיכון. לטענתו, טהרן ערוכה לתקוף בסיסים אמריקאיים וישראליים ונחושה לנקום בטראמפ ובנתניהו",
+      "link": "https://www.maariv.co.il/news/world/article-1388214",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T11:22:22.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388214",
@@ -264,6 +336,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T11:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383961352",
+      "title": "צה\"ל לא אישר, בלוט לא מפנה: הדרמה ליד יריחו",
+      "summary": "13 משפחות נכנסו למבנים ליד יריחו ללא אישור. בצה\"ל חוששים מתקדים, והאלוף ניצב בין ביקורת פוליטית מימין לפגיעה בסמכותו",
+      "link": "https://www.walla.co.il/news/military/383961352",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-14T10:57:03.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383961352",
@@ -28101,87 +28182,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-09T12:46:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/to8h3a",
-      "title": "לרגל הוצאת הספר החדש | האדמו\"ר מקוידינוב ערך 'טיש' מיוחד",
-      "summary": "האדמו\"ר מקוידינוב ערך טיש לחיים ייחודי, לרגל ההוצאה לאור מחדש ברוב פאר והדר של הספר הנודע 'משמרת שלום' מהגה\"ק רבי שלום מבראהין-קוידינוב זי\"ע | הספר יצא לאור ביומא דהילולא קדישא כ\"ו מרחשון תשפ\"ז (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/to8h3a",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T12:45:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21812964",
-      "title": "דיווח מפתיע: פורטלנד טרייל בלייזרס רוצה לצרף שחקן מוכר",
-      "summary": "הטרייל בלייזרס בוחנים את האפשרות לצרף גארד ידוע, שהעמיד בעונה שעברה ממוצעים של 17.4 נקודות ו-7.4 אסיסטים • מכת הפציעות בקבוצה של הישראלי הובילה לחיפוש אחר חיזוק, אך בדרך להחתמה אפשרית עומדות שלוש קבוצות נוספות",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21812964",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T12:44:32.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syzel4y0ge",
-      "title": "עובר בג\"ץ: דרישת יהדות התורה לפני כל חוק פטור מגיוס",
-      "summary": "בדחיפת גולדקנופף, המפלגה החרדית דנה באפשרות להצטרף לממשלה עם גוש השינוי - ויש לה דרישה מרכזית: להגן על חוק פטור מפני פסילה בבג\"ץ. ליברמן, שמנסה לצרפם דרך החוק שיזם ב-2018, הבהיר כי מבחן בג\"ץ הוא תנאי מוקדם",
-      "link": "https://www.ynet.co.il/news/article/syzel4y0ge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T12:43:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21812749",
-      "title": "אחת ולתמיד: מה אומרים האחוזים של הגשם בתחזית?",
-      "summary": "כשאתם רואים בטלפון שהיום או מחר יש 80% לגשם, זה לא אומר 80% סיכוי, 80% עוצמה, או ב-80% מהעיר שלכם • מספר האחוזים משלב שני חישובים שונים, ובתכל’ס הוא לא אומר הרבה",
-      "link": "https://www.israelhayom.co.il/weather/article/21812749",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T12:41:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/explosion-eilat-car-fire-tel-aviv-emergency",
-      "title": "שעה מתוחה: פיצוץ גז באילת ורכב בוער בתל אביב",
-      "summary": "דליפת גז מצובר גרמה לפיצוץ בחנות באילת • נהג חולץ ברגע האחרון מרכב שעלה באש בתל אביב | שני אירועים חריגים בשעה אחת (חדשות)",
-      "link": "https://www.kikar.co.il/news/explosion-eilat-car-fire-tel-aviv-emergency",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-09T12:40:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21812854",
-      "title": "אריאנה גרנדה נראית אחרת, ולא במקרה",
-      "summary": "בסרטון החדש גרנדה משאירה לרגע את המראה המזוהה איתה בצד, לפני שהיא חושפת את התוצאה הסופית",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21812854",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T12:39:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21812859",
-      "title": "חום, שיעול ונזלת: מה לעשות כשהילדים חולים - ומה לא",
-      "summary": "שוב חום, שיעול ונזלת, ואתם לא בטוחים אם לתת תרופה, להחזיר לגן או לפנות לרופא? מומחית לרפואת ילדים עושה סדר בטעויות הנפוצות של הורים בעונת החורף",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21812859",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T12:38:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21812689",
-      "title": "בלי להוריד כלום: ההגדרה הנסתרת באנדרואיד שחוסמת פרסומות",
-      "summary": "נמאס לכם מפרסומות מעצבנות שקופצות בסמארטפון? שינוי קטן בלבד בהגדרות המכשיר יחסוך לכם זמן יקר, ישמור על הסוללה ויגן על הפרטיות ללא צורך בהורדת אפליקציות חיצוניות",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21812689",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T12:36:51.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-f68ddec1fabb1a1026.htm",
-      "title": "פסק דין תקדימי: בן תבע את אביו על הירושה – בעודו בחיים",
-      "summary": "בית המשפט המחוזי בנוף הגליל קבע כי בן יכול לתבוע את אביו בעודו בחיים • זאת בשל חשש שהעברת הנכסים לאחיותיו תרוקן מתוכן את הצוואה ההדדית • השופט אסף זגורי: חופש הפעולה של היורש הראשון אינו בלתי מוגבל",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-f68ddec1fabb1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-09T12:32:00.000Z"
     }
   ]
 }
