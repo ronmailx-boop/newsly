@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:01:14.173Z",
+  "updatedAt": "2026-11-14T21:15:51.073Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388385",
+      "title": "המדינה הכריזה שלא יקנו מישראל: עכשיו נחשפת הרכישה המביכה",
+      "summary": "למרות הצהרות הממשלה על הימנעות מרכישת ציוד ביטחוני ישראלי, המשטרה באירלנד הצטיידה במערכות מתקדמות מתוצרת ישראל. תחקיר מקומי חושף כיצד בוצעה הרכישה ומה אמר גורם ביטחוני על הציוד",
+      "link": "https://www.maariv.co.il/news/world/article-1388385",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-14T21:02:06.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/rabbi-machfud-yemenite-children-yeshiva-students-c",
+      "title": "הגר\"ח פיינשטיין: \"אות אחת מן התורה לא תתבטל בגלל המעצרים\"",
+      "summary": "חבר מועצת חכמי התורה סיפר באירוע למען העריקים על חוויותיו בקיבוץ בית השיטה ב-1949 • \"60 ילדים לקחו, רק שלושה ניצלו\" | לאחר מכן ערך הרב מחפוד השוואה למצב הנוכחי (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/rabbi-machfud-yemenite-children-yeshiva-students-c",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-14T21:00:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21851486",
+      "title": "הדרך ל-61 עוברת ביהדות התורה: שבוע לקבלת המנדט - ואיזנקוט עדיין בלי רוב",
+      "summary": "67 חברי כנסת המליצו על איזנקוט, אך גוש השינוי מונה 48 מנדטים בלבד • בשבוע הראשון למנדט סיכמו ראשי הגוש על חלוקת התפקידים הבכירים בכנסת, בעוד איזנקוט התעמת עם נתניהו סביב איראן ובסוף השבוע העביר את מרכז הכובד למגעים עם החרדים • המנדט הראשוני יסתיים ב-6 בדצמבר, עם אפשרות להארכה של 14 ימים נוספים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21851486",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:54:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21851531",
+      "title": "הפייבוריטית נעצרה, ומישהי אחרת עשתה היסטוריה",
+      "summary": "אירוויזיון אסיה יצא לדרך לראשונה בבנגקוק עם 11 מדינות, הצבעה משולבת של קהל ושופטים והרבה ציפיות סביב הפייבוריטית ממלזיה. בסוף, דווקא הפיליפינים לקחו את הגביע",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21851531",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:48:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21851505",
+      "title": "רוביו הוביל לנפילת מנכ\"ל אנבידיה? \"רצו לחסל את השפעתו\" | דיווח",
+      "summary": "לפי ה\"וושינגטון פוסט\", מזכיר המדינה ניסח מחדש, באופן חד יותר, את ממצאי ה-CIA במזכר על הקשר של ג'נסן הואנג עם אשת עסקים החשודה בריגול למען סין • הדלפת המזכר הובילה לנפילת מייסד אנבידיה, ניצחון לנצים ביחס לבייג'ינג שנאבקו בהשפעתו על טראמפ • עכשיו המאבק עובר למזכיר הסחר לוטניק",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21851505",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:47:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21851450",
+      "title": "דיווח: המועמד למכבי תל אביב \"מוכן לעזוב\" את קבוצתו",
+      "summary": "לפי מיכאליס סטפנו היווני, ג'ון קונצ'אר דן עם ראשי אולימפיאקוס והביע תסכול מההשתלבות שלו בקבוצה • במועדון עדיין לא קיבלו החלטה על עתידו",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21851450",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:41:13.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rksmzs8cml",
       "title": "משלוש תצא אחת? הממשלות שמנסה להקים איזנקוט, ומה צפוי בפגישה עם הליכוד",
       "summary": "יו\"ר ישר מנהל מו\"מ ב-3 ערוצים מקבילים: עם המפלגות החרדיות, עם המפלגות הערביות - וממחר גם עם נתניהו. בזמן ששתי הממשלות האחרונות נראות כבעלות הסיכוי הנמוך ביותר, בגוש השינוי מרכזים מאמצים מול החרדים - ובמקביל ממשיכים לקדם את המהלכים בכנסת לקראת שבוע פוליטי סוער",
@@ -59,6 +113,24 @@
       "pubDate": "2026-11-14T20:33:52.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21851427",
+      "title": "שי חי על הגירושים: \"בחיים לא אהיה שלם\"",
+      "summary": "בפרק של \"הישרדות\" ששודר היום שי חי נשבר מול המצלמה ומול המתמודדים. הוא לא הצליח לעצור את הדמעות כשדיבר על האישה שהוא רואה בחלומות: \"אני מתגעגע אליה\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21851427",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:32:46.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
+      "title": "התנגשות חזיתית עם רכב צבאי: הרוגה בתאונת דרכים קטלנית בעכו | תיעוד",
+      "summary": "דלאל מלחם, מנהלת בית ספר בת 59 נהרגה בתאונת דרכים בכביש 85 • בתה בת ה-29 נפצעה בינוני ופונתה לקבלת טיפול רפואי בבית החולים • המשטרה פתחה בחקירת נסיבות האירוע",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-14T20:29:00.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961416",
       "title": "הדס שטייף בפוסט חריג: מבקשת תרומות מהציבור לשלם לאפי נוה",
       "summary": "לאחר שחויבה בפיצויים של מאות אלפי שקלים לראש לשכת עורכי הדין לשעבר, העיתונאית הדס שטייף יוצאת בקמפיין מימון המונים. בפוסט חריג שפרסמה הזהירה מפני עיקולים והליכי הוצאה לפועל",
@@ -84,6 +156,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T20:22:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21851408",
+      "title": "נרצח שני בתוך שעות: גבר בן 59 נורה למוות בטייבה",
+      "summary": "אדם נפצע באורח אנוש באירוע ירי בעיר ופונה לבית החולים מאיר תוך כדי פעולות החייאה, אך בהמשך נקבע מותו • צוותי מד\"א מצאו אותו מחוסר הכרה, ללא דופק וללא נשימה • המשטרה פתחה בחקירה ובסריקות אחר המעורבים, הרקע ככל הנראה פלילי",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21851408",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T20:15:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21851408",
@@ -408,6 +489,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T18:52:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "title": "מכבי תל אביב התפרקה ברבע הרביעי - והפסידה 82:77 להפועל ירושלים",
+      "summary": "הצהובים חזרו לקרקע אחרי החגיגות בשני הדרבים ואיבדו יתרון דו ספרתי בהיכל מנורה מבטחים, בדרך למאזן 3:2 שלילי בליגת העל • חמישה קלעו בספרות כפולות למנצחת, 25 נקודות של ים מדר לא הספיקו מנגד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-14T18:45:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
@@ -27021,42 +27111,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-09T21:27:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bj5o4ojagx",
-      "title": "ההסכמות, המחלוקות - ומה יעשו החרדים: כל מה שצריך לדעת לפני השבעת הכנסת",
-      "summary": "הכנסת ה-26 תושבע מחר, ורגע לפני איזנקוט רשם ניצחון נוסף: יו\"ר הכנסת הבא כנראה יהיה ממפלגתו. בינתיים, בזמן שבנט שותק, החתירה של ליברמן לממשלה עם חרדים ש\"מלחיצה את נתניהו\" נמשכת - וכך גם קמפיין ה\"אחדות\" של רה\"מ. השאלות הפתוחות לפני ההשבעה - בזמן שהמערכת הפוליטית רותחת",
-      "link": "https://www.ynet.co.il/news/article/bj5o4ojagx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-09T21:14:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1386792",
-      "title": "\"מפר את החוק\": המהלך הרפובליקני להדחת פיט הגסת'",
-      "summary": "חבר הקונגרס הרפובליקני תומאס מאסי הגיש שמונה סעיפי הדחה נגד פיט הגסת', בהם טענות להפרת החוק במלחמה באיראן. הדמוקרטים תומכים במהלך, ושלושה רפובליקנים נוספים עשויים להספיק לאישורו בבית הנבחרים",
-      "link": "https://www.maariv.co.il/news/world/article-1386792",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-09T21:03:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21817533",
-      "title": "רעידת אדמה בהוליווד: מנהלי ענקית הסרטים מתפטרים במפתיע",
-      "summary": "הבמאי ושותפו העסקי פיטר ספרן יעזבו את האולפנים בתחילת דצמבר, כארבע שנים אחרי שמונו להציל אותם • את מקומם יתפוס בכיר לשעבר במארוול",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21817533",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-09T21:02:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960747",
-      "title": "חשד להתעללות בחיפה: אם נעצרה לאחר שקשרה את בתה ברצועה",
-      "summary": "שוטרי תחנת חיפה פתחו בחקירה בעקבות תיעוד שבו נראית אישה הולכת ברחוב בשכונת כרמל צרפתי כשבתה קשורה ברצועה. האם אותרה ונעצרה לחקירה, והמשטרה צפויה לבקש מחר להאריך את מעצרה",
-      "link": "https://www.walla.co.il/news/law/383960747",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-09T21:01:21.000Z"
     }
   ]
 }
