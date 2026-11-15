@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:15:55.648Z",
+  "updatedAt": "2026-11-15T09:31:05.667Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,45 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/otzma-yehudit-mks-visit-jericho-settlement",
+      "title": "חברי כנסת ביקרו ביריחו: \"המאבק לביטול הסכמי אוסלו מתנהל גם בשטח\"",
+      "summary": "חברי הכנסת מעוצמה יהודית הגיעו לחזק את המשפחות שהתיישבו בפאתי יריחו • \"המאבק לביטול הסכמי אוסלו מתנהל גם בשטח\" | \"עזה ויריחו תחילה - בהתיישבות יהודית מחודשת\" (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/otzma-yehudit-mks-visit-jericho-settlement",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T09:29:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383961458",
+      "title": "מי אמר נמוך ולא קיבל: \"אולפן שישי\" שברו את השיא של עצמם",
+      "summary": "30 הדקות שלורלרו על נסרין קדרי היו שיעור די מדהים בחוסר פרופורציות עיתונאי. אבל אולי זו סתם נאיביות לחשוב שהמפגש בינה לנועה קירל פחות משמעותי מהיוועדות בין איזנקוט ונתניהו",
+      "link": "https://www.walla.co.il/entertainment/tv/383961458",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T09:17:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tojdn0",
+      "title": "הוריד 32 קילו ולא העלה אותם 14 שנה: \"אני לא בדיאטה\"",
+      "summary": "דיאטה אחרי דיאטה, הבטחות של יום ראשון, ושוב המשקל חוזר. איציק שנברגר מכיר את המעגל הזה היטב. עד שגילה דרך אחרת, ירד מ-98 ל-66 קילו, ומאז כבר 14 שנה הוא שומר על המשקל - בלי לוותר על סעודות שבת, אירועים והמאכלים שהוא אוהב. עכשיו הוא מספר מה שינה הכול",
+      "link": "https://www.kikar.co.il/haredim-news/tojdn0",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T09:16:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21853351",
+      "title": "המסעדה המקסיקנית המפורסמת פותחת סניף חדש - במיקום הכי מרכזי שיש",
+      "summary": "רשת הטאקו הכשרה רפידוס, שרוכבת על גל האוכל המקסיקני בישראל, פותחת סניף חדש בלב תל אביב, באחת הפינות העמוסות והמבוקשות בעיר • כמה הושקע במקום, אילו מנות בולטות יחכו בתפריט ואיזו מנת דגל מוגשת אצלם לצד ציר לטבילה",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21853351",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T09:10:14.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/yeshiva-student-arrested-shabbat-military-police",
       "title": "הבחור נעצר דקות לפני שבת והועבר ברכב הצבאי למרות התנגדותו • פרסום ראשון",
-      "summary": "בחור ישיבה נעצר בעקבות תאונת דרכים בצפון • הועבר למשטרה הצבאית לאחר השקיעה | הפרטים המלאים בפרסום ראשון על המקרה שהתרחש בערב השבת האחרונה (חדשות חרדים)",
+      "summary": "בחור ישיבה נעצר בעקבות תאונת דרכים בצפון • הועבר למשטרה הצבאית לאחר השקיעה | הפרטים המלאים בפרסום ראשון על המקרה שהתרחש בערב שבת (חדשות חרדים)",
       "link": "https://www.kikar.co.il/haredim-news/yeshiva-student-arrested-shabbat-military-police",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
@@ -50,6 +86,15 @@
       "pubDate": "2026-11-15T09:04:14.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21853256",
+      "title": "למרות החלטת החרם: אירלנד קנתה ציוד נגד רחפנים מישראל",
+      "summary": "ה\"גרדה שיוכנה\", המשטרה האירית, רכשה כמה מערכות לשיבוש ומעקב אחרי רחפנים מתוצרת חברת סנטריקס שמשרדיה נמצאים בתל אביב • גורם בארגון מסר ל\"ג'ורנל\" האירי כי המערכת היא \"הטובה ביותר הקיימת בשוק\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21853256",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T09:03:52.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tojcqv",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
       "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00 (רדיו כיכר FM)",
@@ -59,6 +104,15 @@
       "pubDate": "2026-11-15T09:03:25.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21852876",
+      "title": "הרומן, התאומים והחמות המרושעת: מה \"הקיסרית\" שינתה מהמציאות?",
+      "summary": "האם הקיסרית אליזבת באמת בגדה בבעלה, האם לפרנץ יוזף נולדו תאומים ממאהבת, ומה הסיכוי שחמותה הייתה מרושעת כפי שמציגים אותה? • העונה השלישית והאחרונה של \"הקיסרית\" בנטפליקס משלבת אירועים היסטוריים עם לא מעט המצאות, ולעיתים המציאות מפתיעה יותר מהתסריט • אלה ההבדלים המרכזיים בין מה שראינו על המסך לבין מה שידוע על חייה של סיסי",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21852876",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T09:01:20.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/law-and-courts/bus-driver-skipped-stop-rain-metropolin-ordered-pay-passenger",
       "title": "פסיקה לנוסעים: נהג אוטובוס לא רשאי לדלג על תחנה בגשם",
       "summary": "נוסע המתין בתחנה בסערה חורפית ואוטובוס חלף על פניו • בית המשפט: הנהג לא רשאי להחליט מי יאסוף נוסעים | פסק דין בכפר סבא (בית המשפט)",
@@ -66,6 +120,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T09:01:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21852982",
+      "title": "\"דיברתי עם מכבי תל אביב בקיץ, אבל העדפתי את הפועל ירושלים\"",
+      "summary": "דבונטי קאקוק אישר את המו\"מ שלא צלח עם הצהובים והסביר: \"הרגשתי שזו הסיטואציה הנכונה ביותר עבורי\" • הסנטר הכריז: \"אין לנו תקרה, עם ג'ארד הארפר תהיה לנו קבוצה מפחידה מאוד\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21852982",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T09:00:06.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3876254",
@@ -402,6 +465,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383961450",
+      "title": "ההסתבכות של ראש עיריית פתח תקוה",
+      "summary": "הפרקליטות הודיעה לגרינברג, למנכ\"ל העירייה יניב בניטה ול-8 נוספים כי נשקלת העמדתם לדין. לפי החשד, גרינברג קיבל טובות הנאה בשווי של יותר ממיליון שקל במהלך בחירות 2018, בתמורה לקידום אינטרסים של מקורבים",
+      "link": "https://www.walla.co.il/news/law/383961450",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T08:15:44.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383961450",
       "title": "הפרקליטות: רמי גרינברג יואשם בקבלת שוחד מעל מיליון ש\"ח",
       "summary": "הפרקליטות הודיעה לגרינברג, למנכ\"ל העירייה יניב בניטה ול-8 נוספים כי נשקלת העמדתם לדין. לפי החשד, גרינברג קיבל טובות הנאה בשווי של יותר ממיליון שקל במהלך בחירות 2018, בתמורה לקידום אינטרסים של מקורבים",
       "link": "https://www.walla.co.il/news/law/383961450",
@@ -642,6 +714,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-15T07:48:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388484",
+      "title": "מוחמד מג'אדלה מטיל פצצה פוליטית: \"יש החלטה במפלגות הערביות\"",
+      "summary": "על רקע חשיפת ההתכתבויות בין אחמד טיבי לנתן אשל, מוחמד מג'אדלה טוען כי המפלגות הערביות קיבלו החלטה שעשויה להביך את נתניהו, ומזהיר כי גם סבלנותו של מנסור עבאס עלולה לפקוע",
+      "link": "https://www.maariv.co.il/news/politics/article-1388484",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T07:48:10.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388484",
@@ -939,6 +1020,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T07:12:18.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkngf0uazx",
+      "title": "פנה מיוזמתו לטהרן ו\"רצה לנקום\": ישראלי מהצפון נאשם באיסוף מודיעין עבור איראן",
+      "summary": "ויסאם גאלב סאלח עווד, תושב מזרעה שליד נהריה, נאשם במגע עם סוכן חוץ. לפי החשד, הוא צילם מתקנים אסטרטגיים, בסיסים צבאיים ותחנות משטרה והעביר את התיעודים למפעיליו האיראנים: \"זה הבסיס שאליו אתם יורים טילים\". הוא הציע את שירותיו מ\"מניע אידיאולוגי\" ולא ביקש תמורה: \"הזדהה עם חיזבאללה\"",
+      "link": "https://www.ynet.co.il/news/article/rkngf0uazx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T07:10:10.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkngf0uazx",
@@ -27084,96 +27174,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-10T09:31:44.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386925",
-      "title": "ניקתה מסילות עם נייר טואלט, הרשת יצאה מדעתה",
-      "summary": "סרטון המציג שיטה לא שגרתית לניקוי מסילות של דלתות הזזה צבר מיליוני צפיות והצית ויכוח בין הגולשים. בעוד חלקם התרשמו מהתוצאה, אחרים טענו שמדובר בבזבוז מיותר של נייר טואלט",
-      "link": "https://www.maariv.co.il/news/viral/article-1386925",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:30:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386925",
-      "title": "גאוני או בזבזני? הטריק לניקוי הבית שמסעיר את הרשת",
-      "summary": "סרטון המציג שיטה לא שגרתית לניקוי מסילות של דלתות הזזה צבר מיליוני צפיות והצית ויכוח בין הגולשים. בעוד חלקם התרשמו מהתוצאה, אחרים טענו שמדובר בבזבוז מיותר של נייר טואלט",
-      "link": "https://www.maariv.co.il/news/viral/article-1386925",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:30:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21819798",
-      "title": "\"לא ראיתי דבר כזה\": ינון מגל ועמיחי אתאלי התעמתו בשידור חי",
-      "summary": "שעות אחרי שמגל הודיע כי אתאלי הודח מ\"הפטריוטים\", השניים נפגשו בשידור חי ברדיו 103FM והעימות ביניהם התחדש • אתאלי טען שחבריו לפאנל מתקשים להתמודד עם דעותיו, אף שהפערים ביניהם מזעריים • מגל השיב: \"האנרגיה לא הייתה טובה איתך\", והאשים אותו בכפיות טובה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21819798",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:28:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21819798",
-      "title": "\"לא ראיתי דבר כזה\": ינון מגל תוקף את עמיחי אתאלי בשידור חי",
-      "summary": "שעות אחרי שמגל הודיע כי אתאלי הודח מ\"הפטריוטים\", השניים נפגשו בשידור חי ברדיו 103FM והעימות ביניהם התחדש • אתאלי טען שחבריו לפאנל מתקשים להתמודד עם דעותיו, אף שהפערים ביניהם מזעריים • מגל השיב: \"האנרגיה לא הייתה טובה איתך\", והאשים אותו בכפיות טובה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21819798",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:28:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r1po6ulrge",
-      "title": "לילה חריג: כבר 20 שנה לא היה כל כך קר בתחילת נובמבר | הטמפרטורות והתחזית",
-      "summary": "בחלק מהארץ נמדדו הלילה בין 4 ל-6 מעלות בלבד, נתון שיא לחלק הראשון של נובמבר. בצפון הגולן הגיעה טמפרטורת המינימום למעלה וחצי, שיא בן יותר מ-30 שנה נשבר באזור עכו. הסיבה לקרה - ומה צפוי בהמשך השבוע",
-      "link": "https://www.ynet.co.il/news/article/r1po6ulrge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T09:21:06.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/healthy/myhealth/383960802",
-      "title": "להתאמן כשמצוננים או לנוח? מתי אימון יכול לסייע להחלמה",
-      "summary": "האף סתום, הגרון כואב, אבל אתם לא רוצים לוותר על האימון? בדקנו אם באמת אפשר \"להזיע את המחלה החוצה\", מתי אימון דווקא יכול להקל על התסמינים ובאילו מקרים עדיף להישאר בבית",
-      "link": "https://www.walla.co.il/healthy/myhealth/383960802",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T09:20:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21819796",
-      "title": "חשד לרצח בקרוז MSC - האונייה חזרה על עקבותיה",
-      "summary": "גבר בן 48 ממזרח טקסס, נעצר בחשד למעורבות במותה של אישה שנמצאה ללא רוח חיים באונייה MSC Seascape • האונייה שבה לנמל שעות ספורות לאחר שיצאה להפלגה של שבעה ימים בקריביים • החשוד נעצר בעבר בחשד לתקיפת בן משפחה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21819796",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:18:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "title": "\"אוריין גורן ישראלי, נולד שם, אין בזה היגיון\"",
-      "summary": "אחרי המאבק בין ישראל לצ'כיה על היהלום של ברצלונה, סקאוט בכיר יוצא נגד הניסיון לצרפו לנבחרת: \"הוא ישראלי, נולד שם, ההורים שלו מישראל והוא יודע רק כמה מילים בצ'כית. אין בזה היגיון עמוק\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:18:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "title": "\"אוריין גורן מישראל, למשוך אותו בגלל שהוא מברצלונה - לא הגיוני\"",
-      "summary": "אחרי המאבק בין ישראל לצ'כיה על היהלום של ברצלונה, סקאוט בכיר יוצא נגד הניסיון לצרפו לנבחרת: \"הוא ישראלי, נולד שם, ההורים שלו מישראל והוא יודע רק כמה מילים בצ'כית. אין בזה היגיון עמוק\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:18:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "title": "\"למשוך את אוריין גורן רק בגלל שהוא מברצלונה, זה לא הגיוני\"",
-      "summary": "אחרי המאבק בין ישראל לצ'כיה על היהלום של ברצלונה, סקאוט בכיר יוצא נגד הניסיון לצרפו לנבחרת: \"הוא ישראלי, נולד שם, ההורים שלו מישראל והוא יודע רק כמה מילים בצ'כית. אין בזה היגיון עמוק\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21819824",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:18:19.000Z"
     }
   ]
 }
