@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T15:15:52.281Z",
+  "updatedAt": "2026-11-15T15:31:00.901Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/hasidism/toju9y",
+      "title": "בסיום השבת המרוממת; הרבי מאשדוד ערך מלווה מלכה בבית שמש",
+      "summary": "לאחר ששבת בעיר בית שמש, האדמו\"ר משומרי אמונים אשדוד ערך בצאת השבת מסיבת מלווה מלכה בבית המדרש ראדושיץ בעיר (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/toju9y",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T15:19:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1388713",
+      "title": "חשד ל'כיפה אדומה' בדירת Airbnb בחולון: חייל נשדד באיומי סכין - ונשקו נעלם",
+      "summary": "ארבעה חשודים נעצרו בחשד ששדדו חייל בן 19, שהגיע לדירת Airbnb בחולון כשהוא נושא את נשקו האישי מסוג M16 - שטרם אותר. החייל נעצר על ידי מצ\"ח ומעצרו הוארך",
+      "link": "https://www.maariv.co.il/news/law/article-1388713",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T15:16:17.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rywl4rvrze",
+      "title": "במשטרה הופתעו: הסוכן נשלח לחפש אמל\"ח - ופתר תעלומה בת יותר מ-20 שנה",
+      "summary": "בפשיטה על ביתו של עבריין אותר בית עתיק, ייחודי ויוקרתי לספר תורה - ולאחר חקירה, התברר כי שגריר ישראל לשעבר בטהרן תרם אותו לבית כנסת. במשטרה איתרו את בנו של השגריר והשיבו את הממצא יקר הערך לבעליו: \"פריט היסטורי\"",
+      "link": "https://www.ynet.co.il/news/article/rywl4rvrze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T15:15:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1388700",
+      "title": "ישראלי נעצר בירדן אחרי שחצה את הגבול על סאפ - והחשש בישראל",
+      "summary": "האזרח בשנות החמישים לחייו נסחף על סאפ לשטח ירדן ונעצר. בישראל ניסו להביא לשחרורו בשקט, אך כעת חוששים כי מיצוי הליכים פליליים נגדו יוביל למשבר בין המדינות",
+      "link": "https://www.maariv.co.il/news/military/article-1388700",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T15:14:27.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388710",
       "title": "המגעים לממשלת אחדות: בנט שלח את איש אמונו לסגור את הדיל - נתניהו הציב דרישה משלו",
       "summary": "בנט דוחף לממשלת אחדות בראשות איזנקוט ללא רוטציה, אך בליכוד מעריכים שהפשרה תהיה רוטציה עם נתניהו. ברקע: הבחירות בארה\"ב, המגעים עם החרדים והאפשרות שהציונות הדתית תישאר באופוזיציה",
@@ -48,6 +84,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T15:09:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21856686",
+      "title": "אלירז שדה: \"יש לי וידוי\"",
+      "summary": "מגיש החדשות ובעלה ואב בתה של מלכת היופי במיל' אילנית לוי בטקסט נוקב, מדבר על המציאות המורכבת והאכזבה. \"יש בי כעס על זה\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21856686",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T15:09:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21856739",
+      "title": "ההצפות הגבירו את הסיכון: קדחת דנגי מתפשטת בתאילנד - אלה אזורי התחלואה",
+      "summary": "הצפות וגשמים מתמשכים בדרום המדינה יוצרים מוקדי רבייה נוספים ליתושים שמעבירים את המחלה • אזורי תיירות פופולריים, בהם פוקט, קראבי וקוסמוי, נכללים במחוזות שבהם נרשמה תחלואה גבוהה מהממוצע הארצי • כך יכולים המטיילים להתגונן",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21856739",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T15:08:10.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21856814",
+      "title": "חייל בן 19 נשדד בסכין בחולון ונשקו נגנב: ארבעה חשודים נעצרו",
+      "summary": "נשק ה-M16 של החייל עדיין לא נמצא • החשודים, בגילאי 19–45, שהו בדירת מכרים שאליה הגיע החייל • מעצרם הוארך עד יום רביעי • גם החייל נעצר על ידי מצ\"ח",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21856814",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T15:06:18.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/stolen-torah-scroll-returned-family-21-years-jerus",
@@ -75,6 +138,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T14:59:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21855826",
+      "title": "אברי גלעד: \"אירוע נפילת המסיכה הגדול ביותר קרה ביום שישי\"",
+      "summary": "בסרטון חדש מגיב אברי גלעד לריאיון שנתנה פעילת האקלים השוודית בברלין, ומסביר מדוע לדבריו הרגע הזה חשף את מה שמסתתר מאחורי המאבק כולו: \"הכל מסכה\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21855826",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T14:59:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21855826",
@@ -210,6 +282,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T14:36:23.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961525",
+      "title": "מההבטחה לא להתפשר עם החרדים - לחיפוש פתרונות עבורם",
+      "summary": "אחרי שמיקד את הקמפיין בהתנגדות לכניעה לחרדים, יו\"ר ישראל ביתנו החל לבחון מתווה הסכמות במטרה לברר את מרחב התמרון בנושא הגיוס",
+      "link": "https://www.walla.co.il/news/politics/383961525",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T14:35:52.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388690",
@@ -511,7 +592,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hk00gmnpafe",
       "title": "מנכ\"ל עוצמה יהודית נחקר בחשד לתקיפת שוטר בהתנחלות",
-      "summary": "בעקבות מעורבתו בתקרית במצפה יריחו בחודש שעבר הגיע איתיאל ניימן למשרדי יאח\"ה. בפרשה חשוד גם ח\"כ יצחק קרויזר. הם מכחישים את המיוחס להם",
+      "summary": "בעקבות מעורבתו בתקרית במצפה יריחו בחודש שעבר, הגיע איתיאל ניימן למשרדי יאח\"ה. בפרשה חשוד גם ח\"כ יצחק קרויזר. הם מכחישים את המיוחס להם",
       "link": "https://www.ynet.co.il/news/article/hk00gmnpafe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -27282,69 +27363,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-10T15:31:09.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875751",
-      "title": "סוף סוף: החיזוק של מכבי תל אביב קרוב מתמיד לחתימה",
-      "summary": "הבווארים הודיעו כי הגארד \"קיבל הצעה מקבוצת יורוליג אחרת\" ועל כן שוחרר מחוזהו: \"רוצה לקבל תפקיד משמעותי יותר בקבוצה אחרת\". בולדווין: \"לא החלטה קלה, תמיד אנצור את הקשרים עם האנשים כאן\"",
-      "link": "https://sports.walla.co.il/item/3875751",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T15:31:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/91445",
-      "title": "ליברמן שיתף את יציאת הערבים בהמנון - ותקף: \"איתם אתם רוצים לעשות מו\"מ?\"",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/91445",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T15:27:55.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/education/article-1387073",
-      "title": "אחרי הזוועה באריאל - מומחית לשפת גוף מסבירה: 5 סימנים שאסור להתעלם מהם",
-      "summary": "פרשת התעללות המזעזעת באריאל מעלה שאלה שמטרידה הורים רבים - איך מזהים מצוקה אצל פעוט שעוד מתקשה לספר מה עובר עליו? מומחית לשפת גוף מסבירה לאילו סימנים ושינויים כדאי לשים לב אצל הילדים וכיצד לזהות אותם",
-      "link": "https://www.maariv.co.il/news/education/article-1387073",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T15:27:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/education/article-1387073",
-      "title": "הזוועה באריאל: מומחית שפת גוף מסבירה - שימו לב לדפוסים האלו אצל הילדים",
-      "summary": "פרשת התעללות המזעזעת באריאל מעלה שאלה שמטרידה הורים רבים - איך מזהים מצוקה אצל פעוט שעוד מתקשה לספר מה עובר עליו? מומחית לשפת גוף מסבירה לאילו סימנים ושינויים כדאי לשים לב אצל הילדים וכיצד לזהות אותם",
-      "link": "https://www.maariv.co.il/news/education/article-1387073",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T15:27:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/toakjs",
-      "title": "מעמד שלא נראה כמותו עשרות שנים; חסידי טשערנאביל התכנסו באירוע אדיר",
-      "summary": "מעמד היסטורי ורב רושם בחצר הקודש טשערנאביל: מאות חסידים מהארץ ומהעולם התכנסו למעמד אדיר בראשות האדמו\"ר | אורח הכבוד גאב\"ד אנטוורפען הגר\"א שיף | במהלך הערב הוצגה תוכנית היסטורית מיוחדת מימי אבות החסידות, לצד יצירות מוזיקליות | תיעוד וסיקור ענק (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/toakjs",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T15:25:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syqkajgamx",
-      "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
-      "summary": "פיט הגסת' כינס מסיבת עיתונאים ראשונה זה חצי שנה, אחרי שחבר הקונגרס תומאס מאסי הגיש לבית הנבחרים הצעה לפתוח נגדו בהליך הדחה, בעיקר בגלל המלחמה נגד טהרן: \"הכול פוליטי, זו חבלה מכוונת. משדרים לאויבים שצופים בנו שארה\"ב תעניש את חייליה על פעולות צבאיות חוקיות ומוצלחות\". הוא הדגיש: \"גאה שיצאנו למלחמה הזאת\". טראמפ: \"ציון A+++ להגסת', מאסי לוזר מוחלט!\"",
-      "link": "https://www.ynet.co.il/news/article/syqkajgamx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T15:23:59.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960862",
-      "title": "הגבלת כהונה וההפיכה המשטרית: הצעות החוק שהוגשו עם פתיחת מושב",
-      "summary": "עם פתיחת הכנסת ה-26, סיעת ישר! הגישה הצעות להקמת ועדת חקירה ממלכתית ולהגבלת כהונת רה\"מ. במקביל, לפיד מקדם את עיגון מגילת העצמאות בחוק יסוד, ברית הזוגיות והגבלת כהונת רה\"מ לשמונה שנים",
-      "link": "https://www.walla.co.il/news/politics/383960862",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T15:20:42.000Z"
     }
   ]
 }
