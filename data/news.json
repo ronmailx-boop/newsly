@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:45:51.723Z",
+  "updatedAt": "2026-11-15T18:01:12.969Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,31 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/tok0vh",
+      "title": "השר האמריקני הבכיר מתייחס לדיווח הישראלי וחושף: טראמפ מאוים במתקפת רחפנים",
+      "summary": "בעקבות חשיפה של כלי תקשורת ישראלי על המודיעין שהעבירה ישראל לארה\"ב לגבי תוכניות התנקשות איראניות, מגיב המזכיר לביטחון המולדת של ארה\"ב ומאשר: איומים מתקבלים על בסיס יומי | \"אנו מודעים לאיומים עוד לפני שהם משותפים איתנו, ולוקחים כל פטפוט ברצינות\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tok0vh",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T17:49:16.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1388753",
       "title": "בכיר המוסד לשעבר מסביר: \"באותו רגע ישראל איבדה את החוט לרון\" | האזינו",
-      "summary": ".",
+      "summary": "רמי איגרא, לשעבר ראש חטיבת השבויים והנעדרים במוסד, מספר על הלילה שבו נעלמו עקבותיו של רון ארד, מסביר מדוע התנגד במשך שנים להערכה שהועבר לאיראן ומתייחס למאמצים לאתרו",
       "link": "https://www.maariv.co.il/news/military/article-1388753",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T17:40:22.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1gemev0ml",
+      "title": "ישראלי חצה לירדן מהים, נעצר ושוחרר אחרי יממה",
+      "summary": "לפי הודעה שפרסמו הירדנים, כוחות מקומיים זיהו את האדם \"חוצה בשחייה\" מישראל, הגיעו למקום ועצרו אותו. הוא הועבר לידי הרשויות, ובהמשך הושב ארצה. כוחות צה\"ל סיכלו היום ניסיון חדירה מירדן של 6 מהגרי עבודה מטורקיה וסרי לנקה, שחצו את הגבול באזור ים המלח בעזרת סירות גומי",
+      "link": "https://www.ynet.co.il/news/article/r1gemev0ml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T17:36:07.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r1gemev0ml",
@@ -111,6 +129,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T17:15:24.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876355",
+      "title": "הממשל האמריקני מתערב לאנבידיה: \"חייבים למנות מנכ\"ל מבחוץ\"",
+      "summary": "בעקבות התפטרותו של המייסד ג'נסן הואנג על רקע פרשת הרומנים והחשד לריגול סיני, שר האוצר סקוט בסנט דורש \"זעזוע דרמטי\" בהנהגה ומציב לדירקטוריון אולטימטום של 10 ימים למתן תשובות על עמידה במגבלות הייצוא",
+      "link": "https://finance.walla.co.il/item/3876355",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T17:08:33.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3876355",
@@ -192,6 +219,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T16:51:58.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876353",
+      "title": "\"השפלה גדולה\": הטעות שעלולה לקבור את הכדורסל בישראל",
+      "summary": "האדומים מהבירה נותרו מושלמים בליגה ובאירופה גם אחרי הקלאסיקו, מכבי תל אביב שוב נתקעה וחזרה \"",
+      "link": "https://sports.walla.co.il/item/3876353",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T16:50:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3876353",
@@ -678,6 +714,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-15T15:15:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1388700",
+      "title": "המשבר הסתיים: שוחרר הישראלי שנעצר לאחר שנסחף על סאפ לירדן",
+      "summary": "האזרח בשנות החמישים לחייו נסחף על סאפ לשטח ירדן ונעצר. בישראל ניסו להביא לשחרורו בשקט ויממה לאחר המעצר הוא שוחרר על ידי הירדנים",
+      "link": "https://www.maariv.co.il/news/military/article-1388700",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T15:14:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1388700",
@@ -27363,78 +27408,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-10T18:03:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21824145",
-      "title": "\"אדיש וגמלוני\": השחקן היקר שיצר למכבי חיפה בעיה רצינית",
-      "summary": "הוא הושאל במטרה שיצבור מספרים ויימכר בקיץ הקרוב, אבל עד עכשיו טריבאנטה סטיוארט מאכזב בטורקיה וצפוי לחזור לכרמל • במועדון עוקבים אחרי מצבו וחוששים מתרחיש בו לא יקבל דקות משחק, והאפשרות להחזיר אפילו חלק מההשקעה תהיה נמוכה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21824145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T18:00:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21825018",
-      "title": "חנן בן ארי: \"אני בוחר לסיים בשיא\"",
-      "summary": "המוזיקאי האדיר הצליח להדאיג את המעריצים עם הודעה שפרסם בחשבון האינסטגרם שלו • אל חשש, הוא לא מפסיק להופיע - אבל קוטע שיתוף פעולה בן ארבע שנים",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21825018",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T17:57:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iranian-merchant-netanyahu-lookalike-viral",
-      "title": "הכפיל של נתניהו באיראן: הסוחר עם הדמיון המדהים לראש הממשלה הסתבך",
-      "summary": "סוחר פירות יבשים בטהראן הפך לשיחה ברשתות החברתיות • גולשים איראנים הבחינו בדמיון יוצא דופן לראש הממשלה | דיווחים על קריאות להחרמת החנות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iranian-merchant-netanyahu-lookalike-viral",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T17:56:38.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960897",
-      "title": "הליכוד בקשר לחשדות בבחירות: קברו ראיות במקום להגיע לחקר האמת",
-      "summary": "המשטרה העבירה לפרקליטות חוות דעת בפרשת החשד להתערבות זרה בבחירות. בשלב זה מסתמן קושי לבסס עבירות ביטחוניות, והבדיקה מתמקדת בחשד לעבירות בתחום מימון המפלגות. הממצאים יועברו לעיון היועמ\"שית",
-      "link": "https://www.walla.co.il/news/law/383960897",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T17:54:21.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960897",
-      "title": "חשד להתערבות זרה בבחירות: המשטרה מתקשה לבסס עבירות ביטחוניות",
-      "summary": "המשטרה העבירה לפרקליטות חוות דעת בפרשת החשד להתערבות זרה בבחירות. בשלב זה מסתמן קושי לבסס עבירות ביטחוניות, והבדיקה מתמקדת בחשד לעבירות בתחום מימון המפלגות. הממצאים יועברו לעיון היועמ\"שית",
-      "link": "https://www.walla.co.il/news/law/383960897",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T17:54:21.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ry0voalaze",
-      "title": "איזנקוט קבע למחר פגישת מו\"מ עם הליכוד - וביטל: \"על רקע נאום הפילוג של רה\"מ\"",
-      "summary": "פגישת המו\"מ בין צוותי ישר! והליכוד, שנקבעה למחר אחרי פניית איזנקוט לכל הסיעות, בוטלה עקב נאום נתניהו. בישר! האשימו את נתניהו בפילוג ובהיעדר רצון באחדות: \"בבחירה בין גודל השעה לבין שרידותו הפוליטית - יבחר תמיד נתניהו בעצמו\". הליכוד: \"נתניהו עומד מאחורי דבריו, ביטול הפגישה - תמוה\"",
-      "link": "https://www.ynet.co.il/news/article/ry0voalaze",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T17:52:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21824793",
-      "title": "נפלה מהסוס במהלך מרוץ: הרוכבת המבטיחה מתה בגיל 22",
-      "summary": "איזי ניל הלכה לעולמה בנסיבות טרגיות אחרי שנפצעה אנושות בתאונה במסלול באוסטרליה • כ-400 מטרים לפני קו הסיום היא נפלה מגבו של הסוס, יחד עם רוכב נוסף שהיה מעורב בתקרית • היא נחשבה לאחת הספורטאיות הכישרוניות בתחום",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21824793",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T17:48:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/abbas-netanyahu-sinwar-understanding-hamas-funding",
-      "title": "עבאס משיב אש: \"נתניהו אמר לי שהוא וסינוואר מבינים אחד את השני\"",
-      "summary": "אחרי הדברים החריפים של נתניהו נגדו בנאומו, יו\"ר רע\"ם \"חשף\" שיחה מתקופת שומר החומות | \"נתניהו ידע שהכסף לעזה מגיע לזרוע הצבאית של חמאס\", אמר עבאס (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/abbas-netanyahu-sinwar-understanding-hamas-funding",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T17:47:42.000Z"
     }
   ]
 }
