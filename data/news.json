@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:01:20.735Z",
+  "updatedAt": "2026-11-15T11:15:51.669Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/law/383961477",
+      "title": "חשד לתקיפת סייעת בגן ילדים בערערה: המשטרה פתחה בחקירה",
+      "summary": "שוטרי תחנת ערוער פתחו בחקירה בעקבות דיווח על תקיפת סייעת בגן ילדים בערערה בנגב. כוחות המשטרה עורכים סריקות לאיתור החשודים במעשה ולמעצרם",
+      "link": "https://www.walla.co.il/news/law/383961477",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T11:06:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bypolgp0gg",
+      "title": "תיעוד מזעזע: תקפו את הסייעת בגן הילדים עם פטיש ומברג",
+      "summary": "אלמונים הגיעו לגן בערערה שבנגב ותקפו את הסייעת באלימות קשה. הם ניסו לגזור את שערה ונמלטו מהמקום. המשטרה פתחה בחקירה: \"רואים בחומרה כל גילוי אלימות, ובפרט כלפי עובדי מערכת החינוך\"",
+      "link": "https://www.ynet.co.il/news/article/bypolgp0gg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T11:04:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/toji13",
+      "title": "הם חיכו לאחות קטנה - ונשארו בלי אמא: הטרגדיה במודיעין עילית",
+      "summary": "אבל כבד בעקבות פטירתה של מרת מרים ברכה בן חמו ע\"ה, בת 40, שלקתה בסיבוך נדיר וחמור בלידה | שעות של החייאה, 100 מנות דם וחיבור לאקמו לא הועילו | התינוקת נקראה בשם שאמה רצתה לתת לה, אך לעולם לא תזכה להכיר אותה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/toji13",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T11:00:07.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tojfp3",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 13:00",
       "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 13:00 (רדיו כיכר FM)",
@@ -41,6 +68,51 @@
       "pubDate": "2026-11-15T11:00:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21853723",
+      "title": "אורטל עמר נשברת: \"יש לי דמעות בעיניים\"",
+      "summary": "תו פרינס, בנם של עמר ובן אל תבורי חגג את יום הולדתו וקיבל ברכה מרגשת עם הבטחה לשנה הקרובה • \"בעזרת השם, השנה תהפוך לאח בכור כשאביא לך אח או אחות מתוקים\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21853723",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:58:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21854473",
+      "title": "\"הנטייה היא להסתכל על 4 מיליארד דולר, אבל על הכף עומדת שותפות אסטרטגית\"",
+      "summary": "מנכ\"לית לשכת המסחר ישראל-אמריקה, גלית מירן, מזהירה כי הפסקת הסיוע הביטחוני האמריקאי עלולה לפגוע בגישה לטכנולוגיות ובשרשרות האספקה, וקוראת להיערך כבר עכשיו • \"שנתיים במונחי מדינה זה לא הרבה זמן\"",
+      "link": "https://www.israelhayom.co.il/business/article/21854473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:57:29.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%91%D7%A8%D7%97%D7%95%D7%AA_%D7%94%D7%A0%D7%A9%D7%A7_%D7%91%D7%92%D7%91%D7%95%D7%9C_%D7%99%D7%A8%D7%93%D7%9F_%D7%9E%D7%9E%D7%A9%D7%99%D7%9B%D7%95%D7%AA__%D7%A9%D7%9E%D7%95%D7%A0%D7%94_%D7%90%D7%A7%D7%93%D7%97%D7%99%D7%9D_%D7%A0%D7%AA%D7%A4%D7%A1%D7%95",
+      "title": "הברחות הנשק בגבול ירדן ממשיכות: שמונה אקדחים נתפסו",
+      "summary": "גבול ירדן ממשיל להיות נקודת תורפה משמעותיץ. במהלך סוף השבוע נתפסו שתי הברחות, ושישה מסתננים שחצו את ים המלח בסירה",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%91%D7%A8%D7%97%D7%95%D7%AA_%D7%94%D7%A0%D7%A9%D7%A7_%D7%91%D7%92%D7%91%D7%95%D7%9C_%D7%99%D7%A8%D7%93%D7%9F_%D7%9E%D7%9E%D7%A9%D7%99%D7%9B%D7%95%D7%AA__%D7%A9%D7%9E%D7%95%D7%A0%D7%94_%D7%90%D7%A7%D7%93%D7%97%D7%99%D7%9D_%D7%A0%D7%AA%D7%A4%D7%A1%D7%95",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-15T10:57:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21854427",
+      "title": "\"אני נמצאת עכשיו בחוף נודיסטים. עושים את זה ממש בנימוס\"",
+      "summary": "יוצרת התוכן נגה בן יהודה תיעדה את ביקורה השני בחוף נודיסטים, אליו הגיעה לבדה, ופירטה כיצד מתנהלת התקשורת בין המבקרים במקום",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21854427",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:56:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21854331",
+      "title": "“הדרבי הישראלי\" ביורוליג: רוב האוהדים נשארו בחוץ",
+      "summary": "במשך שנים זה היה בגדר פנטזיה – שתי קבוצות ישראליות ביורוליג • עכשיו, כשזה קורה, הקרב ביניהן נערך בכלל בקפריסין, והאוהדים ובעלי הקבוצות כ\"כ מסוכסכים שאף אחד כמעט לא טרח להגיע למשחק ההיסטורי",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21854331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:56:15.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1388583",
       "title": "איבד את הטבעת בים לפני 47 שנה - וטס מישראל לסגור מעגל",
       "summary": "טבעת סיום לימודים שהושאלה מאחיו נעלמה במהלך טיול בארה\"ב ונחשבה אבודה לנצח. חובב אוצרות שמצא אותה במקרה הצליח לאתר את בעליה והחליט להחזירה אישית. המפגש המשפחתי הסתיים בהפתעה מרגשת",
@@ -48,6 +120,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T10:54:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21853611",
+      "title": "מחתימת המלך ג'ורג' ועד לשרביט של זובין מהטה: האוצרות שיוצאים למכירה פומבית",
+      "summary": "עשרות פריטים נדירים, שנשמרו במשך עשרות שנים במחסני האגודה למען החייל, יוצעו הערב במכירה פומבית, וכל ההכנסות יועברו לחיילי צה\"ל • בין הפריטים: כתב מינוי בריטי משנת 1938, חתום בידי המלך ג'ורג' השישי, וסט סכו\"ם מכסף במשקל של יותר מ־4 ק\"ג, שכבר קיבל הצעות של יותר מ־4,000 דולר • מנכ\"ל האגודה, איל אלוק: \"מצאנו דרך להעניק להם חיים חדשים\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21853611",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:54:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21854156",
+      "title": "שנה שנייה ברציפות: המהלך המרגש של פרטנר לסטודנטים שנפצעו במלחמה",
+      "summary": "קבוצת התקשורת פרטנר ממשיכה את שיתוף הפעולה עם אוניברסיטת בר-אילן • במסגרת שיתוף הפעולה, מעניקה פרטנר מלגות לימודים לסטודנטים המשרתים בכוחות הביטחון ונפצעו במהלך \"חרבות ברזל\"",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21854156",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:53:17.000Z"
     },
     {
       "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%9B%D7%AA%D7%91_%D7%90%D7%99%D7%A9%D7%95%D7%9D__%D7%A2%D7%A8%D7%91%D7%99_%D7%9E%D7%9E%D7%96%D7%A8%D7%A2%D7%94_%D7%A8%D7%99%D7%92%D7%9C_%D7%9E%D7%99%D7%95%D7%96%D7%9E%D7%AA%D7%95_%D7%A2%D7%91%D7%95%D7%A8_%D7%90%D7%99%D7%A8%D7%90%D7%9F_%D7%95%D7%AA%D7%99%D7%A2%D7%93_%D7%91%D7%A1%D7%99%D7%A1%D7%99_%D7%A6%D7%94_%D7%9C_%D7%95%D7%9E%D7%A9%D7%98%D7%A8%D7%94",
@@ -77,6 +167,33 @@
       "pubDate": "2026-11-15T10:45:29.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21854079",
+      "title": "בצל פרשת הפצ\"רית - בג\"ץ יחליט: האם לשר בישראל יש סמכות על חקירה פלילית?",
+      "summary": "11 שופטים ידונו בשאלה אם שר המשפטים רשאי למנות גורם שיפקח על חקירה פלילית שהיועמ\"שית מנועה מלעסוק בה • הדיון לא יעסוק בחקירת הפצ\"רית לשעבר, אלא בכללים שיחולו על מקרים דומים בעתיד",
+      "link": "https://www.israelhayom.co.il/news/law/article/21854079",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:42:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21854313",
+      "title": "המודחת הטרייה מ\"הישרדות\": \"נוצלתי מינית על ידי עשרות\"",
+      "summary": "השחקנית עמנואל הורי, שהודחה אמש מ\"הישרדות\", חשפה בפודקאסט של אבי שושן פגיעות קשות שליוו אותה מילדות ועד הבגרות • מה קרה לה בחו\"ל, מדוע בחרה שלא לחשוף את השמות ואיך דווקא \"הישרדות\" גרמה לה לומר \"עד כאן\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21854313",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:42:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21854321",
+      "title": "בגיל 75 ועם מקלות הליכה: הזמר בהופעה נדירה עם בתו השחקנית",
+      "summary": "אחרי שנים של בעיות בריאותיות, ניתוחים ופרישה מהבמות, פיל קולינס הגיע לטקס היכל התהילה של הרוקנרול כשהוא נעזר במקלות הליכה • לצדו היו בתו לילי, כוכבת \"אמילי בפריז\", ושניים מילדיו הנוספים",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21854321",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:39:27.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sjmvlldcgl",
       "title": "\"איזנקוט עשוי להיות נוקשה יותר\": בלבנון תוהים - הפלונטר ישפיע על המו\"מ?",
       "summary": "בעולם הערבי עוקבים אחר מאמציו של גדי איזנקוט להחליף את רה\"מ נתניהו, ובלבנון מנסים להבין מה תהיה עמדתו בנוגע למשא ומתן בין המדינות. בינתיים, ראשי המדינה הלבנונית קוראים להאריך את מנדט יוניפי\"ל שמסתיים בסוף השנה, בחיזבאללה לא מתנגדים למו\"מ עקיף עם ישראל: \"כרגע יש רק צד אחד שמוותר\"",
@@ -95,6 +212,24 @@
       "pubDate": "2026-11-15T10:39:00.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21854246",
+      "title": "השאלה שגרמה לאסתי מווארט להתפוצץ: \"עם של שונאי חינם\"",
+      "summary": "בעקבות הסערה סביב אי גיוסו של בעלה אריאל לצה\"ל, אסתי קנוחן חושפת את ההצקות והאיומים שספגו ומבהירה גם את עמדתה הנחרצת בנוגע ליחסי אישות לפני החתונה",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21854246",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:36:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21854196",
+      "title": "צעד ראשון מסוגו: רשת מכוני הכושר משדרגת את הסניפים",
+      "summary": "קפסולות קור יבש, תאי אור אדום ואמבטיות קרח: רשת הולמס פלייס משיקה מתחמי התאוששות בהשקעה של כמיליון שקל לסניף • המחירים: בין 25 ל-130 שקל לסשן",
+      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21854196",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:35:22.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/biden-netanyahu-gaza-war-memoir",
       "title": "ביידן פותח הכול על ביבי: 'נאלצתי להגן על ישראל מפני עצמה'",
       "summary": "בספר הזיכרונות החדש שלו, שיראה אור השבוע, חושף נשיא ארה\"ב לשעבר את התסכול שהצטבר בשיחות הסגורות במהלך המלחמה בעזה – ומאשים את ראש הממשלה בהפרת הבטחות (חדשות בעולם)",
@@ -102,6 +237,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T10:32:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21854240",
+      "title": "רצח הפרופסור הישראלי בסופיה: זה השכן החשוד - שגר ליד הקורבן בבת ים",
+      "summary": "פרופ' אנדריי אטנסוב, בן 83, הוכה למוות במעלית בתחנת מטרו בבירת בולגריה • לפי החשד, לוייב הגיע לבולגריה יום לפני הרצח, תועד עוקב אחר הקורבן ונמלט חזרה לישראל דרך יוון • הפרקליטות מבקשת להאריך את מעצרו ב־20 יום, כדי לאפשר לבולגריה להגיש בקשת הסגרה רשמית",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21854240",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:32:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21854171",
+      "title": "3 על סט 1: אליאנה תדהר מקבלת חיזוק בינלאומי",
+      "summary": "אל אליאנה תדהר, שמככבת בקמפיינים של דלתא כבר שנים, מצטרפות שתי דוגמנית בעלות ניחוח בינלאומי, סן מזרחי • התוצאה: קולקציית הפנאי החדשה של המותג, שמבקשת להוכיח שנוחות וסטייל יכולים בהחלט ללכת יחד • קבלו הצצה לקמפיין החדש",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21854171",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T10:30:52.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21853989",
@@ -147,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T10:17:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383961464",
+      "title": "לא נתנו לו להיכנס כי הוא ערבי: היישובים בגליל יתנצלו ויפצו",
+      "summary": "עובד במערכת הבריאות ביקש לטייל במצפור שאליו מגיעים דרך היישובים צורית וגילון, אך המאבטח בשער סירב לאפשר לו להיכנס. לאחר שגילה כי מבקרים יהודים הורשו לעבור, הגיש תביעה נגד היישובים",
+      "link": "https://www.walla.co.il/news/law/383961464",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T10:17:10.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/law/383961464",
@@ -447,6 +609,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388546",
+      "title": "גדי איזנקוט הציע לנתניהו הצעה לממשלת אחדות - אבל יש לו תנאי חריג",
+      "summary": "המגעים הקואליציוניים להקמת ממשלת אחדות נמשכים, והערב צפויים להיפגש נציגי הליכוד וישר! כדי לבחון את האפשרות להקמתה. השאלה המרכזית שנותרה במחלוקת: מי יעמוד בראשות הממשלה",
+      "link": "https://www.maariv.co.il/news/politics/article-1388546",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T09:42:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388546",
       "title": "ממשלת אחדות בלי רוטציה: הרעיון שעשוי לשנות את התמונה",
       "summary": "המגעים הקואליציוניים להקמת ממשלת אחדות נמשכים, והערב צפויים להיפגש נציגי הליכוד וישר! כדי לבחון את האפשרות להקמתה. השאלה המרכזית שנותרה במחלוקת: מי יעמוד בראשות הממשלה",
       "link": "https://www.maariv.co.il/news/politics/article-1388546",
@@ -471,6 +642,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T09:41:39.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388545",
+      "title": "חשש בקייב: רוסיה תנצל אירוע בישראל כדי להכריז על הישג",
+      "summary": "שגרירות אוקראינה פנתה לשר מיקי זוהר בדרישה לבחון אירוע חגיגי בהשתתפות בכירים רוסים באשדוד, מחשש לניצולו לצורכי תעמולה. במוקד המחאה: אישיות רוסית הנתונה לסנקציות בינלאומיות",
+      "link": "https://www.maariv.co.il/news/politics/article-1388545",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T09:40:58.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388545",
@@ -732,6 +912,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T09:00:06.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876254",
+      "title": "שום מאמן לא יציל את נבחרת ישראל",
+      "summary": "גם בכר, אבוקסיס, יצחקי ומאמן זר לא יצליחו לתקן את הנבחרת היחידה בעולם בה יש בסגל פחות שחקנים איכותיים מאשר מחוצה לו. וגם: מעמד השחקנים הערבים, השפל של אוסקר גלוך והדבר היחיד שבן שמעון צריך לעשות מכא",
+      "link": "https://sports.walla.co.il/item/3876254",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T09:00:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3876254",
@@ -2217,6 +2406,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T05:10:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21852018",
+      "title": "צופית גרנט על רגעי האימה: \"נסגרה לי הנשמה\"",
+      "summary": "מגישת הטלוויזיה שחזרה את הרגע שבו הבינה שמשהו לא בסדר, וסיפרה איך תופעות הלוואי של הטיפול מקשות עליה לצאת למסעות שתכננה עם שולי רנד",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21852018",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T05:06:57.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21852018",
@@ -26994,105 +27192,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-10T11:17:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21821170",
-      "title": "נטלי דדון בשמלת כלה: \"הארוס לא מוזמן\"",
-      "summary": "רגע לפני שעלתה למסלול בשבוע האופנה, דדון סיפרה למה בן הזוג נשאר בבית, ומה בכל זאת שונה הפעם: \"זאת עדיין לא האחת\". וגם: איך עלה שמו של מנסור עבאס רגע לפני עלתה לצעוד על המסלול?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21821170",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T11:14:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21821045",
-      "title": "הפזמונאית מיכל ברנט (\"שביל הבריחה\") הלכה לעולמה בגיל 66",
-      "summary": "מיכל ברנט הפיקה בשנות ה-80 את \"בגובה העיניים\" של יוני רכטר ועלי מוהר ואת אלבום הבכורה של ריטה • מלבד הלהיט כתבה רק עוד שיר אחד, \"כאבים רחוקים\" לירדנה ארזי • בהמשך עזבה את המוזיקה וניהלה חברת מיתוג",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21821045",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T11:12:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21821000",
-      "title": "אסון בבולגריה: 11 הרוגים ועשרות פצועים בתאונת שרשרת בכביש מהיר",
-      "summary": "עשרות כלי רכב היו מעורבים בתאונה קשה בכביש A1 שבמזרח המדינה, לאחר שהתנגשו זה בזה בקטע כביש מכוסה ערפל • 50 בני אדם פונו לבתי החולים, וחלק מהנפגעים עדיין לכודים במכוניותיהם • ראש הממשלה הורה להפעיל כלי טיס לפינוי הפצועים",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21821000",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T11:12:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386977",
-      "title": "הכתב שאל על המהומות, המרואיין סיפק הדגמה חיה",
-      "summary": "עיתונאי סקוטי יצא לבדוק אם צפויות מהומות ברחובות אדינבורו, אך המרואיין שהתנדב להרגיע את הרוחות הפתיע גם אותו. רגע אחרי שהבטיח שלא יהיו בעיות, הופיע שוטר והשיחה הסתיימה במרדף בשידור חי",
-      "link": "https://www.maariv.co.il/news/viral/article-1386977",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T11:11:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1386977",
-      "title": "הבטיח שלא יהיו הפרות סדר, ואז ברח מהשוטר מול המצלמה",
-      "summary": "עיתונאי סקוטי יצא לבדוק אם צפויות מהומות ברחובות אדינבורו, אך המרואיין שהתנדב להרגיע את הרוחות הפתיע גם אותו. רגע אחרי שהבטיח שלא יהיו בעיות, הופיע שוטר והשיחה הסתיימה במרדף בשידור חי",
-      "link": "https://www.maariv.co.il/news/viral/article-1386977",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T11:11:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/elisha-madan-first-tweet-unity-government-call",
-      "title": "\"אעמוד על רגליי בהשבעה\": ההבטחה של אלישע מדן והתנאי החשוב שהציב",
-      "summary": "שלוש שנים לפציעתו הקשה בקרב, הלוחם שאיבד את רגליו פרסם פוסט ראשון • \"אעמוד על רגליי בהצהרת האמונים למרות הכאבים\" | קורא להקמת ממשלת אחדות רחבה (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/elisha-madan-first-tweet-unity-government-call",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T11:08:53.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960810",
-      "title": "מאחורי הסורגים: המשפחה חרדה לאשתו של ראסל ברנד",
-      "summary": "אשתו של ראסל ברנד ממשיכה לעמוד לצידו גם אחרי שנידון ל-10.5 שנות מאסר, אבל במשפחתה מודאגים. במקביל, עדויות ישנות של קייטי פרי ודני מינוג חוזרות לכותרות, ובת זוגו לשעבר חושפת: \"חוויתי ממנו אלימות\"",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960810",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T11:06:01.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383960810",
-      "title": "\"שטף לה את המוח\": החשש הכבד סביב אשתו של ראסל ברנד",
-      "summary": "אשתו של ראסל ברנד ממשיכה לעמוד לצידו גם אחרי שנידון ל-10.5 שנות מאסר, אבל במשפחתה מודאגים. במקביל, עדויות ישנות של קייטי פרי ודני מינוג חוזרות לכותרות, ובת זוגו לשעבר חושפת: \"חוויתי ממנו אלימות\"",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383960810",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T11:06:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21814256",
-      "title": "לא סופגנייה ולא לביבה: השנה מכינים בורקסביבון בחנוכה",
-      "summary": "לא צריך לבחור בין משחק בסביבון לנשנוש טעים • מאפי בצק עלים בצורת סביבונים, במילוי בשר בקר מתובל, הם דרך מקורית להכניס קצת יצירתיות לשולחן החג • המתכון פשוט להכנה, דורש מעט רכיבים ונאפה בתנור ב-15 דקות בלבד",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21814256",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T11:03:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjyhc8x0ml",
-      "title": "חייהם התהפכו ב-7/10 ובמלחמה. היום הם יושבעו לכנסת",
-      "summary": "טליק גואילי, גדי איזנקוט, רפי בן שטרית, שירה שפירא ומיכל נגרי ששכלו את בניהם ב-7/10 ובעזה. שרון שרעבי שאחיו יוסי נרצח בשבי. משה פייגלין ששכל את נכדו ועמרי רונן שסבתו נרצחה בביתה. וגם אלישע מדן שנפצע קשה ואיבד את שתי רגליו בבית חאנון. אלה חברי הכנסת ה-26 שחייהם התהפכו במלחמה",
-      "link": "https://www.ynet.co.il/news/article/hjyhc8x0ml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T11:02:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/kim-yo-jong-un-secretary-general-threat",
-      "title": "הדיקטטור מצא אויב חדש? אחותו של קים מאיימת על מזכ\"ל האו\"ם",
-      "summary": "פיצוץ מוקש באזור הגבול בין שתי הקוריאות הוביל לעימות דיפלומטי חדש, לאחר שמזכ\"ל האו\"ם קרא לשתי המדינות לחדש את השיחות | בפיונגיאנג זעמו, ואחותו של המנהיג יצאה למתקפה אישית (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/kim-yo-jong-un-secretary-general-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T11:02:37.000Z"
     }
   ]
 }
