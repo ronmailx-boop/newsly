@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:01:15.285Z",
+  "updatedAt": "2026-11-15T09:15:55.648Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/yeshiva-student-arrested-shabbat-military-police",
+      "title": "הבחור נעצר דקות לפני שבת והועבר ברכב הצבאי למרות התנגדותו • פרסום ראשון",
+      "summary": "בחור ישיבה נעצר בעקבות תאונת דרכים בצפון • הועבר למשטרה הצבאית לאחר השקיעה | הפרטים המלאים בפרסום ראשון על המקרה שהתרחש בערב השבת האחרונה (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/yeshiva-student-arrested-shabbat-military-police",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T09:08:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388528",
+      "title": "כאב ראש לחיים כץ: מנהל שיבא ויתר על משרד הבריאות",
+      "summary": "לאחר עזיבתו של משה בר סימן טוב מתפקידו כמנכ\"ל משרד הבריאות, הציע השר חיים כץ את התפקיד למנהל שיבא, פרופ' יצחק קרייס. אלא שקרייס הסיר את מועמדותו בעקבות קשיים משפטיים בהסדרת ניגוד העניינים",
+      "link": "https://www.maariv.co.il/news/politics/article-1388528",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T09:04:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tojcqv",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 11:00 (רדיו כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tojcqv",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T09:03:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-courts/bus-driver-skipped-stop-rain-metropolin-ordered-pay-passenger",
+      "title": "פסיקה לנוסעים: נהג אוטובוס לא רשאי לדלג על תחנה בגשם",
+      "summary": "נוסע המתין בתחנה בסערה חורפית ואוטובוס חלף על פניו • בית המשפט: הנהג לא רשאי להחליט מי יאסוף נוסעים | פסק דין בכפר סבא (בית המשפט)",
+      "link": "https://www.kikar.co.il/law-and-courts/bus-driver-skipped-stop-rain-metropolin-ordered-pay-passenger",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T09:01:11.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876254",
+      "title": "ולמה אין שחקנים ערבים בסגל? הכדורגל הישראלי חולה מתמיד",
+      "summary": "גם בכר, אבוקסיס, יצחקי ומאמן זר לא יצליחו לתקן את הנבחרת היחידה בעולם בה יש בסגל פחות שחקנים איכותיים מאשר מחוצה לו. וגם: מעמד השחקנים הערבים, השפל של אוסקר גלוך והדבר היחיד שבן ש",
+      "link": "https://sports.walla.co.il/item/3876254",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T09:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21852947",
+      "title": "המגיש המיתולוגי על ינון מגל: \"אני יכול להרוס לו את הקריירה בשנייה\"",
+      "summary": "איש השידור הציבורי הוותיק, שמינה את ינון מגל להגיש את \"מבט\" בערוץ הראשון, חזר לימים ההם ושלף תיאור שקשה לדמיין היום • מה בדיוק הוא אמר בשידור לבן כספית, ומה מפתיע אותו בהתנהלות של מגיש \"הפטריוטים\" כיום",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21852947",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:59:57.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/health-news/toa4ur",
       "title": "\"שמן ונהנה או רזה וסובל? שנים חשבתי שאין דרך אחרת\"",
       "summary": "מ-98 קילו ל-65, וכבר 14 שנה בלי לחזור למשקל הקודם. איציק שנברגר היה בטוח שכדי להיות רזה צריך לוותר על כל מה שאוהבים - עד שגילה דרך אחרת. בלי לוותר על סעודות שבת, אירועים והנאות החיים. זה הסיפור האישי שלו, והתובנה ששינתה לו הכול (בריאות)",
@@ -42,12 +96,48 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/private-parking-sprinkler-system-australia",
+      "title": "החניה הכי מעצבנת בעולם: בעל עסק לימד לקח עשרות נהגים",
+      "summary": "אחרי שהמשטרה והעירייה לא עזרו מול הנהגים שחסמו את הכניסה לעסק שלו באוסטרליה, ברוס קר התקין מערכת סודית שמופעלת מהמשרד – ואפילו גרמה לפיטוריו של אחד הנהגים | צפו (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/private-parking-sprinkler-system-australia",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T08:57:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/private-parking-sprinkler-system-australia",
       "title": "החניה הכי מעצבנת בעולם: בעל עסק לימד לקח מאות נהגים",
       "summary": "נהגים שהחליטו להפוך את החניה הפרטית שלו למקום חניה נוח, לא ידעו שמחכה להם הפתעה | בעל הבית מצא דרך מקורית להבהיר להם את הגבולות (חדשות בעולם)",
       "link": "https://www.kikar.co.il/world-news/private-parking-sprinkler-system-australia",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T08:57:53.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1c00zeprge",
+      "title": "ניגוד העניינים הכריע: פרופ' קרייס הסיר את מועמדותו למנכ\"ל משרד הבריאות",
+      "summary": "מנהל המרכז הרפואי שיבא נענה בחיוב לבקשת השר חיים כץ לשמש כמנכ\"ל זמני של המשרד, אך המגבלות המשפטיות הכריעו: \"לא מאפשר את השלמת ההליך בפרק זמן סביר\". בייעוץ המשפטי התנגדו גם כן למינוי המורכב",
+      "link": "https://www.ynet.co.il/news/article/b1c00zeprge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T08:57:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961459",
+      "title": "המגעים לממשלת אחדות: צוותי הליכוד ואיזנקוט ייפגשו היום",
+      "summary": "מטעם מפלגת ישר! ישתתפו יואב הורוביץ וח\"כ חילי טרופר, ומטעם הליכוד יגיעו אופיר כץ ועו\"ד מיכאל ראבילו. איזנקוט הזמין את הליכוד לצרף גם את ח\"כ אלישע מדן. ברקע: חילופי ההאשמות בין נתניהו לאיזנקוט",
+      "link": "https://www.walla.co.il/news/politics/383961459",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T08:54:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21853112",
+      "title": "אחראי החטופים וממתכנני 7 באוקטובר: זה מח\"ט רפיח שחוסל",
+      "summary": "סמיר מחמוד (אבו יונס), שמונה רק לפני כחודשיים למח\"ט רפיח, חוסל הלילה בדרכו לאוהל באזור המואסי • על פי דיווחים בעולם הערבי, אבו יונס עמד מאחורי תכנון מתקפת 7 באוקטובר והיה אחראי על החזקת חטופים והליכי מסירתם לצלב האדום • מדובר במח\"ט השלישי של רפיח שמחוסל מתחילת המלחמה, לאחר קודמיו מוחמד שבאנה ונאאל אבו עובייד",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21853112",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:53:29.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/likud-yesh-negotiation-teams-meeting-today",
@@ -66,6 +156,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-15T08:50:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21852538",
+      "title": "22 שעות של דרמה: מאחורי הנחיתה ההיסטורית של SpaceX",
+      "summary": "אחרי שהמאיץ הענק התפוצץ בים דקות לאחר ההמראה, נראה היה שהניסוי ה-15 של Starship בדרך לאכזבה • אבל 22.5 שעות לאחר מכן, בתום 14 הקפות סביב כדור הארץ ו-21 דקות מורטות עצבים מעל שטח מיושב, זרועות המגדל לכדו את החללית באוויר - ושינו את חוקי המשחק של תעשיית החלל • כל מה שצריך לדעת על ההיסטוריה שעשה אילון מאסק בחלל",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21852538",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:45:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1388517",
@@ -95,6 +194,15 @@
       "pubDate": "2026-11-15T08:41:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21852996",
+      "title": "ביקורת פנימית בגוש השינוי: \"לוקחים את יאיר גולן כמובן מאליו\"",
+      "summary": "לאוהל האחדות שהקים אמש ח״כ אלישע מדן הוזמנו גם חברי כנסת מגוש השינוי שטרם הגיעו • בסיעת הדמוקרטים בודקים האם ממשלת מיעוט באה בחשבון מצד השטח • ברדוגו דוחף לאחדות ובישראל ביתנו מעבירים לאיזנקוט מסר עקיף",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21852996",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:39:09.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388513",
       "title": "אחדות ציונית: צו השעה, לא סיסמת בחירות | משה פוזיילוב",
       "summary": "כמה משברים עוד צריכה ישראל לעבור כדי שמנהיגיה יבינו שהגיעה העת להניח את החרמות האישיים בצד? מול האיומים הביטחוניים, אובדן המשילות והשסעים הפנימיים, ישראל זקוקה לממשלה ציונית רחבה ויציבה",
@@ -114,12 +222,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1388507",
+      "title": "רעידת אדמה בדמוקרטים: המהלך נגד שני הבכירים שהוגדרו \"אולטרה־ציונים\"",
+      "summary": "דיונים פנימיים שנחשפו ב\"ניו יורק פוסט\" מגלים תוכנית להחלפת בכירים דמוקרטים במועמדים סוציאליסטים ב-2028. ברקע: האשמות קשות על תמיכתם בישראל ומאבק על השליטה במפלגה",
+      "link": "https://www.maariv.co.il/news/world/article-1388507",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T08:37:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1388507",
       "title": "אחרי הניצחון בבחירות: התוכנית להדחת שני הבכירים הפרו־ישראלים",
       "summary": "דיונים פנימיים שנחשפו ב\"ניו יורק פוסט\" מגלים תוכנית להחלפת בכירים דמוקרטים במועמדים סוציאליסטים ב-2028. ברקע: האשמות קשות על תמיכתם בישראל ומאבק על השליטה במפלגה",
       "link": "https://www.maariv.co.il/news/world/article-1388507",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T08:37:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21853053",
+      "title": "חילופי דורות בצמרת אפרידר: שרון אלעזרא הררי מונתה ליו\"ר, רועי גפני למנכ\"ל",
+      "summary": "לאחר כעשור בתפקיד מנכ”לית אפרידר, שרון אלעזרא הררי תחליף את אלי אלעזרא בתפקיד יו”ר הדירקטוריון, שבו כיהן מאז רכש את החברה בשנת 2000. רועי גפני, שכיהן בתפקידים בכירים בחברה, יוביל את פעילותה כמנכ”ל החדש",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21853053",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:33:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/tojb60",
@@ -129,6 +255,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T08:32:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21852968",
+      "title": "כיכב עד השנה בריאל מדריד - והוצג כשחקן מברצלונה",
+      "summary": "מריו הזוניה הוקפץ לחמישייה של קליבלנד, שהחליטה להושיב בצד את הכוכבים בעקבות שיבושים בטיסה שבין שני משחקים סמוכים • הפורוורד ששיחק בארבע השנים האחרונות בריאל מדריד, והיה מגיבורי הניצחון 117:127, הוצג בהצגת השחקנים כיוצא מברצלונה - הקבוצה בה שיחק בתחילת קריירת הבוגרים",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21852968",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:32:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21853035",
+      "title": "\"העולם התאהב\": הקליפס הישראלי שנכנס ל־1,500 חנויות בארה\"ב",
+      "summary": "הקליפסים המגנטיים של DAFNI נמכרו ברבע מיליון יחידות בשנה הראשונה, הפכו ללהיט בטיקטוק וכבר עשו את דרכם ל־Anthropologie • עכשיו מגיעה הקפיצה הגדולה - כניסה לכל סניפי Ulta Beauty בארה\"ב",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21853035",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:31:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21852938",
+      "title": "פרופ' יצחק קרייס מוותר על תפקיד מנכ\"ל משרד הבריאות",
+      "summary": "מנהל המרכז הרפואי שיבא הודיע הבוקר לשר הבריאות חיים כץ כי הוא מוותר על התפקיד שאליו התבקש להיכנס באופן זמני • ההחלטה התקבלה לאור הבנה כי המורכבות המשפטית סביב הסדר ניגוד העניינים לא תאפשר את השלמת המינוי בזמן סביר • השר כץ הודה לקרייס על נכונותו להתגייס למשימה הלאומית: \"מכבד את החלטתו להמשיך להוביל את שיבא\"",
+      "link": "https://www.israelhayom.co.il/health/article/21852938",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-15T08:31:54.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byceoyvafe",
@@ -475,7 +628,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r13qzjd0zg",
       "title": "ראש העיר פתח תקווה עודכן: תואשם בשוחד בכפוף לשימוע",
-      "summary": "הפרקליטות עדכנה שתעמיד לדין את רמי גרינברג, מנכ\"ל העירייה ושמונה חשודים נוספים. מיוחסות להם עבירות של שוחד, מרמה והפרת אמונים, זיוף ועבירות מס. החשד נגד ראש העיר: קיבל טובות הנאה של יותר ממיליון שקל בבחירות ב-2018",
+      "summary": "הפרקליטות עדכנה שתעמיד לדין את רמי גרינברג, מנכ\"ל העירייה ושמונה חשודים נוספים. מיוחסות להם עבירות של שוחד, מרמה והפרת אמונים, זיוף ועבירות מס. החשד נגד ראש העיר: קיבל טובות הנאה של יותר ממיליון שקל בבחירות ב-2018. גרינברג בתגובה: \"חלק מכתב החשדות מבוסס על שקרים וחצאי אמיתות\"",
       "link": "https://www.ynet.co.il/news/article/r13qzjd0zg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -27021,159 +27174,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-10T09:18:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21819461",
-      "title": "25 שנה אחרי: דיוויד שווימר חוזר לרגע האייקוני מ\"חברים\"",
-      "summary": "כוכב \"חברים\" מככב בפרסומת חדשה המבוססת על אחד הרגעים הבלתי נשכחים מהסדרה • הפעם המשימה שלו קצת יותר מסובכת",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21819461",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:15:35.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-81e645d11b4c1a1027.htm",
-      "title": "שוחררה האם מחיפה שנעצרה בחשד להתעללות: \"שיחקו במשחקי דמיון\"",
-      "summary": "הסבירה בבית המשפט כי הילדה שיחקה ב\"משחק דמיון\" וכי היא עצמה כלל לא תועדה בסרטון • המשטרה ביקשה חמישה ימי מעצר, אך השופט הורה על שחרור וביקר את היחידה החוקרת • עו\"ד בני הראל: \"מדובר במעצר שווא שקיבל תאוצה רק בגלל דליפת התיעוד\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-81e645d11b4c1a1027.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-10T09:15:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "title": "תגישו מועמדות? טראמפ נותר בלי דובר והפתיע את העיתונאים",
-      "summary": "אחרי שטראמפ הכריז כי הוא מעוניין למנות את חברו הוותיק לתפקיד דובר הבית הלבן, התייצב מנכ\"ל ארגון הקרבות מול העיתונאים, תפס את הפודיום ואף השיב לשאלות | אלא שכאשר הנשיא הציג בפניו את ההצעה באופן ישיר, התשובה הייתה חד משמעית (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T09:14:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "title": "תגישו מועמדות? טראמפ נשאר בלי דובר ועשה מהלך מפתיע",
-      "summary": "אחרי שטראמפ הכריז כי הוא מעוניין למנות את חברו הוותיק לתפקיד דובר הבית הלבן, התייצב מנכ\"ל ארגון הקרבות מול העיתונאים, תפס את הפודיום ואף השיב לשאלות | אלא שכאשר הנשיא הציג בפניו את ההצעה באופן ישיר, התשובה הייתה חד משמעית (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T09:14:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "title": "\"אני הרוס לשמוע\": הרגע שטראמפ ניסה לגייס את איש 'האבקות' לדובר",
-      "summary": "אחרי שטראמפ הכריז כי הוא מעוניין למנות את חברו הוותיק לתפקיד דובר הבית הלבן, התייצב מנכ\"ל ארגון הקרבות מול העיתונאים, תפס את הפודיום ואף השיב לשאלות. אלא שכאשר הנשיא הציג בפניו את ההצעה באופן ישיר, התשובה הייתה חד משמעית (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-dana-white-press-secretary-offer",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T09:14:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/israel-morocco-defense-cooperation-visit",
-      "title": "משלחת ישראלית נפגשה עם בכירי מערכת הביטחון והמודיעין במרוקו",
-      "summary": "מנכ\"ל משרד הביטחון אמיר ברעם מוביל משלחת בכירה לרבאט שם נערכו פגישות עם שר ההגנה, הרמטכ\"ל ובכירי המודיעין המרוקאי | ברעם יחנוך את משכן הקבע של נספחות ההגנה ברבאט (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/israel-morocco-defense-cooperation-visit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T09:14:06.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875689",
-      "title": "בנקאית שהפכה למרגלת: האישה שהפילה בפח את מנכ\"ל אנבידיה",
-      "summary": "אליס הואנג, האישה שעומדת במרכז סערת הריגול סביב מנכ\"ל ענקית השבבים, בנתה קריירה פיננסית בסין לפני שהשתלטה על חברת ענן שנקשרה למשלוחי שבבים אסורים",
-      "link": "https://finance.walla.co.il/item/3875689",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T09:14:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386918",
-      "title": "המדינה עצרה את הפיצויים - ומעוז הליכוד יוצא למאבק נגד הממשלה",
-      "summary": "עיריית קריית שמונה עתרה לבג\"ץ נגד הפסקת הזכאות לפיצויים לעסקים שנפגעו במלחמה. לטענתה, המדינה קבעה את מועדי הסיום ללא נימוק, והיא דורשת להאריך את תקופת הפיצוי לפחות עד סוף 2026",
-      "link": "https://www.maariv.co.il/news/law/article-1386918",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:12:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1386918",
-      "title": "דווקא ממעוז הליכוד: קריית שמונה יוצאת למאבק משפטי נגד הממשלה",
-      "summary": "עיריית קריית שמונה עתרה לבג\"ץ נגד הפסקת הזכאות לפיצויים לעסקים שנפגעו במלחמה. לטענתה, המדינה קבעה את מועדי הסיום ללא נימוק, והיא דורשת להאריך את תקופת הפיצוי לפחות עד סוף 2026",
-      "link": "https://www.maariv.co.il/news/law/article-1386918",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:12:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1lirelrmx",
-      "title": "\"לפוצץ את תל אביב\" והגנה על בני חמולת פשע מחאן יונס: שערוריות השמאל הקיצוני בברלין",
-      "summary": "מפלגת די לינקה ניצחה בבחירות בבירת גרמניה, אחרי שהניפה בקמפיין את דגל המאבק הפלסטיני, אך מאז מתקשה לעלות לשלטון - ובדרך מצטברות עדויות רבות על קשריה לתומכי חמאס ולחמולות פשע. מנהיגת המפלגה \"מפחדת\" מהם, חברת פרלמנט שחזרה בה מהכרה בזכות הקיום של ישראל מסרבת לפרוש - וראש שבט רמו שאחראי למקרי שוד חמורים העיד: \"סוף-סוף מצאתי מפלגה שמייצגת אותי\"",
-      "link": "https://www.ynet.co.il/news/article/h1lirelrmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T09:10:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21819734",
-      "title": "בת הזוג של לאמין ימאל חשפה פרט אינטימי - והרשת סוערת",
-      "summary": "פרסום אישי של אינס גרסיה עורר גל תגובות ברשתות החברתיות • היא שיתפה תמונות של התפרצות הרפס באזור האף, והגולשים מיהרו להגיב",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21819734",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:09:09.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/donotmiss/383960799",
-      "title": "90 ימי חושך מה-17 בנובמבר? התרעת החירום שמלחיצה את ארה\"ב",
-      "summary": "סרטונים ופוסטים מזהירים מפני הפסקת חשמל שתימשך שלושה חודשים, אחרים מבטיחים \"איפוס\" של העולם - ויש כבר אמריקאים שהחלו להצטייד. מאחורי הבהלה מסתתרים שני אירועים אמיתיים ותאריך אחד",
-      "link": "https://www.walla.co.il/news/donotmiss/383960799",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T09:08:14.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386914",
-      "title": "ישראל הפכה לשעיר לעזאזל: הטעות הגדולה של טראמפ | עמית יגור",
-      "summary": "טראמפ תתעורר, זה לא בגלל ישראל - גוש הסדר הישן בהובלת טורקיה וקטאר תוקע מקלות בגלגליך גם עכשיו: יש לו חלק מהותי בהפסד שלך בבחירות האמצע והוא מורח את הזמן עד שתסיים כהונתך ולא מעוניין שתשאיר כל מורשת",
-      "link": "https://www.maariv.co.il/news/opinions/article-1386914",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:07:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1386914",
-      "title": "טראמפ, תתעורר: ישראל לא אשמה בהפסד שלך בבחירות האמצע | עמית יגור",
-      "summary": "טראמפ תתעורר, זה לא בגלל ישראל - גוש הסדר הישן בהובלת טורקיה וקטאר תוקע מקלות בגלגליך גם עכשיו: יש לו חלק מהותי בהפסד שלך בבחירות האמצע והוא מורח את הזמן עד שתסיים כהונתך ולא מעוניין שתשאיר כל מורשת",
-      "link": "https://www.maariv.co.il/news/opinions/article-1386914",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-10T09:07:40.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hj11pnrlcge",
-      "title": "\"עזה טובעת\": ההצפות ברצועה בכותרות בעולם, לחץ על ישראל",
-      "summary": "סוף השבוע הגשום והצפות הענק ברצועה גררו ביקורת חריפה נגד ישראל וטענות שהיא אחראית על המצב הקשה, אחרי שעשרות אלפי אוהלי עקורים הוצפו ונהרסו. \"רעש הגשם מפחיד כמו רעש הפצצות\", נכתב בטור של צלם עזתי שפורסם בספרד, שר החוץ הבריטי תקף: \"המציאות שוברת לב, נביא קץ לסבל הבלתי נסבל הזה\"",
-      "link": "https://www.ynet.co.il/news/article/hj11pnrlcge",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T09:07:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21819686",
-      "title": "עדי בוזגלו הודיעה: \"יש לי בשורה\"",
-      "summary": "עדי בוזגלו פתחה את הבוקר ברכב, בהמתנה לאמה בתחנת הרכבת, והודיעה לעוקבים שלה שיש לה בשורה, וזה לא הריון ולא מעבר דירה • מה בדיוק היא מתכננת, למה שכרה צלם מקצועי, ולמה היא בטוחה ש\"זה הולך לשבור את הרשת\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21819686",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:02:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21819063",
-      "title": "לא היה מרוצה מהמשלוח – תקף את השליח ושדד ממנו אלפי שקלים",
-      "summary": "תושב חריש בן 26 נאשם כי בעט בראשו של שליח, היכה אותו באגרופים ואיים לדקור אותו לאחר שלא היה מרוצה מהחבילה שהזמין • בהמשך, יחד עם חברו, גנב מרכב המשלוחים חבילות בשווי כ-11 אלף שקלים",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21819063",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T09:01:30.000Z"
     }
   ]
 }
