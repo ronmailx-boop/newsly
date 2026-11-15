@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:46:01.446Z",
+  "updatedAt": "2026-11-15T14:01:01.405Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tojq4f",
+      "title": "מבזק חדשות כיכר FM | מהדורת השעה 16:00",
+      "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 16:00 (רדיו כיכר FM)",
+      "link": "https://www.kikar.co.il/kikar-scoop-news/tojq4f",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/jordan-church-attack-death-sentence-three-terroris",
+      "title": "בקרוב אצלנו? תוך פחות מחודש - ירדן גזרה עונש מוות על שלושה מחבלים",
+      "summary": "תוך פחות מחודש מאז הפיגוע, בית המשפט לביטחון המדינה הרשיע שלושה מחבלים בביצוע פעולות טרור | תשעה נרצחו במתקפה חריגה נגד המיעוט הנוצרי | גזר הדין כפוף לערעור (חדשות)",
+      "link": "https://www.kikar.co.il/news/jordan-church-attack-death-sentence-three-terroris",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T13:52:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/bennett-eisenkot-yachad-likud-coalition-talks",
+      "title": "פגישת אנשי איזנקוט ונתניהו מתרחבת: זה הנציג שיצטרף מטעם בנט",
+      "summary": "צוותי המשא ומתן ייפגשו היום • טרופר והורוביץ מטעם איזנקוט, כץ וראבילו מטעם הליכוד | הוחלט לצרף גם את נציגו של בנט - שלום שלמה (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/bennett-eisenkot-yachad-likud-coalition-talks",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-15T13:50:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hk00gmnpafe",
+      "title": "מנכ\"ל עוצמה יהודית נחקר בחשד לתקיפת שוטר בהתנחלות",
+      "summary": "בעקבות מעורבתו בתקרית במצפה יריחו בחודש שעבר הגיע איתיאל ניימן למשרדי יאח\"ה. בפרשה חשוד גם ח\"כ יצחק קרויזר. הם מכחישים את המיוחס להם",
+      "link": "https://www.ynet.co.il/news/article/hk00gmnpafe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T13:47:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388665",
+      "title": "סיגד של שייכות, מציאות של הדרה",
+      "summary": "החברה הישראלית למדה לחבק את מסורת הסיגד, אבל עדיין מתקשה לזכות באמון. מחקר חדש חושף את הפער בין תחושת השייכות והשותפות בימי מלחמה וטרור, לבין חוויית ההדרה מול המוסדות האזרחיים ורשויות החוק",
+      "link": "https://www.maariv.co.il/news/opinions/article-1388665",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-15T13:47:42.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388657",
       "title": "העסק כבר היה יעד לפגיעה: החשד בחקירת רצח לינא קאסם",
       "summary": "לינא קאסם, בת 51 מדאליית אל-כרמל ואם לחמישה, נרצחה בהשלכת רימון לעבר חנות ממתקים בכפר מנדא. גיסה אחמד מספר על ההכנות ליום הולדתה השני של נכדתה ועל בעלה שנפצע. מעצרם של ארבעת החשודים הוארך",
@@ -48,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-15T13:43:12.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383961483",
+      "title": "ממשלת אחדות עם נתניהו? בתנאי אחד - או שזו תרמית פירמידה",
+      "summary": "כל מי שהפקיד את עתידו הפוליטי בידי נתניהו אי פעם, מחפש אותו עד עכשיו ומעטים שרדו כדי לספר. תשאלו את גנץ. ואת מופז. אפילו את הרצוג",
+      "link": "https://www.walla.co.il/news/opinions/383961483",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-15T13:41:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388660",
@@ -408,6 +462,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T12:41:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjs5vfwrfg",
+      "title": "התנאים של איזנקוט - ואלה של נתניהו: המו\"מ לאחדות נפתח, גם בנט שלח נציג",
+      "summary": "נציגי ישר, ביחד והליכוד ייפגשו לראשונה מאז הבחירות במלון בהרצליה וידונו בתנאים לממשלת אחדות. הסתירה: גם איזנקוט וגם נתניהו לא מוכנים להקים ממשלה כשהשני עומד בראשה, ושניהם גם פוסלים לפי שעה רוטציה. פריצת דרך? אולי בפגישה אישית. פרסום ראשון: מזכיר הממשלה לשעבר ישתתף מטעם בנט",
+      "link": "https://www.ynet.co.il/news/article/sjs5vfwrfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-15T12:39:58.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjs5vfwrfg",
@@ -27156,195 +27219,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-10T14:04:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21822603",
-      "title": "ב-14 מיליון שקלים: האצטדיון החדש שיחנך בדרום הארץ",
-      "summary": "אצטדיון קלור החדש, הכולל כ-300 מקומות ישיבה, עתיד לשמש כבית משודרג עבור קבוצת הפועל ירוחם ומחלקות הנוער והילדים של המועדון • טקס החנוכה ייערך במעמד ראש המועצה עו\"ד נילי אהרון ושר התרבות והספורט מיקי זוהר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21822603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T14:00:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/toagzm",
-      "title": "געגועים לרבי יענקל'ה; זקני החסידים העלו זכרונות הוד מהצדיק הפלאי",
-      "summary": "כלל חסידי פשעווארסק מרחבי הארץ התכנסו למסיבת מלווה מלכה לציון יום ההילולא של הרה\"ק רבי יעקב מפשעווארסק זי\"ע • זקני וחשובי החסידים שחיו באנטוורפן התכנסו לפאנל מרתק והעלו זיכרונות הוד על דמותו המופלאה (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/toagzm",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T14:00:10.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "נתניהו תוקף: \"עם המפלגות הערביות אתם רוצים להקים ממשלה?\"",
-      "summary": "איזנקוט השיג רוב להחלפת יו\"ר הכנסת, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא אמר כי יש להימנע מבחירות חוזרות; בן גביר לג'בארין: \"למי אתה נשבע, לחמאס?\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "בנט התפרץ לדברי נתניהו: \"מה עם היועצים הקטאריים שלך?\"",
-      "summary": "איזנקוט השיג רוב להחלפת יו\"ר הכנסת, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא אמר כי יש להימנע מבחירות חוזרות; בן גביר לג'בארין: \"למי אתה נשבע, לחמאס?\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "ח\"כים של המשותפת יצאו בזמן התקווה; עבאס נשאר לעמוד",
-      "summary": "איזנקוט השיג רוב להחלפת יו\"ר הכנסת, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא אמר כי יש להימנע מבחירות חוזרות; בן גביר לג'בארין: \"למי אתה נשבע, לחמאס?\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "ח\"כים של המשותפת יצאו בזמן שירת התקווה | עבאס נשאר לעמוד",
-      "summary": "איזנקוט השיג רוב להחלפת יו\"ר הכנסת, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא אמר כי יש להימנע מבחירות חוזרות | בן גביר לג'בארין: \"למי אתה נשבע, לחמאס?\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "השבעת הכנסת | מהומה במליאה: ג'בארין הושבע, בן גביר התפרץ",
-      "summary": "חברי הכנסת התקבלו בפרחים וברכות. במקביל, איזנקוט השיג רוב להחלפת אוחנה, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא הוסיף כי \"יש להימנע מבחירות חוזרות\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383960788",
-      "title": "הכנסת יוצאת לדרך | הרצוג: \"על הכנסת הזו למצות את ימיה\"",
-      "summary": "חברי הכנסת התקבלו בפרחים וברכות. במקביל, איזנקוט השיג רוב להחלפת אוחנה, וש\"ס הכחישה מגעים עם גוש השינוי. הנשיא הוסיף כי \"יש להימנע מבחירות חוזרות\"",
-      "link": "https://www.walla.co.il/news/politics/383960788",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21822726",
-      "title": "השתמש במידע ביטחוני לקידום פוליטי: הפסיקה נגד ראש עיריית רמת גן",
-      "summary": "השופט נעם סולברג קיבל את הערר שהגיש חבר מועצת רמת גן ליעד אילני נגד ראש העיר כרמל שאמה הכהן, והורה לסגור את קבוצות הוואטסאפ שבהן שולבו עדכוני חירום ותעמולת בחירות • שאמה הכהן חויב לשלם ליריבו הפוליטי 18 אלף שקלים בהוצאות משפט • סולברג מתח ביקורת על הפרת ההוראות שניתנו בעבר: \"יש מקום להחמרה, לא להקלה\"",
-      "link": "https://www.israelhayom.co.il/news/law/article/21822726",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T13:59:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-evacuates-13-aircraft-uk-iran-threat",
-      "title": "טראמפ רועד: פינוי דרמטי חדש של מטוסי צבא בבריטניה - בגלל איום איראני",
-      "summary": "10 מטוסי תדלוק ושלושה מטוסי אוספריי הועברו מבסיס בבריטניה לאחר איום איראני קונקרטי | כל זה מתרחש בזמן שאיראן וארה\"ב מקיימות שיחות עקיפות דרך קטאר | רמת הכוננות הועלתה לרמה גבוהה | המהלך השני בתוך חודש (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-evacuates-13-aircraft-uk-iran-threat",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T13:56:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1urbtlcfe",
-      "title": "עם ההורים והילדים: החגיגה על \"השטיח הכחול\" בכנסת, לפני ההשבעה | הקולות והתמונות",
-      "summary": "הכנסת לובשת חג, בזמן הפלונטר הפוליטי: בעוד שהמו\"מ האינטנסיבי על הקמת הממשלה נמשך, הכניסה למשכן הכנסת הפכה למתחם \"אוסקר\" חגיגי. חברי כנסת נכנסו מלווים ביקיריהם, קיבלו תעודת ח\"כ - וחזרו רק על חלק מההבטחות: \"זה יום מרגש\". גם האח אלי שרעבי והאמא הגאה מרים פרץ הגיעו: \"אני מתפללת לאחדות\"",
-      "link": "https://www.ynet.co.il/news/article/s1urbtlcfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T13:56:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/shas-statement-yaakov-asher-no-talks-change-bloc",
-      "title": "דרעי VS יעקב אשר: \"לא נשוחח עם גוש השינוי, נמשיך לתמוך ברה\"מ נתניהו\"",
-      "summary": "המפלגה מבהירה שהמליצה על נתניהו בהוראת מועצת חכמי התורה • \"ממשיכים לתמוך בנתניהו ולא מנהלים משא ומתן עם שום גורם אחר\" | התגובה להתבטאויות יו\"ר יהדות התורה (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/shas-statement-yaakov-asher-no-talks-change-bloc",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T13:56:38.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960852",
-      "title": "טירוף בגרמניה: כאוס ושוטרים פצועים בגלל שווארמה באירו אחד",
-      "summary": "כוחות משטרה גדולים הוזעקו למקום והותקפו באבנים ובקבוקים לאחר שמאות לקוחות התפרעו מחוץ לחנות",
-      "link": "https://www.walla.co.il/news/world/383960852",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T13:56:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960852",
-      "title": "מהומות בדורטמונד: המון הסתער על מבצע שווארמה באירו אחד",
-      "summary": "כוחות משטרה גדולים הוזעקו למקום והותקפו באבנים ובקבוקים לאחר שמאות לקוחות התפרעו מחוץ לחנות",
-      "link": "https://www.walla.co.il/news/world/383960852",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T13:56:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21822510",
-      "title": "שחקן מכבי תל אביב חוטף: \"אחת האכזבות הגדולות של העונה\"",
-      "summary": "דווקא אחרי המשחק הטוב ביותר שלו, קיטון וולאס סומן באירופה: \"הבטיח הרבה ולא הציע דבר, עוד הוכחה שהחתמה מה-NBA אינה ערובה להצלחה\" • הרכז עצמו שלח מסר למבקרים אחרי שכיכב בקאמבק מול הפועל: \"לא מקשיב ולא מתייחס, יודע מה אני שווה\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21822510",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T13:56:17.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b11wsfxamg",
-      "title": "תיעוד מטריד מארה\"ב: עלו באש בתוך מעגל צופים של אחוות סטודנטים",
-      "summary": "בסרטון מאוהיו נראים שני צעירים, הקשורים לפי הערכות לאחוות \"סיגמא אלפא אפסילון\", מתרוצצים בבהלה כשבגדיהם עולים באש וכשמסביבם צעירים רבים - שחלקם צוחקים וחלקם מנסים לסייע. הם פונו ברכב פרטי לבית חולים עם כוויות, למשטרה האירוע נודע רק יום לאחר מכן, בגלל הסרטון שהפך לוויראלי. נסיבות האירוע טרם ברורות, בעבר תוארה האחווה כ\"קטלנית\" בגלל טקסי חניכה מסוכנים",
-      "link": "https://www.ynet.co.il/news/article/b11wsfxamg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-10T13:52:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/hegseth-impeachment-response-not-worried",
-      "title": "הגסת' על הגריל - ומגיב לראשונה בקולו לכתב האישום הדרמטי",
-      "summary": "שר המלחמה האמריקני התייחס בתדריך לניסיון ההדחה הצפוי כנגדו לאחר שהוביל את המלחמה באיראן והתבוסה בבחירות האמצע | שמונה סעיפי אישום הוגשו נגדו בקונגרס | \"הייתי עושה זאת שוב מחר\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/hegseth-impeachment-response-not-worried",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-10T13:48:43.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875736",
-      "title": "ירוק בירושלים ובתל אביב: הבורסה חוגגת את השבעת הכנסת",
-      "summary": "ברקע פתיחת הכנסת ה-26: מדד ת\"א-35 מטפס ב-1.2%, מדד ת\"א-125 מוסיף 1% לערכו ומדד ת\"א-90 מתחזק ב-0.4%",
-      "link": "https://finance.walla.co.il/item/3875736",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T13:47:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875736",
-      "title": "יום השבעת הכנסת: עליות שערים בבורסה בת\"א",
-      "summary": "ברקע פתיחת הכנסת ה-26: מדד ת\"א-35 מטפס ב-1.2%, מדד ת\"א-125 מוסיף 1% לערכו ומדד ת\"א-90 מתחזק ב-0.4%",
-      "link": "https://finance.walla.co.il/item/3875736",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-10T13:47:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21822679",
-      "title": "אילת עולה לגובה: 487 דירות חדשות יחליפו שיכונים ישנים בשכונת הערבה",
-      "summary": "המהפכה העירונית באילת צוברת תאוצה: הוועדה המחוזית דרום החליטה להפקיד תוכנית נוספת לפינוי-בינוי, שבמסגרתה ייהרסו 162 דירות ישנות ובמקומן יוקמו בנייני מגורים ומגדלים עד 29 קומות",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21822679",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T13:46:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21822587",
-      "title": "משתתף \"האח הגדול\" הלך לעולמו בגיל 54",
-      "summary": "אופיר לוי, שהשתתף בעונה ה-11 של תוכנית הריאליטי, חשף את מחלתו שממנה נפטר רק לאחר הדחתו • הוא הותיר אחריו שלושה ילדים",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21822587",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-10T13:46:03.000Z"
     }
   ]
 }
