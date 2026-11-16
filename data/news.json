@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:01:10.250Z",
+  "updatedAt": "2026-11-16T11:16:04.297Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1389021",
+      "title": "כולם צפרו לנהג בן ה-91: רק אחד הבין מה באמת קרה",
+      "summary": "נהגים באוסטרליה הבחינו במכונית שסטתה בין נתיבים והתקרבה לצומת עמוס, אך במקום להתרחק, נהג טנדר החליט להתנגש בה בכוונה. הסיפור הסתיים במפגש מרגש בבית החולים",
+      "link": "https://www.maariv.co.il/news/viral/article-1389021",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-16T11:10:21.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s153zudamx",
+      "title": "שיבח את חמאס ואת נסראללה: כרוז בני סכנין לשעבר הורשע בהזדהות עם ארגון טרור",
+      "summary": "העיתונאי סעיד חסאנין, שכינה את יחס חמאס לחטופים \"אנושי\" וטען ש\"אף אחד לא הכריח\" את עומר שם טוב לנשק את שוביו, הורשע גם במגע עם סוכן חוץ. לטענתו השמיע \"פרשנות עיתונאית\", השופט: \"אלו קביעות ערכיות\". על נסראללה אמר ש\"האמין בצדק\", והורשע גם בהשמדת ראיה: \"השליך את הטלפון לנהר\"",
+      "link": "https://www.ynet.co.il/news/article/s153zudamx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T11:09:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21862196",
+      "title": "חברי כנסת דורשים דיון דחוף בחשדות לזיוף הבחירות: \"לא יקברו את הסיפור\"",
+      "summary": "שישה ח\"כים מבקשים לכנס את ועדת חוץ וביטחון ולזמן את ראש שב\"כ זיני, בעקבות החשדות למעורבות מדינות אויב בהטיית הבחירות • לימור סון הר-מלך: \"במקום חקירה יסודית אנחנו שומעים על מגבלות שמוטלות על גורמי החקירה. דורשים תשובות ברורות גם על חלקה של היועצת המשפטית לממשלה\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21862196",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T11:06:40.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389022",
+      "title": "20 דולר התאדו בתוך 72 שעות: הסיפור המוזר של שוק הנפט | עמית יגור",
+      "summary": "הפוך מהדיווחים: הסוכנות העולמית לאנרגיה קבעה כי באוקטובר היה עודף של נפט בשוק העולמי - האם זה היה עוד מרכיב במלחמת התודעה שיועד להשפיע על תוצאות בחירות האמצע בארה\"ב?",
+      "link": "https://www.maariv.co.il/news/opinions/article-1389022",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-16T11:03:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/committee-chair-declared-halt-budgets-mk-asher-nice-opening",
+      "title": "יעקב אשר התעמת עם יו\"ר ועדת הכספים: \"לא מתחילים באיום מרוח בשמן זית\"",
+      "summary": "לירן אבישר בן חורין הכריזה בנאום הבכורה על \"מהפכת המשרתים\" • יעקב אשר מיהדות התורה השיב בעקיצה | הבטחה להקפדה על ניגוד עניינים (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/committee-chair-declared-halt-budgets-mk-asher-nice-opening",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T11:01:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/hungary-orban-corruption-cash-scandal",
+      "title": "20 מיליון דולר קבורים ביערות: אוצר בלתי נתפס בפרשת שחיתות",
+      "summary": "20 מיליון אירו במזומן נמצאו קבורים ביערות, מוחבאים במחסנים ובכספות מסתוריות ברחבי הונגריה | החקירה מובילה לשר לשעבר מממשלתו של ויקטור אורבן, החשוד בקבלת שוחד בהיקפים עצומים במסגרת עסקאות עם חברת תחבורה ממשלתית (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/hungary-orban-corruption-cash-scandal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T10:59:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/hungary-orban-corruption-cash-scandal",
       "title": "20 מיליון דולר קבורים ביערות: האוצר הבלתי נתפס נחשף בפרשת שחיתות",
       "summary": "20 מיליון אירו במזומן נמצאו קבורים ביערות, מוחבאים במחסנים ובכספות מסתוריות ברחבי הונגריה | החקירה מובילה לשר לשעבר מממשלתו של ויקטור אורבן, החשוד בקבלת שוחד בהיקפים עצומים במסגרת עסקאות עם חברת תחבורה ממשלתית (חדשות בעולם)",
@@ -39,6 +93,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T10:59:51.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876450",
+      "title": "יש חיים מחוץ ליקום אבדיה: הישראלים שמרשימים ומאכזבים ב-NBA",
+      "summary": "יש חיים מחוץ ליקום אבדיה: הישראלים שמרשימים ומאכזבים ב-NBA",
+      "link": "https://sports.walla.co.il/item/3876450",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T10:59:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21862043",
+      "title": "ארבעת השחקנים שעשויים לעזוב את בית\"ר ירושלים בינואר",
+      "summary": "ישראלים שנדחקו לשולי הרוטציה של אלמוג כהן יחפשו הזדמנויות אחרות לדקות משחק, בהם אחד מכוכבי המוקדמות באירופה • זו העמדה של בית\"ר לגביהם",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21862043",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T10:56:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21862041",
+      "title": "כוכב הענק על הרשעתו בתקיפה מינית: \"מקבל את גזר הדין\"",
+      "summary": "השחקן בן ה-77 הודיע כי הוא מקבל את הכרעת בית המשפט והתנצל בפני הנשים שנפגעו • ההרשעה בתקיפה מינית הפכה למוחלטת, אך במקביל מתנהל הליך משפטי נוסף",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21862041",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T10:56:11.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21861739",
@@ -57,6 +138,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T10:49:32.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/psychology/383961539",
+      "title": "מה קרה לדניאל עמית ולליאור מארס? תסמונת נפש המשפיענית",
+      "summary": "דניאל עמית וליאור מארס, מהמשפיעניות המוכרות בישראל, סיפרו על חרדה קשה ולקחו פסק זמן. פסיכולוג רפואי מסביר מה קורה כשהחיים הופכים לתוכן, ואיך מציבים גבולות ברשת",
+      "link": "https://www.walla.co.il/healthy/psychology/383961539",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T10:49:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21862111",
@@ -111,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T10:39:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjcjcloazg",
+      "title": "שרה נתניהו לא שילמה, יאיר גולן ביקש תיק בהוצאה לפועל: \"פנינו שוב ושוב\"",
+      "summary": "יו\"ר הדמוקרטים דורש תשלום הוצאות משפט בסך 2,000 שקלים שנשפטו לזכותו. גולן תובע את נתניהו על 2.55 מיליון שקלים בגין הטענות שהשמיעה, לפיהן היה \"מלובש ומוכן השכם בבוקר\" ב-7 באוקטובר",
+      "link": "https://www.ynet.co.il/news/article/sjcjcloazg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T10:37:11.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjcjcloazg",
@@ -273,6 +372,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T10:12:49.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961622",
+      "title": "המקור בלשכת נתניהו נחשף; המשטרה תבדוק את עצמה",
+      "summary": "המפכ\"ל הטיל על סגנו לבדוק את תהליכי קבלת ההחלטות ושרשרת הדיווח סביב מעורבות נתניהו בחקירת פעילי רע\"מ - ששוחררו. הממצאים יוגשו בתוך שבוע",
+      "link": "https://www.walla.co.il/news/israel/383961622",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T10:11:49.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383961622",
@@ -615,6 +723,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T09:29:01.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383961606",
+      "title": "\"שהספרדים ילמדו אצל ספרדים\": כן, זה נאמר אמש בפריים טיים",
+      "summary": "חיפשו שידך ומצאו גזענות: השד העדתי תמיד נכח ב\"ווארט\", אבל רק אתמול יצא מהבקבוק. השדכנים נבהלו מהמצלמות, ומי שניסתה לטאטא את האפליה מתחת לשטיח סיפקה בעצמה את הרגע המכוער ביותר של הפרק",
+      "link": "https://www.walla.co.il/entertainment/tv/383961606",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T09:28:36.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21861107",
@@ -27408,105 +27525,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-11T11:17:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21828612",
-      "title": "המכתב של טראמפ לביידן נחשף: \"אתה נאמן לעם, תשנה את ההיסטוריה\"",
-      "summary": "בספרו החדש, \"הבטיחי לי, אמריקה\", חשף הנשיא ה-46 את מכתב הפרידה שהשאיר לו דונלד טראמפ בחדר הסגלגל • למרות האיבה והחרם על טקס ההשבעה, הנשיא היוצא דאז כתב בטושים השחורים המזוהים עמו שלל מחמאות חמות • ביידן לא חסך מטראמפ ביקורת: \"הוביל מרד, זה ירדוף אותו לקבר\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21828612",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T11:15:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1387364",
-      "title": "לא רק מחלות: צה\"ל בולם את הניסיון של חמאס לבצע \"קמפיין חורף\"",
-      "summary": "מחשש להתפרצות מגפות בעזה: ישראל תאפשר לאו\"ם לתקן תשתיות ברצועה | במקביל, צה״ל אפשר לאחרונה הכנסה לעזה של ציוד רב לחורף גם כדי למנוע מחמאס לבצע את הקמפיין התודעתי שלו",
-      "link": "https://www.maariv.co.il/news/military/article-1387364",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T11:15:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21828779",
-      "title": "יוסי שטרית על אסף גרניט: \"הוא משוגע לגמרי\"",
-      "summary": "שופט מאסטר שף החדש חושף את מאחורי הקלעים של עזיבת ערוץ 13 • הוא מסביר מדוע ברח מהאינטריגות והתחרותיות המתישה וגם מודה שההחלטה הייתה \"ביזנס נטו\" • בנוסף הוא מדבר על התחרותיות שהתישה אותו בפורמט הקודם",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21828779",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T11:13:56.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383960985",
-      "title": "העונש המזעזע בסעודיה לאם שילדה מחוץ לנישואים",
-      "summary": "עובדת זרה מקניה נידונה לעונש מלקות לאחר שילדה בן מחוץ לנישואים. אביו של התינוק עזב את המדינה, והיא נותרה לבדה. הפרשה מעוררת ביקורת חריפה על הרפורמות שמקדם יורש העצר בתחום זכויות הנשים",
-      "link": "https://www.walla.co.il/news/world/383960985",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T11:10:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21828647",
-      "title": "מאיה ורטהיימר על בעלה אסף: \"מגלה נורה אדומה\"",
-      "summary": "מנחת \"אהבה חדשה\" ואישתו של סגן ראש עיריית תל אביב אסף זמיר, פצחה בסצנה קנאה בה סיפרה על נורות אדומות שדולקות לה בקשר לאיש שלצדה. \"הרבה יותר קשה לי עם זה\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21828647",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T11:09:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/toc3w9",
-      "title": "לרגל חזרת היישוב היהודי ליריחו: כיצד כותבים \"יריחו\" בכתובה?",
-      "summary": "עם חזרת היישוב היהודי ליריחו והאפשרות שבקרוב יערכו שם גם חופות, ישראל שפירא עוסק כבר עכשיו בשאלה מעניינת: כיצד יש לכתוב את שם העיר בכתובה? (היסטוריה)",
-      "link": "https://www.kikar.co.il/israel-news/toc3w9",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T11:05:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/bagatz-petitions-rabbinical-courts-yechin-institut",
-      "title": "אלו שלושת החוקים החשובים שעיצבו את סמכויות בתי הדין והרבנות ועומדים כעת במבחן בג\"ץ",
-      "summary": "שלושה הסדרים שאישרה הכנסת היוצאת עומדים לבחינה • מזונות ילדים, בוררות והרכב האספה הבוחרת במוקד | מכון יכין: הכנסת הבהירה עמדתה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/bagatz-petitions-rabbinical-courts-yechin-institut",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T11:04:35.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1387360",
-      "title": "איים לרצוח את אשתו והשליך לעברה בקבוק יין: פרטים חדשים על הפרשה החמורה בבני ברק",
-      "summary": "תושב בני ברק בן 51 נאשם כי תקף את אשתו בכמה הזדמנויות ואיים לרצוח אותה. דיווח למוקד המשטרה הוביל למעצרו ולחקירת המקרים, וכעת התביעה מבקשת להותירו במעצר עד תום ההליכים",
-      "link": "https://www.maariv.co.il/news/law/article-1387360",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T11:04:20.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3875855",
-      "title": "\"זנאי אלים ועבריין\": המתקפה הקשה נגד בוי ג'ורג'",
-      "summary": "לאחר שביקרה בחריפות את ההופעה של הזמר בוי ג'ורג' וזכתה לתגובה עוקצנית ממנו, פעילת המחאה מורן מישל יוצאת למתקפה נוספת נגדו: \"מי החליט שהגיוני להפוך עבריין מין אלים לקצין הסברה ראשי לישראל ולשים אותו ב",
-      "link": "https://celebs.walla.co.il/item/3875855",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T11:04:00.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3875855",
-      "title": "הפוליטיקאית במתקפה על בוי ג'ורג': \"זנאי אלים ועבריין מורשע\"",
-      "summary": "לאחר שביקרה בחריפות את ההופעה של הזמר בוי ג'ורג' וזכתה לתגובה עוקצנית ממנו, פעילת המחאה מורן מישל יוצאת למתקפה נוספת נגדו: \"מי החליט שהגיוני להפוך עבריין מין אלים לקצין הסברה ראשי לישראל ולשים אותו ב",
-      "link": "https://celebs.walla.co.il/item/3875855",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T11:04:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21827911",
-      "title": "בול כמו במקדונלד'ס: כך תכינו בבית את הנאגטס האגדיים",
-      "summary": "הציפוי הזהוב, העוף הרך והטעם המוכר שקשה לעמוד בפניו • מתכון ביתי לנאגטס בהשראת מקדונלד'ס, עם עוף טחון, בלילה קרה ומרכיב פשוט שעוזר ליצור מעטפת פריכה במיוחד • ויש גם טריק קטן לעיצוב הצורות המוכרות",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21827911",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T11:03:03.000Z"
     }
   ]
 }
