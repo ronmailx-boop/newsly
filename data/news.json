@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T14:30:59.846Z",
+  "updatedAt": "2026-11-16T14:45:59.920Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1389123",
+      "title": "שוד האוצר הגדול של חיזבאללה: מאות מיליונים נגנבו מהשכנה של איראן",
+      "summary": "מיליציה פרו-איראנית חזקה בעיראק עומדת במוקד חקירת הברחות נפט מהמדינה בשווי מאות מיליוני דולרים. תשעה בכירים כבר פוטרו, ובבגדד נערכים לעימות שעלול לערער את היציבות במדינה. הארגון מכחיש את ההאשמות",
+      "link": "https://www.maariv.co.il/news/world/article-1389123",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-16T14:44:25.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1pzzq00rml",
+      "title": "\"המקור המודיעיני\" ששימש כיועץ בלשכה, וטענת נתניהו: איזנקוט משתמש בפרשה לסיכול אחדות",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/b1pzzq00rml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T14:39:22.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tolm9e",
+      "title": "צַדִּיק בָּא לָעִיר | האדמו\"ר רבי דוד אבוחצירא בביקור הוד באלעד",
+      "summary": "מתוך התרגשות דקדושה קידמו המוני תושבי אלעד את פני האדמו\"רים רבי דוד ורבי ברוך אבוחצירא, שהופיעו בעיר לרגל מעמד 'הכנסת ספר תורה' אל היכל ישיבת 'תורת דוד' | האדמו\"רים נשאו דברי חיזוק והדרכה לפני תלמידי הישיבה | יעקב כהן מגיש גלריה (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tolm9e",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T14:34:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389122",
+      "title": "הלחץ על אליסף פרץ ושירה שפירא גובר: \"אתם מעדיפים את יוסף ג'בארין?\"",
+      "summary": "סמוטריץ' החריף את הביקורת על כהנא, והבהיר כי מבחינתו תמיכתן של המפלגות הערביות במינויו ליו\"ר הכנסת היא חציית קו אדום: \"להתמנות לתפקיד יו\"ר כנסת ישראל, בקולותיהם של תומכי טרור זה לא לגיטמי\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1389122",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-16T14:33:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
+      "title": "אדל פיש: \"יש לי הרבה מה להגיד על הפרק האחרון של ווארט\"",
+      "summary": "אחרי הפרק האחרון, כוכבת ריאליטי השידוכים לא נשארה חייבת והיא טוענת שמאחורי מה שנאמר מול המצלמה עומד משהו אחר: \"תוכן לרכילות ואינטרס אחד גדול\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:26:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21864286",
+      "title": "\"שוקלים, משלמים, חוסכים\": חנות הסטוק שמוכרת מוצרים - לפי משקל",
+      "summary": "קונספט חדשני מאירופה נחת בנתניה: במקום תמחור ליחידה, בחנות החדשה \"Stockok\" משלמים לפי מדרגות של 39 עד 129 שקלים לקילו על כלי בית, ציוד גינה ומוצרי חשמל קטנים • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21864286",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:22:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/abbas-supports-haredim-coalition-opposition-warns-eisenkot",
       "title": "עבאס תומך בצירוף החרדים; גולן מזהיר את איזנקוט מנתניהו",
       "summary": "ליברמן הבהיר בכנסת כי יגיע להסדר עם המפלגות החרדיות • גולן קרא לאיזנקוט להימנע מממשלה עם נתניהו | עבאס: \"אין לנו עמדה נגד הניסיון להביא את החרדים\" (בארץ)",
@@ -39,6 +93,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T14:19:57.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21863458",
+      "title": "האם המועמד שמכעיס את סין ינצח בבחירות?",
+      "summary": "הבחירות לראשות עיריית טאיפיי מסתמנות כצמודות מהצפוי: פומה שן, מועמד המפלגה הדמוקרטית הפרוגרסיבית, מצמצם את הפער מול ראש העיר המכהן צ'יאנג ואן-אן, איש מפלגת הקוומינטנג (KMT) המזוהה עם קו מתון יותר כלפי סין • שן, שנמצא תחת חקירה בסין בחשד ל\"פעילות בדלנית\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21863458",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:17:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21864328",
+      "title": "\"כולכם תגיעו לכלא\": חברת הכנסת הובילה סיור ביבנאל - וספגה גידופים",
+      "summary": "ח\"כ מירב כהן, יו\"ר הוועדה לקידום מעמד האישה, סיירה עם יותר מ-40 משתתפים בנקודות שבהן, לדבריה, מתבצעות פגיעות מיניות בקהילה • חברי הקהילה התקרבו אל המשתתפים, קיללו אותם ואף כינן את כהן \"כלבה\" • לפי נתוני משרד הבריאות, נרשמו ביישוב 95 לידות חי של קטינות בין 2000 ל-2025 • בסיום הסיור הוחלט להקים פורום רחב למאבק בכת",
+      "link": "https://www.israelhayom.co.il/news/local/article/21864328",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:16:46.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961667",
@@ -57,6 +129,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T14:12:53.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/skddqtoafg",
+      "title": "תושב הצפון נאשם: התחזה לשוטר, עצר נהגת בצד - ואיים באונס",
+      "summary": "אסמאעיל עודתאללה, תושב עילוט, מואשם שעקב אחרי המתלוננת, הפעיל ברכבו אורות כחולים מהבהבים הנחזים לכאלו שיש למשטרה, והורה לה לעצור. הוא טען שביצעה עבירות תנועה ודרש ממנה לקיים עימו יחסי מין כדי שלא ייתן לה דוח",
+      "link": "https://www.ynet.co.il/news/article/skddqtoafg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T14:11:46.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skddqtoafg",
@@ -2964,6 +3045,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-16T07:48:24.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3876410",
+      "title": "הר של קצפת אוורירית: טעמנו את הסופגניות החדשות של מילקי",
+      "summary": "קופסה סגולה ומסתורית נחתה אצלנו במערכת, ובתוכה שיתוף הפעולה ההיסטרי של חנוכה: סופגניות של ביסקוטי ומילקי שמשלבות את טעמי הילדות בתוך בצק רק ואוורירי. ממילקי עדשים ועד סופגניית טירמיסו מטורפת: קבלו א",
+      "link": "https://food.walla.co.il/item/3876410",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T07:48:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21859989",
@@ -27624,42 +27714,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T14:46:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21830806",
-      "title": "תעלומה בפורטוגל: התיירת אמילי נעדרת כבר חמישה ימים",
-      "summary": "חמישה ימים חלפו מאז נראתה אמילי בת ה־38 עוזבת את המלון שבו שהתה • כעת חברתה חושפת את הפרטים האחרונים הידועים ומבקשת עזרה באיתורה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21830806",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T14:45:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/worker-rescued-10-meter-pit-yehud",
-      "title": "פועל נפל לבור בעומק של עשרה מטרים במרכז הארץ וחולץ בשלום • צפו",
-      "summary": "פועל נפל לבור בעומק כ-10 מטרים ברחוב מוהליבר ביהוד • מחלצי יחידת להבה ביצעו חילוץ מורכב דרך גרם המדרגות | הפועל פונה במצב בינוני (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/worker-rescued-10-meter-pit-yehud",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T14:43:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-threatens-us-bases-europe-rezaei-warning",
-      "title": "איראן מאיימת: \"נתקוף בסיסים אמריקניים באירופה אם ייצאו מהם תקיפות\"",
-      "summary": "מזכיר המועצה לביטחון לאומי שיגר אזהרה חריפה לוושינגטון ולמדינות אירופה • \"אם מטוסים אמריקניים ימריאו מבסיסים באירופה לתקיפות באיראן - הבסיסים יותקפו\" | הסלמה במתיחות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-threatens-us-bases-europe-rezaei-warning",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T14:39:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21830767",
-      "title": "ברצלונה בהצעה חריגה: לשלם כדי להיקבר ליד אגדה - זה המחיר",
-      "summary": "המועדון יאפשר לאוהדיו לשמור את אפרם במתחם הנצחה מיוחד באצטדיון • המחירים מתחילים באלפי אירו, וניתן לשלם גם עבור הנצחה לצד אגדות המועדון",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21830767",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T14:34:26.000Z"
     }
   ]
 }
