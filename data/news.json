@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:46:16.007Z",
+  "updatedAt": "2026-11-16T18:01:26.456Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-five-hamas-terrorists-jabaliya-octo",
+      "title": "חמישה מחבלי חמאס חוסלו: אחד מהם פשט לישראל ב-7 באוקטובר | תיעוד",
+      "summary": "כוחות צה\"ל תקפו במרחב ג'באליה וחיסלו מפקדי מחלקות וראשי חוליות • אחד המחבלים השתתף בטבח 7 באוקטובר | המחבלים קידמו מתווי טרור נגד כוחותינו (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-eliminates-five-hamas-terrorists-jabaliya-octo",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T17:55:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
+      "title": "אחרי רה\"מ ושורת בכירים: איזנקוט הגיע הערב לאוהל של חבר הכנסת אלישע מדן מהליכוד",
+      "summary": "איילת חריב ואלה פרי הגיעו לאוהל של ח\"כ אלישע מדן • \"העם מפולג, צריך לחבור מקצה לקצה\" | \"אנשים שהרגו את בעלנו לא יכולים להיות בממשלה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T17:52:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/teufa/ronen-elad-arkia-new-owner-deal",
+      "title": "עסקת ענק בעולם התעופה: איש העסקים רונן אלעד הוא הבעלים החדש של ארקיע",
+      "summary": "הדירקטוריון אישר הערב את העברת השליטה לידי אלעד • העובדים שמרו על 15% מהמניות וקיבלו ייצוג בדירקטוריון | הזרמת הון של עשרות מיליוני דולרים (תעופה)",
+      "link": "https://www.kikar.co.il/teufa/ronen-elad-arkia-new-owner-deal",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T17:51:20.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjwbb600rzg",
+      "title": "איזנקוט הגיע ל\"מאהל האחדות\" של אלישע מדן",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/sjwbb600rzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T17:48:59.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1389188",
       "title": "בתקשורת הבריטית מנתחים: התרחיש שעשוי להפיל את נתניהו",
@@ -240,6 +276,15 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-talks-ultimatum",
+      "title": "הליכוד בהודעה חריפה וחריגה: \"דורשים מאיזנקוט וראשי הגוש לחדול מפרסום הודעות משתלחות\"",
+      "summary": "ראש הממשלה מביע זעם על ההתבטאויות האחרונות של יו\"ר ישר גדי איזנקוט ושל עוד בכירים בגוש השינוי • בהודעה עלתה דרישה להפסיק צעדים חד צדדיים בכנסת | \"לא נושיט יותר את היד לאחדות\", נמסר מטעם המפלגה | ההודעה המלאה (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-talks-ultimatum",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T16:39:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-talks-ultimatum",
       "title": "הליכוד בהודעה חריפה וחריגה: \"דורשים מאיזנקוט וראשי גוש השמאל יחדלו מפרסום הודעות משתלחות\"",
       "summary": "ראש הממשלה מביע זעם על התבטאויות יו\"ר ישר • דרישה להפסיק צעדים חד צדדיים בכנסת | \"לא נושיט יותר את היד לאחדות\", נמסר מטעם המפלגה (פוליטי מדיני)",
       "link": "https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-talks-ultimatum",
@@ -340,7 +385,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjusvqu0ml",
       "title": "קצין במשטרה סירב לעצור את פעילי רע״מ ביום הבחירות - ודרש לפגוש את המקור",
-      "summary": "חשיפה: קצין מודיעין במחוז דרום סירב לבצע את המעצרים ביום הבחירות ודרש לפגוש את המקור שעל בסיס המידע שמסר התבקשה הפעולה. לפי גורמים המעורים בחקירה, אותו מקור - דני גרינברג ששימש כיועץ בלשכת רה\"מ - גם שוחח עם ראש אגף החקירות והמודיעין. המשטרה, שתבדוק בעצמה את התנהלותה: \"הפעילות בוצעה לאחר קבלת כלל האישורים\"",
+      "summary": "חשיפה: קצין מודיעין במחוז דרום סירב לבצע את המעצרים ביום הבחירות ודרש לפגוש את המקור שעל בסיס המידע שמסר התבקשה הפעולה. לפי גורמים המעורים בחקירה, אותו מקור - דני גרינברג ששימש כיועץ בלשכת רה\"מ - גם שוחח עם ראש אגף החקירות והמודיעין. המשטרה: \"הפעילות בוצעה לאחר קבלת כלל האישורים\"",
       "link": "https://www.ynet.co.il/news/article/rjusvqu0ml",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -1020,6 +1065,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T14:32:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961670",
+      "title": "38 מדינות מזהירות: אסון גרעיני באוקראינה הוא סכנה ממשית",
+      "summary": "התקיפות הרוסיות על רשת החשמל מאיימות על מערכות הקירור של תשעה כורים פעילים ועלולות לגרום לדליפת קרינה. במקביל, מוסקבה מדווחת על מתקפת כטב\"מים חסרת תקדים, והאיחוד האירופי מטיל סנקציות חדשות",
+      "link": "https://www.walla.co.il/news/world/383961670",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T14:32:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
@@ -2442,6 +2496,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T11:35:44.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383961481",
+      "title": "לנה רודס חוזרת לפורנו - אבל לא תצטלם אפילו פעם אחת",
+      "summary": "אחרי שיצאה נגד תעשיית הפורנו וביקשה למחוק את סרטיה הישנים, הכוכבת לשעבר מצאה דרך חדשה לפנות למעריצים בלי לחשוף שוב את גופה. הפעם, היא מבטיחה, השליטה כולה בידיה",
+      "link": "https://www.walla.co.il/news/donotmiss/383961481",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T11:35:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/viral/article-1389045",
@@ -27669,87 +27732,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T18:02:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21826734",
-      "title": "אחרי הסערה: אופירה אסייג עוקצת את אילה חסון",
-      "summary": "מגישת קשת 12 הגיבה להודעתה הדרמטית של אילה חסון על עזיבת תאגיד השידור הציבורי בעקבות העימות עם ההנהלה וסערת ההתנצלות שדרשו ממנה לקרוא בשידור • אסייג לא הסתירה את הציניות והוסיפה גם אימוג'י של גלגול עיניים: \"בהצלחה בערוץ הבא\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21826734",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:59:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21826734",
-      "title": "לאחר הפרידה: אופירה אסייג עוקצת את אילה חסון",
-      "summary": "מגישת קשת 12 הגיבה להודעתה הדרמטית של אילה חסון על עזיבת תאגיד השידור הציבורי בעקבות העימות עם ההנהלה וסערת ההתנצלות שדרשו ממנה לקרוא בשידור • אסייג לא הסתירה את הציניות והוסיפה גם אימוג'י של גלגול עיניים: \"בהצלחה בערוץ הבא\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21826734",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:59:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-letter-netanyahu-transition-government-se",
-      "title": "\"גלה איפוק וזהירות, אני דורש ממך\": המכתב של איזנקוט לראש הממשלה | נתניהו: \"חסר אחריות\"",
-      "summary": "יו\"ר גוש השינוי פנה לראש הממשלה במכתב חריג - ברקע המגעים להרכבת ממשלה: \"אתה מכהן כראש ממשלת מעבר שלא זוכה עוד באמון הכנסת\" | הדרישה: איפוק וזהירות מפני \"מהלכים מסוכנים שיכולים לחכות\" | נתניהו הגיב: \"כל ההחלטות התקבלו משיקולים ביטחוניים בלבד, המכתב - חסר אחריות\" (חדשות, פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-letter-netanyahu-transition-government-se",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T17:53:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21833112",
-      "title": "\"סירבתי להחליף את הברך שלי בברך של מישהו אחר\"",
-      "summary": "כוכב טוטנהאם ונבחרת שבדיה חשף את הרגעים הקשים במהלך 526 ימי ההיעדרות מהמגרשים • על האפשרות להשתלת ברך: \"אמרתי לא. אם יכאב לי, אשחק עם הכאב\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21833112",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:52:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21833199",
-      "title": "הטענות להטיית הבחירות: סולברג אישר לליכוד לעיין בחומרי קלפיות",
-      "summary": "יו”ר ועדת הבחירות המרכזית נענה חלקית לבקשת הליכוד ואישר לבדוק בכ־190 קלפיות, בעקבות טענות להמרצת מצביעים • מנגד, דחה את הבקשה לקבל צילומים והקלטות של מפקחי טוהר הבחירות • ההחלטה מאפשרת לליכוד לאסוף ראיות לקראת ערעור אפשרי • כך תיערך הבדיקה",
-      "link": "https://www.israelhayom.co.il/news/law/article/21833199",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:50:26.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961070",
-      "title": "עבאס מכחיש בתוקף: לא הצהרתי שאכיר בחמאס כארגון טרור",
-      "summary": "יו\"ר רע\"ם הכחיש בריאיון לערוץ הלא את הדיווח שיוחס לו וקרא להסתמך על הודעות רשמיות של מפלגתו. הוא האשים את נתניהו בהסתה נגד הציבור הערבי והבהיר: \"המטרה שלנו היא להיות בעלי השפעה בתוך ממשלה וקואליציה\"",
-      "link": "https://www.walla.co.il/news/politics/383961070",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T17:49:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21833076",
-      "title": "הרמטכ\"ל בגבול המזרחי: \"נדרשים למוכנות להפתעה, גם ללא התרעה\"",
-      "summary": "על רקע בניית המכשול החדש לאורך גבול ירדן, סייר היום רב-אלוף זמיר במוצבי אוגדה 96 • \"בקעת הירדן היא חומת המגן שלנו, עלינו להקדים את האיומים\", אמר הרמטכ\"ל • כיצד מתכנן הצבא לעבות את קו ההגנה לפני היישובים",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21833076",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:49:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21832817",
-      "title": "הסוללה גמורה בבידוק? מכשיר לא טעון עלול לא לעלות לטיסה",
-      "summary": "רשויות התעופה בבריטניה מזהירות מפני כלל פחות מוכר בבידוק הביטחוני • נוסעים שלא יצליחו להפעיל מכשירים אלקטרוניים לפי דרישת אנשי הביטחון, עלולים להידרש להשאיר אותם מאחור. הסיבה קשורה גם לסיכוני הסוללות במטוסים",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21832817",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:47:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21832817",
-      "title": "ודאו שהסוללה לא גמורה: מכשיר לא טעון עלול לא לעלות לטיסה",
-      "summary": "רשויות התעופה בבריטניה מזהירות מפני כלל פחות מוכר בבידוק הביטחוני • נוסעים שלא יצליחו להפעיל מכשירים אלקטרוניים לפי דרישת אנשי הביטחון, עלולים להידרש להשאיר אותם מאחור. הסיבה קשורה גם לסיכוני הסוללות במטוסים",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21832817",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T17:47:18.000Z"
     }
   ]
 }
