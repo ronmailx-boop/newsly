@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:01:02.380Z",
+  "updatedAt": "2026-11-16T15:15:55.228Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,78 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1lryyu0gx",
+      "title": "הבקשה של אחים שכולים למתווה אקדמי מותאם: \"יש לנו זכות לכאוב\"",
+      "summary": "כ-45 אלף אחים ואחיות שכולים חיים בישראל, ורבים מהם סטודנטים ש\"נותרים שקופים\" במערכת ההשכלה הגבוהה. עמותת \"האחים שלנו\" דורשת להכיר בהם כקבוצת זכאות ולתת להם התאמות מעבר לתוספת זמן, כמו עבודות במקום מבחנים, חונכות ותמיכה רגשית",
+      "link": "https://www.ynet.co.il/news/article/s1lryyu0gx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T15:11:28.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
+      "title": "הקריאה של האלמנות מאוהל של אלישע מדן: \"לא ייתכן שתומכי טרור ישבו בממשלה\"",
+      "summary": "איילת חריב ואלה פרי הגיעו לאוהל של ח\"כ אלישע מדן • \"העם מפולג, צריך לחבור מקצה לקצה\" | \"אנשים שהרגו את בעלנו לא יכולים להיות בממשלה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T15:10:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkm89t00cfl",
+      "title": "טלגרם נחסמה בשתי מדינות במזה\"ת: \"איום על החברה והביטחון הלאומי\"",
+      "summary": "אחרי שני פיגועים קשים השלטונות בירדן חסמו את אפליקציית המסרים במטרה \"להגן על משתמשים ולטפל בתוכן לא חוקי שמקדם קיצוניות\". גם בעיראק חסמו את טלגרם, על רקע מתיחות בין הממשל למיליציות הפרו-איראניות שמסרבות להתפרק מנשקן. האולטימטום: \"30 יום להתאים את הפעילות לחוק\"",
+      "link": "https://www.ynet.co.il/news/article/bkm89t00cfl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T15:10:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/asher-yahadut-hatorah-faction-meeting-opening",
+      "title": "יעקב אשר: \"נגמרו הקמפיינים, השיימינגים, ההסתות של ציבור בציבור, ואולי עוד כמה דברים בדרך\"",
+      "summary": "יו\"ר יהדות התורה פתח את ישיבת הסיעה הראשונה לקדנציה זו והראשונה בתור יו\"ר, בהודיה על עלייתה של מפלגת יהדות התורה ב-30 אלף קולות • \"כולם הספידו אותנו, אבל זו סייעתא דשמיא\" | בנוסף הוא קרא לסיום ההסתות ו\"השיימינגים\" (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/asher-yahadut-hatorah-faction-meeting-opening",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T15:01:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/myhealth/383961658",
+      "title": "זריקות הרזיה מגיעות לילדים: כמה ירדו במשקל ומתי יגיע לישראל?",
+      "summary": "תוצאות מחקר מרשימות לזריקה וויגובי לילדים בגיל 6-12: כמעט 8 מכל 10 ילדים שקיבלו את הטיפול הפחיתו לפחות 10% ממדד מסת הגוף (BMI). כ-40% מהילדים שהשתתפו במחקר, סיימו אותו כשהם כבר לא מוגדרים עם עודף משקל",
+      "link": "https://www.walla.co.il/healthy/myhealth/383961658",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T15:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21864723",
+      "title": "פפראצי: בן זיני נתפס עם צעצוע ששווה כ-350 אלף שקלים",
+      "summary": "אחרי שתועד צמוד לדוגמנית נועה בוג, כוכב הרשת נתפס בעדשת הפפראצי עם ג'יפ רנגלר רוביקון שחור ונוצץ",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21864723",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:59:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21864827",
+      "title": "אחרי חודשים של הפסקה: יעל שלביה חוזרת למסך",
+      "summary": "הדוגמנית שהפתיעה בעונה הקודמת כשפתחה בקריירה חדשה חוזרת לעונה נוספת של תוכנית הריאליטי של קשת 12 • היא לא תופיע לצד אסי עזר ורותם סלע, אבל תיקח את הצופים אל מה שלא רואים בשידור • ומה עוד השתנה בעונה החדשה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21864827",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:59:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21863415",
+      "title": "זה יהיה יקר: הבירה האירופית מעלה את מס הלינה לתיירים",
+      "summary": "החל מינואר 2027 ישלמו המבקרים באמסטרדם מס גבוה יותר על לינה בעיר • המס חל על בתי מלון, אכסניות, בתי הארחה, דירות, בתי נופש, צימרים, השכרות לטווח קצר לתיירים ואתרי קמפינג",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21863415",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:57:45.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/91932",
       "title": "התפתחות בחקירת העלונים המאיימים שחולקו בצפון תל אביב",
       "summary": "התפתחות משמעותית נרשמה בחקירה המשותפת של השב\"כ ומשטרת מחוז תל אביב סביב חלוקת העלונים המאיימים בצפון העיר. החקירה מתנהלת במישור הביטחוני, ויתר פרטי ההתפתחות אסורים כעת בפרסום תחת צו איסור פרסום.",
@@ -39,6 +111,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T14:57:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21864493",
+      "title": "פלאפלקיני: הפלאפל עם המרכיב שלא ציפיתם לו",
+      "summary": "מבחוץ הם נראים כמו כדורי פלאפל, אבל בפנים מסתתר מרכיב שהופך אותם לרכים ועסיסיים במיוחד • לא צריך להשרות חומוס מראש, ואפשר להכין אותם בטיגון או באפייה • הכירו את הפלאפלקיני",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21864493",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:55:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21863915",
+      "title": "עם ילדים מישראל: המחקר ההיסטורי על זריקות ההרזיה - כבר מגיל 6",
+      "summary": "מחקר בינלאומי ראשון מסוגו, בהשתתפות ילדים מישראל, מצא כי זריקת וויגובי הובילה לירידה של 17.4% במדד מסת הגוף בקרב ילדים בני 6 עד 12 עם השמנה • 40% מהילדים שטופלו כבר לא הוגדרו כסובלים מהשמנה לאחר 68 שבועות • התרופה עדיין לא אושרה לשימוש מתחת לגיל 12",
+      "link": "https://www.israelhayom.co.il/health/article/21863915",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:55:29.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1389126",
@@ -68,6 +158,24 @@
       "pubDate": "2026-11-16T14:48:58.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21864730",
+      "title": "טראמפ על תרחיש מתקפת הרחפנים מאיראן: ״אם יגיעו אליי - הם יגיעו לכולם״",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21864730",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:48:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21864665",
+      "title": "הישג לטבע: אושר לראשונה טיפול ביתי בהתקפי אי־שקט בקרב חולי סכיזופרניה",
+      "summary": "ה-FDA אישר את הרחבת השימוש בתרופת IGALMI לטיפול ביתי בהתקפי אי-שקט חריפים בקרב מבוגרים עם סכיזופרניה, ללא השגחה ישירה של איש צוות רפואי • טבע רכשה את הזכויות לתרופה בעסקה של עד 125 מיליון דולר",
+      "link": "https://www.israelhayom.co.il/health/article/21864665",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:48:20.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1389129",
       "title": "המשקל לא זז, אבל המכנסיים לוחצים: הגיל שבו הגוף מתחיל דווקא להשתנות",
       "summary": "דפוסי האכילה יציבים, הרגלי החיים קבועים ואפילו יש שגרת אימונים - אבל השומן מצטבר, בעיקר סביב הבטן. האם חילוף החומרים מאט? מה חלקם של ההורמונים? המומחית לרפואה דחופה, לונג'ביטי וגיל המעבר מסבירה",
@@ -75,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-16T14:46:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21864636",
+      "title": "יממה להצבעה: סמוטריץ' \"סימן\" ח\"כים של איזנקוט, החרדים טרם הכריעו",
+      "summary": "יו\"ר הציונות הדתית תקף את מתן כהנא שסירב לתנאים שהציב על מנת שיתמוך בו לתפקיד יו\"ר הכנסת • \"בחר בערבים על פני היהודים\" • ביהדות התורה יכריעו רק מחר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21864636",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:45:13.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1389123",
@@ -95,6 +212,24 @@
       "pubDate": "2026-11-16T14:39:22.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21864554",
+      "title": "הפרקליטות עתרה לבג״ץ נגד שופטי נתניהו: \"פגיעה קשה\"",
+      "summary": "בעתירה חריגה שהוגשה על דעת היועמ״שית ופרקליט המדינה, נטען כי שופטי תיקי האלפים חרגו מסמכותם כשהגבילו את חקירתו של היועמ״ש לשעבר • בפרקליטות מדגישים כי מנדלבליט הוא עד הגנה, שכן נתניהו ביקש לזמנו • עוד נמתחת ביקורת על החלטות קודמות שהגבילו את חקירתם של עדים נוספים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21864554",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:37:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21864458",
+      "title": "ג'ניפר לופז: \"בכיתי במשך חצי שנה\"",
+      "summary": "אחרי חודשים לא פשוטים, ג'ניפר לופז מספרת על תקופה חדשה בחייה, על הבית שהשתנה ועל תחושת חופש שלא הכירה כבר שנים",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21864458",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:34:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/tolm9e",
       "title": "צַדִּיק בָּא לָעִיר | האדמו\"ר רבי דוד אבוחצירא בביקור הוד באלעד",
       "summary": "מתוך התרגשות דקדושה קידמו המוני תושבי אלעד את פני האדמו\"רים רבי דוד ורבי ברוך אבוחצירא, שהופיעו בעיר לרגל מעמד 'הכנסת ספר תורה' אל היכל ישיבת 'תורת דוד' | האדמו\"רים נשאו דברי חיזוק והדרכה לפני תלמידי הישיבה | יעקב כהן מגיש גלריה (חרדים)",
@@ -111,6 +246,33 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-16T14:33:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21864491",
+      "title": "ממדאני מפרק את היחידה שפינתה מפגינים אנטי-ישראלים בקולומביה: \"מקיים את הבטחתי\"",
+      "summary": "ראש עיריית ניו יורק הודיע על פירוק יחידת התגובה האסטרטגית של המשטרה, ששוטריה פעלו נגד מחאת האוהלים באוניברסיטה ב־2024 • במסגרת המהלך, הטיפול בהפגנות יועבר בחלקו לצוות אזרחי ללא נשק וסמכויות מעצר • איגוד השוטרים תקף: \"מוכן לסכן את ביטחונכם כדי לרצות את הבסיס הרדיקלי שלו\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21864491",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:33:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21864282",
+      "title": "2 מועמדויות לגיטריסט ישראלי בגראמי - ומולו שיאנית עם 11",
+      "summary": "גלעד הקסלמן קיבל שתי מועמדויות לגראמי 2027, ובאחת מהן יתמודד מול כמה מהשמות הגדולים בפופ העולמי • גם מתופף ישראלי שכבר זכה בפסלון נכנס לרשימה • ומי עוד הפתיע השנה, ומי נשאר בחוץ",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21864282",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:32:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
+      "title": "אדל פיש: \"יש לי מה להגיד על הפרק האחרון של ווארט\"",
+      "summary": "אחרי הפרק האחרון, כוכבת ריאליטי השידוכים לא נשארה חייבת והיא טוענת שמאחורי מה שנאמר מול המצלמה עומד משהו אחר: \"תוכן לרכילות ואינטרס אחד גדול\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T14:26:46.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21864309",
@@ -27651,69 +27813,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T15:16:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "title": "צרפת אסרה על יוסי דגן להיכנס לשטחה: \"עקב חלקו במדיניות ההתנחלויות\"",
-      "summary": "ראש מועצת שומרון אמר כי נלקח לתחקור בביקורת הדרכונים ונאמר לו כי נאסרה עליו הכניסה בשל כהונתו כראש המועצה ופעולותיו לבניית יישובים וקידום החזרה לגוש קטיף. \"גאה להיות בצד הנכון של ההיסטוריה\", אמר דגן. משרד החוץ הצרפתי: \"פעילות ההתנחלויות מנוגדת למשפט הבינ\"ל וחותרת תחת פתרון שתי המדינות\"",
-      "link": "https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T15:15:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "title": "ראש מועצת שומרון: צרפת אסרה עליי להיכנס למדינה",
-      "summary": "לפי יוסי דגן, הוא נלקח לתחקור בביקורת הדרכונים ונאמר לו כי נאסר עליו להיכנס לצרפת בשל כהונתו כראש המועצה ופעולותיו לבניית יישובים וקידום החזרה לגוש קטיף. \"גאה להיות בצד הנכון של ההיסטוריה\", אמר להם דגן. משרד החוץ הצרפתי: \"פעילות ההתנחלויות מנוגדת למשפט הבינ\"ל וחותרת תחת פתרון שתי המדינות\"",
-      "link": "https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T15:15:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "title": "ראש מועצת שומרון טוען: צרפת אסרה עליי להיכנס למדינה",
-      "summary": "לפי יוסי דגן, הוא נלקח לתחקור בביקורת הדרכונים ונאמר לו כי נאסר עליו להיכנס לצרפת בשל כהונתו כראש המועצה ופעולותיו לבניית יישובים וקידום החזרה לגוש קטיף. \"גאה להיות בצד הנכון של ההיסטוריה\", אמר להם דגן",
-      "link": "https://www.ynet.co.il/news/article/b1n00h11m0me",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T15:15:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961037",
-      "title": "החתן בין העצורים: ארבעה חשודים בהתעללות בגמל בחתונה בחברון",
-      "summary": "ארבעה תושבי חברון, בהם אב ושני בניו, נעצרו לאחר שסרטון שהופץ ברשת תיעד משתתפים בחתונה משקים גמל צעיר בכפייה ונוהגים בו באלימות. לפי המשטרה, הגמל הושקה גם במשקאות אלכוהוליים",
-      "link": "https://www.walla.co.il/news/law/383961037",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T15:08:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21831115",
-      "title": "רזאאי: \"איראן תתקיף בסיסים אמריקנים באירופה אם תותקף משם\"",
-      "summary": "מזכיר המועצה האיראנית לביטחון לאומי נשא מסר תקיף לארצות הברית והכריז כי ארצו לא תוותר על האורניום המועצר בשטחה • \"אנו זקוקים לו על מנת לבנות צוללות גרעיניות\", אמר",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21831115",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:07:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21831118",
-      "title": "כוכב \"חברים\" תחת מתקפה: \"לא רוצים ציוני בפרסומות\"",
-      "summary": "הקמפיין החדש של דיוויד שווימר הפך למוקד ביקורת מצד גולשים פרו־פלסטינים בעקבות תמיכתו בישראל • חלקם איימו לבטל רכישות ואף קראו להחרים את המותג",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21831118",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:04:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/neriah-leiter-recovery-update",
-      "title": "\"הדרך ארוכה וסבוכה\": יחיאל לייטר מעדכן במצבו של בנו - אחרי השחרור",
-      "summary": "שגריר ישראל בארה\"ב מודה לצוותים הרפואיים שנלחמו על חיי בנו • נריה הועבר לשיקום נוירולוגי אך עדיין מחוסר הכרה • \"הדרך לשיקום עוד ארוכה וסבוכה, ונריה יצטרך לעבור עוד מספר ניתוחים\" • המשפחה מבקשת להמשיך בתפילות לנס שיחזיר את נריה לחיק משפחתו (אנשים)",
-      "link": "https://www.kikar.co.il/israel-news/neriah-leiter-recovery-update",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T15:03:59.000Z"
     }
   ]
 }
