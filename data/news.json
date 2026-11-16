@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:01:00.647Z",
+  "updatedAt": "2026-11-16T07:18:21.499Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/skaivq000me",
+      "title": "דיווח: צה\"ל \"חטף\" שני אחים בדרום לבנון - ותקף מטרות בעומק המדינה",
+      "summary": "כלי תקשורת לבנוניים דיווחו כי צה\"ל נכנס לבית בכפר שבעא שבדרום המדינה ועצר שני אחים. עוד דווח על תקיפה אווירית באל-בקאע, אזור שצה\"ל נמנע מלתקוף בו לאחרונה. בצה\"ל טרם התייחסו",
+      "link": "https://www.ynet.co.il/news/article/skaivq000me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T07:08:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/irgc-commander-quran-blessing",
+      "title": "הקוראן לא עזר: התיעוד האחרון של מפקד משמרות המהפכה שחוסל",
+      "summary": "משמרות המהפכה מפרסמים תיעוד של מפקדם לשעבר, מוחמד פאכפור, ברגעי הפרידה מאמו לפני שיצא למלחמה מול ישראל וארה\"ב | היא העבירה קוראן מעל גופו, אך הוא חוסל בתקיפה ישראלית (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/irgc-commander-quran-blessing",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-16T07:06:46.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876400",
+      "title": "ישראכרט מזנקת בהכנסות, ותפטר מאות עובדים - זה הסכום שתחסוך",
+      "summary": "דוחות ישראכרט חושפים עלייה בהכנסות לצד ירידה ברווח הנקי. חברת כרטיסי האשראי שבשליטת קבוצת דלק מאשרת תוכנית התייעלות רחבה של 320-370 עובדים, שתחסוך כ-100 מיליון שקל בשנה",
+      "link": "https://finance.walla.co.il/item/3876400",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T07:04:57.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1388893",
       "title": "\"ביקשתי שלא יירו בו\": האב הזעיק משטרה - בנו נורה למוות",
       "summary": "שוטר ירה למוות בתושב זמר במהלך פעילות בביתו, לאחר שלטענת המשטרה איים על הכוח בסכין. אביו טוען שביקש מהשוטרים לא להשתמש בנשק חם. מח\"ש חוקרת את נסיבות הירי",
@@ -39,6 +66,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-16T07:00:02.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961580",
+      "title": "נתניהו דורש להיות ראשון ברוטציה; יש עוד סיכוי לאחדות",
+      "summary": "נציגי איזנקוט ונתניהו רצו אתמול להגיע להסכמות, עם הערכה הדדית בין כץ לטרופר. ראש גוש השינוי דחה על הסף את דרישת נתניהו - אלו הנושאים שעלו השולחן",
+      "link": "https://www.walla.co.il/news/politics/383961580",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T07:00:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21859688",
+      "title": "נציגת ישראל במיס יוניברס משתפת: ״תלשתי לעצמי את הריסים״",
+      "summary": "רגע לפני תחרות מיס יוניברס, דניאל יבלונקה שיתפה את עוקביה ברגעים הפחות זוהרים מהחזרות • בין ההכנות למופע הפתיחה לעייפות המצטברת, היא נאלצה לקטוע את הסרטון במפתיע",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21859688",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:59:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21859489",
+      "title": "370 עובדים יפוטרו, 300 מיליון שקלים יגויסו: חברת האשראי שתצא לתוכנית התייעלות",
+      "summary": "ישראכרט פרסמה את דוחות הרבעון השלישי והודיעה על תוכנית התייעלות משמעותית • במקביל, החברה חצתה את רף חמשת מיליון הכרטיסים החוץ-בנקאיים ומציגה עלייה ברווח הנקי • המנכ\"ל איתמר פורמן: \"נחסוך כ-100 מיליון שקל בשנה החל מ-2027\"",
+      "link": "https://www.israelhayom.co.il/business/article/21859489",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:58:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21859652",
+      "title": "הסתתרה בתוך ארון בדירת מסתור: נעצרה חשודה רביעית בתקיפת הסייעת בנגב",
+      "summary": "ארבע נשים נעצרו בחשד לתקיפת סייעת בגן ילדים בערערה בנגב • שלוש מהחשודות אותרו בערערה ובלקיה, ואילו הרביעית נמצאה בדירת מסתור בדימונה כשהיא מתחבאת בתוך ארון • אדם נוסף נעצר בחשד שסייע לה להסתתר",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21859652",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:52:04.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/violence-arab-society-israel",
@@ -59,6 +122,15 @@
       "pubDate": "2026-11-16T06:50:47.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21859572",
+      "title": "סטטיק חוזר לימים עם בן אל: \"הלכתי לגמילה\"",
+      "summary": "מאז שהצמד התפרק, סטטיק המשיך בדרכו העצמאית • כעת הוא בוחר לחזור לתקופה המשותפת באמצעות מערכון שמכוון בעיקר לעצמו",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21859572",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:48:29.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1388886",
       "title": "רובוט ההשקעות סיבך את המפעיל שלו עם החוק",
       "summary": "מהנדס תוכנה הפעיל במשך שנים רובוט מסחר וניהל באמצעותו השקעות של עשרות לקוחות, למרות אזהרות מפורשות מרשות ניירות ערך. לאחר שהורשע ונגזר עונשו, ערעור שהגיש הוביל לתפנית במחוזי",
@@ -77,6 +149,24 @@
       "pubDate": "2026-11-16T06:41:47.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21859542",
+      "title": "הטניסאי האגדי חלה בסרטן: \"תשתמשו בקרם הגנה\"",
+      "summary": "בפודקאסט בהגשתו, ג'ימי קונורס סיפר כי הוא אופטימי לגבי המשך הטיפול באוזנו, ושהרופאים פועלים לשחזר את המראה שלו: \"אל תעברו את מה שאני עובר\" • האמריקני בן ה-74 זכה בשמונה תארי גרנד סלאם במהלך הקריירה",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21859542",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:39:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21859473",
+      "title": "קרן פלס שוב בדרך לאירוויזיון? יואב צפיר מגיב",
+      "summary": "אחד שיודע: עם פתיחת העונה החדשה של \"הכוכב הבא לאירוויזיון\" (קשת 12) - יואב צפיר נרגש מתמיד • הוא מדבר על השינויים בפורמט (\"מאפשר לשופטים לתת ביקורות יותר מגוונות\"), ועל הניסיון לשמור על ההצלחה של השנים האחרונות (\"אני בעד לצאת מהקופסה ולא להתקבע\")",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21859473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:37:16.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/mississippi-ship-collision-investigation",
       "title": "\"כולנו נמות\": ההקלטות מאסון הספינה עם 200 בני אדם נחשפות",
       "summary": "כמעט 200 בני אדם היו על סיפון ספינת התענוגות כאשר מכלית ענק פגעה בה | החקירה מתקדמת, והמידע שנאסף מהאונייה מספק הצצה דרמטית למה שהתרחש (חדשות בעולם)",
@@ -93,6 +183,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T06:36:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21859560",
+      "title": "דרמה בשחקים: רופא ישראלי הציל את חייו של דייל במהלך טיסה",
+      "summary": "אחד הדיילים בטיסת \"לופטהנזה\" מישראל לפרנקפורט פיתח תגובה אלרגית חריפה - לאחר שאכל שומשום בשוגג • למזלו, ד\"ר אוריאל טרטמברג, מנהל מחלקת טיפול נמרץ, היה שם כדי להעניק לו טיפול מציל חיים • המטוס ביצע נחיתת חירום בבלגרד",
+      "link": "https://www.israelhayom.co.il/news/local/article/21859560",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T06:35:57.000Z"
     },
     {
       "id": "walla:https://travel.walla.co.il/item/3876310",
@@ -124,7 +223,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21859334",
       "title": "שיר אלמליח החליטה להיפרד: \"בלי לחשוב פעמיים\"",
-      "summary": "הדוגמנית והמשפיענית שיתפה כי החליטה להפסיק מנהג שליווה אותה שנים. היא מוסיפה ומספרת על הסיבה העיקרית שגרמה לה לעשות את הצעד המשמעותי",
+      "summary": "הדוגמנית והמשפיענית שיתפה כי החליטה להפסיק מנהג שבמשך שנים היה חלק מחייה. עוד היא מגלה מה הסיבה העיקרית שגרמה לה לעשות את הצעד המשמעותי",
       "link": "https://www.israelhayom.co.il/forreal/localy/article/21859334",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -277,7 +376,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21859201",
       "title": "מחדל משטרתי: פעוט נקשר במעון הזוועות באריאל לאחר תפיסת המצלמות",
-      "summary": "מדריכה דיווחה על התנהלות חשודה במעון כבר ב-5 באוקטובר, אך מצלמות האבטחה נפתחו רק כעבור עשרה ימים • לפי כתב האישום, גם לאחר שהחוקרים החלו לצפות בתיעוד אירע מקרה נוסף של פגיעה בפעוט • המשטרה מסבירה: נדרשה היערכות מורכבת",
+      "summary": "מדריכה דיווחה על התנהלות חשודה במעון כבר לפני כחודש וחצי, אך מצלמות האבטחה נפתחו רק כעבור עשרה ימים • לפי כתב האישום, גם לאחר שהחוקרים החלו לצפות בתיעוד אירע מקרה נוסף של פגיעה בפעוט • המשטרה מסבירה: נדרשה היערכות מורכבת",
       "link": "https://www.israelhayom.co.il/news/crime/article/21859201",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -626,28 +725,10 @@
       "pubDate": "2026-11-16T03:56:56.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/news/military/383961552",
-      "title": "צה\"ל חסם הגישה למשפחות היהודיות שהתיישבו ליד יריחו",
-      "summary": "פרסום ראשון: כוחות הנדסה בצעו החסימה החריגה מחשש לפיגועים. 13 המשפחות לא יפונו בשלב זה, וההכרעה מתעכבת בשל רגישות פוליטית",
-      "link": "https://www.walla.co.il/news/military/383961552",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T03:50:00.000Z"
-    },
-    {
       "id": "walla:https://www.walla.co.il/news/israel/383961474",
       "title": "האזהרה המצמררת של בן-גוריון מ-1934: \"נישמד לגמרי\"",
       "summary": "במכתבים שנחשפים לראשונה, התריע בן-גוריון מפני התפשטות האנטישמיות והסכנה לעתיד העם היהודי. 92 שנים אחרי, על רקע גל האנטישמיות בעולם, המכתבים של בן-גוריון רלוונטיים מתמיד",
       "link": "https://www.walla.co.il/news/israel/383961474",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T03:50:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961569",
-      "title": "הגשם שוב על הפרק: מה צפוי לנו בשעות הקרובות?",
-      "summary": "ירידה קלה בטמפרטורות תורגש היום ברחבי הארץ, והן יחזרו להיות רגילות לעונה. השמיים יהיו מעוננים חלקית, ולקראת הבוקר ייתכן טפטוף עד גשם קל במישור החוף הצפוני",
-      "link": "https://www.walla.co.il/news/israel/383961569",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T03:50:00.000Z"
@@ -659,6 +740,24 @@
       "link": "https://www.israelhayom.co.il/news/environment/article/21858684",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T03:50:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383961552",
+      "title": "צה\"ל חסם הגישה למשפחות היהודיות שהתיישבו ליד יריחו",
+      "summary": "פרסום ראשון: כוחות הנדסה בצעו החסימה החריגה מחשש לפיגועים. 13 המשפחות לא יפונו בשלב זה, וההכרעה מתעכבת בשל רגישות פוליטית",
+      "link": "https://www.walla.co.il/news/military/383961552",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T03:50:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961569",
+      "title": "הגשם שוב על הפרק: מה צפוי לנו בשעות הקרובות?",
+      "summary": "ירידה קלה בטמפרטורות תורגש היום ברחבי הארץ, והן יחזרו להיות רגילות לעונה. השמיים יהיו מעוננים חלקית, ולקראת הבוקר ייתכן טפטוף עד גשם קל במישור החוף הצפוני",
+      "link": "https://www.walla.co.il/news/israel/383961569",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-16T03:50:00.000Z"
     },
     {
@@ -27417,114 +27516,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T07:18:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/byiqrcbamx",
-      "title": "מורה במרכז חשוד בעבירות מין בתלמידה בת פחות מ-10",
-      "summary": "החקירה נפתחה בימים האחרונים בתחנת כפר סבא. המורה, בשנות ה-30 לחייו מראש העין, צפוי להגיע לבית המשפט לדיון בהארכת מעצרו. עיריית כפר סבא: \"רואים בחומרה את החשדות\"",
-      "link": "https://www.ynet.co.il/news/article/byiqrcbamx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T07:16:50.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383960957",
-      "title": "המורה שחשוד בתקיפה מינית של ילדה - בנו של שחקן מהמרכז",
-      "summary": "המורה, בשנות ה-30 לחייו, נעצר בתום חקירה שניהלו שוטרי תחנת כפר סבא בימים האחרונים. הוא הועבר לחקירה במשטרה וצפוי להיות מובא לבית המשפט, שם תבקש המשטרה להאריך את מעצרו",
-      "link": "https://www.walla.co.il/news/law/383960957",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T07:14:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "title": "הותר לפרסום: בכיר איראני שיושב בכלא תיכנן פיגוע דמים בסיס בריטי",
-      "summary": "המפציצים האמריקניים פונו מהבסיס הבריטי על רקע החשש הביטחוני | החשוד המרכזי, בעל קשרים למשמרות המהפכה, ניהל את המבצע בשיחות טלפון מתא המעצר בניו יורק (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T07:14:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "title": "שיחות טלפון עם אמא ופיגוע: מפקד אראני ניהל מתקפה בבסיס בריטי מתוך הכלא",
-      "summary": "המפציצים האמריקניים פונו מהבסיס הבריטי על רקע החשש הביטחוני, ובמקביל נחשפת מזימה שבה שלוש משאיות עמוסות דלק נועדו לשמש כלי תקיפה | החשוד המרכזי, בעל קשרים למשמרות המהפכה, ניהל את המבצע בשיחות טלפון מתא המעצר בניו יורק (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T07:14:06.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "title": "מזימת התופת נגד המפציצים האמריקניים: מפקד המיליציה האיראנית פעל מתוך הכלא",
-      "summary": "המפציצים האמריקניים פונו מהבסיס הבריטי על רקע החשש הביטחוני, ובמקביל נחשפת מזימה שבה שלוש משאיות עמוסות דלק נועדו לשמש כלי תקיפה | החשוד המרכזי, בעל קשרים למשמרות המהפכה, ניהל את המבצע בשיחות טלפון מתא המעצר בניו יורק (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/hezbollah-commander-raf-fairford-attack-plot",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T07:14:06.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjy3g5110zx",
-      "title": "חשד חמור נגד לוחם צה\"ל: התעלל בעציר פלסטיני ומרח את צואתו על גופו",
-      "summary": "הפלסטיני אותר חבול בעמדת השמירה במחסום ג'למה. מקורביו של החייל בשירות קרבי טוענים כי אין לו שום קשר לאירוע. פרקליטו: \"החייל הוא לוחם עם מוטיבציה אדירה, בחור איכותי\". צה\"ל: ייערך לו שימוע לפני הגשת כתב אישום",
-      "link": "https://www.ynet.co.il/news/article/hjy3g5110zx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T07:12:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21826625",
-      "title": "יעל שלביה בווידוי לא צפוי: \"אני מכורה\"",
-      "summary": "הדוגמנית הישראלית ממשיכה ליהנות מהחופשה החלומית באי המשפחתי של בן זוגה, נהג הפורמולה 1 לאנס סטרול • בין חופים מרהיבים, נופים טרופיים ופינוקים יוקרתיים, שלביה חשפה התמכרות מפתיעה במיוחד, דווקא לחטיף פשוט",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21826625",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T07:11:21.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1387232",
-      "title": "עם תפילין על הראש ואלה ביד: התקיפה האכזרית באשקלון",
-      "summary": "תושב אשקלון בן 52 הורשע לאחר שארב לשכנו, תקף אותו באלה והמשיך להכותו גם כשנפל ארצה. במהלך ההמתנה לתקיפה הניח תפילין, ובהמשך העימות חטף אותן השכן מראשו. גזר הדין יינתן בהמשך",
-      "link": "https://www.maariv.co.il/news/law/article-1387232",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T07:09:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21826654",
-      "title": "הימין דורש רוב יהודי בוועדה המסדרת - כך תחולק השליטה בכנסת",
-      "summary": "מליאת הכנסת תתכנס לישיבת העבודה הראשונה מאז ההשבעה, ובמסגרתה יאושר הרכב הוועדה המסדרת • לפי המתווה המסתמן, גוש השינוי יחזיק בתשעה חברים בוועדה, לעומת שמונה לגוש הימין ללא יהדות התורה • רועי פולקמן יעמוד בראש הוועדה, ואביגדור ליברמן ימונה ליו\"ר ועדת החוץ והביטחון הזמנית",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21826654",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T07:07:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1387234",
-      "title": "\"ג'ו רצח עם\": קבלת הפנים שביידן לא ציפה לה במדינה האירופית",
-      "summary": "נשיא ארה\"ב לשעבר ורעייתו הגיעו במפתיע לקמפוס בדבלין לטקס שבו הוענקה לבנם האנטר מדליית זהב. בחוץ המשטרה פיזרה מחאה פרו-פלסטינית, ובפנים קיבל הנשיא לשעבר קבלת פנים אחרת לגמרי",
-      "link": "https://www.maariv.co.il/news/world/article-1387234",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T07:07:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21826390",
-      "title": "אברי גלעד מבקש סליחה ממיכל אנסקי: \"שיתוק שווה מיליונים\"",
-      "summary": "השאלה הראשונה ששאלתי את עצמי כשגיליתי שלקיתי בתסמונת בל: מה פשר המתנה המוזרה הזאת? יש סיבה שהיא קרתה דווקא לי? • עכשיו אני מתנצל בפני מי שהיתה הפרזנטורית למחלה - ומקווה שפוליטיקאים בכירים ילמדו ממני לחשוף הכל על מצבם",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21826390",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T07:07:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21824368",
-      "title": "אחרי 25 שנים: רשת האופנה הישראלית נפרדת",
-      "summary": "אורן יפרח, ממייסדי קבוצת מאניה ומעצבה הראשי במשך 25 שנה, מוכר את חלקו בחברה לשותפיו ופורש • הקבוצה מפעילה את המותגים Mania Jeans, Noizz ו-SEBO",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21824368",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T07:07:04.000Z"
     }
   ]
 }
