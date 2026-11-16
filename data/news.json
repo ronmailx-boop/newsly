@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:15:45.599Z",
+  "updatedAt": "2026-11-16T02:30:49.644Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21859054",
+      "title": "תיעוד: רבה עם בעל הדירה - ודרסה את החתול שלו",
+      "summary": "בסרטון ממצלמות האבטחה נראית הנהגת נוסעת לאחור היישר על בעל החיים שבחצר • ברקע נשמעות זעקות של נוכחים שהבחינו במעשה • פעילי \"חוות השאנטי\" מסייעים באיתור בעלת הרכב ובעל הדירה הגיש תלונה במשטרה • כך נראה התיעוד שעומד במוקד החקירה",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21859054",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-16T02:03:33.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21859046",
       "title": "\"לאף רפובליקני אין סיכוי ב-2028\": ואנס ימתין לאביב כדי להודיע על כוונותיו",
@@ -27705,33 +27714,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T02:39:46.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1l11yibrmg",
-      "title": "תאונה קטלנית ליד בית דגן: הולך רגל נפגע ממשאית, הנהג עוכב לחקירה",
-      "summary": "הולך הרגל נהרג בתאונה במעורבות שתי משאיות. הנהגים פונו לבית החולים במצב קל, ואחד מהם עוכב בידי המשטרה",
-      "link": "https://www.ynet.co.il/news/article/h1l11yibrmg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-11T02:24:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383960935",
-      "title": "תאונה קטלנית בכביש 44: הולך רגל נהרג, נהג משאית נחקר במשטרה",
-      "summary": "הולך הרגל נמצא שרוע על הכביש ללא דופק וללא נשימה, ופונה לבית החולים תוך פעולות החייאה. שני נהגי משאיות נפצעו קל, ואחד מהם עוכב לחקירה בחשד למעורבות בתאונה",
-      "link": "https://www.walla.co.il/news/israel/383960935",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T02:18:39.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383960935",
-      "title": "תאונה קטלנית בכביש 44: הולך רגל נהרג, נהג משאית נחקר",
-      "summary": "הולך הרגל נמצא שרוע על הכביש ללא דופק וללא נשימה, ופונה לבית החולים תוך פעולות החייאה. שני נהגי משאיות נפצעו קל, ואחד מהם עוכב לחקירה בחשד למעורבות בתאונה",
-      "link": "https://www.walla.co.il/news/israel/383960935",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T02:18:39.000Z"
     }
   ]
 }
