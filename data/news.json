@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:46:05.432Z",
+  "updatedAt": "2026-11-16T16:01:17.654Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjmjvidame",
+      "title": "פצועים קל מניסיון דריסה בעימות ליד מאחז: החשוד נמלט, הוטל כתר על כפר סמוך",
+      "summary": "שני בני אדם נפצעו קל ליד מאחז אנטון בשומרון. החשוד בניסיון הדריסה נמלט, הוטל כתר על הכפר הסמוך יאסוף. גורמי ביטחון אמרו: \"אין מדובר בפיגוע\"",
+      "link": "https://www.ynet.co.il/news/article/hjmjvidame",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-16T15:45:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383961682",
+      "title": "חשד לפיגוע בצומת תפוח: שניים נפצעו - מתנהל מרדף אחר החשוד",
+      "summary": "על פי עדויות ראשוניות, רכב האיץ לעבר תושבים שעמדו בצד הדרך, פגע בהם ונמלט. כוחות צה\"ל ומשטרה הוזעקו למקום ופתחו במרדף אחר הרכב החשוד. נסיבות האירוע והרקע לו עדיין נבדקים",
+      "link": "https://www.walla.co.il/news/military/383961682",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T15:44:24.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/attempted-ramming-tapuach-junction-two-injured",
       "title": "ראשוני: ניסיון דריסה בשומרון | שני פצועים קל, המחבל נמלט מהזירה",
@@ -228,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T15:07:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383961625",
+      "title": "פליק-פלאק של ליברמן: אחרי שתקף את חוק המעצרים - זו הפשרה",
+      "summary": "גורמים המעורים במגעים בין יהדות התורה לליברמן טוענים כי מסתמנת הסכמה להקפאת מעצרי עריקים חרדים ל-3 חודשים. הצדדים בוחנים את יישום המהלך",
+      "link": "https://www.walla.co.il/news/opinions/383961625",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-16T15:04:17.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383961625",
@@ -27795,114 +27822,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-11T16:03:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21831084",
-      "title": "הטעות הקטנה שאתם עושים עם השום - והורסת לכם את המנה",
-      "summary": "רגילים להוסיף שום למחבת יחד עם הבצל? כנראה שאתם פוגעים בטעם של המנה בלי לשים לב • שום קצוץ זקוק לעיתים ל-30 עד 60 שניות בלבד כדי לשחרר את הארומה שלו, ותזמון לא נכון עלול להפוך אותו למריר • כך תדעו מתי להוסיף אותו, איך לחתוך אותו ומה משתנה כשמכינים מרק או תבשיל",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21831084",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:58:51.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961053",
-      "title": "החניה ששיגעה את השכנים בת\"א: אף נכה לא חנה בה, ואז גילו למה",
-      "summary": "במשך שבועות עמדה חניית נכה מסומנת בלב תל אביב, אך איש לא השתמש בה. תושבת הרחוב החלה לחשוד שמשהו אינו כשורה, ובדיקה מול המוקד העירוני חשפה את התרמית. בעירייה מודים: כ-20 מקרים כאלה מתגלים מדי שנה",
-      "link": "https://www.walla.co.il/news/law/383961053",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-11T15:58:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21831682",
-      "title": "אחרי 28 שנה: מכבי תל אביב השוותה את ההישג של בית\"ר ירושלים",
-      "summary": "31 שערים בעשרה מחזורים: הצהובים השוו את הנתון של הקבוצה מהבירה מעונת 1998/99 ורשמו את פתיחת העונה ההתקפית הפורייה ביותר במאה ה-21 • מכבי חיפה והפועל באר שבע נותרו מאחור",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21831682",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:57:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21831682",
-      "title": "לאחר 28 שנה: מכבי תל אביב השוותה את ההישג של בית\"ר ירושלים",
-      "summary": "31 שערים בעשרה מחזורים: הצהובים השוו את הנתון של הקבוצה מהבירה מעונת 1998/99 ורשמו את פתיחת העונה ההתקפית הפורייה ביותר במאה ה-21 • מכבי חיפה והפועל באר שבע נותרו מאחור",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21831682",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:57:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/ohana-minister-appointment-netanyahu-kahana-replac",
-      "title": "בליכוד מעריכים: זה יהיה התפקיד הבא של אמיר אוחנה אחרי הדחתו",
-      "summary": "גוש השינוי מתכונן להחליף את יו\"ר הכנסת בשבוע הבא • בליכוד מעריכים: אוחנה ימונה לשר מיד לאחר סיום כהונתו | התרחישים על השולחן (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/ohana-minister-appointment-netanyahu-kahana-replac",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-11T15:57:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21828532",
-      "title": "השביתה בספרד החלה: שיבושי רכבות, חנויות סגורות והודעת ענקית התעופה",
-      "summary": "השביתה הכללית הראשונה במדינה זה 14 שנה שיבשה חלק מהפעילות בתחבורה הציבורית • לופטהנזה הזהירה מפני ביטולים ועיכובים • במדריד חנויות נסגרו ב\"גראן ויה\" • בברצלונה בעלי עסקים אטמו את החנויות מחשש לביזה כמו בפריז",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21828532",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:55:51.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/radio/article/21831659",
-      "title": "אברי גלעד על נתניהו: \"זכרו יימחק\"",
-      "summary": "המגיש לא הסתפק בביקורת על ראש הממשלה, והתייחס גם לרעייתו ולבנו • הוא הסביר מדוע אינו חש כלפיהם שנאה, אך מתח ביקורת על מעשיהם",
-      "link": "https://www.israelhayom.co.il/culture/radio/article/21831659",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:53:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21830892",
-      "title": "דדי ברנע: \"כל עוד המשטר האיראני קיים, הם יפתחו נשק גרעיני עם או בלי הסכם\"",
-      "summary": "ראש המוסד לשעבר הזהיר בוועידת \"ישראל היום\" בניו יורק כי טהרן כבר פועלת לשיקום תוכנית הגרעין שלה • ברנע הציג חלופות להסכם: \"מלחמה תטלטל את הכלכלה העולמית אך תאיץ את קריסת המשטר\", או המשך הסנקציות ו\"מצור מוחלט על מצר הורמוז\" • על טראמפ: \"מפגין מנהיגות שתוביל אותנו לנפילת המשטר\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21830892",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:52:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1387457",
-      "title": "להחזיר את הטילים מיידית: איראן הציגה בפני עיראק דרישה חדשה",
-      "summary": "איראן הציבה לאחרונה דרישה מפתיעה בפני ראש הממשלה בעיראק - החזרת מאות טילים מדויקים שהועברו למדינה בחשאי",
-      "link": "https://www.maariv.co.il/news/military/article-1387457",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T15:51:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21831440",
-      "title": "\"דמיאן לילארד התחבר במהירות לדני אבדיה, השכיח שעזב\"",
-      "summary": "ב-ESPN פרגנו לסופרסטאר הוותיק ועל שיתוף הפעולה שלו עם האולסטאר הישראלי: \"הוא עושה את המיטב כדי לגרום לאוהדים לשכוח שעזב בטרייד ושהחמיץ עונה שלמה מקרע באכילס\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21831440",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:51:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21831467",
-      "title": "שי גבסו על נטייתו המינית: \"פתאום קיבלתי הרבה שנאה\"",
-      "summary": "הזמר נשאל בראיון טלוויזיוני אם התגובות לדבריו על אמונה, משיכה ומגדר פוגעות בו, ונתן תשובה גלויה: \"לא הבנתי למה\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21831467",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-11T15:50:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1387467",
-      "title": "זה לא אנחנו שהשתננו, זה הם | רז זאובר",
-      "summary": "אמריקה משנה את פניה, וההשלכות מורגשות גם בישראל • השינויים הדמוגרפיים והתרבותיים, היחלשות האתוס האמריקאי המסורתי והקשר לשחיקת התמיכה בישראל",
-      "link": "https://www.maariv.co.il/news/opinions/article-1387467",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-11T15:47:04.000Z"
     }
   ]
 }
