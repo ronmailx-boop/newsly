@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:45:58.074Z",
+  "updatedAt": "2026-11-17T05:01:07.568Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-chemical-attack-plans-trump-administration-wa",
+      "title": "איראן תכננה לתקוף בכירי ממשל טראמפ בנשק כימי או \"פצצה מלוכלכת\" בוושינגטון",
+      "summary": "מידע מודיעיני אמריקני חושף תוכניות איראניות למתקפה בלב הבירה • בקהיליית המודיעין חלוקים באשר ליכולת המבצעית | הבית הלבן: \"אין איומים אמינים\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-chemical-attack-plans-trump-administration-wa",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T04:59:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/jericho-ramming-attack-axes-israelis-injured",
+      "title": "פיגוע בפאתי יריחו: מחבלים ניגחו רכב של אזרחים ישראלים, הסתערו באלות ובגרזנים - ונוטרלו בירי",
+      "summary": "מחבלים פלסטינים האיצו לעבר רכב של ישראלים שעשו את דרכם להתיישבות החדשה 'עיר התמרים' וניגחו אותו בעוצמה • מיד לאחר ההתנגשות, פרקו התוקפים מרכבם כשהם חמושים באלות ועל פי החשד גם בגרזנים והסתערו לעבר יושבי הרכב, במקביל ליידוי אבנים לעברם • הישראלים הגיבו בירי • כוחות צה\"ל הוקפצו לזירה, פרסו חסימות בכל המרחב ופתחו במצוד נרחב (אקטואליה)",
+      "link": "https://www.kikar.co.il/security-news/jericho-ramming-attack-axes-israelis-injured",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T04:53:59.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21868046",
       "title": "3 נקודות לדני וולף בהפסד של ברוקלין לפילדלפיה",
@@ -114,7 +132,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1389224",
-      "title": "המהלך לבלימת ממשלת איזנקוט – והקלף של הליכוד: החרדים עלולים לאבד את כוח המיקוח",
+      "title": "חשש כבד בליכוד \"מתרגיל נתב\"ג\" של החרדים: \"יתקבלו החלטות בלעדיו\"",
       "summary": "בליכוד מעריכים כי הצליחו לבלום לעת עתה את הצטרפות החרדים לממשלת איזנקוט, בין היתר באמצעות מגעים עם הרב הירש. החשש: החלטה בהיעדרו, לצד ספקות בנוגע למימוש ההבטחות שיינתנו לחרדים",
       "link": "https://www.maariv.co.il/news/politics/article-1389224",
       "source": "מעריב",
@@ -162,6 +180,15 @@
       "title": "בזמן שלבנון קורסת: תוכנית ההשתלטות ההדרגתית של טורקיה נחשפת | ד\"ר משה אלעד",
       "summary": "מאחורי תמיכתה של טורקיה בלבנון עומדים אינטרסים ולבנון צריכה להבטיח שהם לא יבואו על חשבון עצמאותה",
       "link": "https://www.maariv.co.il/news/opinions/article-1389190",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T04:00:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389224",
+      "title": "המהלך לבלימת ממשלת איזנקוט – והקלף של הליכוד: החרדים עלולים לאבד את כוח המיקוח",
+      "summary": "בליכוד מעריכים כי הצליחו לבלום לעת עתה את הצטרפות החרדים לממשלת איזנקוט, בין היתר באמצעות מגעים עם הרב הירש. החשש: החלטה בהיעדרו, לצד ספקות בנוגע למימוש ההבטחות שיינתנו לחרדים",
+      "link": "https://www.maariv.co.il/news/politics/article-1389224",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-17T04:00:43.000Z"
@@ -327,6 +354,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T02:40:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkpomeyrze",
+      "title": "3 ימים אחרי השבתת התעופה: תקלה נוספת שיבשה טיסות בארה\"ב",
+      "summary": "תקלה במערכות המחשוב של חברת יונייטד איירליינס גרמה לעיכובים בהמראות, לאחר שטייסים לא הצליחו לקבל נתונים חיוניים לטיסה - בהם משקל המטוסים. התקלה נפתרה כעבור שעה: \"אין אינדיקציה למתקפת סייבר\". השיבושים - 3 ימים בלבד אחרי התקלה שהובילה להשבתת התעופה האמריקנית למשך כמעט 5 שעות",
+      "link": "https://www.ynet.co.il/news/article/rkpomeyrze",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T02:03:15.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkpomeyrze",
@@ -27543,87 +27579,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T05:02:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-caretaker-government-iran-attack-authority",
-      "title": "הקבינט המדיני-ביטחוני יתכנס ביום ראשון: סמכויות ממשלת המעבר ליציאה למערכה צבאית מול איראן",
-      "summary": "הקבינט המדיני-ביטחוני יתכנס ביום ראשון לראשונה מאז תחילת אוקטובר • איזנקוט דורש מנתניהו איפוק וזהירות | השאלה המשפטית: האם ממשלה יוצאת רשאית לפתוח במערכה מול איראן (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-caretaker-government-iran-attack-authority",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T05:00:32.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14956089",
-      "title": "לשנות את הגישה כלפי החברה החרדית",
-      "summary": "חובתה של כל הנהגה חדשה לשנות את הגישה כלפי הציבור החרדי, ולהכיר את צרכיו, וזה אולי לא יקרה מיד דרך לשכת הגיוס. אל תפספסו את המומנטום, אפילו הרב לנדו אמר",
-      "link": "https://www.ynet.co.il/news/article/yokra14956089",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T04:59:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14955813",
-      "title": "לפלונטר הפוליטי שלנו דרוש נס",
-      "summary": "לאור הבחירות הימין מוכן ללכת את כברת הדרך, אבל השמאל שנחל מפלה עדיין מסרב",
-      "link": "https://www.ynet.co.il/news/article/yokra14955813",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T04:55:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14955813",
-      "title": "לפונטר הפוליטי שלנו דרוש נס",
-      "summary": "לאור הבחירות הימין מוכן ללכת את כברת הדרך, אבל השמאל שנחל מפלה עדיין מסרב",
-      "link": "https://www.ynet.co.il/news/article/yokra14955813",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T04:55:22.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875938",
-      "title": "דני הצטיין- ולא רק אבדיה: דאבל-דאבל נוסף לוולף בברוקלין",
-      "summary": "היהודי-אמריקאי רשם דאבל-דאבל שני בשלושת משחקיו האחרונים (10 נק' ו-11 ריב'), וברוקלין הביסה 111:145 את ניו אורלינס. דיומין חזר וכיכב עם 22 נקודות",
-      "link": "https://sports.walla.co.il/item/3875938",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T04:53:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875938",
-      "title": "דני הצטיין- ולא רק אבדיה: דאבל-דאבל נוסף לוולף בברקולין",
-      "summary": "היהודי-אמריקאי רשם דאבל-דאבל שני בשלושת משחקיו האחרונים (10 נק' ו-11 ריב'), וברוקלין הביסה 111:145 את ניו אורלינס. דיומין חזר וכיכב עם 22 נקודות",
-      "link": "https://sports.walla.co.il/item/3875938",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T04:53:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14954585",
-      "title": "יטיב עם החשודים: הנוהל החדש של צה\"ל סביב פגיעות מיניות",
-      "summary": "פרסום ראשון: לדרישת הסנגוריה הצבאית, השתנה משמעותית אופן הטיפול בהטרדות שאינן ברף הפלילי - לטובת החשודים כפוגעים מינית. מעתה, כבר בזימון הראשון לבירור, מי שנחשד בהטרדה יקבל הסבר מפורט על התלונה ועל זכויותיו. לפי הנוהל, יוכל מושא התלונה להגיש שאלות למתלוננת - שתחויב להשיב",
-      "link": "https://www.ynet.co.il/news/article/yokra14954585",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T04:52:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/khan-younis-nasser-hospital-strike-hamas-official",
-      "title": "חיל האוויר תקף בכיר חמאס שהסתתר בבית החולים נאסר",
-      "summary": "מטוסי חיל האוויר תקפו מבנה במתחם בית החולים נאסר בחאן יונס • בין ההרוגים זוהה בכיר במנגנוני הביטחון של חמאס | דיווח פלסטיני על עשרות פצועים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/khan-younis-nasser-hospital-strike-hamas-official",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T04:52:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/khan-younis-nasser-hospital-strike-hamas-official",
-      "title": "דיווח: 6 הרוגים בתקיפת צה\"ל בבית חולים נאסר – בהם בכיר חמאס",
-      "summary": "מטוסי חיל האוויר תקפו מבנה במתחם בית החולים נאסר בחאן יונס • בין ההרוגים זוהה בכיר במנגנוני הביטחון של חמאס | צה\"ל בודק את הפרטים (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/khan-younis-nasser-hospital-strike-hamas-official",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T04:52:28.000Z"
     }
   ]
 }
