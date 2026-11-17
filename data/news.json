@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:16:10.112Z",
+  "updatedAt": "2026-11-17T08:31:08.559Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/hasidism/ton0ky",
+      "title": "יָשִׂישׁ עָלַיִךְ | האדמו\"ר ממאשאלו פצח במחול נלהב בשמחת נישואי בתו",
+      "summary": "בארה\"ב נחגגה ברוב שמחה שמחת נישואי הכלה, בת האדמו\"ר ממאשאלו, חתן האדמו\"ר מקאלוב לרפו\"ש. עב\"ג החתן בן הרה\"ג ר' חנוך דוב שנייבאלג, אב\"ד באר מים חיים, בן הרה\"צ אבד\"ק מיקלייעוו, וחתן האדמו\"ר פארשעי • בשמחה השתתפו אדמור\"ים ורבנים נעלים מבני המשפחה לצד המוני חסידים מחצרות הקודש של המחותנים הרמים (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/ton0ky",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T08:29:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s19ebftage",
+      "title": "\"להחלים מהשמנה? לא עניין של כוח רצון. כדורי הרזיה? לא שגר ושכח\"",
+      "summary": "בוועידת הבריאות של ynet ו\"ידיעות אחרונות\", פרופ' רועי אלדור וד״ר הדר דסקין-ביתן שוחחו על יתרונות כדורי ההרזיה ממשפחת GLP-1. הם התייחסו להבנה המתפתחת של מחלת ההשמנה, המחקר שמתקדם וגם הבעיות ותופעות הלוואי: \"אנחנו לא מביאים את הטיפולים האלה במקום אורח חיים. זה דורש תהליך\"",
+      "link": "https://www.ynet.co.il/news/article/s19ebftage",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T08:26:56.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjg2dtfamg",
+      "title": "התרסקות חריגה: מטוס קל נתקע בכבלי חשמל, הטייס ניצל והחליק על הכנף לקרקע",
+      "summary": "המטוס נתקע בקו חשמל בשדה בעמק חפר, כשאחת מכנפיו נוגעת באדמה. חברת החשמל ניתקה את הזרם, הטייס הצליח לצאת מהמטוס - ולא נזקק לטיפול רפואי",
+      "link": "https://www.ynet.co.il/news/article/bjg2dtfamg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T08:21:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1389342",
+      "title": "סנטימטר אחד שעשה את ההבדל: הניתוח המורכב שהציל תינוק בן שלושה שבועות",
+      "summary": "פוסט בפייסבוק הוביל את אמו של זיו, תינוק בן שלושה שבועות שסבל ממום מולד מסכן חיים, לאסותא אשדוד. בניתוח מורכב הזיזו הרופאים חיבור לא תקין בסנטימטר אחד בלבד, ולאחר שישה שבועות שוחרר לביתו",
+      "link": "https://www.maariv.co.il/news/health/article-1389342",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T08:18:41.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/bkc4dotcfx",
       "title": "נתניהו בבית המשפט: \"משקרים שקיבלתי כסף מקטאר, לא היה ולא נברא\"",
       "summary": "על-רקע הטענות כלפיו בנוגע ליחסו לקטאר, ראש הממשלה מעיד בתביעת לשון הרע שהגיש נגד נשיא מכון ממרי יגאל כרמון. הוא דורש פיצוי של חצי מיליון שקלים: \"לא פעלתי ולא הייתי שבוי בידי קטאר\", אמר נתניהו בתחילת עדותו",
@@ -39,6 +75,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-17T08:10:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21869373",
+      "title": "ניו יורק רק ב-444 דולר לכיוון: ההטבה של רמי לוי, עם כוכבית",
+      "summary": "טיסות לניו יורק יוצעו בסכום 888 דולר הלוך ושוב למחזיקי סופר-פליי, כרטיסי האשראי של רמי לוי וישראייר • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21869373",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T08:10:04.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1lz11yyagx",
@@ -50,6 +95,24 @@
       "pubDate": "2026-11-17T08:07:37.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21868957",
+      "title": "השחקן האהוב פותח את הלב: \"אני עדיין בסוג של אבל\"",
+      "summary": "השחקן, הבמאי והכוריאוגרף אבשלום פולק מוציא ספר ילדים ראשון,\"הילד הכחול והחתול האדום\", ומספר על המעבר לכתיבה (\"הספר נולד באורח פלא\") ועל הגעגוע לאביו, השחקן יוסי פולק ז\"ל (\"הוא היה גאה\")",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21868957",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T08:07:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21869271",
+      "title": "בעקבות הטענות על קבלת כספים מקטאר: נתניהו מעיד בבית המשפט",
+      "summary": "ראש הממשלה הגיע היום לדיון בתביעת לשון הרע שהגיש נגד נשיא מכון ממר\"י, אל\"מ (מיל') יגאל כרמון, ונגד המכון עצמו • במסגרת ההליך הוא דורש פיצוי בסך חצי מיליון שקלים וכן צווים לאיסור הפצת הפרסומים ולהחרמתם • מנגד, כרמון הגיש תביעה שכנגד בסך 250 אלף שקלים, בטענה כי מדובר בניסיון להשתיק ביקורת ציבורית",
+      "link": "https://www.israelhayom.co.il/news/law/article/21869271",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T08:06:26.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/tomwbr",
       "title": "במהלך מסע הקודש | האדמו\"ר ציין את הקשר של העיירה בפולין למירון",
       "summary": "במלאות 180 שנה להסתלקות הרה\"ק רבי צבי הירש מרימנוב, יצא נכדו האדמו\"ר מרימנוב למסע קודש בפולין • דברי הקודש, מעמד התפילה והביקור בבית החיים שחולל • תיעוד (חסידים)",
@@ -57,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T08:04:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/gadget-review/article/21868258",
+      "title": "בלי להסיר את הכיסוי ובלי להיאבק: המגנט שהופך כל טלפון לקונסולת משחק",
+      "summary": "בקר ה-MCON החדש נצמד לסמארטפון באמצעות MagSafe, נפתח בלחיצה קפיצית כמו טלפון סליידר נוסטלגי ואפילו מתנתק למעמד שולחני • בדקנו אם תג המחיר של 599 שקלים מצדיק את החוויה • סקירה",
+      "link": "https://www.israelhayom.co.il/tech/gadget-review/article/21868258",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T08:01:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21869134",
+      "title": "מתקפה שלישית בתוך כמה ימים: כטב\"מים איראניים תקפו בבחריין",
+      "summary": "הרשויות בממלכה המפרצית טוענו תכי יירטו מל\"טים ששוגרו משטחה של איראן • משמרות המהפכה טענו כי הכלים הבלתי מאויישים שוגרו לעבר מכ\"ם של צבא ארצות הברית",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21869134",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T08:00:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/andrey-kherzhenovskiy-law-of-return",
@@ -354,6 +435,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T07:21:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383961751",
+      "title": "בין שמיים לארץ: מטוס נתקע בין כבלים בשרון - כך התגלה הטייס",
+      "summary": "המטוס נקלע בין כבלים בשטח פתוח סמוך למושב בית הלוי שבשרון. צוותי מד\"א שהוזעקו למקום מצאו את הטייס מתהלך בהכרה מלאה, לאחר שחילץ את עצמו מהמטוס. הוא לא נזקק לטיפול רפואי",
+      "link": "https://www.walla.co.il/news/israel/383961751",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T07:21:11.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bk800rdtcgl",
@@ -705,6 +795,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T06:30:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383961719",
+      "title": "המגעים בין ליברמן לחרדים: הדרישה החדשה שמסבכת הכל",
+      "summary": "בלי מזכירות וללא דוברים או יועצים: רק 3 אנשים חשופים למגעים הרגישים בין יהדות התורה לליברמן. החרדים העלו דרישותיהם: לא רק גיוס, אלא גם חינוך, דת ומדינה",
+      "link": "https://www.walla.co.il/news/opinions/383961719",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T06:28:03.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383961719",
@@ -27156,195 +27255,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-12T08:33:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21836759",
-      "title": "ארוכה מהטיטניק: אוניית הפאר האגדית הוטבעה - אבל זה לא סוף הדרך",
-      "summary": "הספינה ההיסטורית SS United States, שהחזיקה בשיאי מהירות בחציית האוקיינוס האטלנטי ואירחה בין היתר את הנשיא קנדי ואליזבת טיילור, הוצפה באופן מבוקר ושקעה לקרקעית מפרץ מקסיקו • המהלך נועד למשוך צוללים וחובבי דיג מרחבי העולם, אך המבקרים שיבקשו לחקור את שרידיה יצטרכו הכשרת צלילה מתקדמת",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21836759",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:30:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/taxi-driver-arrested-credit-card-fraud-jerusalem",
-      "title": "נהג מונית ערבי נעצר בחשד שעקץ דרך כרטיסי אשראי של הנוסעים מאות אלפים",
-      "summary": "נהג מונית תושב כפר עקב נעצר בחשד שגרם בעורמה לעשרות נוסעים למסור כרטיסי אשראי • על פי החשד נמשכו מאות אלפי שקלים | המשטרה קוראת לנפגעים נוספים להגיש תלונה (משטרה)",
-      "link": "https://www.kikar.co.il/police/taxi-driver-arrested-credit-card-fraud-jerusalem",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:30:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1387680",
-      "title": "\"נמות ולא נתניהו\": החרמת נתניהו והימין, והעדפת שותפות פוליטית עם הסיעות הערביות | ד\"ר איתן לסרי",
-      "summary": "הקריאות לאחדות לאומית, לממלכתיות ולריפוי הקרע בחברה הישראלית נשמעות מכל עבר, אך דווקא ברגע האמת מתגלה הסתירה: מי שמדברים על אחדות הם לעיתים אלה שמציבים את החרם הפוליטי כתנאי ראשון להקמת ממשלה",
-      "link": "https://www.maariv.co.il/news/opinions/article-1387680",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-12T08:29:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1387680",
-      "title": "עם המפלגות הערביות, בלי נתניהו: הסתירה שמאחורי הקריאה לאחדות | ד\"ר איתן לסרי",
-      "summary": "הקריאות לאחדות לאומית, לממלכתיות ולריפוי הקרע בחברה הישראלית נשמעות מכל עבר, אך דווקא ברגע האמת מתגלה הסתירה: מי שמדברים על אחדות הם לעיתים אלה שמציבים את החרם הפוליטי כתנאי ראשון להקמת ממשלה",
-      "link": "https://www.maariv.co.il/news/opinions/article-1387680",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-12T08:29:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21836927",
-      "title": "דרוקר שוב מנצח: הפיצוי מברדוגו, זמרי ופתחי עלה ל-285 אלף שקל",
-      "summary": "בית המשפט המחוזי דחה את ערעורם של יעקב ברדוגו, נועם פתחי ויותם זמרי, והגדיל את הפיצויים שנפסקו לטובתו ב-105 אלף שקל • הפרשה החלה בטענות שדרוקר ניסה לסחוט את בני גנץ באמצעות הקלטות מביכות • זהו ניצחונו המשפטי השני השבוע",
-      "link": "https://www.israelhayom.co.il/culture/clique/article/21836927",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:26:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/clique/article/21836927",
-      "title": "דרוקר שוב מנצח: הפיצוי מברדוגו, זמרי ופתחי ושותפיו עלה ל-285 אלף שקל",
-      "summary": "בית המשפט המחוזי דחה את ערעורם של יעקב ברדוגו, נועם פתחי ויותם זמרי, והגדיל את הפיצויים שנפסקו לטובתו ב-105 אלף שקל • הפרשה החלה בטענות שדרוקר ניסה לסחוט את בני גנץ באמצעות הקלטות מביכות • זהו ניצחונו המשפטי השני השבוע",
-      "link": "https://www.israelhayom.co.il/culture/clique/article/21836927",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:26:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "title": "עידן הניסים כאן? מנכ\"ל אנתרופיק מבטיח: בתוך עשור הסרטן והאלצהיימר ייעלמו",
-      "summary": "במהלך הצגת החברה למשקיעים לקראת הנפקתה בבורסה, הציג דריו אמודיי חזון יוצא דופן לעתיד הרפואה והסביר כיצד הבינה המלאכותית עשויה לפתור בעיות שהאנושות מתמודדת איתן במשך אלפי שנים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:25:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "title": "עידן הניסים כאן? המנכ\"ל מבטיח בתוך עשור הסרטן והאלצהיימר ייעלמו",
-      "summary": "במהלך הצגת החברה למשקיעים לקראת הנפקתה בבורסה, הציג דריו אמודיי חזון יוצא דופן לעתיד הרפואה והסביר כיצד הבינה המלאכותית עשויה לפתור בעיות שהאנושות מתמודדת איתן במשך אלפי שנים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:25:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "title": "הסוף לצרות? מנכ\"ל ענקית ה-AI מבטיח: בתוך עשור הסרטן והאלצהיימר ייעלמו",
-      "summary": "במהלך הצגת החברה למשקיעים לקראת הנפקתה בבורסה, הציג דריו אמודיי חזון יוצא דופן לעתיד הרפואה והסביר כיצד הבינה המלאכותית עשויה לפתור בעיות שהאנושות מתמודדת איתן במשך אלפי שנים (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/ai-medical-breakthroughs-cancer-alzheimers",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:25:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tvreview/383961114",
-      "title": "יודית והערבים: הפרק החתרני בתולדות \"ארץ נהדרת\"",
-      "summary": "מי שבא בשביל החיקויים של אילה חסון ואייל ברקוביץ' אולי קצת התאכזב, אבל מי ששרד את הפאנל זכה לפיצוי דווקא ברגע שבו התוכנית הפסיקה לנסות להצחיק",
-      "link": "https://www.walla.co.il/entertainment/tvreview/383961114",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T08:24:45.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1387677",
-      "title": "מיזם חדש: מוקירים את ותיקי תל אביב",
-      "summary": "מיזם חדש בתל אביב יוקיר עשרה מוותיקי העיר, בני 75 ומעלה, שהותירו חותם בתחומי התרבות, הספורט, המדע והחינוך • ועדת מומחים תבחר את הזוכים, שיקבלו את אות \"נבחרי הזהב\" בטקס חגיגי באפריל 2027",
-      "link": "https://www.maariv.co.il/news/israel/article-1387677",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-12T08:24:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "title": "העיר צמאה לזה: מתחם הקניות החדש שיוקם",
-      "summary": "חברת GT נדל\"ן קיבלה היתר בנייה להקמת מתחם \"GT center ערד\" בשותפות עם רמי לוי נדל\"ן, בהשקעה של כ-130 מיליון שקלים ועל שטח של 11 אלף מ\"ר • מתי צפויה הפתיחה ואיפה עוד מקימה החברה פרויקטים? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:24:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "title": "מתחם הקניות החדש שיוקם - במיקום מפתיע",
-      "summary": "חברת GT נדל\"ן קיבלה היתר בנייה להקמת מתחם \"GT center ערד\" בשותפות עם רמי לוי נדל\"ן, בהשקעה של כ-130 מיליון שקלים ועל שטח של 11 אלף מ\"ר • מתי צפויה הפתיחה ואיפה עוד מקימה החברה פרויקטים? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:24:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "title": "המהלך החדש של רמי לוי: מרכז הקניות שיוקם - במיקום מפתיע",
-      "summary": "חברת GT נדל\"ן קיבלה היתר בנייה להקמת מתחם \"GT center ערד\" בשותפות עם רמי לוי נדל\"ן, בהשקעה של כ-130 מיליון שקלים ועל שטח של 11 אלף מ\"ר • מתי צפויה הפתיחה ואיפה עוד מקימה החברה פרויקטים? כל הפרטים",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21836886",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T08:24:37.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3875974",
-      "title": "קווין רובין נגד אושר סלים: \"קצת צניעות, מה קורה פה?\"",
-      "summary": "אחרי תקלת \"הציץ המציץ\" של הדוגמנית בשבוע האופנה, כוכב הרשת לא נשאר אדיש ויצא במתקפה חריפה: \"הזייה מבחינתי, יש לה ילדים ומשפחה\"",
-      "link": "https://celebs.walla.co.il/item/3875974",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T08:24:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/khan-younis-brigade-commander-eliminated-nasser-ho",
-      "title": "צה\"ל תקף את מפקד חטיבת חאן יונס של חמאס בתקיפה בבית החולים נאצר",
-      "summary": "בהודעת דוברות משותפת, מעדכנים כוחות הביטחון, כי מחמד אבו איסמעיל הותקף במהלך הלילה • המחבלים הפכו את בית החולים למפקדת טרור | פרטי התקיפה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/khan-younis-brigade-commander-eliminated-nasser-ho",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:23:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/khan-younis-brigade-commander-eliminated-nasser-ho",
-      "title": "צה\"ל חיסל את מפקד חטיבת חאן יונס של חמאס בתקיפה בבית החולים נאצר",
-      "summary": "בהודת דוברות משותפת, מעדכנים כוחות הביטחון, כי מחמד אבו איסמעיל חוסל במהלך הלילה • המחבלים הפכו את בית החולים למפקדת טרור | פרטי התקיפה (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/khan-younis-brigade-commander-eliminated-nasser-ho",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:23:20.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3875972",
-      "title": "היו\"ר המיתולוגי של בית\"ר ירושלים: \"אצביע ביבי גם אחרי שימות\"",
-      "summary": "היו\"ר המיתולוגי של בית\"ר ירושלים שוחח עם אוחנה וסרי ב-103FM, נזכר בימים שאוחנה היה \"שחקן קולנוע\", וסיפק אמירה משעשעת על הערכתו לראש הממשלה",
-      "link": "https://sports.walla.co.il/item/3875972",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T08:23:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/liberman-joins-eisenkot-transition-government-warn",
-      "title": "ליברמן חובר לטענות של ח\"כ גדי איזנקוט: \"ממשלת מעבר ללא פיקוח לא יכולה לגרור אותנו למלחמה\"",
-      "summary": "לאחר שאיזנקוט פנה אמש לראש הממשלה בנימין נתניהו בקריאה להימנע מצעדים ביטחוניים מסוכנים בתקופת המעבר, יו\"ר ישראל ביתנו מזהיר מפני החלטות ביטחוניות ללא פיקוח פרלמנטרי • השר כ\"ץ יצא מוקדם יותר היום בהתקפה כנגד איזנקוט: \"לא זקוקים לאישור האופוזיציה\" | העימות מחריף (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/liberman-joins-eisenkot-transition-government-warn",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T08:18:52.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjndbgqrgx",
-      "title": "החזית האנושית של ישראל",
-      "summary": "מול סטודנטים שחשבו שישראלים הם אנשים רעים, בבונדסטאג ובעיריית ברלין, נוכחתי שוב בכוחה של דיפלומטיה ציבורית, אבל גם בהבנה שאמון העולם תלוי באחריותה של ישראל לאזרחיה",
-      "link": "https://www.ynet.co.il/news/article/rjndbgqrgx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T08:17:23.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875969",
-      "title": "המניה התרסקה, טריליונים נמחקו והמאהבת-מרגלת ברחה לסין",
-      "summary": "אליס הואנג שבה לסין ושוהה בבירה בידיעת גורמי הביטחון, כך לפי סוכנות הידיעות בלומברג. ברקע: חקירת דירקטוריון ודרישה אמריקנית להסברים",
-      "link": "https://finance.walla.co.il/item/3875969",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T08:17:00.000Z"
     }
   ]
 }
