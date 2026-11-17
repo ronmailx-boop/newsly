@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:01:07.568Z",
+  "updatedAt": "2026-11-17T05:15:52.625Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/ayelet-shaked-mediates-lieberman-haredim-draft-law",
+      "title": "איילת שקד מתווכת בין אביגדור ליברמן ל'יהדות התורה' על חוק הגיוס",
+      "summary": "שרת המשפטים לשעבר מנצלת קשריה עם שני הצדדים • ליברמן מבטיח: החוק יעבור את ראש הישיבה הגר\"ד לנדו | מאחורי הקלעים (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ayelet-shaked-mediates-lieberman-haredim-draft-law",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T05:02:42.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-chemical-attack-plans-trump-administration-wa",
       "title": "איראן תכננה לתקוף בכירי ממשל טראמפ בנשק כימי או \"פצצה מלוכלכת\" בוושינגטון",
       "summary": "מידע מודיעיני אמריקני חושף תוכניות איראניות למתקפה בלב הבירה • בקהיליית המודיעין חלוקים באשר ליכולת המבצעית | הבית הלבן: \"אין איומים אמינים\" (בעולם)",
@@ -39,6 +48,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T04:59:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21868110",
+      "title": "דיווח דרמטי בארה\"ב: \"איראן מגבשת תוכניות לפוצץ 'פצצה מלוכלכת' או נשק כימי בוושינגטון\"",
+      "summary": "שבעה גורמים אמריקנים חושפים ב-CNN כי מודיעין חדש מצביע על תכנון איראני לפגוע בבכירי ממשל טראמפ באמצעות נשק כימי או רדיואקטיבי בלב הבירה האמריקנית • בעקבות האיומים הועבר שר האוצר סקוט בסנט למגורים בבסיס צבאי, וגורמי ביטחון מעריכים כי חומרים להרכבת פצצה כבר הוסלקו בתחומי ארה\"ב • במקביל קיים חשש שאיראן תפעיל נשק כימי נגד חיילים אמריקנים במזרח התיכון, שאינם מצוידים במיגון מתאים • הבית הלבן: \"עוקבים אחר כלל האיומים, כרגע אין איום אמין על המולדת\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21868110",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T04:56:34.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876544",
+      "title": "ממשיך להפציץ: אבדיה כיכב עם 27 נקודות, חבריו אכזבו ונעצרו",
+      "summary": "ממשיך להפציץ: אבדיה כיכב עם 27 נקודות, חבריו אכזבו ונעצרו",
+      "link": "https://sports.walla.co.il/item/3876544",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T04:56:33.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/jericho-ramming-attack-axes-israelis-injured",
@@ -50,9 +77,18 @@
       "pubDate": "2026-11-17T04:53:59.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21868022",
+      "title": "נבגד, ביטל אירוסים: החיים של ג'יימס בונד החדש",
+      "summary": "קריסטן סטיוארט בגדה בו והתנצלה בפומבי, האירוסים ל-FKA twigs הסתיימו בפרידה, ומאז הוא הספיק להתאהב מחדש ולהפוך לאבא. לכבוד ליהוקו לג'יימס בונד, חזרנו לסיפורים מההיסטוריה של רוברט פטינסון, כולל כמה שהוא בעצמו המציא",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21868022",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T04:37:43.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21868046",
       "title": "3 נקודות לדני וולף בהפסד של ברוקלין לפילדלפיה",
-      "summary": "הישראלי שיחק 11 דקות והוסיף 2 ריבאונדים, ג'ואל אמביד הצטיין בסיקסרס עם 37 נקודות",
+      "summary": "הישראלי שיחק 11 דקות והוסיף 2 ריבאונדים, ג'ואל אמביד הצטיין בסיקסרס עם 37 נקודות • הפסד מתסכל לדנבר וניקולה יוקיץ'",
       "link": "https://www.israelhayom.co.il/sport/article/21868046",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -300,6 +336,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-17T03:42:23.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14960579",
+      "title": "עוד לפני הקמת ממשלה: הכנסת עוברת לידי גוש איזנקוט | זה היעד הבא של יו\"ר ישר!",
+      "summary": "מתן כהנא צפוי להיבחר היום ליו\"ר הכנסת בתמיכת המפלגות הערביות, ובכך להשלים את שליטת גוש השינוי בתפקידי המפתח במשכן. בליכוד ניסו לעכב את המינוי במסגרת המגעים לאחדות, אך ללא הצלחה. כעת מסמן יו\"ר ישר! את היעד הבא: הקמת ועדה שתבטל את חוקי המהפכה המשפטית עוד לפני שתוקם ממשלה",
+      "link": "https://www.ynet.co.il/news/article/yokra14960579",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T03:41:55.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21867977",
@@ -27516,69 +27561,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-12T05:20:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryzx5tzaml",
-      "title": "טורקיה קוראת את ישראל. האם ישראל קוראת את טורקיה?",
-      "summary": "מה היינו רואים אילו התבוננו בטורקיה באותה דקדקנות שבה קראו כלי התקשורת שלה את הבחירות אצלנו? היינו רואים מדינה שמבינה שהפערים בתפיסת הביטחון בין מפלגות הימין משני צדי הגושים בישראל מצומצמים, ולכן חילופי שלטון כשלעצמם לא צפויים לשנות את יסודותיה",
-      "link": "https://www.ynet.co.il/news/article/ryzx5tzaml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T05:11:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21822921",
-      "title": "בדיוק כמו במאפייה: הסוד לסופגניות רכות כמו ענן נמצא בשני שלבים",
-      "summary": "בצק רך ואוורירי, מילוי נדיב של ריבת תות וציפוי של אבקת סוכר • מימי נאמן שייך, מתכונאית ומבעלי רשת מאפה נאמן, מגלה את שני השלבים שעושים את ההבדל בין סופגנייה כבדה לסופגנייה קלילה וזהובה • ויש גם טיפ חשוב שיעזור למנוע ספיגת שמן מיותרת",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21822921",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T05:09:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21821300",
-      "title": "פסטת \"אין כלום במקרר\": ארוחת ערב ב-20 דקות",
-      "summary": "אין כוח לבשל והמקרר כמעט ריק? המתכון הזה נולד בדיוק בשביל הערבים האלה • פסטה בסיר אחד: בלי לבשל את הפסטה בנפרד ובלי להשתמש במסננת • כל המרכיבים נכנסים לסיר אחד והופכים לארוחת ערב משפחתית, עם רוטב עגבניות ושמנת שעוטף כל ביס",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21821300",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T05:06:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14955719",
-      "title": "לחשב מסלול מחדש",
-      "summary": "הנטייה האפוקליפטית של נתניהו, שכבר הכריז שהיחסים אבודים ועלינו להיערך לכך, כולל מעבר לכלכלת קריפטו, אינה פתרון",
-      "link": "https://www.ynet.co.il/news/article/yokra14955719",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T05:05:59.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3875891",
-      "title": "לכאן אחזור, והרבה: אבי אפרתי מצא את האוכל התאילנדי הטוב בארץ",
-      "summary": "לכאן אחזור, והרבה: אבי אפרתי מצא את האוכל התאילנדי הטוב בארץ",
-      "link": "https://food.walla.co.il/item/3875891",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T05:05:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14955806",
-      "title": "על צביעות המחנה: כמה קל הוא השינוי",
-      "summary": "מעולם לא היה כזה מרחק בין תום הלב של אנשים שהצביעו עבור סוגיה כמו \"השוויון בנטל\" לציניות המשפילה של פוליטיקאים שהפסיקו לספור אותם אחרי שקיבלו את קולם",
-      "link": "https://www.ynet.co.il/news/article/yokra14955806",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T05:04:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21814019",
-      "title": "בלי מדחום: הטריק הפשוט שיגלה לכם אם השמן חם מספיק",
-      "summary": "שמן קר מדי עלול לגרום למזון לספוג יותר שומן, ושמן חם מדי עלול לשרוף אותו מבחוץ לפני שיתבשל מבפנים • טריק ביתי עם קיסם עץ יכול לספק רמז לכך שהשמן התחמם, גם בלי מדחום • כך מבצעים את הבדיקה בזהירות - ומה חשוב לדעת לפני שמתחילים לטגן?",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21814019",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T05:02:00.000Z"
     }
   ]
 }
