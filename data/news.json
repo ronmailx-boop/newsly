@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:16:10.745Z",
+  "updatedAt": "2026-11-17T10:31:17.816Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,87 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-ofir-katz-knesset-speaker-candidate",
+      "title": "הליכוד מגיש מועמד ליו\"ר הכנסת: אופיר כץ יתמודד על התפקיד מול מתן כהנא",
+      "summary": "מפלגת הליכוד הודיעה כי תגיש את מועמדותו של ח\"כ אופיר כץ לתפקיד יו\"ר הכנסת | ההחלטה, כך לפי הליכוד, מגיעה לאחר סירובים חוזרים ונשנים מצד יו\"ר מפלגת ישר, גדי איזנקוט, וגוש השמאל לקיים את בחירת יו\"ר הכנסת באופן חד צדדי (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/likud-ofir-katz-knesset-speaker-candidate",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T10:26:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389394",
+      "title": "בגוש השינוי מזהים פער בין בנט לאיזנקוט: \"כאילו שאנחנו עדיין בקמפיין\"",
+      "summary": "אנה ברסקי חושפת כי גורמים בגוש השינוי סבורים שבנט דוחף לממשלת אחדות ללא רוטציה עם נתניהו, בעוד איזנקוט וליברמן מנסים לגבש הסכמות עם החרדים על חוק הגיוס ומשלמים על כך מחיר פוליטי",
+      "link": "https://www.maariv.co.il/news/politics/article-1389394",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T10:24:28.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961782",
+      "title": "המתיחות עם בריטניה מחריפה: סנקציות כבדות על חברות מיו\"ש",
+      "summary": "ממשלת בריטניה הכריזה על צעדים נגד שמונה חברות הפועלות ביהודה ושומרון ונגד ארגון שחסם משאיות סיוע לעזה. ברקע: קידום פרויקט E1 והחשש הבריטי מפגיעה בפתרון שתי המדינות",
+      "link": "https://www.walla.co.il/news/world/383961782",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T10:21:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hki00zstcmg",
+      "title": "הרמיזה המוזרה מצד מקורבו של נתניהו על איראן, וההבהרה: \"אין לי שום מודיעין\"",
+      "summary": "בני ביטון, ראש העיר דימונה ומהדוברים הבולטים של מסרי הליכוד במערכת הבחירות, נקב בריאיון רדיו במועד אפשרי לחידוש הלחימה. בהמשך הבהיר: \"לא באתי להגיד מלחמה ואין לי מודיעין, אמרתי שממשלת אחדות הרבה יותר חשובה\"",
+      "link": "https://www.ynet.co.il/news/article/hki00zstcmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T10:20:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/ton5ic",
+      "title": "צעד חריג של אתר הלימודים המוכר: כל הקורסים בסייל נובמבר",
+      "summary": "בינה מלאכותית, עסקים, עיצוב, שפות ועוד עשרות תחומים: אתר הלימודים סקולו יוצא במהלך יוצא דופן לסייל נובמבר, עם מבצעים על כל הקורסים. היכנסו לגלות מה מחכה לכם >>",
+      "link": "https://www.kikar.co.il/haredim-news/ton5ic",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T10:17:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/kim-jong-un-ski-resort-visit",
+      "title": "העולם דרוך לפסגה עם טראמפ: קים ג'ונג און נעלם לכיוון מפתיע",
+      "summary": "בזמן שהאפשרות למפגש בין מנהיגי המעצמות מעוררת עניין בינלאומי, שליט צפון קוריאה תועד בביקור בלתי צפוי, הרחק מהכותרות המדיניות (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/kim-jong-un-ski-resort-visit",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T10:17:18.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21870716",
+      "title": "בריטניה הטילה סנקציות על חברות וארגונים ביהודה ושומרון",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21870716",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T10:12:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1dnlikrzg",
+      "title": "בריטניה הטילה סנקציות חדשות על חברות ישראליות - לראשונה מאז הבחירות",
+      "summary": "הבנייה ב-E1 במוקד: שר החוץ הבריטי קרא לחברות בנייה ישראליות \"לא לגשת למרכז\" בשטח האסטרטגי, שבנייה בו עשויה \"לקבור סופית את רעיון המדינה הפלסטינית\", כלשון שר האוצר סמוטריץ'. סנקציות גם על פעילים בצו 9",
+      "link": "https://www.ynet.co.il/news/article/s1dnlikrzg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T10:11:32.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876521",
+      "title": "20 שעות נאחז בסלע: אלוף העולם נעלם - ונמצא בחיים",
+      "summary": "סיפור הרואי: מריו קיירוז הברזילאי יצא לאימון בים וסירתו התהפכה. הוא שחה כ-300 מטר עד לסלע, שם המתין לחילוץ במשך הלילה",
+      "link": "https://sports.walla.co.il/item/3876521",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T10:11:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/electric-bike-accident-beit-shemesh-injured",
       "title": "רוכב אופניים חשמליים נפצע בתאונה עצמית בבית שמש",
       "summary": "רוכב אופניים חשמליים בן 40 החליק ונחבל בראש ובגפיים ברחוב נהר הירדן • צוותי איחוד הצלה העניקו לו סיוע ראשוני והוא פונה לבית החולים הדסה עין כרם (חרדים)",
@@ -39,6 +120,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T10:07:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21868539",
+      "title": "האפליקציה החדשה של אינסטגרם - שמאיימת על וואטסאפ",
+      "summary": "מטא החלה לבחון אפליקציה ייעודית חדשה בשם Direct, המפרידה את תיבת ההודעות של אינסטגרם לאפליקציה עצמאית - ומאפשרת לשלוח הודעות לחברים גם בלי לפתוח חשבון אינסטגרם • איך זה יעבוד, אילו כלי בקרת הורים שולבו בה - והאם היא תנגוס בשימוש בוואטסאפ? • כל הפרטים",
+      "link": "https://www.israelhayom.co.il/tech/apps/article/21868539",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T10:05:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21870258",
+      "title": "האירוסים הסודיים לפני טדי שגיא: 5 עובדות שלא ידעתם על קים דאמר",
+      "summary": "המפגש האינטימי עם משפחת טראמפ, הפרישה המפתיעה מריאליטי הדוגמנות בגרמניה, הקשר עם טדי שגיא וכמות השפות שהיא יודעת • חמש עובדות שלא ידעתם על הדוגמנית הצעירה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21870258",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T10:04:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21870577",
+      "title": "המותג הבינלאומי פותח סניף דגל חדש - בלוקיישן מסקרן",
+      "summary": "ניין ווסט פותחת סניף דגל חדש במתחם מול החוף וילג' בחדרה, בהשקעה של כחצי מיליון שקלים • החנות תשתרע על פני כ-80 מ\"ר ותציע לראשונה בישראל גם את קולקציית נעלי הגברים של המותג",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21870577",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T10:02:39.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/hasidism/ton4mu",
@@ -241,11 +349,20 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21870090",
       "title": "בנט למדן על ממשלת אחדות: ״אין הרבה זמן, צריך להקים ממשלה ציונית\"",
-      "summary": "יו\"ר ביחד נפתלי בנט התייחס לסוגיית האחדות בתשובה לשאלתו של ח\"כ אלישע מדן, והביע אופטימיות בנוגע לאפשרות להקים ממשלה ציונית רחבה • לדבריו, יש לפעול במהירות כדי לקדם את המהלך",
+      "summary": "יו\"ר ביחד נפתלי בנט התייחס לסוגיית האחדות בתשובה לשאלתו של ח\"כ אלישע מדן, והביע אופטימיות בנוגע לאפשרות להקים ממשלה ציונית רחבה • לדבריו, יש לפעול במהירות כדי לקדם את המהלך • ח\"כ עומרי רונן: ״זמן תיקון וריפוי לישראל\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21870090",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T09:26:15.000Z"
+    },
+    {
+      "id": "walla:https://tech.walla.co.il/item/3876586",
+      "title": "ההסבר המפחיד של השר האמריקאי לגל שמשבש את ארה\"ב",
+      "summary": "אחרי שטיסות הושבתו, בנקים סבלו משיבושים ושירותי מיקרוסופט קרסו, השר לביטחון המולדת של ארה\"ב הציג הסבר מפתיע שקיבל ממומחה טכנולוגיה: ייתכן שבינה מלאכותית משבשת מערכות ישנות",
+      "link": "https://tech.walla.co.il/item/3876586",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T09:26:00.000Z"
     },
     {
       "id": "walla:https://tech.walla.co.il/item/3876586",
@@ -399,6 +516,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T09:05:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1389356",
+      "title": "משפט הבזק הסתיים - והתגובה של איראן לא איחרה לבוא: \"עברו למקום בטוח\"",
+      "summary": "משמרות המהפכה הודיעו על תקיפת מכ\"ם אמריקאי בבחריין, בטענה להפרת המרחב האווירי האיראני • התושבים הוזהרו לתפוס מחסה, כשברקע גזר דין נגד קבוצה שהואשמה בקשרים עם טהרן",
+      "link": "https://www.maariv.co.il/news/world/article-1389356",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T09:04:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1389356",
@@ -762,6 +888,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389322",
+      "title": "נתניהו הכה על השולחן במשפט הדיבה: \"שיקרתם ואתם תשלמו על כך\"",
+      "summary": "ראש הממשלה יתייצב היום בבית משפט השלום בירושלים במסגרת תביעת הדיבה שהגיש נגד יגאל כרמון בעקבות פרסומים על כספים לכאורה מקטר. כרמון טוען לתביעת השתקה והגיש תביעה שכנגד בסך 250 אלף שקל",
+      "link": "https://www.maariv.co.il/news/law/article-1389322",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T07:55:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1389322",
       "title": "נתניהו טוען במשפט הדיבה: \"כולם ידעו שקטאר מעבירה כסף\"",
       "summary": "ראש הממשלה יתייצב היום בבית משפט השלום בירושלים במסגרת תביעת הדיבה שהגיש נגד יגאל כרמון בעקבות פרסומים על כספים לכאורה מקטר. כרמון טוען לתביעת השתקה והגיש תביעה שכנגד בסך 250 אלף שקל",
       "link": "https://www.maariv.co.il/news/law/article-1389322",
@@ -1038,6 +1173,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T07:29:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21868817",
+      "title": "מירן בוזגלו קטפה קמפיין - ותפסה את מקומה של יעל שלביה",
+      "summary": "מותג משקפי השמש והראייה קאטליה מבית אופטיקנה משיק מחדש את דגם CALISTA, שזכה להצלחה גדולה בקרב לקוחות המותג וכעת חוזר במעטפת אופנתית חדשה ובולטת • ככה זה נראה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21868817",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-17T07:29:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21868817",
@@ -1380,6 +1524,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T06:49:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1389303",
+      "title": "סערה במשטרה: הדובר לשעבר יוצא נגד ההתנהלות בפרשת רע\"ם",
+      "summary": "נצ\"מ בדימוס אלי לוי מתח ב-103fm ביקורת חריפה על המעצרים ביום הבחירות, טען כי המשטרה לא אימתה כראוי את המידע המודיעיני ותקף את המפכ\"ל על שתיקתו מול הציבור",
+      "link": "https://www.maariv.co.il/news/law/article-1389303",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T06:44:37.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389303",
@@ -27048,114 +27201,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-12T10:34:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/tel-sheva-brothers-truck-parts-theft-arrest",
-      "title": "נעצרו בשעת מעשה: שני אחים תועדו גונבים חלקי משאיות ופרצו מחסום משטרתי",
-      "summary": "חקירה סמויה בת חודש הובילה למעצר שני אחים מתל שבע • תועדו גונבים סלקטורים ממשאיות בראש העין ובאשדוד | פרצו מחסום משטרתי בניסיון להימלט (משטרה)",
-      "link": "https://www.kikar.co.il/police/tel-sheva-brothers-truck-parts-theft-arrest",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T10:30:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961142",
-      "title": "נהג המונית שעקץ אותי: כך נפלו ישראלים רבים בפח",
-      "summary": "הם עלו למונית כדי להגיע ליעדם, אך לפי החשד, הנהג ניצל את אמונם כדי לרוקן את חשבונותיהם. עשרות נוסעים מסרו לו את כרטיסי האשראי והקוד הסודי, מבלי לדעת כי נפלו קורבן לעוקץ. כעת המשטרה מחפשת נפגעים נוספים",
-      "link": "https://www.walla.co.il/news/israel/383961142",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T10:29:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961142",
-      "title": "הנהג שעקץ אותי: כך נפלו ישראלים רבים בפח",
-      "summary": "הם עלו למונית כדי להגיע ליעדם, אך לפי החשד, הנהג ניצל את אמונם כדי לרוקן את חשבונותיהם. עשרות נוסעים מסרו לו את כרטיסי האשראי והקוד הסודי, מבלי לדעת כי נפלו קורבן לעוקץ. כעת המשטרה מחפשת נפגעים נוספים",
-      "link": "https://www.walla.co.il/news/israel/383961142",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T10:29:00.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3875995",
-      "title": "אחרי הבגידה והריגול: המועמדים מישראל לרשת את מנכ\"ל אנבידיה",
-      "summary": "הטלטלה בצמרת ענקית השבבים מאיימת לסיים עידן של 33 שנה. לצד בכירי החברה ומנכ\"לי המתחרות, בורסת השמות כוללת שלושה ישראלים עם רקורד מרשים - מבכיר באפל ועד מייסדי מלאנוקס",
-      "link": "https://finance.walla.co.il/item/3875995",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T10:28:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk6s0wxafl",
-      "title": "אלה הגננות החשודות בהתעללות באשקלון, מעצרן הוארך: \"התינוקות חזרו עם חבלות\"",
-      "summary": "בית המשפט האריך את מעצרן של סבטלנה בוז'דומוב, טטיאנה פלטניקוב ואנסטסיה סופורונובה, החשודות שפגעו בפעוטות בשני מעונות פרטיים. השופטת: \"המסמכים מעלים תמונה של התנהלות שיטתית ותקיפה מסיבית. החקירה עלולה להוליד תוצרים נוספים״. מנהלת המעונות, שחשודה באי דיווח, שוחררה בתנאים",
-      "link": "https://www.ynet.co.il/news/article/bk6s0wxafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T10:26:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bk6s0wxafl",
-      "title": "הוארך מעצר 3 גננות מאשקלון, החשודות בהתעללות: \"התינוקות חזרו עם חבלות\"",
-      "summary": "בית המשפט האריך את מעצרן של סבטלנה בוז'דומוב, טטיאנה פלטניקוב ואנסטסיה סופורונובה, החשודות שפגעו בפעוטות בשני מעונות פרטיים. השופטת: \"המסמכים מעלים תמונה של התנהלות שיטתית ותקיפה מסיבית. החקירה עלולה להוליד תוצרים נוספים״",
-      "link": "https://www.ynet.co.il/news/article/bk6s0wxafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T10:26:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21837917",
-      "title": "מעבר לבגדים: 3 תצוגות שהזכירו לנו מה אופנה באמת יכולה להיות",
-      "summary": "רובוטים על המסלול, צבעוניות שלא מבקשת להתנצל ודוגמנים ודוגמניות בשנות ה-20 ועד שנות ה-70 לחייהם: שלוש תצוגות בשבוע האופנה ישראל קנדה תל אביב 2026 הציגו גישות שונות לעיצוב, אבל התחברו לאמירה אחת - היופי האמיתי נמצא דווקא במגוון",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21837917",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T10:24:27.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961141",
-      "title": "האיום שהתממש, רק לא כאן: מחאת מפעיל השופל שהרס משרדי הממשלה",
-      "summary": "פועל סיני נעצר בעיר שיאן לאחר שהרס עם מחפר לפחות שישה מבנים במרכז שירות ממשלתי. במשך שעה שלמה הוא המשיך להרוס את המבנים באין מפריע אל מול עיניהם של העוברים והשבים המופתעים",
-      "link": "https://www.walla.co.il/news/world/383961141",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T10:24:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1387739",
-      "title": "מחקר חדש חושף: השינוי בתזונה שעשוי להפחית תסמיני דיכאון וחרדה",
-      "summary": "מחקר קליני בקרב 20 מבוגרים מצא כי הפחתת מזון אולטרה־מעובד נקשרה לירידה בתסמיני דיכאון וחרדה. הממצאים ראשוניים, ומומחה מדגיש: שינוי תזונתי עשוי לתמוך בטיפול הנפשי, אך אינו תחליף לתרופות או לפסיכותרפיה",
-      "link": "https://www.maariv.co.il/news/health/article-1387739",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-12T10:17:08.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjsuazxcml",
-      "title": "אחרי המתקפות ההדדיות: נתניהו ואיזנקוט ייפגשו לראשונה מאז הבחירות",
-      "summary": "אחדות או איראן? אחרי דרישת יו\"ר ישר! מהיועמ\"שית לחייב את רה\"מ להעביר לו עדכונים ביטחוניים שוטפים בשל היעדר יו\"ר אופוזיציה, נקבעה תחילה לאיזנקוט פגישה עם מזכירו הצבאי של נתניהו. בהמשך נמסר כי הפגישה בוטלה, ובהודעה משותפת ציינו נתניהו ואיזנקוט כי הם ייוועדו לשיחת \"עדכון מדיני-ביטחוני\"",
-      "link": "https://www.ynet.co.il/news/article/rjsuazxcml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T10:16:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21838106",
-      "title": "מירן בוזגלו: \"כל הגוף כואב לי\"",
-      "summary": "מירן בוזגלו תיעדה את עצמה שוכבת על הספה ושקלה פתרון ביתי לתסמינים שמחמירים בערב • למחרת כבר הודתה שהעומס גובה מחיר: \"כנראה שהגוף מאותת\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21838106",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T10:16:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21836674",
-      "title": "בגלל ערן זהבי: הקריסה הנפשית של אקס הפועל תל אביב",
-      "summary": "שוער העבר בוריס קליימן חשף את התקופה הקשה שעבר בעקבות טעות בדרבי מול מכבי תל אביב וערן זהבי, שהובילה להסתגרות ממושכת בביתו: \"לא מסוגל להתמודד, התביישתי. שבועות שלא יצאתי מהבית, לא בא לי לראות אף אחד\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21836674",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T10:16:23.000Z"
     }
   ]
 }
