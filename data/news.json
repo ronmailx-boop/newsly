@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:45:56.834Z",
+  "updatedAt": "2026-11-17T20:01:11.160Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/kahana-elected-knesset-speaker-joint-list-support",
+      "title": "גוש השינוי הגיע להסכמות עם הליכוד: הבחירה ליו\"ר הכנסת - בקרוב",
+      "summary": "לאחר שעות של נאומים, גוש השינוי והליכוד הגיעו להסכמות: ההצבעה על בחירת יו\"ר הכנסת תתקיים בקרוב, ובתמורה יוקפא ביטול חוקי הרפורמה המשפטית עד יום שני • חה\"כ מתן כהנא מישר צפוי להיבחר לתפקיד עם תמיכתם של 67 ח\"כים מגוש מתנגדי נתניהו, ולהחליף את אמיר אוחנה (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/kahana-elected-knesset-speaker-joint-list-support",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T19:56:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/us-strike-qeshm-island-iran-irgc",
+      "title": "מסר לאיראן: הסרטון שפרסם צבא ארצות הברית וחשיפת התקיפה היום",
+      "summary": "מטוסי קרב אמריקניים תקפו אתר שיגור טילים של משמרות המהפכה • התקיפה בוצעה במסגרת הגנה עצמית | פיקוד המרכז בכוננות גבוהה (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/us-strike-qeshm-island-iran-irgc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-17T19:53:48.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkzltmqcgx",
+      "title": "דיווח: חקירת זיני סיכנה מקורות מודיעיניים של שב\"כ - ומה אמר המפכ\"ל לשוטרים?",
+      "summary": "חקירתו של ראש השב\"כ על החשד להטיית התוצאות חשפה מקורות של השירות. ב-i24News דווח: \"הוא נאלץ להסכים שלא הייתה השפעה וכי הכסף הזר לא יועד למערכת הבחירות\". בזמן הסערה גם במשטרה, המפכ\"ל בילה ביום כיף לשוטרים מצטיינים והצהיר: \"היינו בסדר בבחירות\"",
+      "link": "https://www.ynet.co.il/news/article/rkzltmqcgx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-17T19:49:42.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876540",
+      "title": "חי: המשחק האחרון של רב\"ש? ישראל מנסה להפתיע את אוסטריה",
+      "summary": "במה שנראה כמו משחקו האחרון של רן בן שמעון כמאמן הנבחרת, הוא ושחקניו ינסו להימנע מקמפיין נטול ניצחונות לראשונה מאז מוקדמות מונדיאל 1966. היריבה כבר הבטיחה את הפסגה והגיעה עם סגל חסר. סולומו",
+      "link": "https://sports.walla.co.il/item/3876540",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T19:45:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/iran-protests-shah-return-abadan-demonstrations",
       "title": "\"יחי השאה\": מאות מפגינים במערב איראן קוראים להחזרת המלוכה ולהפלת המשטר",
@@ -129,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T19:22:47.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961860",
+      "title": "ההצבעה על בחירת היו\"ר תיערך כסדרה עוד הלילה",
+      "summary": "ההצבעה תתקיים בעוד כשעתיים. בתמורה להימנעות הליכוד מפיליבסטר, איזנקוט התחייב שלא לקדם בוועדות את החקיקה לביטול חוקי הרפורמה המשפטית עד יום שני",
+      "link": "https://www.walla.co.il/news/politics/383961860",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-17T19:21:39.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961860",
@@ -291,6 +336,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T18:49:32.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1389598",
+      "title": "מלחמת הבלימה בעיצומה: האמבוש המדיני שהולך ליפול על ישראל",
+      "summary": "במטרה לערער את מעמדה הבינלאומי של מדינת ישראל: הפלסטינים נערכים לקדם שורת החלטות אנטי ישראליות באו\"ם. בין היתר, ההחלטות צפויות לכלול גינוי רשמי על קידום מכרזי בנייה באזור E1",
+      "link": "https://www.maariv.co.il/news/world/article-1389598",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-17T18:49:05.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1389598",
@@ -601,7 +655,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk11unk50zl",
       "title": "\"אין דחיפות\": השאלות שיכריעו על תקיפה באיראן - והמסר האמריקני בים הערבי",
-      "summary": "על רקע חילופי המהלומות בין וושינגטון לטהרן בצה\"ל מבינים כי יידרשו למתקפה משמעותית באיראן, אך לא בטווח הזמן המיידי. מפקד סנטקום הגיע לישראל וייפגש עם הרמטכ\"ל זמיר. והמסר ששיגרה ארה\"ב לאיראן בתיעוד מהים הערבי - והתקיפה האמריקנית שכוונה נגד אתר שיגור טילים של משמרות המהפכה באי קשם",
+      "summary": "על רקע חילופי המהלומות בין וושינגטון לטהרן בצה\"ל מבינים כי יידרשו למתקפה משמעותית באיראן, אך לא בטווח הזמן המיידי. מפקד סנטקום הגיע לישראל וייפגש עם הרמטכ\"ל זמיר. המסר ששיגרה ארה\"ב לאיראן בתיעוד מהים הערבי - והתקיפה האמריקנית שכוונה נגד אתר שיגור טילים של משמרות המהפכה באי קשם",
       "link": "https://www.ynet.co.il/news/article/rk11unk50zl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -27651,87 +27705,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-12T20:04:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21837314",
-      "title": "אנטי קפיטליזם: כוחות הריפוי של הספרות בעידן הרשתות",
-      "summary": "יובל פלוטקין, עיתונאי ומבקר ספרות צעיר, מגיע אל אהבת הקריאה בעקבות מחלה. הוא מגלה את סגולות הריפוי שבספרים ומיטיב להדביק באהבת הספרות שלו גם קוראים מתחילים",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21837314",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T19:56:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961247",
-      "title": "דיווח: מנכ\"ל אנבידיה היוצא ניהל רומן עם עובדת שלישית בחברה",
-      "summary": "2 מקורות חשפו קשר אינטימי נוסף שניהל ג'נסן הואנג, לאחר פרסום 2 רומנים מחוץ לנישואים. התפטרותו הובילה לטלטלה בענקית השבבים ולצניחה של 11% במניה",
-      "link": "https://www.walla.co.il/news/world/383961247",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T19:51:57.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961247",
-      "title": "דיווח: מנכ\"ל אנבידיה המודח ניהל רומן עם עובדת שלישית בחברה",
-      "summary": "לפי רויטרס, שני מקורות חשפו קשר אינטימי נוסף שניהל ג'נסן הואנג, לאחר פרסום שני רומנים מחוץ לנישואים. התפטרותו הובילה לטלטלה בענקית השבבים ולצניחה של 11% במניה",
-      "link": "https://www.walla.co.il/news/world/383961247",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-12T19:51:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21842458",
-      "title": "מנכ\"ל אנבידיה שהתפטר ניהל רומן נוסף - עם עובדת בחברה",
-      "summary": "לפי דיווח ברויטרס, ג'נסן הואנג ניהל מערכת יחסים אינטימית עם עובדת נוספת באנבידיה, שעות אחרי שהתפטר בעקבות חשיפת שני רומנים קודמים",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21842458",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T19:51:46.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjpnr11xrgl",
-      "title": "מי מחזיק בהגה השלטון? יחסי הכוחות - ומה כל צד יכול לעשות",
-      "summary": "עם השבעת הכנסת ה-26 נוצר מצב ביניים שבו נתניהו עדיין עומד בראש הרשות המבצעת, אך עם כוכבית. הוא כפוף למגבלות של ממשלת מעבר - בעוד שגוש איזנקוט מחזיק ברוב בכנסת שפועל נגד מהלכיו. מהתקציב ועד לסמכויות הביטחוניות: מה כל צד יכול לעשות? ynet מסביר",
-      "link": "https://www.ynet.co.il/news/article/rjpnr11xrgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-12T19:51:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21842786",
-      "title": "\"נאום ההסתה\": עכשיו גם האמת מפלגת?",
-      "summary": "ראשי גוש השמאל קיוו שבחסות החגיגיות וההתרגשות אפשר יהיה לעצב את דמותה וסדר יומה של כנסת ישראל בהישענות על מפלגות אנטי־ציוניות, ולהמשיך להפר התחייבויות ליבה • נתניהו פוצץ להם את הבלון",
-      "link": "https://www.israelhayom.co.il/opinions/article/21842786",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T19:50:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21842767",
-      "title": "קיפאון במגעים עם ביירות? \"אין טעם בשיחות לפני שתוקם ממשלה בישראל\"",
-      "summary": "גורם רשמי בלבנון מבהיר כי סבב המו\"מ שנערך בפלורידה בלחץ אמריקני הסתיים ללא התקדמות • במקביל, גורמים דיפלומטיים בביירות לעגו למזכ\"ל חיזבאללה נעים קאסם, שחגג את תבוסת נתניהו וטראמפ - אך סירב שוב להתפרק מנשקו",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21842767",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T19:50:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/yeshiva-world/povevez-yeshiva-ruling-eviction-date-millions-ban-name",
-      "title": "הכרעה בגבעת הישיבה: י' באב לפינוי, מיליונים מיידית והתחייבות בכתב",
-      "summary": "השופט גרוסקופף הורה על דחיית הפינוי עד י' באב השנה • בתנאים: תשלום 2.5 מיליון שקל, איסור שימוש בשם הישיבה והתחייבות כתובה | הכרעה דרמטית בסכסוך ההיסטורי (עולם הישיבות)",
-      "link": "https://www.kikar.co.il/yeshiva-world/povevez-yeshiva-ruling-eviction-date-millions-ban-name",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-12T19:47:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21842699",
-      "title": "מות האידיאולוגיה: המפלגות שהבטיחו שינוי מקפלות את הדגלים",
-      "summary": "סיבוב הפרסה של ליברמן עם שותפיו לגוש הוא יותר מבגידה חמורה בבוחרים • מי שהבטיח שינוי מוסרי, התרסק והפך לתואם נתניהו • ובינתיים בדרום: חוזרים ל־6 באוקטובר",
-      "link": "https://www.israelhayom.co.il/opinions/article/21842699",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-12T19:47:30.000Z"
     }
   ]
 }
