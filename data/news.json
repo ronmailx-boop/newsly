@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:45:52.056Z",
+  "updatedAt": "2026-11-18T11:01:17.881Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,10 +32,28 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/political-news/top1k3",
+      "id": "kikar:https://www.kikar.co.il/world-news/india-pm-modi-flag-quad-summit",
+      "title": "מול כל העולם: ראש ממשלת הודו מיהר להרים דבר חשוב מהשטיח",
+      "summary": "רגע אנושי נדיר בלב הפסגה הבינלאומית: מול עדשות המצלמות של העולם כולו, מודי התכופף לפתע לעבר השטיח האדום (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/india-pm-modi-flag-quad-summit",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T10:59:26.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389818",
+      "title": "אחרי שאיבד את יו\"ר הכנסת: נתניהו מחפש תפקיד חדש לאוחנה",
+      "summary": "המשנה ליועמ\"שית הבהיר כי מינוי אמיר אוחנה לשר מחייב את אישור הכנסת, שבו אין לנתניהו רוב מובטח. כעת נבחנת האפשרות להעביר לאוחנה אחד מתיקי חיים כץ, אך גם המהלך הזה נתקל בקושי משפטי",
+      "link": "https://www.maariv.co.il/news/politics/article-1389818",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T10:47:55.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
       "title": "דרמה בכנסת: נפתלי בנט נועד כעת עם ראש הממשלה נתניהו | גדי איזנקוט לא עודכן מראש",
       "summary": "כשעה בלבד לפני כינוס ראשי \"גוש השינוי\" בכנסת, תועד יו\"ר מפלגת \"ביחד\" נפתלי בנט נכנס ללשכת ראש הממשלה בנימין נתניהו לפגישה ראשונה מזה 5 שנים | בלשכת רה\"מ טוענים כי מדובר ב\"תדרוך ביטחוני\" בהשתתפות ראש המל\"ל | יו\"ר \"ישר!\" גדי איזנקוט לא עודכן מראש על המפגש (חדשות, פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/top1k3",
+      "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T10:43:55.000Z"
@@ -196,7 +214,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961947",
       "title": "בנט בלשכת נתניהו, איזנקוט לא עודכן",
-      "summary": "מלכודת פוליטית או ספין מכוון? יו\"ר \"ביחד\" צולם נכנס ללשכת רה\"מ בכנסת, ברקע דחיפתו לממשלת אחדות ושתיקתו הארוכה. נתניהו טוען: הוא זומן לתדרוך בטחוני",
+      "summary": "יו\"ר \"ביחד\" צולם נכנס ללשכת רה\"מ בכנסת, ברקע דחיפתו לממשלת אחדות. פגישת ראשי גוש השינוי נדחתה ל-15:00. נתניהו טוען: בנט זומן לתדרוך בטחוני",
       "link": "https://www.walla.co.il/news/politics/383961947",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -228,6 +246,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T10:09:26.000Z"
+    },
+    {
+      "id": "walla:https://sheva7.walla.co.il/item/3876757",
+      "title": "בלי בושה, מול המצלמה: נכנס לבית כנסת וגונב קופת צדקה | תיעוד",
+      "summary": "מצלמות האבטחה תיעדו את רגעי ההתפרצות לבית הכנסת ואת החשוד כשהוא מושך את קופת הצדקה ממקומה. בעקבות חקירת האירוע הגיעו שוטרי תחנת באר שבע לביתו של החשוד, תושב העיר בשנות ה-50 לחייו, ועצרו אותו",
+      "link": "https://sheva7.walla.co.il/item/3876757",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T10:08:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21879617",
@@ -273,6 +300,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-18T10:03:39.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876756",
+      "title": "איל ברקוביץ' הציב תנאי לאימון הנבחרת: \"זו הדרך היחידה\"",
+      "summary": "כוכב העבר התייחס ב-103FM לאפשרות שיחליף את רן בן שמעון. וגם: הביקורת החריפה על המאמן שהתפטר ועל מצב הכדורגל הישראלי",
+      "link": "https://sports.walla.co.il/item/3876756",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T10:03:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961912",
@@ -363,6 +399,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T09:49:55.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/by67c6qrfg",
+      "title": "צעד ראשון בדרך לגניזה? חוקי המהפכה המשפטית שבוטלו בקריאה טרומית",
+      "summary": "הכנסת החלה בהליך לביטול החוק לשינוי הרכב הוועדה לבחירת שופטים והחוק להחלשת היועמ\"ש. לוין תקף את חברי גוש השינוי: \"אנשים מופקרים, כל מה שעשינו יחזור בעוצמה יותר גדולה\". ח\"כ רייטן: \"זוהי ההתחלה של הריפוי\"",
+      "link": "https://www.ynet.co.il/news/article/by67c6qrfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T09:47:25.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/by67c6qrfg",
@@ -498,6 +543,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T09:21:45.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383961940",
+      "title": "\"חמאס מתחזק\": נתניהו נכנע במהלך נוסף למען עזה",
+      "summary": "בצה\"ל הזהירו מסיוע למחבלים, סער לחץ להסכים, כ\"ץ התנגד אך רה\"מ הורה לפתוח הבוקר גם את מעבר ארז. בישראל קבעו: הסיוע מזרים מיליונים לחמאס בכל חודש",
+      "link": "https://www.walla.co.il/news/military/383961940",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T09:21:43.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383961940",
@@ -1641,6 +1695,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-18T06:37:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961910",
+      "title": "יהודים חובשי כיפה הותקפו בניו יורק ובשיקגו: \"אתה ציוני?\"",
+      "summary": "במנהטן הוכה יהודי בפניו בידי תוקף שהפיל את הכיפה מראשו וצעק \"אללה אכבר\". בשיקגו הותקף יהודי לאחר שנשאל אם הוא יהודי וציוני, ונזקק לשלושה תפרים. החשוד בתקיפה הואשם בפשע שנאה",
+      "link": "https://www.walla.co.il/news/world/383961910",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T06:37:09.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/opinions/383961909",
@@ -28623,87 +28686,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T11:02:01.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961292",
-      "title": "בלי בושה, ללא חשש: חסמו ניידת, תיעדו קצינה ואיימו עליה ברשת",
-      "summary": "שני נערים בני 16 ו-17 תיעדו את עצמם חוסמים את דרכה של קצינת משטרה ברמת גן, לצד הכיתוב \"עוד נגיע אלייך\". השניים נעצרו בחשד לאיומים ולהעלבת עובד ציבור, ושוחררו למעצר בית בתנאים מגבילים",
-      "link": "https://www.walla.co.il/news/israel/383961292",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T11:01:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961289",
-      "title": "איבד רגל בעזה וריגש את הקונגרס: יונתן הפך לאבא",
-      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה ואיבד את רגלו. שנה לאחר מכן כבר זכה לתשואות בקונגרס האמריקני, והשבוע הגיע רגע מרגש במיוחד: בתו הבכורה נולדה בבית החולים שמיר",
-      "link": "https://www.walla.co.il/news/israel/383961289",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T11:01:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961289",
-      "title": "שלוש שנים אחרי שאיבד את רגלו בעזה: הקצין הפך לאבא",
-      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה ואיבד את רגלו. שנה לאחר מכן כבר זכה לתשואות בקונגרס האמריקני, והשבוע הגיע רגע מרגש במיוחד: בתו הבכורה נולדה בבית החולים שמיר",
-      "link": "https://www.walla.co.il/news/israel/383961289",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T11:01:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21845392",
-      "title": "הפצוע הקשה שהפך לסמל - אב לראשונה",
-      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה בנובמבר 2023, לאחר שטיל RPG פגע בקבינת הדחפור שלו • שמו התפרסם לאחר שהניף את קביו בנאומו של ראש הממשלה בקונגרס האמריקני • השבוע נולדה לו ולאוריה בת במרכז הרפואי שמיר",
-      "link": "https://www.israelhayom.co.il/health/article/21845392",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:52:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21845389",
-      "title": "אגם בוחבוט: \"שתהיה בריא בגוף ובנפש\"",
-      "summary": "לכבוד יום הולדתו ה-29 של בן זוגה בר ברימר, הזמרת פרסמה פוסט מרגש במיוחד שבו חשפה את הציפיות שלה מהעתיד המשותף",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21845389",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:52:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21845392",
-      "title": "שלוש שנים אחרי שאיבד את רגלו בעזה: הפצוע הקשה הפך לאבא",
-      "summary": "סרן יונתן בן חמו נפצע באורח קשה בקרבות ברצועת עזה בנובמבר 2023, לאחר שטיל RPG פגע בקבינת הדחפור שלו • שמו התפרסם לאחר שהניף את קביו בנאומו של ראש הממשלה בקונגרס האמריקני • השבוע נולדה לו ולאוריה בת במרכז הרפואי שמיר",
-      "link": "https://www.israelhayom.co.il/health/article/21845392",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:52:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961290",
-      "title": "בגלל הפקקים: 2 הזמרים שמבטלים הופעות - עם קרע שרק מעמיק",
-      "summary": "מה כבר יכול לגרום לשניים מכוכבי האראנדבי הגדולים בעולם להסתכסך עד כדי ביטול הופעות? לפי הדיווחים, הכול התחיל מוויכוח די הזוי מאחורי הקלעים, ומאז היחסים בין אשר לכריס בראון רק הולכים ומידרדרים",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961290",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T10:51:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21844662",
-      "title": "כוח של 20 כורים גרעיניים: האם GTA 6 יקריס את החשמל ברחבי העולם?",
-      "summary": "130 מיליון קונסולות שמתעוררות בבת אחת מייצרות זינוק ביקוש של 26 גיגה-ואט • למרות שהסיכוי להחשכה עולמית נמוך, הפיזיקה של תדר החשמל ותקריות עבר באוהיו, בטקסס ובהודו חושפות עד כמה דק הקו המפריד בין שגרה לבין קריסת תשתיות • אז האם ההשקה של GTA 6 באמת עלולה להפיל את רשתות החשמל בעולם?",
-      "link": "https://www.israelhayom.co.il/tech/gaming/article/21844662",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:46:49.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961291",
-      "title": "כיפה אדומה, עם המבורגרים ושריפת הגופות: הרצח האכזרי בשרון",
-      "summary": "לפי כתב האישום, שלושת הצעירים הובאו לדירה בג'ת, אכלו עם חברי החוליה והוסעו לשטח חקלאי, שם נורו למוות והמכונית הוצתה כשגופותיהם בתוכה. שלושה חשודים נוספים טרם נעצרו",
-      "link": "https://www.walla.co.il/news/israel/383961291",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T10:46:12.000Z"
     }
   ]
 }
