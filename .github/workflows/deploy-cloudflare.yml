@@ -1,7 +1,5 @@
-# Deploys to Cloudflare Workers (see wrangler.jsonc) on every push to main,
-# and after each fetch-news.yml run - same reason deploy-pages.yml needs
-# workflow_run: GITHUB_TOKEN commits don't trigger other workflows on
-# `on: push` (GitHub's loop protection).
+# Deploys to Cloudflare Workers (see wrangler.jsonc) on every push to main, and
+# when fetch-news.yml dispatches it after data/news.json actually changed.
 # Needs the repository secret CLOUDFLARE_API_TOKEN (template "Edit Cloudflare
 # Workers", Zone Resources scoped to vplusstudio.app).
 name: Deploy to Cloudflare
@@ -9,9 +7,6 @@ name: Deploy to Cloudflare
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ["Fetch news"]
-    types: [completed]
   workflow_dispatch:
 
 concurrency:
@@ -20,7 +15,6 @@ concurrency:
 
 jobs:
   deploy:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     permissions:
       contents: read

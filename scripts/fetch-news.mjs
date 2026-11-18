@@ -168,9 +168,22 @@ async function main() {
   const pruned = pruneOldItems(merged, KEEP_DAYS);
   pruned.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
+  const outputSources = sources.map(({ key, name }) => ({ key, name }));
+
+  // Nothing new (same items, same sources): leave data/news.json untouched so the
+  // workflow makes no commit and triggers no deploy. updatedAt therefore means
+  // "last time the content actually changed", not "last time we checked".
+  if (
+    JSON.stringify(previousData.items ?? []) === JSON.stringify(pruned) &&
+    JSON.stringify(previousData.sources ?? []) === JSON.stringify(outputSources)
+  ) {
+    console.log(`[fetch-news] אין שינוי (${pruned.length} כותרות) - לא נכתב קובץ.`);
+    return;
+  }
+
   const output = {
     updatedAt: new Date().toISOString(),
-    sources: sources.map(({ key, name }) => ({ key, name })),
+    sources: outputSources,
     items: pruned,
   };
 
