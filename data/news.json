@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:15:46.951Z",
+  "updatedAt": "2026-11-18T10:30:54.286Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,105 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1389808",
+      "title": "רשות המסים חוקרת הונאה במיליונים - והכול התחיל בחשבוניות קטנות",
+      "summary": "מנכ\"ל חברה מרהט חשוד בקיזוז חשבוניות פיקטיביות ובהוצאת חשבוניות ללקוחות בהיקף מס של מיליוני שקלים. לפי החשד, מאות חשבוניות קטנות שימשו לעקיפת מנגנון הפיקוח של רשות המסים",
+      "link": "https://www.maariv.co.il/news/law/article-1389808",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T10:29:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1389806",
+      "title": "לראשונה בעידן האטום: ארה\"ב נערכת לאיום גרעיני כפול",
+      "summary": "דיווח ב\"וול סטריט ג'ורנל\" חושף את התחמשותה הגרעינית המואצת של סין, שעשויה להחזיק ביותר מ-1,000 ראשי קרב עד 2030. בצל פקיעת הסכם הפיקוח, טראמפ נערך לפסגה משולשת עם פוטין ושי ג'ינפינג",
+      "link": "https://www.maariv.co.il/news/world/article-1389806",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T10:25:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/motorcycle-helmet-airbag-technology",
+      "title": "שוברת את החוקים: הקסדה שתציל אופנועים ממוות בטוח",
+      "summary": "שבריר השנייה שיכול לעשות את ההבדל בין חיים למוות: טכנולוגיה חדשה משלבת כרית אוויר מתנפחת בתוך קסדת האופנוע, שמופעלת אוטומטית ברגע זיהוי התנגשות (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/motorcycle-helmet-airbag-technology",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T10:23:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/two-drunk-drivers-wrong-way-route-4-near-collision",
+      "title": "שני נהגים שיכורים נסעו נגד התנועה בכביש 4 וכמעט התנגשו בניידת משטרה",
+      "summary": "שני כלי רכב נסעו נגד כיוון התנועה בכביש 4 סמוך לצומת פורדיס • בדיקות השכרות חשפו רמות אלכוהול מזעזעות: 978 ו-975 מיקרוגרם, וזאת למרות שאחד הנהגים טען: \"שתיתי רק בירה אחת\" (משטרה)",
+      "link": "https://www.kikar.co.il/police/two-drunk-drivers-wrong-way-route-4-near-collision",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T10:22:44.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389801",
+      "title": "חוקי הרפורמה המשפטית: גוש השינוי העביר בקריאה טרומית את החוק שהוציא מיליונים לרחובות",
+      "summary": "לאחר שהחליפו את יו\"ר הכנסת אמיר אוחנה במתן כהנא, האופוזיציה יוצאת למהלך הבא, לביטול חוקי הרפורמה המשפטית של הממשלה הקודמת",
+      "link": "https://www.maariv.co.il/news/politics/article-1389801",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T10:20:09.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/toozjp",
+      "title": "אל תתעסק איתי: בעל החנות המתחרה שלח מתנה קטלנית",
+      "summary": "קונסולת משחקים שנמסרה לתיקון התפוצצה בחנות אלקטרוניקה בברזיל ופצעה שני בני אדם | בחקירה התברר כי בתוך המכשיר הוטמן מטען חבלה, שנועד לפי החשד לחסל את בעל העסק (מעניין)",
+      "link": "https://www.kikar.co.il/world-news/toozjp",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T10:20:01.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjtwqlscfg",
+      "title": "פגישה חריגה בכנסת: בנט נכנס ללשכת נתניהו; הליכוד: \"תדרוך ביטחוני\"",
+      "summary": "לפני פגישת ראשי גוש איזנקוט, יו\"ר ביחד - שמעוניין למצות את אופציית ממשלת האחדות - תועד נכנס ללשכת נתניהו בכנסת. השניים לא נפגשו כבר חמש שנים וחצי. בליכוד טענו: \"הפגישה - תדרוך ביטחוני\"",
+      "link": "https://www.ynet.co.il/news/article/sjtwqlscfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T10:16:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961947",
+      "title": "דוחף לאחדות? בנט תועד נכנס ללשכת נתניהו - זה ההסבר של רה\"מ",
+      "summary": "ראש הממשלה לשעבר נפתלי בנט נכנס ללשכתו של ראש הממשלה בנימין נתניהו. בשלב זה לא ברור מה עומד מאחורי הביקור, ולא נמסרו פרטים על מטרת הגעתו",
+      "link": "https://www.walla.co.il/news/politics/383961947",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T10:14:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21879626",
+      "title": "שכחו אותי במקדונלד'ס: מקולי קאלקין חוזר להיות קווין",
+      "summary": "36 שנה אחרי ש\"שכחו אותי בבית\" הפך אותו לכוכב, מקולי קאלקין חוזר לדמותו של קווין מקאליסטר בפרסומת חדשה של מקדונלד'ס • רשת המזון המהיר משיקה בארה\"ב ארוחה מיוחדת בהשראת הסרט, עם צ'יפס בטעם פיצה, קינוח חדש ופריטי אספנות במהדורה מוגבלת",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21879626",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:14:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21869940",
+      "title": "\"באטמן לא יכול להיות גם ג'יימס בונד\": הוליווד מפולגת",
+      "summary": "רוברט פטינסון הוא ג'יימס בונד החדש, אבל לא כולם מוכנים לקבל את הבשורה. פירס מורגן תוקף, רייף פיינס מתקשה להיפרד מדניאל קרייג, בראד פיט ופלורנס פיו כבר רוצים להצטרף לסרט, ואפילו ג'ף בזוס חושף מה באמת קרה מאחורי הקלעים. הרשת, כצפוי, לא נשארת אדישה",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21869940",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:09:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21879617",
+      "title": "\"עיר של זומבים\": ענקית הקרוזים מבטלת את העגינות ביעד השנוי במחלוקת",
+      "summary": "נורוויג'ן קרוז ליין (NCL) הודיעה לנוסעים כי ההפלגות מבוסטון בין מאי לאוגוסט 2027 לא יעצרו עוד בהליפקס, קנדה, ובמקום זאת יבלו יומיים בברמודה • החברה הסבירה כי השינוי נעשה בעקבות משוב מנוסעים, אך ברשתות החברתיות התפתח דיון על מצב הרחובות בעיר הקנדית, על רקע תלונות על שימוש בסמים, הומלסים ו\"זומבים\" ברחובות",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21879617",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:07:14.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/toozkk",
       "title": "טראמפ נחת בסין - ונתן חיבוק חם לידידו הנשיא שי | זה מה שצפוי",
       "summary": "נשיא ארה\"ב דונלד טראמפ נחת לפני זמן קצר בסין ונצפה מחבק בחום את נשיא המדינה שי ג'ינפינג | כך נראו הדקות הראשונות שלו על אדמת סין, וזה מה שצפוי הלאה (חדשות)",
@@ -48,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T10:04:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21879789",
+      "title": "\"מורות מגיעות עם חולצות בטן, כפכפים וסיגריה ביד\"",
+      "summary": "המחסור העצום בכוח אדם במערכת החינוך הוביל לכניסת מורות ומורים רבים מדור צעיר בהרבה • פוסט אחד בפייסבוק על הנראות של אותן מורות עורר סערה • אחת המורות הצעירות תקפה בחזרה: \"מעולם לא הגעתי עם גופיות, מסטיק או כל הזילות שתיארת\"",
+      "link": "https://www.israelhayom.co.il/news/education/article/21879789",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:04:25.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjnllej0me",
@@ -96,6 +204,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/health/article/21879427",
+      "title": "טרגדיה: המטפל נרדם, מכונת ההנשמה של דוד הפסיקה לפעול – והוא מת | חשיפה",
+      "summary": "אמו של דוד בוסקילה ז\"ל, שהיה תלוי בהנשמה במשך עשרות שנים, הגישה תביעה בטענה לרשלנות חמורה: \"המטפל לא הגיב לצפצופי המכשיר, אף שבוסקילה התריע שלושה שבועות קודם לכן כי הוא אינו מתאים לתפקיד\" • חברת \"תיגבור\" שהעסיקה את המטפל: \"משתתפים בצער המשפחה\"",
+      "link": "https://www.israelhayom.co.il/health/article/21879427",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T09:53:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21879427",
       "title": "טרגדיה: המטפל נרדם, מכונת ההנשמה של נכה צה\"ל הפסיקה לפעול – והוא מת",
       "summary": "אמו של דוד בוסקילה ז\"ל, שהיה תלוי בהנשמה במשך עשרות שנים, הגישה תביעה בטענה לרשלנות חמורה: \"המטפל לא הגיב לצפצופי המכשיר, אף שבוסקילה התריע שלושה שבועות קודם לכן כי הוא אינו מתאים לתפקיד\" • חברת \"תיגבור\" שהעסיקה את המטפל: \"משתתפים בצער המשפחה\"",
       "link": "https://www.israelhayom.co.il/health/article/21879427",
@@ -111,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T09:52:57.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383961942",
+      "title": "בשליחות איראן: העונש הכבד למתנקש שתכנן לרצוח את טראמפ",
+      "summary": "אסיף מרצ'נט הורשע כי פעל בשליחות משמרות המהפכה לנקום את חיסול סולימאני, ונלכד לאחר שהעביר מקדמה לסוכני FBI סמויים שהתחזו לרוצחים שכירים",
+      "link": "https://www.walla.co.il/news/world/383961942",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T09:52:07.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21879507",
@@ -480,6 +606,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-18T08:54:33.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383961934",
+      "title": "מצליחה על המסך: הבשורה הגדולה שקיבלה נועה קירל",
+      "summary": "שמונה שנים אחרי שעלתה לראשונה למסך הטלוויזיה, סדרת הנוער \"כפולה\", בכיכובה שלהזמרת צפויה לעשות קאמבק מפתיע – והפעם על המסך הגדול",
+      "link": "https://www.walla.co.il/celebs/local-news/383961934",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T08:52:42.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/tvreview/383961914",
@@ -1168,7 +1303,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21878343",
       "title": "ביטול הרפורמה המשפטית וההטרלות של הליכוד: בוקר טעון במליאה",
-      "summary": "במליאת הכנסת יעלו היום לדיון מוקדם הצעות לבטל את שינוי הרכב הוועדה לבחירת שופטים, את חוק היועמ\"ש וחוק השידורים • ח\"כ אופיר כץ יגיש הצעת חוק לאיסור הפרעה להנחת תפילין ושלילת זכויות של ח\"כ שלא יכיר בחמאס כארגון טרור • בשעה 13:30 יתכנסו לדיון שיתקיים בכנסת ראשי מפלגות השינוי והתיקון, גדי איזנקוט, נפתלי בנט, יאיר גולן, אביגדור ליברמן ויאיר לפיד",
+      "summary": "במליאת הכנסת יעלו היום לדיון מוקדם הצעות לבטל את שינוי הרכב הוועדה לבחירת שופטים, את חוק היועמ\"ש וחוק השידורים • ח\"כ אופיר כץ יגיש הצעת חוק לאיסור הפרעה להנחת תפילין ושלילת זכויות של ח\"כ שלא יכיר בחמאס כארגון טרור • בשעה 13:30 יתכנסו לדיון שיתקיים בכנסת ראשי מפלגות השינוי והתיקון, גדי איזנקוט, נפתלי בנט, יאיר גולן, אביגדור ליברמן ויאיר לפיד • קצת אחרי השעה 12 בצהריים נצפה יו\"ר ביחד ורה\"מ לשעבר, נפתלי בנט, כשהוא נכנס לפגישה עם נתניהו בלשכת ראש הממשלה",
       "link": "https://www.israelhayom.co.il/news/politics/article/21878343",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1893,6 +2028,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-18T04:10:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21864450",
+      "title": "אלפים סוגדים לילדה בת 3: \"שום דבר לא הכין אותי לזה\"",
+      "summary": "אריק ורוני הגיעו לקטמנדו במהלך פסטיבל אינדרה ג'טרה ונחשפו לטקס מיוחד • ילדה קטנה שנישאת על מרכבה, בעוד אלפי מאמינים מריעים לה ורואים בה התגלמות חיה של אלה • המועמדות נדרשות לעבור מבחני אומץ הכוללים שהייה בחדר חשוך ומפחיד, וחשיפה למסכות ולמראות מאיימים • צפו",
+      "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21864450",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T04:05:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-abroad/article/21864450",
@@ -28578,51 +28722,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T10:31:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21845226",
-      "title": "קיבלתם מכתב פיטורים ונפגעתם נפשית? ייתכן שתוכרו כנפגעי עבודה",
-      "summary": "עובד שפוטר בגיל 64 טען כי בעקבות קבלת מכתב הפיטורים סבל מדיכאון, חרדות ונדודי שינה • בית הדין הארצי קיבל את ערעורו והורה למנות מומחה שיבחן אם קיים קשר בין הפיטורים לפגיעה הנפשית",
-      "link": "https://www.israelhayom.co.il/news/law/article/21845226",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:30:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21845148",
-      "title": "נתן חומרים אסורים לקטינים: אחיו של הספורטאי האגדי נעצר",
-      "summary": "אודיסיאס דימאס, אחיו של אלוף המשקולות היווני לשעבר, חשוד שסיפק חומרים אסורים לספורטאים מאז אפריל 2024 • בחיפוש נתפסו 871 פריטים של תכשירים וחומרים, לצד 15 אלף יורו",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21845148",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:30:09.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/erdogan-son-turkish-forces-lebanon-border-proposal",
-      "title": "ארדואן יוזם: חיילים בצבא טורקיה יוצבו בגבול עם ישראל",
-      "summary": "בילאל ארדואן הציע נוכחות טורקית בדרום לבנון לאחר עזיבת כוח האו״ם • בפגישה עם נשיא לבנון דן בסיוע לצבא ובשיקום | הצעה שמעוררת דאגה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/erdogan-son-turkish-forces-lebanon-border-proposal",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-13T10:27:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388037",
-      "title": "איימו על קצינת משטרה: שני קטינים נעצרו בעקבות המקרה החמור",
-      "summary": "שני קטינים בני 16 ו-17, איימו על קצינת משטרה, וחסמו במכוון את דרכה. לאחר מכן הם נעצרו. השניים אף הפיצו את התיעוד ברשתות החברתיות",
-      "link": "https://www.maariv.co.il/news/law/article-1388037",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-13T10:26:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21844617",
-      "title": "בקרוב אצל מייסד אנבידיה? חמש פרשות הגירושים היקרות בעולם",
-      "summary": "בגידות, הסכמי ענק, סעיפים מוזרים, וחתונות נוספות ומהירות. כשמדובר במיליארדרים, גם הפרידה מגיעה עם תג מחיר יקר. מאוד יקר",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21844617",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T10:24:11.000Z"
     }
   ]
 }
