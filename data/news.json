@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:46:14.462Z",
+  "updatedAt": "2026-11-18T17:01:19.245Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/ayom-bakikar/netanyahu-bennett-meeting-knesset",
+      "title": "מודיעין עילית: אב חשוד בפגיעה בבנותיו | שי טראמפ ופוטין לחצו ידיים",
+      "summary": "כנסת: פגישה חריגה של נתניהו ובנט | מליאה: גוש השינוי נטש וחוקי הליכוד עברו | סין: טראמפ ופוטין לחצו ידיים | מודיעין עילית: אב חשוד בפגיעה בבנותיו | דריסת יוסף אייזנטל: הנהג יואשם בהמתה בלבד | הגר\"א סאלים במכתב חיזוק לאברך הכלוא | תחזית: נוח עם עלייה קלה בטמפרטורות | והתיעוד: הנזק שעשה פקח בעשרים שניות | צפו (היום בכיכר)",
+      "link": "https://www.kikar.co.il/ayom-bakikar/netanyahu-bennett-meeting-knesset",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T16:57:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-chief-mossad-head-centcom-commander-meeting",
+      "title": "איראן, תסתכלו: התמונות שפרסם דובר צה\"ל מהפגישה ברקע הדיווחים",
+      "summary": "הרמטכ\"ל אייל זמיר וראש המוסד רומן גופמן קיימו היום פגישה משותפת עם מפקד פיקוד המרכז האמריקני • דנו בהתפתחויות האזוריות ובחיזוק שיתוף הפעולה | הפגישה התקיימה במחנה רבין (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-chief-mossad-head-centcom-commander-meeting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T16:57:15.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1389951",
+      "title": "יצחק הרצוג בזירת הרצח בכפר מנדא: \"חייבים לשבור לפושעים את העצמות\"",
+      "summary": "נשיא המדינה ורעייתו הגיעו לזירת הרצח של לינא קאסם זידאן בכפר מנדא. הרצוג קרא למאבק חסר פשרות בפשיעה בחברה הערבית, אך לצד הדרישה להחמרת האכיפה הציב גם גבול ברור לפעולות הרשויות",
+      "link": "https://www.maariv.co.il/news/israel/article-1389951",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T16:46:37.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389948",
       "title": "טראמפ, פוטין ושי באותו חדר: הפסגה שמעוררת יותר מבוכה מציפיות | שלמה שמיר",
       "summary": "פוטין ממשיך במלחמה באוקראינה, טראמפ מגיע אחרי מפלה בבחירות ואובדן הרוב בקונגרס, והפרשנים מעריכים: הפסגה המתוקשרת לא צפויה להניב החלטות או הישגים מעשיים",
@@ -57,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T16:37:20.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bypiihi0zl",
+      "title": "כוננות שיא: הביקור הקריטי - והניסיון לקדם תקיפות משותפות | זו מפת הכוחות מול איראן",
+      "summary": "גופמן פגש בארה\"ב את ראש ה-CIA רטקליף ואת השליח וויטקוף, גורמים אמרו לרויטרס כי הוא - והשר לשעבר דרמר - קידמו תקיפות משותפות לארה\"ב וישראל נגד טהרן. גופמן הציג בין היתר מודיעין על הגרעין האיראני, גורם בבית הלבן: \"טראמפ סבור שהלחץ הכלכלי הרסני, ואין צורך במבצעי לחימה משמעותיים\"",
+      "link": "https://www.ynet.co.il/news/article/bypiihi0zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T16:36:36.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bypiihi0zl",
@@ -131,6 +167,15 @@
       "pubDate": "2026-11-18T16:22:26.000Z"
     },
     {
+      "id": "walla:https://finance.walla.co.il/item/3876810",
+      "title": "תחזיקת שיא וחידה לא פתורה: מה קורה למניה של אנבידיה",
+      "summary": "תחזיקת שיא וחידה לא פתורה: מה קורה למניה של אנבידיה",
+      "link": "https://finance.walla.co.il/item/3876810",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T16:22:22.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-eisenkot-rotation-propos",
       "title": "בנט לראשי הגוש: \"השיחה עם נתניהו הייתה חצי פוליטית\" | גדי איזנקוט: \"אנו מבזבזים זמן לחינם\"",
       "summary": "בנט בפגישת ראשי גוש איזנקוט: \"אפשר להגיע לרוטציה שבה גדי איזנקוט יהיה ראשון\" • ליברמן וגולן: \"לא נשב עם נתניהו בשום צורה\" | איזנקוט, שלא עודכן מבעוד מועד, דחק: \"אנו במצב חירום אמיתי, מבזבזים זמן לחינם\" | בהודעה משותפת אחרי הפגישה הבהירו: \"החלפת נתניהו - בעדיפות עליונה\" (פוליטי, חדשות)",
@@ -138,6 +183,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T16:17:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962015",
+      "title": "בפגישה עם ראש ה-CIA: גופמן דחק בארה\"ב לתקוף באיראן",
+      "summary": "לפי רויטרס, ראש המוסד קרא לבכירי ממשל טראמפ לקדם תקיפות משותפות באיראן והציג מידע מודיעיני על תוכנית הגרעין. במקביל, גם רון דרמר פעל לקידומה, בעוד נתניהו סבור שחלון ההזדמנויות הולך ונסגר",
+      "link": "https://www.walla.co.il/news/israel/383962015",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T16:17:33.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ry30bhjaml",
@@ -183,6 +237,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T16:08:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1389943",
+      "title": "רופאה הותקפה ונחנקה בחניון - והצליחה להימלט למעלית",
+      "summary": "לפי כתב האישום, צעיר בן 25 פנה לרופאה בחניון קופת חולים בפתח תקווה וביקש את עזרתה. כשניסתה לסייע לו, הוא תקף אותה, משך בשערה חנק אותה ואיים להרוג אותה",
+      "link": "https://www.maariv.co.il/news/law/article-1389943",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T16:06:41.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389943",
@@ -264,6 +327,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-18T15:48:31.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sycrgeoagg",
+      "title": "הרצוג קרא \"לשבור לפושעים את העצמות\", תיעוד: עשרות רעולי פנים בהפגנת החמולה החריגה",
+      "summary": "כ-1,500 בני אדם הגיעו למחאה נגד מגפת הפרוטקשן והאלימות בחברה הערבית שארגנה משפחת אבו מוך מבאקה אל-גרבייה, צעירים מהחמולה הגיעו מכוסי פנים: \"לא בריונים ולא יורים. אנחנו כאן לעמוד על המשמר\". הרצוג ביקר בזירת הרצח בכפר מנדא: \"חייבים למגר את הפשיעה\"",
+      "link": "https://www.ynet.co.il/news/article/sycrgeoagg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T15:47:16.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sycrgeoagg",
@@ -642,6 +714,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-18T14:35:25.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961995",
+      "title": "ליברמן לאחר פגישת ראש הגוש: \"לא אצביע בעד ממשלת מיעוט\"",
+      "summary": "אחרי פגישתם, ראשי מפלגות גוש השינוי פרסמו הודעה: \"מבינים שצריך להקים ממשלה מהר\". בליכוד טענו: בנט זומן לתדריך ביטחוני",
+      "link": "https://www.walla.co.il/news/politics/383961995",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T14:34:17.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961995",
@@ -29847,42 +29928,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-13T17:13:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961257",
-      "title": "עודד פורר: ״התוצאות לא מאפשרות לקדם את התפיסה שלנו״",
-      "summary": "המפלגה שהבטיחה \"0% למשתמטים, 100% למשרתים\", עכשיו מוכנה לשבת מול החרדים. יו״ר סיעת ישראל ביתנו מסביר מדוע זו לא נטישת האג׳נדה",
-      "link": "https://www.walla.co.il/news/politics/383961257",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T17:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21846964",
-      "title": "הסטנדאפיסט המפורסם נשבר מול המצלמה: \"החיים שלי התפרקו\"",
-      "summary": "הסטנדאפיסט חן מזרחי שיתף סרטון אישי ונדיר ברשתות ופתח את הלב על השנה הקשה ביותר שעבר • מגירושים וחובות ועד אולמות מלאים עד אפס מקום • וגם: למה התלבט כל כך אם לפרסם את הרגע הזה, ולמי הוא בחר להקדיש אותו",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21846964",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T16:58:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21846925",
-      "title": "שחקן היורוליג על אקס מכבי תל אביב: \"הוא אליל\"",
-      "summary": "כריס סילבה, שחתם בפרטיזן, נזכר בסנטר הגאבונזי ששיחק בשתי הקבוצות: \"הוא דוגמא לכדורסל במדינה שלי, כבוד ללבוש את החולצה שהוא לבש, אבל זה מוסיף לחץ מסוים\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21846925",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T16:56:16.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961316",
-      "title": "נערים הקיפו ניידת משטרה במודיעין, רקדו מולה ותקפו שוטרים",
-      "summary": "השוטרים הוזעקו בעקבות תלונה על רעש בשכונת מגורים, אך נתקלו בעשרות בני נוער שהתגודדו סביב הניידת והתעמתו איתם. שלושה שוטרים הותקפו, שבעה קטינים נעצרו ושניים מהם יישארו במעצר עד יום ראשון",
-      "link": "https://www.walla.co.il/news/law/383961316",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T16:52:13.000Z"
     }
   ]
 }
