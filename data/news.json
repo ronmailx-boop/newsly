@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:01:17.881Z",
+  "updatedAt": "2026-11-18T11:15:55.963Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,87 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389828",
+      "title": "עורך העיתון החרדי על ליברמן: \"בינתיים הוא לא מצליח להביא את הגוש שלו\"",
+      "summary": "בעוד הרב דב לנדו ממתין להוכחה שליברמן מסוגל לגייס את תמיכת הגוש, יוסי אליטוב טוען כי בנט מתעקש למצות מגעים עם הליכוד והציונות הדתית. במקביל, ש\"ס ניצבת בפני דילמה קשה סביב חוק הגיוס",
+      "link": "https://www.maariv.co.il/news/politics/article-1389828",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:15:05.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1389826",
+      "title": "מצרים דחתה בתוקף: אכזבה עצומה לארדואן ולטורקיה אחרי ההודעה המפתיעה",
+      "summary": "פעם נוספת: מצרים דחתה את מזכר ההבנות בימי שנחתם בין טורקיה ללוב. המהלך המצרי מגיע בעקבות החלטת בית הנבחרים הלובי. במוקד המחלוקת ניצבת שאלת חלוקת שטחי הים התיכון בין טורקיה, לוב, יוון, מצרים וקפריסין",
+      "link": "https://www.maariv.co.il/news/world/article-1389826",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:10:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/knesset-attorney-general-law-cancellation-prelimin",
+      "title": "הכנסת אישרה לבטל את חוק היועץ המשפטי לממשלה | לוין תקף: \"יחזור בעוצמה גדולה\"",
+      "summary": "63 חברי כנסת תמכו בביטול החוק שהעביר לוין • קריב: \"הבטחנו לציבור לבטל את חוקי ההפיכה המשטרית\" | לוין: \"כל מה שאתם מבטלים יחזור בעוצמה גדולה יותר\" (כיכר בכנסת)",
+      "link": "https://www.kikar.co.il/israel-news/knesset-attorney-general-law-cancellation-prelimin",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T11:09:07.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/mesha-king-moab-sacrifice",
+      "title": "איזה נסיך הוקרב כקרבן?! מחלוקת הענקים וביאורו הנועז של הריק\"ם • פרק ב'",
+      "summary": "מלך מואב הנצור עולה על חומת עירו ומעלה עולה. את מי הקריב, ולמי?! | ומדוע יצא \"קצף גדול\" דווקא על ישראל? | פרק ב' בסדרה (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/mesha-king-moab-sacrifice",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T11:08:20.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3876749",
+      "title": "שוקו, מרשמלו ולחמניות חלב: קחו הילדים דחוף לפופ אפ הזה",
+      "summary": "שוקו, מרשמלו ולחמניות חלב: קחו הילדים דחוף לפופ אפ הזה",
+      "link": "https://food.walla.co.il/item/3876749",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T11:06:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389824",
+      "title": "פעם הפציר ללכת עם נתניהו - עכשיו אבי בניהו משנה כיוון: \"כמו מילה והיפוכה\"",
+      "summary": "אבי בניהו התראיין ב-103fm על האפשרות להקים ממשלת אחדות עם הליכוד בראשות נתניהו. הוא נזכר במה שכינה \"העקיצה הראשונה\" של נתניהו כלפי גנץ ואשכנזי, והסביר מדוע אינו מאמין באחדות איתו",
+      "link": "https://www.maariv.co.il/news/politics/article-1389824",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:05:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1389822",
+      "title": "קטטה אלימה בפאב באילת: לוחם שב\"ס חשוד בתקיפת שוטר",
+      "summary": "לוחמי כליאה מיחידות שונות בשירות בתי הסוהר היו מעורבים הלילה בתגרה בפאב באילת. אחד הלוחמים נחקר בחשד שתקף שוטר ושוחרר בתנאים מגבילים",
+      "link": "https://www.maariv.co.il/news/law/article-1389822",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:03:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389821",
+      "title": "בכיר לשעבר בשב\"כ: \"תופעה שאני לא זוכר כמותה\"",
+      "summary": "לאחר הודעת השופט סולברג, אילן לוטן טען כי שניים מערכי הליבה של השב\"כ לא באו לידי ביטוי בהתנהלות שפורסמה. הוא הביע דאגה גם מהמידע שיוצא מתוך הארגון: \"אני מוטרד מתופעה שאני לא זוכר כמותה\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1389821",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:02:20.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21880339",
+      "title": "אחרי 27 שנה: האטרקציה האהובה בדיסנילנד נסגרה",
+      "summary": "במשך כמעט שלושה עשורים היא הייתה אחת התחנות המזוהות עם אתר הנופש המפורסם, ומשכה משפחות ומבקרים מכל העולם • כעת, אחרי סגירה סופית ופרידה מרגשת, מתברר שגם המבנה ההיסטורי שבו פעלה צפוי להיהרס • מה עומד מאחורי ההחלטה ומה צפוי להשתנות במתחם?",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21880339",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:59:47.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/india-pm-modi-flag-quad-summit",
       "title": "מול כל העולם: ראש ממשלת הודו מיהר להרים דבר חשוב מהשטיח",
       "summary": "רגע אנושי נדיר בלב הפסגה הבינלאומית: מול עדשות המצלמות של העולם כולו, מודי התכופף לפתע לעבר השטיח האדום (חדשות בעולם)",
@@ -41,6 +122,42 @@
       "pubDate": "2026-11-18T10:59:26.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21880328",
+      "title": "לא רק GTA 6: כך הפך הפחד להחמיץ את המבצע לכלי הנשק של עולם הצרכנות",
+      "summary": "משופינג IL ועד בלאק פריידיי, הקניות הפכו למרוץ נגד השעון – וה-FOMO גורם לנו לרכוש מוצרים שלא תכננו • הנתונים חושפים את הפער בין החשדנות כלפי ההנחות לבין העלייה בהוצאות, ויש גם כמה דרכים פשוטות להחזיר את השליטה לארנק",
+      "link": "https://www.israelhayom.co.il/tech/gaming/article/21880328",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:58:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21880739",
+      "title": "182 אקזיטים ב־19.5 מיליארד דולר: איפה היה הכסף הגדול?",
+      "summary": "מספר האקזיטים בישראל זינק ב־40% ב־2025, אבל רוב העסקאות לא חצו את רף 50 מיליון הדולר • הפינטק ריכז כמעט מחצית מהשווי הכולל, והרוכשים הישראלים כמעט שילשו את מספר העסקאות שלהם",
+      "link": "https://www.israelhayom.co.il/news/local/article/21880739",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:57:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21880704",
+      "title": "אייל ברקוביץ' הציב תנאי לנבחרת ישראל: \"אני על הקווים\"",
+      "summary": "כוכב העבר התייחס ב-103FM לאפשרות שיחליף את רן בן שמעון, הבהיר כיצד הוא מתכוון לשלב בין התפקיד לעבודתו בתקשורת ותקף את ההתנהלות סביב המעבר האפשרי למכבי חיפה: \"אם מאמן מנהל משא ומתן עם קבוצה אחרת בזמן שהוא מנהל נבחרת, סגור את הנבחרת\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21880704",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:56:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21880558",
+      "title": "יובל רפאל נשברת: \"יום כל כך עצוב\"",
+      "summary": "הזמרת התעוררה לבוקר קשה במיוחד בעקבות תיעודי ההתעללות בבעלי החיים שמופצים ברשת, והעלתה סטורי כואב לחשבון האינסטגרם שלה: \"סרטונים שלא ברא אותם השטן!!\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21880558",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:55:21.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1389818",
       "title": "אחרי שאיבד את יו\"ר הכנסת: נתניהו מחפש תפקיד חדש לאוחנה",
       "summary": "המשנה ליועמ\"שית הבהיר כי מינוי אמיר אוחנה לשר מחייב את אישור הכנסת, שבו אין לנתניהו רוב מובטח. כעת נבחנת האפשרות להעביר לאוחנה אחד מתיקי חיים כץ, אך גם המהלך הזה נתקל בקושי משפטי",
@@ -48,6 +165,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T10:47:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21875022",
+      "title": "תפסיקו לקלף את הפירות והירקות האלה - זו הסיבה",
+      "summary": "רגע לפני שאתם שולפים את הקולפן, כדאי לדעת מה מסתתר בקליפות של פירות וירקות מוכרים • מומחי תזונה מסבירים כיצד השארת הקליפה יכולה להגדיל את צריכת הסיבים - ולא רק • אלה המאכלים שכדאי לשקול לאכול בשלמותם, והמצבים שבהם דווקא עדיף לקלף",
+      "link": "https://www.israelhayom.co.il/food/recommendations/article/21875022",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:44:13.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
@@ -68,6 +194,15 @@
       "pubDate": "2026-11-18T10:43:51.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21880427",
+      "title": "ישפיע על ברק בכר: ההחלטה שהתקבלה בנבחרת ישראל",
+      "summary": "לאחר התפטרותו של המאמן הלאומי, בהתאחדות לכדורגל נערכים למינוי מחליף ומסתמן שינוי משמעותי במדיניות: המאמן הבא עשוי לקבל חוזה לשנתיים בלבד, לעומת ארבע השנים שהובטחו לבן שמעון • ברק בכר, שעזב לאחרונה את מכבי חיפה, נמצא בין המועמדים הבולטים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21880427",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:40:58.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1389814",
       "title": "ברקע החשדות בגוש השינוי: הפגישה החריגה של בנט ונתניהו - וההסבר שלא מסתדר",
       "summary": "בנט נפגש עם נתניהו בכנסת וצפוי להיפגש גם עם ראשי גוש השינוי, בניסיון לקדם ממשלת אחדות. בליכוד טוענים כי מדובר בתדרוך ביטחוני, אך נסיבות המפגש מעוררות שאלות. ברקע: המחלוקת על הרוטציה",
@@ -75,6 +210,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T10:38:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/travel-in-israel/article/21880288",
+      "title": "מחזה אופטי נדיר שקורה פעם בשנה: הכירו את תופעת \"הסנה הבוער\"",
+      "summary": "עמוק בתוך שטח אש סגור בדרום, קרן אור בודדת הופכת סלע פשוט לאשליה של להבה כתומה למשך דקות ספורות בלבד - ביום הקצר בשנה",
+      "link": "https://www.israelhayom.co.il/travel/travel-in-israel/article/21880288",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:36:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21879573",
+      "title": "\"הצגה זולה - לא נפרדו\": הטענה המפתיעה על הפרידה של טל ותמיר",
+      "summary": "פרשת הפרידה של טל טיטו ותמיר גולן מסתבכת • דיירת \"האח הגדול\" לשעבר טוענת שקיבלה מידע ממקורבים שלפיו השניים עדיין ביחד, ומסיימת באיחול שלא ממש משתמע לשתי פנים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21879573",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:36:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1389812",
@@ -95,6 +248,15 @@
       "pubDate": "2026-11-18T10:34:06.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/tech/science/383961949",
+      "title": "הכי רחוק שאפשר: החללית של נאס\"א רשמה שיא היסטורי",
+      "summary": "הגשושית וויאג'ר 1, ששוגרה לפני כמעט 50 שנה, הגיעה היום למרחק חסר תקדים של כ-26 מיליארד ק\"מ מכדור הארץ. מנהלת הפרויקט: \"לא ציפיתי לראות את זה בחיי\"",
+      "link": "https://www.walla.co.il/tech/science/383961949",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T10:32:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389808",
       "title": "רשות המסים חוקרת הונאה במיליונים - והכול התחיל בחשבוניות קטנות",
       "summary": "מנכ\"ל חברה מרהט חשוד בקיזוז חשבוניות פיקטיביות ובהוצאת חשבוניות ללקוחות בהיקף מס של מיליוני שקלים. לפי החשד, מאות חשבוניות קטנות שימשו לעקיפת מנגנון הפיקוח של רשות המסים",
@@ -102,6 +264,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T10:29:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21879687",
+      "title": "עם הנשיא שי ולהקת מעודדות: טראמפ הגיע לסין לקראת פסגת המנהיגים",
+      "summary": "נשיא סין שבר מסורת ארוכת שנים לפיה ראש המדינה לא מקבל מנהיגים זרים בשדה התעופה, והגיע בטקס משונה מעט לפגוש את טראמפ עם נחיתתו בשנג'ן • טראמפ העלה את האפשרות שייפגוש את שליט צפון קוריאה, קים ג'ונג און, במהלך שהותו בסין",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21879687",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:28:39.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21879687",
@@ -183,6 +354,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T10:17:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21879481",
+      "title": "אחרי שכיכבה בעשירייה: נטפליקס חידשה את הסדרה",
+      "summary": "וגם: דייוויד דוכובני לא רוצה לגלות, הקאמבק של היוטיוברית ואושיית הרשת, וג'ון קראייר (\"שני גברים וחצי\") בסדרה המדוברת • חדשות הטלוויזיה",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21879481",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T10:16:31.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21879481",
@@ -309,6 +489,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-18T10:03:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383961912",
+      "title": "הישג לגוש השינוי: 2 מחוקי ההפיכה בוטלו בטרומית",
+      "summary": "הישג לגוש השינוי: החוק לשינוי הרכב הוועדה לבחירת שופטים בוטל בטרומית • גוש הימין יקדם חוקים של אופיר כץ לאיסור הפרעה להנחת תפילין ולשלילת זכויות מח\"כים שלא יכירו בחמאס כארגון טרור",
+      "link": "https://www.walla.co.il/news/politics/383961912",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T10:02:39.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383961912",
@@ -1220,19 +1409,19 @@
       "pubDate": "2026-11-18T08:01:27.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21874720",
-      "title": "לא הכל מהאגדות: החוקים המוזרים של משפחות המלוכה בעולם",
-      "summary": "לקראת יום הנסיכות הבינלאומי, הבנו לכם את הכללים המוזרים שמשפחות המלוכה ברחבי העולם צריכים לציית להם",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21874720",
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21875485",
+      "title": "800 מילים חדשות ושינוי שלא ראיתם: \"אליאס\" החדש כבר כאן",
+      "summary": "אחרי שנה שבה המשחק נחטף מהמדפים והפך לסנסציה של ממש ברשתות, אליאס משיק לקראת חנוכה גרסה קומפקטית עם 800 מילים מותאמות לקהל הישראלי • הרעיון מאחוריה נולד דווקא בישראל, ועכשיו גם בחו\"ל עשויים לאמץ אותו בקרוב",
+      "link": "https://www.israelhayom.co.il/lifestyle/article/21875485",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T08:00:00.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21875485",
-      "title": "800 מילים חדשות ושינוי שלא ראיתם: \"אליאס\" החדש כבר כאן",
-      "summary": "אחרי שנה שבה המשחק נחטף מהמדפים והפך לסנסציה של ממש ברשתות, אליאס משיק לקראת חנוכה גרסה קומפקטית עם 800 מילים מותאמות לקהל הישראלי • הרעיון מאחוריה נולד דווקא בישראל, ועכשיו גם בחו\"ל עשויים לאמץ אותו בקרוב",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21875485",
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21874720",
+      "title": "לא הכל מהאגדות: החוקים המוזרים של משפחות המלוכה בעולם",
+      "summary": "לקראת יום הנסיכות הבינלאומי, הבאנו לכם את הכללים המוזרים שמשפחות המלוכה ברחבי העולם צריכות לציית להם",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21874720",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T08:00:00.000Z"
@@ -1461,6 +1650,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T07:21:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21878343",
+      "title": "בזמן ההצבעה על תיקון הרפורמה - בנט נפגש עם נתניהו ל\"תדרוך בטחוני\"",
+      "summary": "במליאת הכנסת עלו הבוקר לדיון מוקדם הצעות לבטל את שינוי הרכב הוועדה לבחירת שופטים, חוק היועמ\"ש וחוק השידורים • ח\"כ אופיר כץ יגיש הצעת חוק לאיסור הפרעה להנחת תפילין ושלילת זכויות של ח\"כ שלא יכיר בחמאס כארגון טרור • בשעה 13:30 יתכנסו לדיון ראשי מפלגות השינוי והתיקון, גדי איזנקוט, נפתלי בנט, יאיר גולן, אביגדור ליברמן ויאיר לפיד • קצת אחרי השעה 12 בצהריים נצפה יו\"ר ביחד ורה\"מ לשעבר, נפתלי בנט, כשהוא נכנס לפגישה עם נתניהו בלשכת ראש הממשלה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21878343",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T07:21:10.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21878343",
@@ -28596,96 +28794,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-13T11:23:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
-      "title": "האוניברסיטה החרימה את ישראל, המרצה: \"לא היו מחנות השמדה\"",
-      "summary": "סטפן סנדר-פאס כתב בבלוג בשם בדוי כי תרבות הזיכרון של השואה היא \"תעמולת אימה\" • הרקטורית: \"חופש הביטוי חל על כל העובדים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:13:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
-      "title": "האוניברסיטה שהחרימה את ישראל והפרופסור שטען: \"לא היו מחנות השמדה\"",
-      "summary": "סטפן סנדר-פאס כתב בבלוג בשם בדוי כי תרבות הזיכרון של השואה היא \"תעמולת אימה\" • הרקטורית: \"חופש הביטוי חל על כל העובדים\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21845127",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:13:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21845144",
-      "title": "בלי להמתין על הקו: ה-AI של מטא יעשה עבורכם את העבודה הכי מעצבנת",
-      "summary": "מטא מרחיבה את יכולותיו של סוכן הבינה המלאכותית Muse ומאפשרת לו לבצע שיחות טלפון לעסקים בארה\"ב בשם המשתמשים • מתיאום תורים והזמנת מקומות במסעדות ועד התמודדות מול מוקדי שירות • השירות זמין כעת למנויים משלמים החל מ-20 דולר בחודש",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21845144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:12:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14956774",
-      "title": "היועמ\"שית מסבירה כשלים, רק לא את שלה",
-      "summary": "אך אירוני שדווקא היועצת המשפטית לממשלה היא זו שמתחמקת מלהתייצב בבית המשפט כדי להגן על כתבי האישום נגד נתניהו",
-      "link": "https://www.ynet.co.il/news/article/yokra14956774",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-13T11:11:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/symsxw4cfx",
-      "title": "מוסטפא האיראני נעצר באמצע המקלחת: תיעוד יוצא דופן מבריטניה",
-      "summary": "מוסטפא ספהוונד ופרהאד ג'וואדי מאנש עבדו עבור משמרות המהפכה - ואספו מידע מפורט על עיתונאים איראניים מתנגדי משטר ועורך דין, עד רמת שמות חיות המחמד. הם נעזרו ב-ChatGPT, דבר ששימש נגדם כראיה במשפט. בעת המעצר השוטרים הוציאו את ספהוונד מהמקלחת - כשהשמפו עדיין על ראשו",
-      "link": "https://www.ynet.co.il/news/article/symsxw4cfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-13T11:11:11.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/symsxw4cfx",
-      "title": "מוסטפא נעצר באמצע המקלחת: התיעוד יוצא הדופן מבריטניה",
-      "summary": "מוסטפא ספהוונד ופרהאד ג'וואדי מאנש עבדו עבור משמרות המהפכה - ואספו מידע מפורט על עיתונאים איראניים מתנגדי משטר ועורך דין, עד רמת שמות חיות המחמד. הם נעזרו ב-ChatGPT, דבר ששימש נגדם כראיה במשפט. בעת המעצר השוטרים הוציאו את ספהוונד מהמקלחת - כשהשמפו עדיין על ראשו",
-      "link": "https://www.ynet.co.il/news/article/symsxw4cfx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-13T11:11:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21845439",
-      "title": "דניאל גרינברג: \"ניסיתי לדחות את הקץ\"",
-      "summary": "הדוגמנית ואישתו לשעבר של אייל גולן הגיעה לעזרה מקצועית כדי לשנות את אורח חייה. מה בדיוק נאמר לה שם?",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21845439",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:10:27.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961293",
-      "title": "לחץ מתגבר לחשוף את שם הבכיר שהורשע בהטרדה מינית",
-      "summary": "אחרי מחאת חברי הסגל, הארגון שמייצג את עוזרי ההוראה והמחקר פנה לבית הדין המשמעתי בדרישה לשקול מחדש את ההחלטה להותיר את שמו של הפרופסור שהורשע בהטרדה מינית בהליך משמעתי",
-      "link": "https://www.walla.co.il/news/israel/383961293",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T11:07:46.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961293",
-      "title": "הלחץ על אוניברסיטת ת\"א: חשפו את הפרופ' שהורשע בהטרדה מינית",
-      "summary": "אחרי מחאת חברי הסגל, הארגון שמייצג את עוזרי ההוראה והמחקר פנה לבית הדין המשמעתי בדרישה לשקול מחדש את ההחלטה להותיר את שמו של הפרופסור שהורשע בהטרדה מינית בהליך משמעתי",
-      "link": "https://www.walla.co.il/news/israel/383961293",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-13T11:07:46.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21845477",
-      "title": "צלפים על הגגות: המהלך החריג של המשטרה בנגב",
-      "summary": "בתיעודים שהופצו ברשתות נראים צלפים על גגות ברהט, והמשטרה אישרה את אותנטיות התמונות • מפקד מחוז דרום, ניצב חיים בובליל, הנחה את הכוחות להגיב בירי במקרה של ירי לעברם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21845477",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:02:01.000Z"
     }
   ]
 }
