@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:45:55.003Z",
+  "updatedAt": "2026-11-18T12:01:20.034Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389846",
+      "title": "פסטיבל האחדות המזויפת: איזנקוט ושותפיו מושיטים יד, אבל רק למי שנכנע לתנאיהם | עידן מאראש",
+      "summary": "בזמן שאיזנקוט ושותפיו מצטלמים במאהל האחדות ומפזרים הצהרות על פיוס, בכנסת מתנהל מאבק על מוקדי הכו. בין הקריאות לאיחוי הקרעים להחרמת המפלגה הגדולה, עולה השאלה: האם מדובר בעוד מופע פוליטי?",
+      "link": "https://www.maariv.co.il/news/opinions/article-1389846",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T11:47:51.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389844",
       "title": "דרמה במשפט נתניהו: השופטים שינו כיוון - ומנדלבליט ייחקר",
       "summary": "בעקבות עתירת הפרקליטות לבג\"ץ והסכמת ההגנה, השופטים יאפשרו לחקור את מנדלבליט ועדי הגנה נוספים בחקירה נגדית. ההחלטה מייתרת את העתירה, אך השופטים הבהירו כי החלטותיהם הקודמות נותרות בעינן",
@@ -48,6 +57,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T11:41:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/change-bloc-boycotts-hamas-tefillin-laws-vote",
+      "title": "גוש השינוי יצא בהובלת אחמד טיבי: החוק המטריל של הליכוד - לא צלח | צפו",
+      "summary": "הליכוד ניסה להציב את איזנקוט וליברמן במבוכה עם חוקים נפיצים • טיבי הוציא את הח\"כים הערבים מהמליאה | גוש השינוי יצא בתגובה מתואמת (כיכר בכנסת)",
+      "link": "https://www.kikar.co.il/political-news/change-bloc-boycotts-hamas-tefillin-laws-vote",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T11:40:26.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/change-bloc-boycotts-hamas-tefillin-laws-vote",
@@ -102,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T11:29:09.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/viral/383961961",
+      "title": "השחקנים הראשונים בעולם כבר נכנסו למשחק שמבעיר את הרשת",
+      "summary": "אחרי 13 שנות המתנה, המשחק המצופה בעולם הגיע למועד ההשקה בניו זילנד. ברשתות החברתיות חוגגים, גיימרים מנסים לעקוף את הפרשי השעות וחברות התקשורת נערכות לעומסים. בישראל עדיין מחכים לחצות",
+      "link": "https://www.walla.co.il/tech/viral/383961961",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T11:28:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/health/article/21881041",
@@ -174,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T11:12:22.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876750",
+      "title": "הבנקים הגדולים בלחץ? שני מתחרים חדשים בדרך - בנוסף לרבולוט",
+      "summary": "פרסום ראשון: בנק ישראל והאוצר מקדמים כניסת שני בנקים חדשים ב-2027 לצד רבולוט. המהלך עשוי להוזיל הלוואות, להעלות ריביות על פיקדונות ולחסוך למשקי הבית מיליארדים",
+      "link": "https://finance.walla.co.il/item/3876750",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T11:10:51.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3876750",
@@ -28866,78 +28902,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-13T12:10:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21845348",
-      "title": "\"השחקנים במכבי תל אביב היו מעבר לשיא, המון שמות מפוצצים\"",
-      "summary": "רועי דיין עלה לבוגרים בעונת ה\"גלקטיקוס\" ולא שוכח את העזרה מאלי דריקס: \"עברתי אובדן אישי והוא ליווה אותי\" • הוא מספר מה לא עבד בהפועל (\"לא הייתי בתוכניות של אלי גוטמן\"), ומשתף על החיים הרחק מהכדורגל: \"חיפשתי אתגר חדש\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21845348",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T12:00:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21845677",
-      "title": "לא רק דוגמנית ושחקנית: המקצוע החדש של מורן אטיאס",
-      "summary": "השחקנית הבינלאומית שיתפה בפוסט בחשבון האינסטגרם שלה כי החליטה להציב לעצמה דד-ליין עבור פרויקט שעבדה עליו במשך שנים ארוכות, והצהירה: \"התסריט הזה הוא עבודה בתהליך, וכך גם אני\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21845677",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:56:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21845700",
-      "title": "מכונית התפוצצה במוסקבה ביום השני ברציפות: דובר ראש ממשלת אוקראינה לשעבר נפצע",
-      "summary": "סרגיי זבורוטני, ששימש בעבר יועץ בכיר ודובר של ראש ממשלת אוקראינה הפרו-רוסי לשעבר מיקולה אזרוב, נפצע בפיצוץ מכונית ברובע צ'רטנובו בבירה הרוסית • לפי דיווחים בתקשורת המקומית, הוא איבד את ידו השמאלית ונפצע בראשו ובצלעותיו • זהו פיצוץ הרכב השני ברוסיה בתוך יומיים",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21845700",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:54:44.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388053",
-      "title": "בלבנון רגילים לשמוע איומים על ישראל - לא בקשה כזאת",
-      "summary": "שארל ג'בור, בכיר במפלגת \"הכוחות הלבנוניים\" הנוצרית, התראיין בטלוויזיה הלבנונית והביע רצון להיות שגריר לבנון בישראל. ג'בור, המבקר בחריפות את חיזבאללה, טען שכבר פנה לרשויות והחל ללמוד עברית",
-      "link": "https://www.maariv.co.il/news/world/article-1388053",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-13T11:53:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388053",
-      "title": "\"אני רוצה להיות שגריר לבנון בישראל\": הבכיר הלבנוני שהדהים את האולפן",
-      "summary": "שארל ג'בור, בכיר במפלגת \"הכוחות הלבנוניים\" הנוצרית, התראיין בטלוויזיה הלבנונית והביע רצון להיות שגריר לבנון בישראל. ג'בור, המבקר בחריפות את חיזבאללה, טען שכבר פנה לרשויות והחל ללמוד עברית",
-      "link": "https://www.maariv.co.il/news/world/article-1388053",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-13T11:53:52.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388048",
-      "title": "לא רק רומן: המסלול הסודי של שבבי אנבידיה לסין",
-      "summary": "מסמכים שחשף בלומברג מגלים כיצד שרתים עם שבבי אנבידיה הגיעו מסינגפור לסין למרות מגבלות היצוא האמריקניות, כאשר במרכז הפרשה הרומן שניהל ג'נסן הואנג, מנכ\"ל החברה לשעבר, עם אליס הואנג",
-      "link": "https://www.maariv.co.il/news/world/article-1388048",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-13T11:53:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388052",
-      "title": "תושב בת ים נעצר בחשד למעורבות ברצח ישראלי בבולגריה",
-      "summary": "תושב בת ים בן 32 נעצר בחשד למעורבות ברצח אזרח ישראלי בבולגריה בחודש שעבר. המעצר בוצע בהתאם לצו מעצר בין לאומי שהוצא נגדו, והוא צפוי להיות מובא בפני בית המשפט לדיון במסגרת הליך הסגרתו לרשויות בבולגריה",
-      "link": "https://www.maariv.co.il/news/law/article-1388052",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-13T11:53:01.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21845522",
-      "title": "עם ספורטאי מוכר: סנה סוקול בזוגיות חדשה",
-      "summary": "רקדנית \"רוקדים עם כוכבים\" נמצאת בתחילתו של קשר עם איש עסקים וכדורגלן לשעבר שחיזר אחריה במרץ עם משלוח מיוחד עד שכבש את ליבה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21845522",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T11:52:17.000Z"
     }
   ]
 }
