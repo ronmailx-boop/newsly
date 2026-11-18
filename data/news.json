@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:30:56.721Z",
+  "updatedAt": "2026-11-18T18:46:02.179Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/news/topnk7",
+      "title": "אירוע חריג בכפר קאסם: נהג יהודי דרס תושבים ב-5 זירות; ככל הנראה תחת השפעה",
+      "summary": "אירוע חריג התרחש הערב בכפר קאסם, במה שעדי ראייה העידו כתאונה \"לא רגילה\" | לפי הדיווחים, נהג, ככל הנראה יהודי דרס תושבים מקומיים במספר מוקדים כשהוא תחת השפעה | עד כה דווח על שמונה פצועים לפחות | זה מה שידוע (חדשות)",
+      "link": "https://www.kikar.co.il/news/topnk7",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-18T18:40:56.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjvqlwscfe",
+      "title": "1,000 ימים בלי קצה חוט: \"היימנוט חייבת לחזור\"",
+      "summary": "יותר מ-1,000 משתתפים הגיעו לעצרת בכיכר החטופים עבור היימנוט קסאו ובקריאה להעביר את חקירת ההיעלמות לשב\"כ. \"השעון חייב לעצור\", קראה אחותו של החלל שהושב מעזה. \"זה לא משחק\"",
+      "link": "https://www.ynet.co.il/news/article/bjvqlwscfe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T18:36:25.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/92189",
       "title": "מספר פצועים באירוע דריסה בכפר קאסם; כוחות רבים במקום",
       "summary": "",
@@ -39,6 +57,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T18:29:54.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962038",
+      "title": "שלושה פצועים באירוע דריסה בכפר קאסם. חשד - הנהג יהודי",
+      "summary": "הנהג החשוד נעצר ונבדק המניע לדריסה. ישנם פצועים בכמה זירות שונות",
+      "link": "https://www.walla.co.il/news/israel/383962038",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-18T18:28:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21885065",
+      "title": "שלושה נפצעו באירוע דריסה בכפר קאסם, הנסיבות בבדיקה",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/local/article/21885065",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T18:28:42.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1389981",
@@ -50,6 +86,24 @@
       "pubDate": "2026-11-18T18:27:01.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21884839",
+      "title": "\"הסתרתי פציעה בהפועל תל אביב, מאמין שעוד אחזור\"",
+      "summary": "שגיא פנחס נהנה מכל רגע בעונה שעברה אצל האדומים, על אף שהיה שוער שלישי: \"אצל אליניב ברדה כולם אותו דבר\" • הוא לא שיתף בפציעה ברגלו כי הרגיש קרוב לדקות משחק: \"הייתי להוט\" • העונה הוא מתחרה על מקומו בבני ריינה: \"לא מתחרט שעזבתי\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21884839",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T18:26:39.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjksidjczg",
+      "title": "היועמ\"שית צפויה להגיש מחדש את כתב האישום נגד ח\"כ גוטליב",
+      "summary": "אחרי הקמת הממשלה בהרב-מיארה תגיש שוב את כתב האישום נגד הח\"כית מעוצמה יהודית. בשל הרוב הקואליציוני הצפוי בוועדת הכנסת החדשה, גוטליב ככל הנראה תאבד את חסינותה",
+      "link": "https://www.ynet.co.il/news/article/rjksidjczg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-18T18:26:09.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/security-news/mossad-chief-gofman-trump-iran-strike-push",
       "title": "דיווח: זה מה שאמר גופמן בפגישתו עם האמריקאים - והמודיעין הסודי שהעביר",
       "summary": "ראש המוסד רומן גופמן סיים פגישה בוושינגטון במהלכה נפגש עם ראש ה-CIA ג'ון רטקליף וגורמים בכירים נוספים בממשל האמריקני | גורמים בכירים מספרים: זה מה שאמר גופמן לאמריקנים בפגישות | בירושלים חוששים שחלון ההזדמנויות הולך ונסגר (צבא וביטחון)",
@@ -57,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-18T18:26:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21884390",
+      "title": "7.9%: האיש שהצליח לפצח את ימי שישי בערב - ולעקוף את המתחרים",
+      "summary": "הומור בומרי ונוסטלגי, שאלות מומצאות מהפייסבוק, ופאנצ'ים מצחיקים שמשפריצים בקצב של ממטרה • הטבלה לא משקרת: שי שטרן מצליח להביא שיאי רייטינג, ובמקרה שלו קל מאוד להבין למה • בכל זאת, מדובר באדם שגדל במסדרונות רשות השידור",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21884390",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T18:26:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1389983",
@@ -124,7 +187,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rk3lyvjaml",
       "title": "8 פצועים מדריסה בכפר קאסם, הנהג נעצר: \"זו לא תאונה רגילה, זה טרור\"",
-      "summary": "",
+      "summary": "המשטרה בודקת את נסיבות המקרה בכפר קאסם, שם נפצעו שמונה באזור התעשייה, בהם נשים שיצאו מחתונה. הנהג היהודי נעצר, תושבים סיפרו על פצועים בכמה זירות שונות. ראש הוועד המקומי: \"זה מעשה טרור\"",
       "link": "https://www.ynet.co.il/news/article/rk3lyvjaml",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -156,6 +219,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T18:11:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21884497",
+      "title": "פחות מעשור: האסלאם צפוי להפוך לדת הגדולה בעולם",
+      "summary": "דוח חדש של מכון המחקר האמריקני פיו צופה כי המוסלמים יעקפו את הנוצרים כבר ב-2035, ובתוך כמה עשורים יהוו יותר משליש מאוכלוסיית העולם • במקביל, מספר היהודים בישראל צפוי לעלות ל-11.1 מיליון, ולהוות כ-62% מיהודי העולם",
+      "link": "https://www.israelhayom.co.il/news/world-news/article/21884497",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-18T18:10:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21884497",
@@ -610,7 +682,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21883799",
       "title": "בנט הציע רוטציה עם נתניהו כשאיזנקוט ראשון",
-      "summary": "בהודעת המנהיגים ניסו לשדר מסר מאחד על רקע סערת פגישת בנט-נתניהו, אך בפועל ישנן מחלוקות • איזנקוט וגולן חותרים להקמת ממשלה כמה שיותר מהר וסבורים שראש הממשלה מהווה \"סכנה ברורה מיידית\" • ליברמן וגולן הביעו התנגדות נחרצת לממשלת אחדות עם נתניהו, גם אם איזנקוט יכהן ראשון ברוטציה • פרטים חדשים",
+      "summary": "בהודעת המנהיגים ניסו לשדר אחדות על רקע סערת פגישת בנט-נתניהו, אך מאחורי הקלעים נחשפו מחלוקות • איזנקוט וגולן חותרים להקמת ממשלה בהקדם ורואים בנתניהו \"סכנה ברורה ומיידית\" • ליברמן וגולן מתנגדים לממשלת אחדות, גם אם איזנקוט יכהן ראשון ברוטציה • בנט פוסל ממשלת מיעוט בתמיכת הערבים וצירוף חרדים, ולפיד זועם שלא עודכן על פגישתו עם נתניהו",
       "link": "https://www.israelhayom.co.il/news/politics/article/21883799",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1344,6 +1416,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T14:20:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389902",
+      "title": "החייט מרעננה: בנט תופר חליפת אחדות לנתניהו - וזה המחיר | בן כספית",
+      "summary": "בנט לא עורק לנתניהו, והוא גם לא מתכנן תרגיל. כשהסכם עם החרדים נראה רחוק וממשלת מיעוט עלולה לקרוס, הגיע הזמן לבחון ברצינות גם את האפשרות שמעוררת סערה בגוש השינוי: ממשלת אחדות, עם איזנקוט ראשון",
+      "link": "https://www.maariv.co.il/news/opinions/article-1389902",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-18T14:17:40.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389902",
@@ -30288,24 +30369,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-13T18:57:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21847282",
-      "title": "אחרי 57 שנה: רשת האופנה סוגרת את כל 500 סניפיה",
-      "summary": "רשת בגדי הילדים האמריקאית הוותיקה הגישה בקשה לפשיטת רגל, והאתר שלה כבר מודיע שכל החנויות נסגרות • מבצע חיסול של עד 60% הנחה על כל המלאי • מתי תושלם מכירת החברה, למה היא קרסה, ואיזה מותג מוכר נוסף נמצא בבעלותה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21847282",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T18:43:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21847265",
-      "title": "גל גדות משתפת בדמעות: \"מפחדת מכמה מהר שנאת יהודים מתפשטת\"",
-      "summary": "השחקנית הישראלית פרסמה נאום שנשאה בטקס הענקת הפרס ההומניטרי של מרכז שמעון ויזנטל, שבו חלקה כבוד לאיש העסקים הישראלי ינון קרייז • במהלך דבריה התרגשה גדות עד דמעות והזהירה: \"אם אנשים מתרגלים לשמוע ולראות שנאה ולהסתכל לצד, איפה זה נגמר?\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21847265",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-13T18:41:14.000Z"
     }
   ]
 }
