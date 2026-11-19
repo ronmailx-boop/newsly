@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:31:04.295Z",
+  "updatedAt": "2026-11-19T18:46:07.026Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/torhzx",
+      "title": "דיווח: בנט לא יתמוך בממשלת מיעוט בראשות גדי איזנקוט",
+      "summary": "יו\"ר 'ביחד' נפתלי בנט אינו מוכן בשלב זה להתחייב לתמיכה בממשלת מיעוט בראשות גדי איזנקוט | במקביל, לפיד הזהיר את בנט ממשלת אחדות: \"זה יהיה מעשה של טירוף\" (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/torhzx",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T18:33:36.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390367",
       "title": "נתניהו ראשון, איזנקוט אחריו – והנשיאות כערובה לרוטציה: המתווה החדש לפתרון הפלונטר הפוליטי",
       "summary": "מועצת החכמות, בראשות חברת הכנסת לשעבר ענת כנפו, מציגה הצעה להקמת ממשלת אחדות שבמסגרתה נתניהו יכהן כראש הממשלה במשך 18 חודשים, ולאחר מכן יפנה את מקומו לאיזנקוט ויתמודד על נשיאות המדינה",
@@ -41,6 +50,15 @@
       "pubDate": "2026-11-19T18:28:21.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21893912",
+      "title": "גוף זר נמצא בפחית: ריקול למוצר שיש בכל בית",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21893912",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T18:28:09.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390365",
       "title": "המתיחות מול איראן: מסלול עוקף נתניהו - אביגדור ליברמן הזמין את הרמטכ\"ל זמיר לדיון חסוי",
       "summary": "אחרי פגישה של שעתיים וחצי עם בנט ותדרוך לאיזנקוט, נתניהו שולח לליברמן את המזכיר הצבאי במקום להגיע בעצמו. המסר הפוליטי ברור: ליברמן לא פרטנר, לפחות לא כרגע. וליברמן? מזמן את הרמטכ\"ל לדיון חסוי",
@@ -48,6 +66,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T18:25:59.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962265",
+      "title": "החשש מריגול סיני: מדוע נאספו הטלפונים במטוסו של טראמפ?",
+      "summary": "הבית הלבן הורה לעיתונאים שהתלוו לנשיא בטיסה מסין לארה\"ב להכניס את הטלפונים ששימשו אותם במהלך הביקור לשקיות החוסמות אותות תקשורת. הצעד עורר ספקולציות על שינוי במסלול הטיסה, כעת מתבררת הסיבה הביטחונית",
+      "link": "https://www.walla.co.il/news/world/383962265",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T18:24:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/torhgq",
@@ -75,6 +102,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T18:20:14.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962264",
+      "title": "לאחר הזימון של ליברמן: הצעד ה\"מפתיע\" של הרמטכ\"ל",
+      "summary": "רב-אלוף אייל זמיר צפוי להשתתף ביום שני בדיון חסוי בוועדת המשנה למודיעין. גורם ביטחוני הבהיר כי ההתייצבות תיעשה בהתאם להליך מסודר ובכפוף לחוק",
+      "link": "https://www.walla.co.il/news/politics/383962264",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T18:18:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21893863",
+      "title": "חשד לרצח: בן 30 נורה למוות ביפו",
+      "summary": "צוותי מד\"א שהוזעקו לזירה מצאו את הקורבן כשהוא ללא דופק וללא נשימה ופינו אותו במצב אנוש לבית החולים וולפסון תוך פעולות החייאה • המשטרה פתחה בחקירה ובחיפוש אחר חשודים במעשה",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21893863",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T18:15:51.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/torgsk",
@@ -336,6 +381,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T17:07:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21893212",
+      "title": "חי מהיורוליג: מכבי תל אביב - דובאי 46:51",
+      "summary": "הצהובים להטו מחוץ לקשת בדרך ליתרון 15, אבל מופע אימים מקו העונשין אפשר ליריבה לחזור • ים מדר וקמר בולדווין בולטים",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21893212",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T17:05:40.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21893212",
@@ -750,6 +804,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-19T15:40:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390308",
+      "title": "נחקר במח\"ש ומונה למנכ\"ל העירייה: עכשיו דורשים לבטל",
+      "summary": "התנועה לאיכות השלטון הגישה תביעה לביטול מינויו של אבישי מועלם למנכ\"ל עיריית טבריה ולכינוס מחדש של ועדת הבחירה. ברקע: חקירתו בחשד לשורת עבירות פליליות, שטרם הוכרעה בפרקליטות המדינה",
+      "link": "https://www.maariv.co.il/news/law/article-1390308",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T15:38:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390308",
@@ -2121,6 +2184,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21890593",
+      "title": "הפגנות הקיצוניים: עימותים אלימים פרצו בין שוטרים למפגינים במספר מוקדים",
+      "summary": "בעקבות מעצר עריק חרדי בנתב\"ג, מפגינים חסמו בירושלים אוטובוס מלא בחיילים ובהמשך גם את כביש 4 באזור בני ברק למשך שעות • המשטרה השתמשה ברימוני הלם לפיזור המפגינים • מאחורי המחאה עומדים פעילי פלג הרצפניקים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21890593",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T12:31:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21890593",
       "title": "החלה הפגנת הקיצוניים: כביש 4 נחסם; עימותים אלימים בירושלים",
       "summary": "מפגינים מהפלג הירושלמי החלו בחסימת כביש 4 במחאה על מעצרי עריקים חרדים • מוקדם יותר בוצעה חסימת אוטובוס עם חיילים בצומת שמואל הנביא, אשר פונתה על ידי שוטרים",
       "link": "https://www.israelhayom.co.il/news/local/article/21890593",
@@ -2595,6 +2667,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T11:23:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/music/383962046",
+      "title": "מוציאה את מגפי הבוקרים: סוויפט חוזרת לקאנטרי בענק",
+      "summary": "אחרי 13 שנות היעדרות, כוכבת הפופ חוזרת לבמת פרסי מוזיקת הקאנטרי, וההכרזה לבדה הספיקה כדי לשלוח מפרסמים לרוץ לקנות זמן מסך. ההכנסות מפרסומות זינקו ב-20%",
+      "link": "https://www.walla.co.il/entertainment/music/383962046",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T11:18:29.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/music/383962046",
@@ -33843,87 +33924,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-14T18:52:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "מכבי תל אביב התפרקה ברבע הרביעי - והפסידה 82:77 להפועל ירושלים",
-      "summary": "הצהובים חזרו לקרקע אחרי החגיגות בשני הדרבים ואיבדו יתרון דו ספרתי בהיכל מנורה מבטחים, בדרך למאזן 3:2 שלילי בליגת העל • חמישה קלעו בספרות כפולות למנצחת, 25 נקודות של ים מדר לא הספיקו מנגד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 55:62",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 48:52",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 37:41",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • האורחים מחקו פיגור דו ספרתי ליתרון, אלא שים מדר דאג להשאיר את הצהובים בשליטה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 32:31",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים מארחים את האדומים הלוהטים שטרם נוצחו העונה • ים מדר הלוהט הוביל ליתרון דו ספרתי, אבל שייק מילטון ולורנזו בראון הפכו את המומנטום",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 21:25",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים שבים להיכל מנורה מבטחים ופוגשים את הקבוצה הלוהטת באירופה, שהפסדה האחרון היה במפגש הקודם בין השתיים בליגת ווינר • דניאל תייס נרשם בצד אחד, לורנזו בראון מנגד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "title": "חי מליגת העל: מכבי תל אביב - הפועל ירושלים 4:4",
-      "summary": "מחזור 6: אחרי שני ניצחונות בדרבי, הצהובים שבים להיכל מנורה מבטחים ופוגשים את הקבוצה הלוהטת באירופה, שהפסדה האחרון היה במפגש הקודם בין השתיים בליגת ווינר • דניאל תייס נרשם בצד אחד, לורנזו בראון מנגד",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21849470",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:45:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/toi8wd",
-      "title": "אחרי מבצע מודיעיני: משטרת הודו עצרה חשוד שעקב אחרי בית חב\"ד מומביי",
-      "summary": "אסון גדול נמנע: משטרת הודו עצרה היום חשוד בן 20 שסייר באחרונה בבית חב\"ד במומביי - בדיוק 18 שנים אחרי הפיגוע הנוראי, בו נרצחו השלוחים הי\"ד | מוקד החירום והביטחון של חב\"ד CWA קורא לשלוחים להגביר עירנות | לסיפור המלא (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/toi8wd",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T18:39:51.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961403",
-      "title": "״פחדתי שיהרגו אותי”: בת ה-12 שהותקפה ונשדדה בחולון משחזרת",
-      "summary": "לוטן בת ה-12 הותקפה ונשדדה בידי חבורת נערים בגן ציבורי בחולון, ומאז היא מפחדת לצאת מביתה. אביה החירש שיתף בכאב: “אני אולי לא שומע את הקול שלה, אבל אני שומע הכי חזק בעולם את הלב שלה״",
-      "link": "https://www.walla.co.il/news/israel/383961403",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T18:38:39.000Z"
     }
   ]
 }
