@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:30:54.656Z",
+  "updatedAt": "2026-11-19T11:46:04.714Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1omvu2ame",
+      "title": "השער המלגלג על יו\"ר הכנסת בשבועון בעלי ערוץ 14 - ותגובת איזנקוט: \"הסתה פרועה\"",
+      "summary": "אחרי הביקורת על בחירת מתן כהנא לתפקיד יו\"ר הכנסת בתמיכת המפלגות הערביות, בחרו בשבועון הדתי-לאומי \"עולם קטן\" לפרסם את תמונתו על כשעל צווארון חולצתו שמות ראשי רע\"ם והמשותפת. בישר! אמרו כי מדובר בהסתה: \"שופרות נתניהו יצאו למסע השחרה נגד יו\"ר הכנסת וציבורים שלמים בישראל\"",
+      "link": "https://www.ynet.co.il/news/article/s1omvu2ame",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T11:39:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iraqi-jews-expulsion-admission",
+      "title": "\"גירשנו אותם וגנבנו את רכושם\": הפוליטיקאי העיראקי בווידוי מטלטל",
+      "summary": "בריאיון לערוץ אל-ערביה הסעודי, חבר הפרלמנט העיראקי לשעבר משמיע הכרה נדירה בעוול שנעשה ליהודי ארצו, ומצהיר כי האויב המרכזי של עיראק הוא דווקא איראן (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iraqi-jews-expulsion-admission",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T11:38:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390200",
+      "title": "\"היכולת למנוע מאיראן גרעין לא קיימת\": אזהרה חריפה של הבכיר לשעבר",
+      "summary": "על רקע תגבור הכוחות האמריקאיים במפרץ, המומחה לגרעין האיראני מזהיר כי מלחמה נוספת עשויה לפרוץ בתוך ימים וטוען שהמבצעים הקודמים לא הסירו את האיום. לדבריו, גם לשיקולים פוליטיים תפקיד מרכזי",
+      "link": "https://www.maariv.co.il/news/world/article-1390200",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T11:31:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21890088",
+      "title": "הבורסה בתל אביב בירידות קלות: פאלו אלטו מזנקת בכ-14%",
+      "summary": "הבורסה בתל אביב נסחרת היום בירידות קלות על רקע חוסר הוודאות הפוליטי והחשש מגלישה מהירה למלחמה בעצימות גבוהה מול איראן • מניות הבנקים מאבדות כ-2.5% בשל חשש מהכבדת הרגולציה מצד הכנסת והממשלה החדשות ומירידה ברווחיות בתוואי הריבית היורד • מניית פאלו אלטו מזנקת בכ-14% לאחר דוחות חזקים, העלאת תחזיות ורכישת חברת AI",
+      "link": "https://www.israelhayom.co.il/business/article/21890088",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T11:30:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21883486",
+      "title": "סוף שבוע של מרקים: שני מתכונים עשירים ומנחמים במיוחד",
+      "summary": "כשמזג האוויר מתלבט אם הוא קיץ או חורף, עדיפים מרקים קלילים שלא צריך לישון אחריהם שעתיים • המרכיבים: קערה עמוקה, כף גדולה והרבה תיאבון • עם תירס בחמאה או טעם פטריות עשיר: שני מרקים חמים, מנחמים וקלילים",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21883486",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T11:27:47.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/toqx9w",
       "title": "פסק דין מפתיע; יענקל'ה עשה דיאטה והתארס, האם מגיע לשדכן דמי שדכנות?",
       "summary": "שידוך שבוטל בעקבות המשקל חודש שנה לאחר מכן לאחר שהבחור רזה והתארס, המחותנים טענו כי מדובר ב\"פנים חדשות\" והשדכן תבע את שכרו | הגאון רבי יצחק זילברשטיין הכריע בדיון הלכתי מרתק בפני רופאי 'מעייני הישועה': האם מתחתנים עם המראה או עם הנפש? | צפו (חרדים)",
@@ -41,6 +86,15 @@
       "pubDate": "2026-11-19T11:25:52.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21890027",
+      "title": "אחרי 3 שנים של זוגיות: ירדן הראל ויוסי יהושוע נפרדו",
+      "summary": "ימים ספורים לאחר שחגגה את יום הולדתה ה-42 לצד בן זוגה, המגישה והעיתונאי החליטו להפריד כוחות • מקורביה מאשרים את הפרידה ומבהירים כי השניים נותרו ביחסים טובים",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21890027",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T11:24:01.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/toqxzd",
       "title": "טראמפ חייך קלות והותיר את המגישה בהלם: האמירה המדהימה שלו - על אדמת סין",
       "summary": "נשיא ארה\"ב דונלד טראמפ נשאל במהלך ראיון לרשת פוקס ניוז שהתקיים על אדמת סין אודות יחסי המודיעין בין המדינות | באופן תמוה למדי, טראמפ החליט להודות בקולו כשהוא שוהה על אדמת המדינה היריבה, בזמן שהוא נפגש עם נשיא סין (חדשות)",
@@ -48,6 +102,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T11:23:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21889804",
+      "title": "יותר מארבעה מטרים: הסוסה ששברה שיא גינס עולמי",
+      "summary": "הסוסה ג'ני זכתה בתואר יוצא דופן • התיעוד חושף איך נקבע השיא ומה נדרש כדי לשמור עליו",
+      "link": "https://www.israelhayom.co.il/tech/animals/article/21889804",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T11:15:35.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21889397",
@@ -84,6 +147,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T11:08:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383962110",
+      "title": "פסגת הקרינג' של קשת נכבשה בידי רותם סלע ואסי עזר",
+      "summary": "קשת הבטיחו ערב לא נורמלי, אבל במקום זה קיבלנו פסגות של קרינג' ודמע. ויש גם את העניין מעורר התהיות עם קרן פלס והתקן החדש שלה כמשוררת הלאומית",
+      "link": "https://www.walla.co.il/entertainment/tv/383962110",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T11:05:58.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21889720",
@@ -138,6 +210,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T10:58:26.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962166",
+      "title": "היערכות להפגנות החרדים בכביש 4 - כל הפרטים",
+      "summary": "הקבוצה החרדית הקיצונית צפויה להפגין אחר הצהריים במחאה על מעצר עריק חרדי. צפויים שינויים בהסדרי התנועה וחסימות באזור גהה, אלוף שדה ואם המושבות",
+      "link": "https://www.walla.co.il/news/israel/383962166",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T10:57:48.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390182",
@@ -246,6 +327,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T10:39:05.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962162",
+      "title": "פרץ בצחוק ואמר “הכול טוב”: החשדות נגד הנהג מכפר קאסם",
+      "summary": "ארבעה נפצעו, אחד מהם קשה, והמשטרה ביקשה שמונה ימי מעצר. השופט קבע כי הסרטונים מהאירוע ברורים וכי נשקפת מהחשוד מסוכנות גבוהה. החשוד תהה “במה אתם מאשימים אותי?״",
+      "link": "https://www.walla.co.il/news/israel/383962162",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T10:37:35.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/absorption-scenario-iran-rescue-forces-drill-direct-hit-hospital",
@@ -381,6 +471,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T10:15:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21888919",
+      "title": "הפסיקה בביה\"ד בהאג שעלולה לסבך את ישראל: \"כוונה להשמיד\"",
+      "summary": "בית הדין הבינלאומי לצדק בהאג פרסם את הכרעתו בתביעה שהגישה גמביה נגד מיאנמר בגין הפגיעה בבני המיעוט המוסלמי רוהינגה • השופטים קבעו כי כוחות הביטחון הרגו אלפי אזרחים, ביצעו מעשי אלימות מינית נרחבים ופגעו גם בילדים • ההכרעה עשויה להיות בעלת משמעות גם להליכים המשפטיים המתנהלים נגד ישראל בגין המלחמה בעזה",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21888919",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T10:12:50.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21888919",
@@ -745,7 +844,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1c21shcml",
       "title": "בן 74 נרצח ביריות בוואדי ערה",
-      "summary": "תושב אום אל פחם נפצע באורח אנוש מירי בערערה ופונה לבית החולים, שם נקבע מותו. המשטרה פתחה בחקירה",
+      "summary": "פארס אבו גזאלה מאום אל פחם נפצע באורח אנוש מירי בערערה ופונה לבית החולים, שם נקבע מותו. המשטרה פתחה בחקירה",
       "link": "https://www.ynet.co.il/news/article/h1c21shcml",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -32682,51 +32781,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T11:48:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961366",
-      "title": "ישראל דוחפת למתקפה באיראן - טראמפ מאותת על שינוי כיוון",
-      "summary": "נשיא ארה\"ב אמר ליועציו כי הוא עשוי להימנע מתקיפות כל עוד איראן והחות'ים לא ינקטו פרובוקציות חדשות. סעודיה וטורקיה קראו לו להמתין, אך לפי גורם אמריקני, ישראל ממשיכה ללחוץ לחידוש התקיפות",
-      "link": "https://www.walla.co.il/news/world/383961366",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T11:42:31.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961366",
-      "title": "טראמפ שוקל להימנע מתקיפות באיראן בעקבות לחץ בעלות הברית",
-      "summary": "נשיא ארה\"ב אמר ליועציו כי הוא עשוי להימנע מתקיפות כל עוד איראן והחות'ים לא ינקטו פרובוקציות חדשות. סעודיה וטורקיה קראו לו להמתין, אך לפי גורם אמריקני, ישראל ממשיכה ללחוץ לחידוש התקיפות",
-      "link": "https://www.walla.co.il/news/world/383961366",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T11:42:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21849095",
-      "title": "50 שנה אחרי הסרט שהפך לאגדה: מעריצי רוקי שברו שיא גינס עולמי",
-      "summary": "המעריצים התכנסו בפילדלפיה כשהם לבושים בבגדים המזוהים עם המתאגרף המיתולוגי, לרגל חגיגות 50 שנה לסרט הראשון בסדרה • המשתתפים שברו את שיא העולם להתכנסות הגדולה ביותר של אנשים המחופשים לרוקי – ואז שחזרו את סצנת המדרגות המפורסמת",
-      "link": "https://www.israelhayom.co.il/news/trending-online/article/21849095",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T11:35:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/apps/article/21849040",
-      "title": "ה-AI נכנס לארנק: ChatGPT וג'מיני של גוגל מתחברים לחשבון הבנק",
-      "summary": "אחרי שאנתרופיק חיברה את קלוד שלה לחשבונות הבנק של המשתמשים, 2 ענקיות הבינה המלאכותית לוקחות צעד דרמטי דומה • OpenAI השיקה את ChatGPT Wallet שיאפשר לסוכני ה-AI שלה לבצע רכישות באישור ביומטרי • במקביל, גוגל מאפשרת לחבר את ג'מיני לחשבון הבנק כדי לנתח הוצאות, לבנות תקציב ולזהות מנויים שהתייקרו • כל הפרטים",
-      "link": "https://www.israelhayom.co.il/tech/apps/article/21849040",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T11:33:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21849140",
-      "title": "המינוי המסקרן של השבוע: עופרה שטראוס מצטרפת לדירקטוריון טופ גאם",
-      "summary": "מינוי מעניין נרשם השבוע בשוק ההון הישראלי כשעופרה שטראוס, בעלת השליטה בשטראוס נכנסת לדירוקטוריון טופ גאם שעוסקת בתוספי תזונה שניתנים באמצעים \"ידידותיים יותר\" למשתמש",
-      "link": "https://www.israelhayom.co.il/business/article/21849140",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T11:32:59.000Z"
     }
   ]
 }
