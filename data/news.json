@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:16:03.442Z",
+  "updatedAt": "2026-11-19T16:31:01.421Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/92291",
+      "title": "מפגין נדרס מאוטובוס בהפגנה בבית שמש; כוחות ההצלה במקום",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/92291",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T16:27:17.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962253",
+      "title": "אסון בנפאל: צעיר ישראלי התמוטט ומת במהלך טרק באנפורנה",
+      "summary": "הצעיר התמוטט לאחר שנחשף לגז בזמן שהתקלח במהלך טרק ברכס האנפורנה. חני ליפשיץ, מנהלת בית חב\"ד בנפאל, הזהירה: \"כבר היו בעבר הרבה מקרים של התעלפויות במקלחות\"",
+      "link": "https://www.walla.co.il/news/world/383962253",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T16:23:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/kfar-saba-mayor-watch-smuggling-investigation",
+      "title": "בגלל בקשת טלית ותפילין: ההסתבכות החדשה של ראש העיר",
+      "summary": "רפי סער זומן לחקירה נוספת בלהב 433 • קרוב משפחה נתפס מנסה להוציא שעון רולקס מהלשכה | דרמה בפרשת השחיתות (משטרה)",
+      "link": "https://www.kikar.co.il/police/kfar-saba-mayor-watch-smuggling-investigation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T16:21:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/israeli-tourist-death-nepal-annapurna-gas-exposure",
+      "title": "צעיר ישראלי בן 26 נחשף לגז במהלך מקלחת, התמוטט ומת",
+      "summary": "מטייל בן 26 התמוטט ומת בטרק האנאפורנה לאחר שנחשף לגז במהלך מקלחת • בית חב\"ד נפאל פרסם אזהרה דחופה למטיילים | \"כמעט בכל עונה נתקלים במקרים של התעלפות\" (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/israeli-tourist-death-nepal-annapurna-gas-exposure",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T16:21:27.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjtolt2azg",
+      "title": "הרעיון החדש: נתניהו יכהן שנתיים כרה\"מ - ויעבור למשכן הנשיא",
+      "summary": "בגוש השינוי ובליכוד בוחנים אפשרות לממשלת אחדות עם רוטציה, אבל עם תמריץ שיבטיח שנתניהו יפנה את הלשכה בתום שנתיים. גורמים פוליטים הציעו לתקן את החוק כך שיאפשר לקיים בחירות לנשיא המדינה הבא טרם השבעת הממשלה - כך שלנתניהו יובטח תפקידו של הרצוג ב-2028",
+      "link": "https://www.ynet.co.il/news/article/sjtolt2azg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T16:15:58.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/byhi6p2rgl",
       "title": "האיום הכימי והביולוגי לא מחייב בינתיים תקיפה באיראן",
       "summary": "יעבור זמן רב עד שלאיראן תהיה יכולת להשתמש בחומר לחימה לא-קונבנציונאלי לטווחים ארוכים. יש גם תרחיש אחר שבו היא עלולה לנסות, אך הוא מצריך זמן ומלווה בהרבה \"סימנים\". בישראל מקווים שהמידע שהעביר ראש המוסד יניע את הממשל, אך בינתיים לטראמפ יש מספיק סיבות להעריך שהזמן משחק לטובתו",
@@ -41,6 +86,15 @@
       "pubDate": "2026-11-19T16:09:55.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21892914",
+      "title": "טרגדיה בנפאל: צעיר ישראלי התמוטט ומת במקלחת",
+      "summary": "הצעיר, בן 26, נחשף לגז במהלך המקלחת. בבית חב\"ד המקומי הזהירו את המטיילים הישראלים: \"אל תזלזלו בסכנה הזו. אם מריחים גז - לא מתקלחים. עדכנו תמיד חבר - שיבדוק שאתם בסדר\"",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21892914",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:09:46.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/troper-likud-refused-coalition-meetings-eisenkot",
       "title": "\"כך לא מתנהגים\": חילי טרופר חשף מגעים סודיים שניסה לקיים עם הליכוד",
       "summary": "ח\"כ טרופר חושף: \"במשך כמעט שבוע פנינו לליכוד בבקשה לקבוע פגישות המשך\" • \"כל פעם בתירוץ אחר - כך לא מתנהגים מי שבאמת חפצים באחדות\" | התגובה המלאה (פוליטי מדיני)",
@@ -48,6 +102,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T16:09:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21892542",
+      "title": "ביצע ניסוי לילי ב-AI - וגילה אלפי תמונות מתקופת השואה",
+      "summary": "ביני ארנברג, מורה חב\"דניק ואב לחמישה, ביקש לחקור את שורשי משפחתו וחשף סוד שלא הכיר • בהמשך הצליב מידע מארכיונים ואיתר כ-20 אלף תמונות ושמות שטרם אומתו • ביד ושם מסבירים כיצד הטכנולוגיה מאיצה את חקר השואה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21892542",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:08:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21892575",
+      "title": "\"הקטנות פה משלמות יותר ממכבי תל אביב ומכבי חיפה, זה כמו צבא\"",
+      "summary": "עבדאללה חליחל משחק בגאנגוון מדרום קוריאה ונהנה מכל רגע: \"בארץ המחליפים עושים פרצוף, כאן עומדים בטור לכבוד מי שפותח\" • נדהם מהסדר במדינה: \"לכל בניין שקיות זבל בצבע אחר\" • ולא חושב על ליגת העל: \"רק אם יגיע משהו טוב, אבי ז\"ל חלם שאשחק במכבי חיפה או הפועל תל אביב\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21892575",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:08:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21892799",
+      "title": "סוף למגבלת 10 הדקות: השדרוג הענק של ChatGPT",
+      "summary": "עדכון חדש ב-ChatGPT הופך את ההכתבה הקולית למהירה ונוחה מאי פעם: פיצ'ר Live Dictation מתמלל את דבריכם בזמן אמת תוך כדי דיבור, ומסיר לחלוטין את מגבלת 10 הדקות להקלטה • השדרוג זמין מהיום בחינם לכל המשתמשים בווב, במחשב ובאפליקציות המובייל • כך זה עובד",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21892799",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:07:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21892804",
+      "title": "בגרון חנוק: ברהנו טגניה התפוצץ בשידור חי",
+      "summary": "1,000 ימים להיעדרותה של היימנוט קסאו, וכתב הפלילים מאבד את סבלנותו מול מקבלי ההחלטות • במונולוג כאוב הוא שיתף בביקור אצל המשפחה המרוסקת בחגים, האשים את הרשויות והזהיר את ההורים מפני \"תקוות שווא\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21892804",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:04:06.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1390312",
@@ -340,7 +430,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21892287",
       "title": "בליכוד תוקפים את איזנקוט, אך מודיעים: הצוותים ייפגשו שוב ביום ראשון",
-      "summary": "בליכוד מאשימים את גוש השינוי בהתעלמות מדרישותיהם להימנע מצעדים חד-צדדיים בכנסת, ובהם מינוי יו\"ר הכנסת • במפלגה תוקפים גם את האפשרות להקמת ממשלה בתמיכת המפלגות הערביות, אך מדגישים: \"אחדות לאומית היא צו השעה\"",
+      "summary": "בליכוד מאשימים את גוש השינוי בהתעלמות מדרישותיהם להימנע מצעדים חד-צדדיים בכנסת, ובהם מינוי יו\"ר הכנסת • במפלגה תוקפים גם את האפשרות להקמת ממשלה בתמיכת המפלגות הערביות, אך מדגישים: \"אחדות לאומית היא צו השעה\" • ב\"ישר!\" מכחישים את הטענות: \"לא נענו לניסיונות לקדם שיחות\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21892287",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1479,6 +1569,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T12:30:59.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876911",
+      "title": "בגיל 43: הקוסם שיסבך את מכבי תל אביב הערב",
+      "summary": "כוכב הכדורסל הברזילאי הצטרף לדובאי בגיל 43, ויפגוש שוב את הצהובים. עד כה שיחק 18 משחקים נגד מכבי בקריירה, כולל סדרת פלייאוף שהתל אביבים לא רוצים לשכוח. כיצד זה ייגמר הפעם?",
+      "link": "https://sports.walla.co.il/item/3876911",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T12:30:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/health/article-1390226",
@@ -33726,69 +33825,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T16:31:19.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/yeshiva-world/ponevezh-yeshiva-kahaneman-faction-returns-main-ha",
-      "title": "לראשונה בגבעת הישיבה מזה שנים: השונאים והמחבלים התפללו יחד",
-      "summary": "יממה לאחר החלטת בית המשפט העליון, תלמידי פלג הרב כהנמן התפללו בהיכל העליון • בחורי פלג הרב מרקוביץ ויתרו ורבים מהם ירדו להתפלל בבית המדרש 'פרלמן' | השבת כולה עברה ללא אלימות (עולם הישיבות)",
-      "link": "https://www.kikar.co.il/yeshiva-world/ponevezh-yeshiva-kahaneman-faction-returns-main-ha",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T16:30:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "title": "תיעוד: ג'יפ משטרתי ממוגן נסע באדום - והתנגש ברכב מנהלת בית ספר שנהרגה",
-      "summary": "בתאונה בצומת עכו מזרח נפצעה אנוש דלאל מלחם בת ה-59, מנהלת ביה\"ס אלרחמה בג'דיידה מכר, ומותה נקבע בבית החולים. בתה בת ה-29 ששהתה ברכב נפצעה בינוני, מצבה מוגדר יציב. מתחילת השנה - 391 בני אדם נהרגו בכבישי ישראל",
-      "link": "https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T16:29:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "title": "ג'יפ משטרתי התנגש ברכב מנהלת בית ספר שנהרגה, נבדק אם נסע באדום",
-      "summary": "בתאונה בצומת עכו מזרח נפצעה אנוש דלאל מלחם בת ה-59, מנהלת ביה\"ס אלרחמה בג'דיידה מכר, ומותה נקבע בבית החולים. בתה בת ה-29 ששהתה ברכב נפצעה בינוני, מצבה מוגדר יציב. מתחילת השנה - 391 בני אדם נהרגו בכבישי ישראל",
-      "link": "https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T16:29:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "title": "מנהלת בית ספר נהרגה בתאונה ליד עכו, בתה נפצעה",
-      "summary": "בהתנגשות בין שני כלי רכב בצומת עכו מזרח נפצעה אנוש דלאל מלחם בת ה-59, מנהלת ביה\"ס אלרחמה בג'דיידה מכר, ומותה נקבע בבית החולים. בתה בת ה-29 ששהתה ברכב נפצעה בינוני, מצבה מוגדר יציב. מתחילת השנה - 391 בני אדם נהרגו בכבישי ישראל",
-      "link": "https://www.ynet.co.il/news/article/s1qkmwirfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T16:29:34.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iaea-iran-isfahan-nuclear-facility-concern",
-      "title": "איראן חוסמת גישה למתקן גרעיני באספהאן - סבא\"א מזהירה",
-      "summary": "הסוכנות הבינלאומית לאנרגיה אטומית מביעה דאגה גוברת מחוסר גישה למתקן באספהאן • מאות קילוגרמים של אורניום מועשר ברמה של 60% ללא פיקוח | 'אין בידינו מידע מספק' (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iaea-iran-isfahan-nuclear-facility-concern",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T16:25:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21850249",
-      "title": "החופשה הבאה מהלימודים מתקרבת: מתי מדליקים נר ראשון של חנוכה?",
-      "summary": "השנה החג נפתח בערב שבת, ולכן את ההדלקה הראשונה מקדימים לשעות אחר הצהריים • גם הנר האחרון יודלק ביום שישי • מועדי ההדלקה לכל שמונת הלילות, וכל מה שצריך לדעת על ימי החופש בבתי הספר",
-      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21850249",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T16:25:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21850093",
-      "title": "\"פפ גווארדיולה הרג את הכדורגל\"",
-      "summary": "סגן נשיא אופ\"א לשעבר, הפולני זביגנייב בונייק, תקף את המאמן הקטלוני בצורה חריגה • \"רוחש לו כבוד, אבל אני לא נהנה מזה\"",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21850093",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T16:18:18.000Z"
     }
   ]
 }
