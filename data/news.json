@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:16:12.702Z",
+  "updatedAt": "2026-11-19T20:31:05.856Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390400",
+      "title": "אחרי ההרשעה באונס במרמה - הגניקולוג יקבל משפט חוזר: \"נפלה טעות\"",
+      "summary": "מקרה חריג בעליון: הגניקולוג מיכאל שטטמן הורשע באונס במרמה, למרות תפנית בעמדת הפרקליטות. סולברג הורה על משפט חוזר בפני חמישה שופטים בעקבות טעות שנפלה בהליך הערעור",
+      "link": "https://www.maariv.co.il/news/law/article-1390400",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T20:25:43.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/toreqn",
+      "title": "ההבדל בין בעל התניא לבנו האדמו\"ר השני בשושלת חב\"ד | מיוחד",
+      "summary": "בשיעור לרגל י׳ כסלו ופרשת ויצא, מגלה המשפיע הרב אשר פרקש את עומקו של הפסוק ומשתף בביאור ששמע מהרבי מליובאוויטש על שתי דרכים לעשות שלום | דרך ההבדל בין המעיין של אדמו״ר הזקן ל״רחובות הנהר״ של אדמו״ר האמצעי (חסידות)",
+      "link": "https://www.kikar.co.il/haredim-news/toreqn",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T20:18:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjk0nynczl",
+      "title": "שלושה דורות נרצחו בתוך חודשים: אחרי הבן והנכד, פארס נורה למוות במכולת שלו",
+      "summary": "על פי החשד, שני רעולי פנים ירו מטווח אפס באבו גזאלה, אימאם ומואזין מערערה, בזמן שישב על כיסא. בפברואר בנו ונכדו נורו למוות באום אל פחם. השלושה נרצחו בגלל סכסוך דמים ממושך בין קרובי משפחה. ילדיו הצעירים של גזאלה חזרו מבית הספר וחיפשו אותו",
+      "link": "https://www.ynet.co.il/news/article/hjk0nynczl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T20:15:45.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/sygqpahrmg",
       "title": "\"רודפי היהודים\" במישיגן סימנו בתים בסמלי חמאס - ומקבלים גיבוי שמעורר סערה",
       "summary": "סערה באוניברסיטת מישיגן: יותר מאלף אנשי סגל הצביעו בעד תמיכה בפעילים פרו-פלסטינים הנאשמים במסע איומים והשחתת רכוש, כולל פגיעה בבניין הפדרציה היהודית ביום השנה לטבח 7/10. המרצים קוראים לתרום להגנתם המשפטית וטענו שהאישומים \"מנופחים קיצונית\". במקביל, הוגש אישום חדש נגד אחת הנאשמות, שלפי התביעה ניסתה להשמיד מחשב נייד כדי לשבש את החקירה",
@@ -39,6 +66,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T20:01:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383962018",
+      "title": "הלוחמים ישלמו? התוכנית לקיצוץ במילואים כבר מעוררת סערה",
+      "summary": "הרמטכ\"ל הציג את תוכנית צה\"ל לשנת 2027, הכוללת צמצום ימי המילואים והיקף הכוחות בשטח. בצה\"ל מודים כי ההכשרות והאימונים אינם עומדים בתקן הנדרש",
+      "link": "https://www.walla.co.il/news/military/383962018",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T20:00:27.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1e11oq2rmg",
@@ -50,6 +86,60 @@
       "pubDate": "2026-11-19T20:00:12.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21894394",
+      "title": "דימם מהעין - ועקץ: סערה אחרי ההפסד של מכבי תל אביב",
+      "summary": "כוכב דובאי דז'נאן מוסא נפגע בעינו מארמנדו בייקוט, ולא חזר לשחק • אחרי הניצחון 74:80 הוא העלה תמונה שלו מדמם, וביקר את השופטים על כך שלא שרקו לעבירה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21894394",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:59:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21894384",
+      "title": "התפנית בתעלומת הבלונים בעוטף עזה: הגיעו מישראל - והקשר להברחות הסמים",
+      "summary": "הבלונים שאותרו סמוך לעין השלושה נשאו מכשירי GPS ועוררו תחילה חשש כי שוגרו מרצועת עזה • בדיקת צה\"ל העלתה כי מקורם בשטח ישראל • נבדק חשד לקשר לפעילות הברחות לרצועה, על רקע ניסיונות קודמים להעברת סמים באמצעות רחפנים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21894384",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:59:03.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21894335",
+      "title": "\"ערבי\" ו\"תומך טרור\" הן לא מילים נרדפות",
+      "summary": "אי אפשר להיתמם עוד: קו ישר וחד מוביל מקמפיין ההכללה של ערביי ישראל לבין האלימות הפראית שאנחנו עדים לה • מי יכול לומר ביושר: \"ידינו לא שפכו את הנפט הזה, לא אנחנו הצתנו את הגפרור\"? • ג'קי לוי סוער בעקבות שריפת המסגד בכפר דחי שבעמק יזרעאל, ומזכיר: כשזה קורה לאחינו בגולה - אנחנו יודעים בדיוק איך לקרוא לזה",
+      "link": "https://www.israelhayom.co.il/news/local/article/21894335",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:56:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21890296",
+      "title": "לא מתקפת סייבר ולא AI: הבאג הרדום שהפיל את מיקרוסופט",
+      "summary": "במשך קרוב ליממה נותקו מיליוני עובדים, עסקים וממשלות מתיבות המייל של Outlook באחת התקלות החמורות בתולדות מיקרוסופט • כעת נחשף מה באמת קרה מאחורי הקלעים: שילוב קטלני של באג שהסתתר בשרתים מאז יולי, עומס מכיוון Teams ובדיקות מעבדה שבוצעו על חומרה מיושנת",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21890296",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:50:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/you-may-find-interesting/article/21894339",
+      "title": "קבוצת יבנה מוצרי מזון קוראת להחזרת המוצר מלפפונים במלח",
+      "summary": "בעקבות תלונה שהתקבלה מצרכן על המצאות גוף זר מתכתי במוצר בודד ומתוך מחויבות החברה לבטיחות הצרכנים",
+      "link": "https://www.israelhayom.co.il/you-may-find-interesting/article/21894339",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:44:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1390379",
+      "title": "אחרי השיירה מאיראן, תקיפה נגד אתר טילים של חיזבאללה",
+      "summary": "צה\"ל תקף במרחב ג'נתא שבבקעת הלבנון אתר ששימש לייצור ולהרכבת טילים מדויקים וכטב\"מים מתוצרת איראן. בצבא זיהו מחבלי חיזבאללה שהגיעו למקום בניסיון לשקמו",
+      "link": "https://www.maariv.co.il/news/military/article-1390379",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T19:41:30.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1390379",
       "title": "כטב\"מי נפץ וטילים מדויקים: צה\"ל תקף שוב בעומק לבנון",
       "summary": "צה\"ל תקף במרחב ג'נתא שבבקעת הלבנון אתר ששימש לייצור ולהרכבת טילים מדויקים וכטב\"מים מתוצרת איראן. בצבא זיהו מחבלי חיזבאללה שהגיעו למקום בניסיון לשקמו",
@@ -57,6 +147,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T19:41:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21894278",
+      "title": "המוזיקאי קובי רכט הלך לעולמו בגיל 79",
+      "summary": "הקריירה הארוכה של רכט כללה למעלה מעשרה אלבומים ותפקידים בתיאטרון ובקולנוע, בין היתר בסרטים \"הלהקה\" ו\"צומת וולקן\" • רכט הקים את הצמד \"קוביות\" עם קובי אושרת ובהמשך חברו השניים לחנן יובל והפכו לשלישיית \"חובבי ציון\"",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21894278",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:38:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390381",
@@ -95,6 +194,15 @@
       "pubDate": "2026-11-19T19:36:18.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880565",
+      "title": "מילאתי שאלון בריאות. קיבלתי ציון שלפני עשור היה מעליב אותי",
+      "summary": "אם יש משהו שהיה חסר לנו זה עוד גורם כלשהו - רצוי אלגוריתם של קופת חולים - שידרג אותנו ויסביר לנו כמה אנחנו לא בסדר • השעה הייתה חמש בערב, ואני שכבתי על המיטה עם נעליים כי לא היה לי כוח. זה מה שקרה מאז",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880565",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:36:13.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/entertainment/music/383962273",
       "title": "הלך לעולמו קובי רכט, מהקולות המיוחדים של המוזיקה הישראלית",
       "summary": "הזמר, המלחין והיוצר, שהותיר חותם על הפסקול הישראלי עם שירים כמו “לך איתה”, “רגאיי הבטלן” ו”איש גדול” הלך לעולמו בגיל 79",
@@ -102,6 +210,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-19T19:35:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21892480",
+      "title": "פטיש 24 השעות: האיום האמיתי על כהונת נתניהו",
+      "summary": "תפקיד יו\"ר הכנסת הוא לרוב פרס ניחומים, אבל הפעם מתן כהנא מחזיק בסמכות שיכולה להשאיר את נתניהו כח\"כ בלבד בתוך יממה • כל אחד בוחר את השקר לבוחר: מבין שלל הפרות ההבטחות, האחדות של בנט היא הפתרון השפוי היחיד • דרושים פוליטיקאים שעומדים במילה, וחברי קואליציה ששרים את המנון המדינה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21892480",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:33:01.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/mayriv/yeshiva-hebron-engagement-policy",
@@ -246,6 +363,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-19T19:02:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390371",
+      "title": "\"חלאס, תודה על השירות\": ישראל חסון מתפוצץ על נתניהו",
+      "summary": "ישראל חסון, לשעבר סגן ראש השב\"כ, התייחס ברדיו 103fm לפרשת שוחד הבחירות ולמעורבות הארגון. במהלך הריאיון מתח ביקורת חריפה על התנהלות השב\"כ ועל ראש הממשלה בנימין נתניהו",
+      "link": "https://www.maariv.co.il/news/politics/article-1390371",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T19:00:58.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390371",
@@ -509,6 +635,15 @@
       "pubDate": "2026-11-19T18:05:03.000Z"
     },
     {
+      "id": "walla:https://sports.walla.co.il/item/3876955",
+      "title": "\"קבוצה קטנה מזוינת\": צפו ברגעי הזעם הלא אופיינים של ניימאר",
+      "summary": "כוכב סנטוס ספג עלבונות מאוהדי קוריטיבה. לאחר הניצחון הדרמטי 0:1, הגיב בכעס אל מול המצלמות: \"טיפשים, אתם חייבים לכבד אותי\"",
+      "link": "https://sports.walla.co.il/item/3876955",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T18:05:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21893612",
       "title": "אחרי 20 שנה: האיחוד המרגש של רונה לי שמעון",
       "summary": "הרקדנית והשחקנית הגיעה לסטודיו למחול בלוס אנג'לס, שם השתתפה בשיעור של עידו תדמור • השניים הכירו בתחילת שנות ה-2000 בתכנית \"נולד לרקוד\" - והגולשים לא נותרו אדישים למפגש",
@@ -597,6 +732,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T17:42:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
+      "title": "העליון הורה - משפט חוזר לגניקולוג שהורשע באונס: \"הנחה שגויה\"",
+      "summary": "ד\"ר מיכאל שטטמן זוכה במחוזי, אך הורשע בערעור למרות שהפרקליטות חזרה בה מבקשת ההרשעה • השופט נעם סולברג קבע כי אי-הבנה בין הצדדים לשופטים מערערת את יסודות פסק הדין • כעת יידון התיק מחדש בהרכב מורחב של חמישה שופטים",
+      "link": "https://www.israelhayom.co.il/news/law/article/21893536",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T17:32:10.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
@@ -2453,21 +2597,21 @@
       "pubDate": "2026-11-19T12:49:43.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/spiritual-writing-journey",
-      "title": "צא מעצמך | אורי אברהם",
-      "summary": "כל שבוע \"מלחמה\", היצר הטוב עם היצר הרע - עזוב נו, זה לוקח זמן, איך עכשיו תחשוב כל שבוע מחדש על רעיון מגוון, ותנגיש אותו הכי שאפשר, שיהיה \"טעים\" ומיוחד. ובוא נו, לכתוב זה עבוֹדה, מחשבה על כל פסיק, דגּש ונקוּדה (מגזין כיכר)",
-      "link": "https://www.kikar.co.il/haredim-news/spiritual-writing-journey",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T12:49:42.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21890081",
       "title": "קייט מידלטון תחת ביקורת: \"לא אולפן צילומים מלכותי\"",
       "summary": "נסיכת ויילס תועדה מנחמת אם שאיבדה אחת מבנותיה התאומות בבית חולים בהודו • אלא שהרגע המרגש הפך למוקד ביקורת ברשת, כשגולשים האשימו את הארמון בניצול טרגדיה אישית לצורכי יחסי ציבור • \"זה דוחה\"",
       "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21890081",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T12:49:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/spiritual-writing-journey",
+      "title": "צא מעצמך | אורי אברהם",
+      "summary": "כל שבוע \"מלחמה\", היצר הטוב עם היצר הרע - עזוב נו, זה לוקח זמן, איך עכשיו תחשוב כל שבוע מחדש על רעיון מגוון, ותנגיש אותו הכי שאפשר, שיהיה \"טעים\" ומיוחד. ובוא נו, לכתוב זה עבוֹדה, מחשבה על כל פסיק, דגּש ונקוּדה (מגזין כיכר)",
+      "link": "https://www.kikar.co.il/haredim-news/spiritual-writing-journey",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
       "pubDate": "2026-11-19T12:49:42.000Z"
     },
     {
@@ -3072,6 +3216,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T11:23:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383961796",
+      "title": "המורה פרצה בבכי והודתה בפגיעה מינית בתלמיד בן 16",
+      "summary": "מורה מחליפה ומאמנת כדורגל מקנטקי הודתה שניהלה קשר מיני אסור עם תלמיד ושלחה לו תמונות אינטימיות. הפרשה החלה בחדר ההלבשה ונחשפה בעקבות מכתב אנונימי. כעת היא צפויה לעונש מאסר",
+      "link": "https://www.walla.co.il/news/donotmiss/383961796",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T11:19:43.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/music/383962046",
@@ -33942,51 +34095,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T20:32:46.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
-      "title": "בהתנגשות עם רכב צבאי: הרוגה בתאונת דרכים קטלנית בעכו | תיעוד",
-      "summary": "דלאל מלחם, מנהלת בית ספר בת 59 נהרגה בתאונת דרכים בכביש 85 • בתה בת ה-29 נפצעה בינוני ופונתה לקבלת טיפול רפואי בבית החולים • המשטרה פתחה בחקירת נסיבות האירוע",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-14T20:29:00.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
-      "title": "התנגשות חזיתית עם רכב צבאי: הרוגה בתאונת דרכים קטלנית בעכו | תיעוד",
-      "summary": "דלאל מלחם, מנהלת בית ספר בת 59 נהרגה בתאונת דרכים בכביש 85 • בתה בת ה-29 נפצעה בינוני ופונתה לקבלת טיפול רפואי בבית החולים • המשטרה פתחה בחקירת נסיבות האירוע",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-7b0ea65229bd1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-14T20:29:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961416",
-      "title": "הדס שטייף בפוסט חריג: מבקשת תרומות מהציבור לשלם לאפי נוה",
-      "summary": "לאחר שחויבה בפיצויים של מאות אלפי שקלים לראש לשכת עורכי הדין לשעבר, העיתונאית הדס שטייף יוצאת בקמפיין מימון המונים. בפוסט חריג שפרסמה הזהירה מפני עיקולים והליכי הוצאה לפועל",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961416",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T20:27:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21851256",
-      "title": "ואולי הפעם דווקא איזנקוט הוא שעושה פוליטיקה מהביטחון?",
-      "summary": "קשה להשתחרר מהרושם שהחשש הפומבי של איזנקוט מפעולה צבאית של נתניהו בקרוב נובע דווקא מהחשש שמהלך כזה יסייע לראש הממשלה לדחוק אותו לממשלת אחדות • אלא ששיקולים פוליטיים אינם סיבה להימנע מפעולה ביטחונית חיונית לביטחון ישראל, כפי שממחישים התקדימים של ראשי ממשלות שפעלו צבאית גם ערב בחירות או בתקופת ממשלת מעבר",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21851256",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T20:23:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21851413",
-      "title": "רגע אחרי הפרידה: הדייט של דנית גרינברג - עם השחקן המוכר",
-      "summary": "ימים ספורים אחרי הפרידה האחרונה, גרינברג תועדה בערב משותף עם דמות מוכרת מעולם המשחק והמוזיקה. בתמונות שהגיעו ל-ForReal נרשמו שיחה קרובה, חיוכים והרבה מקום לפרשנות",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21851413",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T20:22:24.000Z"
     }
   ]
 }
