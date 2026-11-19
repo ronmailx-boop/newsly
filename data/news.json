@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:45:51.749Z",
+  "updatedAt": "2026-11-19T18:01:05.430Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/torfzc",
+      "title": "אירוע ירי ביפו: בן 30 פונה לבית החולים במצב אנוש",
+      "summary": "אירוע ירי ביפו: פצוע אנוש במקום | המשטרה פתחה בחקירה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/torfzc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T17:48:49.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1guehnazl",
+      "title": "המשנה לנשיא העליון נגד השופטים: משפט חוזר לגינקולוג שהורשע באונס, \"חשש לעיוות דין\"",
+      "summary": "השופט סולברג קבע כי הרשעת הגינקולוג מיכאל שטטמן באונס במרמה מעוררת חשש ממשי לעיוות דין ע\"י שופטי העליון. הוא תיאר את מחדל השופטים כפי שנחשף ב-ynet, והסביר כיצד פסק הדין המרשיע ניתן בלי שנכללה בו חזרת המדינה מהבקשה להרשיע בעבירות המין. הניסיונות להגיע להסכמות כשלו בגלל סירוב פרקליט המדינה",
+      "link": "https://www.ynet.co.il/news/article/s1guehnazl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T17:47:18.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skwe09hrfl",
       "title": "3 שנים אחרי קיצור התורנויות: המתמחים במרכז נשארים עם 26 שעות עבודה",
@@ -615,6 +633,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T15:20:38.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876939",
+      "title": "היעד החדש של הכוכב הישראלי של ברצלונה | דיווח",
+      "summary": "ברצלונה רוצה לצרף את בלם טוונטה רוד נייסטאד, אך נרתעת מתג מחיר של 25 מיליון יורו. הישראלי בן ה-17 עשוי לעבור בהשאלה כחלק מהמתווה",
+      "link": "https://sports.walla.co.il/item/3876939",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T15:20:06.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3876939",
@@ -33780,60 +33807,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T18:03:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "title": "פינדרוס העריך שש\"ס תצטרף – וקיבל תשובה חדה: \"אל תדברו בשמנו\"",
-      "summary": "ח\"כ פינדרוס העריך בריאיון כי ש\"ס תתמוך בנוסחה מוסכמת • 'יש גם להם בני ישיבות תחת צו פלילי' | הערכה על רקע המגעים להקמת ממשלה | בש\"ס מגיבים: \"לא מנהלים משא ומתן עם שום גורם בקואליציית השמאל\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:53:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "title": "פינדרוס העריך שש\"ס תצטרף למהלך – וקיבל תגובה: \"אל תדברו בשמנו\"",
-      "summary": "ח\"כ פינדרוס העריך בריאיון כי ש\"ס תתמוך בנוסחה מוסכמת • 'יש גם להם בני ישיבות תחת צו פלילי' | הערכה על רקע המגעים להקמת ממשלה | בש\"ס מגיבים: \"לא מנהלים משא ומתן עם שום גורם בקואליציית השמאל\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:53:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "title": "פינדרוס העריך שהם ייכנסו ובש\"ס הגיבו: \"לא מנהלים מו\"מ עם השמאל\"",
-      "summary": "ח\"כ פינדרוס העריך בריאיון כי ש\"ס תתמוך בנוסחה מוסכמת • 'יש גם להם בני ישיבות תחת צו פלילי' | הערכה על רקע המגעים להקמת ממשלה | בש\"ס מגיבים: \"לא מנהלים משא ומתן עם שום גורם בקואליציית השמאל\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:53:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21850774",
-      "title": "סוף סוף: זה התאריך שבו תעלה העונה החדשה של \"גולסטאר\"",
-      "summary": "HOT חשפה את הפתיח והפוסטר הרשמי של העונה ה־13, שצולמה בצל טייפון ששיתק את הסט • לראשונה בתולדות התוכנית הנבחרת עולה למגרש בלי המאמן האגדי שלה • ובין שניים מכוכבי הסגל עדיין אין שלום",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21850774",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:52:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388316",
-      "title": "רצח הישראלי בבולגריה: החשד לניסיון השתלטות על מיליונים",
-      "summary": "תושב בת ים בן 32 נעצר בחשד למעורבות ברצח ישראלי קשיש בבולגריה. למעריב נודע כי בין השניים התגלו בעבר סכסוך כספי, וכי החוקרים בודקים חשד לניסיון השתלטות על נכסי הקורבן בשווי מיליוני שקלים",
-      "link": "https://www.maariv.co.il/news/law/article-1388316",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T17:52:16.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "title": "פינדרוס מעריך ב'פגוש': ש\"ס תצטרף למהלך אם נביא פתרון לגיוס",
-      "summary": "ח\"כ פינדרוס העריך בריאיון כי ש\"ס תתמוך בנוסחה מוסכמת • 'יש גם להם בני ישיבות תחת צו פלילי' | הערכה על רקע המגעים להקמת ממשלה | בש\"ס מגיבים: \"לא מנהלים משא ומתן עם שום גורם בקואליציית השמאל\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/shas-responds-mk-pindrus-stop-speaking-for-us-no-negotiations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:50:55.000Z"
     }
   ]
 }
