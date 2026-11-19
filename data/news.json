@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:45:53.414Z",
+  "updatedAt": "2026-11-19T20:01:02.694Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T19:37:14.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962274",
+      "title": "\"ראינו את זה לפני האינתיפאדה\": האזהרה של ראש השב\"כ לשעבר",
+      "summary": "עמי אילון הזהיר כי הדרת האזרחים הערבים מהמערכת הפוליטית עלולה להוביל להתפרצות אלימות. בנאום בתל אביב תקף את השב\"כ והממשלה, והאשים את הדרג המדיני באימוץ תפיסות גזעניות ובפגיעה בדמוקרטיה",
+      "link": "https://www.walla.co.il/news/israel/383962274",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T19:36:35.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hkauplh0mx",
@@ -4440,6 +4449,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T08:35:07.000Z"
+    },
+    {
+      "id": "walla:https://sheva7.walla.co.il/item/3876865",
+      "title": "הרעיד את אילת: כתב אישום ל-2 חשודים בהשלכת רימון, בהם קטין",
+      "summary": "השניים, תושבי העיר ובהם קטין, נעצרו בחשד להשלכת הרימון על רקע סכסוך פלילי; בפרקליטות נערכים להגשת כתבי אישום ובקשה למעצרם עד תום ההליכים",
+      "link": "https://sheva7.walla.co.il/item/3876865",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T08:30:21.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21888122",
@@ -34014,60 +34032,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T20:02:16.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388365",
-      "title": "\"הותקפו בשידור\": צרפת בוערת - 106 אלף מפגינים, 121 עצורים",
-      "summary": "גל המחאה נגד יוקר המחיה וממשלתו של עמנואל מקרון נמשך גם הערב, עם עימותים בין מפגינים לשוטרים בפריז, ליון, נאנט וערים נוספות. לפי משרד הפנים הצרפתי, כ-106 אלף בני אדם השתתפו בהפגנות ברחבי המדינה",
-      "link": "https://www.maariv.co.il/news/world/article-1388365",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T19:58:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/tassel/michal-ansky-daughter-teshuva-journey",
-      "title": "מרגש: הידוענית אולי המוכרת ביותר מספרת על ביתה; \"הולכת לסליחות ועושה הפרשת חלה\"",
-      "summary": "השפית המפורסמת חושפת את תהליך ההתחזקות של דניאלה בת ה-15 • \"היא הולכת לבית כנסת, מכינה חלות ועושה הפרשה\" | \"זה החזיר אותה אליי בגיל ההתבגרות\" (ציצית)",
-      "link": "https://www.kikar.co.il/tassel/michal-ansky-daughter-teshuva-journey",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T19:56:19.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961412",
-      "title": "פעוט בן שנתיים נעלם להוריו ונמצא על מסוע המזוודות",
-      "summary": "ההורים כבר היו לקראת סיום הצ’ק-אין לטיסה ללרנקה, כשלפתע הבחינו שבנם בן השנתיים נעלם. הפעוט אותר כעבור דקות באזור מיון המזוודות, לאחר שטיפס על מסוע כבודה. ההורים צפויים להיחקר עם שובם ארצה",
-      "link": "https://www.walla.co.il/news/israel/383961412",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T19:50:55.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1ztvv8cfe",
-      "title": "אירוע חריג בנתב\"ג: הפעוט נעלם - ואותר על מסוע המזוודות",
-      "summary": "הפעוט, כבן שנתיים, טיפס על המסוע בעמדה לא מאוישת. צוות שהבחין בו הוריד אותו אחרי כמה דקות, הוריו נחקרו",
-      "link": "https://www.ynet.co.il/news/article/h1ztvv8cfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T19:49:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1ztvv8cfe",
-      "title": "פעוט עלה על מסוע המזוודות בנתב\"ג - הוריו אותרו אחרי דקות",
-      "summary": "הפעוט, כבן שנתיים, טיפס על המסוע בעמדה לא מאוישת. צוות שהבחין בו הוריד אותו אחרי מטרים ספורים, אך ההורים עצמם אותרו רק לאחר מכן ונחקרו",
-      "link": "https://www.ynet.co.il/news/article/h1ztvv8cfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T19:49:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21851215",
-      "title": "\"אמרתי לשולי: 'אני חושבת שאני הולכת למות'\"",
-      "summary": "לרגל שבע שנות זוגיות ויציאת סרטם המשותף \"הבדחן\", חושפת גרנט לצד בעלה שולי רנד את הדרמה הרפואית שכמעט עלתה לה בחייה, המחלה הגנטית שמלווה אותה והסולחה המפתיעה עם גרושתו מיכל רנד אחרי שנים של סכסוך: \"פשוט לא יכולתי לסבול יותר, זה לראות אותה סובלת\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21851215",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T19:46:22.000Z"
     }
   ]
 }
