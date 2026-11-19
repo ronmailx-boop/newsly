@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:00:59.448Z",
+  "updatedAt": "2026-11-19T21:15:53.983Z",
   "sources": [
     {
       "key": "ynet",
@@ -39,6 +39,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T20:54:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21894632",
+      "title": "שנה לתקיפה: קטאר דורשת \"חסינות\" מהאו\"ם",
+      "summary": "דוחא מקדמת בעצרת הכללית הצעת החלטה להגנה על מתווכים ומשתתפים במשא ומתן, גם בהליכים שבהם מעורבים ארגונים חמושים • בישראל חוששים שהנוסח הרחב ישמש להגברת הלחץ המדיני ולהגבלת הפעילות נגד גורמי טרור",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21894632",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T20:42:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21894591",
+      "title": "כור מחצבתנו: \"המטבחון\" מבקר במפעל הטקסטיל",
+      "summary": "בשישי התקיפה? זה בלוף של ראש עיריית דימונה • לא אכלנו מספיק חלבון? זה בלוף של יצרניות המזון • ילדי ישראל בסה\"כ בסדר? לא צריך להיות דניאל עמרם כדי לחשוף את הבלוף • וגם ההצעה הזו שקיבלנו היא בטח בלוף • המטבחון: מדור מאויר",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21894591",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T20:34:06.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390400",
@@ -312,6 +330,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
+      "title": "המנה הכי טעימה עשויה מנייר ברוטב דיו. לא תשכנעו אותי אחרת",
+      "summary": "עם כל הכבוד למטבחי המשפיענים, אין דין מתכון שמופיע בספרות כדין מתכון שמופיע על הדרך בטיקטוק • אצל הסופר הטעם נוטף אחרת מכל מילה, כמו בכריך שאני מקפיד לבלוס לפי מתכון של מאיר שלו ז\"ל",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:19:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
       "title": "המנה הכי טעימה בעולם עשויה מנייר ברוטב דיו. לא תשכנעו אותי אחרת",
       "summary": "עם כל הכבוד למטבחי המשפיענים, אין דין מתכון שמופיע בספרות כדין מתכון שמופיע על הדרך בטיקטוק • אצל הסופר הטעם נוטף אחרת מכל מילה, כמו בכריך שאני מקפיד לבלוס לפי מתכון של מאיר שלו ז\"ל",
       "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
@@ -444,6 +471,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T19:00:58.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962247",
+      "title": "המהלומות נמשכו: הליכוד תקף, איזנקוט השיב - אך המו\"מ יחודש",
+      "summary": "מפלגת השלטון תקפה את גוש השינוי, אך הודיעה על פגישת מו\"מ נוספת. ח\"כ טרופר השיב לביקורת - וחשף פרטים חדשים מאחורי הקלעים של המגעים",
+      "link": "https://www.walla.co.il/news/politics/383962247",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T19:00:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21893820",
@@ -798,7 +834,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
-      "title": "העליון הורה - משפט חוזר לגניקולוג שהורשע באונס: \"הנחה שגויה\"",
+      "title": "העליון הורה - משפט חוזר לגינקולוג שהורשע באונס: \"הנחה שגויה\"",
       "summary": "ד\"ר מיכאל שטטמן זוכה במחוזי, אך הורשע בערעור למרות שהפרקליטות חזרה בה מבקשת ההרשעה • השופט נעם סולברג קבע כי אי-הבנה בין הצדדים לשופטים מערערת את יסודות פסק הדין • כעת יידון התיק מחדש בהרכב מורחב של חמישה שופטים",
       "link": "https://www.israelhayom.co.il/news/law/article/21893536",
       "source": "ישראל היום",
@@ -807,7 +843,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
-      "title": "העליון הורה - משפט חוזר לגינקולוג שהורשע באונס: \"הנחה שגויה\"",
+      "title": "העליון הורה - משפט חוזר לגניקולוג שהורשע באונס: \"הנחה שגויה\"",
       "summary": "ד\"ר מיכאל שטטמן זוכה במחוזי, אך הורשע בערעור למרות שהפרקליטות חזרה בה מבקשת ההרשעה • השופט נעם סולברג קבע כי אי-הבנה בין הצדדים לשופטים מערערת את יסודות פסק הדין • כעת יידון התיק מחדש בהרכב מורחב של חמישה שופטים",
       "link": "https://www.israelhayom.co.il/news/law/article/21893536",
       "source": "ישראל היום",
@@ -34068,15 +34104,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T21:25:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388385",
-      "title": "המדינה הכריזה שלא יקנו מישראל: עכשיו נחשפת הרכישה המביכה",
-      "summary": "למרות הצהרות הממשלה על הימנעות מרכישת ציוד ביטחוני ישראלי, המשטרה באירלנד הצטיידה במערכות מתקדמות מתוצרת ישראל. תחקיר מקומי חושף כיצד בוצעה הרכישה ומה אמר גורם ביטחוני על הציוד",
-      "link": "https://www.maariv.co.il/news/world/article-1388385",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T21:02:06.000Z"
     }
   ]
 }
