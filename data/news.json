@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:45:48.656Z",
+  "updatedAt": "2026-11-19T14:01:19.430Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b16wcu3cmx",
+      "title": "הסתבכות חדשה לראש העיר החשוד בשוחד: תיק התפילין מהמשרד הכיל שעוני יוקרה",
+      "summary": "ראש העיר החשוד בפרשת שוחד של הטיית מכרזים נחקר גם בחשד לשיבוש הליכי חקירה. לפי המשטרה, הוא שלח את קרוב משפחתו כדי שיביא ממשרדו את תיק התפילין שבו נמצאו השעונים",
+      "link": "https://www.ynet.co.il/news/article/b16wcu3cmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T13:54:55.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/tor34o",
+      "title": "חשב שאף אחד לא יידע: התייעץ עם GPT איך לרצוח את אשתו - ונעצר",
+      "summary": "תושב הצפון נעצר בחשד שהתייעץ עם GPT כיצד לרצוח את אשתו | באורח מעניין, השוטרים קיבלו את המידע - ככל הנראה מחברת OPEN AI המחויבת לדווח במקרים חריגים (משטרה)",
+      "link": "https://www.kikar.co.il/police/tor34o",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T13:54:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390268",
+      "title": "שום אחדות עם נתניהו | דן פרי",
+      "summary": "נתניהו צריך לשלם מחיר פוליטי על המדיניות שקדמה ל־7 באוקטובר, על המחדלים שאפשרו את הטבח ועל המלחמות הארוכות שלא השיגו הכרעה ברורה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1390268",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T13:53:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390266",
+      "title": "הבכיר העיראקי נשאל על ישראל - והפתיע: \"איני רואה כל עוול\"",
+      "summary": "חבר פרלמנט עיראקי לשעבר עורר סערה בריאיון ל\"אל-ערביה\", כשקבע כי איראן היא האויב המרכזי של ארצו ולא ישראל. הוא גם שיבח את הקהילה היהודית ההיסטורית בעיראק והודה בעוול שנגרם לה",
+      "link": "https://www.maariv.co.il/news/world/article-1390266",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T13:51:53.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390261",
+      "title": "55 אלף דולר ללא דורש: כך הסתיימה התעלומה ביער",
+      "summary": "תושב עיירה בארה\"ב נתקל בכספת נטושה סמוך לתחנת כיבוי אש, והזעיק את המשטרה. החוקרים ניסו להתחקות אחר מקור הכסף, ואף העלו חשד לפעילות פלילית. כעת החליטו הרשויות להעביר את הסכום למטרה מפתיעה",
+      "link": "https://www.maariv.co.il/news/viral/article-1390261",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T13:45:28.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390258",
       "title": "סערת הריאיון עם עמרי אסנהיים בכאן 11: מכה ליונתן אוריך",
@@ -237,6 +282,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T12:57:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962166",
+      "title": "הפגנות החרדים: אוטובוס חיילים חולץ בירושלים, פקקי ענק במרכז",
+      "summary": "הקבוצה החרדית הקיצונית צפויה להפגין אחר הצהריים במחאה על מעצר עריק חרדי. צפויים שינויים בהסדרי התנועה וחסימות באזור גהה, אלוף שדה ואם המושבות",
+      "link": "https://www.walla.co.il/news/israel/383962166",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T12:57:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21890293",
@@ -1272,6 +1326,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-19T10:33:07.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876862",
+      "title": "האחד מענטש, השני מערבב: הגורל של ברק בכר ורן בן שמעון התערבב",
+      "summary": "האחד זקוק לנבחרת כדי לשקם את הקריירה, השני לא מסוגל לוותר שוב על מכבי חיפה. למה המהלך המתבקש כל כך נכון לבכר, ומה עלול בן שמעון לגלות כשהחלום שלו יתגשם?",
+      "link": "https://sports.walla.co.il/item/3876862",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T10:30:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21889292",
@@ -33240,60 +33303,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T14:09:01.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876135",
-      "title": "גם מול 10 שחקנים לא הלך: נבחרת ישראל פספסה בקוסובו",
-      "summary": "גם מול 10 שחקנים לא הלך: נבחרת ישראל פספסה בקוסובו",
-      "link": "https://sports.walla.co.il/item/3876135",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876135",
-      "title": "המשקוף הציל את נבחרת ישראל, קוסובו ב-10 שחקנים",
-      "summary": "המשקוף הציל את נבחרת ישראל, קוסובו ב-10 שחקנים",
-      "link": "https://sports.walla.co.il/item/3876135",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876135",
-      "title": "אחרי בוז בהמנון הישראלי, הנבחרת מחפשת ניצחון מול קוסובו",
-      "summary": "אחרי בוז בהמנון הישראלי, הנבחרת מחפשת ניצחון מול קוסובו",
-      "link": "https://sports.walla.co.il/item/3876135",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21849684",
-      "title": "בוז צורם במהלך שירת \"התקווה\" במשחק נבחרת ישראל",
-      "summary": "גם בקוסובו: האוהדים בפרישטינה לפני המפגש עם הנבחרת של רן בן שמעון קראו בוז לאורך כל ההמנון הלאומי, דבר שחזר על עצמו מספר פעמים במספר מפגשים עם הנבחרת בשנים האחרונות • שחקני הקבוצות לחצו ידיים לאחר מכן",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21849684",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T13:58:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21849425",
-      "title": "תמשיך לחפש ניצחון ראשון: 0:0 לנבחרת ישראל בקוסובו",
-      "summary": "גם אחרי חמישה מחזורים בליגת האומות, השחקנים של רן בן שמעון לא הצליחו לסיים משחק עם שלוש נקודות • הקוסוברים סיימו את המשחק בעשרה שחקנים, אחרי הרחקתו של ולדין הודז'ה בדקה ה-67",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21849425",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T13:51:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21849425",
-      "title": "חי מליגת האומות: קוסובו - ישראל 0:0",
-      "summary": "מחזור 5: אחרי ארבעה משחקים ללא ניצחון, החבורה של רן בן שמעון תנסה להתחיל להימנע מהדחה לדרג ג' של המפעל בפרישטינה • קוסובו בעשרה שחקנים מהדקה ה-65",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21849425",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T13:51:26.000Z"
     }
   ]
 }
