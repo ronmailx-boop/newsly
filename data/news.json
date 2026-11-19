@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:31:15.846Z",
+  "updatedAt": "2026-11-19T19:45:53.414Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1390379",
+      "title": "כטב\"מי נפץ וטילים מדויקים: צה\"ל תקף שוב בעומק לבנון",
+      "summary": "צה\"ל תקף במרחב ג'נתא שבבקעת הלבנון אתר ששימש לייצור ולהרכבת טילים מדויקים וכטב\"מים מתוצרת איראן. בצבא זיהו מחבלי חיזבאללה שהגיעו למקום בניסיון לשקמו",
+      "link": "https://www.maariv.co.il/news/military/article-1390379",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T19:41:30.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390381",
+      "title": "הקרע לא יתאחה מעצמו | ח\"כ ישראל זרי",
+      "summary": "יש הבדל גדול בין לעמוד מול דעות קשות לבין לסגור דלת בפני אדם שבא לתקן. מי שמתנצל באמת צריך שתהיה לו דרך חזרה",
+      "link": "https://www.maariv.co.il/news/opinions/article-1390381",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T19:37:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byw11xah0zg",
+      "title": "רצח שני בחצי יממה: גבר נורה למוות ביפו",
+      "summary": "אחמד אבו שהאב נפצע אנושות אחרי שנורה ברחוב אחילוף בעיר. מותו נקבע בבית החולים וולפסון, שאליו פונה תוך כדי פעולות החייאה. המשטרה פתחה בחקירה",
+      "link": "https://www.ynet.co.il/news/article/byw11xah0zg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T19:37:14.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkauplh0mx",
+      "title": "הקרב על הבתים השרופים בניר עוז הולך לסיבוב שני",
+      "summary": "אחרי מחלוקת ממושכת על אופן שימור הבתים והנצחת אירועי טבח 7 באוקטובר, חברי קיבוץ ניר עוז הצביעו - אך לא הגיעו להכרעה. הם צפויים לבחור בסבב הצבעה שני בין שתי האפשרויות שקיבלו את מרבית הקולות: שימור הבתים במקומם או העתקתם למתחם זיכרון חיצוני. במוקד המחלוקת עומד גם בית ביבס",
+      "link": "https://www.ynet.co.il/news/article/hkauplh0mx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T19:36:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/music/383962273",
+      "title": "הלך לעולמו קובי רכט, מהקולות המיוחדים של המוזיקה הישראלית",
+      "summary": "הזמר, המלחין והיוצר, שהותיר חותם על הפסקול הישראלי עם שירים כמו “לך איתה”, “רגאיי הבטלן” ו”איש גדול” הלך לעולמו בגיל 79",
+      "link": "https://www.walla.co.il/entertainment/music/383962273",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T19:35:17.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/mayriv/yeshiva-hebron-engagement-policy",
       "title": "\"חוסר כבוד לבנות הזוג\": האיום של 'חברון' למי שיתארס מוקדם | מעייריב",
       "summary": "בירושלים בית שמש ובני ברק: יום זעם חרדי בגלל מעצר חתן שבוע וחצי לפני חתונתו | ישיבת חברון במכתב חריג נגד כניסה לעולם השידוכים בגיל צעיר: \"נזקים בלתי הפיכים\" | פרסם את שגעונותיו בכל ירושלים: הכרזות לסגירת ישיבת חברון מעלים חיוך | אור ישראל, בני ראם ויד אהרון: שורת הישיבות שעורכות כנס בוגרים (מעייריב)",
@@ -59,6 +104,15 @@
       "pubDate": "2026-11-19T19:25:31.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
+      "title": "המנה הכי טעימה בעולם עשויה מנייר ברוטב דיו. לא תשכנעו אותי אחרת",
+      "summary": "עם כל הכבוד למטבחי המשפיענים, אין דין מתכון שמופיע בספרות כדין מתכון שמופיע על הדרך בטיקטוק • אצל הסופר הטעם נוטף אחרת מכל מילה, כמו בכריך שאני מקפיד לבלוס לפי מתכון של מאיר שלו ז\"ל",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T19:19:54.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/hasidism/torjh6",
       "title": "שמחה מרובעת בבני ברק: נכדי ארבעת האדמו\"רים באו בברית הנישואין",
       "summary": "בהיכל בית המדרש הגדול של חסידות מחנובקא בעלזא בבני ברק, נחגגה אמש (רביעי) שמחת נישואי החתן, נכד האדמו\"ר מקרעטשניף, בן לבנו הרה\"צ רבי דוד משה רוזנבוים, אב\"ד החסידות וחתן האדמו\"ר מדז'יקוב ויז'ניץ. עב\"ג הכלה נכדת האדמו\"רים ממעליץ ודעעש (חסידים)",
@@ -84,6 +138,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T19:09:56.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962270",
+      "title": "חשש לגוף זר מתכתי: הודעה חריגה על ריקול למוצר האהוב",
+      "summary": "בעקבות תלונת צרכן על הימצאות גוף זר מתכתי במוצר בודד, הודיעה החברה על ריקול למלפפונים במלח. הצרכנים מתבקשים לבדוק את קוד הייצור ותאריך התפוגה ולהימנע מצריכת המוצר",
+      "link": "https://www.walla.co.il/news/israel/383962270",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T19:08:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383962270",
@@ -2577,6 +2640,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T12:22:49.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876917",
+      "title": "66,000%: סוחר עשה הון בזכות מטבע בדיוני מ-GTA 6",
+      "summary": "הבדל של ארבע אותיות הפך 300 דולר ליותר מ-200 אלף: סוחר קריפטו אלמוני רכש מטבע בהשראת משחק הווידאו הנחשק, ניצל בלבול בין שני מטבעות מתחרים וגרף תשואה של כמעט 66,000%",
+      "link": "https://finance.walla.co.il/item/3876917",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T12:15:01.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/tor09z",
@@ -33996,69 +34068,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T19:46:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/toddler-found-on-baggage-conveyor-ben-gurion-airpo",
-      "title": "דרמה ענקית בנתב\"ג: פעוט כבן שנתיים נעלם - והתגלה על מסוע המזוודות",
-      "summary": "הוריו של הפעוט שעמד במרכז הדרמה - עמדו בצ'ק-אין לטיסה ללרנקה כשגילו שבנם נעלם • הפעוט טיפס על המסוע והתקדם מטרים ארוכים | נמצא בריא ושלם (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/toddler-found-on-baggage-conveyor-ben-gurion-airpo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T19:45:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21851184",
-      "title": "בית חב\"ד במומביי שוב על הכוונת? צעיר נעצר בחשד לתכנון פיגוע נגד יהודים",
-      "summary": "לפי דיווחים בהודו, החשוד בן ה-20 פעל בהנחיית גורמים זרים, צילם מוסדות רגישים ואסף מידע על יהודים, אזרחים זרים ועסקיהם • המשטרה בודקת אם המידע הועבר לגורמי טרור ונועד לסייע לפיגוע • בית חב\"ד במומביי היה אחד מיעדי מתקפת הטרור ב-2008, שבה נרצחו 166 בני אדם, בהם שישה בבית חב\"ד",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21851184",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T19:44:15.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/mossad-chief-washington-iran-strike-pressure-saudi",
-      "title": "\"קרב איתנים על אוזנו של טראמפ\": ראש המוסד גופמן לוחץ לתקוף באיראן – מדינות ערב מנסות לבלום",
-      "summary": "ראש המוסד הישראלי רומן גופמן, נסע לארצות הברית לפגישות חשובות, שם הוא מציג לאמריקנים מידע רגיש על הגרעין והטילים של מדינת הטרור איראן • בן סלמאן הסעודי מפציר בנשיא טראמפ להימנע ממלחמה | \"נמאס לנו לשלם את המחיר\" (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/mossad-chief-washington-iran-strike-pressure-saudi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T19:40:50.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961363",
-      "title": "הבכירים הכירו את מפעל ההשפלות שלו. ביום אחד הכול התפוצץ",
-      "summary": "הבכירים הכירו את מפעל ההשפלות שלו. ביום אחד הכול התפוצץ",
-      "link": "https://www.walla.co.il/news/world/383961363",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T19:40:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388358",
-      "title": "ח\"כ מהליכוד הקים אוהל מול הכנסת – ולא מתכוון לעזוב עד שתוקם ממשלה",
-      "summary": "ח\"כ מהליכוד הקים אוהל מול הכנסת והצהיר שלא יעזוב עד שתוקם ממשלת אחדות, ואליו מצטרפים נציגים נוספים. נתניהו קורא לאיזנקוט למו\"מ ללא תנאים, אך האחרון טוען ל\"ספין\" ומציב מבחן פוליטי ליום שלישי",
-      "link": "https://www.maariv.co.il/news/politics/article-1388358",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T19:37:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21851213",
-      "title": "אחרי הפרידה משניר: שי לי עופרי בזוגיות חדשה",
-      "summary": "אחרי תקופה שבה שמרה את החיים האישיים קרוב אליה, עופרי מספקת הצצה מסקרנת לפרק חדש. ובמקביל, גם ברשימת העוקבים שלה נרשם שינוי קטן אבל לא מקרי",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21851213",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T19:36:39.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bym00xni0gl",
-      "title": "ח\"כ אלישע מדן הקים \"אוהל אחדות\" מול הכנסת: \"אשב בו בקור ובגשם, פתוח לכולם\"",
-      "summary": "חבר הכנסת החדש מהליכוד, שאיבד את שתי רגליו בקרבות בעזה, הקים אוהל מול המשכן וקורא לציבור להיפגש עמו: \"ראינו מה אנחנו מסוגלים לעשות כשאנחנו יחד - בשדה הקרב, בעורף, בהתנדבות, בבית. הגיע הזמן שגם בית הנבחרים ייראה ככה\"",
-      "link": "https://www.ynet.co.il/news/article/bym00xni0gl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T19:32:50.000Z"
     }
   ]
 }
