@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:01:20.161Z",
+  "updatedAt": "2026-11-19T17:15:58.174Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/s18roj3azx",
+      "title": "הורידו בכוח מהאוטובוס: שלושה פקחים חשודים בתקיפת נוסע בצפון | תיעוד",
+      "summary": "נוסע שעלה לאוטובוס בטירת כרמל התלונן במשטרה על שלושה פקחים שתועדו גוררים אותו בכוח בעקבות ויכוח על תיקוף הנסיעה, כשאחד מהם אף אוחז בו בצווארו. המשטרה עצרה את הפקחים לחקירה",
+      "link": "https://www.ynet.co.il/news/article/s18roj3azx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T17:09:31.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/friday-night-studio/toqxvq",
+      "title": "המו\"מ התקוע עם גוש השינוי, מבחן המעצרים של אריה דרעי והפגישה של בנט ונתניהו | אולפן ליל שישי",
+      "summary": "באולפן 'ליל שישי' בהגשת ישי כהן, ניתחו חנני ברייטקופף, אבי וידרמן, אברהם קרויזר ואבי גרינצייג את השבוע הפוליטי הסוער: המבוי הסתום במו\"מ עם גוש השינוי בצל הוראת הגר\"ד לנדו נגד מכסות והחשד שמדובר בתרגיל להלחצת נתניהו; חשיפת השקר של קמפיין \"המשתמטים\" כשליברמן מציע לחרדים יותר מכולם; חוק המעצרים של דרעי והפגישה החשאית של בנט ונתניהו (אולפן)",
+      "link": "https://www.kikar.co.il/friday-night-studio/toqxvq",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T17:05:07.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/protester-run-over-bus-beit-shemesh-demonstration",
       "title": "מפגין נדרס באוטובוס בהפגנה | המשטרה: אבנים הושלכו לעבר שוטרים",
       "summary": "במהלך הפגנה בבית שמש נדרס מפגין על ידי אוטובוס • המשטרה: אבנים הושלכו לעבר שוטרים | פונה לבית חולים עם פציעות ברגליים (חרדים)",
@@ -48,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T16:55:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21891881",
+      "title": "טורקיה וקטאר מאחורי הקלעים: הטרגדיה במיאנמר הפכה למשחק פוליטי",
+      "summary": "הבעיה עם החלטת בית הדין הבינלאומי לצדק לגבי רצח העם בבני הרוהינגיה היא לא שלא בוצעו מעשי זוועה נגד המיעוט המוסלמי במדינה, אלא שהם רק חלק מרצף זוועות מתמשך של המשטר • הבחירה להתמקד במקרה הספציפי שלהם, יחד עם התגובות החמות להחלטה בטורקיה וקטאר, צובעות את פעילות בית הדין בצבע פוליטי מובהק",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21891881",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:51:36.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syozv00ncge",
@@ -68,6 +95,15 @@
       "pubDate": "2026-11-19T16:47:03.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/radio/article/21893053",
+      "title": "אברי גלעד זועם: \"אלימות לשם אלימות\"",
+      "summary": "איש התקשורת התייחס לתקרית קשה בה קבוצת נערים תקפה באלימות ילדים ברחוב • לדבריו, יש לנקוט ביד קשה נגד התוקפים: \"בני נוער שבורים ממשפחות שבורות שמשתוללים במרחב הציבורי\"",
+      "link": "https://www.israelhayom.co.il/culture/radio/article/21893053",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:40:20.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim/yeshiva-student-cast-both-arms-protest-gush-geha",
       "title": "הפעם עם גבס: המפגין ששתי ידיו נשברו בהפגנה - חזר לחסום ניידת",
       "summary": "תלמיד ישיבה ששתי ידיו נשברו בהפגנה לפני שלושה שבועות הגיע עם גבס לצומת גהה | ההפגנות בעקבות מעצר החתן עשרה ימים לפני חתונתו | תיעוד מהשטח (חרדים)",
@@ -75,6 +111,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T16:34:45.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962252",
+      "title": "צלחת מעופפת מעל הגולן? לא, זה רק ענן",
+      "summary": "ענני עדשה, מהתופעות היפות והפחות שכיחות בשמי הארץ, ריחפו היום מעל רמת הגולן. מתכננים לעלות צפונה בסוף השבוע? כדאי להרים את הראש",
+      "link": "https://www.walla.co.il/news/israel/383962252",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T16:34:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21892657",
+      "title": "בחסות אפליקציה של רע\"מ: האם פרטי ישראלים דלפו לגורמים עוינים?",
+      "summary": "ברע\"מ גאים בהישג בבחירות, ואת חלקו מייחסים לאפליקציה למעקב אחר מצביעים שפותחה עבורם • הם לא מספרים שבפיתוח שותפה חברה מרמאללה עם קשרים ברשות הפלסטינית, ושעם לקוחותיה נמנים ארגוני טרור • מה המשמעות, ולמה כששאלנו שאלות מישהו מיהר למחוק עקבות מהרשת? • תחקיר",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21892657",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:34:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21893043",
+      "title": "השער לאירופה נפתח: ישראל וגרמניה חתמו על הסכם חלל לעשור",
+      "summary": "השרה גמליאל חתמה בברלין על מסגרת עבודה משותפת בין סוכנות החלל למרכז הגרמני • \"ישראל מביאה לשותפות את הדיוק, המהירות והיצירתיות\" • במקביל: 24 חברות ישראליות מציגות לראשונה בביתן לאומי בתערוכת הענק בברמן",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21893043",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:32:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21892494",
+      "title": "התשובה לקטאר: כך ישראל מגייסת את תמיכת הצעירים בארה\"ב",
+      "summary": "רוקסנה נולדה באיראן ומשתכנעת בצדקת דרכנו בשבילים המדממים של ניר עוז • ג'ון נאבק למען הקהילה השחורה באטלנטה אבל לא מצליח לעצור את הדמעות במתחם הנובה • התלווינו למשלחת משפיענים בישראל – וראינו איך מגייסים אותם לטובתנו",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21892494",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-19T16:32:23.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/scoop-news/92291",
@@ -120,6 +192,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T16:15:58.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3876945",
+      "title": "\"בורחים מהמדים\": הסיבה האמיתית לקריסת נבחרת ישראל",
+      "summary": "חברי הפאנל התכנסו כדי לסכם את הקמפיין המחפיר של נבחרת ישראל בליגת האומות. מי ידע שכדורגל בינלאומי יכול לייצר כאלה עצבים?",
+      "link": "https://sports.walla.co.il/item/3876945",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T16:14:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byhi6p2rgl",
@@ -916,7 +997,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/article/21891581",
       "title": "סימן לחוסר הוודאות: הדולר מזנק לשיא של יותר משנה",
-      "summary": "ההתחזקות של הדולר התגברה אחר הצהריים ושער החליפין התקרב לרמה של 3.29 שקלים • נתון כזה לא נרשם מאז אוקטובר 2025",
+      "summary": "ההתחזקות של הדולר התגברה אחר הצהריים ושער החליפין התקרב לרמה של 3.29 שקלים • נתון כזה לא נרשם מאז אוקטובר 2025 • יוסי מנשה, מייסד ומנכ\"ל משותף באלטשולר שחם פיננשל סרביסס: \"יש תנועה חדה של פוזיציות שנסגרות ומכניסות לחץ לשוק\"",
       "link": "https://www.israelhayom.co.il/business/article/21891581",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1038,6 +1119,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T13:43:54.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962166",
+      "title": "הפגנות החרדים: עימותים עם המשטרה - אבנים הושלכו לעבר הכוחות",
+      "summary": "הקבוצה החרדית הקיצונית מפגינה במחאה על מעצר עריק חרדי. צפויים שינויים בהסדרי התנועה וחסימות באזור גהה, אלוף שדה ואם המושבות. המשטרה פועלת לשמירה על הסדר ופתיחת צירי תנועה",
+      "link": "https://www.walla.co.il/news/israel/383962166",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T13:40:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21890665",
@@ -33654,132 +33744,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T17:16:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-government-haredi-draft-issue",
-      "title": "נתניהו לאיזנקוט: בוא נקים ממשלת אחדות ונפתור את סוגיית הגיוס",
-      "summary": "ראש הממשלה פרסם הצהרה מדינית ופנה ליו\"ר ישר! • קרא לו לזנוח את המגעים להקמת ממשלה חלופית ולהיכנס למשא ומתן ללא תנאים מוקדמים | \"נפתור את סוגיית הגיוס ביחד עם נציגי הציבור החרדי\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-eisenkot-unity-government-haredi-draft-issue",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:13:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21850572",
-      "title": "נתניהו בקריאה לאיזנקוט: \"בוא ניכנס לחדר בלי תנאים מוקדמים - ונגיע להסכמות\"",
-      "summary": "ראש הממשלה קרא להקמת ממשלת אחדות רחבה בעקבות שיחתו עם יו\"ר ישר!, והזהיר מפני חידוש תוכנית הגרעין האיראנית • נתניהו תקף את האפשרות להקמת ממשלה בתמיכת המפלגות הערביות והציע להגיע להסכמות בסוגיית הגיוס • איזנקוט השיב: \"עוד ספין\", והבהיר כי פגישה בין צוותי המשא ומתן כבר נקבעה למחר",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21850572",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:13:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21850341",
-      "title": "\"הכרח בלתי נמנע\": באיראן כבר מדברים בגלוי על הפצצה",
-      "summary": "מאז חיסולו של חמינאי, שפתווה שיוחסה לו אסרה על פיתוח נשק גרעיני, קוראים חברי פרלמנט, אנשי דת וכלי תקשורת \"לשנות את הדוקטרינה\" • ביום חמישי קבעה גם מועצת המומחים, הבוחרת את המנהיג העליון, כי מדובר ב\"דרישה ציבורית ולאומית\" • במקביל, סבא\"א מודה כי אינה יודעת היכן נמצא אחד ממתקני ההעשרה של איראן, וכי אינה יכולה לקבוע שלא הוסט חומר גרעיני",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21850341",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:12:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961393",
-      "title": "איזנקוט: נקבעה עם הליכוד פגישת מו\"מ למחר, נתניהו עושה ספין",
-      "summary": "יו\"ר ישר אמר כי הוא פועל \"בדקות אלו ממש להקים ממשלת חירום לאומית\" | אלה התנאים שהציב במו\"מ",
-      "link": "https://www.walla.co.il/news/politics/383961393",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T17:08:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961393",
-      "title": "נתניהו: הפגישה עם איזנקוט חיזקה את הצורך באחדות",
-      "summary": "ראש הממשלה אמר כי האיום מצד איראן מחייב ממשלת אחדות. הוא קרא לו להיכנס למו\"מ ללא תנאים מוקדמים: \"נשים בצד את כל המחלוקות\"",
-      "link": "https://www.walla.co.il/news/politics/383961393",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T17:08:55.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961393",
-      "title": "נתניהו: הפגישה עם איזנוקט חיזקה את הצורך באחדות",
-      "summary": "ראש הממשלה אמר כי האיום מצד איראן מחייב ממשלת אחדות. הוא קרא לו להיכנס למו\"מ ללא תנאים מוקדמים: \"נשים בצד את כל המחלוקות\"",
-      "link": "https://www.walla.co.il/news/politics/383961393",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T17:08:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21846953",
-      "title": "אל תתעלמו מהסימן הזה: נורת האזהרה שבשעוות האוזניים",
-      "summary": "הגוון והמרקם של שעוות האוזן משמשים כמדד בריאותי מפתיע • מתי מדובר בהפרשה טבעית ותקינה, ואילו צבעים מעידים על זיהום או דלקת? עשינו סדר, לפי אתר הבריאות המוביל Medical News Today",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21846953",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:08:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850476",
-      "title": "מעורר קנאה: יעל שלביה חזרה - ונזכרה",
-      "summary": "הדוגמנית שבה לישראל לאחר תקופה ארוכה מעבר לים, ומשתפת מקבץ תמונות מרהיבות מהחופשה האקזוטית",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21850476",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:07:44.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388302",
-      "title": "פרשת הפגיעה המינית בכפר סבא: הגילוי שזעזע את ההורים | יובל בגנו",
-      "summary": "מורה למוזיקה החשוד בפגיעה מינית בתלמידה בת 7 הושעה מבית ספר אחד, אך לטענת הנהגת ההורים המשיך ללמד במשך כשבוע וחצי במקום אחר. ההורים מאשימים את משרד החינוך בכשל חמור ודורשים בדיקה מיידית",
-      "link": "https://www.maariv.co.il/news/law/article-1388302",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T17:06:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388302",
-      "title": "זעם על משרד החינוך: החשוד בפגיעה המינית בילדה בת ה-7 המשיך ללמד",
-      "summary": "מורה למוזיקה החשוד בפגיעה מינית בתלמידה בת 7 הושעה מבית ספר אחד, אך לטענת הנהגת ההורים המשיך ללמד במשך כשבוע וחצי במקום אחר. ההורים מאשימים את משרד החינוך בכשל חמור ודורשים בדיקה מיידית",
-      "link": "https://www.maariv.co.il/news/law/article-1388302",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T17:06:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388298",
-      "title": "נתניהו \"מככב\" בקמפיין הבחירות של ראש הממשלה האנטי-ישראלי: \"הם שולטים\"",
-      "summary": "נתניהו מופיע לצד טראמפ, פוטין ומנהיגים נוספים בקמפיין בחירות של מפלגתו של ראש ממשלת ספרד פדרו סנצ'ס לקראת הבחירות שיערכו החודש במדינה. המפלגה מנסה לגייס מצביעים באמצעות אזהרה מפני התחזקות הימין",
-      "link": "https://www.maariv.co.il/news/world/article-1388298",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-14T17:06:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21850448",
-      "title": "35 אלף רגל מעל הקרקע: להקות רוק הפתיעו את הנוסעים",
-      "summary": "הנוסעים היו בדרכם לפסטיבל מוזיקה, אבל המופע התחיל עוד באוויר • ארבעה הרכבים ואמנים הופיעו בטיסת סאות'ווסט רגע לפני השבתת ההמראות בארה״ב",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21850448",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T17:05:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b19v4mirfe",
-      "title": "נתניהו לאיזנקוט: \"ניכנס לחדר בלי תנאים מוקדמים - ונגיע להסכמות\"",
-      "summary": "בנאום מוקלט אמר רה\"מ כי איראן \"לא תהסס להשתמש בנשק גרעיני\", וכי שיחת העדכון הביטחוני עם איזנקוט \"חיזקה אצלי את ההבנה כמה הכרחי להקים בעת הזו ממשלת אחדות עם כל המפלגות שתומכות בקיומה של מדינת ישראל כמדינת העם היהודי\". מקורביו על סוגיית הרוטציה: \"אין תנאים מוקדמים, בחדר ידברו על הכול\". בכיר בגוש השינוי ל-ynet: \"זה עוד ספין, נתניהו כבר במשחק חילופי ההאשמות\"",
-      "link": "https://www.ynet.co.il/news/article/b19v4mirfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-14T17:04:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/argentina-poll-62-percent-negative-view-javier-milei",
-      "title": "שפל לידיד ישראל: 62% בארגנטינה נגד הנשיא מיליי",
-      "summary": "סקר חדש מצביע על החמרה בתדמיתו של נשיא ארגנטינה • האבטלה תופסת לראשונה את מקומה של האינפלציה בראש סדר הדאגות | שנה לפני הבחירות (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/argentina-poll-62-percent-negative-view-javier-milei",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T17:02:05.000Z"
     }
   ]
 }
