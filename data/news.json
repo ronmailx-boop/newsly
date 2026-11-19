@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:45:48.478Z",
+  "updatedAt": "2026-11-19T01:01:01.470Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962070",
+      "title": "\"יש אינדיקציות שאיראן בוחנת שימוש בנשק כימי וביולוגי״",
+      "summary": "בריאיון לפוקס ניוז טען נשיא ארה\"ב כי בידי הממשל אינדיקציות לכך שטהרן בוחנת שימוש בנשק לא קונבנציונלי. טראמפ לא פירט מה עומד מאחורי המידע, ורמז כי לאחר הראשון בינואר עשויים להתרחש צעדים נוספים",
+      "link": "https://www.walla.co.il/news/world/383962070",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T00:47:05.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21886472",
       "title": "כאוס פוליטי? יופי. אבל תבינו את הרמז כבר",
@@ -30945,24 +30954,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-14T01:44:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21839519",
-      "title": "רק אלפית האחוז: הסודות הגדולים באמת מסתתרים מתחת למים",
-      "summary": "סרט חדש של נשיונל ג'יאוגרפיק יוצא למסע בין חמשת האוקיינוסים וחושף תגליות מדעיות חסרות תקדים • דוקו חדש של איריס זכי על נשים שבחרו לא להביא ילדים, אירוויזיון אסיה נערך לראשונה ועוד תכנים שעולים היום (שבת) בטלוויזיה בישראל",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21839519",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T01:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21847983",
-      "title": "רדף ועינה מתנגדים במשך שנים: היעד הנוסף בהפצצת צה\"ל",
-      "summary": "מוחמד אל-ברים שרדף ועינה עזתים נפצע בהפצצת צה\"ל במתחם בית החולים נאסר לפי דיווחים ערביים • היעד המרכזי לתקיפה היה מח\"ט חאן יונס שגם הוא נפצע • במקביל חוסל בכיר בביטחון הפנים של הארגון יחד עם חמישה נוספים",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21847983",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T00:57:55.000Z"
     }
   ]
 }
