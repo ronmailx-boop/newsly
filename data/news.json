@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:46:04.374Z",
+  "updatedAt": "2026-11-19T16:01:12.414Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1ul9qhamx",
+      "title": "צעיר ישראלי התמוטט ומת במקלחת בטרק האנאפורנה בנפאל",
+      "summary": "הצעיר, בן 26, נחשף לגז במהלך המקלחת. בבית חב\"ד המקומי הזהירו את המטיילים הישראלים: \"אל תזלזלו בסכנה הזו. אם מריחים גז - לא מתקלחים. עדכנו תמיד חבר - שיבדוק שאתם בסדר\"",
+      "link": "https://www.ynet.co.il/news/article/b1ul9qhamx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T15:55:17.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390311",
+      "title": "חפר בתל אשקלון במשך שנים ואסף עתיקות בלי רישיון - וקיבל מאסר על תנאי",
+      "summary": "מאז 2020 חזר שוב ושוב לתל אשקלון עם גלאי מתכות וכלי חפירה: רשות העתיקות איתרה בביתו של תושב דימונה אוסף של יותר מ־2,000 פריטים. במסגרת הסדר טיעון נגזרו עליו חצי שנת מאסר על תנאי וקנס",
+      "link": "https://www.maariv.co.il/news/law/article-1390311",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-19T15:53:20.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962183",
+      "title": "משרד הבריאות מודיע: זה המקום שבו שהתה הכלבה הנגועה בכלבת",
+      "summary": "אחרי ההדבקה הטרגית, האיגוד הוטרינרי מזהיר מהדבקה בכלבת: \"לא לאסוף כלבים וגורים מהשטח באופן עצמאי. גם גור שנראה תמים וזקוק לעזרה עלול לשאת את הנגיף\"",
+      "link": "https://www.walla.co.il/news/israel/383962183",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T15:51:12.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/toradm",
+      "title": "איזו ממשלה אתם מעדיפים, ומה עם הערבים? | הצביעו עכשיו",
+      "summary": "המגעים להרכבת הממשלה בעיצומם וזה הזמן לבדוק מה אתם חושבים ואיזו ממשלה אתם מעדיפים | הצביעו עכשיו בסקר (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/toradm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T15:48:09.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/sederhalacha/shabbat-seeds-cracking-halacha",
       "title": "סוגיית הגרעין: האם מותר לפצח ערימה של גרעינים בשבת? • צפו",
@@ -150,6 +186,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962247",
+      "title": "נשיקה-סטירה: בליכוד נכנסים באיזנקוט, וקוראים לאחדות",
+      "summary": "\"אחדות היא צו השעה\"? בליכוד תקפו את גוש השינוי - והצהירו על מפגש מו\"מ נוסף. \"אנו מושיטים יד לאחדות, והשמאל ממשיכים רק למראית עין\" נמסר בהודעת הליכוד",
+      "link": "https://www.walla.co.il/news/politics/383962247",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T15:13:11.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962247",
       "title": "\"אחדות\" והאשמות: בליכוד תוקפים - אך ממשיכים במו\"מ",
       "summary": "\"אחדות היא צו השעה\"? בליכוד תקפו את גוש השינוי - והצהירו על מפגש מו\"מ נוסף. \"אנו מושיטים יד לאחדות, וגוש השמאל ממשיכים רק למראית עין\" נמסר בהודעת הליכוד",
       "link": "https://www.walla.co.il/news/politics/383962247",
@@ -174,6 +219,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T15:09:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
+      "title": "המתקפה החריפה של הליכוד על גוש השינוי - והיערכות לפגישה נוספת בקרוב עם נציגי איזנקוט",
+      "summary": "הליכוד מאשים את איזנקוט בהתעלמות מבקשות לאחדות | טענות כנגד צעדים חד צדדיים בכנסת ותמיכה בתומכי טרור • דרישה להפסיק הודעות משתלחות כלפי נתניהו | התייחסות לדיווח על השבעת ממשלה בהישענות על רע\"ם | למרות הכל, הצוותים ייפגשו ביום ראשון | ההודעה המלאה (אקטואליה, פוליטיקה)",
+      "link": "https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T15:08:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
@@ -246,6 +300,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T14:58:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/police/kfar-saba-stolen-car-arrest-checkpoint",
+      "title": "״תביא את האזיקים!״ | הנהג החשוד קלט את השוטרים - וזה מה שעשה",
+      "summary": "לוחמי מג\"ב מרכז ושוטרי מחוז מרכז סיכלו העברת רכב גנוב מכפר סבא לשטחי יהודה ושומרון • החשודים נתפסו לאחר תצפית ממוקדת | המעצר הוארך עד יום ראשון (משטרה)",
+      "link": "https://www.kikar.co.il/police/kfar-saba-stolen-car-arrest-checkpoint",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T14:57:59.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/kfar-saba-stolen-car-arrest-checkpoint",
@@ -786,6 +849,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T13:29:41.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syozv00ncge",
+      "title": "כביש 4 חסום, חרדים קיצוניים מפגינים ליד: \"המדינה מבצעת רצח עם\"",
+      "summary": "בירושלים חסמו חרדים קיצונים אוטובוס שבו היו חיילים, ולפי המשטרה - גרמו נזק לגדרות, פחים ותשתיות. הכוחות השתמשו ברימוני הלם ובאלות כדי לפנות אותם. כביש 4 נחסם בשני הכיוונים באזור בני ברק במחאה על מעצר עריק, המפגינים בכלל חוסמים באזור הכניסה לפ\"ת - ושיבשו את פעילות הרכבת הקלה לזמן קצר",
+      "link": "https://www.ynet.co.il/news/article/syozv00ncge",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T13:26:55.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syozv00ncge",
@@ -33672,78 +33744,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-14T16:02:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/8-year-old-boy-resuscitated-bnei-brak-damascus-eli",
-      "title": "התפללו: הדופק של בן ה-8 מבני ברק חזר בתום פעולות החייאה",
-      "summary": "כוננים הוזעקו לרחוב דמשק אליעזר • הילד נמצא ללא דופק וללא נשימה | לאחר פעולות החייאה מתקדמות שב הדופק ופונה לשיבא | יהודה בן לאה לרפו\"ש (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/8-year-old-boy-resuscitated-bnei-brak-damascus-eli",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T15:59:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21850109",
-      "title": "\"ראיתי אישה מגואלת בדם\": תושבי כפר מנדא משחזרים את רגעי הבהלה",
-      "summary": "לאחר השלכת רימון הרסס לעבר בית עסק, שגבתה את חייה של לינא קאסם זידאן ופצעה שלושה בני אדם נוספים, מספרים תושבים על הפיצוץ העז והמראות הקשים בזירה • ג'אד, תושב המקום: \"חשבנו שטיל נפל בכפר\" • לדבריו, הפשיעה הפכה לחלק משגרת החיים: \"פעם היה כאן שקט, היום יש פרוטקשן וירי ללא הבחנה\" • הרצוג: \"לינא היא הנרצחת ה־200 בחברה הערבית\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21850109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T15:57:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21850109",
-      "title": "\"ראיתי אישה מגואלת בדם\": תושבים משחזרים את רגעי הבהלה בכפר מנדא",
-      "summary": "לאחר השלכת רימון הרסס לעבר בית עסק, שגבתה את חייה של לינא קאסם זידאן ופצעה שלושה בני אדם נוספים, מספרים תושבים על הפיצוץ העז והמראות הקשים בזירה • ג'אד, תושב המקום: \"חשבנו שטיל נפל בכפר\" • לדבריו, הפשיעה הפכה לחלק משגרת החיים: \"פעם היה כאן שקט, היום יש פרוטקשן וירי ללא הבחנה\" • הרצוג: \"לינא היא הנרצחת ה־200 בחברה הערבית\"",
-      "link": "https://www.israelhayom.co.il/news/local/article/21850109",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T15:57:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21846694",
-      "title": "עד היום טיגנתם בצל לא נכון - הגיע הזמן לתקן את הטעות",
-      "summary": "הכנת בצל מקורמל עשיר ורך נחשבת לאחת המשימות הארוכות והמתישות במטבח הביתי, אך שיטה מדעית פשוטה מקצרת את זמן הבישול בחצי מבלי לפגוע בעומק הטעמים",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21846694",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T15:57:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/opinions/383961338",
-      "title": "ליברמן מבטיח לאיזנקוט ממשלה. את המחיר הוא עוד לא גילה",
-      "summary": "יש מצוות שלגביהן לא עושים שום חשבונות – ולהקים ממשלה בתמיכת אוהדי חמאס זה באופן מובהק אחד מאותם מקרים. האם ליברמן יוצר מסך עשן לצורך הסוואת הכיוון המפתיע אליו הוא חותר? וגם: התנאים של נתניהו לאחדות",
-      "link": "https://www.walla.co.il/news/opinions/383961338",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T15:56:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/ahmad-tibi-reveals-whatsapp-messages-natan-eshel-netanyahu",
-      "title": "טיבי חשף: נתניהו שלח אליי את מקורבו כדי למנוע תמיכה בחוק הנאשם",
-      "summary": "ח\"כ טיבי הציג במצלמה התכתבויות עם נתן אשל • פנה אליו שלוש פעמים בניסיון למנוע תמיכה בממשלת איזנקוט | \"רציתם להניא אותנו\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/ahmad-tibi-reveals-whatsapp-messages-natan-eshel-netanyahu",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T15:53:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850030",
-      "title": "אסי עזר על אלברט: \"לא לוותר\"",
-      "summary": "מגיש הטלוויזיה והתסריטאי פותח על מערכת היחסים עם בעלו האדריכל אלברט אסקולה. \"לקחת את זה לאט, לבדוק בטיפול\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21850030",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T15:48:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21850030",
-      "title": "אסי עזר על היחסים עם אלברט: \"לא מבחן\"",
-      "summary": "מגיש הטלוויזיה והתסריטאי פותח על מערכת היחסים עם בעלו האדריכל אלברט אסקולה. \"לקחת את זה לאט, לבדוק בטיפול\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21850030",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T15:48:29.000Z"
     }
   ]
 }
