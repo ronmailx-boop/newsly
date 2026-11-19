@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:46:07.026Z",
+  "updatedAt": "2026-11-19T18:57:46.026Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/torisn",
+      "title": "\"גוף מתכתי נמצא במוצר\": ריקול על מלפפונים חמוצים במלח",
+      "summary": "יבנה מוצרי מזון הודיעה היום על ריקול מוצר \"מלפפונים במלח, 7-9 גדול\", בעקבות תלונה שהתקבלה מצרכן על הימצאות גוף זר מתכתי במוצר (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/torisn",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T18:48:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/tor54w",
+      "title": "אחרי הכאב שטלטל את המגזר; שמחה גדולה במשפחתו של הרב שלום ארוש",
+      "summary": "שלושה חודשים לאחר האסון הקשה שבו טבע למוות הילד שלום סגינר ז\"ל בן ה-4, נכדו של ראש מוסדות 'חוט של חסד', התבשרו הבוקר בני המשפחה על לידת בן חדש להורים הנרגשים • \"אין מתנה גדולה מזו – שייזכו מעתה רק לשמחות\" (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/tor54w",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-19T18:48:41.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ry00k0s30zl",
+      "title": "תקדים רצח העם בהאג ישפיע על ישראל? מומחים: \"זה פותח את הדלת\"",
+      "summary": "הקביעה התקדימית של בית המשפט הבינלאומי לצדק נגד מיאנמר מעלה חשש בישראל בנוגע לתביעת דרום אפריקה. בכירים מזהירים מ\"תקדים מסוכן\", מומחים מצביעים על שינוי באופן שבו בית הדין מסיק כוונה להשמדה. יש גם מי שטוענים: אי אפשר להחיל את הפסיקה על ישראל באופן אוטומטי",
+      "link": "https://www.ynet.co.il/news/article/ry00k0s30zl",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-19T18:46:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/torhzx",
       "title": "דיווח: בנט לא יתמוך בממשלת מיעוט בראשות גדי איזנקוט",
       "summary": "יו\"ר 'ביחד' נפתלי בנט אינו מוכן בשלב זה להתחייב לתמיכה בממשלת מיעוט בראשות גדי איזנקוט | במקביל, לפיד הזהיר את בנט ממשלת אחדות: \"זה יהיה מעשה של טירוף\" (בארץ)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-19T18:33:36.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383962176",
+      "title": "הבחירות הסתיימו, אבל השאלות על זיני רק מתחילות",
+      "summary": "השופט סולברג יצא מגדרו להגן עלי ראש השב״כ, והמשטרה הפכה בפועל לחלק מקמפיין ההשפעה של נתניהו. מה שהתחולל כאן סביב הבחירות מעלה שאלות קשות בדבר כשירותם של ראשי שני הארגונים להמשיך בתפקידם",
+      "link": "https://www.walla.co.il/news/opinions/383962176",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T18:29:51.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390367",
@@ -2568,6 +2604,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T11:39:12.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/travel/news-travel/383962160",
+      "title": "תכננתם לטבול בנחל בסופ\"ש? כדאי שתחשבו מסלול מחדש",
+      "summary": "דיגום שנערך השבוע מצא ריכוזים חריגים של חיידקי צואה בירדן, בבריכת המשושים, ביהודיה ובצלמון. משרד הבריאות מזהיר מכניסה למים, מקור הזיהום עדיין לא ידוע",
+      "link": "https://www.walla.co.il/travel/news-travel/383962160",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T11:38:38.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/iraqi-jews-expulsion-admission",
@@ -33888,42 +33933,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-14T19:06:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21851016",
-      "title": "מור רביעי לא נרגעת: \"זכיתי\"",
-      "summary": "כמה ימים אחרי חמישי האחרון, מור רביעי חוזרת לרגע שעדיין לא ממש יצא לה מהראש",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21851016",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-14T18:56:32.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-unity-offer-netanyahu-no-rotation",
-      "title": "ממשלה בלי בן גביר | איזנקוט צפוי להציע תפקיד מכובד שהוא לא ראש ממשלה לנתניהו - בלי רוטציה",
-      "summary": "יו\"ר ישר צפוי לפנות לשתי המפלגות מהצד הימני של המפה הפוליטית - הליכוד והציונות הדתית ולהציע להן להצטרף לממשלה בראשותו • נתניהו, בדומה למה שהיה בשנת 2002 יקבל סמכויות נרחבות, יוכל לעסוק במדיניות אך יצטרך לוותר על כסא ראש הממשלה | הדיווח בצל עימות פומבי שנמשך בין ביבי לגדי (מדיני)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-unity-offer-netanyahu-no-rotation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T18:53:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-unity-offer-netanyahu-no-rotation",
-      "title": "תנאי פרישה משופרים לנתניהו | דיווח: איזנקוט יציע ממשלה בלי רוטציה",
-      "summary": "יו\"ר ישר צפוי לפנות לליכוד ולציונות הדתית • נתניהו יוכל לעסוק במדיניות אך לא יהיה ראש הממשלה | הדיווח בערוץ 13 בצל העימות הפומבי שנמשך בין גדי לביבי (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-unity-offer-netanyahu-no-rotation",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-14T18:53:30.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876216",
-      "title": "בהתאחדות מרוצים מהנבחרת: \"רוצים לסיים טוב מול אוסטריה\"",
-      "summary": "ראשי ההתאחדות יצאו בתחושת סיפוק מהתיקו המאופס בקוסובו וחושבים על מוקדמות יורו 2028: \"נלך ונתקדם בקדנציה הבאה עם רן בן שמעון\"",
-      "link": "https://sports.walla.co.il/item/3876216",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-14T18:52:00.000Z"
     }
   ]
 }
