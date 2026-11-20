@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:45:45.299Z",
+  "updatedAt": "2026-11-20T20:01:04.842Z",
   "sources": [
     {
       "key": "ynet",
@@ -102,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-20T19:12:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383962341",
+      "title": "הרצח בערערה: ארבעה חשודים נעצרו, מעצרם הוארך",
+      "summary": "4 תושבי אום אל-פחם חשודים ברצח פארס מחאג'נה, שבנו ונכדו נרצחו גם הם לפני כמה חודשים. סנגורם טען כי מדובר במעצר תקשורתי, אך ביהמ״ש קבע כי קיים חשד סביר למעורבותם. 207 ערבים נרצחו מאז תחילת שנה",
+      "link": "https://www.walla.co.il/news/law/383962341",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T19:09:23.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21898134",
@@ -30765,78 +30774,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T20:02:27.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3876047",
-      "title": "דיל החודש: 5 שיפודים ב-44 ש\"ח במסעדת השף שתטריף אתכם",
-      "summary": "דיל החודש: 5 שיפודים ב-44 ש\"ח במסעדת השף שתטריף אתכם",
-      "link": "https://food.walla.co.il/item/3876047",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T20:01:00.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3876047",
-      "title": "5 שיפודים ב-44 ש\"ח: אפרטיבו חדש במסעדת השף המעולה",
-      "summary": "5 שיפודים ב-44 ש\"ח: אפרטיבו חדש במסעדת השף המעולה",
-      "link": "https://food.walla.co.il/item/3876047",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T20:01:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21858427",
-      "title": "רביב דרוקר תוקף את מגישי ערוץ 14: \"כמה אכזריות, כמה רוע\"",
-      "summary": "מגיש \"אזור בחירה\" הקדיש את פתיחת התוכנית לקטע ששודר בערוץ המתחרה • הדברים שראה הובילו למתקפה חריפה על שני המגישים, ובהמשך גם לביקורת על הרשויות",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21858427",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T19:52:58.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961557",
-      "title": "שי כרם, המנהל המיתולוגי של דנה אינטרנשיונל הלך לעולמו",
-      "summary": "שי ליווה את דנה אינטרנשיונל במשך עשרות שנים והיה שותף מרכזי בדרכה לצמרת הפופ הישראלי והבינלאומי. השניים הפכו עם השנים למשפחה, “יש לי שתי בנות ודנה היא הבת השלישית שלי”",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961557",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T19:52:50.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961557",
-      "title": "בגיל 61: שי כרם, המנהל המיתולוגי של דנה אינטרנשיונל נפטר",
-      "summary": "שי ליווה את דנה אינטרנשיונל במשך עשרות שנים והיה שותף מרכזי בדרכה לצמרת הפופ הישראלי והבינלאומי. השניים הפכו עם השנים למשפחה, “יש לי שתי בנות ודנה היא הבת השלישית שלי”",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961557",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T19:52:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21858301",
-      "title": "איזנקוט הבין: בגוש מוכנים לוותר על גיוס חרדים בשביל \"שמירה על הדמוקרטיה\"",
-      "summary": "שעות לאחר פגישת המו\"מ תקף איזנקוט את נתניהו: \"אסור שימשיך לאחוז בהגה השלטון ולו דקה אחת נוספת\" • בגוש השינוי מעדיפים להתפשר על הגיוס כדי להביא להחלפת נתניהו • מנגד, אנשי נתניהו מסרו כי הם מוכנים לוותר על בן גביר תמורת אחדות, וטענו שגם האמריקנים דורשים זאת",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21858301",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T19:48:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21858459",
-      "title": "אנשי נתניהו לאיזנקוט: מוכנים לוותר על בן גביר עבור אחדות; בליכוד מכחישים",
-      "summary": "המסר שמועבר מסביבת ראש הממשלה מצטרף לניסיון להציג כוונה להקים ממשלה רחבה לאחר הבחירות, שתכלול מפלגות מהמרכז • המסר שהעבירו בסביבת ראש הממשלה הוא שגם בארה\"ב דורשים זאת מהם • במפלגתו של נתניהו מכחישים את המסר",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21858459",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T19:47:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21858459",
-      "title": "אנשי נתניהו במסר לאיזנקוט: מוכנים לוותר על בן גביר תמורת ממשלת אחדות",
-      "summary": "המסר שמועבר מסביבת ראש הממשלה מצטרף לניסיון להציג כוונה להקים ממשלה רחבה לאחר הבחירות, שתכלול מפלגות מהמרכז • המסר שהעבירו בסביבת ראש הממשלה הוא שגם בארה\"ב דורשים זאת מהם",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21858459",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T19:47:59.000Z"
     }
   ]
 }
