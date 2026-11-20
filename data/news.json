@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:00:59.533Z",
+  "updatedAt": "2026-11-20T11:15:49.799Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,49 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/news/opinions/383962281",
+      "title": "מורה נבוכים: אף אחד לא ניצח בבחירות, אבל נתניהו הפסיד",
+      "summary": "גוש השינוי מחזיק ב-48 מנדטים, אך ראשיו מתקשים להסכים על הדרך לשלטון. ליברמן בונה על החרדים, בנט מנסה לקדם אחדות ואיזנקוט ניצב בפני הכרעות גורליות",
+      "link": "https://www.walla.co.il/news/opinions/383962281",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T11:00:00.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1390498",
       "title": "1,000 ימים להיעלמות של היימנוט קסאו בצפת - המשפחה עדיין מחפשת קצה חוט",
-      "summary": "נשיא המדינה יצחק הרצוג יתייחס ליום ה-1,000 שיחול מחר, להיעלמותה המסתורית של היימנוט קסאו בצפת: \"אלף ימים של דאגה, געגוע וחוסר ודאות בלתי נסבל עבור הוריה\"",
+      "summary": "נשיא המדינה יצחק הרצוג יתייחס ליום ה-1,000 שיחול מחר, להיעלמות המסתורית של היימנוט קסאו בצפת: \"אלף ימים של דאגה, געגוע וחוסר ודאות בלתי נסבל עבור הוריה\"",
       "link": "https://www.maariv.co.il/news/israel/article-1390498",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-20T10:58:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21896466",
+      "title": "נפצע פעמיים בעזה - ורץ חצי מרתון בחיפה לצד חבריו הלוחמים",
+      "summary": "כ-10,000 רצות ורצים השתתפו במרתון חיפה הבינלאומי הראשון • לוטינו לוצ'ק מדרום סודן ניצח במרתון הבכורה שלו וקבע את שיא המסלול • בין המשתתפים: סרן אליה מלכה, בן 22, שהשתתף באירוע הספורט הראשון שלו מאז פציעתו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21896466",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:49:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21896376",
+      "title": "אחרי תקיפה אלימה: גבריאל תאמאש עלול להישלח למאסר",
+      "summary": "אקס הפועל חיפה מוחזק על ידי משטרת רומניה וייתכן שמעצרו יוארך ל-30 יום נוספים • כדורגלן העבר היה מעורב בקטטה בעיר העתיקה בבוקרשט, ולא שיתף פעולה עם השוטרים • צפו בתיעוד שלו נלקח אזוק לחקירה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21896376",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:39:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21896317",
+      "title": "צופית גרנט: \"לא רציתי להיכנס לתוך המשולש הזה\"",
+      "summary": "צופית גרנט מגלמת את אשתו של שולי רנד בסרט \"הבדחן\", שיצר יחד עם גידי דר • בריאיון למקור ראשון היא מספרת על הקשר המחודש עם גרושתו של בעלה, על חיים לצד בן זוג שומר מצוות ועל וידוי מפתיע: \"אם הייתי יכולה לבחור, הייתי בוחרת להיות דתייה\"",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21896317",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:38:16.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-minority-government-right-wing-mks-suppor",
@@ -57,6 +93,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T10:31:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21896262",
+      "title": "למרות המלחמה והאיומים על העורף - מתחולל כאן נס כלכלי: זהו סוד הקסם הישראלי",
+      "summary": "התמ\"ג הישראלי שובר שיאים, האינפלציה - מהנמוכות בעולם • היצוא וההשקעות הזרות בזינוק וישראל הפכה לכלכלה ה־25 בגודלה בעולם • למרות שלוש שנות מלחמה ותקציב ביטחון עצום, ישראל מציגה נתונים מרשימים שמגיעים הודות ליצירתיות, יזמות וחוסן לאומי",
+      "link": "https://www.israelhayom.co.il/business/article/21896262",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:30:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21896373",
+      "title": "האולטימטום פקע: בגדד נערכת להסדר חדש עם המיליציות הפרו איראניות",
+      "summary": "כוחות של הממשלה העיראקית נערכים להשתלט על מעוז ארגון \"קאטיב חיזבאללה\" המשרת את איראן • מפקד כוח קודס האיראני הגיע לבגדד וניסה לגשר בין ראש הממשלה לפלגים הפרו איראניים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21896373",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:30:10.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/tv/383962262",
@@ -309,6 +363,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-20T08:49:39.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3876878",
+      "title": "בין סופר לשכר הדירה: כך אפשר להחזיר את יוקר המחיה עשור אחורה",
+      "summary": "ישראל נמצאת בעשירייה הראשונה ב-OECD בתוצר, אך רק במקום ה-24 בכוח הקנייה, כאשר הפער בין שני הנתונים האלה ממחיש את יוקר המחיה. בעוד מחירי המזון בניכוי פירות וירקות דווקא ירדו ה",
+      "link": "https://finance.walla.co.il/item/3876878",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T08:49:31.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/security-news/israel-upgrades-davids-sling-defense-system",
@@ -1294,7 +1357,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14961554",
       "title": "חשיפה: המסמך הפנימי שמטלטל את צמרת שב\"כ - והעימות החריג",
-      "summary": "מאחורי המתיחות בין ראש השב\"כ זיני ליועמ\"ש הארגון עומדת חוו\"ד שהפיץ בכיר בייעוץ המשפטי, שבה התריע מפני שימוש גובר בנימוקי ביטחון על חשבון זכויות אדם - ומכך ששופטי בג\"ץ לא יאפשרו למצב להימשך. בתגובה, גורם מבצעי הפיץ מסמך שבו האשים את המשפטנים בכבילת ידי השירות. בשב\"כ סירבו להגיב",
+      "summary": "מאחורי המתיחות בין ראש השב\"כ זיני ליועמ\"ש הארגון עומדת חוו\"ד שהפיץ בכיר בייעוץ המשפטי כמה חודשים אחרים 7/10, שבה התריע מפני שימוש גובר בנימוקי ביטחון על חשבון זכויות אדם - ומכך ששופטי בג\"ץ לא יאפשרו למצב להימשך. בתגובה, גורם מבצעי הפיץ מסמך שבו האשים את המשפטנים בכבילת ידי השירות. בשב\"כ סירבו להגיב",
       "link": "https://www.ynet.co.il/news/article/yokra14961554",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -1623,6 +1686,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T01:00:00.000Z"
+    },
+    {
+      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-6f4f4a20636f1a1027.htm",
+      "title": "תיעוד חדש מהכאוס הלילי בבית שמש: \"גנבו לי את האקדח!\"",
+      "summary": "המשטרה ביקשה לעצור נער שנהג ללא רישיון, עשרות חרדים תקפו את השוטרים בעקבות שמועה שגויה על מעצר עריק • בתיעודים מהלילה נראים השוטרים נסוגים מפני ההמון, שקית זבל הושלכה לתוך ניידת שגם נופצה • עד כה אין עצורים מהאירוע • איזנקוט גינה: \"מראות חמורים ביותר. על משטרת ישראל ומערכת אכיפת החוק לפעול בנחישות\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-6f4f4a20636f1a1027.htm",
+      "source": "N12",
+      "sourceKey": "n12",
+      "pubDate": "2026-11-20T00:42:00.000Z"
     },
     {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-6f4f4a20636f1a1027.htm",
@@ -32511,141 +32583,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-15T11:15:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21854837",
-      "title": "תיעוד מחריד: קטטה בין סייעות בגן הסתיימה בתקיפה בפטיש ומברג",
-      "summary": "אירוע אלימות חריג התרחש היום בגן ילדים ביישוב ערערה בנגב, כאשר סייעת הותקפה באכזריות באמצעות כלי עבודה • מתברר כי הרקע למעשה הוא קטטה שפרצה בין סייעות שעובדות במקום, והסייעת שהותקפה פונתה לבית החולים • המשטרה עצרה שתי חשודות תושבות היישוב",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21854837",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:14:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21854837",
-      "title": "תיעוד חריג: קטטה בין שתי סייעות בנגב",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21854837",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:14:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21853963",
-      "title": "מישהו גנב אותם: גביעי האליפות של מועדון הפאר נעלמו",
-      "summary": "תעלומה ענקית מסעירה את ראפיד בוקרשט אחרי חשיפת מתחם המועדון החדש • בארון התארים ניצבו שני פריטים זניחים בלבד, בעוד שהקבוצה זכתה ב-20 גביעים במהלך ההיסטוריה • ברקע פשיטת הרגל לפני עשור וחילופי האשמות בין האחראים",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21853963",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:12:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21854144",
-      "title": "לקראת בלאק פריידי: זה הקניון שהכי קל להגיע אליו",
-      "summary": "לקראת חג הקניות חברת Moovit פרסמה בדיקה המדרגת את 13 מרכזי הקניות המובילים בישראל מבחינת נגישות לתחבורה ציבורית • גרנד קניון עופר חיפה ניצב בראש עם מרחק של מטר בודד מהתחנה, בעוד עזריאלי תל אביב מוביל בעושר הקווים • ומה קורה בעיר שלכם?",
-      "link": "https://www.israelhayom.co.il/news/local/article/21854144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:11:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21854444",
-      "title": "גופמן יצטרך לשכנע: החשש מפריצה איראנית לנשק גרעיני מחייב פעולה",
-      "summary": "\"אסיפת המומחים\" של משמרות המהפכה מפרסמת קריאה דרמטית לשינוי דוקטרינת ההגנה ואף בחינת פרישה מהאמנה למניעת הפצת נשק גרעיני • דו\"ח חסוי של סבא\"א מזהיר מאובדן מעקב אחר מאות קילוגרמים של אורניום, וארה\"ב מציעה פרס של 20 מיליון דולר למידע על התוכנית האיראנית • על רקע זה, ראש המוסד יוצא לוושינגטון בניסיון לשכנע את האמריקנים לנטוש את \"הדרך המתונה\"",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21854444",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:06:35.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961477",
-      "title": "תיעוד קשה: תקפו את הסייעת בגן הילדים עם פטיש",
-      "summary": "שוטרי תחנת ערוער פתחו בחקירה בעקבות דיווח על תקיפת סייעת בגן ילדים בערערה בנגב. כוחות המשטרה עורכים סריקות לאיתור החשודים במעשה ולמעצרם",
-      "link": "https://www.walla.co.il/news/law/383961477",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T11:06:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961477",
-      "title": "שכובה על הרצפה ומותקפת: תיעוד קשה מגן ילדים בדרום",
-      "summary": "שוטרי תחנת ערוער פתחו בחקירה בעקבות דיווח על תקיפת סייעת בגן ילדים בערערה בנגב. כוחות המשטרה עורכים סריקות לאיתור החשודים במעשה ולמעצרם",
-      "link": "https://www.walla.co.il/news/law/383961477",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T11:06:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/law/383961477",
-      "title": "חשד לתקיפת סייעת בגן ילדים בערערה: המשטרה פתחה בחקירה",
-      "summary": "שוטרי תחנת ערוער פתחו בחקירה בעקבות דיווח על תקיפת סייעת בגן ילדים בערערה בנגב. כוחות המשטרה עורכים סריקות לאיתור החשודים במעשה ולמעצרם",
-      "link": "https://www.walla.co.il/news/law/383961477",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T11:06:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21854518",
-      "title": "שחקן מכבי תל אביב מטלטל את הקבוצה - ועודד קטש לא עושה דבר",
-      "summary": "ביותר מדי משחקים העונה ג'ימי קלארק מתהלך על הפרקט באדישות לא ברורה, במקום להיות העוגן של הקבוצה • מול הפועל ירושלים המאמן לא זיהה את זה בזמן והכניס את ים מדר באיחור גדול - בדרך להפסד שעלול להשפיע על העונה כולה בליגת העל",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21854518",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:05:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21854630",
-      "title": "חנן בן ארי לא מסתיר: ''יצאתי באורות''",
-      "summary": "חנן בן ארי פתח את סיבוב ההופעות של נובמבר בבית ההופעות שלו באקספו תל אביב, ולאחר מכן העלה פוסט נרגש עם משפט אחד שמשאיר את המעריצים עם סימני שאלה • מה כתב על הלילה, ואיזו בקשה הפנה לקהל לקראת המשך השבוע",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21854630",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:04:45.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bypolgp0gg",
-      "title": "תיעוד מזעזע: תקפו את הסייעת בגן הילדים עם פטיש ומברג",
-      "summary": "אלמונים הגיעו לגן בערערה שבנגב ותקפו את הסייעת באלימות קשה. הם ניסו לגזור את שערה ונמלטו מהמקום. המשטרה פתחה בחקירה: \"רואים בחומרה כל גילוי אלימות, ובפרט כלפי עובדי מערכת החינוך\"",
-      "link": "https://www.ynet.co.il/news/article/bypolgp0gg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-15T11:04:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21854454",
-      "title": "הצו הראשון מתקרב? הטיפים שאתם חייבים להכיר!",
-      "summary": "מבחנים, ריאיון אישי והמון לחץ: הצו הראשון מתקרב? ריכזנו עבורכם את הטיפים שאתם חייבים להכיר כדי להגיע מוכנים, להימנע מטעויות ולעבור את היום הזה בהצלחה!",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21854454",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:04:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21854154",
-      "title": "אחרי 13 שנות המתנה: GTA 6 מגיע לישראל - אלו המחירים",
-      "summary": "ארבעה ימים לפני ההשקה ההיסטורית של GTA 6, המשלוחים הראשונים כבר נחתו בישראל - עם פערי מחירים של יותר מ-120 שקלים בין הרשתות • מהדיל המשתלם ביותר, דרך היעדרות צפויה של עד 95 אלף עובדים במשק ועד 62 מיני ציפורים שאפשר לתעד במשחק • כל מה שצריך לדעת",
-      "link": "https://www.israelhayom.co.il/tech/gaming/article/21854154",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:04:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21854507",
-      "title": "\"מלחמת האזרחים\" במפלגה הדמוקרטית: \"סוף לצ'ק הפתוח לישראל\"",
-      "summary": "אחרי הניצחון הסוחף בבחירות האמצע, הסנאטור כריס ואן הולן, שמוביל מהלכים להגבלת התמיכה הביטחונית בישראל, הכריז שיתמודד מול צ'אק שומר על הנהגת הסיעה • פטרמן: \"יהיה מטריד אם הסיעה שלי תבחר במישהו כמוהו\" • שומר: \"יש לי את הקולות\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21854507",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:03:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21854048",
-      "title": "אחרי 9 שנים: רק שיר אחד מצדיק את האלבום החדש של U2",
-      "summary": "בונו וחבריו מבטיחים קרנבל אופטימי ומרומם נפש, אבל מספקים אלבום לא אפוי, עם לא מעט רגעים תמוהים ותחושה שהלהקה מסוגלת להרבה יותר",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21854048",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T11:03:27.000Z"
     }
   ]
 }
