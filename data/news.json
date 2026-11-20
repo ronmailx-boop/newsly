@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:01:04.842Z",
+  "updatedAt": "2026-11-20T20:16:14.029Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkkdu70cfg",
+      "title": "רכב התפוצץ בזמן נסיעה ברחוב הראשי בטירה: אישה במצב אנוש, ילדיה נפצעו גם",
+      "summary": "האישה בת ה-32 נפצעה אנושות מהפיצוץ ברכב. ילדיה בני 7 ושנתיים נפצעו קל. כולם פונו לבית חולים. המשטרה: הרקע כנראה פלילי",
+      "link": "https://www.ynet.co.il/news/article/hkkdu70cfg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-20T20:03:27.000Z"
+    },
     {
       "id": "walla:https://www.walla.co.il/news/world/383962337",
       "title": "מקרה כריסטה פייק חוזר? הוצאה להורג בטקסס הפכה למסכת ייסורים",
@@ -30738,42 +30747,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-15T20:22:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/ayom-bakikar/secular-child-shabbat-observance",
-      "title": "מרגש: הילד החילוני שסירב לחלל שבת | תחקיר: כך חטף המוסד גנרלים איראנים",
-      "summary": "מגעים חשאיים: איזנקוט נפגש עם יעקב אשר | מחלוקת בגוש השינוי: בנט קורא לאיים על החרדים | תחקיר רון ארד: כך חטף המוסד גנרלים איראנים | תיעוד מטורף מכלית נפט הפכה ספינת קרוז | פתח תקווה: רמי גרינברג יואשם בשוחד בכפוף לשימוע | סין: טיסה ראשונה במטוס חשמלי | לונדון: מהומה סביב מסעדה ללא חלאל | מזג האוויר: נאה ושמשי | והתיעוד: הילד החילוני שסירב לחלל שבת | (היום בכיכר)",
-      "link": "https://www.kikar.co.il/ayom-bakikar/secular-child-shabbat-observance",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-15T20:08:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21858505",
-      "title": "המנהל של דנה אינטרנשיונל, שי כרם, הלך לעולמו בגיל 61",
-      "summary": "שי כרם, האיש שהיה שותף לזכייה ההיסטורית עם \"דיווה\" וליווה את דנה אינטרנשיונל במשך שנים הלך לעולמו • אחיו הודיע על מותו בפוסט אישי",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21858505",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T20:05:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21858505",
-      "title": "המנהל של דנה אינטרנשיונל הלך לעולמו בגיל 61",
-      "summary": "שי כרם, האיש שהיה שותף לזכייה ההיסטורית עם \"דיווה\" וליווה את דנה אינטרנשיונל במשך שנים הלך לעולמו • אחיו הודיע על מותו בפוסט אישי",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21858505",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T20:05:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388801",
-      "title": "הקבינט המדיני-בטחוני התכנס אחרי מעל לחודש: צה\"ל נערך לתרחיש בלהות",
-      "summary": "לראשונה מאז תחילת אוקטובר התכנס הקבינט לדיון שנמשך כשלוש שעות, בצל החשש מהסלמה ביהודה ושומרון. צה\"ל נערך גם לאפשרות שאנשי מנגנוני הרשות הפלסטינית יפנו את נשקם נגד צה\"ל ויישובים ישראליים",
-      "link": "https://www.maariv.co.il/news/politics/article-1388801",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-15T20:02:27.000Z"
     }
   ]
 }
