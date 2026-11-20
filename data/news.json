@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:31:11.026Z",
+  "updatedAt": "2026-11-20T10:45:53.558Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-minority-government-right-wing-mks-suppor",
+      "title": "\"תמכו בממשלת מיעוט או תתפטרו\": האולטימטום הדרמטי של איזנקוט",
+      "summary": "בסיעת איזנקוט מעריכים: הח\"כים הימניים יתמכו בממשלה או יתפטרו • הצבעה לפני 6 בדצמבר גם ללא רוב מובטח | התוכנית: ממשלת מיעוט בתמיכת רע\"מ והרשימה המשותפת (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-minority-government-right-wing-mks-suppor",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-20T10:37:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/jabareen-eisenkot-peace-council-initiative-gaza",
+      "title": "יו\"ר המשותפת טוען: איזנקוט תומך ביוזמה להפסקת המלחמה בארגון הטרור חמאס | בימין תקפו בחריפות",
+      "summary": "יו\"ר הרשימה המשותפת טען כי יו\"ר ישר! תומך ביוזמה להפסקת המלחמה • הבהיר: \"רצועת עזה חלק מהמדינה הפלסטינית\" | \"אנחנו מפלגה ערבית, האם נהיה בעד הפצצת בני ובנות עמנו?\", תהה | תגובות חריפות בליכוד ובעוצמה יהודית (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/jabareen-eisenkot-peace-council-initiative-gaza",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-20T10:31:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383962262",
+      "title": "\"במקרה אני לא בתול וגם לא נזיר, אבל מגיע לי להיות\"",
+      "summary": "מתן בלומנבלט הגיע למסקנה שאין לו זמן להיות עצוב, והפך לאיש מאחורי הפוסטים הכי קורעים בפייסבוק, הפאנצ'ים הממש שווים של \"קופה ראשית\" והדיאלוגים היותר לוהטים בטינדר. ראיון בלתי בדיחמיני לשבת",
+      "link": "https://www.walla.co.il/entertainment/tv/383962262",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T10:25:05.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/australia-terror-plot-arrest-car-bomb-sydney",
       "title": "הוריד חומרי דאע\"ש וחקר מטעני חבלה: גבר נעצר בסידני בחשד לטרור",
       "summary": "גבר בן 35 חקר כיצד לבנות מטען חבלה לרכב • הוריד חומרים אלימים בהשראת דאע\"ש | החשד: תכנן פעולת טרור (בעולם)",
@@ -39,6 +66,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T10:23:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21896363",
+      "title": "איזנקוט על האלימות בבית שמש: \"לובשי מדים לא צריכים לפחד על חייהם\"",
+      "summary": "לאחר שעות ארוכות ללא תגובה, התייחס יו\"ר מפלגת ישר! גדי איזנקוט לאירועים האלימים שבהם הותקפו שוטרים בידי חרדים קיצוניים • \"לובשי מדים אמורים לבצע את תפקידם בלי לפחד על חייהם\", כתב • שוטר נפצע קל במהלך המהומות",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21896363",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:18:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21896346",
+      "title": "ההורים נכנסים לתמונה: טיקטוק קיבלה שורת החלטות דרמטיות",
+      "summary": "בפורום הבטיחות של טיקטוק בלונדון נחשף לוח בקרה חדש שמראה להורים מה הילדים עושים באפליקציה • בקרוב תיווסף התראה רגישה במיוחד, ופיצ'ר שההורים חיכו לו • ובמקביל: הכלי שיגלה לכל אחד אם סרטון נוצר ב-AI",
+      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21896346",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T10:16:22.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/lebanese-host-gives-kippah-magen-david-guest-live",
@@ -952,7 +997,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byjwkit0gl",
       "title": "לוחמי מג\"ב הוזנקו: המון זועם צבא על שוטרים בבית שמש | תיעודים חריגים",
-      "summary": "מהומת ענק פרצה אחרי ששוטרים עצרו לבידוק נער שנהג ללא רישיון, וארגונים חרדיים נגד הגיוס טענו שמדובר במעצר עריק - מה שהביא למקום עשרות מתפרעים, שהצליחו למלט את החשוד מהחוק. כוחות משטרה מתוגברים ולוחמי מג\"ב השתמשו ברימוני הלם וחילצו את השוטרים שספגו אבנים, שקית אשפה הושלכה לתוך ניידת",
+      "summary": "מהומת ענק פרצה אחרי ששוטרים עצרו לבידוק נער שנהג ללא רישיון, וארגונים חרדיים נגד הגיוס טענו שמדובר במעצר עריק - מה שהביא למקום עשרות מתפרעים, שהצליחו למלט את החשוד מהחוק. כוחות משטרה מתוגברים ולוחמי מג\"ב השתמשו ברימוני הלם וחילצו את השוטרים שספגו אבנים, שקית אשפה הושלכה לתוך ניידת. איזנקוט: \"לעצור באופן מיידי את הפורעים\"",
       "link": "https://www.ynet.co.il/news/article/byjwkit0gl",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -32727,96 +32772,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-15T10:48:26.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/route-90-detainees-early-release-financial-loss",
-      "title": "פרסום ראשון: שלושת עצורי כביש 90 ישוחררו בקרוב - אך יפסידו 10,000 שקל",
-      "summary": "שלושת תלמידי הישיבות שנעצרו בכביש 90 ישוחררו ביום חמישי לאחר 10 ימים בלבד • במקום מענק של 20,000 שקל ממיזם 'כלא 1000' יקבלו כ-10,000 שקל פחות | פרטים מלאים (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/route-90-detainees-early-release-financial-loss",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-15T10:45:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21854079",
-      "title": "בצל פרשת הפצ\"רית - בג\"ץ יחליט: האם לשר בישראל יש סמכות על חקירה פלילית?",
-      "summary": "11 שופטים ידונו בשאלה אם שר המשפטים רשאי למנות גורם שיפקח על חקירה פלילית שהיועמ\"שית מנועה מלעסוק בה • הדיון לא יעסוק בחקירת הפצ\"רית לשעבר, אלא בכללים שיחולו על מקרים דומים בעתיד",
-      "link": "https://www.israelhayom.co.il/news/law/article/21854079",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:42:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21854313",
-      "title": "המודחת הטרייה מ\"הישרדות\": \"נוצלתי מינית על ידי עשרות\"",
-      "summary": "השחקנית עמנואל הורי, שהודחה אמש מ\"הישרדות\", חשפה בפודקאסט של אבי שושן פגיעות קשות שליוו אותה מילדות ועד הבגרות • מה קרה לה בחו\"ל, מדוע בחרה שלא לחשוף את השמות ואיך דווקא \"הישרדות\" גרמה לה לומר \"עד כאן\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21854313",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:42:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21854321",
-      "title": "בגיל 75 ועם מקלות הליכה: הזמר בהופעה נדירה עם בתו השחקנית",
-      "summary": "אחרי שנים של בעיות בריאותיות, ניתוחים ופרישה מהבמות, פיל קולינס הגיע לטקס היכל התהילה של הרוקנרול כשהוא נעזר במקלות הליכה • לצדו היו בתו לילי, כוכבת \"אמילי בפריז\", ושניים מילדיו הנוספים",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21854321",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:39:27.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjmvlldcgl",
-      "title": "\"איזנקוט עשוי להיות נוקשה יותר\": בלבנון תוהים - הפלונטר ישפיע על המו\"מ?",
-      "summary": "בעולם הערבי עוקבים אחר מאמציו של גדי איזנקוט להחליף את רה\"מ נתניהו, ובלבנון מנסים להבין מה תהיה עמדתו בנוגע למשא ומתן בין המדינות. בינתיים, ראשי המדינה הלבנונית קוראים להאריך את מנדט יוניפי\"ל שמסתיים בסוף השנה, בחיזבאללה לא מתנגדים למו\"מ עקיף עם ישראל: \"כרגע יש רק צד אחד שמוותר\"",
-      "link": "https://www.ynet.co.il/news/article/sjmvlldcgl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-15T10:39:10.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3876281",
-      "title": "הקומבינה של רשתות המזון: מי באמת מרוויח מהמהפכה על המדף?",
-      "summary": "אורז של מותג פרטי יקר בכמעט 19% מהמותג המוכר, קוסקוס יקר בכ־11% ובשימורי מלפפונים מצאנו פער של כ־24% לרעת מותג הבית. בדיקת המכון לחקר הקמעונאות חושפת: מוצרי מותג הבית עשויים להיות יקרים בעד 24% מהמ",
-      "link": "https://finance.walla.co.il/item/3876281",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-15T10:39:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21854246",
-      "title": "השאלה שגרמה לאסתי מווארט להתפוצץ: \"עם של שונאי חינם\"",
-      "summary": "בעקבות הסערה סביב אי גיוסו של בעלה אריאל לצה\"ל, אסתי קנוחן חושפת את ההצקות והאיומים שספגו ומבהירה גם את עמדתה הנחרצת בנוגע ליחסי אישות לפני החתונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21854246",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:36:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21854196",
-      "title": "צעד ראשון מסוגו: רשת מכוני הכושר משדרגת את הסניפים",
-      "summary": "קפסולות קור יבש, תאי אור אדום ואמבטיות קרח: רשת הולמס פלייס משיקה מתחמי התאוששות בהשקעה של כמיליון שקל לסניף • המחירים: בין 25 ל-130 שקל לסשן",
-      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21854196",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:35:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/biden-netanyahu-gaza-war-memoir",
-      "title": "ביידן פותח הכול על ביבי: 'נאלצתי להגן על ישראל מפני עצמה'",
-      "summary": "בספר הזיכרונות החדש שלו, שיראה אור השבוע, חושף נשיא ארה\"ב לשעבר את התסכול שהצטבר בשיחות הסגורות במהלך המלחמה בעזה – ומאשים את ראש הממשלה בהפרת הבטחות (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/biden-netanyahu-gaza-war-memoir",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-15T10:32:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21854240",
-      "title": "רצח הפרופסור הישראלי בסופיה: זה השכן החשוד - שגר ליד הקורבן בבת ים",
-      "summary": "פרופ' אנדריי אטנסוב, בן 83, הוכה למוות במעלית בתחנת מטרו בבירת בולגריה • לפי החשד, לוייב הגיע לבולגריה יום לפני הרצח, תועד עוקב אחר הקורבן ונמלט חזרה לישראל דרך יוון • הפרקליטות מבקשת להאריך את מעצרו ב־20 יום, כדי לאפשר לבולגריה להגיש בקשת הסגרה רשמית",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21854240",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:32:00.000Z"
     }
   ]
 }
