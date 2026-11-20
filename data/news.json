@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:01:11.204Z",
+  "updatedAt": "2026-11-20T10:15:47.297Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/lebanese-host-gives-kippah-magen-david-guest-live",
+      "title": "נורמליזציה? איש תקשורת לבנוני חבש כיפה באולפן - והקהל מחא כפיים",
+      "summary": "שארל ג'בור קיבל כיפה עם הכיתוב 'פאודה' בערוץ MTV • המחווה עוררה סערה בלבנון | הרצון להיות שגריר בישראל (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/lebanese-host-gives-kippah-magen-david-guest-live",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-20T10:13:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/public-transport/bus-filled-first-stop-skipped-rest-tzfat-bat-ayin",
+      "title": "לקראת ההילולא: האוטובוס התמלא בתחנה הראשונה - ודילג על המשך המסלול",
+      "summary": "נוסעים רבים הגיעו לתחנה הראשונה של קו לצפת והאוטובוס התמלא כבר שם • בהמשך המסלול לא עצר בתחנות נוספות | לקראת הילולת ה'בת עין' (תחבורה ציבורית)",
+      "link": "https://www.kikar.co.il/public-transport/bus-filled-first-stop-skipped-rest-tzfat-bat-ayin",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-20T10:08:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21896230",
+      "title": "כתב ערוץ 12 עם חדשות משמחות: \"חיכינו\"",
+      "summary": "הכתב הצבאי של חדשות 12 ניצן שפירא לקח הפוגה מהעדכונים על המצב הבטחוני, ומבשר על הרחבת המשפחה",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21896230",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T09:58:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/desk-technology/article/21891483",
+      "title": "האם זו האמנות האחרונה ש\"נקייה\" מ-AI?",
+      "summary": "יוצרי אמנות מסוג מסוים מאוד טוענים שהם \"חסינים\" מ-AI – אלא שהמציאות בשטח מראה שזה ממש לא נכון",
+      "link": "https://www.israelhayom.co.il/desk-technology/article/21891483",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T09:55:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962309",
+      "title": "גל המחאות באיטליה מתרחב: שביתה כללית והפגנות ברחבי המדינה",
+      "summary": "במוקד המחאה: יוקר המחיה, דרישה להשקעה בחינוך ובשירותים הציבוריים והתנגדות להגדלת תקציבי הביטחון. השביתה בת 24 שעות וצפויה לשבש את פעילות בתי הספר, מערכת הבריאות וחלק מקווי התחבורה הציבורית",
+      "link": "https://www.walla.co.il/news/world/383962309",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T09:53:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390488",
+      "title": "שיסף את צווארו והמשיך לתקוף גם כשקרס: אישום מזעזע בניסיון רצח בחיפה",
+      "summary": "תושב חיפה בן 44 חשוד כי תקף אדם בסכין בעקבות ויכוח ברחוב העצמאות בעיר, וגרם לפציעתו הקשה. בתום חקירת המשטרה צפוי להיות מוגש נגדו כתב אישום בגין ניסיון רצח, גניבה והחזקת סכין",
+      "link": "https://www.maariv.co.il/news/law/article-1390488",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-20T09:51:38.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390488",
       "title": "שיסף את צווארו והמשיך לתקוף גם כשקרס: אישום בניסיון רצח בחיפה",
       "summary": "תושב חיפה בן 44 חשוד כי תקף אדם בסכין בעקבות ויכוח ברחוב העצמאות בעיר, וגרם לפציעתו הקשה. בתום חקירת המשטרה צפוי להיות מוגש נגדו כתב אישום בגין ניסיון רצח, גניבה והחזקת סכין",
@@ -39,6 +93,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-20T09:51:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21895913",
+      "title": "מנהיג האופוזיציה בהודו: \"חייבים קשר חזק עם ישראל אבל לא נשתוק על מה שקורה בעזה\"",
+      "summary": "רהול גנדי, נצר לשושלת מייסדי הודו המודרנית וראש אופזיציית השמאל מרכז במדינה, התבטא בחריפות נגד פעילותה של ישראל ברצועה",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21895913",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T09:50:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21896252",
+      "title": "סערה בציונות הדתית: קריאות להשליך את \"עולם קטן\" לפח",
+      "summary": "שער עלון השבת עורר ביקורת חריפה בעקבות הצגת הרכב הכנסת החדש • שובל לוקר קרא לגבאי בתי הכנסת שלא להכניס את העיתון: \"אם הערימה כבר הגיעה, תרימו אותה ותזרקו לפח\" • יהודה גליק תקף: \"כמה צר וקטן עולמם\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21896252",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-20T09:50:29.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rj3xwfaafl",
@@ -5430,6 +5502,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T10:47:50.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3876900",
+      "title": "סיר דגים מרוקאי או סלמון קסם ב-15 דקות? 3 מתכוני דגים לסופ\"ש",
+      "summary": "סלמון במרינדת קסם שמוכן תוך רבע שעה, סופריטו דגים ספרדי עם הרוטב הכי טעים שיש, וסיר דגים מרוקאי לוהט שמחייב חלה טרייה בצד | 3 מתכוני דגים שתמיד מצליחים לארוחת שישי, ובכלל",
+      "link": "https://food.walla.co.il/item/3876900",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-19T10:47:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21888010",
@@ -32817,87 +32898,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-15T10:17:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1388563",
-      "title": "33 אלף חולים נוספים בעזה - ארגון הבריאות העולמי מזהיר: \"הגרוע ביותר עוד לפנינו\"",
-      "summary": "ארגון הבריאות העולמי מדווח על 33 אלף מקרי תחלואה נוספים בדרכי הנשימה בעזה לעומת אשתקד, ומזהיר מפני החמרה בעקבות ההצפות והצפיפות. בצה\"ל טוענים כי הפעולות לא נועדו לפגוע באוכלוסייה האזרחית",
-      "link": "https://www.maariv.co.il/news/israel/article-1388563",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-15T10:13:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/six-turkish-citizens-caught-dead-sea-border-crossi",
-      "title": "מבצע דרמטי בים המלח: שישה אזרחים טורקיים ניסו לחדור לישראל בסירת גומי",
-      "summary": "לוחמי חטיבת הבקעה ומג\"ב סיכלו ניסיון חצייה מירדן • החשודים נכנסו ללא נשק במטרה למצוא עבודה | נשלל חשד לאירוע ביטחוני (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/six-turkish-citizens-caught-dead-sea-border-crossi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-15T10:13:12.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/yokra14957199",
-      "title": "185 תפקידי פיקוד לא מאוישים, ניידת עם 483 אלף ק\"מ עוד על הכביש: המצב המדאיג במשטרה",
-      "summary": "מאות מיליוני שקלים תקועים, אלפי כלי רכב שהיו אמורים להיות מוחלפים ממשיכים לשמש שוטרים, ובתחנה בלוד עובדים לצד חולדות: \"מסתובבות בין הרגליים, יש שם שוטרים שכבר פיתחו יחסים איתן\". חוסר התפקוד של משרדי הממשלה, כתבה חמישית בסדרה",
-      "link": "https://www.ynet.co.il/news/article/yokra14957199",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-15T10:13:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388550",
-      "title": "שלושה חשודים, ביניהם אם לארבעה: מצבור נשק וסמים נחשף בגן יבנה",
-      "summary": "שלושה בני משפחה נעצרו לאחר שבחיפוש בביתם בגן יבנה נמצאו אמצעי לחימה, סמים וציוד לזיוף מטבעות. אחת החשודות, אם לארבעה ילדים, ביקשה להשתחרר למעצר בית, אך בית המשפט האריך את מעצרה",
-      "link": "https://www.maariv.co.il/news/law/article-1388550",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-15T10:13:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21853947",
-      "title": "חנן בן ארי מתחיל מחדש: \"שלא ייגמר לעולם\"",
-      "summary": "הזמר שהתגרש מאישתו הדסה בן ארי, פתח אמש מצלמה ודיבר מהלב על ההתרגשות הגדול מפרק חדש שמתחיל. \"לא יודע כמה אנחנו נשב\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21853947",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:11:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21853800",
-      "title": "קנו דירה, נכנסו לגור בה – וגילו בה יותר מ-20 נחשים חיים",
-      "summary": "שלושה שבועות אחרי המעבר נמצא הנחש הראשון על המרפסת • קבלן שפרץ את הבטון חשף עשרות ביצים • ומהשכנים התברר שהבית נשא כינוי מפחיד הרבה לפני שבני הזוג עברו אליו",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21853800",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:11:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388561",
-      "title": "\"יזרקו אותם תחת הגלגלים\": האזהרה של בכיר הליכוד לחרדים",
-      "summary": "שר האנרגיה אלי כהן תקף את ניסיונות איזנקוט להקים ממשלת מיעוט וטען כי לא תחזיק מעמד. בריאיון לרדיו צפון קרא לממשלת אחדות ללא תנאים מוקדמים, תקף את ההסתמכות על המפלגות הערביות והתייחס לאיום האיראני",
-      "link": "https://www.maariv.co.il/news/politics/article-1388561",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-15T10:10:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/illegal-gambling-raid-jordan-valley-12-suspects",
-      "title": "פשיטה דרמטית בבקעה: 12 חשודים נתפסו עם כסף ענק במתחם הימורים",
-      "summary": "שוטרי תחנת הבקעה ולוחמי מג\"ב פשטו על מתחם בצומת אלמוג • נתפסו 19 אלף שקלים, 5,000 דולר וציוד הימורים | חלק מהחשודים ניסו להימלט (משטרה)",
-      "link": "https://www.kikar.co.il/police/illegal-gambling-raid-jordan-valley-12-suspects",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-15T10:10:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21853441",
-      "title": "רן בן שמעון, זהבי ועטר: 5 הקמפיינים הכי גרועים של נבחרת ישראל",
-      "summary": "השלכת סרט הקפטן, הניצחון ההיסטורי בצרפת שלא מחק את ההפסדים, וההשפלה מול אירלנד • הנבחרת בדרך לקמפיין ראשון בלי ניצחון מאז 1958, וזו הזדמנות להיזכר בחרפות הכי גדולות, וגם בנסיבות המקילות",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21853441",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-15T10:02:39.000Z"
     }
   ]
 }
