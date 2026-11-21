@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:15:56.748Z",
+  "updatedAt": "2026-11-21T22:31:08.160Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14965330",
+      "title": "מלטפים את הזאב",
+      "summary": "אירופה ניצבת מול סערה מושלמת: שילוב של הגירה שבחלקה הגדול דוחה השתלבות ומערכות דמוקרטיות כבולות וחסרות יכולת לפעול. כך נולדה הברית שטורפת את היבשת",
+      "link": "https://www.ynet.co.il/news/article/yokra14965330",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T22:13:27.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14965744",
       "title": "המהפכה מגזרית, הנזק לאומי",
@@ -3702,6 +3711,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T19:05:54.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877037",
+      "title": "הכוכב הישראלי תחת מתקפה: \"לא התקדם בכלום\"",
+      "summary": "הכוכב הישראלי תחת מתקפה: \"לא התקדם בכלום\"",
+      "link": "https://sports.walla.co.il/item/3877037",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T19:05:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877037",
