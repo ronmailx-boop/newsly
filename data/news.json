@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:45:46.879Z",
+  "updatedAt": "2026-11-21T10:01:00.150Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rj1ivjyj7l",
+      "title": "ליברמן מגיב לאיזנקוט: הדרך היחידה להקים ממשלה - לפרק את גוש נתניהו",
+      "summary": "יו\"ר ישראל ביתנו הגיב בביטול להצהרה של גדי איזנקוט, שלפיה \"אם לא תהייה ממשלה רחבה - אקים ממשלת חירום\" צרה, וכתב כי יש צורך ב\"קואליציה עם ש\"ס ויהדות התורה\". ליברמן הוסיף: \"יהיה לזה מחיר פוליטי ואני אשלם אותו\"",
+      "link": "https://www.ynet.co.il/news/article/rj1ivjyj7l",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T09:53:53.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390675",
       "title": "אחרי העימותים עם ישראל: ראש ממשלת ספרד במצוקה קשה",
@@ -66,6 +75,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-21T09:03:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390667",
+      "title": "שני קורבנות בתוך שעות: ילד בן 10 נרצח בשועפאט, אם לשניים חוסלה בטירה",
+      "summary": "ארבעה קורבנות נרצחו בשבוע, ושניים תוך 12 שעות בחברה הערבית. הבוקר נורה מטווח קרוב קוסאי מוחמד אל-ג'ולאני, ילד בן 10, ובמהלך הלילה נרצחה הייא גסאן קאסם שמטען הוצמד לרכבה",
+      "link": "https://www.maariv.co.il/news/law/article-1390667",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T09:01:04.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390667",
@@ -714,6 +732,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T23:33:52.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/tech-news/383962165",
+      "title": "נחשפה האישה הסודית שמאחורי הכוכבת הלוהטת של GTA 6",
+      "summary": "סוד שנשמר במשך שנים נחשף עם יציאת המשחק: הכוכבת שמגלמת את לוסיה היא שחקנית ניו יורקית שעבדה בעבר כברמנית, חלמה ללמד ריקודי בטן ואפילו הופיעה ב-GTA הקודם. ויש לה גם סיפור אישי לא פשוט",
+      "link": "https://www.walla.co.il/tech/tech-news/383962165",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T22:06:41.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/tech/tech-news/383962165",
@@ -2388,6 +2415,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T10:23:09.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877006",
+      "title": "הסנקציות נותנות את אותותיהן: החיים באיראן תחת המצור",
+      "summary": "אינפלציה של כמעט 90 אחוז, ביצים שנקנות שתיים-שתיים ותרופות שמחירן הוכפל. איראנים מספרים איך נראים החיים בצל המצור. מבחינה מעשית, מרגיש כאילו כל כך הרבה דלתות נסגרו בפנינו\", סיפרה ריחאנה בת ה-30",
+      "link": "https://finance.walla.co.il/item/3877006",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T10:20:03.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21896363",
@@ -28767,114 +28803,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T10:01:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388989",
-      "title": "חשד: תקף ואנס את בת זוגו זה שנים; עורכת דינו: \"תלונת שווא\"",
-      "summary": "החשוד, שהיה בקשר זוגי עם המתלוננת במשך שנים, מואשם כי תקף אותה באלימות במספר אירועים נפרדים ובמקרה אחד תקף אותה מינית | עורכת דינו טוענת כי מדובר בתלונת שווא | מעצרו הוארך ב-3 ימים",
-      "link": "https://www.maariv.co.il/news/law/article-1388989",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:59:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21861378",
-      "title": "הטריק הפשוט הזה ימנע מאדי מים להצטבר על החלונות שלכם",
-      "summary": "החלונות מתכסים באדים כל בוקר והעובש כבר מתחיל לטפס על המסגרות • מומחים לחלונות חושפים פתרון זול שנמצא בכל מטבח, בלי ניגוב יומי ובלי חומרי ניקוי יקרים • וזה כל מה שצריך לעשות כדי לשמור על חלון יבש כל החורף",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21861378",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:58:33.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1388986",
-      "title": "שכחו אותם בשמיים: המפעילים כיבו את האורות והלכו הביתה",
-      "summary": "שני מבקרים באוסטרליה עלו לגלגל ענק כדי ליהנות מהנוף, אך מצאו את עצמם לכודים בראש המתקן. במשך כמעט שעתיים ניסו להזעיק עזרה, עד שהגיעו כוחות החילוץ",
-      "link": "https://www.maariv.co.il/news/viral/article-1388986",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:56:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21861152",
-      "title": "החוקרים מצאו: השכונה שבה נולד תינוק עשויה להשפיע על ההזדקנות שלו",
-      "summary": "מחקר חדש בארה\"ב עקב אחר מאות ילדים ומצא כי אלו שנולדו בשכונות עירוניות עם תחלופת דיירים גבוהה ובקרבה לכבישים סואנים הציגו קצב מואץ של הזדקנות ביולוגית • החוקרים הופתעו: דווקא בשכונות מוחלשות עם זיהום אוויר גבוה לא נרשמה השפעה דומה",
-      "link": "https://www.israelhayom.co.il/health/article/21861152",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:55:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21861287",
-      "title": "המשטרה תבדוק את התנהלותה ביום הבחירות, בכיר בלשכת נתניהו העביר מידע",
-      "summary": "דני גרינברג, שסיים את עבודתו במשרד ראש הממשלה לפני כחצי שנה, פנה הבוקר לשב\"כ ולמשטרה בעקבות האירוע שנחשף בתחקיר חדשות 12 • במקביל, ח\"כ יורם כהן פנה ליועמ\"שית בדרישה לפתוח בחקירה פלילית בחשד לשימוש בסמכויות המשטרה ממניעים פוליטיים",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21861287",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:52:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/netanyahu-grandson-wedding-mea-shearim",
-      "title": "נכדו החרדי של נתניהו התחתן בגיל 17 במאה שערים; הסבא לא הגיע",
-      "summary": "שמואל רוט בן ה-17 התחתן אמש בשכונת מאה שערים - באולם קטן וסגור לתקשורת • ראש הממשלה נמנע מלהגיע \"בשל אילוצי אבטחה\" (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/netanyahu-grandson-wedding-mea-shearim",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:52:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388987",
-      "title": "לא מספיק להחליף ממשלה, ישראל חייבת לשנות כיוון | גרשון בסקין",
-      "summary": "אזרחי ישראל עברו שנים של טראומה, פחד, מלחמה, פילוג פוליטי ושחיקה באמון במוסדות המדינה. מגיע לנו יותר מממשלה שתבטיח לנהל טוב יותר את המשבר הבא. מגיעה לנו הנהגה שתציע עתיד אחר",
-      "link": "https://www.maariv.co.il/news/opinions/article-1388987",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:52:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1388981",
-      "title": "\"עשיתי מניפולציות\": הווידוי של בכיר השב\"כ לשעבר",
-      "summary": "עדי כרמי, לשעבר בכיר בשב\"כ, התייחס ב-103fm לתחקיר \"עובדה\" והעלה חשד למבצע בכיסוי מצד לשכת ראש הממשלה. בשיחה עם בן כספית וינון מגל סיפר על שיטות שהפעיל בעבר והסביר מה חייבים לבדוק",
-      "link": "https://www.maariv.co.il/news/politics/article-1388981",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:52:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjdvirdafx",
-      "title": "50 אלף חיילים אמריקנים במזרח התיכון: נושאת המטוסים השלישית הגיעה לאזור",
-      "summary": "ארה\"ב צוברת עוד ועוד כוח מול איראן, בינתיים בעיקר ימי: נושאת המטוסים רוזוולט חזרה למזרח התיכון, לראשונה מאז 2024. עדיין לא ברור אם הגיעה כדי להחליף נושאת אחרת שתעזוב. איראן הודיעה שפגעה בעוד מכליות נפט במצר הורמוז",
-      "link": "https://www.ynet.co.il/news/article/rjdvirdafx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T09:50:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjdvirdafx",
-      "title": "כ-50 אלף חיילים אמריקנים במזרח התיכון: נושאת המטוסים השלישית הגיעה לאזור",
-      "summary": "ארה\"ב צוברת עוד ועוד כוח מול איראן: נושאת המטוסים רוזוולט חזרה למזרח התיכון, עם כוח התקיפה שלה. ההצבה הקודמת: לפני כשנתיים. איראן הודיעה שפגעה בעוד מכליות נפט במצר הורמוז",
-      "link": "https://www.ynet.co.il/news/article/rjdvirdafx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T09:50:22.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21861399",
-      "title": "אחרי 20 שנה: המיני גולף המיתולוגי חוזר לתל אביב - הכניסה חינם",
-      "summary": "שני עשורים אחרי סגירת הגולפיטק המיתולוגי, נמל תל אביב מחזיר את משחק המיני גולף עם 15 עמדות צבעוניות מול הים",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21861399",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:48:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21861344",
-      "title": "נתניהו: \"נסדיר את מעמד לומדי התורה\"; בכיר חרדי: \"בלי חוק גיוס - בחירות חוזרות\"",
-      "summary": "ראש הממשלה קרא להקים ממשלת אחדות לאומית, והתחייב לא להיפרד מהמפלגות החרדיות בשום ממשלה שתקום • גם אחרי שהמנדט הוטל על גדי איזנקוט, החרדים לא המליצו על אף מועמד, ותנאי התמיכה שלהם לא השתנה: הסדרת מעמד לומדי התורה בחקיקה • בכיר חרדי ל\"היום\": \"אם לא יהיה חוק גיוס שטוב לנו, לא תקום ממשלה - לא כאן ולא כאן\" • מנהיג הציבור הליטאי הרב לנדו: ״השם יעזור לנו וכל הגזירות יתבטלו בקרוב״",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21861344",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:47:39.000Z"
     }
   ]
 }
