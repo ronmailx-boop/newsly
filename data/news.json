@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:16:06.583Z",
+  "updatedAt": "2026-11-21T10:31:15.081Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390681",
+      "title": "על רקע שבוע שישי של מחאות בצרפת: אצבע מאשימה נגד ערוצי החדשות",
+      "summary": "על פי דיווח ב\"ניו יורק טיימס\", מבקרים רבים מאשימים את CNews ו־BFM TV הפועלים 24 שעות ביממה כי הם מלבים את האש, מקצינים את השיח הציבורי ומשתמשים בשפה גזענית. יותר ממיליון חתמו על עצומה נגדם",
+      "link": "https://www.maariv.co.il/news/world/article-1390681",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T10:23:35.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962368",
+      "title": "ליברמן תוקף: \"הקמת ממשלת מיעוט תחזיר את נתניהו עם 70 מנדטים\"",
+      "summary": "בפוסט חריף שפרסם, מזהיר ליברמן מפני הישענות על המפלגות הערביות וקורא להקים ממשלה חלופית דווקא עם המפלגות החרדיות: \"ממשלת מיעוט לא תשרוד יותר מחודשים בודדים״",
+      "link": "https://www.walla.co.il/news/politics/383962368",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T10:01:05.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21899411",
       "title": "בעקבות ההדלפה: שחקני ארסנל קיבלו עונש יצירתי",
@@ -28632,87 +28650,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T10:32:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21829381",
-      "title": "לחם השמש: המאפה הבולגרי הרך שלא תפסיקו לתלוש",
-      "summary": "לא צריך אירוע מיוחד כדי להכין את אחד המאפים היפים של המטבח הבולגרי • הכירו את פיתקה סלונצה, מאפה חגיגי מהמטבח הבולגרי שמגישים למרכז השולחן ותולשים ממנו חתיכה אחר חתיכה • ויש גם כמה סודות שיעזרו לכם לקבל מאפה אוורירי וזהוב",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21829381",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T10:29:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/doj-warning-warren-trump-investigations",
-      "title": "החרבות נשלפות: הממשל הפדרלי משגר אזהרה דרמטית לסנאטורית שתרדוף את טראמפ",
-      "summary": "התובע הפדרלי דרש מהסנאטורית לשמור מסמכים הקשורים לחקירות נגד הנשיא | הדמוקרטים נערכים לנצל את הרוב החדש בקונגרס לפתיחת חקירות נרחבות | העימות מתחיל (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/doj-warning-warren-trump-investigations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T10:29:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21861727",
-      "title": "המגעים להחזרת פליי דובאי: ההכרעה עוברת לדרג המדיני",
-      "summary": "פגישת מנכ\"ל משרד התחבורה עם מנכ\"ל חברת התעופה האמירתית הסתיימה, אך הדיונים הביטחוניים נמשכים • בשני הצדדים מבינים שההחלטה על חידוש הטיסות, כולל חזרת החברות הישראליות לדובאי, תתקבל בדרגים המדיניים • מחר יתקיימו דיונים גם עם אמירייטס",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21861727",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T10:26:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1389005",
-      "title": "תקף קשישה באכזריות בקריית מוצקין: בית המשפט גזר מאסר ופיצויים",
-      "summary": "ארבע שנות מאסר נגזרו על תושב בן 36 שהורשע בשוד קשישה, בעבירות רכוש ובתקיפת אישה נוספת. השופט התחשב בהודאתו ובמאמצי השיקום שלו, אך הטיל עליו גם פיצויים בסך 30 אלף שקל",
-      "link": "https://www.maariv.co.il/news/law/article-1389005",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T10:25:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21861829",
-      "title": "אחרי ביג גלילות: אחד הקניונים הגדולים בארץ דורש לפתוח בשבת",
-      "summary": "על אף הביקוש, הקניון הגדול בפתח תקווה נותר סגור בסופי שבוע • כעת חברת מליסרון, המחזיקה בקניוני עופר, פונה לבית המשפט ודורשת תשובות • מה טוענת העירייה להגנתה?",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21861829",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T10:21:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21861716",
-      "title": "אחרי שהשילה 15 קילו: רומי פרנקל חושפת קמפיין חדש ולוהט",
-      "summary": "הדוגמנית והשחקנית מככבת בהפקה חדשה של FACTORY 54, שמחזירה את הגלאם הצבעוני, הצלליות הנועזות והג'ינסים הנמוכים של תחילת שנות ה־2000 • ויש גם לא מעט מותגי יוקרה בתמונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21861716",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T10:20:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21861465",
-      "title": "אחרי שחשפה את התקופה הקשה: הצעד הבא של עדן אלנה",
-      "summary": "אחרי תקופה של התרחקות מאור הזרקורים, הזמרת מצטרפת לעשרות אמנים ואמניות בערב מיוחד בהאנגר 11, שיחגוג את הראפ, ההיפ הופ והתרבות השחורה בישראל",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21861465",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T10:18:20.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1irtbuafe",
-      "title": "טופז לוק: \"שרה נתניהו? כל זוג מתייעץ, אבל היא לא מעורבת\"",
-      "summary": "יועצו של ראש הממשלה העיד במשפט נתניהו כעד מטעם ההגנה וטען שלא היו יחסי \"תן וקח\" בין רה\"מ לאתר וואלה: \"הם היו מאוד עוינים\". בנוגע לטענות על מעורבות של שרה נתניהו בעבודה מול התקשורת אמר: \"הכול מקצועי, הדיווחים בעניינה הזויים\". וגם: הרגלי עישון הסיגרים",
-      "link": "https://www.ynet.co.il/news/article/h1irtbuafe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T10:18:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388998",
-      "title": "הוארך מעצרן של 3 הסייעות מאשקלון: \"דפוס אלימות ללא הסבר\"",
-      "summary": "בית משפט השלום באשקלון האריך בשישה ימים את מעצרן של שלוש עובדות מעונות החשודות בהתעללות חמורה. השופטת קבעה כי החשדות נגדן מתחזקים והצביעה על דפוס אלימות שמעיד על מסוכנות",
-      "link": "https://www.maariv.co.il/news/law/article-1388998",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T10:16:16.000Z"
     }
   ]
 }
