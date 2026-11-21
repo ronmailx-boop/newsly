@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:45:50.511Z",
+  "updatedAt": "2026-11-21T17:01:14.918Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21900978",
+      "title": "לקראת הפגישה המכרעת: רשימת הדרישות של הליכוד מישר!",
+      "summary": "בליכוד דורשים מאיזנקוט לוותר על הקמת ממשלת מיעוט בתמיכת הסיעות הערביות ולעצור את קידום החקיקה בכנסת • במישור המדיני-ביטחוני דורשים התחייבות שלא תקום מדינה פלסטינית, שצה\"ל לא ייסוג מאזורי הביטחון ושלא ישונו תנאי הכליאה של מחבלי הנוחבה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21900978",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:57:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21901035",
+      "title": "דיווח דרמטי: ברצלונה רוצה לצרף שחקן מוכר - שכבר סיכם אצלה",
+      "summary": "שחקן אינטר שכמעט עבר לקבוצה במהלך הקיץ שוב על הפרק, בזמן שהאנזי פליק דוחף לחזק את ההגנה של הקבוצה",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21901035",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:54:47.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syif5sjkxg",
+      "title": "\"שימוש ציני\": הפלסטינים טענו שצה\"ל הרג עובדי סיוע בעזה, הארגון הבינ\"ל הכחיש",
+      "summary": "",
+      "link": "https://www.ynet.co.il/news/article/syif5sjkxg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T16:47:38.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21900956",
+      "title": "אייל ברקוביץ' לעג למעבר של אילה חסון לערוץ 14 - וחטף ממוריה אסרף",
+      "summary": "ההכרזה של חסון על מעבר תפסה את המגיש בהפתעה בשידור חי • הוא מיהר לעקוץ, אך שותפתו סירבה לשתף פעולה עם הבדיחה: \"לא שופר של אף אחד\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21900956",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:46:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21900891",
+      "title": "הקרב בין משתתפי \"הישרדות\" הגיע לאיום על תביעה: \"יש גבול לכל תעלול\"",
+      "summary": "פרסום ראשון: שי חי הסיר סטוריז שפרסם על שילה דורפמן, לאחר שאיימה על תביעת לשון הרע. חי: \"הכל היה ברוח טובה\"",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21900891",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:45:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21892934",
+      "title": "כך הם יגיעו: 3 שחקנים שיקרבו את הפועל תל אביב לאליפות",
+      "summary": "האדומים יחזרו מפגרת הנבחרות כשהם במקום הראשון, אבל בלי סקורר אמיתי בעמדת החלוץ זה לא יספיק לתואר • לקראת חלון ההעברות של ינואר, היא צריכה לפתוח את הארנק או לחשוב על פיתרון יצירתי בדמות טרייד שישדרג לה את החלק הקדמי • שלוש אפשרויות מעניינות כבר מחכות לה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21892934",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:39:29.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/nyc-mayor-mamdani-achilles-injury-rikers-closure",
       "title": "ראש העיר ניו יורק ממדאני נפצע באמצע המשחק וקרע את גיד אכילס",
       "summary": "ראש העיר הגיע למסיבת עיתונאים על קביים ומגף רפואי • הפציעה אירעה במשחק ידידותי מול נבחרת העיתונאים | הכריז על סגירת רייקרס איילנד עד 2027 (בעולם)",
@@ -39,6 +93,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-21T16:39:28.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962403",
+      "title": "איראן תחכה: טראמפ יעניק חנינה לשני תרנגולים בטקס חגיגי",
+      "summary": "אחד אוהב תפוחים וטיולים בכבישים כפריים, השני מעדיף ד”ר פפר וחולם על פרישה מוקדמת. לקראת חג ההודיה יגיעו שני תרנגולי הודו למלון יוקרתי בוושינגטון, ומשם לטקס החנינה המסורתי של הנשיא",
+      "link": "https://www.walla.co.il/news/world/383962403",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T16:39:10.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/peoples/ayala-hasson-channel-14",
@@ -192,6 +255,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T16:04:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21900708",
+      "title": "פייק ניוז מעזה: בארגון הסיוע מבהירים - \"להרוגים אין קשר אלינו\"",
+      "summary": "בדיווח של רשת רויטרס נמסר כי רכב שבו שהו עובדי הארגון ההומניטרי \"המטבח העולמי\" בעזה הותקף בשעה שעצר לחלק מזון ושתייה • מטעם הארגון נמסר כי להרוגים בתקיפה אין קשר אליהם וכי מדובר בפעילי ג'יהאד אסלאמי • לפני שנתיים נהרגו שבעה עובדי \"המטבח העולמי\" בתקיפה שהוגדרה על ידי צה\"ל כ\"חריגה מהנהלים\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21900708",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T16:03:41.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21900708",
@@ -27066,69 +27138,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T17:01:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21865827",
-      "title": "איזנקוט וחברי ישר הגיעו לאוהל של אלישע מדן, אך ההתכתשות עם הליכוד נמשכת",
-      "summary": "גדי איזנקוט, חילי טרופר ומתן כהנא באו ל\"אוהל האחדות\" שהקים הח\"כ מהליכוד • עם זאת, במפלגת של נתניהו זועמים על הכוונה לבחור יו\"ר כנסת ללא תיאום: \"צעד דורסני\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21865827",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T17:00:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21865827",
-      "title": "ח\"כים של איזנקוט הגיעו לאוהל של אלישע מדן, אך ההתכתשות עם הליכוד נמשכת",
-      "summary": "חילי טרופר ומתן כהנא באו ל\"אוהל האחדות\" שהקים הח\"כ מהליכוד • עם זאת, במפלגת של נתניהו זועמים על הכוונה לבחור יו\"ר כנסת ללא תיאום: \"צעד דורסני\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21865827",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T17:00:42.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1lhej00rzx",
-      "title": "פליי דובאי תחזור לישראל בחודש הבא? השיחות באמירויות והדרישות של שב\"כ",
-      "summary": "קו ישראל-דובאי הופסק עד אמצע דצמבר, בעקבות ניסיון חטיפת המטוס לפני חודש וחצי. הצדדים מעוניינים להגיע תוך חודש להבנות שיענו על צורכי הביטחון של שב\"כ. המטרה היא לאפשר מכירת כרטיסים לחגי האביב, אך גורם המעורה בפרטים הבהיר: \"לישראל יש אחריות, רוצים להגיד לציבור שהופקו כל הלקחים\"",
-      "link": "https://www.ynet.co.il/news/article/b1lhej00rzx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T17:00:18.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3876513",
-      "title": "המאבק על ארקיע הוכרע: רונן אלעד ירכוש 82% מהחברה",
-      "summary": "בתום מאבק על השליטה בחברת התעופה, אישר הדירקטוריון פה אחד את העסקה עם איש העסקים רונן אלעד • אלעד יזרים כ-30 מיליון דולר, קבוצת נקש תוסיף 8.5 מיליון דולר ותישאר עם 3% מהמניות • העובדים יחזיקו ב-15%",
-      "link": "https://finance.walla.co.il/item/3876513",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T16:57:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/parush-ben-gurion-memorial-speech-unity-yeshiva-st",
-      "title": "מאיר פרוש בנאום חריף על בן גוריון: \"למדנו שלא פוגעים בלומדי התורה\"",
-      "summary": "ח\"כ פרוש בדיון המיוחד לציון זכרו של בן-גוריון • התייחס להסדרת מעמד בני הישיבות ולקדיש שאמר סבו לעילוי נשמתו | \"עצוב שבחרו לפגוע בלומדי התורה\" (חרדים)",
-      "link": "https://www.kikar.co.il/political-news/parush-ben-gurion-memorial-speech-unity-yeshiva-st",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T16:55:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21865623",
-      "title": "סערה בארה\"ב: האם המושל הדמוקרטי המציא קשר לחייל שנהרג באפגניסטן?",
-      "summary": "דיווח חדש מטיל צל כבד על מושל מרילנד הדמוקרטי וס מור, שנחשב למועמד אפשרי לנשיאות ב־2028: בספר הזיכרונות שלו מ־2015 כתב כי התאבל על מותו של חברו לנשק אלא שהחייל המדובר נהרג רק 11 ימים לאחר מכן • אלמנתו של החייל טענה שמעולם לא שמעה על מור, ולוחמים ששירתו לצדו הטילו ספק בכך שהשניים הכירו",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21865623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T16:54:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/sederhalacha/tlwuk3-38",
-      "title": "מנחת ערב: האם מותר להתחיל מנחה קרוב לצאת הכוכבים? • צפו",
-      "summary": "קול סיני – סדר הלכה • מדי יום הרב יעקב סיני מזמין אתכם ללימוד הלכתי מעמיק בסוגיות העומדות על הפרק | והיום, תפילת מנחה בשעון חורף: עד איזו שעה אפשר להתפלל, והאם אפשר להתחיל בתפילת שמונה עשרה שתסתיים אחרי צאת הכוכבים? • צפו בפינת ההלכה (יהדות)",
-      "link": "https://www.kikar.co.il/sederhalacha/tlwuk3-38",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T16:51:48.000Z"
     }
   ]
 }
