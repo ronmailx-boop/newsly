@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:45:50.221Z",
+  "updatedAt": "2026-11-21T18:00:59.318Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/bennett-unity-government-eisenkot-netanyahu-princi",
+      "title": "בנט חושף אחרי הפגישה עם נתניהו לאיזו ממשלה מכוון | גדי איזנקוט הזמין את הליכוד ל\"מרתון שיחות\"",
+      "summary": "יו\"ר 'ביחד' פרסם הודעה מפורטת במוצ\"ש • \"מחויב למהפכת המשרתים ולהחלפת ממשלת השבעה באוקטובר\" | \"ממשלת אחדות בראשות איזנקוט היא החלופה הנכונה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/bennett-unity-government-eisenkot-netanyahu-princi",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T17:56:39.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877115",
+      "title": "בספרד מסבירים: הסיבות שהופעת הבכורה של גורן מתעכבת",
+      "summary": "בקאמפ נואו \"תולים תקוות גדולות\" בילד הפלא הישראלי, אך הלו\"ז הקשה של הקטלאנים, היכולת של פרמין וחזרתו של אולמו יקשו על הספתח",
+      "link": "https://sports.walla.co.il/item/3877115",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T17:53:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/tov5hp",
+      "title": "תעמולת השקר קרסה: כך ניסו בעזה להפוך מחבלים לעובדי סיוע | תיעוד דרמטי",
+      "summary": "צה\"ל תקף מהאוויר בצפון רצועת עזה רכב שבו נסעו שלושה מחבלים מהזרוע הצבאית של הג'יהאד האיסלאמי, אשר העבירו מזון ולוגיסטיקה לפעילי טרור. מיד לאחר התקיפה מיהרו גורמים עזתים לטעון כי מדובר בעובדי ארגון הסיוע \"המטבח העולמי\" - טענה שהוכחשה רשמית על ידי הארגון עצמו ועל ידי דובר צה\"ל שפרסם תיעוד דרמטי מרגעי החיסול (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/israel-news/tov5hp",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T17:51:51.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hkc8viyjmg",
+      "title": "התשובה לליברמן? איזנקוט הזמין את צוות הליכוד ל\"מרתון שיחות\", בנט דוחף לאחדות",
+      "summary": "עימות בגוש? יו\"ר ישר! הזמין את צוות הליכוד למרתון שיחות שיחל מחר, בניסיון להקים ממשלה רחבה. בנט הצטרף לקריאה לממשלת אחדות, אמר שהחשדנות כלפי נתניהו מוצדקת - אך טען שהפעם איזנקוט יעמוד בראש: \"חובה להפוך כל אבן להקמת ממשלת אחדות ציונית\"",
+      "link": "https://www.ynet.co.il/news/article/hkc8viyjmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T17:50:49.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/92361",
+      "title": "איזנקוט: הזמנו את הליכוד ל\"מרתון שיחות\" החל ממחר",
+      "summary": "",
+      "link": "https://www.kikar.co.il/scoop-news/92361",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T17:45:13.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390777",
       "title": "עם פוסט ברשתות: אדם נעצר בתל אביב בחשד לאיומים על נפתלי בנט",
       "summary": "תושב תל אביב בשנות ה-30 לחייו נעצר בעקבות פרסום ברשת החברתית ובו איומים לכאורה על ראש הממשלה לשעבר ובנו יוני. החשוד שוחרר למעצר בית, וברקע עומדת פרשת מכתבי האיומים שנשלחו למשפחה ב-2022",
@@ -43,7 +88,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/r111vruyk7l",
       "title": "רצח רודף רצח: צעיר נורה למוות בגליל התחתון",
-      "summary": "הצעיר נורה למוות בתוך רכב, וצוות מד\"א קבע את מותו בזירה לאחר שנמצא ללא רוח חיים. המשטרה פתחה בחקירה ובסריקות אחר חשודים. הרקע פלילי",
+      "summary": "רצח שלישי בחברה הערבית תוך פחות מיממה: עבד בסול נורה למוות בתוך רכב, צוות מד\"א קבע את מותו בזירה. המשטרה פתחה בחקירה, הרקע פלילי",
       "link": "https://www.ynet.co.il/news/article/r111vruyk7l",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -57,6 +102,24 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-21T17:29:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383962411",
+      "title": "תושב ת\"א חשוד באיום על בנט: \"באתי מהעתיד להציל את הממשלה\"",
+      "summary": "החשוד, בשנות ה-30 לחייו, פרסם תמונה של מכתב האיומים שנשלח למשפחת בנט ב-2022, והוסיף לה כיתוב משלו. בעקבות הפרסום נעצר לחקירה ושוחרר למעצר בית. המשטרה ממשיכה בחקירת האירוע",
+      "link": "https://www.walla.co.il/news/law/383962411",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T17:27:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962410",
+      "title": "רצח שלישי ביממה: גבר נורה למוות ביריות בישוב בגליל",
+      "summary": "הגבר, שזהותו טרם ידועה, נפצע באורח אנוש מירי לעבר רכב בכפר ריינה, ובהמשך נקבע מותו. המשטרה פתחה בחקירה ובסריקות לאיתור החשודים בירי. הרקע לאירוע פלילי והנסיבות נבדקות",
+      "link": "https://www.walla.co.il/news/israel/383962410",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T17:27:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21900506",
@@ -687,6 +750,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T15:09:42.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/donotmiss/383962378",
+      "title": "קשה לצפייה: בעלי הכלבים גילו מה באמת עשו להם לאחר שמתו",
+      "summary": "כ-170 גופות של כלבים וחתולים התגלו מושלכות ב-15 אתרים בפיליפינים. רבים מבעלי החיים נמסרו לחברות שריפה, אך במקום להישרף הושלכו בשקיות פלסטיק. בעקבות הגילוי נפתחה חקירה נגד ארבעה מעורבים",
+      "link": "https://www.walla.co.il/news/donotmiss/383962378",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T15:05:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/donotmiss/383962378",
@@ -27057,87 +27129,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T18:02:52.000Z"
-    },
-    {
-      "id": "walla:https://celebs.walla.co.il/item/3876520",
-      "title": "אחרי שנתיים: מוריה אסרף נפרדת",
-      "summary": "אחרי תקופה ארוכה של זוגיות שנשמרה מתחת לראדר, מגישת ערוץ 13 מוריה אסרף ובן זוגה רז גרנות החליטו להפריד כוחות | כל הפרטים על הפרידה המפתיעה",
-      "link": "https://celebs.walla.co.il/item/3876520",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T17:59:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21866337",
-      "title": "ספיר בורגיל: \"מחר זה קורה, תדליקו נרות\"",
-      "summary": "לקראת הדיון בבית הדין הרבני מחר, יוצאת \"האח הגדול\" שיתפה בתחושות המעורבות לאחר שנה וחצי של המתנה והבהירה לאברהם אקלום כי לסירוב יש מחיר: \"זה כבר לא תלוי ברצון שלו\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21866337",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T17:56:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/idf-eliminates-five-hamas-terrorists-jabaliya-octo",
-      "title": "חמישה מחבלי חמאס חוסלו: אחד מהם פשט לישראל ב-7 באוקטובר | תיעוד",
-      "summary": "כוחות צה\"ל תקפו במרחב ג'באליה וחיסלו מפקדי מחלקות וראשי חוליות • אחד המחבלים השתתף בטבח 7 באוקטובר | המחבלים קידמו מתווי טרור נגד כוחותינו (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/idf-eliminates-five-hamas-terrorists-jabaliya-octo",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T17:55:37.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3876518",
-      "title": "דירקטוריון אנבידיה הגיע להחלטה גורלית בקשר לג'נסן הואנג",
-      "summary": "לפי דיווח ברשת CNBC, ענקית השבבים מתמקדת בחיפוש אחר מנכ\"ל קבוע ובבדיקת התנהלותו של המייסד, על רקע הטענות לרומן עם אישה המקושרת למודיעין הסיני",
-      "link": "https://finance.walla.co.il/item/3876518",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T17:53:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
-      "title": "אחרי רה\"מ ושורת בכירים: איזנקוט הגיע הערב לאוהל של חבר הכנסת אלישע מדן מהליכוד",
-      "summary": "איילת חריב ואלה פרי הגיעו לאוהל של ח\"כ אלישע מדן • \"העם מפולג, צריך לחבור מקצה לקצה\" | \"אנשים שהרגו את בעלנו לא יכולים להיות בממשלה\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/widows-unity-tent-madan-terror-supporters",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T17:52:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/teufa/ronen-elad-arkia-new-owner-deal",
-      "title": "עסקת ענק בעולם התעופה: איש העסקים רונן אלעד הוא הבעלים החדש של ארקיע",
-      "summary": "הדירקטוריון אישר הערב את העברת השליטה לידי אלעד • העובדים שמרו על 15% מהמניות וקיבלו ייצוג בדירקטוריון | הזרמת הון של עשרות מיליוני דולרים (תעופה)",
-      "link": "https://www.kikar.co.il/teufa/ronen-elad-arkia-new-owner-deal",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T17:51:20.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "title": "איזנקוט ואליסף פרץ הגיעו ל\"מאהל האחדות\" של חבר הכנסת מהליכוד",
-      "summary": "יו\"ר ישר! הגיע לאוהל שהקים אלישע מדן, לאחר ביקורו במקום של יו\"ר הכנסת המיועד מתן כהנא ורצף מתקפות מהליכוד. \"הפסיקו את ההשתלחויות הפרועות, אל תקדמו צעדים דורסניים בזמן שמתנהל משא ומתן לממשלת אחדות\", תקפו את איזנקוט, על רקע פרשת \"שתילת המידע\" ויום לפני החלפת אמיר אוחנה",
-      "link": "https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T17:48:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "title": "איזנקוט הגיע ל\"מאהל האחדות\" של מדן, הליכוד האשים אותו ב\"השתלחות והסתה\"",
-      "summary": "יו\"ר ישר! הגיע לאוהל שהקים חבר הכנסת מהליכוד, לאחר ביקורו במקום של יו\"ר הכנסת המיועד מתן כהנא ורצף מתקפות מהליכוד. \"הפסיקו את ההשתלחויות הפרועות, אל תקדמו צעדים דורסניים בזמן שמתנהל משא ומתן לממשלת אחדות\", תקפו את איזנקוט, על רקע פרשת \"שתילת המידע\" ויום לפני החלפת אמיר אוחנה",
-      "link": "https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T17:48:59.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "title": "איזנקוט הגיע ל\"מאהל האחדות\" של אלישע מדן",
-      "summary": "",
-      "link": "https://www.ynet.co.il/news/article/sjwbb600rzg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T17:48:59.000Z"
     }
   ]
 }
