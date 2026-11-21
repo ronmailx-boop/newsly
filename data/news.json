@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:45:54.353Z",
+  "updatedAt": "2026-11-21T07:01:07.833Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390643",
+      "title": "ילד כבן 10 נורה למוות במזרח ירושלים; החשוד נמלט",
+      "summary": "קטין כבן 10 נורה למוות במחנה הפליטים שועפט שבמזרח ירושלים. הוא פונה לבית החולים במצב אנוש תוך כדי פעולות החייאה, אך מותו נקבע בהמשך. המשטרה פתחה בחקירה ופועלת לאיתור החשוד שנמלט מהמקום",
+      "link": "https://www.maariv.co.il/news/law/article-1390643",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T06:57:39.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21899032",
       "title": "שמע פיצוצים וראה מיכלית בוערת: האיש שיצא לשחות במצר הורמוז",
@@ -93,6 +102,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-21T05:44:15.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877064",
+      "title": "דני וולף להט עם 20 נקודות, ברוקלין הפסידה ברגע האחרון",
+      "summary": "הישראלי צלף ארבע שלשות והגיע ל-20 נקודות בפעם השלישית ב-NBA, אך הנטס נכנעו 113:111 לאורלנדו מסל ניצחון של פרנץ ואגנר 2.4 שניות לסיום. בן שרף לא שותף",
+      "link": "https://sports.walla.co.il/item/3877064",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T05:38:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21898982",
@@ -741,6 +759,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T19:05:54.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/science/383962342",
+      "title": "הפנטגון חשף מסמכי עב\"מים חדשים; מה תכננו להסתיר מתחת לאדמה?",
+      "summary": "43 קבצים חדשים, שלושה סרטונים צבאיים ותוכנית להקמת כספת תת-קרקעית לחומרים חריגים: הגל השמיני של חשיפת ארכיון העב\"מים האמריקני כולל גם תיעוד מסתורי מספינת מלחמה ועדות של מהנדס תעופה אגדי",
+      "link": "https://www.walla.co.il/tech/science/383962342",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-20T18:44:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21898116",
@@ -29955,96 +29982,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T07:04:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1388893",
-      "title": "\"ביקשתי שלא יירו בו\": האב הזעיק משטרה - בנו נורה למוות",
-      "summary": "שוטר ירה למוות בתושב זמר במהלך פעילות בביתו, לאחר שלטענת המשטרה איים על הכוח בסכין. אביו טוען שביקש מהשוטרים לא להשתמש בנשק חם. מח\"ש חוקרת את נסיבות הירי",
-      "link": "https://www.maariv.co.il/news/israel/article-1388893",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T07:00:02.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961580",
-      "title": "נתניהו דורש להיות ראשון ברוטציה; יש עוד סיכוי לאחדות",
-      "summary": "נציגי איזנקוט ונתניהו רצו אתמול להגיע להסכמות, עם הערכה הדדית בין כץ לטרופר. ראש גוש השינוי דחה על הסף את דרישת נתניהו - אלו הנושאים שעלו על השולחן",
-      "link": "https://www.walla.co.il/news/politics/383961580",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T07:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21859688",
-      "title": "נציגת ישראל במיס יוניברס משתפת: ״תלשתי לעצמי את הריסים״",
-      "summary": "רגע לפני תחרות מיס יוניברס, דניאל יבלונקה שיתפה את עוקביה ברגעים הפחות זוהרים מהחזרות • בין ההכנות למופע הפתיחה לעייפות המצטברת, היא נאלצה לקטוע את הסרטון במפתיע",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21859688",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T06:59:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21859489",
-      "title": "370 עובדים יפוטרו, 300 מיליון שקלים יגויסו: תוכנית ההתייעלות של ישראכרט",
-      "summary": "חברת האשראי פרסמה את דוחות הרבעון השלישי והודיעה על תוכנית התייעלות משמעותית • במקביל, החברה חצתה את רף חמשת מיליון הכרטיסים החוץ-בנקאיים ומציגה עלייה ברווח הנקי • המנכ\"ל איתמר פורמן: \"נחסוך כ-100 מיליון שקל בשנה החל מ-2027\"",
-      "link": "https://www.israelhayom.co.il/business/article/21859489",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T06:58:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21859489",
-      "title": "370 עובדים יפוטרו, 300 מיליון שקלים יגויסו: חברת האשראי שתצא לתוכנית התייעלות",
-      "summary": "ישראכרט פרסמה את דוחות הרבעון השלישי והודיעה על תוכנית התייעלות משמעותית • במקביל, החברה חצתה את רף חמשת מיליון הכרטיסים החוץ-בנקאיים ומציגה עלייה ברווח הנקי • המנכ\"ל איתמר פורמן: \"נחסוך כ-100 מיליון שקל בשנה החל מ-2027\"",
-      "link": "https://www.israelhayom.co.il/business/article/21859489",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T06:58:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21859652",
-      "title": "הסתתרה בתוך ארון בדירת מסתור: נעצרה חשודה רביעית בתקיפת הסייעת בנגב",
-      "summary": "ארבע נשים נעצרו בחשד לתקיפת סייעת בגן ילדים בערערה בנגב • שלוש מהחשודות אותרו בערערה ובלקיה, ואילו הרביעית נמצאה בדירת מסתור בדימונה כשהיא מתחבאת בתוך ארון • אדם נוסף נעצר בחשד שסייע לה להסתתר",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21859652",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T06:52:04.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/violence-arab-society-israel",
-      "title": "יצאה לקנות עוגת יום הולדת לנכדה - ונרצחה בפיצוץ רימון",
-      "summary": "אם לחמישה יצאה לקנות עוגת יום הולדת, אך נקלעה לאירוע אלים שהסתיים באסון | שלושה חשודים נעצרו, ובהמשך דווח על מעצר חשוד נוסף | תיעוד קשה (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/violence-arab-society-israel",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T06:51:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961582",
-      "title": "אחדות עם נתניהו? \"אסור לגעת בעקרב גם עם מקל, צריך לדרוך\"",
-      "summary": "הרמטכ\"ל לשעבר בריאיון ל-103fm התייחס למנסור עבאס, לבן גביר ולמגעים להקמת ממשלת אחדות. בנוסף, קרא לראשי גוש השינוי שלא לחבור אליו: \"מי שייתן לו נגיעה בשלטון הבא, יעשה את הטעות הגורלית של מדינת ישראל\"",
-      "link": "https://www.walla.co.il/news/politics/383961582",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T06:50:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21859572",
-      "title": "סטטיק חוזר לימים עם בן אל: \"הלכתי לגמילה\"",
-      "summary": "מאז שהצמד התפרק, סטטיק המשיך בדרכו העצמאית • כעת הוא בוחר לחזור לתקופה המשותפת באמצעות מערכון שמכוון בעיקר לעצמו",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21859572",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T06:48:29.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388886",
-      "title": "רובוט ההשקעות סיבך את המפעיל שלו עם החוק",
-      "summary": "מהנדס תוכנה הפעיל במשך שנים רובוט מסחר וניהל באמצעותו השקעות של עשרות לקוחות, למרות אזהרות מפורשות מרשות ניירות ערך. לאחר שהורשע ונגזר עונשו, ערעור שהגיש הוביל לתפנית במחוזי",
-      "link": "https://www.maariv.co.il/news/law/article-1388886",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T06:47:07.000Z"
     }
   ]
 }
