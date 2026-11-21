@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:31:00.053Z",
+  "updatedAt": "2026-11-21T19:41:47.726Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/peoples/tovagd",
+      "title": "מהפך: המועדונים יעברו לכשרות וייסגרו בשבת אחרי רכישת עומר אדם",
+      "summary": "במהלך היסטורי, רשת מועדוני ההופעות צפויה לעבור לכשרות ולסגור את סניפיה בשבת • התוכנית מגיעה לאחר שהזמר עומר אדם ומשפחתו רכשו כ-40.5% ממניות הרשת • במסגרת המהלך יוגש תפריט כשר בכל מועדוני הרשת (ברנז'ה)",
+      "link": "https://www.kikar.co.il/peoples/tovagd",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T19:39:48.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/peoples/tovaed",
+      "title": "הזמר שסירב להופיע בשבת: \"התחזקתי שבעתיים אחרי המחלה\"",
+      "summary": "הזמר איציק קלה מספר על ההתחזקות באמונה לאחר המחלה • \"מעולם לא הופעתי בשבת, גם כשקיבלתי הצעות גבוהות מאוד\" • \"הרגשתי שהקדוש ברוך הוא אומר לי: לך תשמח את עם ישראל\" (אנשים)",
+      "link": "https://www.kikar.co.il/peoples/tovaed",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T19:37:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21901907",
+      "title": "תושבי גבעות בר שוב תחת מטחי ירי מרהט: \"מה אנחנו גרים בעזה?\" | צפו",
+      "summary": "צרורות ירי ממושכים נשמעו בעוצמה חריגה ביישוב הסמוך לרהט, גם מתוך חדרי הילדים • התושבים דיווחו למשטרה ומתריעים מפני הסכנה: \"זה מתקרב אלינו מיום ליום\" • ביישוב דורשים אכיפה בזמן אמת: \"מייאש ומתיש\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21901907",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T19:27:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21901853",
+      "title": "\"קול לא מתיישר\": המסר של מגי טביבי לאילה חסון אחרי המעבר",
+      "summary": "שעות לאחר שאילה חסון הודיעה כי בחרה להצטרף לערוץ 14, מגישת המהדורה המרכזית מיהרה לקבל את פניה בסטורי עם מסר חד במיוחד • ברקע, העזיבה הסוערת של כאן 11 והעימות עם הנהלת התאגיד",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21901853",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T19:26:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21901889",
+      "title": "קבלת הפנים לדני אבדיה בניו יורק: \"לא שמעתי דבר כזה\"",
+      "summary": "הישראלי, שהחמיץ את שני המשחקים האחרונים של פורטלנד, עדיין בספק למפגש עם הניקס במדיסון סקוור גארדן • פרשן הבלייזרס למאר הרד נזכר בתשואות החריגות שקיבל אבדיה בביקור קודם, והסביר למה גם ניצחון אחד בשני המשחקים שנותרו יהיה סיום מוצלח למסע החוץ",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21901889",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T19:21:45.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/tov8bo",
       "title": "ניצחון לשקמה ברסלר: תומכת נתניהו תתנצל ותשלם פיצויים",
@@ -66,6 +111,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-21T19:09:39.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-unity-government-demands-eisenkot-netanyahu",
+      "title": "\"הסכמת מנהיגי החרדים\": הליכוד פרסם את התנאים שלו לממשלת אחדות",
+      "summary": "הפסקת התקפות על נתניהו והצהרה נגד ממשלה עם תומכי טרור • ארבעה קווי יסוד כולל שלילת מדינה פלסטינית והסדרת מעמד לומדי תורה | המסמך המלא שפורסם הערב (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/likud-unity-government-demands-eisenkot-netanyahu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T18:58:26.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/likud-unity-government-demands-eisenkot-netanyahu",
@@ -27102,24 +27156,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T19:43:09.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rkkfdco0zg",
-      "title": "מומחה לזיהוי פלילי טוען: ג'פרי אפשטיין נרצח בכלא - ולא התאבד | זו התיאוריה שלו",
-      "summary": "פרופ' מייקל פרימן קיבל מאחיו של המיליונר הפדופיל צילומים מדוח הנתיחה ואת תיק החקירה של המכון לרפואה משפטית בניו יורק, וטען שהסימנים מעידים שאפשטיין נחנק למוות - ככל הנראה מאחור. \"יש רק הסבר אחד, והוא שהמוות היה תוצאה של רצח\", אמר ל-BBC",
-      "link": "https://www.ynet.co.il/news/article/rkkfdco0zg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T19:34:39.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-eaa9f112bd5e1a1026.htm",
-      "title": "\"חיכיתי שעה וחצי בתור - וזה שווה את זה\": הטירוף אחרי הסופגנייה הוויראלית",
-      "summary": "כ-20 מיליון סופגניות נמכרות בישראל במהלך החג, והשנה המחירים מטפסים מעלה. למרות זאת, מקום אחד באור יהודה הפך לוויראלי ברשתות ונהיה למוקד עלייה לרגל – שם מוכרים סופגניות ב-7 שקלים בלבד. מנגד, בירושלים המחיר מזנק ל-20 שקלים תחת מיתוג של \"קינוח יוקרתי\". בין הריבה הקלאסית לטירוף הבוטיק: כך הפכה הסופגנייה לזירת הקרב הלוהטת של החורף.",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-eaa9f112bd5e1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-16T19:32:00.000Z"
     }
   ]
 }
