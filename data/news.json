@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:01:12.063Z",
+  "updatedAt": "2026-11-21T13:15:57.760Z",
   "sources": [
     {
       "key": "ynet",
@@ -183,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T11:33:02.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962375",
+      "title": "ראש קרטל מקסיקני נעצר על ידי ה-FBI, יריות נשמעו באצטדיון",
+      "summary": "לכידתו של \"צ'אפו איסידרו\", המופיע ברשימת 10 המבוקישים של ה-FBI, הציתה לילה של כאוס וקרבות יריות במדינת סינלואה; כבישים נחסמו, רכבים הוצתו ואלפי אוהדים נמלטו למחסה באמצע משחק בייסבול",
+      "link": "https://www.walla.co.il/news/world/383962375",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T11:29:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21899548",
@@ -27633,105 +27642,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T13:18:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21862351",
-      "title": "דניאל גרינברג מודה: \"חולשה כללית ואכילה רגשית\"",
-      "summary": "אושיית הרשת נשאלה על ידי אחת העוקבות על הרגלי התזונה שלה וסיפרה בגילוי לב שעלתה במשקל בחודשים האחרונים • \"ביטחון ואהבה עצמית זו מתנה ואם לא קיבלת אותה - כדאי להתחיל לבנות\"",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21862351",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:15:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1389081",
-      "title": "הפתעה בשמי עזה: הרחפנים של צה\"ל פיזרו מסר לא שגרתי",
-      "summary": "תושבים בעזה מדווחים כי רחפנים של צה\"ל פיזרו כרוזים עם הזמנה ליצור קשר עם רכז שב\"כ המכונה \"קפטן אל-מג'ד\". לחלקם צורפו חפיסות סיגריות ושקיות קפה שחור של עלית",
-      "link": "https://www.maariv.co.il/news/military/article-1389081",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T13:14:37.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b14ff4damg",
-      "title": "נדחתה הגעת היועמ\"שית למשפט נתניהו, בג\"ץ יכריע בהחלטה לא לחקור נגדית את מנדלבליט",
-      "summary": "גלי בהרב-מיארה ביקשה לדחות את הדיון בנוכחותה בתיקי האלפים. שופטי ההרכב אישרו - והיא צפויה להתייצב בבית המשפט ברביעי הבא. הפרקליטות: נעתור לבג\"ץ נגד ההחלטה שלא לאפשר לנו לחקור נגדית את מנדלבליט",
-      "link": "https://www.ynet.co.il/news/article/b14ff4damg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T13:14:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21863413",
-      "title": "כפר סבא מחפשת פתרונות לצעירים: קבוצת ברדוגו מקדמת מתחם מגורים לסטודנטים",
-      "summary": "שני מחקרים של גיאוקרטוגרפיה מצביעים על מחסור בדירות קטנות ובפתרונות מגורים ייעודיים לסטודנטים בכפר סבא ובמרחב המיידי, הכולל את רעננה והוד השרון, שבו מתגוררים כ-8,000 סטודנטים • הקרבה לתחנת הרכבת מאפשרת נגישות למוסדות אקדמיים נוספים ועשויה להגדיל את פוטנציאל הביקוש למגורים באזור",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21863413",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:08:49.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1389082",
-      "title": "בצל הקמת הממשלה, הרמטכ\"ל אייל זמיר מבהיר: \"לצה\"ל חסרים לוחמים\"",
-      "summary": "הרמטכ\"ל אייל זמיר הדגיש בטקס לזכר דוד בן-גוריון את הצורך בהרחבת הגיוס לכלל האוכלוסיות: \"לצה\"ל חסרים לוחמים\". לדבריו, הרחבת השירות תקל משמעותית על משרתי המילואים",
-      "link": "https://www.maariv.co.il/news/military/article-1389082",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T13:08:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21863254",
-      "title": "400 כוכבים דורשים: לשים סוף להשתקה של הטרדות מיניות בתעשיית הבידור",
-      "summary": "כוכבי בידור בריטים חתמו על מכתב פתוח הקורא לשים סוף ל\"תרבות של סודות גלויים\" בתעשיית הבידור • בין החותמים: כוכבי \"משחקי הכס\" ו\"אנולה הולמס\"",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21863254",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:07:57.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961652",
-      "title": "החשד שנחשף בעקבות התקיפות: המיזמים האירניים של ערי הטילים",
-      "summary": "חוקר שמיפה מיזמי מים באיראן זיהה דמיון בולט בין פריסתם למפת התקיפות על אתרי טילים חשאיים. ההערכה היא כי חלק ממיזמי המים עשויים לסייע לבסיסים להמשיך לפעול גם אם האספקה מהרשת הארצית תיפגע",
-      "link": "https://www.walla.co.il/news/military/383961652",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T13:07:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21863341",
-      "title": "המתקפה הגדולה במלחמה: הפגיעה בגשר קרים - ו\"המשימה הסודית של צרפת\"",
-      "summary": "לפי משרד ההגנה הרוסי יורטו 1,336 כטב\"מים, ודובר הקרמלין הודה שאף מערכת לא מגינה ב-100% • זלנסקי טוען שהתקיפות השביתו יותר ממחצית מיכולת הזיקוק של רוסיה, וערוצים רוסיים מדווחים שהכטב\"מים מצוידים במסופים של חברה ישראלית • ובמקביל: דיווח על משימה חשאית של חיילים צרפתים באוקראינה, שעליה לא עודכנו חברי הפרלמנט בפריז",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21863341",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:03:41.000Z"
-    },
-    {
-      "id": "walla:https://sheva7.walla.co.il/item/3876478",
-      "title": "בלונים עם אמצעי החשוד כ-GPS אותרו סמוך לעין השלושה",
-      "summary": "כוחות שהוזעקו למרחב איתרו בלונים שאליהם חובר אמצעי החשוד כמכשיר GPS. לאחר בדיקה הם זוכו, ובצה\"ל בודקים אם הגיעו מרצועת עזה לישראל או בכיוון ההפוך",
-      "link": "https://sheva7.walla.co.il/item/3876478",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T13:03:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21863068",
-      "title": "אלייז'ה בראיינט על חברו של דני אבדיה: \"חרב פיפיות\"",
-      "summary": "כוכב הפועל תל אביב התייחס לצלילה במספרים של שחקן פורטלנד טרייל בלייזרס וסיפק השוואה לרוקי של סקרמנטו קינגס: \"אם הוא היה נבחר לשם, הוא היה יכול לעשות את אותם מספרים?\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21863068",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:02:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21863068",
-      "title": "אלייז'ה בראיינט יצא להגנת סקוט הנדרסון: \"הזדמנות משנה הכל\"",
-      "summary": "כוכב הפועל תל אביב התייחס לצלילה במספרים של שחקן פורטלנד טרייל בלייזרס וסיפק השוואה לרוקי של סקרמנטו קינגס: \"אם הוא היה נבחר לשם, הוא היה יכול לעשות את אותם מספרים?\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21863068",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T13:02:31.000Z"
     }
   ]
 }
