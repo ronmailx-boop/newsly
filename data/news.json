@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:46:00.119Z",
+  "updatedAt": "2026-11-21T12:00:58.505Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383962331",
+      "title": "השחיקה, הקומבינות וניסיון הבלימה - מערך המילואים על סף שבירה",
+      "summary": "מחיילים שמוצאים את עצמם בחו\"ל עם צו פתוח ועד לוחמים שוויתרו על קידום בעבודה והצעת נישואים: הצצה לדיונים הסגורים אצל המג\"דים והרמטכ\"ל, רגע לפני שהמערך יקרוס תחת העומס",
+      "link": "https://www.walla.co.il/news/military/383962331",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T11:42:51.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390691",
       "title": "\"המדינה הזו גזענית למדי\": כיצד מסקרים בעולם את תוצאות הבחירות בישראל?",
@@ -28065,150 +28074,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T12:05:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tolfp8",
-      "title": "חרדה באור יהודה: רימון רוסס הושלך לעבר בניין העירייה",
-      "summary": "רימון רסס הושלך לפנות בוקר לעבר בניין עיריית אור יהודה וגרם לנזק קל למבנה, ללא נפגעים | במשטרה פתחו בחקירה | ראש העיר ליאת שוחט בתגובה חריפה (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tolfp8",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T11:58:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21862709",
-      "title": "\"אם לא באולפנים\": העקיצה של מיכל פעילן לחדשות 12",
-      "summary": "כתבת חדשות 12 שיתפה את נתוני החשיפה הגבוהים שלה ברשתות החברתיות, וצירפה עקיצה שמעלה תהיות בנוגע למעמדה במסך",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21862709",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:56:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21862709",
-      "title": "מיכל פעילן בביקורת מרומזת על חדשות 12: \"לא באולפנים\"",
-      "summary": "כתבת חדשות 12 שיתפה את נתוני החשיפה הגבוהים שלה ברשתות החברתיות, וצירפה עקיצה שמעלה תהיות בנוגע למעמדה במסך",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21862709",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:56:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21862650",
-      "title": "יעל שלביה נרגשת: \"הגשמת לי את כל החלומות\"",
-      "summary": "אחרי תקופה עמוסה בשינויים, יעל שלביה משתפת ברגע שחיכתה לו ומסמנת עוד וי קטן בדרך",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21862650",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:54:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21862650",
-      "title": "יעל שלביה ממשיכה הלאה: \"בשעה טובה ומוצלחת\"",
-      "summary": "אחרי תקופה עמוסה בשינויים, יעל שלביה משתפת ברגע שחיכתה לו ומסמנת עוד וי קטן בדרך",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21862650",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:54:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21862238",
-      "title": "אלי אוחנה בדרך חזרה לכדורגל? \"לא יכול להגיד לא\"",
-      "summary": "מגיש קשת 12 והסמל הגדול של בית\"ר ירושלים התייחס לאפשרות שישוב למועדון שבו הפך לאגדה, וחשף מדוע ויתר על כניסה לפוליטיקה למרות ההצעות שקיבל • וגם: שגרת הטיפוח שלו ושל אשתו עדי הפכה לעימות משעשע",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21862238",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:54:05.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3876467",
-      "title": "ניסוי מוצלח בהודו: רקטה של אלביט פגעה במטרה במרחק 300 ק\"מ",
-      "summary": "NIBE ההודית ביצעה ניסוי ירי נוסף למערכת \"סוריאסטרה\", הגרסה המקומית לרקטות הישראליות, לקראת כניסתן לשירות מבצעי בצבא הודו",
-      "link": "https://finance.walla.co.il/item/3876467",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T11:53:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21862206",
-      "title": "כוכבת \"ברידג'רטון\" מחרימה: \"לא אצפה בסדרה החדשה של 'הארי פוטר'\"",
-      "summary": "ניקולה קוכלן הבהירה כי לא תצפה בעיבוד החדש של HBO וגם לא תשתתף בו, בעקבות עמדותיה של ג'יי קיי רולינג בנוגע לזכויות טרנסג'נדרים • \"אני יודעת שיש שם אנשים נחמדים, אבל זה לא בשבילי\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21862206",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:52:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383961621",
-      "title": "עם עקיצה כפולה: כהנא דחה את הצעת סמוטריץ'",
-      "summary": "יו\"ר הציונות הדתית הציע לכהנא תמיכה של המחנה הלאומי, בתנאי שיתפטר אם יידרש במסגרת הקמת ממשלה חדשה, ושלא ימנה לסגניו חברי רשימות שאינן מגדירות את חמאס כארגון טרור",
-      "link": "https://www.walla.co.il/news/israel/383961621",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T11:52:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21861913",
-      "title": "טסים ללונדון בקיץ? יש סיבה חדשה להגיע לרחוב אוקספורד",
-      "summary": "מותג המשקפיים הבינלאומי Ray-Ban יפתח בקיץ 2027 חנות דגל חדשה באחד ממוקדי השופינג המפורסמים בעולם, בתוך מבנה היסטורי של תחנת הרכבת התחתית אוקספורד סירקוס • וזה לא הכול: גם הרחוב עצמו עובר מתיחת פנים משמעותית",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21861913",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:51:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21862314",
-      "title": "אחרי 8 שנים: וויז אייר תחדש את קו הפנים במדינה האירופית",
-      "summary": "וויז אייר מרחיבה את פעילותה ברומניה, עם חידוש קו טיסות ישיר בין קלוז׳-נאפוקה לבוקרשט • בכך, ישראלים שירצו לשלב בין השתיים, יוכלו לעשות זאת עם טיסת פנים של כשעה • במקביל, החברה שברה שיא עצמי במספר העובדים",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21862314",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:51:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21862630",
-      "title": "הקריאה החריגה בלבנון: \"להפוך יחסים חד-מיניים לחוקיים\"",
-      "summary": "לרגל יום הסובלנות הבינלאומי, העיתון הלבנוני \"א-נהאר\" הקדיש את שערו לקריאה לבטל את סעיף 534, שקובע עד שנת מאסר על \"מעשה מיני המנוגד לטבע\" • בחיזבאללה הביעו התנגדות מוחלטת, ואילו מפלגות נוצריות תמכו בביטול ההפללה • במאמר המערכת נטען כי החוק מוביל לסחיטה ולאלימות, ומרתיע קורבנות מלפנות למערכת המשפט",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21862630",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:50:42.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21862481",
-      "title": "מנחת \"עובדה\" התעלמה מהעובדה - ואיזנקוט כבר חרץ את הדין",
-      "summary": "תחקיר אילנה דיין הוביל את יו\"ר ישר! להכריז שנתניהו מהווה איום על הדמוקרטיה, אך האם המידע שהועבר למשטרה היה ניסיון לתפור חקירה או חשד שהצדיק בדיקה? מבט נוסף על הפרשה שמסעירה את המערכת הפוליטית",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21862481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:50:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/opinions/article/21862481",
-      "title": "איזנקוט כבר חרץ את הדין? השאלות שנותרו פתוחות בפרשת יום הבחירות",
-      "summary": "תחקיר אילנה דיין הוביל את יו\"ר ישר! להכריז שנתניהו מהווה איום על הדמוקרטיה, אך האם המידע שהועבר למשטרה היה ניסיון לתפור חקירה או חשד שהצדיק בדיקה? מבט נוסף על הפרשה שמסעירה את המערכת הפוליטית",
-      "link": "https://www.israelhayom.co.il/opinions/article/21862481",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:50:03.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21861968",
-      "title": "עלייה של 39% בסיכון: הממצא המדאיג על חולי צליאק",
-      "summary": "מעקב של יותר מעשור אחר 38 אלף חולי צליאק חושף קשר מובהק לאנורקסיה ולהפרעות אכילה אחרות • הסיכון גבוה יותר אצל מי שאובחנו מגיל 10 ומעלה או מתמודדים עם רקע נפשי • ומה בכל זאת הבשורה המרגיעה להורים ולאחים?",
-      "link": "https://www.israelhayom.co.il/health/article/21861968",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T11:49:04.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ryjb0b000fg",
-      "title": "1,336 כטב\"מים במתקפה הגדולה ביותר אי-פעם על רוסיה: \"איבדה 55% מיכולות זיקוק הנפט\"",
-      "summary": "רוסיה דיווחה על מתקפת כטב\"מים ענקית ששיגרה לעברה קייב: 600 לפחות שוגרו למוסקבה, מאגר נפט נפגע ליד הגבול, גם גשר אסטרטגי בקרים הופצץ. זלנסקי טוען שארצו שיתקה יותר ממחצית מיכולות הזיקוק של רוסיה, באוקראינה דווח על הרוג ופצועים במתקפות הרוסיות: \"מאות אלפים נותקו מחשמל\". המתקפות ההדדיות: מעט אחרי חידוש המו\"מ הישיר בתיווך ארה\"ב, הקרמלין מסרב להתייחס להצעה האמריקנית המפתיעה לקייב לוותר על חבל דונבאס - ולהצטרף בתמורה לנאט\"ו",
-      "link": "https://www.ynet.co.il/news/article/ryjb0b000fg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T11:47:30.000Z"
     }
   ]
 }
