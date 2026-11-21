@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:45:57.696Z",
+  "updatedAt": "2026-11-21T08:01:09.458Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bydantargg",
+      "title": "נקבע מותה של האישה שנדבקה בכלבת",
+      "summary": "האישה, בשנות השלושים לחייה, אושפזה לפני שלושה ימים באסף הרופא. החקירה העלתה: מקור החשיפה האפשרי - כלבה משוטטת ליד מודיעין, שנאספה בסוף אוגוסט בשולי כביש, עברה ניתוח עיקור ומתה כמה ימים לאחר מכן",
+      "link": "https://www.ynet.co.il/news/article/bydantargg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T07:54:18.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1390650",
+      "title": "נפטרה האישה שנדבקה בכלבת, המשפחה מבקשת לשמור על פרטיותה",
+      "summary": "מהמרכז הרפואי אסף הרופא נמסר כי האישה בת ה-30 שנדבקה מכלבת נפטרה, והוסיפו כי הייתה עטופה בבני משפחתה. \"המרכז הרפואי משתתף בצערה העמוק של המשפחה ושולח את תנחומיו\", נמסר",
+      "link": "https://www.maariv.co.il/news/health/article-1390650",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T07:51:53.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21899142",
       "title": "קוסאי בן ה-10 נורה למוות במזרח ירושלים - החשוד נמלט",
@@ -93,6 +111,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T07:04:21.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390643",
+      "title": "בכניסה לבית ספר: קטין בן 10 נורה בשועפט - החשוד נמלט",
+      "summary": "קטין כבן 10 נורה למוות במחנה הפליטים שועפט שבמזרח ירושלים. הוא פונה לבית החולים במצב אנוש תוך כדי פעולות החייאה, אך מותו נקבע בהמשך. המשטרה פתחה בחקירה ופועלת לאיתור החשוד שנמלט מהמקום",
+      "link": "https://www.maariv.co.il/news/law/article-1390643",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T06:57:39.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1390643",
@@ -29658,87 +29685,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-16T08:01:13.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961597",
-      "title": "דנה אינטרנשיונל נפרדת ממנהלה המיתולוגי: \"געגועים לנצח\"",
-      "summary": "לכתו של שי כרם, מנהלה המיתולוגי של דנה אינטרנשיונל, הותיר את עולם התרבות והבידור בהלם. חבריו ועמיתיו לאורך השנים נפרדים ממנו במילים כואבות ובזיכרונות אישיים: \"איש מיוחד מאוד הלך מעולמנו\"",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961597",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T08:00:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/liberman-approved-foreign-affairs-committee-chairm",
-      "title": "ליברמן אושר כיו\"ר ועדת חוץ וביטחון, זימן את ראשי הביטחון והבטיח חוק גיוס",
-      "summary": "הוועדה המסדרת אישרה פה אחד את מינויו של יו\"ר ישראל ביתנו • מיד לאחר האישור זימן את רמטכ\"ל, ראש המוסד, ראש השב\"כ והמפכ\"ל בשל \"פערים לא סבירים בנושא התערבות זרה\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/liberman-approved-foreign-affairs-committee-chairm",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T07:57:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/liberman-approved-foreign-affairs-committee-chairm",
-      "title": "ליברמן אושר כיו\"ר ועדת חוץ וביטחון - ומיהר לזמן את ראשי הביטחון",
-      "summary": "הוועדה המסדרת אישרה פה אחד את מינויו של יו\"ר ישראל ביתנו • מיד לאחר האישור זימן את רמטכ\"ל, ראש המוסד, ראש השב\"כ והמפכ\"ל בשל \"פערים לא סבירים בנושא התערבות זרה\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/liberman-approved-foreign-affairs-committee-chairm",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T07:57:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21859846",
-      "title": "הקאמבק של ג'וני דפ מסעיר את הוליווד",
-      "summary": "שמונה שנים אחרי תפקידו הקולנועי הגדול האחרון, דפ חזר למקום הראשון בטבלת שוברי הקופות עם 19 מיליון דולר בסוף השבוע הראשון לעליית סרטו החדש • האם החרם בהוליווד הגיע לסיומו?",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21859846",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T07:54:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21860072",
-      "title": "לא חייבות לשלם אלפי שקלים: המדריך לקניית תיקי Coach וינטג'",
-      "summary": "תיקי Coach משנות ה-90 וה-2000 הפכו לפריט מבוקש בקרב חובבות אופנה, אבל בזמן שבחנויות הווינטג' בישראל המחירים יכולים להגיע לאלפי שקלים, באתרי היד השנייה מעבר לים אפשר למצוא דגמים דומים במאות שקלים • אז איפה כדאי לחפש, כמה זה באמת עולה ומה חשוב לבדוק לפני שלוחצים על כפתור הרכישה?",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21860072",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T07:53:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1388915",
-      "title": "המיתוס על אירופה שנכבשה על ידי מוסלמים | נדב תמיר",
-      "summary": "אירופה לא נכבשה בידי מוסלמים. הטענה על השתלטותם ממחזרת תיאוריות ששימשו בעבר נגד יהודים. החיבור לימין הקיצוני מסוכן, והביקורת האירופית על ישראל נובעת ממדיניותה כלפי הפלסטינים, לא מההגירה",
-      "link": "https://www.maariv.co.il/news/opinions/article-1388915",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T07:49:27.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1388913",
-      "title": "סרט אימה במלון באילת: הירדני אנס את הצעיר המוגדר על הרצף האוטיסטי - והורשע",
-      "summary": "עובד מלון מירדן, בן 26, ניצל את מצבו של צעיר בן 21 על הרצף האוטיסטי שהתארח במלון באילת, וביצע בו עבירות מין למרות התנגדותו. במסגרת הסדר טיעון הודה במעשים והורשע בשני מעשי אינוס ובמעשה מגונה",
-      "link": "https://www.maariv.co.il/news/law/article-1388913",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T07:48:24.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3876410",
-      "title": "הר של קצפת אוורירית: טעמנו את הסופגניות החדשות של מילקי",
-      "summary": "קופסה סגולה ומסתורית נחתה אצלנו במערכת, ובתוכה שיתוף הפעולה ההיסטרי של חנוכה: סופגניות של ביסקוטי ומילקי שמשלבות את טעמי הילדות בתוך בצק רק ואוורירי. ממילקי עדשים ועד סופגניית טירמיסו מטורפת: קבלו א",
-      "link": "https://food.walla.co.il/item/3876410",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T07:48:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21859989",
-      "title": "גל הפיטורים מתרחב: חברת הסייבר הישראלית שתיפרד מעשרות עובדים",
-      "summary": "אחרי איטורו, גם סלברייט צפויה לצאת למהלך של צמצום כוח האדם • על פי ההערכות, כמה עשרות עובדים יסיימו את עבודתם, ברקע הטמעת מערכות בינה מלאכותית ותהליכי התייעלות בחברה • מסלברייט נמסר: \"החלטה לא קלה, אנחנו מבצעים שינויים במבנה הארגוני\"",
-      "link": "https://www.israelhayom.co.il/business/article/21859989",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T07:47:41.000Z"
     }
   ]
 }
