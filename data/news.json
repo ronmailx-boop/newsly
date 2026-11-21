@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:15:48.136Z",
+  "updatedAt": "2026-11-21T09:31:03.126Z",
   "sources": [
     {
       "key": "ynet",
@@ -75,6 +75,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T08:56:37.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962364",
+      "title": "עורך דין נאשם בניסיון להבריח מידע לשני אסירים ביטחוניים",
+      "summary": "בידוק בכלא שיטה חשף מסרים שהסתיר עו״ד ריאד מחאמיד בייפוי כוח לבכיר לשעבר בג׳יהאד האיסלאמי ולעדנאן אבו עודה, שהורשע בעבירות טרור לאחר שתכנן הפרות סדר בעקבות חיסול הנייה. כעת הוגש נגדו כתב אישום",
+      "link": "https://www.walla.co.il/news/israel/383962364",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T08:54:37.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21899296",
@@ -156,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T07:26:14.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390644",
+      "title": "רגע אחרי הנחיתה: 146 בני אדם פונו ממטוס בדרך יוצאת דופן",
+      "summary": "מטוס נוסעים ועליו 146 בני אדם נאלץ לסטות ממסלולו ולנחות נחיתת חירום בפיליפינים בעקבות התרעה על שריפה אפשרית במנוע. הנוסעים פונו באמצעות מגלשות חירום, נמל התעופה נסגר זמנית ולא דווח על נפגעים",
+      "link": "https://www.maariv.co.il/news/world/article-1390644",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T07:24:32.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390644",
@@ -327,6 +345,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-21T05:52:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/healthy/myhealth/383961869",
+      "title": "זה מה שקורה בגוף כשמקפידים לשתות 8 כוסות מים ביום",
+      "summary": "אנחנו יודעים שצריך לשתות, אבל לא תמיד מבינים מה קורה כשלא שותים מספיק. מהעייפות ועד העיכול, כך הנוזלים משפיעים על הגוף לאורך היום",
+      "link": "https://www.walla.co.il/healthy/myhealth/383961869",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T05:50:25.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383962238",
@@ -28938,240 +28965,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-16T09:32:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21860928",
-      "title": "סמוטריץ', זה הזמן שלך - לפני שציבור שלם יהפוך לחסר השפעה",
-      "summary": "במקום להמתין ל\"עשן לבן\" מלשכת נתניהו, על יו\"ר הציונות הדתית להתנתק מהגוש • הציבור הדתי־לאומי צריך להיות ליד שולחן ההחלטות - ולפתוח במשא ומתן להצטרפות לממשלה בראשות איזנקוט",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21860928",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:30:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21861006",
-      "title": "לאחר החתמת קמר בולדווין: מכבי תל אביב בדרך להחלטה דרמטית",
-      "summary": "במועדון תכננו לרשום גארד חדש כזר השמיני והאחרון בסגל למשחקים בליגת העל, אך במקום זאת כללו את דניאל תייס שלא נרשם עד המשחק מול הפועל ירושלים • כדי לרשום זר נוסף הם יצטרכו לגרוע את אחד מהקיימים - ויש מועמד בולט",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21861006",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:30:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21860854",
-      "title": "חנות פיצוץ: איך נולדה הפיצוציה? ולא, זה לא קשור לפיצוחים",
-      "summary": "השם של חנויות הנוחות הקטנות והישראליות מגיע גם הוא מהמקור הכי ישראלי שיש: עסק שהתעקש להישאר פתוח כשבאמת קרו פיצוצים מסביב",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21860854",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:29:33.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/yanon-magal-rabbi-hirsch-meeting",
-      "title": "אחרי שנחסם בבית הרב לנדו: הפגישה המפתיעה של מגל עם הרב הירש",
-      "summary": "לאחר הפגישה עם מנהיג הציבור הליטאי בשליחות נתניהו, ינון מגל חושף מה נאמר בארבע עיניים, מספר על תגובתו של הרב הירש לדבריו על המסורתיים ומסביר מדוע החרדים יתקשו להצטרף לממשלת איזנקוט (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/yanon-magal-rabbi-hirsch-meeting",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:29:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-promises-haredi-partners-draft-law",
-      "title": "אחרי הפליק-פלאק של ליברמן: הודעת \"האחדות\" של נתניהו והאיתות הברור למפלגות החרדיות",
-      "summary": "ראש הממשלה מבהיר כי ממשלת אחדות לאומית חייבת לכלול את כל המפלגות הרואות בישראל מדינת היהודים | מאותת למפלגות החרדיות: בכל ממשלה שתוקם נלך יחד עם החרדים ונסדיר את מעמד לומדי התורה | הצהרה ברקע מינוי ליברמן ליו\"ר ועדת החוץ והביטחון והתחייבותו להעביר חוק גיוס (פוליטיקה, אקטואליה)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-promises-haredi-partners-draft-law",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:29:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-promises-haredi-partners-draft-law",
-      "title": "נתניהו מאותת: \"נלך עם החרדים בכל ממשלה שתוקם, נסדיר בחוק מוסכם את מעמד לומדי התורה\"",
-      "summary": "ראש הממשלה מבהיר כי ממשלת אחדות לאומית חייבת לכלול את כל המפלגות הרואות בישראל מדינת העם היהודי • הצהרה ברקע מינוי ליברמן ליו\"ר ועדת החוץ והביטחון והתחייבותו להעביר חוק גיוס | ההודעה המלאה (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/netanyahu-promises-haredi-partners-draft-law",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:29:01.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383961606",
-      "title": "\"שהספרדים ילמדו אצל ספרדים\": כן, זה נאמר אמש בפריים טיים",
-      "summary": "חיפשו שידך ומצאו גזענות: השד העדתי תמיד נכח ב\"ווארט\", אבל רק אתמול יצא מהבקבוק. השדכנים נבהלו מהמצלמות, ומי שניסתה לטאטא את האפליה מתחת לשטיח סיפקה בעצמה את הרגע המכוער ביותר של הפרק",
-      "link": "https://www.walla.co.il/entertainment/tv/383961606",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T09:28:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21861107",
-      "title": "\"אשכנזי טהור?\": השידוך ב\"ווארט\" שהצית את סערת השד העדתי",
-      "summary": "השידוך פתח מחדש לדיון את סוגיית השד העדתי בעולם השידוכים החרדי, עורר ויכוח נוקב במועצת השדכנים והציף את הרשת במאות תגובות סוערות",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21861107",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:27:50.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkde0vocfe",
-      "title": "\"המקור המודיעיני\" שחובר ללשכת המפכ\"ל נחשף; דני לוי: \"הנחיתי לבדוק את הטענות נגד המשטרה\"",
-      "summary": "סגן המפכ\"ל ינהל את הבדיקה הפנימית על שרשרת הדיווח שהובילה למעצר פעילי רע\"מ ב-27 באוקטובר: \"המסקנות - תוך שבוע\". ראש הסגל הודה בהעברת המידע, ה\"מקור\" שחיבר למשטרה - דניאל גרינברג, יועץ לשעבר שעבד במשרד רה\"מ ובמטה הליכוד. ל-ynet נודע: הוא נפגש עם נתניהו בקמפיין הבחירות. הפעילים שנעצרו ושוחררו: \"עכשיו יש הקלה\"",
-      "link": "https://www.ynet.co.il/news/article/hkde0vocfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T09:25:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkde0vocfe",
-      "title": "ראש הסגל הודה בהעברת המידע, פעילי רע\"מ ששוחררו: \"בבחירות לא הצבענו. יש הקלה\"",
-      "summary": "אחרי פרסום הדיווח על השתלת מידע מודיעיני נגד אזרחים ערבים ערב הבחירות, פעילי רע\"מ שנעצרו ב-27 באוקטובר הביעו הקלה. \"אני חושב כל יום על זה שלא יכולתי להצביע. נעצרתי ונחקרתי במשך 9 ימים. השאירו את בני לבד בבית\", אמר איברהים אלגריבי. חוסיין מסעודין טען: \"כולנו קורבנות פוליטיים\". ראש הסגל של נתניהו מאיים בתביעה, ולא מכחיש שחיבר גורם חיצוני למשטרה: \"הגיע אליי מידע\"",
-      "link": "https://www.ynet.co.il/news/article/hkde0vocfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T09:25:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hkde0vocfe",
-      "title": "ראש הסגל הודה בהעברת המידע, העצורים ששוחררו: \"בבחירות לא הצבענו. עכשיו יש הקלה\"",
-      "summary": "אחרי פרסום הדיווח על השתלת מידע מודיעיני נגד אזרחים ערבים ערב הבחירות, פעילי רע\"מ שנעצרו ב-27 באוקטובר הביעו הקלה. \"אני חושב כל יום על זה שלא יכולתי להצביע. נעצרתי ונחקרתי במשך 9 ימים. השאירו את בני לבד בבית\", אמר איברהים אלגריבי. חוסיין מסעודין טען: \"כולנו קורבנות פוליטיים\". ראש הסגל של נתניהו מאיים בתביעה, ולא מכחיש שחיבר גורם חיצוני למשטרה: \"הגיע אליי מידע\"",
-      "link": "https://www.ynet.co.il/news/article/hkde0vocfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T09:25:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21860498",
-      "title": "הפועל חולון במשא ומתן עם אקס מכבי תל אביב",
-      "summary": "הסגולים מכוונים להתחזק לקראת המשך העונה ולמצוא מחליף לקלודל האריס ג'וניור הפצוע • המגעים עם הגארד החלו ואם יבשילו לכדי חתימה, יגיע לאחר שיסיים את העונה מעבר לים • ריבאלדו סוארס יחתום בפולין",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21860498",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:23:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21860907",
-      "title": "מקרים חדשים נחשפו: מעצרן של שלוש נשות הצוות מהגן באשקלון הוארך בשבוע",
-      "summary": "המשטרה הציגה סרטונים, עדויות הורים ותמונות של חבלות על ילדים וחשפה כי נוספו מקרים המיוחסים לאחת החשודות, מעבר לאירועים שנבדקו בתחילת החקירה • השופטת קבעה: \"דפוס אלימות, ללא הסבר\"",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21860907",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:23:13.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388962",
-      "title": "מאויבים לחברים הכי טובים: הצמד שהשתלט על הבית הלבן",
-      "summary": "מינויו של סטיבן מילר לראש הסגל של טראמפ חושף את אחת הבריתות המשפיעות בוושינגטון. האיש שניסה בעבר להכשיל את מרקו רוביו הפך לשותפו הקרוב, והשניים מקדמים מהלכים שמשנים את מדיניות ארה\"ב",
-      "link": "https://www.maariv.co.il/news/world/article-1388962",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:22:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21860184",
-      "title": "אוליביה קוק טוענת: העונה השמינית של \"סוסים איטיים\" כנראה תהיה האחרונה",
-      "summary": "כוכבת \"סוסים איטיים\", אוליביה קוק, טענה כי העונה השמינית צפויה להיות האחרונה של הסדרה • אני הולכת להיות בדיכאון\" • עם זאת, אין לכך אישור רשמי",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21860184",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:22:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21860184",
-      "title": "בשורה מאכזבת למעריצים: הסדרה האהובה מגיעה לסיומה",
-      "summary": "כוכבת \"סוסים איטיים\", אוליביה קוק, חשפה כי העונה השמינית צפויה להיות האחרונה של הסדרה • אני הולכת להיות בדיכאון\"",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21860184",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:22:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21860899",
-      "title": "הלקח מהמלחמה: המהלך שנועד להביא את הפינוי-בינוי לצפת",
-      "summary": "השכונות הוותיקות בצפת נותרו בחלקן ללא מיגון מספק, אך הכדאיות הכלכלית הנמוכה מקשה על קידום התחדשות עירונית • כעת, בשיתוף עיריית צפת, מתוכנן כנס לתושבים שיציג את האפשרויות לחידוש המבנים ואת זכויות בעלי הדירות",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21860899",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:20:11.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/91892",
-      "title": "נתניהו: בכל ממשלה שתוקם נלך יחד עם החרדים ונסדיר את מעמד לומדי התורה",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/91892",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:19:44.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/iran-spy-suspect-interrogation-transcripts-reveale",
-      "title": "\"עשיתי את זה כנקמה בביבי\": הציטוטים החריגים מתוך חקירת הנאשם בריגול",
-      "summary": "ויסאם עווד הצהיר בחקירה כי פעל מתוך נקמה על \"טבח העם ברצועת עזה\" • הודה בהערצה לסדאם חוסיין ואסד, למרות שרגל עבור איראן | התמלילים המטלטלים (משטרה)",
-      "link": "https://www.kikar.co.il/police/iran-spy-suspect-interrogation-transcripts-reveale",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T09:19:16.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876401",
-      "title": "לא רק מהמגזר: השחקנים שפשוט לא רוצים להגיע לנבחרת",
-      "summary": "לא רק מהמגזר: השחקנים שפשוט לא רוצים להגיע לנבחרת",
-      "link": "https://sports.walla.co.il/item/3876401",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T09:19:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876401",
-      "title": "לא השחקנים הערבים וגם ולא בן שמעון: אלו בעיות הנבחרת",
-      "summary": "לא השחקנים הערבים וגם ולא בן שמעון: אלו בעיות הנבחרת",
-      "link": "https://sports.walla.co.il/item/3876401",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T09:19:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388961",
-      "title": "בצל סערת רומן והריגול: דונלד טראמפ מעניק פרס לאנבידיה",
-      "summary": "ממשל טראמפ נערך להעניק לאנבידיה ולעשרות חברות טכנולוגיה מעמד של \"אלופות לאומיות\", שיסייע להן להתרחב בעולם ולהתחרות בסין. ההכרזה צפויה על רקע פרשת הריגול שמסעירה את ענקית השבבים",
-      "link": "https://www.maariv.co.il/news/world/article-1388961",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:18:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1388954",
-      "title": "חולי אבולה נמלטו ממיטותיהם: האיום שחוזר לקונגו - והמלכוד הקטלני",
-      "summary": "ארגון המזוהה עם דאעש ביצע שורת התקפות באזור שבו משתוללת מגפת האבולה בקונגו, ובמהלכן נאלצו גם חולים להימלט ממתקני בריאות. גם הצוותים הרפואיים להגיע למוקדי ההתפרצות - והקורבנות מתרבים",
-      "link": "https://www.maariv.co.il/news/world/article-1388954",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T09:18:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21860774",
-      "title": "במכה אחת: 5 חנויות נוטשות את אחד הקניונים הגדולים",
-      "summary": "גולף אנד קו, גולף קידס, אינטימה וסבון: קבוצת גולף הודיעה שתסגור את כל החנויות שלה באחד הקניונים הגדולים בדרום • הסיבה האמיתית נחשפה בדוחות הכספיים • והמספרים מראים שזה בכלל לא קשור למצב העסקים של הקבוצה",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21860774",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:17:09.000Z"
-    },
-    {
-      "id": "walla:https://food.walla.co.il/item/3876427",
-      "title": "5 כריכים שהילדים ישמחו לקחת למסגרות בלי ויכוחים",
-      "summary": "סנדוויץ' בנופי בהשראת הקינוח ההודי, טוסט שמשתבח ככל שהוא מתקרר, והכריך האהוב על אלביס בגרסה מקומית | קבלו 5 רעיונות לסנדוויצ'ים שמגיעים עם מינימום ויכוחים",
-      "link": "https://food.walla.co.il/item/3876427",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T09:17:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21860483",
-      "title": "לפני שמזמינים חופשת חורף בחו\"ל: נחשפו התאריכים שבהם תשלמו הכי הרבה על מלון",
-      "summary": "דוח חדש של ענקית התיירות Expedia חושף מתי תוכלו לחסוך כסף על חופשת החורף, באילו ימים המחירים מזנקים ומתי המלונות צפויים להיות עמוסים במיוחד • ההבדל בין התאריכים עשוי להיות משמעותי, ויש גם כמה הפתעות",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21860483",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T09:16:07.000Z"
     }
   ]
 }
