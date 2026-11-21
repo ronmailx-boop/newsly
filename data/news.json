@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:30:57.777Z",
+  "updatedAt": "2026-11-21T15:45:56.725Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/touzmc",
+      "title": "התחזה לשליח, ארב לתלמיד בית ספר - וירה בו מטווח אפס לעיני ילדים",
+      "summary": "מזרח ירושלים מזועזעת מרצח אכזרי לאור יום: קוסאי אלג'ולאני, נער בן 13, נורה למוות הבוקר בכניסה לבית ספרו במחנה הפליטים שועפט כשילקוט בית הספר על גבו. המחסל, שהתחזה לשליח, קרא לנער וירה בו מטווח אפס לעיני תלמידים המומים. לאחר מצוד ממושך נעצר חשוד בן 16 סמוך לאופנוע שרוף, אך הוא שוחרר לאחר שהתברר כי אינו קשור לאירוע – והמרדף אחר הרוצח נמשך (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/touzmc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:43:38.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1xwvf1jme",
+      "title": "נאשם ב'פיראטיות חמורה': הוסגר הישראלי ש\"ניצח\" על חטיפת אוניית המשא הרוסית",
+      "summary": "אלכס ברודסקי, ישראלי-לטבי ששינה את שמו ונעצר בלרנקה, הוסגר לרוסיה על ידי קפריסין. במוסקבה הוא יעמוד לדין בגין מעורבות בחטיפת אוניית המשא \"ארקטיק סי\" ב-2009, שעליה השתלטו חמושים שהתחזו לשוטרים, השיטו את הספינה אלפי ק\"מ ונעצרו מול חופי אפריקה. העונש המרבי שיקבל: 15 שנים בכלא",
+      "link": "https://www.ynet.co.il/news/article/s1xwvf1jme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T15:39:46.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390733",
+      "title": "על רקע התיווך הקטארי, טראמפ ממשיך להביע תסכול: \"הם מאוד קשים\"",
+      "summary": "נשיא ארה\"ב טוען שההנהגה הנוכחית בטהרן עשויה להיות הגיונית יותר, אך מתקשה להגיע איתה להסכמות. באיראן מדווחים על שיחות עם משלחת קטארית ומציבים תנאי נוקשה - ברקע החשש מתקיפה נוספת",
+      "link": "https://www.maariv.co.il/news/world/article-1390733",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T15:39:08.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/iran-underground-missile-city-trump-decision",
+      "title": "איראן חושפת 'עיר טילים' תת-קרקעית ושולחת מסר מאיים | צפו",
+      "summary": "משמרות המהפכה פרסמו תיעוד ממתקן נשק מתקדם • טראמפ: 'לא ממהר לקבל החלטה' | המתיחות במזרח התיכון מתגברת (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/iran-underground-missile-city-trump-decision",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:37:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21900523",
+      "title": "כשנתיים אחרי הסרטן: הסוד של קייט מידלטון נחשף",
+      "summary": "נסיכת ויילס טיפסה על שלושת ההרים הגבוהים בבריטניה בתוך יממה אחת, והמצלמה ליוותה אותה • בטריילר שפורסם היום היא מדברת בגלוי על מה שהמחלה שינתה בה • הסרט ישודר בסוף החודש",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21900523",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T15:29:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
+      "title": "אביגדור ליברמן: \"להקים קואליציה עם ש\"ס ויהדות התורה, אני הראשון שמשלם ושישלם את המחיר לזה\"",
+      "summary": "יו\"ר ישראל ביתנו דוחה ממשלה בתמיכת הערבים: \"קואליציה כזו תחזיר את נתניהו עם 70 מנדטים\" • \"את נתניהו אפשר להחליף רק מימין, ולא משמאל\" • \"הדרך היחידה לפרק את גוש נתניהו היא להקים קואליציה עם ש\"ס ויהדות התורה\" • \"יהיה לכך מחיר פוליטי ואידיאולוגי. אני הראשון שמשלם ושישלם את המחיר הזה\" • \"המטרה היא לסיים את שלטונו ולהבטיח שלא יחזור לעולם\" (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:27:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
       "title": "אביגדור ליברמן: \"להקים קואליציה עם ש\"ס ויהדות התורה, אני הראשון שמשלם ושישלם את המחיר הזה\"",
       "summary": "יו\"ר ישראל ביתנו דוחה בתוקף ממשלה בתמיכת הערבים • \"קואליציה כזו תחזיר את נתניהו עם 70 מנדטים\" | \"הדרך היחידה - דרך ש\"ס ויהדות התורה\" (פוליטי מדיני)",
@@ -39,6 +93,42 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-21T15:27:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21900474",
+      "title": "עם מכבי חיפה, ונגד ההיסטוריה: רן בן שמעון נכנס למלכודת",
+      "summary": "רוב מאמני נבחרת ישראל ב־40 השנים האחרונות התקשו לחזור לקווים של קבוצות - והקריירה שלהם התפוגגה • לכבוד הניסיון של רן בן שמעון להוכיח שאפשר אחרת, ריכזנו לכם את רשימת הנפילות • אבל גם יש חריג אחד ומיוחד",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21900474",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T15:26:19.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21900423",
+      "title": "כוכבת \"אחת שיודעת\" בפסגה: 10 הסרטים המובילים היום בנטפליקס ישראל",
+      "summary": "מקומדיה רומנטית לחג המולד בפסגה ועד דוקו מטלטל על ראסל בראנד ומותחן אפל בנאשוויל: דירוג הצפיות של נטפליקס בישראל משלב היום רומנטיקה, אנימציה לכל המשפחה וקלאסיקת מלחמה משנות ה-70 • אלה עשרת הסרטים הנצפים ביותר היום",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21900423",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T15:21:56.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21899190",
+      "title": "בין אוחנה לכהנא: פגיעה ביו\"ר הכנסת היא פגיעה במדינה",
+      "summary": "ילדיו של אוחנה שיתפו בראיון קורע לב על החיצים שהופנו כלפיהם בשנים האחרונות • שער \"עלון השבת\" שפורסם בסוף השבוע מבזה את כהנא • מכאן ומכאן יש לזכור - יושב ראש הכנסת הוא סמל שלטון במדינת ישראל, ופגיעה בו היא פירוק המרקם החברתי שלנו • מי שמנסה למתג את כהנא כשותף לטרור, לא יוכל לקרוא אחר כך לאחדות ולצפות לקבל את אמון הציבור לקריאה הזאת",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21899190",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T15:20:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21900215",
+      "title": "האקרים פרצו למאגר הפלילי של ה-FBI, טראמפ: \"זה לא טוב\"",
+      "summary": "ה-FBI חוקר פריצה למאגר המידע הפלילי הארצי של ארצות הברית, המשמש גורמי אכיפת חוק ברחבי המדינה לבדיקת צווים, איתור חשודים וביצוע בדיקות רקע • מדובר בפרצת הסייבר השנייה במערכות הארגון בחודשים האחרונים • טראמפ: \"עכשיו שמעתי על זה, זה לא טוב\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21900215",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T15:19:30.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hysydq1kql",
@@ -26931,159 +27021,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-16T15:47:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjmjvidame",
-      "title": "פצועים קל מניסיון דריסה בעימות ליד מאחז: החשוד נמלט, הוטל כתר על כפר סמוך",
-      "summary": "שני בני אדם נפצעו קל ליד מאחז אנטון בשומרון. החשוד בניסיון הדריסה נמלט, הוטל כתר על הכפר הסמוך יאסוף. בצה\"ל הבהירו כי אין מדובר בפיגוע",
-      "link": "https://www.ynet.co.il/news/article/hjmjvidame",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T15:45:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961682",
-      "title": "חשד לדריסה בצומת תפוח: שניים נפצעו - מתנהל מרדף אחר החשוד",
-      "summary": "על פי עדויות ראשוניות, רכב האיץ לעבר תושבים שעמדו בצד הדרך, פגע בהם ונמלט. כוחות צה\"ל ומשטרה הוזעקו למקום ופתחו במרדף אחר הרכב החשוד. נסיבות האירוע והרקע לו עדיין נבדקים",
-      "link": "https://www.walla.co.il/news/military/383961682",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T15:44:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961682",
-      "title": "חשד לפיגוע בצומת תפוח: שניים נפצעו - מתנהל מרדף אחר החשוד",
-      "summary": "על פי עדויות ראשוניות, רכב האיץ לעבר תושבים שעמדו בצד הדרך, פגע בהם ונמלט. כוחות צה\"ל ומשטרה הוזעקו למקום ופתחו במרדף אחר הרכב החשוד. נסיבות האירוע והרקע לו עדיין נבדקים",
-      "link": "https://www.walla.co.il/news/military/383961682",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T15:44:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21865227",
-      "title": "\"חסר שחר\": הפייק מקמפיין הבחירות עלה עשרות אלפי שקלים",
-      "summary": "יוסי כהן טען בקמפיין הבחירות כי בדש העניק יחס מועדף למקורביו בוועדה לתכנון ובנייה • כעת הוא נאלץ להתקפל, לפרסם התנצלות פומבית ולשלם פיצויים כבדים • בדש מסכם ניצחון בבית המשפט: \"הצדק יצא לאור\" • מה עמד מאחורי מסע ההכפשות",
-      "link": "https://www.israelhayom.co.il/news/law/article/21865227",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:43:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21865246",
-      "title": "הפינגווינים האלה ישנים רק 4 שניות – אבל חכו שתשמעו את היתר",
-      "summary": "הם באמת רק עוצמים עין – ואז שוב, ושוב, ושוב • למרות שזה נשמע כמו סיוט, הם צוברים יותר שעות שינה מכולנו",
-      "link": "https://www.israelhayom.co.il/tech/animals/article/21865246",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:42:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/attempted-ramming-tapuach-junction-two-injured",
-      "title": "ראשוני: ניסיון דריסה בשומרון | שני פצועים קל, המחבל נמלט מהזירה",
-      "summary": "רכב בעל לוחית לבנה האיץ לעבר קבוצת ישראלים בחוות אנטון ליד כפר תפוח • שני אזרחים נפצעו באורח קל והמחבל המשיך לכפר הסמוך | כוחות צה\"ל פתחו בסריקות נרחבות במרחב (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/attempted-ramming-tapuach-junction-two-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T15:41:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21864969",
-      "title": "השופט הכריע: האם שרצחה את ילדיה תעמוד למשפט נוסף",
-      "summary": "פרשת לינדזי קלנסי חוזרת לבית המשפט: השופט קבע כי המשפט השני ייפתח בחודש מרץ, לאחר שמשרד התובע המחוזי סירב להקל באישומים • קלנסי בת ה-36 תישפט שוב באשמת רצח מדרגה ראשונה של שלושת ילדיה הקטנים",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21864969",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:41:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389160",
-      "title": "מירב כהן נכנסה למוקדי החשדות ביבנאל - והעימותים ברחוב התחילו: \"כולכם תגיעו לכלא\"",
-      "summary": "ח״כ מירב כהן (ביחד) קיימה סיור ביבנאל במקומות שבהם, לפי עדויות ומודיעין, נפגעו מינית נערות ונערים מקהילת חסידי ברסלב, והודיעה על הקמת פורום רחב למאבק בכת ביבנאל",
-      "link": "https://www.maariv.co.il/news/politics/article-1389160",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T15:40:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21865301",
-      "title": "דריסה במהלך עימות בין יהודים לפלסטינים סמוך לצומת תפוח",
-      "summary": "לפי דיווח של ארגון הצלה יו\"ש ללא גבולות, רכב האיץ לעבר תושבים בשביל הכניסה לחוות עוזי, סמוך למאחז אנטון • שני בני אדם נפגעו באורח קל והנהג נמלט לכפר יאסוף • בתחילה חשבו כי מדובר בפיגוע, אך לבסוף דווח כי מדובר בחיכוך בין יהודים לפלסטינים",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21865301",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:40:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21865301",
-      "title": "חשד לפיגוע דריסה בצומת תפוח, 2 נפגעים קל בזירה",
-      "summary": "לפי דיווח של ארגון הצלה יו\"ש ללא גבולות, רכב האיץ לעבר תושבים בשביל הכניסה לחוות עוזי, סמוך למאחז אנטון • שני בני אדם נפגעו באורח קל והנהג נמלט לכפר יאסוף",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21865301",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:40:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21865203",
-      "title": "שדה התעופה היווני נסגר: האי נותר ללא טיסות סדירות",
-      "summary": "שדה התעופה של האי היווני נסגר לטיסות מסחריות סדירות עד 15 במרץ 2027, לצורך הרחבת מסלול ההמראה ושדרוג התשתיות • במהלך חודשי החורף ייאלצו התושבים והתיירים שמתכננים להגיע לחיוס (Chios) להסתמך על מעבורות, אך גם תגבור שירותי השיט המתוכנן עדיין אינו מובטח",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21865203",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:40:13.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389155",
-      "title": "\"מבחינתי זו תחילת התיקון\": הבכירה בדמוקרטים מגבה את המינוי שעורר סערה",
-      "summary": "ח\"כ נעמה לזימי קראה לחקור את נתניהו בעקבות החשדות למעורבות לשכת רה\"מ בבחירות ותקפה את ראש השב\"כ: \"המינוי שלו עקום\" | בירכה על מינויה של ח\"כ לירן אבישר בן חורין לראשות ועדת הכספים",
-      "link": "https://www.maariv.co.il/news/politics/article-1389155",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T15:39:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389155",
-      "title": "\"מחייב מעצר מיידי של רה\"מ\": ח\"כ נעמה לזימי בדרישה חד משמעית | האזינו",
-      "summary": "ח\"כ נעמה לזימי קראה לחקור את נתניהו בעקבות החשדות למעורבות לשכת רה\"מ בבחירות ותקפה את ראש השב\"כ: \"המינוי שלו עקום\" | בירכה על מינויה של ח\"כ לירן אבישר בן חורין לראשות ועדת הכספים",
-      "link": "https://www.maariv.co.il/news/politics/article-1389155",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-16T15:39:18.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjbtakuczg",
-      "title": "ליד \"ערי הטילים\": התעלומה מאחורי מאות הסכרים באיראן",
-      "summary": "מומחים ששוחחו עם ה\"ניו יורק טיימס\" הצביעו על חפיפה בין מיקום הסכרים לאזורים שבהם הותקפו \"ערי טילים\". המטרה: לנתק את המתחמים התת-קרקעיים מתלות בתשתיות הלאומיות. עשרות פעילי סביבה נכלאו במדינה בגל מעצרים ב-2018: \"האשימו שאימנתי לטאות לרגל אחר מתקנים\"",
-      "link": "https://www.ynet.co.il/news/article/bjbtakuczg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T15:38:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21865194",
-      "title": "אחרי התמונה הזוגית: הפרט על בן הזוג של בלה חדיד נחשף",
-      "summary": "בלה חדיד ונייתן לייסי כבר לא ממש מסתתרים, אבל פרט אחד מעברו של הקאובוי החדש שלה הצליח להסיט את תשומת הלב מהתמונות הזוגיות",
-      "link": "https://www.israelhayom.co.il/forreal/global/article/21865194",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:34:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-israel/finance-committee-us-aid-halt-31-billion-shock",
-      "title": "בדיון על הסיוע האמריקני נחשף: זה הסכום הדמיוני שישראל תיאלץ לספוג",
-      "summary": "נציגות אגף התקציבים חשפו בוועדת הכספים כי לא עודכנו מראש על הודעת טראמפ • פגיעה של חצי אחוז תוצר בשנה | סערה פוליטית: האופוזיציה תוקפת את נתניהו, הקואליציה מברכת על הפחתת התלות (כלכלה בארץ)",
-      "link": "https://www.kikar.co.il/economy-israel/finance-committee-us-aid-halt-31-billion-shock",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T15:34:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/economy-israel/finance-committee-us-aid-halt-31-billion-shock",
-      "title": "בדיון על הסיוע האמריקני נחשף: זה הסכום הדמיוני שישיראל תיאלץ לספוג",
-      "summary": "נציגות אגף התקציבים חשפו בוועדת הכספים כי לא עודכנו מראש על הודעת טראמפ • פגיעה של חצי אחוז תוצר בשנה | סערה פוליטית: האופוזיציה תוקפת את נתניהו, הקואליציה מברכת על הפחתת התלות (כלכלה בארץ)",
-      "link": "https://www.kikar.co.il/economy-israel/finance-committee-us-aid-halt-31-billion-shock",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T15:34:22.000Z"
     }
   ]
 }
