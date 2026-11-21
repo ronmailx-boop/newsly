@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:01:16.070Z",
+  "updatedAt": "2026-11-21T23:31:00.685Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21902492",
+      "title": "מחבת קרה: הטריק של השף בובי פליי למקושקשת קרמית",
+      "summary": "מחממים מחבת, שופכים ביצים ומקבלים מקושקשת יבשה וגומית? שינוי אחד בסדר הפעולות יביא לכם ביצים רכות ומשייות כמו במסעדה",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21902492",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T23:13:46.000Z"
+    },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21902467",
       "title": "אחמד טיבי לרוני קובן: \"פיצחנו את השיטה, נגיע ל-20 מנדטים\"",
@@ -102,6 +111,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-21T22:02:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14958976",
+      "title": "החינוך תקוע, השביתה בדרך? הפלונטר הפוליטי מאיים על עתיד התלמידים",
+      "summary": "אחרי השפל במבחני פיז\"ה, במערכת החינוך מתקשים להתאושש מהמשבר בהיעדר ממשלה מתפקדת. בסוף השנה יסתיים הסכם השכר עם הסתדרות המורים, והמצב הפוליטי עלול להוביל לכך שהרפורמות הנדרשות שצריכות להיקבע במסגרת ההסכם - לא יקודמו. חוסר התפקוד של משרדי הממשלה, כתבה שישית בסדרה",
+      "link": "https://www.ynet.co.il/news/article/yokra14958976",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-21T22:00:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sy411j9jjqx",
@@ -27111,15 +27129,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T23:35:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961728",
-      "title": "תוכנית איראנית לפגיעה בבכירי ממשל טראמפ נחשפה | דיווח",
-      "summary": "לפי CNN, מידע מודיעיני מצביע על תוכניות לתקוף בכירים בוושינגטון באמצעות פצצה רדיולוגית או נשק כימי. בממשל דנים באיום, אך אין ראיות שהתקבלה החלטה לבצע מתקפה, והבית הלבן מבהיר כי אין איום אמין בשלב זה",
-      "link": "https://www.walla.co.il/news/world/383961728",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T23:16:04.000Z"
     }
   ]
 }
