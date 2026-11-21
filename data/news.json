@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:45:56.725Z",
+  "updatedAt": "2026-11-21T16:01:16.215Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,10 +32,28 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/israel-news/touzmc",
+      "id": "kikar:https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
+      "title": "נפל מסככה בגובה 6 מטר: נער חרדי נפצע קשה במהלך השבת בבית שמש",
+      "summary": "נער בן 13 נפצע קשה לאחר שנפל מסככה בגובה של כשישה מטרים • הנער שהה במקום עם חבריו לאחר שנכנסו למתחם חיידר סגור | פונה לבית החולים הדסה עין כרם כשהוא מורדם ומונשם (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:59:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
+      "title": "פרסום ראשון: ב'יהדות התורה' נערכים לקבל מתווה גיוס חדש של גדי איזנקוט",
+      "summary": "בעקבות התנגדותם של ראשי הישיבה הגר\"ד לנדו והגרמ\"ה הירש למתווה שכלל מכסות לפטור מגיוס, נערכים ב'יהדות התורה' לכך שיו\"ר 'ישר', ח\"כ גדי איזנקוט, יגיש בימים הקרובים מתווה מתוקן שאינו מגביל את מספר לומדי התורה (חרדים)",
+      "link": "https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:59:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/east-jerusalem-school-shooting",
       "title": "התחזה לשליח, ארב לתלמיד בית ספר - וירה בו מטווח אפס לעיני ילדים",
       "summary": "מזרח ירושלים מזועזעת מרצח אכזרי לאור יום: קוסאי אלג'ולאני, נער בן 13, נורה למוות הבוקר בכניסה לבית ספרו במחנה הפליטים שועפט כשילקוט בית הספר על גבו. המחסל, שהתחזה לשליח, קרא לנער וירה בו מטווח אפס לעיני תלמידים המומים. לאחר מצוד ממושך נעצר חשוד בן 16 סמוך לאופנוע שרוף, אך הוא שוחרר לאחר שהתברר כי אינו קשור לאירוע – והמרדף אחר הרוצח נמשך (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/touzmc",
+      "link": "https://www.kikar.co.il/israel-news/east-jerusalem-school-shooting",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-21T15:43:38.000Z"
@@ -68,6 +86,15 @@
       "pubDate": "2026-11-21T15:37:16.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383962284",
+      "title": "המטרה: סבב באיראן. האמצעי: בליץ של הדלפות",
+      "summary": "רחפנים לחיסול טראמפ, פצצות מלוכלכות, נשק כימי ושלל הפחדות ואיומים. ארה\"ב מוצפת בפרסומים שמנסים לשכנע את האמריקאים לתקוף שוב את טהרן. בוושינגטון מטילים ספק",
+      "link": "https://www.walla.co.il/news/world/383962284",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T15:35:31.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21900523",
       "title": "כשנתיים אחרי הסרטן: הסוד של קייט מידלטון נחשף",
       "summary": "נסיכת ויילס טיפסה על שלושת ההרים הגבוהים בבריטניה בתוך יממה אחת, והמצלמה ליוותה אותה • בטריילר שפורסם היום היא מדברת בגלוי על מה שהמחלה שינתה בה • הסרט ישודר בסוף החודש",
@@ -75,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T15:29:58.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
+      "title": "ליברמן מתעקש: \"להקים קואליציה עם ש\"ס ויהדות התורה\" | תוקף בחריפות: \"שלא יחזור לעולם\"",
+      "summary": "יו\"ר ישראל ביתנו דוחה ממשלה בתמיכת הערבים: \"קואליציה כזו תחזיר את נתניהו עם 70 מנדטים\" • \"את נתניהו אפשר להחליף רק מימין, ולא משמאל\" • \"הדרך היחידה לפרק את גוש נתניהו היא להקים קואליציה עם ש\"ס ויהדות התורה\" • \"יהיה לכך מחיר פוליטי ואידיאולוגי. אני הראשון שמשלם את המחיר הזה\" • \"המטרה היא לסיים את שלטונו ולהבטיח שלא יחזור לעולם\" (חדשות, פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T15:27:51.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/liberman-replace-netanyahu-only-with-haredim",
@@ -26922,105 +26958,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-16T16:11:58.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rjusvqu0ml",
-      "title": "קצין במשטרה סירב לעצור את פעילי רע״מ ביום הבחירות - ודרש לפגוש את המקור",
-      "summary": "חשיפה: קצין מודיעין במחוז דרום סירב לבצע את המעצרים ביום הבחירות ודרש לפגוש את המקור שעל בסיס המידע שמסר התבקשה הפעולה. לפי גורמים המעורים בחקירה, אותו מקור - דני גרינברג ששימש כיועץ בלשכת רה\"מ - גם שוחח עם ראש אגף החקירות והמודיעין. המשטרה: \"הפעילות בוצעה לאחר קבלת כלל האישורים\"",
-      "link": "https://www.ynet.co.il/news/article/rjusvqu0ml",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-16T16:00:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21865382",
-      "title": "עם בן משפחה: החופשה הרומנטית של אבנר נתניהו ובת הזוג",
-      "summary": "אחרי התמונה הזוגית הראשונה מלונדון, דנה צבאג ממשיכה לשתף רגעים מחופשה נוספת באירופה, והפעם הצטרף אליהם בן משפחה • המסר הקצר והמרגש שכתבה על התמונה",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21865382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:58:34.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876503",
-      "title": "בשביל זה עברו לקפריסין? הצעד המקומם של הנהלת מכבי תל אביב",
-      "summary": "בקפריסין מדווחים שאחרי שכל 1,500 המקומות שיועדו לקהל המקומי נמכרו, הצהובים הגדילו את ההקצאה כאות הוקרה על האירוח בלימסול",
-      "link": "https://sports.walla.co.il/item/3876503",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T15:58:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876503",
-      "title": "אם אין מספיק צרות: המהלך החדש שיעצבן את אוהדי מכבי תל אביב",
-      "summary": "בקפריסין מדווחים שאחרי שכל 1,500 המקומות שיועדו לקהל המקומי נמכרו, הצהובים הגדילו את ההקצאה כאות הוקרה על האירוח בלימסול",
-      "link": "https://sports.walla.co.il/item/3876503",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T15:58:00.000Z"
-    },
-    {
-      "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-c08c5c239a4e1a1026.htm",
-      "title": "\"שלושה גולשים התעוורו לחלוטין\": העלייה המדאיגה בפציעות העיניים בעקבות הספורט הימי",
-      "summary": "ארבעה גולשים הגיעו בחודשים האחרונים לאיכילוב עם פגיעות עיניים קשות מגלשנים • הממוצע לטיפול בפציעות כאלו בבית החולים בעבר היה אחד לשנה • מומחה העיניים מזהיר: הפגיעות עלולות להסתיים בעיוורון • כיצד ניתן לצמצם את הסיכון לפציעה",
-      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-c08c5c239a4e1a1026.htm",
-      "source": "N12",
-      "sourceKey": "n12",
-      "pubDate": "2026-11-16T15:56:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21865337",
-      "title": "אחרי הכישלון מול החות'ים: מלך סעודיה הדיח את מפקד הקואליציה בתימן",
-      "summary": "מכה נוספת לכוחות הנתמכים בידי ריאד: המורדים החות'ים ממשיכים להתקדם לאורך חופי דרום תימן, לאחר שכוחות הממשלה נסוגו מאזורים הסמוכים למצר באב אל-מנדב האסטרטגי • המלך סלמאן הורה על שינוי בצמרת הפיקוד הצבאי • התושבים חוששים מהתקרבות הלחימה לעיר הנמל המשמשת כמוקד שלטון הממשלה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21865337",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:55:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21865388",
-      "title": "ללא כלא: המסלול החדש של צה\"ל לעריקים",
-      "summary": "המסלול הירוק מתרחב למשתמטים שנעדרו יותר מ-540 ימים • הצבא והפרקליטות יאפשרו לצעירים להסדיר את מעמדם מבלי לשבת בכלא, תמורת צו עיכוב יציאה מהארץ • עד כה 67 משתמטים שולבו בשירות פעיל • מה יעלה בגורלם של אלו שיפרו את ההסכם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21865388",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:52:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21865388",
-      "title": "הדרך של צה״ל לגייס עוד חיילים: הרחבת מסלול הגיוס ללא כלא למשתמטים",
-      "summary": "המסלול הירוק מתרחב למשתמטים שנעדרו יותר מ-540 ימים • הצבא והפרקליטות יאפשרו לצעירים להסדיר את מעמדם מבלי לשבת בכלא, תמורת צו עיכוב יציאה מהארץ • עד כה 67 משתמטים שולבו בשירות פעיל • מה יעלה בגורלם של אלו שיפרו את ההסכם",
-      "link": "https://www.israelhayom.co.il/news/local/article/21865388",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:52:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21865388",
-      "title": "הדרך של צה״ל לגייס עוד חיילים: הרחבת המסלול גיוס ללא כלא למשתמטים",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/news/local/article/21865388",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:52:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21865335",
-      "title": "אחרי שלקחה הפסקה בגלל דיכאון: יוצרת התוכן כותבת",
-      "summary": "ימים אחרי שהודיעה על הפסקה זמנית מהרשת, יוצרת התוכן מפרסמת פוסט אישי על החיים מול קהל גדול, האחריות שמגיעה עם החשיפה ומה שקרה לה בדרך",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21865335",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T15:48:51.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/attempted-ramming-tapuach-junction-two-injured",
-      "title": "דריסה בשומרון: במקום שני פצועים קל, החשוד הערבי בדריסה נמלט מהזירה",
-      "summary": "רכב בעל לוחית לבנה האיץ לעבר קבוצת ישראלים בחוות אנטון ליד כפר תפוח • שני אזרחים נפצעו באורח קל והחשוד המשיך לכפר הסמוך | כוחות צה\"ל פתחו בסריקות נרחבות במרחב (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/attempted-ramming-tapuach-junction-two-injured",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T15:47:05.000Z"
     }
   ]
 }
