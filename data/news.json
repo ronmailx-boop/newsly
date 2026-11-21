@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:15:55.489Z",
+  "updatedAt": "2026-11-21T21:30:56.409Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/bennett-unity-government-principles-netanyahu-eise",
+      "title": "בנט התייחס להתקרבותו לנתניהו: \"אנשי ה'רק לא ביבי' לא הצביעו לנו\"",
+      "summary": "שבועיים לתום המנדט, יו\"ר \"ביחד\" טוען כי בוחריו מעדיפים ממשלת אחדות על פני בחירות או ממשלה עם המפלגות הערביות: \"אנשי הרק לא ביבי לא הצביעו לנו\", אמר בשיחה סגורה (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/bennett-unity-government-principles-netanyahu-eise",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-21T21:20:59.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962429",
+      "title": "דיווח: משמרות המהפכה תקפו שני בסיסים אמריקניים בבחריין",
+      "summary": "בבחריין דיווחו על שריפה במתקן תעשייתי אזרחי בעקבות תקיפה איראנית, ללא נפגעים. מערכות ההגנה האווירית יירטו תקיפות נוספות, ובמקביל הופעלו אזעקות באזור מכה שבסעודיה. בהמשך הוכרז כי הסכנה חלפה.",
+      "link": "https://www.walla.co.il/news/world/383962429",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T21:15:53.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/law-and-order/tovejp",
       "title": "אחרי ששב\"ס סירב לאפשר לו לבקר את אביו החולה: יגאל עמיר עתר לבית המשפט",
       "summary": "רוצח ראש הממשלה יצחק רבין פנה לבית המשפט המחוזי בבקשה להתערב בהחלטת שירות בתי הסוהר ולתת לו לצאת לחופשה של 48 שעות כדי לבקר את אביו החולה (משפט)",
@@ -39,6 +57,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-21T21:12:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21902299",
+      "title": "בשידור חי: בר טימור העביר לדימיטריס איטודיס מסר חד וברור",
+      "summary": "קפטן הפועל תל אביב הצטיין ב־60:85 על קריית אתא והבהיר שהוא מחכה להזדמנות גם באירופה • טימור התייחס למעמד הישראלים בסגל הרחב והסביר מדוע ייעדר מחלון הנבחרת • המאמן היווני כבר מסתכל על אולימפיאקוס: ״הם הפייבוריטים\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21902299",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T21:04:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21902154",
+      "title": "יגאל עמיר ביקש חופשה כדי לבקר את אביו - שב״ס חושש שיברח",
+      "summary": "רוצח ראש הממשלה יצחק רבין הגיש את הבקשה בשל מצבו של האב החולה בסרטון • בשירות בתי הסוהר סירבו לבקשה על רקע החשש שעמיר ייפגש עם גורמים מחוץ לבית הכלא, שעלולים לראות בו דמות לחיקוי • עמיר עתר לבית המשפט המחוזי שצפוי לקבל החלטה בעניינו",
+      "link": "https://www.israelhayom.co.il/news/local/article/21902154",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T20:55:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21902154",
@@ -138,6 +174,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-21T20:35:56.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962424",
+      "title": "גוש השינוי נערך למרתון שיחות: המוצא האחרון - ממשלת מיעוט",
+      "summary": "איזנקוט החליט על סדרת פגישות עם הליכוד כדי למצות את המו\"מ לאחדות, ולא ויתר על ממשלה עם החרדים. \"חייבים לעשות ביבי לביבי\", אומרים בגוש השינוי",
+      "link": "https://www.walla.co.il/news/politics/383962424",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-21T20:33:14.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962424",
@@ -249,6 +294,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390823",
+      "title": "טורקיה מזהירה את ישראל: אם זה יקרה - ניכנס לעימות חזיתי",
+      "summary": "בריאיון בטלוויזיה הטורקית האשים האקאן פידאן את ישראל בניצול כוחה של ארה\"ב, טען שהיא מעדיפה שכנות מפוצלות והזהיר מהשלכות המלחמה באיראן. במקביל התייחס למגעים בין וושינגטון לטהראן",
+      "link": "https://www.maariv.co.il/news/world/article-1390823",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-21T19:53:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390823",
       "title": "טורקיה נגד ישראל: האזהרה החריגה והמסר לבית הלבן",
       "summary": "בריאיון בטלוויזיה הטורקית האשים האקאן פידאן את ישראל בניצול כוחה של ארה\"ב, טען שהיא מעדיפה שכנות מפוצלות והזהיר מהשלכות המלחמה באיראן. במקביל התייחס למגעים בין וושינגטון לטהראן",
       "link": "https://www.maariv.co.il/news/world/article-1390823",
@@ -264,6 +318,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-21T19:53:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21901891",
+      "title": "נגד המשטר: חלופת טראמפ למלחמה חדשה עם איראן",
+      "summary": "לפי גורמים דיפלומטיים, נשיא ארה\"ב מעדיף בשלב זה להחריף את המצור הכלכלי על טהרן, תוך הרחבתו גם לנתיבי הסחר היבשתיים • מדינות המפרץ צפויות לסייע בהידוק הלחץ על איראן, בעוד האפשרות הצבאית נותרת על השולחן • בסביבת טראמפ מזהירים מפני חזרה על תקדים המלחמה בעיראק",
+      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21901891",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T19:52:55.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21901891",
@@ -27156,141 +27219,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-16T21:31:57.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21851197",
-      "title": "מזל מאזניים, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "כוכב נפטון מזרים אליכם אנרגיות בעלות אופי בולם קמעה ולכן לא פלא שאתם מרגישים תקועים בין לבין. שווה לכם לדון עם בן/ת הזוג באירועים שעדיין לא נסגרו מבחינתכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21851197",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21851198",
-      "title": "מזל עקרב, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "כוכב נפטון מזרים אליכם פנטזיות חסרות אחיזה במציאות. יש לכם צורך בפרטיות גם אם זה בא על חשבונם של אנשים אחרים",
-      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21851198",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21851199",
-      "title": "מזל קשת, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "מגלים היום את הצד התוקפני שהיה חבוי בכם, ונדהמים בעצמכם מעוצמת הרגשות שמתסיסה אתכם. מישהו משגע אתכם ולמרות שאתם משתדלים להתאפק ולתת צ'אנס לאותו אדם, זה מתברר קשה ליישום",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21851199",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21851322",
-      "title": "מזל גדי, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "כוכב מארס אשר זכה בשמו של אל המלחמה, מזרים אליכם אנרגיות שעשויות לעזור לכם לשכוח את טראומות העבר. השאלה היא עד כמה אתם פתוחים לנסות ולהתנסות בגישה חדשה",
-      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21851322",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21851323",
-      "title": "מזל דלי, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "וונוס שולח קרן רומנטית וחושנית לעבר כוכב אוראנוס השולט בכם. אתם משחקים אותה גם בעבודה וגם בבית",
-      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21851323",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21851329",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "גזרת מזל דגים מוצפת היום באנרגיות רומנטיות אשר כוכב נוגה משגר לעברה. אתם מרגישים נפלא ומקבלים תגובות מצוינות מהסביבה",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21851329",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21850969",
-      "title": "מזל טלה, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "אנרגיה רומנטית זולגת היום מכוכב נוגה לעבר גזרת מזלכם במקביל, מגע קשוח מן הירח מצנן קמעה את התרגשותכם. אל תקפצו מעל הפופיק",
-      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21850969",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21850970",
-      "title": "מזל שור, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "השפעה של של כוכב נוגה, תורמת בימים אלה לעוצמתכם הפיסית. אתם מתחזקים ומצליחים גם לבטא את עצמכם טוב יותר מאשר בעבר",
-      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21850970",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21850974",
-      "title": "מזל תאומים, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "כוכב סטורן מבשר טובות לאלה מכם שביקשו למסד את אהבתם. התופעה הקוסמית מחזקת את יחסיכם עם הקשתים, שממילא מהווים עבורכם בני זוג אולטימטיביים",
-      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21850974",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21851057",
-      "title": "מזל סרטן, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "השפעה מבורכת בין כוכב מרקורי לבין הירח, מעידה על רוח קלילה ואופטימיות שמלאת אתכם היום. אתם קצת יותר ממוקדים ומתחילים לפעול ביתר נחישות להשיג את מטרותיכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21851057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21851058",
-      "title": "מזל אריה, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "קרן מעודדת נשלחת לכיוון מזלכם מכוכב חמה. במקביל, חבל מאוד שלעיתים קרובות, אתם נותנים לפחד לנהל אתכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21851058",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21851060",
-      "title": "מזל בתולה, תחזית הורוסקופ יומית 17.11.2026",
-      "summary": "יסוד האש מלהיט את הבוסתן הרומנטי שלכם. סוף סוף אתם מרוצים מחיי החברה שלכם",
-      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21851060",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:30:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21867182",
-      "title": "לזימי חשפה: המחמאות מהח\"כ של הליכוד לאחר נאום \"אתה הראש, אתה אשם\"",
-      "summary": "חברת מפלגת הדמוקרטים פרסמה הודעה שקיבלה ביולי 2024 מאלי גולדשמידט • \"הנאום היה מאסטרפיס\" • צפו בדברים שאמרה אז לזימי - ובתגובה של גולדשמידט",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21867182",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-16T21:25:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/morocco-pm-husband-rebbe-visit",
-      "title": "בלבוש מסורתי על הראש: בעלה של ראש ממשלת מרוקו הגיע לציון הרבי",
-      "summary": "כשראשו וכתפיו מכוסים בבגד מסורתי לבן, הגיע סידי נביל באראקה, בעלה של ראש ממשלת מרוקו, לתפילה באוהל הרבי מליובאוויטש בניו יורק | את הביקור ליוו השלוחים הרב מנחם מענדל חיטריק מטורקיה והרב לוי באנון ממרוקו (בעולם)",
-      "link": "https://www.kikar.co.il/haredim-news/morocco-pm-husband-rebbe-visit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-16T21:23:12.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961718",
-      "title": "ממדאני מפרק את היחידה שטיפלה בהפגנות פרו-פלסטיניות בניו יורק",
-      "summary": "במסגרת המהלך, שמממש הבטחת בחירות, הטיפול במחאות יועבר לצוות אזרחי לא חמוש ול-30 שוטרים ייעודיים. ייאסר השימוש בגז מדמיע ובנשק ארוך בהפגנות, ובמשטרה מזהירים מפגיעה ביכולת להתמודד עם הפרות סדר",
-      "link": "https://www.walla.co.il/news/world/383961718",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-16T21:20:19.000Z"
     }
   ]
 }
