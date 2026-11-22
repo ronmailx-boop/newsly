@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:31:22.331Z",
+  "updatedAt": "2026-11-22T21:45:57.245Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/toxanq",
+      "title": "תאונה חריגה: מפקד משטרת התנועה התנגש ברוכב אופניים",
+      "summary": "מפקד משטרת התנועה הארצית היה מעורב בתאונה בכביש 4 סמוך לצומת רעננה, שבה נפגע רוכב אופניים באורח בינוני (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/toxanq",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T21:40:14.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/s1bxcal1qe",
       "title": "הביקור של קפטן אלה בבית ספר בדרום לבנון - והסרטון שעורר סערה",
       "summary": "בסרטון שפרסמה לרגל יום העצמאות הלבנוני נראית דוברת צה\"ל בערבית, סא\"ל אלה ואויה, בבית ספר בכפר דבל, לצד תמונות ממפגש עם תלמידים. ראש הממשלה סלאם גינה: \"ניצול ילדים לתעמולה צבאית\". בעירייה הבהירו שהביקור התקיים לפני כחודש, ללא תיאום עם הנהלת ביה\"ס - ותקפו: \"חיוך אינו תמיכה בכיבוש\"",
@@ -57,6 +66,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-22T21:18:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21910065",
+      "title": "המשבצת החדשה של שרון גל ואילה חסון בערוץ 14 - ומי שישלם את המחיר",
+      "summary": "רצועת 19:00 של ערוץ 14 מקבלת מתיחת פנים משמעותית עם חלוקה חדשה בין שני המגישים הבכירים • יהודה שלזינגר ייאלץ לפנות את מקומו בעקבות המהלך • חסון תוביל גם את מהדורת מוצ\"ש",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21910065",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T21:17:46.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/george-washington-hair-auction-sale-4000-dollars",
@@ -1371,6 +1389,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T15:52:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21908180",
+      "title": "יעל שלביה: ״זה לא התפתח״",
+      "summary": "שיחה תמימה על פיתוח קול חשפה צד שהמגישה העדיפה כנראה להשאיר הרחק מאור הזרקורים",
+      "link": "https://www.israelhayom.co.il/lifestyle/article/21908180",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T15:51:56.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21908180",
@@ -26589,51 +26616,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T21:49:23.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/kahana-elected-knesset-speaker-joint-list-support-2",
-      "title": "\"ראיס אל כנסת\": הקואליציה זועמת על בחירת כהנא - והאופוזיציה חוגגת",
-      "summary": "מתן כהנא ממפלגת ישר נבחר ליו\"ר הכנסת ה-26 • אופיר כץ מהליכוד הובס עם 52 קולות | סערה פוליטית: באופוזיציה חוגגים, בקואליציה תוקפים בחריפות (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/kahana-elected-knesset-speaker-joint-list-support-2",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T21:45:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21877188",
-      "title": "רן בן שמעון לא התפטר: \"מכבי חיפה? אני 5 דקות אחרי משחק\"",
-      "summary": "מאמן נבחרת ישראל התייחס לאחר ה-1:1 עם אוסטריה לגבי גל הדיווחים סביבו, הקושרים את סיום עתידו על הקווים הלאומיים ועזיבה למכבי חיפה: \"לנבחרת ישראל מגיע מאמן שידבר עליה, אשב בשקט עם ראשי ההתאחדות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21877188",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T21:40:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21877188",
-      "title": "ברקע השמועות על התפטרות מהנבחרת ומעבר למכבי חיפה: רן בן שמעון מגיב",
-      "summary": "מאמן נבחרת ישראל התייחס לאחר ה-1:1 עם אוסטריה לגבי גל הדיווחים סביבו, הקושרים את סיום עתידו על הקווים הלאומיים כדי לשמש כמחליפו של ברק בכר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21877188",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T21:40:30.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/matan-kahana-elected-knesset-speaker-66-votes",
-      "title": "פנה לאיזנקוט והתייחס לשופטים: נאום הבכורה של כהנא כיו\"ר הכנסת",
-      "summary": "בנאום הבכורה שלו, שעסק באחדות, בשיח מכבד ובממלכתיות, תקףיו\"ר הכנסת החדש מתן כהנא את האלגוריתם \"שמתגמל קיצוניות, שנאה, מריבה ופילוג\", והבטיח: \"כנסת ישראל תציית ללא עוררין לפסקי דין של בית המשפט\" (בכנסת)",
-      "link": "https://www.kikar.co.il/political-news/matan-kahana-elected-knesset-speaker-66-votes",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T21:36:49.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/too0g6",
-      "title": "סגירת מעגל בהונגריה | צאצאי בעל ה'אמרי דוד' השיקו מחדש את ספרו בטוקאי",
-      "summary": "מעמד מרגש ורב רושם נערך השבוע בעיירה טוקאי שבהונגריה לרגל השקת המהדורה החדשה והמפוארת של הספר \"אמרי דוד\" על מסכת חולין | המעמד נפתח בבית מדרשו ההיסטורי של המחבר זצ\"ל מגדולי תלמידי ה\"חתם סופר\", ונחתם בתפילה על ציונו הקדוש בבית העלמין העתיק | תיעוד וסיקור (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/too0g6",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T21:33:38.000Z"
     }
   ]
 }
