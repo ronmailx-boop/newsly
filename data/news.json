@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:39:27.956Z",
+  "updatedAt": "2026-11-22T14:46:05.275Z",
   "sources": [
     {
       "key": "ynet",
@@ -57,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T14:30:51.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962561",
+      "title": "אוטובוס עלה באש בכביש 1: חסימות ועומסים כבדים לכיוון ירושלים",
+      "summary": "שישה צוותי כיבוי הוזעקו לשריפת אוטובוס סמוך למחלף חמד ופעלו למנוע את התפשטות האש לשטחים הסמוכים לכביש. עומסי תנועה כבדים נוצרו באזור, ולא ידוע על נפגעים",
+      "link": "https://www.walla.co.il/news/israel/383962561",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T14:29:43.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/euromillions-winner-never-claimed-million-euro-pri",
@@ -1029,6 +1038,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-22T12:09:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h17clul17g",
+      "title": "גם פיילוט הנשים בחי\"ר ניוד מתחדש: הכשרת הלוחמות תחל בחודש הבא",
+      "summary": "פרסום ראשון: ברקע חידוש הגיוס של חיילות לשיריון, צה\"ל עושה צעד נוסף בשילוב נשים בלחימה. שנתיים אחרי שהפיילוט הראשוני הוקפא בגלל הישגי כושר גופני, תחל בקרוב הכשרת נהגות שיניידו לוחמים וציוד בפעילות מבצעית ובשטחי אויב",
+      "link": "https://www.ynet.co.il/news/article/h17clul17g",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T12:07:43.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h17clul17g",
@@ -26976,24 +26994,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T14:54:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/transportation/article/21873569",
-      "title": "צעד נוסף בדרך לקו הסגול בגוש דן - זה התאריך שבו מתוכנן לפעול",
-      "summary": "רשות הרישוי הארצית השלימה את אישור חבילות העבודה בפרויקט הרכבת הקלה • הקו צפוי לחבר בין יישובי מזרח מטרופולין תל אביב למרכז העיר ולשרת עשרות מיליוני נוסעים מדי שנה • מועד ההפעלה המתוכנן של הקו הוא יוני 2028",
-      "link": "https://www.israelhayom.co.il/news/transportation/article/21873569",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T14:44:37.000Z"
-    },
-    {
-      "id": "walla:https://cars.walla.co.il/item/3876641",
-      "title": "6 מיליון שקל פיצוי לאלמנת בעל הפרארי שמת בתאונה ליד ים המלח",
-      "summary": "חברת מגדל סירבה בתחילה לשלם 2.4 מיליון שקל עבור שווי ה-GTB שנשרפה בתאונה לפני שנתיים, בטענה שהיה מדובר במירוץ לא חוקי, שנדחתה. בתאונה נהרגו בעל הרכב והעיתונאי אילן פייביש",
-      "link": "https://cars.walla.co.il/item/3876641",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T14:41:31.000Z"
     }
   ]
 }
