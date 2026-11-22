@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:31:07.472Z",
+  "updatedAt": "2026-11-22T09:45:58.736Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390965",
+      "title": "המבצע הבא באיראן עלול להתחיל כמלחמה קצרה - ולהסתיים במשבר ארוך | ישראל זיו",
+      "summary": "ההבטחה למבצע קצר באיראן עלולה להפוך למלחמת התשה ללא הישג מדיני. נתניהו מתעלם מהמחיר הכבד, ובזמן שהאיום האיראני אינו קיומי, הסחבת של איזנקוט עלולה לשרת את המשך שלטונו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1390965",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T09:44:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/towcvr",
+      "title": "אחרי 40 שנה: הרגע שבו קצין צה\"ל חזר לכפר בסוריה ופגש את אמו",
+      "summary": "אחרי ארבעה עשורים מעבר לגבול: אל\"מ עאטף חסון הגיע לכפר הולדתו בסוריה ופגש את אמו ואחיו שלא ראה מאז שעזב (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/towcvr",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T09:38:21.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383962487",
+      "title": "מאסר עולם לרוצח שדקר את עורך הדין 37 פעמים מול אשתו",
+      "summary": "מאסר עולם נגזר על דוד (\"דודי\") אבועזיז שרצח באכזריות את עורך הדין אפרים ארנון, לעיני אשתו רותי, בפתח ביתם. אבועזיז כבר הורשע ברצח אחר בעבר, לפני 46 שנים",
+      "link": "https://www.walla.co.il/news/law/383962487",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T09:37:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21904426",
+      "title": "\"הספקתי להראות לאבא תמונה של הנכדה\": סקאזי בריאיון חשוף",
+      "summary": "בתו השלישית נולדה ולמחרת איבד את אביו, שהיה גם אחד מחבריו הקרובים ביותר. כעת סקאזי מספר על השבוע המטלטל בחייו ועל הרגע שבו השמחה והאבל התנגשו • אחרי שלושה עשורים מאחורי שם הבמה המפורסם, הוא מוציא מוזיקה חדשה תחת שמו האמיתי, אשר סויסה, ומסביר מדוע החליט להיחשף",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21904426",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T09:28:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/police/shoafat-police-operation-firebombs-arrests",
       "title": "המסתערבים סיכלו נקמה: 28 בקבוקי תבערה נתפסו אחרי רצח הילד",
       "summary": "מסתערבי מג\"ב תפסו 28 בקבוקי תבערה מוכנים לשימוש ותחמושת במ.פ שועפאט • 4 חשודים נעצרו בחשד למעורבות בהצתת מבנה | הפעילות בוצעה בעקבות רצח קטין בן 10 (משטרה)",
@@ -41,6 +77,15 @@
       "pubDate": "2026-11-22T09:26:39.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21904366",
+      "title": "היילי ביבר חושפת מחשבות אובדניות: \"לא חוויתי דבר כזה\"",
+      "summary": "אחרי שנים של השוואות לסלינה גומז, ביבר מספרת על התקופה הקשה שעברה, על המחשבות האובדניות שאיתן התמודדה ועל הגבולות שהיא מנסה להציב היום מול הרשתות החברתיות",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21904366",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T09:25:42.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390954",
       "title": "\"שיקלי הוא פיון קטן - זו תורת נתניהו\": ברק סרי מגיב לסערת הפוסט",
       "summary": "ברק סרי תקף את שיקלי בעקבות הפוסט שהעביר לאמו של ענר שפירא, וקשר את המעשה לנתניהו ולקריאות לאחדות. אלי אוחנה הציג עמדה שונה בנוגע לביקורת על משפחות שכולות שנכנסו לפוליטיקה",
@@ -48,6 +93,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T09:24:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21904321",
+      "title": "מאסר עולם לרוצח עורך הדין אפרים ארנון",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/news/law/article/21904321",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T09:23:25.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390952",
@@ -60,12 +114,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1h5nqljml",
+      "title": "דקר 37 פעמים לעיני האישה: מאסר עולם לרוצח עורך הדין בצפון",
+      "summary": "דוד אבו עזיז רצח את עו\"ד אפרים ארנון בפתח ביתו ב-2021. על פי כתב האישום, בין השניים היה סכסוך משפטי. אבו עזיז ושותף הגיעו לביתו של ארנון, התנפלו עליו ודקרו אותו 37 פעמים לעיני אשתו - שהגיבה לאחר הקראת העונש: \"אבן נגולה מעל ליבי. הצדק נעשה\"",
+      "link": "https://www.ynet.co.il/news/article/h1h5nqljml",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T09:20:32.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1h5nqljml",
       "title": "התנפל ודקר 37 פעמים: מאסר עולם לרוצח עו\"ד אפרים ארנון בנשר",
       "summary": "דוד אבו עזיז הורשע במרץ השנה ברצח של עורך הדין אפרים ארנון בפתח ביתו ב-2021. על פי כתב האישום, בין השניים היה סכסוך משפטי. אבו עזיז ושותף נוסף הגיעו לביתו של ארנון, התנפלו עליו ודקרו אותו 37 פעמים לעיני אשתו. עוד נגזרו על אבו עזיז 18 חודשי מאסר על תנאי ופיצוי של 258 אלף שקלים לאלמנתו של ארנון",
       "link": "https://www.ynet.co.il/news/article/h1h5nqljml",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-22T09:20:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21904335",
+      "title": "בלי חרדים וערבים - ועם איזנקוט ראשון: \"מתווה הנדל\" להקמת הממשלה",
+      "summary": "יו\"ר המילואימניקים גיבש מתווה להקמת ממשלת אחדות בת 66 מנדטים שתכלול את מפלגותיהם של גדי איזנקוט ונפתלי בנט יחד עם הליכוד והציונות הדתית, ללא המפלגות החרדיות והערביות • לפי ההצעה שנחשפת ב\"היום\", איזנקוט יכהן כראש הממשלה בשנה וחצי הראשונות ובנימין נתניהו בשנה וחצי שאחריהן",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21904335",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T09:16:32.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877150",
@@ -219,6 +291,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T08:52:01.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383962473",
+      "title": "השחקן האמריקאי שתומך בישראל גינה ביטוי אנטישמי - והביך עצמו",
+      "summary": "מייקל רפפורט לא אהב את הכינוי האנטישמי שהדביק בואן יאנג לזמרת היהודייה רג'ינה ספקטור, והחליט לצאת למלחמה: חרם על NBC, השבתת גשר ברוקלין ודרישה לפטר את הקומיקאי. רק שמישהו שכח לספר לו פרט אחד חשוב",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383962473",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T08:51:17.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390937",
@@ -26760,132 +26841,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T09:46:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21868537",
-      "title": "אחרי 17 ימי השבתה: אתר הפאנפיקשן הענק חזר לאוויר - עם אזהרה חמורה",
-      "summary": "לאחר ימים שבהם היה מושבת בעקבות אירוע אבטחה מסתורי, חזר לפעול אתר הפאנפיקשן הפופולרי AO3, המאגד יותר מ-18 מיליון יצירות • בזמן ההשבתה זינקו ההרשמות לטאמבלר ב-75% בקרב צעירים, וכעת ממליצים מפעילי האתר ל-11 מיליון המשתמשים: החליפו סיסמה ליתר ביטחון",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21868537",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:45:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/bennett-visits-madan-unity-tent-optimistic",
-      "title": "בנט הגיע לאוהל האחדות של אלישע מדן: \"אם נלחמים ביחד בעזה, נוכל לעבוד ביחד בכנסת\"",
-      "summary": "יו\"ר מפלגת 'ביחד' נפתלי בנט הגיע לביקור באוהל האחדות של ח\"כ אלישע מדן • \"אני אופטימי, צריך להקים ממשלה ציונית רחבה\", אמר בנט ובכך התבטא לראשונה בפומבי על האפשרות להקמת ממשלת אחדות, לאחר ששמר עד כה על שתיקה בסוגיה (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/bennett-visits-madan-unity-tent-optimistic",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T09:45:20.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389367",
-      "title": "\"לא היה שם כלום\": עורך הדין במתקפה בעקבות המעצר בבחירות",
-      "summary": "לאחר מעצרו של ד\"ר סיאף אבו ריאש ביום הבחירות, עורך דינו מעלה טענות קשות נגד השימוש במשטרה לצרכים פוליטיים: \"כל אזרח שחי במדינה דמוקרטית צריך פשוט להיות חרד ולפחד ממה שנחשפנו אליו\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1389367",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T09:42:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389367",
-      "title": "עו\"ד הנעצר ביום הבחירות: \"השתמשו באזרח ככלי פוליטי\"",
-      "summary": "לאחר מעצרו של ד\"ר סיאף אבו ריאש ביום הבחירות, עורך דינו מעלה טענות קשות נגד השימוש במשטרה לצרכים פוליטיים: \"כל אזרח שחי במדינה דמוקרטית צריך פשוט להיות חרד ולפחד ממה שנחשפנו אליו\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1389367",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T09:42:22.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1zwikf0gx",
-      "title": "מתווה איזנקוט לא עובר את החרדים: \"קל יותר להגיע להבנות עם ליברמן על הגיוס\"",
-      "summary": "למרות שיו\"ר ועדת חוץ וביטחון טען שהוא לא מוביל את המו\"מ עם החרדים, גורם ביהדות התורה אמר על המתווה שנחשף ב-ynet כי המגעים עם ליברמן \"יותר פשוטים\". במקביל, גורמים חרדים אמרו כי גם המתווה הזה לא יעבור את הרבנים, שמתנגדים ליעדי גיוס וסנקציות. פורום המילואימניקים הדתיים: \"המתווה הרסני\"",
-      "link": "https://www.ynet.co.il/news/article/b1zwikf0gx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-17T09:40:33.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21869835",
-      "title": "פאר טסי על האלבום החדש: \"אני לא יכול להשאיר את זה ככה\"",
-      "summary": "במהלך הופעה מול הקהל התייחס הזמר להודעות הרבות שהוא מקבל סביב העבודה על האלבום החדש, והסביר מדוע הוא עדיין מתעכב עם סיומו: \"אני חייב שזה יהיה הכי שלם בעולם\"",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21869835",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:37:46.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/celebs/local-news/383961776",
-      "title": "עונת הפטל: כוכבת \"האח הגדול\" חזרה לאקס",
-      "summary": "פטל אסף, יוצאת העונה האחרונה של \"האח הגדול\", מחדשת את הקשר עם אקס מהעבר, איתו הייתה בזוגיות במשך שנה וחצי, עד שנפרדו חודשים ספורים לפני כניסתה לבית המפורסם",
-      "link": "https://www.walla.co.il/celebs/local-news/383961776",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T09:36:26.000Z"
-    },
-    {
-      "id": "walla:https://judaism.walla.co.il/item/3876602",
-      "title": "\"ברכה פי 500\": מה עומד מאחורי המיזם של לב לבייב?",
-      "summary": "לאחר שקיבל את ברכתו של הרבי מליובאוויטש זצוק\"ל, החל לב לבייב להקים כוללים לקשישים. כיום מונה הרשת 280 מסגרות, המעניקות ללומדים תחושת ערך ומשמעות לצד לימוד התורה",
-      "link": "https://judaism.walla.co.il/item/3876602",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T09:36:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21769475",
-      "title": "בלי טיגון בכלל: לא תאמינו ממה עשויות הקציצות הפריכות האלה",
-      "summary": "זהובות ופריכות מבחוץ, רכות מבפנים, והכול בלי טיפת טיגון • הקציצות האלה עשויות ממצרכים פשוטים שיש כמעט בכל בית, עם ציפוי מיוחד שהופך אותן לפריכות במיוחד • ויש גם טריק שמקצר את זמן ההכנה",
-      "link": "https://www.israelhayom.co.il/food/recipes/article/21769475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:34:08.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "title": "סוף סוף יש תאריך: יוצרי \"משחקי הכס\" חוזרים עם סדרת הענק של נטפליקס",
-      "summary": "נטפליקס סוף סוף מפרסמת תאריך לעונה השנייה של \"בעיית שלושת הגופים\" • וגם: ניקולס קייג' חוזר לטלוויזיה, הדרמה המשפטית \"ג'אקס סטיוארט: ספק סביר\" חודשה לעונה נוספת, ופריקוול מפתיע • חדשות הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:33:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "title": "סוף סוף יש תאריך: יוצרי \"משחקי הכס\" חוזרים עם סדרת הענק",
-      "summary": "נטפליקס סוף סוף מפרסמת תאריך לעונה השנייה של \"בעיית שלושת הגופים\" • וגם: ניקולס קייג' חוזר לטלוויזיה, הדרמה המשפטית \"ג'אקס סטיוארט: ספק סביר\" חודשה לעונה נוספת, ופריקוול מפתיע • חדשות הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:33:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "title": "כמעט 3 שנים אחרי העונה הראשונה: הסדרה המדוברת של נטפליקס חוזרת",
-      "summary": "וגם: ניקולס קייג' חוזר לטלוויזיה, הדרמה המשפטית \"ג'אקס סטיוארט: ספק סביר\" חודשה לעונה נוספת, ופריקוול מפתיע • חדשות הטלוויזיה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21869811",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:33:36.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/california-giant-waves-mavericks",
-      "title": "הטבע יצא משליטה: גלי ענק הפכו את חופי קליפורניה לזירת אקסטרים",
-      "summary": "בעוד הסערות מכות בחופי קליפורניה והורסות תשתיות, גולשי הגלים הגדולים בעולם הגיעו לחוף מאבריקס כדי להתמודד עם גלים המתנשאים לגובה של בניין בן שש קומות (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/california-giant-waves-mavericks",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T09:32:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21870145",
-      "title": "מזרחי טפחות: תיק האשראי צמח ב-11.4% ל-436 מיליארד שקל",
-      "summary": "הבנק סיכם את תשעת החודשים הראשונים של 2026 עם רווח נקי מתואם של כ-4.6 מיליארד שקל ותשואה להון של 17.1% • האשראי העסקי גדל ב-18%, ובמגזר העסקים הבינוניים נרשמה עלייה של 43.3% • הבנק יחלק דיבידנד של 683 מיליון שקל בגין הרבעון השלישי",
-      "link": "https://www.israelhayom.co.il/business/real-estate/article/21870145",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:31:22.000Z"
     }
   ]
 }
