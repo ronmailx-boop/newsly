@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:45:58.736Z",
+  "updatedAt": "2026-11-22T10:01:14.134Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/jewish-soldier-wwi-beersheba-grave",
+      "title": "מפקד הפלוגה החרדי התפלל על קבר חייל יהודי שנפל לפני 107 שנים",
+      "summary": "מפקד פלוגת מודיעין עילית בביקור מרגש, היסטורי ונדיר בקבר החייל היהודי היחיד הידוע בבאר שבע ממלחמת העולם הראשונה (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/jewish-soldier-wwi-beersheba-grave",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T09:58:54.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/r1nojxg1xg",
+      "title": "המשטר באיראן מחפש הכרעה מהירה וינסה לפרוץ את המצור הימי | פרשנות",
+      "summary": "האייתולות מתכוננים ליוזמה התקפית אסטרטגית: שיגור שיירת מכליות נפט דרך מצר הורמוז כשהמטרה לאתגר את הצי האמריקני. התכלית היא לשים קץ לקיפאון הצבאי והדיפלומטי שמחרב את הכלכלה האיראנית. מהם מנופי ההרתעה של איראן, מהן דרכי הפעולה האפשריות של ארה\"ב, ואיך תשתלב ישראל בהתפתחויות",
+      "link": "https://www.ynet.co.il/news/article/r1nojxg1xg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T09:55:37.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/towdxh",
+      "title": "לקראת החתונה הגדולה | אלפים חגגו בשמחת הפארשפיל בויז'ניץ",
+      "summary": "אלפי חסידי ויז'ניץ נטלו חלק אמש (מוצ\"ש) בשמחת הפארשפיל לקראת נישואי נינת האדמו\"ר, נכדה לאדמו\"רים מויז'ניץ וויליאמסבורג וויז'ניץ בית שמש, עב\"ג החתן נכד הגה\"צ רבי מנחם ארנסטר, ראש ישיבת ויז'ניץ, בת לבנו הרה\"ג ר' ברוך שמעון ארנסטר, חתן הגאון רבי שמואל לוריא, רב דחסידי ויז'ניץ באנטווערפן | שמחת החתונה תיערך ביום רביעי בהיכל ביהמ\"ד הגדול בקריית ויז'ניץ בבני ברק (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/towdxh",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T09:53:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390964",
+      "title": "\"אתם חולים!\": חשפו את בן זוגה - והיא נטשה בזעם",
+      "summary": "ריאיון שגרתי בטלוויזיה הצרפתית הפך לעימות סוער, לאחר שהמגיש חשף את הקשר הזוגי של הפעילה הפמיניסטית לבכיר בתאגיד השידור הציבורי. המרואיינת זעמה, עזבה את האולפן והציתה סערה ברשת",
+      "link": "https://www.maariv.co.il/news/viral/article-1390964",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T09:48:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390963",
+      "title": "המומחה לענייני ארה\"ב: \"מבחינה פוליטית זה הזמן הכי טוב של טראמפ לתקוף\"",
+      "summary": "\"האיראנים מרגישים מועצמים כי שני הצבאות החזקים בעולם תקפו אותם והם לא נפלו\": יקי דיין מסביר למה טהרן מהמרת על השנתיים הקרובות, ולמה טראמפ יכול לתקוף גם אחרי שהקונגרס יתחלף בינואר",
+      "link": "https://www.maariv.co.il/news/world/article-1390963",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T09:47:12.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390965",
       "title": "המבצע הבא באיראן עלול להתחיל כמלחמה קצרה - ולהסתיים במשבר ארוך | ישראל זיו",
       "summary": "ההבטחה למבצע קצר באיראן עלולה להפוך למלחמת התשה ללא הישג מדיני. נתניהו מתעלם מהמחיר הכבד, ובזמן שהאיום האיראני אינו קיומי, הסחבת של איזנקוט עלולה לשרת את המשך שלטונו",
@@ -39,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T09:44:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/towcvr",
+      "title": "אחרי 40 שנה: קצין צה\"ל חזר לכפר בסוריה ופגש את אמו",
+      "summary": "אחרי ארבעה עשורים מעבר לגבול: אל\"מ עאטף חסון הגיע לכפר הולדתו בסוריה ופגש את אמו ואחיו שלא ראה מאז שעזב (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/towcvr",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T09:38:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/towcvr",
@@ -57,6 +111,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-22T09:37:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962488",
+      "title": "בלי חרדים, ללא ערבים: רוטציית האחדות של הנדל",
+      "summary": "לפי המתווה שהציג יועז הנדל, תקום ממשלה של 66 חברי כנסת בלי החרדים ובלי המפלגות הערביות, מספר שווה של ח\"כים משני הגושים, ועדת חקירה ממלכתית בהסכמה, וחוק גיוס ללא פטורים",
+      "link": "https://www.walla.co.il/news/politics/383962488",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T09:33:44.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21904426",
@@ -102,6 +165,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T09:23:25.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877179",
+      "title": "\"זה להיות או לחדול\": הישראלים שאיבדו מאות אלפים במפולת",
+      "summary": "מעט 9 טריליון דולר נמחקו משוקי המניות בעולם מאז אוגוסט, והמשקיעים בארץ חושפים ברשתות את הנזק האישי - מהפסד של 62.5 אלף שקל ועד 700 אלף דולר. מנגד, יש מי שגרפו הון מההימור נגד השוק",
+      "link": "https://finance.walla.co.il/item/3877179",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T09:22:50.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390952",
@@ -26760,87 +26832,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-17T10:02:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/ton4mu",
-      "title": "ילדי צפת התרגשו | בן הרבי ה'פני מנחם' העניק חומשים, ומשב\"ק האדמו\"ר חילק ממתקים",
-      "summary": "במעמד נרגש, בהשתתפות זקני והורי התלמידים, חגגו ילדי החמד בתלמוד תורה 'משנת שמעון' - לעלוב, בעיה\"ק צפת מסיבת חומש מפוארת • את המעמד פיארו בהופעתם הכבודה הגה\"צ יצחק דוד אלתר, בנן של האדמו\"ר בעל ה'פני מנחם' מגור זצ\"ל, והגה\"צ רבי משה סופר, רב דק\"ק ערלוי שאף נשאו דברי ברכה ותהילה באירוע • בחלוקת החומשים כובד הגרי\"ד אלתר, והרב אהרן לוסטיג, משב\"ק האדמו\"ר מלעלוב חילק מיני מתיקה לילדי החמד (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/ton4mu",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T09:58:15.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21870268",
-      "title": "אחרי מותו של שי כרם: סיבת המוות נחשפת",
-      "summary": "יומיים אחרי מותו הפתאומי של שי כרם, בני משפחתו מסרו מהי ההערכה הראשונית למה שאירע בביתו בתל אביב. קביעה רפואית סופית עדיין לא פורסמה",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21870268",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:56:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21870277",
-      "title": "\"זה לא כדורסל, אני מופתע שדני אבדיה עדיין לא נפצע\"",
-      "summary": "למרות שהיה מהבולטים בפורטלנד בהפסד למינסוטה, הישראלי ספג ביקורת נוקבת מצד פרשן המסקר את הטימברוולבס: ״אני מופתע שהוא עדיין לא נפצע״. דווקא לפני המשחק הסביר אבדיה מה הופך את החדירות לסל לנשק המרכזי שלו",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21870277",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:49:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21870317",
-      "title": "\"מאנשי התוכן והניהול הטובים בישראל\": הרכש החדש של i24NEWS",
-      "summary": "אבי כהן, שכיהן עד לאחרונה כמנכ\"ל וכעורך הראשי של 103FM, יוביל את רצועת הפריים טיים ויהיה אחראי על עיצוב התוכן ופיתוח תוכניות מרכזיות",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21870317",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:48:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21869785",
-      "title": "קוד קופון לחרדה: כשהמשבר האישי הופך לתוכן ברשת",
-      "summary": "השיתופים של משפיעניות על חרדה ומצוקה נפשית מתקבלים היום במחיאות כפיים, אבל בעידן שבו כל וידוי הופך לתוכן וכל חשיפה מייצרת מעורבות, עולה שאלה לא נוחה: האם כדי להפסיק להתבייש בכאב אנחנו חייבים גם לחשוף אותו לעיני כולם?",
-      "link": "https://www.israelhayom.co.il/lifestyle/diets-and-nutrition/article/21869785",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:48:23.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1389374",
-      "title": "\"בגלל הז*ן שלך?\": הפדיחה של ראש ממשלת אוסטרליה",
-      "summary": "ראש הממשלה אלבניזי ושר האנרגיה שלו שוחחו על הסכנות שבקרינה מטלפונים ניידים, אלא שהדיון גלש במהירות לאיבר אינטימי במיוחד. המצלמות קלטו הכול, וההתנצלות לא איחרה להגיע",
-      "link": "https://www.maariv.co.il/news/viral/article-1389374",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T09:48:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21870081",
-      "title": "יותר ממיליון דולר לעונה: תעודת הביטוח של עודד קטש במכבי תל אביב",
-      "summary": "להנהלת הצהובים היו מספיק סיבות לפטר את המאמן, שמדי שנה מסתבך מקצועית • לא רק העובדה שהוא כמעט תמיד מוצא פתרונות למשברים משאירה אותו על הקווים • כך הוא למד לשרוד בכל פעם מחדש",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21870081",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:47:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21870294",
-      "title": "ליאון רוזנברג על העבר עם פאולה: \"טפטף טיפות של רעל לקשר\"",
-      "summary": "מגיש הטלוויזיה חוגג יום הולדת עגול לאשתו ומסכם יותר משלוש שנים הרחק מאור הזרקורים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21870294",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:46:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21870294",
-      "title": "ליאון רוזנברג מודה: \"זה טפטף טיפות של רעל לקשר\"",
-      "summary": "מגיש הטלוויזיה חוגג יום הולדת עגול לאשתו ומסכם יותר משלוש שנים הרחק מאור הזרקורים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21870294",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T09:46:59.000Z"
     }
   ]
 }
