@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:00:59.603Z",
+  "updatedAt": "2026-11-22T15:16:05.135Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1391110",
+      "title": "בין ממשלת מיעוט לממשלת אחדות: תוקם כנראה ממשלת חירום לאומית | ד\"ר איתן לסרי",
+      "summary": "שעון החול של איזנקוט אוזל, ממשלת המיעוט מעוררת מחלוקת והמגעים לאחדות תקועים. בצל האיומים הביטחוניים עולה חלופה שלישית: ממשלת חירום לאומית בהובלת נתניהו ואיזנקוט, לתקופה מוגבלת וביעדים ברורים",
+      "link": "https://www.maariv.co.il/news/opinions/article-1391110",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T15:11:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1391107",
+      "title": "אוסטרליה ניצבת בצומת דרכים היסטורי: היהודים מתחילים לעזוב",
+      "summary": "איש העסקים סטיבן לואי חושף כי משפחתו ספגה יותר מ-15 אלף מתקפות ברשת, בהן איומי מוות. בנאום בסידני הזהיר מפני העלייה באנטישמיות, שגורמת ליהודים לשקול את עתידם באוסטרליה, והצביע על נקודת מפנה",
+      "link": "https://www.maariv.co.il/news/world/article-1391107",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T15:09:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/brazil-storm-tupanciretta-destruction",
+      "title": "בתוך 40 דקות: הסערה האלימה שכמעט מחקה עיירה ברזילאית מהמפה",
+      "summary": "סופת-על הכתה בסוף השבוע בעיירה טופנסירטה במשך 40 דקות בלבד - 40 דקות שכמעט השמידו את העיירה | כל 20 אלף התושבים נפגעו מהרוחות העזות | החשד: טורנדו או מיקרו-פרץ (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/brazil-storm-tupanciretta-destruction",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T15:06:17.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/kikar-scoop-news/tows1a",
       "title": "מבזק חדשות כיכר FM | מהדורת השעה 17:00",
       "summary": "לאורך היום - מבזקי חדשות ועדכונים בהגשת אריאל שרפר, עם תקציר הידיעות החשובות מאתר 'כיכר השבת' | האזינו עכשיו למבזק השעה 17:00 (רדיו כיכר FM)",
@@ -41,13 +68,49 @@
       "pubDate": "2026-11-22T14:59:54.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21907713",
+      "title": "הבריתות עומדות למבחן: המהלך שיטלטל את הישרדות כבר בדרך",
+      "summary": "פרסום ראשון: הבריתות שנבנו מתחילת המשחק עומדות לקבל מבחן מסוג אחר. ל-ForReal נודע כי בפרק הקרוב של \"הישרדות\" יתרחש מהלך משמעותי שישנה את המבנה הקיים של המשחק ויערער את יחסי הכוחות על האי.",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21907713",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:59:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21907230",
+      "title": "בכיר לשעבר באיראן, שדיכא את \"מחאת החיג'אב\", ינאם בכנס נגד \"איסלאמופוביה\"",
+      "summary": "סעיד רזא עאמלי, ממובילי דיכוי הנשים באיראן וצנזור האינטרנט במדינה, יישא נאום מרכזי בוועידה של ארגון שייסד בבריטניה • המארגנים מאשימים את ישראל ב\"רצח עם מבוסס בינה מלאכותית\" בעזה • הארגון המארח נתון תחת חקירה בממלכה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21907230",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:58:53.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1391104",
       "title": "הזריק חומר מטשטש ותקף את המטופלת: האישום החמור נגד איש הצוות הרפואי",
-      "summary": "כתב אישום שהוגש נגד איש צוות רפואי בבית החולים העמק מתאר כיצד ניצל את מצבה של מטופלת שאושפזה במקום. לפי הפרקליטות, הנאשם נכנס לחדרה בשעת לילה, הזריק לה חומר מטשטש וביצע בה מעשים מגונים",
+      "summary": "כתב אישום שהוגש נגד איש צוות רפואי בבית החולים העמק בעפולה מתאר כיצד ניצל את מצבה של מטופלת שאושפזה במקום. לפי הפרקליטות, הנאשם נכנס לחדרה בשעת לילה, הזריק לה חומר מטשטש וביצע בה מעשים מגונים",
       "link": "https://www.maariv.co.il/news/law/article-1391104",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T14:58:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21907769",
+      "title": "היכו אותו באגרופים ללא סיבה: ארבעה קטינים נעצרו בחשד לתקיפה בבת ים",
+      "summary": "לפי החשד, חבורת קטינים התנפלה על צעיר בשנות העשרים לחייו בחוף הסלע ותקפה אותו • הצעיר, תושב חולון, פונה לקבלת טיפול רפואי • החקירה נפתחה בעקבות פרסומים ברשתות החברתיות",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21907769",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:58:15.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1mmyelkql",
+      "title": "אין הסכמות מהותיות: צוותי ישר והליכוד נפגשים כבר 4 שעות | אלו המחלוקות",
+      "summary": "נציג הליכוד אמר בכניסה למלון בהרצליה שבמפלגתו \"מקווים שזה לא מראית עין\", אחרי שרה\"מ נועד עם סמוטריץ' ובן גביר לטובת \"תיאום מהלכים\". אחרי ההודעה הארוכה של בנט, שר האוצר עקץ: \"לא צריך 'להפוך כל אבן' - האחים שלכם כבר פה\". הפגישה מתארכת, אבל פשרות בסוגיות המרכזיות עדיין אין",
+      "link": "https://www.ynet.co.il/news/article/h1mmyelkql",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T14:51:59.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1mmyelkql",
@@ -77,6 +140,42 @@
       "pubDate": "2026-11-22T14:48:34.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21907600",
+      "title": "דארלן טקסטיל יוצאת במבצעי נובמבר: עד 60% הנחה וקנייה ללא מע\"מ",
+      "summary": "הרשת מציעה הנחות על מצעים ומוצרי טקסטיל לבית, לצד מבצע בלאק פריידי בין 15 ל־30 בנובמבר ופתיחת סניף חדש במתחם סינמול בחיפה, בהשקעה של כ־250 אלף שקל",
+      "link": "https://www.israelhayom.co.il/business/consumers/article/21907600",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:39:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21907577",
+      "title": "\"דני אבדיה מתאים יותר לדמיאן לילארד מאשר יאניס אנטטוקומפו\"",
+      "summary": "פרשן הטלוויזיה של פורטלנד, למאר הרד, השווה את שיתוף הפעולה בין הישראלי לרכז לבין זה שהיה לאחרון עם הכוכב היווני במילווקי: \"דני עושה את הדברים שיאניס עושה, ועוד\" • על המנהיגות של הפורוורד: \"שם את הקבוצה במקום הראשון\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21907577",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:39:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21907524",
+      "title": "בגלל חשד לגניבת גלידה: בעל הקיוסק הכה לקוח עד שנגרמה לו פגיעה מוחית קשה",
+      "summary": "כתב אישום הוגש נגד שלומי פרקש, בן 36 מאור יהודה, בגין תקיפה אכזרית בשוק התקווה בתל אביב • לפי האישום, הוא הכה את הקורבן באגרופים ובבעיטות במשך דקות ארוכות, גם לאחר ששכב מדמם וללא תגובה • הפצוע עדיין מאושפז באיכילוב, בהכרה ירודה וללא יכולת לתקשר",
+      "link": "https://www.israelhayom.co.il/news/law/article/21907524",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:38:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21907592",
+      "title": "עומסי תנועה כבדים: אוטובוס עלה באש בכביש 1",
+      "summary": "שישה צוותי כיבוי פועלים לכיבוי האש סמוך למחלף חמד, לכיוון ירושלים • לפי כבאות והצלה, לא ידוע על נפגעים באירוע",
+      "link": "https://www.israelhayom.co.il/news/local/article/21907592",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:37:16.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rkyojol1qx",
       "title": "אישום: הזריק חומר הרדמה למטופלת באמצע הלילה - וביצע בה מעשים מגונים",
       "summary": "לפי כתב האישום, איש הצוות מבית חולים העמק בעפולה נכנס לחדר של מטופלת במהלך הלילה, הזריק לה חומר מטשטש, וליטף את רגליה כדי להגיע לסיפוק. היא ניסתה להתנגד - אך בשל השפעת החומר לא הצליחה",
@@ -93,6 +192,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T14:34:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21907514",
+      "title": "עיר בתוך עיר ב-950 מיליון שקל: התוכנית שתשנה את הכניסה לאשדוד",
+      "summary": "מגדלי מגורים, משרדים, מלונאות ומסחר במתחם אחד שיפעל לאורך כל שעות היום: פרויקט \"הרובע\" במטרופול אשדוד מקודם בהשקעה מתוכננת של כ-950 מיליון שקל. האדריכלית רחל פללר, שמובילה את התכנון, מסבירה איך מתכננים עיר קטנה בתוך עיר",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21907514",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:33:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21905467",
+      "title": "פער של 36% בין מספר הרופאים בצפון למרכז | וגם: ההבדל בתוחלת החיים",
+      "summary": "נתוני משרד הבריאות חושפים מציאות עגומה: במרכז 3.2 רופאים לכל 1,000 תושבים לעומת חמישה בתל אביב ו-5.5 בחיפה • כ-66% מתושבי הצפון החליטו שלא לקבל טיפול בשל הסחבת • תוכנית חדשה במסגרת מיזם \"עוגן לצפון\", בשיתוף הג'וינט תבת ומשרד הבריאות, תנסה לתקן במשהו את המצב",
+      "link": "https://www.israelhayom.co.il/health/article/21905467",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T14:32:19.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/request-to-legal-advisor-sanctions-on-mks-calling-terror-supporter",
@@ -156,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T14:19:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-yashar-coalition-talks-three-hours-bennett",
+      "title": "פגישת נציגי 'הליכוד' ו'ישר' נמשכת קרוב לארבע שעות; ללא נציגי בנט",
+      "summary": "צוותי המו\"מ נפגשים בפורום מצומצם יותר מהסבב הקודם • גולן תוקף: \"מי שרוצה אחדות עם נתניהו תוקע סכין בגב בוחריו\" | המשא ומתן נמשך (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/likud-yashar-coalition-talks-three-hours-bennett",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T14:19:38.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/likud-yashar-coalition-talks-three-hours-bennett",
@@ -300,6 +426,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T13:55:24.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391078",
+      "title": "ההצבעה הערבית והמשא ומתן הקואליציוני: הדרישה החדשה של אחמד טיבי",
+      "summary": "אחרי הישג של 19 מנדטים, אחמד טיבי צופה התחזקות נוספת בבחירות חוזרות. סקר חדש מצביע על אפשרות ל־84% הצבעה בחברה הערבית, ומעלה תרחיש שעשוי לשנות את חלוקת הקולות בגוש השינוי",
+      "link": "https://www.maariv.co.il/news/politics/article-1391078",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T13:53:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1391078",
@@ -905,6 +1040,15 @@
       "pubDate": "2026-11-22T12:43:11.000Z"
     },
     {
+      "id": "walla:https://sports.walla.co.il/item/3877175",
+      "title": "\"כאילו אתה משחק בחרמון\". מסעותיו של הישראלי בליגה הקוריאנית",
+      "summary": "מהאובדן של אביו, דרך המשבר בבני סכנין ועד להרפתקה בדרום קוריאה. עבדאללה חליחל יצא לסיבוב עולמי לא שגרתי ומספר על ההבדלים בין הליגות, ההתאקלמות והחלום: \"להגיע לנבחרת ישראל\". מדור \"הליגיונר",
+      "link": "https://sports.walla.co.il/item/3877175",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T12:40:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/teen-assault-toddler-beit-shemesh",
       "title": "מבט למצלמה ובעיטה: נער בן 14 מבית שמש נעצר בחשד שתקף פעוטה בבניין",
       "summary": "נער בן 14 מבית שמש נעצר בחשד שתקף ובעט בפעוטה בתוך חדר מדרגות בבניין מגורים, בעוד חברו מתעד את האירוע במצלמה. במשטרה בודקים אם המעשה האלים בוצע כחלק מ\"אתגר\" ברשת החברתית טיקטוק | החשוד הובל בניידת יחד עם אמו \"לבקש סליחה\" (בארץ)",
@@ -1083,6 +1227,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T12:10:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21905988",
+      "title": "סרטון מזעזע מבית שמש: נער בועט בבת שנתיים כדי \"להעלות לטיקטוק\"",
+      "summary": "לאחר פרסום סרטון נעצר קטין בחשד במעשה • מהעירייה נמסרים: \"מגנים את האירוע, הצוותים פועלים לבירור המקרה\"",
+      "link": "https://www.israelhayom.co.il/news/education/article/21905988",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T12:09:15.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21905988",
@@ -1308,6 +1461,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T11:42:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21905860",
+      "title": "טלטלה בעולם התרבות: המנהל האמנותי של המוסד האיקוני פורש",
+      "summary": "גלעד קמחי, המנהל האמנותי של התיאטרון הקאמרי, הודיע כי יסיים את תפקידו בתום שמונה שנות כהונה • בתקופתו הוביל שינויים ברפרטואר, קידם יוצרים צעירים וביים הפקות בולטות",
+      "link": "https://www.israelhayom.co.il/culture/stage/article/21905860",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T11:41:41.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/stage/article/21905860",
@@ -1573,7 +1735,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21905548",
       "title": "בשיא היום: קו הרכבת הקלה בירושלים נחסם בשל מחאה בגין מעצר עריק",
-      "summary": "ציר בר לב נחסם בעקבות הפגנה של חרדים קיצוניים • המשטרה פועלת במקום לפזר את המוחים • שינויים בהסדרי התנועה של הרכבת",
+      "summary": "ציר בר לב נחסם בעקבות הפגנה של חרדים קיצוניים • המשטרה: חפצים הושלכו לעבר השוטרים, חיילת נלכדה בתוך ההמון",
       "link": "https://www.israelhayom.co.il/news/local/article/21905548",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -1780,7 +1942,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21905267",
       "title": "מותג הסקי הנחשק מאירופה מגיע לישראל - וזה לא יהיה זול",
-      "summary": "בוצת סער משקיעה כשני מיליון שקל בהשקת GOLDBERGH, מותג אופנת הסקי והלייף סטייל ההולנדי שנלבש בין היתר על ידי מלאכיות ויקטוריה'ס סיקרט ומשפיעניות בינלאומיות • הפעילות תכלול אתר אונליין ושואו רום ייעודי בהרצליה פיתוח",
+      "summary": "קבוצת סער משקיעה כשני מיליון שקל בהשקת GOLDBERGH, מותג אופנת הסקי והלייף סטייל ההולנדי שנלבש בין היתר על ידי מלאכיות ויקטוריה'ס סיקרט ומשפיעניות בינלאומיות • הפעילות תכלול אתר אונליין ושואו רום ייעודי בהרצליה פיתוח",
       "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21905267",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -26760,204 +26922,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T15:16:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21873979",
-      "title": "ברגע האחרון: קייט מידלטון שינתה את התוכניות",
-      "summary": "הזוג המלכותי הגיע לפגישה עם 15 המועמדים לפרס ארת'שוט על קו המים של מומבאי • קייט שינתה את תוכניותיה ברגע האחרון כדי להצטרף • הערב, בטקס המרכזי, יוכרזו חמשת הזוכים",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21873979",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:15:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1389523",
-      "title": "במעורבות יחידת \"טיגריס\": סוכל ניסיון החיסול של בכיר ישראלי ביוון",
-      "summary": "שירותי הביטחון ביוון ובצפון מקדוניה סיכלו מזימת התנקשות בישראלי ממוצא יווני. לפי החשד, גורמים הקשורים למודיעין האיראני גייסו שישה עבריינים לביצוע החיסול. חמישה נעצרו, והשישי עדיין מבוקש",
-      "link": "https://www.maariv.co.il/news/world/article-1389523",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T15:15:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1389523",
-      "title": "חשד למעורבות המודיעין האיראני: סוכלה מזימת חיסול של בכיר ישראלי ביוון",
-      "summary": "שירותי הביטחון ביוון ובצפון מקדוניה סיכלו מזימת התנקשות בישראלי ממוצא יווני. לפי החשד, גורמים הקשורים למודיעין האיראני גייסו שישה עבריינים לביצוע החיסול. חמישה נעצרו, והשישי עדיין מבוקש",
-      "link": "https://www.maariv.co.il/news/world/article-1389523",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T15:15:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389522",
-      "title": "\"מכה קלה בכנף הטרקטור\": התגובה לסנקציות הבריטיות",
-      "summary": "בריטניה הטילה סנקציות על שמונה חברות בנייה ישראליות ביהודה ושומרון. ראש מועצת גוש עציון ירון רוזנטל העריך בשיחה עם ענת דוידוב ב-103fm כי השפעתן תהיה מוגבלת, וקרא לפצות חברות שייפגעו",
-      "link": "https://www.maariv.co.il/news/politics/article-1389522",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T15:14:46.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/missing-bnei-brak-avreich-search-petah-tikva",
-      "title": "החיפושים אחר אב לעשרה מבני ברק מתמקדים באזור פתח תקווה",
-      "summary": "אברהם ישעיהו אדלר, אב לעשרה ילדים, יצא מביתו אמש בשעה 20:00 • מתנדבי הצלה וזק\"א סורקים את פתח תקווה | המשטרה מבקשת את עזרת הציבור (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/missing-bnei-brak-avreich-search-petah-tikva",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T15:13:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-dirty-bomb-threat-washington-warning",
-      "title": "טראמפ נשאל על איום הפצצה המלוכלכת בוושינגטון - כך הוא הגיב",
-      "summary": "הנשיא האמריקני אישר כי הממשל בוחן דיווח מודיעיני על תוכנית איראנית אפשרית | הנשיא נשאל על הדיווח הדרמטי הלילה ב-CNN על ניסיון אפשרי של איראן לתקוף בוושינגטון | האיום מבירת ארה\"ב (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-iran-dirty-bomb-threat-washington-warning",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T15:12:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21874067",
-      "title": "איפה מרוויחים בממוצע 35 אלף שקלים? זה השכר הממוצע במגזר הציבורי",
-      "summary": "הדוח המלא של השכר במגזר הציבורי לשנת 2025 פורסם • גידול של 3.7% במספר המועסקים בשירות המדינה • \"איחוד המידע מאפשר לזהות מגמות ולייעל משאבים\"",
-      "link": "https://www.israelhayom.co.il/business/article/21874067",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:12:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/article/21873794",
-      "title": "\"כדי ליצור שינוי - מישהי צריכה להרים את הדגל\"",
-      "summary": "ערב פתיחת ועידת \"ישראל היום\" נפגשו פרופ' מרים אדלסון ועופרה שטראוס עם סטודנטיות יהודיות וישראליות הלומדות באוניברסיטאות ברחבי ארה\"ב • במוקד השיחה: האנטישמיות בקמפוסים, השאיפות האישיות והמחויבות לקהילה היהודית",
-      "link": "https://www.israelhayom.co.il/news/article/21873794",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:07:30.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961825",
-      "title": "\"דבריי פגעו בציבור\": מרים פרץ על סערת הישיבה עם הערבים",
-      "summary": "באזכרת בנה מרים פרץ קוראת לאחדות ומתייחסת לראיון החריג, שבו תקפה אפשרות להקמת ממשלה עם המפלגות הערביות. היא מבהירה: \"דיברתי מתוך סערת רגשות\"",
-      "link": "https://www.walla.co.il/news/politics/383961825",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T15:07:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21873563",
-      "title": "סטף קרי כבר מרגיש את הסוף: \"אני לא מפחד להגיד את זה\"",
-      "summary": "בגיל 38, אחרי פציעות שהשביתו אותו לתקופות ממושכות, כוכב גולדן סטייט נאלץ לשנות את שגרת האימונים ולהשלים עם מגבלות הגוף • כעת הוא מודה שהחוזה הנוכחי עשוי להיות האחרון שלו, אך לא פוסל המשך קריירה: \"אולי עוד אפתיע את עצמי\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21873563",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:05:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tonij9",
-      "title": "דאגה בעדה התימנית | הגאון רבי יפת טיירי אושפז בבית החולים",
-      "summary": "העתירו בתפילות: ראש ישיבת 'נחלת יהודה', הגאון רבי יפת טיירי, מזקני רבני עדת תימן, אושפז בבית החולים לאחר שחלה בדלקת ריאות • בני משפחתו ותלמידיו קוראים לציבור להרבות בתחנונים לרפואתו השלמה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tonij9",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T15:05:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21873051",
-      "title": "4.5 מיליארד שקל: פרויקט ענק למגזר החרדי בירושלים",
-      "summary": "בינגו נדל\"ן מקימה בשכונת מקור ברוך את \"רש\"י ג'רוזלם\", מתחם בן שמונה בניינים ו-416 דירות יוקרה • מחיר למ\"ר ינוע בין 85 ל-95 אלף שקל, והאכלוס צפוי בתוך שש שנים",
-      "link": "https://www.israelhayom.co.il/business/article/21873051",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:05:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/police/search-continues-avraham-yeshayahu-adler-bnei-brak-petah-tikva",
-      "title": "ערר לפרקליטות: להעמיד לדין 4 פקחים החשודים בתקיפת נער חרדי",
-      "summary": "ארבעה פקחי אוטובוס בירושלים חשודים בתקיפה אלימה של נער בן 17 • הפרקליטות סגרה את התיק למרות תיעוד ועדויות | ארגון חוננו מגיש ערר ודורש הגשת כתב אישום (משטרה)",
-      "link": "https://www.kikar.co.il/police/search-continues-avraham-yeshayahu-adler-bnei-brak-petah-tikva",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T15:05:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21873611",
-      "title": "פפראצי: התיעודים של אברהם אקלום וספיר בורגיל - מחוץ לבית המשפט",
-      "summary": "ספיר בורגיל ואברהם אקלום הגיעו היום לבית המשפט לדיון בנושא הגירושים, ויצאו משם כשהם עדיין בסטטוס נשואים. אלה התיעודים משם",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21873611",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:04:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21873929",
-      "title": "8 חודשים אחרי הגירושים: כוכב \"אהבה חדשה\" התארס שוב",
-      "summary": "אליאל אדרי, שזכור מתוכנית הריאליטי, ממשיך הלאה בקצב מסחרר. חודשים ספורים בלבד אחרי שפירק את הנישואים הקודמים שלו (שהחזיקו שלושה חודשים בלבד), הוא כרע ברך באומן",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21873929",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:04:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21873611",
-      "title": "יום מתוח בבית המשפט: התיעודים של אברהם וספיר",
-      "summary": "ספיר בורגיל ואברהם אקלום הגיעו היום לבית המשפט לדיון בנושא הגירושים, ויצאו משם כשהם עדיין בסטטוס נשואים. אלה התיעודים משם",
-      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21873611",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:04:54.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/celebs/local-news/383961808",
-      "title": "\"שום אומנות לא מצדיקה קליפ כזה\": הסערה סביב נועה קירל ונסרין",
-      "summary": "הקליפ החדש של שתי הזמרות עורר סערה ברשת בעקבות התכנים האלימים המוצגים בו, למרות אזהרת הצפייה שהופיעה בתחילתו. כעת, גם ארגון ויצו יוצא נגד השתיים בביקורת חריפה: \"שום אומנות לא מצדיקה קליפ כזה\"",
-      "link": "https://www.walla.co.il/celebs/local-news/383961808",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T15:04:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21873643",
-      "title": "אחרי יותר מעשור - בית הדין לצדק יכריע בתיק \"רצח עם\" ומה ההשלכות האפשריות על ישראל?",
-      "summary": "בית הדין הבינלאומי לצדק צפוי לפרסם את הכרעתו בתביעה נגד מיאנמר, המואשמת ברצח עם נגד בני הרוהינגה • זו תהיה ההכרעה המהותית הראשונה של בית הדין בעבירת רצח עם זה יותר מעשור, ועורכי דין וחוקרים יעקבו מקרוב אחר הנימוקים - שעשויים להשליך גם על התיק שהגישה דרום אפריקה נגד ישראל • במוקד: איך מוכיחים כוונה להשמיד קבוצה, כולה או חלקה",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21873643",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:03:34.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj5l0ik0fe",
-      "title": "סוכל \"פיגוע איראני\" ביוון, 5 נעצרו: \"היעד - איש עסקים ישראלי בכיר\"",
-      "summary": "צפון מקדוניה הודיעה שסיכלה עם יוון \"פיגוע טרור\" להתנקשות באדם מסוים ביוון, באתונה דווח: היעד - בכיר ישראלי. החשודים שנעצרו \"נסעו לאיראן ונפגשו עם מדריך\". טראמפ נשאל במקביל על הדיווח הדרמטי ב-CNN לפיו המודיעין זיהה היערכות איראנית חריגה לאפשרות של שימוש ב\"פצצה מלוכלכת\" נגד וושינגטון הבירה - ולא שלל על הסף: \"מקווה שאין איום. אנחנו מתייחסים לזה ברצינות רבה\"",
-      "link": "https://www.ynet.co.il/news/article/rj5l0ik0fe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-17T15:03:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21872669",
-      "title": "אחרי ניפוץ השמשות: סניף \"פסטה בסטה\" משנה כיוון",
-      "summary": "חודשים ספורים לאחר שאלמונים ניפצו את שמשות הסניף בהרצליה, הודיעה רשת פסטה בסטה כי המקום קיבל תעודת כשרות ויפסיק לפעול בשבתות • ברשת מדגישים שאין קשר בין ההחלטה לאירוע הוונדליזם • לרגל השינוי מוצעות הטבות מיוחדות לתושבי העיר",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21872669",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:02:59.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/92038",
-      "title": "סוכל פיגוע איראני ביוון: איש עסקים ישראלי בכיר סומן כיעד להתנקשות",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/92038",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T15:01:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21873181",
-      "title": "סמל של מכבי חיפה: רק ניר קלינגר יכול להציל את המועדון",
-      "summary": "הניסיונות עם זרים נכשלים פעם אחר פעם, ואיזה מאמן ישראלי יצליח לעמוד בלחץ הנוכחי? • אין מתאים יותר מקלינגר להיות המושיע של הירוקים, לשני הצדדים יש רק מה להרוויח מחיבור כזה",
-      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21873181",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T15:01:02.000Z"
     }
   ]
 }
