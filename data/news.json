@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:16:04.361Z",
+  "updatedAt": "2026-11-22T22:31:02.501Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14966619",
+      "title": "תחתית החבית: בפוליטיקה הישראלית אין קווים אדומים",
+      "summary": "פרשת שיקלי ושפירא פתחה לנו צוהר לתופעה חמורה, לצד השימוש בשכול: התופעה שבה נציגי ציבור מסתתרים מאחורי גבו של העם כדי לחמוק מאחריות למעשים בזויים שעשו",
+      "link": "https://www.ynet.co.il/news/article/yokra14966619",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T22:26:10.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14967022",
+      "title": "נרצח עם הילקוט על הגב",
+      "summary": "המאבק בפשיעה המאורגנת יימשך שנים. אבל הגנה על ילדים אפשר להתחיל מחר בבוקר, בלי לחכות לפתרון הכולל",
+      "link": "https://www.ynet.co.il/news/article/yokra14967022",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T22:20:39.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rybin0ejxl",
       "title": "מסע רצח מוזר בארה\"ב: חנק אישה זרה בשמורת טבע - ואז הרג את חברו בחץ וקשת",
@@ -26634,15 +26652,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-17T22:34:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961878",
-      "title": "חשש מהתלקחות ביו\"ש: צה\"ל מתגבר כוחות לאחר הפיגוע ביריחו",
-      "summary": "אלוף פיקוד המרכז אבי בלוט הנחה לתגבר את מוקדי החיכוך, מחשש לפעולות נקם נגד פלסטינים. בהמשך הערב התפרעו מתנחלים באזור, ובמקביל דיווח ישראלי כי רכב פלסטיני פגע בו ונמלט מהמקום",
-      "link": "https://www.walla.co.il/news/military/383961878",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T22:29:28.000Z"
     }
   ]
 }
