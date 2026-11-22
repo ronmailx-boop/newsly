@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:31:11.725Z",
+  "updatedAt": "2026-11-22T10:46:04.270Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,105 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/parking-garage-flooding-luxury-cars",
+      "title": "הסיוט של כל נהג: מכוניות יוקרה שקעו במים בשיטפון חריג",
+      "summary": "תיעוד שהגיע מצפון הוליווד מציג מראה חריג במיוחד, לאחר שמי השיטפונות חדרו למקום שבו איש לא ציפה לראות אותם (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/parking-garage-flooding-luxury-cars",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T10:43:40.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/arab-news/hamas-turkey-intelligence-meeting",
+      "title": "בכירי חמאס התכנסו באיסטנבול: מי האיש החזק של ארדואן שנפגש איתם מאחורי הדלתות הסגורות?",
+      "summary": "בזמן שהדיונים על עתיד רצועת עזה נמשכים, חמישה מבכירי חמאס הגיעו לאיסטנבול ונפגשו עם ראש המודיעין הטורקי, איברהים קאלין • בין המשתתפים: ח'ליל אל־חיה, ח'אלד משעל וזאהר ג'בארין • על השולחן: הפסקת האש בעזה, יהודה ושומרון, ירושלים והיחסים בין הפלגים הפלסטיניים • הפגישה ממחישה את הקשר הישיר בין הנהגת ארגון הטרור לטורקיה, החברה בנאט\"ו (העולם הערבי)",
+      "link": "https://www.kikar.co.il/arab-news/hamas-turkey-intelligence-meeting",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T10:38:45.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/towdax",
+      "title": "הקרניים ננעלו: מאבק חריג התרחש לעיני תושבי השכונה",
+      "summary": "שני צבאים נצפו כשהם נלחמים בעוצמה בלב שכונת מגורים בוויסקונסין, בתיעוד שהופץ ברשת (מעניין)",
+      "link": "https://www.kikar.co.il/world-news/towdax",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T10:34:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/towe1b",
+      "title": "10 דקות, מאה דולר: מסעדה עם נוף ייחודי עוררה סערה",
+      "summary": "מסעדת עוף בלאס וגאס דרשה תשלום גבוה ממבקרים שביקשו לצפות במרוץ הפורמולה 1 מחלונותיה (מעניין)",
+      "link": "https://www.kikar.co.il/world-news/towe1b",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T10:33:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390985",
+      "title": "שוב דילגתם על ארוחת הבוקר? המחיר עלול להיות כבד",
+      "summary": "מחקר שכלל יותר מ-31 אלף מבוגרים מצא קשר בין שעת הארוחה הראשונה ביום לבין הסיכון לתמותה. הממצאים הצביעו על פער של כמעט שנתיים וחצי בתוחלת החיים המוערכת, אך יש הסתייגות חשובה",
+      "link": "https://www.maariv.co.il/news/viral/article-1390985",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T10:32:53.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1390984",
+      "title": "יממה לאחר רצח הילד בשועפאט: המשטרה סיכלה ניסיון להסלמה",
+      "summary": "יממה לאחר רצח הילד בן ה-10 בשועפאט, פשטו מסתערבים על מתחם בענאתא ותפסו 28 בקבוקי תבערה ותחמושת. ארבעה חשודים נעצרו, והמשטרה חוששת מנקמת דם",
+      "link": "https://www.maariv.co.il/news/law/article-1390984",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T10:32:51.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rj00qmxlj7g",
+      "title": "שנה וחצי מאסר לנהג שגרם למות הזוג בדרך לחופשה, והותיר 3 יתומות",
+      "summary": "יעקב מורסיאנו, נהג חדש שהיה בן 19 בזמן התאונה, התנגש במהירות של 135 קמ\"ש ברכבם של יולי ונתי אוחיון ליד צומת לטרון. בני הזוג היו בדרכם לשדה התעופה כדי לחגוג את יום הנישואים שלהם בקורפו. השופט קבע שהרשלנות שלו ברף הבינוני-גבוה. בפרקליטות שוקלים לערער",
+      "link": "https://www.ynet.co.il/news/article/rj00qmxlj7g",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T10:30:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1390990",
+      "title": "המומחה מזהיר: מלחמה עם איראן היא לא התרחיש הגרוע ביותר",
+      "summary": "פרופ' עוזי רבי הזהיר בריאיון ל-103FM כי הסכם עם איראן עלול להיות מסוכן יותר ממלחמה. לדבריו, טהרן מנצלת את היחלשות טראמפ בעקבות בחירות האמצע כדי להסלים את פעולותיה, וישראל עלולה להישאר לבדה מול האיום",
+      "link": "https://www.maariv.co.il/news/military/article-1390990",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T10:29:51.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/travel/news-travel/383962489",
+      "title": "טעתה בניווט מערבות רוסיה, נחתה בטעות בישראל ועוררה התרגשות",
+      "summary": "ציפור השיר כחול הזנב, שמשקלה 12 גרם בלבד ומקננת ביערות הטאיגה בצפון רוסיה, תועדה ליד מושב אשלים; צפרים וצלמים מכל הארץ הגיעו לצפות באורחת הנדירה",
+      "link": "https://www.walla.co.il/travel/news-travel/383962489",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T10:27:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21874830",
+      "title": "ברגר קינג משיקה וופר חדש - אבל אין בו בכלל בשר",
+      "summary": "לחמניית שוקולד, קציצת בראוני, נוטלה ותוספות מתוקות שמתחפשות לירקות • ברגר קינג הופכת את ההמבורגר המפורסם שלה לקינוח יוצא דופן, שנולד בכלל כבדיחה לפני שמונה שנים",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21874830",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T10:26:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21904866",
+      "title": "טהרן מתגרה בוושינגטון: \"ארה\"ב היא מדינה מובסת\"",
+      "summary": "מזכיר המועצה לביטחון לאומי באיראן, מוחסן רזאאי לעג לממשל טראמפ ואמר: \"עולם השתנה ולא ניתן להחזיר את הסדר הנוכחי אל העבר\" • עיתון הלבנוני \"אל-אח'באר\", המקורב לחיזבאללה, דיווח בסוף השבוע כי האמריקנים העבירו מסר בדיונים עם הצד הלבנוני כי ההחלטה לפתוח במלחמה נגד איראן וארגון הטרור התקבלה - ומדובר רק בשאלה של זמן",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21904866",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T10:25:22.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390981",
       "title": "איל ברקוביץ' תוקף את השר עמיחי שיקלי: \"לא הפעם הראשונה שבה הוא נופל בלשונו\"",
       "summary": "\"מה אתה הולך על אימא שכולה? לך לאיזנקוט\": איל ברקוביץ' תוקף ב-103FM את השר עמיחי שיקלי על ההודעה ששלח לח\"כ שירה שפירא, ומעמת את אראל סג\"ל עם הפגישה של נתניהו עם יו\"ר רע\"ם מנסור עבאס",
@@ -39,6 +138,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T10:24:57.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877184",
+      "title": "מאמן תחתית, לשם שינוי? אבוקסיס מועמד לנבחרת ישראל",
+      "summary": "אחרי ברק בכר, גם מאמן בני סכנין על הכוונת של ראשי ההתאחדות: \"אחד שיודע לסגור פערים בזכות טקטיקה ועבודה על הדשא\". הערכה: ההכרעה על זהות המאמן תתקבל בתוך חודשיים",
+      "link": "https://sports.walla.co.il/item/3877184",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T10:23:00.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390982",
@@ -50,6 +158,24 @@
       "pubDate": "2026-11-22T10:22:53.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21905100",
+      "title": "לאנס סטרול הגיע לתחתית: \"אין לי מה לקחת\"",
+      "summary": "בן זוגה של יעל שלביה סיים במקום ה-17 במרוץ הפורמולה 1 בלאס וגאס • הוא נשמע מיואש מהמאבקים בתחתית: \"הרגיש כאילו ניהלנו מרוץ משלנו\" • ולא מתנחם בכך שנמנע מפרישה: \"אלו אותן הבעיות\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21905100",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T10:22:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21904869",
+      "title": "רוסלנה רודינה בדמעות: \"לא מאמינה\"",
+      "summary": "בת זוגו לשעבר של אייל גולן פרסמה סדרת סטוריז לרגל יום הולדתו השניים עשר של בנה יאן. \"אני רוצה להודות לשם שנתן לי את הזכות\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21904869",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T10:21:05.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/b1gjjbgymg",
       "title": "מפגני כוח חסרי בסיס או סיכוי",
       "summary": "לנסות ולכפות קונסטרוקציות פוליטיות ש״השותפים״ הפוליטיים שלך יכנעו להם מפני הפחד של בחירות נוספות זו לא אסטרטגיה פוליטית - זו סתם ילדותיות",
@@ -57,6 +183,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-22T10:18:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21904779",
+      "title": "6 פתרונות גאוניים בבתים באירופה - שחייבים לאמץ בישראל",
+      "summary": "מעצב פנים שצבר מאות אלפי עוקבים ביוטיוב חושף את הפטנטים החכמים שכמעט כל דירה אירופית רגילה כבר מכירה • מהמטבח ועד המקלחת, אלה השדרוגים הקטנים שחוסכים כאב ראש יומיומי, ואת הראשון תרצו להזמין מהנגר כבר מחר",
+      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21904779",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T10:15:59.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21904800",
@@ -78,7 +213,7 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21903599",
-      "title": "23,200 אנשים נכנסו לישראל כתיירים ולא עזבו | מהן המדינות המובילות?",
+      "title": "23,200 אנשים נכנסו לישראל כתיירים ולא עזבו, מהן המדינות המובילות?",
       "summary": "דו\"ח רשות האוכלוסין וההגירה חושף: 23,200 זרים שנכנסו לישראל כתיירים נותרו בארץ ללא רישיון בתוקף, ורובם מועסקים לפי ההערכה בניגוד לחוק • רוסיה ואוקראינה אחראיות יחד לכמעט שליש מהמקרים • הרשימה המלאה וגם - הקושי של המדינה להיאבק בתופעה",
       "link": "https://www.israelhayom.co.il/news/local/article/21903599",
       "source": "ישראל היום",
@@ -102,6 +237,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-22T10:05:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1390976",
+      "title": "באיראן קוראים למתקפת מנע נגד ישראל: אלו הערים שבסכנה",
+      "summary": "העיתון האיראני \"כיהאן\" קורא למתקפת מנע נגד ארה\"ב ובעלות בריתה ומסמן תשתיות מים בישראל ובמדינות ערב כיעדים אפשריים. הקריאה מגיעה דווקא בזמן שטהרן ממשיכה להעביר מסרים דיפלומטיים",
+      "link": "https://www.maariv.co.il/news/world/article-1390976",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T10:05:11.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390976",
@@ -795,6 +939,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T08:27:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
+      "title": "האיש המשוגע בעולם? שחיין חצה את מצר הורמוז תחת אש חיה",
+      "summary": "חצי שעה אחרי שנכנס למים, פיצוצים עזים הרעידו את הים במרחק נגיעה ממנו | למרות הסכנה המיידית, הבריטי בן ה-56 התעקש להמשיך – ויש לו סיבה מפתיעה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T08:23:26.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
@@ -2471,6 +2624,15 @@
       "pubDate": "2026-11-21T21:41:20.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21868424",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 22.11.2026",
+      "summary": "אתם מסתייגים מחיזורים למרות שיש סביבכם יותר ממועמד אחד/ת שמתאימים לכם. זאת למרות שבתוך תוככם אין ספק שאתם זקוקים יותר מכל לאישורים חיצוניים ולאהבה ללא תנאי",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21868424",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-21T21:30:19.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21868218",
       "title": "מזל מאזניים, תחזית הורוסקופ יומית 22.11.2026",
       "summary": "ויכוח מעצבן שמתפתח במהלך היום מעכיר את האווירה. אתם יכולים להרגיע את המצב או לשלהב את ה-'מדורה'",
@@ -2511,15 +2673,6 @@
       "title": "מזל דלי, תחזית הורוסקופ יומית 22.11.2026",
       "summary": "יום מוזר. אתם לא יודעים אם לצחוק או לבכות",
       "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21868423",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T21:30:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21868424",
-      "title": "מזל דגים, תחזית הורוסקופ יומית 22.11.2026",
-      "summary": "אתם מסתייגים מחיזורים למרות שיש סביבכם יותר ממועמד אחד/ת שמתאימים לכם. זאת למרות שבתוך תוככם אין ספק שאתם זקוקים יותר מכל לאישורים חיצוניים ולאהבה ללא תנאי",
-      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21868424",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T21:30:19.000Z"
@@ -26814,87 +26967,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-17T10:46:18.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961783",
-      "title": "\"טעות סופר\": כך מסביר הצל את הממצאים",
-      "summary": "בעקבות תחקיר התאגיד על העמותה שלו, הצל מגיב לראשונה לכתבה, דוחה את הטענות על התנהלותו ומאיים בהליכים משפטיים: \"לוקח את כולם איתי ביחד\"",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961783",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T10:43:41.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961783",
-      "title": "צל של אמת: מ\"טעות סופר\" עד \"אמצא חייל לו עזרתי\" - גרסת הראפר",
-      "summary": "בעקבות תחקיר התאגיד על העמותה שלו, הצל מגיב לראשונה לכתבה, דוחה את הטענות על התנהלותו ומאיים בהליכים משפטיים: \"לוקח את כולם איתי ביחד\"",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961783",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T10:43:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21870550",
-      "title": "\"מחלת המלכים\" חוזרת: המחלה הכואבת שמתפשטת בעולם והסימנים שצריך להכיר",
-      "summary": "בעבר היא נחשבה למחלה של מלכים ועשירים, שנהגו להתענג על ארוחות מפוארות ואלכוהול • כיום היא פוגעת במיליוני בני אדם, גם בגילאים צעירים יותר • המחלה עלולה לגרום להתקפי כאב בלתי נסבלים, ולעיתים אפילו מגע של סדין הופך לבלתי נסבל • מה גורם לה להתפרץ ואיך אפשר להפחית את הסיכון?",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21870550",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T10:43:21.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/laojun-mountain-autumn-winter-phenomenon",
-      "title": "הר המילקי: המקום הנסתר שבו שתי עונות מתנגשות",
-      "summary": "תיעוד מדהים מהר לאוג'ון בסין הציג מחזה נדיר: צד אחד שטוף בצבעי שלכת חמים, והשני מוצהר כולו בכפור לבן (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/laojun-mountain-autumn-winter-phenomenon",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-17T10:41:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21870534",
-      "title": "קוונטין טרנטינו רק במקום ה-2: \"סצנות הפתיחה הטובות בכל הזמנים\"",
-      "summary": "ערוץ היוטיוב WatchMojo דירג את הפתיחות האיקוניות בתולדות המסך הגדול • ממותחן הריגול של בונד ועד השוד הכאוטי של הג'וקר • איזה סרט מופת הצליח להדיח את טרנטינו מהפסגה?",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21870534",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T10:39:44.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21870704",
-      "title": "ה-GTA 6 יוצא, וזוגות חותמים על חוזים: \"איסור הפרעה במשימות\"",
-      "summary": "הציפייה לשובו של המשחק הגדול תסתיים סוף סוף ביום חמישי הקרוב, אך בינתיים, זוגות ברחבי העולם כבר מכינים את עצמם למציאות החדשה • יוטיובר ואשתו מסינגפור חשפו חוזה המעניק לו עשרה ימי משחק \"ללא הפרעות\" • במקביל, גיימר אחר שיתף חוזה הפוך לחלוטין שקיבל מבת זוגו לצד קוד המשחק: \"לשחק באחריות\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21870704",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T10:38:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21870826",
-      "title": "הבלאק פריידי כבר כאן: המבצעים הכי שווים שכדאי להכיר",
-      "summary": "עוד לפני התאריך הרשמי, המבצעים כבר בעיצומם וההנחות מגיעות לעשרות אחוזים • ריכזנו את ההטבות שכדאי להכיר לפני שהן מסתיימות",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21870826",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T10:36:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389398",
-      "title": "בן כספית שלף הקלטות עבר - וינון מגל הודה: \"טעיתי\"",
-      "summary": "בן כספית השמיע הקלטות עבר שבהן תקף ינון מגל את סמוטריץ' על ההתנגדות לשיתוף פעולה עם מנסור עבאס. מגל הודה: \"טעיתי\", ובהמשך הציע לפרוש מהתקשורת אם נתניהו ינהל מו\"מ עם רע\"ם",
-      "link": "https://www.maariv.co.il/news/politics/article-1389398",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T10:36:26.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1389396",
-      "title": "שגריר ישראל לשעבר מזהיר מעימות עם איראן: \"בסוף זה יגיע לפיצוץ בצורה זו או אחרת\"",
-      "summary": "שגריר ישראל לשעבר מייקל אורן מזהיר מהסלמה מול איראן, שלדבריו מנסה למשוך זמן עד להתחזקות הדמוקרטים בארה\"ב. במקביל, הוא טוען כי המשך כהונת נתניהו עלול לסכל את שיקום היחסים עם המפלגה הדמוקרטית",
-      "link": "https://www.maariv.co.il/news/military/article-1389396",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T10:32:05.000Z"
     }
   ]
 }
