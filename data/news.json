@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:31:09.184Z",
+  "updatedAt": "2026-11-22T08:46:00.839Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkr6qmxj7x",
+      "title": "צה\"ל גינה אחרי שהאש כבתה, המשטרה לא עצרה אף אחד: \"ישראל תשלם בביטחון ובכיס\"",
+      "summary": "\"צה\"ל מגנה בתוקף אירועים מסוג זה\", אמרו בצבא שאמון על החוק והסדר ביהודה ושומרון. המשטרה הבטיחה לגבות עדויות. בזמן עוד ליל התפרעויות, בקונגרס בארה\"ב מבטיחים \"שינוי דרמטי\" בגדה. העדויות מהשטח: \"כל הפעולה נמשכה בערך 10 דקות. זו לא הפעם הראשונה\". בן גביר: \"ממהרים לקבוע שזה טרור יהודי\"",
+      "link": "https://www.ynet.co.il/news/article/rkr6qmxj7x",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-22T08:40:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390933",
+      "title": "אמזון מזהירה את הלקוחות - ממדאני משיב אש",
+      "summary": "חברת הענק הציגה ללקוחות בניו יורק אזהרה על התייקרות אפשרית של ההזמנות בעקבות חוק שמקדם ראש העיר. ממדאני הגיב במתקפה חריפה על ג'ף בזוס, והעימות סביב זכויות השליחים עלה מדרגה",
+      "link": "https://www.maariv.co.il/news/viral/article-1390933",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T08:37:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21903836",
+      "title": "שריקות בוז לנציגת ישראל במיס יוניברס: כך הגיבה",
+      "summary": "דניאל יבלונקה עלתה למסלול בתלבושת מוזהבת עם מסר בשלוש שפות • אלא שברגע אחד התגובות באולם השתנו • והיא המשיכה לצעוד",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21903836",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T08:28:33.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1390929",
       "title": "עיוורון צבעים או התעלמות מהמציאות? הטאבו הפוליטי שקורע את צרפת מבפנים",
       "summary": "חוק צרפתי מ-1978 אוסר איסוף נתונים על גזע, מוצא אתני ודת, ומקשה לברר את הרקע של העצורים במהומות האלימות באוקטובר. ברקע, חילופי ההאשמות בין הפוליטיקאים מתלהטים לקראת הבחירות לנשיאות ב-2027",
@@ -42,12 +69,57 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
+      "title": "האיש המשוגע בעולם? שחיין חצה את מצרי הורמוז תחת אש חיה",
+      "summary": "חצי שעה אחרי שנכנס למים, פיצוצים עזים הרעידו את הים במרחק נגיעה ממנו | למרות הסכנה המיידית, הבריטי בן ה-56 התעקש להמשיך – ויש לו סיבה מפתיעה (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-22T08:23:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
       "title": "תחת אש המלטים וטילי השיוט: שחיין עולמי חצה את מצרי הורמוז",
       "summary": "במשך שלושה ימים הוא שהה במים באזור שהפך לאחד ממוקדי המתיחות המסוכנים בעולם | מאחורי המשחה החריג עומדת מטרה יוצאת דופן (חדשות בעולם)",
       "link": "https://www.kikar.co.il/world-news/strait-of-hormuz-swimmer-environmental-awareness",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T08:23:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21903793",
+      "title": "צבוע חדר לחצר במודיעין וטרף כלב קטן: \"זה קרה מול העיניים שלנו\"",
+      "summary": "בעלת הכלב שיתפה בקבוצת תושבים: \"הצבוע היה עצום ולא פחד מאיתנו ומהצעקות, הוא עבר את הגדר מהפרצה עם צ'ארלי\" • תושבת שהגיבה לפוסט הזהירה: \"הצבוע אכל אותו כולו והותיר רק רצועה, ילדים קטנים ותינוקות בסכנת חיים\" • העירייה תקפה את \"אוזלת היד\" של רט\"ג, עדכנה כי פקחים יגיעו בתחילת השבוע ללכוד את הצבוע ופרסמה הנחיות זהירות לתושבים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21903793",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T08:20:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21903611",
+      "title": "הקאמבק של אימאן חליף בסכנה: \"לא יכריחו אותה לעבור בדיקת מין\"",
+      "summary": "יותר משנתיים אחרי הזהב האולימפי, המתאגרפת האלג'יראית אמורה לחזור בחודש הבא לזירה, הפעם כמקצוענית • הבעיה: היריבה ההולנדית ביטלה את השתתפותה בקרב: \"זה לא הוגן\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21903611",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T08:20:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21903763",
+      "title": "שיקלי הודה שהוא השר ששלח את הפוסט לשירה שפירא - וסירב להתנצל",
+      "summary": "לאחר שח\"כ שירה שפירא חשפה כי שר בממשלה שלח לה בפרטי פוסט חריף המשווה בינה לבין בנה שנפל, אישר השר עמיחי שיקלי כי הוא עומד מאחורי ההודעה • בטלגרם הסביר: \"ראיתי ציוץ חריף מדי לטעמי, אבל חושב שכדאי להבין שיש זעזוע עמוק מהחלטתה לתמוך בקואליציה כזו\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21903763",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T08:19:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21903761",
+      "title": "אמיתי או פייק: הג'ינס של ליוויס שקיבל את הלוגו של סן לורן",
+      "summary": "התמונות נראות מבטיחות, השמות כבר מופיעים על התוויות, אבל אף אחד מהמותגים עדיין לא אישר דבר • אז האם בקרוב נוכל לקנות ג'ינס של ליוויס עם חותמת של סן לורן?",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21903761",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-22T08:18:57.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1390925",
@@ -75,6 +147,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T08:11:19.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962470",
+      "title": "אחרי בהלת הכלבת: צבוע מסתובב חופשי במרכז, לאחר שטרף כלב",
+      "summary": "הצבוע שטרף את הכלב צ’ארלי לעיני בעליו עדיין מסתובב חופשי במודיעין-מכבים-רעות. התושבים חוששים מהמפגש הבא, ובעירייה מפנים אצבע מאשימה לרשות הטבע והגנים: “רק הם יכולים ללכוד אותו, והם לא עושים את זה״",
+      "link": "https://www.walla.co.il/news/israel/383962470",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T08:10:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21903587",
@@ -411,6 +492,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1390905",
+      "title": "התגובה של עמיחי שיקלי לפוסט ששלח לחברת הכנסת שירה שפירא",
+      "summary": "שר התפוצות עמיחי שיקלי העביר לח\"כ שירה שפירא פוסט המשווה בינה לבין בנה ענר שנפל ב-7 באוקטובר. חברת הכנסת הגיבה בחריפות וחשפה את ההודעות הקשות שמקבלים בני משפחתה בשבועות האחרונים",
+      "link": "https://www.maariv.co.il/news/politics/article-1390905",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-22T07:15:10.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390905",
       "title": "\"רוח גבית לרוצחי בנה\": הפוסט ששלח עמיחי שיקלי לאמו של ענר שפירא",
       "summary": "שר התפוצות עמיחי שיקלי העביר לח\"כ שירה שפירא פוסט המשווה בינה לבין בנה ענר שנפל ב-7 באוקטובר. חברת הכנסת הגיבה בחריפות וחשפה את ההודעות הקשות שמקבלים בני משפחתה בשבועות האחרונים",
       "link": "https://www.maariv.co.il/news/politics/article-1390905",
@@ -619,7 +709,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21903072",
       "title": "תיירת מטורקיה נעצרה בהר הבית לאחר שחילקה כספים למתפללים",
-      "summary": "מעצר חריג במתחם: התיירת חילקה כסף למתפללים שהיו במקום • החשד נגדה: הסתה",
+      "summary": "לפי החשד התיירת חילקה כספים למתפללים • נוסף על כך, היא חשודה בהפצת תכני הסתה ותמיכה בטרור בהם פרסומי הלל ושבח לרבי מרצחים בהם אחמד יאסין וסינוואר",
       "link": "https://www.israelhayom.co.il/news/defense/article/21903072",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -26850,87 +26940,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-17T08:48:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389344",
-      "title": "ממשלת אחדות עם נתניהו? חה\"כ מהליכוד מציע פתרון למשבר",
-      "summary": "ח\"כ אלישע מדן מהליכוד, שמוביל מאהל מחאה למען ממשלת אחדות, סיפר לינון מגל ובן כספית ב-103fm על התמיכה שהוא מקבל מכל קצוות הקשת הפוליטית והציע דרך להתגבר על משבר האמון בין המחנות",
-      "link": "https://www.maariv.co.il/news/politics/article-1389344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T08:42:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389344",
-      "title": "\"קודם כול שייפגשו\": הקריאה של ח\"כ מהליכוד לנתניהו ואיזנקוט",
-      "summary": "ח\"כ אלישע מדן מהליכוד, שמוביל מאהל מחאה למען ממשלת אחדות, סיפר לינון מגל ובן כספית ב-103fm על התמיכה שהוא מקבל מכל קצוות הקשת הפוליטית והציע דרך להתגבר על משבר האמון בין המחנות",
-      "link": "https://www.maariv.co.il/news/politics/article-1389344",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-17T08:42:17.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383961757",
-      "title": "ינון מגל מגייס קופים והטמטום של ברקוביץ: מצעד הפדיחות השבועי",
-      "summary": "הפנים של האחדות נשאל איך היא תיראה בעיניו והראיון פוצץ, ברקו משכיל להשתמש בניסיון מהכדורגל, בערוץ 14 מצאו פתרונות יזמיים לרצועה וינון מגל ממשיך לגייס קופים. המביכים של השבוע",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383961757",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T08:40:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21868263",
-      "title": "אפל מתקפלת: כך יפתח מעכשיו ה-iPhone Duo",
-      "summary": "מגבלות העובי של האייפון המתקפל אילצו את אפל לוותר בהשקה על חיישני ה-Face ID, אך תלונות המשתמשים עשו את שלהן • גרסת הבטא של iOS 27.3 מוסיפה פתיחת נעילה דרך המצלמה הקדמית • איך עובדת הטכנולוגיה שהושאלה ממסך ה-HomeView, למה אי אפשר לשלם איתה • וגם: מה מדאיג את מנכ\"ל אינסטגרם?",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21868263",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T08:38:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/consumers/article/21869465",
-      "title": "הסחורות בדרך לישראל, אבל מי מבטח אותן? כך המדינה נכנסה לתמונה",
-      "summary": "על רקע הקושי של חברות הביטוח לספק כיסוי לסיכוני מלחמה בים, אגף החשב הכללי וקרן הפיצויים יאריכו את תוכנית ביטוח המטענים עד 31 בדצמבר • התוכנית מעניקה פיצוי של 100% על נזקי מלחמה וטרור למטענים מיובאים ומיוצאים, במטרה להבטיח את רציפות הסחר הימי של ישראל",
-      "link": "https://www.israelhayom.co.il/business/consumers/article/21869465",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T08:35:22.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383961764",
-      "title": "ההודאה של עבאס וההעדפה המפתיעה לממשלה החדשה",
-      "summary": "יו\"ר רע\"ם תומך בהחלפת נתניהו, אבל מזהיר מפני ממשלה שתתקשה למשול ועלולה להוביל לבחירות נוספות. האפשרויות מבחינתו: צירוף החרדים או ממשלת אחדות בראשות אייזנקוט",
-      "link": "https://www.walla.co.il/news/politics/383961764",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-17T08:34:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21869558",
-      "title": "אחרי שנתיים: נתן גושן חוזר",
-      "summary": "אחרי תקופה ארוכה בלי שיר חדש משלו, נתן גושן מסמן תזוזה מוזיקלית ומסתפק במסר קצר במיוחד: \"כמה התגעגעתי\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21869558",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T08:33:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21869558",
-      "title": "אחרי שנתיים של שקט: נתן גושן חוזר",
-      "summary": "אחרי תקופה ארוכה בלי שיר חדש משלו, נתן גושן מסמן תזוזה מוזיקלית ומסתפק במסר קצר במיוחד: \"כמה התגעגעתי\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21869558",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T08:33:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21869531",
-      "title": "מוחמד סינוואר למחבלים לפני טבח 7 באוקטובר: \"דמיינו איך אתם רוצים להרוג אותם\"",
-      "summary": "כלי תקשורת המזוהה עם חמאס חשף דברים שאמר בכיר חמאס ואחיו של מנהיג הארגון לאנשיו בישיבה של הזרוע הצבאית של הארגון • \"\"אנחנו צריכים להיות מרוצים מכך שאנחנו נהיה יד הגורל שתבצע את הבטחת אללה\", אמר סינוואר",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21869531",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-17T08:31:17.000Z"
     }
   ]
 }
