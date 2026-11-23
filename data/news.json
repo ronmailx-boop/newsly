@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:01:15.470Z",
+  "updatedAt": "2026-11-23T06:15:55.930Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/circus-accident-tomsk-russia",
+      "title": "רגעי אימה בקרקס: מתקן קרס מעל שתי ילדות שהתנדנדו באוויר",
+      "summary": "הבילוי בקרקס הסתיים בבית החולים, לאחר שכשל פתאומי התרחש בגובה רב, לעיני הצופים ההמומים | שתי ילדות קטנות עלו לאטרקציה שבתוך שניות הפכה למסוכנת במיוחד (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/circus-accident-tomsk-russia",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T06:09:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1391268",
+      "title": "המשטר האיראני נלחץ אל הקיר - והצעד הבא עלול להצית מלחמה | עמית יגור",
+      "summary": "המצור הימי האמריקאי, משבר החשמל ושביתת נהגי המשאיות מעמיקים את המצוקה הכלכלית באיראן ומערערים את יציבות המשטר. בטהרן שוקלים לשבור את המצור, אך כל צעד עלול להוביל לעימות ישיר עם ארה\"ב",
+      "link": "https://www.maariv.co.il/news/opinions/article-1391268",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T06:06:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21907597",
+      "title": "שתי הופעות: המוזיקאי המוערך מגיע לישראל",
+      "summary": "רובי לקטוש יעלה שני מופעים בישראל בפברואר • בתוכנית: מוזיקה צוענית, יצירות קלאסיות, ג'אז ורומנסות רוסיות",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21907597",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T06:00:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/toxwn1",
       "title": "המגעים בין 'יהדות התורה' לאיזנקוט: הדרישה לחוק מעצרים והניסיון לבנות אמון",
@@ -123,12 +150,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1391261",
+      "title": "אחרי המהפך בארה\"ב: האדמירל הטורקי במסר על ישראל",
+      "summary": "האדמירל הטורקי ג'יהאט יאיג'י מנתח את השלכות המהפך בקונגרס האמריקאי, מזהיר מפני ציפיות לשינוי ביחסים עם וושינגטון ומסביר מדוע התמיכה בישראל תישאר בעינה גם אחרי המפלה של טראמפ",
+      "link": "https://www.maariv.co.il/news/world/article-1391261",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T05:15:03.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1391261",
       "title": "לא רק טראמפ נחל מפלה: האזהרה החריפה של האדמירל הטורקי",
       "summary": "האדמירל הטורקי ג'יהאט יאיג'י מנתח את השלכות המהפך בקונגרס האמריקאי, מזהיר מפני ציפיות לשינוי ביחסים עם וושינגטון ומסביר מדוע התמיכה בישראל תישאר בעינה גם אחרי המפלה של טראמפ",
       "link": "https://www.maariv.co.il/news/world/article-1391261",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-23T05:15:03.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/tech-news/3877275",
+      "title": "פרשת השבבים מסתבכת: החשד נגד המאהבת של מנכ\"ל אנבידיה",
+      "summary": "דיווח בניו יורק טיימס חושף כי אליס הואנג עמדה בקשר ממושך עם קצין מודיעין סיני במקביל לרומן עם מנכ\"ל אנבידיה לשעבר. המודיעין האמריקאי קושר אותה גם לרשת חברות החשודה בהעברת שבבים לסין.",
+      "link": "https://www.walla.co.il/tech/tech-news/3877275",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T05:14:40.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/tech/tech-news/3877275",
@@ -509,19 +554,19 @@
       "pubDate": "2026-11-23T04:00:00.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/tech/tech-news/383962609",
-      "title": "מי ישלוט ברובוטים הקטלניים? הדיון החריג באו\"ם",
-      "summary": "כמאה מדינות דרשו להגביל את השימוש במערכות נשק שמסוגלות לזהות מטרות ולתקוף ללא אישור אנושי, אך ארה\"ב, רוסיה וישראל התנגדו להסכם מחייב. הדיונים הסתיימו ללא הכרעה: מי יישא באחריות כשהמכונה תטעה?",
-      "link": "https://www.walla.co.il/tech/tech-news/383962609",
+      "id": "walla:https://www.walla.co.il/travel/news-travel/383962502",
+      "title": "הלוויתן הלא הגיוני הזה לא אמור להיות קיים - אבל הוא אמיתי לג",
+      "summary": "מאובן שנמצא בפרו נראה לחוקרים מעוות כל כך, שעורר חשד כי נמחץ תחת משקל הסלעים. בדיקה חדשה חשפה בעל חיים קדום עם מבנה פנים חריג, נחיריים בצד אחד וחוטם שעזר לו לחפש מזון בקרקעית",
+      "link": "https://www.walla.co.il/travel/news-travel/383962502",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-23T04:00:00.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/travel/news-travel/383962502",
-      "title": "הלוויתן הלא הגיוני הזה לא אמור להיות קיים - אבל הוא אמיתי לג",
-      "summary": "מאובן שנמצא בפרו נראה לחוקרים מעוות כל כך, שעורר חשד כי נמחץ תחת משקל הסלעים. בדיקה חדשה חשפה בעל חיים קדום עם מבנה פנים חריג, נחיריים בצד אחד וחוטם שעזר לו לחפש מזון בקרקעית",
-      "link": "https://www.walla.co.il/travel/news-travel/383962502",
+      "id": "walla:https://www.walla.co.il/tech/tech-news/383962609",
+      "title": "מי ישלוט ברובוטים הקטלניים? הדיון החריג באו\"ם",
+      "summary": "כמאה מדינות דרשו להגביל את השימוש במערכות נשק שמסוגלות לזהות מטרות ולתקוף ללא אישור אנושי, אך ארה\"ב, רוסיה וישראל התנגדו להסכם מחייב. הדיונים הסתיימו ללא הכרעה: מי יישא באחריות כשהמכונה תטעה?",
+      "link": "https://www.walla.co.il/tech/tech-news/383962609",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-23T04:00:00.000Z"
@@ -2570,19 +2615,19 @@
       "pubDate": "2026-11-22T15:20:09.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21907958",
-      "title": "עמוס של הלילות והימים",
-      "summary": "עמוס רגב אהב את הטקסט והסיפור ולא היה מוכן לוותר על פסיק לגביו • הוא חי, נשם וחש את המאבק הקיומי הלאומי ואת צה\"ל, כדרך חיים, על גופו - והביא את המטען הזה למערכת בכל יום • עמר לחמנוביץ, עורך \"ישראל היום\", נפרד מהעורך המייסד",
-      "link": "https://www.israelhayom.co.il/news/local/article/21907958",
+      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21908230",
+      "title": "צנרת PPR למערכות מיזוג וקירור במים: המדריך לתכנון, התקנה וביצוע מקצועי",
+      "summary": "",
+      "link": "https://www.israelhayom.co.il/mumlazim/article/21908230",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T15:19:56.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21908230",
-      "title": "צנרת PPR למערכות מיזוג וקירור במים: המדריך לתכנון, התקנה וביצוע מקצועי",
-      "summary": "",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21908230",
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21907958",
+      "title": "עמוס של הלילות והימים",
+      "summary": "עמוס רגב אהב את הטקסט והסיפור ולא היה מוכן לוותר על פסיק לגביו • הוא חי, נשם וחש את המאבק הקיומי הלאומי ואת צה\"ל, כדרך חיים, על גופו - והביא את המטען הזה למערכת בכל יום • עמר לחמנוביץ, עורך \"ישראל היום\", נפרד מהעורך המייסד",
+      "link": "https://www.israelhayom.co.il/news/local/article/21907958",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T15:19:56.000Z"
@@ -26598,51 +26643,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-18T06:16:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21877958",
-      "title": "אחרי 11 שנים צמודות: יהודית באומן ושימי תבורי לקחו הפסקה",
-      "summary": "לאחר למעלה מעשור, יהודית באומן משתפת בפוסט אישי בהחלטה לעצור ולנשום לבד בבית, ומודה בכנות כי השהייה בלעדיו מציפה לא מעט קשיים: \"כשאני לבד אני נתקלת ברגעים מאוד לא קלים\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21877958",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T06:14:38.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "title": "תקלה מסתורית: התירוץ של ה-NSA לקריסת המערכת המסווגת בעולם",
-      "summary": "הסוכנות פרסמה הודעה רשמית לראשונה לאחר תקלה דרמטית שהשביתה את אחת מהמערכות המסווגות ביותר בארצות הברית | בכירי הממשל ממשיכים לטעון: אין ראיות למתקפת סייבר (חדשות)",
-      "link": "https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T06:07:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "title": "מישהו מאמין לזה? התירוץ של ה-NSA לקריסת המערכת המסווגת בעולם",
-      "summary": "הסוכנות פרסמה הודעה רשמית לראשונה לאחר תקלה דרמטית שהשביתה את אחת מהמערכות המסווגות ביותר בארצות הברית | בכירי הממשל ממשיכים לטעון: אין ראיות למתקפת סייבר (חדשות)",
-      "link": "https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T06:07:28.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "title": "פרטים חדשים נחשפים: כך הגיבה ה-NSA להשבתת הרשת הסודית - וזה ה\"תירוץ\" לאירוע",
-      "summary": "הסוכנות פרסמה הודעה רשמית לראשונה לאחר תקלה דרמטית שהשביתה את אחת מהמערכות המסווגות ביותר בארצות הברית | בכירי הממשל ממשיכים לטעון: אין ראיות למתקפת סייבר (חדשות)",
-      "link": "https://www.kikar.co.il/news/nsa-network-outage-software-update-details",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T06:07:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21877916",
-      "title": "עלה לרכבת בלי לתקף כרטיס - ונאלץ למכור את ביתו בעקבות עימות עם הפקח",
-      "summary": "גבר צרפתי בן 38 עומד בפני תשלום של 148 אלף אירו בעקבות עימות עם כרטיסן ברכבת מהירה בשנת 2021 • בית המשפט אישר את הפיצויים שנקבעו לטובת העובד וחברת הרכבות הלאומית, וכעת הוא נאלץ להעמיד למכירה את בית משפחתו • המקרה עורר גל תמיכה בצרפת ונפתחה עבורו מגבית",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21877916",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T06:02:28.000Z"
     }
   ]
 }
