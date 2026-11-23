@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:16:07.934Z",
+  "updatedAt": "2026-11-23T09:31:06.428Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,60 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/ry00hltwjme",
+      "title": "אלמנה מחתה בכנסת נגד הקמת ממשלה בתמיכת ערבים: \"לשם מה בעלי נהרג?\"",
+      "summary": "בוועדות הכנסת התייצבו נציגי משפחות שכולות. \"ההיסטוריה לא תסלח לכם\", אמרה נאוה, שבנה דביר נפל בבוקר 7/10. חלק מבני המשפחות צעקו על רייטן: \"לא תהיה הצבעה לפני שנדבר\". יובל ששכלה את בעלה אחרי החתונה: \"מה יותר שינוי מלשבת זה לצד זה?\". אם לנרצח בנובה: מצפים להתקדמות לוועדה ממלכתית",
+      "link": "https://www.ynet.co.il/news/article/ry00hltwjme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-23T09:20:53.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1391349",
+      "title": "הלכלוך שמאחורי מכרזי הניקיון: חשד למרמה והלבנת הון בעשרות מיליוני שקלים",
+      "summary": "לאחר חקירה סמויה - היחידה הארצית למאבק בפשיעה כלכלית עצרו שלושה חשודים נעצרו בחשד שזכו במכרזי ניקיון ברשויות מקומיות באמצעות מסמכים מזויפים. במשטרה מעריכים שהיקף העבירות מגיע לעשרות מיליוני שקלים",
+      "link": "https://www.maariv.co.il/news/law/article-1391349",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T09:16:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962675",
+      "title": "איראן מאיימת: \"נשתמש בכל כלי. צעדים מעשיים ייושמו בוודאות\"",
+      "summary": "משרד החוץ האיראני הגדיר את המצור \"תוקפנות צבאית\", אך הסתייג מהדיווחים על שיירת מכליות שתנסה לפרוץ אותו. טראמפ מאיים: \"כולם יגיעו לקרקעית הים\"",
+      "link": "https://www.walla.co.il/news/world/383962675",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T09:15:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/idf-spokesperson-lebanon-school-visit",
+      "title": "לבנון בוערת: דוברת צה\"ל בערבית שוחחה עם תלמידים בבית ספר",
+      "summary": "סרטון שפרסמה סא\"ל אלה ואויה לרגל יום העצמאות הלבנוני חשף מפגש יוצא דופן עם תלמידים בדרום המדינה | במערכת הפוליטית ובמשרד החינוך יצאו למתקפה, וראש הממשלה הלבנוני התערב בפרשה (חדשות בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/idf-spokesperson-lebanon-school-visit",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T09:14:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21888209",
+      "title": "גם כלבה שנראית ידידותית עלולה להיות קטלנית: כך תמנעו את אסון הכלבת הבא",
+      "summary": "אם היתה נשיכה או שריטה, שטפו מייד את הפצע במים זורמים ובסבון במשך כ־15 דקות, חטאו אותו ופנו בהקדם ללשכת הבריאות • איך עוזרים בלי להסתכן?",
+      "link": "https://www.israelhayom.co.il/health/article/21888209",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T09:14:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21911863",
+      "title": "מפגש ראשון מסוגו בירושלים: המהלך שיחזיר את ההודים לישראל",
+      "summary": "משלחת של סוכני תיירות מהודו נחתה השבוע בישראל, ובמלון המלך דוד נערך מפגש מיוחד• משרד התיירות מגדיר את הודו כשוק אסטרטגי ומשקיע בו תקציבים כבדים • ובדצמבר צפויה להגיע גם הבשורה שמטיילים ישראלים חיכו לה",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21911863",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T09:14:45.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1391350",
       "title": "עורך הדין שהיה אמור לשמור על מיליונים - והורשע בגניבתם",
       "summary": "עו\"ד גיא אבני הורשע במסגרת הסדר טיעון בגניבת כ-7 מיליון שקל ממשקיעים ובסיוע להונאת משקיעים נוספים ביותר מ-30 מיליון שקל. הפרקליטות תבקש להטיל עליו עד ארבע שנות מאסר",
@@ -41,6 +95,24 @@
       "pubDate": "2026-11-23T09:12:48.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21911743",
+      "title": "לקידום החיים המשותפים: חוה אלברשטיין זוכה לכבוד נדיר",
+      "summary": "הזמרת תקבל פרס מפעל חיים על שם שולמית אלוני לשנת 2026 • גם המוזיקאי תייסיר אליאס והצלם אלכס ליבק יזכו להוקרה",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21911743",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T09:12:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21911673",
+      "title": "עומר מילר על המצב הבריאותי של המשפחה: \"חייב טקס טיהור\"",
+      "summary": "בסדרת סטוריז מחופי תאילנד חשף השף כי לאחר שרשרת פציעות במשפחה, בתו לוסי החלה לגרד את עינה בהיסטריה - מה שהוביל לנסיעה בהולה לבית החולים באמצע הלילה מחשש לאלרגיה",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21911673",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T09:12:10.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/missouri-mother-grandmother-arrested-toddler-cance",
       "title": "מזעזע: אם ממיזורי לא טיפלה בסרטן של בנה - כעת היא מואשמת ברצח",
       "summary": "פעוט בן שלוש ממיזורי, ארה\"ב אובחן בסרטן נדיר במאי 2024 | האם והאישה שכונתה 'סבתא' שהייתה למעשה המטפלת שלה, לא הביאו אותו לטיפול במשך כשנתיים עד למותו | הילד מת בבית מוזנח, כעת השתיים מואשמות ברצח (בעולם)",
@@ -48,6 +120,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-23T09:11:36.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383962674",
+      "title": "עימות בוועדת: משפחות שכולות רצו לדבר לפני ההצבעה - וסורבו",
+      "summary": "משפחות שכולות מפורום \"דין וצדק\" טוענות כי יו\"ר ועדת החוקה הזמנית, פולקמן, מסרב לאפשר להן לדבר לפני ההצבעה. לטענתן, גם כניסתה של משפחת קלמנזון לדיון לא התאפשרה",
+      "link": "https://www.walla.co.il/news/israel/383962674",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T09:11:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21911730",
+      "title": "התפקיד החדש של אמארה סטודמאייר במשטרה: \"ברוך השם\"",
+      "summary": "חבר היכל התהילה, שעבר בסוף הקריירה בהפועל ירושלים ובמכבי תל אביב, החליט להפוך לשוטר והודיע כי הושבע באופן רשמי למשטרת מיאמי-דייד: \"היום אני לובש מדים שנושאים את האמון של הקהילה שלי\"",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21911730",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-23T09:10:59.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1391335",
@@ -84,6 +174,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-23T08:57:20.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877307",
+      "title": "\"מאמן עשר דקות שלא עשה אפילו תיקו\" מלכלך על בן שמעון",
+      "summary": "גלעד קצב, שמייצג את מאמנה החדש של מכבי חיפה, טען בריאיון ב-103FM שהביקורת על רב\"ש מופרזת ומונעת מאינטרסים: \"פירקו את רן הרבה מעבר לכדורגל\"",
+      "link": "https://sports.walla.co.il/item/3877307",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T08:56:22.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1391331",
@@ -345,6 +444,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-23T08:17:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1391320",
+      "title": "החרמת כלי רכב ובדיקת תרומות: המאבק בפעילי הימין הקיצוני",
+      "summary": "במערכת הביטחון מעריכים כי 300 עד 500 פעילי ימין קיצוני פועלים בכ-80 מאחזים לא חוקיים ביהודה ושומרון. גורם צבאי מתאר את דרכי הפעולה נגדם, ומזהיר מפני האפשרות שהאלימות תוביל להסלמה",
+      "link": "https://www.maariv.co.il/news/military/article-1391320",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T08:17:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1391320",
@@ -2127,6 +2235,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-22T22:01:15.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/viral/383962567",
+      "title": "האיש שמאחורי ממדאני הזיז את העיניים - וכולם אומרים אותו דבר",
+      "summary": "במהלך נאום של ראש עיריית ניו יורק, גולשים הבחינו בתנועה חריגה בעיניו של אדם שעמד מאחוריו. הסרטון עורר תיאוריות קונספירציה, ויש גם מי שטוענים שהצלם ניסה להסתיר משהו",
+      "link": "https://www.walla.co.il/tech/viral/383962567",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-22T22:01:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/donotmiss/383962506",
@@ -26607,87 +26724,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T09:31:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1389781",
-      "title": "לאן הגענו ולאן עוד נדרדר? | אסי לביא",
-      "summary": "אחרי 26 שנים ברדיו, הגיע היום שממנו חששתי: קליפ שנפתח באזהרת 18+. כשהאלימות, המיניות וההחפצה נגישות לילדים בכל שעה, אני מסרב לתת לזה במה. זו לא קריאה לחרם, אלא לאחריות",
-      "link": "https://www.maariv.co.il/news/opinions/article-1389781",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-18T09:30:24.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21879475",
-      "title": "בינלאומיות: ריף נאמן ונועה טקה כובשות את מדריד",
-      "summary": "הן ארזו מזוודות לבירת ספרד, אבל לא בשביל הטאפאס או השופינג • ריף נאמן ונועה טקה הצטרפו לנבחרת בינלאומית באירוע יוקרה יוצא דופן",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21879475",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T09:27:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21879419",
-      "title": "עם מנפץ חלונות ושלט אוניברסלי: שב\"ח בן 14 נתפס על חם בתוך רכב ברמה\"ש",
-      "summary": "שני חשודים, תושבי השטחים בני 23 ו־14 השוהים בישראל שלא כחוק, נעצרו והועברו לחקירה בתחנת גלילות • במהלך הפעילות איתרו השוטרים ציוד לגניבת כלי רכב, לרבות מחשב הנעה מתקדם",
-      "link": "https://www.israelhayom.co.il/news/crime/article/21879419",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T09:24:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/deri-calls-madan-unity-tent-shas-visit",
-      "title": "דרעי שוחח עם ח\"כ מדן באוהל האחדות; ראשי גוש השינוי יתכנסו בצהריים",
-      "summary": "יו\"ר ש\"ס אריה דרעי שוחח עם ח\"כ אלישע מדן בעת שהותו באוהל האחדות • חברי כנסת מש\"ס ביקרו במאהל ליד הכנסת | היום יתכנסו ראשי גוש השינוי לדיון בכנסת (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/deri-calls-madan-unity-tent-shas-visit",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T09:21:45.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961940",
-      "title": "מהבוקר: המהלך החדש שצפוי לחזק את חמאס",
-      "summary": "בצה\"ל הזהירו מסיוע למחבלים, סער לחץ להסכים, כ\"ץ התנגד אך רה\"מ הורה לפתוח הבוקר גם את מעבר ארז. בישראל קבעו: הסיוע מזרים מיליונים לחמאס בכל חודש",
-      "link": "https://www.walla.co.il/news/military/383961940",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-18T09:21:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961940",
-      "title": "\"חמאס מתחזק\": נתניהו נכנע במהלך נוסף למען עזה",
-      "summary": "בצה\"ל הזהירו מסיוע למחבלים, סער לחץ להסכים, כ\"ץ התנגד אך רה\"מ הורה לפתוח הבוקר גם את מעבר ארז. בישראל קבעו: הסיוע מזרים מיליונים לחמאס בכל חודש",
-      "link": "https://www.walla.co.il/news/military/383961940",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-18T09:21:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383961940",
-      "title": "נתניהו נכנע, ואישר מהלך נוסף למען העזתים",
-      "summary": "בצה\"ל הזהירו מסיוע למחבלים, סער לחץ להסכים, כ\"ץ התנגד אך רה\"מ הורה לפתוח הבוקר גם את מעבר ארז. בישראל קבעו: הסיוע מזרים מיליונים לחמאס בכל חודש",
-      "link": "https://www.walla.co.il/news/military/383961940",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-18T09:21:43.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/us-officer-arrested-russia-espionage-charges-uk",
-      "title": "הקצין המרגל הועבר למשמורת אמריקנית בבריטניה - והוא עלול לקבל עונש מוות",
-      "summary": "סגן-אלוף ברנדון קרול טיינר הועבר למשמורת צבא ארה\"ב לאחר מעצרו בבריטניה | קציני המשטרה הצבאית של ארה\"ב הודיעו לו כי הוא עצור תחת משמורת אמריקנית | החשד: העביר מידע רגיש מנאט\"ו לרוסיה | עונש מוות בהחלט אפשרי (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/us-officer-arrested-russia-espionage-charges-uk",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T09:21:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21879332",
-      "title": "הצעת נישואים בפסטיגל? הילי טולדנו: \"הייתי רוצה משהו פרטי\"",
-      "summary": "כוכבי הפסטיגל התיישבו לשיחה עם ForReal וסיפרו מי תמיד מאחר, איך מרגיש לעבוד לצד כוכבים שגדלו עליהם ומה קרה כשעלתה האפשרות להצעת נישואים במהלך המופע",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21879332",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T09:17:07.000Z"
     }
   ]
 }
