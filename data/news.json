@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:46:06.248Z",
+  "updatedAt": "2026-11-23T13:01:14.465Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,10 +32,46 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/92546",
+      "id": "kikar:https://www.kikar.co.il/haredim/yeshiva-student-arrested-hilula-return-jail-10",
+      "title": "חזר מציון הבת עין ונעצר: תלמיד פורת יוסף ובנו של ראש הכוללים בכלא",
+      "summary": "ישראל דורי, תלמיד ישיבת פורת יוסף, נעצר אמש בצפון בדרכו מציון הבת עין • הועבר לכלא 10 בחצות | חשש למחבוש ממושך (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/yeshiva-student-arrested-hilula-return-jail-10",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T12:58:02.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391464",
+      "title": "כובע אחד גרם למותה של פיונה: בספארי חוששים מאסון דומה",
+      "summary": "בעקבות מותה של פיונה ההיפופוטמית בארה\"ב, הספארי ברמת גן יוצא בקמפיין נגד האכלת בעלי חיים והשלכת חפצים. בספארי מזכירים מקרים קשים מהעבר ומזהירים גם מפני סכנת הדבקה במחלות",
+      "link": "https://www.maariv.co.il/news/israel/article-1391464",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T12:57:40.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/admor-lelev-honors-supporters-residence",
+      "title": "במעונו של הנגיד | המחווה של האדמו\"ר מלעלוב לתומכי מוסדותיו",
+      "summary": "לרגל השמחה השרויה במעונו של האדמו\"ר מלעלוב ארה\"ב בנישואי נכדו, עם נכדת הגה\"צ רבי יהושע רובין, אב\"ד באבוב 45, ערך הנגיד הרב שלמה גולדשטיין מסיבת שבע ברכות יוקרתית בביתו עבור גדולי תומכי מוסדות לעלוב | במהלך השמחה נשא האדמו\"ר דברי תורה וברכה, והעניק לתורמים הנכבדים בקבוק שמן זית זך לקראת ימי החנוכה (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/admor-lelev-honors-supporters-residence",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T12:52:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/general/confrontation-mk-ahmad-tibi-comedian-guy-hochman-knesset",
+      "title": "\"למה אתה מרביץ ליהודים\" | עימות חריג בין אחמד טיבי לגיא הוכמן בכנסת",
+      "summary": "עימות פרץ היום במסדרונות הכנסת בין ח\"כ אחמד טיבי לקומיקאי גיא הוכמן שניסה לצלם אותו. טיבי טען בתגובה כי \"הוא עושה הצגה\", ובהמשך התפרצה ח\"כ טלי גוטליב לישיבת הסיעה (פוליטי)",
+      "link": "https://www.kikar.co.il/general/confrontation-mk-ahmad-tibi-comedian-guy-hochman-knesset",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T12:48:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/general/confrontation-mk-ahmad-tibi-comedian-guy-hochman-knesset",
       "title": "עימות בין ח\"כ אחמד טיבי לגיא הוכמן במסדרונות הכנסת",
       "summary": "עימות פרץ היום במסדרונות הכנסת בין ח\"כ אחמד טיבי לקומיקאי גיא הוכמן שניסה לצלם אותו. טיבי טען בתגובה כי \"הוא עושה הצגה\", ובהמשך התפרצה ח\"כ טלי גוטליב לישיבת הסיעה.",
-      "link": "https://www.kikar.co.il/scoop-news/92546",
+      "link": "https://www.kikar.co.il/general/confrontation-mk-ahmad-tibi-comedian-guy-hochman-knesset",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-23T12:44:44.000Z"
@@ -70,7 +106,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkmqg9w1qe",
       "title": "ליברמן: אם נתניהו יורה לתקוף עצמאית באיראן זו פקודה בלתי חוקית בעליל",
-      "summary": "",
+      "summary": "יו\"ר ועדת החוץ והביטחון קיים ישיבה סגורה לתקשורת ואמר בה כי גם אם איראן \"מנסה להשיג נשק כימי, זה לא איום שמצדיק פעולה עצמאית ומיידית ללא השתתפות אמריקנית\". יאיר גולן ענה לבנט, שהביע תמיכה בממשלת אחדות עם הליכוד: \"נפתלי, מי שמשאיר את נתניהו בשלטון מסכן את ביטחון המדינה\"",
       "link": "https://www.ynet.co.il/news/article/rkmqg9w1qe",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -282,6 +318,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-23T11:56:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1391434",
+      "title": "המכה הבאה למשטר האיראני לא תגיע מישראל: החשש בטהרן",
+      "summary": "משבר האנרגיה באיראן מחריף לקראת החורף, ובישראל מעריכים כי המחסור בחשמל ובדלק עלול להצית מחדש מחאות נגד המשטר. במקביל גוברת הדריכות מפני אפשרות להסלמה צבאית",
+      "link": "https://www.maariv.co.il/news/military/article-1391434",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T11:53:22.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1391434",
@@ -690,6 +735,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1391401",
+      "title": "אייל ברקוביץ' מסרב לחזור בו: \"הם הרוויחו את זה ביושר\"",
+      "summary": "אראל סג\"ל ואייל ברקוביץ' דחו בשידור ב-103FM את ההאשמות בגזענות בעקבות דבריהם על אחמד טיבי ויוסף ג'בארין. ברקוביץ' הבהיר כי אם ימונה למאמן נבחרת ישראל, מוחמד אבו פאני יהיה הראשון בהרכב שלו",
+      "link": "https://www.maariv.co.il/news/politics/article-1391401",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-23T11:02:37.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391401",
       "title": "אראל סג\"ל מגבה את ברקוביץ': \"אני קובע - אתה לא גזען\"",
       "summary": "אראל סג\"ל ואייל ברקוביץ' דחו בשידור ב-103FM את ההאשמות בגזענות בעקבות דבריהם על אחמד טיבי ויוסף ג'בארין. ברקוביץ' הבהיר כי אם ימונה למאמן נבחרת ישראל, מוחמד אבו פאני יהיה הראשון בהרכב שלו",
       "link": "https://www.maariv.co.il/news/politics/article-1391401",
@@ -732,6 +786,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-23T10:56:35.000Z"
+    },
+    {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%A7%D7%95%D7%A0%D7%A1%D7%A4%D7%A6%D7%99%D7%94_%D7%91%D7%A2%D7%99%D7%A6%D7%95%D7%9E%D7%94__%D7%9E%D7%99_%D7%91%D7%95%D7%A0%D7%94_%D7%90%D7%AA_%D7%94%D7%9E%D7%9B%D7%A9%D7%95%D7%9C_%D7%91%D7%92%D7%91%D7%95%D7%9C_%D7%99%D7%A8%D7%93%D7%9F_%D7%95%D7%A2%D7%9D_%D7%90%D7%99%D7%96%D7%94_%D7%A8%D7%9B%D7%91%D7%99%D7%9D_%D7%94%D7%9D_%D7%9E%D7%A1%D7%AA%D7%95%D7%91%D7%91%D7%99%D7%9D_%D7%91%D7%A8%D7%97%D7%91%D7%99_%D7%94%D7%90%D7%A8%D7%A5_",
+      "title": "הקונספציה בעיצומה: מי בונה את המכשול בגבול ירדן ועם איזה רכבים הם מסתובבים ברחבי הארץ?",
+      "summary": "חשיפת הקול היהודי: ערבים מהרשות הפלסטינית בונים את המכשול בגבול ירדן, ועובדים בפרויקט מסתובבים ברכבים עם סמלי צה\"ל ומשרד הביטחון • תיעוד בלעדי",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%94%D7%A7%D7%95%D7%A0%D7%A1%D7%A4%D7%A6%D7%99%D7%94_%D7%91%D7%A2%D7%99%D7%A6%D7%95%D7%9E%D7%94__%D7%9E%D7%99_%D7%91%D7%95%D7%A0%D7%94_%D7%90%D7%AA_%D7%94%D7%9E%D7%9B%D7%A9%D7%95%D7%9C_%D7%91%D7%92%D7%91%D7%95%D7%9C_%D7%99%D7%A8%D7%93%D7%9F_%D7%95%D7%A2%D7%9D_%D7%90%D7%99%D7%96%D7%94_%D7%A8%D7%9B%D7%91%D7%99%D7%9D_%D7%94%D7%9D_%D7%9E%D7%A1%D7%AA%D7%95%D7%91%D7%91%D7%99%D7%9D_%D7%91%D7%A8%D7%97%D7%91%D7%99_%D7%94%D7%90%D7%A8%D7%A5_",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-23T10:56:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hyasrcwyml",
@@ -26904,105 +26967,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T13:01:44.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876744",
-      "title": "ההודים צעקו \"שחררו את ישראל\" - לעבר שחקני נבחרת פלסטין",
-      "summary": "ההודים צעקו \"שחררו את ישראל\" - לעבר שחקני נבחרת פלסטין",
-      "link": "https://sports.walla.co.il/item/3876744",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-18T13:01:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21881315",
-      "title": "חשיפת \"היום\": צה\"ל הודיע על צמצום ימי המילואים",
-      "summary": "כפי שפורסם ב\"היום\" בשני האחרון כל מילואימניק ירד מ-90 ימי מילואים ל-55 בממוצע • המטרה העיקרית: לחדש את ההכשרות ולהחזיר גדודים ומערכות נשק לכשירות • גם לאחר הקיצוץ סדר הכוח של גדודי המילואים יהיה גבוה משמעותית בהשוואה ל-7 באוקטובר",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21881315",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T13:00:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/law-and-courts/nisim-shterit-murder-case-proceedings-halted-sharv",
-      "title": "פרשת רצח ניסים שטרית: בית המשפט הפסיק את ההליכים נגד אחד הנאשמים",
-      "summary": "בית המשפט המחוזי קבע כי ברוך שרביט אינו כשיר לעמוד לדין בשל מצבו הרפואי • ההליך נגד בנימין זאבי ממשיך | פרשת רצח הנער החרדי מ-1986 | עורך הדין שטאובר מסר: כנראה הוא היה מזוכה מהמיוחס לו בכתב האישום (בית המשפט)",
-      "link": "https://www.kikar.co.il/law-and-courts/nisim-shterit-murder-case-proceedings-halted-sharv",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T13:00:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21882044",
-      "title": "חשד להתעללות קשה בתינוקת בת 4 חודשים באשדוד: ההורים נעצרו",
-      "summary": "התינוקת הגיעה לבית החולים אסותא בעיר עם שברים בגפיים ובכתף, וחלק מהשברים כבר החלו להתאחות • החשד הוא להתעללות ממושכת • לפי החלטת השופטת, האם בת ה-18 הודתה בכמה אירועי אלימות כלפי בתה • האב בן ה-21 טען שפנה לרווחה כבר לפני חודש",
-      "link": "https://www.israelhayom.co.il/news/local/article/21882044",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T12:59:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1389870",
-      "title": "טלטלה בגוש השינוי: נפתלי בנט ונתניהו בדרך למפץ פוליטי - וזה לא רוטציה",
-      "summary": "נתניהו ובנט נפגשו לשעתיים וחצי, ולפי הליכוד מדובר בתדרוך ביטחוני. אלא שברקע המגעים להרכבת ממשלה, הפגישה מעוררת שאלות בגוש השינוי ומחזקת את החשד שמאחורי הדיבורים על אחדות מסתתרת תוכנית אחרת",
-      "link": "https://www.maariv.co.il/news/politics/article-1389870",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-18T12:57:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-eisenkot-fury",
-      "title": "הפגישה הדרמטית של נתניהו ובנט הסתיימה אחרי כשלוש שעות | בגוש זועמים: \"הפגישה היא פיגוע\"",
-      "summary": "יריבו המר של ראש הממשלה נתניהו, ח\"כ נפתלי בנט, נפגש במשך קרוב לשלוש שעות עם נתניהו • ראש הגוש גדי איזנקוט לא עודכן מראש והגיב בזעם; \"אין סיכוי שהוא יישב לבד תחת נתניהו\" בכיר אחר בגוש אמר בזעם: \"נתניהו מנסה לפורר את גוש השינוי באמצעות בנט - הפגישה היא פיגוע אסטרטגי לגוש\" (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-eisenkot-fury",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T12:54:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/geopolitics/article/21881651",
-      "title": "המינוי של טיבי הרבה פחות דרמטי מכפי שמנסים לצייר אותו",
-      "summary": "אחמד טיבי ומפלגתו אולי לא עוברים חלק בגרון של כל ישראלי, אבל הוא כבר כיהן בתפקיד הזה בכנסות קודמות – גם בעידן נתניהו",
-      "link": "https://www.israelhayom.co.il/news/geopolitics/article/21881651",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T12:53:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383961973",
-      "title": "רגע היסטורי: ראשי 3 המעצמות העולמיות בפסגה משותפת",
-      "summary": "נשיא סין קיבל את טראמפ בחיבוק בנמל התעופה, לאחר שנועד בנפרד עם פוטין. טראמפ מבקש לדון עם השניים בצמצום מאגרי הנשק הגרעיני ובסיום המלחמה עם איראן, ואמר כי בכוונתו להעלות גם את המלחמה באוקראינה",
-      "link": "https://www.walla.co.il/news/world/383961973",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-18T12:47:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21881840",
-      "title": "יותר מ-30 סניפים חדשים: הצעד הבא של רשת יוחננוף",
-      "summary": "המנכ\"ל והבעלים איתן יוחננוף חשף כי הרשת תקים יותר מ-30 סניפים חדשים, שיתווספו ל-48 סניפיה הקיימים • במקביל: קבוצת נטו חיסכון הכריזה כי תכפיל את פעילותה",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21881840",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T12:47:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21881840",
-      "title": "זינוק חד: תוכנית הענק של רשת יוחננוף",
-      "summary": "המנכ\"ל והבעלים איתן יוחננוף חשף כי הרשת תקים יותר מ-30 סניפים חדשים, שיתווספו ל-48 סניפיה הקיימים • במקביל: קבוצת נטו חיסכון הכריזה כי תכפיל את פעילותה",
-      "link": "https://www.israelhayom.co.il/lifestyle/article/21881840",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-18T12:47:12.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
-      "title": "הסתיימה פגישת נתניהו ובנט | גוש השינוי: \"פיגוע אסטרטגי\"",
-      "summary": "זמן קצר לפני פגישת ראשי \"גוש השינוי\" בכנסת, תועד יו\"ר מפלגת \"ביחד\" נפתלי בנט נכנס ללשכת ראש הממשלה בנימין נתניהו לפגישה ראשונה מזה 5 שנים - ללא שעדכן בכך את גדי איזנקוט | בלשכת נתניהו ובנט טוענים כי מדובר ב\"תדרוך ביטחוני\", וראש המל\"ל והמזכיר הצבאי הצטרפו לפגישה | בעקבות ההתפתחויות פגישת ראשי הגוש בכנסת נדחתה לשעה 15:00 (פוליטי, חדשות)",
-      "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-18T12:46:30.000Z"
     }
   ]
 }
