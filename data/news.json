@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T17:45:51.720Z",
+  "updatedAt": "2026-11-23T18:01:07.964Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/father-daughter-tragedy-slonim-hasidic",
+      "title": "טרגדיה כפולה ומזעזעת: הבת המיוחדת נפטרה שעות לאחר אביה החשוב",
+      "summary": "טרגדיה כפולה ומטלטלת בחסידות סלונים: שעות ספורות לאחר פטירתו של הגאון החסיד רבי מנחם מנדל לידר זצ\"ל, נפטרה הבוקר בדירתה בתו המיוחדת. כוחות זק\"א ומשטרה פעלו בזירה והצליחו להשיג ויתור על נתיחה, והיא תובא למנוחות בהר הזיתים לצד אביה שנטמן שם רק אתמול (בארץ)",
+      "link": "https://www.kikar.co.il/haredim-news/father-daughter-tragedy-slonim-hasidic",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-23T17:47:23.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/stage/383962713",
+      "title": "יותר מ-12 אלף מעריצים פונו מהאולם בעקבות \"גז מסתורי\"",
+      "summary": "הופעתו של הראפר האמריקני דון טוליבר במנצ'סטר הסתיימה לאחר שחומר לא מזוהה התפזר בקהל וגרם למעריצים להשתעל ולסבול מצריבות בעיניים",
+      "link": "https://www.walla.co.il/entertainment/stage/383962713",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T17:34:35.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bycwdkgy7e",
       "title": "המהפכה המשפטית במוקד: המו\"מ לאחדות נמשך, הליכוד שלח נציג חדש",
@@ -165,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-23T16:44:31.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962776",
+      "title": "המוקד - הרפורמה המשפטית: נציגי נתניהו ואיזנקוט נפגשים",
+      "summary": "צוותי המו\"מ ייפגשו ב-19:00 להמשך המגעים להקמת ממשלת אחדות, לאחר שהפגישה הקודמת הסתיימה כמעט ללא הסכמות. במפלגת ישר התייחסו לדיווחים על המגעים והבהירו כי לא יגיבו לספקולציות",
+      "link": "https://www.walla.co.il/news/politics/383962776",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-23T16:39:41.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962776",
@@ -26958,15 +26985,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-18T18:03:24.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1389971",
-      "title": "הרמטכ\"ל, ראש המוסד ומפקד סנטקום התכנסו בקריה - איראן במוקד",
-      "summary": "מפקד סנטקום הגיע לקריה ונפגש עם הרמטכ\"ל, ראש המוסד ובכירי צה\"ל, כשברקע האפשרות לחידוש הלחימה מול איראן. הפגישה התקיימה בשעה שארה\"ב ממשיכה לרכז כוחות באזור והמתיחות גוברת",
-      "link": "https://www.maariv.co.il/news/military/article-1389971",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-18T17:46:04.000Z"
     }
   ]
 }
