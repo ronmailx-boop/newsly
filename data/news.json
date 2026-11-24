@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:01:10.441Z",
+  "updatedAt": "2026-11-24T22:15:53.745Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkqdytx17x",
+      "title": "חוסן לאומי מתחיל באנשים",
+      "summary": "עדותה של שורדת השבי אביבה סיגל מול עשרות דיפלומטים הזכירה לנו מה אנחנו באמת מבקשים להגן עליו, ומדוע האחריות לכך משותפת לכולנו",
+      "link": "https://www.ynet.co.il/news/article/bkqdytx17x",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T22:08:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/skctdfxj7l",
+      "title": "אם העולם היה הפוך",
+      "summary": "איך היו נראות השיחות הקואליציוניות לו נתניהו היה יכול להקים ממשלה עם אלו שעל גבם עשה קמפיינים שלמים? מה היה קורה אם עבאס וטיבי היו עושים גולדקנופף לנתניהו?",
+      "link": "https://www.ynet.co.il/news/article/skctdfxj7l",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T22:01:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21925860",
+      "title": "ריאל מדריד פירקה את פ.ס.וו, מנצ'סטר סיטי שוב אכזבה",
+      "summary": "מחצית אחת הספיקה לבלאנקוס כדי להביס 1:5 את פ.ס.וו בדרך לניצחון חמישי בחמישה משחקים בליגת האלופות • סיטי ניצלה פעמיים מהפסד בדרך ל-2:2 ביתי עם נאפולי, 1:1 לארסנל ודורטמונד",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21925860",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:57:28.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/military-police-chief-home-protests",
       "title": "הפגנה מול בית קצין המשטרה הצבאית: עימותים עם שוטרים ומעצרים",
       "summary": "מפגינים הגיעו הערב לביתו של קצין המשטרה הצבאית הראשי במחאה על מעצר תלמידי ישיבה. המשטרה עצרה מספר מפגינים וחסמה את הרחוב | לאחר מכן המשיכו המפגינים לצומת בית עזרא וחסמו את התנועה בכביש 4 (חרדים)",
@@ -41,6 +68,123 @@
       "pubDate": "2026-11-24T21:48:25.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21925917",
+      "title": "למרות ההפסד בבחירות: הימין מתקרב להקמת ממשלה בשבדיה",
+      "summary": "72 ימים לאחר הבחירות שבהן הפסיד בפער קטן, גוש הימין בשבדיה מקבל הזדמנות מחודשת להרכיב ממשלה • זאת לאחר שמפלגת המרכז הודיעה על חידוש המשא ומתן עם ראש הממשלה המכהן, אולף קריסטרסון, על רקע מבוי סתום בשיחות עם גוש השמאל-מרכז • ביום שני יעמוד קריסטרסון למבחן פרלמנטרי קריטי — ואם ייכשל, המדינה תתקרב לבחירות חוזרות",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21925917",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:35:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aries/article/21867686",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "סוף סוף אתם מרגישים שיש לכם מטרה של ממש והעניינים זורמים בקצב הראוי. אירועים מתרחשים במהירות ומשפיעים עליכם בעיקר בצורה חיובית",
+      "link": "https://www.israelhayom.co.il/horoscopes/aries/article/21867686",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/taurus/article/21867687",
+      "title": "מזל שור, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "אתם חיים את הרגע והאופטימיות הבסיסית שלכם שומרת עליכם מדאגות למרות שהמצב עדיין דורש שיפור. יום מצוין להאיץ את הקצב, למרות שזה לא נשמע אפשרי",
+      "link": "https://www.israelhayom.co.il/horoscopes/taurus/article/21867687",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/gemini/article/21867688",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "זה בדיוק הזמן להפגין את חוש המסחר והשיווק שלכם ולמצוא את שביל הזהב בין הנחוץ לאפשרי. &#xD; &#xD; יש לכם נטייה לראות את המציאות בצורה קלילה וחופשית, ויתכן שתאלצו להסביר כמה עובדות חיים הקשורות בגישה זאת לבן/ת הזוג שמלא אומנם רצון טוב אבל קצת מקובע על עקרונותיו",
+      "link": "https://www.israelhayom.co.il/horoscopes/gemini/article/21867688",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/cancer/article/21867757",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "לא אופייני לכם, אבל היום אתם עלולים למצוא את עצמכם בעימות מילולי חריף מול אדם קרוב לכם, בלי שתדעו איך בכלל הגעתם למצב זה. &#xD; &#xD; הימנעו מלשפוט את עצמכם ואת הזולת בחומרה רבה מידי",
+      "link": "https://www.israelhayom.co.il/horoscopes/cancer/article/21867757",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/leo/article/21867758",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "יום אקטיבי, תוסס ומלא מרץ. כדאי לנצל את שפע האנרגיות המבורכות שנוחת עליכם היום",
+      "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21867758",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/virgo/article/21867759",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "אתם מוצאים את עצמכם בפעילות רבה מעל המתוכנן. יום תזזיתי שאפילו עבורכם, בעלי המרץ הבלתי נדלה, הוא קצת יותר מידי עמוס",
+      "link": "https://www.israelhayom.co.il/horoscopes/virgo/article/21867759",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/libra/article/21867840",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "לא קל לכם לשמור על פרופורציות ואתם נדרשים להפעיל כוחות נפש פנימיים במלוא העוצמה, כל זאת כדי לפרש לטובתכם מצבים הנוצרים מסביב. &#xD; &#xD; נראה שכולם דואגים לעצמם ואף אחד לא ממש חושב עליכם",
+      "link": "https://www.israelhayom.co.il/horoscopes/libra/article/21867840",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/scorpio/article/21867841",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "יש לכם שפע של אתגרים לקדם את עצמכם בכל רובד אפשרי. יום שלא מזדמן לעיתים קרובות",
+      "link": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21867841",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21867842",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "יום מתאים לבילוי ערב שקט עם המשפחה. ערנות ואופטימיות גורמים לכם להיות במצב רוח טוב ועם המון יכולת נתינה",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21867842",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21867849",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "אתם עמוסי עבודה ומתחילים לסגור את השבוע במלוא המרץ הנדרש. שיתוף פעולה עם \"יועצים\" ואנשי מקצוע דורש מכם מאמץ מיוחד, כיוון שיש לכם דרך ייחודית לראות את פני הדברים",
+      "link": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21867849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/aquarius/article/21867850",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "אתם מתנהגים בצורה שונה מהרגיל, מה שמאפשר לכם להגיע לאינטימיות אמיתית במקום בו קודם לכם, לא הצלחתם. הצעה שנראית מתאימה במיוחד תעלה על הפרק",
+      "link": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21867850",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/pisces/article/21867851",
+      "title": "מזל דגים, תחזית הורוסקופ יומית 25.11.2026",
+      "summary": "יום זה מאופיין בריצות ובמילוי משימות רבות שמהווה אות וסימן לעשייה בלתי פוסקת. אתם מלאים בתחושות של שמחת חיים והגשמה עצמית, מה שמעניק לכם משנה מרץ ואנרגיות טובות",
+      "link": "https://www.israelhayom.co.il/horoscopes/pisces/article/21867851",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:30:31.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21925890",
       "title": "90 ראשי נפץ, טילי יריחו וצוללות: ההערכה החדשה על היכולות הגרעיניות של ישראל",
       "summary": "חוקרי פדרציית המדענים האמריקנים מעריכים לפי צילומי לווין על מבנה חדש שקוטרו דומה לזה של הכור בדימונה, אך החוקרים מדגישים כי לא ידוע אם הוא קשור לפעילות גרעינית • הסקירה של אותם חוקרים כוללת גם הערכות על טילי יריחו, מטוסי קרב וצוללות המסוגלים לשאת נשק גרעיני",
@@ -48,6 +192,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-24T21:29:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21925947",
+      "title": "טיסת איתיחאד לישראל נאלצה לשוב לאבו דאבי",
+      "summary": "שינוי בנתיב הטיסה מעל סעודיה בעקבות מתקפות באזור אילץ את המטוס שהיה בדרכו לנתב\"ג לשוב לנמל התעופה שממנו המריא • בחברת התעופה נערכים להוצאת הטיסה מחדש",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21925947",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T21:28:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21925947",
@@ -26715,15 +26868,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T22:19:43.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/travel/travelsinworld/383962117",
-      "title": "רק 30 מטר רוחב: איך חיים בעיר הצרה בעולם?",
-      "summary": "הבתים בנויים על עמודי בטון מעל הנהר, כביש ראשי אחד חוצה את העיירה, והרכבת נוסעת במנהרה מתחתיה. כך התפתחה יאנג'ין בסין במקום שכמעט אין בו קרקע פנויה - ולמה תושביה לא ממהרים לעזוב",
-      "link": "https://www.walla.co.il/travel/travelsinworld/383962117",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T22:06:47.000Z"
     }
   ]
 }
