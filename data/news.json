@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:31:04.484Z",
+  "updatedAt": "2026-11-24T17:45:56.999Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1xbtbqj7l",
+      "title": "גבר במצב קשה אחרי שהותקף על ידי חזיר בר בחיפה",
+      "summary": "הגבר פונה לבית החולים בני ציון כשהוא סובל מחבלות קשות בגפיים",
+      "link": "https://www.ynet.co.il/news/article/s1xbtbqj7l",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T17:35:37.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391914",
+      "title": "מחזירים את הגלגל לאחור: המהלך לביטול הרפורמה מעורר סערה בכנסת",
+      "summary": "הוועדה המיוחדת החלה לקדם את ביטול השינוי בהרכב הוועדה לבחירת שופטים, ביוזמת ח\"כ אפרת רייטן. התומכים טוענים לפגיעה בעצמאות מערכת המשפט, בעוד המתנגדים מזהירים מפני חקיקה חפוזה ודורסנית בתקופת המעבר",
+      "link": "https://www.maariv.co.il/news/politics/article-1391914",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T17:32:06.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1qsirxk7x",
+      "title": "צעירה נהרגה מפגיעת רכבת ליד נתב\"ג: שיבושים קשים בקווים לירושלים ולמודיעין",
+      "summary": "צעירה בת 22 לחייה נכנסה לשטח המסילה סמוך לתחנת נתב\"ג ונפגעה מרכבת חולפת. צוותי חירום והצלה הוזעקו למקום",
+      "link": "https://www.ynet.co.il/news/article/s1qsirxk7x",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T17:27:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21924351",
+      "title": "צעירה בשנות ה-20 נהרגה מפגיעת רכבת בתחנת נתב\"ג",
+      "summary": "לפי הדיווחים מהזירה, הצעירה נכנסה לשטח המסילה בניגוד להנחיות ונפגעה מרכבת חולפת. הצוותים נאלצו לקבוע את מותה במקום • בעקבות האירוע יש שיבושים ועיכובים בתנועת הרכבות באזור, כולל בקו המהיר לירושלים • ברכבת ישראל קוראים לנוסעים לנמל התעופה להתעדכן בזמן אמת ולהיעזר בתחבורה חלופית",
+      "link": "https://www.israelhayom.co.il/news/local/article/21924351",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T17:20:03.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/news/defense-minister-iran-developing-chemical-weapons",
       "title": "שר הביטחון מטיל פצצה: איראן מפתחת נשק כימי נגד ישראל - יודעים על כך כמה חודשים",
@@ -26652,33 +26688,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T17:47:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/gaming/article/21893529",
-      "title": "הזוג הלוהט החדש של הוליווד? תמונה ראשונה לכוכבי GTA 6",
-      "summary": "לאחר שנים של חשאיות מוחלטת מצד רוקסטאר ועם השקת המשחק, נחשפו לראשונה בתמונה משותפת השחקנים שמגלמים את ג'ייסון ולוסיה ב-GTA 6 - דילן רורק ומאני אל. פרז • מי שחשפה את התיעוד מול שלט הענק של המשחק היא כפילת הפעלולים הראשית",
-      "link": "https://www.israelhayom.co.il/tech/gaming/article/21893529",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T17:42:41.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
-      "title": "העליון הורה - משפט חוזר לגינקולוג שהורשע באונס: \"הנחה שגויה\"",
-      "summary": "ד\"ר מיכאל שטטמן זוכה במחוזי, אך הורשע בערעור למרות שהפרקליטות חזרה בה מבקשת ההרשעה • השופט נעם סולברג קבע כי אי-הבנה בין הצדדים לשופטים מערערת את יסודות פסק הדין • כעת יידון התיק מחדש בהרכב מורחב של חמישה שופטים",
-      "link": "https://www.israelhayom.co.il/news/law/article/21893536",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T17:32:10.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21893536",
-      "title": "העליון הורה - משפט חוזר לגניקולוג שהורשע באונס: \"הנחה שגויה\"",
-      "summary": "ד\"ר מיכאל שטטמן זוכה במחוזי, אך הורשע בערעור למרות שהפרקליטות חזרה בה מבקשת ההרשעה • השופט נעם סולברג קבע כי אי-הבנה בין הצדדים לשופטים מערערת את יסודות פסק הדין • כעת יידון התיק מחדש בהרכב מורחב של חמישה שופטים",
-      "link": "https://www.israelhayom.co.il/news/law/article/21893536",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T17:32:10.000Z"
     }
   ]
 }
