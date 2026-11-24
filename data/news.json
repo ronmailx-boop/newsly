@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:16:06.591Z",
+  "updatedAt": "2026-11-24T12:31:15.586Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877384",
+      "title": "\"אין מקום טוב מישראל. החלום הגדול שלי - לשחק בנבחרת\"",
+      "summary": "\"אין מקום טוב מישראל. החלום הגדול שלי - לשחק בנבחרת\"",
+      "link": "https://sports.walla.co.il/item/3877384",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T12:25:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/mansour-abbas-yousef-jabareen-elected-knesset-special-committee-chairs",
+      "title": "\"אתנן פוליטי\": עבאס וג'בארין נבחרו לראשות ועדות - בימין תקפו",
+      "summary": "ח\"כ מנסור עבאס נבחר ליו\"ר הוועדה למיגור הפשיעה בחברה הערבית • ח\"כ יוסף ג'בארין יעמוד בראש הוועדה לשוויון חברתי-כלכלי | האופוזיציה תקפה: \"אתנן פוליטי\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/mansour-abbas-yousef-jabareen-elected-knesset-special-committee-chairs",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T12:21:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/dukh-fortress-shimon-hasmonean-murder",
+      "title": "\"החתן רצח את ה'שווער' במשתה\": ביקור נדיר במבצר שבו נרצח שמעון החשמונאי",
+      "summary": "על המצוק התלול מעל יריחו ניצבים שרידי מבצר דוק הקדום, המקום שבו נגדעו חייו של אחרון בני מתתיהו • ישראל שפירא יצא למסע בעקבות הבגידה המשפחתית ששינתה את ההיסטוריה, בורות המים העתיקים והדרך המאתגרת שעומדת להיפתח בקרוב לציבור הרחב • צפו (היסטוריה)",
+      "link": "https://www.kikar.co.il/haredim-news/dukh-fortress-shimon-hasmonean-murder",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T12:21:22.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1391734",
       "title": "החופשה במלכת שבא באילת הפכה לסיוט: רצו להעביר נערה עם מוגבלות במעלית משא",
@@ -858,6 +885,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T10:35:16.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/cinema/383962823",
+      "title": "טירוף הספוילרים: המהלך החריג והמפתיע שמכינים באולפני מארוול",
+      "summary": "באולפני מארוול כל כך נחושים לשמור בסוד את עלילת הסרט החדש בסדרת \"הנוקמים\", שהם מוכנים לוותר על כמה מהפרסים הנחשקים ביותר בתעשיית הקולנוע. ומה לגבי האוסקר?",
+      "link": "https://www.walla.co.il/entertainment/cinema/383962823",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T10:34:42.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/cinema/383962823",
@@ -26643,96 +26679,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T12:31:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21890623",
-      "title": "דיווח אמריקני: גברו הסיכויים שארה״ב תחדש את המלחמה באיראן",
-      "summary": "גורמים מערביים מעריכים כי הסיכוי למתקפה אמריקנית נרחבת נוספת נגד איראן גדל בימים האחרונים, על רקע החרפת העימותים באזור • בתוך כך, משמרות המהפכה טענו כי שתי מכליות נפט עלו על מוקשים במצר הורמוז והתפוצצו",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21890623",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T12:30:59.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876911",
-      "title": "בגיל 43: הקוסם שיסבך את מכבי תל אביב הערב",
-      "summary": "כוכב הכדורסל הברזילאי הצטרף לדובאי בגיל 43, ויפגוש שוב את הצהובים. עד כה שיחק 18 משחקים נגד מכבי בקריירה, כולל סדרת פלייאוף שהתל אביבים לא רוצים לשכוח. כיצד זה ייגמר הפעם?",
-      "link": "https://sports.walla.co.il/item/3876911",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T12:30:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1390226",
-      "title": "ילדות בצל מחלות נדירות: כשהדברים הכי פשוטים הופכים למאבק יומיומי",
-      "summary": "ומה אומרים לילד שמתחיל לאבד יכולות שכבר רכש? לקראת יום הילד הבינלאומי, ארבע מחלות נדירות בילדים חושפות את ההתמודדות היומיומית של ילדים ומשפחותיהם, לצד פריצות דרך רפואיות שמציעות תקווה חדשה",
-      "link": "https://www.maariv.co.il/news/health/article-1390226",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T12:29:56.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syv1jrnrfg",
-      "title": "גוש בגרון: נתניהו נועץ את הטריזים, בצד השני עסוקים בסיכולי תוכניות לממשלה",
-      "summary": "בקרב מתנגדי רה\"מ מעריכים כי בנט לא רוצה לשים את הונו הפוליטי על הקמת ממשלה עם המפלגות הערביות או החרדיות. במקביל, יועצי בנט וליברמן דוחקים בהם שהדרך ללב הימין ל\"יום שאחרי נתניהו\" לא יכולה לכלול שותפות עם ערבים. לפחות בינתיים, המחלוקת חזקה מכל תרחיש של גוש השינוי שנמצא על השולחן",
-      "link": "https://www.ynet.co.il/news/article/syv1jrnrfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-19T12:29:32.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syv1jrnrfg",
-      "title": "גוש בגרון: נתניהו מתדלק את הטריזים, בצד השני עסוקים בסיכולי תוכניות לממשלה",
-      "summary": "בקרב מתנגדי רה\"מ מעריכים כי בנט לא רוצה לשים את הונו הפוליטי בהקמת ממשלה עם המפלגות הערביות או החרדיות. במקביל, יועצי בנט וליברמן דוחקים בהם שהדרך ללב הימין ל\"יום שאחרי נתניהו\" לא יכולה לכלול שותפות עם ערבים. לפחות בינתיים, המחלוקת חזקה מכל תרחיש של גוש השינוי שנמצא על השולחן",
-      "link": "https://www.ynet.co.il/news/article/syv1jrnrfg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-19T12:29:32.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21888603",
-      "title": "עם סיכות התפירה: השמלה שהנסיכה דיאנה לא הספיקה ללבוש",
-      "summary": "כבר 12 שנה רנה פלאנט מקדישה את חייה לאיסוף שמלות, תכשיטים וחפצים אישיים של הנסיכה דיאנה • היא שילמה מאות אלפי דולרים על פריטים אייקוניים, משכנה את ביתה יותר מפעם אחת, ואפילו ניצחה מוסדות מלכותיים במכירות פומביות • עכשיו האוסף יוצא לאור, עם שמלה אחת שדיאנה מעולם לא הספיקה ללבוש",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21888603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T12:27:30.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21888603",
-      "title": "האישה עם האוסף הענק של הנסיכה דיאנה - והמחיר המטורף ששילמה",
-      "summary": "כבר 12 שנה רנה פלאנט מקדישה את חייה לאיסוף שמלות, תכשיטים וחפצים אישיים של הנסיכה דיאנה • היא שילמה מאות אלפי דולרים על פריטים אייקוניים, משכנה את ביתה יותר מפעם אחת, ואפילו ניצחה מוסדות מלכותיים במכירות פומביות • עכשיו האוסף יוצא לאור, עם שמלה אחת שדיאנה מעולם לא הספיקה ללבוש",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21888603",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T12:27:30.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962184",
-      "title": "החלטה שתשפיע על ישראל: בית הדין בהאג האשים את מיאנמר ברצח עם",
-      "summary": "החלטה שתשפיע על ישראל: בית הדין בהאג האשים את מיאנמר ברצח עם",
-      "link": "https://www.walla.co.il/news/world/383962184",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T12:27:09.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/welfare/article/21890556",
-      "title": "כך תיעזר עמותת ער\"ן ברובלוקס כדי לסייע לבני נוער במשבר",
-      "summary": "יוזמה של העמותה המסייעת לאנשים הסובלים ממצבי דחק וחברת האד- טק ReachPlayers הוליד מתחם חדש ואפקטיבי בתוך פלטפורמת המשחקים הבינלאומית",
-      "link": "https://www.israelhayom.co.il/news/welfare/article/21890556",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T12:26:06.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21890224",
-      "title": "סוחף מהרגע הראשון: לכו לצפות בסרט הזה",
-      "summary": "ב\"הכריסטופרים\", סטיבן סודרברג רוקח מותחן מתעתע על זיוף, אמנות ויחסי כוחות משתנים • איאן מקלן ומיקיילה קואל מובילים מפגש משחקי שהופך לדיון מרתק על מהותה של היצירה",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21890224",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T12:22:49.000Z"
     }
   ]
 }
