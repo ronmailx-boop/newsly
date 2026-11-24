@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:46:02.992Z",
+  "updatedAt": "2026-11-24T16:01:07.211Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/haredi-mk-praises-chairman-maiden-speech",
+      "title": "\"זה מאוד מרגש אותי\": חבר הכנסת החרדי פרגן ליו\"ר ופתח בנאום בכורה | צפו",
+      "summary": "חבר הכנסת אליקים שטארק נשא היום את נאום הבכורה שלו כחבר כנסת מן המניין מטעם יהדות התורה | בתחילת דבריו איחל הצלחה ליושב ראש הנכנס מתן כהנא | נאום הבכורה של שטארק (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/haredi-mk-praises-chairman-maiden-speech",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T15:59:24.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-families-investment-dilemma-bitcoin-gold-2",
+      "title": "200 אלף שקל בצד ואין לאן לשים? המלכוד הכלכלי שתופס משפחות חרדיות",
+      "summary": "הנדל\"ן יקר מדי והבנק שוחק את הכסף • חברת אורנוס מציעה תיק השקעות בביטקוין וזהב | הכסף נשאר בחשבון הפרטי שלכם (כלכלה)",
+      "link": "https://www.kikar.co.il/haredim-news/haredi-families-investment-dilemma-bitcoin-gold-2",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T15:58:54.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877488",
+      "title": "התכנית החדשה של טראמפ שתזעזע את הכלכלה העולמית",
+      "summary": "לפי הוול סטריט ג'ורנל, ההכרזה צפויה כבר השבוע. מדינות האיחוד האירופי, יפן ודרום קוריאה ישלמו עד 15%, וסין צפויה לספוג מכס גבוה יותר. מה כל זה אומר, ולמה דווקא עכשיו?",
+      "link": "https://finance.walla.co.il/item/3877488",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T15:53:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/privacy-and-security/383962743",
+      "title": "מרגלת AI: כך ניסו האיראנים לתקוף חברת תעופה שטסה לישראל",
+      "summary": "היא נראתה כמו מועמדת רגילה לעבודה, אבל מאחורי התמונה והזהות המזויפת הסתתרה נוזקה. מחקר חדש של צ'ק פוינט חושף מבצע ריגול איראני שכוון לחברת תעופה המקיימת טיסות בין קפריסין לישראל.",
+      "link": "https://www.walla.co.il/tech/privacy-and-security/383962743",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T15:40:00.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877456",
+      "title": "מידע פנים מאנבידיה? הימרו על 20 אלף דולר - וגרפו הון עתק",
+      "summary": "שעות לפני שהדירקטוריון הפתיע את וול סטריט והזניק את המניה, 16 חשבונות חדשים הזרימו בפולימרקט כספים והימרו על חזרת המנכ\"ל",
+      "link": "https://finance.walla.co.il/item/3877456",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T15:40:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/harry-meghan-return-britain-parallel-royal-house",
       "title": "הארי ומייגן חזרו לבריטניה: הזעם של המלך ויורש העצר - ו\"הממלכה המקבילה\"",
@@ -1002,6 +1047,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T12:50:16.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962890",
+      "title": "מתי יסתיים עידן נתניהו? התשובה המפתיעה של בכיר הליכוד",
+      "summary": "שר התקשורת תקף באולפן וואלה את יהדות התורה: \"מאוכזב מהם, טיבי ישמור על לומדי התורה?\". עוד התייחס למו\"מ לממשלת אחדות: \"איזנקוט מייצר מסך עשן - כשהוא בריצת אמוק לכיוון אחר\" | סרי ושלזינגר",
+      "link": "https://www.walla.co.il/news/politics/383962890",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T12:50:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962890",
@@ -26589,60 +26643,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T16:02:07.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876945",
-      "title": "\"בורחים מהמדים\": הסיבה האמיתית לקריסת נבחרת ישראל",
-      "summary": "\"בורחים מהמדים\": הסיבה האמיתית לקריסת נבחרת ישראל",
-      "link": "https://sports.walla.co.il/item/3876945",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T16:00:43.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1ul9qhamx",
-      "title": "צעיר ישראלי התמוטט ומת במקלחת בטרק האנאפורנה בנפאל",
-      "summary": "הצעיר, בן 26, נחשף לגז במהלך המקלחת. בבית חב\"ד המקומי הזהירו את המטיילים הישראלים: \"אל תזלזלו בסכנה הזו. אם מריחים גז - לא מתקלחים. עדכנו תמיד חבר - שיבדוק שאתם בסדר\"",
-      "link": "https://www.ynet.co.il/news/article/b1ul9qhamx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-19T15:55:17.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390311",
-      "title": "חפר בתל אשקלון במשך שנים ואסף עתיקות בלי רישיון - וקיבל מאסר על תנאי",
-      "summary": "מאז 2020 חזר שוב ושוב לתל אשקלון עם גלאי מתכות וכלי חפירה: רשות העתיקות איתרה בביתו של תושב דימונה אוסף של יותר מ־2,000 פריטים. במסגרת הסדר טיעון נגזרו עליו חצי שנת מאסר על תנאי וקנס",
-      "link": "https://www.maariv.co.il/news/law/article-1390311",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T15:53:20.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383962183",
-      "title": "משרד הבריאות מודיע: זה המקום שבו שהתה הכלבה הנגועה בכלבת",
-      "summary": "אחרי ההדבקה הטרגית, האיגוד הוטרינרי מזהיר מהדבקה בכלבת: \"לא לאסוף כלבים וגורים מהשטח באופן עצמאי. גם גור שנראה תמים וזקוק לעזרה עלול לשאת את הנגיף\"",
-      "link": "https://www.walla.co.il/news/israel/383962183",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T15:51:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21891558",
-      "title": "\"אני אוהבת את ישראל\": כוכבי האירוויזיון הגיעו לתל אביב",
-      "summary": "כיארה עוד חולמת על הגביע, אפנדי מתגעגעת לחברים ואלנור כבר חושב על הביקור הבא • חגיגות ה-40 למועדון חובבי האירוויזיון הפגישו כוכבי עבר ושגרירים זרים לערב צבעוני של מוזיקה ודיפלומטיה - המקום שבו האירוויזיון עוזר להציג את ישראל היפה",
-      "link": "https://www.israelhayom.co.il/culture/music/article/21891558",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:49:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/toradm",
-      "title": "איזו ממשלה אתם מעדיפים, ומה עם הערבים? | הצביעו עכשיו",
-      "summary": "המגעים להרכבת הממשלה בעיצומם וזה הזמן לבדוק מה אתם חושבים ואיזו ממשלה אתם מעדיפים | הצביעו עכשיו בסקר (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/toradm",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T15:48:09.000Z"
     }
   ]
 }
