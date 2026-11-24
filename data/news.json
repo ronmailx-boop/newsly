@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:31:09.771Z",
+  "updatedAt": "2026-11-24T20:46:02.852Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-yesh-initial-agreement-unity-track",
+      "title": "'ישר' ו'ישראל ביתנו' סיכמו על חתימת הסכם קואליציוני",
+      "summary": "הסכמות ראשוניות בין הליכוד למפלגת איזנקוט: ועדת שרים תפעל לשינויים במערכת המשפט, וראש הממשלה יצא לנבצרות רק בנסיבות רפואיות | במקביל: ערוץ ישיר בין נתניהו לבנט (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/likud-yesh-initial-agreement-unity-track",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T20:35:37.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877418",
+      "title": "גדול מכדי ליפול, מסוכן מכדי להישאר: למה אי אפשר להזיזו",
+      "summary": "היעדר יורש, חשיפה של טריליוני דולרים למניות ואג\"ח החברה, וברית אסטרטגית עם הבית הלבן הפכו את מנכ\"ל אנבידיה לאיש שאי אפשר להזיז. שערורייה ביטחונית? אפילו הרצוג ונתניהו התקשרו לברך | דעה",
+      "link": "https://finance.walla.co.il/item/3877418",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T20:32:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21925579",
+      "title": "הדמוקרטים: מפסיקים את השיחות עם מפלגת ישר!",
+      "summary": "המפלגה בראשות יאיר גולן הודיעה על הפסקת השיחות על רקע הקיפאון במשא ומתן להקמת ממשלת שינוי, ההתקדמות במגעים לאחדות עם נתניהו וההסכמות עם הליכוד על הקמת ועדת הסכמות בנושא הרפורמה המשפטית • לאחר דקות, הציוץ נמחק מחשבונו האישי של גולן - ופורסם בשנית בחשבון הרשמי של המפלגה ב-X",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21925579",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T20:22:42.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hk3dpvxk7l",
       "title": "השר אליהו כתב ספר על \"מעללי המוסד\" באיראן - בלי לעדכן את הארגון או לקבל אישור",
       "summary": "שר המורשת חיבר את הספר \"מוג'תבא השני\". על עטיפת הספר תיאר כי הוא \"נשען על המציאות\", אבל בתגובה שמסר טען: \"זה פרי דמיוני, לא מבוסס על מידע שהגיע אליי מתוקף התפקיד\"",
@@ -51,12 +78,30 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b16mx00qymg",
+      "title": "משבר בגוש והסכם קואליציוני ראשון: ליברמן חתם עם איזנקוט, גולן עצר את השיחות",
+      "summary": "מפלגת ישר! הודיעה כי איזנקוט נפגש עם ליברמן והשניים סיכמו על חתימת הסכם קואליציוני. עוד קודם לכן, בפגישה בין צוותי הדמוקרטים וישר! הבהירו אנשיו של יאיר גולן כי לא יקבלו מו\"מ עם הליכוד במקביל לשיחות איתם. מחר צפויות עוד שיחות בין הליכוד לישר!",
+      "link": "https://www.ynet.co.il/news/article/b16mx00qymg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T20:17:22.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b16mx00qymg",
       "title": "משבר בגוש איזנקוט: הדמוקרטים הודיעו על הפסקת השיחות עם מפלגת ישר!",
       "summary": "במפלגתו של יאיר גולן אמרו כי ההחלטה מגיעה \"על רקע ההתקדמות במגעים להקמת ממשלת אחדות עם נתניהו ובמקביל לקיפאון במו\"מ להקמת ממשלת שינוי\". מחר צפויים צוותי ישר! והליכוד להיפגש שוב",
       "link": "https://www.ynet.co.il/news/article/b16mx00qymg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-24T20:17:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21925526",
+      "title": "גרושתו ואם ילדיו של חנן בן ארי: \"זה מרגיש כמו ייאוש\"",
+      "summary": "הסופרת חושפת מה קורה כשהיא מנסה לכתוב את הפרק הבא בספרה החדש • ומה אמרה למאפרת שלה על הסט על גברים, כפרים ואמונה: \"השאלה אם את מוכנה להישרף על הרצון הזה\"",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21925526",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T20:15:48.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/democrats-halt-talks-yesh-unity-government",
@@ -525,6 +570,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T18:28:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "title": "חי מהיורוליג: באיירן מינכן - מכבי תל אביב 66:68",
+      "summary": "שתי הקבוצות לא מציגות כדורסל מבריק והתוצאה בבוואריה צמודה • טי. ג'יי ליף שלא התייצב בנבחרת ישראל בטענה לפציעה לא נכלל בסגל • הצהובים עם שישה הפסדים בשבעת המשחקים האחרונים במפעל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T18:28:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
@@ -26715,24 +26769,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-19T20:54:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21894632",
-      "title": "שנה לתקיפה: קטאר דורשת \"חסינות\" מהאו\"ם",
-      "summary": "דוחא מקדמת בעצרת הכללית הצעת החלטה להגנה על מתווכים ומשתתפים במשא ומתן, גם בהליכים שבהם מעורבים ארגונים חמושים • בישראל חוששים שהנוסח הרחב ישמש להגברת הלחץ המדיני ולהגבלת הפעילות נגד גורמי טרור",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21894632",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T20:42:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21894591",
-      "title": "כור מחצבתנו: \"המטבחון\" מבקר במפעל הטקסטיל",
-      "summary": "בשישי התקיפה? זה בלוף של ראש עיריית דימונה • לא אכלנו מספיק חלבון? זה בלוף של יצרניות המזון • ילדי ישראל בסה\"כ בסדר? לא צריך להיות דניאל עמרם כדי לחשוף את הבלוף • וגם ההצעה הזו שקיבלנו היא בטח בלוף • המטבחון: מדור מאויר",
-      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21894591",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T20:34:06.000Z"
     }
   ]
 }
