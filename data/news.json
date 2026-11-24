@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:46:00.302Z",
+  "updatedAt": "2026-11-24T19:01:19.251Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/hasidism/viznitz-rebbe-appoints-son-av-beis-din-us-canada",
+      "title": "האדמו\"ר מויז'ניץ הכתיר הערב את בנו הצעיר לאב\"ד ויז'ניץ בארה\"ב ובקנדה",
+      "summary": "במעמד נרגש ומרומם הערב בבית האדמו\"ר מויז'ניץ הוכתר בנו, הרה\"צ רבי יעקב מרדכי הגר, לאב\"ד קהילות ויז'ניץ בארה\"ב ובקנדה בהשתתפות רבני ודייני הקהילות מחו\"ל | במעמד נחשף נוסח דברות הקודש שמסר הרבי מראש לשליחיו | האב\"ד החדש הודיע כי יעבור להתגורר סמוך לקהילות והגיש דף קבלות טובות מישיבת בורו פארק לרפואת הרבי • תיעוד וסיקור ענק (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/viznitz-rebbe-appoints-son-av-beis-din-us-canada",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T19:00:13.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjaz5xxk7e",
+      "title": "בדרך ל\"מדינה מוקצית\": הנזק לישראל בהתנגשות עם ממשל טראמפ - והתשובות שלה",
+      "summary": "שלוש דרישות על השולחן מצד מועצת השלום לעזה, ואף אחת לדבריה לא מסכנת את ישראל. בירושלים חוששים שהן יכבלו את צה\"ל. החורף כבר כאן, והפלסטינים מציגים לעולם תמונות קשות. הארגונים מאשימים את ישראל: הקרקע מזוהמת, ואי אפשר לשלם בשווקים. התשובה הישראלית: חמאס אחראי, שיתפרק מנשק",
+      "link": "https://www.ynet.co.il/news/article/hjaz5xxk7e",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T18:56:31.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877526",
+      "title": "החברה המסווגת תספק לצבא ארה\"ב פגזים ב-830 מיליון דולר",
+      "summary": "תומר, יצרנית מנועי הטילים הממשלתית המסווגת, גייסה לראשונה אג\"ח ממוסדיים כדי להרחיב את קווי הייצור - ובד בבד חתמה מול הפנטגון על עסקת ענק לפגזים בהיקף של 830 מיליון דולר",
+      "link": "https://finance.walla.co.il/item/3877526",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T18:49:33.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/bennett-closed-talks-unity-government-netanyahu-ei",
+      "title": "ציטוט חריג מבנט: \"גוש השינוי לא שיחק אותה, נבוא לביבי עם הצעה הוגנת\"",
+      "summary": "יו\"ר 'ביחד' מסביר לאנשיו מדוע יש לפעול לחיבור פוליטי רחב | \"אני לא מת על שרי הליכוד, אבל זו המציאות\" | בנט דורש ממשלת אחדות ללא חרדים (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/bennett-closed-talks-unity-government-netanyahu-ei",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T18:47:06.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1391935",
       "title": "חשד לתקיפת חזיר בר בחיפה: גבר נפצע באורח בינוני עד קשה",
       "summary": "גבר בן 38 נפצע באורח בינוני עד קשה בחיפה לאחר שלדבריו הותקף בידי חזיר בר ונפגע ברגלו, ככל הנראה מנשיכה. צוותי מד\"א העניקו לו טיפול מציל חיים ופינו אותו לבית החולים בני ציון",
@@ -48,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-24T18:36:49.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877524",
+      "title": "ישראל מצורעת, אופ\"א אדישה: מפגן אנטי-ישראלי - גם הערב",
+      "summary": "שעות לאחר ההצהרה של נשיא המועדון נגד הממשלה, האוהדים שוב הניפו שלטים אנטי-ישראליים. בטורקיה חגגו, באופ\"א עשויים להעניש",
+      "link": "https://sports.walla.co.il/item/3877524",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T18:29:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
@@ -237,6 +282,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-24T17:39:41.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1xbtbqj7l",
+      "title": "גבר במצב בינוני-קשה אחרי שהותקף על ידי חזיר בר בחיפה",
+      "summary": "הגבר הותקף בשכונת הדר עליון בעיר ופונה לביה\"ח בני ציון כשהוא סובל מפגיעה ברגלו. הוא סיפר כי נפצע כשניסה להימלט מחזיר הבר שהפתיע אותו ברחוב",
+      "link": "https://www.ynet.co.il/news/article/s1xbtbqj7l",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-24T17:35:37.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/s1xbtbqj7l",
@@ -26616,96 +26670,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-19T19:02:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390371",
-      "title": "\"חלאס, תודה על השירות\": ישראל חסון מתפוצץ על נתניהו",
-      "summary": "ישראל חסון, לשעבר סגן ראש השב\"כ, התייחס ברדיו 103fm לפרשת שוחד הבחירות ולמעורבות הארגון. במהלך הריאיון מתח ביקורת חריפה על התנהלות השב\"כ ועל ראש הממשלה בנימין נתניהו",
-      "link": "https://www.maariv.co.il/news/politics/article-1390371",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T19:00:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390371",
-      "title": "בכיר לשעבר בשב\"כ על הפרשה שמטלטלת את הארגון: \"יותר גרוע מחוליה של חמאס\"",
-      "summary": "ישראל חסון, לשעבר סגן ראש השב\"כ, התייחס ברדיו 103fm לפרשת שוחד הבחירות ולמעורבות הארגון. במהלך הריאיון מתח ביקורת חריפה על התנהלות השב\"כ ועל ראש הממשלה בנימין נתניהו",
-      "link": "https://www.maariv.co.il/news/politics/article-1390371",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T19:00:58.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962247",
-      "title": "המהלומות נמשכו: הליכוד תקף, איזנקוט השיב - אך המו\"מ יחודש",
-      "summary": "מפלגת השלטון תקפה את גוש השינוי, אך הודיעה על פגישת מו\"מ נוספת. ח\"כ טרופר השיב לביקורת - וחשף פרטים חדשים מאחורי הקלעים של המגעים",
-      "link": "https://www.walla.co.il/news/politics/383962247",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T19:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/tech/tech-news/article/21893820",
-      "title": "AI בשירות ההיסטוריה: כך נמצאו תמונותיהם של 1,056 קורבנות שואה",
-      "summary": "באמצעות כלי בינה מלאכותית ויוזמה פרטית של סטודיו צילום משפחתי בירושלים, אותרו 1,056 תמונות של קורבנות שואה שנשמרו בארכיון הלאומי בפראג אך לא הופיעו במאגר השמות של יד ושם • בעקבות העברת הממצאים אישרו ביד ושם כי התמונות יצורפו לרשומות המתאימות",
-      "link": "https://www.israelhayom.co.il/tech/tech-news/article/21893820",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:59:47.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/inside-b2-stealth-bomber-rare-footage-loading-nuclear-bomb",
-      "title": "בלב מפציץ החמקן B-2: תיעוד נדיר מטעינת פצצה גרעינית",
-      "summary": "תיעוד חסר תקדים מתוך סדרה דוקומנטרית חושף את הליך הטעינה של פצצת B61-11 • הנשק היחיד המסוגל לפגוע במתקנים תת-קרקעיים עמוקים | מסר הרתעה ברור לאיראן, רוסיה וסין (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/inside-b2-stealth-bomber-rare-footage-loading-nuclear-bomb",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T18:58:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21883949",
-      "title": "\"דה וויס\" מתה פעמיים. אבל משהו גדול בהרבה מת יחד איתה",
-      "summary": "\"ריאליטי השירה בימינו הוא דינוזאור עם קול צרוד • \"דה וויס\" התרסקה, הפרס של \"הכוכב הבא\" הוא בעצם עינוי, ולזמרים יש חלופה מוצלחת פי כמה מהפריים טיים • וגם: סדרה להתמכר אליה, אחת לוותר עליה - והאיש היחיד ששווה לצפות בו בשישי\"",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21883949",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:57:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21893982",
-      "title": "ליגת העל מככבת: \"הפועל תל אביב מבזבזת, הפועל ירושלים חזקה מאוד\"",
-      "summary": "בפודקאסט של \"באסקט ניוז\" דירגו את הליגה הישראלית כשישית בטיבה באירופה: \"הפועל ירושלים פייבוריטית לזכייה ביורוקאפ, להפועל תל אביב בעלים עשירים, ולמכבי בדרך כלל יש הרבה כישרון\" • על הקבוצות הנוספות אמרו: \"קשה מולן, הן חזקות יותר מהמקבילות במדינות אחרות\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21893982",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:52:08.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/torisn",
-      "title": "\"גוף מתכתי נמצא במוצר\": ריקול על מלפפונים חמוצים במלח",
-      "summary": "יבנה מוצרי מזון הודיעה היום על ריקול מוצר \"מלפפונים במלח, 7-9 גדול\", בעקבות תלונה שהתקבלה מצרכן על הימצאות גוף זר מתכתי במוצר (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/torisn",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T18:48:58.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tor54w",
-      "title": "אחרי הכאב שטלטל את המגזר; שמחה גדולה במשפחתו של הרב שלום ארוש",
-      "summary": "שלושה חודשים לאחר האסון הקשה שבו טבע למוות הילד שלום סגינר ז\"ל בן ה-4, נכדו של ראש מוסדות 'חוט של חסד', התבשרו הבוקר בני המשפחה על לידת בן חדש להורים הנרגשים • \"אין מתנה גדולה מזו – שייזכו מעתה רק לשמחות\" (חרדים)",
-      "link": "https://www.kikar.co.il/haredim-news/tor54w",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T18:48:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/ry00k0s30zl",
-      "title": "תקדים רצח העם בהאג ישפיע על ישראל? מומחים: \"זה פותח את הדלת\"",
-      "summary": "הקביעה התקדימית של בית המשפט הבינלאומי לצדק נגד מיאנמר מעלה חשש בישראל בנוגע לתביעת דרום אפריקה. בכירים מזהירים מ\"תקדים מסוכן\", מומחים מצביעים על שינוי באופן שבו בית הדין מסיק כוונה להשמדה. יש גם מי שטוענים: אי אפשר להחיל את הפסיקה על ישראל באופן אוטומטי",
-      "link": "https://www.ynet.co.il/news/article/ry00k0s30zl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-19T18:46:38.000Z"
     }
   ]
 }
