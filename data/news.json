@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:01:23.821Z",
+  "updatedAt": "2026-11-24T15:16:00.269Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/france-street-shooting-lyon-sparks-outrage",
+      "title": "\"זה לא קאבול ולא בגדד - זו צרפת\": תיעוד ירי רחוב בליון מעורר סערה ברשתות",
+      "summary": "תיעוד מאירוע ירי בצרפת בלילה שעבר זכה לתפוצה רחבה ברשתות החברתיות | בתיעוד נראים רשפי אש יוצאים מנשקים אוטומטיים של עברייני רחוב וסוחרי סמים בעיר ליון| \"לא, זה לא בקאבול - זה בצרפת\", תיאר אחד הגולשים (חדשות, בעולם)",
+      "link": "https://www.kikar.co.il/world-news/france-street-shooting-lyon-sparks-outrage",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T15:11:23.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391859",
+      "title": "650 נהגים כבר נתפסו: העבירה שמעכשיו תעלה לכם 500 שקל",
+      "summary": "עיריית תל אביב חושפת את נתוני מבצע האכיפה נגד חסימת צמתים באמצעות מצלמות בארבעה מוקדים מרכזיים בעיר | במקביל, חולדאי וליאון מבקשים להרחיב את סמכויות האכיפה של הרשויות המקומיות",
+      "link": "https://www.maariv.co.il/news/israel/article-1391859",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T15:10:54.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391858",
+      "title": "המגעים עם החרדים מתקדמים, אך המכשול נותר: \"לא רואה מה גוש השינוי יכול לתת להם\"",
+      "summary": "הפרשן ישראל כהן טוען כי המגעים עם החרדים צוברים תאוצה, אך המחלוקת על עצירת המעצרים מעכבת הסכמות. במקביל, הוא מסביר את המסר של נתניהו: גם אם יישאר באופוזיציה, אין בכוונתו לפרוש",
+      "link": "https://www.maariv.co.il/news/politics/article-1391858",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T15:06:06.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1391848",
+      "title": "חטפו קטין באיומי רובה מדומה: שנתיים מאסר בפועל לאחים ארביב",
+      "summary": "\"אלמלא הסדר הטיעון, הענישה הייתה חמורה פי כמה וכמה\": השופט אבי לוי גזר שנתיים מאסר על שני נאשמים שהורשעו בחטיפת וסיוע לחטיפת קטין, אחרי שתקפו אותו ואיימו עליו עם נשק מדומה",
+      "link": "https://www.maariv.co.il/news/law/article-1391848",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T15:04:39.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1391849",
       "title": "\"התפרעות אלימה וחמורה\": הורשעו הנאשמים בפרשת השחתת ביתו של השופט סולברג",
       "summary": "הורשעו ארבעה תושבי בית שמש שהשתתפו ביוני האחרון במחאה. כזכור, עשרות חרדים קיצוניים התפרעו והשחיתו רכוש רב מול ביתו של שופט בית המשפט העליון, נעם סולברג",
@@ -50,6 +86,15 @@
       "pubDate": "2026-11-24T14:58:26.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383962925",
+      "title": "איראן שוב רומזת: כך תצא המלחמה הבאה אל מעבר למזרח התיכון",
+      "summary": "מפקד משמרות המהפכה מאיים להרחיב את הלחימה אל מעבר לאזור, וקאליבאף מאיים \"לשנות את הגאוגרפיה של המערכה\". בינתיים טראמפ כבר מדבר על מועד",
+      "link": "https://www.walla.co.il/news/world/383962925",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T14:56:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/b1fvamq1xg",
       "title": "\"לא יודעת מאיפה האומץ\": שורדת הנובה הבריחה גנב שפרץ לביתה | תיעוד",
       "summary": "מצלמות האבטחה בביתה של מירי בן שושן, תושבת המרכז, תיעדו את אומץ הלב שלה: \"הגנב היה מטר מחדר הילדה. רציתי לשמור עליה\". היא פרסמה את הסרטון בתקווה שהציבור יעזור לאתר את הפורץ, לאחר שהמשטרה סגרה את התיק",
@@ -59,6 +104,33 @@
       "pubDate": "2026-11-24T14:55:51.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21922874",
+      "title": "קובעים עובדות בשטח: בליץ החקיקה החרדי החל",
+      "summary": "בצל המגעים הקואליציוניים המדשדשים, חברי הכנסת החרדים הגישו לא פחות מ-46 הצעות חוק מתואמת - שנועדו לבחון את נאמנות ראשי הגושים • בין ההצעות הבולטות: הקפאת מעצרים ומתן חסינות לעריקים, קיצור עונשים בכלא הצבאי, החזרת סבסוד המעונות לאברכים, שריון משרות בשירות המדינה והחלת ריבונות על מודיעין עילית וביתר עילית • לרשימה המלאה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21922874",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:55:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21922752",
+      "title": "כדי לצרף בלם זר בינואר: מכבי תל אביב שוקלת צעד משמעותי",
+      "summary": "הצהובים בוחנים את האפשרות להקפיא את טייריס אסאנטה, שבכל מקרה לא יוכל לחזור לפני הפלייאוף העליון, וזאת כדי לפנות מקום לרכש • במועדון מתכננים להפעיל את האופציה על ההולנדי, אבל בסרביה כבר דיווחו על מועמד מוביל",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21922752",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:53:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/recipes/article/21911971",
+      "title": "בלי תפוחי אדמה ובלי טיגון: הלביבות הבריאות של חנוכה",
+      "summary": "גם בחג השמן מותר לתת למחבת לנוח • מתכון פשוט ללביבות זהובות ופריכות מבחוץ, רכות מבפנים ועם טעם עשיר • רק 15 דקות עבודה לפני שהלביבות נכנסות לתנור, ויש גם טריק שיבטיח שהן לא יתפרקו",
+      "link": "https://www.israelhayom.co.il/food/recipes/article/21911971",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:53:17.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/bnei-brak-cleaning-petition-dismissed-court",
       "title": "עתירה נגד מכרזי הניקיון בבני ברק נמחקה; תביעה נגד \"מי ברק\"",
       "summary": "בהמלצת בית המשפט נמחקה עתירה נגד ההתקשרות עם חברות הניקיון החדשות בבני ברק | תביעה בסך 39,900 שקלים נגד תאגיד \"מי ברק\" בגין הצפת ביוב (חרדים)",
@@ -66,6 +138,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T14:47:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21922798",
+      "title": "יועמ\"שית הכנסת: \"תומך טרור\" מותר - בתנאי מסוים; עוצמה יהודית: \"סתימת פיות\"",
+      "summary": "לפי עמדתה של שגית אפק, \"טרוריסט\" ו\"מחבל\" נשארים אסורים, כפי שקבעה ועדת האתיקה • השתלחות מכפישה שחוזרת שוב ושוב על \"תומך טרור\" לצד גידופים נחשבת השפלה וביזוי אסורים • בעוצמה יהודית תוקפים: \"ניסיונות לסתום פיות לנבחרי ציבור לא יעבדו\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21922798",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:46:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21922867",
+      "title": "איראן מאיימת: \"המערכה הבאה לא תהיה אזורית בלבד\"",
+      "summary": "מפקד משמרות המהפכה של איראן, אחמד וחידי, איים כי המערכה הבאה תתרחב מעבר לזירה האזורית בעת הצורך, והזהיר כי כוחות הבסיג' נמצאים בכוננות מלאה • במקביל, דובר הקואליציה הצבאית הסעודית תורכי אל-מלאכי הודיע כי מגדל במרכז הפיננסי בריאד הותקף, ככל הנראה בירי של החות'ים מתימן",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21922867",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:45:53.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21922715",
+      "title": "שיא של 16 שנה בתנועת המטוסים: בארה\"ב נערכים לשיבושים חריגים",
+      "summary": "יותר מ-417 אלף טיסות צפויות במהלך 9 ימים סביב חג ההודיה, שיא של 16 שנה • במקביל, מזג אוויר חורפי במזרח ארה\"ב ובמערב התיכון עלול לגרום לעיכובים ולשיבושים, לצד עומסים חריגים בנמלי התעופה",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21922715",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:44:59.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/h1egqzxjmg",
@@ -78,12 +177,30 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962926",
+      "title": "היועמ\"שית לכנסת קבעה: \"אפשר לכנות ח\"כים 'תומכי טרור'\"",
+      "summary": "יועמ\"שית הכנסת התייחסה לבקשתו של חבר הכנסת מהרשימה המשותפת והבהירה כי המונח \"תומך טרור\" אינו אסור, אולם ציינה כי \"השתלחות מכפישה ובה חזרה שיטתית על הביטוי היא למעשה השפלה אסורה\"",
+      "link": "https://www.walla.co.il/news/politics/383962926",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T14:37:45.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962926",
       "title": "היועמ\"שית לכנסת: \"כינוי ח\"כים כתומכי טרור - משפיל אבל חוקי\"",
       "summary": "יועמ\"שית הכנסת התייחסה לבקשתו של חבר הכנסת מהרשימה המשותפת והבהירה כי המונח \"תומך טרור\" אינו אסור, אולם ציינה כי \"השתלחות מכפישה ובה חזרה שיטתית על הביטוי היא למעשה השפלה אסורה\"",
       "link": "https://www.walla.co.il/news/politics/383962926",
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-24T14:37:45.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/article/21922669",
+      "title": "במזל הם לא היו שם: הבית של ויליאם וקייט מידלטון נפרץ",
+      "summary": "ימים ספורים אחרי הביקור המרגש בהודו, הנסיך וויליאם וקייט מידלטון קיבלו בשורה לא נעימה מהבית • מה בדיוק קרה באחוזה שהמלכה אליזבת העניקה להם במתנת חתונה • ואיפה היו הזוג ושלושת ילדיהם כשהפורצים חדרו פנימה",
+      "link": "https://www.israelhayom.co.il/lifestyle/article/21922669",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:37:42.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/republicans-demand-answers-huang-nvidia-return",
@@ -93,6 +210,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T14:36:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21922596",
+      "title": "הסוד של ג'נסן הואנג: \"הייתי חומק מהמשרד בשבע בערב\"",
+      "summary": "מנכ\"ל אנבידיה, ששב לתפקידו אחרי 11 ימים, היה בצעירותו כישרון מבטיח בטניס שולחן • שנים לאחר מכן ניסה לחזור לענף בחשאי, לקח שיעורים פרטיים ממאמן אולימפי וגילה שהמציאות רחוקה מהזיכרונות שלו: \"זו הייתה אכזבה עצומה\"",
+      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21922596",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:35:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21922460",
+      "title": "תם עידן פדרו סאנצ'ס? כך עשוי להשפיע מהפך בספרד על ישראל",
+      "summary": "הסקרים צופים רוב לגוש הימין בבחירות בספרד ביום ראשון, שתחת סאנצ'ס הובילה את המהלכים נגד ישראל באירופה • מפלגות השמאל מתחרות על העמדה החריפה ביותר נגד ישראל, והימין מעדיף לדבר על דיור ועל סאוטה • ממשלת ימין צפויה לשקם את היחסים בהדרגה, אבל דעת הקהל לא תקל עליה",
+      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21922460",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:34:48.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21922559",
+      "title": "סוגרים את הברז: \"המשבר השקט\" בין ישראל לאירופה שיתחיל בקרוב",
+      "summary": "האיחוד האירופי הכניס לתוקף איסור גורף על ייצוא פסולת פלסטיק למדינות שאינן חברות בארגון ה-OECD, במטרה לשים סוף להעברת האשפה למדינות מתפתחות באסיה • המהלך יחול לפחות עד מאי 2029, ונועד להפסיק את הנזק הסביבתי והבריאותי שנגרם משריפת פסולת והשלכתה לים ולמקורות המים",
+      "link": "https://www.israelhayom.co.il/news/environment/article/21922559",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T14:33:29.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1391834",
@@ -726,6 +870,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962890",
+      "title": "קרעי: \"החרדים הם כמו אישה מוכה; אני עם ביבי עד ביאת המשיח\"",
+      "summary": "שר התקשורת תקף באולפן וואלה את יהדות התורה: \"מאוכזב מהם, טיבי ישמור על לומדי התורה?\". עוד התייחס למו\"מ לממשלת אחדות: \"איזנקוט מייצר מסך עשן - כשהוא בריצת אמוק לכיוון אחר\" | סרי ושלזינגר",
+      "link": "https://www.walla.co.il/news/politics/383962890",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T12:50:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962890",
       "title": "קרעי: הייתי רוצה את נתניהו עד ביאת המשיח",
       "summary": "שר התקשורת תקף באולפן וואלה את יהדות התורה: \"מאוכזב מהם, טיבי ישמור על לומדי התורה?\". על ממשלת אחדות: \"איזנקוט מייצר מסך עשן\" | סרי ושלזינגר",
       "link": "https://www.walla.co.il/news/politics/383962890",
@@ -969,6 +1122,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21921281",
+      "title": "פפראצי: אחרי הפרידה, עדן חסון ממשיך הלאה",
+      "summary": "פחות מיממה אחרי שנודע על הפרידה מיותם גבריאל, הזמר המפורסם תועד בדרך לפעילות. היכן נצפה? צפו בפפראצי",
+      "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21921281",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T12:18:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/paparazzi/article/21921281",
       "title": "רווק טרי: עדן חסון ממשיך קדימה",
       "summary": "פחות מיממה אחרי שנודע על הפרידה מיותם גבריאל, הזמר המפורסם תועד בדרך לפעילות. היכן נצפה? צפו בפפראצי",
       "link": "https://www.israelhayom.co.il/forreal/paparazzi/article/21921281",
@@ -1173,6 +1335,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-24T11:45:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877415",
+      "title": "בנות ישראל מאוהבות: ״אבדיה, העדי הימלבולי של הנשים״",
+      "summary": "אבדיה קיבל אהבה גדולה מאוהדיו, כולל שירת \"דני מלך ישראל\": \"זה הכל עבורי\". על הדחיפות מול לברון: \"לא אישי. מנסה לנצח, ולא משנה לי מול מי אני משחק\". המשפיענית הכריזה: \"אבדיה הוא העדי הימבלוי של הנשים\"",
+      "link": "https://sports.walla.co.il/item/3877415",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T11:44:55.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877415",
@@ -1446,6 +1617,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21920526",
+      "title": "***",
+      "summary": "**",
+      "link": "https://www.israelhayom.co.il/news/education/article/21920526",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T11:15:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21920526",
       "title": "מי ינהל את בתי הספר בישראל? ענקית ההייטק שעשויה להיכנס לתחום",
       "summary": "חברת Wix, ששווייה מוערך בכ-2.53 מיליארד דולר, בוחנת אפשרות להרחיב את פעילותה בתחום החינוך ולהקים אולי גם רשת בתי ספר • במקביל, המגעים הפוליטיים מקדמים מהלך להוצאת ניהול בתי הספר היסודיים וחטיבות הביניים מידי משרד החינוך",
       "link": "https://www.israelhayom.co.il/news/education/article/21920526",
@@ -1461,6 +1641,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-24T11:13:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21920600",
+      "title": "יהודית באומן מסרבת לחגוג: \"פשוט שורף לי את הלב\"",
+      "summary": "במשך שנים היה לה טקס קבוע בבוקר יום ההולדת, ומאז שקארין ז\"ל איננה אין מי שיקיים אותו • בפוסט כואב מתארת יהודית באומן את הרגע שבו פקחה הבוקר את העיניים • וגם: למי היא שולחת תודה מיוחדת דווקא ביום הקשה הזה",
+      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21920600",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T11:11:48.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21920600",
@@ -1671,6 +1860,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21919732",
+      "title": "אחרי \"התגלית\": הצעד הבא של סטיבן ספילברג",
+      "summary": "וגם: דיווח מסקרן לגבי שובר הקופות הבא של מארוול, עדכוני ליהוקים ללייב אקשן של \"נארוטו\", ולהיט האימה של ניקולס קייג' מקבל סרט המשך • חדשות הקולנוע",
+      "link": "https://www.israelhayom.co.il/culture/films/article/21919732",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T10:54:17.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21919732",
       "title": "שונה מכל מה שהכרתם: נחשף הפרויקט הבא של סטיבן ספילברג",
       "summary": "וגם: דיווח מסקרן לגבי שובר הקופות הבא של מארוול, עדכוני ליהוקים ללייב אקשן של \"נארוטו\", ולהיט האימה של ניקולס קייג' מקבל סרט המשך • חדשות הקולנוע",
       "link": "https://www.israelhayom.co.il/culture/films/article/21919732",
@@ -1740,6 +1938,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-24T10:50:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21920289",
+      "title": "חודש וחצי אחרי החתונה, אלעד צפני מודה: \"לא פשוט\"",
+      "summary": "אחרי החתונה המפוארת מול אלף מוזמנים, יוצא \"האח הגדול\" משתף בתקופה מקצועית לא פשוטה • שתי הצעות שנראו תפורות עליו ירדו מהפרק, ושני פרויקטים גדולים נתקעו בדרך • והמשפט שהוא חוזר עליו לעצמו כדי לעבור את זה",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21920289",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T10:49:01.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21920289",
@@ -26445,132 +26652,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T15:19:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "title": "בלתי נתפס: הזמין משלוח - וגילה חיוב של 5,494 שקלים על אפרסמונים",
-      "summary": "יממה אחרי הפרסום על הפומלה שתומחרה ב-17,662 שקלים, לקוח נוסף של ויקטורי מספר על חיוב חריג • הרשת: \"מדובר בתקלה טכנית נקודתית\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:13:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "title": "בלתי נתפס: הזמין משלוח - וגילה חיוב של 5,248 שקלים על אפרסמונים",
-      "summary": "יממה אחרי הפרסום על הפומלה שתומחרה ב-17,662 שקלים, לקוח נוסף של ויקטורי מספר על חיוב חריג • הרשת: \"מדובר בתקלה טכנית נקודתית\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:13:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "title": "אחרי הפומלה ב-18 אלף שקלים: עכשיו האפרסמונים ב-5,500",
-      "summary": "יממה אחרי הפרסום על הפומלה שתומחרה ב-17,662 שקלים, לקוח נוסף של ויקטורי מספר על חיוב חריג • לדבריו, חצי קילו אפרסמונים הפכו במערכת ל-500 קילוגרמים, וכרטיס האשראי שלו חויב ב-5,248 שקלים • הרשת: \"מדובר בתקלה טכנית נקודתית\"",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21890654",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:13:54.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962247",
-      "title": "נשיקה-סטירה: בליכוד נכנסים באיזנקוט, וקוראים לאחדות",
-      "summary": "מפלגת השלטון תקפה את גוש השינוי, אך הודיעה על פגישת מו\"מ נוספת. ח\"כ טרופר השיב לביקורת - וחשף פרטים חדשים מאחורי הקלעים של המגעים",
-      "link": "https://www.walla.co.il/news/politics/383962247",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T15:13:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962247",
-      "title": "\"אחדות\" והאשמות: בליכוד תוקפים - אך ממשיכים במו\"מ",
-      "summary": "\"אחדות היא צו השעה\"? בליכוד תקפו את גוש השינוי - והצהירו על מפגש מו\"מ נוסף. \"אנו מושיטים יד לאחדות, וגוש השמאל ממשיכים רק למראית עין\" נמסר בהודעת הליכוד",
-      "link": "https://www.walla.co.il/news/politics/383962247",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T15:13:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390300",
-      "title": "בזמן המלחמה באיראן: שיבוש במערכות המודיעין של ארה\"ב גרם לשיתוק של ימים",
-      "summary": "תקלת מחשוב ששיבשה בימים האחרונים את פעילות הסוכנות לביטחון לאומי בארה\"ב פגעה גם במתקן קריטי בג'ורג'יה, ושיבשה את התקשורת עם אנשי מודיעין במזרח התיכון. גורמים רשמיים הבהירו כי לא מדובר במתקפת סייבר",
-      "link": "https://www.maariv.co.il/news/world/article-1390300",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T15:12:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21891241",
-      "title": "בסלון של יסמין: יסמין לוקץ' מארחת את אמיר אליחי",
-      "summary": "היום הגיע אליי לסלון אמיר אליחי- מייסד ומנכ״ל Carbyne, שנמכרה ל- Axon בעסקת ענק של 625 מיליון דולר • אמיר הוא קצין באגוז וגם בוגר תכנית הדגל של ICON שם הכרנו • צפו בפרק המלא",
-      "link": "https://www.israelhayom.co.il/news/local/article/21891241",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:09:29.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/healthy/health-news/383962246",
-      "title": "התרופה שסוגרת את הברז להתקדמות של מחלת האלצהיימר",
-      "summary": "מינון אחד כל חצי שנה האט ב-54% את הידרדרות הזיכרון והחשיבה אצל חולים בשלב מוקדם. התוצאות שהוצגו בבוסטון מרשימות, אבל לפני שחוגגים כדאי לקרוא את האותיות הקטנות",
-      "link": "https://www.walla.co.il/healthy/health-news/383962246",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T15:08:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
-      "title": "המתקפה החריפה של הליכוד על גוש השינוי - והיערכות לפגישה נוספת בקרוב עם נציגי איזנקוט",
-      "summary": "הליכוד מאשים את איזנקוט בהתעלמות מבקשות לאחדות | טענות כנגד צעדים חד צדדיים בכנסת ותמיכה בתומכי טרור • דרישה להפסיק הודעות משתלחות כלפי נתניהו | התייחסות לדיווח על השבעת ממשלה בהישענות על רע\"ם | למרות הכל, הצוותים ייפגשו ביום ראשון | ההודעה המלאה (אקטואליה, פוליטיקה)",
-      "link": "https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T15:08:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
-      "title": "הליכוד במתקפה חריפה על גוש השינוי | ביום ראשון תתקיים פגישת משא ומתן נוספת",
-      "summary": "הליכוד מאשים את איזנקוט בהתעלמות מבקשות לאחדות • טענות כנגד צעדים חד צדדיים בכנסת ותמיכה בתומכי טרור | למרות הכל, הצוותים ייפגשו ביום ראשון (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/likud-eisenkot-unity-government-accusations",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T15:08:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21892173",
-      "title": "מבריק: 5 טיפים לניקיון הבית - לפי חדרניות במלונות 5 כוכבים",
-      "summary": "הסוד לניקיון של סוויטה נשיאותית לא דורש חומרי ניקוי יקרים, אלא שיטה • ממשוט הפלסטיק שמותח סדינים בשניות, דרך טריק ההשהיה במקלחת ועד חוק הסימטריה של 5 שניות: כך תשיגו חדר שינה מושלם במינימום מאמץ",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21892173",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:07:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21892173",
-      "title": "גאוני: 5 טריקים לניקוין הבית - לפי חדרניות במלונות 5 כוכבים",
-      "summary": "הסוד לניקיון של סוויטה נשיאותית לא דורש חומרי ניקוי יקרים, אלא שיטה • ממשוט הפלסטיק שמותח סדינים בשניות, דרך טריק ההשהיה במקלחת ועד חוק הסימטריה של 5 שניות: כך תשיגו חדר שינה מושלם במינימום מאמץ",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21892173",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:07:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21892287",
-      "title": "בליכוד תוקפים את איזנקוט, אך מודיעים: הצוותים ייפגשו שוב ביום ראשון",
-      "summary": "בליכוד מאשימים את גוש השינוי בהתעלמות מדרישותיהם להימנע מצעדים חד-צדדיים בכנסת, ובהם מינוי יו\"ר הכנסת • במפלגה תוקפים גם את האפשרות להקמת ממשלה בתמיכת המפלגות הערביות, אך מדגישים: \"אחדות לאומית היא צו השעה\" • ב\"ישר!\" מכחישים את הטענות: \"לא נענו לניסיונות לקדם שיחות\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21892287",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:06:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21892250",
-      "title": "מבצע אכיפה נרחב ביו\"ש: עשרות מבנים נהרסו, כ-100 דונם פונו",
-      "summary": "קציני המנהל האזרחי וצה\"ל פעלו בשש גזרות שונות בשטחי C • בין היתר פונו מטעי זיתים, נהרס האנגר תעשייתי והופסקו קידוחי מים פיראטיים • מה נמצא סמוך לגדר הביטחון",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21892250",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T15:04:10.000Z"
     }
   ]
 }
