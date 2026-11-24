@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:31:04.173Z",
+  "updatedAt": "2026-11-24T18:46:00.302Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391935",
+      "title": "חשד לתקיפת חזיר בר בחיפה: גבר נפצע באורח בינוני עד קשה",
+      "summary": "גבר בן 38 נפצע באורח בינוני עד קשה בחיפה לאחר שלדבריו הותקף בידי חזיר בר ונפגע ברגלו, ככל הנראה מנשיכה. צוותי מד\"א העניקו לו טיפול מציל חיים ופינו אותו לבית החולים בני ציון",
+      "link": "https://www.maariv.co.il/news/israel/article-1391935",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T18:43:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391933",
+      "title": "יאיר גולן נגד אביגדור ליברמן: העימות סביב תחקיר \"נוהל יתוש\"",
+      "summary": "לאחר שיו\"ר ועדת החוץ והביטחון דרש לעצור את שידור תחקיר \"נוהל יתוש\" בכאן 11, יו\"ר הדמוקרטים העניק גיבוי לתאגיד השידור ולחן ליברמן, הביע אמון במפקדי צה\"ל ומתח ביקורת על נתניהו",
+      "link": "https://www.maariv.co.il/news/politics/article-1391933",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T18:36:49.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
       "title": "תחקיר 'כיכר': הסבל של תושבי רמת שלמה - והאירוע החמור שהתרחש באוטובוס",
       "summary": "תושבי רמת שלמה יוצאים למאבק נגד חברת אקסטרה ומשרד התחבורה, בטענה לפגיעה קשה בשירות התחבורה הציבורית בשכונה | דוח משרד התחבורה מציב את אקסטרה בתחתית הדירוג המטרופוליני, עם שיעור חריגות גבוה בלוחות הזמנים | לצד ביטולי הנסיעות והעומסים, הגיעו עדויות על התנהלות חריגה של פקחים ונהגים, ובהן טענות למגע פיזי עם תלמידות סמינר | תחקיר 'כיכר'",
@@ -39,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T18:28:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "title": "חי מהיורוליג: באיירן מינכן - מכבי תל אביב 0:0",
+      "summary": "עם שישה הפסדים בשבעת המשחקים האחרונים במפעל, הצהובים הידרדרו למקום הלפני אחרון ומתארחים בגרמניה אצל יריבה לתחתית • טי. ג'יי ליף שלא התייצב לנבחרת ישראל בטענה לפציעה לא נכלל בסגל, גור לביא נכנס במקומו לראשונה העונה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T18:28:14.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/dangerous-overtaking-new-driver",
@@ -59,6 +86,24 @@
       "pubDate": "2026-11-24T18:17:19.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/world/383962947",
+      "title": "בסופרמרקט, בלב העיר: חמושים מחזיקים כ-30 בני ערובה - תיעוד",
+      "summary": "ניסיון שוד בסופרמרקט בעיר קרטחנה הפך לאירוע בני ערובה שנמשך שעות. בתיעודים שהופצו ברשתות נראים בני הערובה כשידיהם קשורות. הממשלה לקחה לידיה את ניהול האירוע",
+      "link": "https://www.walla.co.il/news/world/383962947",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T18:16:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21924714",
+      "title": "התקדמות במו\"מ עם החרדים: איזנקוט מעריך שיצליח להרכיב ממשלה בקרוב",
+      "summary": "על רקע הדיווחים על התקדמות במגעים בין יו\"ר ישר! לבין המפלגות החרדיות, השיחות מול הליכוד נקלעו למבוי סתום לקראת פגישה נוספת מחר עם נתניהו • ל\"היום\" נודע כי בנט הציע מתווה פשרה להקמת ועדת חקירה ממלכתית, המהווה את אחד מסלעי המחלוקת המרכזיים, שתוסכם בחדרי המשא ומתן",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21924714",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T18:11:41.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21924714",
       "title": "התקדמות במו״מ עם החרדים: איזנקוט מעריך שיצליח להרכיב ממשלה בקרוב",
       "summary": "",
@@ -75,6 +120,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-24T18:08:08.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877506",
+      "title": "מה נראה להם?! המהלך ההזוי של מכבי חיפה",
+      "summary": "כשזה מגיע לפסטיבלים, אין לירוקים מתחרים בליגה. ציון 3 מתענגים על פרשת רב\"שגייט, וגם: ההשוואה בין ערן זהבי וחלוצי אירופה. צפו",
+      "link": "https://sports.walla.co.il/item/3877506",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-24T18:07:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21924345",
@@ -210,6 +264,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-24T17:32:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
+      "title": "הישראלים שהגיעו למקום שבו שורפים גופות מול כולם: \"לא מצאנו תשובה טובה\"",
+      "summary": "אריק ורוני הגיעו למקדש בקטמנדו, נפאל, שם טקסי שריפת גופות מתקיימים על גדות הנהר לעיני המבקרים • לצד המדורות מתקיימים טקסי תפילה, גברים שמסתפרים, פרות שמסתובבות בחופשיות, במקום שבו המוות הוא חלק בלתי נפרד מהחיים",
+      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T17:31:21.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
@@ -403,7 +466,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/military/383962941",
       "title": "כ\"ץ: \"מנסים לחסל את טראמפ, גם אני מאוים\"",
-      "summary": "שר הביטחון מבהיר כי ישראל תתתקוף רק באישור ארה\"ב, מגלה שטראמפ הוא זה שהורה לתקוף לפני הבחירות וביטל ותוקף את ליברמן: \"דבריו – המרדה\"",
+      "summary": "שר הביטחון מבהיר כי ישראל תתקוף רק באישור ארה\"ב, מגלה שטראמפ הוא זה שהורה לתקוף לפני הבחירות וביטל ותוקף את ליברמן: \"דבריו – המרדה\"",
       "link": "https://www.walla.co.il/news/military/383962941",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -1249,7 +1312,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1391842",
       "title": "\"ההצעה הזאת מבזה אותי\": הדיון הסוער בכנסת על ועדת חקירה ממלכתית",
-      "summary": "ועדת הכנסת המסדרת אישרה בתום דיון סוער להקדים את הדיון בהצעות חוק שעוררו מחלוקת: ועדת חקירה ממלכתית לטבח באוקטובר, הגבלת כהונת ראש הממשלה, ביטול תיקון בפקודת המשטרה והקפאת מעצרי תלמידי ישיבות",
+      "summary": "הוועדה המסדרת אישרה בתום דיון סוער להקדים את הדיון בהצעות חוק שעוררו מחלוקת: ועדת חקירה ממלכתית לטבח השבעה באוקטובר, הגבלת כהונת ראש הממשלה, ביטול תיקון בפקודת המשטרה והקפאת מעצרי תלמידי ישיבות",
       "link": "https://www.maariv.co.il/news/politics/article-1391842",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -26643,51 +26706,6 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-19T18:46:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21893057",
-      "title": "\"אנחנו שבורים - הפסדנו\": המצור מרוקן את המקררים באיראן",
-      "summary": "תחקיר של \"הניו יורק טיימס\" מראה עד כמה הצטמצם סל המזון האיראני מאז החמירו האמריקנים את הסנקציות על המדינה • תושב טהרן מספר: \"אני קונה עוף אחד בשבוע שצריך להספיק למשפחה של שלוש נפשות\"",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21893057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:44:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/health/article/21893832",
-      "title": "למרות שביעות רצון המתמחים: הוועדה ממליצה לא להרחיב את קיצור התורנויות",
-      "summary": "ועדה בראשות מנהל סורוקה, פרופ' שלומי קודיש, ממליצה להותיר את המתווה בפריפריה בלבד, אף שיותר מ-75% מהמתמחים תומכים בו • בין ההמלצות: גמישות בשעות תחילת התורנות, תוספת רופא מומחה למחלקות ותגבור כוח האדם המסייע",
-      "link": "https://www.israelhayom.co.il/health/article/21893832",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:38:24.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/tech/privacy-and-security/383962266",
-      "title": "מידע של אלפי לקוחות דלף: מתקפת סייבר על ענקיות הפיננסים",
-      "summary": "מידע אישי של אלפי לקוחות JPMorgan Chase, ויזה ומאסטרקארד דלף בעקבות מתקפות על ספקים חיצוניים. בין הפרטים שנחשפו: שמות וכתובות מייל. החברות מבהירות כי מערכות התשלום שלהן לא נפגעו",
-      "link": "https://www.walla.co.il/tech/privacy-and-security/383962266",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T18:36:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21893898",
-      "title": "אחרי הפרידה מיפתח רמון: מאי תגר מציגה את בן הזוג החדש",
-      "summary": "חמישה חודשים אחרי הפרידה המתוקשרת, הדוגמנית ממשיכה הלאה וכעת",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21893898",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T18:36:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/torhzx",
-      "title": "דיווח: בנט לא יתמוך בממשלת מיעוט בראשות גדי איזנקוט",
-      "summary": "יו\"ר 'ביחד' נפתלי בנט אינו מוכן בשלב זה להתחייב לתמיכה בממשלת מיעוט בראשות גדי איזנקוט | במקביל, לפיד הזהיר את בנט ממשלת אחדות: \"זה יהיה מעשה של טירוף\" (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/torhzx",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T18:33:36.000Z"
     }
   ]
 }
