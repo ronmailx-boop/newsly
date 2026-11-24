@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:16:06.781Z",
+  "updatedAt": "2026-11-24T19:31:10.029Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/idf-debate-iran-strike-timing-urgency",
+      "title": "שעון החול אוזל: חילוקי דעות קשים במערכת הביטחון על עיתוי המכה באיראן",
+      "summary": "ראש אמ\"ן דוחק לפעולה בטווח ימים • גורמים אחרים בצה\"ל סבורים שניתן להמתין | המשתנה המכריע: העמדה האמריקנית (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/idf-debate-iran-strike-timing-urgency",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T19:28:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1391947",
+      "title": "אדם הועבר לבידוד באיכילוב בחשד לאבולה - אלו הנחיות משרד הבריאות",
+      "summary": "אדם שפיתח תסמינים לאחר ששב מקונגו הועבר לבידוד במרכז הרפואי איכילוב. משרד הבריאות מדגיש כי טרם אובחן בישראל מקרה מאומת של אבולה ומחדד את ההנחיות לשבים מאזורי התחלואה",
+      "link": "https://www.maariv.co.il/news/health/article-1391947",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-24T19:24:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/likud-yesh-initial-agreement-unity-track",
+      "title": "המגעים נמשכים: אלו ההסכמות הראשונות בין נציגי איזנקוט לליכוד",
+      "summary": "הסכמות ראשוניות בין הליכוד למפלגת איזנקוט: ועדת שרים תפעל לשינויים במערכת המשפט, וראש הממשלה יצא לנבצרות רק בנסיבות רפואיות | במקביל: ערוץ ישיר בין נתניהו לבנט (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/likud-yesh-initial-agreement-unity-track",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T19:24:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21925031",
+      "title": "הברית הוותיקה עם וושינגטון מתקרבת לסופה - ופותחת בפנינו דלת חדשה",
+      "summary": "אחרי הניצחון הדמוקרטי בבחירות האמצע ועלייתם של קולות ביקורתיים בקונגרס, הסיוע הביטחוני, במתכונתו הנוכחית - מתקרב לסיומו • אולם, המצב רחוק מלהיות אבוד • אם ישראל תדע לעבור משיח של תלות ביטחונית לשותפות בנושאים שמעסיקים את האמריקני הממוצע - כמו יוקר המחיה, בריאות ואנרגיה - היא תוכל לשמור על האינטרסים החיוניים שלה גם בעידן החדש",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21925031",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T19:14:34.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/davar-rishon/consumer-fraud-avrechim-tax-scam",
       "title": "ההבטחה: \"תביא תעודת זהות, תשב בכולל ותקבל כסף\" | התוצאה: חוב של 2 מיליון",
@@ -84,6 +120,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-24T18:56:31.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21924942",
+      "title": "מהיפה והחנון להאח הגדול: האודישן של כוכבת העבר",
+      "summary": "סרטון שעלה לטיקטוק תיעד את המיונים לעונה הבאה של \"האח הגדול\" מחלון בבניין סמוך • בין המועמדים נראית זוכת \"היפה והחנון\" ויוצאת \"הישרדות VIP\"",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21924942",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T18:56:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21924942",
@@ -177,12 +222,30 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
+      "title": "נסיעות שלא מגיעות ותלונות על פקחים: המשבר בתחבורה הציבורית בירושלים",
+      "summary": "תושבי רמת שלמה יוצאים למאבק נגד חברת אקסטרה ומשרד התחבורה, בטענה לפגיעה קשה בשירות התחבורה הציבורית בשכונה | דוח משרד התחבורה מציב את אקסטרה בתחתית הדירוג המטרופוליני, עם שיעור חריגות גבוה בלוחות הזמנים | לצד ביטולי הנסיעות והעומסים, הגיעו עדויות על התנהלות חריגה של פקחים ונהגים, ובהן טענות למגע פיזי עם תלמידות סמינר | תחקיר 'כיכר'",
+      "link": "https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-24T18:28:15.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
       "title": "תחקיר 'כיכר': הסבל של תושבי רמת שלמה - והאירוע החמור שהתרחש באוטובוס",
       "summary": "תושבי רמת שלמה יוצאים למאבק נגד חברת אקסטרה ומשרד התחבורה, בטענה לפגיעה קשה בשירות התחבורה הציבורית בשכונה | דוח משרד התחבורה מציב את אקסטרה בתחתית הדירוג המטרופוליני, עם שיעור חריגות גבוה בלוחות הזמנים | לצד ביטולי הנסיעות והעומסים, הגיעו עדויות על התנהלות חריגה של פקחים ונהגים, ובהן טענות למגע פיזי עם תלמידות סמינר | תחקיר 'כיכר'",
       "link": "https://www.kikar.co.il/news/kikar-investigation-ramat-shlomo-residents-bus-inc",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-24T18:28:15.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "title": "חי מהיורוליג: באיירן מינכן - מכבי תל אביב 15:15",
+      "summary": "עם שישה הפסדים בשבעת המשחקים האחרונים במפעל, הצהובים הידרדרו למקום הלפני אחרון ומתארחים בגרמניה אצל יריבה לתחתית • טי. ג'יי ליף שלא התייצב לנבחרת ישראל בטענה לפציעה לא נכלל בסגל, גור לביא נכנס במקומו לראשונה העונה",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T18:28:14.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21924849",
@@ -417,6 +480,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-24T17:32:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
+      "title": "הישראלים בטקס שריפת הגופות: \"מה אמורים לעשות מול רגע הפרידה של משפחה זרה?\"",
+      "summary": "אריק ורוני הגיעו למקדש בקטמנדו, נפאל, שם טקסי שריפת גופות מתקיימים על גדות הנהר לעיני המבקרים • לצד המדורות מתקיימים טקסי תפילה, גברים שמסתפרים, פרות שמסתובבות בחופשיות, במקום שבו המוות הוא חלק בלתי נפרד מהחיים",
+      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-24T17:31:21.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21924220",
@@ -26598,69 +26670,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-19T19:33:01.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/mayriv/yeshiva-hebron-engagement-policy",
-      "title": "\"חוסר כבוד לבנות הזוג\": האיום של 'חברון' למי שיתארס מוקדם | מעייריב",
-      "summary": "בירושלים בית שמש ובני ברק: יום זעם חרדי בגלל מעצר חתן שבוע וחצי לפני חתונתו | ישיבת חברון במכתב חריג נגד כניסה לעולם השידוכים בגיל צעיר: \"נזקים בלתי הפיכים\" | פרסם את שגעונותיו בכל ירושלים: הכרזות לסגירת ישיבת חברון מעלים חיוך | אור ישראל, בני ראם ויד אהרון: שורת הישיבות שעורכות כנס בוגרים (מעייריב)",
-      "link": "https://www.kikar.co.il/mayriv/yeshiva-hebron-engagement-policy",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T19:29:45.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390377",
-      "title": "שנה לאחר התקיפה של צה\"ל בדוחה: הנקמה של קטאר בישראל",
-      "summary": "שנה לאחר התקיפה הישראלית בדוחה: קטאר מקדמת באו\"ם החלטה חדשה להגנה על מתווכים במשא ומתן עם ארגונים חמושים; בישראל חוששים מניסיון לנצל את האו\"ם לקידום אינטרסים פוליטיים נגדה",
-      "link": "https://www.maariv.co.il/news/politics/article-1390377",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-19T19:29:37.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/tork0v",
-      "title": "זעקה בשכם לרפואת הרבי | בני האדמו\"ר מויז'ניץ העתירו בתפילה בקבר יוסף",
-      "summary": "מאות מחסידי ויז'ניץ נכנסו הלילה לקבר יוסף שבשכם לתפילת רבים נרגשת לרפואת האדמו\"ר מויז'ניץ, בראשות שלושת בניו הרבנים הגאונים הצדיקים | צפו בתיעוד ענק, מאמירת התהילים, שירת ניגוני רחמים והתעוררות והדלקת נר על הציון | במעמד השתתפו רב השומרון וראש המועצה יוסי דגן (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/tork0v",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-19T19:25:31.000Z"
-    },
-    {
-      "id": "walla:https://fashion.walla.co.il/item/3876957",
-      "title": "גננת ביום, אספנית בלילה: כך נבנה האוצר של הנסיכה דיאנה",
-      "summary": "שמלות ערב, תכשיטים, מכתבים אישיים ואפילו תקליטים: רנה פלנט הקדישה יותר מעשור לאיסוף חפציה של הנסיכה המנוחה, השקיעה מיליוני דולרים ואף משכנה את ביתה כדי לממן את הרכישות. כעת האוסף נחשף בתער",
-      "link": "https://fashion.walla.co.il/item/3876957",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T19:21:00.000Z"
-    },
-    {
-      "id": "walla:https://fashion.walla.co.il/item/3876957",
-      "title": "עד השמלה האחרונה: האישה שהקדישה את חייה לנסיכה דיאנה",
-      "summary": "שמלות ערב, תכשיטים, מכתבים אישיים ואפילו תקליטים: רנה פלנט הקדישה יותר מעשור לאיסוף חפציה של הנסיכה המנוחה, השקיעה מיליוני דולרים ואף משכנה את ביתה כדי לממן את הרכישות. כעת האוסף נחשף בתער",
-      "link": "https://fashion.walla.co.il/item/3876957",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-19T19:21:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
-      "title": "המנה הכי טעימה עשויה מנייר ברוטב דיו. לא תשכנעו אותי אחרת",
-      "summary": "עם כל הכבוד למטבחי המשפיענים, אין דין מתכון שמופיע בספרות כדין מתכון שמופיע על הדרך בטיקטוק • אצל הסופר הטעם נוטף אחרת מכל מילה, כמו בכריך שאני מקפיד לבלוס לפי מתכון של מאיר שלו ז\"ל",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T19:19:54.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
-      "title": "המנה הכי טעימה בעולם עשויה מנייר ברוטב דיו. לא תשכנעו אותי אחרת",
-      "summary": "עם כל הכבוד למטבחי המשפיענים, אין דין מתכון שמופיע בספרות כדין מתכון שמופיע על הדרך בטיקטוק • אצל הסופר הטעם נוטף אחרת מכל מילה, כמו בכריך שאני מקפיד לבלוס לפי מתכון של מאיר שלו ז\"ל",
-      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21880630",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-19T19:19:54.000Z"
     }
   ]
 }
