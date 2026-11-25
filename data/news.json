@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:45:57.912Z",
+  "updatedAt": "2026-11-25T12:01:17.838Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,76 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/israel-news/dirt-road-jeeps-ritual-bath-hasmonean-mikveh",
+      "id": "kikar:https://www.kikar.co.il/hasidism/zofnik-pardes-katz-unite-bnei-brak",
+      "title": "זופניק ופרדס כץ התאחדו | השמחה שמשכה קהל רב בבני ברק",
+      "summary": "ברוב פאר ושמחה נחגגה בהיכל בית המדרש 'קהל חסידים' בפרדס כץ שבבני ברק, שמחת אירוסי נכדת גאב\"ד פרדס כץ, הגאון רבי אהרן שפירא, בת לחתנו הרב יהושע גרינצווייג, עב\"ג נכד הגרי\"א כהנא, מו\"ץ בבד\"ץ 'העדה החרדית' ורב ביהמ\"ד זופניק בירושלים (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/zofnik-pardes-katz-unite-bnei-brak",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T12:00:03.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjwvmnnkql",
+      "title": "יותר ממחצית מהמורים למתמטיקה ביסודי ללא הכשרה מתאימה | הנתונים מדוח הלמ\"ס",
+      "summary": "בדוח נכתב כי קיים מחסור מתמשך במורים בעלי רקע השכלתי והכשרתי מתאים להוראת מקצועות הליבה, בעיקר בבתי ספר יסודיים. במתמטיקה, 58.5% מהמורים ביסודי אינם בעלי הכשרה מתאימה; בחינוך הממלכתי-דתי שיעורם מגיע ל-73.4%. לצד זאת, נרשמה עלייה בהתאמה להוראה בחטיבות הביניים ובחטיבות העליונות",
+      "link": "https://www.ynet.co.il/news/article/sjwvmnnkql",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T11:54:52.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/pm-term-limit-bill-knesset",
+      "title": "65 מול 50: הצעת חוק להקמת ועדת חקירה ממלכתית אושרה בטרומית",
+      "summary": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק להגבלת כהונת ראש ממשלה ל-8 שנים • החוק מבקש גם למנוע מנאשם להרכיב ממשלה | המהלך של גוש השינוי (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/pm-term-limit-bill-knesset",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T11:51:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/environment/article-1392156",
+      "title": "תם עידן באילת: לאחר עשרות שנים - הפיל הלבן של העיר בדרך להיעלם",
+      "summary": "בתום מאבק משפטי שנמשך שנים ובמסגרת מבצע הנדסי מורכב, פונה המבנה שהוקם ללא היתר. לפי חוות דעת מקצועיות, הרפסודה פגעה במערכת האקולוגית הימית ואף היוותה סכנה בטיחותית",
+      "link": "https://www.maariv.co.il/news/environment/article-1392156",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T11:47:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1392158",
+      "title": "חג השמן, בלי לאבד את האיזון: 10 טיפים איך לעבור את חנוכה בשלום",
+      "summary": "איך נהנים מסופגניות ולביבות בחנוכה בלי לפגוע באיזון הסוכר? מומחיות לסוכרת והשמנה מפרסמות 10 המלצות לחג, מבחירת המנות ובדיקת הפחמימות ועד להתמודדות עם השפעת המזון המטוגן",
+      "link": "https://www.maariv.co.il/news/health/article-1392158",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T11:45:28.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/satmar-wedding-celebration-documentation",
+      "title": "מקבלת הפנים ועד ה'מצווה טאנץ' | תיעוד ענק משמחת בית סאטמר",
+      "summary": "אלפי חסידי סאטמר, ועל צבאם אדמו\"רים ורבנים חשובים, נטלו חלק השבוע בשמחת נישואי הכלה, נכדת האדמו\"ר מסאטמר, בת לבנו הגה\"צ רבי יעקב בער טייטלבוים, אב\"ד סיגעט, עב\"ג החתן, בן הגה\"צ אב\"ד ספינקא ונכד האדמו\"ר מספינקא | צפו בתיעוד ענק מקבלת הפנים והחופה, דרך סעודת המצווה לבחורי המתיבתא ועד הופעת האדמו\"ר וריקוד הקודש ב'מצווה טאנץ' (חסידים)",
+      "link": "https://www.kikar.co.il/hasidism/satmar-wedding-celebration-documentation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T11:43:35.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/hasmonean-mikveh-jericho",
       "title": "דרך עפר, ג'יפים והיסטוריה: טבילה מרגשת במקווה העתיק של החשמונאים",
       "summary": "2,000 שנה אחרי הכוהנים לבית חשמונאי: הדרך המאתגרת בג'יפ בפאתי יריחו, ההגעה לארמונות החורף העתיקים והרגע שבו המים חזרו למקווה המטויח • צפו בתיעוד (היסטוריה)",
-      "link": "https://www.kikar.co.il/israel-news/dirt-road-jeeps-ritual-bath-hasmonean-mikveh",
+      "link": "https://www.kikar.co.il/israel-news/hasmonean-mikveh-jericho",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T11:42:50.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-trial-ministers-demand-end-judges-recomm",
+      "title": "מתקפת השרים: אין שוחד אין כלום - דרעי: יום הכיפורים של מערכת המשפט",
+      "summary": "השופטים המליצו ליועמ\"שית לבחון מחדש את האישומים בתיקים 2000 ו-4000 • בן גביר: \"רדיפה של הדיפ-סטייט\" | \"די לרדיפה\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-trial-ministers-demand-end-judges-recomm",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T11:41:18.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-trial-ministers-demand-end-judges-recomm",
@@ -57,6 +120,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T11:38:10.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877614",
+      "title": "ביהמ\"ש קבע: הבנק שיפצה את לקוחותיו ביותר ממיליון שקלים",
+      "summary": "ביהמ\"ש קבע: הבנק שיפצה את לקוחותיו ביותר ממיליון שקלים",
+      "link": "https://finance.walla.co.il/item/3877614",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T11:37:27.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/daf-yomi-amit-segal-rabbi-stefansky",
@@ -131,6 +203,15 @@
       "pubDate": "2026-11-25T11:23:34.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/politics/383963072",
+      "title": "הכנסת אישרה בטרומית הקמת ועדת חקירה ממלכתית למחדלי ה-7.10",
+      "summary": "65 חברי כנסת תמכו בהצעה להקמת ועדת חקירה ממלכתית לטבח ולמלחמה שפרצה בעקבותיו, מול 50 מתנגדים. במקביל, אושרה בטרומית הצעה להגבלת כהונת ראש הממשלה ולמניעת הטלת הרכבת הממשלה על נאשמים בתנאים מסוימים",
+      "link": "https://www.walla.co.il/news/politics/383963072",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T11:22:23.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392147",
       "title": "\"סיכויי ההרשעה נמוכים\": היום הדרמטי במשפט נתניהו, ומה נשאר מכתב האישום | גלעד מורג",
       "summary": "השופטים במשפט נתניהו מציעים לפרקליטות לשקול מחדש את תיק 4000 כולו, ומטילים ספק אם תיק 2000 מגלם עבירה בכלל. רק תיק 1000 נשאר על השולחן. גלעד מורג מסביר למה זו הדרמה הגדולה במשפט",
@@ -174,6 +255,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T11:13:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bydezhnyxg",
+      "title": "הצעת החוק להקמת ועדת חקירה ממלכתית ל-7/10 אושרה בקריאה טרומית",
+      "summary": "הצעת החוק אושרה בתמיכת 65 חברי כנסת מול 50 מתנגדים. משפחות שכולות מחו קראו לשרה רגב לרדת מהפודיום בזמן שטענה: \"ההצעה לא תבדוק את מה שקרה במחדל\"",
+      "link": "https://www.ynet.co.il/news/article/bydezhnyxg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T11:09:31.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bydezhnyxg",
@@ -840,6 +930,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T09:54:49.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877596",
+      "title": "זאת לא העונה של מכבי חיפה: הפציעה המוזרה של עמרי גלזר",
+      "summary": "זאת לא העונה של מכבי חיפה: הפציעה המוזרה של עמרי גלזר",
+      "link": "https://sports.walla.co.il/item/3877596",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T09:53:47.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21928108",
@@ -28002,78 +28101,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T12:01:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21895821",
-      "title": "יעל שלביה מפתיעה בזמן שלאנס סטרול בלאס וגאס: \"אהבת חיי\"",
-      "summary": "בעוד בן זוגה, נהג הפורמולה 1 הקנדי לאנס סטרול, נמצא באחד המרוצים הנוצצים בסבב, הדוגמנית הישראלית שיתפה תיעוד אינטימי עם הכלבה שלה, תות, והקדישה לה שתי מילים מלאות באהבה",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21895821",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T12:00:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21896763",
-      "title": "כחלק מהמאבק בטרור: מאות רחפנים הוחרמו ביו\"ש מתחילת השנה",
-      "summary": "במסגרת מאמץ מבצעי של צה\"ל, מג\"ב והמשטרה הוחרמו יותר מ-500 רחפנים, מהם כ-15 בשבוע האחרון • במערכת הביטחון פועלים למנוע נשיאה והטלה של חומרי נפץ באמצעות רחפנים • צו אלוף פיקוד המרכז אוסר על החזקתם ועל השימוש בהם באזור",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21896763",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:59:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390413",
-      "title": "\"קרה פה משהו קיצוני\": הסרטונים מחדר החקירות של שילת חוטה יוצאים לאור",
-      "summary": "בריאיון לפודקאסט הפלילי של מעריב טוען עו\"ד עמית ויצמן כי שילת חוטה מסרה גרסה מפלילה בעקבות לחצים ואלימות בחקירה • הוא מתייחס להרשעת מאיר אלפסי בעבירות מין ומותח ביקורת על מדיניות המעצרים בדרום",
-      "link": "https://www.maariv.co.il/news/law/article-1390413",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T11:55:03.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390413",
-      "title": "סנגורה של שילת חוטה בטענה דרמטית: \"החוקרים העלו את קלף יום הדין\"",
-      "summary": "בריאיון לפודקאסט הפלילי של מעריב טוען עו\"ד עמית ויצמן כי שילת חוטה מסרה גרסה מפלילה בעקבות לחצים ואלימות בחקירה • הוא מתייחס להרשעת מאיר אלפסי בעבירות מין ומותח ביקורת על מדיניות המעצרים בדרום",
-      "link": "https://www.maariv.co.il/news/law/article-1390413",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T11:55:03.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/celebs/only-fan/3876696",
-      "title": "\"מכניס את השבבים שלו\": סערת מנכ\"ל אנבידיה מסתבכת",
-      "summary": "\"מכניס את השבבים שלו\": סערת מנכ\"ל אנבידיה מסתבכת",
-      "link": "https://www.walla.co.il/celebs/only-fan/3876696",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T11:53:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390512",
-      "title": "יו\"ש: יהודים ניפצו חלונות והשתלטו על בסטה של ירקות ופירות השייכת לפלסטיני",
-      "summary": "על פי תיעוד מצלמות אבטחה נראים שלושה פעילי ימין רעולי פנים יורדים מרכב למתחם פלסטיני בכפר אל חלקום, כשהם חמושים, וביצעו מעשי ונדליזם. באירוע נוסף, פעילי ימין השתלטו על בסטה לממכר פירות וירקות",
-      "link": "https://www.maariv.co.il/news/military/article-1390512",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T11:51:18.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/tostu9",
-      "title": "אור החיים אקטואלי עם יוסי אליטוב: מה שעשיו החמיץ | צפו",
-      "summary": "פינתו של עורך עיתון 'משפחה', יוסי אליטוב, ב'כיכר השבת': עשיו בא לעולם כדי להוכיח שאפשר לחיות בתוך העולם ולכבוש את היצר. הוא נפל במקום שבו נדרש לנצח |יוסף השלים את מה שעשיו החמיץ: ירד למצרים, פגש את הפיתוי ונשאר בקדושתו | אור החיים אקטואלי (יהדות)",
-      "link": "https://www.kikar.co.il/haredim-news/tostu9",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T11:50:57.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/leiter-us-troops-return-iran-defeated",
-      "title": "המשפט של שגריר ישראל שהצית את הרשת והביא תגובה איראנית חריפה",
-      "summary": "שגריר ישראל בארה\"ב אמר בריאיון כי החיילים האמריקנים יחזרו הביתה כשאיראן תובס • שר החוץ האיראני הגיב בעוקצנות: \"לא ידענו ששגריר ישראל הוא המפקד העליון\" | התגובה שהציתה את הרשת (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/world-news/leiter-us-troops-return-iran-defeated",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T11:47:40.000Z"
     }
   ]
 }
