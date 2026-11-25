@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:31:10.249Z",
+  "updatedAt": "2026-11-25T18:45:57.842Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392301",
+      "title": "יועצו של מוג'תבא חמינאי במסר מאיים לישראל: \"חכו ותראו\"",
+      "summary": "בכירים באיראן מאיימים כי מלחמה נוספת עם ישראל וארה\"ב תחרוג מגבולות האזור ותכלול שימוש באמצעי לחימה חדשים. במקביל, בטהרן טוענים כי המצור הימי שוחק את הכוחות הצבאיים המוצבים באזור",
+      "link": "https://www.maariv.co.il/news/world/article-1392301",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T18:43:38.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/bennett-netanyahu-secret-channel-eisenkot",
       "title": "נחשף: בנט ונתניהו מנהלים ערוץ חשאי ללא ידיעת ראשי גוש השינוי",
       "summary": "למרות ההסכמות בגוש השינוי, ב'הארץ' נחשף הערב כי בנט ונתניהו מקיימים קשר ישיר ורציף ללא ידיעת חבריו לגוש. המגעים עוסקים בזהות ראש הממשלה והרכב הקואליציה (פוליטי מדיני)",
@@ -39,6 +48,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T18:23:44.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21933147",
+      "title": "רגע לפני \"שגרת המריבות\" במליאה - הכנסת זכתה לראות רגע אחד מרגש",
+      "summary": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק להקמת ועדת חקירה ממלכתית ל-7 באוקטובר, לקול תשואות ובכי של משפחות שכולות ביציע • האישור לווה בעימות חריף בין השרה רגב לבין ח\"כ רפי בן-שטרית ששכל את בנו הלוחם והטיח בה: \"אתם אחזתם בהגה\" • נתניהו נחל הפסד צורב בהצבעה לצד כשלון בחוק הגבלת הכהונה, אך הפגין נינוחות במליאה",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21933147",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T18:21:29.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21933210",
@@ -29793,33 +29811,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-20T19:05:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/tech/science/383962342",
-      "title": "הפנטגון חשף מסמכי עב\"מים חדשים; מה תכננו להסתיר מתחת לאדמה?",
-      "summary": "43 קבצים חדשים, שלושה סרטונים צבאיים ותוכנית להקמת כספת תת-קרקעית לחומרים חריגים: הגל השמיני של חשיפת ארכיון העב\"מים האמריקני כולל גם תיעוד מסתורי מספינת מלחמה ועדות של מהנדס תעופה אגדי",
-      "link": "https://www.walla.co.il/tech/science/383962342",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T18:44:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21898116",
-      "title": "\"אני לא מאמין, אבל אייל ברקוביץ' הוא המועמד שלי\"",
-      "summary": "מאמן בכיר לשעבר בכדורגל הישראלי המליץ למנות את \"הקוסם\" במקום רן בן שמעון, והסביר: \"גם אני חשבתי שזה הזוי, אבל רק הוא יכול לעמוד מול הבכירים בהתאחדות לכדורגל\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21898116",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T18:34:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21898116",
-      "title": "\"אני לא מאמין, אבל אייל ברקוביץ' המועמד שלי לאימון הנבחרת\"",
-      "summary": "מאמן בכיר לשעבר בכדורגל הישראלי המליץ למנות את \"הקוסם\" במקום רן בן שמעון, והסביר: \"גם אני חשבתי שזה הזוי, אבל רק הוא יכול לעמוד מול הבכירים בהתאחדות לכדורגל\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21898116",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T18:34:49.000Z"
     }
   ]
 }
