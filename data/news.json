@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:15:47.291Z",
+  "updatedAt": "2026-11-25T05:30:58.897Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/drizzle-morning-warming-weekend-weather-forecast",
+      "title": "מטפטופים בבוקר ועד התחממות לקראת שבת: כך ייראה מזג האוויר בימים הקרובים",
+      "summary": "היום עוד תרגישו התקררות וגשם מקומי קל בצפון ובחוף, אבל אל תתרגלו: כבר ממחר המגמה מתהפכת, וביום שישי ישרור מזג אוויר חם מהרגיל לעונה • התחזית המלאה (מזג האוויר)",
+      "link": "https://www.kikar.co.il/israel-news/drizzle-morning-warming-weekend-weather-forecast",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T05:25:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1391997",
+      "title": "המשפט הגדול של ענקית הטכנולוגיה: וואווי הורשעה בהפרת הסנקציות על איראן",
+      "summary": "ענקית התקשורת הסינית הורשעה בעשרה מתוך 12 סעיפי האישום נגדה, בהם קשירת קשר לגניבת סודות מסחריים והפרת הסנקציות על איראן. התובע הפדרלי טען כי פעילותה סיכנה את הביטחון הלאומי של ארה\"ב",
+      "link": "https://www.maariv.co.il/news/world/article-1391997",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T05:23:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/american-report-dimona-facility-nuclear-capabiliti",
+      "title": "מבנה מסתורי בדימונה וטילים לטווח 4,000 ק\"מ | הדו\"ח האמריקני על הגרעין הישראלי",
+      "summary": "מומחי הפדרציה של המדענים האמריקנים מפרסמים סקירה מעודכנת המבוססת על צילומי לוויין חדישים • לפי ההערכות, ישראל מחזיקה בכ-90 ראשי נפץ, והכור הוותיק בנגב מראה סימני התיישנות לצד בניית מבנה עגול חדש (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/american-report-dimona-facility-nuclear-capabiliti",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T05:22:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1391993",
+      "title": "הדמות המרכזית במהפך של דונלד טראמפ - והמסר המרכזי שהעבירה",
+      "summary": "סטיבן מילר מונה לאחרונה לתפקיד ראש סגל הבית הלבן. הוא נחשב לתומך גדול של מדיניות ההגירה של נשיא ארצות הברית דונלד טראמפ, ונולד בכלל למשפחה דמוקרטית מובהקת",
+      "link": "https://www.maariv.co.il/news/world/article-1391993",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T05:17:31.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/king-charles-health-abdication-reports-2",
       "title": "דיווח: הידרדרות במצב המלך צ'ארלס - עשוי לפנות את הכתר לבנו ויליאם",
       "summary": "מקורות בבריטניה טוענים כי מצבו הבריאותי חמור מהמוצג • הביקור באיים הקריביים גבה מחיר כבד | הארמון שומר על שתיקה (בעולם)",
@@ -41,6 +77,15 @@
       "pubDate": "2026-11-25T05:09:09.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/new-products/article/21924157",
+      "title": "בלי תרכיזים ובלי סוכר: הפיתוח הישראלי שמשנה את טעם המים",
+      "summary": "מוזגים לתוכו מים רגילים לגמרי, אבל חוויית השתייה שונה לגמרי • שני יזמים ישראלים פיתחו בקבוק רב-פעמי שנועד לגרום לילדים ולמבוגרים לשתות פחות משקאות ממותקים • אז איך זה באמת עובד וכמה זה יעלה לכם?",
+      "link": "https://www.israelhayom.co.il/food/new-products/article/21924157",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T05:08:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-campaign-budget-january-nuclear-focus",
       "title": "הנשיא טראמפ חושף: \"התקציב למערכה באיראן מובטח עד סוף ינואר\"",
       "summary": "הנשיא האמריקני מעריך שהדמוקרטים לא יעצרו את המומנטום הצבאי • מציב קו ברור: המטרה היא בלימת הגרעין בלבד, לא הפלת המשטר (בעולם)",
@@ -48,6 +93,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T05:05:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21926473",
+      "title": "המושל היהודי שסומן לנשיאות ארה\"ב: \"נתניהו כושל - הוביל את ישראל לדרך חשוכה\"",
+      "summary": "מושל פנסילבניה, יהודי שומר מצוות ותומך מוצהר בברית עם ישראל, תוקף בראיון ראשון על מדיניות חוץ את ביידן ואת טראמפ על שלא ריסנו את ראש הממשלה בעזה • אחרי ניצחון בפער של 22 נקודות במדינה שטראמפ ניצח בה ב-2024, שפירו עוד לא הודיע על התמודדות ל-2028, אבל מתבטא כמו מועמד • על ואנס ורוביו: \"על שניהם יש את הסירחון של טראמפ\"",
+      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21926473",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T05:02:33.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21921847",
+      "title": "8 שפים מפורסמים הגיעו לישראל - וזה מה שהם גילו",
+      "summary": "לראשונה מאז 7 באוקטובר 2023 הגיעה לישראל משלחת קולינרית בינלאומית בהיקף כזה • בין החממות בנגב, מחלבת בארי, השווקים והמסעדות המובילות בארץ, גילו האורחים צד אחר לגמרי של ישראל • אופיר רבינוביץ' פגשה אותם לארוחת ערב בתל אביב ושמעה מהם על החוויות, ההפתעות וגם הביקורת",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21921847",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T05:02:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/yahadut-hatorah-eisenkot-draft-agreement-progress",
@@ -75,6 +138,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T04:49:43.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/travel/news-travel/383962538",
+      "title": "בתים בחינם באיטליה: כך תוכלו לגור 10 שנים בלי לשלם שכר דירה",
+      "summary": "מחוז קלבריה בדרום איטליה מציע 50 בתים ציבוריים נטושים לשכירות בחינם למשך עשור, במטרה להחזיר תושבים לאזור שמאבד אוכלוסייה בקצב מדאיג. יש גם תנאי סף, ולא כל אחד יכול להגיש מועמדות",
+      "link": "https://www.walla.co.il/travel/news-travel/383962538",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T04:46:19.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21926442",
@@ -249,7 +321,7 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383962955",
-      "title": "בכיר בבית הלבן לוואלה: אין שינוי בעמדת טראמפ כלפי ישראל",
+      "title": "הבית הלבן לוואלה: טראמפ לא שינה את עמדתו על הסיוע",
       "summary": "לאחר ששגריר ארה\"ב בישראל אמר כי הכספים שכבר הוקצו צפויים להמשיך לזרום, בבית הלבן הבהירו כי עמדת הנשיא לא השתנתה",
       "link": "https://www.walla.co.il/news/world/383962955",
       "source": "וואלה",
@@ -272,6 +344,15 @@
       "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21924934",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T04:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962955",
+      "title": "בכיר בבית הלבן לוואלה: אין שינוי בעמדת טראמפ כלפי ישראל",
+      "summary": "לאחר ששגריר ארה\"ב בישראל אמר כי הכספים שכבר הוקצו צפויים להמשיך לזרום, בבית הלבן הבהירו כי עמדת הנשיא לא השתנתה",
+      "link": "https://www.walla.co.il/news/world/383962955",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-25T04:00:00.000Z"
     },
     {
@@ -26706,60 +26787,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T05:31:48.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876989",
-      "title": "מכבי תל אביב מתוסכלת: \"פשוט איבדנו את זה\"",
-      "summary": "הצהובים שמטו יתרון גדול נגד דובאי והפסידו פעם נוספת ביורוליג. בייקוט נשאר אופטימי: \"אנחנו מתקדמים בכיוון הנכון\". במועדון הזכירו שבשנה שעברה חזרו ממאזן דומה: \"צריכים לקחת את זה משחק אחרי משחק\"",
-      "link": "https://sports.walla.co.il/item/3876989",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T05:30:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21895307",
-      "title": "שריפות בצפון: בן 80 נספה בראש פינה, שבעה נפגעו במג'ד אל כרום",
-      "summary": "גבר כבן 80 נספה בשריפה בדירה בראש פינה, ואישה בת גילו פונתה לבית החולים במצב בינוני לאחר ששאפה עשן • במג'ד אל כרום חולצו שבעה בני אדם ממבנה מגורים שעלה באש, ושישה נפגעו, בהם אחד באורח בינוני • נסיבות השריפות נבדקות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21895307",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T05:25:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/beit-shemesh-yeshiva-student-traffic-check-riots",
-      "title": "לילה סוער בבית שמש: עימותים קשים עם המשטרה בעקבות דיווח שגוי על ניסיון מעצר של עריק | צפו",
-      "summary": "בדיקת תנועה שגרתית של בחור ישיבה הפכה לעימותים קשים • שמועה שגויה על מעצר עריק הביאה מאות למקום, להפגנה סוערת שכללה עימותים קשים | גם אחרי שחרורו של הבחור, נמשכו העימותים עד לשעות הקטנות של הלילה (חרדים)",
-      "link": "https://www.kikar.co.il/haredim/beit-shemesh-yeshiva-student-traffic-check-riots",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T05:24:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21894994",
-      "title": "\"לא רואים את הכדורסל של עודד קטש במכבי תל אביב\"",
-      "summary": "פיני גרשון ביקר את השחקנים והמאמן של הצהובים לאחר צמד ההפסדים לאולימפיאקוס ודובאי: \"לא בטוח שגם השחקנים מבינים אותה\" • על המשך הדרך ביורוליג: \"בשלב כזה של העונה להגיד שאתה לא יכול לעשות 16 ניצחונות ולהילחם על הפלייאין, זה מצער\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21894994",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T05:21:05.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/weather-forecast-temperature-changes-4",
-      "title": "בשבת: מידות חום גבוהות מהרגיל לעונה. ביום ראשון: ירידה בטמפרטורות וגשם",
-      "summary": "מזג האוויר ממשיך להשתנות מיום ליום, כמתאים לתקופה זו של השנה | עקבו אחרי התחזית כדי לדעת איך להתארגן ליציאה מהבית (חדשות)",
-      "link": "https://www.kikar.co.il/israel-news/weather-forecast-temperature-changes-4",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T05:16:31.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21838021",
-      "title": "היחידים שבחרנו לאהוב: האם לגיטימי לאהוב את בן הזוג יותר מההורים?",
-      "summary": "זו אחת השאלות הרגישות ביותר במערכות יחסים • מצד אחד, בן הזוג הוא המשפחה היחידה שאנחנו בוחרים באופן אקטיבי • מנגד, אהבת הורים היא הקשר היחיד שאינו תלוי בדבר • צפו בוויכוח והצטרפו אליו",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21838021",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T05:16:00.000Z"
     }
   ]
 }
