@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:01:10.361Z",
+  "updatedAt": "2026-11-25T17:16:08.454Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392278",
+      "title": "האם הדמוקרטיה באירופה בטוחה? רבנים, אנשי ביטחון ופוליטיקאים התכנסו לדון בנושא",
+      "summary": "כ-150 בכירים מתחומי הביטחון, הדת והפוליטיקה דנו במינכן במלחמה באוקראינה, בזינוק באנטישמיות ובסכנות הבינה המלאכותית. מנכ\"ל CCDH חשף כי מערכות AI סיפקו הנחיות לבניית מטעני חבלה",
+      "link": "https://www.maariv.co.il/news/world/article-1392278",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T17:12:48.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392274",
+      "title": "מהבית הלבן לעיירה קטנה בטנסי: המהלך העסקי המפתיע של אל גור",
+      "summary": "סגן נשיא ארה\"ב לשעבר, שהחל את דרכו כעיתונאי, ירכוש שבועון בטנסי לאחר חמישה עשורים בבעלות משפחה מקומית. תנאי העסקה לא פורסמו, ומומחה מזהיר מפני ספקנות אפשרית של התושבים כלפי הבעלים החדש",
+      "link": "https://www.maariv.co.il/news/world/article-1392274",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T17:08:26.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/lod-border-police-chase-illegal-residents-arrest",
+      "title": "טעות שעלתה ביוקר: כך החשוד שניסה לברוח מהשוטרות הפליל את חבריו",
+      "summary": "ניסיון הימלטות חפוז של חשוד ברחוב המסגר בלוד הסתיים במעצר המוני: במקום לחמוק מסיירות מג\"ב מרכז, הוא רץ ישירות לתוך מתחם מסתור סמוך – והוביל את הלוחמות הישר אל 12 שוהים בלתי חוקיים נוספים שהסתתרו במקום | צפו (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/lod-border-police-chase-illegal-residents-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T17:02:57.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/ayom-bakikar/netanyahu-trial-earthquake-pakistan-footage",
       "title": "רעידת האדמה במשפט נתניהו, והתיעוד המצמרר מפקיסטן | היום בכיכר",
       "summary": "משפט: השופטים הציעו לוותר על תיק 4000 | פוליטיקה: יהדות התורה מתקרבת למו\"מ עם איזנקוט | כנסת: אושרה בטרומית ועדת חקירה ממלכתית | בריאות: בת 47 נפטרה מסיבוכי שפעת | גיוס: סערה סביב מעצר אברך בכביש 90 | בעולם: תיעוד מצמרר מדרך הילדים בפקיסטן | תחזית: עלייה קלה בטמפרטורות | והתיעוד: רגע לפני אסון בשבריר שנייה",
@@ -39,6 +66,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T17:00:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/hashavua/article/21932548",
+      "title": "שנים שמענו כמה חשוב להקשיב למשפחות החטופים. ואז משהו קטן קרה",
+      "summary": "כשלא נתנו לקורבנות ה-7 באוקטובר פתחון פה בכל ועדה בכנסת, הם זעקו על קץ הממלכתיות • אלא שאז התחלפו יושבי ראש הוועדות, ואולי גם זהות המוחים - וכבר נהיה פחות חשוב לאפשר להם להתבטא • או כמו שאמר מתן כהנא: הכל עניין של מילייה",
+      "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21932548",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:56:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21932703",
+      "title": "אחרי נזקי השיטפון, פארק השעשועים נפתח מחדש - עם כוכבית",
+      "summary": "סיאם פארק (Siam Amazing Park) בבנגקוק, תאילנד, שנפגע מההצפות הקשות ביותר שפקדו אותו ב-46 שנות פעילותו, חזר לפעול באופן חלקי",
+      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21932703",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:54:41.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-statement-trial-judges-recommendation",
+      "title": "נתניהו מתייחס לראשונה לדרמה במשפטו: \"עשור של סבל נורא לי ולמשפחתי, אני מושיט יד לפיוס\"",
+      "summary": "ראש הממשלה תקף בהצהרה לתקשורת מהכנסת את הפרקליטות והאופוזיציה בהצהרה חריפה: \"רצח אופי והסתה קשה, סבל נורא למשפחתי\" | הצעת החוק בכנסת: \"זה כלי לחיסול פוליטי כמו באיראן\" | ופנה לאיזנקוט: \"מושיט יד לפיוס\" (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/netanyahu-statement-trial-judges-recommendation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T16:49:40.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-statement-trial-judges-recommendation",
@@ -59,6 +113,15 @@
       "pubDate": "2026-11-25T16:47:49.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/other/article/21932381",
+      "title": "מוות מחנק ושלפוחיות בעור: כיצד נראה האיום הכימי של איראן?",
+      "summary": "שר הביטחון כ\"ץ כבר קבע כי טהרן מפתחת כלי נשק כימיים וכי ישראל תפעל למנוע זאת ממנה • איזה חומרים כימיים יכולים לשמש כנשק ומה התקדימים ההיסטוריים לשימוש בהם? • מבוא למלחמה מלוכלכת",
+      "link": "https://www.israelhayom.co.il/news/world-news/other/article/21932381",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:46:11.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-knesset-statement-judges-recommendation",
       "title": "נתניהו מתייחס לדרמה במשפט: \"היום נפל דבר, היום נפל המשפט\"",
       "summary": "ראש הממשלה יקיים הצהרה לתקשורת באולם ירושלים • ברקע: המלצת השופטים במשפטו והמגעים המואצים להשבעת ממשלה (פוליטי מדיני)",
@@ -77,12 +140,30 @@
       "pubDate": "2026-11-25T16:39:08.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21932635",
+      "title": "נטש את האימון: בשורה מדאיגה למכבי חיפה בנוגע לפייר קורנו",
+      "summary": "המגן שמחלים מקרע ברצועה הצולבת חש כאבים חדים בשריר התאומים • במועדון חוששים שהדבר יוביל לדחיית חזרתו הצפויה בתחילת ינואר • כך רן בן שמעון יתמודד עם העמדה המאולתרת בבכורה שלו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21932635",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:39:03.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/s1h2bk4yxg",
       "title": "נתניהו בהצהרה אחרי הדרמה במשפט: \"אמרתי שלא יהיה כלום - אבל זה לקח 10 שנים של סבל נורא\"",
       "summary": "אחרי שהשופטים אמרו שלא צפויה הרשעה בתיקי 2000 ו-4000, אך לא שללו את הראיות בתיק 1000, רה\"מ טען כי \"היום נפל המשפט\", הוסיף שנעשה \"עוול נורא\" לו ולמשפחתו וש\"עם ישראל כולו סבל\", וגם האשים: \"עשור של פילוג ושיסוי שקרע את העם לגזרים בגלל תיקים תפורים והזויים\". חוק הנאשם? \"כמו באיראן\". לדבריו, \"המשפט צריך להסתיים. אני מושיט יד לפיוס כדי להבטיח את עתיד ישראל\"",
       "link": "https://www.ynet.co.il/news/article/s1h2bk4yxg",
       "source": "ynet",
       "sourceKey": "ynet",
+      "pubDate": "2026-11-25T16:37:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21932484",
+      "title": "בוקר ללא כותרות על רצח נשים? העיתון שמבטיח שיהיה פה טוב יותר",
+      "summary": "לרגל היום הבינלאומי למאבק באלימות נגד נשים, השיקה עמותת \"המכללהּ\" את \"ישראל מחר\" - עיתון עתידני שבו הכותרות על רצח ופגיעות מיניות מוחלפות בשוויון כלכלי ובסגירת מרכזי הסיוע מחוסר צורך • על רקע הנתונים הקשים לאלימות נגד נשים בישראל, מנכ\"לית העמותה מספרת: \"רצינו לשאול שאלה אחרת: איך ייראה היום שבו הכותרות האלה ייעלמו?\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21932484",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T16:37:41.000Z"
     },
     {
@@ -97,7 +178,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/israel/383963135",
       "title": "נתניהו: \"היום נפל המשפט - זה לקח 10 שנים של רצח אופי\"",
-      "summary": "רה\"מ מסר הצהרה לתקשורת, לאחר שהשופטים במשפטו הציעו ליועמ\"שית לוותר על אישום השוחד בתיק 4000, והעלו תהיות על חוזק הטענות באישומים נוספים",
+      "summary": "לאחר שהשופטים הציעו ליועמ\"שית לוותר על אישום השוחד בתיק 4000, רה\"מ טען כי \"במשך עשר שנים מקורביי נסחטו במעשים עברייניים, רק כדי שייתנו עדות\"",
       "link": "https://www.walla.co.il/news/israel/383963135",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -111,6 +192,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T16:36:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21932541",
+      "title": "פטור מגיוס תמורת ממשלה: איזנקוט מתקרב להכרזה ש\"עלה בידו\"",
+      "summary": "בגוש השינוי מעריכים כי המכשולים העיקריים הוסרו וממשלה בתמיכת יהדות התורה עשויה לקום כבר בשבוע הבא, על בסיס מתווה הכולל פטור מוחלט מגיוס לבני ישיבות וביטול הסנקציות • לפי חוות דעת משפטית שבידיו, איזנקוט מתכנן להשביע את הממשלה בתוך יממה בלבד מרגע ההודעה כדי למנוע לחצים וסיכולים פוליטיים",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21932541",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:35:57.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383963139",
@@ -258,6 +348,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21932212",
+      "title": "חברת התעופה מזהירה מפני קריסה: \"הטיסות בסכנת ביטול\"",
+      "summary": "חברת הלואוקוסט נורס אטלנטיק, המפעילה טיסות מאירופה לארה\"ב ולמזרח הרחוק, בוחנת אפשרות לקבל הלוואה לתקופה קצרה, ובמקביל מנהלת שיחות על רכישת החברה • מניית החברה צנחה ביותר מ-53% בעקבות ההודעה, והמשך פעילותה מוטל בספק",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21932212",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T16:02:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21932212",
       "title": "חברת התעופה מזהירה מפני קריסה: המצב קריטי - הטיסות בסכנת ביטול",
       "summary": "חברת הלואוקוסט נורס אטלנטיק, המפעילה טיסות מאירופה לארה\"ב ולמזרח הרחוק, בוחנת אפשרות לקבל הלוואה לתקופה קצרה, ובמקביל מנהלת שיחות על רכישת החברה • מניית החברה צנחה ביותר מ-53% בעקבות ההודעה, והמשך פעילותה מוטל בספק",
       "link": "https://www.israelhayom.co.il/travel/aviation/article/21932212",
@@ -309,6 +408,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T15:55:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/education/article-1392252",
+      "title": "רן ארז: האוצר מוכן לתת כ-20 אלף שקל למורים - והם לא באים",
+      "summary": "יו\"ר ארגון המורים תקף ב-103fm את נתניהו על מינוי קיש והישארותו בתפקיד, וטען כי גם חוזים אישיים בכ-20 אלף שקל אינם מצליחים למשוך מורים חדשים",
+      "link": "https://www.maariv.co.il/news/education/article-1392252",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T15:52:30.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/education/article-1392252",
@@ -471,6 +579,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T15:20:16.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21931888",
+      "title": "נתניהו: \"לקח 10 שנים שהאמת תיחשף - המשפט צריך להסתיים מיד\"",
+      "summary": "לאחר שהשופטים הציעו לתביעה למשוך את תיק 4000, רה\"מ נתניהו נשא הצהרה וקרא לסיים לאלתר את המשפט בעניינו • \"עשור של סבל וחקירות הזויות, התיקים נתפרו להנדוס תודעה וקרעו את העם - אך היום אני מושיט יד לפיוס\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21931888",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T15:16:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21931888",
@@ -1164,6 +1281,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T13:54:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21930714",
+      "title": "תפסיקו עם זה: 5 דברים שרובנו עושים בטיסה - שדיילים לא סובלים",
+      "summary": "מתברר שכמה מההרגלים הכי שגרתיים שלנו במטוס גורמים לצוות האוויר לאבד סבלנות עוד לפני ההמראה - ולפעמים גם עולים לנו בשירות פחות טוב או בעיכובים מיותרים",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21930714",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T13:53:40.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21930714",
@@ -2361,6 +2487,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T11:08:04.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21928940",
+      "title": "לירז צ'רכי: \"זו אכזריות\"",
+      "summary": "לאחר הדיווח על הלקאתה של הזמרת האיראנית פרסטו אחמדי בעקבות הופעה ללא חיג'אב, הזמרת והשחקנית פרסמה סרטון נוקב וקראה לנשים ולאמנים ברחבי העולם להשמיע את קולם",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21928940",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T11:07:45.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21928940",
@@ -29451,69 +29586,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T17:33:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21897956",
-      "title": "דיווח: ההסכם של מכבי תל אביב דלף - ומעורר סערת ענק",
-      "summary": "מסמך שמוצג כהסכם האירוח של הצהובים בלימסול מופץ ברשת, ובאופוזיציה דורשים מהממשלה לחשוף את ההסכם הרשמי ולהבהיר מי משלם על האבטחה והשיטור • במקביל, ב״פוליטיס״ מדווחים שכ־500 ספורטאים מקומיים, רובם ילדים, נפגעים מסגירת האולם סביב משחקי היורוליג",
-      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21897956",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T17:15:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390559",
-      "title": "היום שאחרי נתניהו: התרחיש שמעלה סימני שאלה בגוש השינוי לגבי נפתלי בנט",
-      "summary": "בגוש השינוי תוהים אם בנט מקדם ממשלת אחדות גם כדי למצב את עצמו כיורשו של נתניהו • איזנקוט מציב לוח זמנים, ליברמן מקדם את המגעים עם החרדים, אך הקשיים המשפטיים מעכבים את גיבוש ההסכמות",
-      "link": "https://www.maariv.co.il/news/politics/article-1390559",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T17:15:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390559",
-      "title": "בגוש השינוי חושדים: בנט כבר מכין את הקרקע לבחירות הבאות - וזו כנראה מטרת העל שלו",
-      "summary": "בגוש השינוי תוהים אם בנט מקדם ממשלת אחדות גם כדי למצב את עצמו כיורשו של נתניהו • איזנקוט מציב לוח זמנים להקמת ממשלה, וליברמן מקדם את המגעים עם החרדים, אך הקשיים המשפטיים מעכבים את גיבוש ההסכמות",
-      "link": "https://www.maariv.co.il/news/politics/article-1390559",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T17:15:28.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1fn00apafl",
-      "title": "טראמפ: \"איראן רוצה הסכם, אבל לא כזה שמקובל עליי; פצצה מלוכלכת? יש שמועה\"",
-      "summary": "נשיא ארה\"ב כינס מסיבת עיתונאים בבית הלבן יממה לאחר הפסגה עם נשיאי סין ורוסיה. את הדיווח ב-CNN לפיו טהרן בונה 'פצצה מלוכלכת' כדי לתקוף את וושינגטון כינה \"שמועה\" והבטיח: \"אם זה יקרה - נפעל נגדם\". על המלחמה באוקראינה: \"פוטין אמר שלא היה פולש אם הייתי הנשיא\"",
-      "link": "https://www.ynet.co.il/news/article/b1fn00apafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T17:04:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1fn00apafl",
-      "title": "טראמפ: \"איראן רוצה הסכם, אבל לא כזה שמקובל עליי. הם מקשקשים כבר 51 שנה\"",
-      "summary": "נשיא ארה\"ב מכנס מסיבת עיתונאים בבית הלבן יממה לאחר הפסגה עם נשיאי סין ורוסיה. הוא אמר כי מחירי הדלק תלויים באופן שבו יסתדרו העניינים עם הרפובליקה האיסלאמית: \"הם מטורפים. לעולם לא יהיה להם נשק גרעיני\". על המלחמה באוקראינה: \"פוטין אמר שלא היה פולש אם הייתי הנשיא\"",
-      "link": "https://www.ynet.co.il/news/article/b1fn00apafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T17:04:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1fn00apafl",
-      "title": "שידור ישיר: טראמפ במסיבת עיתונאים בצל המתיחות במזה\"ת ואחרי הפסגה בסין",
-      "summary": "כיממה אחרי שחזר מהפסגה עם פוטין ושי, ואחרי הדיווח שישראל וארה\"ב \"שוקלות מתקפה נגד איראן בקרוב\", הנשיא מקיים מסיבת עיתונאים בבית הלבן",
-      "link": "https://www.ynet.co.il/news/article/b1fn00apafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T17:04:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21897949",
-      "title": "בלי קרב ובלי מרדף: ראש חוליית הפיגוע בגלבוע הסגיר את עצמו",
-      "summary": "אחמד יעקוב, מבוקש מהג'יהאד האסלאמי במחנה ג'נין, הגיע הבוקר למעבר סאלם ומסר את עצמו לכוחות הביטחון • במערכת הביטחון מייחסים לו את פיגוע המטענים מ-2024 שבו נפצעו שני עובדי משרד הביטחון • וגם: הקשרים שניהל מחוץ ליהודה ושומרון",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21897949",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T17:01:45.000Z"
     }
   ]
 }
