@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:01:15.764Z",
+  "updatedAt": "2026-11-25T11:16:04.190Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,96 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/bydezhnyxg",
+      "title": "כוללת את \"סעיף הנאשם\": הצעת חוק הגבלת כהונת רה\"מ אושרה בקריאה טרומית",
+      "summary": "במקביל לדרמה במשפט רה\"מ, אישרה הכנסת את התיקון לחוק יסוד: הממשלה שיגביל כהונת ראש ממשלה לשמונה שנים. הסעיף שנכלל בתוך התיקון, ועשוי לרדת עם קידום הליך החקיקה, שעוד ארוכה",
+      "link": "https://www.ynet.co.il/news/article/bydezhnyxg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T11:09:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392139",
+      "title": "\"שוקולד דובאי\" שהוביל למעצר: הפשיטה החריגה בפתח תקווה",
+      "summary": "בלשי תחנת גלילות חשפו שתי דירות בשכונות מחנה יהודה וקריית אלון, ששימשו על פי החשד לאחסון ולהפצת סמים. יותר מ-14 ק\"ג של חומרים החשודים כסמים נתפסו בפעילות, לצד עשרות אלפי שקלים במזומן",
+      "link": "https://www.maariv.co.il/news/law/article-1392139",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T11:08:41.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392131",
+      "title": "אירופה בדרך לשינוי? הוועדה של בכירי הרבנים בנושא האנטישמיות",
+      "summary": "הרבנים הראשיים לישראל, הרב קלמן בר והרב דוד יוסף, התכנסו בעיר שטרסבורג שבצרפת על מנת לדון באנטישמיות הגוברת. לצידם התייצבו ראשי בתי דין ודיינים ממרבית המדינות באירופה",
+      "link": "https://www.maariv.co.il/news/world/article-1392131",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T11:08:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/judges-give-attorney-general-last-chance",
+      "title": "השופטים העניקו ליועמ\"שית הזדמנות אחרונה - האם היא תקח אותה? | דעה",
+      "summary": "הרכב השופטים במשפט נתניהו הציב היום בפני היועמ\"שית בהרב-מיארה דרך לסיום חלקים משמעותיים מההליך, עוד בטרם יידרש להכריע בעצמו בגורל האישומים. השאלה האם יש אוזנת קשבת | דעה",
+      "link": "https://www.kikar.co.il/law-and-order/judges-give-attorney-general-last-chance",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T11:04:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383963069",
+      "title": "\"סיכויי ההרשעה נמוכים\": ציטוטי השופטים ומה נותר מהתיקים",
+      "summary": "על מה נשפט נתניהו בכל אחד משלושת התיקים, מה טוענת התביעה, ואיפה עומד כל תיק אחרי שהשופטים הציגו היום ליועמ\"שית את עמדתם: ספק כבד בתיקים 4000 ו-2000, והצעה להגיע להכרעה בתיק 1000 | וואלה עושה סדר",
+      "link": "https://www.walla.co.il/news/law/383963069",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T11:04:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/viral/383963024",
+      "title": "\"כמה אפשר לדבר?\": השיחה ממסעדת קנטינה שיגעה את הרשת",
+      "summary": "מעדן דניאל גבאי ושחר טבוך ועד מאפיית אנג'ל והפועל חיפה: שיחת הטלפון הסוערת ממסעדת קנטינה הפכה לטרנד ויראלי, ויש גם מי שדווקא מזדהים עם המארחת",
+      "link": "https://www.walla.co.il/tech/viral/383963024",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T11:04:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392142",
+      "title": "בגרמניה פועלים נגד הבכיר לשעבר מישראל: \"מאחורי הקלעים של המוסד\"",
+      "summary": "סערה בגרמניה בעקבות הגעתו של ראש המוסד לשעבר, דוד ברנע, לדבר בפני הפרלמנט המקומי. יו\"ר משותף של ארגון הצעירים של הירוקים המקומי דרש להסיר את חסותו לאירוע",
+      "link": "https://www.maariv.co.il/news/world/article-1392142",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T11:03:16.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383963064",
+      "title": "עדן בן זקן לבעלה: \"היית מניח לי 100 שקלים, לאוכל וסיגריות\"",
+      "summary": "הזמרת המצליחה בירכה את בעלה שוקי ביטון לרגל יום הולדתו ה-33, ובברכה מרגשת במיוחד חשפה פרט נוגע ללב מתחילת הזוגיות שלהם: \"לא הרבה יודעים את הדרך שלנו ומה עברנו, אני מבטיחה שיום אחד אכתוב על זה ספר\"",
+      "link": "https://www.walla.co.il/celebs/local-news/383963064",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T11:00:46.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/mossad-iran-us-general-keane",
+      "title": "צבא מחתרתי של המוסד באיראן: סערה סביב הגנרל האמריקאי",
+      "summary": "הגנרל בדימוס ג'ק קין טען בריאיון כי הפתרון מול איראן הוא סילוק המשטר באמצעות האופוזיציה הפנימית • בחינה מדויקת של דבריו מראה כי מדובר בהמלצה אסטרטגית ולא בחשיפת מבצע קיים | האמת מאחורי הכותרות (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/mossad-iran-us-general-keane",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T11:00:38.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392141",
+      "title": "תיק 1000 במשפט בנימין נתניהו: האישומים, פרשת המתנות והעונש האפשרי | כל מה שצריך לדעת",
+      "summary": "בעוד השופטים מציעים לשקול לוותר על האישום בתיק 4000, תיק המתנות נותר על השולחן. מה עומד מאחורי הסיגרים והשמפניות, אילו פעולות ביצע נתניהו לכאורה לטובת אנשי העסקים ומה טוענת ההגנה",
+      "link": "https://www.maariv.co.il/news/law/article-1392141",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T10:58:52.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392141",
       "title": "תיק 1000 במשפט בנימין נתניהו: המתנות, מאות אלפי השקלים והסיכון | כל מה שצריך לדעת",
       "summary": "בעוד השופטים מציעים לשקול לוותר על האישום בתיק 4000, תיק המתנות נותר על השולחן. מה עומד מאחורי הסיגרים והשמפניות, אילו פעולות ביצע נתניהו לכאורה לטובת אנשי העסקים ומה טוענת ההגנה",
@@ -39,6 +129,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T10:58:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21928329",
+      "title": "גברה על אלפי מתחרות: זו הגבינה הטובה בעולם",
+      "summary": "5,330 גבינות מ-45 מדינות התחרו על התואר הנחשק בתחרות הגבינות הבינלאומית שנערכה בספרד • הקרב על המקום הראשון היה צמוד במיוחד, ולבסוף הוכרע בזכות פרט אחד שעשה את ההבדל",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21928329",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:58:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21928904",
+      "title": "סער מציע \"חזרה מאישום\" או \"הגנה מן הצדק\" - היועמ\"שית: \"נבחן כל דבר\" | כל התגובות",
+      "summary": "בעקבות הצעת השופטים למחוק את האישום בתיק 4,000, בכירי הממשלה דורשים לסיים את משפט נתניהו • סער טען שבהרב-מיארה \"שוב בורחת מבשורה\" וכ\"ץ ביקש \"מנהיגות אמיצה\" • במקביל, חילופי הדברים באולם חושפים היכן נתקעו המגעים להסדר טיעון",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21928904",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:56:54.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/netanyahu-trial-ministers-demand-end",
@@ -51,12 +159,39 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/ryhjhenymg",
+      "title": "\"ההליך הגיע לצומת שבו נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
+      "summary": "השופטת פרידמן-פלדמן הקריאה את דברי ההרכב בפני היועמ\"שית. \"ההערות הן ההתרשמות שלנו עד כה, לא כתבנו פסק דין\", הבהירה. לדבריה, ההערות רלוונטיות כרגע לנתניהו בלבד: \"אנחנו מבקשים לשקף איך אנו מבינים את הדברים, לשתף במחשבות ובתובנות שלנו\". הדברים המלאים והדרמטיים",
+      "link": "https://www.ynet.co.il/news/article/ryhjhenymg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T10:55:36.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/ryhjhenymg",
       "title": "\"ההליך הגיע לצומת בה נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
       "summary": "השופטת פרידמן-פלדמן הקריאה את דברי ההרכב בפני היועמ\"שית. \"ההערות הן ההתרשמות שלנו עד כה, לא כתבנו פסק דין\", הבהירה. לדבריה, ההערות רלוונטיות כרגע לנתניהו בלבד: \"אנחנו מבקשים לשקף איך אנו מבינים את הדברים, לשתף במחשבות ובתובנות שלנו\". הדברים המלאים והדרמטיים",
       "link": "https://www.ynet.co.il/news/article/ryhjhenymg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T10:55:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21929018",
+      "title": "מיכל אנסקי התגברה על הפחד: \"חשבתי שאני משתגעת\"",
+      "summary": "מיכל אנסקי שיתפה תיעוד משעשע מהבית, אחרי שמשהו גדול עף מהגינה ונחת לה ישר ליד הצלחת • היא לא ידעה אם הוא עוקץ, הודתה שהיא מפחדת והסבירה למה אנשים עם הפרעת קשב כמוה מתקשים במיוחד ברגעים כאלה • וזה מה שעשתה בסוף",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21929018",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:54:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392118",
+      "title": "קרב הבלימה בכנסת: שלמה קרעי קיבל בשורה רעה מבחינתו",
+      "summary": "הוועדה המיוחדת לדיון בהצעה לביטול התיקון לחוק התקשורת, אישרה לקריאה ראשונה את ביטול הרפורמה של שר התקשורת שלמה קרעי. האישור אירע לאחר שלוש ישיבות שהתקיימו בנושא",
+      "link": "https://www.maariv.co.il/news/politics/article-1392118",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T10:53:27.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392118",
@@ -66,6 +201,42 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T10:53:27.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21928995",
+      "title": "כץ התפטר, החרדים זועמים: נתניהו מקדם את העברת תיק השיכון לסמוטריץ'",
+      "summary": "שר הבינוי והשיכון חיים כץ הגיש את התפטרותו לבקשת ראש הממשלה בנימין נתניהו, כחלק ממהלך פוליטי שבמרכזו הכוונה להעביר את התיק לידי השר בצלאל סמוטריץ' • הצעד נועד לשמר את הציר מול חבר הכנסת אליקים שטארק לאחר שדווח כי האדמו\"ר מבעלז אישר לו להיכנס למגעים עם גוש השינוי, ומעורר התנגדות חריפה מצד יושב ראש יהדות התורה יעקב אשר",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21928995",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:53:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21928932",
+      "title": "הדרמה במשפט נתניהו: מהם האישומים נגד רה\"מ, והנטייה של השופטים",
+      "summary": "בעקבות הדיון החריג בהשתתפות היועמ\"שית וההצעה הדרמטית של הרכב השופטים למחוק את אישום השוחד בתיק 4000 ולבחון מחדש את תיק 2000 - עושים סדר: על מה עומד ראש הממשלה לדין בתיקים 1000, 2000 ו-4000, ומה טוענים הצדדים?",
+      "link": "https://www.israelhayom.co.il/news/law/article/21928932",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:52:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21925941",
+      "title": "\"העכביש לימד אותי כמה כוח יש בתפירה\"",
+      "summary": "השמלה היפה מגיל 4, שנקלעה למפגש לא נעים עם מספריים • האמונות, הכוכבים והיומן הסיני שמנחים אותה • ואיך הפנימה את חשיבותו של מקף אחד • חיים שלמים ב-15 שאלות • והפעם: הצד הטוב של ד\"ר יערה קידר, היסטוריונית ואוצרת אופנה",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21925941",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:48:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21928945",
+      "title": "מיס יוניברס: ישראל עוררה סערה - אבל הזוכה היא זו שחטפה",
+      "summary": "הנציגה הישראלית דניאל יבלונקה ספגה קריאות בוז כשחשפה גלימה עם דמותה של ירושלים העתיקה, אבל הדרמה האמיתית הגיעה דווקא אחרי ההכרזה על הזוכה • ג'ניפר בארטו מפוארטו ריקו, שהפכה לאמא הראשונה שזוכה בתואר, מצאה את עצמה תחת מתקפה בעקבות תשובתה לשאלה על בינה מלאכותית",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21928945",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:45:48.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/political-news/minister-katz-returns-housing-ministry-portfolio",
@@ -86,6 +257,15 @@
       "pubDate": "2026-11-25T10:41:56.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21928844",
+      "title": "יוצרת התוכן אושפזה: ״היו לי תסמינים פסיכוטיים״",
+      "summary": "סברינה בהסון, הידועה בתור \"טיוב גירל\", מספרת על החודשים שבהם חייה התהפכו ועל האבחנה שהגיעה רק אחרי אשפוז ממושך. \"עברתי מלהיות פצצת אנרגיה למצב קטטוני לחלוטין\"",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21928844",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:41:53.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392124",
       "title": "לא רק מחסור בלוחמים: בצה\"ל מתריעים - מתקשים לשמר את שדרת הפיקוד",
       "summary": "ראש מטה אכ\"א חשף בוועדת החוץ והביטחון את עומק השחיקה במערך המילואים ואת הקושי לשמר מפקדים לוחמים. בצה\"ל דורשים להסדיר את חוק המילואים ולקדם את הסיוע למשרתים",
@@ -102,6 +282,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T10:41:14.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/music/article/21928928",
+      "title": "פסטיבל \"צמאה\" נפתח בירושלים: ישי ריבו, אברהם טל ואברהם פריד ישירו ניגונים חסידיים",
+      "summary": "הפסטיבל, שנוסד לפני 17 שנה, יימשך עד 1 בדצמבר בבנייני האומה ויכלול 20 מופעים • האמנים מניחים בצד את הלהיטים שלהם ומבצעים רק ניגונים חסידיים בעיבודים עכשוויים • המארגנים צופים כ-100 אלף מבקרים במהלך השבוע",
+      "link": "https://www.israelhayom.co.il/culture/music/article/21928928",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:40:39.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383963042",
@@ -131,6 +320,15 @@
       "pubDate": "2026-11-25T10:32:19.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/global/article/21928519",
+      "title": "רוב לואו על הקלטת: \"לא הייתי מוכן להיסחט\"",
+      "summary": "השחקן חוזר לפרשת קלטת הסקס שבה תועדה גם נערה בת 16, וטוען שלא ידע את גילה. בדוקו חדש של נטפליקס הוא מספר על ניסיונות הסחיטה לטענתו, ההסתגרות בבית והחזרה למסך",
+      "link": "https://www.israelhayom.co.il/forreal/global/article/21928519",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:31:50.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/delivery-service-outrageous-moment-caught-camera",
       "title": "שירות משלוחים מהגיהנום: הרגע המקומם שנתפס במצלמה",
       "summary": "שליחת החבילות תועדה במצלמת האבטחה כשהיא מצלמת את מסירת החבילה, אך זמן קצר לאחר מכן חוזרת ולוקחת אותה (מעניין)",
@@ -138,6 +336,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T10:31:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21928331",
+      "title": "מאמני מכבי תל אביב לשעבר הוצעו: לנבחרת ישראל יש מועמד מועדף",
+      "summary": "גורמים העלו בפני ההתאחדות לכדורגל לא מעט שמות, ביניהם ז'רקו לאזטיץ' ומלאדן קרסטאיץ', אך שינו זוארץ סימן מישהו אחר • בכל מקרה, הנושא יעלה רק אחרי הבחירות והמועמדים ייבחנו על ידי ועדה מקצועית",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21928331",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T10:30:34.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21928445",
@@ -291,6 +498,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T10:10:53.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383963047",
+      "title": "רק בת 12: הבת של משה פרץ הדהימה את הקהל",
+      "summary": "משה פרץ עלה אמש (שני) על במת היכל מנורה בתל אביב למופע חגיגי עם מיטב הלהיטים הגדולים מתחילת דרכו, אבל מי שגנבה את ההצגה הייתה דווקא בתו מיכאלה, בת ה-12, שעלתה לבמה ורקדה לצדו לעיני הקהל | צפו",
+      "link": "https://www.walla.co.il/celebs/local-news/383963047",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T10:10:18.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/former-legal-adviser-court-hearing-netanyahu-judge",
@@ -1851,6 +2067,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21926741",
+      "title": "המסר מהשופטים: תיקי 4,000 ו-2,000 יסתיימו ללא הרשעה, תיק 1,000 - להסדר",
+      "summary": "השופטים הורו לבהרב־מיארה להגיע לדיון, אף שהודיעה כי הפרקליטים יכולים להציג את עמדתה • במשפט, הבהירו כי \"סיכויי ההרשעה בשוחד מועטים\" בתיק 4,000 - והציעו לבחון מחדש את המשך ההליך • בהרב-מיארה: \"היד המושטת שלנו להסדר נשארה באוויר\" • סניגורו של רה\"מ, עמית חדד: \"ידנו מושטת בחזרה\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21926741",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T06:22:40.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21926741",
       "title": "לוותר על תיק 4,000, הכרעה בתיק 1,000 | המתווה המוצע במשפט נתניהו",
       "summary": "השופטים הורו לבהרב־מיארה להגיע לדיון, אף שהודיעה כי הפרקליטים יכולים להציג את עמדתה • במשפט, הבהירו כי \"סיכויי ההרשעה בשוחד מועטים\" בתיק 4,000 - והציעו לבחון מחדש את המשך ההליך • בהרב-מיארה: \"היד המושטת שלנו להסדר נשארה באוויר\" • עו\"ד עמית חדד: \"ידנו מושטת בחזרה\"",
       "link": "https://www.israelhayom.co.il/news/law/article/21926741",
@@ -2019,6 +2244,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T05:57:36.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21926658",
+      "title": "אליניב ברדה האריך חוזה בהפועל תל אביב עד 2029",
+      "summary": "המאמן יישאר אצל האדומים גם בשתי העונות הבאות • קופר פלאג הוביל את דאלאס מאבריקס לניצחון גדול על דנבר נאגטס וניקולה יוקיץ'",
+      "link": "https://www.israelhayom.co.il/sport/article/21926658",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T05:57:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/article/21926658",
@@ -27714,78 +27948,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T11:19:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21896595",
-      "title": "\"הבנו שאנחנו לא לבד\": המסעות שמסייעים ללוחמים להשתקם",
-      "summary": "אחרי החוויות הקשות במלחמת חרבות ברזל, צוותי לוחמים יוצאים למסעות עיבוד בחו\"ל, שבהם הם מתמודדים יחד עם מה שעברו • אחד המשתתפים סיפר: \"זה עזר באופן שקשה לתאר לצוות ולכל לוחם בנפרד\" • כעת מבקשים במיזם לגייס תרומות להמשך הפעילות",
-      "link": "https://www.israelhayom.co.il/news/local/article/21896595",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:14:41.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/hjk00cvtagx",
-      "title": "\"אורגיות בקורונה\" ו\"מגדלור מול רצח עם\" בעימות בחירות סוער בספרד, ששוב מוצפת במהגרים",
-      "summary": "רגע לפני הבחירות, בהן מוטל על הכף המשך שלטונו של רה\"מ האנטי-ישראלי פדרו סנצ'ס, התייצבו הוא ומנהיג הימין אלברטו נונייס פייחו שמוביל בסקרים לעימות סוער. פייחו תקף על מינוי \"מושחתים שעשו אורגיות בקורונה\" והאשים ש\"אלפים על גבי אלפים\" מתו בגלל מדיניות ההגירה הפתוחה - בצל זינוק במספר המהגרים בנתיב הקטלני מאפריקה לאיים הקנריים. סנצ'ס התפאר שהתנגד למלחמות בעזה ואיראן, פייחו עקץ על רקע שני אסונות הרכבת השנה: \"פחות טראמפ, יותר רכבות\"",
-      "link": "https://www.ynet.co.il/news/article/hjk00cvtagx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T11:13:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21896503",
-      "title": "מיליון דולר: המפיק הישראלי בתביעה נגד אבי ילדיה של קיילי ג'נר",
-      "summary": "ניב קליסקי (Early Yellow) טוען ששיר של טראוויס סקוט ודון טוליבר מבוסס על יצירה שלו, אבל התמלוגים נשארו מעבר לים",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21896503",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:11:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21887034",
-      "title": "זה אורך החוזה והשכר: רן בן שמעון מונה למאמן מכבי חיפה",
-      "summary": "אחרי שנפרד מנבחרת ישראל, המאמן חוזר לליגת העל ויחליף את ברק בכר • הוא סוגר מעגל 14 שנים בדיוק אחרי שכבר סגר בכרמל והתחרט ברגע האחרון • חתם לשנה וחצי וירוויח כ-250 אלף דולר לעונה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21887034",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:06:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21887034",
-      "title": "רשמית: רן בן שמעון מונה למאמן מכבי חיפה בחוזה לעונה וחצי",
-      "summary": "אחרי שנפרד מנבחרת ישראל, המאמן חוזר לליגת העל ויחליף את ברק בכר • הוא סוגר מעגל 14 שנים בדיוק אחרי שכבר סגר בכרמל והתחרט ברגע האחרון • הבכורה מול בני סכנין בדוחא, ולאחר מכן בית\"ר ירושלים בסמי עופר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21887034",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:06:49.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876847",
-      "title": "בן שמעון חתם רשמית, רפאלוב בטוח: \"האיש הנכון עבורנו\"",
-      "summary": "אחרי שסיים את דרכו בנבחרת ישראל בתום קמפיין לא מוצלח בליגת האומות, המאמן בן ה-55 ייכנס לנעליו של בכר על הקווים של הירוקים: \"מבין את החשיבות והאחריות. אעשה הכל כדי להעניק לקהל העצום רגעי גאווה\".",
-      "link": "https://sports.walla.co.il/item/3876847",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T11:05:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3876847",
-      "title": "רשמית: רן בן שמעון מונה למאמן מכבי חיפה",
-      "summary": "אחרי שסיים את דרכו בנבחרת ישראל בתום קמפיין לא מוצלח בליגת האומות, המאמן בן ה-55 ייכנס לנעליו של בכר על הקווים של הירוקים: \"מבין את החשיבות והאחריות. אעשה הכל כדי להעניק לקהל העצום רגעי גאווה\".",
-      "link": "https://sports.walla.co.il/item/3876847",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T11:05:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/environment/article/21891970",
-      "title": "המחיר הסביבתי של מהפכת ה-AI: זינוק של 70% בפליטות הפחמן",
-      "summary": "סוכנות האנרגיה הבינלאומית מזהירה כי עד סוף העשור תצרוכת החשמל של מרכזי הנתונים בעולם תוכפל • ארה\"ב וסין מגבירות את השימוש בגז ובפחם כדי לעמוד בביקושים • תוספת האנרגיה שתידרש להפעלת מערכות הבינה המלאכותית תעלה על צריכת החשמל השנתית של בריטניה כולה",
-      "link": "https://www.israelhayom.co.il/news/environment/article/21891970",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T11:03:01.000Z"
     }
   ]
 }
