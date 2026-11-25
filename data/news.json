@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:46:06.090Z",
+  "updatedAt": "2026-11-25T20:01:12.579Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1392316",
+      "title": "שלוש שנות מלחמה שינו את פני צה\"ל - ועכשיו מגיע מבחן מסוג אחר",
+      "summary": "אחרי שלוש שנות מלחמה, צה\"ל מתכנן להרחיב משמעותית את היקף האימונים בשנת 2027, הן בסדיר והן במילואים. אלא שהמחסור בכוח אדם, שחיקת הלוחמים והפעילות המבצעית בזירות השונות מקשים על החזרה לשגרה",
+      "link": "https://www.maariv.co.il/news/military/article-1392316",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T19:57:34.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/lieberman-catastrophe-of-statements",
+      "title": "מתקפה חריפה על ליברמן: \"קטסטרופה של התבטאויות\"",
+      "summary": "גורם ביטחוני בכיר מתח ביקורת על דבריו של ליברמן כנגד תקיפה ישראלית באיראן | לדבריו, ליברמן פגע באמון הציבור במערכת הביטחון (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/lieberman-catastrophe-of-statements",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T19:49:39.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383963159",
+      "title": "אסון במצרים: 30 הרוגים בשריפה עקב התהפכות מכלית דלק",
+      "summary": "15 בני אדם נוספים נפצעו באסון בכביש הטבעת של קהיר, לאחר שהאש התפשטה לכלי רכב סמוכים וגרמה לסדרת פיצוצים. 39 אמבולנסים הוזעקו לזירה, והנשיא א-סיסי הורה לסייע למשפחות ההרוגים",
+      "link": "https://www.walla.co.il/news/world/383963159",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T19:48:30.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/5-ton-explosion-residents-shelter-homes",
       "title": "5 טון חומר נפץ: תושבים הסתגרו בבתים בעקבות פיצוץ חריג",
       "summary": "68 חביות של חומר נפץ רגיש במיוחד, שהתגבש והפך למסוכן מחשש לפיצוץ ספונטני, הושמדו בפיצוץ מבוקר באיווה (מעניין)",
@@ -39,6 +66,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T19:40:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383963157",
+      "title": "מסתמן: ליברמן יקבל את תיק הביטחון, כך יחולקו שאר התפקידים",
+      "summary": "על פי הסיכום עם מפלגת ישר! בראשות איזנקוט עולה כי ישראל ביתנו תקבל שלושה תיקים בממשלה הבאה - אם תוקם. בין התיקים: המשפטים והעלייה והקליטה",
+      "link": "https://www.walla.co.il/news/israel/383963157",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T19:26:41.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21933861",
+      "title": "זעם בדמוקרטים על התיקים שאיזנקוט מייעד להם: דורשים את תיק החינוך",
+      "summary": "איזנקוט מתכנן להקים ממשלה רזה עם מספר מצומצם של שרים, ומעורר חוסר שביעות רצון בגוש השינוי • בדמוקרטים זועמים על חלוקת התיקים המסתמנת ודורשים את משרד החינוך ואת ראשות ועדת החוקה • ליברמן צפוי לקבל את תיקי הביטחון והמשפטים • במקביל, התקדמות במגעים עם החרדים: בגוש מעריכים כי ניתן יהיה להשביע ממשלה כבר בשבוע הבא",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21933861",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T19:24:43.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/legendary-influencer-cries-childrens-question",
@@ -57,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T19:08:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
+      "title": "חי מהיורוליג: אולימפיאקוס - הפועל תל אביב 12:15",
+      "summary": "מחזור 14: קצב גבוה באתונה • איש ויינרייט ודן אוטורו פתחו נהדר את המשחק, אבל קורי ג'וזף לוהט מנגד בדרך לסקור גבוה בפתיחה • החבורה של דימיטריס איטודיס תאבד את המאזן החיובי?",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T19:07:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
@@ -174,6 +228,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T18:52:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392300",
+      "title": "מכוסה באבק אחרי התקיפה הישראלית: נשיא איראן מגלה מה אמר לעלי חמינאי",
+      "summary": "מסעוד פזשכיאן שיתף את דבריו לחמינאי לאחר התקיפה הישראלית ביוני 2025, והדף את הביקורת על התנהלותו מול ארצות הברית. לדבריו, כל צעד שנקט זכה לאישור ההנהגה העליונה",
+      "link": "https://www.maariv.co.il/news/world/article-1392300",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T18:51:14.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392300",
@@ -570,6 +633,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T17:03:10.000Z"
+    },
+    {
+      "id": "walla:https://food.walla.co.il/item/3877665",
+      "title": "\"לא עובדים בשביל מבקרים\": פאסטל שוב בדירוג העולמי היוקרתי",
+      "summary": "מזה למעלה מעשור שמסעדת פאסטל שומרת על מקומה בדירוג La Liste היוקרתי, וגם ב-2027 היא בפנים. מנהל המסעדה רועי וינברג מסביר למה המרדף אחר כוכבי מישלן השתנה, מתי הקולינריה הישראלית תקבל הכרה עולמית",
+      "link": "https://food.walla.co.il/item/3877665",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T17:03:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/lod-border-police-chase-illegal-residents-arrest",
@@ -2381,21 +2453,21 @@
       "pubDate": "2026-11-25T12:52:03.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/92792",
-      "title": "טרגדיה בבית החולים מאיר: נפטרה אישה בת 47 שאושפזה אתמול במצב קריטי בשל סיבוכי שפעת",
-      "summary": "המרכז הרפואי מאיר בכפר סבא הודיע היום (רביעי) על מותה של האישה בת ה-47 שאושפזה אתמול בבית החולים בעקבות סיבוכי מחלת השפעת. האישה הגיעה אתמול ליחידה לטיפול נמרץ במרכז הרפואי כשהיא במצב קריטי, ולמרות מאמצי הצוותים הרפואיים להציל את חייה – נאלצו הרופאים לקבוע את מותה.",
-      "link": "https://www.kikar.co.il/scoop-news/92792",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-25T12:49:29.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
       "title": "גרושתו של ליאור נרקיס נזכרה בתחילת הקשר: \"ברחתי\"",
       "summary": "ספיר נרקיס סיפרה בתוכנית \"במעבר חד\" בקשת 12 כיצד גילה הזמר בתחילת היכרותם היכן היא עובדת, וחשפה את התגובה החד-משמעית שלו שגרמה לה לנטוש את המשמרת",
       "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T12:49:29.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/scoop-news/92792",
+      "title": "טרגדיה בבית החולים מאיר: נפטרה אישה בת 47 שאושפזה אתמול במצב קריטי בשל סיבוכי שפעת",
+      "summary": "המרכז הרפואי מאיר בכפר סבא הודיע היום (רביעי) על מותה של האישה בת ה-47 שאושפזה אתמול בבית החולים בעקבות סיבוכי מחלת השפעת. האישה הגיעה אתמול ליחידה לטיפול נמרץ במרכז הרפואי כשהיא במצב קריטי, ולמרות מאמצי הצוותים הרפואיים להציל את חייה – נאלצו הרופאים לקבוע את מותה.",
+      "link": "https://www.kikar.co.il/scoop-news/92792",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
       "pubDate": "2026-11-25T12:49:29.000Z"
     },
     {
@@ -3999,6 +4071,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-25T09:36:37.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877517",
+      "title": "מכבי חיפה חוטפת בראש: \"למה צריך את זה?!\"",
+      "summary": "ב\"ציון 3\" לעגו לדברים שאמר המאמן לשחקני מכבי חיפה ותהו מדוע במועדון בחרו לפרסם אותם: \"בשביל מה צריך את החרטא הזאת?\"",
+      "link": "https://sports.walla.co.il/item/3877517",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T09:31:58.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383963037",
@@ -29991,15 +30072,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T20:02:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21898141",
-      "title": "\"שכחתי שאני בן 35\": ממדאני קרע את גיד אכילס במשחק כדורגל",
-      "summary": "ראש עיריית ניו יורק הגיע על קביים למסיבת העיתונאים והודה: \"לא עשיתי מתיחות\" • ב\"גרדיאן\" התבדחו על \"מכת פציעות נוספת\" לארסנל, הקבוצה שהוא אוהד",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21898141",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T20:00:11.000Z"
     }
   ]
 }
