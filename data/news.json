@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:16:10.417Z",
+  "updatedAt": "2026-11-25T21:31:11.786Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1392328",
+      "title": "משפט נתניהו: הכישלון המהדהד ביותר של הפרקליטות מאז היווסדה | משה כהן - אליה",
+      "summary": "קריסתם של תיקי האלפים חושפת שימוש פוליטי במערכת אכיפת החוק וניסיון לסכל את נתניהו באמצעות כתבי אישום חלשים מבחינה ראייתית. לדבריו, מדובר בכישלון מהדהד של הפרקליטות",
+      "link": "https://www.maariv.co.il/news/opinions/article-1392328",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T21:27:45.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/cairo-fuel-tanker-overturns-30-dead",
+      "title": "תופת בקהיר: מכלית דלק התהפכה - וגבתה לפחות 30 הרוגים",
+      "summary": "לפחות 30 בני אדם נהרגו בשריפה קטלנית שפרצה הערב בכביש בקהיר | נשיא מצרים הורה לסייע למשפחות ההרוגים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/cairo-fuel-tanker-overturns-30-dead",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T21:26:54.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/toddler-falls-from-height-dies-hospital",
+      "title": "טרגדיה: פעוט בן שנתיים נפל מגובה - ונפטר בבית החולים",
+      "summary": "לאחר מאבק על חייו: נקבע מותו של ליעם ירוחם וויינשטיין ז״ל, פעוט בן שנתיים שנפל מגובה במהלך משחק במעלה אדומים ופונה במצב אנוש להדסה (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/toddler-falls-from-height-dies-hospital",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T21:17:23.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21934335",
+      "title": "משאית הגז עלתה באש במצרים - לפחות 30 נהרגו: \"אנשים נשרפו חיים\" | תיעוד",
+      "summary": "עשרות נפגעים בשריפת ענק במחוז גיזה, לאחר שמשאית שהובילה בלוני גז התלקחה בכביש מרכזי • עשרות אמבולנסים וצוותי כיבוי הוזעקו לזירה לחילוץ הנפגעים, ובתי החולים באזור נמצאים בכוננות שיא • הרשויות במצרים פתחו בחקירה דחופה לבירור נסיבות האסון",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21934335",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T21:12:08.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877620",
+      "title": "הפועל ת\"א הובסה מול אולימפיאקוס - זה מיקומה החדש בטבלה",
+      "summary": "הפועל ת\"א הובסה מול אולימפיאקוס - זה מיקומה החדש בטבלה",
+      "link": "https://sports.walla.co.il/item/3877620",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T21:09:00.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/syykluvkxl",
       "title": "10 דקות שטרפו קלפים של עשור שלם: כל התחנות במשפט נתניהו",
       "summary": "במשך כ-10 שנים מתגלגלת סאגת תיקי האלפים, שבהם מואשם נתניהו בעבירות של שוחד, מרמה והפרת אמונים - והיא טרם הגיעה לסיום. בצל המלצת השופטים ליועמ\"שית לשקול מחדש את המשך ההליכים בתיקי 2000 ו-4000 ולהגיע להסדר בתיק 1000, אלו ההתרחשויות המרכזיות בחקירות ובמשפט - מ-2017 ועד היום",
@@ -50,6 +95,15 @@
       "pubDate": "2026-11-25T21:05:35.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21934142",
+      "title": "הפועל תל אביב נגד אולימפיאקוס: פיני גרשון ועפר \"ג'ובה\" גרוס מסכמים",
+      "summary": "פרק 15: מאמן העבר והפרשן מסכמים את המשחק בין האדומים לאלופת היורוליג, ואת ניצחון החוץ של מכבי תל אביב על באיירן מינכן",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21934142",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T21:04:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/admeker-slams-haredi-negotiations-gush-hashinui",
       "title": "\"בשביל מה, למען השם?\": אדמקר זעק נגד המו\"מ החרדי עם גוש השינוי",
       "summary": "העיתונאי החרדי הביע ביקורת כלפי המו\"מ של המפלגות החרדיות עם גוש השינוי | \"אני אומר את זה בצער גדול מאוד: הם כבר 80% בתוך האירוע\" (בארץ)",
@@ -59,6 +113,15 @@
       "pubDate": "2026-11-25T21:02:54.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21927221",
+      "title": "יוצרת התוכן סימנה את דני אבדיה: \"העדי הימלבלוי שלנו\"",
+      "summary": "טליה בן יצחק הגיעה לצפות מקרוב בכוכב הישראלי של פורטלנד טרייל בלייזרס במשחק מול פילדלפיה ולברון ג'יימס, וסיפקה זווית משעשעת במיוחד על מעמדו של כוכב ה-NBA בקרב הקהל הנשי בישראל: \"החתן של כל בנות ישראל\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21927221",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T21:00:07.000Z"
+    },
+    {
       "id": "n12:https://www.mako.co.il/news-israel/2026_q4/Article-e4acc46136412a1026.htm",
       "title": "פעוט בן שנתיים מת לאחר ששנפל מגובה במעלה אדומים",
       "summary": "הפעוט פונה להדסה הר הצופים עם פגיעה רב-מערכתית, והועבר להדסה עין כרם, שם נקבע מותו • לפי המשטרה, אימו מצאה אותו חבול בראשו סמוך לאולם ספורט בעיר • לפי מד\"א, ככל הנראה הוא נפל מגובה במהלך משחק • המשטרה חוקרת את נסיבות המקרה",
@@ -66,6 +129,15 @@
       "source": "N12",
       "sourceKey": "n12",
       "pubDate": "2026-11-25T20:57:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hk6oqan1ql",
+      "title": "טרגדיה במעלה אדומים: פעוט כבן שנתיים נמצא חבול, מותו נקבע בבית החולים",
+      "summary": "לפי המשטרה, בשלב מסוים האם הבחינה שבנה חבול בראשו ושרוע על הקרקע. גורמי רפואה שהוזעקו למקום פינו אותו לבית החולים, אך בהמשך נאלצו הרופאים לקבוע את מותו",
+      "link": "https://www.ynet.co.il/news/article/hk6oqan1ql",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T20:54:51.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hk6oqan1ql",
@@ -327,6 +399,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T19:08:26.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
+      "title": "השפלה: הפועל תל אביב הובסה 79:104 מול אולימפיאקוס",
+      "summary": "החבורה של דימיטריס איטודיס יצאה מהעשירייה הראשונה ביורוליג לאחר שהפסידה 32:13 ברבע האחרון וירדה למאזן 7:7 • איש ויינרייט הוביל עם 17 נקודות, קורי ג'וזף ואוון פורנייה להטו בצד השני",
+      "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T19:07:16.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-basketball/article/21933505",
@@ -30126,24 +30207,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T21:36:23.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjojdnccfe",
-      "title": "רבש\"צ בית אל ירה למוות בפלסטיני שהתקרב ליישוב",
-      "summary": "בצה\"ל אמרו כי הרבש\"צ קפץ בעקבות דיווח על התקרבות שני חשודים ליישוב. הוא ירה באוויר, ואז לעבר הפלסטיני - חמזה עבדו - שלא היה חמוש. הפלסטיני השני נעצר. לפי הצבא, \"האירוע מתוחקר וממצאיו יימסרו לגורמים המוסמכים לקבלת החלטה על המשך הבירור\"",
-      "link": "https://www.ynet.co.il/news/article/sjojdnccfe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T21:28:28.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962344",
-      "title": "ישראלי בן 28 נעצר בקפריסין - בחשד שהפעיל תחנת סמים בלימסול",
-      "summary": "הוא הגיע לאי כתייר, אך לפי החשד גויס להפעלת תחנה. המשטרה פשטה על הדירה בה התגורר ותפסה כמויות גדולות של סמים, מזומן וציוד אריזה. ברקע: פרשות קודמות של הברחת מאות קילוגרמים של קטמין בהן נעצרו ישראלים",
-      "link": "https://www.walla.co.il/news/world/383962344",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T21:18:56.000Z"
     }
   ]
 }
