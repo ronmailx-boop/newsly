@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T10:01:10.189Z",
+  "updatedAt": "2026-11-25T10:15:48.290Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/political-news/katz-attacks-liberman-iran-security-zones",
+      "title": "ליברמן תקף את נתניהו וכץ; שר הביטחון משיב אש: \"האשמה הזויה\"",
+      "summary": "יו\"ר ישראל ביתנו האשים את ראש הממשלה ושר הביטחון באובדן שפיות, טען כי ייתכן שהם מפעילים את זרועות הביטחון נגד האופוזיציה וקבע כי אין הצדקה למתקפה ישראלית באיראן • שר הביטחון ישראל כץ דחה את הדברים מכל וכל והשיב במתקפה נגדית: \"איבד קשר עם המציאות ומנסה להסתיר את הישענותו על המפלגות הערביות\" (פוליטי)",
+      "link": "https://www.kikar.co.il/political-news/katz-attacks-liberman-iran-security-zones",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T10:14:01.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/former-legal-adviser-court-hearing-netanyahu-judge",
+      "title": "ראש הרכב השופטים ליועמ\"שית: סיכויי הרשעה נמוכים בתיקים 2000 ו-4,000",
+      "summary": "לאחר שביקשה שלא להתייצב והשופטים עמדו על הגעתה, היועצת המשפטית לממשלה גלי בהרב-מיארה הגיעה לבית המשפט לדיון בהמשך ניהול משפט נתניהו (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/former-legal-adviser-court-hearing-netanyahu-judge",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T10:09:43.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law-news/383963013",
+      "title": "פריצת דרך על השולחן: היועמ\"שית הגיעה לאולם משפט נתניהו",
+      "summary": "בהרב מיארה הגיעה לראשונה לדיון בהוראת השופטים, לצד פרקליט המדינה. על הפרק: קידום המשפט שהואט בשנה האחרונה",
+      "link": "https://www.walla.co.il/news/law-news/383963013",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T10:01:00.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392115",
+      "title": "אליעזר מרום מזהיר: אם זה יקרה - לאיראן יהיה נשק גרעיני",
+      "summary": "מפקד חיל הים לשעבר אליעזר מרום טוען כי לאיראן אין כיום יכולת לתקוף את ישראל בנשק כימי, ומזהיר: אם המשטר בטהרן ישרוד עד תום כהונת טראמפ ב־2028, הוא ישיג נשק גרעיני",
+      "link": "https://www.maariv.co.il/news/politics/article-1392115",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T10:00:24.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392112",
       "title": "לאחר שהשופטים כפו עליה להיות נוכחת: גלי בהרב מיארה הגיעה מחויכת לאולם | תיעוד",
       "summary": "היועצת המשפטית לממשלה הגיעה לאולם בית המשפט לאחר שזומנה על ידי שופטי ההרכב במשפט נתניהו, לאחר שתחילה סירבה להצעתם להגיע. עם כניסתה לאולם היא נראתה מחויכת אך לא השיבה לשאלות",
@@ -50,6 +86,15 @@
       "pubDate": "2026-11-25T09:59:12.000Z"
     },
     {
+      "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%98%D7%A8%D7%95%D7%A8_%D7%94%D7%94%D7%A8%D7%A2%D7%9C%D7%95%D7%AA_%D7%9E%D7%9E%D7%A9%D7%99%D7%9A__%D7%97%D7%9E%D7%A9_%D7%A4%D7%A8%D7%95%D7%AA_%D7%9E%D7%AA%D7%95__%D7%90%D7%A8%D7%91%D7%A2_%D7%91%D7%9E%D7%A6%D7%91_%D7%A7%D7%A9%D7%94",
+      "title": "טרור ההרעלות ממשיך: חמש פרות מתו, ארבע במצב קשה",
+      "summary": "לאחר למעלה מ-20 פיגועי הרעלה מתחילת השנה ברחבי יו\"ש, בלילה התרחש פיגוע הרעלה נוסף כאשר מחבלים פיזרו חומרי הרעלה בהר בזק וכתוצאה מכך נהרגו חמש פרות. \"מערכת הביטחון חייבת להתעורר, טרור שמופנה כלפי חיות סופו שיופנה כלפי בני אדם!\"",
+      "link": "https://www.hakolhayehudi.co.il/item/security/%D7%98%D7%A8%D7%95%D7%A8_%D7%94%D7%94%D7%A8%D7%A2%D7%9C%D7%95%D7%AA_%D7%9E%D7%9E%D7%A9%D7%99%D7%9A__%D7%97%D7%9E%D7%A9_%D7%A4%D7%A8%D7%95%D7%AA_%D7%9E%D7%AA%D7%95__%D7%90%D7%A8%D7%91%D7%A2_%D7%91%D7%9E%D7%A6%D7%91_%D7%A7%D7%A9%D7%94",
+      "source": "הקול היהודי",
+      "sourceKey": "hakolhayehudi",
+      "pubDate": "2026-11-25T09:58:00.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/north-korea-switzerland-diplomatic-crisis",
       "title": "חוטפים ילדים | אחותו של קים מתכננת צעד חריג",
       "summary": "מחנה ילדים בצפון קוריאה הפך למוקד של עימות בינלאומי, ובעקבות הסנקציות שהוטלו עליו מגיעה תגובה חריפה במיוחד מצמרת המשטר (חדשות בעולם)",
@@ -66,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T09:54:49.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21928108",
+      "title": "דורשים להסיר אותה והיא בצמרת: 10 הסדרות המובילות בנטפליקס ישראל",
+      "summary": "דוקו-פשע מטלטל בפסגה, \"באש ובמים\" הישראלית במקום השני ודרמת נעורים שעוררה סערה עולמית בשלישי: דירוג הצפיות של נטפליקס בישראל משלב היום ריגול בריטי, פרשת קריפטו והיאבקות בשידור חי • אלה עשר הסדרות הנצפות ביותר היום",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21928108",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:52:51.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/law-and-order/former-legal-adviser-court-hearing-netanyahu-judge",
@@ -113,6 +167,15 @@
       "pubDate": "2026-11-25T09:44:04.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21927388",
+      "title": "\"ריאל מדריד מקדמת את עצמה על חשבון ברצלונה, נדרוש תמלוגים\"",
+      "summary": "נשיא הבלאוגרנה ז'ואן לאפורטה במתקפה חריגה נגד הבלאנקוס, על רקע האיומים בתביעה פלילית כלפי פלורנטינו פרס • \"הם כבר שנתיים ללא תואר וחושבים למכור חלק מהמועדון, הם צריכים להסביר את עצמם ולא להתעסק בנו כל הזמן\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21927388",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:43:28.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392095",
       "title": "בן כספית על הזוג נתניהו: \"הם בלחץ, שנתם הטרופה נודדת\"",
       "summary": "ינון מגל מוכן להתערב שלא תושבע ממשלה בשבוע הבא: \"ליברמן שוב מחרטט\". בן כספית משוכנע שאיזנקוט ישביע ממשלה, ועוקץ: \"בני הזוג נתניהו אולי יצטרכו לעבור לבית משלהם, וזה מטריף אותם\"",
@@ -120,6 +183,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T09:42:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21928045",
+      "title": "\"יש פוטנציאל לסתירות\": אזהרת השופטת להגנת ביטן אחרי 71 עדים",
+      "summary": "כמעט תשע שנים אחרי פתיחת החקירה, ח\"כ דוד ביטן מנסה להפריך את אישומי השוחד בעזרת תדפיסי בנק של אחיו המנוח • \"זה שקר וכזב\", הדף בעדותו את טענות התביעה • פערים בגרסת עד המדינה והסיבה שהכרעת הדין עדיין רחוקה",
+      "link": "https://www.israelhayom.co.il/news/law/article/21928045",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:39:36.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bks11qzv1me",
@@ -185,6 +257,15 @@
       "pubDate": "2026-11-25T09:30:17.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21925156",
+      "title": "אורות אזהרה: הסכנה שמאיימת על האוהדים במשחקי ליגת העל",
+      "summary": "התקפי אפילפסיה, פלאשבקים פוסט־טראומטיים ותופעות לוואי קשות נוספות הפכו לחלק מהביקור במגרשי הכדורגל • הסיבה: מופעי אורות והבזקים, שנועדו לשפר את חוויית האוהדים, הופכים עבור חלקם לסיוט • מומחית לטיפול בטראומה: \"צריך להתאמץ להנגיש לכולם את המשחקים\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21925156",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:30:13.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392098",
       "title": "זעקת המילואים בכנסת: \"סוחרים בנו במשא ומתן הקואליציוני\"",
       "summary": "רס\"ל ניר יששכר, חבר תנועת \"הרבעון הרביעי\" ומראשי מאבק המילואימניקים, שצבר 450 ימי מילואים, הגיע היום לדיון בכנסת והטיח ביקורת חריפה בחברי הוועדה: \"החברים שלנו שנפלו חשובים יותר מכל כיסא\"",
@@ -240,12 +321,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21928005",
+      "title": "היום במליאה: הצבעה על חוק ועדת חקירה ממלכתית לטבח 7 באוקטובר",
+      "summary": "לצד החוק יעלו היום לקריאה טרומית גם ביטול חוק מח\"ש, חוק הנבצרות, הגבלת הכהונה וחוק הנאשם • בקואליציה היוצאת טוענים שסעיף בדברי ההסבר יאפשר לחקור את חיילי צה\"ל, ויעלו בתגובה את חוק המואזין, החוק למניעת החזרת גופות מחבלים וחוק הקפאת המעצרים • ח\"כ אופיר כץ: \"איך אתם מסתדרים עם תומכי טרור? על מה נלחמנו?\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21928005",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:22:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21928005",
       "title": "היום במליאה: הצבעה על חוק ועדת החקירה הממלכתית לטבח 7 באוקטובר",
       "summary": "לצד החוק יעלו היום לקריאה טרומית גם ביטול חוק מח\"ש, חוק הנבצרות, הגבלת הכהונה וחוק הנאשם • בקואליציה היוצאת טוענים שסעיף בדברי ההסבר יאפשר לחקור את חיילי צה\"ל, ויעלו בתגובה את חוק המואזין, החוק למניעת החזרת גופות מחבלים וחוק הקפאת המעצרים • ח\"כ אופיר כץ: \"איך אתם מסתדרים עם תומכי טרור? על מה נלחמנו?\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21928005",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T09:22:12.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927903",
+      "title": "\"תהיו בשקט\": מירב בן ארי הוציאה את קרעי מהדיון",
+      "summary": "הוועדה המיוחדת לביטול חוק השידורים אישרה את ההצעה לקריאה ראשונה ברוב של שבעה תומכים מול שישה מתנגדים, בתום דיון סוער במיוחד • במהלך הישיבה הורתה יושבת ראש הוועדה, חברת הכנסת מירב בן ארי, לסדרנים להוציא את שר התקשורת שלמה קרעי מהחדר לאחר שהאשימה אותו בהפרעה לניהול הדיון",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21927903",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:21:04.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927903",
@@ -268,7 +367,7 @@
     {
       "id": "walla:https://www.walla.co.il/news/politics/383963030",
       "title": "איזנקוט לוואלה על הקמת הממשלה: \"זה יקרה\"",
-      "summary": "ראש גוש השינוי אמר את הדברים בכנסת, לאחר דיון בועדה למניעת אלימות נשים. בצהריים: פגישת מו\"מ נוספת של מפלגת ישר עם נציגי נתניהו",
+      "summary": "לאחר דיון בכנסת בנושא אלימות כנגד נשים, ענה יו\"ר מפלגת ישר לשאלת וואלה האם תקום ממשלה בקרוב. \"חוזרים לעבוד בזה בשיא המרץ וזה יקרה\", אמר",
       "link": "https://www.walla.co.il/news/politics/383963030",
       "source": "וואלה",
       "sourceKey": "walla",
@@ -309,6 +408,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T09:13:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927741",
+      "title": "\"זרק עלי כוס\": יריב אופנהיימר הותקף בתל אביב",
+      "summary": "איש התקשורת הותקף הבוקר בתל אביב לאחר שהסיע את ילדיו לגנים • לדבריו, אדם שקורא לו בקביעות \"קאפו\", זרק עליו כוס, רץ אחריו ונתן לו מכות בראש • אופנהיימר: \"למעלה משלושים שנה אני בפעילות ציבורית, מכות כאלו מעולם לא ספגתי. ברחוב. ליד הבית\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21927741",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:13:24.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927741",
@@ -435,6 +543,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T09:00:20.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/travel/news-travel/383963025",
+      "title": "החברה שתטוס מת\"א לנמל התעופה העמוס ביותר בעולם",
+      "summary": "חברת התעופה האמריקנית תחדש בדצמבר את הקו הישיר בין אטלנטה לתל אביב, עם שלוש טיסות שבועיות במטוס איירבוס A350, ותוסיף טיסה יומית שנייה מניו יורק לקראת עונת החגים",
+      "link": "https://www.walla.co.il/travel/news-travel/383963025",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T08:59:37.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/travel/news-travel/383963025",
@@ -1389,6 +1506,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T06:22:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21926741",
+      "title": "משפט נתניהו: היועמ״שית הגיעה ותתייצב בפני הרכב השופטים, ח\"כ גוטליב הופיעה",
+      "summary": "השופטים הורו לבהרב־מיארה להגיע לדיון, אף שהודיעה כי הפרקליטים יכולים להציג את עמדתה • על הפרק: אישום השוחד בתיק 4000, שהשופטים המליצו לשקול לבטל כבר ב־2023, והאפשרות לגישור פלילי • בהחלטה נכתב: \"יש בכל זאת ערך מוסף בהתייצבותה של היועצת המשפטית עצמה\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21926741",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T06:22:40.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21926741",
@@ -27444,24 +27570,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T10:16:22.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/lebanese-host-gives-kippah-magen-david-guest-live",
-      "title": "נורמליזציה? איש תקשורת לבנוני חבש כיפה באולפן - והקהל מחא כפיים",
-      "summary": "שארל ג'בור קיבל כיפה עם הכיתוב 'פאודה' בערוץ MTV • המחווה עוררה סערה בלבנון | הרצון להיות שגריר בישראל (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/lebanese-host-gives-kippah-magen-david-guest-live",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T10:13:17.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/public-transport/bus-filled-first-stop-skipped-rest-tzfat-bat-ayin",
-      "title": "לקראת ההילולא: האוטובוס התמלא בתחנה הראשונה - ודילג על המשך המסלול",
-      "summary": "נוסעים רבים הגיעו לתחנה הראשונה של קו לצפת והאוטובוס התמלא כבר שם • בהמשך המסלול לא עצר בתחנות נוספות | לקראת הילולת ה'בת עין' (תחבורה ציבורית)",
-      "link": "https://www.kikar.co.il/public-transport/bus-filled-first-stop-skipped-rest-tzfat-bat-ayin",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T10:08:21.000Z"
     }
   ]
 }
