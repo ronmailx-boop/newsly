@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:31:10.268Z",
+  "updatedAt": "2026-11-25T19:46:06.090Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/5-ton-explosion-residents-shelter-homes",
+      "title": "5 טון חומר נפץ: תושבים הסתגרו בבתים בעקבות פיצוץ חריג",
+      "summary": "68 חביות של חומר נפץ רגיש במיוחד, שהתגבש והפך למסוכן מחשש לפיצוץ ספונטני, הושמדו בפיצוץ מבוקר באיווה (מעניין)",
+      "link": "https://www.kikar.co.il/world-news/5-ton-explosion-residents-shelter-homes",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T19:40:00.000Z"
+    },
     {
       "id": "kikar:https://www.kikar.co.il/haredim-news/legendary-influencer-cries-childrens-question",
       "title": "מרגש: המשפיע האגדי פרץ בבכי כששמע את השאלה של הילדים | צפו",
@@ -381,6 +390,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-25T17:46:53.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877634",
+      "title": "סבאח כמעט עקצה את בארסה, אך לבסוף שילמה ביוקר",
+      "summary": "פליק ביצע רוטציה רחבה במשחק ליגת האלופות בבאקו: לאמין ימאל נותר בספרד, ראפיניה על הספסל, ואת ההתקפה מובילים אדיימי, גורדון וז'סוס. דה יונג הוצב במרכז ההגנה, גם באלדה ב-11",
+      "link": "https://sports.walla.co.il/item/3877634",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T17:45:00.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877634",
@@ -852,6 +870,15 @@
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383963137",
+      "title": "החרדים בדרך לממשלת איזנקוט? גורם במו\"מ: רוב ההסכמות הושגו",
+      "summary": "המשא ומתן עם גוש השינוי מתקדם, וביהדות התורה מביעים אמון בהתחייבויות של איזנקוט וליברמן. במקביל, נתניהו מנסה למנוע את מעבר החרדים לגוש היריב, אך ח\"כ יעקב אשר הבהיר לו: \"אין לנו אופציה אחרת\"",
+      "link": "https://www.walla.co.il/news/politics/383963137",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T16:08:40.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963137",
       "title": "יש הסכמה: התקדמות משמעותית בין איזנקוט, ליברמן והחרדים",
       "summary": "המשא ומתן עם גוש השינוי מתקדם, וביהדות התורה מביעים אמון בהתחייבויות של איזנקוט וליברמן. במקביל, נתניהו מנסה למנוע את מעבר החרדים לגוש היריב, אך ח\"כ יעקב אשר הבהיר לו: \"אין לנו אופציה אחרת\"",
       "link": "https://www.walla.co.il/news/politics/383963137",
@@ -1281,6 +1308,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T14:58:43.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bkwbppvjql",
+      "title": "מקימים ממשלה? כל ההבטחות שבגוש השינוי יצטרכו להפר",
+      "summary": "איזנקוט הציב את הגיוס כתנאי שלא נתון לפשרה והבהיר שלא ישב עם רע\"ם; בנט הבטיח לשלול תקציבים ממשתמטים; ליברמן התחייב - לא לממשלת מיעוט ולא לפטור לחרדים; גולן הציג שורת דרישות בנושאי דת ומדינה: ממשלה חדשה תיתכן כבר בשבוע הבא - אך אילו צפרדעים ייאלצו בגוש השינוי לבלוע? ynet מסביר",
+      "link": "https://www.ynet.co.il/news/article/bkwbppvjql",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T14:57:36.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bkwbppvjql",
@@ -2345,21 +2381,21 @@
       "pubDate": "2026-11-25T12:52:03.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
-      "title": "גרושתו של ליאור נרקיס נזכרה בתחילת הקשר: \"ברחתי\"",
-      "summary": "ספיר נרקיס סיפרה בתוכנית \"במעבר חד\" בקשת 12 כיצד גילה הזמר בתחילת היכרותם היכן היא עובדת, וחשפה את התגובה החד-משמעית שלו שגרמה לה לנטוש את המשמרת",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-25T12:49:29.000Z"
-    },
-    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/92792",
       "title": "טרגדיה בבית החולים מאיר: נפטרה אישה בת 47 שאושפזה אתמול במצב קריטי בשל סיבוכי שפעת",
       "summary": "המרכז הרפואי מאיר בכפר סבא הודיע היום (רביעי) על מותה של האישה בת ה-47 שאושפזה אתמול בבית החולים בעקבות סיבוכי מחלת השפעת. האישה הגיעה אתמול ליחידה לטיפול נמרץ במרכז הרפואי כשהיא במצב קריטי, ולמרות מאמצי הצוותים הרפואיים להציל את חייה – נאלצו הרופאים לקבוע את מותה.",
       "link": "https://www.kikar.co.il/scoop-news/92792",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
+      "pubDate": "2026-11-25T12:49:29.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
+      "title": "גרושתו של ליאור נרקיס נזכרה בתחילת הקשר: \"ברחתי\"",
+      "summary": "ספיר נרקיס סיפרה בתוכנית \"במעבר חד\" בקשת 12 כיצד גילה הזמר בתחילת היכרותם היכן היא עובדת, וחשפה את התגובה החד-משמעית שלו שגרמה לה לנטוש את המשמרת",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21930186",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T12:49:29.000Z"
     },
     {
@@ -29964,24 +30000,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T20:00:11.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962337",
-      "title": "מקרה כריסטה פייק חוזר? הוצאה להורג בטקסס הפכה למסכת ייסורים",
-      "summary": "חודש וחצי אחרי שניסיון הוצאתה להורג של פייק הסתיים בכישלון, אסיר בן 70 הוצא להורג בזריקת רעל בטקסס בתהליך שנמשך יותר משעה. הצוות התקשה למצוא וריד, והאסיר זעק מכאבים והתחנן: \"אל תיתנו לי לסבול ככה״",
-      "link": "https://www.walla.co.il/news/world/383962337",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T19:38:44.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877053",
-      "title": "\"דני אבדיה פשוט כוכב. הקומבינציה הכי טובה ב-NBA\"",
-      "summary": "הכוכב הישראלי של פורטלנד זכה לשבחים בפודקאסט הפופולרי של זאק לואו: \"הוא מהיר כל כך, בטח לגודל שלו\". ואיך יהפוך מאולסטאר לסופרסטאר?",
-      "link": "https://sports.walla.co.il/item/3877053",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T19:35:00.000Z"
     }
   ]
 }
