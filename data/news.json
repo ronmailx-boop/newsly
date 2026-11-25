@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:31:03.772Z",
+  "updatedAt": "2026-11-25T08:46:02.562Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,112 @@
   ],
   "items": [
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/carlson-runs-president-block-pro-israel",
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392080",
+      "title": "מרוץ נגד השעון בכנסת: שורת החוקי חירום והסדרי הביטחון שעומדים לפקוע",
+      "summary": "בזמן שהמגעים להרכבת ממשלה נמשכים - שורה ארוכה של הוראות שעה, תקנות חירום והחלטות ממשלה בתחומי הביטחון, אכיפת החוק והכליאה עומדות לפקוע בשבועות ובחודשים הקרובים",
+      "link": "https://www.maariv.co.il/news/politics/article-1392080",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:40:47.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/hasidism/satmar-rebbe-letter-trump-israel-japan",
+      "title": "\"אין לנו קשר לישראל יותר מאשר ליפן\" | נחשף המכתב הסודי של הרבי מסאטמר לטראמפ",
+      "summary": "תקופה קצרה לאחר פגישתם של גדולי האדמו\"רים והרבנים באמריקה עם נשיא ארה\"ב דולנד טראמפ, נחשף מכתבו האישי והמנומק של האדמו\"ר מהר\"א מסאטמר לנשיא, שנמסר במהלך פגישתם הפרטית בחודש אלול • הרבי מבהיר לטראמפ: \"נתניהו אינו מייצג אותנו, אין לנו קשר פוליטי למדינת ישראל יותר מאשר ליפן או לאוגנדה\" • וגם: האזהרה מפני הטלת אחריות קולקטיבית על יהודי התפוצות • המכתב המלא (חרדים)",
+      "link": "https://www.kikar.co.il/hasidism/satmar-rebbe-letter-trump-israel-japan",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T08:38:05.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1qnhf4kqg",
+      "title": "\"מניע אידיאולוגי מובהק\": זה גזר הדין למשתתפי הלינץ' המחריד בבת ים",
+      "summary": "יותר מחמש שנים לאחר שהמון זועם הכה ב\"שומר החומות\" את סעיד מוסא ללא רחמים בטיילת, גזר בית המשפט עונשים בין 22 חודשי מאסר לשבע שנים על 5 ממשתתפי הלינץ': דוד בוטיאר, משה מנסור, אושר איתגב, תמיר סרור ויצחק סבן. 4 מהם הורשעו בביצוע מעשה טרור. השופטת: \"נסיבות חמורות במיוחד\"",
+      "link": "https://www.ynet.co.il/news/article/b1qnhf4kqg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T08:38:04.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/turkey-chase-massachusetts-woman-rescued",
+      "title": "תיעוד משעשע מארה\"ב: תרנגולי הודו רדפו אחרי אישה - היא נמלטה לרכב של זרים",
+      "summary": "תושבת מסצ'וסטס נרדפה על ידי להקת תרנגולי הודו פראיים • זוג עוברי אורח עצר וחילץ אותה ברגע האחרון | התיעוד המשעשע שהפך לוויראלי (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/turkey-chase-massachusetts-woman-rescued",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T08:37:29.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392078",
+      "title": "יאיר גולן מחריף את הטון: דורש מישר להסיר את ממשלת האחדות מסדר היום",
+      "summary": "לאחר הקפאת המשא ומתן הקואליציוני עם ישר, יו\"ר הדמוקרטים דורש להיות שותף מלא בגיבוש קווי היסוד של הממשלה ולקבל התחייבויות בסוגיות מערכת המשפט ויחסי דת ומדינה",
+      "link": "https://www.maariv.co.il/news/politics/article-1392078",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:37:17.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/netanyahu-trial-legal-analysis",
+      "title": "המומחה למשפט פלילי עו\"ד אייל בסרגליק מעריך: \"נתניהו יזוכה בתיקים 2000 ו-4000\" | ריאיון",
+      "summary": "לקראת התייצבות היועמ\"שית בפני שופטי נתניהו, שוחחנו עם עו\"ד אייל בסרגליק, מומחה למשפט פלילי ולעבירות צווארון לבן, על עתיד המשפט, הקשיים בתיקי האלפים והאפשרות לסיום ההליך (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/netanyahu-trial-legal-analysis",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T08:36:36.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383962977",
+      "title": "יועמדו לדין: התקרית במלון בכרתים שרודפת אחרי שני הישראלים",
+      "summary": "שני צעירים ישראלים, שהיו קטינים בעת האירוע, טוענים כי כ-30 ישראלים שנמלטו מרודפיהם הסתתרו בחדרם במלון, וייתכן שאחד מהם הותיר בו את הגרזן. הם כופרים באישום ונמצאים בישראל לקראת הדיון שייערך בהיעדרם",
+      "link": "https://www.walla.co.il/news/world/383962977",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T08:34:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/law-and-order/netanyahu-supporter-defamed-lahav-pays-90k",
+      "title": "ניצחון לחוקר להב: תומך נתניהו הכפיש וישלם 90 אלף שקל",
+      "summary": "בית משפט השלום חייב את עידו שיפוני לפצות את חוקר המשטרה לשעבר אורי קנר בעקבות פרסומים פוגעניים ברשתות החברתיות, ומתח ביקורת חריפה על התנהלותו (משפט)",
+      "link": "https://www.kikar.co.il/law-and-order/netanyahu-supporter-defamed-lahav-pays-90k",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T08:32:19.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392059",
+      "title": "מוסקבה מסרבת: ההצעה המפתה של ארצות הברית לרוסיה נגנזה",
+      "summary": "ההצעה של ארצות הברית כללה בין היתר השקעה של חברות אמריקאיות בפרויקטים רוסיים של נפט וטיטניום. בתחילה הגיבו גורמים רוסיים בחיוב, אך מאז ההתלהבות הצטננה. גורם אמריקאי: \"הרוסים אינם מעוניינים\"",
+      "link": "https://www.maariv.co.il/news/world/article-1392059",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:32:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21927478",
+      "title": "ליאל מ\"ווארט\" על הגירושים: \"הסיפור שלי היה נורא\"",
+      "summary": "בפרק ששודר בתוכנית השידוכים של רשת 13, המשתתפת החדשה פתחה את הלב מול המצלמות וחשפה את ההתמודדות המטלטלת שאחרי הפרידה: \"קשה לי, כואב לי, שורף לי\"",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21927478",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:29:32.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/tucker-carlson-presidential-run-israel",
       "title": "הנשיא הבא? קרלסון התמודד לנשיאות כדי לחסום נשיא פרו ישראלי",
-      "summary": "הפרשן שהפך לאחד הקולות הבולטים נגד ישראל בימין האמריקני שוקל צעד פוליטי דרמטי לקראת 2028 | לפי דיווח בארה\"ב, האפשרות ששר החוץ מרקו רוביו יזכה במועמדות הרפובליקנית עשויה לדחוף אותו למרוץ לנשיאות (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/carlson-runs-president-block-pro-israel",
+      "summary": "הוא הפך את ישראל לאויבת שלו, תקף את נתניהו והאשים את תומכי ישראל בגרירת אמריקה למלחמות - עכשיו הוא עשוי להתמודד על הבית הלבן (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/tucker-carlson-presidential-run-israel",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T08:28:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927109",
+      "title": "בנט באוצר, ליברמן בביטחון ולפיד שר החוץ? כך עשויה להיראות הממשלה הבאה",
+      "summary": "חלוקת התיקים בממשלה הבאה כבר מעוררת עניין בזירה הפוליטית: לפי אחד התרחישים האפשריים, אביגדור ליברמן יופקד על משרד הביטחון, נפתלי בנט על האוצר ויאיר לפיד על משרד החוץ • גם חילי טרופר, נעמה לזימי ועדי אלטשולר עשויים להשתלב בתמונת הממשלה המסתמנת",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21927109",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:28:42.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/fort-hood-terrorist-execution-appeal-last-minute",
@@ -95,6 +194,24 @@
       "pubDate": "2026-11-25T08:20:26.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21927482",
+      "title": "חשד לאיום ביטחוני: טיסת וויז אייר לישראל הוסטה לבולגריה והנוסעים פונו",
+      "summary": "מטוס חברת התעופה ההונגרית שהמריא הבוקר מבודפשט בדרכו לנתב\"ג ביצע נחיתה בלתי מתוכננת בסופיה • המטוס הועבר לאזור מבודד, הכבודה נפרקה וצוותי משטרה ערכו סריקות במטוס • הנוסעים נדרשו לעבור בידוק ביטחוני מחודש",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21927482",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:19:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/education/article/21927449",
+      "title": "קיש התקפל: מבחן \"תנופה\" במתמטיקה מתקיים הבוקר",
+      "summary": "חודש אחרי ששר החינוך הורה לבטל את מבחן הערכת הידע במתמטיקה - רבבות תלמידי כיתות ט' נבחנים בו כעת • זה קרה לאחר שקיש הבין מהייעוץ המשפטי של המשרד שאין כל דרך לחסום את קיום הבחינות",
+      "link": "https://www.israelhayom.co.il/news/education/article/21927449",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:19:30.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392064",
       "title": "הסוד הגרעיני של ישראל: המספרים המפורטים, תצלומי הלווין והשדרוגים בדימונה",
       "summary": "בעוד ישראל שומרת על מדיניות העמימות הגרעינית, דוח חדש בכתב עת מדעי מעריך כי ברשותה כ-90 ראשי נפץ גרעיניים ומצביע על עבודות בנייה נרחבות ושדרוגים במערכים הצבאיים שלה",
@@ -102,6 +219,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T08:18:28.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21927174",
+      "title": "בלאק פריידי עם עד 60% הנחה: אתרי האופנה מחו\"ל ששולחים לישראל",
+      "summary": "אסוס, אלו יוגה, אמזון, שופבופ ופאפארץ' כבר נערכים לסוף השבוע של המבצעים • בדקנו אילו אתרים מציעים משלוח ישיר לישראל, כמה אפשר לחסוך בהם ואיפה מסתתרות ההנחות המעניינות ביותר",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21927174",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:18:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21927196",
+      "title": "חייבים לשתות מים על הבוקר? התשובה עשויה להפתיע אתכם",
+      "summary": "רבים מאיתנו מקפידים לשתות כוס מים מיד עם הקימה, אבל האם הגוף באמת זקוק לה? • דיאטנית מסבירה מה חשוב לדעת על שתייה בבוקר ועל כמות הנוזלים שאנחנו צריכים לאורך היום",
+      "link": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21927196",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:16:26.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21927446",
@@ -174,6 +309,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T08:02:13.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21927114",
+      "title": "כדי לעזור למכבי תל אביב לנצח: עודד קטש מוכרח לשנות",
+      "summary": "המאמן עבר להרכב של שלושה גארדים ובזכותו הפך את המשחק מול באיירן מינכן • ההגנה הציגה מספרים שטרם ראינו, וזה תורגם להתקפה טובה • הכדורסל האירופי השתנה ואי אפשר שלא לתהות האם הסגנון של קטש עדיין רלוונטי",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21927114",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T08:00:25.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21927114",
@@ -339,6 +483,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1391978",
+      "title": "טורקיה מציגה את כיפת הפלדה - המומחה טוען שישראל איבדה את היתרון",
+      "summary": "המומחה הביטחוני הטורקי קושקון בשבוג לעג לכיפת ברזל וטען כי מערכת ההגנה של ארצו עולה עליה בהרבה. בריאיון לתקשורת הטורקית טען כי מדינות שרכשו מערכות הגנה מישראל כבר מטילות ספק בהחלטתן",
+      "link": "https://www.maariv.co.il/news/world/article-1391978",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T07:18:59.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1391978",
       "title": "המומחה הטורקי לועג למערכת ההגנה של ישראל: \"כיפה מחוררת\"",
       "summary": "המומחה הביטחוני הטורקי קושקון בשבוג לעג לכיפת ברזל וטען כי מערכת ההגנה של ארצו עולה עליה בהרבה. בריאיון לתקשורת הטורקית טען כי מדינות שרכשו מערכות הגנה מישראל כבר מטילות ספק בהחלטתן",
       "link": "https://www.maariv.co.il/news/world/article-1391978",
@@ -426,6 +579,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-25T07:02:40.000Z"
+    },
+    {
+      "id": "walla:https://finance.walla.co.il/item/3877563",
+      "title": "מנכ\"ל אנבידיה חושף אחרי הסערה: טיפול פסיכולוגי יומי",
+      "summary": "מנכ\"ל אנבידיה חושף אחרי הסערה: טיפול פסיכולוגי יומי",
+      "link": "https://finance.walla.co.il/item/3877563",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T07:02:12.000Z"
     },
     {
       "id": "walla:https://finance.walla.co.il/item/3877563",
@@ -880,7 +1042,7 @@
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21926517",
       "title": "ליברמן חוזר למשרד הביטחון: \"בשבוע הבא נוכל להשביע ממשלה ברוב יהודי\"",
-      "summary": "יו\"ר ישראל ביתנו היה הראשון שהגיע לסיכום עם איזנקוט על הסכם קואליציוני, והשתלט על המשרד שישפיע יותר מכל על חוק הפטור מגיוס • הבוקר אמר: \"לא אתפלא אם נתניהו וכ\"ץ מפעילים את השב\"כ והמוסד נגד ראשי גוש השינוי\"",
+      "summary": "יו\"ר ישראל ביתנו היה הראשון שהגיע לסיכום עם איזנקוט על הסכם קואליציוני, והשתלט על המשרד שישפיע יותר מכל על חוק הפטור מגיוס • הבוקר אמר: \"לא אתפלא אם נתניהו וכ\"ץ מפעילים את השב\"כ והמוסד נגד ראשי גוש השינוי\" • שר הביטחון ישראל כ\"ץ: \"הוא איבד קשר עם המציאות, או מנסה להסיט את הדיון\"",
       "link": "https://www.israelhayom.co.il/news/politics/article/21926517",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -26949,51 +27111,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-20T08:47:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21895975",
-      "title": "הרכב חסר: גוש השינוי מחרים את המשרתים ונשען על מי שלא התגייסו",
-      "summary": "הישגי המפלגות בקלפיות הכפולות, שבהן שיעור קולות החיילים גבוה, מלמדים שאחרי המלחמה הארוכה בתולדותינו, גוש איזנקוט פוסל את נציגי הציבור שמשרת ונופל הכי הרבה ומכשיר את נציגי הציבור שמשרת הכי פחות כך לא \"מרפאים\" חברה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21895975",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:45:26.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21895878",
-      "title": "\"ילד אחד ששחררתי לעולם הבא, וילדה אחת קיבלתי אל העולם הזה\": בין השכול לחיים החדשים",
-      "summary": "ביום הולדתה של דפנה מאיר, שנרצחה בפיגוע בעתניאל, ילדה בתה רננה תאומות • למחרת ילדה עינב חבשוש בת, חמישה חודשים לאחר שבנה, סמ\"ר נוה חבשוש, נפל בלבנון • דווקא בשבוע של מחלוקות פוליטיות, שתי המשפחות השכולות מלמדות אותנו שיעור על אהבה, תקווה ובחירה בחיים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21895878",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:44:41.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390475",
-      "title": "אחרי כמעט שנה: חידת הרס בית העלמין הצבאי נפתרה",
-      "summary": "תושב רהט בן 59 ביצע הרס בבית העלמין הצבאי שנמצא מול מושב נוגה בחבל לכיש. כך התגלה לאחר חקירה שהתקיימה מאז חודש פברואר האחרון. לפחות שבע פעמים הוא נכנס למקום וביצע מעשים מזוויעים",
-      "link": "https://www.maariv.co.il/news/law/article-1390475",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T08:43:40.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383962304",
-      "title": "בעקבות איראן: ישראל שדרגה בצורה משמעותית את מערכת \"קלע דוד\"",
-      "summary": "לפי דיווח בבלומברג, השדרוג נועד לאפשר למערכת להתמודד עם מגוון רחב יותר של איומים בליסטיים, לאחר שהמלחמה עם איראן חשפה את התלות במיירטים יקרים שקשה לייצר בכמויות גדולות",
-      "link": "https://www.walla.co.il/news/israel/383962304",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T08:42:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21895730",
-      "title": "לשנים רבות: המשחק שיכול לגמור סופית את נבחרת ישראל",
-      "summary": "השיטה החדשה של פיפ\"א במוקדמות מונדיאל 2030 לא משאירה סיכוי לנבחרות דרג ג' • ישראל חייבת להפנים: אם תגיע כחלק ממנו להגרלה ב-2029, היא תקבור את עתידה לזמן רב • כל מה שחובה לדעת לקראת ההגרלה הגורלית היום",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21895730",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:40:06.000Z"
     }
   ]
 }
