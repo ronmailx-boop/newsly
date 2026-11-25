@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:14:55.200Z",
+  "updatedAt": "2026-11-25T09:31:04.773Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,76 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392098",
+      "title": "זעקת המילואים בכנסת: \"סוחרים בנו במשא ומתן הקואליציוני\"",
+      "summary": "רס\"ל ניר יששכר, חבר תנועת \"הרבעון הרביעי\" ומראשי מאבק המילואימניקים, שצבר 450 ימי מילואים, הגיע היום לדיון בכנסת והטיח ביקורת חריפה בחברי הוועדה: \"החברים שלנו שנפלו חשובים יותר מכל כיסא\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1392098",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T09:29:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/un-aid-bedroom-eliminated-hamas-official",
+      "title": "הסיוע של האו\"ם בחדר השינה של בכיר חמאס שחוסל",
+      "summary": "התיעוד החריג מתוך ביתו של בכיר חמאס שחוסל הלילה מעורר שאלות על מה שמתרחש מאחורי הקלעים של חלוקת הסיוע ברצוע (חדשות בעולם)",
+      "link": "https://www.kikar.co.il/world-news/un-aid-bedroom-eliminated-hamas-official",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T09:28:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392093",
+      "title": "פריטי היוקרה נגנבו - וחזרו לבעליהם בדרך שאף אחד לא האמין",
+      "summary": "אישה זיהתה את שרשרת הזהב שנגנבה ממשפחתה, במהלך גלישה ברשת האינטרנט. זמן קצר לאחר מכן, החשוד במעשה נעצר",
+      "link": "https://www.maariv.co.il/news/law/article-1392093",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T09:24:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963030",
+      "title": "איזנקוט לוואלה על הקמת הממשלה: \"זה יקרה\"",
+      "summary": "ראש גוש השינוי אמר את הדברים בכנסת, לאחר דיון בועדה למניעת אלימות נשים. בצהריים: פגישת מו\"מ נוספת של מפלגת ישר עם נציגי נתניהו",
+      "link": "https://www.walla.co.il/news/politics/383963030",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T09:17:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/business/real-estate/article/21927861",
+      "title": "המהפך שמתכננת חיפה: אלפי דירות ומרכז עסקים חדש בכניסה לעיר",
+      "summary": "כ-3,400 דירות, כמעט מיליון מ\"ר לתעסוקה ומסחר ומרכז עסקים חדש: עיריית חיפה מתכננת לשנות את פני הכניסה המזרחית לעיר • בלב המהלך מקדמת קבוצת אלפא את פרויקט אקספו חיפה, המשלב נכס מסחרי מניב עם פוטנציאל לפיתוח עתידי של מאות אלפי מ\"ר למגורים, מסחר ומשרדים",
+      "link": "https://www.israelhayom.co.il/business/real-estate/article/21927861",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:15:08.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/rydq4mvjmx",
       "title": "בתום דיון סוער: אושרה לקריאה ראשונה ההצעה לביטול חוק השידורים, קרעי הורחק",
-      "summary": "",
+      "summary": "שר התקשורת הוצא תוך שהוא מאשים את הייעוץ המשפטי של הכנסה ב\"רמיסה פוליטית\". החוק שהוביל קרעי בכנסת הקודמת תואר ככזה ש\"יוצר סיכון מוגבר לדמותה של תקשורת חופשית בישראל\" - וכעת נסללה הדרך לביטולו בקריאה ראשונה",
       "link": "https://www.ynet.co.il/news/article/rydq4mvjmx",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T09:13:37.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927741",
+      "title": "יריב אופנהיימר הותקף באלימות: \"נחצה הגבול\"",
+      "summary": "איש התקשורת הותקף הבוקר בתל אביב לאחר שהסיע את ילדיו לגנים • לדבריו, אדם שקורא לו בקביעות \"קאפו\", זרק עליו כוס, רץ אחריו ונתן לו מכות בראש • אופנהיימר: \"למעלה משלושים שנה אני בפעילות ציבורית, מכות כאלו מעולם לא ספגתי. ברחוב. ליד הבית\"",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21927741",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:13:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21927924",
+      "title": "חזיר בר נצפה ברמת גן",
+      "summary": "מיד עם קבלת הדיווח, החלו צוותי המקצוע בעירייה והשירות הווטרינרי",
+      "link": "https://www.israelhayom.co.il/news/local/article/21927924",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:12:30.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/police/burglary-suspect-arrested-idna-operation",
@@ -48,6 +111,33 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T09:12:07.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21927886",
+      "title": "אחרי \"הישרדות\": שחר סאול ולרה גרינסס שוב ביחד",
+      "summary": "אחרי שהכירו בצילומי \"הישרדות\" והקשר ביניהם נמשך גם בישראל, לפי המידע שהגיע ל-ForReal שחר סאול צילם קליפ לשיר חדש שנכתב על לרה גרינסס - והיא משתתפת בו בעצמה",
+      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21927886",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:11:52.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21927920",
+      "title": "עדן הראל ועודד מנשה מודים: \"מביא אותנו לסיטואציה קיצונית\"",
+      "summary": "בפרק חדש של הפודקאסט \"דיבורים מגן עדן\" ענו עדן הראל ועודד מנשה לשאלות העוקבים על המריבות שמלוות אותם גם אחרי קרוב לשני עשורים של נישואין • הוא הודה במה שקורה לו ברגעי לחץ, והיא חשפה איך זה משפיע עליה מיד",
+      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21927920",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:09:06.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383963026",
+      "title": "עם בוז מהקהל: ההישג הישראלי בתחרות מיס יוניברס",
+      "summary": "אחרי 21 שנה שבהן אף נציגה ישראלית לא הצליחה להתברג בין 30 המתמודדות האחרונות, דניאל יבלונקה שוברת את הרצף, מתייחסת לשריקות הבוז שספגה על הבמה ומסיימת את התחרות עם מסר חד למבקרים",
+      "link": "https://www.walla.co.il/celebs/local-news/383963026",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T09:09:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/celebs/local-news/383963026",
@@ -68,6 +158,33 @@
       "pubDate": "2026-11-25T09:07:25.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/sheva/south-news/3877575",
+      "title": "הפרופסור הערבי מסורוקה: \"אנו צריכים להיות שותפים לשלטון\"",
+      "summary": "״לא רק להחליף את השלטון, אלא להיות שותפים לו״: הרופא מסורוקה בדרישה לאיזנקוט",
+      "link": "https://www.walla.co.il/sheva/south-news/3877575",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T09:05:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21927764",
+      "title": "בלה חדיד מודה: \"אני צריכה לחזור לטיפול פסיכולוגי\"",
+      "summary": "הדוגמנית הצטלמה ללא בגדים למגזין האופנה וסיפרה על המשבר הרפואי שחוותה לפני שעלתה למסלול • על הביקורת שספגה על משקלה בגיל 17 ועל הרצון לפרוש לחיים שקטים בעיירה קטנה",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21927764",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:03:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21927749",
+      "title": "יעל שלביה כמו שלא ראיתם: כך היא נראתה כתינוקת",
+      "summary": "הדוגמנית ובת זוגו של נהג הפורמולה 1 לאנס סטרול פתחה את אלבום התמונות המשפחתי לרגל יום הולדתו של אביה • אלא שדווקא ביום החגיגי שלו, הייתה זו שלביה שקיבלה מתנה מפתיעה מהוריה: \"אתם ההשראה שלי\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21927749",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:03:15.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/haredim-news/yeshiva-student-arrested-route-90-military-police",
       "title": "נעצר בכביש 90 בדרכו מים המלח: אברך מגני תקווה הוסגר למשטרה הצבאית",
       "summary": "ר' אלימלך מתתיהו, תלמיד ישיבת קיבוץ נווה יעקב וכיום אברך בכולל 'עמלי תורה', נעצר בכביש 90 והוסגר למשטרה הצבאית (חדשות חרדים)",
@@ -75,6 +192,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T09:01:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21927743",
+      "title": "בצל המתיחות בין הרשויות: מתן כהנא ויצחק עמית נפגשו לראשונה",
+      "summary": "יו\"ר הכנסת מתן כהנא אירח במשכן הכנסת את נשיא בית המשפט העליון יצחק עמית, לפגישה ראשונה מאז כניסתו לתפקיד בשבוע שעבר • השניים דנו ביחסים בין הרשות המחוקקת לרשות השופטת, בעצמאות מוסדות המדינה ובדרכים לחיזוק אמון הציבור",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21927743",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-25T09:00:20.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392087",
@@ -27156,15 +27282,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-20T09:47:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj3xwfaafl",
-      "title": "\"שיא האומץ\": העיתונאי הלבנוני קיבל בשידור כיפה עם מגן דוד וכיתוב \"פאודה\"",
-      "summary": "בסרטון שהפך הלילה ויראלי, מגיש בערוץ הטלוויזיה MTV העניק לשארל ג'בור, איש תקשורת בכיר במפלגת \"הכוחות הלבנונים\" את הכיפה - ימים ספורים לאחר שאמר שהוא לומד עברית ורוצה להיות שגריר בישראל. אביחי אדרעי, לשעבר דובר צה\"ל בערבית: \" בנוגע ללימוד עברית, אנחנו לרשותך\"",
-      "link": "https://www.ynet.co.il/news/article/rj3xwfaafl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T09:20:43.000Z"
     }
   ]
 }
