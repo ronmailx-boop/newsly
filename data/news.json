@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:46:02.562Z",
+  "updatedAt": "2026-11-25T09:01:21.173Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1392087",
+      "title": "עוד לפני שנכנס לתפקיד: חוסל המחליף המיועד של בכיר חמאס",
+      "summary": "לאחר חיסולו של נעים אבו נחל, ראש מנגנון ביטחון הפנים של חמאס, צה\"ל ושב\"כ חיסלו גם את מחליפו המיועד, מוחמד מאג'ד אבו עוף, ששימש בתפקיד בכיר בצפון הרצועה",
+      "link": "https://www.maariv.co.il/news/military/article-1392087",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:58:15.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/health/article-1392069",
+      "title": "המוסד ברמב\"ם שהפך לבית חולים עצמאי - ושדרוג הסטטוס היוקרתי",
+      "summary": "בשורה לילדי הצפון: בית החולים \"רות\" לילדים, שפעל עד כה כאגף רב תחומי לטיפול בילדים, הוכר השבוע באופן רשמי על ידי משרד הבריאות כבית חולים רשמי תחת המרכז הרפואי המשולב רמב\"ם",
+      "link": "https://www.maariv.co.il/news/health/article-1392069",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:54:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392073",
+      "title": "\"איש רע ומרושע מאוד\": המחבל האמריקאי עותר נגד הוצאתו להורג בידי כיתת היורים",
+      "summary": "נידאל חסן, הפסיכיאטר הצבאי שרצח 13 בני אדם בפורט הוד ב-2009, מבקש לעכב את הוצאתו להורג בכיתת יורים בשבוע הבא. חסן טוען שזכותו להליך הוגן הופרה כשנאסר עליו לטעון שפעל להגנת הטליבאן",
+      "link": "https://www.maariv.co.il/news/world/article-1392073",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T08:45:33.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392080",
       "title": "מרוץ נגד השעון בכנסת: שורת החוקי חירום והסדרי הביטחון שעומדים לפקוע",
       "summary": "בזמן שהמגעים להרכבת ממשלה נמשכים - שורה ארוכה של הוראות שעה, תקנות חירום והחלטות ממשלה בתחומי הביטחון, אכיפת החוק והכליאה עומדות לפקוע בשבועות ובחודשים הקרובים",
@@ -41,10 +68,10 @@
       "pubDate": "2026-11-25T08:40:47.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/hasidism/satmar-rebbe-letter-trump-israel-japan",
+      "id": "kikar:https://www.kikar.co.il/hasidism/satmar-rebbe-trump-letter-anti-zionist",
       "title": "\"אין לנו קשר לישראל יותר מאשר ליפן\" | נחשף המכתב הסודי של הרבי מסאטמר לטראמפ",
       "summary": "תקופה קצרה לאחר פגישתם של גדולי האדמו\"רים והרבנים באמריקה עם נשיא ארה\"ב דולנד טראמפ, נחשף מכתבו האישי והמנומק של האדמו\"ר מהר\"א מסאטמר לנשיא, שנמסר במהלך פגישתם הפרטית בחודש אלול • הרבי מבהיר לטראמפ: \"נתניהו אינו מייצג אותנו, אין לנו קשר פוליטי למדינת ישראל יותר מאשר ליפן או לאוגנדה\" • וגם: האזהרה מפני הטלת אחריות קולקטיבית על יהודי התפוצות • המכתב המלא (חרדים)",
-      "link": "https://www.kikar.co.il/hasidism/satmar-rebbe-letter-trump-israel-japan",
+      "link": "https://www.kikar.co.il/hasidism/satmar-rebbe-trump-letter-anti-zionist",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T08:38:05.000Z"
@@ -849,6 +876,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T06:17:18.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383962995",
+      "title": "בגוש השינוי מציעים להקפיא את חוק המעצרים ל-3 חודשים",
+      "summary": "במסגרת המו\"מ עם המפלגות החרדיות עלתה היוזמה לקדם הוראת שעה להקפאת מעצר העריקים ל-3 חודשים. המטרה: לקנות זמן עד להשלמת חוק גיוס חדש",
+      "link": "https://www.walla.co.il/news/politics/383962995",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T06:16:46.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383962995",
@@ -27021,96 +27057,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T09:02:18.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877002",
-      "title": "אהבה - סוף הסיפור: כך הפך בראון לאגדה בכדורסל הישראלי",
-      "summary": "בדרך לא אופיינית, אבל אופיינית לו, גילו אוהדי הכדורסל בישראל שג'ייקובן בראון פרש. מדור \"אבא של שבת\" נפרד מהשחקן שיכול היה להגיע רחוק יותר אלמלא הפציעות, ונחשב לאחד הגדולים ששיחקו כאן",
-      "link": "https://sports.walla.co.il/item/3877002",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T09:00:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21896057",
-      "title": "אחרי שהוחרם על ידי איראני: אסף יסעור הוכתר לסגן אלוף העולם",
-      "summary": "לוחם הטאקוונדו הישראלי נוצח בגמר 2:1 מול יריב מאזרבייג'ן והסתפק במדליית הכסף בתחרות שמתקיימת בדרום קוריאה • ברבע הגמר ניצח את מוחמד טהא חסנפור, שסירב להתייצב לקרב",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21896057",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:58:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21895988",
-      "title": "5 פירות שלא ידעתם שכדאי לאכול עם הקליפה",
-      "summary": "החלק שרובנו זורקים לפח מכיל לעיתים קרובות סיבים, ויטמינים ונוגדי חמצון שהולכים לאיבוד בקילוף • מקארי מקליפות בננה ועד חמוצים מקליפות אבטיח: כך הופכים שאריות לחלק קבוע מהתפריט",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21895988",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:57:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/recommendations/article/21895988",
-      "title": "שלא תעזו לזרוק לפח: 5 פירות שלא ידעתם שכדאי לאכול עם הקליפה",
-      "summary": "החלק שרובנו זורקים לפח מכיל לעיתים קרובות סיבים, ויטמינים ונוגדי חמצון שהולכים לאיבוד בקילוף • מקארי מקליפות בננה ועד חמוצים מקליפות אבטיח: כך הופכים שאריות לחלק קבוע מהתפריט",
-      "link": "https://www.israelhayom.co.il/food/recommendations/article/21895988",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:57:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390479",
-      "title": "המלחמה באיראן חשפה את נקודת התורפה של ישראל - עכשיו הגיעה התשובה",
-      "summary": "מלחמת איראן חשפה תלות ישראלית במיירטים יקרים ועכשיו מגיע המענה: \"קלע דוד\" שודרגה כדי לעמוד במטחים ממושכים, כשמיירט \"סטאנר\" עולה כמיליון דולר בלבד, בזמן שאיראן עדיין מחזיקה בלפחות 1,700 טילים בליסטיים",
-      "link": "https://www.maariv.co.il/news/military/article-1390479",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T08:54:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/15_minutes/article/21894947",
-      "title": "יותר מ-10 קילו: שלקה נראית אחרת ממה שהכרנו",
-      "summary": "האימונים, הארוחות, רשימת הקניות, וטיפים - יוצאת \"האח הגדול\" חושפת מה משקלה כיום, ומציגה לעוקבים את השינוי שעברה ואת התהליך שעזר להגיע לתוצאה: \"קשה של החיים\"",
-      "link": "https://www.israelhayom.co.il/forreal/15_minutes/article/21894947",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:53:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21896052",
-      "title": "סמוך למטרו- אושרה תוכנית פינוי-בינוי של \"אנשי העיר\" בבת ים",
-      "summary": "תוכנית הפינוי-בינוי שאושרה כוללת בניית 505 יחידות דיור חדשות במקום 144 קיימות • התוכנית, כוללת גם שטחי מסחר ותעסוקה. מתוך כלל יחידות הדיור החדשות, כ-361 מיועדות לשיווק",
-      "link": "https://www.israelhayom.co.il/business/article/21896052",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T08:53:46.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390478",
-      "title": "בגיל 112: התברר שהאישה המבוגרת בדנמרק הייתה מנהיגת סניף נאצי",
-      "summary": "קירסטן שוואלבה הפכה בגיל 112 ו-218 ימים לאדם המבוגר ביותר בתולדות דנמרק. אלא שמסמכים מתקופת מלחמת העולם השנייה גילו כי מילאה שני תפקידי הנהגה במפלגה הנאצית. היא טוענת שבעלה ביקש ממנה להצטרף",
-      "link": "https://www.maariv.co.il/news/world/article-1390478",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T08:49:39.000Z"
-    },
-    {
-      "id": "walla:https://finance.walla.co.il/item/3876878",
-      "title": "בין סופר לשכר הדירה: כך אפשר להחזיר את יוקר המחיה עשור אחורה",
-      "summary": "ישראל נמצאת בעשירייה הראשונה ב-OECD בתוצר, אך רק במקום ה-24 בכוח הקנייה, כאשר הפער בין שני הנתונים האלה ממחיש את יוקר המחיה. בעוד מחירי המזון בניכוי פירות וירקות דווקא ירדו ה",
-      "link": "https://finance.walla.co.il/item/3876878",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T08:49:31.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/security-news/israel-upgrades-davids-sling-defense-system",
-      "title": "ישראל שדרגה דרמטית את 'קלע דוד': כך מתכוננים למתקפות ממושכות",
-      "summary": "השדרוג מגדיל את טווח המערכת ומרחיב את מגוון האיומים הבליסטיים • המהלך נועד לצמצם תלות במיירטים יקרים | הפתרון הישראלי למתקפות איראן (צבא וביטחון)",
-      "link": "https://www.kikar.co.il/security-news/israel-upgrades-davids-sling-defense-system",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-20T08:47:56.000Z"
     }
   ]
 }
