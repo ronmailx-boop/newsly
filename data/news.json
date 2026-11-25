@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:45:58.638Z",
+  "updatedAt": "2026-11-25T14:01:05.062Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392181",
+      "title": "הלחץ האירופי: פולקסווגן, ב.מ.וו ומרצדס מול התחרות הסינית",
+      "summary": "העלייה במספר החברות המסווגות שנתונות ללחץ כלכלי או במצוקה פיננסית מסכנת כ-3.7 מיליון משרות, לפי חברת הייעוץ מקינזי",
+      "link": "https://www.maariv.co.il/news/world/article-1392181",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T13:46:36.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/political-news/ben-gvir-expelled-knesset-muezzin-bill-rejected",
+      "title": "מהומה במליאה: בן גביר הורחק אחרי שקרא לגינזבורג 'טמבל'",
+      "summary": "הכנסת דחתה את חוק המואזין של עוצמה יהודית • בן גביר התעמת עם סגן יו\"ר הכנסת וקרא לו 'מטומטם' | השרים עזבו את המליאה בעקבות ההרחקה (פוליטי מדיני)",
+      "link": "https://www.kikar.co.il/political-news/ben-gvir-expelled-knesset-muezzin-bill-rejected",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T13:46:33.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392169",
       "title": "עורכת הדין סיימה את הפגישה - ובתחתוני האסיר נמצאה חבילה חשודה",
       "summary": "בית המשפט קבע כי ראיות חדשות חיזקו משמעותית את החשד נגד עורכת הדין מחריש, החשודה בהברחת סמים לרימונים. סניגוריה ביקשו לשחררה בהיעדר חוות דעת סם; מעצרה הוארך עד 29 בנובמבר",
@@ -51,12 +69,30 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/haredim/driver-companies-meetings-deserter-aid-organizatio",
+      "title": "משבר בענף הדרייברים בעקבות מעצרי העריקים - המנהלים מחפשים פתרון",
+      "summary": "נהגים רבים מוגדרים עריקים וחוששים מנסיעות לנתב\"ג • מעצרים חוזרים בכבישים מעוררים חשש כבד בענף | ניסיון לגבש מתווה עבודה (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim/driver-companies-meetings-deserter-aid-organizatio",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-25T13:38:27.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/driver-companies-meetings-deserter-aid-organizatio",
       "title": "חשש ממעצרים בנתב\"ג: חברות הדרייברים נערכות למתווה חירום",
       "summary": "נהגים רבים מוגדרים עריקים וחוששים מנסיעות לנתב\"ג • מעצרים חוזרים בכבישים מעוררים חשש כבד בענף | ניסיון לגבש מתווה עבודה (חדשות חרדים)",
       "link": "https://www.kikar.co.il/haredim/driver-companies-meetings-deserter-aid-organizatio",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T13:38:27.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383963110",
+      "title": "ברקע המשבר עם הדמוקרטים: ביחד וישר! ייפגשו היום",
+      "summary": "הדמוקרטים הודיעו אמש על הפסקת השיחות עם מפלגתו של איזנקוט, בעקבות התקדמות המגעים עם הליכוד ובצל הקיפאון במשא ומתן להקמת ממשלת שינוי",
+      "link": "https://www.walla.co.il/news/israel/383963110",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T13:37:45.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hk0pchnkqg",
@@ -66,6 +102,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-25T13:36:17.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law-news/383963075",
+      "title": "על סף קריסה: היום ששינה את משפט נתניהו",
+      "summary": "השופטים הביעו ספק גם בנוגע לעבירות בתיק בזק-וואלה. תיק המתנות נותר הקשה ביותר עבור רה\"מ, וכעת הכדור עובר ליועמ\"שית, שתבחן מחדש את עמדת הפרקליטות",
+      "link": "https://www.walla.co.il/news/law-news/383963075",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T13:34:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383963109",
@@ -79,7 +124,7 @@
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392192",
       "title": "טלטלה בשב\"כ של חמאס: שני בכירים חוסלו בתוך יממה",
-      "summary": "יממה לאחר חיסול מפקדו, צה\"ל ושב\"כ אישרו כי חיסלו את מחמד אבו אלעוף, ראש מנגנון ביטחון הפנים של חמאס בצפון הרצועה. לפי צה\"ל, המחבל פעל לשיקום יכולות הטרור והגבלת חופש הפעולה של הכוחות ברצועה",
+      "summary": "צה\"ל ושב\"כ אישרו את חיסולו של מחמד אבו אלעוף, יממה לאחר חיסול מפקדו נעים אבו נחל. כעת הותר לפרסום כי האחרון היה חלק ממעגל הסוד שהחזיק בחלל החטוף סמ\"ר אורון שאול ז\"ל לאורך השנים",
       "link": "https://www.maariv.co.il/news/military/article-1392192",
       "source": "מעריב",
       "sourceKey": "maariv",
@@ -150,6 +195,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392189",
+      "title": "לבנון בדרך לשינוי היסטורי – בניגוד לרצונו של חיזבאללה",
+      "summary": "לאחר שנים שבהן חיזבאללה התנגד להסבת בסיס אווירי נטוש לשדה תעופה אזרחי, ממשלת לבנון מקדמת את פתיחתו בהשקעה של מיליוני דולרים. הטיסות הראשונות צפויות לצאת בדצמבר",
+      "link": "https://www.maariv.co.il/news/world/article-1392189",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T13:24:22.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392189",
       "title": "לבנון פותחת שער חדש לעולם – וחיזבאללה כבר לא מצליח לעצור אותה",
       "summary": "לאחר שנים שבהן חיזבאללה התנגד להסבת בסיס אווירי נטוש לשדה תעופה אזרחי, ממשלת לבנון מקדמת את פתיחתו בהשקעה של מיליוני דולרים. הטיסות הראשונות צפויות לצאת בדצמבר",
       "link": "https://www.maariv.co.il/news/world/article-1392189",
@@ -176,6 +230,15 @@
       "pubDate": "2026-11-25T13:16:32.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383963103",
+      "title": "ניקול ראידמן תוקפת: \"שנים של כאב ורדיפה\"",
+      "summary": "בעקבות הפוסט הזועם שפרסם יאיר נתניהו, אשת העסקים המקורבת למשפחת ראש הממשלה יצאה להגנתה במסר אישי: \"הלב כואב על כל מה שנאלצתם לעבור כמשפחה, אני עדה לכך\"",
+      "link": "https://www.walla.co.il/celebs/local-news/383963103",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T13:12:51.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/scoop-news/92796",
       "title": "הוסר החשש לפיגוע במבוא חורון, ככל הנראה דיווח שווא",
       "summary": "",
@@ -183,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T13:10:33.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877590",
+      "title": "לא רק כדורסל: המתיחות בין דני אבדיה לוויקטור וומבניאמה",
+      "summary": "מהביקורת המפתיעה במשחק האולסטאר, דרך סדרת הפלייאוף הלוהטת ועד סגירת החשבון של הישראלי: סיפור היריבות המתפתחת בין שני הכוכבים, שעשויים להיפגש הלילה שוב - אם וומבי יהיה כשיר",
+      "link": "https://sports.walla.co.il/item/3877590",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T13:05:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21930324",
@@ -1149,6 +1221,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392118",
+      "title": "ההתחלה של הסוף? יהדות התורה נעדרה - הצעת חוק של הקואליציה נפלה",
+      "summary": "חוק המואזין נפל לאחר היעדרות יהדות התורה, ברקע המגעים עם גוש איזנקוט. במקביל, אושרו בקריאה טרומית הקמת ועדת חקירה ממלכתית ל-7 באוקטובר, הגבלת כהונת ראש הממשלה וחוק הנאשם",
+      "link": "https://www.maariv.co.il/news/politics/article-1392118",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-25T10:53:27.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392118",
       "title": "קרב הבלימה בכנסת: שלמה קרעי קיבל בשורה רעה מבחינתו",
       "summary": "הוועדה המיוחדת לדיון בהצעה לביטול התיקון לחוק התקשורת, אישרה לקריאה ראשונה את ביטול הרפורמה של שר התקשורת שלמה קרעי. האישור אירע לאחר שלוש ישיבות שהתקיימו בנושא",
       "link": "https://www.maariv.co.il/news/politics/article-1392118",
@@ -1544,6 +1625,15 @@
       "pubDate": "2026-11-25T10:09:43.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/celebs/local-news/383963046",
+      "title": "פרסום ראשון: השף אבי ביטון בזוגיות חדשה עם כוכבת טולוויזיה",
+      "summary": "שף והמסעדן המצליח פותח פרק חדש בחייו הזוגיים, ולוואלה סלבס נודע לראשונה כי מי שנמצאת לצדו היא לא אחרת מכוכבת \"הדוגמניות\" לשעבר, שהפכה מאז ליזמית נדל\"ן מצליחה | כל הפרטים",
+      "link": "https://www.walla.co.il/celebs/local-news/383963046",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T10:08:02.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/by1139bvjme",
       "title": "השופטים ליועמ\"שית: \"לוותר על האישום בתיק 4000, לשקול מחדש את 2000\"",
       "summary": "דרמה במשפט רה\"מ: בדיון בהשתתפות היועמ\"שית, שנמשך כ-10 דקות בלבד, הודיעו השופטים שיש סיכוי נמוך להרשעה בשניים מהתיקים שבהם נאשם נתניהו. היועמ\"שית השיבה: \"נבחן את הדברים\". ומה לגבי תיק 1000? פרידמן-פלדמן אמרה: \"ניתן להגיע להסכמות, חתרו לסיום המשפט\"",
@@ -1893,6 +1983,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-25T09:29:44.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/sjdmmxejmx",
+      "title": "יממה לאחר קודמו: חוסל עוד בכיר ב\"בסיג' של חמאס\", שהחזיק באורון שאול",
+      "summary": "חיל האוויר חיסל בעזה את ראש מנגנון ביטחון הפנים המיועד של חמאס מוחמד מאג'ד אבו אל-עוף. הפלסטינים טוענים כי אשתו ושתי בנותיו נהרגו בתקיפה. הוא היה אמור להחליף את נעים אבו נחל שחוסל אתמול",
+      "link": "https://www.ynet.co.il/news/article/sjdmmxejmx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-25T09:29:04.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/sjdmmxejmx",
@@ -28488,42 +28587,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-20T14:10:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21897258",
-      "title": "אילנית לוי: \"35 שנים אנחנו עוברים הכל ביחד\"",
-      "summary": "המגישה ציינה בברכה אישית את יום הולדתו ה-45 של האדם שמלווה אותה כבר 35 שנה: \"אתה האדם הכי טוב שאני מכירה\"",
-      "link": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21897258",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T13:55:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21896771",
-      "title": "מהפך בספרד? סנצ'ס תקף את ישראל והובס בעימות | השלטים נגד נתניהו וטראמפ",
-      "summary": "בעוד תשעה ימים, יצאו אזרחי המדינה לקלפי לאחר מערכת בחירות, שמסתמנת כאסון למנהיג השמאל האנטי-ישראלי • בעימות שנערך בין ראש הממשלה פדרו סנצ'ס למנהיג הימין אלברטו פייחו, ניסה ר\"מ להשתמש בסוגייה הישראלית כ\"מקפצה\" נגד ירביו",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21896771",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T13:50:48.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/europe/article/21896771",
-      "title": "בחירות בספרד: סנצ'ס בדרך להפסד - וניסה להפוך את ישראל לנשק נגד יריבו",
-      "summary": "אזרחי ספרד ייצאו בעוד תשעה ימים לקלפי לאחר מערכת בחירות שמסתמנת כאסון למנהיג השמאל האנטי ישראלי • בעימות שנערך בין סנצ'ס השמאלי למנהיג הימין אלברטו פייחו, ניסה סנצ'ס להשתמש בסוגייה הישראלית כ\"מקפצה\" נגד ירביו",
-      "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21896771",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T13:50:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962328",
-      "title": "נשים צעירות, אוליגרכים ופוטין: הרשת הרוסית של אפשטיין",
-      "summary": "לפחות 17 נשים ממדינות ברית המועצות לשעבר נקשרו לרשת הסחר המיני של אפשטיין. במקביל, הוא טיפח קשרים עם אנשי עסקים ובכירים במוסקבה בניסיון לשקם את מעמדו לאחר הרשעתו",
-      "link": "https://www.walla.co.il/news/world/383962328",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-20T13:47:42.000Z"
     }
   ]
 }
