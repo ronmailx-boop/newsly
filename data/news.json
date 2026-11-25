@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:20:56.896Z",
+  "updatedAt": "2026-11-25T19:31:10.268Z",
   "sources": [
     {
       "key": "ynet",
@@ -68,6 +68,15 @@
       "pubDate": "2026-11-25T19:07:04.000Z"
     },
     {
+      "id": "walla:https://cars.walla.co.il/item/3877659",
+      "title": "הסינים וטסלה בתחתית: מבחן חדש חושף בעיות במערכות העזר לנהג",
+      "summary": "מבחן של אוטו אקספרס הבריטי בחן את מערכות ה-ADAS ב-7 דגמים פופולריים וחשף פערים גדולים ברמתן. דגמי ג'אקו וליפמוטור הסיניים דורגו אחרונים בגלל אזהרות שווא רבות, וגם טסלה חטפה",
+      "link": "https://cars.walla.co.il/item/3877659",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-25T19:06:39.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/hkz51h4jme",
       "title": "קושנר דחק בנתניהו: \"תיישמו את חלקכם בתוכנית 20 הנקודות, סייעו לעזה בחורף\"",
       "summary": "חתנו ויועצו של טראמפ, שלאחרונה הזהיר את ישראל מכך שתהפוך ל\"מדינה מוקצית\", שוחח עם ראש הממשלה על יישום ההסדר לרצועת עזה. גורמים במועצת השלום: \"הייתה אווירה חיובית. הבנות? זה ייבחן בימים הקרובים\"",
@@ -95,10 +104,10 @@
       "pubDate": "2026-11-25T19:02:46.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/israel-news/avichai-yosef",
+      "id": "kikar:https://www.kikar.co.il/news-interviews/avichai-yosef",
       "title": "\"הפרקליטות בטר\"ש מוחלט, צריך להקים ועדת חקירה\": פרקליטו לשעבר של נתניהו בריאיון מטלטל",
       "summary": "עו\"ד אביחי יוסף, ששימש בצוות ההגנה של בנימין נתניהו בתיקי 1000 ו-2000 ומייצג כיום את עד המדינה ניר חפץ, מנתח בריאיון ליוסי סרגובסקי את המלצת השופטים לסגת מתיק 4000 • \"אני איש שמאל שמעולם לא הצביע לימין, אבל אחרי שקראתי הררים של קלסרים – מדובר באחד מראשי הממשלה הנקיים ביותר שהיו כאן\"",
-      "link": "https://www.kikar.co.il/israel-news/avichai-yosef",
+      "link": "https://www.kikar.co.il/news-interviews/avichai-yosef",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-25T19:01:36.000Z"
@@ -29973,42 +29982,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-20T19:35:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21898214",
-      "title": "אקס מכבי תל אביב להט: אנאדולו אפס דרסה את וילרבאן",
-      "summary": "ג׳ורדן לויד קלע 20 נקודות עם 5 מ־9 מחוץ לקשת והוביל את קלעי אפס לצד מתיו סטרזל בניצחון 81:107 ביורוליג • הגארד היה רחוק שלשה אחת משיא הקריירה שלו במפעל",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21898214",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T19:29:45.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bktbaz0cmx",
-      "title": "צעיר נהרג בתאונה ליד מצפה רמון",
-      "summary": "ההרוג, כבן 20, נהרג באזור צומת הרוחות בכביש 40. מתחילת השנה נהרגו 398 בני אדם בתאונות דרכים",
-      "link": "https://www.ynet.co.il/news/article/bktbaz0cmx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-20T19:27:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390582",
-      "title": "הפצצה המלוכלכת, המגעים והנפט: דונלד טראמפ מדבר על איראן",
-      "summary": "נשיא ארצות הברית דונלד טראמפ קיים הערב מסיבת עיתונאים בבית הלבן והתייחס לנעשה אל מול הרפובליקה האיסלאמית",
-      "link": "https://www.maariv.co.il/news/military/article-1390582",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-20T19:27:55.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21898185",
-      "title": "תאונה קטלנית בכביש 40 בנגב: נקבע מותו של גבר כבן 20",
-      "summary": "צוותי מד\"א הוזעקו לתאונה בכביש 40, צפונית לצומת הרוחות • פראמדיקים איתרו את הצעיר עם פגיעה רב-מערכתית ונאלצו לקבוע את מותו",
-      "link": "https://www.israelhayom.co.il/news/local/article/21898185",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-20T19:23:20.000Z"
     }
   ]
 }
