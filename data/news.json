@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:31:05.379Z",
+  "updatedAt": "2026-11-26T09:45:55.109Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/driver-unexpected-police-story",
+      "title": "״אנשים תמיד יוצאים משם״: הנהג לא ציפה למה שסיפר לו השוטר | צפו",
+      "summary": "תיעוד מהאוויר חושף תמרון מסוכן על כביש סואן שנקלט בעין המשטרה מרגעיו הראשונים, והוביל לעימות ישיר עם הנהג ליד חלון הרכב. בין תירוץ שמנסה לנרמל סכנת חיים לבין אכיפה בלתי מתפשרת בשטח – הרגעים שנקלטו בעדשה מציבים סימן שאלה גדול מול התנהלות מסוכנת על הכביש (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/driver-unexpected-police-story",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T09:40:36.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1392447",
+      "title": "אני מאשים: עשר שנים של משפט, והחשבון שהמדינה חייבת לציבור | אל\"מ מיל' אמיר נוי",
+      "summary": "הדרמה שהתחוללה היום בבית המשפט במשפט נתניהו אינה רק נקודת מפנה בהליך משפטי. היא מחייבת חשבון נפש לאומי על התנהלותן של מערכות אכיפת החוק, התקשורת, האקדמיה והמערכת הפוליטית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1392447",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T09:35:57.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392444",
+      "title": "אימו של ליעם בן השנתיים נפרדת: \"השמחה שלו האירה את הבית\"",
+      "summary": "שרון ויינשטיין נפרדת מבנה בן השנתיים, שנהרג במעלה אדומים, ומבקשת שהאהבה שהעניק תישאר אחריו. במקביל, המשטרה בוחנת את גרסת הנהג החשוד בפגע וברח, ששוחרר לביתו לאחר חקירתו",
+      "link": "https://www.maariv.co.il/news/israel/article-1392444",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T09:32:07.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/hjr11ndbyme",
+      "title": "הנאשם בתקיפה הופיע כעד \"בטעות\" במקום הקורבן - וזוכה",
+      "summary": "בית המשפט קבע שכתב האישום נוסח ברשלנות, וכינה זאת \"התנהלות החותרת תחת עקרונות הצדק וההגינות\" - לאחר שבמשך יותר מ-3 שנים הטעות לא תוקנה. התביעה ביקשה לתקן את האישום רק לאחר שהנאשם סירב לחזור בו מכפירתו באשמה, בסנגוריה הציבורית טענו: \"ניהלה הליך תוך שורה של מחדלים ורשלנות\"",
+      "link": "https://www.ynet.co.il/news/article/hjr11ndbyme",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T09:27:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21937287",
+      "title": "לא כל דבר חייב להפוך לסטורי: הסערה סביב שמלת הכלה של קייסי זפטה",
+      "summary": "סירוב לשיתוף פעולה בין המשפיענית קייסי זפטה למעצבת שמלות הכלה ליהי הוד הפך בתוך שעות לקרב גרסאות פומבי, עם תגובות, עקיצות והתערבות של חברים מפורסמים • אבל מעבר לשאלה מי צודקת, הסיפור הזה מעלה שאלה מעניינת לא פחות: מתי הפכה כל אכזבה עסקית לתוכן שחייב לעלות לרשת?",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21937287",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:27:49.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392442",
       "title": "חלוקת התיקים המסתמנת בממשלת איזנקוט: פורר במשפטים, בנט באוצר ולפיד בחוץ",
       "summary": "לאחר המשבר חודשו השיחות בין ישר לדמוקרטים • המחלוקת המרכזית: תיק החינוך, שבדמוקרטים דורשים עבור נעמה לזימי • במקביל, תיק המשפטים עובר לישראל ביתנו, בנט מסתמן כשר האוצר ולפיד כשר החוץ",
@@ -41,13 +86,31 @@
       "pubDate": "2026-11-26T09:26:51.000Z"
     },
     {
-      "id": "kikar:https://www.kikar.co.il/world-news/netanyahu-double-ali-nihu-becomes-attraction",
+      "id": "kikar:https://www.kikar.co.il/world-news/netanyahu-lookalike-iran-viral",
       "title": "עזבו את המת והצטלמו: הכפיל של נתניהו \"עלי-ניהו\" הפך לאטרקציה",
       "summary": "סרטונים שלו הפכו לוויראליים באיראן גולשים ניסו לאתר את החנות שבה הוא עובד ואפילו קראו להחרים אותה - כעת הוא הופיע בהלוויה בטהרן והפך לאטרקציה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/netanyahu-double-ali-nihu-becomes-attraction",
+      "link": "https://www.kikar.co.il/world-news/netanyahu-lookalike-iran-viral",
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-26T09:23:58.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21937198",
+      "title": "7 חודשים אחרי העימות החריג: דני אבדיה השיג נקמה מתוקה",
+      "summary": "סטפון קאסל התעמת עם הישראלי בפלייאוף האחרון וזכה לגיבוי משאקיל אוניל • הלילה כוכב פורטלנד קלע את השלשה המכריעה מעל יריבו - וקיבל יחס שונה לחלוטין מהסנטר האגדי",
+      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21937198",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:22:47.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21936688",
+      "title": "\"החזרה לבית\"ר ירושלים לא הייתה אידיאלית, אבל הלב הכריע\"",
+      "summary": "שגיא ישראלי גדל צהוב-שחור, עבר לצד האדום של העיר ובגיל נוער בחר לחזור לבית וגן: \"הרגשתי שהדרך לבוגרים סלולה, ואז הם התקשרו\" • כעת הוא מושאל למכבי יפו ועדיין לא ויתר על החלום: \"בעוד שנתיים אני רוצה להיות שחקן לגיטימי בליגת העל\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21936688",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:20:38.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392439",
@@ -57,6 +120,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T09:20:25.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/law/article/21937066",
+      "title": "מנדלבליט במשפט נתניהו: \"לא זוכר איזה חומר ראיתי, סמכתי על הפרקליטות\"",
+      "summary": "היועץ המשפטי לממשלה לשעבר הגיע לדיון, יממה אחרי שהמליצו השופטים ליועמ\"שית המכהנת, בהרב מיארה, לבטל את האישומים בתיקי 4,000 ו־2,000 • מנדלבליט ציין כי לא זכר שראה פיזית את הכתבות האוהדות שעליהן נבנתה התזה בפרשת בזק-וואלה, והסביר: \"הכי הגיוני שזה קורה, מציגים לי את החשדות\"",
+      "link": "https://www.israelhayom.co.il/news/law/article/21937066",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:18:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21936852",
+      "title": "סופר אמיתי: אמיר שורוש מדבר על מנסור עבאס ועל הבחירות האחרונות",
+      "summary": "בין היתר, שורוש מספר בראיון לרוני קובן על התגובות שהוא מקבל על כך שהוא חצי ערבי חצי יהודי, על עיצוב דמותו של ראמזי מ\"קופה ראשית\" ואיך נולד ה\"סופר\" שלו • צפו בהצצה לראיון שישודר במוצ\"ש בכאן 11",
+      "link": "https://www.israelhayom.co.il/culture/tv/article/21936852",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:17:32.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1mujpskxg",
@@ -75,6 +156,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T09:15:54.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/you-may-find-interesting/article/21937131",
+      "title": "בזמן שחברות נדל\"ן בישראל מתקשות, ישנה קבוצה בינלאומית שרואה את ההזדמנות וממשיכה לצמוח",
+      "summary": "בעוד ענף הנדל\"ן הישראלי מתמודד עם עלויות מימון שוברות שיאים, קשיים תזרימיים וגל קריסות, יש מי שבוחר באסטרטגיה אחרת לגמרי. עם גב פיננסי אמריקאי ופריסה רחבה, מפרויקטי התחדשות עירונית ועד רכישת מקבצי דיור, TEG ISRAEL מוכיחה כיצד ניתן לעבור את המשבר הנוכחי ולצאת ממנו מחוזקת",
+      "link": "https://www.israelhayom.co.il/you-may-find-interesting/article/21937131",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T09:15:16.000Z"
     },
     {
       "id": "hakolhayehudi:https://www.hakolhayehudi.co.il/item/security/%D7%A2%D7%A8%D7%91%D7%99_%D7%9E%D7%94%D7%92%D7%9C%D7%99%D7%9C_%D7%AA%D7%9B%D7%A0%D7%9F_%D7%9C%D7%A8%D7%A6%D7%95%D7%97_%D7%97%D7%99%D7%99%D7%9C%D7%99%D7%9D__%D7%90%D7%97%D7%93_%D7%9E%D7%94%D7%9D_%D7%AA%D7%95%D7%A9%D7%91_%D7%94%D7%9B%D7%A4%D7%A8_%D7%A9%D7%9C%D7%95",
@@ -321,6 +411,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1392420",
+      "title": "דרמה בחיפה: חזיר בר חטף לאישה את הסטייקים, בעלה החליט להתערב",
+      "summary": "פרופ' אמריטוס אמציה ברעם, תושב חיפה, סיפר ברדיו צפון 104.5FM על המפגש החריג עם חזיר הבר במרכז חורב. בעקבות האירוע הזהיר מפני הסכנה: \"אם חזיר תוקף אותך ברגליים, אתה בסכנה עצומה\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1392420",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T08:32:43.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392420",
       "title": "חזיר בר במשקל 180 ק\"ג חטף לאשתו את הסטייקים באמצע חיפה: \"היא קפאה במקום\"",
       "summary": "פרופ' אמריטוס אמציה ברעם, תושב חיפה, סיפר ברדיו צפון 104.5FM על המפגש החריג עם חזיר הבר במרכז חורב. בעקבות האירוע הזהיר מפני הסכנה: \"אם חזיר תוקף אותך ברגליים, אתה בסכנה עצומה\"",
       "link": "https://www.maariv.co.il/news/israel/article-1392420",
@@ -518,6 +617,15 @@
       "pubDate": "2026-11-26T08:17:33.000Z"
     },
     {
+      "id": "walla:https://www.walla.co.il/news/israel/383963211",
+      "title": "ליאם נהרג בתאונת פגע וברח, הנהג: \"לא ידעתי שפגעתי בפעוט\"",
+      "summary": "ליאם נהרג בתאונת פגע וברח, הנהג: \"לא ידעתי שפגעתי בפעוט\"",
+      "link": "https://www.walla.co.il/news/israel/383963211",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T08:15:55.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21936351",
       "title": "פיגוע ענק סוכל בצפון: בן 23 תכנן לרצוח איש ביטחון - ולפגוע בחיילים",
       "summary": "מחקירת שב\"כ והמשטרה עולה כי אחמד מנסור, בן 23 ממועצה מקומית בצפון, עקב אחרי איש כוחות הביטחון ולמד את סדר יומו במטרה לבצע נגדו פיגוע דקירה • בנוסף, תכנן החשוד לפגוע בחיילי צה\"ל בתחנת אוטובוס בצומת מנוף • כתב אישום הוגש נגדו",
@@ -642,6 +750,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T08:04:29.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/tech-news/383963208",
+      "title": "מאסק רוצה להפוך דור שלם של ילדים לבעלי מניות",
+      "summary": "חודש לאחר שהבטיח להעניק מניה לכל ילד בארה\"ב, אילון מאסק מכפיל את המתנה ומצרף למהלך את SpaceX. שווי היוזמה עשוי להגיע ל-18 מיליארד דולר, אלא שלא כל הילדים בהכרח יקבלו אותה",
+      "link": "https://www.walla.co.il/tech/tech-news/383963208",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T08:03:43.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byggqubyxl",
@@ -939,6 +1056,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T07:21:25.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392393",
+      "title": "משפט נתניהו: באמצע החקירה עמית חדד העיר לתירוש - \"יהודית די!\"",
+      "summary": "יממה לאחר שהשופטים המליצו לפרקליטות לסגת מתיק 4000 והצביעו על קשיים משמעותיים בתיק 2000, משפט נתניהו נמשך כרגיל: מנדלבליט ישוב לדוכן העדים, בעוד ההכרעה על המשך ההליכים נתונה בידי היועמ\"שית",
+      "link": "https://www.maariv.co.il/news/law/article-1392393",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T07:16:51.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392393",
@@ -1751,21 +1877,21 @@
       "pubDate": "2026-11-26T04:00:42.000Z"
     },
     {
-      "id": "walla:https://www.walla.co.il/entertainment/tv/383963096",
-      "title": "התינוקת מהשמש של טלטאביז נחשפת ומגלה כמה כסף עשתה מזה",
-      "summary": "ג׳ס סמית׳ הייתה בת תשעה חודשים כשנבחרה לצחקק מתוך השמש בסדרת הילדים הבריטית. בראיון חדש היא מספרת איך בדיקה שגרתית בבית חולים הובילה לאודישן, ומה קורה כשהבנות שלה רואות אותה על המסך",
-      "link": "https://www.walla.co.il/entertainment/tv/383963096",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-26T04:00:00.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21933122",
       "title": "לאחר חמש שנים - המבנה העתיק נפתח מחדש לציבור היום",
       "summary": "מבצר אל פאהידי (Al Fahidi Fort), המבנה העתיק ביותר שנותר בדובאי, ייפתח מחדש למבקרים, לאחר שהיה סגור לצורך פרויקט שיקום מקיף",
       "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21933122",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T04:00:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/tv/383963096",
+      "title": "התינוקת מהשמש של טלטאביז נחשפת ומגלה כמה כסף עשתה מזה",
+      "summary": "ג׳ס סמית׳ הייתה בת תשעה חודשים כשנבחרה לצחקק מתוך השמש בסדרת הילדים הבריטית. בראיון חדש היא מספרת איך בדיקה שגרתית בבית חולים הובילה לאודישן, ומה קורה כשהבנות שלה רואות אותה על המסך",
+      "link": "https://www.walla.co.il/entertainment/tv/383963096",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-26T04:00:00.000Z"
     },
     {
@@ -31602,24 +31728,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T09:46:30.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390675",
-      "title": "אחרי העימותים עם ישראל: ראש ממשלת ספרד במצוקה קשה",
-      "summary": "ראש ממשלת ספרד פדרו סנצ'ס מתמודד עם ירידה בתמיכה לקראת הבחירות ב-29 בנובמבר, לאחר שמונה שנים בשלטון. פרשיות שחיתות ומשברים במדינה פגעו במעמדו, והוא מנסה לשכנע את הבוחרים להעניק לו כהונה נוספת",
-      "link": "https://www.maariv.co.il/news/world/article-1390675",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T09:39:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/article/21899450",
-      "title": "249 קפיצות בדקה: האינדונזי ששבר שיא עולם בדילוג בחבל - בכפכפים",
-      "summary": "טיג׳י פרהיודי מוג׳ונו, בן 39 מבנדונג, עקף ב-19 קפיצות את השיא הקודם שנקבע בהודו • הוא סיפר: ״חשבתי שזה סתם אתגר קצת שונה״ • צפו",
-      "link": "https://www.israelhayom.co.il/news/world-news/article/21899450",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T09:36:22.000Z"
     }
   ]
 }
