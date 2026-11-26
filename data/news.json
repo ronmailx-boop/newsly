@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:46:01.033Z",
+  "updatedAt": "2026-11-26T08:01:10.776Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,13 +32,121 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392407",
+      "title": "הקלפים השתנו לטובת נתניהו – אבל הזמן לא בהכרח משחק לטובתו",
+      "summary": "אחרי הצהרת השופטים, ארבע אפשרויות עומדות בפני בהרב מיארה, וגם נתניהו נדרש להכריע. למרות השיפור במצבו המשפטי, המשך ניהול התיקים טומן בחובו סיכונים שעשויים להשפיע על עתידו הפוליטי",
+      "link": "https://www.maariv.co.il/news/law/article-1392407",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T07:59:49.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392406",
+      "title": "חובות של מיליוני שקלים במיסים: 24 כלי רכב עוקלו",
+      "summary": "בפעילות משותפת של שוטרי מחוז צפון ועובדי רשות המסים, נתפסו ועוקלו 24 כלי רכב של חייבי מס ביישוב עין מאהל. צפו בתיעוד",
+      "link": "https://www.maariv.co.il/news/law/article-1392406",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T07:59:40.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/dayan-haamet/rabbi-eliezer-nahari-passes-away",
+      "title": "ראש הכולל וממשיך מסורת יהודי תימן; הגאון רבי אליעזר נהרי זצ\"ל נפטר לאחר ייסורים",
+      "summary": "אבל כבד ביהדות תימן: לאחר תקופה ממושכת של ייסורים קשים אותם קיבל באהבה, הסתלק אמש (רביעי) לבית עולמו הגאון רבי אליעזר נהרי זצ\"ל, מראשי הכוללים בבני ברק • במשך עשרות שנים שימר את מסורת יהודי תימן המפוארת והעמיד דורות של תלמידים • הלווייתו היום (דיין האמת)",
+      "link": "https://www.kikar.co.il/dayan-haamet/rabbi-eliezer-nahari-passes-away",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T07:55:11.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/interviews/article/21936149",
+      "title": "מהי הדרך לכבוש את ליבו של און רפאלי?",
+      "summary": "הדוגמן והשחקן און רפאלי חושף מה הדבר שהכי מפחיד אותו, עם מי היה רוצה לאכול ארוחת ערב וגם איזה הרגל מוזר יש לו",
+      "link": "https://www.israelhayom.co.il/maariv-lanoar/interviews/article/21936149",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:50:24.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21936101",
+      "title": "אחרי שהזהירה מפני קריסה - חברת התעופה החלה לבטל טיסות",
+      "summary": "חברת הלואוקוסט נורס אטלנטיק, שנקלעה למצוקה פיננסית חמורה, השעתה חלק מפעילות הטיסות שלה ללא הודעה מוקדמת",
+      "link": "https://www.israelhayom.co.il/travel/aviation/article/21936101",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:49:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21935541",
+      "title": "החשש בגליל: הבנייה הערבית מתפשטת - \"חונקת את היישובים היהודיים\"",
+      "summary": "תנועת רגבים פנתה לרשויות התכנון בדרישה לפעול נגד 16 מבנים שלטענתה הוקמו ללא היתר באזור הררית • בתנועה מזהירים כי הבנייה תסכל את התרחבות הבנייה באזור • \"קובעים עובדות בשטח שחונקות את היישובים היהודיים\"",
+      "link": "https://www.israelhayom.co.il/news/local/article/21935541",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:48:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21935864",
+      "title": "הפעוט תועד יוצא לרחוב - ואז החשוד הגיע | חקירת המוות במעלה אדומים",
+      "summary": "מצלמות האבטחה תיעדו את הפעוט יוצא מהמתנ\"ס ואת אמו יוצאת כחצי דקה לאחר מכן • הנהג החשוד בדריסת בן השנתיים למוות נצפה במצלמות מגיע לאזור - אך רגע הפגיעה עצמו לא צולם • על רכבו של החשוד, תושב העיר בשנות ה-50 לחייו, לא נמצאו סימני פגיעה • פרטים חדשים מהטרגדיה במעלה אדומים",
+      "link": "https://www.israelhayom.co.il/news/local/article/21935864",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:47:24.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963203",
+      "title": "אחרי המשבר, הדמוקרטים ונציגי איזנקוט ייפגשו לשיחות",
+      "summary": "אחרי המשבר, הדמוקרטים ונציגי איזנקוט ייפגשו לשיחות",
+      "link": "https://www.walla.co.il/news/politics/383963203",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T07:46:09.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21935905",
+      "title": "יעקב בוזגלו על משפט נתניהו: \"לא נאמרה המילה האחרונה\"",
+      "summary": "כדורגלן העבר וכוכב \"הבוזגלוס\" התייחס להתפתחויות במשפטו של ראש הממשלה, הפנה ביקורת נוקבת כלפי השופטים והעלה שאלות בנוגע להמשך המשפט: \"אני לא מבקש להרשיע בכל מחיר, אבל גם לא לזכות באמצעות כותרות\"",
+      "link": "https://www.israelhayom.co.il/sport/offside/article/21935905",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:41:46.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21935892",
+      "title": "עידן עמדי מספר מדוע לא הופיע החודש: \"תגידו מילה טובה\"",
+      "summary": "הזמר והיוצר פרסם לפני זמן קצר סטורי שבו עדכן בסיבה לאי קיום הופעות בחודש נובמבר. \"מזכיר לעצמי ולכם לפתוח עיניים ולב\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21935892",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:39:38.000Z"
+    },
+    {
       "id": "ynet:https://www.ynet.co.il/news/article/r1aclds17x",
       "title": "מגעים בין נציגי איזנקוט לאבו מאזן? \"שיח בנוגע לעתיד עזה\"",
-      "summary": "גורם עלום שם טען בשיחה עם רשת סקיי ניוז בערבית כי מתקיימים מגעים בין נציגיו של יו\"ר ישר לנציגי הרשות הפלסטינית \"בנוגע לעתיד עזה\". בכיר ברמאללה לא הכחיש בשיחה עם ynet: \"תמיד הושטנו יד לשלום. מקווים שהממשלה החדשה תהיה מודעת לסכנה שבהמשך הסכסוך\"",
+      "summary": "גורם עלום שם טען בשיחה עם רשת סקיי ניוז בערבית שמתקיימים מגעים בין נציגי יו\"ר ישר לנציגי הרשות הפלסטינית \"בנוגע לעתיד עזה\". בכיר ברמאללה לא הכחיש בשיחה עם ynet: \"תמיד הושטנו יד לשלום. מקווים שהממשלה החדשה תהיה מודעת לסכנה שבהמשך הסכסוך\". איזנקוט: \" דיווח שקרי, לא היו דברים מעולם\"",
       "link": "https://www.ynet.co.il/news/article/r1aclds17x",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-26T07:38:39.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21935794",
+      "title": "\"שום דבר לא נראה טוב במנצ'סטר סיטי - אפילו לא המדים\"",
+      "summary": "ניצחון אחד בשבעה משחקים, חוסר ודאות בנוגע לעתיד המועדון וזעם של האוהדים בעקבות המעבר למדים כתומים במשחק ביתי • ב\"אתלטיק\" ניתחו את משבר הזהות של הקבוצה והעבירו ביקורת חריפה על ההנהלה: \"אפילו משפחת גלייזר מעולם לא העזה לעשות זאת\"",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21935794",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T07:35:28.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/byooyprkmg",
+      "title": "איזנקוט נערך לממשלה בלי הליכוד - וחידש את המגעים עם הדמוקרטים",
+      "summary": "איזנקוט הודיע על חידוש \"מרתון הדיונים לטובת חתימה על הסכם קואליציוני\", יומיים אחרי ההודעה על ניתוק המגעים. המחלוקת על התיקים הבכירים נמשכת, ובדמוקרטים תוהים: \"יש לנו יותר מנדטים מליברמן. מה הסיבה שלא נקבל תיק שחשוב למצביעים שלנו\"",
+      "link": "https://www.ynet.co.il/news/article/byooyprkmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T07:30:46.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byooyprkmg",
@@ -78,12 +186,21 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21935780",
-      "title": "כוכבת \"צער גידול בנות חושפת\": \"אף אחד לא נשאר בקשר עם התאומות אולסן\"",
+      "title": "כוכבת \"צער גידול בנות\" חושפת: \"אף אחד לא נשאר בקשר עם התאומות אולסן\"",
       "summary": "קנדיס קמרון ברה מסבירה מדוע היעדרותן של מרי-קייט ואשלי אולסן מסדרת ההמשך לא הפתיעה אותה",
       "link": "https://www.israelhayom.co.il/culture/tv/article/21935780",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T07:25:13.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/opinions/383963192",
+      "title": "אין תקדים למריחה כזו. צריך לומר את האמת, השופטים השתעממו",
+      "summary": "חמש וחצי שנים באולם, מאות עדויות - ובסוף השופטים עדיין לא השתכנעו. הפרקליטות נכשלה בתיק הדגל שלה",
+      "link": "https://www.walla.co.il/news/opinions/383963192",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T07:24:46.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21935758",
@@ -453,6 +570,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-26T05:54:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392361",
+      "title": "\"אין חלופה אחרת\": קושנר מאותת לראש הממשלה הבא בישראל",
+      "summary": "ג'ארד קושנר, המתווך המרכזי של ממשל טראמפ במזרח התיכון, הודה שספג ביקורת רבה בישראל על השיחות הישירות עם חמאס, קרא לישראל לעבור לדיפלומטיה כלכלית ותקף את אירופה על התנהלותה מול איראן",
+      "link": "https://www.maariv.co.il/news/world/article-1392361",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T05:45:05.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392361",
@@ -30891,42 +31017,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-21T08:12:23.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21899217",
-      "title": "נקבע מותה של האישה בת ה-30 שנדבקה בכלבת",
-      "summary": "במרכז הרפואי שמיר-אסף הרופא נקבע הבוקר מותה של האישה בת ה-30 שאושפזה השבוע בטיפול נמרץ במצב אנוש, כשהיא עטופה בבני משפחתה • על פי החקירה האפידמיולוגית, היא אספה באוגוסט כלבה משוטטת באזור כפר רות שמתה בסמוך לניתוח עיקור, ולכן לא נלקחה דגימה לבדיקה והאישה לא קיבלה טיפול מונע",
-      "link": "https://www.israelhayom.co.il/news/local/article/21899217",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T07:56:25.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bydantargg",
-      "title": "נקבע מותה של האישה שנדבקה בכלבת",
-      "summary": "האישה, בשנות השלושים לחייה, אושפזה לפני שלושה ימים באסף הרופא. תחקיר ראשוני של משרד החקלאות העלה כי הכלבה הנגועה נמסרה על ידי אישה בכפר רות לחברה המתגוררת בכפר שמואל, לפני שהייתה מדבקת. בעלי חיים אחרים בבית המשפחה המאמצת היו מחוסנים וקיבלו חיסון דחף",
-      "link": "https://www.ynet.co.il/news/article/bydantargg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-21T07:54:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21899144",
-      "title": "\"אנחנו מועדון היסטורי ובעלים של היורוליג, מגיע לנו יותר כבוד\"",
-      "summary": "כוכב ברצלונה, ג'ואל פארה, הורחק במהלך ההפסד 103:100 לכוכב האדום בלגרד לאחר שצעק על השופטים בשניות האחרונות של ההארכה: \"אולי אנחנו שחקנים שאנשים לא מכירים או שאין מאחוריהם שם גדול, אבל מגיע לנו יותר כבוד בבית מול הקהל שלנו\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21899144",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T07:53:37.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1390650",
-      "title": "נפטרה האישה שנדבקה בכלבת, המשפחה מבקשת לשמור על פרטיותה",
-      "summary": "מהמרכז הרפואי אסף הרופא נמסר כי האישה בת ה-30 שנדבקה מכלבת נפטרה, והוסיפו כי הייתה עטופה בבני משפחתה. \"המרכז הרפואי משתתף בצערה העמוק של המשפחה ושולח את תנחומיו\", נמסר",
-      "link": "https://www.maariv.co.il/news/health/article-1390650",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T07:51:53.000Z"
     }
   ]
 }
