@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:30:59.667Z",
+  "updatedAt": "2026-11-26T17:45:51.459Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/bar-ilan-protests-yeshiva-student-arrest",
+      "title": "מהומות בבר אילן: עשרות הפגינו בעקבות מעצר בן ישיבה | צפו",
+      "summary": "עשרות סיקריקים ספרדים חסמו הערב את צומת בר אילן בירושלים - בעקבות מעצרו של תלמיד ישיבת פורת יוסף בתחילת השבוע | במהלך המחאה המשטרה עצרה חשוד בתקיפת שוטר (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/bar-ilan-protests-yeshiva-student-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T17:45:07.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392645",
+      "title": "החשש מהתפשטות הכלבת גובר - והסכנה מגיעה גם לבסיסי צה\"ל",
+      "summary": "בעקבות מותה של אישה מכלבת והעלייה בתחלואה, משרד החקלאות קרא להגביר את הפיקוח על כלבים משוטטים ואת אכיפת חובת החיסון. במקביל, התריע המשרד מפני סכנת ההידבקות בקרב חיילי צה\"ל ותלמידים",
+      "link": "https://www.maariv.co.il/news/israel/article-1392645",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T17:38:14.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/haredi-politics-netanyahu-coalition",
+      "title": "כן, אנחנו משוגעים // אברהם דוב גרינבוים",
+      "summary": "הניסיון הנואל לשסות ולפלג את היהדות מבפנים, באמצעות זריית חול ופיזור פשקווילים ברחובות נגד ממשלת שמאל, לא מפחיד ולא מרתיע אותנו | אברהם דוב גרינבוים משיב לנתניהו: לא כל מי שלא הולך איתך הוא שמאל (דעות)",
+      "link": "https://www.kikar.co.il/haredim-news/haredi-politics-netanyahu-coalition",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T17:34:44.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/chief-rabbis-crown-twenty-new-halacha-teachers",
+      "title": "הראשון לציון וראב\"ד ירושלים במעמד הכתרת עשרים מורי הוראה חדשים",
+      "summary": "עשרים אברכים שעברו הכשרה מעשית ומבחנים קפדניים בענייני הלכה, רפואה וכתמים הוכתרו למורי הוראה על ידי בית ההוראה 'מעין טהור' • במעמד השתתפו הראשון לציון הגאון הרב דוד יוסף וראב\"ד ירושלים הגאון הרב ברוך שרגא (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/chief-rabbis-crown-twenty-new-halacha-teachers",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T17:34:02.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/idf-central-command-condemns-west-bank-violence",
+      "title": "מפקד פיקוד המרכז נגד האלימות ביו\"ש: \"כמה מאות עושים לנו נזק נוראי\" | צפו",
+      "summary": "מפקד פיקוד המרכז, אלוף אבי בלוט, הביע ביקורת קשה כלפי אלימות המתנחלים ביו\"ש | \"מבצעים פעולות אלימות שאינן חוקיות, אינן מוסריות ואינן יהודיות\" (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/idf-central-command-condemns-west-bank-violence",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T17:33:01.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392638",
       "title": "דגלי אש\"ף וחומרי לימוד אסורים: המשטרה פשטה על בית ספר במזרח ירושלים",
       "summary": "בתום חקירה סמויה של ימ\"ר ירושלים, הוציא משרד החינוך צו סגירה לבית ספר בוואדי ג'וז שפעל ללא רישיון, ובו אותרו חומרי לימוד אסורים מטעם הרשות הפלסטינית, דגלים וצעיפי אש\"ף",
@@ -39,6 +84,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T17:22:50.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1thfyukxe",
+      "title": "בנט דחה פגישת מו\"מ עם איזנקוט: המסר שהעביר - והדרישה להצגת מתווה גיוס החרדים",
+      "summary": "יו\"ר ביחד דוחף לממשלת אחדות ולא לממשלת שינוי עם יהדות התורה ורע\"מ, ולאחר שישר חתמה על הסכם קואליציוני שני - החליט בנט לדחות את הפגישה המתוכננת ליום ראשון. \"מוכן להתפשר, לא להתפשט\", אמר למקורביו",
+      "link": "https://www.ynet.co.il/news/article/b1thfyukxe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T17:22:20.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/b1thfyukxe",
@@ -50,6 +104,24 @@
       "pubDate": "2026-11-26T17:22:20.000Z"
     },
     {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21942767",
+      "title": "מעולם לא למד בישיבה: 5 עובדות שלא ידעתם על הרב \"הינוקא\"",
+      "summary": "מהילדות בעוני בספרד ועד לתרומות במיליונים ולפוליטיקאים שעולים אליו לרגל • ריכזנו את הפרטים המפתיעים מאחורי התופעה שמסעירה את העולם החרדי",
+      "link": "https://www.israelhayom.co.il/lifestyle/faith-and-tradition/article/21942767",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:20:59.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/how-to/article/21942644",
+      "title": "ההגדרה הנסתרת שחושפת אתכם: כך תמנעו מיוטיוב ואינסטגרם להאזין לכם",
+      "summary": "מכירים את הרגע שבו אתם מדברים על נושא מסוים עם חבר ומיד רואים סרטונים עליו ביוטיוב? • המומחה חושף כיצד עדכוני מערכת מפעילים מחדש את הגישה למיקרופון - ומראה איך לחסום את ההאזנה",
+      "link": "https://www.israelhayom.co.il/tech/how-to/article/21942644",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:20:56.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392636",
       "title": "בדנמרק מגיבים לאירועים האחרונים: איסור עטיית החיג'אב בדרך לצאת לפועל",
       "summary": "שר המשפטים בדנמרק הנחה את התובע הכללי לגבש הנחיות חדשות שיאסרו על תובעים מטעם המדינה להופיע בבתי המשפט כשהם עוטים חיג'אב או נושאים סממנים דתיים אחרים. ההגבלות החדשות ייכנסו לתוקף בהקדם האפשרי",
@@ -57,6 +129,24 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T17:20:19.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963325",
+      "title": "צרות בגוש השינוי? בוטלה פגישת המו\"מ בין איזנקוט לבנ",
+      "summary": "הפגישה נדחתה מהערב ליום ראשון, בשל פערים בין הצדדים בסוגיית המשרתים. יו\"ר ביחד דורש לקבל מתווה גיוס \"אמיתי\" - והציג אולטימום ליו\"ר ישר",
+      "link": "https://www.walla.co.il/news/politics/383963325",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T17:20:02.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21942422",
+      "title": "שכר גבוה, מעט דקות ועתיד מעורפל: מה קורה עם רמזי ספורי?",
+      "summary": "הקשר בן ה-31 כמעט ולא מקבל דקות באנטליהספור מהליגה השנייה בטורקיה, וספק אם היא תממש את האופציה בחוזהו להמשך ההתקשרות • מצד שני, אין הרבה כדורגלנים ישראלים שמשתכרים כמוהו • לספורי יש \"משהו לא סגור עם הפועל תל אביב\", אבל חזרה לליגת העל לא בראש סדר העדיפויות",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21942422",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:17:16.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rkzt26r17l",
@@ -78,12 +168,30 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21942459",
+      "title": "ממשלת השינוי מציגה: תמות נפשי עם ביביסטים",
+      "summary": "שלוש המפלגות שקיבלו הכי מעט קולות בקלפיות המשרתים יהיו הבסיס לממשלת השינוי • המחויבים לקואליציה ציונית קיבלו 80 מנדטים, אבל היא תורכב מהמגדירים עצמם פלסטינים או שהשוו בין שירות צבאי לטלאי צהוב • ואחרי שצעקו \"הון, שלטון, עולם תחתון\" - מי יחזיר לנו את כל הדציבלים שבוזבזו לריק?",
+      "link": "https://www.israelhayom.co.il/news/politics/article/21942459",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:14:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21942459",
       "title": "הממשלה המסתמנת מציגה: תמות נפשי עם ביביסטים",
       "summary": "שלוש המפלגות שקיבלו הכי מעט קולות בקלפיות המשרתים יהיו הבסיס לממשלת השינוי • המחויבים לקואליציה ציונית קיבלו 80 מנדטים, אבל היא תורכב מהמגדירים עצמם פלסטינים או שהשוו בין שירות צבאי לטלאי צהוב • ואחרי שצעקו \"הון, שלטון, עולם תחתון\" - מי יחזיר לנו את כל הדציבלים שבוזבזו לריק?",
       "link": "https://www.israelhayom.co.il/news/politics/article/21942459",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T17:14:01.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21942583",
+      "title": "בעקבות גל החיסולים בחמאס: אל-חיה רומז לתגובה משותפת עם הפלגים הפלסטיניים",
+      "summary": "מנהיג ארגון הטרור הודיע כי מתקיימות התייעצויות עם הפלגים הפלסטיניים בנוגע לדרכי ההתמודדות עם מה שכינה \"ההפרות המתמשכות של ישראל\" • \"אי אפשר לקבל את המשוואה של הרג ומצור בצל הסכם הפסקת האש\", הצהיר • במקביל, בארגון תקפו את מועצת השלום והאשימו אותה במתן גיבוי לישראל • הדברים מגיעים לאחר שצה\"ל ושב\"כ פגעו בשורת מפקדים וגורמים בכירים ברצועה",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21942583",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:11:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21942583",
@@ -129,6 +237,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-26T17:07:13.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/syeczjlkxx",
+      "title": "התחממות - לפני המהפך | התחזית המלאה, וכמה גשם צפוי לרדת",
+      "summary": "הטמפרטורות יעלו וסוף השבוע יהיה מושלם לטיולים, אבל בראשון בבוקר כבר ייתכן גשם מקומי - ומשני בערב צפויים גשמים בעוצמה חזקה למשך כמה ימים, ויש אפשרות להצפות בערי החוף",
+      "link": "https://www.ynet.co.il/news/article/syeczjlkxx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T17:06:38.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/syeczjlkxx",
@@ -453,6 +570,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T16:02:39.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877767",
+      "title": "השנאה לישראל איחדה את אוהדי הכדורגל הטורקים לפני ב\"ש",
+      "summary": "אוהדי בשיקטאש צעדו ברחובות בטומי וקראו בגנות ישראל. בטורקיה מדווחים שאוהדים של גלאטסראיי וטרבזונספור הצטרפו",
+      "link": "https://sports.walla.co.il/item/3877767",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T16:02:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hktapib1qx",
@@ -33366,87 +33492,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T17:47:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/scoop-news/92361",
-      "title": "איזנקוט: הזמנו את הליכוד ל\"מרתון שיחות\" החל ממחר",
-      "summary": "",
-      "link": "https://www.kikar.co.il/scoop-news/92361",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T17:45:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21901308",
-      "title": "לפני הפגישה עם הליכוד: בנט ואיזנקוט נפגשו עם צוותי המו\"מ של המפלגות",
-      "summary": "יו\"ר ביחד הבהיר כי הוא מחויב להקמת ממשלת אחדות בראשות איזנקוט, והציג שלושה עקרונות מרכזיים: ועדת חקירה ממלכתית, הגבלת כהונה ומהפכת הגיוס • בנט הזהיר מניסיון למשוך זמן במגעים: \"לא נאפשר לליכוד לבזבז את 29 הימים שנותרו למנדט\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21901308",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:41:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21901308",
-      "title": "לפני הפגישה עם הליכוד: בנט ואיזנקוט נפגשים עם צוותי המו\"מ של המפלגות",
-      "summary": "יו\"ר ביחד הבהיר כי הוא מחויב להקמת ממשלת אחדות בראשות איזנקוט, והציג שלושה עקרונות מרכזיים: ועדת חקירה ממלכתית, הגבלת כהונה ומהפכת הגיוס • בנט הזהיר מניסיון למשוך זמן במגעים: \"לא נאפשר לליכוד לבזבז את 29 הימים שנותרו למנדט\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21901308",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:41:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21901308",
-      "title": "בנט: לא אחבור לנתניהו; איזנקוט: מזמין את הליכוד למרתון שיחות",
-      "summary": "יו\"ר ביחד הבהיר כי הוא מחויב להקמת ממשלת אחדות בראשות איזנקוט, והציג שלושה עקרונות מרכזיים: ועדת חקירה ממלכתית, הגבלת כהונה ומהפכת הגיוס • בנט הזהיר מניסיון למשוך זמן במגעים: \"לא נאפשר לליכוד לבזבז את 29 הימים שנותרו למנדט\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21901308",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:41:19.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390777",
-      "title": "עם פוסט ברשתות: אדם נעצר בתל אביב בחשד לאיומים על נפתלי בנט",
-      "summary": "תושב תל אביב בשנות ה-30 לחייו נעצר בעקבות פרסום ברשת החברתית ובו איומים לכאורה על ראש הממשלה לשעבר ובנו יוני. החשוד שוחרר למעצר בית, וברקע עומדת פרשת מכתבי האיומים שנשלחו למשפחה ב-2022",
-      "link": "https://www.maariv.co.il/news/law/article-1390777",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T17:37:13.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/r111vruyk7l",
-      "title": "רצח רודף רצח: צעיר נורה למוות בגליל התחתון",
-      "summary": "רצח שלישי בחברה הערבית תוך פחות מיממה: עבד בסול נורה למוות בתוך רכב, צוות מד\"א קבע את מותו בזירה. המשטרה פתחה בחקירה, הרקע פלילי. קרוב משפחתו של בסול נורה למוות באופן דומה בחודש שעבר",
-      "link": "https://www.ynet.co.il/news/article/r111vruyk7l",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-21T17:35:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21901272",
-      "title": "בליגת העל מחכים: הרמז לגבי מעבר ענק של דין דוד",
-      "summary": "דודו דהאן העלה תמונה של החלוץ עם שתי מילים מסקרנות, כשברקע האפשרות שיעזוב את יוקוהמה מרינוס בינואר • אקס מכבי חיפה פתוח לחזרה לליגת העל, אבל שכרו ביפן עומד על כ־700 אלף דולר נטו לעונה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21901272",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:35:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21901272",
-      "title": "לא פוסל חזרה לישראל: הרמז לגבי מעבר של דין דוד",
-      "summary": "דודו דהאן העלה תמונה של החלוץ עם שתי מילים מסקרנות, כשברקע האפשרות שיעזוב את יוקוהמה מרינוס בינואר • אקס מכבי חיפה פתוח לחזרה לליגת העל, אבל שכרו ביפן עומד על כ־700 אלף דולר נטו לעונה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21901272",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:35:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21901253",
-      "title": "גבר נרצח בריינה לאחר שנורה ברכבו",
-      "summary": "חובשים ופראמדיקים של מד\"א איתרו את הנרצח, כבן 20, עם פציעות ירי וכשהוא ללא רוח חיים - וקבעו את מותו • המשטרה פתחה בחקירה בחשד לרצח",
-      "link": "https://www.israelhayom.co.il/news/local/article/21901253",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T17:34:45.000Z"
     }
   ]
 }
