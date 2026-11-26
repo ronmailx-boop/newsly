@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:46:06.716Z",
+  "updatedAt": "2026-11-26T16:01:17.063Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/brenze/musician-shmili-landau-marries-us",
+      "title": "צפו בשמחה: המוזיקאי שמילי לנדאו התחתן באירוע יוקרתי בארה\"ב",
+      "summary": "המוזיקאי שמילי לנדאו התחתן השבוע בארצות הברית עם שפרינצי ניישטאדט, באירוע יוקרתי בהשתתפות בכירי תעשיית המוזיקה • צפו",
+      "link": "https://www.kikar.co.il/brenze/musician-shmili-landau-marries-us",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T15:56:59.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/goldknopf-liberman-apologized-statements-against-h",
+      "title": "גולדקנופף חשף: \"ליברמן התנצל בפניי על אמירותיו נגד החרדים\"",
+      "summary": "גולדקנופף טען כי ליברמן התנצל בפניו על אמירות העבר, ואף התחייב לשוחח איתו על האפשרות לפרסם את ההתנצלות בפומבי (בארץ)",
+      "link": "https://www.kikar.co.il/israel-news/goldknopf-liberman-apologized-statements-against-h",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T15:52:10.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hk9ngpsyqx",
       "title": "בתי חולים כמוקדי עינויים: כך חמאס מנסה לשמר את שלטונו בעזה",
@@ -159,6 +177,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392594",
+      "title": "טרקטור השמיד בית ביהודה ושומרון: בצה\"ל גילו על האירוע רק מהתקשורת",
+      "summary": "גורמים בצבא מזהירים מהטרור היהודי ביהודה ושומרון, לאחר שהפרעות בג'אלוד המשיכו ובת 72 ביריחו הוצאה להורג, ומזהירים: \"מדובר באיבוד שליטה בצה\"ל, בשב\"כ ובמשטרה\". עד כה, טרם נעצרו חשודים",
+      "link": "https://www.maariv.co.il/news/military/article-1392594",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T14:58:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1392594",
       "title": "טרקטור השמיד בית ביהודה ושומרון, טרם נעצרו חשודים: \"אירוע של איבוד שליטה\"",
       "summary": "גורמים בצבא מזהירים מהטרור היהודי ביהודה ושומרון, לאחר שהפרעות בג'אלוד המשיכו ובת 72 ביריחו הוצאה להורג, ומזהירים: \"מדובר באיבוד שליטה בצה\"ל, בשב\"כ ובמשטרה\". עד כה, טרם נעצרו חשודים",
       "link": "https://www.maariv.co.il/news/military/article-1392594",
@@ -255,6 +282,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T14:49:22.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/celebs/worldwide/383963301",
+      "title": "כולם בהלם: כוכבת הפופ הענקית התאחדה עם האויב הכי מר שלה",
+      "summary": "אחרי שנים של סכסוכים מתוקשרים ומאבק משפטי ממושך מול אביה, כוכבת הפופ החליטה להניח את המשקעים בצד, ותבלה את חג ההודיה בחיק משפחתה, ימים ספורים אחרי שהודתה כי היא מתגעגעת אליהם \"בטירוף\"",
+      "link": "https://www.walla.co.il/celebs/worldwide/383963301",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T14:48:40.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/celebs/worldwide/383963301",
@@ -723,6 +759,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T13:43:35.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963272",
+      "title": "איזנקוט וגולן הודיעו: הגענו להסכמות - זו חלוקת התיקים",
+      "summary": "על פי הסיכום עם מפלגת ישר!, עולה כי הדמוקרטים יקבלו ארבעה תיקים בממשלה הבאה, כולל את תיק ביטחון הפנים - אם תוקם. זו חלוקת המשרדים | כל הפרטים",
+      "link": "https://www.walla.co.il/news/politics/383963272",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T13:43:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/politics/383963272",
@@ -33321,60 +33366,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T16:03:41.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
-      "title": "קרעו שערי שמים: נער חרדי בן 13 נפל מגג גבוה, מורדם ומונשם במצב קשה",
-      "summary": "נער בן 13 נפצע קשה לאחר שנפל מסככה בגובה של כשישה מטרים • הנער שהה במקום עם חבריו לאחר שנכנסו למתחם חיידר סגור | פונה לבית החולים הדסה עין כרם כשהוא מורדם ומונשם (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T15:59:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
-      "title": "נפל מסככה בגובה 6 מטר: נער חרדי נפצע קשה במהלך השבת בבית שמש",
-      "summary": "נער בן 13 נפצע קשה לאחר שנפל מסככה בגובה של כשישה מטרים • הנער שהה במקום עם חבריו לאחר שנכנסו למתחם חיידר סגור | פונה לבית החולים הדסה עין כרם כשהוא מורדם ומונשם (חדשות חרדים)",
-      "link": "https://www.kikar.co.il/haredim/boy-13-falls-roof-beit-shemesh-critical",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T15:59:25.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
-      "title": "פרסום ראשון: ביהדות התורה נערכים לקבל בימים הקרובים \"מתווה גיוס\" חדש של גדי איזנקוט",
-      "summary": "בעקבות התנגדותם של ראשי הישיבה הגר\"ד לנדו והגרמ\"ה הירש למתווה שכלל מכסות לפטור מגיוס, נערכים ב'יהדות התורה' לכך שיו\"ר 'ישר', ח\"כ גדי איזנקוט, יגיש בימים הקרובים מתווה מתוקן שאינו מגביל את מספר לומדי התורה (אקטואליה, חרדים)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T15:59:02.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
-      "title": "פרסום ראשון: ב'יהדות התורה' נערכים לקבל מתווה גיוס חדש של גדי איזנקוט",
-      "summary": "בעקבות התנגדותם של ראשי הישיבה הגר\"ד לנדו והגרמ\"ה הירש למתווה שכלל מכסות לפטור מגיוס, נערכים ב'יהדות התורה' לכך שיו\"ר 'ישר', ח\"כ גדי איזנקוט, יגיש בימים הקרובים מתווה מתוקן שאינו מגביל את מספר לומדי התורה (חרדים)",
-      "link": "https://www.kikar.co.il/political-news/eisenkot-new-draft-proposal-no-quotas-after-lando",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T15:59:02.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21900525",
-      "title": "שבוע לאחר שיבושי הענק: ארה\"ב נערכת לסיוט תעופתי נוסף",
-      "summary": "אחרי שתקלה טכנולוגית הביאה לעצירת הטיסות ברחבי ארה\"ב, בענף התעופה מזהירים מפני משבר נוסף שעלול להתרחש דווקא באחת מתקופות הנסיעות העמוסות בשנה • החשש: תורים של שעות בנמלי התעופה, ביטולי טיסות ואלפי נוסעים שיתקשו להגיע ליעדם",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21900525",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T15:56:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877104",
-      "title": "\"אקרובטי\": המחמאות והציונים שקיבל דניאל פרץ",
-      "summary": "שוער סאות'המפטון מתח איברים בצורה נאה, סייע לקבוצתו לרשום 0:2 על דרבי וציין משחק רביעי עם רשת נקייה. זכה לציונים טובים על ההופעה",
-      "link": "https://sports.walla.co.il/item/3877104",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-21T15:54:31.000Z"
     }
   ]
 }
