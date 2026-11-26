@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:31:04.966Z",
+  "updatedAt": "2026-11-26T06:45:55.063Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/israel-news/stormy-hot-weekend-strong-winds-north",
+      "title": "סוף שבוע סוער וחם: רוחות חזקות בצפון וטמפרטורות שיא בשבת קודש",
+      "summary": "מיום חמישי ועד שבת: עננות גבוהה, רוחות מזרחיות ערות בהרי הצפון והתחממות מורגשת ברוב חלקי הארץ - כך ייראה סוף השבוע שלכם | התחזית המלאה (מזג האוויר)",
+      "link": "https://www.kikar.co.il/israel-news/stormy-hot-weekend-strong-winds-north",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T06:43:55.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392381",
+      "title": "רמון נגד היועמ\"שית: \"עיקשות מטופשת\" – הגיע הזמן לרדת מתיקי 2000 ו-4000",
+      "summary": "אחרי שבית המשפט קרא לוותר על תיקי 2000 ו-4000, תקף חיים רמון בחריפות את היועמ\"שית והפרקליטות, חשף מה אמר לנתניהו על עסקת טיעון והעריך שאיזנקוט יקים ממשלת מיעוט שתחזיק מעמד",
+      "link": "https://www.maariv.co.il/news/politics/article-1392381",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T06:36:42.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/law/383963182",
       "title": "אחרי 8 שנים של מנוסה - ראש ארגון הפשע הוסגר לישראל",
       "summary": "אחרי שמונה שנים של מרדף חובק עולם, העבריין הבכיר ערן חייא הוסגר מארצות הברית במסגרת מבצע “צל רודף״. החשד נגדו: ניסיון חיסולו של ראש ארגון הפשע היריב, אלי מוסלי",
@@ -39,6 +57,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-26T06:18:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/trending-online/article/21935268",
+      "title": "משפיענית בינלאומית: \"אם אתם רואים את הסרטון הזה - אני מתה\"",
+      "summary": "אושיית הרשת בת ה־60 כריסטי מילר פרסמה וידאו שתוזמן להופיע לאחר מותה באינסטגרם • מאז יוני 2022 חיה עם סרטן שד בשלב ארבע",
+      "link": "https://www.israelhayom.co.il/news/trending-online/article/21935268",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T06:17:53.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392367",
@@ -75,6 +102,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T06:12:52.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/travel/travelsinworld/3874635",
+      "title": "לא דומה לשום דבר שהכרתם: 10 הרכבות המוזרות בעולם",
+      "summary": "לא דומה לשום דבר שהכרתם: 10 הרכבות המוזרות בעולם",
+      "link": "https://www.walla.co.il/travel/travelsinworld/3874635",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T06:12:22.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21935157",
@@ -285,6 +321,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21934980",
+      "title": "דיווח: מחזיק תיק הכלכלה והחינוך בחמאס הוא המחבל שחוסל ברצועת עזה",
+      "summary": "חאלד אבו נאדה הוא המחבל שעל פי הדיווחים חוסל בתקיפה של צה\"ל ושב\"כ במהלך הלילה • בימים האחרונים הודיעו על חיסולם של נעים מחמד עאשור אבו נחל, ראש מנגנון ביטחון הפנים של חמאס ברצועה, ושל מחמד אבו אלעוף, שעמד בראש המנגנון בצפון הרצועה",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21934980",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T05:05:22.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21934980",
       "title": "אחרי חיסול שני בכירים: צה\"ל ושב\"כ תקפו מחבל נוסף של חמאס בעזה",
       "summary": "בצה\"ל ובשב\"כ אישרו כי הותקף מחבל בכיר בארגון הטרור חמאס ברצועה • בימים האחרונים הודיעו על חיסולם של נעים מחמד עאשור אבו נחל, ראש מנגנון ביטחון הפנים של חמאס ברצועה, ושל מחמד אבו אלעוף, שעמד בראש המנגנון בצפון הרצועה",
       "link": "https://www.israelhayom.co.il/news/defense/article/21934980",
@@ -420,7 +465,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392309",
-      "title": "ערן חייא נחת בישראל: הבוס חזר - ושני עדי מדינה כבר סיבכו את אנשי ארגונו",
+      "title": "ערן חייא נחת בישראל: הבוס חזר - ושני עדי מדינה כבר סיבכו את אנשי ארגונו | תיעוד",
       "summary": "חייא נחת בישראל כשהוא מלווה בקצין ובשני שוטרים מימ\"ר תל אביב, ויועבר לחקירה במשרדי היחידה. הוא חשוד בניסיון חיסולו של ראש ארגון הפשע אלי מוסלי ובמעורבות בשני אירועים חמורים נוספים",
       "link": "https://www.maariv.co.il/news/law/article-1392309",
       "source": "מעריב",
@@ -441,6 +486,15 @@
       "title": "\"פה אני רוצה לחיות\": תושבי הצפון מול המצלמה של רועי כשר",
       "summary": "\"רציתי לתת פנים לסיפורים הקשים על הצפון במלחמה\": הצלם רועי כשר חזר לקיבוץ שבו גדל באצבע הגליל, ותיעד את מי שבחרו לחיות תחת אזעקות ובומים, מסבתו בת ה־86 ועד עובד תאילנדי ברפת",
       "link": "https://www.maariv.co.il/news/israel/article-1392295",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T04:00:42.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392309",
+      "title": "ערן חייא נחת בישראל: הבוס חזר - ושני עדי מדינה כבר סיבכו את אנשי ארגונו",
+      "summary": "חייא נחת בישראל כשהוא מלווה בקצין ובשני שוטרים מימ\"ר תל אביב, ויועבר לחקירה במשרדי היחידה. הוא חשוד בניסיון חיסולו של ראש ארגון הפשע אלי מוסלי ובמעורבות בשני אירועים חמורים נוספים",
+      "link": "https://www.maariv.co.il/news/law/article-1392309",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T04:00:42.000Z"
@@ -561,6 +615,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-26T03:50:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963152",
+      "title": "כולם חגגו ניצחון, אבל הנתון הזה מספר סיפור אחר לגמרי",
+      "summary": "אחרי הדיון הדרמטי שהטיל ספק בתיקי האלפים -האם הישראלים שינו את דעתם? ניתוח השיח ברשתות מציג את המגמות והלך הרוח הציבורי סביב משפט נתניהו",
+      "link": "https://www.walla.co.il/news/politics/383963152",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T03:48:33.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/weather/article/21934889",
