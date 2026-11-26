@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:31:04.408Z",
+  "updatedAt": "2026-11-26T12:45:50.236Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,51 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/b1tlr5s1me",
+      "title": "החקירה לאחר ההסגרה: ראש ארגון הפשע רוצה עימות עם העבריין שלפי החשד ניסה לחסל",
+      "summary": "ערן חייא נחת הבוקר בישראל, כשהוא מלווה בבלשים. המשטרה תתמקד בשלוש פרשיות בהן הוא מעורב לכאורה: ניסיון חיסולו של אלי מוסלי, רצח שמעון רביבו - והנחת מטען חבלה ברכבה של אשתו של עבריין: \"נחקור איך הצליח לשמור על מעמדו בעולם התחתון בישראל בזמן שהיה בחו\"ל\"",
+      "link": "https://www.ynet.co.il/news/article/b1tlr5s1me",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T12:39:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392534",
+      "title": "אזהרה לציבור: סכנת התמוטטות בחוף הצוק - המהפך החל בפיצוץ ענק",
+      "summary": "בעקבות סכנת התמוטטות במצוק הכורכר בתל גדור, יחלו בימים הקרובים עבודות הנדסיות לניתוק מבוקר של החלק המסוכן ולייצובו. הכניסה לאזור העבודות נאסרה כבר מעתה",
+      "link": "https://www.maariv.co.il/news/israel/article-1392534",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T12:33:55.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963272",
+      "title": "ליברמן מזרז את שותפיו, ומזהיר מ\"תרגיל\" של נתניהו",
+      "summary": "לאחר שהודיעו על הפסקת המגעים על רקע השיחות המקבילות עם הליכוד, חזרו נציגי הדמוקרטים לשולחן המשא ומתן. במפלגתו של יאיר גולן מבקשים למצות את הדיונים על פרטי ההסכם הקואליציוני וחלוקת התפקידים",
+      "link": "https://www.walla.co.il/news/politics/383963272",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T12:30:55.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21939486",
+      "title": "נינט טייב: \"אמרת שיש לי הכל\"",
+      "summary": "הזמרת ושהתגרשה מבעלה המוזיקאי יוסי מזרחי, העלתה סרטון שכולו הגשמת חלום. \"הגשמת לי חלום\"",
+      "link": "https://www.israelhayom.co.il/forreal/localy/article/21939486",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:30:09.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392530",
+      "title": "נשיא המדינה הסקנדינבית מפרגן: ישראל בין הבודדות שמסוגלות לנהל מלחמה מודרנית",
+      "summary": "נשיא פינלנד אלכסנדר סטוב מעריך שהסיכוי להפסקת המלחמה באוקראינה עד סוף השנה נמוך, ומציין שקייב, שכמעט לא ייצרה כטב\"מים לפני ארבע שנים וחצי, מסוגלת היום לייצר כעשרה מיליון בשנה",
+      "link": "https://www.maariv.co.il/news/world/article-1392530",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T12:28:22.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392530",
       "title": "נשיא פינלנד: ישראל בין הבודדות שמסוגלות לנהל מלחמה מודרנית",
       "summary": "נשיא פינלנד אלכסנדר סטוב מעריך שהסיכוי להפסקת המלחמה באוקראינה עד סוף השנה נמוך, ומציין שקייב, שכמעט לא ייצרה כטב\"מים לפני ארבע שנים וחצי, מסוגלת היום לייצר כעשרה מיליון בשנה",
@@ -42,12 +87,39 @@
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/bjkbhjbjmg",
+      "title": "אזהרת ליברמן: \"נתניהו יציע לאיזנקוט רוטציה כשהוא שני, זה תרגיל. הוא רוצה בחירות\"",
+      "summary": "יו\"ר ישראל ביתנו טען כי \"ממשלת שינוי קורמת עור וגידים\", והזהיר את השותפים מניסיון של נתניהו לטרפד את הקמתה. \"במיוחד אחרי ההתפתחויות במשפט, הוא רוצה יותר מכל בחירות חדשות\", כתב. ליברמן טען כי רה\"מ ימשוך את המו\"מ על ממשלת אחדות עד הרגע האחרון - ואז \"יחפש עילה לפוצץ אותו\". מנסור עבאס: \"תקום ממשלה עם יהדות התורה ורע\"מ\"",
+      "link": "https://www.ynet.co.il/news/article/bjkbhjbjmg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T12:27:32.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/bjkbhjbjmg",
       "title": "ליברמן מזהיר את איזנקוט: \"לא פוסל שנתניהו יציע לך רוטציה כשהוא שני, זה תרגיל. הוא רוצה בחירות\"",
       "summary": "",
       "link": "https://www.ynet.co.il/news/article/bjkbhjbjmg",
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-26T12:27:32.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21939493",
+      "title": "לידיעת נבחרת ישראל: רומניה מגייסת שחקנים כמו ליסב עיסאת",
+      "summary": "אקס מכבי חיפה השתלב היטב בסגל הלאומי, וההתאחדות המקומית מתכוונת להגביר את המאמצים לאתר כדורגלנים בעלי שורשים כמוהו • בארץ יש לא מעט שחקנים בעלי אזרחות רומנית, אחד מהם אף הודה שהוא ישקול אם יוזמן",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21939493",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:23:43.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21939709",
+      "title": "טורקיה: סיכלנו רשת ריגול של \"מדינה זרה\"",
+      "summary": "מנגנון המודיעין הטורקי הכריז על מעצרם של שני חשודים, שניסו לחדור לרשתות האינטרנט של מוסדות ביטחוניים • על פי מקורות ביטחוניים באנקרה, החשודים נעו בסביבת מתקנים של התעשייה הביטחונית ומטות פוליטיים • עוד נמסר כי ההנחיות לפעילות הריגול התקבלו ברשתות החברתיות והתשלום עבר דרך אפליקציות של מטבעות קריפטוגרפיים",
+      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21939709",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:23:21.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/israel-news/tel-gador-cliff-controlled-demolition-nature-autho",
@@ -66,6 +138,33 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-26T12:20:30.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/magazine/shishabat/article/21937891",
+      "title": "האישה שיצאה מהתופת בכלא הזוועות האיראני: \"אני לא אותו אדם\"",
+      "summary": "מרזיה אמיריזדה התנצרה - ונשלחה לכלא בתנאים לא אנושיים: \"ידעתי שיכולים להרוג אותי בכל רגע\" • היום האישה שניצלה בזכות מכתב של האפיפיור היא אמריקנית אוהדת ישראל, שמייחלת לשינוי: \"האסלאם באיראן מחזיק 90 מיליון בני ערובה\"",
+      "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21937891",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:20:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21939624",
+      "title": "שלוש שנים אחרי מותו: שדר הכדורגל האגדי חוזר למסך הטלוויזיה",
+      "summary": "ג'ון מוטסון, ששידר יותר מ-2,500 משחקים והפך לאחד הקולות המזוהים עם הכדורגל העולמי, חוזר לעמדת השידור בזכות הבינה המלאכותית • המהלך נעשה באישור משפחתו",
+      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21939624",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:16:35.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21939421",
+      "title": "אפילו ברוזלך: אייל שני לא מוותר על העגבנייה",
+      "summary": "משוקולד דובאי ושטרודל תפוחים ועד בננה לוטי וסמור'ס - הרוזלך של לנדוור עברו לא מעט גלגולים לאורך השנים • עכשיו מגיע תורו של השף אייל שני שמטשטש את הגבולות בין פיצה לקינוח",
+      "link": "https://www.israelhayom.co.il/food/food-news/article/21939421",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T12:16:34.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392523",
@@ -147,6 +246,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-26T12:01:25.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/bardella-antisemitic-messages-france-investigation",
+      "title": "ברדלה בצרות: העיתון חושף התכתבויות אנטישמיות נוספות - והוכחות חותכות",
+      "summary": "עיתונים צרפתיים חושפים פרטים נוספים המקשרים את ברדלה להתכתבויות | מוזכרים מורים, תאריך לידה ומוצא הורים | הוא ממשיך להכחיש (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/bardella-antisemitic-messages-france-investigation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:59:45.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/bardella-antisemitic-messages-france-investigation",
@@ -453,6 +561,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T11:06:11.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
+      "title": "המחבלים הגיעו לבית הכנסת ולא הפעילו את המטען - למשטרה אין מושג למה",
+      "summary": "שני אזרחים עיראקים נעצרו היום בחשד למעורבות בהתארגנות טרור בעיר קלן שבגרמניה | החשד: תכננו לפגוע בבית הכנסת בקלן באמצעות מטעני חבלה, אך לא ביצעו זאת מסיבה לא ברורה| מעל 250 שוטרים במבצע המעצרים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:04:18.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
@@ -32601,24 +32718,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T12:50:47.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390698",
-      "title": "פסיקה דרמטית בהאג: התביעה נגד ישראל עשויה לקבל תפנית",
-      "summary": "פסיקה תקדימית בהאג שקבעה כי מיאנמר ביצעה רצח עם עשויה להשפיע על התביעה נגד ישראל בגין המלחמה בעזה. השופטים הרחיבו את בחינת הכוונה לרצח עם, ומומחים מעריכים כי הדבר עשוי לסייע לדרום אפריקה",
-      "link": "https://www.maariv.co.il/news/world/article-1390698",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T12:45:50.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962370",
-      "title": "פוטין מכחיש: דנמרק סיכלה ניסיון התנקשות באזרח אוקראיני",
-      "summary": "לפי שירותי המודיעין הדניים, החשודים גויסו בידי גורמים רוסיים ונעצרו חמש דקות בלבד לפני תחילת הופעה שבה תכננו לבצע את הרצח; בעקבות הפרשה גירשה קופנהגן נספח צבאי רוסי, בעוד שבמוסקבה דוחים את ההאשמות",
-      "link": "https://www.walla.co.il/news/world/383962370",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-21T12:44:37.000Z"
     }
   ]
 }
