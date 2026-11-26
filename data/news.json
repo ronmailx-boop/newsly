@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:31:01.101Z",
+  "updatedAt": "2026-11-26T20:45:48.566Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/turkey-cyber-espionage-wifi-mapping-arrest",
+      "title": "מרגלים מיפו רשתות Wi-Fi רגישות - קיבלו קריפטו ונעצרו",
+      "summary": "שני חשודים סרקו רשתות אלחוטיות של מוסדות מדינה ומתקנים אסטרטגיים • גויסו דרך מודעות דרושים וקיבלו בקריפטו | מבצע משותף של ה-MİT ומשטרת איסטנבול (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/turkey-cyber-espionage-wifi-mapping-arrest",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T20:37:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963342",
+      "title": "המנהיגים הליטאים נפגשו - וצפויים לתת אישור לפתיחת מו\"מ רשמי",
+      "summary": "הרבנים דב לנדו ומשה הלל הירש שוחחו במשך כחצי שעה על המגעים להרכבת הממשלה וצפויים לאשר פתיחה במשא ומתן רשמי. לפי הלו\"ז המסתמן, ביום ראשון ייפגשו עורכי הדין מטעם הצדדים",
+      "link": "https://www.walla.co.il/news/politics/383963342",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T20:35:16.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/friday-night-studio/yahadut-hatorah-backs-change-government-netanyahu",
+      "title": "בדרך לממשלת שינוי-חרדים | משדר מיוחד באולפן ליל שישי",
+      "summary": "באולפן 'ליל שישי' בהגשת ישי כהן, ניתחו אבי וידרמן, הרב יוסף שווינגר, איציק סודרי ואבי גרינצייג את ההתקדמות במגעים בין 'יהדות התורה' לאיזנקוט על חוק גיוס ללא מכסות, את החשש החרדי משחזור תסריט 2013, את האזהרות החריפות של אריה דרעי מפני הישארות \"קרח מכאן ומכאן\" - ואת רעידת האדמה המשפטית ב קריסת תיקי נתניהו | משדר מיוחד (אולפן כיכר)",
+      "link": "https://www.kikar.co.il/friday-night-studio/yahadut-hatorah-backs-change-government-netanyahu",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T20:35:01.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1392704",
+      "title": "חשוד נעצר ברמת שרון אחרי חיפושים של למעלה משעתיים, חשד כי מדובר בגורם עוין",
+      "summary": "חשוד נלכד ברמת השרון, לאחר שכוחות רבים של המשטרה, שב\"כ ויחידות מיוחדות. ל\"מעריב\" נודע כי לפי מידע שהתקבל מהשב\"כ, מדובר ככל הנראה בגורם עוין, שהסתתר באתר בנייה",
+      "link": "https://www.maariv.co.il/news/military/article-1392704",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T20:33:13.000Z"
+    },
+    {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392702",
       "title": "אחרי ההתקדמות בהקמת ועדת חקירה ממלכתית: אייל אשל מסמן את היעד הבא",
       "summary": "לאחר אישור החוק להקמת ועדת חקירה ממלכתית בקריאה טרומית, אייל אשל, אביה של התצפיתנית רוני אשל ז\"ל, דורש למצות את הדין עם האחראים למחדל ומשתף בכאב על השיחות עם בתו לפני הטבח",
@@ -59,9 +95,18 @@
       "pubDate": "2026-11-26T20:16:49.000Z"
     },
     {
+      "id": "walla:https://sports.walla.co.il/item/3877751",
+      "title": "סיוט בבטומי: אלימות, גז פלפל והפסד של אלופת ישראל לטורקים",
+      "summary": "הפועל באר שבע הפסידה לבשיקטאש 2:1 במשחק לוהט שכמעט פוצץ. החבורה של קוז'וך לא הפסיקה להחמיץ במחצית הראשונה, נעלמה במחצית השנייה וספגה בדקות 75 ו-90. איסט רק צימק (90+3) והאלופה הישראלית",
+      "link": "https://sports.walla.co.il/item/3877751",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T20:15:00.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21944017",
       "title": "בהלה ברמת השרון: כוחות רבים בחיפושים אחר מבוקש לחקירה",
-      "summary": "",
+      "summary": "תושבים דיווחו על כוחות רעולי פנים שנצפו מחוץ לבתים בעיר • לאחר כשעה של חרדה וספקולציות, המשטרה הבהירה את מטרת הפעילות והדגישה: \"אין שינוי בהנחיות לציבור\"",
       "link": "https://www.israelhayom.co.il/news/defense/article/21944017",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -75,6 +120,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T20:05:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392690",
+      "title": "הניפו דגלי פלסטין במשחק מול הפועל באר שבע - כך הגיבה המשטרה",
+      "summary": "המשטרה הגאורגית הפעילה כוח נגד אוהדי בשיקטאש שהניפו דגלי פלסטין במשחק מול הפועל באר שבע בבאטומי. בעקבות העימותים האלימים ביציעים הופסק המשחק בדקה ה-26, ואוהדים פונו על אלונקות",
+      "link": "https://www.maariv.co.il/news/world/article-1392690",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T20:04:15.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392690",
@@ -219,6 +273,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T19:09:34.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392675",
+      "title": "נתב\"ג נחסם: מפגינים חרדים במחאות ענק על מעצרי העריקים",
+      "summary": "מחאות חרדים ענקיות התפתחו במספר מוקדים כאשר המרכזיים שבהם הם נתב\"ג וצומת בר אילן בירושלים, כאשר הכניסה נתב\"ג אף נחסמה. לאחר זמן רב המשטרה הצליחה לבסוף לפתוח את צירי התנועה",
+      "link": "https://www.maariv.co.il/news/israel/article-1392675",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T19:07:37.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1392675",
@@ -834,6 +897,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21942883",
+      "title": "האוהדים הטורקים התפרעו: הפועל באר שבע הפסידה 2:1 לבשיקטאש",
+      "summary": "המשחק הופסק לחצי שעה בעקבות עימותים קשים בין אוהדי בשיקטאש למאבטחים הגאורגים בבאטומי • מרקו וולף עצר פנדל, אבל ספג פעמיים לקראת הסיום • ג'בון איסט צימק בתוספת הזמן",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21942883",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T17:38:06.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21942883",
       "title": "חי מהליגה האירופית: בשיקטאש - הפועל באר שבע 1:2",
       "summary": "המשחק בין הטורקים לישראלים בבאטומי הופסק לחצי שעה בעקבות עימותים בין אוהדי בשיקטאש למאבטחים הגאורגים • מרקו וולף עצר פנדל, אבל הקבוצה של רן קוז'וך ספגה פעמיים לקראת הסיום",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21942883",
@@ -915,6 +987,15 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392638",
+      "title": "בית הספר פעל ללא רישיון - ואז התגלו דגלי אש\"ף וחומרי לימוד אסורים",
+      "summary": "בתום חקירה סמויה של ימ\"ר ירושלים, הוציא משרד החינוך צו סגירה לבית ספר בוואדי ג'וז שפעל ללא רישיון, ובו אותרו חומרי לימוד אסורים מטעם הרשות הפלסטינית, דגלים וצעיפי אש\"ף",
+      "link": "https://www.maariv.co.il/news/law/article-1392638",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T17:22:50.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392638",
       "title": "דגלי אש\"ף וחומרי לימוד אסורים: המשטרה פשטה על בית ספר במזרח ירושלים",
       "summary": "בתום חקירה סמויה של ימ\"ר ירושלים, הוציא משרד החינוך צו סגירה לבית ספר בוואדי ג'וז שפעל ללא רישיון, ובו אותרו חומרי לימוד אסורים מטעם הרשות הפלסטינית, דגלים וצעיפי אש\"ף",
       "link": "https://www.maariv.co.il/news/law/article-1392638",
@@ -975,6 +1056,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T17:20:56.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392636",
+      "title": "במדינה האירופית מגיבים לאירועים האחרונים: איסור עטיית החיג'אב בדרך לצאת לפועל",
+      "summary": "שר המשפטים בדנמרק הנחה את התובע הכללי לגבש הנחיות חדשות שיאסרו על תובעים מטעם המדינה להופיע בבתי המשפט כשהם עוטים חיג'אב או נושאים סממנים דתיים אחרים. ההגבלות החדשות ייכנסו לתוקף בהקדם האפשרי",
+      "link": "https://www.maariv.co.il/news/world/article-1392636",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T17:20:19.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392636",
@@ -33771,87 +33861,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T20:47:14.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21902167",
-      "title": "ב-2 מעלות: דנה זרמון בחזייה באמצע הרחוב - וחטפה אש",
-      "summary": "משפיענית הרשת החליטה להוציא את פינת האאוטפיטים הקבועה שלה לרחובות פראג, ולא נתנה לקור לעצור אותה • אלא שהסרטון, שכלל גם מפגש מפתיע עם בעל רכב, עורר תגובות זועמות מצד העוקבים",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21902167",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T20:40:24.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/yigal-amir-furlough-request-rejected-security-conc",
-      "title": "חשש במערכת הביטחון: יגאל עמיר ינצל חופשה מהכלא כדי להימלט",
-      "summary": "בקשת עמיר לחופשה בת 48 שעות נדחתה משיקולי ביטחון • שב\"כ: \"עמדותיו הקיצוניות לא השתנו מאז 1995\" | חוות דעת חריפה (חדשות)",
-      "link": "https://www.kikar.co.il/israel-news/yigal-amir-furlough-request-rejected-security-conc",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T20:36:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1390836",
-      "title": "בסימן חיבור לשורשים ורוח של אחדות: הוכרז שם השבט החדש של תנועת בני עקיבא",
-      "summary": "השם הנבחר הוכרע בתום הצבעה שהתקיימה במליאת הנהלת התנועה בתחילת השבוע שעבר, בישיבה מיוחדת שנערכה בביתו של מורה הדרך הרוחני של התנועה, הרב חיים דרוקמן זצ\"ל, במרכז שפירא",
-      "link": "https://www.maariv.co.il/news/israel/article-1390836",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T20:35:58.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390835",
-      "title": "יגאל עמיר ביקש חופשה מהכלא - זו החלטת השב\"ס",
-      "summary": "רוצח ראש הממשלה יצחק רבין מבקש חופשה מיוחדת בת 48 שעות כדי לבקר את אביו החולה. בשב\"ס מתנגדים מחשש למפגשים עם גורמים מחוץ לכלא שעלולים לראות בו דמות לחיקוי, ועמיר עתר לבית המשפט",
-      "link": "https://www.maariv.co.il/news/law/article-1390835",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T20:35:56.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390835",
-      "title": "החשש מחיקוי רצח רבין: שב\"ס מתנגד לחופשה של יגאל עמיר",
-      "summary": "רוצח ראש הממשלה יצחק רבין מבקש חופשה מיוחדת בת 48 שעות כדי לבקר את אביו החולה. בשב\"ס מתנגדים מחשש למפגשים עם גורמים מחוץ לכלא שעלולים לראות בו דמות לחיקוי, ועמיר עתר לבית המשפט",
-      "link": "https://www.maariv.co.il/news/law/article-1390835",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-21T20:35:56.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962424",
-      "title": "גוש השינוי נערך למרתון שיחות: המוצא האחרון - ממשלת מיעוט",
-      "summary": "איזנקוט החליט על סדרת פגישות עם הליכוד כדי למצות את המו\"מ לאחדות, ולא ויתר על ממשלה עם החרדים. \"חייבים לעשות ביבי לביבי\", אומרים בגוש השינוי",
-      "link": "https://www.walla.co.il/news/politics/383962424",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-21T20:33:14.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962424",
-      "title": "השבוע המרתוני: שני מסלולים ומוצא אחרון",
-      "summary": "איזנקוט החליט על סדרת פגישות עם הליכוד כדי למצות את המו\"מ לאחדות, ולא ויתר על ממשלה עם החרדים. \"חייבים לעשות ביבי לביבי\", אומרים בגוש השינוי",
-      "link": "https://www.walla.co.il/news/politics/383962424",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-21T20:33:14.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962424",
-      "title": "השבוע המרתוני: 2 מסלולים ומוצא אחרון",
-      "summary": "איזנקוט החליט על סדרה על פגישות עם הליכוד כדי למצות את המו\"מ לאחדות ולא ויתר על ממשלה עם חרדים. \"חייבים לעשות ביבי לביבי\", אומרים בגוש השינוי",
-      "link": "https://www.walla.co.il/news/politics/383962424",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-21T20:33:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-president-works-cold-office-energy-crisis",
-      "title": "איראן קופאת מקור: כך תועד הנשיא פזשכיאן בלשכתו בטהרן",
-      "summary": "פזשכיאן צולם לבוש במעיל חורף עבה בלשכתו • הטמפרטורה: 18.8 מעלות בלבד | קמפיין ממשלתי לחיסכון באנרגיה (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-president-works-cold-office-energy-crisis",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-21T20:31:45.000Z"
     }
   ]
 }
