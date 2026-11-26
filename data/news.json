@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T11:45:56.807Z",
+  "updatedAt": "2026-11-26T12:01:19.252Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,42 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/world-news/bardella-antisemitic-messages-france-investigation",
+      "title": "ברדלה שוב מסתבך: העיתון חושף התכתבויות אנטישמיות נוספות - והוכחות חדשות",
+      "summary": "עיתונים צרפתיים חושפים פרטים נוספים המקשרים את ברדלה להתכתבויות | מוזכרים מורים, תאריך לידה ומוצא הורים | הוא ממשיך להכחיש (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/bardella-antisemitic-messages-france-investigation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:59:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/s1clotbjxg",
+      "title": "\"נשבע באללה ארצח אותך\": תושב חברון יואשם באיומים על שרים",
+      "summary": "הצהרת תובע הוגשה נגד תושב חברון בן 20, בגין איומים על שרים ונבחרי ציבור, בהם סמוטריץ', וסטרוק. לאחד השרים כתב: \"התקרב הסוף שלך יא כלב, שבוע ימים אתה מת\". ממצאי החקירה חשפו שיצר קשר עם גורמים ברשות הפלסטינית במטרה לקבל הכשרה צבאית, ואף תועד כשהוא לבוש מדי פתח",
+      "link": "https://www.ynet.co.il/news/article/s1clotbjxg",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-26T11:46:51.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim-news/dubai-plane-mid-preparation",
+      "title": "האם האינסטלטור מפליי דובאי קנה את המטוס בהגבהה? התשובה המפתיעה של הגר\"ש אלתר",
+      "summary": "בתיעוד מרתק נצפה ראש הישיבה הגאון רבי שאול אלתר משיב לשאלתו של ראש הכולל הרה\"ג ר' יעקב ולנשטיין בעניין הדרמה האווירית בטיסת פליי דובאי | האם הנוסע שהשתלט על ההגאים ומנע התרסקות בים קנה את המטוס ואת כבודת הנוסעים, ואיך מבצעים קניין בכלי טיס? צפו (חרדים)",
+      "link": "https://www.kikar.co.il/haredim-news/dubai-plane-mid-preparation",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:44:53.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/brazilian-soldier-missing-russia-ukraine-war",
+      "title": "הבטיח לאמא לחזור עם כסף: כך נעלם הצעיר הברזילאי בחזית רוסיה - וההודעה האחרונה",
+      "summary": "במסגרת תחקיר של הניו יורק טיימס נחשף כי צעירים ברזילאים רבים התגייסו לצבא רוסיה תמורת כסף | אחד מהם, צעיר ברזילאי התגייס לצבא הרוסי אחרי הבטחות למשכורות נדיבות | ההודעות הקוליות לאמו הפכו מדאיגות יותר ויותר | עד שהגיעה הודעה אחרונה עם קולות ירי ברקע - ואחר כך שקט (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/brazilian-soldier-missing-russia-ukraine-war",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:39:07.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/world-news/brazilian-soldier-missing-russia-ukraine-war",
       "title": "ההודעה האחרונה ששלח לאמא: כך נעלם צעיר ברזילאי בחזית הרוסית",
       "summary": "במסגרת תחקיר של הניו יורק טיימס נחשף כי צעירים ברזילאים רבים התגייסו לצבא רוסיה תמורת כסף | אחד מהם, צעיר ברזילאי התגייס לצבא הרוסי אחרי הבטחות למשכורות נדיבות | ההודעות הקוליות לאמו הפכו מדאיגות יותר ויותר | עד שהגיעה הודעה אחרונה עם קולות ירי ברקע - ואחר כך שקט (בעולם)",
@@ -43,7 +79,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/byleq9sj7g",
       "title": "\"מחשש להתמוטטות\": פוצץ מצוק מסוכן בחוף ליד חדרה | תיעוד מרהיב",
-      "summary": "מחשש לסיכון חיי אדם, רשות הטבע והגנים ביצעה פיצוץ מבוקר של מצוק בחוף תל גדור. הציבור הונחה \"להתרחק משפת המצוק וממרגלותיו, לא להיכנס לאזורים מגודרים\"",
+      "summary": "מחשש לסיכון חיי אדם, רשות הטבע והגנים ביצעה פיצוץ מבוקר של מצוק בחוף תל גדור. הציבור הונחה \"להתרחק משפת המצוק וממרגלותיו ולא להיכנס לאזורים מגודרים\"",
       "link": "https://www.ynet.co.il/news/article/byleq9sj7g",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -177,6 +213,15 @@
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
+      "title": "נס בקלן: המחבלים הגיעו לבית הכנסת ולא הפעילו את המטען - למשטרה אין מושג למה",
+      "summary": "שני אזרחים עיראקים נעצרו היום בחשד למעורבות בהתארגנות טרור בעיר קלן שבגרמניה | החשד: תכננו לפגוע בבית הכנסת בקלן באמצעות מטעני חבלה, אך לא ביצעו זאת מסיבה לא ברורה| מעל 250 שוטרים במבצע המעצרים (בעולם)",
+      "link": "https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-26T11:04:18.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
       "title": "נס בגרמניה: המחבלים הגיעו עד לבית הכנסת - ולא הפעילו את המטענים",
       "summary": "שני אזרחים עיראקים נעצרו היום בחשד למעורבות בהתארגנות טרור בעיר קלן שבגרמניה | החשד: תכננו לפגוע בבית הכנסת בקלן באמצעות מטעני חבלה, אך לא ביצעו זאת מסיבה לא ברורה| מעל 250 שוטרים במבצע המעצרים (בעולם)",
       "link": "https://www.kikar.co.il/world-news/germany-arrests-iraqis-cologne-synagogue-terror-pl",
@@ -267,12 +312,30 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/military/article-1392482",
+      "title": "משהו משתנה בגליל - ובמערכת הביטחון מזהים סימני אזהרה",
+      "summary": "שתי פרשות ביטחוניות שנחשפו בתוך ימים בגליל מעוררות דאגה במערכת הביטחון. מאחורי החשדות לתכנון פיגועים ולפעילות עבור איראן מסתמן מכנה משותף שמטריד את גורמי הביטחון",
+      "link": "https://www.maariv.co.il/news/military/article-1392482",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-26T10:43:08.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/military/article-1392482",
       "title": "לא הפרופיל שהכירו: התופעה החדשה שמטרידה את מערכת הביטחון",
       "summary": "שתי פרשות ביטחוניות שנחשפו בתוך ימים בגליל מעוררות דאגה במערכת הביטחון. מאחורי החשדות לתכנון פיגועים ולפעילות עבור איראן מסתמן מכנה משותף שמטריד את גורמי הביטחון",
       "link": "https://www.maariv.co.il/news/military/article-1392482",
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-26T10:43:08.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/law/383963249",
+      "title": "\"שבוע ואתה מת\": תושב חברון חשוד באיומים על סמוטריץ' וסטרוק",
+      "summary": "תושב חברון בשנות ה-20 לחייו חשוד שאיים לרצוח את השרים אורית סטרוק ובצלאל סמוטריץ' וכן את ראש מועצת שומרון יוסי דגן וסגן ראש עיריית ירושלים אריה קינג. נמצא קשר בינו בין הפת\"ח",
+      "link": "https://www.walla.co.il/news/law/383963249",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-26T10:42:24.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/kikarfm/moshe-leibowitz-beitar-illit-founder-interview",
@@ -32358,15 +32421,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-21T12:03:38.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21899695",
-      "title": "ח\"כית \"הדמוקרטים\" על זיני: \"צריך להראות לו את הדרך החוצה\" | צפו",
-      "summary": "אפרת רייטן התייחסה לראש השב\"כ בדבריה באירוע \"שבתרבות\" של משען וטענה כי עליו לתת לציבור דין וחשבון מלא • \"יכול להיות שהשלב הבא יהיה שהוא צריך לשים את המפתחות ולהתפטר. ואם לא, צריך להראות לו את הדרך החוצה\" טענה",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21899695",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-21T11:56:09.000Z"
     }
   ]
 }
