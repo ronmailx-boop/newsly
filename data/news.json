@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:46:01.239Z",
+  "updatedAt": "2026-11-27T18:01:08.396Z",
   "sources": [
     {
       "key": "ynet",
@@ -70,7 +70,7 @@
     {
       "id": "ynet:https://www.ynet.co.il/news/article/skvdvnvkqg",
       "title": "תקיפה אמריקנית חריגה: \"השבתנו ספינה שיצאה מאיראן - וניסתה להפר את המצור\"",
-      "summary": "פיקוד המרכז של צבא ארה\"ב פרסם תיעוד מרגע הפגיעה של חימוש ששוגר מכלי טיס אמריקני בספינה שיצאה מנמל בנדר עבאס. \"ניסתה להפר את המצור הימי, למרות אזהרות חוזרות ונשנות\", כתבו. הספינה - כנראה בבעלות סינית",
+      "summary": "פיקוד המרכז של צבא ארה\"ב פרסם תיעוד מרגע הפגיעה של חימוש ששוגר מכלי טיס אמריקני בספינה בבעלות סינית שיצאה מנמל בנדר עבאס. \"ניסתה להפר את המצור הימי, למרות אזהרות חוזרות ונשנות\", כתבו. איראן מאיימת בשבירת המצור",
       "link": "https://www.ynet.co.il/news/article/skvdvnvkqg",
       "source": "ynet",
       "sourceKey": "ynet",
@@ -129,6 +129,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-27T16:36:05.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392902",
+      "title": "השופט המליץ - בן גביר קיבל: הפחית את סכום התביעה נגד אולמרט בחצי",
+      "summary": "השר בן גביר קיבל את המלצת השופט והוריד את סכום הפיצוי מ-750 אלף ל-300 אלף שקל. השופט הורה גם למחוק את המילים \"אסיר משוחרר\" ומספר האסיר של ראש הממשלה לשעבר, אותם ציין בן גביר בכתב התביעה שהגיש",
+      "link": "https://www.maariv.co.il/news/law/article-1392902",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T16:34:35.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392902",
@@ -31170,33 +31179,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-22T18:02:58.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21906164",
-      "title": "הפועל תל אביב קיבלה החלטה משמעותית לקראת חלון ההעברות",
-      "summary": "האדומים לא מתכוונים למהר ולהחתים שחקנים חדשים, למרות ההיעדרות הצפויה של סתיו טוריאל בשבועות הקרובים • עמנואל בואטנג יוכל לנהל משא ומתן עם קבוצות אחרות החל מחודש ינואר",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21906164",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T18:00:28.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21909271",
-      "title": "טראמפ מציב דד ליין לחידוש המערכה הצבאית מול איראן",
-      "summary": "נשיא ארה\"ב קרא למפגינים באיראן להמשיך במחאתם ולעג למגעים עם טהרן • מדינות המפרץ חוששות מחידוש הלחימה ומפעילות לחץ להגיע להסדר, בעוד קטאר ממשיכה לתווך בין הצדדים",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21909271",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T17:54:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/trump-kim-jong-un-contact-attempts-ignored",
-      "title": "ההשפלה המוחלטת: טראמפ ניסה להתקשר, שלח מכתבים - קים התעלם",
-      "summary": "הנשיא האמריקני ניסה ליצור קשר עם מנהיג צפון קוריאה באמצעות ערוצים רשמיים ושליחים, כך מתפרסם היום בוול סטריט ג'ורנל | עוד דווח כי מכתב אישי שנשלח נשלח בחזרה ללא קריאה |כך השפיל המנהיג העליון את נשיא ארה\"ב (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/trump-kim-jong-un-contact-attempts-ignored",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T17:47:58.000Z"
     }
   ]
 }
