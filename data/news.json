@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:15:44.226Z",
+  "updatedAt": "2026-11-27T10:30:59.958Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "kikar:https://www.kikar.co.il/news/kafr-qasim-hit-and-run-racist-motive-suspect",
+      "title": "המשטרה חושדת: דרס שמונה בני אדם בכפר קאסם ממניע גזעני",
+      "summary": "בית משפט השלום בפתח תקווה האריך את מעצר החשוד בחמישה ימים • המשטרה: עלה חשד ראשוני שהנהג הגיע לעיר גם בעבר | הסנגור: מתמודד נפש במצב קשה (חדשות)",
+      "link": "https://www.kikar.co.il/news/kafr-qasim-hit-and-run-racist-motive-suspect",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T10:25:51.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392820",
+      "title": "מתן כהנא שובר שתיקה: \"נתניהו מנסה למשוך זמן ולהוביל אותנו לבחירות נוספות\"",
+      "summary": "יו\"ר הכנסת התייחס למגעים להרכבת הממשלה והבהיר כי מאז הבחירות הוא פועל להקמת ממשלת אחדות רחבה בראשות איזנקוט. כהנא הביע חשש מהתנהלות נתניהו במשא ומתן והדגיש: \"אחדות, אך לא בכל מחיר\"",
+      "link": "https://www.maariv.co.il/news/politics/article-1392820",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T10:16:48.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/stage/383963375",
+      "title": "מוכר ז'יטונים בווגאס ולא מפסיק לעוף: חנוך רוזן מגלה את הסוד",
+      "summary": "הוא הפך את הפסטיגל למוסד, את פיטר פן לאגדה ישראלית ומוכר ז'יטונים נוצצים בווגאס. עם מופעי חנוכה ענקיים על הראש, במאי העל מספר על הכשלונות, מסנגר על הכוכבים החדשים ומסביר למה עדיין מומלץ להאמין בקסמים",
+      "link": "https://www.walla.co.il/entertainment/stage/383963375",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T10:13:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21946341",
+      "title": "ראיה משמים: הרחפן ששימש את הרוצחים ביפו הפך להוכחה נגדם",
+      "summary": "כתב אישום שהוגש נגד אחמד ובסאם סעדה בגין רצח אחמד שקרא באוגוסט האחרון, מסתמך בין היתר על ממצאים שהוצאו מרחפן שבעזרתו עקבו השניים אחר הקורבן • לאחר הרצח עזב אחד מהם את המדינה לירדן, אך נעצר לפי כשלושה שבועות • לשניים עבר פלילי והם ריצו עונשי מאסר בפועל",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21946341",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T10:13:02.000Z"
+    },
     {
       "id": "walla:https://finance.walla.co.il/item/3877811",
       "title": "5 טריליון דולר בשנה: רק שליש מהונאות הענק בשוק ההון נחשפות",
@@ -147,6 +183,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-27T09:41:45.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392805",
+      "title": "צו איסור הפרסום צומצם: הפרטים החדשים על החשוד באירוע הדריסה בכפר קאסם",
+      "summary": "בית משפט השלום בפתח תקווה האריך עד ליום שלישי את מעצרו של החשוד בפגיעה בחמישה בני אדם בשלוש זירות דריסה בכפר קאסם. השופט הורה להוציאו מהאולם לאחר שצעק והפריע לקיום הדיון",
+      "link": "https://www.maariv.co.il/news/law/article-1392805",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T09:38:01.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/law/article-1392805",
@@ -366,7 +411,7 @@
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877816",
-      "title": "\"זה היה השבוע הכי גדול של דני אבדיה בקריירת ה-NBA\"",
+      "title": "\"זה עושה לו משהו\": הסיבה להתפוצצות של דני אבדיה",
       "summary": "דרור הופמן אמר ב\"דאבל דריבל\" את מה שכולנו חששנו לומר על כוכב פורטלנד, והסביר גם את חשיבות התמיכה האדירה של הישראלים בארה\"ב",
       "link": "https://sports.walla.co.il/item/3877816",
       "source": "וואלה",
@@ -380,6 +425,15 @@
       "link": "https://www.israelhayom.co.il/culture/music/article/21939719",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T09:00:00.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877816",
+      "title": "\"זה היה השבוע הכי גדול של דני אבדיה בקריירת ה-NBA\"",
+      "summary": "דרור הופמן אמר ב\"דאבל דריבל\" את מה שכולנו חששנו לומר על כוכב פורטלנד, והסביר גם את חשיבות התמיכה האדירה של הישראלים בארה\"ב",
+      "link": "https://sports.walla.co.il/item/3877816",
+      "source": "וואלה",
+      "sourceKey": "walla",
       "pubDate": "2026-11-27T09:00:00.000Z"
     },
     {
@@ -33150,159 +33204,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-22T10:32:00.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/rj00qmxlj7g",
-      "title": "שנה וחצי מאסר לנהג שגרם למות הזוג בדרך לחופשה, והותיר 3 יתומות",
-      "summary": "יעקב מורסיאנו, נהג חדש שהיה בן 19 בזמן התאונה, התנגש במהירות של 135 קמ\"ש ברכבם של יולי ונתי אוחיון ליד צומת לטרון. בני הזוג היו בדרכם לנתב\"ג כדי לחגוג את יום הנישואים שלהם בקורפו. בפרקליטות שוקלים לערער. אחת הבנות: \"העונש הוא ביזיון. שנה וחצי, זה מה ששווים החיים של ההורים שלי?\"",
-      "link": "https://www.ynet.co.il/news/article/rj00qmxlj7g",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-22T10:30:09.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390990",
-      "title": "מומחה מזהיר: ישראל נערכת למלחמה עם איראן - אבל יש תרחיש גרוע יותר",
-      "summary": "פרופ' עוזי רבי הזהיר בריאיון ל-103FM כי הסכם עם איראן עלול להיות מסוכן יותר ממלחמה. לדבריו, טהרן מנצלת את היחלשות טראמפ בעקבות בחירות האמצע כדי להסלים את פעולותיה, וישראל עלולה להישאר לבדה מול האיום",
-      "link": "https://www.maariv.co.il/news/military/article-1390990",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:29:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390990",
-      "title": "מלחמה עם איראן? המומחה מזהיר מתרחיש גרוע הרבה יותר לישראל",
-      "summary": "פרופ' עוזי רבי הזהיר בריאיון ל-103FM כי הסכם עם איראן עלול להיות מסוכן יותר ממלחמה. לדבריו, טהרן מנצלת את היחלשות טראמפ בעקבות בחירות האמצע כדי להסלים את פעולותיה, וישראל עלולה להישאר לבדה מול האיום",
-      "link": "https://www.maariv.co.il/news/military/article-1390990",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:29:51.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1390990",
-      "title": "המומחה מזהיר: מלחמה עם איראן היא לא התרחיש הגרוע ביותר",
-      "summary": "פרופ' עוזי רבי הזהיר בריאיון ל-103FM כי הסכם עם איראן עלול להיות מסוכן יותר ממלחמה. לדבריו, טהרן מנצלת את היחלשות טראמפ בעקבות בחירות האמצע כדי להסלים את פעולותיה, וישראל עלולה להישאר לבדה מול האיום",
-      "link": "https://www.maariv.co.il/news/military/article-1390990",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:29:51.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/travel/news-travel/383962489",
-      "title": "טעתה בניווט מערבות רוסיה, נחתה בטעות בישראל ועוררה התרגשות",
-      "summary": "ציפור השיר כחול הזנב, שמשקלה 12 גרם בלבד ומקננת ביערות הטאיגה בצפון רוסיה, תועדה ליד מושב אשלים; צפרים וצלמים מכל הארץ הגיעו לצפות באורחת הנדירה",
-      "link": "https://www.walla.co.il/travel/news-travel/383962489",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T10:27:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21874830",
-      "title": "ברגר קינג משיקה וופר חדש - אבל אין בו בכלל בשר",
-      "summary": "לחמניית שוקולד, קציצת בראוני, נוטלה ותוספות מתוקות שמתחפשות לירקות • ברגר קינג הופכת את ההמבורגר המפורסם שלה לקינוח יוצא דופן, שנולד בכלל כבדיחה לפני שמונה שנים",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21874830",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:26:07.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21904866",
-      "title": "טהרן מתגרה בוושינגטון: \"ארה\"ב היא מדינה מובסת\"",
-      "summary": "מזכיר המועצה לביטחון לאומי באיראן, מוחסן רזאאי לעג לממשל טראמפ ואמר: \"עולם השתנה ולא ניתן להחזיר את הסדר הנוכחי אל העבר\" • עיתון הלבנוני \"אל-אח'באר\", המקורב לחיזבאללה, דיווח בסוף השבוע כי האמריקנים העבירו מסר בדיונים עם הצד הלבנוני כי ההחלטה לפתוח במלחמה נגד איראן וארגון הטרור התקבלה - ומדובר רק בשאלה של זמן",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21904866",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:25:22.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390981",
-      "title": "אייל ברקוביץ' מודה לראשונה: \"אני מעדיף את נתניהו\"",
-      "summary": "\"מה אתה הולך על אימא שכולה? לך לאיזנקוט\": איל ברקוביץ' תוקף ב-103FM את השר עמיחי שיקלי על ההודעה ששלח לח\"כ שירה שפירא, ומעמת את אראל סג\"ל עם הפגישה של נתניהו עם יו\"ר רע\"ם מנסור עבאס",
-      "link": "https://www.maariv.co.il/news/politics/article-1390981",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:24:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390981",
-      "title": "איל ברקוביץ' מפתיע: \"אני מעדיף את נתניהו\"",
-      "summary": "\"מה אתה הולך על אימא שכולה? לך לאיזנקוט\": איל ברקוביץ' תוקף ב-103FM את השר עמיחי שיקלי על ההודעה ששלח לח\"כ שירה שפירא, ומעמת את אראל סג\"ל עם הפגישה של נתניהו עם יו\"ר רע\"ם מנסור עבאס",
-      "link": "https://www.maariv.co.il/news/politics/article-1390981",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:24:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1390981",
-      "title": "איל ברקוביץ' תוקף את השר עמיחי שיקלי: \"לא הפעם הראשונה שבה הוא נופל בלשונו\"",
-      "summary": "\"מה אתה הולך על אימא שכולה? לך לאיזנקוט\": איל ברקוביץ' תוקף ב-103FM את השר עמיחי שיקלי על ההודעה ששלח לח\"כ שירה שפירא, ומעמת את אראל סג\"ל עם הפגישה של נתניהו עם יו\"ר רע\"ם מנסור עבאס",
-      "link": "https://www.maariv.co.il/news/politics/article-1390981",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:24:57.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877184",
-      "title": "מאמן תחתית, לשם שינוי? אבוקסיס מועמד לנבחרת ישראל",
-      "summary": "אחרי ברק בכר, גם מאמן בני סכנין על הכוונת של ראשי ההתאחדות: \"אחד שיודע לסגור פערים בזכות טקטיקה ועבודה על הדשא\". הערכה: ההכרעה על זהות המאמן תתקבל בתוך חודשיים",
-      "link": "https://sports.walla.co.il/item/3877184",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T10:23:00.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390982",
-      "title": "בניין מגורים בקייב קרס במתקפה רוסית: חשש ל-14 לכודים בהריסות",
-      "summary": "מתקפת כטב\"ם רוסית גרמה לקריסת חלק מבניין מגורים באזור קייב. תשעה בני אדם חולצו ולפחות שניים נפצעו, בהם נער, בעוד החיפושים אחר לכודים נמשכים בצל גל התקיפות לקראת החורף",
-      "link": "https://www.maariv.co.il/news/world/article-1390982",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:22:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21905100",
-      "title": "לאנס סטרול הגיע לתחתית: \"אין לי מה לקחת\"",
-      "summary": "בן זוגה של יעל שלביה סיים במקום ה-17 במרוץ הפורמולה 1 בלאס וגאס • הוא נשמע מיואש מהמאבקים בתחתית: \"הרגיש כאילו ניהלנו מרוץ משלנו\" • ולא מתנחם בכך שנמנע מפרישה: \"אלו אותן הבעיות\"",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21905100",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:22:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21904869",
-      "title": "רוסלנה רודינה בדמעות: \"לא מאמינה\"",
-      "summary": "בת זוגו לשעבר של אייל גולן פרסמה סדרת סטוריז לרגל יום הולדתו השניים עשר של בנה יאן. \"אני רוצה להודות לשם שנתן לי את הזכות\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21904869",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:21:05.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1gjjbgymg",
-      "title": "ילדותיות זו לא אסטרטגיה",
-      "summary": "לנסות ולכפות קונסטרוקציות פוליטיות ש״השותפים״ הפוליטיים שלך יכנעו להם מפני הפחד של בחירות נוספות זו לא אסטרטגיה פוליטית - זו סתם ילדותיות",
-      "link": "https://www.ynet.co.il/news/article/b1gjjbgymg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-22T10:18:53.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/b1gjjbgymg",
-      "title": "מפגני כוח חסרי בסיס או סיכוי",
-      "summary": "לנסות ולכפות קונסטרוקציות פוליטיות ש״השותפים״ הפוליטיים שלך יכנעו להם מפני הפחד של בחירות נוספות זו לא אסטרטגיה פוליטית - זו סתם ילדותיות",
-      "link": "https://www.ynet.co.il/news/article/b1gjjbgymg",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-22T10:18:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/design/article/21904779",
-      "title": "6 פתרונות גאוניים בבתים באירופה - שחייבים לאמץ בישראל",
-      "summary": "מעצב פנים שצבר מאות אלפי עוקבים ביוטיוב חושף את הפטנטים החכמים שכמעט כל דירה אירופית רגילה כבר מכירה • מהמטבח ועד המקלחת, אלה השדרוגים הקטנים שחוסכים כאב ראש יומיומי, ואת הראשון תרצו להזמין מהנגר כבר מחר",
-      "link": "https://www.israelhayom.co.il/lifestyle/design/article/21904779",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:15:59.000Z"
     }
   ]
 }
