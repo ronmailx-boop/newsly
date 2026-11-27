@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:30:59.958Z",
+  "updatedAt": "2026-11-27T10:45:51.916Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383963393",
+      "title": "רעידת אדמה במסדרונות כאן 11: תחקיר \"נוהל יתוש\" הצית אש מבית",
+      "summary": "הסערה סביב תחקיר \"זמן אמת\" מסרבת לדעוך ונפתחה עתה בתוך תאגיד השידור. אחרי שיגאל גואטה תקף את השידור בדמעות, קלמן ליבסקינד שובר שתיקה בטור חריף: \"חציית קו אדום וכתם על מצחו של השידור הציבורי\"",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383963393",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T10:41:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/security-news/khalil-al-hayya-son-targeted-gaza-strike",
+      "title": "ניסיון חיסול בעזה: בנו של ח'ליל אל-חיה נפגע בתקיפה - מצבו לא ידוע",
+      "summary": "תקיפה אווירית כוונה לדירת מגורים בשכונת רימאל • שישה נפצעו בדרגות שונות | מצבו של הבן האחרון שנותר בחיים לאל-חיה אינו ידוע (צבא וביטחון)",
+      "link": "https://www.kikar.co.il/security-news/khalil-al-hayya-son-targeted-gaza-strike",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T10:28:54.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/news/kafr-qasim-hit-and-run-racist-motive-suspect",
       "title": "המשטרה חושדת: דרס שמונה בני אדם בכפר קאסם ממניע גזעני",
       "summary": "בית משפט השלום בפתח תקווה האריך את מעצר החשוד בחמישה ימים • המשטרה: עלה חשד ראשוני שהנהג הגיע לעיר גם בעבר | הסנגור: מתמודד נפש במצב קשה (חדשות)",
@@ -39,6 +57,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-27T10:25:51.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/opinions-sport/article/21946186",
+      "title": "מי עושה צחוק ממי? התקשורת הפכה את אייל ברקוביץ' לבדיחה",
+      "summary": "הטאלנט מערוץ 13 ניחן לא רק בגזענות, בהיעדר ידע ובחפיפניקיות, אלא גם בעילגות • זה לא מונע מהחנפנים להריץ אותו לנבחרת ישראל, בזמן שהוא עצמו מזגזג • וגם: פיאסקו אדיר בהפועל חיפה",
+      "link": "https://www.israelhayom.co.il/sport/opinions-sport/article/21946186",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T10:19:11.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/politics/article-1392820",
@@ -57,6 +84,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-27T10:13:05.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21946341",
+      "title": "ראיה משמיים: הרחפן ששימש את הרוצחים ביפו הפך להוכחה נגדם",
+      "summary": "כתב אישום שהוגש נגד אחמד ובסאם סעדה בגין רצח אחמד שקרא באוגוסט האחרון, מסתמך בין היתר על ממצאים שהוצאו מרחפן שבעזרתו עקבו השניים אחר הקורבן • לאחר הרצח עזב אחד מהם את המדינה לירדן, אך נעצר לפי כשלושה שבועות • לשניים עבר פלילי והם ריצו עונשי מאסר בפועל",
+      "link": "https://www.israelhayom.co.il/news/crime/article/21946341",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T10:13:02.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/news/crime/article/21946341",
@@ -84,6 +120,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-27T10:08:41.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383963389",
+      "title": "איראן קורסת: \"הקמח ללחם מעורבב בקש לפרות, ומתקלקל מהר\"",
+      "summary": "מחירי המזון זינקו ביותר מ-110%, הריאל צנח והפסקות החשמל מתרבות. בעוד הנשיא פזשכיאן דוחף להסכם שיסיים את המלחמה, גורמים שמרניים דורשים להחריף את העימות עם ארה\"ב - וטראמפ מאיים בתקיפה נוספת",
+      "link": "https://www.walla.co.il/news/world/383963389",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T10:05:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/world/383963389",
@@ -1011,6 +1056,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-27T06:38:35.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rjfwcc8yqe",
+      "title": "6 מטפלים בפנימייה בנגב נעצרו בחשד להתעללות בחוסים: \"הצוות ידע והתעלם\"",
+      "summary": "לאחר חקירה סמויה שהתנהלה במשך מספר חודשים, עצרה המשטרה עובדים ועובדות בפנימיית \"קמר\" בכסייפה - שבה שוהים ילדים בסיכון בגילי 6 עד 12. גם מנהל הפנימייה נחקר, ובמשטרה טוענים: \"סבורים שיש התנהגות אלימה ממושכת כלפי קטינים, רואים את צוות המדריכים כאחראי\". מעצר החשודים הוארך",
+      "link": "https://www.ynet.co.il/news/article/rjfwcc8yqe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-27T06:36:47.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjfwcc8yqe",
@@ -33078,132 +33132,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T10:47:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1390994",
-      "title": "חמוץ זה לא יותר ויטמין C: שבעה דברים מפתיעים על פירות הדר | ד\"ר מאיה רוזמן",
-      "summary": "בפירות הדר יש הרבה ויטמין C, אבל יש גם כמה מיתוסים מוכרים כמו התגובה של אשכולית ותרופות - וגם המטרה של החוטים הלבנים על הקלמנטינה. זה כל מה שאתם צריכים לדעת על פירות החורף הטעימים",
-      "link": "https://www.maariv.co.il/news/health/article-1390994",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:44:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21905333",
-      "title": "ירדן הראל מגיבה לפרידה: \"זה לא דבר קל\"",
-      "summary": "מגישת הטלוויזיה שוברת שתיקה בסטורי אישי לעוקביה ומודה על התמיכה שקיבלה: \"לקחתי את הימים האחרונים לעצמי\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21905333",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:44:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/parking-garage-flooding-luxury-cars",
-      "title": "הסיוט של כל נהג: מכוניות יוקרה שקעו במים בשיטפון חריג",
-      "summary": "תוך דקות ספורות זרמו כמויות אדירות של מים במורד 4 קומות החניון בקליפורניה | נהגת אחת הצליחה להימלט ברגע האחרון, השאר גילו שהרכבים שלהם שקעו כמעט לחלוטין (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/parking-garage-flooding-luxury-cars",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T10:43:40.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21905267",
-      "title": "מותג הסקי הנחשק מאירופה מגיע לישראל - וזה לא יהיה זול",
-      "summary": "קבוצת סער משקיעה כשני מיליון שקל בהשקת GOLDBERGH, מותג אופנת הסקי והלייף סטייל ההולנדי שנלבש בין היתר על ידי מלאכיות ויקטוריה'ס סיקרט ומשפיעניות בינלאומיות • הפעילות תכלול אתר אונליין ושואו רום ייעודי בהרצליה פיתוח",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21905267",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:40:50.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/arab-news/hamas-turkey-intelligence-meeting",
-      "title": "בכירי חמאס התכנסו באיסטנבול: מי האיש החזק של ארדואן שנפגש איתם מאחורי הדלתות הסגורות?",
-      "summary": "בזמן שהדיונים על עתיד רצועת עזה נמשכים, חמישה מבכירי חמאס הגיעו לאיסטנבול ונפגשו עם ראש המודיעין הטורקי, איברהים קאלין • בין המשתתפים: ח'ליל אל־חיה, ח'אלד משעל וזאהר ג'בארין • על השולחן: הפסקת האש בעזה, יהודה ושומרון, ירושלים והיחסים בין הפלגים הפלסטיניים • הפגישה ממחישה את הקשר הישיר בין הנהגת ארגון הטרור לטורקיה, החברה בנאט\"ו (העולם הערבי)",
-      "link": "https://www.kikar.co.il/arab-news/hamas-turkey-intelligence-meeting",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T10:38:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21904087",
-      "title": "לא רק נטלי פורמן: 10 שחקנים מפורסמים שכיכבו בקולנוע כילדים",
-      "summary": "עוד לפני פרסי האוסקר ושוברי הקופות, חלק מהשחקנים המוכרים בהוליווד עמדו מול המצלמה כבר בגיל חד-ספרתי • נטלי פורטמן, כריסטיאן בייל, סקרלט ג'והנסון וריאן גוסלינג הם רק חלק מהרשימה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21904087",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:37:29.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/towdax",
-      "title": "הקרניים ננעלו: מאבק חריג התרחש לעיני תושבי השכונה",
-      "summary": "שני צבאים נצפו כשהם נלחמים בעוצמה בלב שכונת מגורים בוויסקונסין, בתיעוד שהופץ ברשת (מעניין)",
-      "link": "https://www.kikar.co.il/world-news/towdax",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T10:34:11.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21905125",
-      "title": "לצד רותם סלע: גיבור טיסת \"פליי דובאי\" קטף קמפיין",
-      "summary": "שבעה שבועות אחרי שעזר להשתלט על טייס המשנה ואחז בהגאים של מטוס צולל, האינסטלטור מנס ציונה עובר מהקוקפיט אל מול המצלמות • מי המותג שבחר בו, איך ישולב הסיפור מהטיסה בפרסומת וכמה כסף צפוי להיכנס לכיסו מהקמפיין",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21905125",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T10:33:56.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/towe1b",
-      "title": "10 דקות, מאה דולר: מסעדה עם נוף ייחודי עוררה סערה",
-      "summary": "מסעדת עוף בלאס וגאס דרשה תשלום גבוה ממבקרים שביקשו לצפות במרוץ הפורמולה 1 מחלונותיה (מעניין)",
-      "link": "https://www.kikar.co.il/world-news/towe1b",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T10:33:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390985",
-      "title": "מומחים לתזונה טוענים: ארוחת בוקר אחרי השעה 12 עשויה לגרום למחלות לב",
-      "summary": "מחקר שכלל יותר מ-31 אלף מבוגרים מצא קשר בין שעת הארוחה הראשונה ביום לבין הסיכון לתמותה. הממצאים הצביעו על פער של כמעט שנתיים וחצי בתוחלת החיים המוערכת, אך יש הסתייגות חשובה",
-      "link": "https://www.maariv.co.il/news/viral/article-1390985",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:32:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390985",
-      "title": "מומחים לתזונה טוענים: ארוחת בוקר אחרי השעה 12:00 עשויה לגרום לכם למחלות לב",
-      "summary": "מחקר שכלל יותר מ-31 אלף מבוגרים מצא קשר בין שעת הארוחה הראשונה ביום לבין הסיכון לתמותה. הממצאים הצביעו על פער של כמעט שנתיים וחצי בתוחלת החיים המוערכת, אך יש הסתייגות חשובה",
-      "link": "https://www.maariv.co.il/news/viral/article-1390985",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:32:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/viral/article-1390985",
-      "title": "שוב דילגתם על ארוחת הבוקר? המחיר עלול להיות כבד",
-      "summary": "מחקר שכלל יותר מ-31 אלף מבוגרים מצא קשר בין שעת הארוחה הראשונה ביום לבין הסיכון לתמותה. הממצאים הצביעו על פער של כמעט שנתיים וחצי בתוחלת החיים המוערכת, אך יש הסתייגות חשובה",
-      "link": "https://www.maariv.co.il/news/viral/article-1390985",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:32:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390984",
-      "title": "יממה לאחר רצח הילד בשועפאט: המשטרה סיכלה ניסיון להסלמה",
-      "summary": "יממה לאחר רצח הילד בן ה-10 בשועפאט, פשטו מסתערבים על מתחם בענאתא ותפסו 28 בקבוקי תבערה ותחמושת. ארבעה חשודים נעצרו, והמשטרה חוששת מנקמת דם",
-      "link": "https://www.maariv.co.il/news/law/article-1390984",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T10:32:51.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877193",
-      "title": "בן שמעון באימון הבכורה: \"לאלפי אוהדים של חיפה אין כסף לאוכל\"",
-      "summary": "עידן חדש במכבי חיפה. המאמן הטרי: \"יש מאות אלפי אוהדים שלחלקם אין כסף לאכול, אבל הם יקנו כרטיס כדי לראות אותנו\"",
-      "link": "https://sports.walla.co.il/item/3877193",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T10:32:00.000Z"
     }
   ]
 }
