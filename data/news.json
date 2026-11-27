@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:30:58.716Z",
+  "updatedAt": "2026-11-27T15:45:49.083Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,33 @@
     }
   ],
   "items": [
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21947527",
+      "title": "עידן עמדי מודה: \"יש דברים שאי אפשר לנער\"",
+      "summary": "בקטע חדש מתוך סיבוב ההופעות \"קרוב\", עידן עמדי מספר מה קורה כשחברים מנסים להחזיר פצוע לחיים, ואיך ערב אחד בבר הסתיים במפגש לא צפוי עם אישה זרה • איך ניסה לצאת מהמבוכה, למה זה לא עבד, ומה הוא מבין על זה היום",
+      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21947527",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T15:23:10.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383963414",
+      "title": "ממדאני הודיע שיפרק את יחידת ״התגובה האסטרטגית״ - והיא הוזעקה",
+      "summary": "כ־400 מפגינים התאספו מחוץ למעדנייה כשרה שאירחה אירוע נדל״ן ישראלי. ראש העיר ממדאני הורה להפעיל את היחידה המיוחדת שאת פירוקה הציג כמימוש הבטחת בחירות. הפירוק עצמו מתוכנן רק לאמצע פברואר",
+      "link": "https://www.walla.co.il/news/world/383963414",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T15:19:24.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383963353",
+      "title": "פרסומת ברשת NBC קראה להפסיק את הסיוע האמריקני לישראל",
+      "summary": "הפרסומת הציגה ילדה מעזה שאיבדה רגל וקראה לצופים לפנות לקונגרס כדי להתנגד לסיוע הצבאי לירושלים. מנכ״ל הוועד היהודי האמריקני דרש מהרשת להסביר מדוע אישרה את השידור",
+      "link": "https://www.walla.co.il/news/world/383963353",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T15:18:33.000Z"
+    },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/hjvcm1pyqg",
       "title": "עימות סוער לפני הבחירות שיכריעו את גורל רה\"מ האנטי-ישראלי: \"מה את חייבת לחמאס?\"",
@@ -2723,15 +2750,6 @@
       "pubDate": "2026-11-26T22:00:00.000Z"
     },
     {
-      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21916046",
-      "title": "מזל קשת, תחזית הורוסקופ שבועית, לשבוע של 27.11.2026 - 03.12.2026",
-      "summary": "אתם מרגישים צורך להתכנס כדי לקבל החלטות, כך תרגישו שאתם יכולים להתמודד עם משברים. שישי ושבת: אתם בוחרים להשתחרר מקשרים חונקים, לפגוש אנשים חדשים ולחוות חוויות חדשות",
-      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21916046",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-26T21:50:00.000Z"
-    },
-    {
       "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/capricorn/article/21916168",
       "title": "מזל גדי, תחזית הורוסקופ שבועית, לשבוע של 27.11.2026 - 03.12.2026",
       "summary": "שיקול הדעת משפיע על סדר היום. תנהלו משבר בעבודה, או משבר אישי זמני, שייפתר בקרוב",
@@ -2763,6 +2781,15 @@
       "title": "מזל אריה, תחזית הורוסקופ שבועית, לשבוע של 27.11.2026 - 03.12.2026",
       "summary": "תחושת האופוריה תתנגש במציאות. חפשו את דרך הביניים ואל תיסחפו",
       "link": "https://www.israelhayom.co.il/horoscopes/leo/article/21915875",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-26T21:50:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/horoscopes/sagittarius/article/21916046",
+      "title": "מזל קשת, תחזית הורוסקופ שבועית, לשבוע של 27.11.2026 - 03.12.2026",
+      "summary": "אתם מרגישים צורך להתכנס כדי לקבל החלטות, כך תרגישו שאתם יכולים להתמודד עם משברים. שישי ושבת: אתם בוחרים להשתחרר מקשרים חונקים, לפגוש אנשים חדשים ולחוות חוויות חדשות",
+      "link": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21916046",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-26T21:50:00.000Z"
@@ -31593,105 +31620,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T15:49:09.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383962576",
-      "title": "מי מנסה למנוע את שידור תחקיר הינוקא? ״המקור״ בהודעה חריגה",
-      "summary": "ימים לפני שידור התחקיר על הרב השנוי במחלוקת, ברשת 13 מדווחים על ניסיונות למנוע את פרסומו. למרות הלחצים, בערוץ מבהירים כי התחקיר ישודר כמתוכנן",
-      "link": "https://www.walla.co.il/entertainment/ontheagenda/383962576",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T15:45:37.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/politics/article/21908020",
-      "title": "התגובה החריפה למכתב של משפחת מורנו: \"אתה אויב שלי, לא אח שלי\"",
-      "summary": "משפחתו של סא\"ל עמנואל מורנו ז\"ל תקפה בחריפות את יו\"ר הכנסת מתן כהנא על היבחרו בתמיכת המפלגות הערביות • כעת, ארנון ראובני, חברו לצוות של ד' ממשפחת מורנו, הגיב למכתב במילים קשות במיוחד: \"אתם לא סמל לרקבון, אתם מבשרי המוות. הווייתכם היא בבואה שלמה של חמאס וחיזבאללה\"",
-      "link": "https://www.israelhayom.co.il/news/politics/article/21908020",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:44:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/books/article/21904143",
-      "title": "תעלומת הרצח שבה הגיבורה הראשית לא אומרת מילה",
-      "summary": "\"המטופלת השקטה\" הוא מותחן פסיכולוגי של הסופר אלכס מיכאלידס, שיצא ב-2019 והפך מייד לרב-מכר • האם הוא מצדיק את הבאזז סביבו? אלעד מרגי קרא ודירג",
-      "link": "https://www.israelhayom.co.il/culture/books/article/21904143",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:44:34.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21908274",
-      "title": "יש לנו תוכניות בשבילכם: הסדרות הישראליות המצליחות בהיסטוריה",
-      "summary": "30 שנה אחרי שהאו\"ם ציין לראשונה את \"יום הטלוויזיה\", קבלו רשימה של סדרות ישראליות שתוכלו למצוא על המסכים בכל רחבי העולם",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21908274",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:42:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21908036",
-      "title": "תנועת רגבים נגד דרישת הרשימה המשותפת: \"לא לעצור את האכיפה בנגב\"",
-      "summary": "במכתב דחוף ליועמ\"שית גלי בהרב־מיארה, דרשה התנועה לדחות את בקשת חברי הכנסת להקפיא את הליכי האכיפה נגד בנייה בלתי חוקית עד להקמת ממשלה חדשה • ברקע: פסיקת בג\"ץ מאוקטובר, שדחתה עתירה דומה של רע\"ם • בארגון מזהירים מפגיעה בשלטון החוק ומכניעה ללחצים פוליטיים",
-      "link": "https://www.israelhayom.co.il/news/local/article/21908036",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:40:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/other-sports/article/21906556",
-      "title": "פחד אמיתי: ספורטאים בכירים סופגים איומי רצח ממהמרים",
-      "summary": "גל חסר תקדים של התנכלויות מופנה כלפי רוכבי הסוסים המובילים בבריטניה • לטענתם גורמים אנונמיים מעבירים להם מסרים מלחיצים אחרי הפסדים במרוצים • חלקם נאלצו לקבל ליווי משטרתי ומאבטחים",
-      "link": "https://www.israelhayom.co.il/sport/other-sports/article/21906556",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:37:34.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391117",
-      "title": "זה קרה רק פעמיים בעבר: הציפור הנדירה שהתגלתה בישראל",
-      "summary": "ציפור שיר זעירה, שמקננת ביערות הטאיגה בצפון רוסיה ונודדת בדרך כלל לדרום-מזרח אסיה, התגלתה ע\"י צפרית בחורשה קטנה בנגב. התיעוד הנדיר משך צפרים וצלמים מכל רחבי הארץ",
-      "link": "https://www.maariv.co.il/news/israel/article-1391117",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T15:36:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news/towtok",
-      "title": "אחרי 4 שעות: הסתיימה הפגישה בין הליכוד ל'ישר' - זה הנושא המפתיע עליו שוחחו",
-      "summary": "אחרי כמעט ארבע שעות של שיחות משא ומתן בין נציגי הליכוד ו'ישר', הסתיימה הפגישה בין הצדדים | למרות אורך השיחות, מתברר כי הנושא העיקרי טרם עלה | הנושא המפתיע עליו שוחחו הצדדים - ועוד נושאים שעלו במהלך 4 שעות טעונות (חדשות)",
-      "link": "https://www.kikar.co.il/news/towtok",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T15:34:50.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/mumlazim/article/21908512",
-      "title": "המהפכה השקטה שמשנה את העבודה במעבדות",
-      "summary": "פעם, כדי להשיג קטע DNA מסוים, חוקרים היו משקיעים שבועות ולעיתים אפילו חודשים. היום אפשר להקליד את הרצף הרצוי במחשב, לשלוח אותו לייצור ותוך זמן קצר לקבל את ה- DNA המבוקש",
-      "link": "https://www.israelhayom.co.il/mumlazim/article/21908512",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T15:34:48.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962573",
-      "title": "פגישת ה\"אחדות\": חוק הגיוס, הרוטציה - והדרישה לגבי בן גביר",
-      "summary": "בתום 4 שעות הסתיימה ללא הסכמות פגישת נציגי ישר! והליכוד, בניסיון לפרוץ את המבוי הסתום בהרכבת הממשלה. בין הנושאים: סוגיות משפטיות וועדת חקירה",
-      "link": "https://www.walla.co.il/news/politics/383962573",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T15:34:05.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962573",
-      "title": "פגישת ה\"אחדות\": חוג הגיוס, הרוטציה - והדרישה לגבי בן גביר",
-      "summary": "בתום 4 שעות הסתיימה ללא הסכמות פגישת נציגי ישר! והליכוד, בניסיון לפרוץ את המבוי הסתום בהרכבת הממשלה. בין הנושאים: סוגיות משפטיות וועדת חקירה",
-      "link": "https://www.walla.co.il/news/politics/383962573",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T15:34:05.000Z"
     }
   ]
 }
