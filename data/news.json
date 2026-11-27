@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:15:46.373Z",
+  "updatedAt": "2026-11-27T11:27:02.316Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "walla:https://www.walla.co.il/news/world/383963400",
+      "title": "פרצת ענק: האקרים חדרו למערכות של חיל האוויר האמריקני",
+      "summary": "שלושה גורמים המעורים בפרטים אמרו לרויטרס כי האקרים פרצו למערכת המחשוב המרכזית של חיל האוויר. מידע צבאי רגיש עלול להיות בסכנה, וטרם התברר מי עומד מאחורי הפריצה",
+      "link": "https://www.walla.co.il/news/world/383963400",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T11:20:00.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/israel-news/cyber-attack-warning-hospitals-health-system-israe",
+      "title": "התרעה דחופה: חשש למתקפת סייבר על בתי החולים בסוף השבוע",
+      "summary": "הודעה דחופה הופצה הבוקר למוסדות הרפואיים • אינדיקציות להתארגנות לתקיפה רוחבית נגד מגזר הבריאות | הצוותים הונחו להגביר ערנות (בריאות)",
+      "link": "https://www.kikar.co.il/israel-news/cyber-attack-warning-hospitals-health-system-israe",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T11:18:33.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392837",
+      "title": "ממדאני כבר פירק את היחידה המיוחדת בניו יורק - אירוע אחד שינה את הכול",
+      "summary": "ראש עיריית ניו יורק הפעיל הכוח המיוחד שכבר הוריד מפעילות, בעקבות עימותים שפרצו בין מפגינים פרו־פלסטינים לבין מפגיני נגד מחוץ למעדניית \"אסן ניו יורק\". רבים בעיר טוענים לצביעות מצידו של ממדאני",
+      "link": "https://www.maariv.co.il/news/world/article-1392837",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T11:18:26.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/politics/article-1392832",
+      "title": "יעקב אשר בלם את מינוי סמוטריץ': חיים כץ משך את התפטרותו מתיק השיכון",
+      "summary": "לבקשת נתניהו, חיים כץ משך את התפטרותו מתיק השיכון לאחר התנגדות יו\"ר יהדות התורה יעקב אשר למינוי סמוטריץ'. המהלך מגיע בצל המגעים בין הסיעה לגוש השינוי",
+      "link": "https://www.maariv.co.il/news/politics/article-1392832",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T11:14:54.000Z"
+    },
     {
       "id": "walla:https://finance.walla.co.il/item/3877822",
       "title": "הזינוק והסכום שהישראלים בזבזו עד כה ביום השופינג הגדול",
@@ -102,6 +138,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-27T10:52:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383963393",
+      "title": "זעם מתוך כאן על תחקיר נוהל יתוש: \"אני מתבייש, נחצה קו אדום\"",
+      "summary": "הסערה סביב תחקיר \"זמן אמת\" מסרבת לדעוך ונפתחה עתה בתוך תאגיד השידור. אחרי שיגאל גואטה תקף את השידור בדמעות, קלמן ליבסקינד שובר שתיקה בטור חריף: \"חציית קו אדום וכתם על מצחו של השידור הציבורי\"",
+      "link": "https://www.walla.co.il/entertainment/ontheagenda/383963393",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T10:41:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/entertainment/ontheagenda/383963393",
@@ -32961,51 +33006,6 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-22T11:27:05.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/usa/article/21905519",
-      "title": "ה-AI זיהה דוריטוס כאקדח, התלמידים נאזקו - ותבעו את חברת האבטחה",
-      "summary": "ארבעה נערים ממרילנד הוקפו בידי שוטרים עם נשקים שלופים ונאזקו על הבטון מחוץ לתיכון, לאחר שמערכת בינה מלאכותית התריעה על איום - שהתברר כשגוי • כעת הם תובעים את המשטרה, בית הספר וחברת האבטחה",
-      "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21905519",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T11:26:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391014",
-      "title": "לא רק לנתניה - מאיפה בעולם מגיעים הכי הרבה עולים לישראל?",
-      "summary": "נתונים חדשים של משרד העלייה והקליטה והסוכנות היהודית חושפים מאילו מדינות הגיעו יותר מ-78 אלף עולים מאז 7 באוקטובר, אילו מדינות רשמו זינוק בעלייה השנה, ואיפה בוחרים העולים החדשים להתגורר",
-      "link": "https://www.maariv.co.il/news/israel/article-1391014",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T11:25:44.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/h1mmyelkql",
-      "title": "החלה פגישת המו\"מ של ישר והליכוד, אופיר כץ: \"מקווים שזה לא מראית עין\"",
-      "summary": "לקראת הפגישה בין אנשי איזנקוט לנציגי הליכוד במלון בהרצליה, רה\"מ נועד עם סמוטריץ' ובן גביר ל\"תיאום מהלכים\". אחרי ההודעה הארוכה של יו\"ר ביחד, שר האוצר עקץ: \"לא צריך 'להפוך כל אבן' - האחים שלכם כבר פה. בואו נקים ממשלת אחדות לאומית רחבה\". נציג הליכוד: \"מקווים למו\"מ אמיתי\"",
-      "link": "https://www.ynet.co.il/news/article/h1mmyelkql",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-22T11:17:16.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21905629",
-      "title": "דיווח: \"ליאל עבדה עשוי לעבור בינואר לליגה בכירה באירופה\"",
-      "summary": "ב\"סקיי\" פורסם כי הישראלי שמסיים חוזה בשארלוט בדצמבר מבוקש במספר קבוצות בליגת המשנה באנגליה, בהן וולבס • אלא שבשל ענייני אשרת עבודה, הוא עשוי לחתום ולעבור בהשאלה לליגה בכירה לחצי עונה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21905629",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T11:17:01.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962505",
-      "title": "החל מרתון המו\"מ עם הליכוד: \"להפסיק לתקוף את נתניהו\"",
-      "summary": "צוותי המשא ומתן של שתי המפלגות נפגשים בניסיון לבחון אפשרות להקמת ממשלה רחבה. בליכוד דורשים הסכמה על קווי יסוד משותפים והפסקת החרמות נגד נתניהו. בסביבת איזנקוט מבהירים: ממשלה בראשותו, ללא רוטציה",
-      "link": "https://www.walla.co.il/news/politics/383962505",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T11:16:24.000Z"
     }
   ]
 }
