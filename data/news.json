@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:45:50.785Z",
+  "updatedAt": "2026-11-27T07:01:12.294Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "kikar:https://www.kikar.co.il/police/lod-police-operation-weapons-seized-illegal-reside",
+      "title": "מבצע ענק בלוד: נתפסו נשק, רכבים גנובים ו-11 שוהים בלתי חוקיים",
+      "summary": "שוטרי מחוז מרכז ומג\"ב חשפו רובה עוזי ואקדח ברכבים עם לוחיות מזויפות • נגבו חובות של מעל מיליון ₪ ונעצרו 11 שוהים בלתי חוקיים | המבצע המשולב (משטרה)",
+      "link": "https://www.kikar.co.il/police/lod-police-operation-weapons-seized-illegal-reside",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T06:54:30.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/two-yeshiva-students-early-release-military-prison",
+      "title": "הישג: שני לומדי תורה ישתחררו הבוקר מהכלא הצבאי לפני תום תקופת המאסר",
+      "summary": "ישראל דורי מפורת יוסף ויוסף חיים דודו ישתחררו לאחר 5 ו-11 ימים • פעילות משפטית של 'חיי עולם' הביאה לקיצור המעצר | ההישג שהגיע בעקבות ההפגנה הסוערת בנתב\"ג (חדשות חרדים)",
+      "link": "https://www.kikar.co.il/haredim/two-yeshiva-students-early-release-military-prison",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T06:50:30.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383963364",
+      "title": "שוב חשד להתעללות בגן ילדים: גננת נעצרה לחקירה",
+      "summary": "המשטרה פתחה בחקירה בעקבות חשד לתקיפת פעוטות במסגרת חינוכית בחריש. הגננת, תושבת אום אל-פחם, נעצרה והועברה לחקירה, ובהתאם לממצאיה תבקש המשטרה להאריך את מעצרה",
+      "link": "https://www.walla.co.il/news/israel/383963364",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T06:45:25.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/kindergarten-teacher-arrested-harish-toddler-assau",
       "title": "המשטרה עצרה גננת מאום אל פחם בחשד לתקיפת פעוטות בחריש",
       "summary": "שוטרי תחנת עירון פתחו בחקירה בעקבות חשד לתקיפת פעוטות בגן ילדים בחריש • הגננת, תושבת אום אל פחם, נעצרה והועברה לחקירה | המשטרה תבקש להאריך את מעצרה (בארץ)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-27T06:42:24.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877805",
+      "title": "המהומות במשחק הפועל ב\"ש: גרסת גיאורגיה נגד הטורקים",
+      "summary": "משרד הפנים טען שאוהדי בשיקטאש נהגו באלימות עוד לפני כניסתם לאצטדיון והכחיש שהעימותים פרצו בעקבות הנפת דגלי פלסטין. שגריר ישראל: \"טרור בזירת הספורט\"",
+      "link": "https://sports.walla.co.il/item/3877805",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T06:39:00.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/rjfwcc8yqe",
@@ -156,6 +192,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-27T06:00:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1392709",
+      "title": "הוא יעשה הכל כדי שזה לא יקרה: הסיפור של איזנקוט מגולני שצריך להדאיג את נתניהו | בן כספית",
+      "summary": "איזנקוט מרגיש, כך אני מעריך, שהוא נלחם למעננו. הוא מבין את המשמעות של הישארות נתניהו בשלטון ויעשה הכל כדי שזה לא יקרה | בשרידי לשכת ראש הממשלה יש כבר אווירת סוף קורס, אבל זה לא הזמן להספיד את נתניהו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1392709",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T06:00:42.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/opinions/article-1392709",
@@ -408,6 +453,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-27T04:30:00.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/military/383963155",
+      "title": "המהלך האזורי של סוריה שמדאיג את המוסד ואמ\"ן",
+      "summary": "גופי הביטחון עוקבים בדאגה אחר הפעילות של טורקיה מסביב לישראל - ומתריעים מפני הניסיונות של נשיא סוריה א-שרע לקדם מהלכים צבאיים במרחב",
+      "link": "https://www.walla.co.il/news/military/383963155",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T04:01:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/military/383963155",
@@ -33717,132 +33771,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T07:02:38.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877158",
-      "title": "ממדאני שומע? ניו יורק לבשה חג לאבדיה - דיווח מיוחד מהגארדן",
-      "summary": "מדיסון סקוור גארדן הריע לכוכב הישראלי, והוא החזיר עם 20 נקודות והופעה טובה מול שורת הכוכבים בהיכל הכדורסל. הסיום הבהיר: לפורטלנד חסר את הקסם שהניקס גילתה",
-      "link": "https://sports.walla.co.il/item/3877158",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T07:00:00.000Z"
-    },
-    {
-      "id": "walla:https://sports.walla.co.il/item/3877158",
-      "title": "ערב מיוחד: אבדיה כבש את ניו יורק, פורטלנד לא ידעה לנצל זאת",
-      "summary": "מדיסון סקוור גארדן הריע לכוכב הישראלי, והוא החזיר עם 20 נקודות והופעה טובה מול שורת הכוכבים בהיכל הכדורסל. הסיום הבהיר: לפורטלנד חסר את הקסם שהניקס גילתה",
-      "link": "https://sports.walla.co.il/item/3877158",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T07:00:00.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/israel/383962453",
-      "title": "חילקה כספים ותוכן מסית: תיירת מטורקיה נעצרה בהר הבית",
-      "summary": "התיירת נעצרה במהלך סוף השבוע לאחר שעל פי החשד חילקה כספים למתפללים בהר הבית. במהלך הבדיקה עלה חשד כי החזיקה גם חומרים בעלי תוכן מסית. המשטרה בוחנת אם לבקש את הארכת מעצרה",
-      "link": "https://www.walla.co.il/news/israel/383962453",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T06:56:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21903110",
-      "title": "אחרי 5 שנות זוגיות: מיילי סיירוס התחתנה",
-      "summary": "כוכבת הפופ ובן זוגה, המוזיקאי מקס מורנדו, נישאו בטקס רומנטי בפאלם ספרינגס, בנוכחות בני משפחה • התמונות הראשונות מהאירוע כבר נחשפו, וגם הסיפור מאחורי הצעת הנישואים ביפן",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21903110",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:54:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/relationship/article/21903110",
-      "title": "אחרי 4 שנות זוגיות: מיילי סיירוס התחתנה",
-      "summary": "כוכבת הפופ ובן זוגה, המוזיקאי מקס מורנדו, נישאו בטקס רומנטי בפאלם ספרינגס, בנוכחות בני משפחה • התמונות הראשונות מהאירוע כבר נחשפו, וגם הסיפור מאחורי הצעת הנישואים ביפן",
-      "link": "https://www.israelhayom.co.il/lifestyle/relationship/article/21903110",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:54:21.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21903151",
-      "title": "\"לא מדובר במלחמת אין־ברירה\" - אלא אם כן אתם צופים בערוץ 14",
-      "summary": "בעוד ערוץ 14 מתופף בתופי המלחמה ומזהיר מפני תקיפה קרובה באיראן, פרשנים אחרים מצננים את ההתלהבות ומזכירים שהפעם דווקא יש ברירה • התקשורת שוב נגררת אחרי הנרטיב של לשכת נתניהו, בזמן שהשאלות החשובות נדחקות הצידה",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21903151",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:54:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/price-tag-attacks-judea-samaria",
-      "title": "גל \"תג מחיר\" ביהודה ושומרון: הצתות וגרפיטי 'נקמה' בארבעה כפרים",
-      "summary": "כוחות צה\"ל ומג\"ב הוזעקו במהלך הלילה לארבעה כפרים בעקבות הצתות וריסוס כתובות גרפיטי | המשטרה פתחה בחקירה, וצה\"ל פרסם גינוי חריף לאירועים והזהיר מפני הפגיעה בפעילות המבצעית (חדשות בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/price-tag-attacks-judea-samaria",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T06:52:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21903055",
-      "title": "ליגת העל היא תוכנית מגירה: דין דוד סימן יעד חדש",
-      "summary": "החלוץ הישראלי מתקרב לסיום חוזה ביפן ולא מקבל דקות • סוכנו דודו דהאן בודק עבורו את אופציות ב-MLS, כאשר קבוצה עם שחקנים ישראלים נבדקת • חזרה לישראל תגרום לירידה משמעותית בשכר, כאשר רק שתי קבוצות בארץ יוכלו לעמוד בסכומים הגבוהים",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21903055",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:50:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "title": "לאחר ביטול הטיסה - הזוג נאלץ להתחתן בשדה התעופה",
-      "summary": "זוג שהיה בדרכו ללאס וגאס כדי להתחתן נתקע בנמל התעופה באטלנטה בעקבות השבתת טיסות ארצית של ה-FAA • עם הינומה שנשלפה מתיק היד, ובגדי טיסה במקום חליפות, השניים נישאו בתחנת הרכבת של השדה • צפו",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:50:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "title": "הטיסות בוטלו - הזוג התחתן בשדה התעופה",
-      "summary": "זוג שהיה בדרכו ללאס וגאס כדי להתחתן נתקע בנמל התעופה באטלנטה בעקבות השבתת טיסות ארצית של ה-FAA • עם הינומה שנשלפה מתיק היד, ובגדי טיסה במקום חליפות, השניים נישאו בתחנת הרכבת של השדה • צפו",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:50:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "title": "צפו: הטיסות בוטלו - הזוג התחתן בשדה התעופה",
-      "summary": "זוג שהיה בדרכו ללאס וגאס כדי להתחתן נתקע בנמל התעופה באטלנטה בעקבות השבתת טיסות ארצית של ה-FAA • עם הינומה שנשלפה מתיק היד, ובגדי טיסה במקום חליפות, השניים נישאו בתחנת הרכבת של השדה",
-      "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21903071",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:50:47.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21903113",
-      "title": "נטע אלחמיסטר בדרך לכבוש את אמריקה - וזה הצעד הראשון שלה",
-      "summary": "אשת העסקים והדוגמנית השיקה את BYNETA באירוע נוצץ במיאמי, בנוכחות בכירות קבוצת לילית קוסמטיקה, משפיעניות וחברה טובה שהגיעה בהפתעה • במקביל, נפתח פופ-אפ ראשון של המותג בקניון היוקרתי Aventura, בדרך להתרחבות בשוק האמריקני",
-      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21903113",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:49:54.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/bigfoot-sasquatch-sightings",
-      "title": "היצור שמטיל אימה ביערות: ארה\"ב מפרסמת עדויות על המפלצת האגדית",
-      "summary": "דיווחים שהצטברו במשך עשרות שנים, עקבות עצומות ומפגש מסתורי של עובד ממשלתי: שירות היערות האמריקני פותח את הארכיון ומחזיר את אחת התעלומות המפורסמות בעולם (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/bigfoot-sasquatch-sightings",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T06:47:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21903093",
-      "title": "מי הדיווה של הפסטיגל?: כוכבי הפסטיגל חושפים הכל!",
-      "summary": "פגשנו את כוכבי ״טופ סיקרט פסטיגל״ לשאלון מיוחד, שבו הם נדרשו לחשוף מה הם באמת חושבים אחד על השני. התשובות? לא בטוח שכולם יאהבו אותן…",
-      "link": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21903093",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:46:41.000Z"
     }
   ]
 }
