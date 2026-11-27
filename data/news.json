@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:01:18.687Z",
+  "updatedAt": "2026-11-27T06:16:06.943Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,33 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392738",
+      "title": "סימן גם יעדים מול איראן: דונלד טראמפ הוכנס לתוך הבחירות בישראל",
+      "summary": "נשיא ארצות הברית דונלד טראמפ נשאל ע\"י כתב בנוגע ל\"הנהגה הבאה\" בישראל, התחמק, ועבר לדבר על איראן: \"אין להם צבא, הצבא שלהם הושמד, חיל האוויר שלהם נמחק\"",
+      "link": "https://www.maariv.co.il/news/world/article-1392738",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T06:00:52.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/opinions/article-1392709",
+      "title": "מלכודת ביביסטית אופיינית: גדי איזנקוט יעשה הכל כדי שזה לא יקרה | בן כספית",
+      "summary": "איזנקוט מרגיש, כך אני מעריך, שהוא נלחם למעננו. הוא מבין את המשמעות של הישארות נתניהו בשלטון ויעשה הכל כדי שזה לא יקרה | בשרידי לשכת ראש הממשלה יש כבר אווירת סוף קורס, אבל זה לא הזמן להספיד את נתניהו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1392709",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T06:00:42.000Z"
+    },
+    {
+      "id": "kikar:https://www.kikar.co.il/haredim/lando-hirsch-meeting-details-revealed",
+      "title": "מה היה בפגישה בין הגר\"ד לנדו להגרמ\"ה הירש, ומדוע 'יתד נאמן' לא סיקר?",
+      "summary": "הפגישה נמשכה כחצי שעה • גורם מעורה טוען כי בניגוד לדיווחים, שני המנהיגים כמעט שלא עסקו בפוליטיקה | עורך 'יתד נאמן' מבהיר: ההנחיה תגיע בהמשך (חרדים)",
+      "link": "https://www.kikar.co.il/haredim/lando-hirsch-meeting-details-revealed",
+      "source": "כיכר השבת",
+      "sourceKey": "kikar",
+      "pubDate": "2026-11-27T06:00:24.000Z"
+    },
+    {
       "id": "kikar:https://www.kikar.co.il/israel-news/givat-zeev-waste-facility-reopening-smoke-pollutio",
       "title": "סוף לזיהום העשן בגבעת זאב? המינהל האזרחי נכנע לדרישות ראש העיר",
       "summary": "המינהל האזרחי נענה לדרישות ראש העיר אסרף • מתקן פינוי הפסולת בבית ענאן ייפתח מחדש לשרת 22 כפרים | מוקד איכות סביבה אזורי חדש יוקם (חדשות חרדים)",
@@ -39,6 +66,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-27T05:55:28.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877790",
+      "title": "השרים בממשלת ארדואן מצאו את האשמים: הפועל באר שבע - והציונות",
+      "summary": "פוליטיקאים בטורקיה זיהו במהומות בבטומי הזדמנות לנגח את ישראל, גינו את כוחות הביטחון המקומיים והתעלמו מאלימות האוהדים",
+      "link": "https://sports.walla.co.il/item/3877790",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T05:55:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/united-airlines-pilot-suspended-terror-support-tsa",
@@ -93,6 +129,24 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-27T05:35:08.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/lifestyle/fashion/article/21939084",
+      "title": "חולצת בוהו עם טוויסט ובושם במהדורה מוגבלת: 5 פריטים לסופ\"ש",
+      "summary": "המעצבת רעות הראל עם חולצת בוהו בווייב רוקנרולי, בגולף מצאנו חנוכייה שהיא גם פריט עיצובי ועוד פריטים שעושים שמח בלב",
+      "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21939084",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T05:34:00.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/animals/article/21940727",
+      "title": "המדוזה שחיה לנצח: היצור שמצליח להחזיר את הזמן לאחור",
+      "summary": "היא קטנה, כמעט שקופה, ומסוגלת לעשות משהו שרוב בעלי החיים לא יכולים: לחזור משלב בוגר לשלב צעיר במחזור החיים • הכירו את מדוזת האלמוות, שמאתגרת את מה שחשבנו שאנחנו יודעים על הזדקנות",
+      "link": "https://www.israelhayom.co.il/tech/animals/article/21940727",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T05:31:00.000Z"
     },
     {
       "id": "kikar:https://www.kikar.co.il/world-news/trump-iran-mount-makhoush-nuclear-threat",
@@ -33816,15 +33870,6 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-22T06:17:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1390887",
-      "title": "פיצוץ בלב שכונת מגורים: רימון רסס הושלך בפתח תקווה",
-      "summary": "רימון רסס שהושלך לעבר לובי בניין מגורים בשכונת אם המושבות בפתח תקווה גרם לניפוץ ויטרינת הכניסה, אין נפגעים. במשטרה מעריכים כי מדובר באירוע פלילי שנועד להעביר מסר מאיים לאחד מדיירי הבניין",
-      "link": "https://www.maariv.co.il/news/law/article-1390887",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T06:14:30.000Z"
     }
   ]
 }
