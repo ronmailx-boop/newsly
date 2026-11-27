@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:00:54.090Z",
+  "updatedAt": "2026-11-27T16:15:48.565Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/rkhdzxd1qx",
+      "title": "\"מר טינדר\" נאשם באונס",
+      "summary": "הדוגמן סטפן-פייר טומלין, שזכה לכינוי זה לאחר שקיבל הכי הרבה החלקות ימינה ב-2017, נאשם באונס אישה במועדון המפורסם גרוצ'ו שבלב שכונת סוהו בלונדון",
+      "link": "https://www.ynet.co.il/news/article/rkhdzxd1qx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-27T16:07:59.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/politics/383963416",
+      "title": "ישראל נגד בכיר האו״ם: שורת טענות כוזבות נגד ישראל",
+      "summary": "מתאם הסיוע של האו״ם אמר ל־BBC כי 150 אלף אוהלים מוכנים להיכנס לרצועה, והצביע על קשיים מול ישראל ועל הפרעות מצד חמאס. שגריר ישראל לאו״ם טוען כי כמעט 65 אלף אוהלים כבר אושרו ולא הוכנסו ודורש תיקון פומבי",
+      "link": "https://www.walla.co.il/news/politics/383963416",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T15:57:16.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/weather/article-1392896",
       "title": "עשרה ימים בחודש אחד: הנתון החריג שמדאיג את חוקרי האקלים",
@@ -31467,69 +31485,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T16:16:20.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-11",
-      "title": "מחריד: בעט בילדה מול המצלמה | תיעוד של טיבי נפגש עם תומך טרור",
-      "summary": "פוליטיקה: ליברמן שולל ממשלת מיעוט | ירושלים: הפגנה סוערת נגד מעצר החתן | בית שמש: נער בעט בפעוטה ותועד | איראן: הפסקות חשמל יזומות בעקבות המלחמה | ירדן: טיבי נפגש עם תומכי חמאס | כבישים: נהג נתפס מסדר תפילין | תחזית: נאה ובהיר | והתיעוד: המבורגר באפגניסטן | צפו (היום בכיכר)",
-      "link": "https://www.kikar.co.il/ayom-bakikar/daily-news-roundup-israel-11",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T16:13:06.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/military/article-1391129",
-      "title": "המחקר שחושף את שינוי הגישה של צה\"ל בעזה - והמסר הברור שהועבר לחמאס",
-      "summary": "כוחות צה\"ל פעלו במשך יותר מ-12 שעות מעבר לקו הצהוב והשמידו תשתית תת-קרקעית. לפי מחקר מכון עמית, מאחורי המבצע עומד מסר רחב יותר לארגוני הטרור ברצועה",
-      "link": "https://www.maariv.co.il/news/military/article-1391129",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T16:09:43.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/business/article/21908503",
-      "title": "מזרחי טפחות רוצה להנגיש לכם את המניה: יפצל את המניה ביחס של 1:5",
-      "summary": "דירקטוריון הבנק אישר מהלך לפיצול מניות ביחס של 1:5, במטרה להרחיב את מעגל המשקיעים ולהגדיל את הסחירות בבורסה • בעלי המניות יקבלו חמש מניות תמורת כל מניה קיימת, ללא שינוי בשווי אחזקותיהם • המהלך כפוף לאישור האסיפה הכללית",
-      "link": "https://www.israelhayom.co.il/business/article/21908503",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T16:06:13.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21905941",
-      "title": "לקראת חלון ההעברות: המטרה המרכזית של מכבי תל אביב",
-      "summary": "הצהובים מכוונים לצרף שחקן בינואר ובמקביל סימנו כישרון ישראלי • הפצועים דני גרופר וכריסטיאן בליץ' יחזרו בשבועות הקרובים בהדרגה • יון ניקולסקו רק בחודש הבא",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21905941",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T16:02:54.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962579",
-      "title": "\"כדור אש אדיר\": פיצוץ עז השמיד ספינת מלחמה רוסית",
-      "summary": "הקורבטה \"מרקורי\", מהספינות החדשות בצי הרוסי, עלתה באש לפני עלות השחר בבסיס הימי בעיר. ממשלת מזרח לוב מעריכה שכלים בלתי מאוישים פגעו בה. רוסיה ואוקראינה לא הגיבו",
-      "link": "https://www.walla.co.il/news/world/383962579",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T16:02:07.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/world/383962579",
-      "title": "ספינת מלחמה רוסית ככל הנראה הושמדה בפיצוץ בנמל בנגזי בלוב",
-      "summary": "הקורבטה \"מרקורי\", מהספינות החדשות בצי הרוסי, עלתה באש לפני עלות השחר בבסיס הימי בעיר. ממשלת מזרח לוב מעריכה שכלים בלתי מאוישים פגעו בה. רוסיה ואוקראינה לא הגיבו",
-      "link": "https://www.walla.co.il/news/world/383962579",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T16:02:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/prince-william-royal-titles-reform-harry-meghan",
-      "title": "דרמה בבריטניה: הנקמה שמתכנן יורש העצר נגד אחיו - ברגע שיעלה לכס המלכות",
-      "summary": "יורש העצר הבריטי מגבש תוכנית לשינוי דרמטי במוסד המלוכה, ברגע שיקבל את הסמכויות כמלך הממלכה המאוחדת | למרות ואולי בגלל המעבר של הארי ומייגן לבריטניה, המלך לעתיד כבר מתכנן את המהלך הבא מול האח והגיסה המנוכרים (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/prince-william-royal-titles-reform-harry-meghan",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T16:01:08.000Z"
     }
   ]
 }
