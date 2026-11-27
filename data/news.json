@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:16:06.943Z",
+  "updatedAt": "2026-11-27T06:30:59.040Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,51 @@
     }
   ],
   "items": [
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1omu58kxe",
+      "title": "קוסטה ריקה סירבה להכניס את שליחת האו\"ם האנטי-ישראלית: \"קשרים לטרור\"",
+      "summary": "פרנצ'סקה אלבנזה, שבעבר השוותה את ישראל לנאצים, הגיעה לסן חוסה כדי לקבל תואר דוקטור לשם כבוד. בעקבות התראה בינלאומית לגביה, רשויות ההגירה מנעו את כניסתה. היא הגיבה: \"זו חרפה\". שגריר ישראל באו\"ם: \"מי שמנצלים את המנדט שלהם להפצת תעמולה נתעבת חייבים לתת את הדין\"",
+      "link": "https://www.ynet.co.il/news/article/h1omu58kxe",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-27T06:27:45.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/h1g00boij7e",
+      "title": "גננת נעצרה בחשד לתקיפת פעוטות בגן ילדים בחריש",
+      "summary": "גננת מאום אל פחם נעצרה בחשד שתקפה פעוטות בגן בעיר. המשטרה פתחה בחקירה בעקבות החשד, והגננת הועברה לחקירה. המשטרה צפויה לבקש להאריך את מעצרה",
+      "link": "https://www.ynet.co.il/news/article/h1g00boij7e",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-27T06:24:50.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/tech/space/article/21944803",
+      "title": "למרות התנגדות אמזון: המהלך הדרמטי של אילון מאסק בחלל",
+      "summary": "רשות התקשורת הפדרלית בארה\"ב (FCC) העניקה ל-SpaceX אישור מותנה לשיגור מערך של עד מיליון לוויינים שישמשו כחוות שרתים ל-AI במסלול סביב כדור הארץ • המהלך אושר למרות התנגדות עזה מצד אמזון ואסטרונומים - אך הדרך למימוש עוד רצופת אתגרים",
+      "link": "https://www.israelhayom.co.il/tech/space/article/21944803",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T06:10:42.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21944625",
+      "title": "אופ\"א הגיבה לראשונה: אלה האחראים לכאוס מול הפועל באר שבע",
+      "summary": "בתגובה לעימותים החריגים בין אוהדי בשיקטאש למשטרה נמסר: \"כל האחריות שייכת לרשויות\" • נשיא ההתאחדות הטורקית סתר את הטענות של הקבוצות: \"אנחנו אלה שסירבנו לארח רוצחי ילדים\"",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21944625",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-27T06:01:16.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1392738",
+      "title": "הצביע במפורש על יעד פוטנציאלי לתקיפה: טראמפ השיב על סוגית איום הגרעין מאיראן",
+      "summary": "נשיא ארצות הברית דונלד טראמפ נשאל ע\"י כתב בנוגע ל\"הנהגה הבאה\" בישראל, התחמק, ועבר לדבר על איראן: \"אין להם צבא, הצבא שלהם הושמד, חיל האוויר שלהם נמחק\"",
+      "link": "https://www.maariv.co.il/news/world/article-1392738",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T06:00:52.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392738",
       "title": "סימן גם יעדים מול איראן: דונלד טראמפ הוכנס לתוך הבחירות בישראל",
@@ -156,6 +201,15 @@
       "source": "כיכר השבת",
       "sourceKey": "kikar",
       "pubDate": "2026-11-27T05:29:41.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383963358",
+      "title": "באמצע הרחוב: בת 19 נרצחה בב\"ש",
+      "summary": "הצעירה נמצאה הלילה מוטלת וגוססת על הכביש בעיר. היא פונתה עם פציעות קשות של ירי לסורוקה, שם נקבע מותה. המשטרה פתחה בסריקות נרחבות",
+      "link": "https://www.walla.co.il/news/israel/383963358",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-27T05:28:17.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383963358",
@@ -444,6 +498,15 @@
       "source": "ynet",
       "sourceKey": "ynet",
       "pubDate": "2026-11-27T03:52:00.000Z"
+    },
+    {
+      "id": "ynet:https://www.ynet.co.il/news/article/yokra14971548",
+      "title": "הזינוק החד בפשיעה הלאומנית היהודית, והפער המרכזי: \"שב\"כ ממש לא באירוע\"",
+      "summary": "2026 טרם הסתיימה וכבר 267 פלסטינים נפגעו באירועי \"פשיעה לאומנית יהודית\", 7 מהם נהרגו. הנתונים מעידים על כישלון מערכתי: צה\"ל והמשטרה מתמודדים עם התוצאות בשטח, אך מתקשים למנוע את האירועים מראש. הפער המרכזי - בשב\"כ, שאמור להיות גורם מרכזי במניעת ההתארגנויות. גורם ביטחוני: \"הבעיה היא לא באנשי השב\"כ - אלא בהנחיות\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14971548",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-27T03:24:47.000Z"
     },
     {
       "id": "ynet:https://www.ynet.co.il/news/article/yokra14971548",
@@ -33771,105 +33834,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-22T06:35:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21902897",
-      "title": "ליונל מסי תקף שחקן יריב וחמק מהרחקה: \"לכל שחקן אחר זה אדום\"",
-      "summary": "כוכב אינטר מיאמי איבד שליטה במהלך התבוסה לקולומבוס קרו, והטיח כדור בפניו של גונסלו טאפיה • השופט הסתפק בכרטיס צהוב לשני השחקנים וחטף ביקורת • אוהדים שרקו בוז",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21902897",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:30:55.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/sjfbozl1mx",
-      "title": "יאיר נתניהו קרא לבטל את מעמד השפה הערבית. טיבי ענה: \"הגזענות היא שפת אב\"",
-      "summary": "ברקע הקמפיין של ראש הממשלה נגד החברה הערבית, כתב בנו: \"יש 22 מדינות שבהן הערבית היא שפה רשמית\". יו\"ר סיעת המשותפת הגיב: \"השפה הערבית תישאר\". ג'בארין: \"תעלה את ההצעה למושל פלורידה\"",
-      "link": "https://www.ynet.co.il/news/article/sjfbozl1mx",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-22T06:30:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/internet-culture/article/21902920",
-      "title": "אייל גולן סוגר חשבון עם בנו: \"הוא ישלם\"",
-      "summary": "אחרי שבועות של ניחושים, נחשפה זהותו של ליאם גולן ב\"הזמר במסכה\" • אביו מיהר להגיב בסרטון משעשע, סגר איתו חשבון על הסוד שהסתיר ממנו ולאחר מכן התקשה להסתיר את ההתרגשות",
-      "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21902920",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:30:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-soccer/article/21902912",
-      "title": "בשידור חי: שחקן נבחרת ארגנטינה התמוטט בראיון על הדשא",
-      "summary": "אחרי שהניף את גביע הסודאמריקנה, קפטן בוקה ג'וניורס לאנדרו פארדס התעלף, והתאושש לאחר קבלת טיפול • תנאי מזג האוויר במשחק בקולומביה היו קשים, עם כ-30 מעלות ו-80% לחות",
-      "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21902912",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:27:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/autonomous-parking-malfunction-china",
-      "title": "868 פעמים בלילה: המכונית המכושפת הטריפה את השומר",
-      "summary": "שעה שלוש לפנות בוקר הבחין שומר בחניון תת קרקעי בסין במחזה חריג במיוחד | מכונית חשמלית ריקה המשיכה לנוע שוב ושוב, בזמן שבעליה כלל לא היה בתוכה (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/autonomous-parking-malfunction-china",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T06:26:35.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21902865",
-      "title": "ארגון, נשק, והסתה: עלייה משמעותית בהתערבות חמאס מטורקיה ביו״ש",
-      "summary": "צה״ל מזהה עלייה חדה בקשר בין פעילי הארגון בטורקיה לחוליות בשטח, ובמקביל נעשים ניסיונות הסתה ברשתות החברתיות כדי להניע מפגעים יחידים • בין המפעילים יש משוחררי עסקת שליט שהורחקו לטורקיה ב־2011, ובהם זאהר ג׳בארין, שמשרד האוצר האמריקני תיאר כראש מערך הכספים של חמאס • גורם ביטחוני בכיר: \"הפעילות מטורקיה מוכרת לנו, אך לא בסדר גודל הזה\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21902865",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T06:22:52.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/military/383962448",
-      "title": "נפל בקרב או בתאונה? במשפחתו של אליאב נלחמים על האמת",
-      "summary": "משפחתו של הקצין, שנהרג בהתהפכות האמר בדרום לבנון, דרשה לחקור את נסיבות התאונה, אך בצבא הסתפקו רק בתחקיר מבצעי. כעת הוחלט לפתוח בחקירה פלילית. המשפחה טוענת כי נותרו שאלות ללא מענה בנוגע לנסיבות האירוע",
-      "link": "https://www.walla.co.il/news/military/383962448",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T06:21:07.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1390851",
-      "title": "כלבת במרכז הארץ: האזהרה הדחופה של משרד החקלאות",
-      "summary": "משרד החקלאות קורא למי שבא במגע עם כלבים משוטטים באזור כפר רות וכפר שמואל לפנות להערכת הצורך בטיפול מונע. ברקע: כלבה שאומצה ומתה לאחר טיפול וטרינרי, ועלייה במספר מקרי הכלבת בישראל",
-      "link": "https://www.maariv.co.il/news/health/article-1390851",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T06:18:23.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962447",
-      "title": "שיקלי במסר מסית: \"ענר עמד מול הרוע - ואמו קורעת את המדינה\"",
-      "summary": "השר עמיחי שיקלי העביר לח\"כ שירה שפירא, אמו של ענר ז\"ל, פוסט שמסית כנגדה ומשתמש בשכול האישי שלה כדי לתקוף אותה פוליטית: \"אמא מול בן\"",
-      "link": "https://www.walla.co.il/news/politics/383962447",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-22T06:17:57.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390890",
-      "title": "אחמד טיבי חגג את תוצאות הבחירות בירדן - אצל מי ששרף דגל ישראל",
-      "summary": "ח\"כ אחמד טיבי השתתף בארוחת ערב חגיגית בעמאן, שבה זכה להצדעה ולכינוי \"גיבור\" מצד חבר פרלמנט ירדני לשעבר. המארח שרף בעבר את דגל ישראל, פעל לביטול הסכם השלום ובירך על מתקפת חמאס ב-7 באוקטובר",
-      "link": "https://www.maariv.co.il/news/world/article-1390890",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T06:17:28.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1390890",
-      "title": "קבלת פנים חגיגית לאחמד טיבי בירדן - אצל מי ששרף את דגל ישראל",
-      "summary": "ח\"כ אחמד טיבי השתתף בארוחת ערב חגיגית בעמאן, שבה זכה להצדעה ולכינוי \"גיבור\" מצד חבר פרלמנט ירדני לשעבר. המארח שרף בעבר את דגל ישראל, פעל לביטול הסכם השלום ובירך על מתקפת חמאס ב-7 באוקטובר",
-      "link": "https://www.maariv.co.il/news/world/article-1390890",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-22T06:17:28.000Z"
     }
   ]
 }
