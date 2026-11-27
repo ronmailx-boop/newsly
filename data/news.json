@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:15:51.775Z",
+  "updatedAt": "2026-11-27T20:30:56.803Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,15 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/israel/article-1392930",
+      "title": "המהלך שמסעיר את חברי קיבוץ ניר עוז: ירדן ביבס - \"זה מרסק אותי\"",
+      "summary": "חברי קיבוץ הגישו ערעור על ההחלטה להעתיק את בתי העדות ומבקשים לצרף אליו עצומה נגד המהלך. מוקדם יותר קרא ירדן ביבס לשמר את הבתים: \"בבית הזה שרוצים להרוס היו לי חיים\"",
+      "link": "https://www.maariv.co.il/news/israel/article-1392930",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-27T19:37:26.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/israel/article-1392930",
       "title": "\"הריסתם תמחק עדות היסטורית\": חברים בניר עוז נאבקים על שימור הבתים",
@@ -30765,24 +30774,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-22T20:31:39.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/tox72l",
-      "title": "תאונה קשה בצפון: חמישה כלי רכב התנגשו, פצועים רבים בזירה",
-      "summary": "7 נפגעים פונו לבתי החולים בעקבות תאונת דרכים בין מספר כלי רכב, בהם משאית, בכביש 79 סמוך לצומת הזכוכית (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/tox72l",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-22T20:25:52.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21909877",
-      "title": "חצה את רף 100 מיליון הדולר: הסרט שממשיך לשגע את כל העולם",
-      "summary": "\"לראות את הכל\", העוסק בפרשת ההונאה של אליזבת הולמס, ממשיך לשבור שיאים בקופות ברחבי העולם • הסרט, שהופק בתקציב של כ-7 מיליון דולר בלבד, כבר הכניס יותר מ-102 מיליון דולר",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21909877",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-22T20:20:56.000Z"
     }
   ]
 }
