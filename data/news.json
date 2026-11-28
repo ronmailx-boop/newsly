@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:30:54.065Z",
+  "updatedAt": "2026-11-28T10:45:55.329Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,6 +32,15 @@
   ],
   "items": [
     {
+      "id": "ynet:https://www.ynet.co.il/news/article/ry879700yxx",
+      "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חברת החשמל, 3 נפצעו",
+      "summary": "בצה\"ל טוענים כי העבודות לתיקון עמוד חשמל בכפר באזור בנימין לא תואמו. המשטרה פתחה בחקירה",
+      "link": "https://www.ynet.co.il/news/article/ry879700yxx",
+      "source": "ynet",
+      "sourceKey": "ynet",
+      "pubDate": "2026-11-28T10:26:31.000Z"
+    },
+    {
       "id": "walla:https://www.walla.co.il/news/israel/383963300",
       "title": "המבצע הלא מאושר והרימונים באלטלנה: העדות הנדירה של עמוס חורב",
       "summary": "בעדות ארכיונית מ-1983 חשף אחרון מפקדי הפלמ\"ח הבכירים, שהלך לעולמו בגיל 102, את העצמאות שנטלו מפקדי חזית הדרום במלחמת העצמאות ואת העימות החריף מול בן גוריון והמטכ\"ל",
@@ -39,6 +48,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-28T10:26:21.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21949020",
+      "title": "רעולי פנים תקפו עובדי חברת חשמל בבנימין - שלושה נפצעו",
+      "summary": "השלושה, לפי דיווחים, הותקפו בעת שעבדו על תיקון עמוד חשמל בכפר אל-מוע'ייר • כוחות צה\"ל ולוחמי מג\"ב איו\"ש הוזעקו למקום והמשטרה פתחה בחקירה",
+      "link": "https://www.israelhayom.co.il/news/defense/article/21949020",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-28T10:24:35.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/travel/travelsinworld/383963443",
@@ -141,6 +159,15 @@
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21948904",
+      "title": "שוטרים מפרידים בין טורקים לישראלים - הפועל באר שבע טסה מאזור צדדי",
+      "summary": "מתיחות בשדה התעופה בבאטומי • אוהדי בשיקטאש קראו לעבר ישראלים, שסיפרו: \"השוטרים הגאורגים הודפים אותם בכוח\" • הקבוצה שהתה בנפרד לפני העלייה למטוס • המשחק מול מכבי נתניה בשני צפוי להתקיים כסדרו",
+      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21948904",
+      "source": "ישראל היום",
+      "sourceKey": "israelhayom",
+      "pubDate": "2026-11-28T09:38:34.000Z"
+    },
+    {
+      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21948904",
       "title": "הפרדה בין ישראלים לטורקים בטרמינל - טיסת הפועל באר שבע נדחתה",
       "summary": "מתיחות בשדה התעופה בבאטומי • אוהדי בשיקטאש קראו לעבר ישראלים, סיפרו: \"השוטרים הגאורגים הודפים אותם בכוח\" • טיסת הקבוצה נדחתה פעם נוספת, אחרי שבוטלה אתמול",
       "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21948904",
@@ -174,6 +201,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-28T09:31:03.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877874",
+      "title": "מפחיד: עימותים בין אוהדי ב״ש לאוהדים טורקים בשדה התעופה",
+      "summary": "בעוד הפועל ב\"ש נצורה באולם מבודד, מהומה פרצה בין שני מחנות האוהדים ונשמעו קריאות נגד ישראל. המשטרה הפרידה. צפו בתקרית",
+      "link": "https://sports.walla.co.il/item/3877874",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-28T09:29:17.000Z"
     },
     {
       "id": "walla:https://sports.walla.co.il/item/3877874",
@@ -321,7 +357,7 @@
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392962",
-      "title": "לא להשאיר מדינה שתוכל לעמוד מול ישראל\": האזהרה מטורקיה - והיעד הנוסף",
+      "title": "\"לא להשאיר מדינה שתוכל לעמוד מול ישראל\": האזהרה מטורקיה - והיעד הנוסף",
       "summary": "בכיר המודיעין הטורקי לשעבר טוען כי ישראל וארה\"ב מכוונות לא רק נגד איראן, אלא גם נגד טורקיה • הוא מזהיר מהתפשטות המלחמה למזרח הים התיכון, תוקף את מקרון ומצהיר: \"טורקיה היא גורם האיזון באזור\"",
       "link": "https://www.maariv.co.il/news/world/article-1392962",
       "source": "מעריב",
@@ -28380,231 +28416,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-23T10:46:00.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21912511",
-      "title": "\"עם דני אבדיה, פורטלנד בנתה את הקבוצה המושלמת\"",
-      "summary": "ב\"אתלטיק\" הפנו זרקור לפתיחת העונה של הטרייל בלייזרס, שעשתה את כל הפעולות הדרושות כדי לגרום לדמיאן לילארד להרגיש בנוח והדגישו את האולסטאר: \"בזכות תשומת הלב ההגנתית שאבדיה מושך, לילארד אימץ לראשונה בקריירה תפקיד של שחקן התקפה שמסוכן גם ללא הכדור, וזה משתלם לפורטלנד בגדול\"",
-      "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21912511",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:45:32.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391399",
-      "title": "החשש בדמוקרטים מהמהלך של איזנקוט: \"כולנו מודאגים\"",
-      "summary": "ח\"כ מיכל רוזין הודתה כי בדמוקרטים מודאגים מהעיכובים בהקמת הממשלה, ותקפה את המגעים לאחדות עם הליכוד: \"יש פה שקר אחדות\". לדבריה, גם אם נתניהו יסכים להיות שני ברוטציה, הוא יפרק את הממשלה",
-      "link": "https://www.maariv.co.il/news/politics/article-1391399",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:44:18.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/films/article/21912601",
-      "title": "הסוד החדש של הוליווד: זה המקום שממנו הכוכבים החדשים מגיעים",
-      "summary": "במאי \"מלחמת הכוכבים\" ריאן ג'ונסון מצביע על יוטיוב כקרש קפיצה ליוצרי קולנוע צעירים • לדבריו, הפלטפורמה פותחת בפניהם הזדמנויות חדשות להגיע למסך הגדול",
-      "link": "https://www.israelhayom.co.il/culture/films/article/21912601",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:42:14.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/knesset-director-general-appointment",
-      "title": "ממערך הקבורה ללשכת מנכ\"ל הכנסת: המינוי החדש של מתן כהנא",
-      "summary": "ועדת הכספים אישרה את מינויו של גל שם טוב למנכ\"ל הכנסת | שם טוב, בעל ניסיון בניהול מערך הקבורה ובמשרד לשירותי דת, יחליף את משה אדרי בתפקיד (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/knesset-director-general-appointment",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:42:11.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391398",
-      "title": "טרגדיה בחולון: גבר כבן 30 נספה בשריפה בבניין מגורים",
-      "summary": "שריפה פרצה בבניין מגורים בן שבע קומות ברחוב מעלות בחולון. צוותי מד\"א שהגיעו למקום מצאו גבר כבן 30 ללא סימני חיים: \"ראינו גבר כבן 30 שוכב כשהוא מחוסר הכרה ללא דופק וללא נשימה\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1391398",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:41:07.000Z"
-    },
-    {
-      "id": "walla:https://sheva7.walla.co.il/item/3877330",
-      "title": "\"אין שיקום בלי פירוק\": התנאי של יישובי העוטף לכניסה לממשלה",
-      "summary": "במכתב שעליו חתומים נציגי קיבוצים, רבש\"צים, חברי מליאות ונציגי קהילות בנגב המערבי, לצד \"פורום עוטף ישראל\", הם קוראים לקבוע כי פירוק חמאס ויתר ארגוני הטרור מנשקם ומשלטונם",
-      "link": "https://sheva7.walla.co.il/item/3877330",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-23T10:38:17.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21912698",
-      "title": "בגיל 62: הקריירה החדשה של צופית גרנט",
-      "summary": "לאחר שנים שבהן הקשיבה לסיפורים של אחרים על המסך, צופית גרנט־רנד מצטרפת לראשונה לצוות המרצים של המרכז האקדמי לוינסקי־וינגייט. החל מדצמבר הקרוב היא תוביל קורס חדש בשם \"מה הסיפור שלך\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21912698",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:37:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21912698",
-      "title": "אחרי שהתוכנית שלה ירדה מהמסך: הקריירה החדשה של צופית גרנט",
-      "summary": "לאחר שנים שבהן הקשיבה לסיפורים של אחרים על המסך, צופית גרנט־רנד מצטרפת לראשונה לצוות המרצים של המרכז האקדמי לוינסקי־וינגייט. החל מדצמבר הקרוב היא תוביל קורס חדש בשם \"מה הסיפור שלך\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21912698",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:37:39.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21912618",
-      "title": "בר זומר שנה אחרי הלידה: \"לא תדעי מה הסתתר\"",
-      "summary": "הדוגמנית ואשת העסקים שהביאה לעולם את בתה השנייה רני לפני שנה, מסכמת תקופה מורכבת. \"אין סוף ניסיונות לעזור, רגעים שבהם הייתי נותנת הכל רק כדי לקחת ממך את הכאב\"",
-      "link": "https://www.israelhayom.co.il/forreal/localy/article/21912618",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:36:55.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/why-was-my-husband-killed-committee-clash-bereaved",
-      "title": "\"לשם מה בעלי נהרג?\" | מהומה בוועדה המסדרת ועימות עם משפחות שכולות",
-      "summary": "משפחות שכולות הגיעו לדיון בוועדת החוקה הזמנית ודרשו להשמיע את דבריהן לפני ההצבעה על ביטול החוק לשינוי הרכב הוועדה לבחירת שופטים | ח\"כ אלמוג כהן הוצא מהדיון לאחר שהתערב לטובתן | תיעוד (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/why-was-my-husband-killed-committee-clash-bereaved",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:36:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/why-was-my-husband-killed-committee-clash-bereaved",
-      "title": "\"לשם מה בעלי נהרג?\" | המהומה בוועדה המסדרת והעימות עם המשפחות השכולות",
-      "summary": "משפחות שכולות הגיעו לדיון בוועדת החוקה הזמנית ודרשו להשמיע את דבריהן לפני ההצבעה על ביטול החוק לשינוי הרכב הוועדה לבחירת שופטים | יו\"ר הוועדה רועי פולקמן מנע תחילה את כניסתן, ובהמשך הוצע להן לדבר רק לאחר ההצבעה | ח\"כ אלמוג כהן הוצא מהדיון לאחר שהתערב לטובתן | תיעוד (פוליטי)",
-      "link": "https://www.kikar.co.il/political-news/why-was-my-husband-killed-committee-clash-bereaved",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:36:45.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-missile-range-4500-km",
-      "title": "איום חדש מטהרן: טווח הטילים הבליסטיים זינק ל-4,500 ק\"מ",
-      "summary": "אחרי שנים שבהן הצהירה איראן על מגבלת טווח, בכיר בפרלמנט חושף שינוי דרמטי ביכולות הטילים ומעביר מסר מאיים למערב ולישראל (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-missile-range-4500-km",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:35:42.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/iran-missile-range-4500-km",
-      "title": "מטהרן ועד אירופה | בכיר איראני חושף את הטווח החדש של הטילים: 4,500 קילומטרים",
-      "summary": "אחרי שנים שבהן הצהירה איראן על מגבלת טווח, בכיר בפרלמנט חושף שינוי דרמטי ביכולות הטילים ומעביר מסר מאיים למערב ולישראל (חדשות בעולם)",
-      "link": "https://www.kikar.co.il/world-news/iran-missile-range-4500-km",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:35:42.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1391393",
-      "title": "חשש בנאט\"ו: רוסיה נערכת לשגר לוויין חמוש בנשק גרעיני לחלל עוד השנה",
-      "summary": "בתחקיר משותף של רשתות שידור גרמניות פורסם כי שירותי המודיעין של כמה ממדינות נאט\"ו מעריכים שרוסיה נערכת לשגר לחלל לוויין חמוש בראש נפץ גרעיני - ייתכן שכבר בדצמבר",
-      "link": "https://www.maariv.co.il/news/world/article-1391393",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:34:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/israel-news/modilin-hyena-panic-wildlife-invades-cities",
-      "title": "פאניקת הצבוע במודיעין: אלו חיות הבר שפשטו על הערים - וזו הסיבה לכך",
-      "summary": "בימים האחרונים השיח הציבורי עוסק בהתפשטות חיות הבר בחוצות הערים בישראל, לאחר שצבוע טרף כלב בעיר מודיעין, זאת לאחר שתועד בעיר מספר שבועות קודם לכן | יצאנו לבדוק מיהם בעיקר חיות הבר שפלשו לערי ישראל, ומהן הסיבות לכך? (בארץ)",
-      "link": "https://www.kikar.co.il/israel-news/modilin-hyena-panic-wildlife-invades-cities",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:34:25.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/defense/article/21912363",
-      "title": "מתחת לאף של המודיעין: בזמן שחוליות הטרור נכשלות - כך חמאס מגייס מפגעים",
-      "summary": "לאחר שורת סיכולים של צה\"ל, ארגון הטרור מנסה להגביר את פעילותו ברשתות החברתיות במטרה לעודד פיגועי יחידים ביהודה ושומרון • בדיקה של חמ\"ל המידע JSR חושפת כיצד ערוצי טלגרם עם מאות אלפי עוקבים מפיצים סרטוני פיגועים, מהללים מחבלים וקוראים לאלימות • גורם ביטחוני בכיר מזהיר: \"קשה יותר לאתר מפגע שפועל לבדו לפני הפיגוע\"",
-      "link": "https://www.israelhayom.co.il/news/defense/article/21912363",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:34:04.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/world-news/middle-east/article/21912559",
-      "title": "המתקפה בלוב: אוקראינה פגעה בספינה איראנית",
-      "summary": "אוניית התובלה \"אלבן\" נפגעה מכשב\"ם ונזק כבד נגרם לסיפון, אך היא לא טבעה • בסרטון נראים עובדי נמל מנסים לכבות את השריפה על כלי השיט • על פי חלק מהדיווחים, הספינה שימשה גם את משמרות המהפכה",
-      "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21912559",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:33:14.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/syw33rzyxl",
-      "title": "הוקמו הוועדות החדשות של גוש איזנקוט: העומדים בראש, החוקים הסוערים והמחאה בכנסת",
-      "summary": "יאיר גולן דוחק להפסיק את המו\"מ עם הליכוד, אך הצוותים ייפגשו שוב בכנסת. מנסור עבאס קיבל ועדה, גם יו\"ר המשותפת ג'בארין. מנכ\"ל חדש מונה לכנסת, משפחות שכולות מחו בוועדות. 6 חוקים יעלו השבוע בטרומית: ועדת חקירה ממלכתית - וגם מניעת המעצרים שנועד לסכל ממשלת איזנקוט-חרדים",
-      "link": "https://www.ynet.co.il/news/article/syw33rzyxl",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-23T10:32:53.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391390",
-      "title": "הסערה סביב מתן כהנא: המפקד של עמנואל מורנו מגיב",
-      "summary": "גיורא לוי, מפקדם לשעבר של בנט, כהנא ועמנואל מורנו, התייחס ב-103fm למכתב שפרסמו חלק מבני משפחת מורנו נגד יו\"ר הכנסת החדש, סיפר על האיומים שהוא מקבל וחשף את התנאים לממשלת אחדות",
-      "link": "https://www.maariv.co.il/news/politics/article-1391390",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:32:40.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391390",
-      "title": "המפקד של בנט, כהנא ועמנואל מורנו מגיב לסערה: \"זה קשה ועצוב\"",
-      "summary": "גיורא לוי, מפקדם לשעבר של בנט, כהנא ועמנואל מורנו, התייחס ב-103fm למכתב שפרסמו חלק מבני משפחת מורנו נגד יו\"ר הכנסת החדש, סיפר על האיומים שהוא מקבל וחשף את התנאים לממשלת אחדות",
-      "link": "https://www.maariv.co.il/news/politics/article-1391390",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:32:40.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/world-news/mississippi-ship-captain-collision-rescue-story",
-      "title": "\"חשבתי שאנשים עומדים למות, התפללתי לא-לוקים\": רב החובל משחזר את רגעי האימה",
-      "summary": "בריאיון לניו יורק טיימס חוזר לן סטיוארט, קברניט ספינת התענוגות ששקעה בנהר המיסיסיפי, לשניות שבהן הבין שההתנגשות בלתי נמנעת, לתפילה שנשא כשמצא את עצמו במים ולרגע המרגש שבו התברר שכל הנעדרים אותרו (בעולם)",
-      "link": "https://www.kikar.co.il/world-news/mississippi-ship-captain-collision-rescue-story",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T10:31:29.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21912696",
-      "title": "הדיון שחשף פרטים חדשים: ההתפתחות בחשד להתעללות בתינוקת",
-      "summary": "מעצרם של ההורים מבאר יעקב הוארך בשלושה ימים לאחר שבית המשפט קבע כי קיים חשד סביר שפגעו בבתם בת שלושת החודשים • ההורים מכחישים, וסנגורם טוען כי האם פנתה מיוזמתה לטיפול רפואי • השופט הזהיר ממסוכנות אפשרית גם לילדם הנוסף",
-      "link": "https://www.israelhayom.co.il/news/local/article/21912696",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T10:31:18.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391386",
-      "title": "סדקים ביהדות התורה: המוקש שהונח במגעים עם איזנקוט",
-      "summary": "יהדות התורה וש\"ס מקדמות שתי הצעות חוק להקפאת מעצרי עריקים, בדיוק כשהמגעים עם גוש השינוי בעיצומם. בגוש השינוי מאשימים את הליכוד ב\"הטרלות\", ובג\"ץ כבר ביטל בספטמבר חוק דומה",
-      "link": "https://www.maariv.co.il/news/politics/article-1391386",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:30:55.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391386",
-      "title": "\"אין לליכוד רוב - נשאר להם להטריל ופופוליזם\": חוקי הקפאת מעצרי עריקים שמקודמים בכנסת",
-      "summary": "יהדות התורה וש\"ס מקדמות שתי הצעות חוק להקפאת מעצרי עריקים, בדיוק כשהמגעים עם גוש השינוי בעיצומם. בגוש השינוי מאשימים את הליכוד ב\"הטרלות\", ובג\"ץ כבר ביטל בספטמבר חוק דומה",
-      "link": "https://www.maariv.co.il/news/politics/article-1391386",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:30:55.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/politics/article-1391386",
-      "title": "\"מלכודת פוליטית\": החשש בגוש השינוי מההצבעה על מעצרי העריקים בעיצום המגעים עם החרדים",
-      "summary": "יהדות התורה וש\"ס מקדמות שתי הצעות חוק להקפאת מעצרי עריקים, בדיוק כשהמגעים עם גוש השינוי בעיצומם. בגוש השינוי מאשימים את הליכוד ב\"הטרלות\", ובג\"ץ כבר ביטל בספטמבר חוק דומה",
-      "link": "https://www.maariv.co.il/news/politics/article-1391386",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T10:30:55.000Z"
     }
   ]
 }
