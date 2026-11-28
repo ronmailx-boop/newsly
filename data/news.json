@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:31:05.350Z",
+  "updatedAt": "2026-11-28T06:45:45.070Z",
   "sources": [
     {
       "key": "ynet",
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1392990",
+      "title": "דקירה בסכין יפנית: 3 צעירים תקפו אדם בקריית גת - וסחטו ממנו 20 אלף ש\"ח",
+      "summary": "תושב הדרום הותקף על ידי שלושה צעירים בקריית גת, שסחטו ממנו באיומים 20 אלף ש\"ח. החשודים נחקרו ושניים מהם שוחררו, מעצרו של השלישי הוארך: \"מעצם העבירה המיוחסת לו עולה גם מסוכנות\"",
+      "link": "https://www.maariv.co.il/news/law/article-1392990",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-28T06:33:48.000Z"
+    },
+    {
+      "id": "walla:https://sports.walla.co.il/item/3877858",
+      "title": "לא עוצר: אבדיה שוב סיפק הצגה, פורטלנד העפילה לרבע הגמר",
+      "summary": "עם עוד שורה מרשימה של 26 נקודות, שבעה ריבאונדים ושבעה אסיסטים, אבדיה בלט ב-94:116 על גולדן סטייט. פורטלנד תפגוש בשלב הבא את ממפיס",
+      "link": "https://sports.walla.co.il/item/3877858",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-28T06:18:19.000Z"
+    },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1392989",
       "title": "במחנה האנטי-ציוני מודאגים מהמצב: \"הצטרפות ערבים לממשלה - התפתחות מסוכנת\"",
@@ -93,6 +111,15 @@
       "source": "מעריב",
       "sourceKey": "maariv",
       "pubDate": "2026-11-28T05:30:31.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/tech/science/383962756",
+      "title": "״הם מתגרים בנו״: העב״ם שהקדים את טייסי הקרב לנקודת המפגש",
+      "summary": "קבלן לשעבר של הפנטגון חזר לתקרית ״טיק טק״, שבה טייסי קרב דיווחו על עצם לבן שנעלם לנגד עיניהם. פרט אחד בעדות לקונגרס עומד במרכז התיאוריה שלו על מה שחייזרים מחפשים בכדור הארץ",
+      "link": "https://www.walla.co.il/tech/science/383962756",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-28T05:28:00.000Z"
     },
     {
       "id": "israelhayom:https://www.israelhayom.co.il/sport/world-basketball/article/21948464",
@@ -237,6 +264,15 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-28T03:42:34.000Z"
+    },
+    {
+      "id": "walla:https://www.walla.co.il/news/israel/383963434",
+      "title": "אל תתנו לאובך לבלבל אתכם - החורף בדרך | התחזית",
+      "summary": "מזג האוויר היום יהיה יבש עם מעט עננות גבוהה, והטמפרטורות יהיו גבוהות מהממוצע לעונה. בצפון הארץ ינשבו רוחות מתונות עד ערות וייתכן אובך קל. במישור החוף המרכזי והדרומי תעלה הלחות",
+      "link": "https://www.walla.co.il/news/israel/383963434",
+      "source": "וואלה",
+      "sourceKey": "walla",
+      "pubDate": "2026-11-28T03:30:00.000Z"
     },
     {
       "id": "walla:https://www.walla.co.il/news/israel/383963434",
@@ -29910,87 +29946,6 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-23T06:50:19.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/healthy/myhealth/383962619",
-      "title": "הרגל המטבח התמים שמכניס חיידקים ישר לצלחת שלכם",
-      "summary": "קרש החיתוך פוגש עוף נא, ירקות ולחם, אבל שטיפה מהירה לא תמיד מספיקה. כך מנקים אותו נכון, מונעים זיהום צולב ומזהים מתי צריך להחליף",
-      "link": "https://www.walla.co.il/healthy/myhealth/383962619",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-23T06:45:25.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/healthy/myhealth/383962619",
-      "title": "הטעות שכולנו עושים בקרש החיתוך שגורמת להעברת חיידקים לאוכל",
-      "summary": "קרש החיתוך פוגש עוף נא, ירקות ולחם, אבל שטיפה מהירה לא תמיד מספיקה. כך מנקים אותו נכון, מונעים זיהום צולב ומזהים מתי צריך להחליף",
-      "link": "https://www.walla.co.il/healthy/myhealth/383962619",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-23T06:45:25.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1391279",
-      "title": "סערה בניו יורק: המהלך נגד ראש העיר היהודי שזוהראן ממדאני מגבה",
-      "summary": "יוזמה של חברי מועצה פרוגרסיבים בניו יורק מבקשת להסיר את שמו של ראש העיר לשעבר אד קוץ' מגשר קווינסבורו. ההצעה נמשכה לפי שעה, אך תומכיה מתכננים להגיש אותה מחדש עוד השנה",
-      "link": "https://www.maariv.co.il/news/world/article-1391279",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T06:41:59.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1391279",
-      "title": "בחסות ממדאני: ההצעה האנטישמית שתעלה בניו יורק - והתירוץ ההזוי",
-      "summary": "יוזמה של חברי מועצה פרוגרסיבים בניו יורק מבקשת להסיר את שמו של ראש העיר לשעבר אד קוץ' מגשר קווינסבורו. ההצעה נמשכה לפי שעה, אך תומכיה מתכננים להגיש אותה מחדש עוד השנה",
-      "link": "https://www.maariv.co.il/news/world/article-1391279",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T06:41:59.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/aviation/article/21903452",
-      "title": "שדה ש\"נעלם\" בים ומסלול שנגמר במצוק: 6 נמלי התעופה הכי ביזאריים בעולם",
-      "summary": "כביש שחוצה מסלול המראה, נחיתה לצד אריות, מגרש גולף בין מסלולים פעילים ומטוסים שחולפים בגובה נמוך מעל חוף רחצה • אלו נמלי התעופה הכי מוזרים שיש ברחבי הגלובוס",
-      "link": "https://www.israelhayom.co.il/travel/aviation/article/21903452",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T06:40:49.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21910638",
-      "title": "אבטחה גדולה סביב אוהדי הפועל באר שבע: \"יש קצת חשש\"",
-      "summary": "האלופה תתארח אצל בשיקטאש בבטומי לעיני קרוב ל-15 אלף טורקים • כ-200 ישראלים ילוו את הקבוצה וקיבלו הנחיות מיוחדות, אחד מהם סיפר: \"אם נעשה מה שיגידו לנו, אנחנו מאמינים שיהיה בסדר\" • המועדון נקט בצעד מיוחד לקראת הנסיעה",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21910638",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T06:36:56.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21910640",
-      "title": "מפציעה בצה\"ל למיזם בינלאומי: הרעיון שכבש את עולם האופנה הבינלאומי",
-      "summary": "שי סניור נפצע בידו במהלך שירותו הצבאי והתקשה לבצע פעולה פשוטה: להתלבש לבד • הקושי האישי הוביל להקמת PALTA, מיזם לפיתוח והנגשת בגדים לאנשים עם מוגבלויות, שמשך את תשומת לבן של נייקי וראלף לורן",
-      "link": "https://www.israelhayom.co.il/news/local/article/21910640",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T06:34:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/law/article-1391277",
-      "title": "השוטרים עצרו רכב לבדיקה - ונדהמו לגלות מה הסתתר במעיל הנוסע",
-      "summary": "במהלך בדיקת רישיונות סמוך ליישוב כאבול, הבחינו השוטרים בחפץ חשוד שבצבץ ממעילו של נוסע בן 20. בבדיקה התברר כי מדובר במטעני חבלה קטלניים. בתום החקירה הוגש נגדו כתב אישום",
-      "link": "https://www.maariv.co.il/news/law/article-1391277",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T06:31:53.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/culture/tv/article/21909972",
-      "title": "מאיה בצלאל עשתה מעבר חד - אבל נשארה באותו מקום",
-      "summary": "מאיה בצלאל השיקה בקשת 12 את רצועת הצהריים החדשה שלה, שמבטיחה להתרחק מהחדשות ולהתמקד בבידור וברכילות • אלא שבמבחן התוצאה, \"במעבר חד\" נראית דומה להפליא למתחרה שלה ברשת 13",
-      "link": "https://www.israelhayom.co.il/culture/tv/article/21909972",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T06:31:47.000Z"
     }
   ]
 }
