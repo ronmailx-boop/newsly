@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T11:30:53.808Z",
+  "updatedAt": "2026-11-28T11:45:55.207Z",
   "sources": [
     {
       "key": "ynet",
@@ -32,9 +32,27 @@
   ],
   "items": [
     {
+      "id": "maariv:https://www.maariv.co.il/news/law/article-1393042",
+      "title": "תיקנו עמוד חשמל בבנימין והותקפו בידי רעולי פנים",
+      "summary": "שלושה עובדי חברת החשמל מזרח ירושלים נפצעו קל לאחר שהותקפו, על פי החשד, בעת תיקון עמוד חשמל בכפר אל-מוע'ייר. למעריב נודע כי בזמן התקיפה לא נכחו כוחות צבא באזור. המשטרה חוקרת",
+      "link": "https://www.maariv.co.il/news/law/article-1393042",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-28T11:35:31.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/viral/article-1393041",
+      "title": "אישה בגרמניה בכתה על ספסל בפארק - וקיבלה קנס של 25 אירו",
+      "summary": "סטודנטית בת 31 הלכה לפארק בגרמניה כדי לבכות ולפרוק את הלחצים בחייה בשיחת טלפון - וקיבלה קנס על שהייה במקום: \"איפה האנושיות בזה? הם יכלו להסביר בנימוס\"",
+      "link": "https://www.maariv.co.il/news/viral/article-1393041",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-28T11:30:47.000Z"
+    },
+    {
       "id": "israelhayom:https://www.israelhayom.co.il/forreal/localy/article/21949053",
       "title": "אופירה אסייג על הזוגיות שלה: \"זה מורכב\"",
-      "summary": "המנחה והמגישה, שלאחר גירושיה מנהלת זוגיות בפרק ב' עם איש העסקים גיל שביט, סיפקה הצצה כנה שמעידה שלא תמיד זה פשוט",
+      "summary": "המנחה והמגישה, שלאחר גירושיה מנהלת זוגיות בפרק ב' עם איש העסקים גיל שביט, מודה בכנות שלא תמיד זה פשוט",
       "link": "https://www.israelhayom.co.il/forreal/localy/article/21949053",
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
@@ -129,6 +147,15 @@
       "source": "וואלה",
       "sourceKey": "walla",
       "pubDate": "2026-11-28T10:21:20.000Z"
+    },
+    {
+      "id": "maariv:https://www.maariv.co.il/news/world/article-1393033",
+      "title": "לא רק מתקני הגרעין: פומפאו מסמן את המטרות הבאות באיראן",
+      "summary": "מייק פומפאו מעריך כי המצור שמטילה ארה\"ב על איראן יוביל להסלמה צבאית שבה תהיה מעורבת גם ישראל: \"ישראל ומדינות המפרץ יגיעו למסקנה שלא נאפשר זאת\". הוא דיבר גם על הצעדים שכדאי לטראמפ לנקוט",
+      "link": "https://www.maariv.co.il/news/world/article-1393033",
+      "source": "מעריב",
+      "sourceKey": "maariv",
+      "pubDate": "2026-11-28T10:21:16.000Z"
     },
     {
       "id": "maariv:https://www.maariv.co.il/news/world/article-1393033",
@@ -27867,159 +27894,6 @@
       "source": "ישראל היום",
       "sourceKey": "israelhayom",
       "pubDate": "2026-11-23T11:52:07.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/haredim-news/mesha-stele-moabite-king-inscription",
-      "title": "\"אנכי משע\" | האבן שהקים מלך מואב • פרק ג'",
-      "summary": "במואב נמצאה לפני כ-160 שנה מצבה שהקים מישע עצמו | עמרי, כלי ה' לפני כמוש ו\"בית דוד\" | מה חרט מלך מואב על האבן? | פרק ג' בסדרה (היסטוריה)",
-      "link": "https://www.kikar.co.il/haredim-news/mesha-stele-moabite-king-inscription",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T11:45:03.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/kozmir-rebbe-tish-divrei-yisrael-modzitz",
-      "title": "מורשת אבי השושלת | האדמו\"ר מקוזמיר ערך טיש לזכר ה'דברי ישראל' ממודז'יץ",
-      "summary": "בהיכל בית מדרשו ברחוב רש\"י בבני ברק ערך האדמו\"ר מקוזמיר אמש (ראשון) סעודת הילולא, לרגל הילולת זקנו האדמו\"ר בעל ה'דברי ישראל' ממודז'יץ זי\"ע | במהלך הטיש שרו החסידים מניגוני בעל ההילולא, והרבי הרחיב בדברי תורה ממשנתו של אבי השושלת שהותיר אחריו מורשה לדורות הבאים (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/kozmir-rebbe-tish-divrei-yisrael-modzitz",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T11:44:52.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/news-interviews/ramot-bet-shemesh-traffic-enforcement-protests",
-      "title": "עימותים בשכונה: \"מגנים על נער בלי רישיון - הגיוס הוא תירוץ לאנרכיה\"",
-      "summary": "סערה ברמת בית שמש ד' לאחר שקיצוניים מנעו את מעצרו של נער בן 16 שנתפס נוהג בפראות וללא רישיון • בראיון לאולפן 'כיכר השבת', תוקף הפעיל החברתי בני קמפינסקי את התנהלות המוחים: \"השוטרים באו להגן על הילדים שלנו מסכנת נפשות; חייבים להפריד בין מאבק על עולם התורה להגנה על עבריינות\" |צפו",
-      "link": "https://www.kikar.co.il/news-interviews/ramot-bet-shemesh-traffic-enforcement-protests",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T11:44:20.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21913376",
-      "title": "הישראלית שהותקפה בטורקיה מגיבה: \"יודעים רק לצרוח על נשים בקניון, אתבע אתכם\"",
-      "summary": "קלאודיה מדינה חלפון, שהותקפה בקניון באיסטנבול לפני כחודש, מגיבה: \"ערבים שהסתננו לטורקיה, אתבע את כולכם\" • במקביל, ארגון קיצוני קורא לרשויות בטורקיה לפעול נגדה",
-      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21913376",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:43:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/travel/israelisabroad/article/21913376",
-      "title": "אחרי שהותקפה בטורקיה, הישראלית מגיבה: \"ערבים שהסתננו, אתבע אתכם\"",
-      "summary": "קלאודיה מדינה חלפון, הישראלית שהותקפה בקניון באיסטנבול לפני כחודש, מגיבה: \"אתבע את כולכם\" • במקביל, ארגון קיצוני קורא לרשויות בטורקיה לפעול נגדה",
-      "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21913376",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:43:36.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/offside/article/21913451",
-      "title": "אייל ברקוביץ' משיב לטענות על גזענות: \"השחקן הראשון אצלי יהיה ערבי\"",
-      "summary": "על רקע הסערה שעוררו התבטאויותיו נגד חברי הכנסת הערבים והאפשרות שימונה למאמן נבחרת ישראל, כדורגלן העבר סיפק תשובה נחרצת למבקריו • ברקוביץ' חשף את זהותו של השחקן הראשון שהיה בוחר להרכב: \"הקשר מספר 6 הכי טוב בישראל\"",
-      "link": "https://www.israelhayom.co.il/sport/offside/article/21913451",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:43:05.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/israel/article-1391425",
-      "title": "עלייה במספר הנשים שנרצחו ב-2025: הנתונים הקשים של הלמ\"ס לקראת יום המאבק באלימות",
-      "summary": "יותר מ-315 אלף פניות ודיווחים על אלימות ב-2025, כמעט שלושה רבעים מהן של נשים. רק כשני שלישים מהנשים מרגישות בטוחות ללכת לבד בשכונה בחושך. הנתונים החדשים של הלמ\"ס חושפים פערים מטרידים",
-      "link": "https://www.maariv.co.il/news/israel/article-1391425",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T11:42:56.000Z"
-    },
-    {
-      "id": "ynet:https://www.ynet.co.il/news/article/bjwuffzkqe",
-      "title": "ברנע קרא למלחמה באיראן, וחשף: המוסד היה מעורב בסיכול הפיגוע בהופעת טיילור סוויפט",
-      "summary": "בנאום בפני חברי הפרלמנט האירופי בכנס של ארגון ELNET, חשף ראש המוסד לשעבר כי לארגון היה חלק מכריע במעצר תא ג'יהאד עולמי שתכנן לרצוח מאות בווינה. בדבריו על איראן טען ש\"פייסנות לא תספק הגנה\", וכי יש \"לפעול במהירות להפלת המשטר - ואם המשמעות היא יציאה למלחמה נוספת, זה מה שעלינו לעשות. מתי? כשמתאפשר\"",
-      "link": "https://www.ynet.co.il/news/article/bjwuffzkqe",
-      "source": "ynet",
-      "sourceKey": "ynet",
-      "pubDate": "2026-11-23T11:37:36.000Z"
-    },
-    {
-      "id": "walla:https://www.walla.co.il/news/politics/383962718",
-      "title": "גולדשמידט: \"לא קראתי למחנות הסגר\"; ג'בארין: \"הסתה שתעלה בדם\"",
-      "summary": "ח\"כ גולדשמידט טען שג'בארין מפיץ שקרים והבהיר כי התנגד לשיתוף המפלגות הערביות בממשלה בזמן מלחמה. יו\"ר הרשימה המשותפת דחה את ההסברים ותקף: \"הליכוד היא מכונת הסתה משומנת\"",
-      "link": "https://www.walla.co.il/news/politics/383962718",
-      "source": "וואלה",
-      "sourceKey": "walla",
-      "pubDate": "2026-11-23T11:37:13.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/political-news/knesset-new-committees-eisenkot-bloc-debates-upcoming-bills",
-      "title": "גוש איזנקוט הקים וועדות; שישה חוקים יעלו להצבעה השבוע | גולן יורה בנגמ\"ש",
-      "summary": "יו\"ר הדמוקרטים מגביר לחץ על ראש גוש השינוי • צוותי הליכוד וישר נפגשו יותר מ-4 שעות | בינתיים: הוקמו 4 ועדות פיקוח חדשות (פוליטי מדיני)",
-      "link": "https://www.kikar.co.il/political-news/knesset-new-committees-eisenkot-bloc-debates-upcoming-bills",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T11:37:00.000Z"
-    },
-    {
-      "id": "kikar:https://www.kikar.co.il/hasidism/movaslov-antonia-kozhnitz-wedding-admorim-grandchi",
-      "title": "מוואסלוי ואנטניא ועד קאז'ניץ; מאות חגגו בחתונת נכדי האדמו\"רים • גלריה",
-      "summary": "קהל רב נטל חלק בשמחת נישואי נכדת האדמו\"ר מוואסלוי, הכלה בת לבנו הרה\"צ רבי ראובן הלפרין, אב\"ד 'זכרון משה' ציריך שבשווייץ וחתן הרה\"צ רבי אברהם אביש וייס זצ\"ל מספינקא, עב\"ג החתן נכד האדמו\"ר מאנטניא, בן לבנו הרה\"צ רבי חיים הגר, חתן האדמו\"ר מקוז'ניץ תל אביב | בשמחה השתתפו אדמו\"רים, רבנים ומאות חסידים | יהודה פרקוביץ מגיש תיעוד (חסידים)",
-      "link": "https://www.kikar.co.il/hasidism/movaslov-antonia-kozhnitz-wedding-admorim-grandchi",
-      "source": "כיכר השבת",
-      "sourceKey": "kikar",
-      "pubDate": "2026-11-23T11:35:45.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/sport/israeli-soccer/article/21912713",
-      "title": "\"נחקרנו כאחרוני הפושעים, שילמתי מחיר מאוד כבד\"",
-      "summary": "גיא חדידה עמד במוקד פרשת העירויים בעירוני טבריה, והוא משתף על התקופה הקשה: \"לא הבנו מה עשינו, היה ממש לא נעים\" • על החזרה למכבי פתח תקוה: \"חזרתי לחיים, חזרתי לחייך, אחרי מה שחוויתי אני רק רוצה ליהנות מכדורגל\"",
-      "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21912713",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:35:10.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/world/article-1391427",
-      "title": "אימה בגרמניה, בעקבות ההתפתחות החדשה: \"המוות מחכה לך\"",
-      "summary": "מאות בתי ספר ברחבי גרמניה קיבלו איומים מפורשים, כך לפי פרסום של ה\"בילד\" הגרמני. האירועים בגרמניה מצטרפים לגל חריג של איומי פצצה נגד מוסדות חינוך ברחבי אירופה בשבועות האחרונים",
-      "link": "https://www.maariv.co.il/news/world/article-1391427",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T11:34:43.000Z"
-    },
-    {
-      "id": "maariv:https://www.maariv.co.il/news/health/article-1391426",
-      "title": "הבדיקות הרפואיות החיוניות מגיעות גם לצפון: \"בדיוק כמו תושבי מרכז הארץ\"",
-      "summary": "במסגרת תוכנית החומש לצפון: מכון PET-CT חדש, מכשיר MRI נוסף וארבעה חדרי ניתוח ממוגנים, לשיפור השירות לתושבים בשגרה ובחירום",
-      "link": "https://www.maariv.co.il/news/health/article-1391426",
-      "source": "מעריב",
-      "sourceKey": "maariv",
-      "pubDate": "2026-11-23T11:34:12.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/news/local/article/21913382",
-      "title": "מהשדות לבתי התושבים: המכה שמתפשטת בנגב המערבי",
-      "summary": "מכת מכרסמים שהתפשטה מהשטחים החקלאיים לתוך היישובים הובילה אף לסגירת מסגרות חינוכיות • בעקבות התרעות הרשויות, משרד הביטחון הקצה שני מיליון שקלים נוספים לטיפול בתופעה, לצד מיליון שקלים שכבר הוקצו",
-      "link": "https://www.israelhayom.co.il/news/local/article/21913382",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:33:19.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21912509",
-      "title": "אחרי שנים של חרם: המסעדה הישראלית נסגרת לצמיתות",
-      "summary": "\"לא לאכול אצל הישראלי\": מסעדת \"בלאגן\", שהגישה אוכל רחוב ישראלי בקרקוב, הודיעה על סגירתה • הבעלים גיא צור טוען כי קבוצת סטודנטים הפעילה לחץ חברתי על דיירי הבניין שלא לאכול במקום, וכי החרם פגע בהכנסות • כעת הוא מתכוון לפעול גם במישור המשפטי",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21912509",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:31:27.000Z"
-    },
-    {
-      "id": "israelhayom:https://www.israelhayom.co.il/food/food-news/article/21912509",
-      "title": "אחרי שנה של חרם: המסעדה הישראלית בקרקוב נסגרת לצמיתות",
-      "summary": "\"לא לאכול אצל הישראלי\": מסעדת \"בלאגן\", שהגישה אוכל רחוב ישראלי בקרקוב, הודיעה על סגירתה • הבעלים גיא צור טוען כי קבוצת סטודנטים הפעילה לחץ חברתי על דיירי הבניין שלא לאכול במקום, וכי החרם פגע בהכנסות • כעת הוא מתכוון לפעול גם במישור המשפטי",
-      "link": "https://www.israelhayom.co.il/food/food-news/article/21912509",
-      "source": "ישראל היום",
-      "sourceKey": "israelhayom",
-      "pubDate": "2026-11-23T11:31:27.000Z"
     }
   ]
 }
